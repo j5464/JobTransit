@@ -1,0 +1,61 @@
+{
+  "header": {
+    "jobName": "Python 後端工程師",
+    "custName": "範例科技股份有限公司",
+    "custNo": "example-company-001",
+    "appearDate": "2026/08/20"
+  },
+  "jobDetail": {
+    "jobDescription": "開發 REST API\n撰寫自動化測試",
+    "jobCategory": [
+      {
+        "code": "2007001014",
+        "description": "後端工程師"
+      },
+      {
+        "code": "2007001016",
+        "description": "軟體工程師"
+      }
+    ],
+    "salary": "月薪 50,000~70,000 元",
+    "jobType": "全職",
+    "addressRegion": "台北市信義區",
+    "addressDetail": "市府路 1 號"
+  },
+  "condition": {
+    "workExp": "2年以上",
+    "edu": "大學以上",
+    "major": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "language": [
+      {
+        "language": "英文",
+        "ability": "聽 /中等、說 /中等、讀 /中等、寫 /中等"
+      }
+    ],
+    "specialty": [
+      {
+        "code": "tool-python",
+        "description": "Python"
+      },
+      {
+        "code": "tool-git",
+        "description": "Git"
+      }
+    ],
+    "skill": [
+      {
+        "code": "skill-design",
+        "description": "軟體程式設計"
+      }
+    ],
+    "other": "重視團隊合作"
+  },
+  "contact": {
+    "hrName": "不應輸出的聯絡人",
+    "email": "private@example.invalid",
+    "phone": "+886 912 345 678"
+  }
+}

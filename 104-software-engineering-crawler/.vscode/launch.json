@@ -1,0 +1,80 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "104 爬蟲 smoke test（顯示 Chrome，2 筆）",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/run_crawler.py",
+      "args": ["--max-jobs", "2", "--min-delay", "3", "--max-delay", "4"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "104 爬蟲（headless，30 筆）",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/run_crawler.py",
+      "args": ["--headless"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "104 爬蟲（headless，10000 筆，無 CSV）",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/run_crawler.py",
+      "args": [
+        "--headless",
+        "--max-jobs",
+        "10000",
+        "--max-search-pages",
+        "1000",
+        "--no-csv"
+      ],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "104 爬蟲（續跑 10000 筆，無 CSV）",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/run_crawler.py",
+      "args": [
+        "--headless",
+        "--max-jobs",
+        "10000",
+        "--max-search-pages",
+        "1000",
+        "--no-csv",
+        "--resume-run",
+        "${input:resumeRunId}"
+      ],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "檢查最新爬取結果",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/inspect_results.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "將最新 JSONL 同步到 MySQL",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/sync_mysql.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ],
+  "inputs": [
+    {
+      "id": "resumeRunId",
+      "type": "promptString",
+      "description": "輸入要續跑的 run ID，例如 20260821T134531+0800"
+    }
+  ]
+}

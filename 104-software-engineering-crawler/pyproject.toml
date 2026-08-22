@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "job-crawler-104"
+version = "0.1.0"
+description = "104 軟體／工程類人員公開職缺資料擷取與結構化範例"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "pandas>=2.3.3",
+    "pymysql[rsa]>=1.2.0,<2",
+    "requests>=2.32.5",
+    "selenium>=4.39.0",
+    "urllib3>=2.6.2,<3",
+]
+
+[project.scripts]
+crawl-104 = "job_crawler_104.cli:main"
+sync-104-mysql = "job_crawler_104.mysql_cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

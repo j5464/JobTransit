@@ -5,70 +5,76 @@ import json
 from export_to_json import save_jobs_to_json
 
 def get_job_id(file_name):
-    # 讀取 json 檔案
-    with open(file_name, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    try:
+        with open(file_name, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, list):
+            return [item for item in data if isinstance(item, str)]
+        return []
+    except FileNotFoundError:
+        print(f"錯誤：找不到檔案 {file_name}")
+        return []
 
-    # 確保資料格式為 list，且只取出字串類型的 job_id
-    if isinstance(data, list):
-        job_ids = [item for item in data if isinstance(item, str)]
-    else:
-        job_ids = []
-
-    return job_ids
-
-def get_job_detail(job_id):
-    """
-    輸入職缺代碼 (例如 '54z7k')，發送請求取得該職缺的 Preview 內頁完整 JSON 資料。
-    """
+def get_job_detail(session, job_id):
     detail_url = f"https://www.104.com.tw/api/jobs/{job_id}"
-    
     headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Referer": f"https://www.104.com.tw/job/{job_id}",
-    "Origin": "https://www.104.com.tw",
-    "Accept": "application/json, text/plain, */*",
-    "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
-}
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": f"https://www.104.com.tw/job/{job_id}",
+        "Origin": "https://www.104.com.tw",
+        "Accept": "application/json, text/plain, */*",
+    }
     
     try:
-        session = requests.Session()
-        session.get("https://www.104.com.tw/jobs/main/", headers=headers)
         response = session.get(detail_url, headers=headers, timeout=10)
         if response.status_code == 200:
             json_data = response.json()
-            # 104 單一職缺 API 回傳格式通常為 {"data": {...}, ...}
             return json_data.get("data", {})
         else:
-            print(f"-> 職缺 {job_id} 內頁請求失敗，HTTP 狀態碼: {response.status_code}")
+            print(f" -> 職缺 {job_id} 請求失敗，HTTP: {response.status_code}")
             return None
     except Exception as e:
-        print(f"-> 請求職缺 {job_id} 內頁時發生例外: {e}")
+        print(f" -> 請求職缺 {job_id} 時發生例外: {e}")
+
         return None
-    
+
+# --- 主程式執行 ---
 jobs_id = get_job_id("job_id_list.json")
-collected_details = []  # 建立一個清單用來收集所有內頁資料
+print(f"成功讀取 {len(jobs_id)} 筆 Job ID，準備開始撈取內頁...")
+
+collected_details = []
+error_job_list=[]
+
+# 全域共用一個 Session，提升連線速度
+session = requests.Session()
+# 初始化先訪問一次主頁取得 Cookie 即可
+session.get("https://www.104.com.tw/jobs/main/", headers={"User-Agent": "Mozilla/5.0"})
 
 for i, job_id in enumerate(jobs_id, 1):
-    time.sleep(random.uniform(1, 3))
-    detail_data = get_job_detail(job_id)
+    time.sleep(random.uniform(0.5, 1.5))  # 適度縮短等待時間
+    
+    detail_data = get_job_detail(session, job_id)
 
     if detail_data:
         collected_details.append(detail_data)
+        print(f"[{i}/{len(jobs_id)}] 成功撈取職缺: {job_id}")
+    else:
+        print(f"[{i}/{len(jobs_id)}] 跳過職缺: {job_id}")
+        error_job_list.append(job_id)
 
-    # 每 500 筆存檔一次，並清空記憶體
+
+    # 每 500 筆分批存檔，並清空暫存清單
     if i % 500 == 0:
         save_jobs_to_json(
             collected_details, 
-            output_json_path=f"details_part_{i}.json" # 或寫入 SQLite
+            output_json_path=f"details_part_{i}.json"
         )
-        print(f"--- 已成功存檔第 {i} 筆資料 ---")
+        print(f"=== 已成功備份第 {i} 筆前的 500 筆資料 ===")
+        collected_details.clear() # 清空列表，避免重複寫入與佔用記憶體
 
-# 處理剩餘未滿 500 筆的資料
+# 處理剩餘未滿 500 筆的尾數資料
 if collected_details:
     save_jobs_to_json(collected_details, output_json_path="details_final.json")
-
-
-            
-    
-        
+    print(f"=== 全部撈取完成，最後 {len(collected_details)} 筆已匯出 ===")
+if error_job_list:
+    save_jobs_to_json(error_job_list, output_json_path="error_job_list.json")
+    print(f"最後有 {len(error_job_list)} 筆 未撈取成功 已匯出 error_job_list.json ===")

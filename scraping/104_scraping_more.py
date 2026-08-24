@@ -1,7 +1,7 @@
 import time
 import random
 import requests
-from export_to_csv import save_jobs_to_csv
+from export_to_json import save_jobs_to_json
 
 base_url = "https://www.104.com.tw/jobs/search/api/jobs"
 # Referer https://www.104.com.tw/jobs/search/?jobcat=2007002000&jobsource=index_s&mode=s&page=1
@@ -54,6 +54,6 @@ for page in range(1, total_pages_to_scrape + 1):
 
 # 匯出至 CSV (使用你原本寫好的 export_to_csv 模組)
 if all_jobs:
-    save_jobs_to_csv(all_jobs, output_csv_path="104_jobs_raw.csv")
+    save_jobs_to_json(all_jobs, output_json_path="104_jobs_collected.json")
 else:
     print("\n未撈取到任何資料。")

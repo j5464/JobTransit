@@ -1,7 +1,7 @@
 import os
 import json
 
-def save_jobs_to_json(jobs_list, output_json_path="104_jobs_collected.json"):
+def save_jobs_to_json(jobs_list, output_json_path:str):
     """
     將爬取到的職缺資料清單儲存/追加至 JSON 檔案中。
     

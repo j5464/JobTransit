@@ -2,6 +2,7 @@ import time
 import random
 import requests
 from export_to_json import save_jobs_to_json
+from urllib.parse import urlparse
 
 base_url = "https://www.104.com.tw/jobs/search/api/jobs"
 # Referer https://www.104.com.tw/jobs/search/?jobcat=2007002000&jobsource=index_s&mode=s&page=1
@@ -16,7 +17,7 @@ params = {
     "page": 1
 }
 
-total_pages_to_scrape = 3
+total_pages_to_scrape = 1
 all_jobs = []
 
 print("=== 開始爬取 104 職缺原始資料 ===")
@@ -41,8 +42,27 @@ for page in range(1, total_pages_to_scrape + 1):
                 print("已無更多職缺資料，結束撈取。")
                 break
                 
-            # 直接將整頁的原始 JSON 物件清單全數併入
-            all_jobs.extend(jobs)
+            for job in jobs:
+                # 1. 安全取得 job link
+                link_info = job.get("link") or {}
+                raw_url = link_info.get("job", "")
+                
+                job_id = ""
+                if raw_url:
+                    # 2. 解析網址路徑，去除 query 參數與前後空白
+                    path = urlparse(raw_url).path.strip()
+                    
+                    # 3. 移除結尾的斜線 (例如 /job/8w99k/ -> /job/8w99k)
+                    path = path.rstrip("/")
+                    
+                    # 4. 取得路徑最後一部分
+                    if path:
+                        job_id = path.split("/")[-1]
+                        
+                # 5. 寫入字典
+                job["job_id"] = job_id
+                all_jobs.append(job)
+
             print(f"-> 第 {page} 頁撈取成功，取得 {len(jobs)} 筆資料。")
         else:
             print(f"-> 第 {page} 頁請求失敗，HTTP 狀態碼: {response.status_code}")
@@ -52,7 +72,7 @@ for page in range(1, total_pages_to_scrape + 1):
         print(f"-> 發生例外錯誤: {e}")
         break
 
-# 匯出至 CSV (使用你原本寫好的 export_to_csv 模組)
+# 匯出至 json (使用你原本寫好的 export_to_json 模組)
 if all_jobs:
     save_jobs_to_json(all_jobs, output_json_path="104_jobs_collected.json")
 else:

@@ -4,21 +4,14 @@ import requests
 import json
 from export_to_json import save_jobs_to_json
 
-def get_job_id():
-    # 讀取 json 檔案: 104_jobs_collected.json
-    with open("104_jobs_collected.json", "r", encoding="utf-8") as f:
+def get_job_id(file_name):
+    # 讀取 json 檔案
+    with open(file_name, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # 假設 JSON 資料結構為職缺清單 (List of dicts) 或包含 jobs 欄位
-    # 擷取每一個職缺的 job_id
+    # 確保資料格式為 list，且只取出字串類型的 job_id
     if isinstance(data, list):
-        job_ids = [item.get("job_id") for item in data if "job_id" in item]
-    elif isinstance(data, dict):
-        # 若資料層級放在 jobs 或 data 鍵值下，可進行微調
-        job_list = data.get("jobs", data.get("data", []))
-        job_ids = [
-            item.get("job_id") for item in job_list if "job_id" in item
-        ]
+        job_ids = [item for item in data if isinstance(item, str)]
     else:
         job_ids = []
 
@@ -53,22 +46,28 @@ def get_job_detail(job_id):
         print(f"-> 請求職缺 {job_id} 內頁時發生例外: {e}")
         return None
     
-jobs_id = get_job_id()
+jobs_id = get_job_id("job_id_list.json")
 collected_details = []  # 建立一個清單用來收集所有內頁資料
 
-for job_id in jobs_id:
+for i, job_id in enumerate(jobs_id, 1):
     time.sleep(random.uniform(1, 3))
     detail_data = get_job_detail(job_id)
 
     if detail_data:
-        collected_details.append(detail_data)  # 將資料存入列表
+        collected_details.append(detail_data)
 
-print(f"{len(collected_details)}")
+    # 每 500 筆存檔一次，並清空記憶體
+    if i % 500 == 0:
+        save_jobs_to_json(
+            collected_details, 
+            output_json_path=f"details_part_{i}.json" # 或寫入 SQLite
+        )
+        print(f"--- 已成功存檔第 {i} 筆資料 ---")
 
-# 迴圈結束後，一次性調用 save_jobs_to_json 寫入 JSON 檔
-save_jobs_to_json(
-    collected_details, output_json_path="104_details.json"
-    )
+# 處理剩餘未滿 500 筆的資料
+if collected_details:
+    save_jobs_to_json(collected_details, output_json_path="details_final.json")
+
 
             
     

@@ -1,0 +1,218 @@
+{
+  "company": {
+    "id": "1a2x6bjjok",
+    "name": "Finger Game_芬格國際股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "可靠度工程師",
+      "網路管理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "雲端與基礎架構維護： 負責 AWS 與 GCP 雙雲端平台架構的日常維運、資源管理與成本控管。"
+        },
+        {
+          "children": [],
+          "text": "容器化與微服務部署： 管理 Kubernetes (K8s) 叢集與 Docker 容器化服務，確保平台服務的高可用性與彈性擴展。"
+        },
+        {
+          "children": [],
+          "text": "資料庫與緩存管理： 協助維護關聯式資料庫（Oracle DB、MySQL）及 Redis 緩存系統的穩定運行與效能優化。"
+        },
+        {
+          "children": [],
+          "text": "網路與流量調優： 配置與管理 Nginx 伺服器，優化 S3 與 CDN 靜態資源派發（如前端靜態資源、版控快取機制），確保連線品質與載入速度。"
+        },
+        {
+          "children": [],
+          "text": "監控與故障排除： 建立與完善系統監控、告警機制，快速定位並解決線上突發狀況。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Linux 系統操作與基礎 Shell Script 撰寫能力。"
+        },
+        {
+          "children": [],
+          "text": "具備 AWS 或 GCP 任一公有雲平台的實務維運經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備 Docker 與 Kubernetes (K8s) 實際操作與維護經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉基礎網路架構（如 HTTP/S、TCP/WebSocket、DNS、CDN、Firewall）。"
+        },
+        {
+          "children": [],
+          "text": "具備基礎的關聯式資料庫（MySQL）與 Redis 操作經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的問題追蹤與獨立排障能力，能與開發團隊順暢溝通。"
+        },
+        {
+          "children": [],
+          "text": "具備高併發遊戲伺服器或電商平台維運經驗者佳。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 CI/CD 自動化部署流程（如 GitLab CI/CD, Jenkins, GitHub Actions）。"
+        },
+        {
+          "children": [],
+          "text": "具備靜態資源 CDN 緩存策略優化經驗（例如 MD5 Cache bursting）。"
+        },
+        {
+          "children": [],
+          "text": "有 Infrastructure as Code (IaC) 工具使用經驗（如 Terraform, Ansible）。"
+        },
+        {
+          "children": [],
+          "text": "同時具備 AWS 與 GCP 雙雲端操作經驗者。"
+        }
+      ],
+      "text": "【工作內容】\n1.雲端與基礎架構維護： 負責 AWS 與 GCP 雙雲端平台架構的日常維運、資源管理與成本控管。\n2.容器化與微服務部署： 管理 Kubernetes (K8s) 叢集與 Docker 容器化服務，確保平台服務的高可用性與彈性擴展。\n3.資料庫與緩存管理： 協助維護關聯式資料庫（Oracle DB、MySQL）及 Redis 緩存系統的穩定運行與效能優化。\n4.網路與流量調優： 配置與管理 Nginx 伺服器，優化 S3 與 CDN 靜態資源派發（如前端靜態資源、版控快取機制），確保連線品質與載入速度。\n5.監控與故障排除： 建立與完善系統監控、告警機制，快速定位並解決線上突發狀況。\n【期待你具備的能力與特質】\n1.熟悉 Linux 系統操作與基礎 Shell Script 撰寫能力。\n2.具備 AWS 或 GCP 任一公有雲平台的實務維運經驗。\n3.具備 Docker 與 Kubernetes (K8s) 實際操作與維護經驗。\n4.熟悉基礎網路架構（如 HTTP/S、TCP/WebSocket、DNS、CDN、Firewall）。\n5.具備基礎的關聯式資料庫（MySQL）與 Redis 操作經驗。\n6.具備良好的問題追蹤與獨立排障能力，能與開發團隊順暢溝通。\n【加分條件】\n1.具備高併發遊戲伺服器或電商平台維運經驗者佳。\n2.熟悉 CI/CD 自動化部署流程（如 GitLab CI/CD, Jenkins, GitHub Actions）。\n3.具備靜態資源 CDN 緩存策略優化經驗（例如 MD5 Cache bursting）。\n4.有 Infrastructure as Code (IaC) 工具使用經驗（如 Terraform, Ansible）。\n5.同時具備 AWS 與 GCP 雙雲端操作經驗者。\n【注意事項】\n· 如果團隊覺得有機會合作，一起往更高的目標邁進，我們會儘速聯絡你！\n· 若不符合的面試者，將不另行通知。"
+    },
+    "employment_type_raw": "全職",
+    "title": "運維工程師"
+  },
+  "location": {
+    "address_raw": "台北市大安區敦化南路二段105號B棟26樓",
+    "raw": "台北市大安區敦化南路二段105號B棟26樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 70
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:14:19+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1.雲端與基礎架構維護： 負責 AWS 與 GCP 雙雲端平台架構的日常維運、資源管理與成本控管。\n2.容器化與微服務部署： 管理 Kubernetes (K8s) 叢集與 Docker 容器化服務，確保平台服務的高可用性與彈性擴展。\n3.資料庫與緩存管理： 協助維護關聯式資料庫（Oracle DB、MySQL）及 Redis 緩存系統的穩定運行與效能優化。\n4.網路與流量調優： 配置與管理 Nginx 伺服器，優化 S3 與 CDN 靜態資源派發（如前端靜態資源、版控快取機制），確保連線品質與載入速度。\n5.監控與故障排除： 建立與完善系統監控、告警機制，快速定位並解決線上突發狀況。\n【期待你具備的能力與特質】\n1.熟悉 Linux 系統操作與基礎 Shell Script 撰寫能力。\n2.具備 AWS 或 GCP 任一公有雲平台的實務維運經驗。\n3.具備 Docker 與 Kubernetes (K8s) 實際操作與維護經驗。\n4.熟悉基礎網路架構（如 HTTP/S、TCP/WebSocket、DNS、CDN、Firewall）。\n5.具備基礎的關聯式資料庫（MySQL）與 Redis 操作經驗。\n6.具備良好的問題追蹤與獨立排障能力，能與開發團隊順暢溝通。\n【加分條件】\n1.具備高併發遊戲伺服器或電商平台維運經驗者佳。\n2.熟悉 CI/CD 自動化部署流程（如 GitLab CI/CD, Jenkins, GitHub Actions）。\n3.具備靜態資源 CDN 緩存策略優化經驗（例如 MD5 Cache bursting）。\n4.有 Infrastructure as Code (IaC) 工具使用經驗（如 Terraform, Ansible）。\n5.同時具備 AWS 與 GCP 雙雲端操作經驗者。\n【注意事項】\n· 如果團隊覺得有機會合作，一起往更高的目標邁進，我們會儘速聯絡你！\n· 若不符合的面試者，將不另行通知。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "可靠度工程師",
+            "網路管理工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、可靠度工程師、網路管理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區敦化南路二段105號B棟26樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1.雲端與基礎架構維護： 負責 AWS 與 GCP 雙雲端平台架構的日常維運、資源管理與成本控管。\n2.容器化與微服務部署： 管理 Kubernetes (K8s) 叢集與 Docker 容器化服務，確保平台服務的高可用性與彈性擴展。\n3.資料庫與緩存管理： 協助維護關聯式資料庫（Oracle DB、MySQL）及 Redis 緩存系統的穩定運行與效能優化。\n4.網路與流量調優： 配置與管理 Nginx 伺服器，優化 S3 與 CDN 靜態資源派發（如前端靜態資源、版控快取機制），確保連線品質與載入速度。\n5.監控與故障排除： 建立與完善系統監控、告警機制，快速定位並解決線上突發狀況。\n【期待你具備的能力與特質】\n1.熟悉 Linux 系統操作與基礎 Shell Script 撰寫能力。\n2.具備 AWS 或 GCP 任一公有雲平台的實務維運經驗。\n3.具備 Docker 與 Kubernetes (K8s) 實際操作與維護經驗。\n4.熟悉基礎網路架構（如 HTTP/S、TCP/WebSocket、DNS、CDN、Firewall）。\n5.具備基礎的關聯式資料庫（MySQL）與 Redis 操作經驗。\n6.具備良好的問題追蹤與獨立排障能力，能與開發團隊順暢溝通。\n【加分條件】\n1.具備高併發遊戲伺服器或電商平台維運經驗者佳。\n2.熟悉 CI/CD 自動化部署流程（如 GitLab CI/CD, Jenkins, GitHub Actions）。\n3.具備靜態資源 CDN 緩存策略優化經驗（例如 MD5 Cache bursting）。\n4.有 Infrastructure as Code (IaC) 工具使用經驗（如 Terraform, Ansible）。\n5.同時具備 AWS 與 GCP 雙雲端操作經驗者。\n【注意事項】\n· 如果團隊覺得有機會合作，一起往更高的目標邁進，我們會儘速聯絡你！\n· 若不符合的面試者，將不另行通知。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7bier",
+    "job_url": "https://www.104.com.tw/job/7bier",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7bier.json",
+    "raw_sha256": "0a842f33529b13fc6bb402e77c5e122777aa93ba4c0840eb64187b51782b08cd",
+    "requested_url": "https://www.104.com.tw/api/jobs/7bier"
+  }
+}

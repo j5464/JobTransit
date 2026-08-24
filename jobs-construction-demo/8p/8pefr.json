@@ -1,0 +1,211 @@
+{
+  "company": {
+    "id": "d3b5ep4",
+    "name": "蜜蜂故事館股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "總務",
+      "資訊助理",
+      "物管／資材"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "主要工作內容包含："
+        },
+        {
+          "children": [],
+          "text": "辦公室日常行政事務處理（簡易電腦故障排除、環境管理等）"
+        },
+        {
+          "children": [],
+          "text": "公司設備資產維護與管理"
+        },
+        {
+          "children": [],
+          "text": "配合主管交辦事項"
+        }
+      ],
+      "text": "我們正在尋找一位細心、負責、具備良好溝通協調能力的總務夥伴，協助公司日常行政與後勤事務的順利運作，讓團隊可以更專注於核心工作。\n*主要工作內容包含：\n1.辦公室日常行政事務處理（簡易電腦故障排除、環境管理等）\n2.公司設備資產維護與管理\n3.配合主管交辦事項\n【我們希望你具備】\n細心、有責任感，能獨立作業並主動發現問題\n基本文書處理能力（熟悉 Word、Excel 或 Google 表單）\n樂於協助與服務，具備良好的溝通協調能力\n對行政或總務相關工作有興趣，有經驗者尤佳\n【加分條件】\n會開車者優先\n#懂簡易水電維修者佳\n#能把雜事當成任務者"
+    },
+    "employment_type_raw": "全職",
+    "title": "總務"
+  },
+  "location": {
+    "address_raw": "雲林縣古坑鄉湳仔88號",
+    "raw": "雲林縣古坑鄉湳仔88號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中、專科、大學",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中、專科、大學"
+      },
+      {
+        "items": [
+          "Word",
+          "Excel",
+          "PowerPoint",
+          "Windows 10",
+          "Internet Explorer",
+          "中文打字20~50"
+        ],
+        "label": "擅長工具",
+        "text": "Word、Excel、PowerPoint、Windows 10、Internet Explorer、中文打字20~50"
+      },
+      {
+        "items": [
+          "倉庫貨物標示╱置放╱盤點",
+          "庫存管理規劃作業",
+          "網路設備設定安裝",
+          "負責空調和機電設備系統異常處理",
+          "改善設備問題及功能提昇"
+        ],
+        "label": "工作技能",
+        "text": "倉庫貨物標示╱置放╱盤點、庫存管理規劃作業、網路設備設定安裝、負責空調和機電設備系統異常處理、改善設備問題及功能提昇"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "倉庫貨物標示╱置放╱盤點",
+      "庫存管理規劃作業",
+      "網路設備設定安裝",
+      "負責空調和機電設備系統異常處理",
+      "改善設備問題及功能提昇"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：高中、專科、大學\n擅長工具：Word、Excel、PowerPoint、Windows 10、Internet Explorer、中文打字20~50\n工作技能：倉庫貨物標示╱置放╱盤點、庫存管理規劃作業、網路設備設定安裝、負責空調和機電設備系統異常處理、改善設備問題及功能提昇",
+    "tools": [
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "Windows 10",
+      "Internet Explorer",
+      "中文打字20~50"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 58
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:43:49+08:00"
+  },
+  "salary": {
+    "raw": "月薪29,500~30,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們正在尋找一位細心、負責、具備良好溝通協調能力的總務夥伴，協助公司日常行政與後勤事務的順利運作，讓團隊可以更專注於核心工作。\n*主要工作內容包含：\n1.辦公室日常行政事務處理（簡易電腦故障排除、環境管理等）\n2.公司設備資產維護與管理\n3.配合主管交辦事項\n【我們希望你具備】\n細心、有責任感，能獨立作業並主動發現問題\n基本文書處理能力（熟悉 Word、Excel 或 Google 表單）\n樂於協助與服務，具備良好的溝通協調能力\n對行政或總務相關工作有興趣，有經驗者尤佳\n【加分條件】\n會開車者優先\n#懂簡易水電維修者佳\n#能把雜事當成任務者",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "總務",
+            "資訊助理",
+            "物管／資材"
+          ],
+          "label": "職務類別",
+          "text": "總務、資訊助理、物管／資材",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪29,500~30,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "雲林縣古坑鄉湳仔88號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們正在尋找一位細心、負責、具備良好溝通協調能力的總務夥伴，協助公司日常行政與後勤事務的順利運作，讓團隊可以更專注於核心工作。\n*主要工作內容包含：\n1.辦公室日常行政事務處理（簡易電腦故障排除、環境管理等）\n2.公司設備資產維護與管理\n3.配合主管交辦事項\n【我們希望你具備】\n細心、有責任感，能獨立作業並主動發現問題\n基本文書處理能力（熟悉 Word、Excel 或 Google 表單）\n樂於協助與服務，具備良好的溝通協調能力\n對行政或總務相關工作有興趣，有經驗者尤佳\n【加分條件】\n會開車者優先\n#懂簡易水電維修者佳\n#能把雜事當成任務者"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中、專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Word",
+            "Excel",
+            "PowerPoint",
+            "Windows 10",
+            "Internet Explorer",
+            "中文打字20~50"
+          ],
+          "label": "擅長工具",
+          "text": "Word、Excel、PowerPoint、Windows 10、Internet Explorer、中文打字20~50",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "倉庫貨物標示╱置放╱盤點",
+            "庫存管理規劃作業",
+            "網路設備設定安裝",
+            "負責空調和機電設備系統異常處理",
+            "改善設備問題及功能提昇"
+          ],
+          "label": "工作技能",
+          "text": "倉庫貨物標示╱置放╱盤點、庫存管理規劃作業、網路設備設定安裝、負責空調和機電設備系統異常處理、改善設備問題及功能提昇",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：高中、專科、大學\n擅長工具：Word、Excel、PowerPoint、Windows 10、Internet Explorer、中文打字20~50\n工作技能：倉庫貨物標示╱置放╱盤點、庫存管理規劃作業、網路設備設定安裝、負責空調和機電設備系統異常處理、改善設備問題及功能提昇"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8pefr",
+    "job_url": "https://www.104.com.tw/job/8pefr",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8pefr.json",
+    "raw_sha256": "283b26203348582a4e6f9a8e898b552ba874e8b7b5da9bc49b409c5c68ecc003",
+    "requested_url": "https://www.104.com.tw/api/jobs/8pefr"
+  }
+}

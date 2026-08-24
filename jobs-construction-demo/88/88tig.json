@@ -1,0 +1,303 @@
+{
+  "company": {
+    "id": "1a2x6bmngn",
+    "name": "敦謙快線股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "iOS工程師",
+      "Android工程師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "aeroride App 下一代產品體驗"
+        },
+        {
+          "children": [],
+          "text": "即時行程追蹤、航班資訊同步與智慧通知"
+        },
+        {
+          "children": [],
+          "text": "每天服務真實旅客的行動產品"
+        },
+        {
+          "children": [],
+          "text": "穩定、流暢且值得信賴的 App 使用體驗"
+        },
+        {
+          "children": [],
+          "text": "連結旅人與世界的智慧出行平台"
+        },
+        {
+          "children": [],
+          "text": "開發與維護 iOS 或 Android 行動應用程式"
+        },
+        {
+          "children": [],
+          "text": "串接 Backend API，實現各項產品功能"
+        },
+        {
+          "children": [],
+          "text": "維護既有專案，分析 Crash Logs 並定位問題，持續改善產品穩定性"
+        },
+        {
+          "children": [],
+          "text": "與 Backend Engineer 共同討論 API、資料流及系統整合"
+        },
+        {
+          "children": [],
+          "text": "與 Product Manager、UI/UX Designer 協作，共同完成產品需求"
+        },
+        {
+          "children": [],
+          "text": "規劃測試流程與 Test Cases，提升產品品質與使用體驗"
+        },
+        {
+          "children": [],
+          "text": "持續優化程式效能、維護程式品質，並完成各項產品開發任務"
+        },
+        {
+          "children": [],
+          "text": "具備 iOS 或 Android 行動應用程式開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Swift、SwiftUI、Kotlin、Jetpack Compose，或其他主流行動開發技術"
+        },
+        {
+          "children": [],
+          "text": "熟悉 API 串接，並理解 JSON、HTTP、RESTful API 等相關概念"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版本控制流程"
+        },
+        {
+          "children": [],
+          "text": "能閱讀並維護既有程式碼，具備良好的除錯能力"
+        },
+        {
+          "children": [],
+          "text": "了解 App 開發生命週期，包含開發、測試、上架與後續維護"
+        },
+        {
+          "children": [],
+          "text": "重視程式品質、使用者體驗及產品穩定性"
+        },
+        {
+          "children": [],
+          "text": "良好的團隊合作與溝通能力"
+        },
+        {
+          "children": [],
+          "text": "同時具備 iOS 與 Android 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 App Store 與 Google Play 上架流程"
+        },
+        {
+          "children": [],
+          "text": "具備 App 效能優化、記憶體管理或 Crash 分析經驗"
+        },
+        {
+          "children": [],
+          "text": "曾參與大型產品或高流量 App 開發"
+        },
+        {
+          "children": [],
+          "text": "熟悉 CI/CD、自動化測試或行動應用最佳實務"
+        },
+        {
+          "children": [],
+          "text": "曾參與 Travel Tech、Mobility、FinTech 或 SaaS 產品開發"
+        },
+        {
+          "children": [],
+          "text": "對新技術保持好奇，樂於持續學習與分享"
+        }
+      ],
+      "text": "Every journey begins with a tap.\n每一段旅程，都從一次點擊開始。\n從預約用車、追蹤航班，到分享旅程，每一個畫面、每一次互動，都默默陪伴旅人完成重要的時刻。\n在 aeroride，我們相信，優秀的行動產品，不只是功能完整，而是在每一次操作中，讓科技變得自然、可靠，也更有溫度。\n如果你相信，一個 App 能改變人們移動的方式，我們期待與你一起打造下一代智慧出行體驗。\n⸻\nAbout This Role\n這不是一個只負責開發功能的 Mobile App Engineer 職位。\n在 aeroride，你將參與產品從需求討論、技術規劃、開發實作到持續優化的完整流程，打造每天都被真實旅客使用的行動產品。\n你所開發的不只是 App，而是旅人從預約接送、即時追蹤行程、航班資訊同步，到安心抵達目的地的完整體驗。\n你將與 Product Manager、UI/UX Designer、Backend Engineer 及其他跨部門團隊密切合作，共同思考產品如何變得更好，而不只是完成指定功能。\n如果你期待的是一次性交付、不需持續維護的專案型工作，這個職位可能不適合你。\n但如果你希望打造真正被使用者每天依賴的產品，並持續透過技術改善人們的移動體驗，我們很期待認識你。\n⸻\nWhat You’ll Build\n• aeroride App 下一代產品體驗\n• 即時行程追蹤、航班資訊同步與智慧通知\n• 每天服務真實旅客的行動產品\n• 穩定、流暢且值得信賴的 App 使用體驗\n• 連結旅人與世界的智慧出行平台\n⸻\nYour Role\n你將參與行動產品的開發與持續優化，包括：\n• 開發與維護 iOS 或 Android 行動應用程式\n• 串接 Backend API，實現各項產品功能\n• 維護既有專案，分析 Crash Logs 並定位問題，持續改善產品穩定性\n• 與 Backend Engineer 共同討論 API、資料流及系統整合\n• 與 Product Manager、UI/UX Designer 協作，共同完成產品需求\n• 規劃測試流程與 Test Cases，提升產品品質與使用體驗\n• 持續優化程式效能、維護程式品質，並完成各項產品開發任務\n⸻\nRequirements\n• 具備 iOS 或 Android 行動應用程式開發經驗\n• 熟悉 Swift、SwiftUI、Kotlin、Jetpack Compose，或其他主流行動開發技術\n• 熟悉 API 串接，並理解 JSON、HTTP、RESTful API 等相關概念\n• 熟悉 Git 版本控制流程\n• 能閱讀並維護既有程式碼，具備良好的除錯能力\n• 了解 App 開發生命週期，包含開發、測試、上架與後續維護\n• 重視程式品質、使用者體驗及產品穩定性\n• 良好的團隊合作與溝通能力\n⸻\nBonus Points\n• 同時具備 iOS 與 Android 開發經驗\n• 熟悉 App Store 與 Google Play 上架流程\n• 具備 App 效能優化、記憶體管理或 Crash 分析經驗\n• 曾參與大型產品或高流量 App 開發\n• 熟悉 CI/CD、自動化測試或行動應用最佳實務\n• 曾參與 Travel Tech、Mobility、FinTech 或 SaaS 產品開發\n• 對新技術保持好奇，樂於持續學習與分享\n⸻\nWhy aeroride\n我們打造的不只是一款 App，而是一個串連交通、旅遊、支付與即時資訊的智慧出行平台。\n在這裡，你所開發的每一個功能，都會真實影響旅人的每一次出發。\n從預約、接送、航班追蹤，到旅程分享，每一次點擊的背後，都代表著使用者對產品的信任。\n我們相信，優秀的行動產品，不只是介面流暢，更能讓每一次移動都更加安心、便利且值得期待。\n⸻\nGreat apps don’t just connect people.\nThey connect journeys.\n每一次更新，\n都可能讓一段旅程更加順暢。\n每一行程式碼，\n都可能陪伴數萬名旅客完成重要的出發。\n如果你相信，科技能改變人們移動的方式，\n歡迎加入 aeroride，\n一起重新定義每一次出發。"
+    },
+    "employment_type_raw": "全職",
+    "title": "iOS/Android 程式設計師 ● iOS/Android Developer"
+  },
+  "location": {
+    "address_raw": "台北市信義區光復南路495號4樓",
+    "raw": "台北市信義區光復南路495號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Android",
+          "iOS",
+          "Java",
+          "SWIFT",
+          "Kotlin",
+          "Flutter"
+        ],
+        "label": "擅長工具",
+        "text": "Android、iOS、Java、SWIFT、Kotlin、Flutter"
+      },
+      {
+        "items": [
+          "網頁語法撰寫",
+          "網頁軟體操作",
+          "使用者介面設計",
+          "使用者體驗設計",
+          "視覺設計相關知識"
+        ],
+        "label": "工作技能",
+        "text": "網頁語法撰寫、網頁軟體操作、使用者介面設計、使用者體驗設計、視覺設計相關知識"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "網頁語法撰寫",
+      "網頁軟體操作",
+      "使用者介面設計",
+      "使用者體驗設計",
+      "視覺設計相關知識"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：Android、iOS、Java、SWIFT、Kotlin、Flutter\n工作技能：網頁語法撰寫、網頁軟體操作、使用者介面設計、使用者體驗設計、視覺設計相關知識",
+    "tools": [
+      "Android",
+      "iOS",
+      "Java",
+      "SWIFT",
+      "Kotlin",
+      "Flutter"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 71
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:17:56+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Every journey begins with a tap.\n每一段旅程，都從一次點擊開始。\n從預約用車、追蹤航班，到分享旅程，每一個畫面、每一次互動，都默默陪伴旅人完成重要的時刻。\n在 aeroride，我們相信，優秀的行動產品，不只是功能完整，而是在每一次操作中，讓科技變得自然、可靠，也更有溫度。\n如果你相信，一個 App 能改變人們移動的方式，我們期待與你一起打造下一代智慧出行體驗。\n⸻\nAbout This Role\n這不是一個只負責開發功能的 Mobile App Engineer 職位。\n在 aeroride，你將參與產品從需求討論、技術規劃、開發實作到持續優化的完整流程，打造每天都被真實旅客使用的行動產品。\n你所開發的不只是 App，而是旅人從預約接送、即時追蹤行程、航班資訊同步，到安心抵達目的地的完整體驗。\n你將與 Product Manager、UI/UX Designer、Backend Engineer 及其他跨部門團隊密切合作，共同思考產品如何變得更好，而不只是完成指定功能。\n如果你期待的是一次性交付、不需持續維護的專案型工作，這個職位可能不適合你。\n但如果你希望打造真正被使用者每天依賴的產品，並持續透過技術改善人們的移動體驗，我們很期待認識你。\n⸻\nWhat You’ll Build\n• aeroride App 下一代產品體驗\n• 即時行程追蹤、航班資訊同步與智慧通知\n• 每天服務真實旅客的行動產品\n• 穩定、流暢且值得信賴的 App 使用體驗\n• 連結旅人與世界的智慧出行平台\n⸻\nYour Role\n你將參與行動產品的開發與持續優化，包括：\n• 開發與維護 iOS 或 Android 行動應用程式\n• 串接 Backend API，實現各項產品功能\n• 維護既有專案，分析 Crash Logs 並定位問題，持續改善產品穩定性\n• 與 Backend Engineer 共同討論 API、資料流及系統整合\n• 與 Product Manager、UI/UX Designer 協作，共同完成產品需求\n• 規劃測試流程與 Test Cases，提升產品品質與使用體驗\n• 持續優化程式效能、維護程式品質，並完成各項產品開發任務\n⸻\nRequirements\n• 具備 iOS 或 Android 行動應用程式開發經驗\n• 熟悉 Swift、SwiftUI、Kotlin、Jetpack Compose，或其他主流行動開發技術\n• 熟悉 API 串接，並理解 JSON、HTTP、RESTful API 等相關概念\n• 熟悉 Git 版本控制流程\n• 能閱讀並維護既有程式碼，具備良好的除錯能力\n• 了解 App 開發生命週期，包含開發、測試、上架與後續維護\n• 重視程式品質、使用者體驗及產品穩定性\n• 良好的團隊合作與溝通能力\n⸻\nBonus Points\n• 同時具備 iOS 與 Android 開發經驗\n• 熟悉 App Store 與 Google Play 上架流程\n• 具備 App 效能優化、記憶體管理或 Crash 分析經驗\n• 曾參與大型產品或高流量 App 開發\n• 熟悉 CI/CD、自動化測試或行動應用最佳實務\n• 曾參與 Travel Tech、Mobility、FinTech 或 SaaS 產品開發\n• 對新技術保持好奇，樂於持續學習與分享\n⸻\nWhy aeroride\n我們打造的不只是一款 App，而是一個串連交通、旅遊、支付與即時資訊的智慧出行平台。\n在這裡，你所開發的每一個功能，都會真實影響旅人的每一次出發。\n從預約、接送、航班追蹤，到旅程分享，每一次點擊的背後，都代表著使用者對產品的信任。\n我們相信，優秀的行動產品，不只是介面流暢，更能讓每一次移動都更加安心、便利且值得期待。\n⸻\nGreat apps don’t just connect people.\nThey connect journeys.\n每一次更新，\n都可能讓一段旅程更加順暢。\n每一行程式碼，\n都可能陪伴數萬名旅客完成重要的出發。\n如果你相信，科技能改變人們移動的方式，\n歡迎加入 aeroride，\n一起重新定義每一次出發。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "iOS工程師",
+            "Android工程師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "iOS工程師、Android工程師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區光復南路495號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Every journey begins with a tap.\n每一段旅程，都從一次點擊開始。\n從預約用車、追蹤航班，到分享旅程，每一個畫面、每一次互動，都默默陪伴旅人完成重要的時刻。\n在 aeroride，我們相信，優秀的行動產品，不只是功能完整，而是在每一次操作中，讓科技變得自然、可靠，也更有溫度。\n如果你相信，一個 App 能改變人們移動的方式，我們期待與你一起打造下一代智慧出行體驗。\n⸻\nAbout This Role\n這不是一個只負責開發功能的 Mobile App Engineer 職位。\n在 aeroride，你將參與產品從需求討論、技術規劃、開發實作到持續優化的完整流程，打造每天都被真實旅客使用的行動產品。\n你所開發的不只是 App，而是旅人從預約接送、即時追蹤行程、航班資訊同步，到安心抵達目的地的完整體驗。\n你將與 Product Manager、UI/UX Designer、Backend Engineer 及其他跨部門團隊密切合作，共同思考產品如何變得更好，而不只是完成指定功能。\n如果你期待的是一次性交付、不需持續維護的專案型工作，這個職位可能不適合你。\n但如果你希望打造真正被使用者每天依賴的產品，並持續透過技術改善人們的移動體驗，我們很期待認識你。\n⸻\nWhat You’ll Build\n• aeroride App 下一代產品體驗\n• 即時行程追蹤、航班資訊同步與智慧通知\n• 每天服務真實旅客的行動產品\n• 穩定、流暢且值得信賴的 App 使用體驗\n• 連結旅人與世界的智慧出行平台\n⸻\nYour Role\n你將參與行動產品的開發與持續優化，包括：\n• 開發與維護 iOS 或 Android 行動應用程式\n• 串接 Backend API，實現各項產品功能\n• 維護既有專案，分析 Crash Logs 並定位問題，持續改善產品穩定性\n• 與 Backend Engineer 共同討論 API、資料流及系統整合\n• 與 Product Manager、UI/UX Designer 協作，共同完成產品需求\n• 規劃測試流程與 Test Cases，提升產品品質與使用體驗\n• 持續優化程式效能、維護程式品質，並完成各項產品開發任務\n⸻\nRequirements\n• 具備 iOS 或 Android 行動應用程式開發經驗\n• 熟悉 Swift、SwiftUI、Kotlin、Jetpack Compose，或其他主流行動開發技術\n• 熟悉 API 串接，並理解 JSON、HTTP、RESTful API 等相關概念\n• 熟悉 Git 版本控制流程\n• 能閱讀並維護既有程式碼，具備良好的除錯能力\n• 了解 App 開發生命週期，包含開發、測試、上架與後續維護\n• 重視程式品質、使用者體驗及產品穩定性\n• 良好的團隊合作與溝通能力\n⸻\nBonus Points\n• 同時具備 iOS 與 Android 開發經驗\n• 熟悉 App Store 與 Google Play 上架流程\n• 具備 App 效能優化、記憶體管理或 Crash 分析經驗\n• 曾參與大型產品或高流量 App 開發\n• 熟悉 CI/CD、自動化測試或行動應用最佳實務\n• 曾參與 Travel Tech、Mobility、FinTech 或 SaaS 產品開發\n• 對新技術保持好奇，樂於持續學習與分享\n⸻\nWhy aeroride\n我們打造的不只是一款 App，而是一個串連交通、旅遊、支付與即時資訊的智慧出行平台。\n在這裡，你所開發的每一個功能，都會真實影響旅人的每一次出發。\n從預約、接送、航班追蹤，到旅程分享，每一次點擊的背後，都代表著使用者對產品的信任。\n我們相信，優秀的行動產品，不只是介面流暢，更能讓每一次移動都更加安心、便利且值得期待。\n⸻\nGreat apps don’t just connect people.\nThey connect journeys.\n每一次更新，\n都可能讓一段旅程更加順暢。\n每一行程式碼，\n都可能陪伴數萬名旅客完成重要的出發。\n如果你相信，科技能改變人們移動的方式，\n歡迎加入 aeroride，\n一起重新定義每一次出發。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Android",
+            "iOS",
+            "Java",
+            "SWIFT",
+            "Kotlin",
+            "Flutter"
+          ],
+          "label": "擅長工具",
+          "text": "Android、iOS、Java、SWIFT、Kotlin、Flutter",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "網頁語法撰寫",
+            "網頁軟體操作",
+            "使用者介面設計",
+            "使用者體驗設計",
+            "視覺設計相關知識"
+          ],
+          "label": "工作技能",
+          "text": "網頁語法撰寫、網頁軟體操作、使用者介面設計、使用者體驗設計、視覺設計相關知識",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：Android、iOS、Java、SWIFT、Kotlin、Flutter\n工作技能：網頁語法撰寫、網頁軟體操作、使用者介面設計、使用者體驗設計、視覺設計相關知識"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "88tig",
+    "job_url": "https://www.104.com.tw/job/88tig",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/88tig.json",
+    "raw_sha256": "8fdf746664b033989992eb134b91024003f6600498c503444184e3a4a4df2ffc",
+    "requested_url": "https://www.104.com.tw/api/jobs/88tig"
+  }
+}

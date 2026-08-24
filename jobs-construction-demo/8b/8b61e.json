@@ -1,0 +1,345 @@
+{
+  "company": {
+    "id": "1a2x6bmtht",
+    "name": "千逢科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "數位IC設計工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "NPU Architecture Design:"
+        },
+        {
+          "children": [],
+          "text": "Collaborate with cross-functional teams to define the architecture and specifications for the NPU."
+        },
+        {
+          "children": [],
+          "text": "Design the NPU's core components, including the PE array, memory hierarchy, and control logic."
+        },
+        {
+          "children": [],
+          "text": "Optimize for performance, power efficiency, and scalability."
+        },
+        {
+          "children": [],
+          "text": "Bit-True Hardware Model Implementation:"
+        },
+        {
+          "children": [],
+          "text": "Develop a bit-true hardware model of the NPU in C language."
+        },
+        {
+          "children": [],
+          "text": "Ensure that the model accurately represents the NPU's behavior, including arithmetic operations, memory access, and control flow."
+        },
+        {
+          "children": [],
+          "text": "Validate the model against reference neural network workloads."
+        },
+        {
+          "children": [],
+          "text": "Cycle-Accurate Modeling:"
+        },
+        {
+          "children": [],
+          "text": "Create a cycle-accurate model of the NPU to simulate its behavior at the clock cycle level."
+        },
+        {
+          "children": [],
+          "text": "Account for pipeline stages, data dependencies, and timing constraints."
+        },
+        {
+          "children": [],
+          "text": "Use tools like Verilog, system-Verilog, or specialized simulation environments to achieve cycle-accurate modeling."
+        },
+        {
+          "children": [],
+          "text": "Performance Analysis and Optimization:"
+        },
+        {
+          "children": [],
+          "text": "Profile the NPU model to identify bottlenecks and areas for improvement."
+        },
+        {
+          "children": [],
+          "text": "Propose and implement optimizations to enhance performance and reduce latency."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with software teams to fine-tune the NPU's behavior."
+        },
+        {
+          "children": [],
+          "text": "Verification and Validation:"
+        },
+        {
+          "children": [],
+          "text": "Create testbenches and test vectors to validate both the bit-true and cycle-accurate models."
+        },
+        {
+          "children": [],
+          "text": "Conduct functional and performance testing to ensure correctness and compliance with specifications."
+        },
+        {
+          "children": [],
+          "text": "Debug and resolve any discrepancies between the models and the actual NPU."
+        },
+        {
+          "children": [],
+          "text": "Documentation and Communication:"
+        },
+        {
+          "children": [],
+          "text": "Document the NPU architecture, design decisions, and implementation details."
+        },
+        {
+          "children": [],
+          "text": "Present findings, progress, and challenges to stakeholders and management."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with software engineers, firmware developers, and system architects."
+        },
+        {
+          "children": [],
+          "text": "Master's or Ph.D. degree in Electrical Engineering, Computer Science, or a related field."
+        },
+        {
+          "children": [],
+          "text": "Minimum of 3 years of experience in NPU architecture design and implementation."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in C/C++/Verilog/System-Verilog programming for hardware modeling."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with systolic arrays, matrix multiplication, and neural network accelerators."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of bit-true modeling, fixed-point arithmetic, and floating-point arithmetic."
+        },
+        {
+          "children": [],
+          "text": "Experience with verification tools and simulation environments."
+        },
+        {
+          "children": [],
+          "text": "Strong analytical and problem-solving skills."
+        },
+        {
+          "children": [],
+          "text": "Excellent communication and teamwork abilities."
+        },
+        {
+          "children": [],
+          "text": "Attention to detail and commitment to quality."
+        }
+      ],
+      "text": "Job Title: NPU Modeling Engineer\nJob Description:\nOverview:\nWe are seeking an experienced NPU Architect to join our team. As an NPU Architect, you will play a crucial role in designing and implementing the hardware model for our Neural Processing Unit. Your expertise will be instrumental in ensuring efficient and accurate execution of neural network workloads on our NPU.\nResponsibilities:\n1. NPU Architecture Design:\n• Collaborate with cross-functional teams to define the architecture and specifications for the NPU.\n• Design the NPU's core components, including the PE array, memory hierarchy, and control logic.\n• Optimize for performance, power efficiency, and scalability.\n2. Bit-True Hardware Model Implementation:\n• Develop a bit-true hardware model of the NPU in C language.\n• Ensure that the model accurately represents the NPU's behavior, including arithmetic operations, memory access, and control flow.\n• Validate the model against reference neural network workloads.\n3. Cycle-Accurate Modeling:\n• Create a cycle-accurate model of the NPU to simulate its behavior at the clock cycle level.\n• Account for pipeline stages, data dependencies, and timing constraints.\n• Use tools like Verilog, system-Verilog, or specialized simulation environments to achieve cycle-accurate modeling.\n4. Performance Analysis and Optimization:\n• Profile the NPU model to identify bottlenecks and areas for improvement.\n• Propose and implement optimizations to enhance performance and reduce latency.\n• Collaborate with software teams to fine-tune the NPU's behavior.\n5. Verification and Validation:\n• Create testbenches and test vectors to validate both the bit-true and cycle-accurate models.\n• Conduct functional and performance testing to ensure correctness and compliance with specifications.\n• Debug and resolve any discrepancies between the models and the actual NPU.\n6. Documentation and Communication:\n• Document the NPU architecture, design decisions, and implementation details.\n• Present findings, progress, and challenges to stakeholders and management.\n• Collaborate with software engineers, firmware developers, and system architects.\nQualifications:\n• Master's or Ph.D. degree in Electrical Engineering, Computer Science, or a related field.\n• Minimum of 3 years of experience in NPU architecture design and implementation.\n• Proficiency in C/C++/Verilog/System-Verilog programming for hardware modeling.\n• Familiarity with systolic arrays, matrix multiplication, and neural network accelerators.\n• Knowledge of bit-true modeling, fixed-point arithmetic, and floating-point arithmetic.\n• Experience with verification tools and simulation environments.\n• Strong analytical and problem-solving skills.\n• Excellent communication and teamwork abilities.\n• Attention to detail and commitment to quality.\nIf you are passionate about NPU architecture, hardware modeling, and want to be part of a team driving innovation, we encourage you to apply. Join us in shaping the future of AI!"
+    },
+    "employment_type_raw": "全職",
+    "title": "NPU Modeling Engineer"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市",
+    "raw": "新竹縣竹北市"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Python",
+          "ASIC",
+          "Verilog"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Python、ASIC、Verilog"
+      },
+      {
+        "items": [
+          "結構化程式設計",
+          "Machine Learning",
+          "撰寫硬體語言程式",
+          "數位晶片產品開發",
+          "數位電路分析設計",
+          "數位電路驗證"
+        ],
+        "label": "工作技能",
+        "text": "結構化程式設計、Machine Learning、撰寫硬體語言程式、數位晶片產品開發、數位電路分析設計、數位電路驗證"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "結構化程式設計",
+      "Machine Learning",
+      "撰寫硬體語言程式",
+      "數位晶片產品開發",
+      "數位電路分析設計",
+      "數位電路驗證"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n擅長工具：C、C++、Python、ASIC、Verilog\n工作技能：結構化程式設計、Machine Learning、撰寫硬體語言程式、數位晶片產品開發、數位電路分析設計、數位電路驗證",
+    "tools": [
+      "C",
+      "C++",
+      "Python",
+      "ASIC",
+      "Verilog"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 73
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:21:52+08:00"
+  },
+  "salary": {
+    "raw": "月薪80,000~250,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Job Title: NPU Modeling Engineer\nJob Description:\nOverview:\nWe are seeking an experienced NPU Architect to join our team. As an NPU Architect, you will play a crucial role in designing and implementing the hardware model for our Neural Processing Unit. Your expertise will be instrumental in ensuring efficient and accurate execution of neural network workloads on our NPU.\nResponsibilities:\n1. NPU Architecture Design:\n• Collaborate with cross-functional teams to define the architecture and specifications for the NPU.\n• Design the NPU's core components, including the PE array, memory hierarchy, and control logic.\n• Optimize for performance, power efficiency, and scalability.\n2. Bit-True Hardware Model Implementation:\n• Develop a bit-true hardware model of the NPU in C language.\n• Ensure that the model accurately represents the NPU's behavior, including arithmetic operations, memory access, and control flow.\n• Validate the model against reference neural network workloads.\n3. Cycle-Accurate Modeling:\n• Create a cycle-accurate model of the NPU to simulate its behavior at the clock cycle level.\n• Account for pipeline stages, data dependencies, and timing constraints.\n• Use tools like Verilog, system-Verilog, or specialized simulation environments to achieve cycle-accurate modeling.\n4. Performance Analysis and Optimization:\n• Profile the NPU model to identify bottlenecks and areas for improvement.\n• Propose and implement optimizations to enhance performance and reduce latency.\n• Collaborate with software teams to fine-tune the NPU's behavior.\n5. Verification and Validation:\n• Create testbenches and test vectors to validate both the bit-true and cycle-accurate models.\n• Conduct functional and performance testing to ensure correctness and compliance with specifications.\n• Debug and resolve any discrepancies between the models and the actual NPU.\n6. Documentation and Communication:\n• Document the NPU architecture, design decisions, and implementation details.\n• Present findings, progress, and challenges to stakeholders and management.\n• Collaborate with software engineers, firmware developers, and system architects.\nQualifications:\n• Master's or Ph.D. degree in Electrical Engineering, Computer Science, or a related field.\n• Minimum of 3 years of experience in NPU architecture design and implementation.\n• Proficiency in C/C++/Verilog/System-Verilog programming for hardware modeling.\n• Familiarity with systolic arrays, matrix multiplication, and neural network accelerators.\n• Knowledge of bit-true modeling, fixed-point arithmetic, and floating-point arithmetic.\n• Experience with verification tools and simulation environments.\n• Strong analytical and problem-solving skills.\n• Excellent communication and teamwork abilities.\n• Attention to detail and commitment to quality.\nIf you are passionate about NPU architecture, hardware modeling, and want to be part of a team driving innovation, we encourage you to apply. Join us in shaping the future of AI!",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "數位IC設計工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "數位IC設計工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪80,000~250,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Job Title: NPU Modeling Engineer\nJob Description:\nOverview:\nWe are seeking an experienced NPU Architect to join our team. As an NPU Architect, you will play a crucial role in designing and implementing the hardware model for our Neural Processing Unit. Your expertise will be instrumental in ensuring efficient and accurate execution of neural network workloads on our NPU.\nResponsibilities:\n1. NPU Architecture Design:\n• Collaborate with cross-functional teams to define the architecture and specifications for the NPU.\n• Design the NPU's core components, including the PE array, memory hierarchy, and control logic.\n• Optimize for performance, power efficiency, and scalability.\n2. Bit-True Hardware Model Implementation:\n• Develop a bit-true hardware model of the NPU in C language.\n• Ensure that the model accurately represents the NPU's behavior, including arithmetic operations, memory access, and control flow.\n• Validate the model against reference neural network workloads.\n3. Cycle-Accurate Modeling:\n• Create a cycle-accurate model of the NPU to simulate its behavior at the clock cycle level.\n• Account for pipeline stages, data dependencies, and timing constraints.\n• Use tools like Verilog, system-Verilog, or specialized simulation environments to achieve cycle-accurate modeling.\n4. Performance Analysis and Optimization:\n• Profile the NPU model to identify bottlenecks and areas for improvement.\n• Propose and implement optimizations to enhance performance and reduce latency.\n• Collaborate with software teams to fine-tune the NPU's behavior.\n5. Verification and Validation:\n• Create testbenches and test vectors to validate both the bit-true and cycle-accurate models.\n• Conduct functional and performance testing to ensure correctness and compliance with specifications.\n• Debug and resolve any discrepancies between the models and the actual NPU.\n6. Documentation and Communication:\n• Document the NPU architecture, design decisions, and implementation details.\n• Present findings, progress, and challenges to stakeholders and management.\n• Collaborate with software engineers, firmware developers, and system architects.\nQualifications:\n• Master's or Ph.D. degree in Electrical Engineering, Computer Science, or a related field.\n• Minimum of 3 years of experience in NPU architecture design and implementation.\n• Proficiency in C/C++/Verilog/System-Verilog programming for hardware modeling.\n• Familiarity with systolic arrays, matrix multiplication, and neural network accelerators.\n• Knowledge of bit-true modeling, fixed-point arithmetic, and floating-point arithmetic.\n• Experience with verification tools and simulation environments.\n• Strong analytical and problem-solving skills.\n• Excellent communication and teamwork abilities.\n• Attention to detail and commitment to quality.\nIf you are passionate about NPU architecture, hardware modeling, and want to be part of a team driving innovation, we encourage you to apply. Join us in shaping the future of AI!"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Python",
+            "ASIC",
+            "Verilog"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Python、ASIC、Verilog",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "結構化程式設計",
+            "Machine Learning",
+            "撰寫硬體語言程式",
+            "數位晶片產品開發",
+            "數位電路分析設計",
+            "數位電路驗證"
+          ],
+          "label": "工作技能",
+          "text": "結構化程式設計、Machine Learning、撰寫硬體語言程式、數位晶片產品開發、數位電路分析設計、數位電路驗證",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n擅長工具：C、C++、Python、ASIC、Verilog\n工作技能：結構化程式設計、Machine Learning、撰寫硬體語言程式、數位晶片產品開發、數位電路分析設計、數位電路驗證"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8b61e",
+    "job_url": "https://www.104.com.tw/job/8b61e",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8b61e.json",
+    "raw_sha256": "3f720be1fc0545be33077e341c889c3d9689f9af67152c841474d09c3f806f68",
+    "requested_url": "https://www.104.com.tw/api/jobs/8b61e"
+  }
+}

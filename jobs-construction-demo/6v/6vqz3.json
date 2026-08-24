@@ -1,0 +1,221 @@
+{
+  "company": {
+    "id": "18sbogso",
+    "name": "耕興股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助軟體部門公司MySQL server維護(JS & php)"
+        },
+        {
+          "children": [],
+          "text": "協助軟體部門儀器自動化測試及轉報告程式撰寫 (C++ Borland, OLE)"
+        }
+      ],
+      "text": "1.協助軟體部門公司MySQL server維護(JS & php)\n2.協助軟體部門儀器自動化測試及轉報告程式撰寫 (C++ Borland, OLE)"
+    },
+    "employment_type_raw": "全職",
+    "title": "【WBU】軟體程式工程師(WE1)"
+  },
+  "location": {
+    "address_raw": "桃園市龜山區華亞一路52號",
+    "raw": "桃園市龜山區華亞一路52號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "PHP",
+          "Python",
+          "MySQL",
+          "HTML"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、PHP、Python、MySQL、HTML"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. TOEIC分數500分以上或其他英文檢測相當之證明\n2. 具有良好溝通能力、工作態度、主動積極願意學習新事務\n3. 對撰寫程式有熱忱者優先錄取\n4. 正式錄取報到時，應繳交體格檢查報告。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關",
+      "資訊管理相關"
+    ],
+    "other_text": "1. TOEIC分數500分以上或其他英文檢測相當之證明\n2. 具有良好溝通能力、工作態度、主動積極願意學習新事務\n3. 對撰寫程式有熱忱者優先錄取\n4. 正式錄取報到時，應繳交體格檢查報告。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、PHP、Python、MySQL、HTML\n其他條件：1. TOEIC分數500分以上或其他英文檢測相當之證明\n2. 具有良好溝通能力、工作態度、主動積極願意學習新事務\n3. 對撰寫程式有熱忱者優先錄取\n4. 正式錄取報到時，應繳交體格檢查報告。",
+    "tools": [
+      "C",
+      "C++",
+      "PHP",
+      "Python",
+      "MySQL",
+      "HTML"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 71
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:15:46+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.協助軟體部門公司MySQL server維護(JS & php)\n2.協助軟體部門儀器自動化測試及轉報告程式撰寫 (C++ Borland, OLE)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市龜山區華亞一路52號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.協助軟體部門公司MySQL server維護(JS & php)\n2.協助軟體部門儀器自動化測試及轉報告程式撰寫 (C++ Borland, OLE)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "PHP",
+            "Python",
+            "MySQL",
+            "HTML"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、PHP、Python、MySQL、HTML",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. TOEIC分數500分以上或其他英文檢測相當之證明\n2. 具有良好溝通能力、工作態度、主動積極願意學習新事務\n3. 對撰寫程式有熱忱者優先錄取\n4. 正式錄取報到時，應繳交體格檢查報告。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、PHP、Python、MySQL、HTML\n其他條件：1. TOEIC分數500分以上或其他英文檢測相當之證明\n2. 具有良好溝通能力、工作態度、主動積極願意學習新事務\n3. 對撰寫程式有熱忱者優先錄取\n4. 正式錄取報到時，應繳交體格檢查報告。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "6vqz3",
+    "job_url": "https://www.104.com.tw/job/6vqz3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6vqz3.json",
+    "raw_sha256": "03a0cf503a26eeb067767b7af09eaa67c6ae5566f7ba3884d734a538f42ab677",
+    "requested_url": "https://www.104.com.tw/api/jobs/6vqz3"
+  }
+}

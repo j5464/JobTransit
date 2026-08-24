@@ -1,0 +1,224 @@
+{
+  "company": {
+    "id": "1a2x6biu2x",
+    "name": "啟賦科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "資訊設備管制人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "公司資訊設備及網路環境之建置、管理與維護，包括電腦、印表機、NAS、伺服器、網路設備及電話系統等。"
+        },
+        {
+          "children": [],
+          "text": "Microsoft 365 平台管理與維護（包含 Outlook、Teams、SharePoint、OneDrive 等服務）。"
+        },
+        {
+          "children": [],
+          "text": "Active Directory（AD）帳號、群組權限及網域環境管理。"
+        },
+        {
+          "children": [],
+          "text": "使用者資訊問題排除與技術支援。"
+        },
+        {
+          "children": [],
+          "text": "協助資訊系統導入、優化及相關文件建立。"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項。"
+        }
+      ],
+      "text": "1.公司資訊設備及網路環境之建置、管理與維護，包括電腦、印表機、NAS、伺服器、網路設備及電話系統等。\n2.Microsoft 365 平台管理與維護（包含 Outlook、Teams、SharePoint、OneDrive 等服務）。\n3.Active Directory（AD）帳號、群組權限及網域環境管理。\n4.使用者資訊問題排除與技術支援。\n5.協助資訊系統導入、優化及相關文件建立。\n6.主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊工程師"
+  },
+  "location": {
+    "address_raw": "台南市善化區成功路1之6號",
+    "raw": "台南市善化區成功路1之6號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "鼎新"
+        ],
+        "label": "擅長工具",
+        "text": "鼎新"
+      },
+      {
+        "items": [
+          "系統維護操作",
+          "網路系統配置"
+        ],
+        "label": "工作技能",
+        "text": "系統維護操作、網路系統配置"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具 Windows 伺服器管理經驗。\n2.具資訊安全相關經驗或證照（ISO 27001、資安管理、弱點掃描等）。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "1.具 Windows 伺服器管理經驗。\n2.具資訊安全相關經驗或證照（ISO 27001、資安管理、弱點掃描等）。",
+    "skills": [
+      "系統維護操作",
+      "網路系統配置"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：鼎新\n工作技能：系統維護操作、網路系統配置\n其他條件：1.具 Windows 伺服器管理經驗。\n2.具資訊安全相關經驗或證照（ISO 27001、資安管理、弱點掃描等）。",
+    "tools": [
+      "鼎新"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 1
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:22:55+08:00"
+  },
+  "salary": {
+    "raw": "月薪38,000~48,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.公司資訊設備及網路環境之建置、管理與維護，包括電腦、印表機、NAS、伺服器、網路設備及電話系統等。\n2.Microsoft 365 平台管理與維護（包含 Outlook、Teams、SharePoint、OneDrive 等服務）。\n3.Active Directory（AD）帳號、群組權限及網域環境管理。\n4.使用者資訊問題排除與技術支援。\n5.協助資訊系統導入、優化及相關文件建立。\n6.主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "資訊設備管制人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、資訊設備管制人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪38,000~48,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市善化區成功路1之6號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.公司資訊設備及網路環境之建置、管理與維護，包括電腦、印表機、NAS、伺服器、網路設備及電話系統等。\n2.Microsoft 365 平台管理與維護（包含 Outlook、Teams、SharePoint、OneDrive 等服務）。\n3.Active Directory（AD）帳號、群組權限及網域環境管理。\n4.使用者資訊問題排除與技術支援。\n5.協助資訊系統導入、優化及相關文件建立。\n6.主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "鼎新"
+          ],
+          "label": "擅長工具",
+          "text": "鼎新",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統維護操作",
+            "網路系統配置"
+          ],
+          "label": "工作技能",
+          "text": "系統維護操作、網路系統配置",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具 Windows 伺服器管理經驗。\n2.具資訊安全相關經驗或證照（ISO 27001、資安管理、弱點掃描等）。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：鼎新\n工作技能：系統維護操作、網路系統配置\n其他條件：1.具 Windows 伺服器管理經驗。\n2.具資訊安全相關經驗或證照（ISO 27001、資安管理、弱點掃描等）。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/22",
+    "html_sha256": null,
+    "job_id": "8ul79",
+    "job_url": "https://www.104.com.tw/job/8ul79",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ul79.json",
+    "raw_sha256": "d7a68f0118f78ea5620cfdfb3edb9862fbc0f1ec8e3c4345c79bd3ce0496b91f",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ul79"
+  }
+}

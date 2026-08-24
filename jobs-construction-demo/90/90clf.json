@@ -1,0 +1,260 @@
+{
+  "company": {
+    "id": "a5haxqo",
+    "name": "華邦電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "系統開發-DDD 與微服務架構設計與實作，撰寫高品質可維護程式碼"
+        },
+        {
+          "children": [],
+          "text": "雲端部署-Azure 容器化服務部署與維運，APIM / Event Hub 事件驅動架構"
+        },
+        {
+          "children": [],
+          "text": "IaC & CI/CD-GitHub Actions + IaC 全自動化流水線，版本化 Azure 基礎設施"
+        },
+        {
+          "children": [],
+          "text": "AI 賦能-推動 AI 融入 SDLC，探索 AI Agent、MCP 等前沿技術"
+        },
+        {
+          "children": [],
+          "text": "技術推廣- 將成熟方案包裝為最佳實踐，推廣至其他開發團隊與業務單位"
+        },
+        {
+          "children": [],
+          "text": "協作優化- 與團隊協作解決技術問題，效能優化與程式重構"
+        },
+        {
+          "children": [],
+          "text": "AI Token 資源- GitHub Copilot 等 AI 工具盡情使用"
+        },
+        {
+          "children": [],
+          "text": "雲端實戰場域- 直接操作企業級 Azure 環境，不是紙上談兵"
+        },
+        {
+          "children": [],
+          "text": "架構決策參與- 參與技術選型與架構設計決策"
+        },
+        {
+          "children": [],
+          "text": "技術多樣性- 前端、後端、容器、雲端、IaC、AI 全方位歷練"
+        },
+        {
+          "children": [],
+          "text": "組織影響力- 不只服務一個專案，影響整個組織的技術方向"
+        },
+        {
+          "children": [],
+          "text": "敏捷文化- Scrum 迭代，快速試錯、快速交付"
+        }
+      ],
+      "text": "【在華邦，學習不設限，讓AI技術力與你的未來力同步成長!】\n我們深信「人才永續」是企業創新的核心動能。華邦持續投資於數據素養與AI應用的培育，支持每一位人才掌握AI與數據應用的核心能力。\n．內部學習平台提供超過4,000堂線上課程，其中包含近850堂資料科學、人工智慧、數據思維與程式技術等多元主題，支援彈性自主學習\n．建立跨部門的 AI實作班與技術社群，定期舉辦研習與交流活動，讓知識轉化為實戰力\n．完善數據應用學習資源，結合資料呈現(Power BI、Tableau)、資料處理(Python、JMP)、流程自動化(Power Automate、UiPath)、AI助手(Copilot)，協助同仁有效以數據驅動決策與創新。\n．搭配專業語言學習平台，提供學習補助與資源，鼓勵同仁持續進修，拓展國際視野\n無論你是技術新秀還是資深專才，華邦鼓勵所有領域都能與AI結合，與國際接軌。持續精進、突破自我！\n【邀請您將104履歷同步上傳至華邦官方網站，將使您的履歷優先被主管看見】此職缺履歷登錄網址:https://bit.ly/3Q8NL72\n【關於團隊】\n我們是 IT 部門的 R&D 核心團隊，肩負「學習 → 開發 → 導入 → 推廣」四大使命，\n正在全力推動 AI-Driven SDLC，讓 AI 深度融入開發生命週期的每個環節。\n【工作內容】\n1. 系統開發-DDD 與微服務架構設計與實作，撰寫高品質可維護程式碼\n2. 雲端部署-Azure 容器化服務部署與維運，APIM / Event Hub 事件驅動架構\n3. IaC & CI/CD-GitHub Actions + IaC 全自動化流水線，版本化 Azure 基礎設施\n4. AI 賦能-推動 AI 融入 SDLC，探索 AI Agent、MCP 等前沿技術\n5. 技術推廣- 將成熟方案包裝為最佳實踐，推廣至其他開發團隊與業務單位\n6. 協作優化- 與團隊協作解決技術問題，效能優化與程式重構\n【團隊福利】\n1. AI Token 資源- GitHub Copilot 等 AI 工具盡情使用\n2. 雲端實戰場域- 直接操作企業級 Azure 環境，不是紙上談兵\n3. 架構決策參與- 參與技術選型與架構設計決策\n4. 技術多樣性- 前端、後端、容器、雲端、IaC、AI 全方位歷練\n5. 組織影響力- 不只服務一個專案，影響整個組織的技術方向\n6. 敏捷文化- Scrum 迭代，快速試錯、快速交付"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體類--Senior Full Stack Engineer (竹北/台中)"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市文興路二段539號",
+    "raw": "新竹縣竹北市文興路二段539號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "Microsoft Azure",
+          "MS SQL",
+          "AWS",
+          "VueJS"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、Microsoft Azure、MS SQL、AWS、VueJS"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "[必要條件]\n1. 具前後端基礎實作經驗，能獨立完成跨層功能開發\n2. 精通至少兩個領域，能主導端到端系統設計，上線經驗 2 年以上\n[加分條件]\n1. 關聯式資料庫設計與查詢優化（MS SQL、Oracle、MySQL 等）\n2. AI Agent / MCP 基本概念\n3. AI 協作工具使用（2 種以上，如 GitHub Copilot、ChatGPT、Claude）\n[Hard Skill]\n1. Git 版本控制與分支策略（Git Flow / Trunk-Based）\n2. Vue 3 或 React 實際專案開發上線經驗（1 年以上）\n3. 前後端效能優化與安全性設計經驗\n4. 精通物件導向設計（C# / .NET Core），上線經驗 1 年以上\n[Soft Skill]\n1. 邏輯思考與問題分析能力\n2. 快速學習、適應新技術的能力\n3. 自我驅動、主動改善的工作態度\n4. 跨功能溝通能力（與 PM、設計師、業務單位協作）\n5. 擁抱技術棧轉換，視學新技術為樂趣\n6. 完整的軟體開發流程經驗\n7. 樂於技術分享與推廣\n8. 有撰寫技術文件的習慣\n9. Product Mindset，能從使用者需求出發"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "[必要條件]\n1. 具前後端基礎實作經驗，能獨立完成跨層功能開發\n2. 精通至少兩個領域，能主導端到端系統設計，上線經驗 2 年以上\n[加分條件]\n1. 關聯式資料庫設計與查詢優化（MS SQL、Oracle、MySQL 等）\n2. AI Agent / MCP 基本概念\n3. AI 協作工具使用（2 種以上，如 GitHub Copilot、ChatGPT、Claude）\n[Hard Skill]\n1. Git 版本控制與分支策略（Git Flow / Trunk-Based）\n2. Vue 3 或 React 實際專案開發上線經驗（1 年以上）\n3. 前後端效能優化與安全性設計經驗\n4. 精通物件導向設計（C# / .NET Core），上線經驗 1 年以上\n[Soft Skill]\n1. 邏輯思考與問題分析能力\n2. 快速學習、適應新技術的能力\n3. 自我驅動、主動改善的工作態度\n4. 跨功能溝通能力（與 PM、設計師、業務單位協作）\n5. 擁抱技術棧轉換，視學新技術為樂趣\n6. 完整的軟體開發流程經驗\n7. 樂於技術分享與推廣\n8. 有撰寫技術文件的習慣\n9. Product Mindset，能從使用者需求出發",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、C#、Microsoft Azure、MS SQL、AWS、VueJS\n其他條件：[必要條件]\n1. 具前後端基礎實作經驗，能獨立完成跨層功能開發\n2. 精通至少兩個領域，能主導端到端系統設計，上線經驗 2 年以上\n[加分條件]\n1. 關聯式資料庫設計與查詢優化（MS SQL、Oracle、MySQL 等）\n2. AI Agent / MCP 基本概念\n3. AI 協作工具使用（2 種以上，如 GitHub Copilot、ChatGPT、Claude）\n[Hard Skill]\n1. Git 版本控制與分支策略（Git Flow / Trunk-Based）\n2. Vue 3 或 React 實際專案開發上線經驗（1 年以上）\n3. 前後端效能優化與安全性設計經驗\n4. 精通物件導向設計（C# / .NET Core），上線經驗 1 年以上\n[Soft Skill]\n1. 邏輯思考與問題分析能力\n2. 快速學習、適應新技術的能力\n3. 自我驅動、主動改善的工作態度\n4. 跨功能溝通能力（與 PM、設計師、業務單位協作）\n5. 擁抱技術棧轉換，視學新技術為樂趣\n6. 完整的軟體開發流程經驗\n7. 樂於技術分享與推廣\n8. 有撰寫技術文件的習慣\n9. Product Mindset，能從使用者需求出發",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "Microsoft Azure",
+      "MS SQL",
+      "AWS",
+      "VueJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 82
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:43:36+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【在華邦，學習不設限，讓AI技術力與你的未來力同步成長!】\n我們深信「人才永續」是企業創新的核心動能。華邦持續投資於數據素養與AI應用的培育，支持每一位人才掌握AI與數據應用的核心能力。\n．內部學習平台提供超過4,000堂線上課程，其中包含近850堂資料科學、人工智慧、數據思維與程式技術等多元主題，支援彈性自主學習\n．建立跨部門的 AI實作班與技術社群，定期舉辦研習與交流活動，讓知識轉化為實戰力\n．完善數據應用學習資源，結合資料呈現(Power BI、Tableau)、資料處理(Python、JMP)、流程自動化(Power Automate、UiPath)、AI助手(Copilot)，協助同仁有效以數據驅動決策與創新。\n．搭配專業語言學習平台，提供學習補助與資源，鼓勵同仁持續進修，拓展國際視野\n無論你是技術新秀還是資深專才，華邦鼓勵所有領域都能與AI結合，與國際接軌。持續精進、突破自我！\n【邀請您將104履歷同步上傳至華邦官方網站，將使您的履歷優先被主管看見】此職缺履歷登錄網址:https://bit.ly/3Q8NL72\n【關於團隊】\n我們是 IT 部門的 R&D 核心團隊，肩負「學習 → 開發 → 導入 → 推廣」四大使命，\n正在全力推動 AI-Driven SDLC，讓 AI 深度融入開發生命週期的每個環節。\n【工作內容】\n1. 系統開發-DDD 與微服務架構設計與實作，撰寫高品質可維護程式碼\n2. 雲端部署-Azure 容器化服務部署與維運，APIM / Event Hub 事件驅動架構\n3. IaC & CI/CD-GitHub Actions + IaC 全自動化流水線，版本化 Azure 基礎設施\n4. AI 賦能-推動 AI 融入 SDLC，探索 AI Agent、MCP 等前沿技術\n5. 技術推廣- 將成熟方案包裝為最佳實踐，推廣至其他開發團隊與業務單位\n6. 協作優化- 與團隊協作解決技術問題，效能優化與程式重構\n【團隊福利】\n1. AI Token 資源- GitHub Copilot 等 AI 工具盡情使用\n2. 雲端實戰場域- 直接操作企業級 Azure 環境，不是紙上談兵\n3. 架構決策參與- 參與技術選型與架構設計決策\n4. 技術多樣性- 前端、後端、容器、雲端、IaC、AI 全方位歷練\n5. 組織影響力- 不只服務一個專案，影響整個組織的技術方向\n6. 敏捷文化- Scrum 迭代，快速試錯、快速交付",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市文興路二段539號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【在華邦，學習不設限，讓AI技術力與你的未來力同步成長!】\n我們深信「人才永續」是企業創新的核心動能。華邦持續投資於數據素養與AI應用的培育，支持每一位人才掌握AI與數據應用的核心能力。\n．內部學習平台提供超過4,000堂線上課程，其中包含近850堂資料科學、人工智慧、數據思維與程式技術等多元主題，支援彈性自主學習\n．建立跨部門的 AI實作班與技術社群，定期舉辦研習與交流活動，讓知識轉化為實戰力\n．完善數據應用學習資源，結合資料呈現(Power BI、Tableau)、資料處理(Python、JMP)、流程自動化(Power Automate、UiPath)、AI助手(Copilot)，協助同仁有效以數據驅動決策與創新。\n．搭配專業語言學習平台，提供學習補助與資源，鼓勵同仁持續進修，拓展國際視野\n無論你是技術新秀還是資深專才，華邦鼓勵所有領域都能與AI結合，與國際接軌。持續精進、突破自我！\n【邀請您將104履歷同步上傳至華邦官方網站，將使您的履歷優先被主管看見】此職缺履歷登錄網址:https://bit.ly/3Q8NL72\n【關於團隊】\n我們是 IT 部門的 R&D 核心團隊，肩負「學習 → 開發 → 導入 → 推廣」四大使命，\n正在全力推動 AI-Driven SDLC，讓 AI 深度融入開發生命週期的每個環節。\n【工作內容】\n1. 系統開發-DDD 與微服務架構設計與實作，撰寫高品質可維護程式碼\n2. 雲端部署-Azure 容器化服務部署與維運，APIM / Event Hub 事件驅動架構\n3. IaC & CI/CD-GitHub Actions + IaC 全自動化流水線，版本化 Azure 基礎設施\n4. AI 賦能-推動 AI 融入 SDLC，探索 AI Agent、MCP 等前沿技術\n5. 技術推廣- 將成熟方案包裝為最佳實踐，推廣至其他開發團隊與業務單位\n6. 協作優化- 與團隊協作解決技術問題，效能優化與程式重構\n【團隊福利】\n1. AI Token 資源- GitHub Copilot 等 AI 工具盡情使用\n2. 雲端實戰場域- 直接操作企業級 Azure 環境，不是紙上談兵\n3. 架構決策參與- 參與技術選型與架構設計決策\n4. 技術多樣性- 前端、後端、容器、雲端、IaC、AI 全方位歷練\n5. 組織影響力- 不只服務一個專案，影響整個組織的技術方向\n6. 敏捷文化- Scrum 迭代，快速試錯、快速交付"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "Microsoft Azure",
+            "MS SQL",
+            "AWS",
+            "VueJS"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、Microsoft Azure、MS SQL、AWS、VueJS",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "[必要條件]\n1. 具前後端基礎實作經驗，能獨立完成跨層功能開發\n2. 精通至少兩個領域，能主導端到端系統設計，上線經驗 2 年以上\n[加分條件]\n1. 關聯式資料庫設計與查詢優化（MS SQL、Oracle、MySQL 等）\n2. AI Agent / MCP 基本概念\n3. AI 協作工具使用（2 種以上，如 GitHub Copilot、ChatGPT、Claude）\n[Hard Skill]\n1. Git 版本控制與分支策略（Git Flow / Trunk-Based）\n2. Vue 3 或 React 實際專案開發上線經驗（1 年以上）\n3. 前後端效能優化與安全性設計經驗\n4. 精通物件導向設計（C# / .NET Core），上線經驗 1 年以上\n[Soft Skill]\n1. 邏輯思考與問題分析能力\n2. 快速學習、適應新技術的能力\n3. 自我驅動、主動改善的工作態度\n4. 跨功能溝通能力（與 PM、設計師、業務單位協作）\n5. 擁抱技術棧轉換，視學新技術為樂趣\n6. 完整的軟體開發流程經驗\n7. 樂於技術分享與推廣\n8. 有撰寫技術文件的習慣\n9. Product Mindset，能從使用者需求出發",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、C#、Microsoft Azure、MS SQL、AWS、VueJS\n其他條件：[必要條件]\n1. 具前後端基礎實作經驗，能獨立完成跨層功能開發\n2. 精通至少兩個領域，能主導端到端系統設計，上線經驗 2 年以上\n[加分條件]\n1. 關聯式資料庫設計與查詢優化（MS SQL、Oracle、MySQL 等）\n2. AI Agent / MCP 基本概念\n3. AI 協作工具使用（2 種以上，如 GitHub Copilot、ChatGPT、Claude）\n[Hard Skill]\n1. Git 版本控制與分支策略（Git Flow / Trunk-Based）\n2. Vue 3 或 React 實際專案開發上線經驗（1 年以上）\n3. 前後端效能優化與安全性設計經驗\n4. 精通物件導向設計（C# / .NET Core），上線經驗 1 年以上\n[Soft Skill]\n1. 邏輯思考與問題分析能力\n2. 快速學習、適應新技術的能力\n3. 自我驅動、主動改善的工作態度\n4. 跨功能溝通能力（與 PM、設計師、業務單位協作）\n5. 擁抱技術棧轉換，視學新技術為樂趣\n6. 完整的軟體開發流程經驗\n7. 樂於技術分享與推廣\n8. 有撰寫技術文件的習慣\n9. Product Mindset，能從使用者需求出發"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "90clf",
+    "job_url": "https://www.104.com.tw/job/90clf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90clf.json",
+    "raw_sha256": "68b69f6a7fd575d26724c38d679a2ab9ad08b37d9e4f7c22dbf8e52f866f7cfb",
+    "requested_url": "https://www.104.com.tw/api/jobs/90clf"
+  }
+}

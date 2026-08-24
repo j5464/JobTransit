@@ -1,0 +1,220 @@
+{
+  "company": {
+    "id": "12st7620",
+    "name": "金展空調股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "機電技師／工程師",
+      "水電及其他工程繪圖人員",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "水電、空調、消防、系統設計、整合、分析、繪圖、估算"
+    },
+    "employment_type_raw": "全職",
+    "title": "MEP系統設計工程師（水電、空調、消防..等專業數位化作業、熟bim運用者佳）"
+  },
+  "location": {
+    "address_raw": "台北市大安區信義路三段41號2樓",
+    "raw": "台北市大安區信義路三段41號2樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "冷凍空調相關",
+          "電機電子工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "冷凍空調相關、電機電子工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "Revit",
+          "AutoCad 2D",
+          "ArchiCAD",
+          "AutoCAD",
+          "AutoCad 3D",
+          "Oracle ERP"
+        ],
+        "label": "擅長工具",
+        "text": "Revit、AutoCad 2D、ArchiCAD、AutoCAD、AutoCad 3D、Oracle ERP"
+      },
+      {
+        "items": [
+          "水電相關圖表繪製",
+          "工程圖識圖與繪圖",
+          "施工圖與裝配圖繪製",
+          "電力工程裝修與控制",
+          "電機設備採購",
+          "冷凍空調工程之規劃施工"
+        ],
+        "label": "工作技能",
+        "text": "水電相關圖表繪製、工程圖識圖與繪圖、施工圖與裝配圖繪製、電力工程裝修與控制、電機設備採購、冷凍空調工程之規劃施工"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "冷凍空調相關",
+      "電機電子工程相關",
+      "機械工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "水電相關圖表繪製",
+      "工程圖識圖與繪圖",
+      "施工圖與裝配圖繪製",
+      "電力工程裝修與控制",
+      "電機設備採購",
+      "冷凍空調工程之規劃施工"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：冷凍空調相關、電機電子工程相關、機械工程相關\n擅長工具：Revit、AutoCad 2D、ArchiCAD、AutoCAD、AutoCad 3D、Oracle ERP\n工作技能：水電相關圖表繪製、工程圖識圖與繪圖、施工圖與裝配圖繪製、電力工程裝修與控制、電機設備採購、冷凍空調工程之規劃施工",
+    "tools": [
+      "Revit",
+      "AutoCad 2D",
+      "ArchiCAD",
+      "AutoCAD",
+      "AutoCad 3D",
+      "Oracle ERP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 28
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:32:10+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "水電、空調、消防、系統設計、整合、分析、繪圖、估算",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "機電技師／工程師",
+            "水電及其他工程繪圖人員",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "機電技師／工程師、水電及其他工程繪圖人員、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區信義路三段41號2樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "水電、空調、消防、系統設計、整合、分析、繪圖、估算"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "冷凍空調相關",
+            "電機電子工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "冷凍空調相關、電機電子工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Revit",
+            "AutoCad 2D",
+            "ArchiCAD",
+            "AutoCAD",
+            "AutoCad 3D",
+            "Oracle ERP"
+          ],
+          "label": "擅長工具",
+          "text": "Revit、AutoCad 2D、ArchiCAD、AutoCAD、AutoCad 3D、Oracle ERP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "水電相關圖表繪製",
+            "工程圖識圖與繪圖",
+            "施工圖與裝配圖繪製",
+            "電力工程裝修與控制",
+            "電機設備採購",
+            "冷凍空調工程之規劃施工"
+          ],
+          "label": "工作技能",
+          "text": "水電相關圖表繪製、工程圖識圖與繪圖、施工圖與裝配圖繪製、電力工程裝修與控制、電機設備採購、冷凍空調工程之規劃施工",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：冷凍空調相關、電機電子工程相關、機械工程相關\n擅長工具：Revit、AutoCad 2D、ArchiCAD、AutoCAD、AutoCad 3D、Oracle ERP\n工作技能：水電相關圖表繪製、工程圖識圖與繪圖、施工圖與裝配圖繪製、電力工程裝修與控制、電機設備採購、冷凍空調工程之規劃施工"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8xkgm",
+    "job_url": "https://www.104.com.tw/job/8xkgm",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xkgm.json",
+    "raw_sha256": "b90b827f91b9ace4dda27520edd4a2801f3ed63dd29515ed570370cb006a1daa",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xkgm"
+  }
+}

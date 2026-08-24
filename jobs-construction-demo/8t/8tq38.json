@@ -1,0 +1,186 @@
+{
+  "company": {
+    "id": "12ssqens",
+    "name": "程曦資訊整合股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "資料庫管理人員",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責雲端系統、VMware vSphere、Hyper-V 之操作設定與維護管理。"
+        },
+        {
+          "children": [],
+          "text": "規劃與維護內部系統架構，確保電腦及系統穩定運作。"
+        },
+        {
+          "children": [],
+          "text": "負責軟硬體、授權管理、資訊設備之安裝、故障排除、維修、採購與汰換評估。"
+        },
+        {
+          "children": [],
+          "text": "落實資安政策、異常通報及資訊循環稽核事項。"
+        },
+        {
+          "children": [],
+          "text": "執行 Helpdesk 支援及主管交辦事項。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 FireWall、M365 管理 。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Windows、Linux 系統安裝及設定。"
+        },
+        {
+          "children": [],
+          "text": "具資訊安全概念、Trouble shooting 能力。"
+        },
+        {
+          "children": [],
+          "text": "具網路邏輯能力與設定概念（如 Firewall / VPN / Router / Switch）。"
+        },
+        {
+          "children": [],
+          "text": "具帶領同仁執行專案之經驗，能有效協調團隊分工並共同推動專案執行。"
+        },
+        {
+          "children": [],
+          "text": "主動積極、樂於接受挑戰與改變，重視團隊合作、經驗分享與溝通協調。"
+        },
+        {
+          "children": [],
+          "text": "立即投遞履歷，將有專人與您聯繫！"
+        },
+        {
+          "children": [],
+          "text": "欲進一步了解請加入官方LINE@帳號：@980ksomj"
+        }
+      ],
+      "text": "穩定可靠的技術支援，是推動團隊高效運作的關鍵力量。\n在這個角色中，你將發揮技術專業，帶領同仁共同維持資訊環境順暢運作，成為團隊安心推進工作的堅實後盾！\n✅ 工作內容\n- 負責雲端系統、VMware vSphere、Hyper-V 之操作設定與維護管理。\n- 規劃與維護內部系統架構，確保電腦及系統穩定運作。\n- 負責軟硬體、授權管理、資訊設備之安裝、故障排除、維修、採購與汰換評估。\n- 落實資安政策、異常通報及資訊循環稽核事項。\n- 執行 Helpdesk 支援及主管交辦事項。\n✅ 我們希望你具備的條件\n- 熟悉 FireWall、M365 管理 。\n- 熟悉 Windows、Linux 系統安裝及設定。\n- 具資訊安全概念、Trouble shooting 能力。\n- 具網路邏輯能力與設定概念（如 Firewall / VPN / Router / Switch）。\n- 具帶領同仁執行專案之經驗，能有效協調團隊分工並共同推動專案執行。\n- 主動積極、樂於接受挑戰與改變，重視團隊合作、經驗分享與溝通協調。\n✅ 立即加入我們！\n- 立即投遞履歷，將有專人與您聯繫！\n- 欲進一步了解請加入官方LINE@帳號：@980ksomj"
+    },
+    "employment_type_raw": "全職",
+    "title": "『 IT 技術主任』資訊發展部｜近台北車站 <72C61>"
+  },
+  "location": {
+    "address_raw": "台北市大同區重慶北路一段1-1號",
+    "raw": "台北市大同區重慶北路一段1-1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：專科以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 61
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:51:23+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "穩定可靠的技術支援，是推動團隊高效運作的關鍵力量。\n在這個角色中，你將發揮技術專業，帶領同仁共同維持資訊環境順暢運作，成為團隊安心推進工作的堅實後盾！\n✅ 工作內容\n- 負責雲端系統、VMware vSphere、Hyper-V 之操作設定與維護管理。\n- 規劃與維護內部系統架構，確保電腦及系統穩定運作。\n- 負責軟硬體、授權管理、資訊設備之安裝、故障排除、維修、採購與汰換評估。\n- 落實資安政策、異常通報及資訊循環稽核事項。\n- 執行 Helpdesk 支援及主管交辦事項。\n✅ 我們希望你具備的條件\n- 熟悉 FireWall、M365 管理 。\n- 熟悉 Windows、Linux 系統安裝及設定。\n- 具資訊安全概念、Trouble shooting 能力。\n- 具網路邏輯能力與設定概念（如 Firewall / VPN / Router / Switch）。\n- 具帶領同仁執行專案之經驗，能有效協調團隊分工並共同推動專案執行。\n- 主動積極、樂於接受挑戰與改變，重視團隊合作、經驗分享與溝通協調。\n✅ 立即加入我們！\n- 立即投遞履歷，將有專人與您聯繫！\n- 欲進一步了解請加入官方LINE@帳號：@980ksomj",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "資料庫管理人員",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、資料庫管理人員、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大同區重慶北路一段1-1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "穩定可靠的技術支援，是推動團隊高效運作的關鍵力量。\n在這個角色中，你將發揮技術專業，帶領同仁共同維持資訊環境順暢運作，成為團隊安心推進工作的堅實後盾！\n✅ 工作內容\n- 負責雲端系統、VMware vSphere、Hyper-V 之操作設定與維護管理。\n- 規劃與維護內部系統架構，確保電腦及系統穩定運作。\n- 負責軟硬體、授權管理、資訊設備之安裝、故障排除、維修、採購與汰換評估。\n- 落實資安政策、異常通報及資訊循環稽核事項。\n- 執行 Helpdesk 支援及主管交辦事項。\n✅ 我們希望你具備的條件\n- 熟悉 FireWall、M365 管理 。\n- 熟悉 Windows、Linux 系統安裝及設定。\n- 具資訊安全概念、Trouble shooting 能力。\n- 具網路邏輯能力與設定概念（如 Firewall / VPN / Router / Switch）。\n- 具帶領同仁執行專案之經驗，能有效協調團隊分工並共同推動專案執行。\n- 主動積極、樂於接受挑戰與改變，重視團隊合作、經驗分享與溝通協調。\n✅ 立即加入我們！\n- 立即投遞履歷，將有專人與您聯繫！\n- 欲進一步了解請加入官方LINE@帳號：@980ksomj"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：專科以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8tq38",
+    "job_url": "https://www.104.com.tw/job/8tq38",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8tq38.json",
+    "raw_sha256": "74b65590ec7ee923079a0e8bcc823b2ffd6773740e8b24cd27c19b85711aa4c1",
+    "requested_url": "https://www.104.com.tw/api/jobs/8tq38"
+  }
+}

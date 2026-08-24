@@ -1,0 +1,268 @@
+{
+  "company": {
+    "id": "12n5ajpk",
+    "name": "普萊德科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "通訊軟體工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop and maintain Embedded Linux firmware for networking products."
+        },
+        {
+          "children": [],
+          "text": "Participate in Board Bring up and system integration."
+        },
+        {
+          "children": [],
+          "text": "Develop Layer 2 / Layer 3 Ethernet networking features."
+        },
+        {
+          "children": [],
+          "text": "Perform firmware debugging, issue analysis, and software maintenance."
+        },
+        {
+          "children": [],
+          "text": "Support cybersecurity enhancement, vulnerability analysis, and secure firmware development."
+        },
+        {
+          "children": [],
+          "text": "Utilize AI-assisted development tools to improve coding, debugging, testing, and documentation efficiency."
+        }
+      ],
+      "text": "1.Develop and maintain Embedded Linux firmware for networking products.\n2.Participate in Board Bring up and system integration.\n3.Develop Layer 2 / Layer 3 Ethernet networking features.\n4.Perform firmware debugging, issue analysis, and software maintenance.\n5.Support cybersecurity enhancement, vulnerability analysis, and secure firmware development.\n6.Utilize AI-assisted development tools to improve coding, debugging, testing, and documentation efficiency.\n【加入我們吧！】\n加入PLANET, 在這裡一起工作、一起成長、一起享受健康人生!\n您加入PLANET的三大原因:\n★ 有福利: 各式獎金、員工分紅及許多優於法規的保障。更推動「幸福安康職場」全面守護員工身心健康!\n★ 有訓練: 新人訓、在職訓、多元內外訓… 讓您在職涯道路上穩步向前邁進!\n★ 有團隊: 我們樂於聆聽每個成員的想法, 在友善幸福文化中, 與理念相近的夥伴一同努力!"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟/韌體(高級)工程師"
+  },
+  "location": {
+    "address_raw": "新北市新店區民權路96號11樓",
+    "raw": "新北市新店區民權路96號11樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "AJAX",
+          "C",
+          "C++",
+          "CGI",
+          "Java",
+          "Python",
+          "SWIFT",
+          "HTML",
+          "JavaScript",
+          "XML",
+          "jQuery",
+          "CSS",
+          "Node.js",
+          "OneNote"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、AJAX、C、C++、CGI、Java、Python、SWIFT、HTML、JavaScript、XML、jQuery、CSS、Node.js、OneNote"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "-我們希望您具備-\n1.Basic knowledge of Embedded Linux systems.\n2.Familiar with C programming.\n3.Familiar with Git and software development workflows.\n4.Knowledge of networking concepts (TCP/IP and Ethernet) is a plus.\n5.Familiar with AI-assisted development tools for software engineering.\n-有以下條件更加分-\n1.Interest or basic knowledge in cybersecurity, CVE/CVSS, and secure firmware.\n2.Interest or experience in IEC 62443, EU CRA, or RED EN 18031 is a plus.\n3.Experience open-source contributions is a plus."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "-我們希望您具備-\n1.Basic knowledge of Embedded Linux systems.\n2.Familiar with C programming.\n3.Familiar with Git and software development workflows.\n4.Knowledge of networking concepts (TCP/IP and Ethernet) is a plus.\n5.Familiar with AI-assisted development tools for software engineering.\n-有以下條件更加分-\n1.Interest or basic knowledge in cybersecurity, CVE/CVSS, and secure firmware.\n2.Interest or experience in IEC 62443, EU CRA, or RED EN 18031 is a plus.\n3.Experience open-source contributions is a plus.",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、AJAX、C、C++、CGI、Java、Python、SWIFT、HTML、JavaScript、XML、jQuery、CSS、Node.js、OneNote\n其他條件：-我們希望您具備-\n1.Basic knowledge of Embedded Linux systems.\n2.Familiar with C programming.\n3.Familiar with Git and software development workflows.\n4.Knowledge of networking concepts (TCP/IP and Ethernet) is a plus.\n5.Familiar with AI-assisted development tools for software engineering.\n-有以下條件更加分-\n1.Interest or basic knowledge in cybersecurity, CVE/CVSS, and secure firmware.\n2.Interest or experience in IEC 62443, EU CRA, or RED EN 18031 is a plus.\n3.Experience open-source contributions is a plus.",
+    "tools": [
+      "Linux",
+      "AJAX",
+      "C",
+      "C++",
+      "CGI",
+      "Java",
+      "Python",
+      "SWIFT",
+      "HTML",
+      "JavaScript",
+      "XML",
+      "jQuery",
+      "CSS",
+      "Node.js",
+      "OneNote"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 97
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:20:15+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.Develop and maintain Embedded Linux firmware for networking products.\n2.Participate in Board Bring up and system integration.\n3.Develop Layer 2 / Layer 3 Ethernet networking features.\n4.Perform firmware debugging, issue analysis, and software maintenance.\n5.Support cybersecurity enhancement, vulnerability analysis, and secure firmware development.\n6.Utilize AI-assisted development tools to improve coding, debugging, testing, and documentation efficiency.\n【加入我們吧！】\n加入PLANET, 在這裡一起工作、一起成長、一起享受健康人生!\n您加入PLANET的三大原因:\n★ 有福利: 各式獎金、員工分紅及許多優於法規的保障。更推動「幸福安康職場」全面守護員工身心健康!\n★ 有訓練: 新人訓、在職訓、多元內外訓… 讓您在職涯道路上穩步向前邁進!\n★ 有團隊: 我們樂於聆聽每個成員的想法, 在友善幸福文化中, 與理念相近的夥伴一同努力!",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "通訊軟體工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、通訊軟體工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區民權路96號11樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.Develop and maintain Embedded Linux firmware for networking products.\n2.Participate in Board Bring up and system integration.\n3.Develop Layer 2 / Layer 3 Ethernet networking features.\n4.Perform firmware debugging, issue analysis, and software maintenance.\n5.Support cybersecurity enhancement, vulnerability analysis, and secure firmware development.\n6.Utilize AI-assisted development tools to improve coding, debugging, testing, and documentation efficiency.\n【加入我們吧！】\n加入PLANET, 在這裡一起工作、一起成長、一起享受健康人生!\n您加入PLANET的三大原因:\n★ 有福利: 各式獎金、員工分紅及許多優於法規的保障。更推動「幸福安康職場」全面守護員工身心健康!\n★ 有訓練: 新人訓、在職訓、多元內外訓… 讓您在職涯道路上穩步向前邁進!\n★ 有團隊: 我們樂於聆聽每個成員的想法, 在友善幸福文化中, 與理念相近的夥伴一同努力!"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "AJAX",
+            "C",
+            "C++",
+            "CGI",
+            "Java",
+            "Python",
+            "SWIFT",
+            "HTML",
+            "JavaScript",
+            "XML",
+            "jQuery",
+            "CSS",
+            "Node.js",
+            "OneNote"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、AJAX、C、C++、CGI、Java、Python、SWIFT、HTML、JavaScript、XML、jQuery、CSS、Node.js、OneNote",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "-我們希望您具備-\n1.Basic knowledge of Embedded Linux systems.\n2.Familiar with C programming.\n3.Familiar with Git and software development workflows.\n4.Knowledge of networking concepts (TCP/IP and Ethernet) is a plus.\n5.Familiar with AI-assisted development tools for software engineering.\n-有以下條件更加分-\n1.Interest or basic knowledge in cybersecurity, CVE/CVSS, and secure firmware.\n2.Interest or experience in IEC 62443, EU CRA, or RED EN 18031 is a plus.\n3.Experience open-source contributions is a plus.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、AJAX、C、C++、CGI、Java、Python、SWIFT、HTML、JavaScript、XML、jQuery、CSS、Node.js、OneNote\n其他條件：-我們希望您具備-\n1.Basic knowledge of Embedded Linux systems.\n2.Familiar with C programming.\n3.Familiar with Git and software development workflows.\n4.Knowledge of networking concepts (TCP/IP and Ethernet) is a plus.\n5.Familiar with AI-assisted development tools for software engineering.\n-有以下條件更加分-\n1.Interest or basic knowledge in cybersecurity, CVE/CVSS, and secure firmware.\n2.Interest or experience in IEC 62443, EU CRA, or RED EN 18031 is a plus.\n3.Experience open-source contributions is a plus."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8y56z",
+    "job_url": "https://www.104.com.tw/job/8y56z",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8y56z.json",
+    "raw_sha256": "48da9d2e938db396911ac1f0f9017bfff4645bdedeecf6f2b362fce0a8891d96",
+    "requested_url": "https://www.104.com.tw/api/jobs/8y56z"
+  }
+}

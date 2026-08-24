@@ -1,0 +1,188 @@
+{
+  "company": {
+    "id": "1a2x6biutg",
+    "name": "宇辰系統科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "營運管理師／系統整合／ERP專案師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "鼎新TIPTOP ERP系統與報表程式開發與問題排除(全模組)。"
+        },
+        {
+          "children": [],
+          "text": "與使用者溝通協調、需求分析、設計、規劃及相關系統文件製作。"
+        },
+        {
+          "children": [],
+          "text": "與同事協同合作開發程式、應用系統整合及資料串接。"
+        },
+        {
+          "children": [],
+          "text": "使用者教育訓練與問題處理及排除"
+        },
+        {
+          "children": [],
+          "text": "其他專案及主管交辦事項。"
+        }
+      ],
+      "text": "1. 鼎新TIPTOP ERP系統與報表程式開發與問題排除(全模組)。\n2. 與使用者溝通協調、需求分析、設計、規劃及相關系統文件製作。\n3. 與同事協同合作開發程式、應用系統整合及資料串接。\n4. 使用者教育訓練與問題處理及排除\n5. 其他專案及主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "122.資訊部-ERP工程師"
+  },
+  "location": {
+    "address_raw": "新竹市東美路91巷5號4樓",
+    "raw": "新竹市東美路91巷5號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Linux",
+          "Oracle",
+          "鼎新"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Oracle、鼎新"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉鼎新TIPTOP"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "熟悉鼎新TIPTOP",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：Linux、Oracle、鼎新\n其他條件：熟悉鼎新TIPTOP",
+    "tools": [
+      "Linux",
+      "Oracle",
+      "鼎新"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 97
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:21:21+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 鼎新TIPTOP ERP系統與報表程式開發與問題排除(全模組)。\n2. 與使用者溝通協調、需求分析、設計、規劃及相關系統文件製作。\n3. 與同事協同合作開發程式、應用系統整合及資料串接。\n4. 使用者教育訓練與問題處理及排除\n5. 其他專案及主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "營運管理師／系統整合／ERP專案師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、營運管理師／系統整合／ERP專案師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東美路91巷5號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 鼎新TIPTOP ERP系統與報表程式開發與問題排除(全模組)。\n2. 與使用者溝通協調、需求分析、設計、規劃及相關系統文件製作。\n3. 與同事協同合作開發程式、應用系統整合及資料串接。\n4. 使用者教育訓練與問題處理及排除\n5. 其他專案及主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Oracle",
+            "鼎新"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Oracle、鼎新",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉鼎新TIPTOP",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：Linux、Oracle、鼎新\n其他條件：熟悉鼎新TIPTOP"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7kux2",
+    "job_url": "https://www.104.com.tw/job/7kux2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7kux2.json",
+    "raw_sha256": "c38eb28e122d67554e697d2b9a8ae41d4b4f464f18a8db909845511a77c2956e",
+    "requested_url": "https://www.104.com.tw/api/jobs/7kux2"
+  }
+}

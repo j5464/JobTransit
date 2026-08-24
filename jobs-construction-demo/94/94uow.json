@@ -1,0 +1,259 @@
+{
+  "company": {
+    "id": "1a2x6bky51",
+    "name": "樂創互娛科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "DevOps 工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "雙軌架構與轉型實戰：管理已穩定運行之 K8s 專案，並主導新專案從遠端主機架構移轉至雲端的規劃與執行。"
+        },
+        {
+          "children": [],
+          "text": "充足 AI 資源：公司提供本地 AI 工作站（配備 Blackwell 雙卡）與專屬 Claude Plan，支持工程師運用 AI 優化自身工作流程。"
+        },
+        {
+          "children": [],
+          "text": "彈性工作模式：依班別提供居家辦公（WFR），晚班全時段遠端，日班部分時段遠端。"
+        },
+        {
+          "children": [],
+          "text": "維護已穩定運行於雲端與 Kubernetes (K8s) 架構之既有專案。"
+        },
+        {
+          "children": [],
+          "text": "負責新專案之遠端伺服器運維（主要透過 SSH 連線進行服務部署與可用性監控，目前工作量約佔 7-8 成）。"
+        },
+        {
+          "children": [],
+          "text": "規劃並執行新專案的架構轉型，將現有遠端伺服器上的服務逐步遷移至雲端平台與 Kubernetes / Docker-compose 容器化架構。"
+        },
+        {
+          "children": [],
+          "text": "負責雲端對象儲存（Object Storage）、CDN 與 DNS 的規劃、建置與操作維護。"
+        },
+        {
+          "children": [],
+          "text": "負責自建 CDN Infrastructure 及其架構運維。"
+        },
+        {
+          "children": [],
+          "text": "負責海內外主流 CDN 平台之配置與管理。"
+        },
+        {
+          "children": [],
+          "text": "協同 B2B 客戶技術對接，於發生異常或客戶交付特定需求時，進行及時排障與支援（例行性事務由 24/7 NOC 團隊處理）。"
+        },
+        {
+          "children": [],
+          "text": "建置 CI/CD 工具與自動化腳本，進行雲端使用成本估算與控制。"
+        },
+        {
+          "children": [],
+          "text": "3 年以上雲端環境配置、運營與管理經驗（資歷較淺者將視為 SysOps 工程師）。"
+        },
+        {
+          "children": [],
+          "text": "熟悉主流雲端平台及 Kubernetes、Docker-compose 容器化技術。"
+        },
+        {
+          "children": [],
+          "text": "具備透過 SSH 進行遠端伺服器服務部署與監控之實務經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟練使用 Terraform、argoCD、jenkins、shell 等工具。"
+        },
+        {
+          "children": [],
+          "text": "具備 DNS、CDN 配置與自建 CDN 架構之實務經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備利用 AI 工具輔助工作的動機與熱情，能自主發揮並提升運維效率。"
+        },
+        {
+          "children": [],
+          "text": "具備跨部門溝通與 B2B 客戶技術對接支援能力。"
+        },
+        {
+          "children": [],
+          "text": "工作地點：週一至週四公司辦公（WIO），週五至週日居家辦公（WFR）。"
+        },
+        {
+          "children": [],
+          "text": "工作地點：週五至週日有排班公司辧公，其他全時段居家辦公（WFR）。"
+        },
+        {
+          "children": [],
+          "text": "法定項目：勞保、健保、陪產檢及陪產假、產假、女性生理假、勞退提撥金。"
+        },
+        {
+          "children": [],
+          "text": "辦公配備：全員標配 MacBook 筆電、人體工學椅。"
+        },
+        {
+          "children": [],
+          "text": "AI 資源支持：專屬 Claude Plan、團隊共用 ChatGPT 方案。本地 AI 工作站（硬體規格：96核 CPU / 768GB RAM / 192GB VRAM 雙卡 RTX PRO 6000 Blackwell / 3.6TB NVMe；預載模型：Qwen3 Coder、MiniMax、Mistral 等）。"
+        }
+      ],
+      "text": "【職務亮點】\n● 雙軌架構與轉型實戰：管理已穩定運行之 K8s 專案，並主導新專案從遠端主機架構移轉至雲端的規劃與執行。\n● 充足 AI 資源：公司提供本地 AI 工作站（配備 Blackwell 雙卡）與專屬 Claude Plan，支持工程師運用 AI 優化自身工作流程。\n● 彈性工作模式：依班別提供居家辦公（WFR），晚班全時段遠端，日班部分時段遠端。\n【工作內容】\n一、 多專案運維與雲端移轉\n● 維護已穩定運行於雲端與 Kubernetes (K8s) 架構之既有專案。\n● 負責新專案之遠端伺服器運維（主要透過 SSH 連線進行服務部署與可用性監控，目前工作量約佔 7-8 成）。\n● 規劃並執行新專案的架構轉型，將現有遠端伺服器上的服務逐步遷移至雲端平台與 Kubernetes / Docker-compose 容器化架構。\n二、 網絡與 CDN 基礎設施建置\n● 負責雲端對象儲存（Object Storage）、CDN 與 DNS 的規劃、建置與操作維護。\n● 負責自建 CDN Infrastructure 及其架構運維。\n● 負責海內外主流 CDN 平台之配置與管理。\n三、 客戶技術支援與自動化\n● 協同 B2B 客戶技術對接，於發生異常或客戶交付特定需求時，進行及時排障與支援（例行性事務由 24/7 NOC 團隊處理）。\n● 建置 CI/CD 工具與自動化腳本，進行雲端使用成本估算與控制。\n【條件要求】\n一、 年資與架構經驗\n● 3 年以上雲端環境配置、運營與管理經驗（資歷較淺者將視為 SysOps 工程師）。\n● 熟悉主流雲端平台及 Kubernetes、Docker-compose 容器化技術。\n● 具備透過 SSH 進行遠端伺服器服務部署與監控之實務經驗。\n二、 工具鏈掌握\n● 熟練使用 Terraform、argoCD、jenkins、shell 等工具。\n● 具備 DNS、CDN 配置與自建 CDN 架構之實務經驗。\n三、 個人特質\n● 具備利用 AI 工具輔助工作的動機與熱情，能自主發揮並提升運維效率。\n● 具備跨部門溝通與 B2B 客戶技術對接支援能力。\n【工作時間與地點】(輪班制)\n一、 日班（2人）：10:00 至 19:00（休息時間 12:30 至 13:30）\n● 工作地點：週一至週四公司辦公（WIO），週五至週日居家辦公（WFR）。\n二、 晚班（2人）：18:00 至 03:00（休息時間 22:00 至 23:00）\n● 工作地點：週五至週日有排班公司辧公，其他全時段居家辦公（WFR）。\n三、 休假制度：排休制，依當月紅字天數排定（確保每日每班皆有人員在職）。\n【福利制度】\n● 法定項目：勞保、健保、陪產檢及陪產假、產假、女性生理假、勞退提撥金。\n● 辦公配備：全員標配 MacBook 筆電、人體工學椅。\n● AI 資源支持：專屬 Claude Plan、團隊共用 ChatGPT 方案。本地 AI 工作站（硬體規格：96核 CPU / 768GB RAM / 192GB VRAM 雙卡 RTX PRO 6000 Blackwell / 3.6TB NVMe；預載模型：Qwen3 Coder、MiniMax、Mistral 等）。"
+    },
+    "employment_type_raw": "全職",
+    "title": "[高雄]-DevOps 運維工程師 (AI 輔助運維)"
+  },
+  "location": {
+    "address_raw": "高雄市左營區",
+    "raw": "高雄市左營區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Kubernetes",
+          "AWS"
+        ],
+        "label": "擅長工具",
+        "text": "Kubernetes、AWS"
+      },
+      {
+        "items": [
+          "CI/CD"
+        ],
+        "label": "工作技能",
+        "text": "CI/CD"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "CI/CD"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：Kubernetes、AWS\n工作技能：CI/CD",
+    "tools": [
+      "Kubernetes",
+      "AWS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 40
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:01:21+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職務亮點】\n● 雙軌架構與轉型實戰：管理已穩定運行之 K8s 專案，並主導新專案從遠端主機架構移轉至雲端的規劃與執行。\n● 充足 AI 資源：公司提供本地 AI 工作站（配備 Blackwell 雙卡）與專屬 Claude Plan，支持工程師運用 AI 優化自身工作流程。\n● 彈性工作模式：依班別提供居家辦公（WFR），晚班全時段遠端，日班部分時段遠端。\n【工作內容】\n一、 多專案運維與雲端移轉\n● 維護已穩定運行於雲端與 Kubernetes (K8s) 架構之既有專案。\n● 負責新專案之遠端伺服器運維（主要透過 SSH 連線進行服務部署與可用性監控，目前工作量約佔 7-8 成）。\n● 規劃並執行新專案的架構轉型，將現有遠端伺服器上的服務逐步遷移至雲端平台與 Kubernetes / Docker-compose 容器化架構。\n二、 網絡與 CDN 基礎設施建置\n● 負責雲端對象儲存（Object Storage）、CDN 與 DNS 的規劃、建置與操作維護。\n● 負責自建 CDN Infrastructure 及其架構運維。\n● 負責海內外主流 CDN 平台之配置與管理。\n三、 客戶技術支援與自動化\n● 協同 B2B 客戶技術對接，於發生異常或客戶交付特定需求時，進行及時排障與支援（例行性事務由 24/7 NOC 團隊處理）。\n● 建置 CI/CD 工具與自動化腳本，進行雲端使用成本估算與控制。\n【條件要求】\n一、 年資與架構經驗\n● 3 年以上雲端環境配置、運營與管理經驗（資歷較淺者將視為 SysOps 工程師）。\n● 熟悉主流雲端平台及 Kubernetes、Docker-compose 容器化技術。\n● 具備透過 SSH 進行遠端伺服器服務部署與監控之實務經驗。\n二、 工具鏈掌握\n● 熟練使用 Terraform、argoCD、jenkins、shell 等工具。\n● 具備 DNS、CDN 配置與自建 CDN 架構之實務經驗。\n三、 個人特質\n● 具備利用 AI 工具輔助工作的動機與熱情，能自主發揮並提升運維效率。\n● 具備跨部門溝通與 B2B 客戶技術對接支援能力。\n【工作時間與地點】(輪班制)\n一、 日班（2人）：10:00 至 19:00（休息時間 12:30 至 13:30）\n● 工作地點：週一至週四公司辦公（WIO），週五至週日居家辦公（WFR）。\n二、 晚班（2人）：18:00 至 03:00（休息時間 22:00 至 23:00）\n● 工作地點：週五至週日有排班公司辧公，其他全時段居家辦公（WFR）。\n三、 休假制度：排休制，依當月紅字天數排定（確保每日每班皆有人員在職）。\n【福利制度】\n● 法定項目：勞保、健保、陪產檢及陪產假、產假、女性生理假、勞退提撥金。\n● 辦公配備：全員標配 MacBook 筆電、人體工學椅。\n● AI 資源支持：專屬 Claude Plan、團隊共用 ChatGPT 方案。本地 AI 工作站（硬體規格：96核 CPU / 768GB RAM / 192GB VRAM 雙卡 RTX PRO 6000 Blackwell / 3.6TB NVMe；預載模型：Qwen3 Coder、MiniMax、Mistral 等）。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "DevOps 工程師"
+          ],
+          "label": "職務類別",
+          "text": "DevOps 工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市左營區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職務亮點】\n● 雙軌架構與轉型實戰：管理已穩定運行之 K8s 專案，並主導新專案從遠端主機架構移轉至雲端的規劃與執行。\n● 充足 AI 資源：公司提供本地 AI 工作站（配備 Blackwell 雙卡）與專屬 Claude Plan，支持工程師運用 AI 優化自身工作流程。\n● 彈性工作模式：依班別提供居家辦公（WFR），晚班全時段遠端，日班部分時段遠端。\n【工作內容】\n一、 多專案運維與雲端移轉\n● 維護已穩定運行於雲端與 Kubernetes (K8s) 架構之既有專案。\n● 負責新專案之遠端伺服器運維（主要透過 SSH 連線進行服務部署與可用性監控，目前工作量約佔 7-8 成）。\n● 規劃並執行新專案的架構轉型，將現有遠端伺服器上的服務逐步遷移至雲端平台與 Kubernetes / Docker-compose 容器化架構。\n二、 網絡與 CDN 基礎設施建置\n● 負責雲端對象儲存（Object Storage）、CDN 與 DNS 的規劃、建置與操作維護。\n● 負責自建 CDN Infrastructure 及其架構運維。\n● 負責海內外主流 CDN 平台之配置與管理。\n三、 客戶技術支援與自動化\n● 協同 B2B 客戶技術對接，於發生異常或客戶交付特定需求時，進行及時排障與支援（例行性事務由 24/7 NOC 團隊處理）。\n● 建置 CI/CD 工具與自動化腳本，進行雲端使用成本估算與控制。\n【條件要求】\n一、 年資與架構經驗\n● 3 年以上雲端環境配置、運營與管理經驗（資歷較淺者將視為 SysOps 工程師）。\n● 熟悉主流雲端平台及 Kubernetes、Docker-compose 容器化技術。\n● 具備透過 SSH 進行遠端伺服器服務部署與監控之實務經驗。\n二、 工具鏈掌握\n● 熟練使用 Terraform、argoCD、jenkins、shell 等工具。\n● 具備 DNS、CDN 配置與自建 CDN 架構之實務經驗。\n三、 個人特質\n● 具備利用 AI 工具輔助工作的動機與熱情，能自主發揮並提升運維效率。\n● 具備跨部門溝通與 B2B 客戶技術對接支援能力。\n【工作時間與地點】(輪班制)\n一、 日班（2人）：10:00 至 19:00（休息時間 12:30 至 13:30）\n● 工作地點：週一至週四公司辦公（WIO），週五至週日居家辦公（WFR）。\n二、 晚班（2人）：18:00 至 03:00（休息時間 22:00 至 23:00）\n● 工作地點：週五至週日有排班公司辧公，其他全時段居家辦公（WFR）。\n三、 休假制度：排休制，依當月紅字天數排定（確保每日每班皆有人員在職）。\n【福利制度】\n● 法定項目：勞保、健保、陪產檢及陪產假、產假、女性生理假、勞退提撥金。\n● 辦公配備：全員標配 MacBook 筆電、人體工學椅。\n● AI 資源支持：專屬 Claude Plan、團隊共用 ChatGPT 方案。本地 AI 工作站（硬體規格：96核 CPU / 768GB RAM / 192GB VRAM 雙卡 RTX PRO 6000 Blackwell / 3.6TB NVMe；預載模型：Qwen3 Coder、MiniMax、Mistral 等）。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Kubernetes",
+            "AWS"
+          ],
+          "label": "擅長工具",
+          "text": "Kubernetes、AWS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "CI/CD"
+          ],
+          "label": "工作技能",
+          "text": "CI/CD",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：Kubernetes、AWS\n工作技能：CI/CD"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94uow",
+    "job_url": "https://www.104.com.tw/job/94uow",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94uow.json",
+    "raw_sha256": "03bc00c1bc905b1eaf6084b819e61c993e533b3b707a8f8a0cb95f261a025c96",
+    "requested_url": "https://www.104.com.tw/api/jobs/94uow"
+  }
+}

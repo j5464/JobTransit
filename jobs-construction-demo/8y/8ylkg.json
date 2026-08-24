@@ -1,0 +1,207 @@
+{
+  "company": {
+    "id": "whxr060",
+    "name": "佑全保健藥妝/健康人生藥局/札幌藥粧_佑全藥品股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資訊助理",
+      "其他資訊專業人員",
+      "資訊設備管制人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "程式撰寫能力，必需會HTML、CSS、Javascript、PHP、Ajax、SQL"
+        },
+        {
+          "children": [],
+          "text": "維護公司自製PHP內部網站系統"
+        },
+        {
+          "children": [],
+          "text": "電腦及周邊設備安裝，設定問題排除"
+        },
+        {
+          "children": [],
+          "text": "軟體系統維護設定、安裝及問題排除"
+        },
+        {
+          "children": [],
+          "text": "管理與維護公司網路及應用系統的穩定運作"
+        },
+        {
+          "children": [],
+          "text": "主管交辦其他事項"
+        }
+      ],
+      "text": "1.程式撰寫能力，必需會HTML、CSS、Javascript、PHP、Ajax、SQL\n2.維護公司自製PHP內部網站系統\n3.電腦及周邊設備安裝，設定問題排除\n4.軟體系統維護設定、安裝及問題排除\n5.管理與維護公司網路及應用系統的穩定運作\n6.主管交辦其他事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊專員"
+  },
+  "location": {
+    "address_raw": "台中市西屯區臺灣大道四段925號20樓之1",
+    "raw": "台中市西屯區臺灣大道四段925號20樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Word",
+          "Excel",
+          "Outlook",
+          "PHP",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "Word、Excel、Outlook、PHP、CSS"
+      },
+      {
+        "items": [
+          "資訊設備操作檢修",
+          "伺服器網站管理維護"
+        ],
+        "label": "工作技能",
+        "text": "資訊設備操作檢修、伺服器網站管理維護"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "資訊設備操作檢修",
+      "伺服器網站管理維護"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：Word、Excel、Outlook、PHP、CSS\n工作技能：資訊設備操作檢修、伺服器網站管理維護",
+    "tools": [
+      "Word",
+      "Excel",
+      "Outlook",
+      "PHP",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:56:52+08:00"
+  },
+  "salary": {
+    "raw": "月薪30,000~40,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.程式撰寫能力，必需會HTML、CSS、Javascript、PHP、Ajax、SQL\n2.維護公司自製PHP內部網站系統\n3.電腦及周邊設備安裝，設定問題排除\n4.軟體系統維護設定、安裝及問題排除\n5.管理與維護公司網路及應用系統的穩定運作\n6.主管交辦其他事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資訊助理",
+            "其他資訊專業人員",
+            "資訊設備管制人員"
+          ],
+          "label": "職務類別",
+          "text": "資訊助理、其他資訊專業人員、資訊設備管制人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪30,000~40,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區臺灣大道四段925號20樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.程式撰寫能力，必需會HTML、CSS、Javascript、PHP、Ajax、SQL\n2.維護公司自製PHP內部網站系統\n3.電腦及周邊設備安裝，設定問題排除\n4.軟體系統維護設定、安裝及問題排除\n5.管理與維護公司網路及應用系統的穩定運作\n6.主管交辦其他事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Word",
+            "Excel",
+            "Outlook",
+            "PHP",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "Word、Excel、Outlook、PHP、CSS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊設備操作檢修",
+            "伺服器網站管理維護"
+          ],
+          "label": "工作技能",
+          "text": "資訊設備操作檢修、伺服器網站管理維護",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：Word、Excel、Outlook、PHP、CSS\n工作技能：資訊設備操作檢修、伺服器網站管理維護"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ylkg",
+    "job_url": "https://www.104.com.tw/job/8ylkg",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ylkg.json",
+    "raw_sha256": "03d801529df2d4562c5b83eecbf3cf2e4f6747d69cfdffb7ad9a7e515a114d41",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ylkg"
+  }
+}

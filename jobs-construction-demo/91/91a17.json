@@ -1,0 +1,220 @@
+{
+  "company": {
+    "id": "7k3gko0",
+    "name": "聚恆科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "數據分析師／資料分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "運用統計方法與邏輯推演釐清商業問題，挖掘經營機會點"
+        },
+        {
+          "children": [],
+          "text": "使用Excel、Power BI、PPT製作圖/報表，將複雜數據轉化為易讀數據"
+        },
+        {
+          "children": [],
+          "text": "長期追蹤再生能源（太陽能、儲能）全球趨勢與政策動向，參與新業務模式與商業計畫的構思與推進"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項"
+        }
+      ],
+      "text": "聚恆深耕再生能源產業，我們正在尋找一位具備強邏輯、統計與數據分析能力的夥伴。透過數據蒐集、財務思維與視覺化產出，直接協助管理層進行決策判斷。\n【工作內容】\n1. 運用統計方法與邏輯推演釐清商業問題，挖掘經營機會點\n2. 使用Excel、Power BI、PPT製作圖/報表，將複雜數據轉化為易讀數據\n3. 長期追蹤再生能源（太陽能、儲能）全球趨勢與政策動向，參與新業務模式與商業計畫的構思與推進\n4. 其他主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "數據分析師"
+  },
+  "location": {
+    "address_raw": "台南市永康區永科環路168號",
+    "raw": "台南市永康區永科環路168號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Excel",
+          "Word",
+          "PowerPoint",
+          "Outlook",
+          "Power BI​"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Word、PowerPoint、Outlook、Power BI​"
+      },
+      {
+        "items": [
+          "數據分析"
+        ],
+        "label": "工作技能",
+        "text": "數據分析"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分條件】\n• 數據分析、策略規劃經驗，具備統計基礎、財務報表分析或財務建模能力尤佳\n• 邏輯思考能力強，能將複雜數據「化繁為簡」為直覺式圖表的能力\n• 精通Excel、Power BI 等數據分析工具"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "【加分條件】\n• 數據分析、策略規劃經驗，具備統計基礎、財務報表分析或財務建模能力尤佳\n• 邏輯思考能力強，能將複雜數據「化繁為簡」為直覺式圖表的能力\n• 精通Excel、Power BI 等數據分析工具",
+    "skills": [
+      "數據分析"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Word、PowerPoint、Outlook、Power BI​\n工作技能：數據分析\n其他條件：【加分條件】\n• 數據分析、策略規劃經驗，具備統計基礎、財務報表分析或財務建模能力尤佳\n• 邏輯思考能力強，能將複雜數據「化繁為簡」為直覺式圖表的能力\n• 精通Excel、Power BI 等數據分析工具",
+    "tools": [
+      "Excel",
+      "Word",
+      "PowerPoint",
+      "Outlook",
+      "Power BI​"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 73
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:22:25+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "聚恆深耕再生能源產業，我們正在尋找一位具備強邏輯、統計與數據分析能力的夥伴。透過數據蒐集、財務思維與視覺化產出，直接協助管理層進行決策判斷。\n【工作內容】\n1. 運用統計方法與邏輯推演釐清商業問題，挖掘經營機會點\n2. 使用Excel、Power BI、PPT製作圖/報表，將複雜數據轉化為易讀數據\n3. 長期追蹤再生能源（太陽能、儲能）全球趨勢與政策動向，參與新業務模式與商業計畫的構思與推進\n4. 其他主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "數據分析師／資料分析師"
+          ],
+          "label": "職務類別",
+          "text": "數據分析師／資料分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市永康區永科環路168號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "聚恆深耕再生能源產業，我們正在尋找一位具備強邏輯、統計與數據分析能力的夥伴。透過數據蒐集、財務思維與視覺化產出，直接協助管理層進行決策判斷。\n【工作內容】\n1. 運用統計方法與邏輯推演釐清商業問題，挖掘經營機會點\n2. 使用Excel、Power BI、PPT製作圖/報表，將複雜數據轉化為易讀數據\n3. 長期追蹤再生能源（太陽能、儲能）全球趨勢與政策動向，參與新業務模式與商業計畫的構思與推進\n4. 其他主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Word",
+            "PowerPoint",
+            "Outlook",
+            "Power BI​"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Word、PowerPoint、Outlook、Power BI​",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數據分析"
+          ],
+          "label": "工作技能",
+          "text": "數據分析",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分條件】\n• 數據分析、策略規劃經驗，具備統計基礎、財務報表分析或財務建模能力尤佳\n• 邏輯思考能力強，能將複雜數據「化繁為簡」為直覺式圖表的能力\n• 精通Excel、Power BI 等數據分析工具",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Word、PowerPoint、Outlook、Power BI​\n工作技能：數據分析\n其他條件：【加分條件】\n• 數據分析、策略規劃經驗，具備統計基礎、財務報表分析或財務建模能力尤佳\n• 邏輯思考能力強，能將複雜數據「化繁為簡」為直覺式圖表的能力\n• 精通Excel、Power BI 等數據分析工具"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "91a17",
+    "job_url": "https://www.104.com.tw/job/91a17",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91a17.json",
+    "raw_sha256": "12e3039011ce5e2877101d0f108e3fc6d864267fde66111e9db7142ad7c051e9",
+    "requested_url": "https://www.104.com.tw/api/jobs/91a17"
+  }
+}

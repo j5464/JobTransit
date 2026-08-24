@@ -1,0 +1,238 @@
+{
+  "company": {
+    "id": "58a7wj4",
+    "name": "長春石油化學股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責企業內部ERP系統程式開發與維護"
+        },
+        {
+          "children": [],
+          "text": "熟悉Oracle SQL、JAVA、C# 等程式語言"
+        },
+        {
+          "children": [],
+          "text": "支援iOS、Android 企業內部手機程式開發與維護"
+        },
+        {
+          "children": [],
+          "text": "企業內部產銷人發財系統開發與維運, 具備財務管理背景經驗加分"
+        },
+        {
+          "children": [],
+          "text": "歡迎資管、資工、資通訊與財務金融相關背景科系應徵(非本科但有相關經驗者也歡迎應徵)"
+        },
+        {
+          "children": [],
+          "text": "歡迎應屆畢業生"
+        }
+      ],
+      "text": "本職缺請至長春集團官方網站投遞個人履歷表，此職缺履歷登錄網址:\nhttps://recruit.ccp.com.tw/job/\n1. 負責企業內部ERP系統程式開發與維護\n2. 熟悉Oracle SQL、JAVA、C# 等程式語言\n3. 支援iOS、Android 企業內部手機程式開發與維護\n4. 企業內部產銷人發財系統開發與維運, 具備財務管理背景經驗加分\n4. 歡迎資管、資工、資通訊與財務金融相關背景科系應徵(非本科但有相關經驗者也歡迎應徵)\n5. 歡迎應屆畢業生"
+    },
+    "employment_type_raw": "全職",
+    "title": "【台北公司】ERP系統程式開發工程師(歡迎資管/財務資訊科系應徵)"
+  },
+  "location": {
+    "address_raw": "台北市中山區松江路301號7樓(104)",
+    "raw": "台北市中山區松江路301號7樓(104)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、資訊管理相關"
+      },
+      {
+        "items": [
+          "Android",
+          "iOS",
+          "C#",
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "Android、iOS、C#、Java"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "企業資源規劃管理(ERP)"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、企業資源規劃管理(ERP)"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件:\n1. TOEIC 700以上\n2. 主動積極, 團隊合作能力佳\n3. 溝通表達能力佳\n4. 具備解決問題能力"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "數學及電算機科學學科類",
+      "資訊管理相關"
+    ],
+    "other_text": "加分條件:\n1. TOEIC 700以上\n2. 主動積極, 團隊合作能力佳\n3. 溝通表達能力佳\n4. 具備解決問題能力",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "企業資源規劃管理(ERP)"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、資訊管理相關\n擅長工具：Android、iOS、C#、Java\n工作技能：軟體工程系統開發、軟體程式設計、企業資源規劃管理(ERP)\n其他條件：加分條件:\n1. TOEIC 700以上\n2. 主動積極, 團隊合作能力佳\n3. 溝通表達能力佳\n4. 具備解決問題能力",
+    "tools": [
+      "Android",
+      "iOS",
+      "C#",
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 10
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:46:00+08:00"
+  },
+  "salary": {
+    "raw": "月薪59,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "本職缺請至長春集團官方網站投遞個人履歷表，此職缺履歷登錄網址:\nhttps://recruit.ccp.com.tw/job/\n1. 負責企業內部ERP系統程式開發與維護\n2. 熟悉Oracle SQL、JAVA、C# 等程式語言\n3. 支援iOS、Android 企業內部手機程式開發與維護\n4. 企業內部產銷人發財系統開發與維運, 具備財務管理背景經驗加分\n4. 歡迎資管、資工、資通訊與財務金融相關背景科系應徵(非本科但有相關經驗者也歡迎應徵)\n5. 歡迎應屆畢業生",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪59,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區松江路301號7樓(104)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "本職缺請至長春集團官方網站投遞個人履歷表，此職缺履歷登錄網址:\nhttps://recruit.ccp.com.tw/job/\n1. 負責企業內部ERP系統程式開發與維護\n2. 熟悉Oracle SQL、JAVA、C# 等程式語言\n3. 支援iOS、Android 企業內部手機程式開發與維護\n4. 企業內部產銷人發財系統開發與維運, 具備財務管理背景經驗加分\n4. 歡迎資管、資工、資通訊與財務金融相關背景科系應徵(非本科但有相關經驗者也歡迎應徵)\n5. 歡迎應屆畢業生"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Android",
+            "iOS",
+            "C#",
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "Android、iOS、C#、Java",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "企業資源規劃管理(ERP)"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、企業資源規劃管理(ERP)",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件:\n1. TOEIC 700以上\n2. 主動積極, 團隊合作能力佳\n3. 溝通表達能力佳\n4. 具備解決問題能力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、資訊管理相關\n擅長工具：Android、iOS、C#、Java\n工作技能：軟體工程系統開發、軟體程式設計、企業資源規劃管理(ERP)\n其他條件：加分條件:\n1. TOEIC 700以上\n2. 主動積極, 團隊合作能力佳\n3. 溝通表達能力佳\n4. 具備解決問題能力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92tag",
+    "job_url": "https://www.104.com.tw/job/92tag",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92tag.json",
+    "raw_sha256": "dce1d8f8b56734f828d97b9ce7b5473b8c2cf1dc1bd5c36496f305fc924f5e91",
+    "requested_url": "https://www.104.com.tw/api/jobs/92tag"
+  }
+}

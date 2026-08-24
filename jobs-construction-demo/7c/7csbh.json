@@ -1,0 +1,227 @@
+{
+  "company": {
+    "id": "1a2x6blpeu",
+    "name": "英屬開曼群島商繹勝科技有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Experience with C++ on Linux or Unix-like platforms and familiar with Object-Oriented programming/ design pattern."
+        },
+        {
+          "children": [],
+          "text": "Experience with Linux or Unix-like manipulation."
+        },
+        {
+          "children": [],
+          "text": "Experience with bash shell scripting or python scripting."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of database/SQL and version control tools."
+        },
+        {
+          "children": [],
+          "text": "Understanding of computer system, multi-threading, network and performance optimization."
+        },
+        {
+          "children": [],
+          "text": "Strong understanding of algorithms and data structures."
+        },
+        {
+          "children": [],
+          "text": "Experience with developing low latency systems."
+        },
+        {
+          "children": [],
+          "text": "Create tools to maintain, deploy, monitor and analyze trading strategies."
+        },
+        {
+          "children": [],
+          "text": "Improve legacy code in terms of maintainability, CPU, memory."
+        },
+        {
+          "children": [],
+          "text": "Come up with solutions for various engineering problems."
+        }
+      ],
+      "text": "Qualifications:\n- Experience with C++ on Linux or Unix-like platforms and familiar with Object-Oriented programming/ design pattern.\n- Experience with Linux or Unix-like manipulation.\n- Experience with bash shell scripting or python scripting.\n- Knowledge of database/SQL and version control tools.\n- Understanding of computer system, multi-threading, network and performance optimization.\nPlus:\n- Strong understanding of algorithms and data structures.\n- Experience with developing low latency systems.\nResponsibility:\n- Create tools to maintain, deploy, monitor and analyze trading strategies.\n- Improve legacy code in terms of maintainability, CPU, memory.\n- Come up with solutions for various engineering problems."
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師 Software Engineer (C++)"
+  },
+  "location": {
+    "address_raw": "台北市松山區敦化北路207號9樓之2",
+    "raw": "台北市松山區敦化北路207號9樓之2"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中以上"
+      },
+      {
+        "items": [
+          "Linux",
+          "C++",
+          "OOP",
+          "Github"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、C++、OOP、Github"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統維護操作",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統維護操作、軟體工程系統開發、軟體程式設計、資料庫程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "系統架構規劃",
+      "系統維護操作",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：高中以上\n擅長工具：Linux、C++、OOP、Github\n工作技能：系統架構規劃、系統維護操作、軟體工程系統開發、軟體程式設計、資料庫程式設計",
+    "tools": [
+      "Linux",
+      "C++",
+      "OOP",
+      "Github"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:04:44+08:00"
+  },
+  "salary": {
+    "raw": "月薪65,000~130,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Qualifications:\n- Experience with C++ on Linux or Unix-like platforms and familiar with Object-Oriented programming/ design pattern.\n- Experience with Linux or Unix-like manipulation.\n- Experience with bash shell scripting or python scripting.\n- Knowledge of database/SQL and version control tools.\n- Understanding of computer system, multi-threading, network and performance optimization.\nPlus:\n- Strong understanding of algorithms and data structures.\n- Experience with developing low latency systems.\nResponsibility:\n- Create tools to maintain, deploy, monitor and analyze trading strategies.\n- Improve legacy code in terms of maintainability, CPU, memory.\n- Come up with solutions for various engineering problems.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪65,000~130,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區敦化北路207號9樓之2",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Qualifications:\n- Experience with C++ on Linux or Unix-like platforms and familiar with Object-Oriented programming/ design pattern.\n- Experience with Linux or Unix-like manipulation.\n- Experience with bash shell scripting or python scripting.\n- Knowledge of database/SQL and version control tools.\n- Understanding of computer system, multi-threading, network and performance optimization.\nPlus:\n- Strong understanding of algorithms and data structures.\n- Experience with developing low latency systems.\nResponsibility:\n- Create tools to maintain, deploy, monitor and analyze trading strategies.\n- Improve legacy code in terms of maintainability, CPU, memory.\n- Come up with solutions for various engineering problems."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "C++",
+            "OOP",
+            "Github"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、C++、OOP、Github",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統維護操作",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統維護操作、軟體工程系統開發、軟體程式設計、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：高中以上\n擅長工具：Linux、C++、OOP、Github\n工作技能：系統架構規劃、系統維護操作、軟體工程系統開發、軟體程式設計、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7csbh",
+    "job_url": "https://www.104.com.tw/job/7csbh",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7csbh.json",
+    "raw_sha256": "a86ce1b58224d391b7b86c30009157f0fb8abc4c31a140289b454be7a9e8ff9a",
+    "requested_url": "https://www.104.com.tw/api/jobs/7csbh"
+  }
+}

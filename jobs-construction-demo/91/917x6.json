@@ -1,0 +1,165 @@
+{
+  "company": {
+    "id": "53k8l08",
+    "name": "南山產物保險股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "服務水準管理： 為各Portal與中台 API 定義關鍵效能指標（SLI）與服務水準目標（SLO），並建立與 AP 開發組協作的「錯誤預算（Error Budget）」機制。"
+        },
+        {
+          "children": [],
+          "text": "自動化維運體系建置： 利用 Python 或 Go 撰寫自動化腳本，優化 CI/CD 流程，實現 Infrastructure as Code (IaC) 以符合資訊治理與合規規範。"
+        },
+        {
+          "children": [],
+          "text": "全鏈路可觀測性 ： 整合 Dynatrace 或 ELK 等工具，針對核心與異質中台間的串接進行深度監控，實作分散式鏈路追蹤。"
+        },
+        {
+          "children": [],
+          "text": "事故應變與根因分析 (RCA)： 主導重大系統事故的緊急應變，帶領委外廠商與駐點人員進行技術復盤，並將預防措施轉化為自動化防護代碼。"
+        },
+        {
+          "children": [],
+          "text": "容量規劃與壓力測試： 針對如投保高峰或新險種上線，進行系統負載預估與端到端（E2E）壓力測試。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦任務。"
+        }
+      ],
+      "text": "1.服務水準管理： 為各Portal與中台 API 定義關鍵效能指標（SLI）與服務水準目標（SLO），並建立與 AP 開發組協作的「錯誤預算（Error Budget）」機制。\n2.自動化維運體系建置： 利用 Python 或 Go 撰寫自動化腳本，優化 CI/CD 流程，實現 Infrastructure as Code (IaC) 以符合資訊治理與合規規範。\n3.全鏈路可觀測性 ： 整合 Dynatrace 或 ELK 等工具，針對核心與異質中台間的串接進行深度監控，實作分散式鏈路追蹤。\n4.事故應變與根因分析 (RCA)： 主導重大系統事故的緊急應變，帶領委外廠商與駐點人員進行技術復盤，並將預防措施轉化為自動化防護代碼。\n5.容量規劃與壓力測試： 針對如投保高峰或新險種上線，進行系統負載預估與端到端（E2E）壓力測試。\n6.其他主管交辦任務。"
+    },
+    "employment_type_raw": "全職",
+    "title": "TA【SRE 網站可靠性工程師】"
+  },
+  "location": {
+    "address_raw": "台北市中正區",
+    "raw": "台北市中正區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.經驗： 5 年以上 IT 經驗，2 年以上 SRE 或 DevOps 實務。具備金融業 SSDLC 流程經驗者優先。\n2.技術棧：\no熟練 Linux、Docker/Kubernetes 容器化平台維運。\no具備 Java 或 Python 開發實力，能閱讀並排查 Spring Boot 微服務代碼瓶頸。\no熟悉 CI/CD 工具（如 Jenkins, GitLab CI）與雲端平台管理（如 Azure/Oracle Cloud）。\n3.軟實力： 具備強大的壓力抗性，能與多個委外廠商進行技術對話與進度控管。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1.經驗： 5 年以上 IT 經驗，2 年以上 SRE 或 DevOps 實務。具備金融業 SSDLC 流程經驗者優先。\n2.技術棧：\no熟練 Linux、Docker/Kubernetes 容器化平台維運。\no具備 Java 或 Python 開發實力，能閱讀並排查 Spring Boot 微服務代碼瓶頸。\no熟悉 CI/CD 工具（如 Jenkins, GitLab CI）與雲端平台管理（如 Azure/Oracle Cloud）。\n3.軟實力： 具備強大的壓力抗性，能與多個委外廠商進行技術對話與進度控管。",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：專科、大學、碩士\n其他條件：1.經驗： 5 年以上 IT 經驗，2 年以上 SRE 或 DevOps 實務。具備金融業 SSDLC 流程經驗者優先。\n2.技術棧：\no熟練 Linux、Docker/Kubernetes 容器化平台維運。\no具備 Java 或 Python 開發實力，能閱讀並排查 Spring Boot 微服務代碼瓶頸。\no熟悉 CI/CD 工具（如 Jenkins, GitLab CI）與雲端平台管理（如 Azure/Oracle Cloud）。\n3.軟實力： 具備強大的壓力抗性，能與多個委外廠商進行技術對話與進度控管。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 60
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:49:16+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.服務水準管理： 為各Portal與中台 API 定義關鍵效能指標（SLI）與服務水準目標（SLO），並建立與 AP 開發組協作的「錯誤預算（Error Budget）」機制。\n2.自動化維運體系建置： 利用 Python 或 Go 撰寫自動化腳本，優化 CI/CD 流程，實現 Infrastructure as Code (IaC) 以符合資訊治理與合規規範。\n3.全鏈路可觀測性 ： 整合 Dynatrace 或 ELK 等工具，針對核心與異質中台間的串接進行深度監控，實作分散式鏈路追蹤。\n4.事故應變與根因分析 (RCA)： 主導重大系統事故的緊急應變，帶領委外廠商與駐點人員進行技術復盤，並將預防措施轉化為自動化防護代碼。\n5.容量規劃與壓力測試： 針對如投保高峰或新險種上線，進行系統負載預估與端到端（E2E）壓力測試。\n6.其他主管交辦任務。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.服務水準管理： 為各Portal與中台 API 定義關鍵效能指標（SLI）與服務水準目標（SLO），並建立與 AP 開發組協作的「錯誤預算（Error Budget）」機制。\n2.自動化維運體系建置： 利用 Python 或 Go 撰寫自動化腳本，優化 CI/CD 流程，實現 Infrastructure as Code (IaC) 以符合資訊治理與合規規範。\n3.全鏈路可觀測性 ： 整合 Dynatrace 或 ELK 等工具，針對核心與異質中台間的串接進行深度監控，實作分散式鏈路追蹤。\n4.事故應變與根因分析 (RCA)： 主導重大系統事故的緊急應變，帶領委外廠商與駐點人員進行技術復盤，並將預防措施轉化為自動化防護代碼。\n5.容量規劃與壓力測試： 針對如投保高峰或新險種上線，進行系統負載預估與端到端（E2E）壓力測試。\n6.其他主管交辦任務。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.經驗： 5 年以上 IT 經驗，2 年以上 SRE 或 DevOps 實務。具備金融業 SSDLC 流程經驗者優先。\n2.技術棧：\no熟練 Linux、Docker/Kubernetes 容器化平台維運。\no具備 Java 或 Python 開發實力，能閱讀並排查 Spring Boot 微服務代碼瓶頸。\no熟悉 CI/CD 工具（如 Jenkins, GitLab CI）與雲端平台管理（如 Azure/Oracle Cloud）。\n3.軟實力： 具備強大的壓力抗性，能與多個委外廠商進行技術對話與進度控管。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：專科、大學、碩士\n其他條件：1.經驗： 5 年以上 IT 經驗，2 年以上 SRE 或 DevOps 實務。具備金融業 SSDLC 流程經驗者優先。\n2.技術棧：\no熟練 Linux、Docker/Kubernetes 容器化平台維運。\no具備 Java 或 Python 開發實力，能閱讀並排查 Spring Boot 微服務代碼瓶頸。\no熟悉 CI/CD 工具（如 Jenkins, GitLab CI）與雲端平台管理（如 Azure/Oracle Cloud）。\n3.軟實力： 具備強大的壓力抗性，能與多個委外廠商進行技術對話與進度控管。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "917x6",
+    "job_url": "https://www.104.com.tw/job/917x6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/917x6.json",
+    "raw_sha256": "e3a9356de7c3fbe7841cb704404b1145f110fdb3e6c7a657a85951cfe2deb9d5",
+    "requested_url": "https://www.104.com.tw/api/jobs/917x6"
+  }
+}

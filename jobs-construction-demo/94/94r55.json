@@ -1,0 +1,257 @@
+{
+  "company": {
+    "id": "10qb84v4",
+    "name": "太引資訊系統股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發與維護系統功能，以後端 API 與資料處理為主"
+        },
+        {
+          "children": [],
+          "text": "依規格實作 RESTful API 與商業邏輯，並撰寫對應的測試"
+        },
+        {
+          "children": [],
+          "text": "撰寫與調整 SQL，進行資料查詢、比對與驗證"
+        },
+        {
+          "children": [],
+          "text": "依專案需要參與前端功能與圖表介面的實作 (Angular 或 React)"
+        },
+        {
+          "children": [],
+          "text": "重現並修復回報的問題，確認修復結果"
+        },
+        {
+          "children": [],
+          "text": "參與技術討論與部署流程"
+        },
+        {
+          "children": [],
+          "text": "能善用各種輔助工具 (AI、技術論壇) 等嘗試解決開發上的問題"
+        },
+        {
+          "children": [],
+          "text": "成為太引資訊工程師不僅會考慮技術可行性，更要學會從商業邏輯的角度切入思考"
+        },
+        {
+          "children": [],
+          "text": "團隊意識，主動 cover 和協助其他夥伴"
+        },
+        {
+          "children": [],
+          "text": "遇到不確定的事會先查證再回報，而不是憑印象推測"
+        },
+        {
+          "children": [],
+          "text": "願意接觸不熟悉的技術領域，前端或後端都不排斥"
+        },
+        {
+          "children": [],
+          "text": "具備至少一種程式語言的開發經驗 (包含但不限於 Java、Python、C#、JavaScript)，課程專題、實習或個人作品皆可"
+        },
+        {
+          "children": [],
+          "text": "使用過至少一種資料庫 (PostgreSQL、Oracle、MySQL、SQL Server 等)，能撰寫基本查詢 (SELECT、JOIN)"
+        },
+        {
+          "children": [],
+          "text": "串接或實作過 RESTful API，理解前後端如何交換資料"
+        },
+        {
+          "children": [],
+          "text": "溝通清楚，遇到問題會主動提出，能把交辦的事情完成"
+        },
+        {
+          "children": [],
+          "text": "具備 AI 輔助開發工具 (如 Claude Code、GitHub Copilot、Cursor 等) 的實際開發經驗，並能說明用於哪些開發環節、以及如何驗證產出的正確性"
+        },
+        {
+          "children": [],
+          "text": "曾使用框架完成過一個能實際執行的作品 (如 Spring Boot、Angular、React、Django 等)"
+        },
+        {
+          "children": [],
+          "text": "使用過 Git 或 SVN 進行版本控制，理解 Git Flow 或 Github Flow 等分支管理流程"
+        },
+        {
+          "children": [],
+          "text": "理解 HTTP 相關規格，例如：Status Code、Method、Header 等"
+        },
+        {
+          "children": [],
+          "text": "具備 Linux 基本操作經驗 (查看 log、確認服務執行狀態)，沒有經驗但願意學習亦可"
+        },
+        {
+          "children": [],
+          "text": "前端與後端皆有實作經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Docker / K8S Cluster 叢集管理"
+        },
+        {
+          "children": [],
+          "text": "具備 SQL 資料庫 (PostgreSQL、Oracle、MySQL 等) 或 NoSQL 資料庫 (MongoDB、Redis 等) 相關知識和經驗"
+        },
+        {
+          "children": [],
+          "text": "具備自動化測試經驗 (單元測試、整合測試、E2E 測試等)"
+        },
+        {
+          "children": [],
+          "text": "了解 CI/CD 流程與工具 (Jenkins、GitLab CI、GitHub Actions 等)"
+        },
+        {
+          "children": [],
+          "text": "具備統計基礎，或對製造業資料分析有興趣"
+        },
+        {
+          "children": [],
+          "text": "有可供檢視的作品 (GitHub、個人專案、競賽或專題成果)"
+        }
+      ],
+      "text": "【您需要做什麼？】\n• 開發與維護系統功能，以後端 API 與資料處理為主\n• 依規格實作 RESTful API 與商業邏輯，並撰寫對應的測試\n• 撰寫與調整 SQL，進行資料查詢、比對與驗證\n• 依專案需要參與前端功能與圖表介面的實作 (Angular 或 React)\n• 重現並修復回報的問題，確認修復結果\n• 參與技術討論與部署流程\n【我們期待的您】\n• 能善用各種輔助工具 (AI、技術論壇) 等嘗試解決開發上的問題\n• 成為太引資訊工程師不僅會考慮技術可行性，更要學會從商業邏輯的角度切入思考\n• 團隊意識，主動 cover 和協助其他夥伴\n• 遇到不確定的事會先查證再回報，而不是憑印象推測\n• 願意接觸不熟悉的技術領域，前端或後端都不排斥\n【您需要具備什麼？】\n• 具備至少一種程式語言的開發經驗 (包含但不限於 Java、Python、C#、JavaScript)，課程專題、實習或個人作品皆可\n• 使用過至少一種資料庫 (PostgreSQL、Oracle、MySQL、SQL Server 等)，能撰寫基本查詢 (SELECT、JOIN)\n• 串接或實作過 RESTful API，理解前後端如何交換資料\n• 溝通清楚，遇到問題會主動提出，能把交辦的事情完成\n【加分條件】\n• 具備 AI 輔助開發工具 (如 Claude Code、GitHub Copilot、Cursor 等) 的實際開發經驗，並能說明用於哪些開發環節、以及如何驗證產出的正確性\n• 曾使用框架完成過一個能實際執行的作品 (如 Spring Boot、Angular、React、Django 等)\n• 使用過 Git 或 SVN 進行版本控制，理解 Git Flow 或 Github Flow 等分支管理流程\n• 理解 HTTP 相關規格，例如：Status Code、Method、Header 等\n• 具備 Linux 基本操作經驗 (查看 log、確認服務執行狀態)，沒有經驗但願意學習亦可\n• 前端與後端皆有實作經驗\n• 熟悉 Docker / K8S Cluster 叢集管理\n• 具備 SQL 資料庫 (PostgreSQL、Oracle、MySQL 等) 或 NoSQL 資料庫 (MongoDB、Redis 等) 相關知識和經驗\n• 具備自動化測試經驗 (單元測試、整合測試、E2E 測試等)\n• 了解 CI/CD 流程與工具 (Jenkins、GitLab CI、GitHub Actions 等)\n• 具備統計基礎，或對製造業資料分析有興趣\n• 有可供檢視的作品 (GitHub、個人專案、競賽或專題成果)"
+    },
+    "employment_type_raw": "全職",
+    "title": "資料整合開發工程師"
+  },
+  "location": {
+    "address_raw": "新竹市東區慈雲路118號18樓之1",
+    "raw": "新竹市東區慈雲路118號18樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 86
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:53:15+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【您需要做什麼？】\n• 開發與維護系統功能，以後端 API 與資料處理為主\n• 依規格實作 RESTful API 與商業邏輯，並撰寫對應的測試\n• 撰寫與調整 SQL，進行資料查詢、比對與驗證\n• 依專案需要參與前端功能與圖表介面的實作 (Angular 或 React)\n• 重現並修復回報的問題，確認修復結果\n• 參與技術討論與部署流程\n【我們期待的您】\n• 能善用各種輔助工具 (AI、技術論壇) 等嘗試解決開發上的問題\n• 成為太引資訊工程師不僅會考慮技術可行性，更要學會從商業邏輯的角度切入思考\n• 團隊意識，主動 cover 和協助其他夥伴\n• 遇到不確定的事會先查證再回報，而不是憑印象推測\n• 願意接觸不熟悉的技術領域，前端或後端都不排斥\n【您需要具備什麼？】\n• 具備至少一種程式語言的開發經驗 (包含但不限於 Java、Python、C#、JavaScript)，課程專題、實習或個人作品皆可\n• 使用過至少一種資料庫 (PostgreSQL、Oracle、MySQL、SQL Server 等)，能撰寫基本查詢 (SELECT、JOIN)\n• 串接或實作過 RESTful API，理解前後端如何交換資料\n• 溝通清楚，遇到問題會主動提出，能把交辦的事情完成\n【加分條件】\n• 具備 AI 輔助開發工具 (如 Claude Code、GitHub Copilot、Cursor 等) 的實際開發經驗，並能說明用於哪些開發環節、以及如何驗證產出的正確性\n• 曾使用框架完成過一個能實際執行的作品 (如 Spring Boot、Angular、React、Django 等)\n• 使用過 Git 或 SVN 進行版本控制，理解 Git Flow 或 Github Flow 等分支管理流程\n• 理解 HTTP 相關規格，例如：Status Code、Method、Header 等\n• 具備 Linux 基本操作經驗 (查看 log、確認服務執行狀態)，沒有經驗但願意學習亦可\n• 前端與後端皆有實作經驗\n• 熟悉 Docker / K8S Cluster 叢集管理\n• 具備 SQL 資料庫 (PostgreSQL、Oracle、MySQL 等) 或 NoSQL 資料庫 (MongoDB、Redis 等) 相關知識和經驗\n• 具備自動化測試經驗 (單元測試、整合測試、E2E 測試等)\n• 了解 CI/CD 流程與工具 (Jenkins、GitLab CI、GitHub Actions 等)\n• 具備統計基礎，或對製造業資料分析有興趣\n• 有可供檢視的作品 (GitHub、個人專案、競賽或專題成果)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東區慈雲路118號18樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【您需要做什麼？】\n• 開發與維護系統功能，以後端 API 與資料處理為主\n• 依規格實作 RESTful API 與商業邏輯，並撰寫對應的測試\n• 撰寫與調整 SQL，進行資料查詢、比對與驗證\n• 依專案需要參與前端功能與圖表介面的實作 (Angular 或 React)\n• 重現並修復回報的問題，確認修復結果\n• 參與技術討論與部署流程\n【我們期待的您】\n• 能善用各種輔助工具 (AI、技術論壇) 等嘗試解決開發上的問題\n• 成為太引資訊工程師不僅會考慮技術可行性，更要學會從商業邏輯的角度切入思考\n• 團隊意識，主動 cover 和協助其他夥伴\n• 遇到不確定的事會先查證再回報，而不是憑印象推測\n• 願意接觸不熟悉的技術領域，前端或後端都不排斥\n【您需要具備什麼？】\n• 具備至少一種程式語言的開發經驗 (包含但不限於 Java、Python、C#、JavaScript)，課程專題、實習或個人作品皆可\n• 使用過至少一種資料庫 (PostgreSQL、Oracle、MySQL、SQL Server 等)，能撰寫基本查詢 (SELECT、JOIN)\n• 串接或實作過 RESTful API，理解前後端如何交換資料\n• 溝通清楚，遇到問題會主動提出，能把交辦的事情完成\n【加分條件】\n• 具備 AI 輔助開發工具 (如 Claude Code、GitHub Copilot、Cursor 等) 的實際開發經驗，並能說明用於哪些開發環節、以及如何驗證產出的正確性\n• 曾使用框架完成過一個能實際執行的作品 (如 Spring Boot、Angular、React、Django 等)\n• 使用過 Git 或 SVN 進行版本控制，理解 Git Flow 或 Github Flow 等分支管理流程\n• 理解 HTTP 相關規格，例如：Status Code、Method、Header 等\n• 具備 Linux 基本操作經驗 (查看 log、確認服務執行狀態)，沒有經驗但願意學習亦可\n• 前端與後端皆有實作經驗\n• 熟悉 Docker / K8S Cluster 叢集管理\n• 具備 SQL 資料庫 (PostgreSQL、Oracle、MySQL 等) 或 NoSQL 資料庫 (MongoDB、Redis 等) 相關知識和經驗\n• 具備自動化測試經驗 (單元測試、整合測試、E2E 測試等)\n• 了解 CI/CD 流程與工具 (Jenkins、GitLab CI、GitHub Actions 等)\n• 具備統計基礎，或對製造業資料分析有興趣\n• 有可供檢視的作品 (GitHub、個人專案、競賽或專題成果)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "94r55",
+    "job_url": "https://www.104.com.tw/job/94r55",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94r55.json",
+    "raw_sha256": "ca5051bfca0407657a5419461f3470c8675198743b302437138814685d95be5d",
+    "requested_url": "https://www.104.com.tw/api/jobs/94r55"
+  }
+}

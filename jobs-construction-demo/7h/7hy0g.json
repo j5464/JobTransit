@@ -1,0 +1,248 @@
+{
+  "company": {
+    "id": "1a2x6blw1d",
+    "name": "大樂資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "遊戲工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具Node.js express 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "RDBMS 關聯式資料庫(MySQL)開發經驗"
+        },
+        {
+          "children": [],
+          "text": "RESTful API 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "使用 AWS 服務經驗 (EC2, S3)"
+        },
+        {
+          "children": [],
+          "text": "熟悉類Unix 開發環境"
+        },
+        {
+          "children": [],
+          "text": "使用Git，Bitbucket 等等的開發與管理工具經驗"
+        },
+        {
+          "children": [],
+          "text": "與第三方廠商串接API經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉Redis及後端儲存機制者佳"
+        },
+        {
+          "children": [],
+          "text": "熟悉React.JS開發者佳"
+        }
+      ],
+      "text": "1. 具Node.js express 開發經驗\n2. RDBMS 關聯式資料庫(MySQL)開發經驗\n3. RESTful API 開發經驗\n4. 使用 AWS 服務經驗 (EC2, S3)\n5. 熟悉類Unix 開發環境\n6. 使用Git，Bitbucket 等等的開發與管理工具經驗\n其他條件\n1. 與第三方廠商串接API經驗\n2. 熟悉Redis及後端儲存機制者佳\n3. 熟悉React.JS開發者佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "Backend Development後端軟體工程師(熟Node.js開發)"
+  },
+  "location": {
+    "address_raw": "台北市中山區中山北路三段",
+    "raw": "台北市中山區中山北路三段"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、中等",
+          "中文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、中等\n中文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "Git",
+          "MySQL",
+          "AWS",
+          "JavaScript",
+          "CSS",
+          "Node.js",
+          "ReactJS",
+          "AngularJS"
+        ],
+        "label": "擅長工具",
+        "text": "Git、MySQL、AWS、JavaScript、CSS、Node.js、ReactJS、AngularJS"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、資料庫程式設計"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、中等",
+      "中文：精通、精通、精通、精通"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n語文條件：英文：略懂、略懂、中等、中等\n中文：精通、精通、精通、精通\n擅長工具：Git、MySQL、AWS、JavaScript、CSS、Node.js、ReactJS、AngularJS\n工作技能：軟體程式設計、資料庫程式設計",
+    "tools": [
+      "Git",
+      "MySQL",
+      "AWS",
+      "JavaScript",
+      "CSS",
+      "Node.js",
+      "ReactJS",
+      "AngularJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 56
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:40:17+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 具Node.js express 開發經驗\n2. RDBMS 關聯式資料庫(MySQL)開發經驗\n3. RESTful API 開發經驗\n4. 使用 AWS 服務經驗 (EC2, S3)\n5. 熟悉類Unix 開發環境\n6. 使用Git，Bitbucket 等等的開發與管理工具經驗\n其他條件\n1. 與第三方廠商串接API經驗\n2. 熟悉Redis及後端儲存機制者佳\n3. 熟悉React.JS開發者佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "遊戲工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、遊戲工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區中山北路三段",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 具Node.js express 開發經驗\n2. RDBMS 關聯式資料庫(MySQL)開發經驗\n3. RESTful API 開發經驗\n4. 使用 AWS 服務經驗 (EC2, S3)\n5. 熟悉類Unix 開發環境\n6. 使用Git，Bitbucket 等等的開發與管理工具經驗\n其他條件\n1. 與第三方廠商串接API經驗\n2. 熟悉Redis及後端儲存機制者佳\n3. 熟悉React.JS開發者佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、中等",
+            "中文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、中等\n中文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "MySQL",
+            "AWS",
+            "JavaScript",
+            "CSS",
+            "Node.js",
+            "ReactJS",
+            "AngularJS"
+          ],
+          "label": "擅長工具",
+          "text": "Git、MySQL、AWS、JavaScript、CSS、Node.js、ReactJS、AngularJS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n語文條件：英文：略懂、略懂、中等、中等\n中文：精通、精通、精通、精通\n擅長工具：Git、MySQL、AWS、JavaScript、CSS、Node.js、ReactJS、AngularJS\n工作技能：軟體程式設計、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7hy0g",
+    "job_url": "https://www.104.com.tw/job/7hy0g",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7hy0g.json",
+    "raw_sha256": "40e8f1bcdc9fbe61b117f77a42c670076fc1abb7d0c8f6e850a76a5c1683aded",
+    "requested_url": "https://www.104.com.tw/api/jobs/7hy0g"
+  }
+}

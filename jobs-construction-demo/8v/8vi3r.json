@@ -1,0 +1,246 @@
+{
+  "company": {
+    "id": "7ozuzmw",
+    "name": "愛爾蘭商益華科技股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "MS in Computer Science or Electrical Engineering"
+        },
+        {
+          "children": [],
+          "text": "Proficient in C/C++"
+        },
+        {
+          "children": [],
+          "text": "Strong programming and software engineering skills"
+        },
+        {
+          "children": [],
+          "text": "Experience with UNIX/Linux platforms (preferred)"
+        },
+        {
+          "children": [],
+          "text": "Knowledge of Tcl (preferred)"
+        },
+        {
+          "children": [],
+          "text": "Experience with multithreaded and/or distributed programming (preferred)"
+        },
+        {
+          "children": [],
+          "text": "Prior experience with large-scale software development projects (highly recommended)"
+        },
+        {
+          "children": [],
+          "text": "Prior experience with timing analysis/optimization software development (highly recommended)"
+        },
+        {
+          "children": [],
+          "text": "Strong ability to learn and adapt"
+        },
+        {
+          "children": [],
+          "text": "Excellent analytical and problem-solving skills"
+        },
+        {
+          "children": [],
+          "text": "Good communication skill is preferred as the development team is distributed"
+        }
+      ],
+      "text": "This position is within the Optimization and Flow team of Cadence’s Innovus product. Our key R&D group focuses on timing and power optimization and flow convergence.\nInnovus is the premier physical design solution used by leading semiconductor companies in areas such as mobile, automotive, CPU & GPU cores, and AI. The work done by this high-performance team has a significant impact on the chip industry and on products used in everyday life.\nWe are seeking talented engineers with a strong background in electronic design automation (EDA)—including timing, power analysis, and optimization—combined with excellent software engineering skills and experience in multithreaded and distributed optimization. If you are passionate about making breakthroughs in technology and driving innovation that shapes the industry, we want you on our team.\nThe successful candidate will possess the following combination of education and experience:\n- MS in Computer Science or Electrical Engineering\n- Proficient in C/C++\n- Strong programming and software engineering skills\n- Experience with UNIX/Linux platforms (preferred)\n- Knowledge of Tcl (preferred)\n- Experience with multithreaded and/or distributed programming (preferred)\n- Prior experience with large-scale software development projects (highly recommended)\n- Prior experience with timing analysis/optimization software development (highly recommended)\n- Strong ability to learn and adapt\n- Excellent analytical and problem-solving skills\n- Good communication skill is preferred as the development team is distributed\nMost importantly, we are looking for hard working, innovative engineers who enjoy working with a great team in a high-performance culture."
+    },
+    "employment_type_raw": "全職",
+    "title": "Software Engineer (Innovus Optimization and Flow)"
+  },
+  "location": {
+    "address_raw": "新竹市力行六路二號",
+    "raw": "新竹市力行六路二號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "Linux",
+          "UNIX",
+          "C",
+          "C++",
+          "EDA",
+          "TCL"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、UNIX、C、C++、EDA、TCL"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關\n擅長工具：Linux、UNIX、C、C++、EDA、TCL\n工作技能：軟體工程系統開發、軟體程式設計",
+    "tools": [
+      "Linux",
+      "UNIX",
+      "C",
+      "C++",
+      "EDA",
+      "TCL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 29
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:34:27+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "This position is within the Optimization and Flow team of Cadence’s Innovus product. Our key R&D group focuses on timing and power optimization and flow convergence.\nInnovus is the premier physical design solution used by leading semiconductor companies in areas such as mobile, automotive, CPU & GPU cores, and AI. The work done by this high-performance team has a significant impact on the chip industry and on products used in everyday life.\nWe are seeking talented engineers with a strong background in electronic design automation (EDA)—including timing, power analysis, and optimization—combined with excellent software engineering skills and experience in multithreaded and distributed optimization. If you are passionate about making breakthroughs in technology and driving innovation that shapes the industry, we want you on our team.\nThe successful candidate will possess the following combination of education and experience:\n- MS in Computer Science or Electrical Engineering\n- Proficient in C/C++\n- Strong programming and software engineering skills\n- Experience with UNIX/Linux platforms (preferred)\n- Knowledge of Tcl (preferred)\n- Experience with multithreaded and/or distributed programming (preferred)\n- Prior experience with large-scale software development projects (highly recommended)\n- Prior experience with timing analysis/optimization software development (highly recommended)\n- Strong ability to learn and adapt\n- Excellent analytical and problem-solving skills\n- Good communication skill is preferred as the development team is distributed\nMost importantly, we are looking for hard working, innovative engineers who enjoy working with a great team in a high-performance culture.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市力行六路二號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "This position is within the Optimization and Flow team of Cadence’s Innovus product. Our key R&D group focuses on timing and power optimization and flow convergence.\nInnovus is the premier physical design solution used by leading semiconductor companies in areas such as mobile, automotive, CPU & GPU cores, and AI. The work done by this high-performance team has a significant impact on the chip industry and on products used in everyday life.\nWe are seeking talented engineers with a strong background in electronic design automation (EDA)—including timing, power analysis, and optimization—combined with excellent software engineering skills and experience in multithreaded and distributed optimization. If you are passionate about making breakthroughs in technology and driving innovation that shapes the industry, we want you on our team.\nThe successful candidate will possess the following combination of education and experience:\n- MS in Computer Science or Electrical Engineering\n- Proficient in C/C++\n- Strong programming and software engineering skills\n- Experience with UNIX/Linux platforms (preferred)\n- Knowledge of Tcl (preferred)\n- Experience with multithreaded and/or distributed programming (preferred)\n- Prior experience with large-scale software development projects (highly recommended)\n- Prior experience with timing analysis/optimization software development (highly recommended)\n- Strong ability to learn and adapt\n- Excellent analytical and problem-solving skills\n- Good communication skill is preferred as the development team is distributed\nMost importantly, we are looking for hard working, innovative engineers who enjoy working with a great team in a high-performance culture."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "UNIX",
+            "C",
+            "C++",
+            "EDA",
+            "TCL"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、UNIX、C、C++、EDA、TCL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關\n擅長工具：Linux、UNIX、C、C++、EDA、TCL\n工作技能：軟體工程系統開發、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8vi3r",
+    "job_url": "https://www.104.com.tw/job/8vi3r",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8vi3r.json",
+    "raw_sha256": "d1dd5cd0007c20c71aa0b03340ae48773244f87c0beb283660b78c1be5e12e26",
+    "requested_url": "https://www.104.com.tw/api/jobs/8vi3r"
+  }
+}

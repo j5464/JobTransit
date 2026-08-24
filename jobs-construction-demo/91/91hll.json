@@ -1,0 +1,214 @@
+{
+  "company": {
+    "id": "1a2x6bkpef",
+    "name": "時刻科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Android工程師",
+      "前端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "- 主導 iOS 產品功能的開發與維護，從需求討論到上線交付，對技術方案設計與程式碼品質全程負責"
+        },
+        {
+          "children": [],
+          "text": "持續優化產品效能、記憶體管理與使用者體驗，推動技術架構改善與模組重構"
+        },
+        {
+          "children": [],
+          "text": "與跨職能夥伴協作，發揮技術影響力，共同推動產品品質與迭代效率的提升"
+        },
+        {
+          "children": [],
+          "text": "持續關注 iOS 生態與業界技術趨勢，主動評估並導入新技術，保持技術領先性"
+        },
+        {
+          "children": [],
+          "text": "善用 AI 輔助開發工具，提升個人與團隊開發效率，探索 AI 在日常開發流程中的實際應用"
+        },
+        {
+          "children": [],
+          "text": "5 年以上 iOS App 開發經驗，熟悉 iOS 開發生態，具完整產品開發與上架歷程者佳"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Swift 語言，具備 UIKit 與 SwiftUI 的實際開發與架構設計經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 MVVM 等主流架構，具備 Combine、Concurrency（async/await）等現代技術的實作能力"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版本控制與協作流程，具備 CI/CD 的基礎概念與實踐經驗"
+        },
+        {
+          "children": [],
+          "text": "具備與後端協作串接 RESTful API 的實務經驗，能理解資料流與錯誤處理"
+        },
+        {
+          "children": [],
+          "text": "日常開發中已主動使用 AI 工具，具備自己的 workflow 或最佳實踐"
+        },
+        {
+          "children": [],
+          "text": "具備產品思維與問題拆解能力，能在模糊情境中清晰定義問題並獨立推進至可驗證的結果"
+        },
+        {
+          "children": [],
+          "text": "對技術趨勢保持主動探索，具備創新與成長心態，樂於嘗試新工具並應用於開發流程"
+        }
+      ],
+      "text": "在 Seekrtech，我們透過科技、設計和行為科學的融合，打造有趣又有效的數位服務，幫助人們在生活和工作中做出改變與行動。我們的產品「Forest 專注森林」是一款幫助人們管理注意力、建立深度專注習慣的工具，已在全球擁有超過四千萬用戶，並榮獲 Google Play 與 App Store 多個獎項肯定。\n2025 年，Forest 正式推出訂閱制方案，標誌著我們從單一工具邁向長期陪伴使用者的注意力管理服務。我們持續在既有的成熟產品基礎上推進功能迭代，同時探索新的體驗方向與技術可能性。\n我們希望找到一位具備紮實 iOS 開發底蘊的工程師加入產品開發團隊，深度參與 Forest iOS 的功能設計與技術演進。你將與 PO、Design、QA 等跨職能夥伴緊密協作，對自己的技術決策負責，用高品質的程式與產品思維，直接影響數千萬用戶的日常體驗。\n【你將會做到的工作】\n- - 主導 iOS 產品功能的開發與維護，從需求討論到上線交付，對技術方案設計與程式碼品質全程負責\n- 持續優化產品效能、記憶體管理與使用者體驗，推動技術架構改善與模組重構\n- 與跨職能夥伴協作，發揮技術影響力，共同推動產品品質與迭代效率的提升\n- 持續關注 iOS 生態與業界技術趨勢，主動評估並導入新技術，保持技術領先性\n- 善用 AI 輔助開發工具，提升個人與團隊開發效率，探索 AI 在日常開發流程中的實際應用\n【專業條件】\n- 5 年以上 iOS App 開發經驗，熟悉 iOS 開發生態，具完整產品開發與上架歷程者佳\n- 熟悉 Swift 語言，具備 UIKit 與 SwiftUI 的實際開發與架構設計經驗\n- 熟悉 MVVM 等主流架構，具備 Combine、Concurrency（async/await）等現代技術的實作能力\n- 熟悉 Git 版本控制與協作流程，具備 CI/CD 的基礎概念與實踐經驗\n- 具備與後端協作串接 RESTful API 的實務經驗，能理解資料流與錯誤處理\n- 日常開發中已主動使用 AI 工具，具備自己的 workflow 或最佳實踐\n- 具備產品思維與問題拆解能力，能在模糊情境中清晰定義問題並獨立推進至可驗證的結果\n- 對技術趨勢保持主動探索，具備創新與成長心態，樂於嘗試新工具並應用於開發流程"
+    },
+    "employment_type_raw": "全職",
+    "title": "[持續徵才] Senior iOS Developer（台中 / 台北）"
+  },
+  "location": {
+    "address_raw": "台中市西區英才路 530 號 36 樓",
+    "raw": "台中市西區英才路 530 號 36 樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "Kotlin"
+        ],
+        "label": "擅長工具",
+        "text": "Kotlin"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分項目】\n- 具備 Kotlin Multiplatform（KMP）或其他跨平台技術（Flutter、React Native）的實際開發經驗\n- 有 Scrum 或敏捷開發實務經驗，熟悉快速迭代的工作節奏與 sprint 管理\n- 有完整的產品上架與長期迭代維護經驗，或參與過從 0 到 1 的產品旅程\n- 曾參與創業型團隊，或有代表性的個人 side project\n- 活躍於技術社群（如 iPlayground、MOPCON 等），或有公開技術分享紀錄"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "【加分項目】\n- 具備 Kotlin Multiplatform（KMP）或其他跨平台技術（Flutter、React Native）的實際開發經驗\n- 有 Scrum 或敏捷開發實務經驗，熟悉快速迭代的工作節奏與 sprint 管理\n- 有完整的產品上架與長期迭代維護經驗，或參與過從 0 到 1 的產品旅程\n- 曾參與創業型團隊，或有代表性的個人 side project\n- 活躍於技術社群（如 iPlayground、MOPCON 等），或有公開技術分享紀錄",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學\n擅長工具：Kotlin\n其他條件：【加分項目】\n- 具備 Kotlin Multiplatform（KMP）或其他跨平台技術（Flutter、React Native）的實際開發經驗\n- 有 Scrum 或敏捷開發實務經驗，熟悉快速迭代的工作節奏與 sprint 管理\n- 有完整的產品上架與長期迭代維護經驗，或參與過從 0 到 1 的產品旅程\n- 曾參與創業型團隊，或有代表性的個人 side project\n- 活躍於技術社群（如 iPlayground、MOPCON 等），或有公開技術分享紀錄",
+    "tools": [
+      "Kotlin"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 87
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:57:11+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "在 Seekrtech，我們透過科技、設計和行為科學的融合，打造有趣又有效的數位服務，幫助人們在生活和工作中做出改變與行動。我們的產品「Forest 專注森林」是一款幫助人們管理注意力、建立深度專注習慣的工具，已在全球擁有超過四千萬用戶，並榮獲 Google Play 與 App Store 多個獎項肯定。\n2025 年，Forest 正式推出訂閱制方案，標誌著我們從單一工具邁向長期陪伴使用者的注意力管理服務。我們持續在既有的成熟產品基礎上推進功能迭代，同時探索新的體驗方向與技術可能性。\n我們希望找到一位具備紮實 iOS 開發底蘊的工程師加入產品開發團隊，深度參與 Forest iOS 的功能設計與技術演進。你將與 PO、Design、QA 等跨職能夥伴緊密協作，對自己的技術決策負責，用高品質的程式與產品思維，直接影響數千萬用戶的日常體驗。\n【你將會做到的工作】\n- - 主導 iOS 產品功能的開發與維護，從需求討論到上線交付，對技術方案設計與程式碼品質全程負責\n- 持續優化產品效能、記憶體管理與使用者體驗，推動技術架構改善與模組重構\n- 與跨職能夥伴協作，發揮技術影響力，共同推動產品品質與迭代效率的提升\n- 持續關注 iOS 生態與業界技術趨勢，主動評估並導入新技術，保持技術領先性\n- 善用 AI 輔助開發工具，提升個人與團隊開發效率，探索 AI 在日常開發流程中的實際應用\n【專業條件】\n- 5 年以上 iOS App 開發經驗，熟悉 iOS 開發生態，具完整產品開發與上架歷程者佳\n- 熟悉 Swift 語言，具備 UIKit 與 SwiftUI 的實際開發與架構設計經驗\n- 熟悉 MVVM 等主流架構，具備 Combine、Concurrency（async/await）等現代技術的實作能力\n- 熟悉 Git 版本控制與協作流程，具備 CI/CD 的基礎概念與實踐經驗\n- 具備與後端協作串接 RESTful API 的實務經驗，能理解資料流與錯誤處理\n- 日常開發中已主動使用 AI 工具，具備自己的 workflow 或最佳實踐\n- 具備產品思維與問題拆解能力，能在模糊情境中清晰定義問題並獨立推進至可驗證的結果\n- 對技術趨勢保持主動探索，具備創新與成長心態，樂於嘗試新工具並應用於開發流程",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Android工程師",
+            "前端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "Android工程師、前端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西區英才路 530 號 36 樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "在 Seekrtech，我們透過科技、設計和行為科學的融合，打造有趣又有效的數位服務，幫助人們在生活和工作中做出改變與行動。我們的產品「Forest 專注森林」是一款幫助人們管理注意力、建立深度專注習慣的工具，已在全球擁有超過四千萬用戶，並榮獲 Google Play 與 App Store 多個獎項肯定。\n2025 年，Forest 正式推出訂閱制方案，標誌著我們從單一工具邁向長期陪伴使用者的注意力管理服務。我們持續在既有的成熟產品基礎上推進功能迭代，同時探索新的體驗方向與技術可能性。\n我們希望找到一位具備紮實 iOS 開發底蘊的工程師加入產品開發團隊，深度參與 Forest iOS 的功能設計與技術演進。你將與 PO、Design、QA 等跨職能夥伴緊密協作，對自己的技術決策負責，用高品質的程式與產品思維，直接影響數千萬用戶的日常體驗。\n【你將會做到的工作】\n- - 主導 iOS 產品功能的開發與維護，從需求討論到上線交付，對技術方案設計與程式碼品質全程負責\n- 持續優化產品效能、記憶體管理與使用者體驗，推動技術架構改善與模組重構\n- 與跨職能夥伴協作，發揮技術影響力，共同推動產品品質與迭代效率的提升\n- 持續關注 iOS 生態與業界技術趨勢，主動評估並導入新技術，保持技術領先性\n- 善用 AI 輔助開發工具，提升個人與團隊開發效率，探索 AI 在日常開發流程中的實際應用\n【專業條件】\n- 5 年以上 iOS App 開發經驗，熟悉 iOS 開發生態，具完整產品開發與上架歷程者佳\n- 熟悉 Swift 語言，具備 UIKit 與 SwiftUI 的實際開發與架構設計經驗\n- 熟悉 MVVM 等主流架構，具備 Combine、Concurrency（async/await）等現代技術的實作能力\n- 熟悉 Git 版本控制與協作流程，具備 CI/CD 的基礎概念與實踐經驗\n- 具備與後端協作串接 RESTful API 的實務經驗，能理解資料流與錯誤處理\n- 日常開發中已主動使用 AI 工具，具備自己的 workflow 或最佳實踐\n- 具備產品思維與問題拆解能力，能在模糊情境中清晰定義問題並獨立推進至可驗證的結果\n- 對技術趨勢保持主動探索，具備創新與成長心態，樂於嘗試新工具並應用於開發流程"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Kotlin"
+          ],
+          "label": "擅長工具",
+          "text": "Kotlin",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分項目】\n- 具備 Kotlin Multiplatform（KMP）或其他跨平台技術（Flutter、React Native）的實際開發經驗\n- 有 Scrum 或敏捷開發實務經驗，熟悉快速迭代的工作節奏與 sprint 管理\n- 有完整的產品上架與長期迭代維護經驗，或參與過從 0 到 1 的產品旅程\n- 曾參與創業型團隊，或有代表性的個人 side project\n- 活躍於技術社群（如 iPlayground、MOPCON 等），或有公開技術分享紀錄",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學\n擅長工具：Kotlin\n其他條件：【加分項目】\n- 具備 Kotlin Multiplatform（KMP）或其他跨平台技術（Flutter、React Native）的實際開發經驗\n- 有 Scrum 或敏捷開發實務經驗，熟悉快速迭代的工作節奏與 sprint 管理\n- 有完整的產品上架與長期迭代維護經驗，或參與過從 0 到 1 的產品旅程\n- 曾參與創業型團隊，或有代表性的個人 side project\n- 活躍於技術社群（如 iPlayground、MOPCON 等），或有公開技術分享紀錄"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "91hll",
+    "job_url": "https://www.104.com.tw/job/91hll",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91hll.json",
+    "raw_sha256": "89b837ddde0cbc0160b5c363c6d41c35e4373ea95244eb8ef1af1f0108d7eaaf",
+    "requested_url": "https://www.104.com.tw/api/jobs/91hll"
+  }
+}

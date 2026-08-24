@@ -1,0 +1,201 @@
+{
+  "company": {
+    "id": "ak3cjlk",
+    "name": "欣美實業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資訊設備管制人員",
+      "其他資訊專業人員",
+      "網路管理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "資訊系統之維護與管理"
+        },
+        {
+          "children": [],
+          "text": "資訊設備維護與管理"
+        },
+        {
+          "children": [],
+          "text": "網路設備之維護與管理"
+        },
+        {
+          "children": [],
+          "text": "網路安全防護"
+        },
+        {
+          "children": [],
+          "text": "各類網頁介面維護"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項"
+        }
+      ],
+      "text": "1.資訊系統之維護與管理\n2.資訊設備維護與管理\n3.網路設備之維護與管理\n4.網路安全防護\n5.各類網頁介面維護\n6.主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊副理"
+  },
+  "location": {
+    "address_raw": "南投縣名間鄉新街村彰南路358-1號",
+    "raw": "南投縣名間鄉新街村彰南路358-1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "SAP",
+          "鼎新",
+          "鉅茂"
+        ],
+        "label": "擅長工具",
+        "text": "SAP、鼎新、鉅茂"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：SAP、鼎新、鉅茂",
+    "tools": [
+      "SAP",
+      "鼎新",
+      "鉅茂"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 75
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:28:00+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.資訊系統之維護與管理\n2.資訊設備維護與管理\n3.網路設備之維護與管理\n4.網路安全防護\n5.各類網頁介面維護\n6.主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資訊設備管制人員",
+            "其他資訊專業人員",
+            "網路管理工程師"
+          ],
+          "label": "職務類別",
+          "text": "資訊設備管制人員、其他資訊專業人員、網路管理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "南投縣名間鄉新街村彰南路358-1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.資訊系統之維護與管理\n2.資訊設備維護與管理\n3.網路設備之維護與管理\n4.網路安全防護\n5.各類網頁介面維護\n6.主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "SAP",
+            "鼎新",
+            "鉅茂"
+          ],
+          "label": "擅長工具",
+          "text": "SAP、鼎新、鉅茂",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：SAP、鼎新、鉅茂"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8w1hm",
+    "job_url": "https://www.104.com.tw/job/8w1hm",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8w1hm.json",
+    "raw_sha256": "7fb9411ec1350e9bb1bb208c4e75854640d753428fd8c5f55aaba270bc8a6c35",
+    "requested_url": "https://www.104.com.tw/api/jobs/8w1hm"
+  }
+}

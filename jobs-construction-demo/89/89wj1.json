@@ -1,0 +1,233 @@
+{
+  "company": {
+    "id": "1a2x6bmutz",
+    "name": "奕界科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師",
+      "遊戲工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Design and maintain automation systems covering API, backend logic, and frontend admin interfaces — so every deployment ships with confidence."
+        },
+        {
+          "children": [],
+          "text": "Analyze issues, reproduce bugs, and expand coverage — not just find bugs, but understand why they happen and make sure they don't come back."
+        },
+        {
+          "children": [],
+          "text": "Build internal tools and automation workflows to eliminate repetitive work and continuously improve testing efficiency."
+        },
+        {
+          "children": [],
+          "text": "Document processes and spread best practices — quality standards shouldn't live only in your head."
+        },
+        {
+          "children": [],
+          "text": "Work closely with engineers and product teams to catch problems before users do."
+        },
+        {
+          "children": [],
+          "text": "Degree in Computer Science, Engineering, or a related field."
+        },
+        {
+          "children": [],
+          "text": "Experience in automation QA or Python development"
+        },
+        {
+          "children": [],
+          "text": "Able to independently build automated tests using Python, JavaScript, Shell — not just knowing the tools, but understanding why things are designed the way they are."
+        },
+        {
+          "children": [],
+          "text": "Solid understanding of databases and backend systems — you know how data flows and how it breaks."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with web frameworks such as Django or Flask."
+        },
+        {
+          "children": [],
+          "text": "Proactive, accountable, and a clear communicator — comfortable navigating fast-moving and ambiguous environments."
+        },
+        {
+          "children": [],
+          "text": "Able to design scalable automation architecture — not just making tests run, but making the system maintainable and extensible."
+        },
+        {
+          "children": [],
+          "text": "Experience leading automation initiatives or mentoring team members, making the people around you better."
+        },
+        {
+          "children": [],
+          "text": "Strong sense of ownership over overall product quality — you spot problems, propose solutions, and don't wait to be asked."
+        }
+      ],
+      "text": "We're looking for someone who treats \"quality\" as an engineering problem — not by clicking through checklists, but through automation, architecture, and a genuine understanding of how systems break. You'll own test coverage across backend APIs, databases, and frontend admin interfaces, and work closely with engineers and product to raise the quality bar across the board.\nThis is NOT a \"run tests and report bugs\" role. This is a position where you proactively design testing strategies, build automation infrastructure, and give the entire team the confidence to ship. If you're used to waiting for someone to tell you what to test, we're probably not the right fit.\n# Responsibilities\n1. Design and maintain automation systems covering API, backend logic, and frontend admin interfaces — so every deployment ships with confidence.\n2. Analyze issues, reproduce bugs, and expand coverage — not just find bugs, but understand why they happen and make sure they don't come back.\n3. Build internal tools and automation workflows to eliminate repetitive work and continuously improve testing efficiency.\n4. Document processes and spread best practices — quality standards shouldn't live only in your head.\n5. Work closely with engineers and product teams to catch problems before users do.\n# Qualifications\n1. Degree in Computer Science, Engineering, or a related field.\n2. Experience in automation QA or Python development\n3. Able to independently build automated tests using Python, JavaScript, Shell — not just knowing the tools, but understanding why things are designed the way they are.\n4. Solid understanding of databases and backend systems — you know how data flows and how it breaks.\n5. Familiarity with web frameworks such as Django or Flask.\n6. Proactive, accountable, and a clear communicator — comfortable navigating fast-moving and ambiguous environments.\n# Additional expectations for Senior candidates\n1. Able to design scalable automation architecture — not just making tests run, but making the system maintainable and extensible.\n2. Experience leading automation initiatives or mentoring team members, making the people around you better.\n3. Strong sense of ownership over overall product quality — you spot problems, propose solutions, and don't wait to be asked.\n/* Title and compensation will be determined based on experience and qualifications. */"
+    },
+    "employment_type_raw": "全職",
+    "title": "自動化測試工程師 / Software QA Automation Engineer (Junior to Senior)"
+  },
+  "location": {
+    "address_raw": "台北市中正區仁愛路二段99號",
+    "raw": "台北市中正區仁愛路二段99號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "中文：中等、中等、中等、中等",
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "中文：中等、中等、中等、中等\n英文：精通、精通、精通、精通"
+      }
+    ],
+    "languages": [
+      "中文：中等、中等、中等、中等",
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n語文條件：中文：中等、中等、中等、中等\n英文：精通、精通、精通、精通",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 73
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:22:17+08:00"
+  },
+  "salary": {
+    "raw": "年薪780,000~1,300,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We're looking for someone who treats \"quality\" as an engineering problem — not by clicking through checklists, but through automation, architecture, and a genuine understanding of how systems break. You'll own test coverage across backend APIs, databases, and frontend admin interfaces, and work closely with engineers and product to raise the quality bar across the board.\nThis is NOT a \"run tests and report bugs\" role. This is a position where you proactively design testing strategies, build automation infrastructure, and give the entire team the confidence to ship. If you're used to waiting for someone to tell you what to test, we're probably not the right fit.\n# Responsibilities\n1. Design and maintain automation systems covering API, backend logic, and frontend admin interfaces — so every deployment ships with confidence.\n2. Analyze issues, reproduce bugs, and expand coverage — not just find bugs, but understand why they happen and make sure they don't come back.\n3. Build internal tools and automation workflows to eliminate repetitive work and continuously improve testing efficiency.\n4. Document processes and spread best practices — quality standards shouldn't live only in your head.\n5. Work closely with engineers and product teams to catch problems before users do.\n# Qualifications\n1. Degree in Computer Science, Engineering, or a related field.\n2. Experience in automation QA or Python development\n3. Able to independently build automated tests using Python, JavaScript, Shell — not just knowing the tools, but understanding why things are designed the way they are.\n4. Solid understanding of databases and backend systems — you know how data flows and how it breaks.\n5. Familiarity with web frameworks such as Django or Flask.\n6. Proactive, accountable, and a clear communicator — comfortable navigating fast-moving and ambiguous environments.\n# Additional expectations for Senior candidates\n1. Able to design scalable automation architecture — not just making tests run, but making the system maintainable and extensible.\n2. Experience leading automation initiatives or mentoring team members, making the people around you better.\n3. Strong sense of ownership over overall product quality — you spot problems, propose solutions, and don't wait to be asked.\n/* Title and compensation will be determined based on experience and qualifications. */",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師",
+            "遊戲工程師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師、遊戲工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪780,000~1,300,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區仁愛路二段99號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We're looking for someone who treats \"quality\" as an engineering problem — not by clicking through checklists, but through automation, architecture, and a genuine understanding of how systems break. You'll own test coverage across backend APIs, databases, and frontend admin interfaces, and work closely with engineers and product to raise the quality bar across the board.\nThis is NOT a \"run tests and report bugs\" role. This is a position where you proactively design testing strategies, build automation infrastructure, and give the entire team the confidence to ship. If you're used to waiting for someone to tell you what to test, we're probably not the right fit.\n# Responsibilities\n1. Design and maintain automation systems covering API, backend logic, and frontend admin interfaces — so every deployment ships with confidence.\n2. Analyze issues, reproduce bugs, and expand coverage — not just find bugs, but understand why they happen and make sure they don't come back.\n3. Build internal tools and automation workflows to eliminate repetitive work and continuously improve testing efficiency.\n4. Document processes and spread best practices — quality standards shouldn't live only in your head.\n5. Work closely with engineers and product teams to catch problems before users do.\n# Qualifications\n1. Degree in Computer Science, Engineering, or a related field.\n2. Experience in automation QA or Python development\n3. Able to independently build automated tests using Python, JavaScript, Shell — not just knowing the tools, but understanding why things are designed the way they are.\n4. Solid understanding of databases and backend systems — you know how data flows and how it breaks.\n5. Familiarity with web frameworks such as Django or Flask.\n6. Proactive, accountable, and a clear communicator — comfortable navigating fast-moving and ambiguous environments.\n# Additional expectations for Senior candidates\n1. Able to design scalable automation architecture — not just making tests run, but making the system maintainable and extensible.\n2. Experience leading automation initiatives or mentoring team members, making the people around you better.\n3. Strong sense of ownership over overall product quality — you spot problems, propose solutions, and don't wait to be asked.\n/* Title and compensation will be determined based on experience and qualifications. */"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "中文：中等、中等、中等、中等",
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "中文：中等、中等、中等、中等\n英文：精通、精通、精通、精通",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n語文條件：中文：中等、中等、中等、中等\n英文：精通、精通、精通、精通"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "89wj1",
+    "job_url": "https://www.104.com.tw/job/89wj1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/89wj1.json",
+    "raw_sha256": "9c0dea0fcdf400bf397cb9ed87631935a1e35b000186e66e9848df4f90f7c15c",
+    "requested_url": "https://www.104.com.tw/api/jobs/89wj1"
+  }
+}

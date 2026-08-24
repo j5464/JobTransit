@@ -1,0 +1,220 @@
+{
+  "company": {
+    "id": "1a2x6bl08x",
+    "name": "Qualcomm Semiconductor Corporation_高通半導體有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Research and development of advanced ISP algorithm to achieve best camera image quality."
+        },
+        {
+          "children": [],
+          "text": "Design of camera systems that balance power, memory, silicon area to maximize imaging performance."
+        },
+        {
+          "children": [],
+          "text": "Prototype and validating solutions on embedded platforms for proof of concept and demonstration purposes."
+        },
+        {
+          "children": [],
+          "text": "Collaborating with cross-functional teams to deploy robust and efficient imaging solutions into commercial products."
+        },
+        {
+          "children": [],
+          "text": "Deployment and tuning support of solutions that improve the mobile imaging experience."
+        },
+        {
+          "children": [],
+          "text": "50%–70% workload for customer support; 20% onsite availability for business travel across APAC and China."
+        },
+        {
+          "children": [],
+          "text": "Must be experienced with classical image processing algorithms development."
+        },
+        {
+          "children": [],
+          "text": "Camera and image processing technologies."
+        },
+        {
+          "children": [],
+          "text": "Image signal processor pipeline design."
+        },
+        {
+          "children": [],
+          "text": "Excellent analytical and problem-solving skills"
+        },
+        {
+          "children": [],
+          "text": "C, C++, Python, Matlab."
+        },
+        {
+          "children": [],
+          "text": "Experience with Camera ISP HW algo development."
+        },
+        {
+          "children": [],
+          "text": "Experience with using a mix of traditional image processing techniques and machine learning"
+        },
+        {
+          "children": [],
+          "text": "Experience with different types of sensors and algorithms for sensor and optics processingz"
+        },
+        {
+          "children": [],
+          "text": "Bachelor's degree in Engineering, Information Systems, Computer Science, or related field."
+        }
+      ],
+      "text": "【Talents who apply job through Qualcomm Career Website will be reviewed and considered as top priority】\nPlease apply directly on Qualcomm Career Site via link below, and attach your English resume for further review. Thank you!\nhttps://qualcomm.wd12.myworkdayjobs.com/zh-CN/External/job/Taipei-TWN/Camera-ISP-Algorithm-Engineer--Taipei-_3090109\n【General Summary】\nAs a leading technology innovator, Qualcomm pushes the boundaries of what's possible to enable next-generation experiences and drives digital transformation to help create a smarter, connected future for all.\nWe seek a passionate engineer with in-depth knowledge on camera ISP algorithm to join the Camera Systems team.\nThe Camera Systems team creates embedded imaging solutions for Snapdragon chipsets that power advanced mobile devices, next-generation mobile photography and video experiences. Our solutions leverage dedicated hardware, ISP, multi-core processors, DSP, and GPU cores to provide state-of-the-art photographs, video recordings, as well as scene data for image understanding and object detection. Responsibilities include the following:\n-Research and development of advanced ISP algorithm to achieve best camera image quality.\n-Design of camera systems that balance power, memory, silicon area to maximize imaging performance.\n-Prototype and validating solutions on embedded platforms for proof of concept and demonstration purposes.\n-Collaborating with cross-functional teams to deploy robust and efficient imaging solutions into commercial products.\n-Deployment and tuning support of solutions that improve the mobile imaging experience.\n-50%–70% workload for customer support; 20% onsite availability for business travel across APAC and China.\n【Qualification】(For experienced candidate)\n5+ years working experiences in the following areas:\n-Must be experienced with classical image processing algorithms development.\n-Camera and image processing technologies.\n-Image signal processor pipeline design.\n-Excellent analytical and problem-solving skills\n-C, C++, Python, Matlab.\n【Preferred Qualifications】\n-Experience with Camera ISP HW algo development.\n-Experience with using a mix of traditional image processing techniques and machine learning\n-Experience with different types of sensors and algorithms for sensor and optics processingz\n【Minimum Qualifications】\n• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field."
+    },
+    "employment_type_raw": "全職",
+    "title": "【內湖】Camera ISP Algorithm Engineer (3090109)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區(依照公司規定分派)",
+    "raw": "台北市內湖區(依照公司規定分派)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Career2026"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [],
+    "other_text": "Career2026",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n語文條件：英文：精通、精通、精通、精通\n其他條件：Career2026",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 51
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:28:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【Talents who apply job through Qualcomm Career Website will be reviewed and considered as top priority】\nPlease apply directly on Qualcomm Career Site via link below, and attach your English resume for further review. Thank you!\nhttps://qualcomm.wd12.myworkdayjobs.com/zh-CN/External/job/Taipei-TWN/Camera-ISP-Algorithm-Engineer--Taipei-_3090109\n【General Summary】\nAs a leading technology innovator, Qualcomm pushes the boundaries of what's possible to enable next-generation experiences and drives digital transformation to help create a smarter, connected future for all.\nWe seek a passionate engineer with in-depth knowledge on camera ISP algorithm to join the Camera Systems team.\nThe Camera Systems team creates embedded imaging solutions for Snapdragon chipsets that power advanced mobile devices, next-generation mobile photography and video experiences. Our solutions leverage dedicated hardware, ISP, multi-core processors, DSP, and GPU cores to provide state-of-the-art photographs, video recordings, as well as scene data for image understanding and object detection. Responsibilities include the following:\n-Research and development of advanced ISP algorithm to achieve best camera image quality.\n-Design of camera systems that balance power, memory, silicon area to maximize imaging performance.\n-Prototype and validating solutions on embedded platforms for proof of concept and demonstration purposes.\n-Collaborating with cross-functional teams to deploy robust and efficient imaging solutions into commercial products.\n-Deployment and tuning support of solutions that improve the mobile imaging experience.\n-50%–70% workload for customer support; 20% onsite availability for business travel across APAC and China.\n【Qualification】(For experienced candidate)\n5+ years working experiences in the following areas:\n-Must be experienced with classical image processing algorithms development.\n-Camera and image processing technologies.\n-Image signal processor pipeline design.\n-Excellent analytical and problem-solving skills\n-C, C++, Python, Matlab.\n【Preferred Qualifications】\n-Experience with Camera ISP HW algo development.\n-Experience with using a mix of traditional image processing techniques and machine learning\n-Experience with different types of sensors and algorithms for sensor and optics processingz\n【Minimum Qualifications】\n• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區(依照公司規定分派)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【Talents who apply job through Qualcomm Career Website will be reviewed and considered as top priority】\nPlease apply directly on Qualcomm Career Site via link below, and attach your English resume for further review. Thank you!\nhttps://qualcomm.wd12.myworkdayjobs.com/zh-CN/External/job/Taipei-TWN/Camera-ISP-Algorithm-Engineer--Taipei-_3090109\n【General Summary】\nAs a leading technology innovator, Qualcomm pushes the boundaries of what's possible to enable next-generation experiences and drives digital transformation to help create a smarter, connected future for all.\nWe seek a passionate engineer with in-depth knowledge on camera ISP algorithm to join the Camera Systems team.\nThe Camera Systems team creates embedded imaging solutions for Snapdragon chipsets that power advanced mobile devices, next-generation mobile photography and video experiences. Our solutions leverage dedicated hardware, ISP, multi-core processors, DSP, and GPU cores to provide state-of-the-art photographs, video recordings, as well as scene data for image understanding and object detection. Responsibilities include the following:\n-Research and development of advanced ISP algorithm to achieve best camera image quality.\n-Design of camera systems that balance power, memory, silicon area to maximize imaging performance.\n-Prototype and validating solutions on embedded platforms for proof of concept and demonstration purposes.\n-Collaborating with cross-functional teams to deploy robust and efficient imaging solutions into commercial products.\n-Deployment and tuning support of solutions that improve the mobile imaging experience.\n-50%–70% workload for customer support; 20% onsite availability for business travel across APAC and China.\n【Qualification】(For experienced candidate)\n5+ years working experiences in the following areas:\n-Must be experienced with classical image processing algorithms development.\n-Camera and image processing technologies.\n-Image signal processor pipeline design.\n-Excellent analytical and problem-solving skills\n-C, C++, Python, Matlab.\n【Preferred Qualifications】\n-Experience with Camera ISP HW algo development.\n-Experience with using a mix of traditional image processing techniques and machine learning\n-Experience with different types of sensors and algorithms for sensor and optics processingz\n【Minimum Qualifications】\n• Bachelor's degree in Engineering, Information Systems, Computer Science, or related field."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Career2026",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n語文條件：英文：精通、精通、精通、精通\n其他條件：Career2026"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "90poo",
+    "job_url": "https://www.104.com.tw/job/90poo",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90poo.json",
+    "raw_sha256": "1e2b214680d18c60396519b3b57ff2f597283fd00ca0ed0a5e08038720bc031a",
+    "requested_url": "https://www.104.com.tw/api/jobs/90poo"
+  }
+}

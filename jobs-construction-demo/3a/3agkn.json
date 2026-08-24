@@ -1,0 +1,185 @@
+{
+  "company": {
+    "id": "1uf0wio",
+    "name": "KPMG_安侯建業聯合會計師事務所"
+  },
+  "job": {
+    "categories": [
+      "顧問",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [],
+      "text": "負責資訊安全專案之技術專業服務"
+    },
+    "employment_type_raw": "全職",
+    "title": "【顧問部】副理/經理 (資訊安全技術服務)-319319"
+  },
+  "location": {
+    "address_raw": "台北市信義區信義路五段七號68樓",
+    "raw": "台北市信義區信義路五段七號68樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Outlook、PowerPoint、Word"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 大學畢業具備5年以上工作經驗\n2. 能獨立執行資訊安全檢測工作，如弱點掃描、網路封包分析、網路安全架構、APP安全檢測等 (任二項)\n3. 具下列任一項條件者尤佳 (加分項)：\na.熟悉滲透測試相關工具與方法，能獨立作業\nb.具備企業資安或個資保護相關技術工具導入經驗\nc.具備資安技術相關證照(如CEH、CISSP、CHFI、SSCP等)\nd.除資安技術能力外，同時具備產業ISMS、PIMS等資安相關管理顧問服務經驗\ne.具備政府機構、金融機構、電子商務等產業領域知識\nf.具備資安或個資管理授課經驗\ng.具備資訊安全相關專案管理經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1. 大學畢業具備5年以上工作經驗\n2. 能獨立執行資訊安全檢測工作，如弱點掃描、網路封包分析、網路安全架構、APP安全檢測等 (任二項)\n3. 具下列任一項條件者尤佳 (加分項)：\na.熟悉滲透測試相關工具與方法，能獨立作業\nb.具備企業資安或個資保護相關技術工具導入經驗\nc.具備資安技術相關證照(如CEH、CISSP、CHFI、SSCP等)\nd.除資安技術能力外，同時具備產業ISMS、PIMS等資安相關管理顧問服務經驗\ne.具備政府機構、金融機構、電子商務等產業領域知識\nf.具備資安或個資管理授課經驗\ng.具備資訊安全相關專案管理經驗",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word\n其他條件：1. 大學畢業具備5年以上工作經驗\n2. 能獨立執行資訊安全檢測工作，如弱點掃描、網路封包分析、網路安全架構、APP安全檢測等 (任二項)\n3. 具下列任一項條件者尤佳 (加分項)：\na.熟悉滲透測試相關工具與方法，能獨立作業\nb.具備企業資安或個資保護相關技術工具導入經驗\nc.具備資安技術相關證照(如CEH、CISSP、CHFI、SSCP等)\nd.除資安技術能力外，同時具備產業ISMS、PIMS等資安相關管理顧問服務經驗\ne.具備政府機構、金融機構、電子商務等產業領域知識\nf.具備資安或個資管理授課經驗\ng.具備資訊安全相關專案管理經驗",
+    "tools": [
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 62
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:54:35+08:00"
+  },
+  "salary": {
+    "raw": "月薪60,000~80,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "負責資訊安全專案之技術專業服務",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "顧問",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "顧問、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪60,000~80,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區信義路五段七號68樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "負責資訊安全專案之技術專業服務"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Outlook、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 大學畢業具備5年以上工作經驗\n2. 能獨立執行資訊安全檢測工作，如弱點掃描、網路封包分析、網路安全架構、APP安全檢測等 (任二項)\n3. 具下列任一項條件者尤佳 (加分項)：\na.熟悉滲透測試相關工具與方法，能獨立作業\nb.具備企業資安或個資保護相關技術工具導入經驗\nc.具備資安技術相關證照(如CEH、CISSP、CHFI、SSCP等)\nd.除資安技術能力外，同時具備產業ISMS、PIMS等資安相關管理顧問服務經驗\ne.具備政府機構、金融機構、電子商務等產業領域知識\nf.具備資安或個資管理授課經驗\ng.具備資訊安全相關專案管理經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word\n其他條件：1. 大學畢業具備5年以上工作經驗\n2. 能獨立執行資訊安全檢測工作，如弱點掃描、網路封包分析、網路安全架構、APP安全檢測等 (任二項)\n3. 具下列任一項條件者尤佳 (加分項)：\na.熟悉滲透測試相關工具與方法，能獨立作業\nb.具備企業資安或個資保護相關技術工具導入經驗\nc.具備資安技術相關證照(如CEH、CISSP、CHFI、SSCP等)\nd.除資安技術能力外，同時具備產業ISMS、PIMS等資安相關管理顧問服務經驗\ne.具備政府機構、金融機構、電子商務等產業領域知識\nf.具備資安或個資管理授課經驗\ng.具備資訊安全相關專案管理經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "3agkn",
+    "job_url": "https://www.104.com.tw/job/3agkn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/3agkn.json",
+    "raw_sha256": "a59dba0a7232e1fa374192aa225279f175df08f0a59a7c219c5bed73415f50c8",
+    "requested_url": "https://www.104.com.tw/api/jobs/3agkn"
+  }
+}

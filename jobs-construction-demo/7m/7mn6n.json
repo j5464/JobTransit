@@ -1,0 +1,280 @@
+{
+  "company": {
+    "id": "5tb9l8w",
+    "name": "金財通商務科技服務股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體專案主管",
+      "電子商務技術主管",
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具備網路程式設計及資料庫設計經驗。"
+        },
+        {
+          "children": [],
+          "text": "負責系統之需求分析、系統分析與設計、系統測試、上線及教育訓練。"
+        },
+        {
+          "children": [],
+          "text": "須配合外包廠商協同開發及擔任溝通協調角色。"
+        },
+        {
+          "children": [],
+          "text": "具備責任感並樂於學習新技術，個性樂觀主動積極。"
+        },
+        {
+          "children": [],
+          "text": "學習能力強、能主動發現問題並尋求最佳解決方案。"
+        },
+        {
+          "children": [],
+          "text": "樂於溝通與分享、優良的團隊合作者。"
+        }
+      ],
+      "text": "本職務主要為保險應用系統開發及維運，包含網路投保、行動投保及核心平台等應用系統，主要使用ASP.NET系列平台進行開發。我們的客戶都是業界知名的企業，不論是在個人或團隊發展都有相當好的發揮空間，部門的工作氣氛融洽，適合充滿熱情的你(妳)加入我們團隊。\n【工作內容】\n1.具備網路程式設計及資料庫設計經驗。\n2.負責系統之需求分析、系統分析與設計、系統測試、上線及教育訓練。\n3.須配合外包廠商協同開發及擔任溝通協調角色。\n【其他】\n1.具備責任感並樂於學習新技術，個性樂觀主動積極。\n2.學習能力強、能主動發現問題並尋求最佳解決方案。\n3.樂於溝通與分享、優良的團隊合作者。"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統分析師_102F"
+  },
+  "location": {
+    "address_raw": "台北市中山區中山北路三段22號8樓",
+    "raw": "台北市中山區中山北路三段22號8樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "銀行保險相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、銀行保險相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "IIS",
+          "CSS",
+          "jQuery",
+          "JavaScript",
+          "Oracle",
+          "MS SQL",
+          "Visual C#",
+          "C#",
+          "Git"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、IIS、CSS、jQuery、JavaScript、Oracle、MS SQL、Visual C#、C#、Git"
+      },
+      {
+        "items": [
+          "功能測試(function test)",
+          "系統架構規劃與維護",
+          "資料庫軟體應用",
+          "資料庫程式設計",
+          "網路程式設計",
+          "軟體程式設計",
+          "軟體整合測試",
+          "使用者測試(Usability test)"
+        ],
+        "label": "工作技能",
+        "text": "功能測試(function test)、系統架構規劃與維護、資料庫軟體應用、資料庫程式設計、網路程式設計、軟體程式設計、軟體整合測試、使用者測試(Usability test)"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "銀行保險相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "功能測試(function test)",
+      "系統架構規劃與維護",
+      "資料庫軟體應用",
+      "資料庫程式設計",
+      "網路程式設計",
+      "軟體程式設計",
+      "軟體整合測試",
+      "使用者測試(Usability test)"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關、銀行保險相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、IIS、CSS、jQuery、JavaScript、Oracle、MS SQL、Visual C#、C#、Git\n工作技能：功能測試(function test)、系統架構規劃與維護、資料庫軟體應用、資料庫程式設計、網路程式設計、軟體程式設計、軟體整合測試、使用者測試(Usability test)",
+    "tools": [
+      "ASP.NET",
+      "IIS",
+      "CSS",
+      "jQuery",
+      "JavaScript",
+      "Oracle",
+      "MS SQL",
+      "Visual C#",
+      "C#",
+      "Git"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 35
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:49:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "本職務主要為保險應用系統開發及維運，包含網路投保、行動投保及核心平台等應用系統，主要使用ASP.NET系列平台進行開發。我們的客戶都是業界知名的企業，不論是在個人或團隊發展都有相當好的發揮空間，部門的工作氣氛融洽，適合充滿熱情的你(妳)加入我們團隊。\n【工作內容】\n1.具備網路程式設計及資料庫設計經驗。\n2.負責系統之需求分析、系統分析與設計、系統測試、上線及教育訓練。\n3.須配合外包廠商協同開發及擔任溝通協調角色。\n【其他】\n1.具備責任感並樂於學習新技術，個性樂觀主動積極。\n2.學習能力強、能主動發現問題並尋求最佳解決方案。\n3.樂於溝通與分享、優良的團隊合作者。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體專案主管",
+            "電子商務技術主管",
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "軟體專案主管、電子商務技術主管、系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區中山北路三段22號8樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "本職務主要為保險應用系統開發及維運，包含網路投保、行動投保及核心平台等應用系統，主要使用ASP.NET系列平台進行開發。我們的客戶都是業界知名的企業，不論是在個人或團隊發展都有相當好的發揮空間，部門的工作氣氛融洽，適合充滿熱情的你(妳)加入我們團隊。\n【工作內容】\n1.具備網路程式設計及資料庫設計經驗。\n2.負責系統之需求分析、系統分析與設計、系統測試、上線及教育訓練。\n3.須配合外包廠商協同開發及擔任溝通協調角色。\n【其他】\n1.具備責任感並樂於學習新技術，個性樂觀主動積極。\n2.學習能力強、能主動發現問題並尋求最佳解決方案。\n3.樂於溝通與分享、優良的團隊合作者。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "銀行保險相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、銀行保險相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "IIS",
+            "CSS",
+            "jQuery",
+            "JavaScript",
+            "Oracle",
+            "MS SQL",
+            "Visual C#",
+            "C#",
+            "Git"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、IIS、CSS、jQuery、JavaScript、Oracle、MS SQL、Visual C#、C#、Git",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "功能測試(function test)",
+            "系統架構規劃與維護",
+            "資料庫軟體應用",
+            "資料庫程式設計",
+            "網路程式設計",
+            "軟體程式設計",
+            "軟體整合測試",
+            "使用者測試(Usability test)"
+          ],
+          "label": "工作技能",
+          "text": "功能測試(function test)、系統架構規劃與維護、資料庫軟體應用、資料庫程式設計、網路程式設計、軟體程式設計、軟體整合測試、使用者測試(Usability test)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關、銀行保險相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、IIS、CSS、jQuery、JavaScript、Oracle、MS SQL、Visual C#、C#、Git\n工作技能：功能測試(function test)、系統架構規劃與維護、資料庫軟體應用、資料庫程式設計、網路程式設計、軟體程式設計、軟體整合測試、使用者測試(Usability test)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7mn6n",
+    "job_url": "https://www.104.com.tw/job/7mn6n",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7mn6n.json",
+    "raw_sha256": "79fbc3aacd890c4fee1a050df19400de0bddd124ac626f01d4685e32efa616cf",
+    "requested_url": "https://www.104.com.tw/api/jobs/7mn6n"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "company": {
+    "id": "1a2x6bm1q1",
+    "name": "元鈦科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "助理工程師",
+      "韌體工程師",
+      "軟韌體測試工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "MCU單晶片程式撰寫"
+        },
+        {
+          "children": [],
+          "text": "規劃及執行韌體設計"
+        },
+        {
+          "children": [],
+          "text": "韌體測試/修改/debug,"
+        }
+      ],
+      "text": "產品軟體韌體設計\n1.MCU單晶片程式撰寫\n2.規劃及執行韌體設計\n3.韌體測試/修改/debug,"
+    },
+    "employment_type_raw": "全職",
+    "title": "研發中心 [軟體工程師] 汐止總部"
+  },
+  "location": {
+    "address_raw": "新北市汐止區康寧街169巷8-11號6樓",
+    "raw": "新北市汐止區康寧街169巷8-11號6樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "機械工程相關",
+          "電機電子工程相關",
+          "其他工程相關"
+        ],
+        "label": "科系要求",
+        "text": "機械工程相關、電機電子工程相關、其他工程相關"
+      },
+      {
+        "items": [
+          "MCU",
+          "ARM"
+        ],
+        "label": "擅長工具",
+        "text": "MCU、ARM"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "有STM32相關開發經驗者為佳"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "機械工程相關",
+      "電機電子工程相關",
+      "其他工程相關"
+    ],
+    "other_text": "有STM32相關開發經驗者為佳",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：機械工程相關、電機電子工程相關、其他工程相關\n擅長工具：MCU、ARM\n其他條件：有STM32相關開發經驗者為佳",
+    "tools": [
+      "MCU",
+      "ARM"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 91
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:07:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "產品軟體韌體設計\n1.MCU單晶片程式撰寫\n2.規劃及執行韌體設計\n3.韌體測試/修改/debug,",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "助理工程師",
+            "韌體工程師",
+            "軟韌體測試工程師"
+          ],
+          "label": "職務類別",
+          "text": "助理工程師、韌體工程師、軟韌體測試工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市汐止區康寧街169巷8-11號6樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "產品軟體韌體設計\n1.MCU單晶片程式撰寫\n2.規劃及執行韌體設計\n3.韌體測試/修改/debug,"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "機械工程相關",
+            "電機電子工程相關",
+            "其他工程相關"
+          ],
+          "label": "科系要求",
+          "text": "機械工程相關、電機電子工程相關、其他工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MCU",
+            "ARM"
+          ],
+          "label": "擅長工具",
+          "text": "MCU、ARM",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "有STM32相關開發經驗者為佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：機械工程相關、電機電子工程相關、其他工程相關\n擅長工具：MCU、ARM\n其他條件：有STM32相關開發經驗者為佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8rud0",
+    "job_url": "https://www.104.com.tw/job/8rud0",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8rud0.json",
+    "raw_sha256": "07cb57622c50ea2059437d73ab07a56468380bc95014aab2188edeb6ffe86c38",
+    "requested_url": "https://www.104.com.tw/api/jobs/8rud0"
+  }
+}

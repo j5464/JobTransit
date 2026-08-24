@@ -1,0 +1,196 @@
+{
+  "company": {
+    "id": "1a2x6bm2vb",
+    "name": "宏韃資訊顧問有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "了解並使用subversion"
+        },
+        {
+          "children": [],
+          "text": "了解jsp跟jstl相關語法"
+        },
+        {
+          "children": [],
+          "text": "善於編寫JQuery跟JavaScript"
+        },
+        {
+          "children": [],
+          "text": "了解並使用Spring framework 和Spring MVC framework"
+        },
+        {
+          "children": [],
+          "text": "了解並使用SQL 語法"
+        },
+        {
+          "children": [],
+          "text": "熟悉Java語言"
+        }
+      ],
+      "text": "【技術要求】\n1、了解並使用subversion\n2、了解jsp跟jstl相關語法\n3、善於編寫JQuery跟JavaScript\n4、了解並使用Spring framework 和Spring MVC framework\n5、了解並使用SQL 語法\n6、熟悉Java語言\n※無經驗可，歡迎已完成資策會轉職課程的人才加入我們的團隊。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java 工程師"
+  },
+  "location": {
+    "address_raw": "台北市信義區",
+    "raw": "台北市信義區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "Java",
+          "Spring",
+          "MySQL",
+          "JavaScript",
+          "jQuery"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Spring、MySQL、JavaScript、jQuery"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "人格特質要求：\n1、良好的溝通與書面表達能力，能夠編寫清晰、規範的相關文檔。\n2、有一定的組織協調能力，工作積極、認真、負責，能夠承受一定的工作壓力。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "人格特質要求：\n1、良好的溝通與書面表達能力，能夠編寫清晰、規範的相關文檔。\n2、有一定的組織協調能力，工作積極、認真、負責，能夠承受一定的工作壓力。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：Java、Spring、MySQL、JavaScript、jQuery\n其他條件：人格特質要求：\n1、良好的溝通與書面表達能力，能夠編寫清晰、規範的相關文檔。\n2、有一定的組織協調能力，工作積極、認真、負責，能夠承受一定的工作壓力。",
+    "tools": [
+      "Java",
+      "Spring",
+      "MySQL",
+      "JavaScript",
+      "jQuery"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 88
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:58:41+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000~55,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【技術要求】\n1、了解並使用subversion\n2、了解jsp跟jstl相關語法\n3、善於編寫JQuery跟JavaScript\n4、了解並使用Spring framework 和Spring MVC framework\n5、了解並使用SQL 語法\n6、熟悉Java語言\n※無經驗可，歡迎已完成資策會轉職課程的人才加入我們的團隊。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000~55,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【技術要求】\n1、了解並使用subversion\n2、了解jsp跟jstl相關語法\n3、善於編寫JQuery跟JavaScript\n4、了解並使用Spring framework 和Spring MVC framework\n5、了解並使用SQL 語法\n6、熟悉Java語言\n※無經驗可，歡迎已完成資策會轉職課程的人才加入我們的團隊。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Spring",
+            "MySQL",
+            "JavaScript",
+            "jQuery"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Spring、MySQL、JavaScript、jQuery",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "人格特質要求：\n1、良好的溝通與書面表達能力，能夠編寫清晰、規範的相關文檔。\n2、有一定的組織協調能力，工作積極、認真、負責，能夠承受一定的工作壓力。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：Java、Spring、MySQL、JavaScript、jQuery\n其他條件：人格特質要求：\n1、良好的溝通與書面表達能力，能夠編寫清晰、規範的相關文檔。\n2、有一定的組織協調能力，工作積極、認真、負責，能夠承受一定的工作壓力。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7na8q",
+    "job_url": "https://www.104.com.tw/job/7na8q",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7na8q.json",
+    "raw_sha256": "3e3bcb81846cfe679048295fe8a93ff0450ca4a12c7e0c43a99ee35dbc3fcd87",
+    "requested_url": "https://www.104.com.tw/api/jobs/7na8q"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "company": {
+    "id": "1a2x6biutg",
+    "name": "宇辰系統科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "產品管理師",
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "專案管理，管控各專案進度與品質，確保各專案符合時程規劃與客戶需求。"
+        },
+        {
+          "children": [],
+          "text": "協助專案的規劃、執行與追蹤檢討。"
+        },
+        {
+          "children": [],
+          "text": "跨部門溝通協調，以利專案之執行。"
+        },
+        {
+          "children": [],
+          "text": "專案開發會議召集、紀錄及進度跟催。"
+        },
+        {
+          "children": [],
+          "text": "具備系統分析及架構設計能力。"
+        },
+        {
+          "children": [],
+          "text": "能獨立作業處理問題，並尋找最佳解決方案。"
+        }
+      ],
+      "text": "1. 專案管理，管控各專案進度與品質，確保各專案符合時程規劃與客戶需求。\n2. 協助專案的規劃、執行與追蹤檢討。\n3. 跨部門溝通協調，以利專案之執行。\n4. 專案開發會議召集、紀錄及進度跟催。\n5. 具備系統分析及架構設計能力。\n6. 能獨立作業處理問題，並尋找最佳解決方案。"
+    },
+    "employment_type_raw": "全職",
+    "title": "67.台南軟體課-專案管理師"
+  },
+  "location": {
+    "address_raw": "台南市善化區光復二街18號",
+    "raw": "台南市善化區光復二街18號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、MS SQL"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具系統導入實務經驗佳\n2. .NET C#程式\n3. 資料庫規劃設計(SQL相關)"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "1. 具系統導入實務經驗佳\n2. .NET C#程式\n3. 資料庫規劃設計(SQL相關)",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：ASP.NET、C#、MS SQL\n其他條件：1. 具系統導入實務經驗佳\n2. .NET C#程式\n3. 資料庫規劃設計(SQL相關)",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 87
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:55:53+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~65,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 專案管理，管控各專案進度與品質，確保各專案符合時程規劃與客戶需求。\n2. 協助專案的規劃、執行與追蹤檢討。\n3. 跨部門溝通協調，以利專案之執行。\n4. 專案開發會議召集、紀錄及進度跟催。\n5. 具備系統分析及架構設計能力。\n6. 能獨立作業處理問題，並尋找最佳解決方案。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "產品管理師",
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "產品管理師、系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~65,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市善化區光復二街18號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 專案管理，管控各專案進度與品質，確保各專案符合時程規劃與客戶需求。\n2. 協助專案的規劃、執行與追蹤檢討。\n3. 跨部門溝通協調，以利專案之執行。\n4. 專案開發會議召集、紀錄及進度跟催。\n5. 具備系統分析及架構設計能力。\n6. 能獨立作業處理問題，並尋找最佳解決方案。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具系統導入實務經驗佳\n2. .NET C#程式\n3. 資料庫規劃設計(SQL相關)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：ASP.NET、C#、MS SQL\n其他條件：1. 具系統導入實務經驗佳\n2. .NET C#程式\n3. 資料庫規劃設計(SQL相關)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "78alx",
+    "job_url": "https://www.104.com.tw/job/78alx",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/78alx.json",
+    "raw_sha256": "00d6d76c3aaa144f74f5eb9286856de72598affc85c5aae56b41724a26587930",
+    "requested_url": "https://www.104.com.tw/api/jobs/78alx"
+  }
+}

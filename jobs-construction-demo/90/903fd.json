@@ -1,0 +1,202 @@
+{
+  "company": {
+    "id": "7ozuzmw",
+    "name": "愛爾蘭商益華科技股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "R&D engineers collaborating with a large team of EDA professionals from diverse backgrounds to design and deliver best-in-class software for power analysis."
+        },
+        {
+          "children": [],
+          "text": "R&D engineers work on complex applications which interface with other applications in a large suite of highly connected applications to enable next-generation solutions with superior performance and usability."
+        },
+        {
+          "children": [],
+          "text": "Additionally, the role involves writing specifications, developing code to meet the requirements of our external customers, and working closely with application AEs to understand customer requirements, create specifications, and implement effective solutions."
+        },
+        {
+          "children": [],
+          "text": "10+ years of experience in software development using C/C++, with a focus in working with complex algorithms and performance"
+        },
+        {
+          "children": [],
+          "text": "Experience in developing EDA tools"
+        },
+        {
+          "children": [],
+          "text": "Must be a fast learner and must demonstrate strong aptitude for out-of-the-box thinking and problem solving"
+        },
+        {
+          "children": [],
+          "text": "Algorithmic knowledge relating to graphs is a plus"
+        },
+        {
+          "children": [],
+          "text": "Familiarity with Spice deck and Spectre tools would be an added advantage."
+        }
+      ],
+      "text": "Job overview:\nSoftware Engineer needed for development and support next generation power analysis tools at sign off level. This position plays a crucial part in shaping our cutting-edge technology, enabling us to deliver powerful solutions to our customers in the EDA space.\nJob Responsibilities:\n• R&D engineers collaborating with a large team of EDA professionals from diverse backgrounds to design and deliver best-in-class software for power analysis.\n• R&D engineers work on complex applications which interface with other applications in a large suite of highly connected applications to enable next-generation solutions with superior performance and usability.\n• Additionally, the role involves writing specifications, developing code to meet the requirements of our external customers, and working closely with application AEs to understand customer requirements, create specifications, and implement effective solutions.\nJob Qualifications:\n• 10+ years of experience in software development using C/C++, with a focus in working with complex algorithms and performance\n• Experience in developing EDA tools\n• Must be a fast learner and must demonstrate strong aptitude for out-of-the-box thinking and problem solving\n• Algorithmic knowledge relating to graphs is a plus\n• Familiarity with Spice deck and Spectre tools would be an added advantage."
+    },
+    "employment_type_raw": "全職",
+    "title": "Software Engineer (Joules)"
+  },
+  "location": {
+    "address_raw": "新竹市力行六路二號",
+    "raw": "新竹市力行六路二號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "10年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "10年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "C++",
+          "EDA"
+        ],
+        "label": "擅長工具",
+        "text": "C++、EDA"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：10年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n擅長工具：C++、EDA",
+    "tools": [
+      "C++",
+      "EDA"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 62
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:55:18+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Job overview:\nSoftware Engineer needed for development and support next generation power analysis tools at sign off level. This position plays a crucial part in shaping our cutting-edge technology, enabling us to deliver powerful solutions to our customers in the EDA space.\nJob Responsibilities:\n• R&D engineers collaborating with a large team of EDA professionals from diverse backgrounds to design and deliver best-in-class software for power analysis.\n• R&D engineers work on complex applications which interface with other applications in a large suite of highly connected applications to enable next-generation solutions with superior performance and usability.\n• Additionally, the role involves writing specifications, developing code to meet the requirements of our external customers, and working closely with application AEs to understand customer requirements, create specifications, and implement effective solutions.\nJob Qualifications:\n• 10+ years of experience in software development using C/C++, with a focus in working with complex algorithms and performance\n• Experience in developing EDA tools\n• Must be a fast learner and must demonstrate strong aptitude for out-of-the-box thinking and problem solving\n• Algorithmic knowledge relating to graphs is a plus\n• Familiarity with Spice deck and Spectre tools would be an added advantage.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市力行六路二號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Job overview:\nSoftware Engineer needed for development and support next generation power analysis tools at sign off level. This position plays a crucial part in shaping our cutting-edge technology, enabling us to deliver powerful solutions to our customers in the EDA space.\nJob Responsibilities:\n• R&D engineers collaborating with a large team of EDA professionals from diverse backgrounds to design and deliver best-in-class software for power analysis.\n• R&D engineers work on complex applications which interface with other applications in a large suite of highly connected applications to enable next-generation solutions with superior performance and usability.\n• Additionally, the role involves writing specifications, developing code to meet the requirements of our external customers, and working closely with application AEs to understand customer requirements, create specifications, and implement effective solutions.\nJob Qualifications:\n• 10+ years of experience in software development using C/C++, with a focus in working with complex algorithms and performance\n• Experience in developing EDA tools\n• Must be a fast learner and must demonstrate strong aptitude for out-of-the-box thinking and problem solving\n• Algorithmic knowledge relating to graphs is a plus\n• Familiarity with Spice deck and Spectre tools would be an added advantage."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "10年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "EDA"
+          ],
+          "label": "擅長工具",
+          "text": "C++、EDA",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：10年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n擅長工具：C++、EDA"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "903fd",
+    "job_url": "https://www.104.com.tw/job/903fd",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/903fd.json",
+    "raw_sha256": "9df4d3ddcee274af48591ea34d65569ba905ce2669631a3baf12f6237faaa78d",
+    "requested_url": "https://www.104.com.tw/api/jobs/903fd"
+  }
+}

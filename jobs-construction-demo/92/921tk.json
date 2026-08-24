@@ -1,0 +1,312 @@
+{
+  "company": {
+    "id": "cifpbp4",
+    "name": "國泰綜合證券股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "iOS工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責核心功能開發與架構優化，提升 App 穩定性、效能與可維護性。"
+        },
+        {
+          "children": [],
+          "text": "參與 iOS 技術選型與模組化設計，推動 Clean Architecture / MVVM / SwiftUI 等工程實務。"
+        },
+        {
+          "children": [],
+          "text": "串接 API、完成 UI/UX 實作、資料處理與安全相關功能。"
+        },
+        {
+          "children": [],
+          "text": "維護線上產品，進行 Crash / Exception 追蹤、效能分析與問題修正。"
+        },
+        {
+          "children": [],
+          "text": "參與 App 上架、資安檢測、內控與版本發布流程。"
+        },
+        {
+          "children": [],
+          "text": "協助導入單元測試、自動化建置與技術文件，分享實務經驗帶動團隊成長。"
+        },
+        {
+          "children": [],
+          "text": "具 5 年以上 iOS App 開發經驗，能獨立負責模組或大型功能。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Swift、Objective-C、Xcode、Swift Package Manager / CocoaPods。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 UIKit / SwiftUI、MVVM、Clean Architecture、Dependency Injection。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版控工具與 CI/CD 流程（Fastlane、GitHub Actions、Bitrise 等）。"
+        },
+        {
+          "children": [],
+          "text": "具備 XCTest / XCUITest、Debug、Instruments、Memory / Performance 分析經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備良好溝通能力與自我驅動，能持續精進技術並提出改善方案。"
+        },
+        {
+          "children": [],
+          "text": "具備金融商品交易專案或高流量 App 開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "有模組化、效能優化、架構重構或 SDK 整合經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉資安、憑證、加解密或 App 上架審核流程。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Vibe Coding 或 AI 輔助開發流程。"
+        }
+      ],
+      "text": "【工作內容】\n1. 負責核心功能開發與架構優化，提升 App 穩定性、效能與可維護性。\n2. 參與 iOS 技術選型與模組化設計，推動 Clean Architecture / MVVM / SwiftUI 等工程實務。\n3. 串接 API、完成 UI/UX 實作、資料處理與安全相關功能。\n4. 維護線上產品，進行 Crash / Exception 追蹤、效能分析與問題修正。\n5. 參與 App 上架、資安檢測、內控與版本發布流程。\n6. 協助導入單元測試、自動化建置與技術文件，分享實務經驗帶動團隊成長。\n【需求條件】\n1. 具 5 年以上 iOS App 開發經驗，能獨立負責模組或大型功能。\n2. 熟悉 Swift、Objective-C、Xcode、Swift Package Manager / CocoaPods。\n3. 熟悉 UIKit / SwiftUI、MVVM、Clean Architecture、Dependency Injection。\n4. 熟悉 Git 版控工具與 CI/CD 流程（Fastlane、GitHub Actions、Bitrise 等）。\n5. 具備 XCTest / XCUITest、Debug、Instruments、Memory / Performance 分析經驗。\n6. 具備良好溝通能力與自我驅動，能持續精進技術並提出改善方案。\n【加分條件】\n1. 具備金融商品交易專案或高流量 App 開發經驗。\n2. 有模組化、效能優化、架構重構或 SDK 整合經驗。\n3. 熟悉資安、憑證、加解密或 App 上架審核流程。\n4. 熟悉 Vibe Coding 或 AI 輔助開發流程。\n【你將收穫】\n你將會在一個具有開放文化、敏捷思維的工作環境中揮灑你的能力與創造力，除了將與一群熱情與專業的夥伴共事之外，你也將會汲取投資、數位金融知識、參與新產品孵化從無到有的過程，並在諸多專案當中貢獻、精進與成長。國證數位金融團隊，就是你的創業舞台，期待你來大放異彩!!!"
+    },
+    "employment_type_raw": "全職",
+    "title": "iOS App 資深開發工程師(數位開發部)_I00026456"
+  },
+  "location": {
+    "address_raw": "台北市大安區敦化南路二段335號22樓",
+    "raw": "台北市大安區敦化南路二段335號22樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂",
+          "中文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂\n中文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "Java",
+          "C#",
+          "Objective-C"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、Java、C#、Objective-C"
+      },
+      {
+        "items": [
+          "壓力測試(stress test)",
+          "使用者測試(Usability test)",
+          "測試環境建置規劃",
+          "系統整合分析",
+          "軟體整合測試",
+          "問題追蹤處理(Bug tracking)",
+          "安全性測試(Security test)",
+          "測試計劃及測試報告書撰寫",
+          "系統架構規劃",
+          "功能測試(function test)"
+        ],
+        "label": "工作技能",
+        "text": "壓力測試(stress test)、使用者測試(Usability test)、測試環境建置規劃、系統整合分析、軟體整合測試、問題追蹤處理(Bug tracking)、安全性測試(Security test)、測試計劃及測試報告書撰寫、系統架構規劃、功能測試(function test)"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【本職缺歡迎身心障礙者投遞】"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂",
+      "中文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "【本職缺歡迎身心障礙者投遞】",
+    "skills": [
+      "壓力測試(stress test)",
+      "使用者測試(Usability test)",
+      "測試環境建置規劃",
+      "系統整合分析",
+      "軟體整合測試",
+      "問題追蹤處理(Bug tracking)",
+      "安全性測試(Security test)",
+      "測試計劃及測試報告書撰寫",
+      "系統架構規劃",
+      "功能測試(function test)"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n中文：精通、精通、精通、精通\n擅長工具：MS SQL、Java、C#、Objective-C\n工作技能：壓力測試(stress test)、使用者測試(Usability test)、測試環境建置規劃、系統整合分析、軟體整合測試、問題追蹤處理(Bug tracking)、安全性測試(Security test)、測試計劃及測試報告書撰寫、系統架構規劃、功能測試(function test)\n其他條件：【本職缺歡迎身心障礙者投遞】",
+    "tools": [
+      "MS SQL",
+      "Java",
+      "C#",
+      "Objective-C"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 8
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:41:39+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 負責核心功能開發與架構優化，提升 App 穩定性、效能與可維護性。\n2. 參與 iOS 技術選型與模組化設計，推動 Clean Architecture / MVVM / SwiftUI 等工程實務。\n3. 串接 API、完成 UI/UX 實作、資料處理與安全相關功能。\n4. 維護線上產品，進行 Crash / Exception 追蹤、效能分析與問題修正。\n5. 參與 App 上架、資安檢測、內控與版本發布流程。\n6. 協助導入單元測試、自動化建置與技術文件，分享實務經驗帶動團隊成長。\n【需求條件】\n1. 具 5 年以上 iOS App 開發經驗，能獨立負責模組或大型功能。\n2. 熟悉 Swift、Objective-C、Xcode、Swift Package Manager / CocoaPods。\n3. 熟悉 UIKit / SwiftUI、MVVM、Clean Architecture、Dependency Injection。\n4. 熟悉 Git 版控工具與 CI/CD 流程（Fastlane、GitHub Actions、Bitrise 等）。\n5. 具備 XCTest / XCUITest、Debug、Instruments、Memory / Performance 分析經驗。\n6. 具備良好溝通能力與自我驅動，能持續精進技術並提出改善方案。\n【加分條件】\n1. 具備金融商品交易專案或高流量 App 開發經驗。\n2. 有模組化、效能優化、架構重構或 SDK 整合經驗。\n3. 熟悉資安、憑證、加解密或 App 上架審核流程。\n4. 熟悉 Vibe Coding 或 AI 輔助開發流程。\n【你將收穫】\n你將會在一個具有開放文化、敏捷思維的工作環境中揮灑你的能力與創造力，除了將與一群熱情與專業的夥伴共事之外，你也將會汲取投資、數位金融知識、參與新產品孵化從無到有的過程，並在諸多專案當中貢獻、精進與成長。國證數位金融團隊，就是你的創業舞台，期待你來大放異彩!!!",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "iOS工程師"
+          ],
+          "label": "職務類別",
+          "text": "iOS工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區敦化南路二段335號22樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 負責核心功能開發與架構優化，提升 App 穩定性、效能與可維護性。\n2. 參與 iOS 技術選型與模組化設計，推動 Clean Architecture / MVVM / SwiftUI 等工程實務。\n3. 串接 API、完成 UI/UX 實作、資料處理與安全相關功能。\n4. 維護線上產品，進行 Crash / Exception 追蹤、效能分析與問題修正。\n5. 參與 App 上架、資安檢測、內控與版本發布流程。\n6. 協助導入單元測試、自動化建置與技術文件，分享實務經驗帶動團隊成長。\n【需求條件】\n1. 具 5 年以上 iOS App 開發經驗，能獨立負責模組或大型功能。\n2. 熟悉 Swift、Objective-C、Xcode、Swift Package Manager / CocoaPods。\n3. 熟悉 UIKit / SwiftUI、MVVM、Clean Architecture、Dependency Injection。\n4. 熟悉 Git 版控工具與 CI/CD 流程（Fastlane、GitHub Actions、Bitrise 等）。\n5. 具備 XCTest / XCUITest、Debug、Instruments、Memory / Performance 分析經驗。\n6. 具備良好溝通能力與自我驅動，能持續精進技術並提出改善方案。\n【加分條件】\n1. 具備金融商品交易專案或高流量 App 開發經驗。\n2. 有模組化、效能優化、架構重構或 SDK 整合經驗。\n3. 熟悉資安、憑證、加解密或 App 上架審核流程。\n4. 熟悉 Vibe Coding 或 AI 輔助開發流程。\n【你將收穫】\n你將會在一個具有開放文化、敏捷思維的工作環境中揮灑你的能力與創造力，除了將與一群熱情與專業的夥伴共事之外，你也將會汲取投資、數位金融知識、參與新產品孵化從無到有的過程，並在諸多專案當中貢獻、精進與成長。國證數位金融團隊，就是你的創業舞台，期待你來大放異彩!!!"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂",
+            "中文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂\n中文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "Java",
+            "C#",
+            "Objective-C"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、Java、C#、Objective-C",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "壓力測試(stress test)",
+            "使用者測試(Usability test)",
+            "測試環境建置規劃",
+            "系統整合分析",
+            "軟體整合測試",
+            "問題追蹤處理(Bug tracking)",
+            "安全性測試(Security test)",
+            "測試計劃及測試報告書撰寫",
+            "系統架構規劃",
+            "功能測試(function test)"
+          ],
+          "label": "工作技能",
+          "text": "壓力測試(stress test)、使用者測試(Usability test)、測試環境建置規劃、系統整合分析、軟體整合測試、問題追蹤處理(Bug tracking)、安全性測試(Security test)、測試計劃及測試報告書撰寫、系統架構規劃、功能測試(function test)",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【本職缺歡迎身心障礙者投遞】",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n中文：精通、精通、精通、精通\n擅長工具：MS SQL、Java、C#、Objective-C\n工作技能：壓力測試(stress test)、使用者測試(Usability test)、測試環境建置規劃、系統整合分析、軟體整合測試、問題追蹤處理(Bug tracking)、安全性測試(Security test)、測試計劃及測試報告書撰寫、系統架構規劃、功能測試(function test)\n其他條件：【本職缺歡迎身心障礙者投遞】"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "921tk",
+    "job_url": "https://www.104.com.tw/job/921tk",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/921tk.json",
+    "raw_sha256": "33fd775307f09233abf77bbc57a4d96949fdc0cd86b2ff955b2117fb46ff2fa7",
+    "requested_url": "https://www.104.com.tw/api/jobs/921tk"
+  }
+}

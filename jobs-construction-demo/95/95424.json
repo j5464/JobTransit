@@ -1,0 +1,244 @@
+{
+  "company": {
+    "id": "1a2x6bnkmt",
+    "name": "浤源科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟.NET C#開發。"
+        },
+        {
+          "children": [],
+          "text": "熟MVC Framework開發，1年以上經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟jQuery、javascript前端架框。"
+        },
+        {
+          "children": [],
+          "text": "具資料庫(SQL)操作及開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備Web API開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "無經驗可(積極努力、細心、認真、團隊合作)。"
+        }
+      ],
+      "text": "1. 熟.NET C#開發。\n2. 熟MVC Framework開發，1年以上經驗。\n3. 熟jQuery、javascript前端架框。\n4. 具資料庫(SQL)操作及開發經驗。\n5. 具備Web API開發經驗。\n6. 無經驗可(積極努力、細心、認真、團隊合作)。"
+    },
+    "employment_type_raw": "全職",
+    "title": "[台中]程式開發工程師"
+  },
+  "location": {
+    "address_raw": "台中市北屯區北屯路200巷1號2樓",
+    "raw": "台中市北屯區北屯路200巷1號2樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "ASP.NET",
+          "Visual Studio",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "C#、ASP.NET、Visual Studio、MS SQL"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "資料庫程式設計",
+          "軟體工程系統開發",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、資料庫程式設計、軟體工程系統開發、資料庫軟體應用"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "資料庫程式設計",
+      "軟體工程系統開發",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：不拘\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、ASP.NET、Visual Studio、MS SQL\n工作技能：軟體程式設計、資料庫程式設計、軟體工程系統開發、資料庫軟體應用",
+    "tools": [
+      "C#",
+      "ASP.NET",
+      "Visual Studio",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 19
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:09:35+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~55,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 熟.NET C#開發。\n2. 熟MVC Framework開發，1年以上經驗。\n3. 熟jQuery、javascript前端架框。\n4. 具資料庫(SQL)操作及開發經驗。\n5. 具備Web API開發經驗。\n6. 無經驗可(積極努力、細心、認真、團隊合作)。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~55,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市北屯區北屯路200巷1號2樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 熟.NET C#開發。\n2. 熟MVC Framework開發，1年以上經驗。\n3. 熟jQuery、javascript前端架框。\n4. 具資料庫(SQL)操作及開發經驗。\n5. 具備Web API開發經驗。\n6. 無經驗可(積極努力、細心、認真、團隊合作)。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "ASP.NET",
+            "Visual Studio",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "C#、ASP.NET、Visual Studio、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "資料庫程式設計",
+            "軟體工程系統開發",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、資料庫程式設計、軟體工程系統開發、資料庫軟體應用",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：不拘\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、ASP.NET、Visual Studio、MS SQL\n工作技能：軟體程式設計、資料庫程式設計、軟體工程系統開發、資料庫軟體應用"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "95424",
+    "job_url": "https://www.104.com.tw/job/95424",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/95424.json",
+    "raw_sha256": "ca114a7343c9c9b98efc91ca240624da0b7afb092916d6d75b60387a20948d99",
+    "requested_url": "https://www.104.com.tw/api/jobs/95424"
+  }
+}

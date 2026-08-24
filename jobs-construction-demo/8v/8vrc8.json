@@ -1,0 +1,246 @@
+{
+  "company": {
+    "id": "d0fheug",
+    "name": "鋒霈環境科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "其他資訊專業人員",
+      "MES工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責工廠內部資訊系統之開發、維護與整合（含資料庫與前端網頁設計）。"
+        },
+        {
+          "children": [],
+          "text": "架設與維護公司網站與內部管理平台，串接生產設備、儀器感測資料（Data Point），即時監控與資料視覺化。"
+        },
+        {
+          "children": [],
+          "text": "建立生產報工、稼動率、工時與異常停機資訊統計報表。"
+        },
+        {
+          "children": [],
+          "text": "整合人事出勤、加班、產線稼動等資訊，進行數據分析與儀表板呈現。"
+        },
+        {
+          "children": [],
+          "text": "負責資料庫設計與維護，確保資料安全與完整性，建立自動化統計與視覺化介面，支援主管即時查詢與決策。"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料庫（MySQL、SQL Server）操作與後端資料串接。"
+        },
+        {
+          "children": [],
+          "text": "具網站架設能力（HTML、JavaScript、Python、PHP 或 Node.js）。"
+        },
+        {
+          "children": [],
+          "text": "具備讀取設備通訊協定（如 Modbus、OPC UA）或 PLC 資料經驗尤佳。"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料分析與視覺化工具（Power BI、Grafana、Tableau 等）者佳。"
+        },
+        {
+          "children": [],
+          "text": "需可配合出差至鋒立廠區(彰化線西)"
+        }
+      ],
+      "text": "此職務主要負責鋒霈旗下的 100％ 持股子公司——「鋒立實業」其資訊相關事宜。\n鋒立實業專注於「再利用化學品」的加工與製造，是集團推動 ESG 創新與資源循環的技術核心。由於近年化學品需求迎來爆發式成長，鋒立目前正處於持續擴廠與技術深化的關鍵期，因此我們非常急需像您這樣具備專業背景的人才，加入我們正在成形的專屬技術團隊。\n1. 負責工廠內部資訊系統之開發、維護與整合（含資料庫與前端網頁設計）。\n2. 架設與維護公司網站與內部管理平台，串接生產設備、儀器感測資料（Data Point），即時監控與資料視覺化。\n3. 建立生產報工、稼動率、工時與異常停機資訊統計報表。\n4. 整合人事出勤、加班、產線稼動等資訊，進行數據分析與儀表板呈現。\n5. 負責資料庫設計與維護，確保資料安全與完整性，建立自動化統計與視覺化介面，支援主管即時查詢與決策。\n• 熟悉資料庫（MySQL、SQL Server）操作與後端資料串接。\n• 具網站架設能力（HTML、JavaScript、Python、PHP 或 Node.js）。\n• 具備讀取設備通訊協定（如 Modbus、OPC UA）或 PLC 資料經驗尤佳。\n• 熟悉資料分析與視覺化工具（Power BI、Grafana、Tableau 等）者佳。\n• 需可配合出差至鋒立廠區(彰化線西)"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊工程師(台中)"
+  },
+  "location": {
+    "address_raw": "台中市大雅區科雅路36號4樓",
+    "raw": "台中市大雅區科雅路36號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "工業工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、工業工程相關"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "HTML",
+          "JavaScript",
+          "Python",
+          "PHP",
+          "PLC"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、HTML、JavaScript、Python、PHP、PLC"
+      },
+      {
+        "items": [
+          "MES工廠執行系統規劃管理",
+          "資訊設備環境設定"
+        ],
+        "label": "工作技能",
+        "text": "MES工廠執行系統規劃管理、資訊設備環境設定"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "工業工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "MES工廠執行系統規劃管理",
+      "資訊設備環境設定"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、工業工程相關\n擅長工具：MS SQL、HTML、JavaScript、Python、PHP、PLC\n工作技能：MES工廠執行系統規劃管理、資訊設備環境設定",
+    "tools": [
+      "MS SQL",
+      "HTML",
+      "JavaScript",
+      "Python",
+      "PHP",
+      "PLC"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 90
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:03:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "此職務主要負責鋒霈旗下的 100％ 持股子公司——「鋒立實業」其資訊相關事宜。\n鋒立實業專注於「再利用化學品」的加工與製造，是集團推動 ESG 創新與資源循環的技術核心。由於近年化學品需求迎來爆發式成長，鋒立目前正處於持續擴廠與技術深化的關鍵期，因此我們非常急需像您這樣具備專業背景的人才，加入我們正在成形的專屬技術團隊。\n1. 負責工廠內部資訊系統之開發、維護與整合（含資料庫與前端網頁設計）。\n2. 架設與維護公司網站與內部管理平台，串接生產設備、儀器感測資料（Data Point），即時監控與資料視覺化。\n3. 建立生產報工、稼動率、工時與異常停機資訊統計報表。\n4. 整合人事出勤、加班、產線稼動等資訊，進行數據分析與儀表板呈現。\n5. 負責資料庫設計與維護，確保資料安全與完整性，建立自動化統計與視覺化介面，支援主管即時查詢與決策。\n• 熟悉資料庫（MySQL、SQL Server）操作與後端資料串接。\n• 具網站架設能力（HTML、JavaScript、Python、PHP 或 Node.js）。\n• 具備讀取設備通訊協定（如 Modbus、OPC UA）或 PLC 資料經驗尤佳。\n• 熟悉資料分析與視覺化工具（Power BI、Grafana、Tableau 等）者佳。\n• 需可配合出差至鋒立廠區(彰化線西)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "其他資訊專業人員",
+            "MES工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "其他資訊專業人員、MES工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市大雅區科雅路36號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "此職務主要負責鋒霈旗下的 100％ 持股子公司——「鋒立實業」其資訊相關事宜。\n鋒立實業專注於「再利用化學品」的加工與製造，是集團推動 ESG 創新與資源循環的技術核心。由於近年化學品需求迎來爆發式成長，鋒立目前正處於持續擴廠與技術深化的關鍵期，因此我們非常急需像您這樣具備專業背景的人才，加入我們正在成形的專屬技術團隊。\n1. 負責工廠內部資訊系統之開發、維護與整合（含資料庫與前端網頁設計）。\n2. 架設與維護公司網站與內部管理平台，串接生產設備、儀器感測資料（Data Point），即時監控與資料視覺化。\n3. 建立生產報工、稼動率、工時與異常停機資訊統計報表。\n4. 整合人事出勤、加班、產線稼動等資訊，進行數據分析與儀表板呈現。\n5. 負責資料庫設計與維護，確保資料安全與完整性，建立自動化統計與視覺化介面，支援主管即時查詢與決策。\n• 熟悉資料庫（MySQL、SQL Server）操作與後端資料串接。\n• 具網站架設能力（HTML、JavaScript、Python、PHP 或 Node.js）。\n• 具備讀取設備通訊協定（如 Modbus、OPC UA）或 PLC 資料經驗尤佳。\n• 熟悉資料分析與視覺化工具（Power BI、Grafana、Tableau 等）者佳。\n• 需可配合出差至鋒立廠區(彰化線西)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "工業工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、工業工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "HTML",
+            "JavaScript",
+            "Python",
+            "PHP",
+            "PLC"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、HTML、JavaScript、Python、PHP、PLC",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MES工廠執行系統規劃管理",
+            "資訊設備環境設定"
+          ],
+          "label": "工作技能",
+          "text": "MES工廠執行系統規劃管理、資訊設備環境設定",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、工業工程相關\n擅長工具：MS SQL、HTML、JavaScript、Python、PHP、PLC\n工作技能：MES工廠執行系統規劃管理、資訊設備環境設定"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8vrc8",
+    "job_url": "https://www.104.com.tw/job/8vrc8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8vrc8.json",
+    "raw_sha256": "c6243de45ac015a98eb39df0f885d908a7af47eefb7df9a34cf4bb4c5e5c707b",
+    "requested_url": "https://www.104.com.tw/api/jobs/8vrc8"
+  }
+}

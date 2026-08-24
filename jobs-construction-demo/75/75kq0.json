@@ -1,0 +1,214 @@
+{
+  "company": {
+    "id": "1uf0wio",
+    "name": "KPMG_安侯建業聯合會計師事務所"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "進行技術可行性分析"
+        },
+        {
+          "children": [],
+          "text": "開發AI相關應用場景"
+        },
+        {
+          "children": [],
+          "text": "整合及部署AI解決方案，顯示LLM結果"
+        },
+        {
+          "children": [],
+          "text": "持續跟進最新AI趨勢及技術"
+        },
+        {
+          "children": [],
+          "text": "與Global Alliance技術交流"
+        },
+        {
+          "children": [],
+          "text": "研發AI解決方案技術(e.g. Microsoft、Salesforce)"
+        },
+        {
+          "children": [],
+          "text": "協助其他Ad-hoc的工作項目。"
+        }
+      ],
+      "text": "您將會協助企業探索及實現AI場景：\n1. 進行技術可行性分析\n2. 開發AI相關應用場景\n3. 整合及部署AI解決方案，顯示LLM結果\n4. 持續跟進最新AI趨勢及技術\n5. 與Global Alliance技術交流\n6. 研發AI解決方案技術(e.g. Microsoft、Salesforce)\n7. 協助其他Ad-hoc的工作項目。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【顧問部】顧問師/高級顧問師/副理 (數位創新服務_AI應用工程師 AI Application Engineer)-317317"
+  },
+  "location": {
+    "address_raw": "台北市信義區信義路五段7號68樓",
+    "raw": "台北市信義區信義路五段7號68樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Outlook、PowerPoint、Word"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "基本條件:\n1. 國內外大學以上學歷，計算機科學、人工智能、機器學習、資訊工程、電子工程等相關專業尤佳。\n2. 至少2年以上相關工作經驗。\n3. 熟悉GitHub等版本控管工具\n4. 具備優秀的分析及創新思維能力。\n5. 具備韌性和靈活應變能力。\n6. 具備領導特質。\n7. 具備良好的團隊協作和溝通能力。\n如果您擅長前端:\n1. 精通HTML、CSS、JavaScript\n2. 熟悉React、Vue.js、或Angular\n3. 熟悉至少一種後端語言框架 (e.g. Python, Node.js)\n如果您擅長後端:\n1. 熟悉Python語言框架\n2. 熟悉關聯型數據庫(e.g. MySQL)和非關聯型數據庫(e.g. MongoDB)\n3. 設計和實現RESTful API或GraphQL\n加分條件:\n1. 具備Salesforce相關開發證照\n2. 具備Microsoft相關開發證照"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "基本條件:\n1. 國內外大學以上學歷，計算機科學、人工智能、機器學習、資訊工程、電子工程等相關專業尤佳。\n2. 至少2年以上相關工作經驗。\n3. 熟悉GitHub等版本控管工具\n4. 具備優秀的分析及創新思維能力。\n5. 具備韌性和靈活應變能力。\n6. 具備領導特質。\n7. 具備良好的團隊協作和溝通能力。\n如果您擅長前端:\n1. 精通HTML、CSS、JavaScript\n2. 熟悉React、Vue.js、或Angular\n3. 熟悉至少一種後端語言框架 (e.g. Python, Node.js)\n如果您擅長後端:\n1. 熟悉Python語言框架\n2. 熟悉關聯型數據庫(e.g. MySQL)和非關聯型數據庫(e.g. MongoDB)\n3. 設計和實現RESTful API或GraphQL\n加分條件:\n1. 具備Salesforce相關開發證照\n2. 具備Microsoft相關開發證照",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word\n其他條件：基本條件:\n1. 國內外大學以上學歷，計算機科學、人工智能、機器學習、資訊工程、電子工程等相關專業尤佳。\n2. 至少2年以上相關工作經驗。\n3. 熟悉GitHub等版本控管工具\n4. 具備優秀的分析及創新思維能力。\n5. 具備韌性和靈活應變能力。\n6. 具備領導特質。\n7. 具備良好的團隊協作和溝通能力。\n如果您擅長前端:\n1. 精通HTML、CSS、JavaScript\n2. 熟悉React、Vue.js、或Angular\n3. 熟悉至少一種後端語言框架 (e.g. Python, Node.js)\n如果您擅長後端:\n1. 熟悉Python語言框架\n2. 熟悉關聯型數據庫(e.g. MySQL)和非關聯型數據庫(e.g. MongoDB)\n3. 設計和實現RESTful API或GraphQL\n加分條件:\n1. 具備Salesforce相關開發證照\n2. 具備Microsoft相關開發證照",
+    "tools": [
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 48
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:21:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "您將會協助企業探索及實現AI場景：\n1. 進行技術可行性分析\n2. 開發AI相關應用場景\n3. 整合及部署AI解決方案，顯示LLM結果\n4. 持續跟進最新AI趨勢及技術\n5. 與Global Alliance技術交流\n6. 研發AI解決方案技術(e.g. Microsoft、Salesforce)\n7. 協助其他Ad-hoc的工作項目。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區信義路五段7號68樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "您將會協助企業探索及實現AI場景：\n1. 進行技術可行性分析\n2. 開發AI相關應用場景\n3. 整合及部署AI解決方案，顯示LLM結果\n4. 持續跟進最新AI趨勢及技術\n5. 與Global Alliance技術交流\n6. 研發AI解決方案技術(e.g. Microsoft、Salesforce)\n7. 協助其他Ad-hoc的工作項目。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Outlook、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "基本條件:\n1. 國內外大學以上學歷，計算機科學、人工智能、機器學習、資訊工程、電子工程等相關專業尤佳。\n2. 至少2年以上相關工作經驗。\n3. 熟悉GitHub等版本控管工具\n4. 具備優秀的分析及創新思維能力。\n5. 具備韌性和靈活應變能力。\n6. 具備領導特質。\n7. 具備良好的團隊協作和溝通能力。\n如果您擅長前端:\n1. 精通HTML、CSS、JavaScript\n2. 熟悉React、Vue.js、或Angular\n3. 熟悉至少一種後端語言框架 (e.g. Python, Node.js)\n如果您擅長後端:\n1. 熟悉Python語言框架\n2. 熟悉關聯型數據庫(e.g. MySQL)和非關聯型數據庫(e.g. MongoDB)\n3. 設計和實現RESTful API或GraphQL\n加分條件:\n1. 具備Salesforce相關開發證照\n2. 具備Microsoft相關開發證照",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word\n其他條件：基本條件:\n1. 國內外大學以上學歷，計算機科學、人工智能、機器學習、資訊工程、電子工程等相關專業尤佳。\n2. 至少2年以上相關工作經驗。\n3. 熟悉GitHub等版本控管工具\n4. 具備優秀的分析及創新思維能力。\n5. 具備韌性和靈活應變能力。\n6. 具備領導特質。\n7. 具備良好的團隊協作和溝通能力。\n如果您擅長前端:\n1. 精通HTML、CSS、JavaScript\n2. 熟悉React、Vue.js、或Angular\n3. 熟悉至少一種後端語言框架 (e.g. Python, Node.js)\n如果您擅長後端:\n1. 熟悉Python語言框架\n2. 熟悉關聯型數據庫(e.g. MySQL)和非關聯型數據庫(e.g. MongoDB)\n3. 設計和實現RESTful API或GraphQL\n加分條件:\n1. 具備Salesforce相關開發證照\n2. 具備Microsoft相關開發證照"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "75kq0",
+    "job_url": "https://www.104.com.tw/job/75kq0",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/75kq0.json",
+    "raw_sha256": "460d628a9c91b6c5751d74b36f2b2afe7d6de18ab319fb51b559fda5413ed724",
+    "requested_url": "https://www.104.com.tw/api/jobs/75kq0"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "company": {
+    "id": "12ssqens",
+    "name": "程曦資訊整合股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "DevOps 工程師",
+      "雲端工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "建立GCP的使用環境"
+        },
+        {
+          "children": [],
+          "text": "系統⾃動化與部署"
+        },
+        {
+          "children": [],
+          "text": "基礎架構管理"
+        },
+        {
+          "children": [],
+          "text": "系統監控與維護"
+        },
+        {
+          "children": [],
+          "text": "跨部⾨協作"
+        },
+        {
+          "children": [],
+          "text": "技術研究與實施"
+        },
+        {
+          "children": [],
+          "text": "⾄少2年以上 DevOps 相關經驗，熟悉 CI/CD 流程與GitLab CI/CD、GitLab Runner"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Linux 系統及伺服器管理，有 Docker 或 Kubernetes 容器化技術經驗"
+        },
+        {
+          "children": [],
+          "text": "熟練掌握 GCP 操作及其相關服務配置"
+        },
+        {
+          "children": [],
+          "text": "熟悉 HTTP、DNS、TLS/SSL 等網路架構及協議"
+        },
+        {
+          "children": [],
+          "text": "具備 MongoDB、MySQL 資料庫管理經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Grafana、Zabbix 監控與⽇誌⼯具"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Incident 管理及後續檢討流程"
+        },
+        {
+          "children": [],
+          "text": "有使⽤或整合 Terraform 相關經驗"
+        },
+        {
+          "children": [],
+          "text": "有資安相關經驗，如 DevSecOps 流程實施或漏洞管理"
+        },
+        {
+          "children": [],
+          "text": "了解⾃動化測試 Selenium ⼯具"
+        },
+        {
+          "children": [],
+          "text": "擁有相關認證，如 GCP Certified DevOps Engineer、CKA 或 CKS"
+        }
+      ],
+      "text": "『本職缺為程曦資訊集團關係企業招募』\n主要負責設計、領導、優化基礎架構與部署流程，並指導團隊成員；\n負責的產品是⼀款跨平台的即時通訊軟體，主要⽤於商務⾏為或企業內溝通。\n須確保系統的穩定性、可⽤性、安全性，實現快速迭代和持續交付，並且提升運營效率，降低成本。\n✅ ⼯作內容\n1.建立GCP的使用環境\n2.系統⾃動化與部署\n(1)設計、建置及維護 CI/CD 流程，確保系統能快速可靠地部署⾄各環境\n(2)開發基於⾃動化⼯具的解決⽅案，提⾼運營效率與部署速度\n3.基礎架構管理\n(1)使⽤基礎設施即代碼(IaC)⼯具進⾏環境配置及管理\n(2)監控並優化伺服器、容器和其他基礎架構資源的性能與成本\n4.系統監控與維護\n(1)建置和維護全⾯的監控及告警系統\n(2)分析系統問題，提供即時解決⽅案並防⽌問題再次發⽣\n5.跨部⾨協作\n(1)與開發團隊合作，設計並實現可擴展的部署架構\n(2)與安全團隊合作，確保系統符合資安標準\n6.技術研究與實施\n(1)研究並導入最新技術(如容器編排 Kubernetes、微服務架構)以提升系統效率\n(2)定期檢視現有流程，提出改善建議並進⾏實施\n✅ 必備條件 (Minimum Requirements)\n1.⾄少2年以上 DevOps 相關經驗，熟悉 CI/CD 流程與GitLab CI/CD、GitLab Runner\n2.熟悉 Linux 系統及伺服器管理，有 Docker 或 Kubernetes 容器化技術經驗\n3.熟練掌握 GCP 操作及其相關服務配置\n4.熟悉 HTTP、DNS、TLS/SSL 等網路架構及協議\n5.具備 MongoDB、MySQL 資料庫管理經驗\n6.熟悉 Grafana、Zabbix 監控與⽇誌⼯具\n7.熟悉 Incident 管理及後續檢討流程\n✅ 加分條件\n1.有使⽤或整合 Terraform 相關經驗\n2.有資安相關經驗，如 DevSecOps 流程實施或漏洞管理\n3.了解⾃動化測試 Selenium ⼯具\n4.擁有相關認證，如 GCP Certified DevOps Engineer、CKA 或 CKS"
+    },
+    "employment_type_raw": "全職",
+    "title": "DevOps資深工程師｜台北南港"
+  },
+  "location": {
+    "address_raw": "台北市南港區重陽路273號【鄰近南港捷運站】",
+    "raw": "台北市南港區重陽路273號【鄰近南港捷運站】"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "CI/CD",
+          "資料庫程式設計",
+          "系統架構規劃"
+        ],
+        "label": "工作技能",
+        "text": "CI/CD、資料庫程式設計、系統架構規劃"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "CI/CD",
+      "資料庫程式設計",
+      "系統架構規劃"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n工作技能：CI/CD、資料庫程式設計、系統架構規劃",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 30
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:37:03+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "『本職缺為程曦資訊集團關係企業招募』\n主要負責設計、領導、優化基礎架構與部署流程，並指導團隊成員；\n負責的產品是⼀款跨平台的即時通訊軟體，主要⽤於商務⾏為或企業內溝通。\n須確保系統的穩定性、可⽤性、安全性，實現快速迭代和持續交付，並且提升運營效率，降低成本。\n✅ ⼯作內容\n1.建立GCP的使用環境\n2.系統⾃動化與部署\n(1)設計、建置及維護 CI/CD 流程，確保系統能快速可靠地部署⾄各環境\n(2)開發基於⾃動化⼯具的解決⽅案，提⾼運營效率與部署速度\n3.基礎架構管理\n(1)使⽤基礎設施即代碼(IaC)⼯具進⾏環境配置及管理\n(2)監控並優化伺服器、容器和其他基礎架構資源的性能與成本\n4.系統監控與維護\n(1)建置和維護全⾯的監控及告警系統\n(2)分析系統問題，提供即時解決⽅案並防⽌問題再次發⽣\n5.跨部⾨協作\n(1)與開發團隊合作，設計並實現可擴展的部署架構\n(2)與安全團隊合作，確保系統符合資安標準\n6.技術研究與實施\n(1)研究並導入最新技術(如容器編排 Kubernetes、微服務架構)以提升系統效率\n(2)定期檢視現有流程，提出改善建議並進⾏實施\n✅ 必備條件 (Minimum Requirements)\n1.⾄少2年以上 DevOps 相關經驗，熟悉 CI/CD 流程與GitLab CI/CD、GitLab Runner\n2.熟悉 Linux 系統及伺服器管理，有 Docker 或 Kubernetes 容器化技術經驗\n3.熟練掌握 GCP 操作及其相關服務配置\n4.熟悉 HTTP、DNS、TLS/SSL 等網路架構及協議\n5.具備 MongoDB、MySQL 資料庫管理經驗\n6.熟悉 Grafana、Zabbix 監控與⽇誌⼯具\n7.熟悉 Incident 管理及後續檢討流程\n✅ 加分條件\n1.有使⽤或整合 Terraform 相關經驗\n2.有資安相關經驗，如 DevSecOps 流程實施或漏洞管理\n3.了解⾃動化測試 Selenium ⼯具\n4.擁有相關認證，如 GCP Certified DevOps Engineer、CKA 或 CKS",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "DevOps 工程師",
+            "雲端工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "DevOps 工程師、雲端工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區重陽路273號【鄰近南港捷運站】",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "『本職缺為程曦資訊集團關係企業招募』\n主要負責設計、領導、優化基礎架構與部署流程，並指導團隊成員；\n負責的產品是⼀款跨平台的即時通訊軟體，主要⽤於商務⾏為或企業內溝通。\n須確保系統的穩定性、可⽤性、安全性，實現快速迭代和持續交付，並且提升運營效率，降低成本。\n✅ ⼯作內容\n1.建立GCP的使用環境\n2.系統⾃動化與部署\n(1)設計、建置及維護 CI/CD 流程，確保系統能快速可靠地部署⾄各環境\n(2)開發基於⾃動化⼯具的解決⽅案，提⾼運營效率與部署速度\n3.基礎架構管理\n(1)使⽤基礎設施即代碼(IaC)⼯具進⾏環境配置及管理\n(2)監控並優化伺服器、容器和其他基礎架構資源的性能與成本\n4.系統監控與維護\n(1)建置和維護全⾯的監控及告警系統\n(2)分析系統問題，提供即時解決⽅案並防⽌問題再次發⽣\n5.跨部⾨協作\n(1)與開發團隊合作，設計並實現可擴展的部署架構\n(2)與安全團隊合作，確保系統符合資安標準\n6.技術研究與實施\n(1)研究並導入最新技術(如容器編排 Kubernetes、微服務架構)以提升系統效率\n(2)定期檢視現有流程，提出改善建議並進⾏實施\n✅ 必備條件 (Minimum Requirements)\n1.⾄少2年以上 DevOps 相關經驗，熟悉 CI/CD 流程與GitLab CI/CD、GitLab Runner\n2.熟悉 Linux 系統及伺服器管理，有 Docker 或 Kubernetes 容器化技術經驗\n3.熟練掌握 GCP 操作及其相關服務配置\n4.熟悉 HTTP、DNS、TLS/SSL 等網路架構及協議\n5.具備 MongoDB、MySQL 資料庫管理經驗\n6.熟悉 Grafana、Zabbix 監控與⽇誌⼯具\n7.熟悉 Incident 管理及後續檢討流程\n✅ 加分條件\n1.有使⽤或整合 Terraform 相關經驗\n2.有資安相關經驗，如 DevSecOps 流程實施或漏洞管理\n3.了解⾃動化測試 Selenium ⼯具\n4.擁有相關認證，如 GCP Certified DevOps Engineer、CKA 或 CKS"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "CI/CD",
+            "資料庫程式設計",
+            "系統架構規劃"
+          ],
+          "label": "工作技能",
+          "text": "CI/CD、資料庫程式設計、系統架構規劃",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n工作技能：CI/CD、資料庫程式設計、系統架構規劃"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92xr6",
+    "job_url": "https://www.104.com.tw/job/92xr6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92xr6.json",
+    "raw_sha256": "1ccf68ab3d453f6c0abb9dbd92164510785f64e57871b0a367147c3b1392afe8",
+    "requested_url": "https://www.104.com.tw/api/jobs/92xr6"
+  }
+}

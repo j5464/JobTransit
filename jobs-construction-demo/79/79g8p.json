@@ -1,0 +1,158 @@
+{
+  "company": {
+    "id": "10uv0f2g",
+    "name": "松凌科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "助理工程師",
+      "其他資訊專業人員",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具團隊合作精神，樂於與客戶溝通，有邏輯能力、具有主動學習的心。"
+        },
+        {
+          "children": [],
+          "text": "願意學習保險相關知識"
+        },
+        {
+          "children": [],
+          "text": "懂基本SQL語法"
+        },
+        {
+          "children": [],
+          "text": "資料庫分析"
+        },
+        {
+          "children": [],
+          "text": "協助 SQL 資料庫管理程式設計及測試。"
+        },
+        {
+          "children": [],
+          "text": "需求分析、溝通與技術文件撰寫。"
+        }
+      ],
+      "text": "需具備:\n1.具團隊合作精神，樂於與客戶溝通，有邏輯能力、具有主動學習的心。\n2.願意學習保險相關知識\n3.懂基本SQL語法\n本職缺工作內容：\n-資料庫分析\n-協助 SQL 資料庫管理程式設計及測試。\n-需求分析、溝通與技術文件撰寫。"
+    },
+    "employment_type_raw": "全職",
+    "title": "助理工程師"
+  },
+  "location": {
+    "address_raw": "台北市中正區衡陽路51號7樓之11",
+    "raw": "台北市中正區衡陽路51號7樓之11"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 11
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:48:11+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000~40,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "需具備:\n1.具團隊合作精神，樂於與客戶溝通，有邏輯能力、具有主動學習的心。\n2.願意學習保險相關知識\n3.懂基本SQL語法\n本職缺工作內容：\n-資料庫分析\n-協助 SQL 資料庫管理程式設計及測試。\n-需求分析、溝通與技術文件撰寫。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "助理工程師",
+            "其他資訊專業人員",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "助理工程師、其他資訊專業人員、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000~40,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區衡陽路51號7樓之11",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "需具備:\n1.具團隊合作精神，樂於與客戶溝通，有邏輯能力、具有主動學習的心。\n2.願意學習保險相關知識\n3.懂基本SQL語法\n本職缺工作內容：\n-資料庫分析\n-協助 SQL 資料庫管理程式設計及測試。\n-需求分析、溝通與技術文件撰寫。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "79g8p",
+    "job_url": "https://www.104.com.tw/job/79g8p",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/79g8p.json",
+    "raw_sha256": "06cf1bca69bb8b05f4e2fc4b28280027437f6874183f23309491d2f7ee94afaf",
+    "requested_url": "https://www.104.com.tw/api/jobs/79g8p"
+  }
+}

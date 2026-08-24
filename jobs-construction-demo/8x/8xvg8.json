@@ -1,0 +1,312 @@
+{
+  "company": {
+    "id": "1a2x6bnmiz",
+    "name": "盛晟科技國際有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "後端工程師",
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "參與 應用程式(App) 及 Web 系統的開發、測試與維護"
+        },
+        {
+          "children": [],
+          "text": "協助進行資料庫的設計、開發與管理"
+        },
+        {
+          "children": [],
+          "text": "探索基於平台可用數據的定量研究和解決方案"
+        },
+        {
+          "children": [],
+          "text": "撰寫技術文件，確保程式碼品質與系統穩定性"
+        },
+        {
+          "children": [],
+          "text": "部署、管理、支援和排除應用程式故障，以及平台維護與開發、單元測試和自動化"
+        },
+        {
+          "children": [],
+          "text": "資料擷取，數據的量化研究與遷移"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項"
+        }
+      ],
+      "text": "主要工作內容\n- 參與 應用程式(App) 及 Web 系統的開發、測試與維護\n- 協助進行資料庫的設計、開發與管理\n- 探索基於平台可用數據的定量研究和解決方案\n- 撰寫技術文件，確保程式碼品質與系統穩定性\n- 部署、管理、支援和排除應用程式故障，以及平台維護與開發、單元測試和自動化\n- 資料擷取，數據的量化研究與遷移\n- 主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區南京東路6段495號8樓",
+    "raw": "台北市內湖區南京東路6段495號8樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Github",
+          "Jenkins",
+          "ASP.NET",
+          "C#",
+          "Java",
+          "Python",
+          "Kotlin",
+          "MySQL",
+          "MS SQL",
+          "JIRA",
+          "Systems Administration",
+          "Systems Analysis",
+          "Git",
+          "C++",
+          "PHP",
+          "Go",
+          "Data Modeling",
+          "Database Management",
+          "PostgreSQL",
+          "Google Cloud",
+          "AWS"
+        ],
+        "label": "擅長工具",
+        "text": "Github、Jenkins、ASP.NET、C#、Java、Python、Kotlin、MySQL、MS SQL、JIRA、Systems Administration、Systems Analysis、Git、C++、PHP、Go、Data Modeling、Database Management、PostgreSQL、Google Cloud、AWS"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "軟體品質與保證",
+          "資料庫系統管理維護",
+          "系統架構規劃",
+          "資料庫軟體應用",
+          "系統維護操作",
+          "結構化程式設計",
+          "伺服器網站管理維護",
+          "作業系統基本操作",
+          "軟體整合測試",
+          "資料庫程式設計",
+          "系統架構規劃與維護",
+          "安裝與維護網路安全系統",
+          "規劃與管理入侵防護系統（IPS）",
+          "系統整合分析"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發、軟體品質與保證、資料庫系統管理維護、系統架構規劃、資料庫軟體應用、系統維護操作、結構化程式設計、伺服器網站管理維護、作業系統基本操作、軟體整合測試、資料庫程式設計、系統架構規劃與維護、安裝與維護網路安全系統、規劃與管理入侵防護系統（IPS）、系統整合分析"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "◆ 基本條件：\n工作經歷： 2年或以上軟體工程師相關工作經驗\n學歷要求： 大學或碩士學位\n科系要求： 不拘 (資訊工程、資訊管理等相關科系尤佳，數學、統計、物理、工程或金融/計量經濟學領域亦較理想)\n◆ 加分條件：\n- 技術能力 (具備以下經驗者優先考慮)：\n- 熟悉至少一種主流程式語言（如 C++/C#, Java, Python）\n- 具備 Web 系統及應用程式開發經驗\n- 熟悉 ASP.NET MVC (C# ) 開發\n- 熟悉 SQL 資料庫操作（如 MSSQL、MySQL）\n- 具備 API 串接或開發經驗\n- 熟悉 Docker、撰寫 Dockerfile、在 Linux 環境中部署應用\n- 掌握 CI/CD 自動化部署流程（如 GitHub Actions、GitLab CI）\n- 具備 API 開發經驗（RESTful, JWT, OAuth2），能制定 API 規格（Swagger / OpenAPI）\n- Redis, Kakfa, Kotlin\n- 開發工具 Jira/Jenkins/Spica\n- 在定量領域和/或專案方面擁有專業經驗\n- 精通數學和/或計算模型和/或產品，和/或擁有紮實的定量背景\n- 具備IT系統開發或物件導向語言程式設計經驗者優先考慮\n◆ 理想素質：\n- 分析和技術能力\n- 注重細節\n- 自主性\n- 書面和口頭溝通能力\n- 社交能力\n- 團隊合作"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "◆ 基本條件：\n工作經歷： 2年或以上軟體工程師相關工作經驗\n學歷要求： 大學或碩士學位\n科系要求： 不拘 (資訊工程、資訊管理等相關科系尤佳，數學、統計、物理、工程或金融/計量經濟學領域亦較理想)\n◆ 加分條件：\n- 技術能力 (具備以下經驗者優先考慮)：\n- 熟悉至少一種主流程式語言（如 C++/C#, Java, Python）\n- 具備 Web 系統及應用程式開發經驗\n- 熟悉 ASP.NET MVC (C# ) 開發\n- 熟悉 SQL 資料庫操作（如 MSSQL、MySQL）\n- 具備 API 串接或開發經驗\n- 熟悉 Docker、撰寫 Dockerfile、在 Linux 環境中部署應用\n- 掌握 CI/CD 自動化部署流程（如 GitHub Actions、GitLab CI）\n- 具備 API 開發經驗（RESTful, JWT, OAuth2），能制定 API 規格（Swagger / OpenAPI）\n- Redis, Kakfa, Kotlin\n- 開發工具 Jira/Jenkins/Spica\n- 在定量領域和/或專案方面擁有專業經驗\n- 精通數學和/或計算模型和/或產品，和/或擁有紮實的定量背景\n- 具備IT系統開發或物件導向語言程式設計經驗者優先考慮\n◆ 理想素質：\n- 分析和技術能力\n- 注重細節\n- 自主性\n- 書面和口頭溝通能力\n- 社交能力\n- 團隊合作",
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "軟體品質與保證",
+      "資料庫系統管理維護",
+      "系統架構規劃",
+      "資料庫軟體應用",
+      "系統維護操作",
+      "結構化程式設計",
+      "伺服器網站管理維護",
+      "作業系統基本操作",
+      "軟體整合測試",
+      "資料庫程式設計",
+      "系統架構規劃與維護",
+      "安裝與維護網路安全系統",
+      "規劃與管理入侵防護系統（IPS）",
+      "系統整合分析"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Github、Jenkins、ASP.NET、C#、Java、Python、Kotlin、MySQL、MS SQL、JIRA、Systems Administration、Systems Analysis、Git、C++、PHP、Go、Data Modeling、Database Management、PostgreSQL、Google Cloud、AWS\n工作技能：軟體程式設計、軟體工程系統開發、軟體品質與保證、資料庫系統管理維護、系統架構規劃、資料庫軟體應用、系統維護操作、結構化程式設計、伺服器網站管理維護、作業系統基本操作、軟體整合測試、資料庫程式設計、系統架構規劃與維護、安裝與維護網路安全系統、規劃與管理入侵防護系統（IPS）、系統整合分析\n其他條件：◆ 基本條件：\n工作經歷： 2年或以上軟體工程師相關工作經驗\n學歷要求： 大學或碩士學位\n科系要求： 不拘 (資訊工程、資訊管理等相關科系尤佳，數學、統計、物理、工程或金融/計量經濟學領域亦較理想)\n◆ 加分條件：\n- 技術能力 (具備以下經驗者優先考慮)：\n- 熟悉至少一種主流程式語言（如 C++/C#, Java, Python）\n- 具備 Web 系統及應用程式開發經驗\n- 熟悉 ASP.NET MVC (C# ) 開發\n- 熟悉 SQL 資料庫操作（如 MSSQL、MySQL）\n- 具備 API 串接或開發經驗\n- 熟悉 Docker、撰寫 Dockerfile、在 Linux 環境中部署應用\n- 掌握 CI/CD 自動化部署流程（如 GitHub Actions、GitLab CI）\n- 具備 API 開發經驗（RESTful, JWT, OAuth2），能制定 API 規格（Swagger / OpenAPI）\n- Redis, Kakfa, Kotlin\n- 開發工具 Jira/Jenkins/Spica\n- 在定量領域和/或專案方面擁有專業經驗\n- 精通數學和/或計算模型和/或產品，和/或擁有紮實的定量背景\n- 具備IT系統開發或物件導向語言程式設計經驗者優先考慮\n◆ 理想素質：\n- 分析和技術能力\n- 注重細節\n- 自主性\n- 書面和口頭溝通能力\n- 社交能力\n- 團隊合作",
+    "tools": [
+      "Github",
+      "Jenkins",
+      "ASP.NET",
+      "C#",
+      "Java",
+      "Python",
+      "Kotlin",
+      "MySQL",
+      "MS SQL",
+      "JIRA",
+      "Systems Administration",
+      "Systems Analysis",
+      "Git",
+      "C++",
+      "PHP",
+      "Go",
+      "Data Modeling",
+      "Database Management",
+      "PostgreSQL",
+      "Google Cloud",
+      "AWS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 70
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:15:37+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000~70,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "主要工作內容\n- 參與 應用程式(App) 及 Web 系統的開發、測試與維護\n- 協助進行資料庫的設計、開發與管理\n- 探索基於平台可用數據的定量研究和解決方案\n- 撰寫技術文件，確保程式碼品質與系統穩定性\n- 部署、管理、支援和排除應用程式故障，以及平台維護與開發、單元測試和自動化\n- 資料擷取，數據的量化研究與遷移\n- 主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "後端工程師",
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、後端工程師、系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000~70,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區南京東路6段495號8樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "主要工作內容\n- 參與 應用程式(App) 及 Web 系統的開發、測試與維護\n- 協助進行資料庫的設計、開發與管理\n- 探索基於平台可用數據的定量研究和解決方案\n- 撰寫技術文件，確保程式碼品質與系統穩定性\n- 部署、管理、支援和排除應用程式故障，以及平台維護與開發、單元測試和自動化\n- 資料擷取，數據的量化研究與遷移\n- 主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Github",
+            "Jenkins",
+            "ASP.NET",
+            "C#",
+            "Java",
+            "Python",
+            "Kotlin",
+            "MySQL",
+            "MS SQL",
+            "JIRA",
+            "Systems Administration",
+            "Systems Analysis",
+            "Git",
+            "C++",
+            "PHP",
+            "Go",
+            "Data Modeling",
+            "Database Management",
+            "PostgreSQL",
+            "Google Cloud",
+            "AWS"
+          ],
+          "label": "擅長工具",
+          "text": "Github、Jenkins、ASP.NET、C#、Java、Python、Kotlin、MySQL、MS SQL、JIRA、Systems Administration、Systems Analysis、Git、C++、PHP、Go、Data Modeling、Database Management、PostgreSQL、Google Cloud、AWS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "軟體品質與保證",
+            "資料庫系統管理維護",
+            "系統架構規劃",
+            "資料庫軟體應用",
+            "系統維護操作",
+            "結構化程式設計",
+            "伺服器網站管理維護",
+            "作業系統基本操作",
+            "軟體整合測試",
+            "資料庫程式設計",
+            "系統架構規劃與維護",
+            "安裝與維護網路安全系統",
+            "規劃與管理入侵防護系統（IPS）",
+            "系統整合分析"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發、軟體品質與保證、資料庫系統管理維護、系統架構規劃、資料庫軟體應用、系統維護操作、結構化程式設計、伺服器網站管理維護、作業系統基本操作、軟體整合測試、資料庫程式設計、系統架構規劃與維護、安裝與維護網路安全系統、規劃與管理入侵防護系統（IPS）、系統整合分析",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "◆ 基本條件：\n工作經歷： 2年或以上軟體工程師相關工作經驗\n學歷要求： 大學或碩士學位\n科系要求： 不拘 (資訊工程、資訊管理等相關科系尤佳，數學、統計、物理、工程或金融/計量經濟學領域亦較理想)\n◆ 加分條件：\n- 技術能力 (具備以下經驗者優先考慮)：\n- 熟悉至少一種主流程式語言（如 C++/C#, Java, Python）\n- 具備 Web 系統及應用程式開發經驗\n- 熟悉 ASP.NET MVC (C# ) 開發\n- 熟悉 SQL 資料庫操作（如 MSSQL、MySQL）\n- 具備 API 串接或開發經驗\n- 熟悉 Docker、撰寫 Dockerfile、在 Linux 環境中部署應用\n- 掌握 CI/CD 自動化部署流程（如 GitHub Actions、GitLab CI）\n- 具備 API 開發經驗（RESTful, JWT, OAuth2），能制定 API 規格（Swagger / OpenAPI）\n- Redis, Kakfa, Kotlin\n- 開發工具 Jira/Jenkins/Spica\n- 在定量領域和/或專案方面擁有專業經驗\n- 精通數學和/或計算模型和/或產品，和/或擁有紮實的定量背景\n- 具備IT系統開發或物件導向語言程式設計經驗者優先考慮\n◆ 理想素質：\n- 分析和技術能力\n- 注重細節\n- 自主性\n- 書面和口頭溝通能力\n- 社交能力\n- 團隊合作",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Github、Jenkins、ASP.NET、C#、Java、Python、Kotlin、MySQL、MS SQL、JIRA、Systems Administration、Systems Analysis、Git、C++、PHP、Go、Data Modeling、Database Management、PostgreSQL、Google Cloud、AWS\n工作技能：軟體程式設計、軟體工程系統開發、軟體品質與保證、資料庫系統管理維護、系統架構規劃、資料庫軟體應用、系統維護操作、結構化程式設計、伺服器網站管理維護、作業系統基本操作、軟體整合測試、資料庫程式設計、系統架構規劃與維護、安裝與維護網路安全系統、規劃與管理入侵防護系統（IPS）、系統整合分析\n其他條件：◆ 基本條件：\n工作經歷： 2年或以上軟體工程師相關工作經驗\n學歷要求： 大學或碩士學位\n科系要求： 不拘 (資訊工程、資訊管理等相關科系尤佳，數學、統計、物理、工程或金融/計量經濟學領域亦較理想)\n◆ 加分條件：\n- 技術能力 (具備以下經驗者優先考慮)：\n- 熟悉至少一種主流程式語言（如 C++/C#, Java, Python）\n- 具備 Web 系統及應用程式開發經驗\n- 熟悉 ASP.NET MVC (C# ) 開發\n- 熟悉 SQL 資料庫操作（如 MSSQL、MySQL）\n- 具備 API 串接或開發經驗\n- 熟悉 Docker、撰寫 Dockerfile、在 Linux 環境中部署應用\n- 掌握 CI/CD 自動化部署流程（如 GitHub Actions、GitLab CI）\n- 具備 API 開發經驗（RESTful, JWT, OAuth2），能制定 API 規格（Swagger / OpenAPI）\n- Redis, Kakfa, Kotlin\n- 開發工具 Jira/Jenkins/Spica\n- 在定量領域和/或專案方面擁有專業經驗\n- 精通數學和/或計算模型和/或產品，和/或擁有紮實的定量背景\n- 具備IT系統開發或物件導向語言程式設計經驗者優先考慮\n◆ 理想素質：\n- 分析和技術能力\n- 注重細節\n- 自主性\n- 書面和口頭溝通能力\n- 社交能力\n- 團隊合作"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8xvg8",
+    "job_url": "https://www.104.com.tw/job/8xvg8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xvg8.json",
+    "raw_sha256": "25844c0289cd2c90557c7b33e6cda76ee60eebf3cec09beb6a9303ff0fed3758",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xvg8"
+  }
+}

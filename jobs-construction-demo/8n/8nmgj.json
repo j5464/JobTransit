@@ -1,0 +1,200 @@
+{
+  "company": {
+    "id": "ahfsoq0",
+    "name": "廣達電腦股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資安工程師",
+      "系統分析師",
+      "軟體專案管理師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "資訊安全專案推動與執行"
+        },
+        {
+          "children": [],
+          "text": "資訊安全產品與架構研究、方案整合"
+        },
+        {
+          "children": [],
+          "text": "跨單位協調"
+        },
+        {
+          "children": [],
+          "text": "資訊平台整合，可視化管理"
+        },
+        {
+          "children": [],
+          "text": "自動化查核"
+        },
+        {
+          "children": [],
+          "text": "ISMS規劃與控制項規劃管理"
+        },
+        {
+          "children": [],
+          "text": "跨國資安專案整合"
+        },
+        {
+          "children": [],
+          "text": "熟悉以下平台管理或開發工具"
+        }
+      ],
+      "text": "1. 資訊安全專案推動與執行\n2. 資訊安全產品與架構研究、方案整合\n3. 跨單位協調\n4. 資訊平台整合，可視化管理\n5. 自動化查核\n6. ISMS規劃與控制項規劃管理\n7. 跨國資安專案整合\n8.熟悉以下平台管理或開發工具"
+    },
+    "employment_type_raw": "全職",
+    "title": "資安專案工程 - J2145"
+  },
+  "location": {
+    "address_raw": "桃園市龜山區文化二路211號",
+    "raw": "桃園市龜山區文化二路211號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "工程學科類",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、工程學科類、數學及電算機科學學科類"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "工作技能：專案管理、系統化查核\n其他條件：\n- 具備新方案了解與研究能力\n- 具備跨平台整合評估能力\n- 具備基礎開發與資料串連整合能力\n- 溝通協調能力佳、高抗壓性與團隊合作\n- 具備獨立思考與獨立作業能力\n- 具備對發現事項論述與清晰表達能力\n- 具備良好英語能力（聽說讀寫）尤佳\n- TOEIC 600分 以上\n- 熟悉以下平台管理或開發工具尤佳：\nPlatform：Windows、Linux、ELK、Splunk\nPrograming：Python、PowerShell、Perl、Shell Script、.Net Core、SQL\n證照（以下任一或同等）：\n- ISO/IEC 27001 LAC\n- CISSP / CISM\n- IPAS Information Security Engineer"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "工程學科類",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": "工作技能：專案管理、系統化查核\n其他條件：\n- 具備新方案了解與研究能力\n- 具備跨平台整合評估能力\n- 具備基礎開發與資料串連整合能力\n- 溝通協調能力佳、高抗壓性與團隊合作\n- 具備獨立思考與獨立作業能力\n- 具備對發現事項論述與清晰表達能力\n- 具備良好英語能力（聽說讀寫）尤佳\n- TOEIC 600分 以上\n- 熟悉以下平台管理或開發工具尤佳：\nPlatform：Windows、Linux、ELK、Splunk\nPrograming：Python、PowerShell、Perl、Shell Script、.Net Core、SQL\n證照（以下任一或同等）：\n- ISO/IEC 27001 LAC\n- CISSP / CISM\n- IPAS Information Security Engineer",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、工程學科類、數學及電算機科學學科類\n其他條件：工作技能：專案管理、系統化查核\n其他條件：\n- 具備新方案了解與研究能力\n- 具備跨平台整合評估能力\n- 具備基礎開發與資料串連整合能力\n- 溝通協調能力佳、高抗壓性與團隊合作\n- 具備獨立思考與獨立作業能力\n- 具備對發現事項論述與清晰表達能力\n- 具備良好英語能力（聽說讀寫）尤佳\n- TOEIC 600分 以上\n- 熟悉以下平台管理或開發工具尤佳：\nPlatform：Windows、Linux、ELK、Splunk\nPrograming：Python、PowerShell、Perl、Shell Script、.Net Core、SQL\n證照（以下任一或同等）：\n- ISO/IEC 27001 LAC\n- CISSP / CISM\n- IPAS Information Security Engineer",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 22
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:16:34+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 資訊安全專案推動與執行\n2. 資訊安全產品與架構研究、方案整合\n3. 跨單位協調\n4. 資訊平台整合，可視化管理\n5. 自動化查核\n6. ISMS規劃與控制項規劃管理\n7. 跨國資安專案整合\n8.熟悉以下平台管理或開發工具",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資安工程師",
+            "系統分析師",
+            "軟體專案管理師"
+          ],
+          "label": "職務類別",
+          "text": "資安工程師、系統分析師、軟體專案管理師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市龜山區文化二路211號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 資訊安全專案推動與執行\n2. 資訊安全產品與架構研究、方案整合\n3. 跨單位協調\n4. 資訊平台整合，可視化管理\n5. 自動化查核\n6. ISMS規劃與控制項規劃管理\n7. 跨國資安專案整合\n8.熟悉以下平台管理或開發工具"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "工程學科類",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、工程學科類、數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "工作技能：專案管理、系統化查核\n其他條件：\n- 具備新方案了解與研究能力\n- 具備跨平台整合評估能力\n- 具備基礎開發與資料串連整合能力\n- 溝通協調能力佳、高抗壓性與團隊合作\n- 具備獨立思考與獨立作業能力\n- 具備對發現事項論述與清晰表達能力\n- 具備良好英語能力（聽說讀寫）尤佳\n- TOEIC 600分 以上\n- 熟悉以下平台管理或開發工具尤佳：\nPlatform：Windows、Linux、ELK、Splunk\nPrograming：Python、PowerShell、Perl、Shell Script、.Net Core、SQL\n證照（以下任一或同等）：\n- ISO/IEC 27001 LAC\n- CISSP / CISM\n- IPAS Information Security Engineer",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、工程學科類、數學及電算機科學學科類\n其他條件：工作技能：專案管理、系統化查核\n其他條件：\n- 具備新方案了解與研究能力\n- 具備跨平台整合評估能力\n- 具備基礎開發與資料串連整合能力\n- 溝通協調能力佳、高抗壓性與團隊合作\n- 具備獨立思考與獨立作業能力\n- 具備對發現事項論述與清晰表達能力\n- 具備良好英語能力（聽說讀寫）尤佳\n- TOEIC 600分 以上\n- 熟悉以下平台管理或開發工具尤佳：\nPlatform：Windows、Linux、ELK、Splunk\nPrograming：Python、PowerShell、Perl、Shell Script、.Net Core、SQL\n證照（以下任一或同等）：\n- ISO/IEC 27001 LAC\n- CISSP / CISM\n- IPAS Information Security Engineer"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8nmgj",
+    "job_url": "https://www.104.com.tw/job/8nmgj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8nmgj.json",
+    "raw_sha256": "174fd30c6c018d4ad3ee6a75884da773d6b6a8440a9a4d4ffcdfecf6342f3186",
+    "requested_url": "https://www.104.com.tw/api/jobs/8nmgj"
+  }
+}

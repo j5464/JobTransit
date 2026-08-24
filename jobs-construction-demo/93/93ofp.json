@@ -1,0 +1,219 @@
+{
+  "company": {
+    "id": "1a2x6blcz2",
+    "name": "新加坡商蝦皮娛樂電商有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Design, develop, and maintain ETL/ELT pipelines to ingest, transform, and load data from diverse upstream sources into the data warehouse."
+        },
+        {
+          "children": [],
+          "text": "Build and optimize data warehouse architecture (e.g. dimensional modeling, layered data structures, data marts) to support scalable, reusable, and well-governed data models."
+        },
+        {
+          "children": [],
+          "text": "Develop and integrate APIs to support internal data platform tools and downstream consumption."
+        },
+        {
+          "children": [],
+          "text": "Ensure data quality, consistency, and reliability through validation logic, monitoring, and error handling across pipelines."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with cross-functional teams (BI, analytics, product, regional engineering) to translate business requirements into technical data solutions."
+        },
+        {
+          "children": [],
+          "text": "Troubleshoot and resolve data pipeline issues, upstream dependency failures, and performance bottlenecks."
+        },
+        {
+          "children": [],
+          "text": "Identify and implement process improvements to enhance pipeline efficiency, data quality, and operational sustainability."
+        },
+        {
+          "children": [],
+          "text": "Contribute to documentation of data architecture, lineage, and metadata for governance purposes."
+        }
+      ],
+      "text": "Background:\nThe Data Integration Team at Business Intelligence is seeking a Data Engineer to design, build, and maintain scalable ETL pipelines, data warehouse architecture, and APIs on the enterprise's all-in-one data tool platform. This role focuses on hands-on development of robust data infrastructure that powers reporting, analytics, and AI-ready data products across the organization.\nThis role offers the opportunity to work in a dynamic environment with a diverse team and make a significant impact on Shopee's data integration initiatives. If you are passionate about data engineering and possess the technical skills and experience we are looking for, we would love to hear from you.\nWorking at Shopee requires an aggressive attitude. We are constantly adapting to new business models and organizational changes. We are open to any kind of discussion and encourage teammates to develop in their own specific areas. From data pipeline development to data warehouse architecture design, you would encounter endless possibilities with E-commerce data and potentially create substantial impacts on millions of Shopee users once you devote yourself to this position.\nJob Description:\n- Design, develop, and maintain ETL/ELT pipelines to ingest, transform, and load data from diverse upstream sources into the data warehouse.\n- Build and optimize data warehouse architecture (e.g. dimensional modeling, layered data structures, data marts) to support scalable, reusable, and well-governed data models.\n- Develop and integrate APIs to support internal data platform tools and downstream consumption.\n- Ensure data quality, consistency, and reliability through validation logic, monitoring, and error handling across pipelines.\n- Collaborate with cross-functional teams (BI, analytics, product, regional engineering) to translate business requirements into technical data solutions.\n- Troubleshoot and resolve data pipeline issues, upstream dependency failures, and performance bottlenecks.\n- Identify and implement process improvements to enhance pipeline efficiency, data quality, and operational sustainability.\n- Contribute to documentation of data architecture, lineage, and metadata for governance purposes."
+    },
+    "employment_type_raw": "全職",
+    "title": "Data Engineer / Business Intelligence Data Integration"
+  },
+  "location": {
+    "address_raw": "台北市信義區",
+    "raw": "台北市信義區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "Excel",
+          "Project",
+          "Tableau",
+          "Power BI​"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、Excel、Project、Tableau、Power BI​"
+      },
+      {
+        "items": [
+          "數據分析"
+        ],
+        "label": "工作技能",
+        "text": "數據分析"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Basic Requirements:\n- Strong conceptual understanding of data warehouse design principles (e.g. dimensional modeling, layered architecture, data marts) and ETL/ELT design patterns.\n- Proficiency in SQL and Python for data processing.\n- Understanding of data quality management, including validation logic and anomaly detection.\n- Ability to manage multiple concurrent pipeline/project workstreams and communicate technical issues clearly to both technical and non-technical stakeholders.\nThis position is an excellent opportunity for individuals looking to build their career in data engineering and contribute to the growth and success of Shopee's data infrastructure. If you are driven, innovative, and passionate about data, we encourage you to apply."
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "Basic Requirements:\n- Strong conceptual understanding of data warehouse design principles (e.g. dimensional modeling, layered architecture, data marts) and ETL/ELT design patterns.\n- Proficiency in SQL and Python for data processing.\n- Understanding of data quality management, including validation logic and anomaly detection.\n- Ability to manage multiple concurrent pipeline/project workstreams and communicate technical issues clearly to both technical and non-technical stakeholders.\nThis position is an excellent opportunity for individuals looking to build their career in data engineering and contribute to the growth and success of Shopee's data infrastructure. If you are driven, innovative, and passionate about data, we encourage you to apply.",
+    "skills": [
+      "數據分析"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學\n擅長工具：MS SQL、Excel、Project、Tableau、Power BI​\n工作技能：數據分析\n其他條件：Basic Requirements:\n- Strong conceptual understanding of data warehouse design principles (e.g. dimensional modeling, layered architecture, data marts) and ETL/ELT design patterns.\n- Proficiency in SQL and Python for data processing.\n- Understanding of data quality management, including validation logic and anomaly detection.\n- Ability to manage multiple concurrent pipeline/project workstreams and communicate technical issues clearly to both technical and non-technical stakeholders.\nThis position is an excellent opportunity for individuals looking to build their career in data engineering and contribute to the growth and success of Shopee's data infrastructure. If you are driven, innovative, and passionate about data, we encourage you to apply.",
+    "tools": [
+      "MS SQL",
+      "Excel",
+      "Project",
+      "Tableau",
+      "Power BI​"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 70
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:15:06+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Background:\nThe Data Integration Team at Business Intelligence is seeking a Data Engineer to design, build, and maintain scalable ETL pipelines, data warehouse architecture, and APIs on the enterprise's all-in-one data tool platform. This role focuses on hands-on development of robust data infrastructure that powers reporting, analytics, and AI-ready data products across the organization.\nThis role offers the opportunity to work in a dynamic environment with a diverse team and make a significant impact on Shopee's data integration initiatives. If you are passionate about data engineering and possess the technical skills and experience we are looking for, we would love to hear from you.\nWorking at Shopee requires an aggressive attitude. We are constantly adapting to new business models and organizational changes. We are open to any kind of discussion and encourage teammates to develop in their own specific areas. From data pipeline development to data warehouse architecture design, you would encounter endless possibilities with E-commerce data and potentially create substantial impacts on millions of Shopee users once you devote yourself to this position.\nJob Description:\n- Design, develop, and maintain ETL/ELT pipelines to ingest, transform, and load data from diverse upstream sources into the data warehouse.\n- Build and optimize data warehouse architecture (e.g. dimensional modeling, layered data structures, data marts) to support scalable, reusable, and well-governed data models.\n- Develop and integrate APIs to support internal data platform tools and downstream consumption.\n- Ensure data quality, consistency, and reliability through validation logic, monitoring, and error handling across pipelines.\n- Collaborate with cross-functional teams (BI, analytics, product, regional engineering) to translate business requirements into technical data solutions.\n- Troubleshoot and resolve data pipeline issues, upstream dependency failures, and performance bottlenecks.\n- Identify and implement process improvements to enhance pipeline efficiency, data quality, and operational sustainability.\n- Contribute to documentation of data architecture, lineage, and metadata for governance purposes.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Background:\nThe Data Integration Team at Business Intelligence is seeking a Data Engineer to design, build, and maintain scalable ETL pipelines, data warehouse architecture, and APIs on the enterprise's all-in-one data tool platform. This role focuses on hands-on development of robust data infrastructure that powers reporting, analytics, and AI-ready data products across the organization.\nThis role offers the opportunity to work in a dynamic environment with a diverse team and make a significant impact on Shopee's data integration initiatives. If you are passionate about data engineering and possess the technical skills and experience we are looking for, we would love to hear from you.\nWorking at Shopee requires an aggressive attitude. We are constantly adapting to new business models and organizational changes. We are open to any kind of discussion and encourage teammates to develop in their own specific areas. From data pipeline development to data warehouse architecture design, you would encounter endless possibilities with E-commerce data and potentially create substantial impacts on millions of Shopee users once you devote yourself to this position.\nJob Description:\n- Design, develop, and maintain ETL/ELT pipelines to ingest, transform, and load data from diverse upstream sources into the data warehouse.\n- Build and optimize data warehouse architecture (e.g. dimensional modeling, layered data structures, data marts) to support scalable, reusable, and well-governed data models.\n- Develop and integrate APIs to support internal data platform tools and downstream consumption.\n- Ensure data quality, consistency, and reliability through validation logic, monitoring, and error handling across pipelines.\n- Collaborate with cross-functional teams (BI, analytics, product, regional engineering) to translate business requirements into technical data solutions.\n- Troubleshoot and resolve data pipeline issues, upstream dependency failures, and performance bottlenecks.\n- Identify and implement process improvements to enhance pipeline efficiency, data quality, and operational sustainability.\n- Contribute to documentation of data architecture, lineage, and metadata for governance purposes."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "Excel",
+            "Project",
+            "Tableau",
+            "Power BI​"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、Excel、Project、Tableau、Power BI​",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數據分析"
+          ],
+          "label": "工作技能",
+          "text": "數據分析",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Basic Requirements:\n- Strong conceptual understanding of data warehouse design principles (e.g. dimensional modeling, layered architecture, data marts) and ETL/ELT design patterns.\n- Proficiency in SQL and Python for data processing.\n- Understanding of data quality management, including validation logic and anomaly detection.\n- Ability to manage multiple concurrent pipeline/project workstreams and communicate technical issues clearly to both technical and non-technical stakeholders.\nThis position is an excellent opportunity for individuals looking to build their career in data engineering and contribute to the growth and success of Shopee's data infrastructure. If you are driven, innovative, and passionate about data, we encourage you to apply.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n擅長工具：MS SQL、Excel、Project、Tableau、Power BI​\n工作技能：數據分析\n其他條件：Basic Requirements:\n- Strong conceptual understanding of data warehouse design principles (e.g. dimensional modeling, layered architecture, data marts) and ETL/ELT design patterns.\n- Proficiency in SQL and Python for data processing.\n- Understanding of data quality management, including validation logic and anomaly detection.\n- Ability to manage multiple concurrent pipeline/project workstreams and communicate technical issues clearly to both technical and non-technical stakeholders.\nThis position is an excellent opportunity for individuals looking to build their career in data engineering and contribute to the growth and success of Shopee's data infrastructure. If you are driven, innovative, and passionate about data, we encourage you to apply."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "93ofp",
+    "job_url": "https://www.104.com.tw/job/93ofp",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93ofp.json",
+    "raw_sha256": "a847232e6e2f8f9ec72b8b0b81ac89d0f220654ffb160994298140b4a1d5ef4f",
+    "requested_url": "https://www.104.com.tw/api/jobs/93ofp"
+  }
+}

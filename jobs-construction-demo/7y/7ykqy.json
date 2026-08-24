@@ -1,0 +1,256 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI Core & Advanced LLM Engineering"
+        },
+        {
+          "children": [],
+          "text": "Retrieval-Augmented Generation (RAG): Design and optimize advanced RAG pipelines; proficient in embedding model fine-tuning, strategic chunking methods, and vector database management (e.g., Qdrant, Milvus, Pinecone)."
+        },
+        {
+          "children": [],
+          "text": "Evaluation & Optimization: Implement re-ranking algorithms and conduct rigorous quantitative evaluations of retrieval accuracy using metrics such as Hit Rate and MRR (Mean Reciprocal Rank)."
+        },
+        {
+          "children": [],
+          "text": "Multimodal & OCR Processing: Architect Vision-Language Model (VLM) and OCR workflows to parse complex documents and execute structured data extraction."
+        },
+        {
+          "children": [],
+          "text": "AI Agents: Design and implement autonomous AI Agent architectures, demonstrating a deep understanding of task planning, memory management, and tool/skill orchestration."
+        },
+        {
+          "children": [],
+          "text": "Software & Enterprise System Architecture"
+        },
+        {
+          "children": [],
+          "text": "Full-Stack Development: Build robust, scalable services using Python or C#, coupled with modern UI frameworks (Vue 3/HTML); expertise in asynchronous programming and RESTful API design."
+        },
+        {
+          "children": [],
+          "text": "System & Security Architecture: Design secure, multi-tenant enterprise architectures incorporating Role-Based Access Control (RBAC), centralized logging (ELK/Loki), and optimized SQL/NoSQL database schemas."
+        },
+        {
+          "children": [],
+          "text": "High-Performance Networking: Implement high-throughput, low-latency distributed communication systems utilizing TCP/IP, gRPC, or NATS."
+        },
+        {
+          "children": [],
+          "text": "Middleware Integration: Leverage Redis caching strategies to optimize session management and handle high-concurrency workloads efficiently."
+        },
+        {
+          "children": [],
+          "text": "Inference Optimization & MLOps"
+        },
+        {
+          "children": [],
+          "text": "Inference Engines: Deploy and accelerate production-grade models using advanced inference frameworks such as vLLM, llama.cpp, Ollama, stable_diffusion.cpp or OpenVINO."
+        },
+        {
+          "children": [],
+          "text": "Hardware-Aware Optimization: Apply deep knowledge of GPU/NPU architectures to evaluate the impact of compute metrics (TOPS) and KV Cache utilization"
+        },
+        {
+          "children": [],
+          "text": "Experience with text-to-image/video generation, Diffusion model inference, and Transformer model architecture is preferred."
+        }
+      ],
+      "text": "1. AI Core & Advanced LLM Engineering\n• Retrieval-Augmented Generation (RAG): Design and optimize advanced RAG pipelines; proficient in embedding model fine-tuning, strategic chunking methods, and vector database management (e.g., Qdrant, Milvus, Pinecone).\n• Evaluation & Optimization: Implement re-ranking algorithms and conduct rigorous quantitative evaluations of retrieval accuracy using metrics such as Hit Rate and MRR (Mean Reciprocal Rank).\n• Multimodal & OCR Processing: Architect Vision-Language Model (VLM) and OCR workflows to parse complex documents and execute structured data extraction.\n• AI Agents: Design and implement autonomous AI Agent architectures, demonstrating a deep understanding of task planning, memory management, and tool/skill orchestration.\n2. Software & Enterprise System Architecture\n• Full-Stack Development: Build robust, scalable services using Python or C#, coupled with modern UI frameworks (Vue 3/HTML); expertise in asynchronous programming and RESTful API design.\n• System & Security Architecture: Design secure, multi-tenant enterprise architectures incorporating Role-Based Access Control (RBAC), centralized logging (ELK/Loki), and optimized SQL/NoSQL database schemas.\n• High-Performance Networking: Implement high-throughput, low-latency distributed communication systems utilizing TCP/IP, gRPC, or NATS.\n• Middleware Integration: Leverage Redis caching strategies to optimize session management and handle high-concurrency workloads efficiently.\n3. Inference Optimization & MLOps\n• Inference Engines: Deploy and accelerate production-grade models using advanced inference frameworks such as vLLM, llama.cpp, Ollama, stable_diffusion.cpp or OpenVINO.\n• Hardware-Aware Optimization: Apply deep knowledge of GPU/NPU architectures to evaluate the impact of compute metrics (TOPS) and KV Cache utilization\n• Experience with text-to-image/video generation, Diffusion model inference, and Transformer model architecture is preferred."
+    },
+    "employment_type_raw": "全職",
+    "title": "AI軟體應用開發工程師"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Git",
+          "MySQL"
+        ],
+        "label": "擅長工具",
+        "text": "Git、MySQL"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Python , Vue3 , JavaScript , SQL , API"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "Python , Vue3 , JavaScript , SQL , API",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Git、MySQL\n其他條件：Python , Vue3 , JavaScript , SQL , API",
+    "tools": [
+      "Git",
+      "MySQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 4
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:29:38+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. AI Core & Advanced LLM Engineering\n• Retrieval-Augmented Generation (RAG): Design and optimize advanced RAG pipelines; proficient in embedding model fine-tuning, strategic chunking methods, and vector database management (e.g., Qdrant, Milvus, Pinecone).\n• Evaluation & Optimization: Implement re-ranking algorithms and conduct rigorous quantitative evaluations of retrieval accuracy using metrics such as Hit Rate and MRR (Mean Reciprocal Rank).\n• Multimodal & OCR Processing: Architect Vision-Language Model (VLM) and OCR workflows to parse complex documents and execute structured data extraction.\n• AI Agents: Design and implement autonomous AI Agent architectures, demonstrating a deep understanding of task planning, memory management, and tool/skill orchestration.\n2. Software & Enterprise System Architecture\n• Full-Stack Development: Build robust, scalable services using Python or C#, coupled with modern UI frameworks (Vue 3/HTML); expertise in asynchronous programming and RESTful API design.\n• System & Security Architecture: Design secure, multi-tenant enterprise architectures incorporating Role-Based Access Control (RBAC), centralized logging (ELK/Loki), and optimized SQL/NoSQL database schemas.\n• High-Performance Networking: Implement high-throughput, low-latency distributed communication systems utilizing TCP/IP, gRPC, or NATS.\n• Middleware Integration: Leverage Redis caching strategies to optimize session management and handle high-concurrency workloads efficiently.\n3. Inference Optimization & MLOps\n• Inference Engines: Deploy and accelerate production-grade models using advanced inference frameworks such as vLLM, llama.cpp, Ollama, stable_diffusion.cpp or OpenVINO.\n• Hardware-Aware Optimization: Apply deep knowledge of GPU/NPU architectures to evaluate the impact of compute metrics (TOPS) and KV Cache utilization\n• Experience with text-to-image/video generation, Diffusion model inference, and Transformer model architecture is preferred.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. AI Core & Advanced LLM Engineering\n• Retrieval-Augmented Generation (RAG): Design and optimize advanced RAG pipelines; proficient in embedding model fine-tuning, strategic chunking methods, and vector database management (e.g., Qdrant, Milvus, Pinecone).\n• Evaluation & Optimization: Implement re-ranking algorithms and conduct rigorous quantitative evaluations of retrieval accuracy using metrics such as Hit Rate and MRR (Mean Reciprocal Rank).\n• Multimodal & OCR Processing: Architect Vision-Language Model (VLM) and OCR workflows to parse complex documents and execute structured data extraction.\n• AI Agents: Design and implement autonomous AI Agent architectures, demonstrating a deep understanding of task planning, memory management, and tool/skill orchestration.\n2. Software & Enterprise System Architecture\n• Full-Stack Development: Build robust, scalable services using Python or C#, coupled with modern UI frameworks (Vue 3/HTML); expertise in asynchronous programming and RESTful API design.\n• System & Security Architecture: Design secure, multi-tenant enterprise architectures incorporating Role-Based Access Control (RBAC), centralized logging (ELK/Loki), and optimized SQL/NoSQL database schemas.\n• High-Performance Networking: Implement high-throughput, low-latency distributed communication systems utilizing TCP/IP, gRPC, or NATS.\n• Middleware Integration: Leverage Redis caching strategies to optimize session management and handle high-concurrency workloads efficiently.\n3. Inference Optimization & MLOps\n• Inference Engines: Deploy and accelerate production-grade models using advanced inference frameworks such as vLLM, llama.cpp, Ollama, stable_diffusion.cpp or OpenVINO.\n• Hardware-Aware Optimization: Apply deep knowledge of GPU/NPU architectures to evaluate the impact of compute metrics (TOPS) and KV Cache utilization\n• Experience with text-to-image/video generation, Diffusion model inference, and Transformer model architecture is preferred."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "MySQL"
+          ],
+          "label": "擅長工具",
+          "text": "Git、MySQL",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Python , Vue3 , JavaScript , SQL , API",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Git、MySQL\n其他條件：Python , Vue3 , JavaScript , SQL , API"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7ykqy",
+    "job_url": "https://www.104.com.tw/job/7ykqy",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7ykqy.json",
+    "raw_sha256": "8d489c33c888c1b0b414e6714e63ab3b9fa7b1fc5c6e63a89b9e41bf27324aad",
+    "requested_url": "https://www.104.com.tw/api/jobs/7ykqy"
+  }
+}

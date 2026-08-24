@@ -1,0 +1,242 @@
+{
+  "company": {
+    "id": "1h5654w",
+    "name": "亞力電機股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "通訊軟體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "主要工作內容:\n開發電動車充電樁產品。撰寫CCS1/CCS2充電協議、撰寫OCPP通訊協議、充電樁系統功能開發、人機介面開發、控制介面電路開發、充電樁系統架構規劃。\n(公司位於板南線-南港展覽館站/文湖線-南港軟體園區站5分鐘)"
+    },
+    "employment_type_raw": "全職",
+    "title": "充電樁軟韌體工程師(南港軟體園區)"
+  },
+  "location": {
+    "address_raw": "台北市南港區三重路19-11號13樓",
+    "raw": "台北市南港區三重路19-11號13樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "MCU",
+          "Git",
+          "C",
+          "C++",
+          "Python",
+          "TCP/IP"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、MCU、Git、C、C++、Python、TCP/IP"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "韌體工程開發",
+          "軟體程式設計",
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、韌體工程開發、軟體程式設計、韌體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具備解決問題能力。\n2.樂於技術分享。\n3.具備嵌入式系統、人機界面相關軟體開發經驗。\n4.熟悉SPI、UART、I2C、CAN、MODBUS、TCP/IP開發經驗者。\n5.具備直流充電樁開發經驗者佳。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.具備解決問題能力。\n2.樂於技術分享。\n3.具備嵌入式系統、人機界面相關軟體開發經驗。\n4.熟悉SPI、UART、I2C、CAN、MODBUS、TCP/IP開發經驗者。\n5.具備直流充電樁開發經驗者佳。",
+    "skills": [
+      "軟體工程系統開發",
+      "韌體工程開發",
+      "軟體程式設計",
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、MCU、Git、C、C++、Python、TCP/IP\n工作技能：軟體工程系統開發、韌體工程開發、軟體程式設計、韌體程式設計\n其他條件：1.具備解決問題能力。\n2.樂於技術分享。\n3.具備嵌入式系統、人機界面相關軟體開發經驗。\n4.熟悉SPI、UART、I2C、CAN、MODBUS、TCP/IP開發經驗者。\n5.具備直流充電樁開發經驗者佳。",
+    "tools": [
+      "Linux",
+      "MCU",
+      "Git",
+      "C",
+      "C++",
+      "Python",
+      "TCP/IP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 1
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:22:40+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "主要工作內容:\n開發電動車充電樁產品。撰寫CCS1/CCS2充電協議、撰寫OCPP通訊協議、充電樁系統功能開發、人機介面開發、控制介面電路開發、充電樁系統架構規劃。\n(公司位於板南線-南港展覽館站/文湖線-南港軟體園區站5分鐘)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "通訊軟體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、通訊軟體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區三重路19-11號13樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "主要工作內容:\n開發電動車充電樁產品。撰寫CCS1/CCS2充電協議、撰寫OCPP通訊協議、充電樁系統功能開發、人機介面開發、控制介面電路開發、充電樁系統架構規劃。\n(公司位於板南線-南港展覽館站/文湖線-南港軟體園區站5分鐘)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "MCU",
+            "Git",
+            "C",
+            "C++",
+            "Python",
+            "TCP/IP"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、MCU、Git、C、C++、Python、TCP/IP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "韌體工程開發",
+            "軟體程式設計",
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、韌體工程開發、軟體程式設計、韌體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具備解決問題能力。\n2.樂於技術分享。\n3.具備嵌入式系統、人機界面相關軟體開發經驗。\n4.熟悉SPI、UART、I2C、CAN、MODBUS、TCP/IP開發經驗者。\n5.具備直流充電樁開發經驗者佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、MCU、Git、C、C++、Python、TCP/IP\n工作技能：軟體工程系統開發、韌體工程開發、軟體程式設計、韌體程式設計\n其他條件：1.具備解決問題能力。\n2.樂於技術分享。\n3.具備嵌入式系統、人機界面相關軟體開發經驗。\n4.熟悉SPI、UART、I2C、CAN、MODBUS、TCP/IP開發經驗者。\n5.具備直流充電樁開發經驗者佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/22",
+    "html_sha256": null,
+    "job_id": "88w42",
+    "job_url": "https://www.104.com.tw/job/88w42",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/88w42.json",
+    "raw_sha256": "585746cd64a1f72349093e933b685586ecaa939124c1c4086a6b1d519d47372e",
+    "requested_url": "https://www.104.com.tw/api/jobs/88w42"
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "company": {
+    "id": "1a2x6bmpda",
+    "name": "滿拓科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Track the frontier: judge what's worth adopting vs. noise; validate with falsifiable experiments, not hype"
+        },
+        {
+          "children": [],
+          "text": "Modify architectures: hands-on architecture changes, compression, pruning, distillation for edge latency/power/accuracy trade-offs"
+        },
+        {
+          "children": [],
+          "text": "Train and fine-tune: continued training / customer-scenario fine-tuning on pretrained backbones (not from-scratch pre-training), with fair baselines, single-variable comparisons, and reported average and variability"
+        },
+        {
+          "children": [],
+          "text": "Deploy to the edge: measure and optimize actual on-device performance — never substitute benchmarks for real-device numbers"
+        },
+        {
+          "children": [],
+          "text": "Serve and integrate: wrap models into reliable inference services and integrate with the product backend; mind throughput, footprint, stability"
+        },
+        {
+          "children": [],
+          "text": "Deliver end-to-end: survey → design → experiment → implementation, cross-functionally"
+        },
+        {
+          "children": [],
+          "text": "First principles: derive from the problem's physical/mathematical/informational essence"
+        },
+        {
+          "children": [],
+          "text": "Subtraction: simplest design first; every component must justify its existence"
+        },
+        {
+          "children": [],
+          "text": "Evidence over assertion: fair baselines, single variable, repeated runs reported as average and variability (never just the best run), no tuning on the test set, honest about limitations and failures"
+        },
+        {
+          "children": [],
+          "text": "2+ years of relevant experience, or equivalent ability (ability over tenure)"
+        },
+        {
+          "children": [],
+          "text": "PyTorch: read, modify, train models; understand architecture — change it, not just call the API"
+        },
+        {
+          "children": [],
+          "text": "Python: maintainable, reproducible code"
+        },
+        {
+          "children": [],
+          "text": "Edge deployment (any platform): shipped a model to a constrained target and actually measured on-device performance"
+        },
+        {
+          "children": [],
+          "text": "Understands accuracy–latency–power trade-offs of quantization / compression / distillation"
+        },
+        {
+          "children": [],
+          "text": "Rigorous method; moves fast amid loose definitions and competing priorities"
+        },
+        {
+          "children": [],
+          "text": "Self-directed learner → a recent paper/repo you pursued, reproduced, and judged — and why you adopted or rejected it"
+        },
+        {
+          "children": [],
+          "text": "First-principles thinking → can explain why a past design was made, down to its essence"
+        },
+        {
+          "children": [],
+          "text": "Instinct for subtraction → an example of cutting complexity for a simpler solution that worked"
+        },
+        {
+          "children": [],
+          "text": "Intellectual honesty → willing to discuss failed experiments and reasoning you revised"
+        },
+        {
+          "children": [],
+          "text": "Visual perception: detection (DETR/YOLO-family), single/multi-object tracking, multi-modal (EO/IR)"
+        },
+        {
+          "children": [],
+          "text": "Edge optimization: INT8 quantization & accuracy-drop diagnosis; ONNX / TensorRT / TFLite / ONNX Runtime / any NPU SDK; p95/p99 latency, memory bandwidth"
+        },
+        {
+          "children": [],
+          "text": "Data & training: foundation models (SAM-family, open-vocabulary), annotation pipelines (COCO / MOT / track IDs), fine-tuning workflows"
+        },
+        {
+          "children": [],
+          "text": "System integration: embedded Linux/ARM/C++, GStreamer/V4L2, model serving & API design, MAVLink / ROS 2"
+        },
+        {
+          "children": [],
+          "text": "60% modeling & edge delivery"
+        },
+        {
+          "children": [],
+          "text": "20% frontier tracking & experiment design"
+        },
+        {
+          "children": [],
+          "text": "20% system integration & applications"
+        }
+      ],
+      "text": "About the Team\nWe build real-time visual perception — single/multi-object tracking, detection, multi-modal fusion — on resource-constrained edge hardware. Low latency, low power, on-device. First principles over convention.\nAbout the Role\nModels, frameworks, and hardware all age fast. We want someone not bound to any platform or task, who keeps renewing themselves and brings the latest research onto the edge. You'll own the chain: papers/repos → architecture changes, continued training / finetuning → edge deployment → serving and integration. Day-one mastery isn't expected; fast learning is. The spine is modeling & edge delivery; serving/integration you contribute to rather than solely own.\nYou will:\n- Track the frontier: judge what's worth adopting vs. noise; validate with falsifiable experiments, not hype\n- Modify architectures: hands-on architecture changes, compression, pruning, distillation for edge latency/power/accuracy trade-offs\n- Train and fine-tune: continued training / customer-scenario fine-tuning on pretrained backbones (not from-scratch pre-training), with fair baselines, single-variable comparisons, and reported average and variability\n- Deploy to the edge: measure and optimize actual on-device performance — never substitute benchmarks for real-device numbers\n- Serve and integrate: wrap models into reliable inference services and integrate with the product backend; mind throughput, footprint, stability\n- Deliver end-to-end: survey → design → experiment → implementation, cross-functionally\nHow We Work\n- First principles: derive from the problem's physical/mathematical/informational essence\n- Subtraction: simplest design first; every component must justify its existence\n- Evidence over assertion: fair baselines, single variable, repeated runs reported as average and variability (never just the best run), no tuning on the test set, honest about limitations and failures\nCore Requirements\n- 2+ years of relevant experience, or equivalent ability (ability over tenure)\n- PyTorch: read, modify, train models; understand architecture — change it, not just call the API\n- Python: maintainable, reproducible code\n- Edge deployment (any platform): shipped a model to a constrained target and actually measured on-device performance\n- Understands accuracy–latency–power trade-offs of quantization / compression / distillation\n- Rigorous method; moves fast amid loose definitions and competing priorities\nSignals We Look For\n- Self-directed learner → a recent paper/repo you pursued, reproduced, and judged — and why you adopted or rejected it\n- First-principles thinking → can explain why a past design was made, down to its essence\n- Instinct for subtraction → an example of cutting complexity for a simpler solution that worked\n- Intellectual honesty → willing to discuss failed experiments and reasoning you revised\nNice to Have (not required — we value learning speed more)\n- Visual perception: detection (DETR/YOLO-family), single/multi-object tracking, multi-modal (EO/IR)\n- Edge optimization: INT8 quantization & accuracy-drop diagnosis; ONNX / TensorRT / TFLite / ONNX Runtime / any NPU SDK; p95/p99 latency, memory bandwidth\n- Data & training: foundation models (SAM-family, open-vocabulary), annotation pipelines (COCO / MOT / track IDs), fine-tuning workflows\n- System integration: embedded Linux/ARM/C++, GStreamer/V4L2, model serving & API design, MAVLink / ROS 2\nTime Allocation\n- 60% modeling & edge delivery\n- 20% frontier tracking & experiment design\n- 20% system integration & applications"
+    },
+    "employment_type_raw": "全職",
+    "title": "〖新竹〗Edge AI Research Engineer, Vision Perception"
+  },
+  "location": {
+    "address_raw": "新竹市東區金城三路",
+    "raw": "新竹市東區金城三路"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "Linux",
+          "Git",
+          "C",
+          "C++",
+          "Python",
+          "LLM",
+          "Prompt",
+          "JavaScript",
+          "Node.js",
+          "PyTorch"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Git、C、C++、Python、LLM、Prompt、JavaScript、Node.js、PyTorch"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體程式設計",
+          "資料庫程式設計",
+          "電腦視覺",
+          "軟體工程系統開發",
+          "模組化系統設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、軟體程式設計、資料庫程式設計、電腦視覺、軟體工程系統開發、模組化系統設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體程式設計",
+      "資料庫程式設計",
+      "電腦視覺",
+      "軟體工程系統開發",
+      "模組化系統設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：Linux、Git、C、C++、Python、LLM、Prompt、JavaScript、Node.js、PyTorch\n工作技能：系統架構規劃、系統整合分析、軟體程式設計、資料庫程式設計、電腦視覺、軟體工程系統開發、模組化系統設計",
+    "tools": [
+      "Linux",
+      "Git",
+      "C",
+      "C++",
+      "Python",
+      "LLM",
+      "Prompt",
+      "JavaScript",
+      "Node.js",
+      "PyTorch"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 76
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:28:45+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "About the Team\nWe build real-time visual perception — single/multi-object tracking, detection, multi-modal fusion — on resource-constrained edge hardware. Low latency, low power, on-device. First principles over convention.\nAbout the Role\nModels, frameworks, and hardware all age fast. We want someone not bound to any platform or task, who keeps renewing themselves and brings the latest research onto the edge. You'll own the chain: papers/repos → architecture changes, continued training / finetuning → edge deployment → serving and integration. Day-one mastery isn't expected; fast learning is. The spine is modeling & edge delivery; serving/integration you contribute to rather than solely own.\nYou will:\n- Track the frontier: judge what's worth adopting vs. noise; validate with falsifiable experiments, not hype\n- Modify architectures: hands-on architecture changes, compression, pruning, distillation for edge latency/power/accuracy trade-offs\n- Train and fine-tune: continued training / customer-scenario fine-tuning on pretrained backbones (not from-scratch pre-training), with fair baselines, single-variable comparisons, and reported average and variability\n- Deploy to the edge: measure and optimize actual on-device performance — never substitute benchmarks for real-device numbers\n- Serve and integrate: wrap models into reliable inference services and integrate with the product backend; mind throughput, footprint, stability\n- Deliver end-to-end: survey → design → experiment → implementation, cross-functionally\nHow We Work\n- First principles: derive from the problem's physical/mathematical/informational essence\n- Subtraction: simplest design first; every component must justify its existence\n- Evidence over assertion: fair baselines, single variable, repeated runs reported as average and variability (never just the best run), no tuning on the test set, honest about limitations and failures\nCore Requirements\n- 2+ years of relevant experience, or equivalent ability (ability over tenure)\n- PyTorch: read, modify, train models; understand architecture — change it, not just call the API\n- Python: maintainable, reproducible code\n- Edge deployment (any platform): shipped a model to a constrained target and actually measured on-device performance\n- Understands accuracy–latency–power trade-offs of quantization / compression / distillation\n- Rigorous method; moves fast amid loose definitions and competing priorities\nSignals We Look For\n- Self-directed learner → a recent paper/repo you pursued, reproduced, and judged — and why you adopted or rejected it\n- First-principles thinking → can explain why a past design was made, down to its essence\n- Instinct for subtraction → an example of cutting complexity for a simpler solution that worked\n- Intellectual honesty → willing to discuss failed experiments and reasoning you revised\nNice to Have (not required — we value learning speed more)\n- Visual perception: detection (DETR/YOLO-family), single/multi-object tracking, multi-modal (EO/IR)\n- Edge optimization: INT8 quantization & accuracy-drop diagnosis; ONNX / TensorRT / TFLite / ONNX Runtime / any NPU SDK; p95/p99 latency, memory bandwidth\n- Data & training: foundation models (SAM-family, open-vocabulary), annotation pipelines (COCO / MOT / track IDs), fine-tuning workflows\n- System integration: embedded Linux/ARM/C++, GStreamer/V4L2, model serving & API design, MAVLink / ROS 2\nTime Allocation\n- 60% modeling & edge delivery\n- 20% frontier tracking & experiment design\n- 20% system integration & applications",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東區金城三路",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "About the Team\nWe build real-time visual perception — single/multi-object tracking, detection, multi-modal fusion — on resource-constrained edge hardware. Low latency, low power, on-device. First principles over convention.\nAbout the Role\nModels, frameworks, and hardware all age fast. We want someone not bound to any platform or task, who keeps renewing themselves and brings the latest research onto the edge. You'll own the chain: papers/repos → architecture changes, continued training / finetuning → edge deployment → serving and integration. Day-one mastery isn't expected; fast learning is. The spine is modeling & edge delivery; serving/integration you contribute to rather than solely own.\nYou will:\n- Track the frontier: judge what's worth adopting vs. noise; validate with falsifiable experiments, not hype\n- Modify architectures: hands-on architecture changes, compression, pruning, distillation for edge latency/power/accuracy trade-offs\n- Train and fine-tune: continued training / customer-scenario fine-tuning on pretrained backbones (not from-scratch pre-training), with fair baselines, single-variable comparisons, and reported average and variability\n- Deploy to the edge: measure and optimize actual on-device performance — never substitute benchmarks for real-device numbers\n- Serve and integrate: wrap models into reliable inference services and integrate with the product backend; mind throughput, footprint, stability\n- Deliver end-to-end: survey → design → experiment → implementation, cross-functionally\nHow We Work\n- First principles: derive from the problem's physical/mathematical/informational essence\n- Subtraction: simplest design first; every component must justify its existence\n- Evidence over assertion: fair baselines, single variable, repeated runs reported as average and variability (never just the best run), no tuning on the test set, honest about limitations and failures\nCore Requirements\n- 2+ years of relevant experience, or equivalent ability (ability over tenure)\n- PyTorch: read, modify, train models; understand architecture — change it, not just call the API\n- Python: maintainable, reproducible code\n- Edge deployment (any platform): shipped a model to a constrained target and actually measured on-device performance\n- Understands accuracy–latency–power trade-offs of quantization / compression / distillation\n- Rigorous method; moves fast amid loose definitions and competing priorities\nSignals We Look For\n- Self-directed learner → a recent paper/repo you pursued, reproduced, and judged — and why you adopted or rejected it\n- First-principles thinking → can explain why a past design was made, down to its essence\n- Instinct for subtraction → an example of cutting complexity for a simpler solution that worked\n- Intellectual honesty → willing to discuss failed experiments and reasoning you revised\nNice to Have (not required — we value learning speed more)\n- Visual perception: detection (DETR/YOLO-family), single/multi-object tracking, multi-modal (EO/IR)\n- Edge optimization: INT8 quantization & accuracy-drop diagnosis; ONNX / TensorRT / TFLite / ONNX Runtime / any NPU SDK; p95/p99 latency, memory bandwidth\n- Data & training: foundation models (SAM-family, open-vocabulary), annotation pipelines (COCO / MOT / track IDs), fine-tuning workflows\n- System integration: embedded Linux/ARM/C++, GStreamer/V4L2, model serving & API design, MAVLink / ROS 2\nTime Allocation\n- 60% modeling & edge delivery\n- 20% frontier tracking & experiment design\n- 20% system integration & applications"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Git",
+            "C",
+            "C++",
+            "Python",
+            "LLM",
+            "Prompt",
+            "JavaScript",
+            "Node.js",
+            "PyTorch"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Git、C、C++、Python、LLM、Prompt、JavaScript、Node.js、PyTorch",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體程式設計",
+            "資料庫程式設計",
+            "電腦視覺",
+            "軟體工程系統開發",
+            "模組化系統設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、軟體程式設計、資料庫程式設計、電腦視覺、軟體工程系統開發、模組化系統設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：Linux、Git、C、C++、Python、LLM、Prompt、JavaScript、Node.js、PyTorch\n工作技能：系統架構規劃、系統整合分析、軟體程式設計、資料庫程式設計、電腦視覺、軟體工程系統開發、模組化系統設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "87lp2",
+    "job_url": "https://www.104.com.tw/job/87lp2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/87lp2.json",
+    "raw_sha256": "00ae260aa0918458fb1eab179d819755d002a869c75f8d5302a3571f01f4ec20",
+    "requested_url": "https://www.104.com.tw/api/jobs/87lp2"
+  }
+}

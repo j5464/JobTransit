@@ -1,0 +1,249 @@
+{
+  "company": {
+    "id": "10tqbw2o",
+    "name": "廣穎電通股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "網路管理工程師",
+      "資訊助理",
+      "資訊設備管制人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "伺服器主機軟硬體及系統管理使系統服務運作正常"
+        },
+        {
+          "children": [],
+          "text": "電腦硬體資源之管理使公司資源最大化運用"
+        },
+        {
+          "children": [],
+          "text": "電腦應用程式管理提供各部門不同需求之應用軟體支援及管理"
+        },
+        {
+          "children": [],
+          "text": "資安相關系統管理(防毒/防火牆/檔案加密/資安管理系統)以保護公司資訊安全"
+        },
+        {
+          "children": [],
+          "text": "執行主管交辦事項"
+        }
+      ],
+      "text": "公司內部管理資訊系統MIS（Management Information System）的運作，負責規劃與維護伺服器主機及系統軟硬體管理，建立網路架構、防火牆建構、防毒措施、員工帳號管理等，並提供各部門不同需求之應用軟體支援及管理。\n※工作內容：\n1. 伺服器主機軟硬體及系統管理使系統服務運作正常\n2. 電腦硬體資源之管理使公司資源最大化運用\n3. 電腦應用程式管理提供各部門不同需求之應用軟體支援及管理\n5. 資安相關系統管理(防毒/防火牆/檔案加密/資安管理系統)以保護公司資訊安全\n6. 執行主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "網管工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區洲子街106號7樓",
+    "raw": "台北市內湖區洲子街106號7樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "LAN",
+          "VPN",
+          "WAN"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、LAN、VPN、WAN"
+      },
+      {
+        "items": [
+          "伺服器網站管理維護",
+          "作業系統基本操作",
+          "資料備份與復原",
+          "電腦設備裝配",
+          "資訊設備操作檢修",
+          "資訊設備環境設定",
+          "系統維護操作",
+          "規劃與管理防火牆",
+          "網路安全架構分析與設計"
+        ],
+        "label": "工作技能",
+        "text": "伺服器網站管理維護、作業系統基本操作、資料備份與復原、電腦設備裝配、資訊設備操作檢修、資訊設備環境設定、系統維護操作、規劃與管理防火牆、網路安全架構分析與設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "歡迎有下列經驗之一優先面談~\n1. Linux安裝及操作(如系統管理指令、同步管理DRBD/MySQL/web Apach server管理)經驗尤佳。\n2. Windows server安裝及操作,如AD/Hyper-V管理\n3. 或有網路管理(Core Switch(CISCO), Firewall,AP, Wan/Lan及專線)經驗。\n4. 具 ISC² CC證照"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "歡迎有下列經驗之一優先面談~\n1. Linux安裝及操作(如系統管理指令、同步管理DRBD/MySQL/web Apach server管理)經驗尤佳。\n2. Windows server安裝及操作,如AD/Hyper-V管理\n3. 或有網路管理(Core Switch(CISCO), Firewall,AP, Wan/Lan及專線)經驗。\n4. 具 ISC² CC證照",
+    "skills": [
+      "伺服器網站管理維護",
+      "作業系統基本操作",
+      "資料備份與復原",
+      "電腦設備裝配",
+      "資訊設備操作檢修",
+      "資訊設備環境設定",
+      "系統維護操作",
+      "規劃與管理防火牆",
+      "網路安全架構分析與設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、LAN、VPN、WAN\n工作技能：伺服器網站管理維護、作業系統基本操作、資料備份與復原、電腦設備裝配、資訊設備操作檢修、資訊設備環境設定、系統維護操作、規劃與管理防火牆、網路安全架構分析與設計\n其他條件：歡迎有下列經驗之一優先面談~\n1. Linux安裝及操作(如系統管理指令、同步管理DRBD/MySQL/web Apach server管理)經驗尤佳。\n2. Windows server安裝及操作,如AD/Hyper-V管理\n3. 或有網路管理(Core Switch(CISCO), Firewall,AP, Wan/Lan及專線)經驗。\n4. 具 ISC² CC證照",
+    "tools": [
+      "Linux",
+      "LAN",
+      "VPN",
+      "WAN"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 88
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:59:04+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "公司內部管理資訊系統MIS（Management Information System）的運作，負責規劃與維護伺服器主機及系統軟硬體管理，建立網路架構、防火牆建構、防毒措施、員工帳號管理等，並提供各部門不同需求之應用軟體支援及管理。\n※工作內容：\n1. 伺服器主機軟硬體及系統管理使系統服務運作正常\n2. 電腦硬體資源之管理使公司資源最大化運用\n3. 電腦應用程式管理提供各部門不同需求之應用軟體支援及管理\n5. 資安相關系統管理(防毒/防火牆/檔案加密/資安管理系統)以保護公司資訊安全\n6. 執行主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "網路管理工程師",
+            "資訊助理",
+            "資訊設備管制人員"
+          ],
+          "label": "職務類別",
+          "text": "網路管理工程師、資訊助理、資訊設備管制人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區洲子街106號7樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "公司內部管理資訊系統MIS（Management Information System）的運作，負責規劃與維護伺服器主機及系統軟硬體管理，建立網路架構、防火牆建構、防毒措施、員工帳號管理等，並提供各部門不同需求之應用軟體支援及管理。\n※工作內容：\n1. 伺服器主機軟硬體及系統管理使系統服務運作正常\n2. 電腦硬體資源之管理使公司資源最大化運用\n3. 電腦應用程式管理提供各部門不同需求之應用軟體支援及管理\n5. 資安相關系統管理(防毒/防火牆/檔案加密/資安管理系統)以保護公司資訊安全\n6. 執行主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "LAN",
+            "VPN",
+            "WAN"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、LAN、VPN、WAN",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "伺服器網站管理維護",
+            "作業系統基本操作",
+            "資料備份與復原",
+            "電腦設備裝配",
+            "資訊設備操作檢修",
+            "資訊設備環境設定",
+            "系統維護操作",
+            "規劃與管理防火牆",
+            "網路安全架構分析與設計"
+          ],
+          "label": "工作技能",
+          "text": "伺服器網站管理維護、作業系統基本操作、資料備份與復原、電腦設備裝配、資訊設備操作檢修、資訊設備環境設定、系統維護操作、規劃與管理防火牆、網路安全架構分析與設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "歡迎有下列經驗之一優先面談~\n1. Linux安裝及操作(如系統管理指令、同步管理DRBD/MySQL/web Apach server管理)經驗尤佳。\n2. Windows server安裝及操作,如AD/Hyper-V管理\n3. 或有網路管理(Core Switch(CISCO), Firewall,AP, Wan/Lan及專線)經驗。\n4. 具 ISC² CC證照",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、LAN、VPN、WAN\n工作技能：伺服器網站管理維護、作業系統基本操作、資料備份與復原、電腦設備裝配、資訊設備操作檢修、資訊設備環境設定、系統維護操作、規劃與管理防火牆、網路安全架構分析與設計\n其他條件：歡迎有下列經驗之一優先面談~\n1. Linux安裝及操作(如系統管理指令、同步管理DRBD/MySQL/web Apach server管理)經驗尤佳。\n2. Windows server安裝及操作,如AD/Hyper-V管理\n3. 或有網路管理(Core Switch(CISCO), Firewall,AP, Wan/Lan及專線)經驗。\n4. 具 ISC² CC證照"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "6c89g",
+    "job_url": "https://www.104.com.tw/job/6c89g",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6c89g.json",
+    "raw_sha256": "83892a9bf6815825bc72ffc1f95cefdcc5a114865ade90bd21ffecf366c3e38c",
+    "requested_url": "https://www.104.com.tw/api/jobs/6c89g"
+  }
+}

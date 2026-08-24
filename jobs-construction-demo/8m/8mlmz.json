@@ -1,0 +1,289 @@
+{
+  "company": {
+    "id": "1a2x6blghh",
+    "name": "鴻華先進科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop and maintain Linux-based software for automotive systems."
+        },
+        {
+          "children": [],
+          "text": "Design, implement, and test embedded Linux software for various automotive platforms."
+        },
+        {
+          "children": [],
+          "text": "Participate in system architecture design and development."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with cross-functional teams to ensure software compatibility with hardware and other software components."
+        },
+        {
+          "children": [],
+          "text": "Participate in code reviews and identify areas of improvement."
+        },
+        {
+          "children": [],
+          "text": "Document software design and test specifications."
+        },
+        {
+          "children": [],
+          "text": "Support system integration and testing"
+        },
+        {
+          "children": [],
+          "text": "Bachelor's or Master's degree in Computer Science, Electrical Engineering or related fields."
+        },
+        {
+          "children": [],
+          "text": "Minimum of 3 years of experience in Android application development."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in Kotlin and Java programming languages."
+        },
+        {
+          "children": [],
+          "text": "Experience with software development tools and processes such as Git, JIRA, and Agile methodologies."
+        },
+        {
+          "children": [],
+          "text": "Experience with RESTful APIs to connect Android applications to back-end services."
+        },
+        {
+          "children": [],
+          "text": "Understanding of Android UI design principles, patterns, and best practices."
+        },
+        {
+          "children": [],
+          "text": "Strong knowledge of Android SDK, different versions of Android, and how to deal with various screen sizes and configurations."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with cloud message APIs and push notifications."
+        },
+        {
+          "children": [],
+          "text": "Excellent problem-solving and debugging skills."
+        },
+        {
+          "children": [],
+          "text": "Strong communication and collaboration skills."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with software development for automotive safety-critical systems."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with automotive standards such as AUTOSAR, ISO26262, and MISRA."
+        }
+      ],
+      "text": "Your Responsibilities\n• Develop and maintain Linux-based software for automotive systems.\n• Design, implement, and test embedded Linux software for various automotive platforms.\n• Participate in system architecture design and development.\n• Collaborate with cross-functional teams to ensure software compatibility with hardware and other software components.\n• Participate in code reviews and identify areas of improvement.\n• Document software design and test specifications.\n• Support system integration and testing\nYou Have\n• Bachelor's or Master's degree in Computer Science, Electrical Engineering or related fields.\n• Minimum of 3 years of experience in Android application development.\n• Proficiency in Kotlin and Java programming languages.\n• Experience with software development tools and processes such as Git, JIRA, and Agile methodologies.\n• Experience with RESTful APIs to connect Android applications to back-end services.\n• Understanding of Android UI design principles, patterns, and best practices.\n• Strong knowledge of Android SDK, different versions of Android, and how to deal with various screen sizes and configurations.\n• Familiarity with cloud message APIs and push notifications.\n• Excellent problem-solving and debugging skills.\n• Strong communication and collaboration skills.\nGreat to Have\n• Familiarity with software development for automotive safety-critical systems.\n• Familiarity with automotive standards such as AUTOSAR, ISO26262, and MISRA.\n註：月薪55,000元以上，研發替代役月薪面議"
+    },
+    "employment_type_raw": "全職",
+    "title": "汽車電子/Senior Android Application Engineer-F50"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶高路26號",
+    "raw": "新北市新店區寶高路26號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "工程學科類",
+          "通信學類",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "工程學科類、通信學類、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Java",
+          "Kotlin"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Java、Kotlin"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "工程學科類",
+      "通信學類",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：工程學科類、通信學類、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Java、Kotlin\n工作技能：軟體工程系統開發、軟體程式設計",
+    "tools": [
+      "Linux",
+      "Java",
+      "Kotlin"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 33
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:44:34+08:00"
+  },
+  "salary": {
+    "raw": "月薪55,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Your Responsibilities\n• Develop and maintain Linux-based software for automotive systems.\n• Design, implement, and test embedded Linux software for various automotive platforms.\n• Participate in system architecture design and development.\n• Collaborate with cross-functional teams to ensure software compatibility with hardware and other software components.\n• Participate in code reviews and identify areas of improvement.\n• Document software design and test specifications.\n• Support system integration and testing\nYou Have\n• Bachelor's or Master's degree in Computer Science, Electrical Engineering or related fields.\n• Minimum of 3 years of experience in Android application development.\n• Proficiency in Kotlin and Java programming languages.\n• Experience with software development tools and processes such as Git, JIRA, and Agile methodologies.\n• Experience with RESTful APIs to connect Android applications to back-end services.\n• Understanding of Android UI design principles, patterns, and best practices.\n• Strong knowledge of Android SDK, different versions of Android, and how to deal with various screen sizes and configurations.\n• Familiarity with cloud message APIs and push notifications.\n• Excellent problem-solving and debugging skills.\n• Strong communication and collaboration skills.\nGreat to Have\n• Familiarity with software development for automotive safety-critical systems.\n• Familiarity with automotive standards such as AUTOSAR, ISO26262, and MISRA.\n註：月薪55,000元以上，研發替代役月薪面議",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪55,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶高路26號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Your Responsibilities\n• Develop and maintain Linux-based software for automotive systems.\n• Design, implement, and test embedded Linux software for various automotive platforms.\n• Participate in system architecture design and development.\n• Collaborate with cross-functional teams to ensure software compatibility with hardware and other software components.\n• Participate in code reviews and identify areas of improvement.\n• Document software design and test specifications.\n• Support system integration and testing\nYou Have\n• Bachelor's or Master's degree in Computer Science, Electrical Engineering or related fields.\n• Minimum of 3 years of experience in Android application development.\n• Proficiency in Kotlin and Java programming languages.\n• Experience with software development tools and processes such as Git, JIRA, and Agile methodologies.\n• Experience with RESTful APIs to connect Android applications to back-end services.\n• Understanding of Android UI design principles, patterns, and best practices.\n• Strong knowledge of Android SDK, different versions of Android, and how to deal with various screen sizes and configurations.\n• Familiarity with cloud message APIs and push notifications.\n• Excellent problem-solving and debugging skills.\n• Strong communication and collaboration skills.\nGreat to Have\n• Familiarity with software development for automotive safety-critical systems.\n• Familiarity with automotive standards such as AUTOSAR, ISO26262, and MISRA.\n註：月薪55,000元以上，研發替代役月薪面議"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "工程學科類",
+            "通信學類",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "工程學科類、通信學類、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Java",
+            "Kotlin"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Java、Kotlin",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：工程學科類、通信學類、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Java、Kotlin\n工作技能：軟體工程系統開發、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8mlmz",
+    "job_url": "https://www.104.com.tw/job/8mlmz",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8mlmz.json",
+    "raw_sha256": "e6dcf808a665c53e23708b23ba6e430ca83f307c6a8885866fd56112e02633dd",
+    "requested_url": "https://www.104.com.tw/api/jobs/8mlmz"
+  }
+}

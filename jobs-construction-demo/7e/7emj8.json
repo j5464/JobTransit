@@ -1,0 +1,197 @@
+{
+  "company": {
+    "id": "1a2x6bi84g",
+    "name": "皇輝科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "網路管理工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "資、通信系統整合"
+        },
+        {
+          "children": [],
+          "text": "按時完成公司分配的相應工作"
+        },
+        {
+          "children": [],
+          "text": "具有良好的溝通能力和團隊合作精神。"
+        },
+        {
+          "children": [],
+          "text": "應屆生、無經驗者亦可"
+        },
+        {
+          "children": [],
+          "text": "需有學習新事物的好奇心"
+        }
+      ],
+      "text": "-資、通信系統整合\n-按時完成公司分配的相應工作\n-具有良好的溝通能力和團隊合作精神。\n-應屆生、無經驗者亦可\n-需有學習新事物的好奇心"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統整合<助理>工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區民權東路六段11巷43之1號3樓",
+    "raw": "台北市內湖區民權東路六段11巷43之1號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Outlook、PowerPoint、Word"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word",
+    "tools": [
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 58
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:46:00+08:00"
+  },
+  "salary": {
+    "raw": "月薪29,500~34,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "-資、通信系統整合\n-按時完成公司分配的相應工作\n-具有良好的溝通能力和團隊合作精神。\n-應屆生、無經驗者亦可\n-需有學習新事物的好奇心",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "網路管理工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、網路管理工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪29,500~34,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區民權東路六段11巷43之1號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "-資、通信系統整合\n-按時完成公司分配的相應工作\n-具有良好的溝通能力和團隊合作精神。\n-應屆生、無經驗者亦可\n-需有學習新事物的好奇心"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Outlook、PowerPoint、Word",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7emj8",
+    "job_url": "https://www.104.com.tw/job/7emj8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7emj8.json",
+    "raw_sha256": "c9fd5ffa82b9cb26f56249e55cabfbd351a7dc654c76f00f599c6bcfbcc49379",
+    "requested_url": "https://www.104.com.tw/api/jobs/7emj8"
+  }
+}

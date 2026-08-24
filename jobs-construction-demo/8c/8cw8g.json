@@ -1,0 +1,186 @@
+{
+  "company": {
+    "id": "1a2x6bjavw",
+    "name": "九強科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "FAE工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "提供市場最新的產品規格與應用之相關資訊，作為客戶設計產品時的參考。"
+        },
+        {
+          "children": [],
+          "text": "負責MCU相關產品之專案技術支援。"
+        },
+        {
+          "children": [],
+          "text": "協助客戶之產品開發，包含線路驗證、問題分析並提供技術解決。"
+        },
+        {
+          "children": [],
+          "text": "協助業務人員MCU產品的基礎知識訓練，並提供客戶、工程師產品使用之技術訓練。"
+        },
+        {
+          "children": [],
+          "text": "職稱依年資經驗及能力核定。"
+        }
+      ],
+      "text": "「MCU韌體應用工程師 工作內容」\n1. 提供市場最新的產品規格與應用之相關資訊，作為客戶設計產品時的參考。\n2. 負責MCU相關產品之專案技術支援。\n3. 協助客戶之產品開發，包含線路驗證、問題分析並提供技術解決。\n4. 協助業務人員MCU產品的基礎知識訓練，並提供客戶、工程師產品使用之技術訓練。\n5. 職稱依年資經驗及能力核定。"
+    },
+    "employment_type_raw": "全職",
+    "title": "韌體應用工程師(MCU FAE)"
+  },
+  "location": {
+    "address_raw": "台北市松山區八德路3段230號7樓之1",
+    "raw": "台北市松山區八德路3段230號7樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "MCU",
+          "C#",
+          "ARM"
+        ],
+        "label": "擅長工具",
+        "text": "MCU、C#、ARM"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具備基本電力電子基礎技能，熟悉硬體者尤佳。\n2.熟悉C語言。\n3.熟悉MCU韌體開發(ARM Cortex-M 尤佳)"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1.具備基本電力電子基礎技能，熟悉硬體者尤佳。\n2.熟悉C語言。\n3.熟悉MCU韌體開發(ARM Cortex-M 尤佳)",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：MCU、C#、ARM\n其他條件：1.具備基本電力電子基礎技能，熟悉硬體者尤佳。\n2.熟悉C語言。\n3.熟悉MCU韌體開發(ARM Cortex-M 尤佳)",
+    "tools": [
+      "MCU",
+      "C#",
+      "ARM"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 88
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:59:59+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "「MCU韌體應用工程師 工作內容」\n1. 提供市場最新的產品規格與應用之相關資訊，作為客戶設計產品時的參考。\n2. 負責MCU相關產品之專案技術支援。\n3. 協助客戶之產品開發，包含線路驗證、問題分析並提供技術解決。\n4. 協助業務人員MCU產品的基礎知識訓練，並提供客戶、工程師產品使用之技術訓練。\n5. 職稱依年資經驗及能力核定。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "FAE工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、FAE工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區八德路3段230號7樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "「MCU韌體應用工程師 工作內容」\n1. 提供市場最新的產品規格與應用之相關資訊，作為客戶設計產品時的參考。\n2. 負責MCU相關產品之專案技術支援。\n3. 協助客戶之產品開發，包含線路驗證、問題分析並提供技術解決。\n4. 協助業務人員MCU產品的基礎知識訓練，並提供客戶、工程師產品使用之技術訓練。\n5. 職稱依年資經驗及能力核定。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MCU",
+            "C#",
+            "ARM"
+          ],
+          "label": "擅長工具",
+          "text": "MCU、C#、ARM",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具備基本電力電子基礎技能，熟悉硬體者尤佳。\n2.熟悉C語言。\n3.熟悉MCU韌體開發(ARM Cortex-M 尤佳)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：MCU、C#、ARM\n其他條件：1.具備基本電力電子基礎技能，熟悉硬體者尤佳。\n2.熟悉C語言。\n3.熟悉MCU韌體開發(ARM Cortex-M 尤佳)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8cw8g",
+    "job_url": "https://www.104.com.tw/job/8cw8g",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8cw8g.json",
+    "raw_sha256": "da2be6db9ccb43747b06fcbf2e8e8419ba15b5fae4ea95029cd6e0c65301c0d0",
+    "requested_url": "https://www.104.com.tw/api/jobs/8cw8g"
+  }
+}

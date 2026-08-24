@@ -1,0 +1,167 @@
+{
+  "company": {
+    "id": "at83s9s",
+    "name": "台新綜合證券股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "後端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "國內外期貨前後台系統\n分別應用大型主機及LIUNX或WINDOWS平台\n進行程式開發及系統維運(多使用COBOL及C#)\n結合多樣化專業技能,可充分學習及成長\n包含資訊相關及金融理財領域\n【備註】薪資將視工作經驗、學經歷、具備證照資格等差異化綜合評估核定。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【資訊】期貨作業工程師"
+  },
+  "location": {
+    "address_raw": "台北市信義區信義路5段8號",
+    "raw": "台北市信義區信義路5段8號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "COBOL",
+          "C#",
+          "Linux"
+        ],
+        "label": "擅長工具",
+        "text": "COBOL、C#、Linux"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件：\n資訊類或金融專業相關證照\n程式語言開發實務經驗(COBOL、C#、Linux尤佳)"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "加分條件：\n資訊類或金融專業相關證照\n程式語言開發實務經驗(COBOL、C#、Linux尤佳)",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n擅長工具：COBOL、C#、Linux\n其他條件：加分條件：\n資訊類或金融專業相關證照\n程式語言開發實務經驗(COBOL、C#、Linux尤佳)",
+    "tools": [
+      "COBOL",
+      "C#",
+      "Linux"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 36
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:51:52+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "國內外期貨前後台系統\n分別應用大型主機及LIUNX或WINDOWS平台\n進行程式開發及系統維運(多使用COBOL及C#)\n結合多樣化專業技能,可充分學習及成長\n包含資訊相關及金融理財領域\n【備註】薪資將視工作經驗、學經歷、具備證照資格等差異化綜合評估核定。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "後端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、後端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區信義路5段8號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "國內外期貨前後台系統\n分別應用大型主機及LIUNX或WINDOWS平台\n進行程式開發及系統維運(多使用COBOL及C#)\n結合多樣化專業技能,可充分學習及成長\n包含資訊相關及金融理財領域\n【備註】薪資將視工作經驗、學經歷、具備證照資格等差異化綜合評估核定。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "COBOL",
+            "C#",
+            "Linux"
+          ],
+          "label": "擅長工具",
+          "text": "COBOL、C#、Linux",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件：\n資訊類或金融專業相關證照\n程式語言開發實務經驗(COBOL、C#、Linux尤佳)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n擅長工具：COBOL、C#、Linux\n其他條件：加分條件：\n資訊類或金融專業相關證照\n程式語言開發實務經驗(COBOL、C#、Linux尤佳)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8zkkm",
+    "job_url": "https://www.104.com.tw/job/8zkkm",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8zkkm.json",
+    "raw_sha256": "ede032618eaeb4f52dbf63400af1614dc80f63e9900a74353e62da69c4f86758",
+    "requested_url": "https://www.104.com.tw/api/jobs/8zkkm"
+  }
+}

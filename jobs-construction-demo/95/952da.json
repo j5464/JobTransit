@@ -1,0 +1,195 @@
+{
+  "company": {
+    "id": "12noppgo",
+    "name": "聯發科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發、維護與整合 CPU silicon validation 軟體、code base、patch 與自動化測試工具。"
+        },
+        {
+          "children": [],
+          "text": "支援 CPU silicon 功能驗證、平台調校與 regression test，確認功能、效能及穩定性。"
+        },
+        {
+          "children": [],
+          "text": "分析 HW/FW/SW log、register dump、trace 與測試結果，協同跨團隊定位問題、整合修正並驗證結果。"
+        }
+      ],
+      "text": "負責 CPU silicon validation 相關軟體開發、code base 維護、patch 整合、驗證功能設計、平台調校與除錯。\n支援 CPU silicon 功能驗證、軟體設定管理及跨層問題分析，確保 CPU 功能、效能、功耗、穩定性與驗證流程符合預期。\n1.開發、維護與整合 CPU silicon validation 軟體、code base、patch 與自動化測試工具。\n2.支援 CPU silicon 功能驗證、平台調校與 regression test，確認功能、效能及穩定性。\n3.分析 HW/FW/SW log、register dump、trace 與測試結果，協同跨團隊定位問題、整合修正並驗證結果。"
+    },
+    "employment_type_raw": "全職",
+    "title": "晶片驗證軟體整合工程師"
+  },
+  "location": {
+    "address_raw": "新竹市",
+    "raw": "新竹市"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.電機、電子、電腦工程、資訊工程或相關科系碩士以上；應屆畢業生或具 1–2 年相關經驗者。\n2.具備 C/C++、Python 或 Shell Script 程式開發能力，並具既有 code base 閱讀、修改、除錯及 Git／patch integration 經驗。\n3.具備 CPU、嵌入式系統、firmware、Linux 或平台軟體基礎概念；對 CPU silicon validation、系統除錯與跨團隊協作具高度興趣。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "1.電機、電子、電腦工程、資訊工程或相關科系碩士以上；應屆畢業生或具 1–2 年相關經驗者。\n2.具備 C/C++、Python 或 Shell Script 程式開發能力，並具既有 code base 閱讀、修改、除錯及 Git／patch integration 經驗。\n3.具備 CPU、嵌入式系統、firmware、Linux 或平台軟體基礎概念；對 CPU silicon validation、系統除錯與跨團隊協作具高度興趣。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關\n擅長工具：C++、Python\n其他條件：1.電機、電子、電腦工程、資訊工程或相關科系碩士以上；應屆畢業生或具 1–2 年相關經驗者。\n2.具備 C/C++、Python 或 Shell Script 程式開發能力，並具既有 code base 閱讀、修改、除錯及 Git／patch integration 經驗。\n3.具備 CPU、嵌入式系統、firmware、Linux 或平台軟體基礎概念；對 CPU silicon validation、系統除錯與跨團隊協作具高度興趣。",
+    "tools": [
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 22
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:15:39+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "負責 CPU silicon validation 相關軟體開發、code base 維護、patch 整合、驗證功能設計、平台調校與除錯。\n支援 CPU silicon 功能驗證、軟體設定管理及跨層問題分析，確保 CPU 功能、效能、功耗、穩定性與驗證流程符合預期。\n1.開發、維護與整合 CPU silicon validation 軟體、code base、patch 與自動化測試工具。\n2.支援 CPU silicon 功能驗證、平台調校與 regression test，確認功能、效能及穩定性。\n3.分析 HW/FW/SW log、register dump、trace 與測試結果，協同跨團隊定位問題、整合修正並驗證結果。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "負責 CPU silicon validation 相關軟體開發、code base 維護、patch 整合、驗證功能設計、平台調校與除錯。\n支援 CPU silicon 功能驗證、軟體設定管理及跨層問題分析，確保 CPU 功能、效能、功耗、穩定性與驗證流程符合預期。\n1.開發、維護與整合 CPU silicon validation 軟體、code base、patch 與自動化測試工具。\n2.支援 CPU silicon 功能驗證、平台調校與 regression test，確認功能、效能及穩定性。\n3.分析 HW/FW/SW log、register dump、trace 與測試結果，協同跨團隊定位問題、整合修正並驗證結果。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.電機、電子、電腦工程、資訊工程或相關科系碩士以上；應屆畢業生或具 1–2 年相關經驗者。\n2.具備 C/C++、Python 或 Shell Script 程式開發能力，並具既有 code base 閱讀、修改、除錯及 Git／patch integration 經驗。\n3.具備 CPU、嵌入式系統、firmware、Linux 或平台軟體基礎概念；對 CPU silicon validation、系統除錯與跨團隊協作具高度興趣。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關\n擅長工具：C++、Python\n其他條件：1.電機、電子、電腦工程、資訊工程或相關科系碩士以上；應屆畢業生或具 1–2 年相關經驗者。\n2.具備 C/C++、Python 或 Shell Script 程式開發能力，並具既有 code base 閱讀、修改、除錯及 Git／patch integration 經驗。\n3.具備 CPU、嵌入式系統、firmware、Linux 或平台軟體基礎概念；對 CPU silicon validation、系統除錯與跨團隊協作具高度興趣。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "952da",
+    "job_url": "https://www.104.com.tw/job/952da",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/952da.json",
+    "raw_sha256": "29419a104f9a3db36e3aed213a7013f008805eb92f145126445d655786e548e4",
+    "requested_url": "https://www.104.com.tw/api/jobs/952da"
+  }
+}

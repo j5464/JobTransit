@@ -1,0 +1,176 @@
+{
+  "company": {
+    "id": "5opox54",
+    "name": "千附實業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "應用系統，需求分析、功能設計、程式開發、測試與上線"
+        },
+        {
+          "children": [],
+          "text": "應用系統問題處理"
+        },
+        {
+          "children": [],
+          "text": "主管交辦任務"
+        }
+      ],
+      "text": "1. 應用系統，需求分析、功能設計、程式開發、測試與上線\n2. 應用系統問題處理\n3. 主管交辦任務"
+    },
+    "employment_type_raw": "全職",
+    "title": "【千附集團】軟體工程師(潭子)"
+  },
+  "location": {
+    "address_raw": "台中市潭子區潭子區豐興路二段龍興巷21-12號",
+    "raw": "台中市潭子區潭子區豐興路二段龍興巷21-12號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "C#",
+          "MS SQL",
+          "Angular"
+        ],
+        "label": "擅長工具",
+        "text": "C#、MS SQL、Angular"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟悉C#程式語言，具備相關開發經驗尤佳，\n2. 熟悉MS Sql資料庫，能夠進行開發和優化尤佳，\n3. 熟練使用JavaScript、JQuery、TypeScript有Angular前端開發經驗者尤佳，\n4. 具備良好的團隊合作精神，能夠有效溝通和協調工作"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 熟悉C#程式語言，具備相關開發經驗尤佳，\n2. 熟悉MS Sql資料庫，能夠進行開發和優化尤佳，\n3. 熟練使用JavaScript、JQuery、TypeScript有Angular前端開發經驗者尤佳，\n4. 具備良好的團隊合作精神，能夠有效溝通和協調工作",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學\n擅長工具：C#、MS SQL、Angular\n其他條件：1. 熟悉C#程式語言，具備相關開發經驗尤佳，\n2. 熟悉MS Sql資料庫，能夠進行開發和優化尤佳，\n3. 熟練使用JavaScript、JQuery、TypeScript有Angular前端開發經驗者尤佳，\n4. 具備良好的團隊合作精神，能夠有效溝通和協調工作",
+    "tools": [
+      "C#",
+      "MS SQL",
+      "Angular"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 30
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:36:26+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 應用系統，需求分析、功能設計、程式開發、測試與上線\n2. 應用系統問題處理\n3. 主管交辦任務",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市潭子區潭子區豐興路二段龍興巷21-12號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 應用系統，需求分析、功能設計、程式開發、測試與上線\n2. 應用系統問題處理\n3. 主管交辦任務"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "MS SQL",
+            "Angular"
+          ],
+          "label": "擅長工具",
+          "text": "C#、MS SQL、Angular",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟悉C#程式語言，具備相關開發經驗尤佳，\n2. 熟悉MS Sql資料庫，能夠進行開發和優化尤佳，\n3. 熟練使用JavaScript、JQuery、TypeScript有Angular前端開發經驗者尤佳，\n4. 具備良好的團隊合作精神，能夠有效溝通和協調工作",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n擅長工具：C#、MS SQL、Angular\n其他條件：1. 熟悉C#程式語言，具備相關開發經驗尤佳，\n2. 熟悉MS Sql資料庫，能夠進行開發和優化尤佳，\n3. 熟練使用JavaScript、JQuery、TypeScript有Angular前端開發經驗者尤佳，\n4. 具備良好的團隊合作精神，能夠有效溝通和協調工作"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8sgfa",
+    "job_url": "https://www.104.com.tw/job/8sgfa",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8sgfa.json",
+    "raw_sha256": "eec143ed0da297379ad9e0642bff47c60444056558c2b31506be3d33b20347a0",
+    "requested_url": "https://www.104.com.tw/api/jobs/8sgfa"
+  }
+}

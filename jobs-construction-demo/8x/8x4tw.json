@@ -1,0 +1,252 @@
+{
+  "company": {
+    "id": "cwxfyuo",
+    "name": "(捷普集團)綠點高新科技股份有限公司捷普設計服務分公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "BIOS工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Design, develop, and debug UEFI BIOS firmware for server systems."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with hardware design teams during board bring-up and validation phases."
+        },
+        {
+          "children": [],
+          "text": "Analyze and resolve BIOS/UEFI defects, including system hangs, boot failures, and system stability problems."
+        },
+        {
+          "children": [],
+          "text": "Document BIOS architecture, design specifications, and test procedures."
+        },
+        {
+          "children": [],
+          "text": "Stay current with industry trends and emerging technologies in BIOS/UEFI development."
+        },
+        {
+          "children": [],
+          "text": "Participate in code reviews and provide technical mentorship to junior engineers."
+        },
+        {
+          "children": [],
+          "text": "Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field."
+        },
+        {
+          "children": [],
+          "text": "5+ years of experience in BIOS/UEFI firmware development."
+        },
+        {
+          "children": [],
+          "text": "Strong proficiency in C language programming."
+        },
+        {
+          "children": [],
+          "text": "In-depth understanding of PC architecture, including Intel/AMD chipsets, processors, and peripheral interfaces (PCIe, USB, SATA, SPI, I2C, etc.)."
+        },
+        {
+          "children": [],
+          "text": "Extensive experience with UEFI architecture, TianoCore EDKII, and various BIOS development tools."
+        },
+        {
+          "children": [],
+          "text": "Experience with debugging tools such as ITP, JTAG, and in-circuit emulators."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with hardware schematics and data sheets."
+        },
+        {
+          "children": [],
+          "text": "Excellent problem-solving and analytical skills."
+        },
+        {
+          "children": [],
+          "text": "Strong communication and interpersonal skills, with the ability to work effectively in a team environment."
+        }
+      ],
+      "text": "【Job Summary】\nAs a Senior BIOS Engineer at Jabil, Inc., you will be responsible for the design, development, and debugging of UEFI BIOS firmware for various computing platforms. You will play a critical role in bringing up new hardware, and ensuring the stability and reliability of our server products.\n【Job Responsibilities】\n• Design, develop, and debug UEFI BIOS firmware for server systems.\n• Collaborate with hardware design teams during board bring-up and validation phases.\n• Analyze and resolve BIOS/UEFI defects, including system hangs, boot failures, and system stability problems.\n• Document BIOS architecture, design specifications, and test procedures.\n• Stay current with industry trends and emerging technologies in BIOS/UEFI development.\n• Participate in code reviews and provide technical mentorship to junior engineers.\n【Job Qualifications】\n• Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field.\n• 5+ years of experience in BIOS/UEFI firmware development.\n• Strong proficiency in C language programming.\n• In-depth understanding of PC architecture, including Intel/AMD chipsets, processors, and peripheral interfaces (PCIe, USB, SATA, SPI, I2C, etc.).\n• Extensive experience with UEFI architecture, TianoCore EDKII, and various BIOS development tools.\n• Experience with debugging tools such as ITP, JTAG, and in-circuit emulators.\n• Familiarity with hardware schematics and data sheets.\n• Excellent problem-solving and analytical skills.\n• Strong communication and interpersonal skills, with the ability to work effectively in a team environment."
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior BIOS Engineer (Server-台中)"
+  },
+  "location": {
+    "address_raw": "新北市三重區光復路二段69號12樓",
+    "raw": "新北市三重區光復路二段69號12樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "BIOS程式研發",
+          "BIOS程式偵錯與維護",
+          "BIOS工程規格及流程撰寫"
+        ],
+        "label": "工作技能",
+        "text": "BIOS程式研發、BIOS程式偵錯與維護、BIOS工程規格及流程撰寫"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "BIOS程式研發",
+      "BIOS程式偵錯與維護",
+      "BIOS工程規格及流程撰寫"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n工作技能：BIOS程式研發、BIOS程式偵錯與維護、BIOS工程規格及流程撰寫",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 44
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:09:37+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【Job Summary】\nAs a Senior BIOS Engineer at Jabil, Inc., you will be responsible for the design, development, and debugging of UEFI BIOS firmware for various computing platforms. You will play a critical role in bringing up new hardware, and ensuring the stability and reliability of our server products.\n【Job Responsibilities】\n• Design, develop, and debug UEFI BIOS firmware for server systems.\n• Collaborate with hardware design teams during board bring-up and validation phases.\n• Analyze and resolve BIOS/UEFI defects, including system hangs, boot failures, and system stability problems.\n• Document BIOS architecture, design specifications, and test procedures.\n• Stay current with industry trends and emerging technologies in BIOS/UEFI development.\n• Participate in code reviews and provide technical mentorship to junior engineers.\n【Job Qualifications】\n• Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field.\n• 5+ years of experience in BIOS/UEFI firmware development.\n• Strong proficiency in C language programming.\n• In-depth understanding of PC architecture, including Intel/AMD chipsets, processors, and peripheral interfaces (PCIe, USB, SATA, SPI, I2C, etc.).\n• Extensive experience with UEFI architecture, TianoCore EDKII, and various BIOS development tools.\n• Experience with debugging tools such as ITP, JTAG, and in-circuit emulators.\n• Familiarity with hardware schematics and data sheets.\n• Excellent problem-solving and analytical skills.\n• Strong communication and interpersonal skills, with the ability to work effectively in a team environment.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "BIOS工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、BIOS工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市三重區光復路二段69號12樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【Job Summary】\nAs a Senior BIOS Engineer at Jabil, Inc., you will be responsible for the design, development, and debugging of UEFI BIOS firmware for various computing platforms. You will play a critical role in bringing up new hardware, and ensuring the stability and reliability of our server products.\n【Job Responsibilities】\n• Design, develop, and debug UEFI BIOS firmware for server systems.\n• Collaborate with hardware design teams during board bring-up and validation phases.\n• Analyze and resolve BIOS/UEFI defects, including system hangs, boot failures, and system stability problems.\n• Document BIOS architecture, design specifications, and test procedures.\n• Stay current with industry trends and emerging technologies in BIOS/UEFI development.\n• Participate in code reviews and provide technical mentorship to junior engineers.\n【Job Qualifications】\n• Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field.\n• 5+ years of experience in BIOS/UEFI firmware development.\n• Strong proficiency in C language programming.\n• In-depth understanding of PC architecture, including Intel/AMD chipsets, processors, and peripheral interfaces (PCIe, USB, SATA, SPI, I2C, etc.).\n• Extensive experience with UEFI architecture, TianoCore EDKII, and various BIOS development tools.\n• Experience with debugging tools such as ITP, JTAG, and in-circuit emulators.\n• Familiarity with hardware schematics and data sheets.\n• Excellent problem-solving and analytical skills.\n• Strong communication and interpersonal skills, with the ability to work effectively in a team environment."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "BIOS程式研發",
+            "BIOS程式偵錯與維護",
+            "BIOS工程規格及流程撰寫"
+          ],
+          "label": "工作技能",
+          "text": "BIOS程式研發、BIOS程式偵錯與維護、BIOS工程規格及流程撰寫",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n工作技能：BIOS程式研發、BIOS程式偵錯與維護、BIOS工程規格及流程撰寫"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8x4tw",
+    "job_url": "https://www.104.com.tw/job/8x4tw",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8x4tw.json",
+    "raw_sha256": "b0cb32ecf73a329aa0743c4074c91c7045b1bf31621738ea8b35d63cae4d4485",
+    "requested_url": "https://www.104.com.tw/api/jobs/8x4tw"
+  }
+}

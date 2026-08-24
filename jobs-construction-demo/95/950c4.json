@@ -1,0 +1,238 @@
+{
+  "company": {
+    "id": "7e6hi08",
+    "name": "法商法國巴黎人壽保險股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "軟體專案主管",
+      "軟體工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "管理應用系統開發團隊。"
+        },
+        {
+          "children": [],
+          "text": "進行現有系統開發與維運，包含問題解決、一次性需求(BAU)、資料彙整處理、跨部門協調及廠商溝通。"
+        },
+        {
+          "children": [],
+          "text": "分析系統需求，並提出綜整解決方案；，協助相關團隊提供完整解決方案。"
+        },
+        {
+          "children": [],
+          "text": "應用系統開發版本及資安管理與解決；協助資訊科技治理(包含相關稽核作業)。"
+        },
+        {
+          "children": [],
+          "text": "配合完成各項法規、資安要求之相關系統開發作業。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辧事項。"
+        }
+      ],
+      "text": "1. 管理應用系統開發團隊。\n2. 進行現有系統開發與維運，包含問題解決、一次性需求(BAU)、資料彙整處理、跨部門協調及廠商溝通。\n3. 分析系統需求，並提出綜整解決方案；，協助相關團隊提供完整解決方案。\n4. 應用系統開發版本及資安管理與解決；協助資訊科技治理(包含相關稽核作業)。\n5. 配合完成各項法規、資安要求之相關系統開發作業。\n6. 其他主管交辧事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊服務部 應用系統開發主管 Application Development Team Lead"
+  },
+  "location": {
+    "address_raw": "台北市信義區信義路5段7號79樓",
+    "raw": "台北市信義區信義路5段7號79樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "10年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "10年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "商業及管理學科類",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "商業及管理學科類、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "C#",
+          "Visual Studio .net",
+          "Java",
+          "MS SQL",
+          "JavaScript",
+          "Oracle"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Visual Studio .net、Java、MS SQL、JavaScript、Oracle"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 大型資訊系統開發經驗(孰悉整個專案生命週期)。\n2. 具備技術溝通能力。\n3. 具3年以上管理經驗。\n4. 具備金融/保險業經驗。\n5. 具備APIM與Enterprise Service Bus (ESB)經驗。\n6. 具備一定英文溝通能力，能與國外同事進行有效的溝通與協作。"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "商業及管理學科類",
+      "資訊工程相關"
+    ],
+    "other_text": "1. 大型資訊系統開發經驗(孰悉整個專案生命週期)。\n2. 具備技術溝通能力。\n3. 具3年以上管理經驗。\n4. 具備金融/保險業經驗。\n5. 具備APIM與Enterprise Service Bus (ESB)經驗。\n6. 具備一定英文溝通能力，能與國外同事進行有效的溝通與協作。",
+    "skills": [],
+    "text": "工作經歷：10年以上\n學歷要求：大學、碩士\n科系要求：商業及管理學科類、資訊工程相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：C#、Visual Studio .net、Java、MS SQL、JavaScript、Oracle\n其他條件：1. 大型資訊系統開發經驗(孰悉整個專案生命週期)。\n2. 具備技術溝通能力。\n3. 具3年以上管理經驗。\n4. 具備金融/保險業經驗。\n5. 具備APIM與Enterprise Service Bus (ESB)經驗。\n6. 具備一定英文溝通能力，能與國外同事進行有效的溝通與協作。",
+    "tools": [
+      "C#",
+      "Visual Studio .net",
+      "Java",
+      "MS SQL",
+      "JavaScript",
+      "Oracle"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 2
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:23:08+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 管理應用系統開發團隊。\n2. 進行現有系統開發與維運，包含問題解決、一次性需求(BAU)、資料彙整處理、跨部門協調及廠商溝通。\n3. 分析系統需求，並提出綜整解決方案；，協助相關團隊提供完整解決方案。\n4. 應用系統開發版本及資安管理與解決；協助資訊科技治理(包含相關稽核作業)。\n5. 配合完成各項法規、資安要求之相關系統開發作業。\n6. 其他主管交辧事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體專案主管",
+            "軟體工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體專案主管、軟體工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區信義路5段7號79樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 管理應用系統開發團隊。\n2. 進行現有系統開發與維運，包含問題解決、一次性需求(BAU)、資料彙整處理、跨部門協調及廠商溝通。\n3. 分析系統需求，並提出綜整解決方案；，協助相關團隊提供完整解決方案。\n4. 應用系統開發版本及資安管理與解決；協助資訊科技治理(包含相關稽核作業)。\n5. 配合完成各項法規、資安要求之相關系統開發作業。\n6. 其他主管交辧事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "10年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "商業及管理學科類",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "商業及管理學科類、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Visual Studio .net",
+            "Java",
+            "MS SQL",
+            "JavaScript",
+            "Oracle"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Visual Studio .net、Java、MS SQL、JavaScript、Oracle",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 大型資訊系統開發經驗(孰悉整個專案生命週期)。\n2. 具備技術溝通能力。\n3. 具3年以上管理經驗。\n4. 具備金融/保險業經驗。\n5. 具備APIM與Enterprise Service Bus (ESB)經驗。\n6. 具備一定英文溝通能力，能與國外同事進行有效的溝通與協作。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：10年以上\n學歷要求：大學、碩士\n科系要求：商業及管理學科類、資訊工程相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：C#、Visual Studio .net、Java、MS SQL、JavaScript、Oracle\n其他條件：1. 大型資訊系統開發經驗(孰悉整個專案生命週期)。\n2. 具備技術溝通能力。\n3. 具3年以上管理經驗。\n4. 具備金融/保險業經驗。\n5. 具備APIM與Enterprise Service Bus (ESB)經驗。\n6. 具備一定英文溝通能力，能與國外同事進行有效的溝通與協作。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/19",
+    "html_sha256": null,
+    "job_id": "950c4",
+    "job_url": "https://www.104.com.tw/job/950c4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/950c4.json",
+    "raw_sha256": "9345ffe45242c729ef03b7d391b9e05cfd81004a5a72d253f4abfd43bdefa6c3",
+    "requested_url": "https://www.104.com.tw/api/jobs/950c4"
+  }
+}

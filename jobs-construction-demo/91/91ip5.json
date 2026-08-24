@@ -1,0 +1,229 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "PCIe Project (SSD/Re-timer) 驗證 Pattern 設計與開發"
+        },
+        {
+          "children": [],
+          "text": "在 OpenBMC Kernel 系統架構上開發驗證內容"
+        },
+        {
+          "children": [],
+          "text": "PCIe Host 相關驗證內容開發"
+        },
+        {
+          "children": [],
+          "text": "驗證工具以及 Re-timer 相關 tool 開發"
+        },
+        {
+          "children": [],
+          "text": "熟 BMC 者佳"
+        },
+        {
+          "children": [],
+          "text": "熟 PCIe Host 相關專業知識者佳"
+        },
+        {
+          "children": [],
+          "text": "具備 SSD、NVMe 或快閃記憶體管理相關背景佳"
+        }
+      ],
+      "text": "1. PCIe Project (SSD/Re-timer) 驗證 Pattern 設計與開發\n2. 在 OpenBMC Kernel 系統架構上開發驗證內容\n3. PCIe Host 相關驗證內容開發\n4. 驗證工具以及 Re-timer 相關 tool 開發\n加分條件\n1. 熟 BMC 者佳\n2. 熟 PCIe Host 相關專業知識者佳\n3. 具備 SSD、NVMe 或快閃記憶體管理相關背景佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師V0202"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉C/C++、Python等程式語言"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "熟悉C/C++、Python等程式語言",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Python\n其他條件：熟悉C/C++、Python等程式語言",
+    "tools": [
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 37
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:53:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. PCIe Project (SSD/Re-timer) 驗證 Pattern 設計與開發\n2. 在 OpenBMC Kernel 系統架構上開發驗證內容\n3. PCIe Host 相關驗證內容開發\n4. 驗證工具以及 Re-timer 相關 tool 開發\n加分條件\n1. 熟 BMC 者佳\n2. 熟 PCIe Host 相關專業知識者佳\n3. 具備 SSD、NVMe 或快閃記憶體管理相關背景佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. PCIe Project (SSD/Re-timer) 驗證 Pattern 設計與開發\n2. 在 OpenBMC Kernel 系統架構上開發驗證內容\n3. PCIe Host 相關驗證內容開發\n4. 驗證工具以及 Re-timer 相關 tool 開發\n加分條件\n1. 熟 BMC 者佳\n2. 熟 PCIe Host 相關專業知識者佳\n3. 具備 SSD、NVMe 或快閃記憶體管理相關背景佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉C/C++、Python等程式語言",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Python\n其他條件：熟悉C/C++、Python等程式語言"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91ip5",
+    "job_url": "https://www.104.com.tw/job/91ip5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91ip5.json",
+    "raw_sha256": "0b9391ece06acb109be5f5b64fd89d73d0d66f588d356751736e57603997d646",
+    "requested_url": "https://www.104.com.tw/api/jobs/91ip5"
+  }
+}

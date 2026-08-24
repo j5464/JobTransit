@@ -1,0 +1,235 @@
+{
+  "company": {
+    "id": "ahfsoq0",
+    "name": "廣達電腦股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "硬體研發工程師",
+      "韌體工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop CPLD for Server application and basic power sequence control."
+        },
+        {
+          "children": [],
+          "text": "Proprietary design for system requirement through CPLD/ HDL development."
+        },
+        {
+          "children": [],
+          "text": "Develop FPGA for Server application."
+        },
+        {
+          "children": [],
+          "text": "Design and develop FPGA/CPLD digital logic using Verilog/SystemVerilog."
+        },
+        {
+          "children": [],
+          "text": "Implement FPGA/CPLD system-level simulation, functional simulation, and verification."
+        },
+        {
+          "children": [],
+          "text": "Work closely with EE engineers to integrate FPGA/CPLD into system architectures and troubleshoot issues."
+        }
+      ],
+      "text": "1. Develop CPLD for Server application and basic power sequence control.\n2. Proprietary design for system requirement through CPLD/ HDL development.\n3. Develop FPGA for Server application.\n4. Design and develop FPGA/CPLD digital logic using Verilog/SystemVerilog.\n5. Implement FPGA/CPLD system-level simulation, functional simulation, and verification.\n6. Work closely with EE engineers to integrate FPGA/CPLD into system architectures and troubleshoot issues."
+    },
+    "employment_type_raw": "全職",
+    "title": "雲端伺服器CPLD/FPGA/HW開發設計 - J1766"
+  },
+  "location": {
+    "address_raw": "桃園市龜山區文化二路211號",
+    "raw": "桃園市龜山區文化二路211號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "工程學科類",
+          "資訊工程相關",
+          "通信學類"
+        ],
+        "label": "科系要求",
+        "text": "工程學科類、資訊工程相關、通信學類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "CPLD",
+          "FPGA",
+          "Verilog",
+          "VHDL"
+        ],
+        "label": "擅長工具",
+        "text": "CPLD、FPGA、Verilog、VHDL"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. With bachelor’s degree of Electronics, EE, or CS.\n2. With 3+ years HDL coding experience prefer (Preferable to Verilog).\n3. Possess basic knowledge of Digital Circuit Design ( Combinational Logic, Sequential Logic, FSM, etc).\n4. Familiar with PC industry standards: SPI, I2C, USB, SGPIO, etc.\n5. Familiar with UVM to verify FPGA/ ASIC.\n6. Familiar with C, C++, or Python.\n7. Familiar with board level design is a plus.\n8. With good English competency in 4 skills, Toeic 600+."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "工程學科類",
+      "資訊工程相關",
+      "通信學類"
+    ],
+    "other_text": "1. With bachelor’s degree of Electronics, EE, or CS.\n2. With 3+ years HDL coding experience prefer (Preferable to Verilog).\n3. Possess basic knowledge of Digital Circuit Design ( Combinational Logic, Sequential Logic, FSM, etc).\n4. Familiar with PC industry standards: SPI, I2C, USB, SGPIO, etc.\n5. Familiar with UVM to verify FPGA/ ASIC.\n6. Familiar with C, C++, or Python.\n7. Familiar with board level design is a plus.\n8. With good English competency in 4 skills, Toeic 600+.",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：工程學科類、資訊工程相關、通信學類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：CPLD、FPGA、Verilog、VHDL\n其他條件：1. With bachelor’s degree of Electronics, EE, or CS.\n2. With 3+ years HDL coding experience prefer (Preferable to Verilog).\n3. Possess basic knowledge of Digital Circuit Design ( Combinational Logic, Sequential Logic, FSM, etc).\n4. Familiar with PC industry standards: SPI, I2C, USB, SGPIO, etc.\n5. Familiar with UVM to verify FPGA/ ASIC.\n6. Familiar with C, C++, or Python.\n7. Familiar with board level design is a plus.\n8. With good English competency in 4 skills, Toeic 600+.",
+    "tools": [
+      "CPLD",
+      "FPGA",
+      "Verilog",
+      "VHDL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 5
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:31:30+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. Develop CPLD for Server application and basic power sequence control.\n2. Proprietary design for system requirement through CPLD/ HDL development.\n3. Develop FPGA for Server application.\n4. Design and develop FPGA/CPLD digital logic using Verilog/SystemVerilog.\n5. Implement FPGA/CPLD system-level simulation, functional simulation, and verification.\n6. Work closely with EE engineers to integrate FPGA/CPLD into system architectures and troubleshoot issues.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "硬體研發工程師",
+            "韌體工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "硬體研發工程師、韌體工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市龜山區文化二路211號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. Develop CPLD for Server application and basic power sequence control.\n2. Proprietary design for system requirement through CPLD/ HDL development.\n3. Develop FPGA for Server application.\n4. Design and develop FPGA/CPLD digital logic using Verilog/SystemVerilog.\n5. Implement FPGA/CPLD system-level simulation, functional simulation, and verification.\n6. Work closely with EE engineers to integrate FPGA/CPLD into system architectures and troubleshoot issues."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "工程學科類",
+            "資訊工程相關",
+            "通信學類"
+          ],
+          "label": "科系要求",
+          "text": "工程學科類、資訊工程相關、通信學類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "CPLD",
+            "FPGA",
+            "Verilog",
+            "VHDL"
+          ],
+          "label": "擅長工具",
+          "text": "CPLD、FPGA、Verilog、VHDL",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. With bachelor’s degree of Electronics, EE, or CS.\n2. With 3+ years HDL coding experience prefer (Preferable to Verilog).\n3. Possess basic knowledge of Digital Circuit Design ( Combinational Logic, Sequential Logic, FSM, etc).\n4. Familiar with PC industry standards: SPI, I2C, USB, SGPIO, etc.\n5. Familiar with UVM to verify FPGA/ ASIC.\n6. Familiar with C, C++, or Python.\n7. Familiar with board level design is a plus.\n8. With good English competency in 4 skills, Toeic 600+.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：工程學科類、資訊工程相關、通信學類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：CPLD、FPGA、Verilog、VHDL\n其他條件：1. With bachelor’s degree of Electronics, EE, or CS.\n2. With 3+ years HDL coding experience prefer (Preferable to Verilog).\n3. Possess basic knowledge of Digital Circuit Design ( Combinational Logic, Sequential Logic, FSM, etc).\n4. Familiar with PC industry standards: SPI, I2C, USB, SGPIO, etc.\n5. Familiar with UVM to verify FPGA/ ASIC.\n6. Familiar with C, C++, or Python.\n7. Familiar with board level design is a plus.\n8. With good English competency in 4 skills, Toeic 600+."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6lqrd",
+    "job_url": "https://www.104.com.tw/job/6lqrd",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6lqrd.json",
+    "raw_sha256": "83547c3bc1fc5a0503b52c03a94a776bcc4134f442993052e2bb1ad0afbda6a1",
+    "requested_url": "https://www.104.com.tw/api/jobs/6lqrd"
+  }
+}

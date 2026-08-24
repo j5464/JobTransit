@@ -1,0 +1,213 @@
+{
+  "company": {
+    "id": "1a2x6bn23n",
+    "name": "鈦創軟體資訊有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "Internet程式設計師",
+      "網頁設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "精通 TypeScript"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Vue.js 與 Nuxt.js 開發，了解生命週期、狀態管理、Server-side Rendering 等概念"
+        },
+        {
+          "children": [],
+          "text": "與後端、UI/UX 合作開發網頁產品經驗"
+        },
+        {
+          "children": [],
+          "text": "有 RWD 開發經驗，讓網站在各裝置、瀏覽器體驗一致"
+        },
+        {
+          "children": [],
+          "text": "具前端架構設計、專案 CI / CD 建置經驗"
+        },
+        {
+          "children": [],
+          "text": "對瀏覽器相容性，前端安全防範，網路協議有基本概念"
+        },
+        {
+          "children": [],
+          "text": "有前端效能優化經驗"
+        },
+        {
+          "children": [],
+          "text": "具跨部門溝通經驗"
+        },
+        {
+          "children": [],
+          "text": "季聚餐"
+        },
+        {
+          "children": [],
+          "text": "入職即刻享有特休"
+        },
+        {
+          "children": [],
+          "text": "員工健檢"
+        }
+      ],
+      "text": "【職務需求】\n1. 精通 TypeScript\n2. 熟悉 Vue.js 與 Nuxt.js 開發，了解生命週期、狀態管理、Server-side Rendering 等概念\n3. 與後端、UI/UX 合作開發網頁產品經驗\n4. 有 RWD 開發經驗，讓網站在各裝置、瀏覽器體驗一致\n【加分內容】\n1. 具前端架構設計、專案 CI / CD 建置經驗\n2. 對瀏覽器相容性，前端安全防範，網路協議有基本概念\n3. 有前端效能優化經驗\n4. 具跨部門溝通經驗\n【公司福利】\n1.季聚餐\n2.入職即刻享有特休\n3.員工健檢"
+    },
+    "employment_type_raw": "全職",
+    "title": "Vue前端工程師【信義-金融數位轉型】"
+  },
+  "location": {
+    "address_raw": "台北市信義區",
+    "raw": "台北市信義區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "Git",
+          "AJAX",
+          "HTML",
+          "JavaScript",
+          "CSS",
+          "Sass",
+          "VueJS"
+        ],
+        "label": "擅長工具",
+        "text": "Git、AJAX、HTML、JavaScript、CSS、Sass、VueJS"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：不拘\n擅長工具：Git、AJAX、HTML、JavaScript、CSS、Sass、VueJS",
+    "tools": [
+      "Git",
+      "AJAX",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "Sass",
+      "VueJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 93
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:10:22+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職務需求】\n1. 精通 TypeScript\n2. 熟悉 Vue.js 與 Nuxt.js 開發，了解生命週期、狀態管理、Server-side Rendering 等概念\n3. 與後端、UI/UX 合作開發網頁產品經驗\n4. 有 RWD 開發經驗，讓網站在各裝置、瀏覽器體驗一致\n【加分內容】\n1. 具前端架構設計、專案 CI / CD 建置經驗\n2. 對瀏覽器相容性，前端安全防範，網路協議有基本概念\n3. 有前端效能優化經驗\n4. 具跨部門溝通經驗\n【公司福利】\n1.季聚餐\n2.入職即刻享有特休\n3.員工健檢",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "Internet程式設計師",
+            "網頁設計師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、Internet程式設計師、網頁設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職務需求】\n1. 精通 TypeScript\n2. 熟悉 Vue.js 與 Nuxt.js 開發，了解生命週期、狀態管理、Server-side Rendering 等概念\n3. 與後端、UI/UX 合作開發網頁產品經驗\n4. 有 RWD 開發經驗，讓網站在各裝置、瀏覽器體驗一致\n【加分內容】\n1. 具前端架構設計、專案 CI / CD 建置經驗\n2. 對瀏覽器相容性，前端安全防範，網路協議有基本概念\n3. 有前端效能優化經驗\n4. 具跨部門溝通經驗\n【公司福利】\n1.季聚餐\n2.入職即刻享有特休\n3.員工健檢"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "AJAX",
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "Sass",
+            "VueJS"
+          ],
+          "label": "擅長工具",
+          "text": "Git、AJAX、HTML、JavaScript、CSS、Sass、VueJS",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘\n擅長工具：Git、AJAX、HTML、JavaScript、CSS、Sass、VueJS"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8gbkb",
+    "job_url": "https://www.104.com.tw/job/8gbkb",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8gbkb.json",
+    "raw_sha256": "bc4b7f1832001e419726a09c033b458289fbc7b2e9c17ea5ad0bc03b3dda300c",
+    "requested_url": "https://www.104.com.tw/api/jobs/8gbkb"
+  }
+}

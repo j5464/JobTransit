@@ -1,0 +1,239 @@
+{
+  "company": {
+    "id": "cii6g14",
+    "name": "Yahoo_香港商雅虎資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "雲端工程師",
+      "DevOps 工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "------------------------"
+        },
+        {
+          "children": [],
+          "text": "------------------------"
+        }
+      ],
+      "text": "[A Little About Us]\nWe are seeking passionate and talented individuals to build the most advanced online commerce platform. Our work involves e-commerce platforms that process transactions, perform analytics, and drive optimizations to power the business. We embrace continuous experimentation, evaluate new technologies for infrastructure assimilation, and develop high-quality products and tools that prioritize usability, efficiency, and deep business growth for our customers and partners.\nCome work with top global talent on the latest technology to deliver a state-of-the-art platform.\n-------------------------\n[A Lot About You]\nAs a DevOps Engineer, you will be responsible for production operations, capacity planning, performance management, deployment and release engineering. You will work with multiple cross-functional teams helping deliver the new and better experiences to our users while ensuring reliability and performance of the services. You are the type of person who will jump in to debug and fix things, multitasks and context-switches well. You have a strong understanding of best practices across a variety of disciplines including: Web Operation, System Administration, Release management, Performance Engineering and Network Operations.\n-------------------------\n[Your Day]\n・Function as a technical generalist responsible for the overall health and performance of E-Commerce systems\n・Primary responsible to online alert monitoring, and incident handling in a standard procedure of notification, problem resolving, fail out to BCP and escalations\n・Develop tools to automate the deployment, administration, and monitoring of Linux and Microsoft Windows servers .\n・Work with development teams or other supporting groups to harden, enhance, document, establish process and generally improve the operability of our systems\n・Assist in the configuration/build-out of new deployments to facilitate our constant growth\n・Maintain in-house development and production environments by complying with the concepts of DevOps or Service Reliability Engineering\n・Must have on-call rotation and work with the frontier operational teams in worldwide\n・Better have the hands-on experience on one of the CI/CD tools\n※ 請直接投遞履歷至Yahoo TWEC Career Site，會以此網站做履歷篩選※\n【https://yahootwec.csod.com/ux/ats/careersite/4/home/requisition/70?c=yahootwec】"
+    },
+    "employment_type_raw": "全職",
+    "title": "[R70] (Sr.) Production Engineer (DevOps)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區石潭路157號2樓",
+    "raw": "台北市內湖區石潭路157號2樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Cloud",
+          "Linux",
+          "TCP/IP",
+          "Shell",
+          "DNS"
+        ],
+        "label": "擅長工具",
+        "text": "Cloud、Linux、TCP/IP、Shell、DNS"
+      },
+      {
+        "items": [
+          "CI/CD"
+        ],
+        "label": "工作技能",
+        "text": "CI/CD"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "[Required Qualifications and Skills]\n・Education background in Computer Science or equivalent majors\n・Fair verbal and written English communication skills\n・Strong hands-on experiences on the LINUX environment with the ability to navigate, manipulate and understand the kernel technology.\n・Good knowledge of TCP/IP network environment, load-balancers, DNS and other internet protocols\n・Good knowledge on change, incident and BCP/DRP technologies\n・Excellent skills to effectively communicate via phone and in writing\n・Good self management skills, must be a self initiate and able to manage work priority effectively\n・Working experience with other functions like Product, Software Development, Customer Service or Infrastructure related\n・At least one year of experience on using UNIX shell script or other programming language on UNIX based platforms"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "[Required Qualifications and Skills]\n・Education background in Computer Science or equivalent majors\n・Fair verbal and written English communication skills\n・Strong hands-on experiences on the LINUX environment with the ability to navigate, manipulate and understand the kernel technology.\n・Good knowledge of TCP/IP network environment, load-balancers, DNS and other internet protocols\n・Good knowledge on change, incident and BCP/DRP technologies\n・Excellent skills to effectively communicate via phone and in writing\n・Good self management skills, must be a self initiate and able to manage work priority effectively\n・Working experience with other functions like Product, Software Development, Customer Service or Infrastructure related\n・At least one year of experience on using UNIX shell script or other programming language on UNIX based platforms",
+    "skills": [
+      "CI/CD"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Cloud、Linux、TCP/IP、Shell、DNS\n工作技能：CI/CD\n其他條件：[Required Qualifications and Skills]\n・Education background in Computer Science or equivalent majors\n・Fair verbal and written English communication skills\n・Strong hands-on experiences on the LINUX environment with the ability to navigate, manipulate and understand the kernel technology.\n・Good knowledge of TCP/IP network environment, load-balancers, DNS and other internet protocols\n・Good knowledge on change, incident and BCP/DRP technologies\n・Excellent skills to effectively communicate via phone and in writing\n・Good self management skills, must be a self initiate and able to manage work priority effectively\n・Working experience with other functions like Product, Software Development, Customer Service or Infrastructure related\n・At least one year of experience on using UNIX shell script or other programming language on UNIX based platforms",
+    "tools": [
+      "Cloud",
+      "Linux",
+      "TCP/IP",
+      "Shell",
+      "DNS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 75
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:27:42+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "[A Little About Us]\nWe are seeking passionate and talented individuals to build the most advanced online commerce platform. Our work involves e-commerce platforms that process transactions, perform analytics, and drive optimizations to power the business. We embrace continuous experimentation, evaluate new technologies for infrastructure assimilation, and develop high-quality products and tools that prioritize usability, efficiency, and deep business growth for our customers and partners.\nCome work with top global talent on the latest technology to deliver a state-of-the-art platform.\n-------------------------\n[A Lot About You]\nAs a DevOps Engineer, you will be responsible for production operations, capacity planning, performance management, deployment and release engineering. You will work with multiple cross-functional teams helping deliver the new and better experiences to our users while ensuring reliability and performance of the services. You are the type of person who will jump in to debug and fix things, multitasks and context-switches well. You have a strong understanding of best practices across a variety of disciplines including: Web Operation, System Administration, Release management, Performance Engineering and Network Operations.\n-------------------------\n[Your Day]\n・Function as a technical generalist responsible for the overall health and performance of E-Commerce systems\n・Primary responsible to online alert monitoring, and incident handling in a standard procedure of notification, problem resolving, fail out to BCP and escalations\n・Develop tools to automate the deployment, administration, and monitoring of Linux and Microsoft Windows servers .\n・Work with development teams or other supporting groups to harden, enhance, document, establish process and generally improve the operability of our systems\n・Assist in the configuration/build-out of new deployments to facilitate our constant growth\n・Maintain in-house development and production environments by complying with the concepts of DevOps or Service Reliability Engineering\n・Must have on-call rotation and work with the frontier operational teams in worldwide\n・Better have the hands-on experience on one of the CI/CD tools\n※ 請直接投遞履歷至Yahoo TWEC Career Site，會以此網站做履歷篩選※\n【https://yahootwec.csod.com/ux/ats/careersite/4/home/requisition/70?c=yahootwec】",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "雲端工程師",
+            "DevOps 工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、雲端工程師、DevOps 工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區石潭路157號2樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "[A Little About Us]\nWe are seeking passionate and talented individuals to build the most advanced online commerce platform. Our work involves e-commerce platforms that process transactions, perform analytics, and drive optimizations to power the business. We embrace continuous experimentation, evaluate new technologies for infrastructure assimilation, and develop high-quality products and tools that prioritize usability, efficiency, and deep business growth for our customers and partners.\nCome work with top global talent on the latest technology to deliver a state-of-the-art platform.\n-------------------------\n[A Lot About You]\nAs a DevOps Engineer, you will be responsible for production operations, capacity planning, performance management, deployment and release engineering. You will work with multiple cross-functional teams helping deliver the new and better experiences to our users while ensuring reliability and performance of the services. You are the type of person who will jump in to debug and fix things, multitasks and context-switches well. You have a strong understanding of best practices across a variety of disciplines including: Web Operation, System Administration, Release management, Performance Engineering and Network Operations.\n-------------------------\n[Your Day]\n・Function as a technical generalist responsible for the overall health and performance of E-Commerce systems\n・Primary responsible to online alert monitoring, and incident handling in a standard procedure of notification, problem resolving, fail out to BCP and escalations\n・Develop tools to automate the deployment, administration, and monitoring of Linux and Microsoft Windows servers .\n・Work with development teams or other supporting groups to harden, enhance, document, establish process and generally improve the operability of our systems\n・Assist in the configuration/build-out of new deployments to facilitate our constant growth\n・Maintain in-house development and production environments by complying with the concepts of DevOps or Service Reliability Engineering\n・Must have on-call rotation and work with the frontier operational teams in worldwide\n・Better have the hands-on experience on one of the CI/CD tools\n※ 請直接投遞履歷至Yahoo TWEC Career Site，會以此網站做履歷篩選※\n【https://yahootwec.csod.com/ux/ats/careersite/4/home/requisition/70?c=yahootwec】"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Cloud",
+            "Linux",
+            "TCP/IP",
+            "Shell",
+            "DNS"
+          ],
+          "label": "擅長工具",
+          "text": "Cloud、Linux、TCP/IP、Shell、DNS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "CI/CD"
+          ],
+          "label": "工作技能",
+          "text": "CI/CD",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "[Required Qualifications and Skills]\n・Education background in Computer Science or equivalent majors\n・Fair verbal and written English communication skills\n・Strong hands-on experiences on the LINUX environment with the ability to navigate, manipulate and understand the kernel technology.\n・Good knowledge of TCP/IP network environment, load-balancers, DNS and other internet protocols\n・Good knowledge on change, incident and BCP/DRP technologies\n・Excellent skills to effectively communicate via phone and in writing\n・Good self management skills, must be a self initiate and able to manage work priority effectively\n・Working experience with other functions like Product, Software Development, Customer Service or Infrastructure related\n・At least one year of experience on using UNIX shell script or other programming language on UNIX based platforms",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Cloud、Linux、TCP/IP、Shell、DNS\n工作技能：CI/CD\n其他條件：[Required Qualifications and Skills]\n・Education background in Computer Science or equivalent majors\n・Fair verbal and written English communication skills\n・Strong hands-on experiences on the LINUX environment with the ability to navigate, manipulate and understand the kernel technology.\n・Good knowledge of TCP/IP network environment, load-balancers, DNS and other internet protocols\n・Good knowledge on change, incident and BCP/DRP technologies\n・Excellent skills to effectively communicate via phone and in writing\n・Good self management skills, must be a self initiate and able to manage work priority effectively\n・Working experience with other functions like Product, Software Development, Customer Service or Infrastructure related\n・At least one year of experience on using UNIX shell script or other programming language on UNIX based platforms"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8hx97",
+    "job_url": "https://www.104.com.tw/job/8hx97",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8hx97.json",
+    "raw_sha256": "7a0fda203d94b60ddbb0400576d2fd53d05f56ddac0939789c48e9c38f3ecd30",
+    "requested_url": "https://www.104.com.tw/api/jobs/8hx97"
+  }
+}

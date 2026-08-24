@@ -1,0 +1,188 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "其他資訊專業人員",
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "與客戶協同規劃解決方案，撰寫系統分析及規格文件（如：功能流程圖、Use Case、"
+        },
+        {
+          "children": [],
+          "text": "與 PG（程式設計師）溝通需求規格，釐清技術可行性與資料邏輯，降低開發階段的"
+        },
+        {
+          "children": [],
+          "text": "整合跨部門需求，能獨立追蹤、分析並解決系統與專案過程中的異常問題，提出最佳"
+        },
+        {
+          "children": [],
+          "text": "負責交付前的驗證，規劃測試個案（Test Case），並協助與引導 SIT（System"
+        },
+        {
+          "children": [],
+          "text": "具備 3 年以上 SA 實務經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備系統需求訪談、架構規劃與 SA 規格文件撰寫能力。"
+        },
+        {
+          "children": [],
+          "text": "具備關聯式資料庫（RDBMS）規劃與 SQL 語法運用能力，理解資料庫與程式運算資源的效能影響。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的 UI/UX 設計知識，能有效將使用者體驗想法轉化為流程與介面設計規格。"
+        },
+        {
+          "children": [],
+          "text": "具備軟體開發生命週期（SDLC）觀念，熟悉專案開發流程。"
+        },
+        {
+          "children": [],
+          "text": "具備前端開發基礎（如：JavaScript、Vue.js）或後端開發經驗（如：.NET Core、"
+        },
+        {
+          "children": [],
+          "text": "具備非關聯式資料庫（NoSQL）認知或實作經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備 API 設計或介接整合經驗，瞭解 JSON / RESTful API 架構。"
+        },
+        {
+          "children": [],
+          "text": "有使用 Jira、Git 或其他專案/系統協作管理工具之經驗。"
+        },
+        {
+          "children": [],
+          "text": "有使用過敏捷（Scrum / Kanban）經驗者佳。"
+        }
+      ],
+      "text": "【Responsibilities】\n1. 與客戶協同規劃解決方案，撰寫系統分析及規格文件（如：功能流程圖、Use Case、\nUI 流程、API 規格等）。\n2. 與 PG（程式設計師）溝通需求規格，釐清技術可行性與資料邏輯，降低開發階段的\n認知落差。\n3. 整合跨部門需求，能獨立追蹤、分析並解決系統與專案過程中的異常問題，提出最佳\n化替代方案。\n4. 負責交付前的驗證，規劃測試個案（Test Case），並協助與引導 SIT（System\nIntegration Test）及 UAT（User Acceptance Test）順利執行\n【必備條件】\n1. 具備 3 年以上 SA 實務經驗。\n2. 具備系統需求訪談、架構規劃與 SA 規格文件撰寫能力。\n3. 具備關聯式資料庫（RDBMS）規劃與 SQL 語法運用能力，理解資料庫與程式運算資源的效能影響。\n4. 具備良好的 UI/UX 設計知識，能有效將使用者體驗想法轉化為流程與介面設計規格。\n5. 具備軟體開發生命週期（SDLC）觀念，熟悉專案開發流程。\n【加分條件】\n1. 具備前端開發基礎（如：JavaScript、Vue.js）或後端開發經驗（如：.NET Core、\nJava 任一技術者佳）。\n2. 具備非關聯式資料庫（NoSQL）認知或實作經驗。\n3. 具備 API 設計或介接整合經驗，瞭解 JSON / RESTful API 架構。\n4. 有使用 Jira、Git 或其他專案/系統協作管理工具之經驗。\n5. 有使用過敏捷（Scrum / Kanban）經驗者佳。"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統分析設計主任工程師_業務支援系統整合_資訊處(內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號(內湖)",
+    "raw": "台北市內湖區瑞光路186號(內湖)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 14
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:57:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【Responsibilities】\n1. 與客戶協同規劃解決方案，撰寫系統分析及規格文件（如：功能流程圖、Use Case、\nUI 流程、API 規格等）。\n2. 與 PG（程式設計師）溝通需求規格，釐清技術可行性與資料邏輯，降低開發階段的\n認知落差。\n3. 整合跨部門需求，能獨立追蹤、分析並解決系統與專案過程中的異常問題，提出最佳\n化替代方案。\n4. 負責交付前的驗證，規劃測試個案（Test Case），並協助與引導 SIT（System\nIntegration Test）及 UAT（User Acceptance Test）順利執行\n【必備條件】\n1. 具備 3 年以上 SA 實務經驗。\n2. 具備系統需求訪談、架構規劃與 SA 規格文件撰寫能力。\n3. 具備關聯式資料庫（RDBMS）規劃與 SQL 語法運用能力，理解資料庫與程式運算資源的效能影響。\n4. 具備良好的 UI/UX 設計知識，能有效將使用者體驗想法轉化為流程與介面設計規格。\n5. 具備軟體開發生命週期（SDLC）觀念，熟悉專案開發流程。\n【加分條件】\n1. 具備前端開發基礎（如：JavaScript、Vue.js）或後端開發經驗（如：.NET Core、\nJava 任一技術者佳）。\n2. 具備非關聯式資料庫（NoSQL）認知或實作經驗。\n3. 具備 API 設計或介接整合經驗，瞭解 JSON / RESTful API 架構。\n4. 有使用 Jira、Git 或其他專案/系統協作管理工具之經驗。\n5. 有使用過敏捷（Scrum / Kanban）經驗者佳。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "其他資訊專業人員",
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "其他資訊專業人員、系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號(內湖)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【Responsibilities】\n1. 與客戶協同規劃解決方案，撰寫系統分析及規格文件（如：功能流程圖、Use Case、\nUI 流程、API 規格等）。\n2. 與 PG（程式設計師）溝通需求規格，釐清技術可行性與資料邏輯，降低開發階段的\n認知落差。\n3. 整合跨部門需求，能獨立追蹤、分析並解決系統與專案過程中的異常問題，提出最佳\n化替代方案。\n4. 負責交付前的驗證，規劃測試個案（Test Case），並協助與引導 SIT（System\nIntegration Test）及 UAT（User Acceptance Test）順利執行\n【必備條件】\n1. 具備 3 年以上 SA 實務經驗。\n2. 具備系統需求訪談、架構規劃與 SA 規格文件撰寫能力。\n3. 具備關聯式資料庫（RDBMS）規劃與 SQL 語法運用能力，理解資料庫與程式運算資源的效能影響。\n4. 具備良好的 UI/UX 設計知識，能有效將使用者體驗想法轉化為流程與介面設計規格。\n5. 具備軟體開發生命週期（SDLC）觀念，熟悉專案開發流程。\n【加分條件】\n1. 具備前端開發基礎（如：JavaScript、Vue.js）或後端開發經驗（如：.NET Core、\nJava 任一技術者佳）。\n2. 具備非關聯式資料庫（NoSQL）認知或實作經驗。\n3. 具備 API 設計或介接整合經驗，瞭解 JSON / RESTful API 架構。\n4. 有使用 Jira、Git 或其他專案/系統協作管理工具之經驗。\n5. 有使用過敏捷（Scrum / Kanban）經驗者佳。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94uf9",
+    "job_url": "https://www.104.com.tw/job/94uf9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94uf9.json",
+    "raw_sha256": "1e95edccabb949855c752e48321e637b52ac6e458cb18fe93bda0b2ff7611b78",
+    "requested_url": "https://www.104.com.tw/api/jobs/94uf9"
+  }
+}

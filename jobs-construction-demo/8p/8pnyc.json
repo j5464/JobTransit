@@ -1,0 +1,206 @@
+{
+  "company": {
+    "id": "5z4kla0",
+    "name": "鴻佰科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料工程師",
+      "後端工程師",
+      "數據分析師／資料分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "ETL的數據接入、清洗與匯入"
+        },
+        {
+          "children": [],
+          "text": "數據倉庫的建模與標準化"
+        },
+        {
+          "children": [],
+          "text": "後端API對接"
+        },
+        {
+          "children": [],
+          "text": "系統自動化代碼持續整合/持續部署"
+        },
+        {
+          "children": [],
+          "text": "系統效能調校/監控"
+        },
+        {
+          "children": [],
+          "text": "支援IT專案任務及主管交辦事項。"
+        }
+      ],
+      "text": "1.ETL的數據接入、清洗與匯入\n2.數據倉庫的建模與標準化\n3.後端API對接\n4.系統自動化代碼持續整合/持續部署\n5.系統效能調校/監控\n6.支援IT專案任務及主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "IT-Data Engineer數據工程師(後端開發)_新北土城"
+  },
+  "location": {
+    "address_raw": "新北市土城區",
+    "raw": "新北市土城區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.資訊工程、資訊管理或其他相關科系\n2.三年以上數據工程相關經驗，如數據倉儲及ETL流程設計開發與維護\n3.實做過Hadoop、Hive、SQL、Python、Kafka、Spark等技能\n4.熟悉前後端分離WEB應用，並掌握RESTful API架構\n5.實做過大數據平台上的即時(realtime)或批次(batch)數據處理\n6.良好溝通技巧及數據專案開發經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.資訊工程、資訊管理或其他相關科系\n2.三年以上數據工程相關經驗，如數據倉儲及ETL流程設計開發與維護\n3.實做過Hadoop、Hive、SQL、Python、Kafka、Spark等技能\n4.熟悉前後端分離WEB應用，並掌握RESTful API架構\n5.實做過大數據平台上的即時(realtime)或批次(batch)數據處理\n6.良好溝通技巧及數據專案開發經驗",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1.資訊工程、資訊管理或其他相關科系\n2.三年以上數據工程相關經驗，如數據倉儲及ETL流程設計開發與維護\n3.實做過Hadoop、Hive、SQL、Python、Kafka、Spark等技能\n4.熟悉前後端分離WEB應用，並掌握RESTful API架構\n5.實做過大數據平台上的即時(realtime)或批次(batch)數據處理\n6.良好溝通技巧及數據專案開發經驗",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 96
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:18:49+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.ETL的數據接入、清洗與匯入\n2.數據倉庫的建模與標準化\n3.後端API對接\n4.系統自動化代碼持續整合/持續部署\n5.系統效能調校/監控\n6.支援IT專案任務及主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料工程師",
+            "後端工程師",
+            "數據分析師／資料分析師"
+          ],
+          "label": "職務類別",
+          "text": "資料工程師、後端工程師、數據分析師／資料分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市土城區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.ETL的數據接入、清洗與匯入\n2.數據倉庫的建模與標準化\n3.後端API對接\n4.系統自動化代碼持續整合/持續部署\n5.系統效能調校/監控\n6.支援IT專案任務及主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.資訊工程、資訊管理或其他相關科系\n2.三年以上數據工程相關經驗，如數據倉儲及ETL流程設計開發與維護\n3.實做過Hadoop、Hive、SQL、Python、Kafka、Spark等技能\n4.熟悉前後端分離WEB應用，並掌握RESTful API架構\n5.實做過大數據平台上的即時(realtime)或批次(batch)數據處理\n6.良好溝通技巧及數據專案開發經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1.資訊工程、資訊管理或其他相關科系\n2.三年以上數據工程相關經驗，如數據倉儲及ETL流程設計開發與維護\n3.實做過Hadoop、Hive、SQL、Python、Kafka、Spark等技能\n4.熟悉前後端分離WEB應用，並掌握RESTful API架構\n5.實做過大數據平台上的即時(realtime)或批次(batch)數據處理\n6.良好溝通技巧及數據專案開發經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8pnyc",
+    "job_url": "https://www.104.com.tw/job/8pnyc",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8pnyc.json",
+    "raw_sha256": "91dbbec9c8b90ab6fc132d736d8a42ba66dafee2aa28a93ba0117cc228021d95",
+    "requested_url": "https://www.104.com.tw/api/jobs/8pnyc"
+  }
+}

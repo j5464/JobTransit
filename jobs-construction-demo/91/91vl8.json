@@ -1,0 +1,208 @@
+{
+  "company": {
+    "id": "d2ebcoo",
+    "name": "三貝德數位文創股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責公司自有 App 產品的功能開發與維護，涵蓋 iOS 及 Android 雙平台"
+        },
+        {
+          "children": [],
+          "text": "與設計團隊協作，將 Figma 設計稿轉化為高品質的使用者介面"
+        },
+        {
+          "children": [],
+          "text": "串接後端 API、整合 Firebase 服務"
+        },
+        {
+          "children": [],
+          "text": "善用 AI 開發工具輔助程式撰寫、除錯與程式碼審查，提升開發效率"
+        },
+        {
+          "children": [],
+          "text": "參與技術需求討論、功能規劃與程式碼審查（Code Review）"
+        },
+        {
+          "children": [],
+          "text": "追蹤並修復 Bug，持續優化 App 效能與使用者體驗"
+        },
+        {
+          "children": [],
+          "text": "2 年以上 Flutter 實務開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Dart 3 語法與非同步處理（Future / Stream / async-await）"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Riverpod（或同等狀態管理：Bloc / Provider）"
+        },
+        {
+          "children": [],
+          "text": "熟悉 go_router 或同等路由方案"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Dio / Retrofit 與 RESTful API 串接"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 流程，能撰寫清晰的 commit message 並參與 Code Review"
+        },
+        {
+          "children": [],
+          "text": "具備依 Figma 設計稿實作 UI 的能力與 sense"
+        },
+        {
+          "children": [],
+          "text": "良好的溝通能力與團隊合作意願"
+        },
+        {
+          "children": [],
+          "text": "曾參與自有產品從零到上線的開發過程"
+        },
+        {
+          "children": [],
+          "text": "具備原生開發（Swift / Kotlin）基礎者尤佳"
+        },
+        {
+          "children": [],
+          "text": "有教育產品、內容型 App 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "有處理 PDF / EPUB / WebView / 影音播放 / 錄音 任一類功能的實作經驗"
+        },
+        {
+          "children": [],
+          "text": "有實際使用 AI 輔助開發工具的習慣，能將 AI 整合進日常開發流程"
+        }
+      ],
+      "text": "【工作內容】\n1. 負責公司自有 App 產品的功能開發與維護，涵蓋 iOS 及 Android 雙平台\n2. 與設計團隊協作，將 Figma 設計稿轉化為高品質的使用者介面\n3. 串接後端 API、整合 Firebase 服務\n4. 善用 AI 開發工具輔助程式撰寫、除錯與程式碼審查，提升開發效率\n5. 參與技術需求討論、功能規劃與程式碼審查（Code Review）\n6. 追蹤並修復 Bug，持續優化 App 效能與使用者體驗\n【必備條件】\n•2 年以上 Flutter 實務開發經驗\n•熟悉 Dart 3 語法與非同步處理（Future / Stream / async-await）\n•熟悉 Riverpod（或同等狀態管理：Bloc / Provider）\n•熟悉 go_router 或同等路由方案\n•熟悉 Dio / Retrofit 與 RESTful API 串接\n•熟悉 Git 流程，能撰寫清晰的 commit message 並參與 Code Review\n•具備依 Figma 設計稿實作 UI 的能力與 sense\n•良好的溝通能力與團隊合作意願\n【加分條件】\n• 曾參與自有產品從零到上線的開發過程\n• 具備原生開發（Swift / Kotlin）基礎者尤佳\n• 有教育產品、內容型 App 開發經驗\n• 有處理 PDF / EPUB / WebView / 影音播放 / 錄音 任一類功能的實作經驗\n• 有實際使用 AI 輔助開發工具的習慣，能將 AI 整合進日常開發流程"
+    },
+    "employment_type_raw": "全職",
+    "title": "Flutter 工程師"
+  },
+  "location": {
+    "address_raw": "新北市三重區重新路5段609巷2號5樓",
+    "raw": "新北市三重區重新路5段609巷2號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 55
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:38:42+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 負責公司自有 App 產品的功能開發與維護，涵蓋 iOS 及 Android 雙平台\n2. 與設計團隊協作，將 Figma 設計稿轉化為高品質的使用者介面\n3. 串接後端 API、整合 Firebase 服務\n4. 善用 AI 開發工具輔助程式撰寫、除錯與程式碼審查，提升開發效率\n5. 參與技術需求討論、功能規劃與程式碼審查（Code Review）\n6. 追蹤並修復 Bug，持續優化 App 效能與使用者體驗\n【必備條件】\n•2 年以上 Flutter 實務開發經驗\n•熟悉 Dart 3 語法與非同步處理（Future / Stream / async-await）\n•熟悉 Riverpod（或同等狀態管理：Bloc / Provider）\n•熟悉 go_router 或同等路由方案\n•熟悉 Dio / Retrofit 與 RESTful API 串接\n•熟悉 Git 流程，能撰寫清晰的 commit message 並參與 Code Review\n•具備依 Figma 設計稿實作 UI 的能力與 sense\n•良好的溝通能力與團隊合作意願\n【加分條件】\n• 曾參與自有產品從零到上線的開發過程\n• 具備原生開發（Swift / Kotlin）基礎者尤佳\n• 有教育產品、內容型 App 開發經驗\n• 有處理 PDF / EPUB / WebView / 影音播放 / 錄音 任一類功能的實作經驗\n• 有實際使用 AI 輔助開發工具的習慣，能將 AI 整合進日常開發流程",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市三重區重新路5段609巷2號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 負責公司自有 App 產品的功能開發與維護，涵蓋 iOS 及 Android 雙平台\n2. 與設計團隊協作，將 Figma 設計稿轉化為高品質的使用者介面\n3. 串接後端 API、整合 Firebase 服務\n4. 善用 AI 開發工具輔助程式撰寫、除錯與程式碼審查，提升開發效率\n5. 參與技術需求討論、功能規劃與程式碼審查（Code Review）\n6. 追蹤並修復 Bug，持續優化 App 效能與使用者體驗\n【必備條件】\n•2 年以上 Flutter 實務開發經驗\n•熟悉 Dart 3 語法與非同步處理（Future / Stream / async-await）\n•熟悉 Riverpod（或同等狀態管理：Bloc / Provider）\n•熟悉 go_router 或同等路由方案\n•熟悉 Dio / Retrofit 與 RESTful API 串接\n•熟悉 Git 流程，能撰寫清晰的 commit message 並參與 Code Review\n•具備依 Figma 設計稿實作 UI 的能力與 sense\n•良好的溝通能力與團隊合作意願\n【加分條件】\n• 曾參與自有產品從零到上線的開發過程\n• 具備原生開發（Swift / Kotlin）基礎者尤佳\n• 有教育產品、內容型 App 開發經驗\n• 有處理 PDF / EPUB / WebView / 影音播放 / 錄音 任一類功能的實作經驗\n• 有實際使用 AI 輔助開發工具的習慣，能將 AI 整合進日常開發流程"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91vl8",
+    "job_url": "https://www.104.com.tw/job/91vl8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91vl8.json",
+    "raw_sha256": "d90bcf2d9bcce0d2f599cb9d8955e7505b5caf2e975be762fd51b0a22f26755e",
+    "requested_url": "https://www.104.com.tw/api/jobs/91vl8"
+  }
+}

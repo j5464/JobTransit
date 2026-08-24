@@ -1,0 +1,215 @@
+{
+  "company": {
+    "id": "151r11cw",
+    "name": "安益隆展業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "CAD／CAM工程師",
+      "軟體助理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責軟體之分析、設計以及程式撰寫。"
+        },
+        {
+          "children": [],
+          "text": "規劃執行軟體架構及模組之設計，並控管軟體設計進度。"
+        },
+        {
+          "children": [],
+          "text": "進行軟體之測試與修改。"
+        },
+        {
+          "children": [],
+          "text": "規劃、執行與維護量產的產品。"
+        },
+        {
+          "children": [],
+          "text": "協助研發軟體新技術與新工具。"
+        },
+        {
+          "children": [],
+          "text": "管控軟體開發成本。"
+        }
+      ],
+      "text": "1. 負責軟體之分析、設計以及程式撰寫。\n2. 規劃執行軟體架構及模組之設計，並控管軟體設計進度。\n3. 進行軟體之測試與修改。\n4. 規劃、執行與維護量產的產品。\n5. 協助研發軟體新技術與新工具。\n6. 管控軟體開發成本。"
+    },
+    "employment_type_raw": "全職",
+    "title": "程式設計工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣竹東鎮中興路一段147巷129號",
+    "raw": "新竹縣竹東鎮中興路一段147巷129號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中、專科、大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中、專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "機械工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、機械工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "C#"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "機械工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：高中、專科、大學、碩士\n科系要求：資訊工程相關、機械工程相關、電機電子工程相關\n擅長工具：C#\n工作技能：軟體程式設計",
+    "tools": [
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 48
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:20:45+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責軟體之分析、設計以及程式撰寫。\n2. 規劃執行軟體架構及模組之設計，並控管軟體設計進度。\n3. 進行軟體之測試與修改。\n4. 規劃、執行與維護量產的產品。\n5. 協助研發軟體新技術與新工具。\n6. 管控軟體開發成本。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "CAD／CAM工程師",
+            "軟體助理工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、CAD／CAM工程師、軟體助理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹東鎮中興路一段147巷129號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責軟體之分析、設計以及程式撰寫。\n2. 規劃執行軟體架構及模組之設計，並控管軟體設計進度。\n3. 進行軟體之測試與修改。\n4. 規劃、執行與維護量產的產品。\n5. 協助研發軟體新技術與新工具。\n6. 管控軟體開發成本。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中、專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "機械工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、機械工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "C#",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：高中、專科、大學、碩士\n科系要求：資訊工程相關、機械工程相關、電機電子工程相關\n擅長工具：C#\n工作技能：軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8tr39",
+    "job_url": "https://www.104.com.tw/job/8tr39",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8tr39.json",
+    "raw_sha256": "acea539e9072c0b6d0de66b75f74467aa8f51d19e047983e20a19fcaf8b09a86",
+    "requested_url": "https://www.104.com.tw/api/jobs/8tr39"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "company": {
+    "id": "1a2x6blpnf",
+    "name": "至高頻科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "行政助理",
+      "資訊助理",
+      "行政人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責一般文書資料處理及歸檔工作。"
+        },
+        {
+          "children": [],
+          "text": "依操作流程執行公司業務。"
+        },
+        {
+          "children": [],
+          "text": "協助處理庶務性行政工作（如：事務機器叫修維護、實驗室維護）。"
+        },
+        {
+          "children": [],
+          "text": "主管交辦工作"
+        }
+      ],
+      "text": "1.負責一般文書資料處理及歸檔工作。\n2.依操作流程執行公司業務。\n3.協助處理庶務性行政工作（如：事務機器叫修維護、實驗室維護）。\n4.主管交辦工作"
+    },
+    "employment_type_raw": "全職",
+    "title": "行政助理(應屆畢業)"
+  },
+  "location": {
+    "address_raw": "新竹市東區慈雲路118號4樓之5",
+    "raw": "新竹市東區慈雲路118號4樓之5"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "細心、負責，無經驗可\n歡迎二度就業、無經驗轉職\n有駕照佳"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "細心、負責，無經驗可\n歡迎二度就業、無經驗轉職\n有駕照佳",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n其他條件：細心、負責，無經驗可\n歡迎二度就業、無經驗轉職\n有駕照佳",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 23
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:18:49+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責一般文書資料處理及歸檔工作。\n2.依操作流程執行公司業務。\n3.協助處理庶務性行政工作（如：事務機器叫修維護、實驗室維護）。\n4.主管交辦工作",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "行政助理",
+            "資訊助理",
+            "行政人員"
+          ],
+          "label": "職務類別",
+          "text": "行政助理、資訊助理、行政人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東區慈雲路118號4樓之5",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責一般文書資料處理及歸檔工作。\n2.依操作流程執行公司業務。\n3.協助處理庶務性行政工作（如：事務機器叫修維護、實驗室維護）。\n4.主管交辦工作"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "細心、負責，無經驗可\n歡迎二度就業、無經驗轉職\n有駕照佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n其他條件：細心、負責，無經驗可\n歡迎二度就業、無經驗轉職\n有駕照佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93uhr",
+    "job_url": "https://www.104.com.tw/job/93uhr",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93uhr.json",
+    "raw_sha256": "3fbe71292adf881059fa3a35e9c6c22eee82c6ec4f77122dfae31388f8418fe7",
+    "requested_url": "https://www.104.com.tw/api/jobs/93uhr"
+  }
+}

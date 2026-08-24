@@ -1,0 +1,198 @@
+{
+  "company": {
+    "id": "1uf0wio",
+    "name": "KPMG_安侯建業聯合會計師事務所"
+  },
+  "job": {
+    "categories": [
+      "顧問",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助客戶規劃產業AI策略與發展藍圖"
+        },
+        {
+          "children": [],
+          "text": "輔導客戶執行AI落地應用"
+        },
+        {
+          "children": [],
+          "text": "提供客戶AI治理及風險管理機制專業諮詢"
+        }
+      ],
+      "text": "1. 協助客戶規劃產業AI策略與發展藍圖\n2. 輔導客戶執行AI落地應用\n3. 提供客戶AI治理及風險管理機制專業諮詢"
+    },
+    "employment_type_raw": "全職",
+    "title": "【顧問部】人工智慧策略與治理顧問(靈活工作地點)-319319"
+  },
+  "location": {
+    "address_raw": "台北市信義區信義路五段七號68樓",
+    "raw": "台北市信義區信義路五段七號68樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Outlook、PowerPoint、Word"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "必要條件(具以下經驗2項或以上)：\n1.具備 Python、Java等相關程式語言開發經驗1年以上，並能處理大量數據進行資料探勘、建模\n2.具備機器學習、深度學習等應用相關研究或程式開發經驗1年以上\n3.具大型資訊系統導入或企業數位轉型經驗1年以上\n4.具備科技法律基礎知識，如隱私保護、智財權、資安等法規實務經驗1年以上\n5.熟悉多種生成式人工智慧工具，並具備商業應用情境實務經驗1年以上\n6.具備資訊風險評估、模型評估與驗證等實務經驗1年以上\n[具下列任一條件尤佳]\n1.熟悉機器學習套件 (如scikit-learn) 以及任一深度學習平台 (TensorFlow、CoreML、PyTorch、Keras…..etc)，能實作SOTA模型者佳\n2.熟悉深度神經網路的常用模型（CNN、RCNN、VGGNet、ResNet、GCN、GAN、GNN等）\n3.熟悉Spark，並有在Spark框架建立ML pipeline的經驗\n4.有帶領團隊或參與執行資料科學應用/產品/技術研發正式專案的成功經驗\n5.熟悉專案/產品的技術評估和開發流程，包含但不限於推薦系統 (Recommender Systems)、異常偵測 (Anomaly Detection)、電腦視覺 (Computer Vision)、自然語言處理 (NLP) 、圖網路 (Graph Networks)、生成對抗網絡（GAN）、強化學習（RL）、知識圖譜（Knowledge Graph）、以及Transformer-based的大型語言模型如GPT等\n6.擁有資料科學專案、或資料競賽 (Kaggle、KDD Cup、Codalab, etc) 的經驗\n7.具備多GPU和多機器的平行和分散式訓練經驗\n8.具備人工智慧於資訊安全或隱私保護應用經驗\n9.曾發表機器學習或人工智慧相關論文\n工作地點：台北市/Work from Anywhere"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "必要條件(具以下經驗2項或以上)：\n1.具備 Python、Java等相關程式語言開發經驗1年以上，並能處理大量數據進行資料探勘、建模\n2.具備機器學習、深度學習等應用相關研究或程式開發經驗1年以上\n3.具大型資訊系統導入或企業數位轉型經驗1年以上\n4.具備科技法律基礎知識，如隱私保護、智財權、資安等法規實務經驗1年以上\n5.熟悉多種生成式人工智慧工具，並具備商業應用情境實務經驗1年以上\n6.具備資訊風險評估、模型評估與驗證等實務經驗1年以上\n[具下列任一條件尤佳]\n1.熟悉機器學習套件 (如scikit-learn) 以及任一深度學習平台 (TensorFlow、CoreML、PyTorch、Keras…..etc)，能實作SOTA模型者佳\n2.熟悉深度神經網路的常用模型（CNN、RCNN、VGGNet、ResNet、GCN、GAN、GNN等）\n3.熟悉Spark，並有在Spark框架建立ML pipeline的經驗\n4.有帶領團隊或參與執行資料科學應用/產品/技術研發正式專案的成功經驗\n5.熟悉專案/產品的技術評估和開發流程，包含但不限於推薦系統 (Recommender Systems)、異常偵測 (Anomaly Detection)、電腦視覺 (Computer Vision)、自然語言處理 (NLP) 、圖網路 (Graph Networks)、生成對抗網絡（GAN）、強化學習（RL）、知識圖譜（Knowledge Graph）、以及Transformer-based的大型語言模型如GPT等\n6.擁有資料科學專案、或資料競賽 (Kaggle、KDD Cup、Codalab, etc) 的經驗\n7.具備多GPU和多機器的平行和分散式訓練經驗\n8.具備人工智慧於資訊安全或隱私保護應用經驗\n9.曾發表機器學習或人工智慧相關論文\n工作地點：台北市/Work from Anywhere",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word\n其他條件：必要條件(具以下經驗2項或以上)：\n1.具備 Python、Java等相關程式語言開發經驗1年以上，並能處理大量數據進行資料探勘、建模\n2.具備機器學習、深度學習等應用相關研究或程式開發經驗1年以上\n3.具大型資訊系統導入或企業數位轉型經驗1年以上\n4.具備科技法律基礎知識，如隱私保護、智財權、資安等法規實務經驗1年以上\n5.熟悉多種生成式人工智慧工具，並具備商業應用情境實務經驗1年以上\n6.具備資訊風險評估、模型評估與驗證等實務經驗1年以上\n[具下列任一條件尤佳]\n1.熟悉機器學習套件 (如scikit-learn) 以及任一深度學習平台 (TensorFlow、CoreML、PyTorch、Keras…..etc)，能實作SOTA模型者佳\n2.熟悉深度神經網路的常用模型（CNN、RCNN、VGGNet、ResNet、GCN、GAN、GNN等）\n3.熟悉Spark，並有在Spark框架建立ML pipeline的經驗\n4.有帶領團隊或參與執行資料科學應用/產品/技術研發正式專案的成功經驗\n5.熟悉專案/產品的技術評估和開發流程，包含但不限於推薦系統 (Recommender Systems)、異常偵測 (Anomaly Detection)、電腦視覺 (Computer Vision)、自然語言處理 (NLP) 、圖網路 (Graph Networks)、生成對抗網絡（GAN）、強化學習（RL）、知識圖譜（Knowledge Graph）、以及Transformer-based的大型語言模型如GPT等\n6.擁有資料科學專案、或資料競賽 (Kaggle、KDD Cup、Codalab, etc) 的經驗\n7.具備多GPU和多機器的平行和分散式訓練經驗\n8.具備人工智慧於資訊安全或隱私保護應用經驗\n9.曾發表機器學習或人工智慧相關論文\n工作地點：台北市/Work from Anywhere",
+    "tools": [
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 51
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:27:55+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 協助客戶規劃產業AI策略與發展藍圖\n2. 輔導客戶執行AI落地應用\n3. 提供客戶AI治理及風險管理機制專業諮詢",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "顧問",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "顧問、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區信義路五段七號68樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 協助客戶規劃產業AI策略與發展藍圖\n2. 輔導客戶執行AI落地應用\n3. 提供客戶AI治理及風險管理機制專業諮詢"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Outlook、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "必要條件(具以下經驗2項或以上)：\n1.具備 Python、Java等相關程式語言開發經驗1年以上，並能處理大量數據進行資料探勘、建模\n2.具備機器學習、深度學習等應用相關研究或程式開發經驗1年以上\n3.具大型資訊系統導入或企業數位轉型經驗1年以上\n4.具備科技法律基礎知識，如隱私保護、智財權、資安等法規實務經驗1年以上\n5.熟悉多種生成式人工智慧工具，並具備商業應用情境實務經驗1年以上\n6.具備資訊風險評估、模型評估與驗證等實務經驗1年以上\n[具下列任一條件尤佳]\n1.熟悉機器學習套件 (如scikit-learn) 以及任一深度學習平台 (TensorFlow、CoreML、PyTorch、Keras…..etc)，能實作SOTA模型者佳\n2.熟悉深度神經網路的常用模型（CNN、RCNN、VGGNet、ResNet、GCN、GAN、GNN等）\n3.熟悉Spark，並有在Spark框架建立ML pipeline的經驗\n4.有帶領團隊或參與執行資料科學應用/產品/技術研發正式專案的成功經驗\n5.熟悉專案/產品的技術評估和開發流程，包含但不限於推薦系統 (Recommender Systems)、異常偵測 (Anomaly Detection)、電腦視覺 (Computer Vision)、自然語言處理 (NLP) 、圖網路 (Graph Networks)、生成對抗網絡（GAN）、強化學習（RL）、知識圖譜（Knowledge Graph）、以及Transformer-based的大型語言模型如GPT等\n6.擁有資料科學專案、或資料競賽 (Kaggle、KDD Cup、Codalab, etc) 的經驗\n7.具備多GPU和多機器的平行和分散式訓練經驗\n8.具備人工智慧於資訊安全或隱私保護應用經驗\n9.曾發表機器學習或人工智慧相關論文\n工作地點：台北市/Work from Anywhere",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word\n其他條件：必要條件(具以下經驗2項或以上)：\n1.具備 Python、Java等相關程式語言開發經驗1年以上，並能處理大量數據進行資料探勘、建模\n2.具備機器學習、深度學習等應用相關研究或程式開發經驗1年以上\n3.具大型資訊系統導入或企業數位轉型經驗1年以上\n4.具備科技法律基礎知識，如隱私保護、智財權、資安等法規實務經驗1年以上\n5.熟悉多種生成式人工智慧工具，並具備商業應用情境實務經驗1年以上\n6.具備資訊風險評估、模型評估與驗證等實務經驗1年以上\n[具下列任一條件尤佳]\n1.熟悉機器學習套件 (如scikit-learn) 以及任一深度學習平台 (TensorFlow、CoreML、PyTorch、Keras…..etc)，能實作SOTA模型者佳\n2.熟悉深度神經網路的常用模型（CNN、RCNN、VGGNet、ResNet、GCN、GAN、GNN等）\n3.熟悉Spark，並有在Spark框架建立ML pipeline的經驗\n4.有帶領團隊或參與執行資料科學應用/產品/技術研發正式專案的成功經驗\n5.熟悉專案/產品的技術評估和開發流程，包含但不限於推薦系統 (Recommender Systems)、異常偵測 (Anomaly Detection)、電腦視覺 (Computer Vision)、自然語言處理 (NLP) 、圖網路 (Graph Networks)、生成對抗網絡（GAN）、強化學習（RL）、知識圖譜（Knowledge Graph）、以及Transformer-based的大型語言模型如GPT等\n6.擁有資料科學專案、或資料競賽 (Kaggle、KDD Cup、Codalab, etc) 的經驗\n7.具備多GPU和多機器的平行和分散式訓練經驗\n8.具備人工智慧於資訊安全或隱私保護應用經驗\n9.曾發表機器學習或人工智慧相關論文\n工作地點：台北市/Work from Anywhere"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "808my",
+    "job_url": "https://www.104.com.tw/job/808my",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/808my.json",
+    "raw_sha256": "3cfd60c208ecad48df1a0ddb90f17266b3a5724a89bee636f0cead642c7727f5",
+    "requested_url": "https://www.104.com.tw/api/jobs/808my"
+  }
+}

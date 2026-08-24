@@ -1,0 +1,218 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "資安工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI 與資安技術整合"
+        },
+        {
+          "children": [],
+          "text": "AI Security 產品設計"
+        },
+        {
+          "children": [],
+          "text": "Security Architecture 規劃"
+        },
+        {
+          "children": [],
+          "text": "AI Agent 與 Security Workflow 研究"
+        },
+        {
+          "children": [],
+          "text": "參與 AI 與 Cybersecurity 結合產品之技術架構設計與規劃"
+        },
+        {
+          "children": [],
+          "text": "研究 AI 在資安領域之應用方向（如 SOC Automation、AI Agent Security、Threat Detection、Log Analysis、Security Copilot 等）"
+        },
+        {
+          "children": [],
+          "text": "協助設計 AI-driven Security Workflow 與自動化防禦架構"
+        },
+        {
+          "children": [],
+          "text": "研究與評估各類資安技術與產品（SIEM、EDR、WAF、ZTNA、IAM、SASE 等）並思考 AI 整合方向"
+        },
+        {
+          "children": [],
+          "text": "與 AI、Infra、RD 團隊合作，規劃 AI Security 相關系統架構與產品功能"
+        },
+        {
+          "children": [],
+          "text": "協助建立 AI Security Platform、Security Agent 或 Security Copilot 相關技術方向"
+        },
+        {
+          "children": [],
+          "text": "分析國際最新 AI Security 與 Cybersecurity 技術趨勢、攻擊手法與市場方向"
+        },
+        {
+          "children": [],
+          "text": "協助產品團隊定義 AI 資安產品之技術規格與架構藍圖"
+        },
+        {
+          "children": [],
+          "text": "協助評估 LLM Security、AI Agent Security、Prompt Injection、AI Red Teaming 等新興議題"
+        }
+      ],
+      "text": "職務說明：\n本職位將負責結合 AI 與資安技術，協助公司規劃與開發新世代 AI Security 相關產品與解決方案。我們希望找到一位具備資安架構背景、同時對 AI 技術具高度興趣的資深架構師，能夠從資安專業角度出發，參與 AI 與 Cybersecurity 結合產品的設計、研究與技術規劃。\n本職位重點在於：\n* AI 與資安技術整合\n* AI Security 產品設計\n* Security Architecture 規劃\n* AI Agent 與 Security Workflow 研究\n不以企業內部 MIS 維運、SOC 值班、ISO 文件管理或日常 IT 管理為主要工作內容。\n⸻\n工作內容：\n* 參與 AI 與 Cybersecurity 結合產品之技術架構設計與規劃\n* 研究 AI 在資安領域之應用方向（如 SOC Automation、AI Agent Security、Threat Detection、Log Analysis、Security Copilot 等）\n* 協助設計 AI-driven Security Workflow 與自動化防禦架構\n* 研究與評估各類資安技術與產品（SIEM、EDR、WAF、ZTNA、IAM、SASE 等）並思考 AI 整合方向\n* 與 AI、Infra、RD 團隊合作，規劃 AI Security 相關系統架構與產品功能\n* 協助建立 AI Security Platform、Security Agent 或 Security Copilot 相關技術方向\n* 分析國際最新 AI Security 與 Cybersecurity 技術趨勢、攻擊手法與市場方向\n* 協助產品團隊定義 AI 資安產品之技術規格與架構藍圖\n* 協助評估 LLM Security、AI Agent Security、Prompt Injection、AI Red Teaming 等新興議題"
+    },
+    "employment_type_raw": "全職",
+    "title": "資深資安架構師/Senior Security Architect"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "8年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "8年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "必備條件：\n* 熟悉企業資安架構與常見防護技術\n* 熟悉 SIEM、EDR、WAF、ZTNA、IAM、SASE 等常見資安解決方案\n* 熟悉 Network、Endpoint、IAM、Cloud Security 等相關領域\n* 具備 Security Architecture 與 Threat Modeling 基礎能力\n* 對 AI、LLM、AI Agent 或 AI Automation 領域具高度興趣\n* 具備良好的跨部門溝通與技術協調能力\n* 具備 8 年以上資訊安全相關工作經驗\n⸻\n加分條件：\n* 具備 AI Security、LLM Security 或 AI Agent Security 經驗\n* 具備 SOC、Threat Hunting、Incident Response、Red Team 或 Blue Team 經驗\n* 熟悉 DevSecOps、Cloud Security 或 Kubernetes Security\n* 具備 AI Workflow、Agent Framework 或 Security Automation 經驗\n* 持有 CISSP、CISM、Security+ 等相關資安認證\n* 具備大型企業、Cloud Platform 或 AI Infrastructure 相關經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "必備條件：\n* 熟悉企業資安架構與常見防護技術\n* 熟悉 SIEM、EDR、WAF、ZTNA、IAM、SASE 等常見資安解決方案\n* 熟悉 Network、Endpoint、IAM、Cloud Security 等相關領域\n* 具備 Security Architecture 與 Threat Modeling 基礎能力\n* 對 AI、LLM、AI Agent 或 AI Automation 領域具高度興趣\n* 具備良好的跨部門溝通與技術協調能力\n* 具備 8 年以上資訊安全相關工作經驗\n⸻\n加分條件：\n* 具備 AI Security、LLM Security 或 AI Agent Security 經驗\n* 具備 SOC、Threat Hunting、Incident Response、Red Team 或 Blue Team 經驗\n* 熟悉 DevSecOps、Cloud Security 或 Kubernetes Security\n* 具備 AI Workflow、Agent Framework 或 Security Automation 經驗\n* 持有 CISSP、CISM、Security+ 等相關資安認證\n* 具備大型企業、Cloud Platform 或 AI Infrastructure 相關經驗",
+    "skills": [],
+    "text": "工作經歷：8年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n其他條件：必備條件：\n* 熟悉企業資安架構與常見防護技術\n* 熟悉 SIEM、EDR、WAF、ZTNA、IAM、SASE 等常見資安解決方案\n* 熟悉 Network、Endpoint、IAM、Cloud Security 等相關領域\n* 具備 Security Architecture 與 Threat Modeling 基礎能力\n* 對 AI、LLM、AI Agent 或 AI Automation 領域具高度興趣\n* 具備良好的跨部門溝通與技術協調能力\n* 具備 8 年以上資訊安全相關工作經驗\n⸻\n加分條件：\n* 具備 AI Security、LLM Security 或 AI Agent Security 經驗\n* 具備 SOC、Threat Hunting、Incident Response、Red Team 或 Blue Team 經驗\n* 熟悉 DevSecOps、Cloud Security 或 Kubernetes Security\n* 具備 AI Workflow、Agent Framework 或 Security Automation 經驗\n* 持有 CISSP、CISM、Security+ 等相關資安認證\n* 具備大型企業、Cloud Platform 或 AI Infrastructure 相關經驗",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 51
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:26:45+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "職務說明：\n本職位將負責結合 AI 與資安技術，協助公司規劃與開發新世代 AI Security 相關產品與解決方案。我們希望找到一位具備資安架構背景、同時對 AI 技術具高度興趣的資深架構師，能夠從資安專業角度出發，參與 AI 與 Cybersecurity 結合產品的設計、研究與技術規劃。\n本職位重點在於：\n* AI 與資安技術整合\n* AI Security 產品設計\n* Security Architecture 規劃\n* AI Agent 與 Security Workflow 研究\n不以企業內部 MIS 維運、SOC 值班、ISO 文件管理或日常 IT 管理為主要工作內容。\n⸻\n工作內容：\n* 參與 AI 與 Cybersecurity 結合產品之技術架構設計與規劃\n* 研究 AI 在資安領域之應用方向（如 SOC Automation、AI Agent Security、Threat Detection、Log Analysis、Security Copilot 等）\n* 協助設計 AI-driven Security Workflow 與自動化防禦架構\n* 研究與評估各類資安技術與產品（SIEM、EDR、WAF、ZTNA、IAM、SASE 等）並思考 AI 整合方向\n* 與 AI、Infra、RD 團隊合作，規劃 AI Security 相關系統架構與產品功能\n* 協助建立 AI Security Platform、Security Agent 或 Security Copilot 相關技術方向\n* 分析國際最新 AI Security 與 Cybersecurity 技術趨勢、攻擊手法與市場方向\n* 協助產品團隊定義 AI 資安產品之技術規格與架構藍圖\n* 協助評估 LLM Security、AI Agent Security、Prompt Injection、AI Red Teaming 等新興議題",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "資安工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、資安工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "職務說明：\n本職位將負責結合 AI 與資安技術，協助公司規劃與開發新世代 AI Security 相關產品與解決方案。我們希望找到一位具備資安架構背景、同時對 AI 技術具高度興趣的資深架構師，能夠從資安專業角度出發，參與 AI 與 Cybersecurity 結合產品的設計、研究與技術規劃。\n本職位重點在於：\n* AI 與資安技術整合\n* AI Security 產品設計\n* Security Architecture 規劃\n* AI Agent 與 Security Workflow 研究\n不以企業內部 MIS 維運、SOC 值班、ISO 文件管理或日常 IT 管理為主要工作內容。\n⸻\n工作內容：\n* 參與 AI 與 Cybersecurity 結合產品之技術架構設計與規劃\n* 研究 AI 在資安領域之應用方向（如 SOC Automation、AI Agent Security、Threat Detection、Log Analysis、Security Copilot 等）\n* 協助設計 AI-driven Security Workflow 與自動化防禦架構\n* 研究與評估各類資安技術與產品（SIEM、EDR、WAF、ZTNA、IAM、SASE 等）並思考 AI 整合方向\n* 與 AI、Infra、RD 團隊合作，規劃 AI Security 相關系統架構與產品功能\n* 協助建立 AI Security Platform、Security Agent 或 Security Copilot 相關技術方向\n* 分析國際最新 AI Security 與 Cybersecurity 技術趨勢、攻擊手法與市場方向\n* 協助產品團隊定義 AI 資安產品之技術規格與架構藍圖\n* 協助評估 LLM Security、AI Agent Security、Prompt Injection、AI Red Teaming 等新興議題"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "8年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "必備條件：\n* 熟悉企業資安架構與常見防護技術\n* 熟悉 SIEM、EDR、WAF、ZTNA、IAM、SASE 等常見資安解決方案\n* 熟悉 Network、Endpoint、IAM、Cloud Security 等相關領域\n* 具備 Security Architecture 與 Threat Modeling 基礎能力\n* 對 AI、LLM、AI Agent 或 AI Automation 領域具高度興趣\n* 具備良好的跨部門溝通與技術協調能力\n* 具備 8 年以上資訊安全相關工作經驗\n⸻\n加分條件：\n* 具備 AI Security、LLM Security 或 AI Agent Security 經驗\n* 具備 SOC、Threat Hunting、Incident Response、Red Team 或 Blue Team 經驗\n* 熟悉 DevSecOps、Cloud Security 或 Kubernetes Security\n* 具備 AI Workflow、Agent Framework 或 Security Automation 經驗\n* 持有 CISSP、CISM、Security+ 等相關資安認證\n* 具備大型企業、Cloud Platform 或 AI Infrastructure 相關經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：8年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n其他條件：必備條件：\n* 熟悉企業資安架構與常見防護技術\n* 熟悉 SIEM、EDR、WAF、ZTNA、IAM、SASE 等常見資安解決方案\n* 熟悉 Network、Endpoint、IAM、Cloud Security 等相關領域\n* 具備 Security Architecture 與 Threat Modeling 基礎能力\n* 對 AI、LLM、AI Agent 或 AI Automation 領域具高度興趣\n* 具備良好的跨部門溝通與技術協調能力\n* 具備 8 年以上資訊安全相關工作經驗\n⸻\n加分條件：\n* 具備 AI Security、LLM Security 或 AI Agent Security 經驗\n* 具備 SOC、Threat Hunting、Incident Response、Red Team 或 Blue Team 經驗\n* 熟悉 DevSecOps、Cloud Security 或 Kubernetes Security\n* 具備 AI Workflow、Agent Framework 或 Security Automation 經驗\n* 持有 CISSP、CISM、Security+ 等相關資安認證\n* 具備大型企業、Cloud Platform 或 AI Infrastructure 相關經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91k5n",
+    "job_url": "https://www.104.com.tw/job/91k5n",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91k5n.json",
+    "raw_sha256": "b28dd32d01e2ddee099a48c2ad5f7a92fcc60e0ebf1d58b22a757d470d85fda8",
+    "requested_url": "https://www.104.com.tw/api/jobs/91k5n"
+  }
+}

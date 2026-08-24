@@ -1,0 +1,191 @@
+{
+  "company": {
+    "id": "7e28f7c",
+    "name": "萬寶華企業管理顧問股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "MES工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Design, develop, and maintain software applications for Manufacturing Systems."
+        },
+        {
+          "children": [],
+          "text": "Develop web services using .NET, C#, SQL for development"
+        },
+        {
+          "children": [],
+          "text": "Collaborate with cross-functional teams to define, design, and ship new features."
+        },
+        {
+          "children": [],
+          "text": "Work on bug fixing and improving application performance."
+        },
+        {
+          "children": [],
+          "text": "Continuously discover, evaluate, and implement new technologies to maximize development efficiency."
+        }
+      ],
+      "text": "Job Description\nWe are seeking a skilled Software Engineer to join our team, focusing on the development of our Manufacturing Systems. The ideal candidate will have a strong background in software development, with a particular emphasis on the .NET framework and C# language.\nResponsibilities\n- Design, develop, and maintain software applications for Manufacturing Systems.\n- Develop web services using .NET, C#, SQL for development\n- Collaborate with cross-functional teams to define, design, and ship new features.\n- Work on bug fixing and improving application performance.\n- Continuously discover, evaluate, and implement new technologies to maximize development efficiency."
+    },
+    "employment_type_raw": "全職",
+    "title": "Software Engineer (工作地點: 台中后里) 203JL"
+  },
+  "location": {
+    "address_raw": "台中市后里區",
+    "raw": "台中市后里區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "ASP.NET"
+        ],
+        "label": "擅長工具",
+        "text": "C#、ASP.NET"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、ASP.NET",
+    "tools": [
+      "C#",
+      "ASP.NET"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 46
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:15:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Job Description\nWe are seeking a skilled Software Engineer to join our team, focusing on the development of our Manufacturing Systems. The ideal candidate will have a strong background in software development, with a particular emphasis on the .NET framework and C# language.\nResponsibilities\n- Design, develop, and maintain software applications for Manufacturing Systems.\n- Develop web services using .NET, C#, SQL for development\n- Collaborate with cross-functional teams to define, design, and ship new features.\n- Work on bug fixing and improving application performance.\n- Continuously discover, evaluate, and implement new technologies to maximize development efficiency.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "MES工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、MES工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市后里區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Job Description\nWe are seeking a skilled Software Engineer to join our team, focusing on the development of our Manufacturing Systems. The ideal candidate will have a strong background in software development, with a particular emphasis on the .NET framework and C# language.\nResponsibilities\n- Design, develop, and maintain software applications for Manufacturing Systems.\n- Develop web services using .NET, C#, SQL for development\n- Collaborate with cross-functional teams to define, design, and ship new features.\n- Work on bug fixing and improving application performance.\n- Continuously discover, evaluate, and implement new technologies to maximize development efficiency."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "ASP.NET"
+          ],
+          "label": "擅長工具",
+          "text": "C#、ASP.NET",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、ASP.NET"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94lmq",
+    "job_url": "https://www.104.com.tw/job/94lmq",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94lmq.json",
+    "raw_sha256": "ce5ca591f280cea134f7738a322c9a1ea016953e177981fe1aad8d81a27be6f2",
+    "requested_url": "https://www.104.com.tw/api/jobs/94lmq"
+  }
+}

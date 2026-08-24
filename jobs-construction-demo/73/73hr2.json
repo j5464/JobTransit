@@ -1,0 +1,193 @@
+{
+  "company": {
+    "id": "1a2x6blanp",
+    "name": "明瑞資通科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉 ASP.NET MVC 或 .NET Core C#及MS SQL。"
+        },
+        {
+          "children": [],
+          "text": "熟悉Web(JavaScript、jQuery、Ajax)應用程式撰寫實務經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的溝通能力，態度積極認真，樂於學習新技術。"
+        }
+      ],
+      "text": "※因應新型冠狀病毒(COVID-19)疫情期間，全面採取線上面談模式，明瑞與您一同守護健康!\n1. 熟悉 ASP.NET MVC 或 .NET Core C#及MS SQL。\n2. 熟悉Web(JavaScript、jQuery、Ajax)應用程式撰寫實務經驗。\n3. 具備良好的溝通能力，態度積極認真，樂於學習新技術。"
+    },
+    "employment_type_raw": "全職",
+    "title": ".NET程式設計師"
+  },
+  "location": {
+    "address_raw": "台北市中山區中山北路二段112號4樓之7",
+    "raw": "台北市中山區中山北路二段112號4樓之7"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "AJAX",
+          "ASP.NET",
+          "C#",
+          "MS SQL",
+          "JavaScript",
+          "jQuery"
+        ],
+        "label": "擅長工具",
+        "text": "AJAX、ASP.NET、C#、MS SQL、JavaScript、jQuery"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：AJAX、ASP.NET、C#、MS SQL、JavaScript、jQuery\n工作技能：軟體程式設計",
+    "tools": [
+      "AJAX",
+      "ASP.NET",
+      "C#",
+      "MS SQL",
+      "JavaScript",
+      "jQuery"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 94
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:14:35+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "※因應新型冠狀病毒(COVID-19)疫情期間，全面採取線上面談模式，明瑞與您一同守護健康!\n1. 熟悉 ASP.NET MVC 或 .NET Core C#及MS SQL。\n2. 熟悉Web(JavaScript、jQuery、Ajax)應用程式撰寫實務經驗。\n3. 具備良好的溝通能力，態度積極認真，樂於學習新技術。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區中山北路二段112號4樓之7",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "※因應新型冠狀病毒(COVID-19)疫情期間，全面採取線上面談模式，明瑞與您一同守護健康!\n1. 熟悉 ASP.NET MVC 或 .NET Core C#及MS SQL。\n2. 熟悉Web(JavaScript、jQuery、Ajax)應用程式撰寫實務經驗。\n3. 具備良好的溝通能力，態度積極認真，樂於學習新技術。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AJAX",
+            "ASP.NET",
+            "C#",
+            "MS SQL",
+            "JavaScript",
+            "jQuery"
+          ],
+          "label": "擅長工具",
+          "text": "AJAX、ASP.NET、C#、MS SQL、JavaScript、jQuery",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：AJAX、ASP.NET、C#、MS SQL、JavaScript、jQuery\n工作技能：軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "73hr2",
+    "job_url": "https://www.104.com.tw/job/73hr2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/73hr2.json",
+    "raw_sha256": "0f53ab8e90d89e4f83809af178287e19a75103ccc53c148ce7d4da78871b3659",
+    "requested_url": "https://www.104.com.tw/api/jobs/73hr2"
+  }
+}

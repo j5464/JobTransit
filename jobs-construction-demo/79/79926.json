@@ -1,0 +1,195 @@
+{
+  "company": {
+    "id": "whzylwo",
+    "name": "O-Bank_王道商業銀行股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責銀行個人金融網路銀行及行動銀行系統維運"
+        },
+        {
+          "children": [],
+          "text": "個人金融網路銀行及行動銀行需求訪談及系統開發"
+        },
+        {
+          "children": [],
+          "text": "科內上述工作輪替"
+        }
+      ],
+      "text": "1.負責銀行個人金融網路銀行及行動銀行系統維運\n2.個人金融網路銀行及行動銀行需求訪談及系統開發\n3.科內上述工作輪替"
+    },
+    "employment_type_raw": "全職",
+    "title": "科技金融_個人網路及行動銀行程式人員"
+  },
+  "location": {
+    "address_raw": "台北市內湖區陽光街300號",
+    "raw": "台北市內湖區陽光街300號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "Java",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "Java、JavaScript"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.一年以上 網銀或 APP開發經驗，熟JavaScript 、Java。\n2.熟悉 Spring Boot\n3.熟悉Git相關流程\n4.有Object-C 經驗佳\n5.有CI/CD 相關經驗佳\n6.有容器化OCP 相關經驗佳\n7.有單元測試及自動化測試經驗佳"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.一年以上 網銀或 APP開發經驗，熟JavaScript 、Java。\n2.熟悉 Spring Boot\n3.熟悉Git相關流程\n4.有Object-C 經驗佳\n5.有CI/CD 相關經驗佳\n6.有容器化OCP 相關經驗佳\n7.有單元測試及自動化測試經驗佳",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Java、JavaScript\n其他條件：1.一年以上 網銀或 APP開發經驗，熟JavaScript 、Java。\n2.熟悉 Spring Boot\n3.熟悉Git相關流程\n4.有Object-C 經驗佳\n5.有CI/CD 相關經驗佳\n6.有容器化OCP 相關經驗佳\n7.有單元測試及自動化測試經驗佳",
+    "tools": [
+      "Java",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 85
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:51:58+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責銀行個人金融網路銀行及行動銀行系統維運\n2.個人金融網路銀行及行動銀行需求訪談及系統開發\n3.科內上述工作輪替",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區陽光街300號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責銀行個人金融網路銀行及行動銀行系統維運\n2.個人金融網路銀行及行動銀行需求訪談及系統開發\n3.科內上述工作輪替"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "Java、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.一年以上 網銀或 APP開發經驗，熟JavaScript 、Java。\n2.熟悉 Spring Boot\n3.熟悉Git相關流程\n4.有Object-C 經驗佳\n5.有CI/CD 相關經驗佳\n6.有容器化OCP 相關經驗佳\n7.有單元測試及自動化測試經驗佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Java、JavaScript\n其他條件：1.一年以上 網銀或 APP開發經驗，熟JavaScript 、Java。\n2.熟悉 Spring Boot\n3.熟悉Git相關流程\n4.有Object-C 經驗佳\n5.有CI/CD 相關經驗佳\n6.有容器化OCP 相關經驗佳\n7.有單元測試及自動化測試經驗佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "79926",
+    "job_url": "https://www.104.com.tw/job/79926",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/79926.json",
+    "raw_sha256": "d052164004443177476e3b7cbc992a5d16d67962d180aa1293c8f44b9f876879",
+    "requested_url": "https://www.104.com.tw/api/jobs/79926"
+  }
+}

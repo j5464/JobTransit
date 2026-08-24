@@ -1,0 +1,222 @@
+{
+  "company": {
+    "id": "10u7ire8",
+    "name": "宸鴻光電科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "光學檢測系統評估，設計與開發"
+        },
+        {
+          "children": [],
+          "text": "影像處理演算法與檢測邏輯開發"
+        },
+        {
+          "children": [],
+          "text": "自動化控制流程開發"
+        },
+        {
+          "children": [],
+          "text": "Windows UI設計與開發"
+        },
+        {
+          "children": [],
+          "text": "新工具/技術研究與導入"
+        },
+        {
+          "children": [],
+          "text": "程式撰寫，測試，維護與Debug"
+        }
+      ],
+      "text": "1.光學檢測系統評估，設計與開發\n2.影像處理演算法與檢測邏輯開發\n3.自動化控制流程開發\n4.Windows UI設計與開發\n5.新工具/技術研究與導入\n6.程式撰寫，測試，維護與Debug"
+    },
+    "employment_type_raw": "全職",
+    "title": "AOI軟體工程師(内湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區民權東路六段13之18號",
+    "raw": "台北市內湖區民權東路六段13之18號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "其他工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、其他工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "C#"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉C# 語言，有VC#介面開發經驗佳\n2.具備AOI自動化設備相關軟體開發經驗\n3.Halcon，eVision，OpenCV函式庫應用經驗佳\n4.AI應用與導入經驗佳\n5.具敬業與團隊精神，可配合出差"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "其他工程相關"
+    ],
+    "other_text": "1.熟悉C# 語言，有VC#介面開發經驗佳\n2.具備AOI自動化設備相關軟體開發經驗\n3.Halcon，eVision，OpenCV函式庫應用經驗佳\n4.AI應用與導入經驗佳\n5.具敬業與團隊精神，可配合出差",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、其他工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#\n其他條件：1.熟悉C# 語言，有VC#介面開發經驗佳\n2.具備AOI自動化設備相關軟體開發經驗\n3.Halcon，eVision，OpenCV函式庫應用經驗佳\n4.AI應用與導入經驗佳\n5.具敬業與團隊精神，可配合出差",
+    "tools": [
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 29
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:32:36+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.光學檢測系統評估，設計與開發\n2.影像處理演算法與檢測邏輯開發\n3.自動化控制流程開發\n4.Windows UI設計與開發\n5.新工具/技術研究與導入\n6.程式撰寫，測試，維護與Debug",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區民權東路六段13之18號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.光學檢測系統評估，設計與開發\n2.影像處理演算法與檢測邏輯開發\n3.自動化控制流程開發\n4.Windows UI設計與開發\n5.新工具/技術研究與導入\n6.程式撰寫，測試，維護與Debug"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "其他工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、其他工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "C#",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉C# 語言，有VC#介面開發經驗佳\n2.具備AOI自動化設備相關軟體開發經驗\n3.Halcon，eVision，OpenCV函式庫應用經驗佳\n4.AI應用與導入經驗佳\n5.具敬業與團隊精神，可配合出差",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、其他工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#\n其他條件：1.熟悉C# 語言，有VC#介面開發經驗佳\n2.具備AOI自動化設備相關軟體開發經驗\n3.Halcon，eVision，OpenCV函式庫應用經驗佳\n4.AI應用與導入經驗佳\n5.具敬業與團隊精神，可配合出差"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8oufh",
+    "job_url": "https://www.104.com.tw/job/8oufh",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8oufh.json",
+    "raw_sha256": "baf50f0411b601911bd15419fd883b31e02e7447d028817b2025903ee70013e6",
+    "requested_url": "https://www.104.com.tw/api/jobs/8oufh"
+  }
+}

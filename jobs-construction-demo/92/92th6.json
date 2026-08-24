@@ -1,0 +1,197 @@
+{
+  "company": {
+    "id": "12v3o7uw",
+    "name": "104人力銀行_一零四資訊科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "後端工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI 賦能系統開發：運用先進 AI 開發工具（如 GitHub Copilot、Claude Code 等）高效開發與維護人資學院之招募、HRM、HRD 等相關系統，實現開發效率加倍。"
+        },
+        {
+          "children": [],
+          "text": "前沿技術與體驗優化：與 PM 及設計人員協同合作，利用 AI 輔助快速生成原型或優化程式碼架構，共同建立易於操作且高效的產品使用者體驗。"
+        },
+        {
+          "children": [],
+          "text": "高效能後端與 API 設計：設計和實現高效、安全且具擴充性的後端服務和 RESTful API，以支持前端需求。"
+        },
+        {
+          "children": [],
+          "text": "敏捷協作與高效交付：與 PM 和前端開發工程緊密協作，精準確定需求，善用 AI 進行代碼審查（Code Review）與單元測試生成，確保項目高質量按時交付。"
+        },
+        {
+          "children": [],
+          "text": "全棧式參與與運行維護：從產品開發、自動化部署（CI/CD），到線上維護、系統運行皆有機會參與，快速累積雲端與 AI 時代的軟體工程實戰經驗。"
+        },
+        {
+          "children": [],
+          "text": "AI 技術研究與知識共享：公司提供工程相關教育訓練，團隊內定期進行 AI 工具應用、新技術導入的研究與分享，共同打造精進 AI-Driven 開發工作流的學習型團隊。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 NodeJS，並有 5 年以上後端開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RESTful API 設計和開發。"
+        },
+        {
+          "children": [],
+          "text": "有使用 Express.js、Koa 或類似框架的經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料庫技術，如 MySQL、MongoDB、PostgreSQL 等。"
+        },
+        {
+          "children": [],
+          "text": "理解版本控制工具（如 Git）的工作原理。"
+        },
+        {
+          "children": [],
+          "text": "具備 AI 驅動開發思維：熟練掌握並能靈活運用 AI 程式碼輔助工具（如 Claude Code、GitHub Copilot、Cursor 或 Codex 等）來提升整體工程品質、加速 Debug 與重構程式碼。"
+        },
+        {
+          "children": [],
+          "text": "良好的溝通技巧，能夠有效地與團隊成員協作，並樂於分享 AI 工具的使用心得以提升團隊綜效。"
+        }
+      ],
+      "text": "【工作內容包括但不限於】\n1.AI 賦能系統開發：運用先進 AI 開發工具（如 GitHub Copilot、Claude Code 等）高效開發與維護人資學院之招募、HRM、HRD 等相關系統，實現開發效率加倍。\n2.前沿技術與體驗優化：與 PM 及設計人員協同合作，利用 AI 輔助快速生成原型或優化程式碼架構，共同建立易於操作且高效的產品使用者體驗。\n3.高效能後端與 API 設計：設計和實現高效、安全且具擴充性的後端服務和 RESTful API，以支持前端需求。\n4.敏捷協作與高效交付：與 PM 和前端開發工程緊密協作，精準確定需求，善用 AI 進行代碼審查（Code Review）與單元測試生成，確保項目高質量按時交付。\n5.全棧式參與與運行維護：從產品開發、自動化部署（CI/CD），到線上維護、系統運行皆有機會參與，快速累積雲端與 AI 時代的軟體工程實戰經驗。\n6.AI 技術研究與知識共享：公司提供工程相關教育訓練，團隊內定期進行 AI 工具應用、新技術導入的研究與分享，共同打造精進 AI-Driven 開發工作流的學習型團隊。\n【需求條件】\n1.熟悉 NodeJS，並有 5 年以上後端開發經驗。\n2.熟悉 RESTful API 設計和開發。\n3.有使用 Express.js、Koa 或類似框架的經驗。\n4.熟悉資料庫技術，如 MySQL、MongoDB、PostgreSQL 等。\n5.理解版本控制工具（如 Git）的工作原理。\n6.具備 AI 驅動開發思維：熟練掌握並能靈活運用 AI 程式碼輔助工具（如 Claude Code、GitHub Copilot、Cursor 或 Codex 等）來提升整體工程品質、加速 Debug 與重構程式碼。\n7.良好的溝通技巧，能夠有效地與團隊成員協作，並樂於分享 AI 工具的使用心得以提升團隊綜效。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI-Driven 後端軟體工程師【產品開發處】"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶中路119號3樓(231)",
+    "raw": "新北市新店區寶中路119號3樓(231)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分項】\n1.有使用雲服務（如 AWS、Azure 或 GCP）的經驗。\n2.熟悉 Docker 和 Kubernetes 等容器技術。\n3.具備 AI 專案開發、LLM API 串接或 AI 應用落地之實際經驗者優先錄用。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "【加分項】\n1.有使用雲服務（如 AWS、Azure 或 GCP）的經驗。\n2.熟悉 Docker 和 Kubernetes 等容器技術。\n3.具備 AI 專案開發、LLM API 串接或 AI 應用落地之實際經驗者優先錄用。",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：專科以上\n其他條件：【加分項】\n1.有使用雲服務（如 AWS、Azure 或 GCP）的經驗。\n2.熟悉 Docker 和 Kubernetes 等容器技術。\n3.具備 AI 專案開發、LLM API 串接或 AI 應用落地之實際經驗者優先錄用。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 87
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:57:30+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容包括但不限於】\n1.AI 賦能系統開發：運用先進 AI 開發工具（如 GitHub Copilot、Claude Code 等）高效開發與維護人資學院之招募、HRM、HRD 等相關系統，實現開發效率加倍。\n2.前沿技術與體驗優化：與 PM 及設計人員協同合作，利用 AI 輔助快速生成原型或優化程式碼架構，共同建立易於操作且高效的產品使用者體驗。\n3.高效能後端與 API 設計：設計和實現高效、安全且具擴充性的後端服務和 RESTful API，以支持前端需求。\n4.敏捷協作與高效交付：與 PM 和前端開發工程緊密協作，精準確定需求，善用 AI 進行代碼審查（Code Review）與單元測試生成，確保項目高質量按時交付。\n5.全棧式參與與運行維護：從產品開發、自動化部署（CI/CD），到線上維護、系統運行皆有機會參與，快速累積雲端與 AI 時代的軟體工程實戰經驗。\n6.AI 技術研究與知識共享：公司提供工程相關教育訓練，團隊內定期進行 AI 工具應用、新技術導入的研究與分享，共同打造精進 AI-Driven 開發工作流的學習型團隊。\n【需求條件】\n1.熟悉 NodeJS，並有 5 年以上後端開發經驗。\n2.熟悉 RESTful API 設計和開發。\n3.有使用 Express.js、Koa 或類似框架的經驗。\n4.熟悉資料庫技術，如 MySQL、MongoDB、PostgreSQL 等。\n5.理解版本控制工具（如 Git）的工作原理。\n6.具備 AI 驅動開發思維：熟練掌握並能靈活運用 AI 程式碼輔助工具（如 Claude Code、GitHub Copilot、Cursor 或 Codex 等）來提升整體工程品質、加速 Debug 與重構程式碼。\n7.良好的溝通技巧，能夠有效地與團隊成員協作，並樂於分享 AI 工具的使用心得以提升團隊綜效。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "後端工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、後端工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶中路119號3樓(231)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容包括但不限於】\n1.AI 賦能系統開發：運用先進 AI 開發工具（如 GitHub Copilot、Claude Code 等）高效開發與維護人資學院之招募、HRM、HRD 等相關系統，實現開發效率加倍。\n2.前沿技術與體驗優化：與 PM 及設計人員協同合作，利用 AI 輔助快速生成原型或優化程式碼架構，共同建立易於操作且高效的產品使用者體驗。\n3.高效能後端與 API 設計：設計和實現高效、安全且具擴充性的後端服務和 RESTful API，以支持前端需求。\n4.敏捷協作與高效交付：與 PM 和前端開發工程緊密協作，精準確定需求，善用 AI 進行代碼審查（Code Review）與單元測試生成，確保項目高質量按時交付。\n5.全棧式參與與運行維護：從產品開發、自動化部署（CI/CD），到線上維護、系統運行皆有機會參與，快速累積雲端與 AI 時代的軟體工程實戰經驗。\n6.AI 技術研究與知識共享：公司提供工程相關教育訓練，團隊內定期進行 AI 工具應用、新技術導入的研究與分享，共同打造精進 AI-Driven 開發工作流的學習型團隊。\n【需求條件】\n1.熟悉 NodeJS，並有 5 年以上後端開發經驗。\n2.熟悉 RESTful API 設計和開發。\n3.有使用 Express.js、Koa 或類似框架的經驗。\n4.熟悉資料庫技術，如 MySQL、MongoDB、PostgreSQL 等。\n5.理解版本控制工具（如 Git）的工作原理。\n6.具備 AI 驅動開發思維：熟練掌握並能靈活運用 AI 程式碼輔助工具（如 Claude Code、GitHub Copilot、Cursor 或 Codex 等）來提升整體工程品質、加速 Debug 與重構程式碼。\n7.良好的溝通技巧，能夠有效地與團隊成員協作，並樂於分享 AI 工具的使用心得以提升團隊綜效。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分項】\n1.有使用雲服務（如 AWS、Azure 或 GCP）的經驗。\n2.熟悉 Docker 和 Kubernetes 等容器技術。\n3.具備 AI 專案開發、LLM API 串接或 AI 應用落地之實際經驗者優先錄用。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：專科以上\n其他條件：【加分項】\n1.有使用雲服務（如 AWS、Azure 或 GCP）的經驗。\n2.熟悉 Docker 和 Kubernetes 等容器技術。\n3.具備 AI 專案開發、LLM API 串接或 AI 應用落地之實際經驗者優先錄用。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "92th6",
+    "job_url": "https://www.104.com.tw/job/92th6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92th6.json",
+    "raw_sha256": "2d48a728c8be677f7f1c4236b0397c11eabaa04556b5d3b75f6434761b82bd10",
+    "requested_url": "https://www.104.com.tw/api/jobs/92th6"
+  }
+}

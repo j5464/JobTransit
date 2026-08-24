@@ -1,0 +1,212 @@
+{
+  "company": {
+    "id": "9mfvobu",
+    "name": "輝創電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "配合硬體設計進行 Linux/RTOS 驅動程式撰寫與驗證"
+        },
+        {
+          "children": [],
+          "text": "系統性能優化"
+        },
+        {
+          "children": [],
+          "text": "系統整合測試與除錯"
+        }
+      ],
+      "text": "1.配合硬體設計進行 Linux/RTOS 驅動程式撰寫與驗證\n2.系統性能優化\n3.系統整合測試與除錯"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師 (BSP/Driver)-高雄"
+  },
+  "location": {
+    "address_raw": "高雄市苓雅區新光路38號22樓之1-3",
+    "raw": "高雄市苓雅區新光路38號22樓之1-3"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "C",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、C、C++"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉C語言\n2.熟悉I2C/SPI/SDIO/UART 等I/O介面撰寫\n3.熟悉 Linux kernel 架構\n4.嵌入式產品開發經驗(消費性電子或車用電子)"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關"
+    ],
+    "other_text": "1.熟悉C語言\n2.熟悉I2C/SPI/SDIO/UART 等I/O介面撰寫\n3.熟悉 Linux kernel 架構\n4.嵌入式產品開發經驗(消費性電子或車用電子)",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C、C++\n其他條件：1.熟悉C語言\n2.熟悉I2C/SPI/SDIO/UART 等I/O介面撰寫\n3.熟悉 Linux kernel 架構\n4.嵌入式產品開發經驗(消費性電子或車用電子)",
+    "tools": [
+      "Linux",
+      "C",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 55
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:38:04+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.配合硬體設計進行 Linux/RTOS 驅動程式撰寫與驗證\n2.系統性能優化\n3.系統整合測試與除錯",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市苓雅區新光路38號22樓之1-3",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.配合硬體設計進行 Linux/RTOS 驅動程式撰寫與驗證\n2.系統性能優化\n3.系統整合測試與除錯"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "C",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、C、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉C語言\n2.熟悉I2C/SPI/SDIO/UART 等I/O介面撰寫\n3.熟悉 Linux kernel 架構\n4.嵌入式產品開發經驗(消費性電子或車用電子)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C、C++\n其他條件：1.熟悉C語言\n2.熟悉I2C/SPI/SDIO/UART 等I/O介面撰寫\n3.熟悉 Linux kernel 架構\n4.嵌入式產品開發經驗(消費性電子或車用電子)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "72r39",
+    "job_url": "https://www.104.com.tw/job/72r39",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/72r39.json",
+    "raw_sha256": "f5d735567369d1967dee5d3ec05114e634c1716edf0cea385ed6f85a0aada936",
+    "requested_url": "https://www.104.com.tw/api/jobs/72r39"
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "company": {
+    "id": "dbj2z8w",
+    "name": "英屬維京群島商嘉碼科技有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "資料庫管理人員",
+      "通訊軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "後端管理系統開發維護"
+        },
+        {
+          "children": [],
+          "text": "資料整合"
+        },
+        {
+          "children": [],
+          "text": "資料表分析與設計"
+        },
+        {
+          "children": [],
+          "text": "JavaScript/Node.js"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料庫相關技術，如MS SQL, NoSQL, MySQL, Redis"
+        },
+        {
+          "children": [],
+          "text": "熟悉雲端服務平台，如，Amazon AWS, Google GCP"
+        },
+        {
+          "children": [],
+          "text": "熟悉版本控制 (如: SVN , Git)。"
+        },
+        {
+          "children": [],
+          "text": "Web based 的系統開發"
+        },
+        {
+          "children": [],
+          "text": "可獨立運用 AI 提升工作效率與產出品質"
+        }
+      ],
+      "text": "<職務說明>\n1. 後端管理系統開發維護\n2. 資料整合\n3. 資料表分析與設計\n<所需條件>\n* JavaScript/Node.js\n* 熟悉資料庫相關技術，如MS SQL, NoSQL, MySQL, Redis\n* 熟悉雲端服務平台，如，Amazon AWS, Google GCP\n* 熟悉版本控制 (如: SVN , Git)。\n* Web based 的系統開發\n* 可獨立運用 AI 提升工作效率與產出品質"
+    },
+    "employment_type_raw": "全職",
+    "title": "網頁後端開發工程師(二)"
+  },
+  "location": {
+    "address_raw": "台中市西屯區工業三十八路210號3樓之6",
+    "raw": "台中市西屯區工業三十八路210號3樓之6"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "JavaScript",
+          "Node.js",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "JavaScript、Node.js、MS SQL"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 請寫自傳\n2. 三年以上後端開發經驗\n3. 精通Web based、JavaScript開發、資料庫應用程式或其他獨立接案之經驗\n4. 要有責任心按時按質完成專案和團隊合作精神\n5. 喜愛團隊合作，並願意分享知識\n6. 強烈的求知慾及好奇心、凡事能夠追根究柢\n7. 熱情協助隊友解決技術問題\n8.Node.js開發後端功能。熟悉express.js框架與Restfual API開發。熟悉MSSQL撰寫\n[Nice to Have]\n1. 喜愛享受生活，懂得如何玩\n2. 工作與生活並重\n3. 有想法又願意去實驗的精神\n4. 擁有不怕被打槍的意志力\n5. 有資料分析及視覺化技術(R, Tableau)\n6. 有前端相關技術(HTML, CSS, JavaScript, jQuery, Vue, Angular, Bootstrap)"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "1. 請寫自傳\n2. 三年以上後端開發經驗\n3. 精通Web based、JavaScript開發、資料庫應用程式或其他獨立接案之經驗\n4. 要有責任心按時按質完成專案和團隊合作精神\n5. 喜愛團隊合作，並願意分享知識\n6. 強烈的求知慾及好奇心、凡事能夠追根究柢\n7. 熱情協助隊友解決技術問題\n8.Node.js開發後端功能。熟悉express.js框架與Restfual API開發。熟悉MSSQL撰寫\n[Nice to Have]\n1. 喜愛享受生活，懂得如何玩\n2. 工作與生活並重\n3. 有想法又願意去實驗的精神\n4. 擁有不怕被打槍的意志力\n5. 有資料分析及視覺化技術(R, Tableau)\n6. 有前端相關技術(HTML, CSS, JavaScript, jQuery, Vue, Angular, Bootstrap)",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：JavaScript、Node.js、MS SQL\n其他條件：1. 請寫自傳\n2. 三年以上後端開發經驗\n3. 精通Web based、JavaScript開發、資料庫應用程式或其他獨立接案之經驗\n4. 要有責任心按時按質完成專案和團隊合作精神\n5. 喜愛團隊合作，並願意分享知識\n6. 強烈的求知慾及好奇心、凡事能夠追根究柢\n7. 熱情協助隊友解決技術問題\n8.Node.js開發後端功能。熟悉express.js框架與Restfual API開發。熟悉MSSQL撰寫\n[Nice to Have]\n1. 喜愛享受生活，懂得如何玩\n2. 工作與生活並重\n3. 有想法又願意去實驗的精神\n4. 擁有不怕被打槍的意志力\n5. 有資料分析及視覺化技術(R, Tableau)\n6. 有前端相關技術(HTML, CSS, JavaScript, jQuery, Vue, Angular, Bootstrap)",
+    "tools": [
+      "JavaScript",
+      "Node.js",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 30
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:35:26+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "<職務說明>\n1. 後端管理系統開發維護\n2. 資料整合\n3. 資料表分析與設計\n<所需條件>\n* JavaScript/Node.js\n* 熟悉資料庫相關技術，如MS SQL, NoSQL, MySQL, Redis\n* 熟悉雲端服務平台，如，Amazon AWS, Google GCP\n* 熟悉版本控制 (如: SVN , Git)。\n* Web based 的系統開發\n* 可獨立運用 AI 提升工作效率與產出品質",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "資料庫管理人員",
+            "通訊軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、資料庫管理人員、通訊軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區工業三十八路210號3樓之6",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "<職務說明>\n1. 後端管理系統開發維護\n2. 資料整合\n3. 資料表分析與設計\n<所需條件>\n* JavaScript/Node.js\n* 熟悉資料庫相關技術，如MS SQL, NoSQL, MySQL, Redis\n* 熟悉雲端服務平台，如，Amazon AWS, Google GCP\n* 熟悉版本控制 (如: SVN , Git)。\n* Web based 的系統開發\n* 可獨立運用 AI 提升工作效率與產出品質"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "JavaScript",
+            "Node.js",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "JavaScript、Node.js、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 請寫自傳\n2. 三年以上後端開發經驗\n3. 精通Web based、JavaScript開發、資料庫應用程式或其他獨立接案之經驗\n4. 要有責任心按時按質完成專案和團隊合作精神\n5. 喜愛團隊合作，並願意分享知識\n6. 強烈的求知慾及好奇心、凡事能夠追根究柢\n7. 熱情協助隊友解決技術問題\n8.Node.js開發後端功能。熟悉express.js框架與Restfual API開發。熟悉MSSQL撰寫\n[Nice to Have]\n1. 喜愛享受生活，懂得如何玩\n2. 工作與生活並重\n3. 有想法又願意去實驗的精神\n4. 擁有不怕被打槍的意志力\n5. 有資料分析及視覺化技術(R, Tableau)\n6. 有前端相關技術(HTML, CSS, JavaScript, jQuery, Vue, Angular, Bootstrap)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：JavaScript、Node.js、MS SQL\n其他條件：1. 請寫自傳\n2. 三年以上後端開發經驗\n3. 精通Web based、JavaScript開發、資料庫應用程式或其他獨立接案之經驗\n4. 要有責任心按時按質完成專案和團隊合作精神\n5. 喜愛團隊合作，並願意分享知識\n6. 強烈的求知慾及好奇心、凡事能夠追根究柢\n7. 熱情協助隊友解決技術問題\n8.Node.js開發後端功能。熟悉express.js框架與Restfual API開發。熟悉MSSQL撰寫\n[Nice to Have]\n1. 喜愛享受生活，懂得如何玩\n2. 工作與生活並重\n3. 有想法又願意去實驗的精神\n4. 擁有不怕被打槍的意志力\n5. 有資料分析及視覺化技術(R, Tableau)\n6. 有前端相關技術(HTML, CSS, JavaScript, jQuery, Vue, Angular, Bootstrap)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6ls44",
+    "job_url": "https://www.104.com.tw/job/6ls44",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6ls44.json",
+    "raw_sha256": "2e07905a79b4bcbf7c59ce27a819f53fb36f031a4e3e3dd11c7a623f537ce7da",
+    "requested_url": "https://www.104.com.tw/api/jobs/6ls44"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "company": {
+    "id": "1a2x6bj0ov",
+    "name": "台灣英特艾倫人力資源有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "高併發系統解決方案、有C端高併發（場景、實時數倉）相關經驗。"
+        },
+        {
+          "children": [],
+          "text": "大型專案工程品質管制。"
+        },
+        {
+          "children": [],
+          "text": "主要職責為互聯網C端業務開發、只有後台管理系統經驗是不合適此職缺"
+        }
+      ],
+      "text": "1、高併發系統解決方案、有C端高併發（場景、實時數倉）相關經驗。\n2、大型專案工程品質管制。\n3 、具備Hive Hbase、數倉經驗。\n4、主要職責為互聯網C端業務開發、只有後台管理系統經驗是不合適此職缺"
+    },
+    "employment_type_raw": "全職",
+    "title": "【純遠端】國際遊戲平台公司誠徵-資深JAVA工程師"
+  },
+  "location": {
+    "address_raw": "台北市中山區",
+    "raw": "台北市中山區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Java",
+          "Spring"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Spring"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1、5年以上基礎Java開發經驗，3年以上大型高併發項目經驗，2年以上中大型團隊領導經驗\n2、熟練使用開源框架：Springcloud、Springboot、Mybatis\n3、有大型分散式架構理論、設計、實戰經驗，有大規模微服務治理實戰經驗\n4、精通海量資料分散式存儲，精通tidb\\starrocks等分散式資料庫\n5、精通Flink\\Spark\n6、熟練使用RocketMQ\\RabbitMQ\\Kafka\n7、熟練使用ES\\Solr\\Lucene\\ELK\n8、熟練使用CI/CD、Devops、Docker、K8S\n9、精通資料結構與演算法、JVM調優、伺服器深度解析和調優：Tomcat、Nginx等\n10、有國內/國際大廠經驗優先考慮"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1、5年以上基礎Java開發經驗，3年以上大型高併發項目經驗，2年以上中大型團隊領導經驗\n2、熟練使用開源框架：Springcloud、Springboot、Mybatis\n3、有大型分散式架構理論、設計、實戰經驗，有大規模微服務治理實戰經驗\n4、精通海量資料分散式存儲，精通tidb\\starrocks等分散式資料庫\n5、精通Flink\\Spark\n6、熟練使用RocketMQ\\RabbitMQ\\Kafka\n7、熟練使用ES\\Solr\\Lucene\\ELK\n8、熟練使用CI/CD、Devops、Docker、K8S\n9、精通資料結構與演算法、JVM調優、伺服器深度解析和調優：Tomcat、Nginx等\n10、有國內/國際大廠經驗優先考慮",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：Java、Spring\n工作技能：軟體程式設計\n其他條件：1、5年以上基礎Java開發經驗，3年以上大型高併發項目經驗，2年以上中大型團隊領導經驗\n2、熟練使用開源框架：Springcloud、Springboot、Mybatis\n3、有大型分散式架構理論、設計、實戰經驗，有大規模微服務治理實戰經驗\n4、精通海量資料分散式存儲，精通tidb\\starrocks等分散式資料庫\n5、精通Flink\\Spark\n6、熟練使用RocketMQ\\RabbitMQ\\Kafka\n7、熟練使用ES\\Solr\\Lucene\\ELK\n8、熟練使用CI/CD、Devops、Docker、K8S\n9、精通資料結構與演算法、JVM調優、伺服器深度解析和調優：Tomcat、Nginx等\n10、有國內/國際大廠經驗優先考慮",
+    "tools": [
+      "Java",
+      "Spring"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 3
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:28:09+08:00"
+  },
+  "salary": {
+    "raw": "月薪150,000~180,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1、高併發系統解決方案、有C端高併發（場景、實時數倉）相關經驗。\n2、大型專案工程品質管制。\n3 、具備Hive Hbase、數倉經驗。\n4、主要職責為互聯網C端業務開發、只有後台管理系統經驗是不合適此職缺",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪150,000~180,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1、高併發系統解決方案、有C端高併發（場景、實時數倉）相關經驗。\n2、大型專案工程品質管制。\n3 、具備Hive Hbase、數倉經驗。\n4、主要職責為互聯網C端業務開發、只有後台管理系統經驗是不合適此職缺"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Spring"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Spring",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1、5年以上基礎Java開發經驗，3年以上大型高併發項目經驗，2年以上中大型團隊領導經驗\n2、熟練使用開源框架：Springcloud、Springboot、Mybatis\n3、有大型分散式架構理論、設計、實戰經驗，有大規模微服務治理實戰經驗\n4、精通海量資料分散式存儲，精通tidb\\starrocks等分散式資料庫\n5、精通Flink\\Spark\n6、熟練使用RocketMQ\\RabbitMQ\\Kafka\n7、熟練使用ES\\Solr\\Lucene\\ELK\n8、熟練使用CI/CD、Devops、Docker、K8S\n9、精通資料結構與演算法、JVM調優、伺服器深度解析和調優：Tomcat、Nginx等\n10、有國內/國際大廠經驗優先考慮",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：Java、Spring\n工作技能：軟體程式設計\n其他條件：1、5年以上基礎Java開發經驗，3年以上大型高併發項目經驗，2年以上中大型團隊領導經驗\n2、熟練使用開源框架：Springcloud、Springboot、Mybatis\n3、有大型分散式架構理論、設計、實戰經驗，有大規模微服務治理實戰經驗\n4、精通海量資料分散式存儲，精通tidb\\starrocks等分散式資料庫\n5、精通Flink\\Spark\n6、熟練使用RocketMQ\\RabbitMQ\\Kafka\n7、熟練使用ES\\Solr\\Lucene\\ELK\n8、熟練使用CI/CD、Devops、Docker、K8S\n9、精通資料結構與演算法、JVM調優、伺服器深度解析和調優：Tomcat、Nginx等\n10、有國內/國際大廠經驗優先考慮"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "87o6w",
+    "job_url": "https://www.104.com.tw/job/87o6w",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/87o6w.json",
+    "raw_sha256": "ba8b00cc8ba48d32b4a51e7570515fb9e65c38e06fcbbfff18427976c03c534c",
+    "requested_url": "https://www.104.com.tw/api/jobs/87o6w"
+  }
+}

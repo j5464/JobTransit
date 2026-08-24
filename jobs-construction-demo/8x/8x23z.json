@@ -1,0 +1,205 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "LLM & Agent Application Development"
+        },
+        {
+          "children": [],
+          "text": "Design and implement RAG pipelines, including document ingestion, embedding strategies, vector storage, retrieval optimization, and prompt orchestration."
+        },
+        {
+          "children": [],
+          "text": "Build agent-based systems capable of tool calling, multi-step reasoning, and workflow orchestration."
+        },
+        {
+          "children": [],
+          "text": "Develop conversational and task-oriented AI agents that interact with enterprise systems, databases, and APIs."
+        },
+        {
+          "children": [],
+          "text": "System Integration & Automation"
+        },
+        {
+          "children": [],
+          "text": "Integrate LLM applications with existing enterprise platforms (ERP, CRM, BI, internal services)."
+        },
+        {
+          "children": [],
+          "text": "Implement agentic workflows combined with automation tools (e.g., RPA, workflow engines, or low-code platforms)."
+        },
+        {
+          "children": [],
+          "text": "Design API-based integrations for third-party services and internal microservices."
+        },
+        {
+          "children": [],
+          "text": "Architecture & Production Readiness"
+        },
+        {
+          "children": [],
+          "text": "Design scalable, maintainable architectures for LLM applications running in production."
+        },
+        {
+          "children": [],
+          "text": "Implement logging, monitoring, evaluation, and error-handling for AI agents."
+        },
+        {
+          "children": [],
+          "text": "Ensure solutions meet security, governance, and compliance requirements (e.g., access control, data isolation, auditability)."
+        },
+        {
+          "children": [],
+          "text": "DevOps & Delivery"
+        },
+        {
+          "children": [],
+          "text": "Containerize and deploy LLM services using Docker and CI/CD pipelines."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with product, operations, and business stakeholders to translate requirements into reliable AI systems."
+        },
+        {
+          "children": [],
+          "text": "Take technical ownership from prototype to production rollout."
+        }
+      ],
+      "text": "We are looking for an experienced LLM Application Engineer to design, build, and operate production-grade AI applications based on Retrieval-Augmented Generation (RAG) and Agentic architectures.\nIn this role, you will work on real-world enterprise use cases, integrating LLMs with internal systems, APIs, workflows, and automation platforms. You will be responsible not only for model interaction, but also for system reliability, governance, scalability, and security.\nThis is a hands-on engineering role with strong ownership over architecture and delivery.\nResponsibilities:\n1. LLM & Agent Application Development\n• Design and implement RAG pipelines, including document ingestion, embedding strategies, vector storage, retrieval optimization, and prompt orchestration.\n• Build agent-based systems capable of tool calling, multi-step reasoning, and workflow orchestration.\n• Develop conversational and task-oriented AI agents that interact with enterprise systems, databases, and APIs.\n2. System Integration & Automation\n• Integrate LLM applications with existing enterprise platforms (ERP, CRM, BI, internal services).\n• Implement agentic workflows combined with automation tools (e.g., RPA, workflow engines, or low-code platforms).\n• Design API-based integrations for third-party services and internal microservices.\n3. Architecture & Production Readiness\n• Design scalable, maintainable architectures for LLM applications running in production.\n• Implement logging, monitoring, evaluation, and error-handling for AI agents.\n• Ensure solutions meet security, governance, and compliance requirements (e.g., access control, data isolation, auditability).\n4. DevOps & Delivery\n• Containerize and deploy LLM services using Docker and CI/CD pipelines.\n• Collaborate with product, operations, and business stakeholders to translate requirements into reliable AI systems.\n• Take technical ownership from prototype to production rollout."
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior LLM Application Engineer_台達研究院(台北)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號",
+    "raw": "台北市內湖區瑞光路186號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Required Qualifications:\n• Strong experience in Python (backend or data/AI application development).\n• Hands-on experience building LLM-based applications, especially:\n° Retrieval-Augmented Generation (RAG)\n° Tool-using or agent-based systems\n• Solid understanding of system integration, APIs, and backend services.\n• Experience with databases (SQL and/or NoSQL) and data pipelines.\n• Familiarity with Docker and CI/CD practices.\n• Experience deploying systems on cloud platforms (AWS, GCP, or Azure).\nPreferred Qualifications:\n• Experience with enterprise AI platforms (e.g., Microsoft Copilot Studio, Power Platform, or similar).\n• Experience integrating LLMs with RPA or workflow automation tools.\n• Knowledge of vector databases, embedding models, and retrieval optimization techniques.\n• Background in system architecture, technical leadership, or project ownership."
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "Required Qualifications:\n• Strong experience in Python (backend or data/AI application development).\n• Hands-on experience building LLM-based applications, especially:\n° Retrieval-Augmented Generation (RAG)\n° Tool-using or agent-based systems\n• Solid understanding of system integration, APIs, and backend services.\n• Experience with databases (SQL and/or NoSQL) and data pipelines.\n• Familiarity with Docker and CI/CD practices.\n• Experience deploying systems on cloud platforms (AWS, GCP, or Azure).\nPreferred Qualifications:\n• Experience with enterprise AI platforms (e.g., Microsoft Copilot Studio, Power Platform, or similar).\n• Experience integrating LLMs with RPA or workflow automation tools.\n• Knowledge of vector databases, embedding models, and retrieval optimization techniques.\n• Background in system architecture, technical leadership, or project ownership.",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n其他條件：Required Qualifications:\n• Strong experience in Python (backend or data/AI application development).\n• Hands-on experience building LLM-based applications, especially:\n° Retrieval-Augmented Generation (RAG)\n° Tool-using or agent-based systems\n• Solid understanding of system integration, APIs, and backend services.\n• Experience with databases (SQL and/or NoSQL) and data pipelines.\n• Familiarity with Docker and CI/CD practices.\n• Experience deploying systems on cloud platforms (AWS, GCP, or Azure).\nPreferred Qualifications:\n• Experience with enterprise AI platforms (e.g., Microsoft Copilot Studio, Power Platform, or similar).\n• Experience integrating LLMs with RPA or workflow automation tools.\n• Knowledge of vector databases, embedding models, and retrieval optimization techniques.\n• Background in system architecture, technical leadership, or project ownership.",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 83
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:45:28+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are looking for an experienced LLM Application Engineer to design, build, and operate production-grade AI applications based on Retrieval-Augmented Generation (RAG) and Agentic architectures.\nIn this role, you will work on real-world enterprise use cases, integrating LLMs with internal systems, APIs, workflows, and automation platforms. You will be responsible not only for model interaction, but also for system reliability, governance, scalability, and security.\nThis is a hands-on engineering role with strong ownership over architecture and delivery.\nResponsibilities:\n1. LLM & Agent Application Development\n• Design and implement RAG pipelines, including document ingestion, embedding strategies, vector storage, retrieval optimization, and prompt orchestration.\n• Build agent-based systems capable of tool calling, multi-step reasoning, and workflow orchestration.\n• Develop conversational and task-oriented AI agents that interact with enterprise systems, databases, and APIs.\n2. System Integration & Automation\n• Integrate LLM applications with existing enterprise platforms (ERP, CRM, BI, internal services).\n• Implement agentic workflows combined with automation tools (e.g., RPA, workflow engines, or low-code platforms).\n• Design API-based integrations for third-party services and internal microservices.\n3. Architecture & Production Readiness\n• Design scalable, maintainable architectures for LLM applications running in production.\n• Implement logging, monitoring, evaluation, and error-handling for AI agents.\n• Ensure solutions meet security, governance, and compliance requirements (e.g., access control, data isolation, auditability).\n4. DevOps & Delivery\n• Containerize and deploy LLM services using Docker and CI/CD pipelines.\n• Collaborate with product, operations, and business stakeholders to translate requirements into reliable AI systems.\n• Take technical ownership from prototype to production rollout.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are looking for an experienced LLM Application Engineer to design, build, and operate production-grade AI applications based on Retrieval-Augmented Generation (RAG) and Agentic architectures.\nIn this role, you will work on real-world enterprise use cases, integrating LLMs with internal systems, APIs, workflows, and automation platforms. You will be responsible not only for model interaction, but also for system reliability, governance, scalability, and security.\nThis is a hands-on engineering role with strong ownership over architecture and delivery.\nResponsibilities:\n1. LLM & Agent Application Development\n• Design and implement RAG pipelines, including document ingestion, embedding strategies, vector storage, retrieval optimization, and prompt orchestration.\n• Build agent-based systems capable of tool calling, multi-step reasoning, and workflow orchestration.\n• Develop conversational and task-oriented AI agents that interact with enterprise systems, databases, and APIs.\n2. System Integration & Automation\n• Integrate LLM applications with existing enterprise platforms (ERP, CRM, BI, internal services).\n• Implement agentic workflows combined with automation tools (e.g., RPA, workflow engines, or low-code platforms).\n• Design API-based integrations for third-party services and internal microservices.\n3. Architecture & Production Readiness\n• Design scalable, maintainable architectures for LLM applications running in production.\n• Implement logging, monitoring, evaluation, and error-handling for AI agents.\n• Ensure solutions meet security, governance, and compliance requirements (e.g., access control, data isolation, auditability).\n4. DevOps & Delivery\n• Containerize and deploy LLM services using Docker and CI/CD pipelines.\n• Collaborate with product, operations, and business stakeholders to translate requirements into reliable AI systems.\n• Take technical ownership from prototype to production rollout."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Required Qualifications:\n• Strong experience in Python (backend or data/AI application development).\n• Hands-on experience building LLM-based applications, especially:\n° Retrieval-Augmented Generation (RAG)\n° Tool-using or agent-based systems\n• Solid understanding of system integration, APIs, and backend services.\n• Experience with databases (SQL and/or NoSQL) and data pipelines.\n• Familiarity with Docker and CI/CD practices.\n• Experience deploying systems on cloud platforms (AWS, GCP, or Azure).\nPreferred Qualifications:\n• Experience with enterprise AI platforms (e.g., Microsoft Copilot Studio, Power Platform, or similar).\n• Experience integrating LLMs with RPA or workflow automation tools.\n• Knowledge of vector databases, embedding models, and retrieval optimization techniques.\n• Background in system architecture, technical leadership, or project ownership.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n其他條件：Required Qualifications:\n• Strong experience in Python (backend or data/AI application development).\n• Hands-on experience building LLM-based applications, especially:\n° Retrieval-Augmented Generation (RAG)\n° Tool-using or agent-based systems\n• Solid understanding of system integration, APIs, and backend services.\n• Experience with databases (SQL and/or NoSQL) and data pipelines.\n• Familiarity with Docker and CI/CD practices.\n• Experience deploying systems on cloud platforms (AWS, GCP, or Azure).\nPreferred Qualifications:\n• Experience with enterprise AI platforms (e.g., Microsoft Copilot Studio, Power Platform, or similar).\n• Experience integrating LLMs with RPA or workflow automation tools.\n• Knowledge of vector databases, embedding models, and retrieval optimization techniques.\n• Background in system architecture, technical leadership, or project ownership."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8x23z",
+    "job_url": "https://www.104.com.tw/job/8x23z",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8x23z.json",
+    "raw_sha256": "bbfb89484fe227143726b4373be4f28910be9d7cd968de72fd9b1a5015b0e9e2",
+    "requested_url": "https://www.104.com.tw/api/jobs/8x23z"
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "company": {
+    "id": "1a2x6bluqd",
+    "name": "奧圖碼股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "後端工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "OMS 平台功能開發與交付（Platform Feature Development & Delivery）"
+        },
+        {
+          "children": [],
+          "text": "雲端原生架構設計與優化（Cloud-Native Architecture & Optimization）"
+        },
+        {
+          "children": [],
+          "text": "AI First 工程實踐（AI-First Engineering Practice）"
+        },
+        {
+          "children": [],
+          "text": "跨國協作與敏捷交付（Global Collaboration & Agile Delivery）"
+        },
+        {
+          "children": [],
+          "text": "品質與資訊安全（Quality & Security）"
+        },
+        {
+          "children": [],
+          "text": "Platform Feature Development & Delivery"
+        },
+        {
+          "children": [],
+          "text": "Cloud-Native Architecture & Optimization"
+        },
+        {
+          "children": [],
+          "text": "AI-First Engineering Practice"
+        },
+        {
+          "children": [],
+          "text": "Global Collaboration & Agile Delivery"
+        },
+        {
+          "children": [],
+          "text": "Quality & Security"
+        }
+      ],
+      "text": "【招募職務簡介】\n★招募宣言\nOptoma Management Suite（OMS）是 Optoma 打造的全球商用顯示裝置雲端管理平台——業界第一個同時支援投影機、互動平板（IFP）與 LED 顯示屏的跨產品線管理方案，協助全球企業與教育客戶從單一平台即時監控、診斷與控制遍布世界各地的顯示設備。我們正在尋找一位資深全端工程師加入 OMS 產品研發團隊，運用 .NET、React 與 Azure 雲原生技術，共同開發這個持續成長的全球 SaaS 平台。\n★角色範疇\n您將加入小型精實研發團隊，直接參與產品架構設計與技術決策，與 PM、UI/UX Designer、SQE、SQA 與海外團隊緊密協作，完整經歷從需求分析、架構設計、開發、測試到部署維運的 end-to-end 產品開發流程。\n★職位亮點\n－精實團隊、高自主性：不做大機器裡的螺絲釘，每位成員直接參與架構討論與技術選型\n－AI First Development：GitHub Copilot、Cursor、Claude 深度融入日常開發流程\n－國際級開發規範：在 ISO 27001、ISMS 與 Secure SDLC 制度下開發全球產品\n－清晰技術職涯：Senior → Principal → Architect 完整技術發展路徑\n【主要職責】\n1.OMS 平台功能開發與交付（Platform Feature Development & Delivery）\n負責 OMS 雲端平台功能的設計、開發、測試與維護，確保功能如期且高品質交付。\n－設計並開發 OMS 平台新功能，涵蓋後端服務（.NET）、前端介面（React）與資料庫（SQL Server）\n－開發與維護 RESTful API 與 OMS Cloud Open API，支援全球裝置整合與第三方串接\n－參與 OMS AI 服務與產品使用資料（KYC）框架的功能開發\n－執行單元測試與整合測試，維持程式碼品質與平台穩定性\n2.雲端原生架構設計與優化（Cloud-Native Architecture & Optimization）\n參與 Azure 雲端原生架構的設計與演進，持續優化平台效能與成本。\n－參與 Azure 雲端架構設計，涵蓋運算、儲存、資料庫與訊息服務的選型與配置\n－分析並優化系統效能、可用性與雲端資源成本\n－參與 edge computing 對接架構規劃，優化前後端與 cloud server 的平衡運作\n3.AI First 工程實踐（AI-First Engineering Practice）\n將 AI 工具深度融入開發流程，持續提升團隊工程效率。\n－善用 GitHub Copilot、Cursor、Claude 等 AI 工具進行開發，實踐 AI First Development\n－針對開發流程提出完整的改善提案，推動 AI 輔助開發最佳實踐在團隊落地\n4.跨國協作與敏捷交付（Global Collaboration & Agile Delivery）\n與跨國、跨職能團隊協作，確保產品需求準確落地。\n－與 PM、UI/UX Designer、SQE、SQA 及海外團隊協作，完成需求分析、規格討論與功能交付\n－以英文進行技術文件溝通與跨國會議討論\n－主動同步開發進度與技術風險，確保專案透明度\n5.品質與資訊安全（Quality & Security）\n落實資安與品質規範，確保開發流程與文件符合國際標準要求。\n－落實 ISO 27001、ISMS 及 Secure SDLC 開發流程規範\n－建立與維護系統設計、開發、測試及維運文件，確保資訊資產具備可追溯性並符合 ISMS 文件化管理要求\n▍Key Responsibilities\n1.Platform Feature Development & Delivery\nOwn the design, development, testing, and maintenance of OMS platform features with on-time, high-quality delivery.\n－Design and develop new OMS features across backend services (.NET), frontend (React), and database (SQL Server)\n－Build and maintain RESTful APIs and OMS Cloud Open APIs supporting global device integration and third-party connectivity\n－Contribute to OMS AI services and the product usage data (KYC) framework\n－Perform unit and integration testing to sustain code quality and platform stability\n2.Cloud-Native Architecture & Optimization\nContribute to the design and evolution of the Azure cloud-native architecture, continuously optimizing performance and cost.\n－Participate in Azure architecture design covering compute, storage, database, and messaging services\n－Analyze and optimize system performance, availability, and cloud resource costs\n－Contribute to edge computing integration planning, balancing frontend, backend, and cloud server workloads\n3.AI-First Engineering Practice\nEmbed AI tools deeply into the development process to continuously raise team engineering productivity.\n－Leverage GitHub Copilot, Cursor, and Claude in daily development as part of AI-First Development\n－Propose complete process-improvement initiatives and drive AI-assisted development best practices across the team\n4.Global Collaboration & Agile Delivery\nWork with cross-border, cross-functional teams to translate product requirements into shipped features.\n－Collaborate with PM, UI/UX designers, SQE, SQA, and overseas teams on requirements, specifications, and delivery\n－Communicate technical documentation and discussions in English\n－Proactively surface progress and technical risks to keep projects transparent\n5.Quality & Security\nUphold security and quality standards across the full development lifecycle.\n－Follow ISO 27001, ISMS, and Secure SDLC development processes\n－Establish and maintain design, development, testing, and operations documentation to keep information assets traceable and compliant with ISMS documentation requirements"
+    },
+    "employment_type_raw": "全職",
+    "title": "OMS 資深全端軟體工程師 (.NET/React/Azure) - OMS Senior Full-Stack Software Engineer (OPT-0112)"
+  },
+  "location": {
+    "address_raw": "新北市新店區北新路3段213號12樓",
+    "raw": "新北市新店區北新路3段213號12樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "ReactJS",
+          "Github",
+          "Git",
+          "C#",
+          "ASP.NET",
+          "MySQL",
+          "PostgreSQL",
+          "MS SQL",
+          "Visual C#",
+          "Microsoft Azure",
+          "AWS",
+          "CSS",
+          "JIRA",
+          "Node.js"
+        ],
+        "label": "擅長工具",
+        "text": "ReactJS、Github、Git、C#、ASP.NET、MySQL、PostgreSQL、MS SQL、Visual C#、Microsoft Azure、AWS、CSS、JIRA、Node.js"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "資料庫軟體應用",
+          "系統架構規劃",
+          "軟體工程系統開發",
+          "CI/CD",
+          "自動化軟體測試"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、資料庫軟體應用、系統架構規劃、軟體工程系統開發、CI/CD、自動化軟體測試"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【必要條件】\n｜專業知識與技能｜\n－熟悉 C#/.NET 後端開發與物件導向設計\n－熟悉 React 前端開發\n－熟悉 SQL Server 資料庫設計與效能調校\n－熟悉 RESTful API 設計與開發\n－熟悉 Git 版本控制與 CI/CD 流程\n－具備 Azure 雲端服務開發與架構設計知識\n－具備英文技術文件讀寫與口語溝通能力\n｜專業實戰經驗｜\n－大學以上資訊相關科系畢業\n－5 年以上軟體開發經驗（碩士學歷可 3 年以上）\n－具 SaaS 或企業級 Web Application 產品開發經驗\n【期待能力與特質】\n｜期待能力｜\n－應用專業領域知識與技巧：掌握 .NET/Azure 生態系最新發展，並知道何時、如何應用於平台開發\n－批判性思考：在架構取捨與技術選型時，能分析論據、質疑假設，做出有根據的判斷\n－溝通表達：能將技術方案有條理地說明給 PM、Designer 與海外協作夥伴\n－與人協作：在小型精實團隊中明確角色分工，與跨國團隊建立開放互信的協作模式\n｜關鍵特質｜\n－當責（Accountability）：對自己的程式碼與交付結果有完全的所有權意識，不找藉口、專注解決。\n－學習力（Learnability）：能迅速吸收 AI 工具與雲端新技術，從錯誤中提取模式並立即修正。\n－適應力（Adaptability）：在需求與技術快速演變的環境中，迅速冷靜地調整做法。\n【加分條件】\n－Azure 實務經驗或相關證照（AZ-204 / AZ-305）\n－DevOps 實務經驗（CI/CD pipeline 建置、Infrastructure as Code）\n－AI Coding Assistant 深度使用經驗（如 agentic workflow、AI 輔助開發流程設計）\n－IoT、裝置管理或影音顯示產業開發經驗\n－Tech Lead 或系統架構設計經驗\n－獨立完成需求分析、設計、開發到交付的完整開發循環\n▍Requirements\n｜Knowledge & Skills｜\n－Proficient in C#/.NET backend development and object-oriented design\n－Proficient in React frontend development\n－Proficient in SQL Server database design and performance tuning\n－Proficient in RESTful API design and development\n－Proficient with Git and CI/CD workflows\n－Working knowledge of Azure cloud services and architecture design\n－Able to read, write, and communicate technical content in English\n｜Experience｜\n－Bachelor's degree or above in Computer Science or a related field\n－5+ years of software development experience (3+ years with a Master's degree)\n－Hands-on experience building SaaS or enterprise-grade web applications\n▍Competencies & Attributes\n｜Competencies｜\n－Applied Professional Expertise: stays current with the .NET/Azure ecosystem and knows when and how to apply it\n－Critical Thinking: analyzes evidence and challenges assumptions when making architecture trade-offs\n－Communication: explains technical solutions clearly to PMs, designers, and overseas partners\n－Collaboration: builds open, trusting working relationships within a lean team and across borders\n｜Key Attributes｜\n－Accountability: full ownership of code and outcomes — no excuses, focused on fixing and learning\n－Learnability: rapidly absorbs new AI tooling and cloud technologies, extracting patterns from mistakes\n－Adaptability: adjusts quickly and calmly as requirements and technology evolve\n▍Nice to Have\n－Hands-on Azure experience or certification (AZ-204 / AZ-305) (preferred)\n－DevOps experience (CI/CD pipeline setup, Infrastructure as Code) (preferred)\n－Advanced AI coding assistant experience (e.g., agentic workflows, AI-assisted development process design) (strongly preferred)\n－Experience in IoT, device management, or the AV/display industry (strongly preferred)\n－Tech Lead or system architecture design experience (strongly preferred)\n－Able to independently drive the full cycle from requirements analysis and design to delivery (preferred)"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "【必要條件】\n｜專業知識與技能｜\n－熟悉 C#/.NET 後端開發與物件導向設計\n－熟悉 React 前端開發\n－熟悉 SQL Server 資料庫設計與效能調校\n－熟悉 RESTful API 設計與開發\n－熟悉 Git 版本控制與 CI/CD 流程\n－具備 Azure 雲端服務開發與架構設計知識\n－具備英文技術文件讀寫與口語溝通能力\n｜專業實戰經驗｜\n－大學以上資訊相關科系畢業\n－5 年以上軟體開發經驗（碩士學歷可 3 年以上）\n－具 SaaS 或企業級 Web Application 產品開發經驗\n【期待能力與特質】\n｜期待能力｜\n－應用專業領域知識與技巧：掌握 .NET/Azure 生態系最新發展，並知道何時、如何應用於平台開發\n－批判性思考：在架構取捨與技術選型時，能分析論據、質疑假設，做出有根據的判斷\n－溝通表達：能將技術方案有條理地說明給 PM、Designer 與海外協作夥伴\n－與人協作：在小型精實團隊中明確角色分工，與跨國團隊建立開放互信的協作模式\n｜關鍵特質｜\n－當責（Accountability）：對自己的程式碼與交付結果有完全的所有權意識，不找藉口、專注解決。\n－學習力（Learnability）：能迅速吸收 AI 工具與雲端新技術，從錯誤中提取模式並立即修正。\n－適應力（Adaptability）：在需求與技術快速演變的環境中，迅速冷靜地調整做法。\n【加分條件】\n－Azure 實務經驗或相關證照（AZ-204 / AZ-305）\n－DevOps 實務經驗（CI/CD pipeline 建置、Infrastructure as Code）\n－AI Coding Assistant 深度使用經驗（如 agentic workflow、AI 輔助開發流程設計）\n－IoT、裝置管理或影音顯示產業開發經驗\n－Tech Lead 或系統架構設計經驗\n－獨立完成需求分析、設計、開發到交付的完整開發循環\n▍Requirements\n｜Knowledge & Skills｜\n－Proficient in C#/.NET backend development and object-oriented design\n－Proficient in React frontend development\n－Proficient in SQL Server database design and performance tuning\n－Proficient in RESTful API design and development\n－Proficient with Git and CI/CD workflows\n－Working knowledge of Azure cloud services and architecture design\n－Able to read, write, and communicate technical content in English\n｜Experience｜\n－Bachelor's degree or above in Computer Science or a related field\n－5+ years of software development experience (3+ years with a Master's degree)\n－Hands-on experience building SaaS or enterprise-grade web applications\n▍Competencies & Attributes\n｜Competencies｜\n－Applied Professional Expertise: stays current with the .NET/Azure ecosystem and knows when and how to apply it\n－Critical Thinking: analyzes evidence and challenges assumptions when making architecture trade-offs\n－Communication: explains technical solutions clearly to PMs, designers, and overseas partners\n－Collaboration: builds open, trusting working relationships within a lean team and across borders\n｜Key Attributes｜\n－Accountability: full ownership of code and outcomes — no excuses, focused on fixing and learning\n－Learnability: rapidly absorbs new AI tooling and cloud technologies, extracting patterns from mistakes\n－Adaptability: adjusts quickly and calmly as requirements and technology evolve\n▍Nice to Have\n－Hands-on Azure experience or certification (AZ-204 / AZ-305) (preferred)\n－DevOps experience (CI/CD pipeline setup, Infrastructure as Code) (preferred)\n－Advanced AI coding assistant experience (e.g., agentic workflows, AI-assisted development process design) (strongly preferred)\n－Experience in IoT, device management, or the AV/display industry (strongly preferred)\n－Tech Lead or system architecture design experience (strongly preferred)\n－Able to independently drive the full cycle from requirements analysis and design to delivery (preferred)",
+    "skills": [
+      "軟體程式設計",
+      "資料庫軟體應用",
+      "系統架構規劃",
+      "軟體工程系統開發",
+      "CI/CD",
+      "自動化軟體測試"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：ReactJS、Github、Git、C#、ASP.NET、MySQL、PostgreSQL、MS SQL、Visual C#、Microsoft Azure、AWS、CSS、JIRA、Node.js\n工作技能：軟體程式設計、資料庫軟體應用、系統架構規劃、軟體工程系統開發、CI/CD、自動化軟體測試\n其他條件：【必要條件】\n｜專業知識與技能｜\n－熟悉 C#/.NET 後端開發與物件導向設計\n－熟悉 React 前端開發\n－熟悉 SQL Server 資料庫設計與效能調校\n－熟悉 RESTful API 設計與開發\n－熟悉 Git 版本控制與 CI/CD 流程\n－具備 Azure 雲端服務開發與架構設計知識\n－具備英文技術文件讀寫與口語溝通能力\n｜專業實戰經驗｜\n－大學以上資訊相關科系畢業\n－5 年以上軟體開發經驗（碩士學歷可 3 年以上）\n－具 SaaS 或企業級 Web Application 產品開發經驗\n【期待能力與特質】\n｜期待能力｜\n－應用專業領域知識與技巧：掌握 .NET/Azure 生態系最新發展，並知道何時、如何應用於平台開發\n－批判性思考：在架構取捨與技術選型時，能分析論據、質疑假設，做出有根據的判斷\n－溝通表達：能將技術方案有條理地說明給 PM、Designer 與海外協作夥伴\n－與人協作：在小型精實團隊中明確角色分工，與跨國團隊建立開放互信的協作模式\n｜關鍵特質｜\n－當責（Accountability）：對自己的程式碼與交付結果有完全的所有權意識，不找藉口、專注解決。\n－學習力（Learnability）：能迅速吸收 AI 工具與雲端新技術，從錯誤中提取模式並立即修正。\n－適應力（Adaptability）：在需求與技術快速演變的環境中，迅速冷靜地調整做法。\n【加分條件】\n－Azure 實務經驗或相關證照（AZ-204 / AZ-305）\n－DevOps 實務經驗（CI/CD pipeline 建置、Infrastructure as Code）\n－AI Coding Assistant 深度使用經驗（如 agentic workflow、AI 輔助開發流程設計）\n－IoT、裝置管理或影音顯示產業開發經驗\n－Tech Lead 或系統架構設計經驗\n－獨立完成需求分析、設計、開發到交付的完整開發循環\n▍Requirements\n｜Knowledge & Skills｜\n－Proficient in C#/.NET backend development and object-oriented design\n－Proficient in React frontend development\n－Proficient in SQL Server database design and performance tuning\n－Proficient in RESTful API design and development\n－Proficient with Git and CI/CD workflows\n－Working knowledge of Azure cloud services and architecture design\n－Able to read, write, and communicate technical content in English\n｜Experience｜\n－Bachelor's degree or above in Computer Science or a related field\n－5+ years of software development experience (3+ years with a Master's degree)\n－Hands-on experience building SaaS or enterprise-grade web applications\n▍Competencies & Attributes\n｜Competencies｜\n－Applied Professional Expertise: stays current with the .NET/Azure ecosystem and knows when and how to apply it\n－Critical Thinking: analyzes evidence and challenges assumptions when making architecture trade-offs\n－Communication: explains technical solutions clearly to PMs, designers, and overseas partners\n－Collaboration: builds open, trusting working relationships within a lean team and across borders\n｜Key Attributes｜\n－Accountability: full ownership of code and outcomes — no excuses, focused on fixing and learning\n－Learnability: rapidly absorbs new AI tooling and cloud technologies, extracting patterns from mistakes\n－Adaptability: adjusts quickly and calmly as requirements and technology evolve\n▍Nice to Have\n－Hands-on Azure experience or certification (AZ-204 / AZ-305) (preferred)\n－DevOps experience (CI/CD pipeline setup, Infrastructure as Code) (preferred)\n－Advanced AI coding assistant experience (e.g., agentic workflows, AI-assisted development process design) (strongly preferred)\n－Experience in IoT, device management, or the AV/display industry (strongly preferred)\n－Tech Lead or system architecture design experience (strongly preferred)\n－Able to independently drive the full cycle from requirements analysis and design to delivery (preferred)",
+    "tools": [
+      "ReactJS",
+      "Github",
+      "Git",
+      "C#",
+      "ASP.NET",
+      "MySQL",
+      "PostgreSQL",
+      "MS SQL",
+      "Visual C#",
+      "Microsoft Azure",
+      "AWS",
+      "CSS",
+      "JIRA",
+      "Node.js"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 28
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:31:35+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【招募職務簡介】\n★招募宣言\nOptoma Management Suite（OMS）是 Optoma 打造的全球商用顯示裝置雲端管理平台——業界第一個同時支援投影機、互動平板（IFP）與 LED 顯示屏的跨產品線管理方案，協助全球企業與教育客戶從單一平台即時監控、診斷與控制遍布世界各地的顯示設備。我們正在尋找一位資深全端工程師加入 OMS 產品研發團隊，運用 .NET、React 與 Azure 雲原生技術，共同開發這個持續成長的全球 SaaS 平台。\n★角色範疇\n您將加入小型精實研發團隊，直接參與產品架構設計與技術決策，與 PM、UI/UX Designer、SQE、SQA 與海外團隊緊密協作，完整經歷從需求分析、架構設計、開發、測試到部署維運的 end-to-end 產品開發流程。\n★職位亮點\n－精實團隊、高自主性：不做大機器裡的螺絲釘，每位成員直接參與架構討論與技術選型\n－AI First Development：GitHub Copilot、Cursor、Claude 深度融入日常開發流程\n－國際級開發規範：在 ISO 27001、ISMS 與 Secure SDLC 制度下開發全球產品\n－清晰技術職涯：Senior → Principal → Architect 完整技術發展路徑\n【主要職責】\n1.OMS 平台功能開發與交付（Platform Feature Development & Delivery）\n負責 OMS 雲端平台功能的設計、開發、測試與維護，確保功能如期且高品質交付。\n－設計並開發 OMS 平台新功能，涵蓋後端服務（.NET）、前端介面（React）與資料庫（SQL Server）\n－開發與維護 RESTful API 與 OMS Cloud Open API，支援全球裝置整合與第三方串接\n－參與 OMS AI 服務與產品使用資料（KYC）框架的功能開發\n－執行單元測試與整合測試，維持程式碼品質與平台穩定性\n2.雲端原生架構設計與優化（Cloud-Native Architecture & Optimization）\n參與 Azure 雲端原生架構的設計與演進，持續優化平台效能與成本。\n－參與 Azure 雲端架構設計，涵蓋運算、儲存、資料庫與訊息服務的選型與配置\n－分析並優化系統效能、可用性與雲端資源成本\n－參與 edge computing 對接架構規劃，優化前後端與 cloud server 的平衡運作\n3.AI First 工程實踐（AI-First Engineering Practice）\n將 AI 工具深度融入開發流程，持續提升團隊工程效率。\n－善用 GitHub Copilot、Cursor、Claude 等 AI 工具進行開發，實踐 AI First Development\n－針對開發流程提出完整的改善提案，推動 AI 輔助開發最佳實踐在團隊落地\n4.跨國協作與敏捷交付（Global Collaboration & Agile Delivery）\n與跨國、跨職能團隊協作，確保產品需求準確落地。\n－與 PM、UI/UX Designer、SQE、SQA 及海外團隊協作，完成需求分析、規格討論與功能交付\n－以英文進行技術文件溝通與跨國會議討論\n－主動同步開發進度與技術風險，確保專案透明度\n5.品質與資訊安全（Quality & Security）\n落實資安與品質規範，確保開發流程與文件符合國際標準要求。\n－落實 ISO 27001、ISMS 及 Secure SDLC 開發流程規範\n－建立與維護系統設計、開發、測試及維運文件，確保資訊資產具備可追溯性並符合 ISMS 文件化管理要求\n▍Key Responsibilities\n1.Platform Feature Development & Delivery\nOwn the design, development, testing, and maintenance of OMS platform features with on-time, high-quality delivery.\n－Design and develop new OMS features across backend services (.NET), frontend (React), and database (SQL Server)\n－Build and maintain RESTful APIs and OMS Cloud Open APIs supporting global device integration and third-party connectivity\n－Contribute to OMS AI services and the product usage data (KYC) framework\n－Perform unit and integration testing to sustain code quality and platform stability\n2.Cloud-Native Architecture & Optimization\nContribute to the design and evolution of the Azure cloud-native architecture, continuously optimizing performance and cost.\n－Participate in Azure architecture design covering compute, storage, database, and messaging services\n－Analyze and optimize system performance, availability, and cloud resource costs\n－Contribute to edge computing integration planning, balancing frontend, backend, and cloud server workloads\n3.AI-First Engineering Practice\nEmbed AI tools deeply into the development process to continuously raise team engineering productivity.\n－Leverage GitHub Copilot, Cursor, and Claude in daily development as part of AI-First Development\n－Propose complete process-improvement initiatives and drive AI-assisted development best practices across the team\n4.Global Collaboration & Agile Delivery\nWork with cross-border, cross-functional teams to translate product requirements into shipped features.\n－Collaborate with PM, UI/UX designers, SQE, SQA, and overseas teams on requirements, specifications, and delivery\n－Communicate technical documentation and discussions in English\n－Proactively surface progress and technical risks to keep projects transparent\n5.Quality & Security\nUphold security and quality standards across the full development lifecycle.\n－Follow ISO 27001, ISMS, and Secure SDLC development processes\n－Establish and maintain design, development, testing, and operations documentation to keep information assets traceable and compliant with ISMS documentation requirements",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "後端工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、後端工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區北新路3段213號12樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【招募職務簡介】\n★招募宣言\nOptoma Management Suite（OMS）是 Optoma 打造的全球商用顯示裝置雲端管理平台——業界第一個同時支援投影機、互動平板（IFP）與 LED 顯示屏的跨產品線管理方案，協助全球企業與教育客戶從單一平台即時監控、診斷與控制遍布世界各地的顯示設備。我們正在尋找一位資深全端工程師加入 OMS 產品研發團隊，運用 .NET、React 與 Azure 雲原生技術，共同開發這個持續成長的全球 SaaS 平台。\n★角色範疇\n您將加入小型精實研發團隊，直接參與產品架構設計與技術決策，與 PM、UI/UX Designer、SQE、SQA 與海外團隊緊密協作，完整經歷從需求分析、架構設計、開發、測試到部署維運的 end-to-end 產品開發流程。\n★職位亮點\n－精實團隊、高自主性：不做大機器裡的螺絲釘，每位成員直接參與架構討論與技術選型\n－AI First Development：GitHub Copilot、Cursor、Claude 深度融入日常開發流程\n－國際級開發規範：在 ISO 27001、ISMS 與 Secure SDLC 制度下開發全球產品\n－清晰技術職涯：Senior → Principal → Architect 完整技術發展路徑\n【主要職責】\n1.OMS 平台功能開發與交付（Platform Feature Development & Delivery）\n負責 OMS 雲端平台功能的設計、開發、測試與維護，確保功能如期且高品質交付。\n－設計並開發 OMS 平台新功能，涵蓋後端服務（.NET）、前端介面（React）與資料庫（SQL Server）\n－開發與維護 RESTful API 與 OMS Cloud Open API，支援全球裝置整合與第三方串接\n－參與 OMS AI 服務與產品使用資料（KYC）框架的功能開發\n－執行單元測試與整合測試，維持程式碼品質與平台穩定性\n2.雲端原生架構設計與優化（Cloud-Native Architecture & Optimization）\n參與 Azure 雲端原生架構的設計與演進，持續優化平台效能與成本。\n－參與 Azure 雲端架構設計，涵蓋運算、儲存、資料庫與訊息服務的選型與配置\n－分析並優化系統效能、可用性與雲端資源成本\n－參與 edge computing 對接架構規劃，優化前後端與 cloud server 的平衡運作\n3.AI First 工程實踐（AI-First Engineering Practice）\n將 AI 工具深度融入開發流程，持續提升團隊工程效率。\n－善用 GitHub Copilot、Cursor、Claude 等 AI 工具進行開發，實踐 AI First Development\n－針對開發流程提出完整的改善提案，推動 AI 輔助開發最佳實踐在團隊落地\n4.跨國協作與敏捷交付（Global Collaboration & Agile Delivery）\n與跨國、跨職能團隊協作，確保產品需求準確落地。\n－與 PM、UI/UX Designer、SQE、SQA 及海外團隊協作，完成需求分析、規格討論與功能交付\n－以英文進行技術文件溝通與跨國會議討論\n－主動同步開發進度與技術風險，確保專案透明度\n5.品質與資訊安全（Quality & Security）\n落實資安與品質規範，確保開發流程與文件符合國際標準要求。\n－落實 ISO 27001、ISMS 及 Secure SDLC 開發流程規範\n－建立與維護系統設計、開發、測試及維運文件，確保資訊資產具備可追溯性並符合 ISMS 文件化管理要求\n▍Key Responsibilities\n1.Platform Feature Development & Delivery\nOwn the design, development, testing, and maintenance of OMS platform features with on-time, high-quality delivery.\n－Design and develop new OMS features across backend services (.NET), frontend (React), and database (SQL Server)\n－Build and maintain RESTful APIs and OMS Cloud Open APIs supporting global device integration and third-party connectivity\n－Contribute to OMS AI services and the product usage data (KYC) framework\n－Perform unit and integration testing to sustain code quality and platform stability\n2.Cloud-Native Architecture & Optimization\nContribute to the design and evolution of the Azure cloud-native architecture, continuously optimizing performance and cost.\n－Participate in Azure architecture design covering compute, storage, database, and messaging services\n－Analyze and optimize system performance, availability, and cloud resource costs\n－Contribute to edge computing integration planning, balancing frontend, backend, and cloud server workloads\n3.AI-First Engineering Practice\nEmbed AI tools deeply into the development process to continuously raise team engineering productivity.\n－Leverage GitHub Copilot, Cursor, and Claude in daily development as part of AI-First Development\n－Propose complete process-improvement initiatives and drive AI-assisted development best practices across the team\n4.Global Collaboration & Agile Delivery\nWork with cross-border, cross-functional teams to translate product requirements into shipped features.\n－Collaborate with PM, UI/UX designers, SQE, SQA, and overseas teams on requirements, specifications, and delivery\n－Communicate technical documentation and discussions in English\n－Proactively surface progress and technical risks to keep projects transparent\n5.Quality & Security\nUphold security and quality standards across the full development lifecycle.\n－Follow ISO 27001, ISMS, and Secure SDLC development processes\n－Establish and maintain design, development, testing, and operations documentation to keep information assets traceable and compliant with ISMS documentation requirements"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ReactJS",
+            "Github",
+            "Git",
+            "C#",
+            "ASP.NET",
+            "MySQL",
+            "PostgreSQL",
+            "MS SQL",
+            "Visual C#",
+            "Microsoft Azure",
+            "AWS",
+            "CSS",
+            "JIRA",
+            "Node.js"
+          ],
+          "label": "擅長工具",
+          "text": "ReactJS、Github、Git、C#、ASP.NET、MySQL、PostgreSQL、MS SQL、Visual C#、Microsoft Azure、AWS、CSS、JIRA、Node.js",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "資料庫軟體應用",
+            "系統架構規劃",
+            "軟體工程系統開發",
+            "CI/CD",
+            "自動化軟體測試"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、資料庫軟體應用、系統架構規劃、軟體工程系統開發、CI/CD、自動化軟體測試",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【必要條件】\n｜專業知識與技能｜\n－熟悉 C#/.NET 後端開發與物件導向設計\n－熟悉 React 前端開發\n－熟悉 SQL Server 資料庫設計與效能調校\n－熟悉 RESTful API 設計與開發\n－熟悉 Git 版本控制與 CI/CD 流程\n－具備 Azure 雲端服務開發與架構設計知識\n－具備英文技術文件讀寫與口語溝通能力\n｜專業實戰經驗｜\n－大學以上資訊相關科系畢業\n－5 年以上軟體開發經驗（碩士學歷可 3 年以上）\n－具 SaaS 或企業級 Web Application 產品開發經驗\n【期待能力與特質】\n｜期待能力｜\n－應用專業領域知識與技巧：掌握 .NET/Azure 生態系最新發展，並知道何時、如何應用於平台開發\n－批判性思考：在架構取捨與技術選型時，能分析論據、質疑假設，做出有根據的判斷\n－溝通表達：能將技術方案有條理地說明給 PM、Designer 與海外協作夥伴\n－與人協作：在小型精實團隊中明確角色分工，與跨國團隊建立開放互信的協作模式\n｜關鍵特質｜\n－當責（Accountability）：對自己的程式碼與交付結果有完全的所有權意識，不找藉口、專注解決。\n－學習力（Learnability）：能迅速吸收 AI 工具與雲端新技術，從錯誤中提取模式並立即修正。\n－適應力（Adaptability）：在需求與技術快速演變的環境中，迅速冷靜地調整做法。\n【加分條件】\n－Azure 實務經驗或相關證照（AZ-204 / AZ-305）\n－DevOps 實務經驗（CI/CD pipeline 建置、Infrastructure as Code）\n－AI Coding Assistant 深度使用經驗（如 agentic workflow、AI 輔助開發流程設計）\n－IoT、裝置管理或影音顯示產業開發經驗\n－Tech Lead 或系統架構設計經驗\n－獨立完成需求分析、設計、開發到交付的完整開發循環\n▍Requirements\n｜Knowledge & Skills｜\n－Proficient in C#/.NET backend development and object-oriented design\n－Proficient in React frontend development\n－Proficient in SQL Server database design and performance tuning\n－Proficient in RESTful API design and development\n－Proficient with Git and CI/CD workflows\n－Working knowledge of Azure cloud services and architecture design\n－Able to read, write, and communicate technical content in English\n｜Experience｜\n－Bachelor's degree or above in Computer Science or a related field\n－5+ years of software development experience (3+ years with a Master's degree)\n－Hands-on experience building SaaS or enterprise-grade web applications\n▍Competencies & Attributes\n｜Competencies｜\n－Applied Professional Expertise: stays current with the .NET/Azure ecosystem and knows when and how to apply it\n－Critical Thinking: analyzes evidence and challenges assumptions when making architecture trade-offs\n－Communication: explains technical solutions clearly to PMs, designers, and overseas partners\n－Collaboration: builds open, trusting working relationships within a lean team and across borders\n｜Key Attributes｜\n－Accountability: full ownership of code and outcomes — no excuses, focused on fixing and learning\n－Learnability: rapidly absorbs new AI tooling and cloud technologies, extracting patterns from mistakes\n－Adaptability: adjusts quickly and calmly as requirements and technology evolve\n▍Nice to Have\n－Hands-on Azure experience or certification (AZ-204 / AZ-305) (preferred)\n－DevOps experience (CI/CD pipeline setup, Infrastructure as Code) (preferred)\n－Advanced AI coding assistant experience (e.g., agentic workflows, AI-assisted development process design) (strongly preferred)\n－Experience in IoT, device management, or the AV/display industry (strongly preferred)\n－Tech Lead or system architecture design experience (strongly preferred)\n－Able to independently drive the full cycle from requirements analysis and design to delivery (preferred)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：ReactJS、Github、Git、C#、ASP.NET、MySQL、PostgreSQL、MS SQL、Visual C#、Microsoft Azure、AWS、CSS、JIRA、Node.js\n工作技能：軟體程式設計、資料庫軟體應用、系統架構規劃、軟體工程系統開發、CI/CD、自動化軟體測試\n其他條件：【必要條件】\n｜專業知識與技能｜\n－熟悉 C#/.NET 後端開發與物件導向設計\n－熟悉 React 前端開發\n－熟悉 SQL Server 資料庫設計與效能調校\n－熟悉 RESTful API 設計與開發\n－熟悉 Git 版本控制與 CI/CD 流程\n－具備 Azure 雲端服務開發與架構設計知識\n－具備英文技術文件讀寫與口語溝通能力\n｜專業實戰經驗｜\n－大學以上資訊相關科系畢業\n－5 年以上軟體開發經驗（碩士學歷可 3 年以上）\n－具 SaaS 或企業級 Web Application 產品開發經驗\n【期待能力與特質】\n｜期待能力｜\n－應用專業領域知識與技巧：掌握 .NET/Azure 生態系最新發展，並知道何時、如何應用於平台開發\n－批判性思考：在架構取捨與技術選型時，能分析論據、質疑假設，做出有根據的判斷\n－溝通表達：能將技術方案有條理地說明給 PM、Designer 與海外協作夥伴\n－與人協作：在小型精實團隊中明確角色分工，與跨國團隊建立開放互信的協作模式\n｜關鍵特質｜\n－當責（Accountability）：對自己的程式碼與交付結果有完全的所有權意識，不找藉口、專注解決。\n－學習力（Learnability）：能迅速吸收 AI 工具與雲端新技術，從錯誤中提取模式並立即修正。\n－適應力（Adaptability）：在需求與技術快速演變的環境中，迅速冷靜地調整做法。\n【加分條件】\n－Azure 實務經驗或相關證照（AZ-204 / AZ-305）\n－DevOps 實務經驗（CI/CD pipeline 建置、Infrastructure as Code）\n－AI Coding Assistant 深度使用經驗（如 agentic workflow、AI 輔助開發流程設計）\n－IoT、裝置管理或影音顯示產業開發經驗\n－Tech Lead 或系統架構設計經驗\n－獨立完成需求分析、設計、開發到交付的完整開發循環\n▍Requirements\n｜Knowledge & Skills｜\n－Proficient in C#/.NET backend development and object-oriented design\n－Proficient in React frontend development\n－Proficient in SQL Server database design and performance tuning\n－Proficient in RESTful API design and development\n－Proficient with Git and CI/CD workflows\n－Working knowledge of Azure cloud services and architecture design\n－Able to read, write, and communicate technical content in English\n｜Experience｜\n－Bachelor's degree or above in Computer Science or a related field\n－5+ years of software development experience (3+ years with a Master's degree)\n－Hands-on experience building SaaS or enterprise-grade web applications\n▍Competencies & Attributes\n｜Competencies｜\n－Applied Professional Expertise: stays current with the .NET/Azure ecosystem and knows when and how to apply it\n－Critical Thinking: analyzes evidence and challenges assumptions when making architecture trade-offs\n－Communication: explains technical solutions clearly to PMs, designers, and overseas partners\n－Collaboration: builds open, trusting working relationships within a lean team and across borders\n｜Key Attributes｜\n－Accountability: full ownership of code and outcomes — no excuses, focused on fixing and learning\n－Learnability: rapidly absorbs new AI tooling and cloud technologies, extracting patterns from mistakes\n－Adaptability: adjusts quickly and calmly as requirements and technology evolve\n▍Nice to Have\n－Hands-on Azure experience or certification (AZ-204 / AZ-305) (preferred)\n－DevOps experience (CI/CD pipeline setup, Infrastructure as Code) (preferred)\n－Advanced AI coding assistant experience (e.g., agentic workflows, AI-assisted development process design) (strongly preferred)\n－Experience in IoT, device management, or the AV/display industry (strongly preferred)\n－Tech Lead or system architecture design experience (strongly preferred)\n－Able to independently drive the full cycle from requirements analysis and design to delivery (preferred)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94cq4",
+    "job_url": "https://www.104.com.tw/job/94cq4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94cq4.json",
+    "raw_sha256": "3d302a5d545e9449efb0ced73e3f4979b06400ad01d4cc2b9e442f12c0c7ae60",
+    "requested_url": "https://www.104.com.tw/api/jobs/94cq4"
+  }
+}

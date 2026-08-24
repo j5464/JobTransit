@@ -1,0 +1,265 @@
+{
+  "company": {
+    "id": "1a2x6blsw9",
+    "name": "優果科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉MVC架構"
+        },
+        {
+          "children": [],
+          "text": "熟悉ASP.NET C# or ASP.NET core"
+        },
+        {
+          "children": [],
+          "text": "熟悉MS-SQL 熟悉store procedure加分"
+        },
+        {
+          "children": [],
+          "text": "熟悉CSS / Javascript"
+        },
+        {
+          "children": [],
+          "text": "熟悉Restful API / JSON"
+        },
+        {
+          "children": [],
+          "text": "需有獨立作業之能力及團隊協作能力工作"
+        }
+      ],
+      "text": "1. 熟悉MVC架構\n2. 熟悉ASP.NET C# or ASP.NET core\n3. 熟悉MS-SQL 熟悉store procedure加分\n4. 熟悉CSS / Javascript\n5. 熟悉Restful API / JSON\n6. 需有獨立作業之能力及團隊協作能力工作"
+    },
+    "employment_type_raw": "全職",
+    "title": "Web Developer / Junior or Senior"
+  },
+  "location": {
+    "address_raw": "台中市大里區科技路3號12樓之5C",
+    "raw": "台中市大里區科技路3號12樓之5C"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "MS SQL",
+          "HTML",
+          "CSS",
+          "Angular"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、MS SQL、HTML、CSS、Angular"
+      },
+      {
+        "items": [
+          "專案時間╱進度控管",
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "專案時間╱進度控管、系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "專案時間╱進度控管",
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學\n科系要求：資訊管理相關、資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：ASP.NET、C#、MS SQL、HTML、CSS、Angular\n工作技能：專案時間╱進度控管、系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "MS SQL",
+      "HTML",
+      "CSS",
+      "Angular"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 25
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:23:46+08:00"
+  },
+  "salary": {
+    "raw": "月薪38,000~55,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 熟悉MVC架構\n2. 熟悉ASP.NET C# or ASP.NET core\n3. 熟悉MS-SQL 熟悉store procedure加分\n4. 熟悉CSS / Javascript\n5. 熟悉Restful API / JSON\n6. 需有獨立作業之能力及團隊協作能力工作",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪38,000~55,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市大里區科技路3號12樓之5C",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 熟悉MVC架構\n2. 熟悉ASP.NET C# or ASP.NET core\n3. 熟悉MS-SQL 熟悉store procedure加分\n4. 熟悉CSS / Javascript\n5. 熟悉Restful API / JSON\n6. 需有獨立作業之能力及團隊協作能力工作"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "MS SQL",
+            "HTML",
+            "CSS",
+            "Angular"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、MS SQL、HTML、CSS、Angular",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "專案時間╱進度控管",
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "專案時間╱進度控管、系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學\n科系要求：資訊管理相關、資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：ASP.NET、C#、MS SQL、HTML、CSS、Angular\n工作技能：專案時間╱進度控管、系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7fegp",
+    "job_url": "https://www.104.com.tw/job/7fegp",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7fegp.json",
+    "raw_sha256": "ccbf4c551e6b30d603e823edb98adb8d2868edd4aef339238599fc890be06608",
+    "requested_url": "https://www.104.com.tw/api/jobs/7fegp"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "company": {
+    "id": "dee6w3s",
+    "name": "全球傳動科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "軟體工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "WEB應用系統開發與維運。"
+        },
+        {
+          "children": [],
+          "text": "AI應用系統優化與調校。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項。"
+        }
+      ],
+      "text": "1. WEB應用系統開發與維運。\n2. AI應用系統優化與調校。\n3. 其他主管交辦事項。\n本公司積極進行系統整合及流程改善，提昇系統化及數位化對經營管理之效益，歡迎對企業流程改善有興趣者共同參與，提昇公司及個人之競爭力！"
+    },
+    "employment_type_raw": "全職",
+    "title": "應用系統開發工程師"
+  },
+  "location": {
+    "address_raw": "新北市樹林區三多路123號",
+    "raw": "新北市樹林區三多路123號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "必要條件：(以下符合2項者佳)\n1. 熟asp.net 、c# 、Web API、python、gitlab。\n2. 具web應用系統開發經驗。\n3. 具串接ERP系統系統經驗。\n加分條件：\n1. 具一年以上 AI/ML 實戰經驗者，將優先安排面試。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "必要條件：(以下符合2項者佳)\n1. 熟asp.net 、c# 、Web API、python、gitlab。\n2. 具web應用系統開發經驗。\n3. 具串接ERP系統系統經驗。\n加分條件：\n1. 具一年以上 AI/ML 實戰經驗者，將優先安排面試。",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、C#、Python\n其他條件：必要條件：(以下符合2項者佳)\n1. 熟asp.net 、c# 、Web API、python、gitlab。\n2. 具web應用系統開發經驗。\n3. 具串接ERP系統系統經驗。\n加分條件：\n1. 具一年以上 AI/ML 實戰經驗者，將優先安排面試。",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 70
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:13:23+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. WEB應用系統開發與維運。\n2. AI應用系統優化與調校。\n3. 其他主管交辦事項。\n本公司積極進行系統整合及流程改善，提昇系統化及數位化對經營管理之效益，歡迎對企業流程改善有興趣者共同參與，提昇公司及個人之競爭力！",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "軟體工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、軟體工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市樹林區三多路123號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. WEB應用系統開發與維運。\n2. AI應用系統優化與調校。\n3. 其他主管交辦事項。\n本公司積極進行系統整合及流程改善，提昇系統化及數位化對經營管理之效益，歡迎對企業流程改善有興趣者共同參與，提昇公司及個人之競爭力！"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "必要條件：(以下符合2項者佳)\n1. 熟asp.net 、c# 、Web API、python、gitlab。\n2. 具web應用系統開發經驗。\n3. 具串接ERP系統系統經驗。\n加分條件：\n1. 具一年以上 AI/ML 實戰經驗者，將優先安排面試。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、C#、Python\n其他條件：必要條件：(以下符合2項者佳)\n1. 熟asp.net 、c# 、Web API、python、gitlab。\n2. 具web應用系統開發經驗。\n3. 具串接ERP系統系統經驗。\n加分條件：\n1. 具一年以上 AI/ML 實戰經驗者，將優先安排面試。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "88de5",
+    "job_url": "https://www.104.com.tw/job/88de5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/88de5.json",
+    "raw_sha256": "454d10f488af63b37efb058ab5f9a6e3a707188f6b2a5504ea7ca63097a9861e",
+    "requested_url": "https://www.104.com.tw/api/jobs/88de5"
+  }
+}

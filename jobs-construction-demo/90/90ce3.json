@@ -1,0 +1,177 @@
+{
+  "company": {
+    "id": "1a2x6bnpk8",
+    "name": "璞克斯能源股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "你的程式碼跑在案場機房裡，24 小時不間斷地控制著價值數千萬的儲能設備。當電力調度指令下達，你寫的狀態機要在秒級內完成響應；當電網頻率偏移，你的演算法決定該出多少力。這不是模擬環境，每一個 Bug 都可能造成真實的設備損壞或罰款。\n你會用 C 語言打造控制系統的核心，透過工業通訊協定與各廠牌設備對話，實作從功率分配到頻率調節的各種演算法。如果你喜歡離硬體很近、解決的問題很實的工程挑戰，這個角色會讓你每天都有成就感。\n工作內容\n以 C 語言開發儲能系統的即時控制邏輯\n設計與實作有限狀態機（FSM），管理系統狀態轉換與事件處理\n透過 Modbus RTU/TCP 與 IEC 61850 等工業協定，與電力設備通訊\n實作電力輔助服務的控制邏輯（備轉、調頻等）\n開發功率管理相關演算法\n處理多執行緒環境下的裝置讀取、事件佇列、資料儲存\n與 Web 後端透過 API 交換資料"
+    },
+    "employment_type_raw": "全職",
+    "title": "Embedded / Systems Engineer（嵌入式 / 系統工程師）"
+  },
+  "location": {
+    "address_raw": "新竹縣竹東鎮中興路四段195號(53館520室)",
+    "raw": "新竹縣竹東鎮中興路四段195號(53館520室)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "Git",
+          "Linux",
+          "PostgreSQL",
+          "TCP/IP"
+        ],
+        "label": "擅長工具",
+        "text": "C、Git、Linux、PostgreSQL、TCP/IP"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：高中以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、Git、Linux、PostgreSQL、TCP/IP",
+    "tools": [
+      "C",
+      "Git",
+      "Linux",
+      "PostgreSQL",
+      "TCP/IP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 52
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:31:00+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "你的程式碼跑在案場機房裡，24 小時不間斷地控制著價值數千萬的儲能設備。當電力調度指令下達，你寫的狀態機要在秒級內完成響應；當電網頻率偏移，你的演算法決定該出多少力。這不是模擬環境，每一個 Bug 都可能造成真實的設備損壞或罰款。\n你會用 C 語言打造控制系統的核心，透過工業通訊協定與各廠牌設備對話，實作從功率分配到頻率調節的各種演算法。如果你喜歡離硬體很近、解決的問題很實的工程挑戰，這個角色會讓你每天都有成就感。\n工作內容\n以 C 語言開發儲能系統的即時控制邏輯\n設計與實作有限狀態機（FSM），管理系統狀態轉換與事件處理\n透過 Modbus RTU/TCP 與 IEC 61850 等工業協定，與電力設備通訊\n實作電力輔助服務的控制邏輯（備轉、調頻等）\n開發功率管理相關演算法\n處理多執行緒環境下的裝置讀取、事件佇列、資料儲存\n與 Web 後端透過 API 交換資料",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹東鎮中興路四段195號(53館520室)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "你的程式碼跑在案場機房裡，24 小時不間斷地控制著價值數千萬的儲能設備。當電力調度指令下達，你寫的狀態機要在秒級內完成響應；當電網頻率偏移，你的演算法決定該出多少力。這不是模擬環境，每一個 Bug 都可能造成真實的設備損壞或罰款。\n你會用 C 語言打造控制系統的核心，透過工業通訊協定與各廠牌設備對話，實作從功率分配到頻率調節的各種演算法。如果你喜歡離硬體很近、解決的問題很實的工程挑戰，這個角色會讓你每天都有成就感。\n工作內容\n以 C 語言開發儲能系統的即時控制邏輯\n設計與實作有限狀態機（FSM），管理系統狀態轉換與事件處理\n透過 Modbus RTU/TCP 與 IEC 61850 等工業協定，與電力設備通訊\n實作電力輔助服務的控制邏輯（備轉、調頻等）\n開發功率管理相關演算法\n處理多執行緒環境下的裝置讀取、事件佇列、資料儲存\n與 Web 後端透過 API 交換資料"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "Git",
+            "Linux",
+            "PostgreSQL",
+            "TCP/IP"
+          ],
+          "label": "擅長工具",
+          "text": "C、Git、Linux、PostgreSQL、TCP/IP",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：高中以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、Git、Linux、PostgreSQL、TCP/IP"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "90ce3",
+    "job_url": "https://www.104.com.tw/job/90ce3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90ce3.json",
+    "raw_sha256": "66bb2e5b8278f2198fc920ee1c079bda97425fb542ed3f43b4490c99e035ba9e",
+    "requested_url": "https://www.104.com.tw/api/jobs/90ce3"
+  }
+}

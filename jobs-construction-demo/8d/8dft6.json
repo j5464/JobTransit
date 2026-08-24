@@ -1,0 +1,203 @@
+{
+  "company": {
+    "id": "ztk22pc",
+    "name": "PMC_財團法人精密機械研究發展中心"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "電機技師／工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "智慧製造之感測器應用"
+        },
+        {
+          "children": [],
+          "text": "人工智慧應用"
+        },
+        {
+          "children": [],
+          "text": "資料科學應用等軟體開發"
+        }
+      ],
+      "text": "1.智慧製造之感測器應用\n2.人工智慧應用\n3.資料科學應用等軟體開發"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI智慧製造軟體開發工程師-U2/U1"
+  },
+  "location": {
+    "address_raw": "台中市西屯區工業區三十七路27號",
+    "raw": "台中市西屯區工業區三十七路27號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具檢測或自動化設備開發經驗者尤佳。\n2.主動積極、配合度佳者。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "機械工程相關"
+    ],
+    "other_text": "1.具檢測或自動化設備開發經驗者尤佳。\n2.主動積極、配合度佳者。",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n擅長工具：C、C++、Python\n其他條件：1.具檢測或自動化設備開發經驗者尤佳。\n2.主動積極、配合度佳者。",
+    "tools": [
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 34
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:45:44+08:00"
+  },
+  "salary": {
+    "raw": "月薪36,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.智慧製造之感測器應用\n2.人工智慧應用\n3.資料科學應用等軟體開發",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "電機技師／工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、電機技師／工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪36,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區工業區三十七路27號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.智慧製造之感測器應用\n2.人工智慧應用\n3.資料科學應用等軟體開發"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具檢測或自動化設備開發經驗者尤佳。\n2.主動積極、配合度佳者。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n擅長工具：C、C++、Python\n其他條件：1.具檢測或自動化設備開發經驗者尤佳。\n2.主動積極、配合度佳者。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8dft6",
+    "job_url": "https://www.104.com.tw/job/8dft6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8dft6.json",
+    "raw_sha256": "e329d32338f4d8babb191d94e776023ce6c403888bed3b457b02a5b7a02eaf8d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8dft6"
+  }
+}

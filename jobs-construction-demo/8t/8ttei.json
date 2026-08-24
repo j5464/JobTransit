@@ -1,0 +1,204 @@
+{
+  "company": {
+    "id": "10tmt748",
+    "name": "清谷電子有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "通訊軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "維護現有系統，逐步熟悉公司軟體架構。"
+        },
+        {
+          "children": [],
+          "text": "協助持續修正、優化與調整功能。"
+        },
+        {
+          "children": [],
+          "text": "依需求參與新功能開發與客製化專案。"
+        },
+        {
+          "children": [],
+          "text": "與負責人協作，進行架構調整與長期維護。"
+        }
+      ],
+      "text": "1.維護現有系統，逐步熟悉公司軟體架構。\n2.協助持續修正、優化與調整功能。\n3.依需求參與新功能開發與客製化專案。\n4.與負責人協作，進行架構調整與長期維護。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師 (Python / Django)"
+  },
+  "location": {
+    "address_raw": "新北市淡水區中正東路一段3巷17號3F",
+    "raw": "新北市淡水區中正東路一段3巷17號3F"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "Python",
+          "JavaScript",
+          "Django",
+          "Linux"
+        ],
+        "label": "擅長工具",
+        "text": "Python、JavaScript、Django、Linux"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟練 Python\n使用過 Django 與 Flask 框架\n了解 SQL 與資料庫操作（查詢、索引、ORM）\n具備自我學習能力，能快速熟悉現有架構並持續吸收新知\n願意開放式討論、合作維護，能與同事協作\n擁有解決問題與挑戰客製化需求的心態"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "熟練 Python\n使用過 Django 與 Flask 框架\n了解 SQL 與資料庫操作（查詢、索引、ORM）\n具備自我學習能力，能快速熟悉現有架構並持續吸收新知\n願意開放式討論、合作維護，能與同事協作\n擁有解決問題與挑戰客製化需求的心態",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：Python、JavaScript、Django、Linux\n工作技能：軟體程式設計\n其他條件：熟練 Python\n使用過 Django 與 Flask 框架\n了解 SQL 與資料庫操作（查詢、索引、ORM）\n具備自我學習能力，能快速熟悉現有架構並持續吸收新知\n願意開放式討論、合作維護，能與同事協作\n擁有解決問題與挑戰客製化需求的心態",
+    "tools": [
+      "Python",
+      "JavaScript",
+      "Django",
+      "Linux"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 13
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:53:57+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.維護現有系統，逐步熟悉公司軟體架構。\n2.協助持續修正、優化與調整功能。\n3.依需求參與新功能開發與客製化專案。\n4.與負責人協作，進行架構調整與長期維護。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "通訊軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、通訊軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市淡水區中正東路一段3巷17號3F",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.維護現有系統，逐步熟悉公司軟體架構。\n2.協助持續修正、優化與調整功能。\n3.依需求參與新功能開發與客製化專案。\n4.與負責人協作，進行架構調整與長期維護。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "JavaScript",
+            "Django",
+            "Linux"
+          ],
+          "label": "擅長工具",
+          "text": "Python、JavaScript、Django、Linux",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟練 Python\n使用過 Django 與 Flask 框架\n了解 SQL 與資料庫操作（查詢、索引、ORM）\n具備自我學習能力，能快速熟悉現有架構並持續吸收新知\n願意開放式討論、合作維護，能與同事協作\n擁有解決問題與挑戰客製化需求的心態",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：Python、JavaScript、Django、Linux\n工作技能：軟體程式設計\n其他條件：熟練 Python\n使用過 Django 與 Flask 框架\n了解 SQL 與資料庫操作（查詢、索引、ORM）\n具備自我學習能力，能快速熟悉現有架構並持續吸收新知\n願意開放式討論、合作維護，能與同事協作\n擁有解決問題與挑戰客製化需求的心態"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ttei",
+    "job_url": "https://www.104.com.tw/job/8ttei",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ttei.json",
+    "raw_sha256": "86a584e987efd5e4eb18f1149ad141c2e372c69de7bdc0353eccd8752bebc9f3",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ttei"
+  }
+}

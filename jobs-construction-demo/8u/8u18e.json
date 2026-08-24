@@ -1,0 +1,252 @@
+{
+  "company": {
+    "id": "18rkf108",
+    "name": "威強電工業電腦股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責虛擬化平台核心功能開發與維護"
+        },
+        {
+          "children": [],
+          "text": "開發高效能的備份與恢復機制"
+        },
+        {
+          "children": [],
+          "text": "設計 RESTful API 與 RPC 通訊框架"
+        },
+        {
+          "children": [],
+          "text": "產品版本問題排查與效能調優"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Python3"
+        },
+        {
+          "children": [],
+          "text": "具備 Django + REST Framework 深度使用經驗"
+        },
+        {
+          "children": [],
+          "text": "具備 WebSocket 即時通訊開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RESTful API 與 RPC 通訊框架"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Sqlite、Redis 等資料庫技術"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版本控制流程"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Linux、具備 Shell/Bash 腳本開發能力"
+        },
+        {
+          "children": [],
+          "text": "Libvirt API、 KVM/QEMU 虛擬化技術"
+        },
+        {
+          "children": [],
+          "text": "具自動化測試經驗"
+        },
+        {
+          "children": [],
+          "text": "具效能優化經驗"
+        },
+        {
+          "children": [],
+          "text": "具 CI/CD 維護設計經驗"
+        },
+        {
+          "children": [],
+          "text": "具系統監控與告警機制"
+        },
+        {
+          "children": [],
+          "text": "跨團隊協作與技術領導經驗"
+        },
+        {
+          "children": [],
+          "text": "具備設計模式實際應用經驗"
+        }
+      ],
+      "text": "我們正在尋找一位資深軟體工程師，加入我們的核心開發團隊，負責企業級虛擬化平台的架構設計與開發。您將參與從底層虛擬化技術到上層管理介面的完整技術棧開發，並有機會主導關鍵技術創新專案。\n【工作內容】\n1. 負責虛擬化平台核心功能開發與維護\n2. 開發高效能的備份與恢復機制\n3. 設計 RESTful API 與 RPC 通訊框架\n4. 產品版本問題排查與效能調優\n【需求條件】\n1. 熟悉 Python3\n2. 具備 Django + REST Framework 深度使用經驗\n3. 具備 WebSocket 即時通訊開發經驗\n4. 熟悉 RESTful API 與 RPC 通訊框架\n5. 熟悉 Sqlite、Redis 等資料庫技術\n6. 熟悉 Git 版本控制流程\n7. 熟悉 Linux、具備 Shell/Bash 腳本開發能力\n【加分條件】\n1. Libvirt API、 KVM/QEMU 虛擬化技術\n2. 具自動化測試經驗\n3. 具效能優化經驗\n4. 具 CI/CD 維護設計經驗\n5. 具系統監控與告警機制\n6. 跨團隊協作與技術領導經驗\n7. 具備設計模式實際應用經驗"
+    },
+    "employment_type_raw": "全職",
+    "title": "Backend Junior/Senior Engineer(新生辦公室)"
+  },
+  "location": {
+    "address_raw": "台北市大安區新生南路一段111號",
+    "raw": "台北市大安區新生南路一段111號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉後端開發 / 具備後端 debug 能力\n2.熟悉 Python3 / Django + REST Framework 後端框架\n3.主動積極、細心負責、有效率、重視團隊合作並樂於學習及分享資訊"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.熟悉後端開發 / 具備後端 debug 能力\n2.熟悉 Python3 / Django + REST Framework 後端框架\n3.主動積極、細心負責、有效率、重視團隊合作並樂於學習及分享資訊",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1.熟悉後端開發 / 具備後端 debug 能力\n2.熟悉 Python3 / Django + REST Framework 後端框架\n3.主動積極、細心負責、有效率、重視團隊合作並樂於學習及分享資訊",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 32
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:39:55+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們正在尋找一位資深軟體工程師，加入我們的核心開發團隊，負責企業級虛擬化平台的架構設計與開發。您將參與從底層虛擬化技術到上層管理介面的完整技術棧開發，並有機會主導關鍵技術創新專案。\n【工作內容】\n1. 負責虛擬化平台核心功能開發與維護\n2. 開發高效能的備份與恢復機制\n3. 設計 RESTful API 與 RPC 通訊框架\n4. 產品版本問題排查與效能調優\n【需求條件】\n1. 熟悉 Python3\n2. 具備 Django + REST Framework 深度使用經驗\n3. 具備 WebSocket 即時通訊開發經驗\n4. 熟悉 RESTful API 與 RPC 通訊框架\n5. 熟悉 Sqlite、Redis 等資料庫技術\n6. 熟悉 Git 版本控制流程\n7. 熟悉 Linux、具備 Shell/Bash 腳本開發能力\n【加分條件】\n1. Libvirt API、 KVM/QEMU 虛擬化技術\n2. 具自動化測試經驗\n3. 具效能優化經驗\n4. 具 CI/CD 維護設計經驗\n5. 具系統監控與告警機制\n6. 跨團隊協作與技術領導經驗\n7. 具備設計模式實際應用經驗",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區新生南路一段111號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們正在尋找一位資深軟體工程師，加入我們的核心開發團隊，負責企業級虛擬化平台的架構設計與開發。您將參與從底層虛擬化技術到上層管理介面的完整技術棧開發，並有機會主導關鍵技術創新專案。\n【工作內容】\n1. 負責虛擬化平台核心功能開發與維護\n2. 開發高效能的備份與恢復機制\n3. 設計 RESTful API 與 RPC 通訊框架\n4. 產品版本問題排查與效能調優\n【需求條件】\n1. 熟悉 Python3\n2. 具備 Django + REST Framework 深度使用經驗\n3. 具備 WebSocket 即時通訊開發經驗\n4. 熟悉 RESTful API 與 RPC 通訊框架\n5. 熟悉 Sqlite、Redis 等資料庫技術\n6. 熟悉 Git 版本控制流程\n7. 熟悉 Linux、具備 Shell/Bash 腳本開發能力\n【加分條件】\n1. Libvirt API、 KVM/QEMU 虛擬化技術\n2. 具自動化測試經驗\n3. 具效能優化經驗\n4. 具 CI/CD 維護設計經驗\n5. 具系統監控與告警機制\n6. 跨團隊協作與技術領導經驗\n7. 具備設計模式實際應用經驗"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉後端開發 / 具備後端 debug 能力\n2.熟悉 Python3 / Django + REST Framework 後端框架\n3.主動積極、細心負責、有效率、重視團隊合作並樂於學習及分享資訊",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1.熟悉後端開發 / 具備後端 debug 能力\n2.熟悉 Python3 / Django + REST Framework 後端框架\n3.主動積極、細心負責、有效率、重視團隊合作並樂於學習及分享資訊"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8u18e",
+    "job_url": "https://www.104.com.tw/job/8u18e",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8u18e.json",
+    "raw_sha256": "27f517c2d3a1430f64f4f6aee966fa5d6dc164aa5f8d5f5c7af82aae53662487",
+    "requested_url": "https://www.104.com.tw/api/jobs/8u18e"
+  }
+}

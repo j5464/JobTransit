@@ -1,0 +1,286 @@
+{
+  "company": {
+    "id": "oe22du0",
+    "name": "LILEE SYSTEMS_理立系統股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "通訊軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "五年以上 Linux 系統軟體開發經驗"
+        },
+        {
+          "children": [],
+          "text": "精通 C，熟悉 Bash/Python"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Linux networking（如 netfilter、conntrack、iptables、tc、netlink）"
+        },
+        {
+          "children": [],
+          "text": "有虛擬化網路（如 OpenVSwitch）與系統效能調校實務經驗"
+        },
+        {
+          "children": [],
+          "text": "具備自動化工具開發、分散式系統經驗尤佳"
+        },
+        {
+          "children": [],
+          "text": "Develop platform BSP and driver software based on Linux. ​"
+        },
+        {
+          "children": [],
+          "text": "Migrate existing software to new hardware platform.​"
+        },
+        {
+          "children": [],
+          "text": "In charge of the key development of networking features and system middleware. ​"
+        },
+        {
+          "children": [],
+          "text": "Participate in the full lifecycle of software development process, including requirement review, technical research, design, implementation, testing and documentation. ​"
+        },
+        {
+          "children": [],
+          "text": "Deliver reliable and scalable product solutions and take ownership for issue resolving. ​"
+        },
+        {
+          "children": [],
+          "text": "Work independently, proactively and collaboratively with a team."
+        },
+        {
+          "children": [],
+          "text": "Minimum 5 years of work experience and solid in C programming.​"
+        },
+        {
+          "children": [],
+          "text": "Experience in Bash/Python programming.​"
+        },
+        {
+          "children": [],
+          "text": "Familiar with Unix/Linux environments.​"
+        },
+        {
+          "children": [],
+          "text": "Understanding of bridging, routing, and network protocols (e.g. TCP/IP, NAT, DHCP, DNS).​"
+        },
+        {
+          "children": [],
+          "text": "Knowledge of Linux kernel networking stack (e.g. packet flow, netfilter, conntrack, traffic control) and user space lib/tool (e.g. netlink, iptables, tc).​"
+        },
+        {
+          "children": [],
+          "text": "Experience with virtualized networking (e.g. OpenVSwitch).​"
+        },
+        {
+          "children": [],
+          "text": "Experience in Linux network device data path performance tuning.​"
+        },
+        {
+          "children": [],
+          "text": "Experience in software development with large scale distributed system.​"
+        },
+        {
+          "children": [],
+          "text": "Self-managed, self-motivated and self-learning.​"
+        },
+        {
+          "children": [],
+          "text": "Excellent at cross-functional-team collaboration.​"
+        },
+        {
+          "children": [],
+          "text": "Good analytical and problem-solving skills."
+        }
+      ],
+      "text": "我們正在尋找一位具備 Linux BSP 與 Kernel Driver 開發經驗的工程師，負責關鍵系統軟體的開發、維護與移植工作。您將參與從需求分析、系統設計、實作到測試的完整流程，並投入產品在新平台上的整合與優化。\n我們希望您具備：\n- 五年以上 Linux 系統軟體開發經驗\n- 精通 C，熟悉 Bash/Python\n- 熟悉 Linux networking（如 netfilter、conntrack、iptables、tc、netlink）\n- 有虛擬化網路（如 OpenVSwitch）與系統效能調校實務經驗\n- 具備自動化工具開發、分散式系統經驗尤佳\n目前專案正處於系統整合與驗證階段，新成員將深入參與測試與問題排查，快速掌握整體架構並展現技術影響力。我們期待一位主動積極、熱愛技術的夥伴加入，與我們一同打造穩定、高效的產品。\nResponsibilities:\n- Develop platform BSP and driver software based on Linux. ​\n- Migrate existing software to new hardware platform.​\n- In charge of the key development of networking features and system middleware. ​\n- Participate in the full lifecycle of software development process, including requirement review, technical research, design, implementation, testing and documentation. ​\n- Deliver reliable and scalable product solutions and take ownership for issue resolving. ​\n- Work independently, proactively and collaboratively with a team.\nPrerequisites:\n- Minimum 5 years of work experience and solid in C programming.​\n- Experience in Bash/Python programming.​\n- Familiar with Unix/Linux environments.​\n- Understanding of bridging, routing, and network protocols (e.g. TCP/IP, NAT, DHCP, DNS).​\n- Knowledge of Linux kernel networking stack (e.g. packet flow, netfilter, conntrack, traffic control) and user space lib/tool (e.g. netlink, iptables, tc).​\n- Experience with virtualized networking (e.g. OpenVSwitch).​\n- Experience in Linux network device data path performance tuning.​\n- Experience in software development with large scale distributed system.​\n- Self-managed, self-motivated and self-learning.​\n- Excellent at cross-functional-team collaboration.​\n- Good analytical and problem-solving skills."
+    },
+    "employment_type_raw": "全職",
+    "title": "[OS Team] Senior Embedded Software Engineer"
+  },
+  "location": {
+    "address_raw": "新北市板橋區新站路16之1號24樓(近板橋車站)",
+    "raw": "新北市板橋區新站路16之1號24樓(近板橋車站)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Python",
+          "Linux",
+          "C",
+          "iptables",
+          "TCP/IP",
+          "Socket"
+        ],
+        "label": "擅長工具",
+        "text": "Python、Linux、C、iptables、TCP/IP、Socket"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "系統架構規劃"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發、系統架構規劃"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Nice to have:\n- Experience with OpenWRT is a plus.​\n- Ability to read and understand circuit diagrams and board schematics.​\n- Experience with version control tools (e.g. git) and issue tracking system (e.g. JIRA).​\n- Experience in messaging protocol such as MQTT is a plus.​\n- Experience in developing or maintaining automation tests to support software releases."
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "Nice to have:\n- Experience with OpenWRT is a plus.​\n- Ability to read and understand circuit diagrams and board schematics.​\n- Experience with version control tools (e.g. git) and issue tracking system (e.g. JIRA).​\n- Experience in messaging protocol such as MQTT is a plus.​\n- Experience in developing or maintaining automation tests to support software releases.",
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "系統架構規劃"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：Python、Linux、C、iptables、TCP/IP、Socket\n工作技能：軟體程式設計、軟體工程系統開發、系統架構規劃\n其他條件：Nice to have:\n- Experience with OpenWRT is a plus.​\n- Ability to read and understand circuit diagrams and board schematics.​\n- Experience with version control tools (e.g. git) and issue tracking system (e.g. JIRA).​\n- Experience in messaging protocol such as MQTT is a plus.​\n- Experience in developing or maintaining automation tests to support software releases.",
+    "tools": [
+      "Python",
+      "Linux",
+      "C",
+      "iptables",
+      "TCP/IP",
+      "Socket"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 19
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:08:31+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們正在尋找一位具備 Linux BSP 與 Kernel Driver 開發經驗的工程師，負責關鍵系統軟體的開發、維護與移植工作。您將參與從需求分析、系統設計、實作到測試的完整流程，並投入產品在新平台上的整合與優化。\n我們希望您具備：\n- 五年以上 Linux 系統軟體開發經驗\n- 精通 C，熟悉 Bash/Python\n- 熟悉 Linux networking（如 netfilter、conntrack、iptables、tc、netlink）\n- 有虛擬化網路（如 OpenVSwitch）與系統效能調校實務經驗\n- 具備自動化工具開發、分散式系統經驗尤佳\n目前專案正處於系統整合與驗證階段，新成員將深入參與測試與問題排查，快速掌握整體架構並展現技術影響力。我們期待一位主動積極、熱愛技術的夥伴加入，與我們一同打造穩定、高效的產品。\nResponsibilities:\n- Develop platform BSP and driver software based on Linux. ​\n- Migrate existing software to new hardware platform.​\n- In charge of the key development of networking features and system middleware. ​\n- Participate in the full lifecycle of software development process, including requirement review, technical research, design, implementation, testing and documentation. ​\n- Deliver reliable and scalable product solutions and take ownership for issue resolving. ​\n- Work independently, proactively and collaboratively with a team.\nPrerequisites:\n- Minimum 5 years of work experience and solid in C programming.​\n- Experience in Bash/Python programming.​\n- Familiar with Unix/Linux environments.​\n- Understanding of bridging, routing, and network protocols (e.g. TCP/IP, NAT, DHCP, DNS).​\n- Knowledge of Linux kernel networking stack (e.g. packet flow, netfilter, conntrack, traffic control) and user space lib/tool (e.g. netlink, iptables, tc).​\n- Experience with virtualized networking (e.g. OpenVSwitch).​\n- Experience in Linux network device data path performance tuning.​\n- Experience in software development with large scale distributed system.​\n- Self-managed, self-motivated and self-learning.​\n- Excellent at cross-functional-team collaboration.​\n- Good analytical and problem-solving skills.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "通訊軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、通訊軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區新站路16之1號24樓(近板橋車站)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們正在尋找一位具備 Linux BSP 與 Kernel Driver 開發經驗的工程師，負責關鍵系統軟體的開發、維護與移植工作。您將參與從需求分析、系統設計、實作到測試的完整流程，並投入產品在新平台上的整合與優化。\n我們希望您具備：\n- 五年以上 Linux 系統軟體開發經驗\n- 精通 C，熟悉 Bash/Python\n- 熟悉 Linux networking（如 netfilter、conntrack、iptables、tc、netlink）\n- 有虛擬化網路（如 OpenVSwitch）與系統效能調校實務經驗\n- 具備自動化工具開發、分散式系統經驗尤佳\n目前專案正處於系統整合與驗證階段，新成員將深入參與測試與問題排查，快速掌握整體架構並展現技術影響力。我們期待一位主動積極、熱愛技術的夥伴加入，與我們一同打造穩定、高效的產品。\nResponsibilities:\n- Develop platform BSP and driver software based on Linux. ​\n- Migrate existing software to new hardware platform.​\n- In charge of the key development of networking features and system middleware. ​\n- Participate in the full lifecycle of software development process, including requirement review, technical research, design, implementation, testing and documentation. ​\n- Deliver reliable and scalable product solutions and take ownership for issue resolving. ​\n- Work independently, proactively and collaboratively with a team.\nPrerequisites:\n- Minimum 5 years of work experience and solid in C programming.​\n- Experience in Bash/Python programming.​\n- Familiar with Unix/Linux environments.​\n- Understanding of bridging, routing, and network protocols (e.g. TCP/IP, NAT, DHCP, DNS).​\n- Knowledge of Linux kernel networking stack (e.g. packet flow, netfilter, conntrack, traffic control) and user space lib/tool (e.g. netlink, iptables, tc).​\n- Experience with virtualized networking (e.g. OpenVSwitch).​\n- Experience in Linux network device data path performance tuning.​\n- Experience in software development with large scale distributed system.​\n- Self-managed, self-motivated and self-learning.​\n- Excellent at cross-functional-team collaboration.​\n- Good analytical and problem-solving skills."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "Linux",
+            "C",
+            "iptables",
+            "TCP/IP",
+            "Socket"
+          ],
+          "label": "擅長工具",
+          "text": "Python、Linux、C、iptables、TCP/IP、Socket",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "系統架構規劃"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發、系統架構規劃",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Nice to have:\n- Experience with OpenWRT is a plus.​\n- Ability to read and understand circuit diagrams and board schematics.​\n- Experience with version control tools (e.g. git) and issue tracking system (e.g. JIRA).​\n- Experience in messaging protocol such as MQTT is a plus.​\n- Experience in developing or maintaining automation tests to support software releases.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：Python、Linux、C、iptables、TCP/IP、Socket\n工作技能：軟體程式設計、軟體工程系統開發、系統架構規劃\n其他條件：Nice to have:\n- Experience with OpenWRT is a plus.​\n- Ability to read and understand circuit diagrams and board schematics.​\n- Experience with version control tools (e.g. git) and issue tracking system (e.g. JIRA).​\n- Experience in messaging protocol such as MQTT is a plus.​\n- Experience in developing or maintaining automation tests to support software releases."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8nt4n",
+    "job_url": "https://www.104.com.tw/job/8nt4n",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8nt4n.json",
+    "raw_sha256": "5e5a90049943f7f59e61a531af4d222bb75f1f88b41f3ed9254d19f86cdeb13f",
+    "requested_url": "https://www.104.com.tw/api/jobs/8nt4n"
+  }
+}

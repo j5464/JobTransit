@@ -1,0 +1,218 @@
+{
+  "company": {
+    "id": "7e11q60",
+    "name": "復華證券投資信託股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統分析師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "流程自動化*系統整合*維護優化"
+        },
+        {
+          "children": [],
+          "text": "開發與部署智能自動化 (Intelligent Automation) 系統，結合 AI 演算法優化跨部門作業流程之整合與應用"
+        },
+        {
+          "children": [],
+          "text": "使用者需求資料蒐集與解析"
+        },
+        {
+          "children": [],
+          "text": "API 設計、串接及開發維護"
+        },
+        {
+          "children": [],
+          "text": "專案推動與管理"
+        },
+        {
+          "children": [],
+          "text": "技術文件化與知識管理"
+        }
+      ],
+      "text": "1.流程自動化*系統整合*維護優化\n2.開發與部署智能自動化 (Intelligent Automation) 系統，結合 AI 演算法優化跨部門作業流程之整合與應用\n3.使用者需求資料蒐集與解析\n4.API 設計、串接及開發維護\n5.專案推動與管理\n6.技術文件化與知識管理"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI協作系統開發工程師"
+  },
+  "location": {
+    "address_raw": "台北市中山區八德路二段308號8樓",
+    "raw": "台北市中山區八德路二段308號8樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "C#",
+          "HTML",
+          "CSS",
+          "Python",
+          "Java",
+          "Objective-C"
+        ],
+        "label": "擅長工具",
+        "text": "C#、HTML、CSS、Python、Java、Objective-C"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.曾任職於資訊單位5年以上軟體開發經驗。\n2.開發工具：VB.NET、C#、HTML、CSS、XPath、VS Code、Python\n3.熟悉MS SQL資料庫語法\n4.具有撰寫系統文件、操作手冊的能力\n5.具備專案管理概念、軟體設計開發技能\n6.會Java、Objective-C，具備金融相關系統開發經驗者佳\n7.熟悉Git版本控制\n8.對細節敏感，工作態度積極，對新技術及觀念學習力強，且能獨立負責任務\n9.具備團隊合作、跨部門溝通協調及分析解決問題的能力"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1.曾任職於資訊單位5年以上軟體開發經驗。\n2.開發工具：VB.NET、C#、HTML、CSS、XPath、VS Code、Python\n3.熟悉MS SQL資料庫語法\n4.具有撰寫系統文件、操作手冊的能力\n5.具備專案管理概念、軟體設計開發技能\n6.會Java、Objective-C，具備金融相關系統開發經驗者佳\n7.熟悉Git版本控制\n8.對細節敏感，工作態度積極，對新技術及觀念學習力強，且能獨立負責任務\n9.具備團隊合作、跨部門溝通協調及分析解決問題的能力",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n擅長工具：C#、HTML、CSS、Python、Java、Objective-C\n其他條件：1.曾任職於資訊單位5年以上軟體開發經驗。\n2.開發工具：VB.NET、C#、HTML、CSS、XPath、VS Code、Python\n3.熟悉MS SQL資料庫語法\n4.具有撰寫系統文件、操作手冊的能力\n5.具備專案管理概念、軟體設計開發技能\n6.會Java、Objective-C，具備金融相關系統開發經驗者佳\n7.熟悉Git版本控制\n8.對細節敏感，工作態度積極，對新技術及觀念學習力強，且能獨立負責任務\n9.具備團隊合作、跨部門溝通協調及分析解決問題的能力",
+    "tools": [
+      "C#",
+      "HTML",
+      "CSS",
+      "Python",
+      "Java",
+      "Objective-C"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 93
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:12:02+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.流程自動化*系統整合*維護優化\n2.開發與部署智能自動化 (Intelligent Automation) 系統，結合 AI 演算法優化跨部門作業流程之整合與應用\n3.使用者需求資料蒐集與解析\n4.API 設計、串接及開發維護\n5.專案推動與管理\n6.技術文件化與知識管理",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統分析師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統分析師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區八德路二段308號8樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.流程自動化*系統整合*維護優化\n2.開發與部署智能自動化 (Intelligent Automation) 系統，結合 AI 演算法優化跨部門作業流程之整合與應用\n3.使用者需求資料蒐集與解析\n4.API 設計、串接及開發維護\n5.專案推動與管理\n6.技術文件化與知識管理"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "HTML",
+            "CSS",
+            "Python",
+            "Java",
+            "Objective-C"
+          ],
+          "label": "擅長工具",
+          "text": "C#、HTML、CSS、Python、Java、Objective-C",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.曾任職於資訊單位5年以上軟體開發經驗。\n2.開發工具：VB.NET、C#、HTML、CSS、XPath、VS Code、Python\n3.熟悉MS SQL資料庫語法\n4.具有撰寫系統文件、操作手冊的能力\n5.具備專案管理概念、軟體設計開發技能\n6.會Java、Objective-C，具備金融相關系統開發經驗者佳\n7.熟悉Git版本控制\n8.對細節敏感，工作態度積極，對新技術及觀念學習力強，且能獨立負責任務\n9.具備團隊合作、跨部門溝通協調及分析解決問題的能力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n擅長工具：C#、HTML、CSS、Python、Java、Objective-C\n其他條件：1.曾任職於資訊單位5年以上軟體開發經驗。\n2.開發工具：VB.NET、C#、HTML、CSS、XPath、VS Code、Python\n3.熟悉MS SQL資料庫語法\n4.具有撰寫系統文件、操作手冊的能力\n5.具備專案管理概念、軟體設計開發技能\n6.會Java、Objective-C，具備金融相關系統開發經驗者佳\n7.熟悉Git版本控制\n8.對細節敏感，工作態度積極，對新技術及觀念學習力強，且能獨立負責任務\n9.具備團隊合作、跨部門溝通協調及分析解決問題的能力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8wk20",
+    "job_url": "https://www.104.com.tw/job/8wk20",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8wk20.json",
+    "raw_sha256": "ae2659181e0b9fb2a319730584034cdaeae188bd37466390e960df2eec26ed13",
+    "requested_url": "https://www.104.com.tw/api/jobs/8wk20"
+  }
+}

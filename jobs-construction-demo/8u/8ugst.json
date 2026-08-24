@@ -1,0 +1,218 @@
+{
+  "company": {
+    "id": "1a2x6blhdy",
+    "name": "大陸商星宸科技股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Image quality tuning"
+        },
+        {
+          "children": [],
+          "text": "Development and maintenance of calibration tooling"
+        },
+        {
+          "children": [],
+          "text": "3A Algorithm maintenance"
+        },
+        {
+          "children": [],
+          "text": "Familiar with automated workflows."
+        }
+      ],
+      "text": "1. Image quality tuning\n2. Development and maintenance of calibration tooling\n3. 3A Algorithm maintenance\n4. Familiar with automated workflows."
+    },
+    "employment_type_raw": "全職",
+    "title": "影像調校工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市台元二街1號",
+    "raw": "新竹縣竹北市台元二街1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、精通、精通"
+      },
+      {
+        "items": [
+          "Python",
+          "C"
+        ],
+        "label": "擅長工具",
+        "text": "Python、C"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. Familiar with image quality certification standards and specifications.\n2. Strong communication and teamwork skills."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、精通、精通"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": "1. Familiar with image quality certification standards and specifications.\n2. Strong communication and teamwork skills.",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、數學及電算機科學學科類\n語文條件：英文：中等、中等、精通、精通\n擅長工具：Python、C\n其他條件：1. Familiar with image quality certification standards and specifications.\n2. Strong communication and teamwork skills.",
+    "tools": [
+      "Python",
+      "C"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 42
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:04:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. Image quality tuning\n2. Development and maintenance of calibration tooling\n3. 3A Algorithm maintenance\n4. Familiar with automated workflows.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市台元二街1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. Image quality tuning\n2. Development and maintenance of calibration tooling\n3. 3A Algorithm maintenance\n4. Familiar with automated workflows."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "C"
+          ],
+          "label": "擅長工具",
+          "text": "Python、C",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. Familiar with image quality certification standards and specifications.\n2. Strong communication and teamwork skills.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、數學及電算機科學學科類\n語文條件：英文：中等、中等、精通、精通\n擅長工具：Python、C\n其他條件：1. Familiar with image quality certification standards and specifications.\n2. Strong communication and teamwork skills."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ugst",
+    "job_url": "https://www.104.com.tw/job/8ugst",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ugst.json",
+    "raw_sha256": "c8c2927d6d588290ca91749733acfad6abe4d479a6ae1261fb918f581a948e95",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ugst"
+  }
+}

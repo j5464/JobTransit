@@ -1,0 +1,182 @@
+{
+  "company": {
+    "id": "1t1btvs",
+    "name": "資誠聯合會計師事務所"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "後端工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "準備好挑戰打造兼具彈性與穩定性的次世代資料平台了嗎？\n你將作為我們核心平台的資深工程師，主導後端服務的架構與開發，從資料模型設計到高可用系統的實踐，你的工作將直接影響平台的穩定性、擴展性與資料處理的效率。\n你將負責的工作：\n－主導核心後端服務的開發，並設計高效能的 MongoDB 資料模型，處理複雜的文件與事件資料。\n－建立創新的 Data Node 與 Link Graph 機制，並開發 Event-driven 架構，以支援即時的資料連動與影響分析。\n－設計並實作高可用、無停機的系統架構，確保服務的穩定性與持續部署的順暢。\n－與前端、RAG 及 Workflow 等跨能團隊緊密協作，共同整合並交付完整的平台功能。\n背景／能力要求\n－具備 3 年以上 C#/.NET 或 Node.js 後端開發經驗。\n－熟悉 MongoDB/NoSQL 資料庫設計，並對分散式系統的資料一致性與交易控制有深入理解。\n－擁有 RESTful API、微服務（Microservices）及事件驅動架構（Event-driven）的實務開發經驗。\n－具備 Container（Docker / Kubernetes）相關經驗者尤佳。\n你將具備的特質：\n－你享受解決複雜的技術問題，樂於設計能支撐未來業務發展的系統架構，並透過你的專業為團隊帶來實質影響力。\n－你對新技術抱持高度熱情，能快速學習並應用於工作中，並樂於分享知識，帶動團隊一同成長。\n－你善於跨團隊溝通，能清晰地表達技術概念，並與不同背景的夥伴合作，共同達成目標。\n－你擁有 Ownership，能獨立負責專案的端到端開發，並在過程中主動發掘問題、提出可行的解決方案。\n為什麼選擇 PwC？\n在 PwC，我們致力於協助你持續成長、走得更遠。我們的人才價值主張代表你將能：\n－參與具影響力的專案，為企業與社會創造改變\n－持續投入學習、導師制度與職涯發展\n－在鼓勵創新與重視想法的文化中發揮所長\n－在重視多元與共融的環境中工作，讓每個人都能被看見與被尊重\n下一步\n如果你準備好在PwC展開職涯並創造實質影響，我們期待你的加入。\n→立即申請，踏出在 PwC 發展的第一步。\nGrow here. Grow further."
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊類(台北)-資深後端工程師"
+  },
+  "location": {
+    "address_raw": "台北市信義區基隆路一段333號",
+    "raw": "台北市信義區基隆路一段333號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "Cloud",
+          "PostgreSQL",
+          "ASP.NET",
+          "Github",
+          "Linux",
+          "Node.js"
+        ],
+        "label": "擅長工具",
+        "text": "Cloud、PostgreSQL、ASP.NET、Github、Linux、Node.js"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Cloud、PostgreSQL、ASP.NET、Github、Linux、Node.js",
+    "tools": [
+      "Cloud",
+      "PostgreSQL",
+      "ASP.NET",
+      "Github",
+      "Linux",
+      "Node.js"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 91
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:05:28+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "準備好挑戰打造兼具彈性與穩定性的次世代資料平台了嗎？\n你將作為我們核心平台的資深工程師，主導後端服務的架構與開發，從資料模型設計到高可用系統的實踐，你的工作將直接影響平台的穩定性、擴展性與資料處理的效率。\n你將負責的工作：\n－主導核心後端服務的開發，並設計高效能的 MongoDB 資料模型，處理複雜的文件與事件資料。\n－建立創新的 Data Node 與 Link Graph 機制，並開發 Event-driven 架構，以支援即時的資料連動與影響分析。\n－設計並實作高可用、無停機的系統架構，確保服務的穩定性與持續部署的順暢。\n－與前端、RAG 及 Workflow 等跨能團隊緊密協作，共同整合並交付完整的平台功能。\n背景／能力要求\n－具備 3 年以上 C#/.NET 或 Node.js 後端開發經驗。\n－熟悉 MongoDB/NoSQL 資料庫設計，並對分散式系統的資料一致性與交易控制有深入理解。\n－擁有 RESTful API、微服務（Microservices）及事件驅動架構（Event-driven）的實務開發經驗。\n－具備 Container（Docker / Kubernetes）相關經驗者尤佳。\n你將具備的特質：\n－你享受解決複雜的技術問題，樂於設計能支撐未來業務發展的系統架構，並透過你的專業為團隊帶來實質影響力。\n－你對新技術抱持高度熱情，能快速學習並應用於工作中，並樂於分享知識，帶動團隊一同成長。\n－你善於跨團隊溝通，能清晰地表達技術概念，並與不同背景的夥伴合作，共同達成目標。\n－你擁有 Ownership，能獨立負責專案的端到端開發，並在過程中主動發掘問題、提出可行的解決方案。\n為什麼選擇 PwC？\n在 PwC，我們致力於協助你持續成長、走得更遠。我們的人才價值主張代表你將能：\n－參與具影響力的專案，為企業與社會創造改變\n－持續投入學習、導師制度與職涯發展\n－在鼓勵創新與重視想法的文化中發揮所長\n－在重視多元與共融的環境中工作，讓每個人都能被看見與被尊重\n下一步\n如果你準備好在PwC展開職涯並創造實質影響，我們期待你的加入。\n→立即申請，踏出在 PwC 發展的第一步。\nGrow here. Grow further.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "後端工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、後端工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區基隆路一段333號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "準備好挑戰打造兼具彈性與穩定性的次世代資料平台了嗎？\n你將作為我們核心平台的資深工程師，主導後端服務的架構與開發，從資料模型設計到高可用系統的實踐，你的工作將直接影響平台的穩定性、擴展性與資料處理的效率。\n你將負責的工作：\n－主導核心後端服務的開發，並設計高效能的 MongoDB 資料模型，處理複雜的文件與事件資料。\n－建立創新的 Data Node 與 Link Graph 機制，並開發 Event-driven 架構，以支援即時的資料連動與影響分析。\n－設計並實作高可用、無停機的系統架構，確保服務的穩定性與持續部署的順暢。\n－與前端、RAG 及 Workflow 等跨能團隊緊密協作，共同整合並交付完整的平台功能。\n背景／能力要求\n－具備 3 年以上 C#/.NET 或 Node.js 後端開發經驗。\n－熟悉 MongoDB/NoSQL 資料庫設計，並對分散式系統的資料一致性與交易控制有深入理解。\n－擁有 RESTful API、微服務（Microservices）及事件驅動架構（Event-driven）的實務開發經驗。\n－具備 Container（Docker / Kubernetes）相關經驗者尤佳。\n你將具備的特質：\n－你享受解決複雜的技術問題，樂於設計能支撐未來業務發展的系統架構，並透過你的專業為團隊帶來實質影響力。\n－你對新技術抱持高度熱情，能快速學習並應用於工作中，並樂於分享知識，帶動團隊一同成長。\n－你善於跨團隊溝通，能清晰地表達技術概念，並與不同背景的夥伴合作，共同達成目標。\n－你擁有 Ownership，能獨立負責專案的端到端開發，並在過程中主動發掘問題、提出可行的解決方案。\n為什麼選擇 PwC？\n在 PwC，我們致力於協助你持續成長、走得更遠。我們的人才價值主張代表你將能：\n－參與具影響力的專案，為企業與社會創造改變\n－持續投入學習、導師制度與職涯發展\n－在鼓勵創新與重視想法的文化中發揮所長\n－在重視多元與共融的環境中工作，讓每個人都能被看見與被尊重\n下一步\n如果你準備好在PwC展開職涯並創造實質影響，我們期待你的加入。\n→立即申請，踏出在 PwC 發展的第一步。\nGrow here. Grow further."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Cloud",
+            "PostgreSQL",
+            "ASP.NET",
+            "Github",
+            "Linux",
+            "Node.js"
+          ],
+          "label": "擅長工具",
+          "text": "Cloud、PostgreSQL、ASP.NET、Github、Linux、Node.js",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Cloud、PostgreSQL、ASP.NET、Github、Linux、Node.js"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "92q7y",
+    "job_url": "https://www.104.com.tw/job/92q7y",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92q7y.json",
+    "raw_sha256": "d344cdb2c71d90e86a888dda7ebac3c49af50e4eeda0bc9dd856a491919cbd5d",
+    "requested_url": "https://www.104.com.tw/api/jobs/92q7y"
+  }
+}

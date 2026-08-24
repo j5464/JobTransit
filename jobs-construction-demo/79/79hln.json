@@ -1,0 +1,305 @@
+{
+  "company": {
+    "id": "1a2x6bjomb",
+    "name": "哲煜科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "通訊軟體工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "使用 AI 工具與 Agent 協助 iOS App 功能開發、除錯與重構"
+        },
+        {
+          "children": [],
+          "text": "負責 iOS App 功能設計、開發與維護"
+        },
+        {
+          "children": [],
+          "text": "與 PM、UI/UX 及後端團隊協作完成需求分析與功能實作"
+        },
+        {
+          "children": [],
+          "text": "配合設計稿開發與優化 App 畫面及互動流程"
+        },
+        {
+          "children": [],
+          "text": "與後端 API 串接，使用 Combine 或 async/await"
+        },
+        {
+          "children": [],
+          "text": "維護與重構既有的 UIKit 與 Objective-C 專案"
+        },
+        {
+          "children": [],
+          "text": "驗證、優化並維護 AI 產出的程式碼品質、架構與效能"
+        },
+        {
+          "children": [],
+          "text": "撰寫技術文件、開發文件及相關測試內容"
+        },
+        {
+          "children": [],
+          "text": "持續研究並導入新的 AI 開發工具與工作流程"
+        },
+        {
+          "children": [],
+          "text": "協助優化團隊開發流程、工程品質與開發效率"
+        },
+        {
+          "children": [],
+          "text": "熟悉 SwiftUI，了解 State 管理 (State、Binding、ObservedObject、StateObject)"
+        },
+        {
+          "children": [],
+          "text": "具備將 UIKit 封裝至 SwiftUI 的經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版本控管與基本協作流程 (Pull Request、Code Review)"
+        },
+        {
+          "children": [],
+          "text": "熟悉 AI 輔助開發流程，並已實際應用於日常開發工作"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Claude、ChatGPT、GitHub Copilot 等 AI 工具"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Claude Code、Cursor 等 Agent 開發工具"
+        },
+        {
+          "children": [],
+          "text": "樂於學習新技術並與團隊分享"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Swift Concurrency(async/await, Task)"
+        },
+        {
+          "children": [],
+          "text": "熟悉 TCA 框架"
+        },
+        {
+          "children": [],
+          "text": "有經驗處理 Core Data、Realm 或 SQLite"
+        },
+        {
+          "children": [],
+          "text": "能使用 Swift Package Manager 進行模組化管理"
+        },
+        {
+          "children": [],
+          "text": "具備單元測試 (Unit Test) 或 UI 測試經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 CI/CD 流程 (Fastlane、GitHub Actions、Bitrise)"
+        },
+        {
+          "children": [],
+          "text": "曾參與過跨平台 (Flutter、React Native) 與原生整合專案"
+        },
+        {
+          "children": [],
+          "text": "熟悉多國語系 (Localization)"
+        }
+      ],
+      "text": "▍職務介紹：\n我們正在尋找對 iOS 開發充滿熱情，同時已將 AI 納入日常開發流程的工程師。\n在這個職位中，你不僅需要具備 iOS 開發能力，也需要善用 AI 工具、Agent 與現代化開發流程，提升開發效率、程式品質與系統可維護性。\n▍工作內容：\n• 使用 AI 工具與 Agent 協助 iOS App 功能開發、除錯與重構\n• 負責 iOS App 功能設計、開發與維護\n• 與 PM、UI/UX 及後端團隊協作完成需求分析與功能實作\n• 配合設計稿開發與優化 App 畫面及互動流程\n• 與後端 API 串接，使用 Combine 或 async/await\n• 維護與重構既有的 UIKit 與 Objective-C 專案\n• 驗證、優化並維護 AI 產出的程式碼品質、架構與效能\n• 撰寫技術文件、開發文件及相關測試內容\n• 持續研究並導入新的 AI 開發工具與工作流程\n• 協助優化團隊開發流程、工程品質與開發效率\n▍需有以下條件/技能：\n• 熟悉 SwiftUI，了解 State 管理 (State、Binding、ObservedObject、StateObject)\n• 具備將 UIKit 封裝至 SwiftUI 的經驗\n• 熟悉 Git 版本控管與基本協作流程 (Pull Request、Code Review)\n• 熟悉 AI 輔助開發流程，並已實際應用於日常開發工作\n• 熟悉 Claude、ChatGPT、GitHub Copilot 等 AI 工具\n• 熟悉 Claude Code、Cursor 等 Agent 開發工具\n• 樂於學習新技術並與團隊分享\n▍加分條件：\n• 熟悉 Swift Concurrency(async/await, Task)\n• 熟悉 TCA 框架\n• 有經驗處理 Core Data、Realm 或 SQLite\n• 能使用 Swift Package Manager 進行模組化管理\n• 具備單元測試 (Unit Test) 或 UI 測試經驗\n• 熟悉 CI/CD 流程 (Fastlane、GitHub Actions、Bitrise)\n• 曾參與過跨平台 (Flutter、React Native) 與原生整合專案\n• 熟悉多國語系 (Localization)\n※ 薪資依能力與經驗核薪，顯示為最低薪資數值 ※"
+    },
+    "employment_type_raw": "全職",
+    "title": "【台北】AI iOS工程師（AI Native iOS Engineer）"
+  },
+  "location": {
+    "address_raw": "台北市中山區民生東路2段170號8樓",
+    "raw": "台北市中山區民生東路2段170號8樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中、專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中、專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "Objective-C",
+          "SWIFT"
+        ],
+        "label": "擅長工具",
+        "text": "Objective-C、SWIFT"
+      },
+      {
+        "items": [
+          "軟體品質與保證",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體品質與保證、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "• 歡迎緯育 TibaMe 學員投遞履歷\n• 支持為 LGBTIQ+ 群體建立友善職場的理念"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "• 歡迎緯育 TibaMe 學員投遞履歷\n• 支持為 LGBTIQ+ 群體建立友善職場的理念",
+    "skills": [
+      "軟體品質與保證",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：高中、專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Objective-C、SWIFT\n工作技能：軟體品質與保證、軟體程式設計\n其他條件：• 歡迎緯育 TibaMe 學員投遞履歷\n• 支持為 LGBTIQ+ 群體建立友善職場的理念",
+    "tools": [
+      "Objective-C",
+      "SWIFT"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 4
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:30:38+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "▍職務介紹：\n我們正在尋找對 iOS 開發充滿熱情，同時已將 AI 納入日常開發流程的工程師。\n在這個職位中，你不僅需要具備 iOS 開發能力，也需要善用 AI 工具、Agent 與現代化開發流程，提升開發效率、程式品質與系統可維護性。\n▍工作內容：\n• 使用 AI 工具與 Agent 協助 iOS App 功能開發、除錯與重構\n• 負責 iOS App 功能設計、開發與維護\n• 與 PM、UI/UX 及後端團隊協作完成需求分析與功能實作\n• 配合設計稿開發與優化 App 畫面及互動流程\n• 與後端 API 串接，使用 Combine 或 async/await\n• 維護與重構既有的 UIKit 與 Objective-C 專案\n• 驗證、優化並維護 AI 產出的程式碼品質、架構與效能\n• 撰寫技術文件、開發文件及相關測試內容\n• 持續研究並導入新的 AI 開發工具與工作流程\n• 協助優化團隊開發流程、工程品質與開發效率\n▍需有以下條件/技能：\n• 熟悉 SwiftUI，了解 State 管理 (State、Binding、ObservedObject、StateObject)\n• 具備將 UIKit 封裝至 SwiftUI 的經驗\n• 熟悉 Git 版本控管與基本協作流程 (Pull Request、Code Review)\n• 熟悉 AI 輔助開發流程，並已實際應用於日常開發工作\n• 熟悉 Claude、ChatGPT、GitHub Copilot 等 AI 工具\n• 熟悉 Claude Code、Cursor 等 Agent 開發工具\n• 樂於學習新技術並與團隊分享\n▍加分條件：\n• 熟悉 Swift Concurrency(async/await, Task)\n• 熟悉 TCA 框架\n• 有經驗處理 Core Data、Realm 或 SQLite\n• 能使用 Swift Package Manager 進行模組化管理\n• 具備單元測試 (Unit Test) 或 UI 測試經驗\n• 熟悉 CI/CD 流程 (Fastlane、GitHub Actions、Bitrise)\n• 曾參與過跨平台 (Flutter、React Native) 與原生整合專案\n• 熟悉多國語系 (Localization)\n※ 薪資依能力與經驗核薪，顯示為最低薪資數值 ※",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "通訊軟體工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、通訊軟體工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區民生東路2段170號8樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "▍職務介紹：\n我們正在尋找對 iOS 開發充滿熱情，同時已將 AI 納入日常開發流程的工程師。\n在這個職位中，你不僅需要具備 iOS 開發能力，也需要善用 AI 工具、Agent 與現代化開發流程，提升開發效率、程式品質與系統可維護性。\n▍工作內容：\n• 使用 AI 工具與 Agent 協助 iOS App 功能開發、除錯與重構\n• 負責 iOS App 功能設計、開發與維護\n• 與 PM、UI/UX 及後端團隊協作完成需求分析與功能實作\n• 配合設計稿開發與優化 App 畫面及互動流程\n• 與後端 API 串接，使用 Combine 或 async/await\n• 維護與重構既有的 UIKit 與 Objective-C 專案\n• 驗證、優化並維護 AI 產出的程式碼品質、架構與效能\n• 撰寫技術文件、開發文件及相關測試內容\n• 持續研究並導入新的 AI 開發工具與工作流程\n• 協助優化團隊開發流程、工程品質與開發效率\n▍需有以下條件/技能：\n• 熟悉 SwiftUI，了解 State 管理 (State、Binding、ObservedObject、StateObject)\n• 具備將 UIKit 封裝至 SwiftUI 的經驗\n• 熟悉 Git 版本控管與基本協作流程 (Pull Request、Code Review)\n• 熟悉 AI 輔助開發流程，並已實際應用於日常開發工作\n• 熟悉 Claude、ChatGPT、GitHub Copilot 等 AI 工具\n• 熟悉 Claude Code、Cursor 等 Agent 開發工具\n• 樂於學習新技術並與團隊分享\n▍加分條件：\n• 熟悉 Swift Concurrency(async/await, Task)\n• 熟悉 TCA 框架\n• 有經驗處理 Core Data、Realm 或 SQLite\n• 能使用 Swift Package Manager 進行模組化管理\n• 具備單元測試 (Unit Test) 或 UI 測試經驗\n• 熟悉 CI/CD 流程 (Fastlane、GitHub Actions、Bitrise)\n• 曾參與過跨平台 (Flutter、React Native) 與原生整合專案\n• 熟悉多國語系 (Localization)\n※ 薪資依能力與經驗核薪，顯示為最低薪資數值 ※"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中、專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Objective-C",
+            "SWIFT"
+          ],
+          "label": "擅長工具",
+          "text": "Objective-C、SWIFT",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體品質與保證",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體品質與保證、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "• 歡迎緯育 TibaMe 學員投遞履歷\n• 支持為 LGBTIQ+ 群體建立友善職場的理念",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：高中、專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Objective-C、SWIFT\n工作技能：軟體品質與保證、軟體程式設計\n其他條件：• 歡迎緯育 TibaMe 學員投遞履歷\n• 支持為 LGBTIQ+ 群體建立友善職場的理念"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "79hln",
+    "job_url": "https://www.104.com.tw/job/79hln",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/79hln.json",
+    "raw_sha256": "151ac1ae62509c1d9c9fc0004412b7eb9a9eb40fe57313a763d80b0cc8452702",
+    "requested_url": "https://www.104.com.tw/api/jobs/79hln"
+  }
+}

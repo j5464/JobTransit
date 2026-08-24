@@ -1,0 +1,208 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Collaborate with AIoT architects and cross-functional teams to design and implement robust backend systems for AIoT applications using Java and Spring Boot."
+        },
+        {
+          "children": [],
+          "text": "Develop and maintain APIs, microservices, and data pipelines to support real-time data processing and analytics."
+        },
+        {
+          "children": [],
+          "text": "Ensure the security, scalability, and reliability of backend systems to handle a high volume of IoT data."
+        },
+        {
+          "children": [],
+          "text": "Implement data storage solutions, including databases and time-series databases like InfluxDB."
+        },
+        {
+          "children": [],
+          "text": "Work with monitoring and visualization tools, such as Grafana, to provide insights into IoT data."
+        },
+        {
+          "children": [],
+          "text": "Participate in code reviews and maintain code quality and standards."
+        },
+        {
+          "children": [],
+          "text": "Bachelor's degree in computer science or related field."
+        },
+        {
+          "children": [],
+          "text": "5-7 years of professional experience in backend development using Java and Spring Boot."
+        },
+        {
+          "children": [],
+          "text": "Hands-on experience with AIoT technologies and protocols."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with RESTful APIs, microservices architecture."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of InfluxDB for time-series data storage and Grafana for data visualization."
+        },
+        {
+          "children": [],
+          "text": "Experience with cloud services (e.g., AWS, Azure) and containerization technologies (e.g., Docker, Kubernetes)."
+        },
+        {
+          "children": [],
+          "text": "Strong problem-solving skills and attention to detail."
+        },
+        {
+          "children": [],
+          "text": "Excellent communication and teamwork skills."
+        }
+      ],
+      "text": "【Description】\nDelta Electronics is seeking a AIoT Backend Engineer to join our AIT team. You will work closely with different teams – Operational Technology, Industrial Internet of Things, Application, Data architecture teams and more – to understands the factory system needs, explores the existing data structure, and creates a blueprint for building an integrated framework of easily accessible, secure data aligned with our team strategy.\nYou will be responsible for developing and maintaining the backend systems that power our AIoT applications. You will work closely with our AIoT architects to design and implement scalable solutions, ensuring the seamless integration of IoT devices with our data systems. This role offers an exciting opportunity to contribute to the advancement of our IoT ecosystem.\n________________________________________________________________________\n【Key Responsibilities】\n1. Collaborate with AIoT architects and cross-functional teams to design and implement robust backend systems for AIoT applications using Java and Spring Boot.\n2. Develop and maintain APIs, microservices, and data pipelines to support real-time data processing and analytics.\n3. Ensure the security, scalability, and reliability of backend systems to handle a high volume of IoT data.\n4. Implement data storage solutions, including databases and time-series databases like InfluxDB.\n5. Work with monitoring and visualization tools, such as Grafana, to provide insights into IoT data.\n6. Participate in code reviews and maintain code quality and standards.\n________________________________________________________________________\n【Qualifications】\n1. Bachelor's degree in computer science or related field.\n2. 5-7 years of professional experience in backend development using Java and Spring Boot.\n3. Hands-on experience with AIoT technologies and protocols.\n4. Familiarity with RESTful APIs, microservices architecture.\n5. Knowledge of InfluxDB for time-series data storage and Grafana for data visualization.\n6. Experience with cloud services (e.g., AWS, Azure) and containerization technologies (e.g., Docker, Kubernetes).\n7. Strong problem-solving skills and attention to detail.\n8. Excellent communication and teamwork skills."
+    },
+    "employment_type_raw": "全職",
+    "title": "AIT IoT Backend Engineer_資訊處"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號(內湖)",
+    "raw": "台北市內湖區瑞光路186號(內湖)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 85
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:52:02+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【Description】\nDelta Electronics is seeking a AIoT Backend Engineer to join our AIT team. You will work closely with different teams – Operational Technology, Industrial Internet of Things, Application, Data architecture teams and more – to understands the factory system needs, explores the existing data structure, and creates a blueprint for building an integrated framework of easily accessible, secure data aligned with our team strategy.\nYou will be responsible for developing and maintaining the backend systems that power our AIoT applications. You will work closely with our AIoT architects to design and implement scalable solutions, ensuring the seamless integration of IoT devices with our data systems. This role offers an exciting opportunity to contribute to the advancement of our IoT ecosystem.\n________________________________________________________________________\n【Key Responsibilities】\n1. Collaborate with AIoT architects and cross-functional teams to design and implement robust backend systems for AIoT applications using Java and Spring Boot.\n2. Develop and maintain APIs, microservices, and data pipelines to support real-time data processing and analytics.\n3. Ensure the security, scalability, and reliability of backend systems to handle a high volume of IoT data.\n4. Implement data storage solutions, including databases and time-series databases like InfluxDB.\n5. Work with monitoring and visualization tools, such as Grafana, to provide insights into IoT data.\n6. Participate in code reviews and maintain code quality and standards.\n________________________________________________________________________\n【Qualifications】\n1. Bachelor's degree in computer science or related field.\n2. 5-7 years of professional experience in backend development using Java and Spring Boot.\n3. Hands-on experience with AIoT technologies and protocols.\n4. Familiarity with RESTful APIs, microservices architecture.\n5. Knowledge of InfluxDB for time-series data storage and Grafana for data visualization.\n6. Experience with cloud services (e.g., AWS, Azure) and containerization technologies (e.g., Docker, Kubernetes).\n7. Strong problem-solving skills and attention to detail.\n8. Excellent communication and teamwork skills.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號(內湖)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【Description】\nDelta Electronics is seeking a AIoT Backend Engineer to join our AIT team. You will work closely with different teams – Operational Technology, Industrial Internet of Things, Application, Data architecture teams and more – to understands the factory system needs, explores the existing data structure, and creates a blueprint for building an integrated framework of easily accessible, secure data aligned with our team strategy.\nYou will be responsible for developing and maintaining the backend systems that power our AIoT applications. You will work closely with our AIoT architects to design and implement scalable solutions, ensuring the seamless integration of IoT devices with our data systems. This role offers an exciting opportunity to contribute to the advancement of our IoT ecosystem.\n________________________________________________________________________\n【Key Responsibilities】\n1. Collaborate with AIoT architects and cross-functional teams to design and implement robust backend systems for AIoT applications using Java and Spring Boot.\n2. Develop and maintain APIs, microservices, and data pipelines to support real-time data processing and analytics.\n3. Ensure the security, scalability, and reliability of backend systems to handle a high volume of IoT data.\n4. Implement data storage solutions, including databases and time-series databases like InfluxDB.\n5. Work with monitoring and visualization tools, such as Grafana, to provide insights into IoT data.\n6. Participate in code reviews and maintain code quality and standards.\n________________________________________________________________________\n【Qualifications】\n1. Bachelor's degree in computer science or related field.\n2. 5-7 years of professional experience in backend development using Java and Spring Boot.\n3. Hands-on experience with AIoT technologies and protocols.\n4. Familiarity with RESTful APIs, microservices architecture.\n5. Knowledge of InfluxDB for time-series data storage and Grafana for data visualization.\n6. Experience with cloud services (e.g., AWS, Azure) and containerization technologies (e.g., Docker, Kubernetes).\n7. Strong problem-solving skills and attention to detail.\n8. Excellent communication and teamwork skills."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8zrjz",
+    "job_url": "https://www.104.com.tw/job/8zrjz",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8zrjz.json",
+    "raw_sha256": "2ef541a044fdefadf0dc2a06d8ad7bcb6a7e23430d4a53e4bedbe5b98d22b5a4",
+    "requested_url": "https://www.104.com.tw/api/jobs/8zrjz"
+  }
+}

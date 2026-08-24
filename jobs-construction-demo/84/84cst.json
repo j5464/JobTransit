@@ -1,0 +1,198 @@
+{
+  "company": {
+    "id": "1jt7ol5",
+    "name": "國泰人壽保險股份有限公司_總公司_國泰金控"
+  },
+  "job": {
+    "categories": [
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "理解業務需求，與PM、UXUI團隊溝通討論確認畫面細節，優化使用者體驗。"
+        },
+        {
+          "children": [],
+          "text": "跟 Back-end 討論並共同規劃API 規格並進行串接。"
+        },
+        {
+          "children": [],
+          "text": "根據前端框架進行元件設計規劃並完成網頁切版。"
+        },
+        {
+          "children": [],
+          "text": "維護並定義前端框架/實作技術白皮書。"
+        },
+        {
+          "children": [],
+          "text": "評估研究並導入前端相關技術及工具。"
+        }
+      ],
+      "text": "1. 理解業務需求，與PM、UXUI團隊溝通討論確認畫面細節，優化使用者體驗。\n2. 跟 Back-end 討論並共同規劃API 規格並進行串接。\n3. 根據前端框架進行元件設計規劃並完成網頁切版。\n4. 維護並定義前端框架/實作技術白皮書。\n5. 評估研究並導入前端相關技術及工具。\n【本職缺請至國泰招募網站投遞職缺】\nhttp://pse.is/5anvet"
+    },
+    "employment_type_raw": "全職",
+    "title": "【資訊專才】前端工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區",
+    "raw": "台北市內湖區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "知識技能： 必要項目： CSS 、 SQL 、 Java 、 Git 、 JavaScript 、 JSP 、 HTML 、 功能測試(function test)\n加分項目： Kafka 、 Visual C# 、 jQuery 、 PostgreSQL 、 SWIFT 、 Kotlin 、 Objective-C 、 VueJS 、 JAVA EE\n其他條件： 國內外大學日間部以上，理、工、設計學院相關系所畢業。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "知識技能： 必要項目： CSS 、 SQL 、 Java 、 Git 、 JavaScript 、 JSP 、 HTML 、 功能測試(function test)\n加分項目： Kafka 、 Visual C# 、 jQuery 、 PostgreSQL 、 SWIFT 、 Kotlin 、 Objective-C 、 VueJS 、 JAVA EE\n其他條件： 國內外大學日間部以上，理、工、設計學院相關系所畢業。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：知識技能： 必要項目： CSS 、 SQL 、 Java 、 Git 、 JavaScript 、 JSP 、 HTML 、 功能測試(function test)\n加分項目： Kafka 、 Visual C# 、 jQuery 、 PostgreSQL 、 SWIFT 、 Kotlin 、 Objective-C 、 VueJS 、 JAVA EE\n其他條件： 國內外大學日間部以上，理、工、設計學院相關系所畢業。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 60
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:50:04+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 理解業務需求，與PM、UXUI團隊溝通討論確認畫面細節，優化使用者體驗。\n2. 跟 Back-end 討論並共同規劃API 規格並進行串接。\n3. 根據前端框架進行元件設計規劃並完成網頁切版。\n4. 維護並定義前端框架/實作技術白皮書。\n5. 評估研究並導入前端相關技術及工具。\n【本職缺請至國泰招募網站投遞職缺】\nhttp://pse.is/5anvet",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 理解業務需求，與PM、UXUI團隊溝通討論確認畫面細節，優化使用者體驗。\n2. 跟 Back-end 討論並共同規劃API 規格並進行串接。\n3. 根據前端框架進行元件設計規劃並完成網頁切版。\n4. 維護並定義前端框架/實作技術白皮書。\n5. 評估研究並導入前端相關技術及工具。\n【本職缺請至國泰招募網站投遞職缺】\nhttp://pse.is/5anvet"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "知識技能： 必要項目： CSS 、 SQL 、 Java 、 Git 、 JavaScript 、 JSP 、 HTML 、 功能測試(function test)\n加分項目： Kafka 、 Visual C# 、 jQuery 、 PostgreSQL 、 SWIFT 、 Kotlin 、 Objective-C 、 VueJS 、 JAVA EE\n其他條件： 國內外大學日間部以上，理、工、設計學院相關系所畢業。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：知識技能： 必要項目： CSS 、 SQL 、 Java 、 Git 、 JavaScript 、 JSP 、 HTML 、 功能測試(function test)\n加分項目： Kafka 、 Visual C# 、 jQuery 、 PostgreSQL 、 SWIFT 、 Kotlin 、 Objective-C 、 VueJS 、 JAVA EE\n其他條件： 國內外大學日間部以上，理、工、設計學院相關系所畢業。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "84cst",
+    "job_url": "https://www.104.com.tw/job/84cst",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/84cst.json",
+    "raw_sha256": "4df913d31986948a09442f038a40a4fcd9c948bb4da49181e0c5995809a2b50a",
+    "requested_url": "https://www.104.com.tw/api/jobs/84cst"
+  }
+}

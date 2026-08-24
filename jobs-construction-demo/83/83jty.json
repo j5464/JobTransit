@@ -1,0 +1,150 @@
+{
+  "company": {
+    "id": "as2ph1c",
+    "name": "Flextronics International (Taiwan) Ltd_偉創力股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師",
+      "硬體研發工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "不限身障類別、程度。"
+        },
+        {
+          "children": [],
+          "text": "需持有身心障礙手冊 。(應徵履歷內容請註明身障類別暨使用輔具)"
+        },
+        {
+          "children": [],
+          "text": "*研發人員類 - 有電子產品及電源產品軟韌體或硬體研發設計相關工作經驗佳。"
+        },
+        {
+          "children": [],
+          "text": "只要有興趣，歡迎您主動投遞履歷，我們將根據您個人專長媒合最合適的職缺；"
+        }
+      ],
+      "text": "落實DEI (多元、平等、包容)是偉創力Flex 的一貫理念，為增加身心障礙者的就業機會，本公司設立此職缺專區，歡迎有興趣加入偉創力Flex 的身心障礙者，可以透過此區，使用104系統投遞履歷。\n偉創力Flex 將視個人經履歷及意願媒合相關適合之職務。\n1. 不限身障類別、程度。\n2. 需持有身心障礙手冊 。(應徵履歷內容請註明身障類別暨使用輔具)\n3. *研發人員類 - 有電子產品及電源產品軟韌體或硬體研發設計相關工作經驗佳。\n4. 只要有興趣，歡迎您主動投遞履歷，我們將根據您個人專長媒合最合適的職缺；\n如有合適該職務者，本公司將會主動與您聯繫，不適合者則不另行通知，敬請諒解。\nThe information we collect:\nWe may collect personal information that you choose to submit to us through the Website or otherwise provide to us. This may include your contact details; information provided in online questionnaires, feedback forms, or applications for employment; and information you provide such as CV/Resume. We will use your information for legitimate business purposes such as responding to comments or queries or answering questions; progressing applications for employment; allowing you to choose to share web content with others or; where you represent one of our customers or suppliers, administering the business relationship with that customer or supplier."
+    },
+    "employment_type_raw": "全職",
+    "title": "身心障礙人才媒合專區"
+  },
+  "location": {
+    "address_raw": "新北市五股區中興路一段6號5樓",
+    "raw": "新北市五股區中興路一段6號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 49
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:22:38+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "落實DEI (多元、平等、包容)是偉創力Flex 的一貫理念，為增加身心障礙者的就業機會，本公司設立此職缺專區，歡迎有興趣加入偉創力Flex 的身心障礙者，可以透過此區，使用104系統投遞履歷。\n偉創力Flex 將視個人經履歷及意願媒合相關適合之職務。\n1. 不限身障類別、程度。\n2. 需持有身心障礙手冊 。(應徵履歷內容請註明身障類別暨使用輔具)\n3. *研發人員類 - 有電子產品及電源產品軟韌體或硬體研發設計相關工作經驗佳。\n4. 只要有興趣，歡迎您主動投遞履歷，我們將根據您個人專長媒合最合適的職缺；\n如有合適該職務者，本公司將會主動與您聯繫，不適合者則不另行通知，敬請諒解。\nThe information we collect:\nWe may collect personal information that you choose to submit to us through the Website or otherwise provide to us. This may include your contact details; information provided in online questionnaires, feedback forms, or applications for employment; and information you provide such as CV/Resume. We will use your information for legitimate business purposes such as responding to comments or queries or answering questions; progressing applications for employment; allowing you to choose to share web content with others or; where you represent one of our customers or suppliers, administering the business relationship with that customer or supplier.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師",
+            "硬體研發工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師、硬體研發工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市五股區中興路一段6號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "落實DEI (多元、平等、包容)是偉創力Flex 的一貫理念，為增加身心障礙者的就業機會，本公司設立此職缺專區，歡迎有興趣加入偉創力Flex 的身心障礙者，可以透過此區，使用104系統投遞履歷。\n偉創力Flex 將視個人經履歷及意願媒合相關適合之職務。\n1. 不限身障類別、程度。\n2. 需持有身心障礙手冊 。(應徵履歷內容請註明身障類別暨使用輔具)\n3. *研發人員類 - 有電子產品及電源產品軟韌體或硬體研發設計相關工作經驗佳。\n4. 只要有興趣，歡迎您主動投遞履歷，我們將根據您個人專長媒合最合適的職缺；\n如有合適該職務者，本公司將會主動與您聯繫，不適合者則不另行通知，敬請諒解。\nThe information we collect:\nWe may collect personal information that you choose to submit to us through the Website or otherwise provide to us. This may include your contact details; information provided in online questionnaires, feedback forms, or applications for employment; and information you provide such as CV/Resume. We will use your information for legitimate business purposes such as responding to comments or queries or answering questions; progressing applications for employment; allowing you to choose to share web content with others or; where you represent one of our customers or suppliers, administering the business relationship with that customer or supplier."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "83jty",
+    "job_url": "https://www.104.com.tw/job/83jty",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/83jty.json",
+    "raw_sha256": "4c8235fa72e931a304da949a6331c3717a3631c4676fe50e2e2b94e2a2871420",
+    "requested_url": "https://www.104.com.tw/api/jobs/83jty"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "12nopku0",
+    "name": "聯詠科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "硬體研發工程師",
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "FPGA, IC, IP驗證"
+        },
+        {
+          "children": [],
+          "text": "軟韌體系統規劃及開發"
+        },
+        {
+          "children": [],
+          "text": "軟韌體穩定性測試, 自動化測試"
+        },
+        {
+          "children": [],
+          "text": "功耗分析與優化"
+        },
+        {
+          "children": [],
+          "text": "規格討論"
+        },
+        {
+          "children": [],
+          "text": "FPGA, IC, IP/AIP 驗證"
+        },
+        {
+          "children": [],
+          "text": "生產測試硬件規劃及開發"
+        },
+        {
+          "children": [],
+          "text": "系統/IC 穩定性測試, 功耗量測"
+        },
+        {
+          "children": [],
+          "text": "封裝評估"
+        },
+        {
+          "children": [],
+          "text": "規格討論"
+        },
+        {
+          "children": [],
+          "text": "電子、電機、資工相關科系畢業"
+        },
+        {
+          "children": [],
+          "text": "SoC軟韌體及硬體開發經驗"
+        }
+      ],
+      "text": "【產品線描述】\nASIC Solutions專注於提供高效的應用特定集成電路（ASIC）解決方案，涵蓋智能手機影像信號處理（ISP）、獨立顯示處理器、遊戲機、增強現實（AR）與虛擬現實（VR）設備，以及人工智慧生成內容（AIGC）等領域。\n我們的設計不僅提升產品性能，還有效降低功耗，延長設備使用壽命。專業團隊根據客戶需求提供量身定制的方案，確保在性能和成本效益上達到最佳平衡。選擇ASIC Solutions，共同推動科技未來。\n【工作說明】\n軟/韌體開發人員：\n1. FPGA, IC, IP驗證\n2. 軟韌體系統規劃及開發\n3. 軟韌體穩定性測試, 自動化測試\n4. 功耗分析與優化\n5. 規格討論\n硬體開發人員：\n1. FPGA, IC, IP/AIP 驗證\n2. 生產測試硬件規劃及開發\n3. 系統/IC 穩定性測試, 功耗量測\n4. 封裝評估\n5. 規格討論\n【必要條件】\n1. 電子、電機、資工相關科系畢業\n2. SoC軟韌體及硬體開發經驗"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統應用工程師(I1S3)"
+  },
+  "location": {
+    "address_raw": "新竹市創新一路1-2號",
+    "raw": "新竹市創新一路1-2號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉FPGA/IC 驗證, 軟體或硬體開發"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "熟悉FPGA/IC 驗證, 軟體或硬體開發",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：熟悉FPGA/IC 驗證, 軟體或硬體開發",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 43
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:08:07+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【產品線描述】\nASIC Solutions專注於提供高效的應用特定集成電路（ASIC）解決方案，涵蓋智能手機影像信號處理（ISP）、獨立顯示處理器、遊戲機、增強現實（AR）與虛擬現實（VR）設備，以及人工智慧生成內容（AIGC）等領域。\n我們的設計不僅提升產品性能，還有效降低功耗，延長設備使用壽命。專業團隊根據客戶需求提供量身定制的方案，確保在性能和成本效益上達到最佳平衡。選擇ASIC Solutions，共同推動科技未來。\n【工作說明】\n軟/韌體開發人員：\n1. FPGA, IC, IP驗證\n2. 軟韌體系統規劃及開發\n3. 軟韌體穩定性測試, 自動化測試\n4. 功耗分析與優化\n5. 規格討論\n硬體開發人員：\n1. FPGA, IC, IP/AIP 驗證\n2. 生產測試硬件規劃及開發\n3. 系統/IC 穩定性測試, 功耗量測\n4. 封裝評估\n5. 規格討論\n【必要條件】\n1. 電子、電機、資工相關科系畢業\n2. SoC軟韌體及硬體開發經驗",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "硬體研發工程師",
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "硬體研發工程師、軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市創新一路1-2號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【產品線描述】\nASIC Solutions專注於提供高效的應用特定集成電路（ASIC）解決方案，涵蓋智能手機影像信號處理（ISP）、獨立顯示處理器、遊戲機、增強現實（AR）與虛擬現實（VR）設備，以及人工智慧生成內容（AIGC）等領域。\n我們的設計不僅提升產品性能，還有效降低功耗，延長設備使用壽命。專業團隊根據客戶需求提供量身定制的方案，確保在性能和成本效益上達到最佳平衡。選擇ASIC Solutions，共同推動科技未來。\n【工作說明】\n軟/韌體開發人員：\n1. FPGA, IC, IP驗證\n2. 軟韌體系統規劃及開發\n3. 軟韌體穩定性測試, 自動化測試\n4. 功耗分析與優化\n5. 規格討論\n硬體開發人員：\n1. FPGA, IC, IP/AIP 驗證\n2. 生產測試硬件規劃及開發\n3. 系統/IC 穩定性測試, 功耗量測\n4. 封裝評估\n5. 規格討論\n【必要條件】\n1. 電子、電機、資工相關科系畢業\n2. SoC軟韌體及硬體開發經驗"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉FPGA/IC 驗證, 軟體或硬體開發",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：熟悉FPGA/IC 驗證, 軟體或硬體開發"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7grvy",
+    "job_url": "https://www.104.com.tw/job/7grvy",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7grvy.json",
+    "raw_sha256": "d8395b065b622ccb75a4519a60cbe6aeb85f13f599edd4b4aeeff1d42fe83c69",
+    "requested_url": "https://www.104.com.tw/api/jobs/7grvy"
+  }
+}

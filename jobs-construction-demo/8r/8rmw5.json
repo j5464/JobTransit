@@ -1,0 +1,347 @@
+{
+  "company": {
+    "id": "1a2x6blts4",
+    "name": "智遊旅程股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "iOS工程師",
+      "Android工程師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "【固定月薪+專案獎金】\n你可以去大公司領取高薪重複做技術性工作，或是在小型新創公司和我們一起改變旅遊業。\n對程式開發具有熱情，願意挑戰新技術及架構。工作思路清晰，具鑽研進取精神。\nAPP程式設計與應用程式商店上架，會使用Flutter(Dart)、Swift、Java。\n需支援網頁前端開發，會RWD、PWA、切版及使用第三方套件進行開發。\n熟悉vue2.3/Nuxt/Node.js/react/HTML/JavaScript/CSS等相關框架。\nELEMENT，TAILWIND CSS，GA，WEB SOCKET，WEB RTC。\n各式AI大語言模型訓練、串接、應用。\n金流串接，數據相關API串接，處理資料並提供分析報告。\n規劃執行軟體架構及模組之開發設計，並控管軟體設計進度。\n規劃、執行與維護量產的應用程式。\n協助研發軟體新技術與新工具。\n進行軟體相關測試與修改。\n具溝通協調能力，能與UI、PM、SA、後端等相互配合，團隊合作。\n具危機處理能力，能配合on call故障排除。\n身心健康，做事認真負責，具抗壓性。"
+    },
+    "employment_type_raw": "全職",
+    "title": "APP工程師 (Flutter)"
+  },
+  "location": {
+    "address_raw": "桃園市中壢區環北路",
+    "raw": "桃園市中壢區環北路"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C#",
+          "C++",
+          "Java",
+          "PHP",
+          "Git",
+          "HTML",
+          "JavaScript",
+          "CSS",
+          "Node.js",
+          "ReactJS",
+          "IIS",
+          "Firebase",
+          "Github",
+          "SaaS",
+          "LLM",
+          "VueJS",
+          "HTTP",
+          "Socket",
+          "ChatGPT",
+          "Scrum",
+          "Google Tag Manager",
+          "Google Analytics",
+          "Google Data Studio",
+          "Power BI​",
+          "SEO",
+          "Flutter",
+          "Dart",
+          "SWIFT",
+          "Google Trend",
+          "Google關鍵字廣告"
+        ],
+        "label": "擅長工具",
+        "text": "C、C#、C++、Java、PHP、Git、HTML、JavaScript、CSS、Node.js、ReactJS、IIS、Firebase、Github、SaaS、LLM、VueJS、HTTP、Socket、ChatGPT、Scrum、Google Tag Manager、Google Analytics、Google Data Studio、Power BI​、SEO、Flutter、Dart、SWIFT、Google Trend、Google關鍵字廣告"
+      },
+      {
+        "items": [
+          "使用者測試(Usability test)",
+          "軟體工程系統開發",
+          "功能測試(function test)",
+          "問題追蹤處理(Bug tracking)",
+          "軟體整合測試",
+          "軟體程式設計",
+          "網路程式設計",
+          "安全性測試(Security test)",
+          "結構化程式設計",
+          "人工智慧",
+          "AI",
+          "網頁語法撰寫",
+          "網頁軟體操作",
+          "使用者體驗設計",
+          "使用者介面設計"
+        ],
+        "label": "工作技能",
+        "text": "使用者測試(Usability test)、軟體工程系統開發、功能測試(function test)、問題追蹤處理(Bug tracking)、軟體整合測試、軟體程式設計、網路程式設計、安全性測試(Security test)、結構化程式設計、人工智慧、AI、網頁語法撰寫、網頁軟體操作、使用者體驗設計、使用者介面設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "真的對於寫程式及軟體開發有興趣、對自己有信心、確定自己符合上述條件再投履歷，切勿浪費彼此時間，謝謝。\n如有通知面試需附上相關作品集，能有與旅遊相關程式開發的作品是加分項目。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "真的對於寫程式及軟體開發有興趣、對自己有信心、確定自己符合上述條件再投履歷，切勿浪費彼此時間，謝謝。\n如有通知面試需附上相關作品集，能有與旅遊相關程式開發的作品是加分項目。",
+    "skills": [
+      "使用者測試(Usability test)",
+      "軟體工程系統開發",
+      "功能測試(function test)",
+      "問題追蹤處理(Bug tracking)",
+      "軟體整合測試",
+      "軟體程式設計",
+      "網路程式設計",
+      "安全性測試(Security test)",
+      "結構化程式設計",
+      "人工智慧",
+      "AI",
+      "網頁語法撰寫",
+      "網頁軟體操作",
+      "使用者體驗設計",
+      "使用者介面設計"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C#、C++、Java、PHP、Git、HTML、JavaScript、CSS、Node.js、ReactJS、IIS、Firebase、Github、SaaS、LLM、VueJS、HTTP、Socket、ChatGPT、Scrum、Google Tag Manager、Google Analytics、Google Data Studio、Power BI​、SEO、Flutter、Dart、SWIFT、Google Trend、Google關鍵字廣告\n工作技能：使用者測試(Usability test)、軟體工程系統開發、功能測試(function test)、問題追蹤處理(Bug tracking)、軟體整合測試、軟體程式設計、網路程式設計、安全性測試(Security test)、結構化程式設計、人工智慧、AI、網頁語法撰寫、網頁軟體操作、使用者體驗設計、使用者介面設計\n其他條件：真的對於寫程式及軟體開發有興趣、對自己有信心、確定自己符合上述條件再投履歷，切勿浪費彼此時間，謝謝。\n如有通知面試需附上相關作品集，能有與旅遊相關程式開發的作品是加分項目。",
+    "tools": [
+      "C",
+      "C#",
+      "C++",
+      "Java",
+      "PHP",
+      "Git",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "Node.js",
+      "ReactJS",
+      "IIS",
+      "Firebase",
+      "Github",
+      "SaaS",
+      "LLM",
+      "VueJS",
+      "HTTP",
+      "Socket",
+      "ChatGPT",
+      "Scrum",
+      "Google Tag Manager",
+      "Google Analytics",
+      "Google Data Studio",
+      "Power BI​",
+      "SEO",
+      "Flutter",
+      "Dart",
+      "SWIFT",
+      "Google Trend",
+      "Google關鍵字廣告"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 57
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:42:45+08:00"
+  },
+  "salary": {
+    "raw": "月薪60,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【固定月薪+專案獎金】\n你可以去大公司領取高薪重複做技術性工作，或是在小型新創公司和我們一起改變旅遊業。\n對程式開發具有熱情，願意挑戰新技術及架構。工作思路清晰，具鑽研進取精神。\nAPP程式設計與應用程式商店上架，會使用Flutter(Dart)、Swift、Java。\n需支援網頁前端開發，會RWD、PWA、切版及使用第三方套件進行開發。\n熟悉vue2.3/Nuxt/Node.js/react/HTML/JavaScript/CSS等相關框架。\nELEMENT，TAILWIND CSS，GA，WEB SOCKET，WEB RTC。\n各式AI大語言模型訓練、串接、應用。\n金流串接，數據相關API串接，處理資料並提供分析報告。\n規劃執行軟體架構及模組之開發設計，並控管軟體設計進度。\n規劃、執行與維護量產的應用程式。\n協助研發軟體新技術與新工具。\n進行軟體相關測試與修改。\n具溝通協調能力，能與UI、PM、SA、後端等相互配合，團隊合作。\n具危機處理能力，能配合on call故障排除。\n身心健康，做事認真負責，具抗壓性。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "iOS工程師",
+            "Android工程師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "iOS工程師、Android工程師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪60,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市中壢區環北路",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【固定月薪+專案獎金】\n你可以去大公司領取高薪重複做技術性工作，或是在小型新創公司和我們一起改變旅遊業。\n對程式開發具有熱情，願意挑戰新技術及架構。工作思路清晰，具鑽研進取精神。\nAPP程式設計與應用程式商店上架，會使用Flutter(Dart)、Swift、Java。\n需支援網頁前端開發，會RWD、PWA、切版及使用第三方套件進行開發。\n熟悉vue2.3/Nuxt/Node.js/react/HTML/JavaScript/CSS等相關框架。\nELEMENT，TAILWIND CSS，GA，WEB SOCKET，WEB RTC。\n各式AI大語言模型訓練、串接、應用。\n金流串接，數據相關API串接，處理資料並提供分析報告。\n規劃執行軟體架構及模組之開發設計，並控管軟體設計進度。\n規劃、執行與維護量產的應用程式。\n協助研發軟體新技術與新工具。\n進行軟體相關測試與修改。\n具溝通協調能力，能與UI、PM、SA、後端等相互配合，團隊合作。\n具危機處理能力，能配合on call故障排除。\n身心健康，做事認真負責，具抗壓性。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C#",
+            "C++",
+            "Java",
+            "PHP",
+            "Git",
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "Node.js",
+            "ReactJS",
+            "IIS",
+            "Firebase",
+            "Github",
+            "SaaS",
+            "LLM",
+            "VueJS",
+            "HTTP",
+            "Socket",
+            "ChatGPT",
+            "Scrum",
+            "Google Tag Manager",
+            "Google Analytics",
+            "Google Data Studio",
+            "Power BI​",
+            "SEO",
+            "Flutter",
+            "Dart",
+            "SWIFT",
+            "Google Trend",
+            "Google關鍵字廣告"
+          ],
+          "label": "擅長工具",
+          "text": "C、C#、C++、Java、PHP、Git、HTML、JavaScript、CSS、Node.js、ReactJS、IIS、Firebase、Github、SaaS、LLM、VueJS、HTTP、Socket、ChatGPT、Scrum、Google Tag Manager、Google Analytics、Google Data Studio、Power BI​、SEO、Flutter、Dart、SWIFT、Google Trend、Google關鍵字廣告",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "使用者測試(Usability test)",
+            "軟體工程系統開發",
+            "功能測試(function test)",
+            "問題追蹤處理(Bug tracking)",
+            "軟體整合測試",
+            "軟體程式設計",
+            "網路程式設計",
+            "安全性測試(Security test)",
+            "結構化程式設計",
+            "人工智慧",
+            "AI",
+            "網頁語法撰寫",
+            "網頁軟體操作",
+            "使用者體驗設計",
+            "使用者介面設計"
+          ],
+          "label": "工作技能",
+          "text": "使用者測試(Usability test)、軟體工程系統開發、功能測試(function test)、問題追蹤處理(Bug tracking)、軟體整合測試、軟體程式設計、網路程式設計、安全性測試(Security test)、結構化程式設計、人工智慧、AI、網頁語法撰寫、網頁軟體操作、使用者體驗設計、使用者介面設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "真的對於寫程式及軟體開發有興趣、對自己有信心、確定自己符合上述條件再投履歷，切勿浪費彼此時間，謝謝。\n如有通知面試需附上相關作品集，能有與旅遊相關程式開發的作品是加分項目。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C#、C++、Java、PHP、Git、HTML、JavaScript、CSS、Node.js、ReactJS、IIS、Firebase、Github、SaaS、LLM、VueJS、HTTP、Socket、ChatGPT、Scrum、Google Tag Manager、Google Analytics、Google Data Studio、Power BI​、SEO、Flutter、Dart、SWIFT、Google Trend、Google關鍵字廣告\n工作技能：使用者測試(Usability test)、軟體工程系統開發、功能測試(function test)、問題追蹤處理(Bug tracking)、軟體整合測試、軟體程式設計、網路程式設計、安全性測試(Security test)、結構化程式設計、人工智慧、AI、網頁語法撰寫、網頁軟體操作、使用者體驗設計、使用者介面設計\n其他條件：真的對於寫程式及軟體開發有興趣、對自己有信心、確定自己符合上述條件再投履歷，切勿浪費彼此時間，謝謝。\n如有通知面試需附上相關作品集，能有與旅遊相關程式開發的作品是加分項目。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8rmw5",
+    "job_url": "https://www.104.com.tw/job/8rmw5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8rmw5.json",
+    "raw_sha256": "c00b2ad76de76b0b889b1aa0e045681edc75fbd31ae1325a813d8fe205dab648",
+    "requested_url": "https://www.104.com.tw/api/jobs/8rmw5"
+  }
+}

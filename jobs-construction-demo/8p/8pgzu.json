@@ -1,0 +1,233 @@
+{
+  "company": {
+    "id": "1a2x6bichu",
+    "name": "雲創通訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop and maintain scalable and secure backend systems for web applications."
+        },
+        {
+          "children": [],
+          "text": "Design and implement RESTful APIs and ensure efficient data flow between frontend and backend."
+        },
+        {
+          "children": [],
+          "text": "Optimize backend performance, scalability, and service reliability."
+        },
+        {
+          "children": [],
+          "text": "Work with authentication and authorization mechanisms to enhance security."
+        },
+        {
+          "children": [],
+          "text": "Implement database management, indexing, and caching to improve efficiency."
+        },
+        {
+          "children": [],
+          "text": "Utilize background jobs and messaging queues for handling asynchronous tasks."
+        },
+        {
+          "children": [],
+          "text": "Deploy, monitor, and troubleshoot backend services using logging and error tracking tools."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with frontend engineers, DevOps, and product managers to ensure smooth system operation."
+        },
+        {
+          "children": [],
+          "text": "Stay updated with backend development trends and security best practices."
+        }
+      ],
+      "text": "1. Develop and maintain scalable and secure backend systems for web applications.\n(開發與維護可擴展且安全的後端系統，支援網頁應用程式)\n2. Design and implement RESTful APIs and ensure efficient data flow between frontend and backend.\n(設計與開發 RESTful API，確保前後端之間的高效數據傳輸)\n3. Optimize backend performance, scalability, and service reliability.\n(優化後端效能、可擴展性與服務可靠性)\n4. Work with authentication and authorization mechanisms to enhance security.\n(實作身份驗證與授權機制，提高系統安全性)\n5. Implement database management, indexing, and caching to improve efficiency.\n(管理數據庫，進行索引與快取優化，以提升效能)\n6. Utilize background jobs and messaging queues for handling asynchronous tasks.\n(使用背景作業與消息佇列來處理非同步任務)\n7. Deploy, monitor, and troubleshoot backend services using logging and error tracking tools.\n(部署、監控與除錯後端服務，使用日誌與錯誤追蹤工具)\n8. Collaborate with frontend engineers, DevOps, and product managers to ensure smooth system operation.\n(與前端工程師、DevOps 及產品經理合作，確保系統運行順暢)\n9. Stay updated with backend development trends and security best practices.\n(關注最新的後端開發趨勢與安全性最佳實踐)"
+    },
+    "employment_type_raw": "全職",
+    "title": "Web Backend Developer (後端工程師)"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市高鐵二路32號17樓之3",
+    "raw": "新竹縣竹北市高鐵二路32號17樓之3"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "PHP"
+        ],
+        "label": "擅長工具",
+        "text": "PHP"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. Strong problem-solving skills and ability to debug complex issues.\n(具備優秀的問題解決能力，能夠診斷與修復複雜問題)\n2. Good communication and teamwork skills to work effectively with other teams.\n(良好的溝通能力與團隊合作精神，能夠與其他團隊高效合作)\n3. Ability to manage time efficiently and work independently.\n(具備良好的時間管理能力，能夠獨立作業並掌控工作進度)\n4. Willingness to learn new technologies and adapt to a fast-paced environment.\n(願意學習新技術並適應快速變化的開發環境)\n5. Experience in an agile development environment is a plus.\n(有敏捷開發經驗者優先考慮)\n6. Good English reading and communication skills for technical documentation.\n(具備良好的英文閱讀與溝通能力，以理解技術文件)"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "1. Strong problem-solving skills and ability to debug complex issues.\n(具備優秀的問題解決能力，能夠診斷與修復複雜問題)\n2. Good communication and teamwork skills to work effectively with other teams.\n(良好的溝通能力與團隊合作精神，能夠與其他團隊高效合作)\n3. Ability to manage time efficiently and work independently.\n(具備良好的時間管理能力，能夠獨立作業並掌控工作進度)\n4. Willingness to learn new technologies and adapt to a fast-paced environment.\n(願意學習新技術並適應快速變化的開發環境)\n5. Experience in an agile development environment is a plus.\n(有敏捷開發經驗者優先考慮)\n6. Good English reading and communication skills for technical documentation.\n(具備良好的英文閱讀與溝通能力，以理解技術文件)",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：PHP\n其他條件：1. Strong problem-solving skills and ability to debug complex issues.\n(具備優秀的問題解決能力，能夠診斷與修復複雜問題)\n2. Good communication and teamwork skills to work effectively with other teams.\n(良好的溝通能力與團隊合作精神，能夠與其他團隊高效合作)\n3. Ability to manage time efficiently and work independently.\n(具備良好的時間管理能力，能夠獨立作業並掌控工作進度)\n4. Willingness to learn new technologies and adapt to a fast-paced environment.\n(願意學習新技術並適應快速變化的開發環境)\n5. Experience in an agile development environment is a plus.\n(有敏捷開發經驗者優先考慮)\n6. Good English reading and communication skills for technical documentation.\n(具備良好的英文閱讀與溝通能力，以理解技術文件)",
+    "tools": [
+      "PHP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 18
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:06:13+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. Develop and maintain scalable and secure backend systems for web applications.\n(開發與維護可擴展且安全的後端系統，支援網頁應用程式)\n2. Design and implement RESTful APIs and ensure efficient data flow between frontend and backend.\n(設計與開發 RESTful API，確保前後端之間的高效數據傳輸)\n3. Optimize backend performance, scalability, and service reliability.\n(優化後端效能、可擴展性與服務可靠性)\n4. Work with authentication and authorization mechanisms to enhance security.\n(實作身份驗證與授權機制，提高系統安全性)\n5. Implement database management, indexing, and caching to improve efficiency.\n(管理數據庫，進行索引與快取優化，以提升效能)\n6. Utilize background jobs and messaging queues for handling asynchronous tasks.\n(使用背景作業與消息佇列來處理非同步任務)\n7. Deploy, monitor, and troubleshoot backend services using logging and error tracking tools.\n(部署、監控與除錯後端服務，使用日誌與錯誤追蹤工具)\n8. Collaborate with frontend engineers, DevOps, and product managers to ensure smooth system operation.\n(與前端工程師、DevOps 及產品經理合作，確保系統運行順暢)\n9. Stay updated with backend development trends and security best practices.\n(關注最新的後端開發趨勢與安全性最佳實踐)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市高鐵二路32號17樓之3",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. Develop and maintain scalable and secure backend systems for web applications.\n(開發與維護可擴展且安全的後端系統，支援網頁應用程式)\n2. Design and implement RESTful APIs and ensure efficient data flow between frontend and backend.\n(設計與開發 RESTful API，確保前後端之間的高效數據傳輸)\n3. Optimize backend performance, scalability, and service reliability.\n(優化後端效能、可擴展性與服務可靠性)\n4. Work with authentication and authorization mechanisms to enhance security.\n(實作身份驗證與授權機制，提高系統安全性)\n5. Implement database management, indexing, and caching to improve efficiency.\n(管理數據庫，進行索引與快取優化，以提升效能)\n6. Utilize background jobs and messaging queues for handling asynchronous tasks.\n(使用背景作業與消息佇列來處理非同步任務)\n7. Deploy, monitor, and troubleshoot backend services using logging and error tracking tools.\n(部署、監控與除錯後端服務，使用日誌與錯誤追蹤工具)\n8. Collaborate with frontend engineers, DevOps, and product managers to ensure smooth system operation.\n(與前端工程師、DevOps 及產品經理合作，確保系統運行順暢)\n9. Stay updated with backend development trends and security best practices.\n(關注最新的後端開發趨勢與安全性最佳實踐)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PHP"
+          ],
+          "label": "擅長工具",
+          "text": "PHP",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. Strong problem-solving skills and ability to debug complex issues.\n(具備優秀的問題解決能力，能夠診斷與修復複雜問題)\n2. Good communication and teamwork skills to work effectively with other teams.\n(良好的溝通能力與團隊合作精神，能夠與其他團隊高效合作)\n3. Ability to manage time efficiently and work independently.\n(具備良好的時間管理能力，能夠獨立作業並掌控工作進度)\n4. Willingness to learn new technologies and adapt to a fast-paced environment.\n(願意學習新技術並適應快速變化的開發環境)\n5. Experience in an agile development environment is a plus.\n(有敏捷開發經驗者優先考慮)\n6. Good English reading and communication skills for technical documentation.\n(具備良好的英文閱讀與溝通能力，以理解技術文件)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：PHP\n其他條件：1. Strong problem-solving skills and ability to debug complex issues.\n(具備優秀的問題解決能力，能夠診斷與修復複雜問題)\n2. Good communication and teamwork skills to work effectively with other teams.\n(良好的溝通能力與團隊合作精神，能夠與其他團隊高效合作)\n3. Ability to manage time efficiently and work independently.\n(具備良好的時間管理能力，能夠獨立作業並掌控工作進度)\n4. Willingness to learn new technologies and adapt to a fast-paced environment.\n(願意學習新技術並適應快速變化的開發環境)\n5. Experience in an agile development environment is a plus.\n(有敏捷開發經驗者優先考慮)\n6. Good English reading and communication skills for technical documentation.\n(具備良好的英文閱讀與溝通能力，以理解技術文件)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8pgzu",
+    "job_url": "https://www.104.com.tw/job/8pgzu",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8pgzu.json",
+    "raw_sha256": "5e25353356439f2d01181f942c0053e388a238c1333715eca48fd0aae5737212",
+    "requested_url": "https://www.104.com.tw/api/jobs/8pgzu"
+  }
+}

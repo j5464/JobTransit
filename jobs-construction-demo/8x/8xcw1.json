@@ -1,0 +1,264 @@
+{
+  "company": {
+    "id": "5nyiafk",
+    "name": "閎泰科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "我們的使命是用 AI 重新定義人們的日常生活。"
+        },
+        {
+          "children": [],
+          "text": "撰寫MCU程式控制雷達 IC（SPI / UART / CAN）"
+        },
+        {
+          "children": [],
+          "text": "雷達資料轉送至 AI 運算平台"
+        },
+        {
+          "children": [],
+          "text": "整合前後端資料流"
+        },
+        {
+          "children": [],
+          "text": "建置 i.MX95 / RZ/V2N / Jetson Linux 環境"
+        },
+        {
+          "children": [],
+          "text": "AI 模型部署（ONNX / TFLite）"
+        },
+        {
+          "children": [],
+          "text": "Docker / Edge AI Runtime 整合"
+        }
+      ],
+      "text": "●我們的使命是用 AI 重新定義人們的日常生活。\n我們不只在開發產品，更在創造前所未有的智慧生活體驗。如果你對 AI 懷抱熱情，並渴望親手用技術和謀略創造真實的影響力，我們正在尋找的就是你！●\n【工作內容】\n1. 撰寫MCU程式控制雷達 IC（SPI / UART / CAN）\n2. 雷達資料轉送至 AI 運算平台\n3. 整合前後端資料流\n4. 建置 i.MX95 / RZ/V2N / Jetson Linux 環境\n5. AI 模型部署（ONNX / TFLite）\n6. Docker / Edge AI Runtime 整合"
+    },
+    "employment_type_raw": "全職",
+    "title": "【新事業部】嵌入式系統韌體工程師"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶橋路235巷167號",
+    "raw": "新北市新店區寶橋路235巷167號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word",
+          "中文打字20~50",
+          "英文打字20~50",
+          "C",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Outlook、PowerPoint、Word、中文打字20~50、英文打字20~50、C、C++、Python"
+      },
+      {
+        "items": [
+          "韌體程式設計",
+          "韌體工程開發"
+        ],
+        "label": "工作技能",
+        "text": "韌體程式設計、韌體工程開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "- C/C++、MCU 韌體開發經驗\n- 熟悉嵌入式 Linux 基礎\n- 熟悉多通訊介面\n- Embedded Linux / Yocto / Ubuntu\n- AI inference pipeline 經驗\n- Docker 實務經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關"
+    ],
+    "other_text": "- C/C++、MCU 韌體開發經驗\n- 熟悉嵌入式 Linux 基礎\n- 熟悉多通訊介面\n- Embedded Linux / Yocto / Ubuntu\n- AI inference pipeline 經驗\n- Docker 實務經驗",
+    "skills": [
+      "韌體程式設計",
+      "韌體工程開發"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word、中文打字20~50、英文打字20~50、C、C++、Python\n工作技能：韌體程式設計、韌體工程開發\n其他條件：- C/C++、MCU 韌體開發經驗\n- 熟悉嵌入式 Linux 基礎\n- 熟悉多通訊介面\n- Embedded Linux / Yocto / Ubuntu\n- AI inference pipeline 經驗\n- Docker 實務經驗",
+    "tools": [
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word",
+      "中文打字20~50",
+      "英文打字20~50",
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 14
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:55:42+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "●我們的使命是用 AI 重新定義人們的日常生活。\n我們不只在開發產品，更在創造前所未有的智慧生活體驗。如果你對 AI 懷抱熱情，並渴望親手用技術和謀略創造真實的影響力，我們正在尋找的就是你！●\n【工作內容】\n1. 撰寫MCU程式控制雷達 IC（SPI / UART / CAN）\n2. 雷達資料轉送至 AI 運算平台\n3. 整合前後端資料流\n4. 建置 i.MX95 / RZ/V2N / Jetson Linux 環境\n5. AI 模型部署（ONNX / TFLite）\n6. Docker / Edge AI Runtime 整合",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶橋路235巷167號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "●我們的使命是用 AI 重新定義人們的日常生活。\n我們不只在開發產品，更在創造前所未有的智慧生活體驗。如果你對 AI 懷抱熱情，並渴望親手用技術和謀略創造真實的影響力，我們正在尋找的就是你！●\n【工作內容】\n1. 撰寫MCU程式控制雷達 IC（SPI / UART / CAN）\n2. 雷達資料轉送至 AI 運算平台\n3. 整合前後端資料流\n4. 建置 i.MX95 / RZ/V2N / Jetson Linux 環境\n5. AI 模型部署（ONNX / TFLite）\n6. Docker / Edge AI Runtime 整合"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word",
+            "中文打字20~50",
+            "英文打字20~50",
+            "C",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Outlook、PowerPoint、Word、中文打字20~50、英文打字20~50、C、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "韌體程式設計",
+            "韌體工程開發"
+          ],
+          "label": "工作技能",
+          "text": "韌體程式設計、韌體工程開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "- C/C++、MCU 韌體開發經驗\n- 熟悉嵌入式 Linux 基礎\n- 熟悉多通訊介面\n- Embedded Linux / Yocto / Ubuntu\n- AI inference pipeline 經驗\n- Docker 實務經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word、中文打字20~50、英文打字20~50、C、C++、Python\n工作技能：韌體程式設計、韌體工程開發\n其他條件：- C/C++、MCU 韌體開發經驗\n- 熟悉嵌入式 Linux 基礎\n- 熟悉多通訊介面\n- Embedded Linux / Yocto / Ubuntu\n- AI inference pipeline 經驗\n- Docker 實務經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8xcw1",
+    "job_url": "https://www.104.com.tw/job/8xcw1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xcw1.json",
+    "raw_sha256": "4d12dfa5ca7738c774a84a2528f5282c2b5b8398cebe535dcd8556e9adf64a55",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xcw1"
+  }
+}

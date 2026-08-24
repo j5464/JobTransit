@@ -1,0 +1,233 @@
+{
+  "company": {
+    "id": "1a2x6ble2t",
+    "name": "瞬聯科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料庫管理人員",
+      "數據分析師／資料分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "維護、監控及設定 ETL Data Pipeline，協助 Data Warehouse 與 Salesforce CRM 間的資料整合與傳輸。"
+        },
+        {
+          "children": [],
+          "text": "使用 SQL 進行資料查詢、驗證與問題排查；具 Spark SQL / Hive 經驗者佳。"
+        },
+        {
+          "children": [],
+          "text": "支援 Salesforce CRM Admin 相關工作，包括 Data Table、Workflow、Approval 等設定與維護。"
+        },
+        {
+          "children": [],
+          "text": "支援系統部署、Release、Monitoring、Alerting 及日常 Production Issue / Bug Investigation。"
+        },
+        {
+          "children": [],
+          "text": "協助 AI-enabled Sales Solutions 的資料與平台運作，包括 RAG、Knowledge Base、Retrieval 等相關應用。"
+        },
+        {
+          "children": [],
+          "text": "協助資料品質、Data Validation、Data Warehouse 及相關資料流程管理。"
+        },
+        {
+          "children": [],
+          "text": "與 Sales、IT、Data 及其他跨部門團隊合作，推動 CRM 與 Sales Operations 流程及報表優化。"
+        },
+        {
+          "children": [],
+          "text": "大學以上，資訊、資料科學、統計、數學、工程或相關科系。"
+        },
+        {
+          "children": [],
+          "text": "2 年以上 Data Engineering、Data Operations、Backend Development、Platform Operations、DevOps 或相關技術經驗尤佳。"
+        },
+        {
+          "children": [],
+          "text": "具備基本至良好的 SQL 能力，能進行資料查詢、驗證及問題排查。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 ETL、Data Pipeline、資料驗證及 Data Quality Management。"
+        },
+        {
+          "children": [],
+          "text": "了解 Data Warehouse 基本概念，如 Tables、Partitions、Dependencies、Data Lineage。"
+        },
+        {
+          "children": [],
+          "text": "具 Salesforce / CRM Admin、系統部署、Monitoring、Logging、Alerting 或 Incident Response 經驗者佳。"
+        },
+        {
+          "children": [],
+          "text": "具 Python 自動化、資料處理或 Troubleshooting 經驗者佳。"
+        },
+        {
+          "children": [],
+          "text": "具 AI / LLM 基礎概念；熟悉 RAG、Vector Database、Embeddings、Knowledge Base 或 AI Agents 者加分。"
+        },
+        {
+          "children": [],
+          "text": "具良好分析與問題解決能力，並能有效進行跨部門溝通。"
+        }
+      ],
+      "text": "與全球知名跨境電商合作，主要負責支援國際 Sales Operations 的 CRM 與資料平台，串聯 Salesforce CRM、Data Warehouse、ETL Data Pipeline 及 AI 相關平台，確保資料整合、系統運作與日常服務穩定，並協助提升 CRM 與 Sales Operations 效率。\n【主要工作內容】\n- 維護、監控及設定 ETL Data Pipeline，協助 Data Warehouse 與 Salesforce CRM 間的資料整合與傳輸。\n- 使用 SQL 進行資料查詢、驗證與問題排查；具 Spark SQL / Hive 經驗者佳。\n- 支援 Salesforce CRM Admin 相關工作，包括 Data Table、Workflow、Approval 等設定與維護。\n- 支援系統部署、Release、Monitoring、Alerting 及日常 Production Issue / Bug Investigation。\n- 協助 AI-enabled Sales Solutions 的資料與平台運作，包括 RAG、Knowledge Base、Retrieval 等相關應用。\n- 協助資料品質、Data Validation、Data Warehouse 及相關資料流程管理。\n- 與 Sales、IT、Data 及其他跨部門團隊合作，推動 CRM 與 Sales Operations 流程及報表優化。\n【職務條件】\n- 大學以上，資訊、資料科學、統計、數學、工程或相關科系。\n- 2 年以上 Data Engineering、Data Operations、Backend Development、Platform Operations、DevOps 或相關技術經驗尤佳。\n- 具備基本至良好的 SQL 能力，能進行資料查詢、驗證及問題排查。\n- 熟悉 ETL、Data Pipeline、資料驗證及 Data Quality Management。\n- 了解 Data Warehouse 基本概念，如 Tables、Partitions、Dependencies、Data Lineage。\n- 具 Salesforce / CRM Admin、系統部署、Monitoring、Logging、Alerting 或 Incident Response 經驗者佳。\n- 具 Python 自動化、資料處理或 Troubleshooting 經驗者佳。\n- 具 AI / LLM 基礎概念；熟悉 RAG、Vector Database、Embeddings、Knowledge Base 或 AI Agents 者加分。\n- 具良好分析與問題解決能力，並能有效進行跨部門溝通。\n【職務亮點】\n結合 CRM × Data × Platform × AI，不僅負責 CRM 日常支援，也能參與資料整合、系統部署及 AI 應用相關工作，適合希望拓展 CRM Platform、Data Operations 與 AI 應用經驗的技術人才。"
+    },
+    "employment_type_raw": "全職",
+    "title": "CRM Data & Platform Specialist"
+  },
+  "location": {
+    "address_raw": "台北市大安區",
+    "raw": "台北市大安區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "數理統計相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "數理統計相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "資料庫系統管理維護"
+        ],
+        "label": "工作技能",
+        "text": "資料庫系統管理維護"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "數理統計相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "資料庫系統管理維護"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：數理統計相關、資訊工程相關\n工作技能：資料庫系統管理維護",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 4
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:29:27+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "與全球知名跨境電商合作，主要負責支援國際 Sales Operations 的 CRM 與資料平台，串聯 Salesforce CRM、Data Warehouse、ETL Data Pipeline 及 AI 相關平台，確保資料整合、系統運作與日常服務穩定，並協助提升 CRM 與 Sales Operations 效率。\n【主要工作內容】\n- 維護、監控及設定 ETL Data Pipeline，協助 Data Warehouse 與 Salesforce CRM 間的資料整合與傳輸。\n- 使用 SQL 進行資料查詢、驗證與問題排查；具 Spark SQL / Hive 經驗者佳。\n- 支援 Salesforce CRM Admin 相關工作，包括 Data Table、Workflow、Approval 等設定與維護。\n- 支援系統部署、Release、Monitoring、Alerting 及日常 Production Issue / Bug Investigation。\n- 協助 AI-enabled Sales Solutions 的資料與平台運作，包括 RAG、Knowledge Base、Retrieval 等相關應用。\n- 協助資料品質、Data Validation、Data Warehouse 及相關資料流程管理。\n- 與 Sales、IT、Data 及其他跨部門團隊合作，推動 CRM 與 Sales Operations 流程及報表優化。\n【職務條件】\n- 大學以上，資訊、資料科學、統計、數學、工程或相關科系。\n- 2 年以上 Data Engineering、Data Operations、Backend Development、Platform Operations、DevOps 或相關技術經驗尤佳。\n- 具備基本至良好的 SQL 能力，能進行資料查詢、驗證及問題排查。\n- 熟悉 ETL、Data Pipeline、資料驗證及 Data Quality Management。\n- 了解 Data Warehouse 基本概念，如 Tables、Partitions、Dependencies、Data Lineage。\n- 具 Salesforce / CRM Admin、系統部署、Monitoring、Logging、Alerting 或 Incident Response 經驗者佳。\n- 具 Python 自動化、資料處理或 Troubleshooting 經驗者佳。\n- 具 AI / LLM 基礎概念；熟悉 RAG、Vector Database、Embeddings、Knowledge Base 或 AI Agents 者加分。\n- 具良好分析與問題解決能力，並能有效進行跨部門溝通。\n【職務亮點】\n結合 CRM × Data × Platform × AI，不僅負責 CRM 日常支援，也能參與資料整合、系統部署及 AI 應用相關工作，適合希望拓展 CRM Platform、Data Operations 與 AI 應用經驗的技術人才。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料庫管理人員",
+            "數據分析師／資料分析師"
+          ],
+          "label": "職務類別",
+          "text": "資料庫管理人員、數據分析師／資料分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "與全球知名跨境電商合作，主要負責支援國際 Sales Operations 的 CRM 與資料平台，串聯 Salesforce CRM、Data Warehouse、ETL Data Pipeline 及 AI 相關平台，確保資料整合、系統運作與日常服務穩定，並協助提升 CRM 與 Sales Operations 效率。\n【主要工作內容】\n- 維護、監控及設定 ETL Data Pipeline，協助 Data Warehouse 與 Salesforce CRM 間的資料整合與傳輸。\n- 使用 SQL 進行資料查詢、驗證與問題排查；具 Spark SQL / Hive 經驗者佳。\n- 支援 Salesforce CRM Admin 相關工作，包括 Data Table、Workflow、Approval 等設定與維護。\n- 支援系統部署、Release、Monitoring、Alerting 及日常 Production Issue / Bug Investigation。\n- 協助 AI-enabled Sales Solutions 的資料與平台運作，包括 RAG、Knowledge Base、Retrieval 等相關應用。\n- 協助資料品質、Data Validation、Data Warehouse 及相關資料流程管理。\n- 與 Sales、IT、Data 及其他跨部門團隊合作，推動 CRM 與 Sales Operations 流程及報表優化。\n【職務條件】\n- 大學以上，資訊、資料科學、統計、數學、工程或相關科系。\n- 2 年以上 Data Engineering、Data Operations、Backend Development、Platform Operations、DevOps 或相關技術經驗尤佳。\n- 具備基本至良好的 SQL 能力，能進行資料查詢、驗證及問題排查。\n- 熟悉 ETL、Data Pipeline、資料驗證及 Data Quality Management。\n- 了解 Data Warehouse 基本概念，如 Tables、Partitions、Dependencies、Data Lineage。\n- 具 Salesforce / CRM Admin、系統部署、Monitoring、Logging、Alerting 或 Incident Response 經驗者佳。\n- 具 Python 自動化、資料處理或 Troubleshooting 經驗者佳。\n- 具 AI / LLM 基礎概念；熟悉 RAG、Vector Database、Embeddings、Knowledge Base 或 AI Agents 者加分。\n- 具良好分析與問題解決能力，並能有效進行跨部門溝通。\n【職務亮點】\n結合 CRM × Data × Platform × AI，不僅負責 CRM 日常支援，也能參與資料整合、系統部署及 AI 應用相關工作，適合希望拓展 CRM Platform、Data Operations 與 AI 應用經驗的技術人才。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數理統計相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "數理統計相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料庫系統管理維護"
+          ],
+          "label": "工作技能",
+          "text": "資料庫系統管理維護",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：數理統計相關、資訊工程相關\n工作技能：資料庫系統管理維護"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94ls0",
+    "job_url": "https://www.104.com.tw/job/94ls0",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94ls0.json",
+    "raw_sha256": "2c0eabdbc7c231f2def94a35c1f4f5889bd64fc1a364162fddc531c167a19da7",
+    "requested_url": "https://www.104.com.tw/api/jobs/94ls0"
+  }
+}

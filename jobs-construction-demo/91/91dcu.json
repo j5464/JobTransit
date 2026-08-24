@@ -1,0 +1,211 @@
+{
+  "company": {
+    "id": "1a2x6blekg",
+    "name": "台灣智慧雲端服務股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發LLM-enabled Web application中與使用者互動的RWD動態網頁、撰寫網頁自動測試程式執行測試案例、執行網站壓力測試或LLM模型推論之效能測試、將開發成果部署至Kubernetes或Docker容器化環境、撰寫軟體開發文件。"
+        },
+        {
+          "children": [],
+          "text": "因應人力需求適時支援Server API之開發，進行資料庫綱要設計，整合各種LLM inference engine，設計分散式資訊系統。"
+        }
+      ],
+      "text": "1.開發LLM-enabled Web application中與使用者互動的RWD動態網頁、撰寫網頁自動測試程式執行測試案例、執行網站壓力測試或LLM模型推論之效能測試、將開發成果部署至Kubernetes或Docker容器化環境、撰寫軟體開發文件。\n2.因應人力需求適時支援Server API之開發，進行資料庫綱要設計，整合各種LLM inference engine，設計分散式資訊系統。"
+    },
+    "employment_type_raw": "全職",
+    "title": "全端軟體工程師"
+  },
+  "location": {
+    "address_raw": "新北市淡水區中正東路二段177號",
+    "raw": "新北市淡水區中正東路二段177號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "職務需求/關鍵條件：\n1.3年以上Wed application 專案撰寫動態網頁實務經驗，熟悉TypeScript，熟悉Java程式語言生態系之libraries、frameworks及toolchain。\n2.熱愛學習新知，可從容運用Git及AI開發工具，會操作Docker或Kubernetes容器化環境，熟悉關聯式資料庫之設計方法及SQL之使用、可自在操作Linux作業系統。\n加分條件：\n1.有LLM/Machine learning專案開發經驗或相關證照。\n2.有Kubernetes相關證照。\n3.有3D modeling、Virtual Reality或GIS之專案開發經驗。\n4.有Python/ Golang/ C/ C#其中一種程式語言之專案實務經驗。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關",
+      "資訊管理相關"
+    ],
+    "other_text": "職務需求/關鍵條件：\n1.3年以上Wed application 專案撰寫動態網頁實務經驗，熟悉TypeScript，熟悉Java程式語言生態系之libraries、frameworks及toolchain。\n2.熱愛學習新知，可從容運用Git及AI開發工具，會操作Docker或Kubernetes容器化環境，熟悉關聯式資料庫之設計方法及SQL之使用、可自在操作Linux作業系統。\n加分條件：\n1.有LLM/Machine learning專案開發經驗或相關證照。\n2.有Kubernetes相關證照。\n3.有3D modeling、Virtual Reality或GIS之專案開發經驗。\n4.有Python/ Golang/ C/ C#其中一種程式語言之專案實務經驗。",
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：職務需求/關鍵條件：\n1.3年以上Wed application 專案撰寫動態網頁實務經驗，熟悉TypeScript，熟悉Java程式語言生態系之libraries、frameworks及toolchain。\n2.熱愛學習新知，可從容運用Git及AI開發工具，會操作Docker或Kubernetes容器化環境，熟悉關聯式資料庫之設計方法及SQL之使用、可自在操作Linux作業系統。\n加分條件：\n1.有LLM/Machine learning專案開發經驗或相關證照。\n2.有Kubernetes相關證照。\n3.有3D modeling、Virtual Reality或GIS之專案開發經驗。\n4.有Python/ Golang/ C/ C#其中一種程式語言之專案實務經驗。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 7
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:38:26+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.開發LLM-enabled Web application中與使用者互動的RWD動態網頁、撰寫網頁自動測試程式執行測試案例、執行網站壓力測試或LLM模型推論之效能測試、將開發成果部署至Kubernetes或Docker容器化環境、撰寫軟體開發文件。\n2.因應人力需求適時支援Server API之開發，進行資料庫綱要設計，整合各種LLM inference engine，設計分散式資訊系統。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市淡水區中正東路二段177號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.開發LLM-enabled Web application中與使用者互動的RWD動態網頁、撰寫網頁自動測試程式執行測試案例、執行網站壓力測試或LLM模型推論之效能測試、將開發成果部署至Kubernetes或Docker容器化環境、撰寫軟體開發文件。\n2.因應人力需求適時支援Server API之開發，進行資料庫綱要設計，整合各種LLM inference engine，設計分散式資訊系統。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "職務需求/關鍵條件：\n1.3年以上Wed application 專案撰寫動態網頁實務經驗，熟悉TypeScript，熟悉Java程式語言生態系之libraries、frameworks及toolchain。\n2.熱愛學習新知，可從容運用Git及AI開發工具，會操作Docker或Kubernetes容器化環境，熟悉關聯式資料庫之設計方法及SQL之使用、可自在操作Linux作業系統。\n加分條件：\n1.有LLM/Machine learning專案開發經驗或相關證照。\n2.有Kubernetes相關證照。\n3.有3D modeling、Virtual Reality或GIS之專案開發經驗。\n4.有Python/ Golang/ C/ C#其中一種程式語言之專案實務經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：職務需求/關鍵條件：\n1.3年以上Wed application 專案撰寫動態網頁實務經驗，熟悉TypeScript，熟悉Java程式語言生態系之libraries、frameworks及toolchain。\n2.熱愛學習新知，可從容運用Git及AI開發工具，會操作Docker或Kubernetes容器化環境，熟悉關聯式資料庫之設計方法及SQL之使用、可自在操作Linux作業系統。\n加分條件：\n1.有LLM/Machine learning專案開發經驗或相關證照。\n2.有Kubernetes相關證照。\n3.有3D modeling、Virtual Reality或GIS之專案開發經驗。\n4.有Python/ Golang/ C/ C#其中一種程式語言之專案實務經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91dcu",
+    "job_url": "https://www.104.com.tw/job/91dcu",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91dcu.json",
+    "raw_sha256": "827a390cf42602b08f429e54a01b359558fff9476f8856426b1f74a888cedf80",
+    "requested_url": "https://www.104.com.tw/api/jobs/91dcu"
+  }
+}

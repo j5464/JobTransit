@@ -1,0 +1,233 @@
+{
+  "company": {
+    "id": "1a2x6bj8og",
+    "name": "易勝資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "測試人員",
+      "其他資訊專業人員",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "上版與回歸測試負責App/ Web 產品發布前的最後檢核測試執⾏回歸測試，確保功能上線後不影響既有功能"
+        },
+        {
+          "children": [],
+          "text": "專案測試執⾏根據規格書，撰寫並執⾏測試案例進⾏功能測試、UI/UX測試、API測試"
+        },
+        {
+          "children": [],
+          "text": "問題追蹤與管理使⽤Bug追蹤系統(Azure)詳細記錄錯誤步驟與開發團隊溝通，追蹤Bug修復進度並進⾏複驗"
+        },
+        {
+          "children": [],
+          "text": "測試報告產出提供測試執⾏數據與品質評估建議，協助判斷是否達到上線標準"
+        },
+        {
+          "children": [],
+          "text": "具備撰寫Test Case、Test Plan經驗"
+        },
+        {
+          "children": [],
+          "text": "具備iOS / Android App / 網⾴(Web) 測試經驗"
+        },
+        {
+          "children": [],
+          "text": "具備debug能⼒"
+        },
+        {
+          "children": [],
+          "text": "具備API測試經驗(如使⽤Postman、Charles等⼯具)"
+        },
+        {
+          "children": [],
+          "text": "具備Python程式語⾔能⼒，熟悉⾃動化測試框架"
+        },
+        {
+          "children": [],
+          "text": "具備AI輔助測試經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉證券交易流程與相關法規規範"
+        }
+      ],
+      "text": "【⼯作內容】\n1. 上版與回歸測試負責App/ Web 產品發布前的最後檢核測試執⾏回歸測試，確保功能上線後不影響既有功能\n2. 專案測試執⾏根據規格書，撰寫並執⾏測試案例進⾏功能測試、UI/UX測試、API測試\n3. 問題追蹤與管理使⽤Bug追蹤系統(Azure)詳細記錄錯誤步驟與開發團隊溝通，追蹤Bug修復進度並進⾏複驗\n4. 測試報告產出提供測試執⾏數據與品質評估建議，協助判斷是否達到上線標準\n【需求條件】\n1. 具備撰寫Test Case、Test Plan經驗\n2. 具備iOS / Android App / 網⾴(Web) 測試經驗\n3. 具備debug能⼒\n【加分條件】\n1. 具備API測試經驗(如使⽤Postman、Charles等⼯具)\n2. 具備Python程式語⾔能⼒，熟悉⾃動化測試框架\n3. 具備AI輔助測試經驗\n4. 熟悉證券交易流程與相關法規規範"
+    },
+    "employment_type_raw": "全職",
+    "title": "2. QA測試工程師(證券業)"
+  },
+  "location": {
+    "address_raw": "台北市大安區",
+    "raw": "台北市大安區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "iOS",
+          "Android",
+          "Scrum"
+        ],
+        "label": "擅長工具",
+        "text": "iOS、Android、Scrum"
+      },
+      {
+        "items": [
+          "功能測試(function test)",
+          "安全性測試(Security test)",
+          "使用者測試(Usability test)",
+          "軟體整合測試",
+          "測試計劃及測試報告書撰寫",
+          "壓力測試(stress test)"
+        ],
+        "label": "工作技能",
+        "text": "功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、軟體整合測試、測試計劃及測試報告書撰寫、壓力測試(stress test)"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "功能測試(function test)",
+      "安全性測試(Security test)",
+      "使用者測試(Usability test)",
+      "軟體整合測試",
+      "測試計劃及測試報告書撰寫",
+      "壓力測試(stress test)"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：iOS、Android、Scrum\n工作技能：功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、軟體整合測試、測試計劃及測試報告書撰寫、壓力測試(stress test)",
+    "tools": [
+      "iOS",
+      "Android",
+      "Scrum"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 3
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:27:02+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【⼯作內容】\n1. 上版與回歸測試負責App/ Web 產品發布前的最後檢核測試執⾏回歸測試，確保功能上線後不影響既有功能\n2. 專案測試執⾏根據規格書，撰寫並執⾏測試案例進⾏功能測試、UI/UX測試、API測試\n3. 問題追蹤與管理使⽤Bug追蹤系統(Azure)詳細記錄錯誤步驟與開發團隊溝通，追蹤Bug修復進度並進⾏複驗\n4. 測試報告產出提供測試執⾏數據與品質評估建議，協助判斷是否達到上線標準\n【需求條件】\n1. 具備撰寫Test Case、Test Plan經驗\n2. 具備iOS / Android App / 網⾴(Web) 測試經驗\n3. 具備debug能⼒\n【加分條件】\n1. 具備API測試經驗(如使⽤Postman、Charles等⼯具)\n2. 具備Python程式語⾔能⼒，熟悉⾃動化測試框架\n3. 具備AI輔助測試經驗\n4. 熟悉證券交易流程與相關法規規範",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "測試人員",
+            "其他資訊專業人員",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "測試人員、其他資訊專業人員、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【⼯作內容】\n1. 上版與回歸測試負責App/ Web 產品發布前的最後檢核測試執⾏回歸測試，確保功能上線後不影響既有功能\n2. 專案測試執⾏根據規格書，撰寫並執⾏測試案例進⾏功能測試、UI/UX測試、API測試\n3. 問題追蹤與管理使⽤Bug追蹤系統(Azure)詳細記錄錯誤步驟與開發團隊溝通，追蹤Bug修復進度並進⾏複驗\n4. 測試報告產出提供測試執⾏數據與品質評估建議，協助判斷是否達到上線標準\n【需求條件】\n1. 具備撰寫Test Case、Test Plan經驗\n2. 具備iOS / Android App / 網⾴(Web) 測試經驗\n3. 具備debug能⼒\n【加分條件】\n1. 具備API測試經驗(如使⽤Postman、Charles等⼯具)\n2. 具備Python程式語⾔能⼒，熟悉⾃動化測試框架\n3. 具備AI輔助測試經驗\n4. 熟悉證券交易流程與相關法規規範"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "iOS",
+            "Android",
+            "Scrum"
+          ],
+          "label": "擅長工具",
+          "text": "iOS、Android、Scrum",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "功能測試(function test)",
+            "安全性測試(Security test)",
+            "使用者測試(Usability test)",
+            "軟體整合測試",
+            "測試計劃及測試報告書撰寫",
+            "壓力測試(stress test)"
+          ],
+          "label": "工作技能",
+          "text": "功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、軟體整合測試、測試計劃及測試報告書撰寫、壓力測試(stress test)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：iOS、Android、Scrum\n工作技能：功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、軟體整合測試、測試計劃及測試報告書撰寫、壓力測試(stress test)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94ma1",
+    "job_url": "https://www.104.com.tw/job/94ma1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94ma1.json",
+    "raw_sha256": "aec038d9335f03b60b20621140102686d18a7dc5a62641619514beb501652667",
+    "requested_url": "https://www.104.com.tw/api/jobs/94ma1"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "company": {
+    "id": "12xsr2o8",
+    "name": "定揚科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "通訊軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Junior Software Developer (minimum 2 years experience)."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with Linux C Programming (GNU C preferred)."
+        },
+        {
+          "children": [],
+          "text": "Good documentation habits."
+        },
+        {
+          "children": [],
+          "text": "Good understanding of TCP/IP protocols."
+        },
+        {
+          "children": [],
+          "text": "Strong Linux command line tools."
+        },
+        {
+          "children": [],
+          "text": "Experience developing in an Embedded environment."
+        },
+        {
+          "children": [],
+          "text": "Networking protocol modification, bug fix and implementation."
+        },
+        {
+          "children": [],
+          "text": "Enjoy programming and hard problems, can deal with stressful situations."
+        }
+      ],
+      "text": "Requirements:\n- Junior Software Developer (minimum 2 years experience).\n- Familiarity with Linux C Programming (GNU C preferred).\n- Good documentation habits.\n- Good understanding of TCP/IP protocols.\n- Strong Linux command line tools.\n- Experience developing in an Embedded environment.\n- Networking protocol modification, bug fix and implementation.\n- Enjoy programming and hard problems, can deal with stressful situations."
+    },
+    "employment_type_raw": "全職",
+    "title": "【軟體研發部】軟體研發工程師 (中和)"
+  },
+  "location": {
+    "address_raw": "新北市中和區連城路192號4樓",
+    "raw": "新北市中和區連城路192號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、精通、精通"
+      },
+      {
+        "items": [
+          "Linux",
+          "Git",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Git、C++"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.嵌入式系統(Embedded system)開發\n2.網頁設計\n3.C語言程式設計\n4.Linux驅動程式設計\n5.網路通訊協定開發\n6.乙太網路產品開發設計\n7.網路管理系統開發"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、精通、精通"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1.嵌入式系統(Embedded system)開發\n2.網頁設計\n3.C語言程式設計\n4.Linux驅動程式設計\n5.網路通訊協定開發\n6.乙太網路產品開發設計\n7.網路管理系統開發",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、精通、精通\n擅長工具：Linux、Git、C++\n其他條件：1.嵌入式系統(Embedded system)開發\n2.網頁設計\n3.C語言程式設計\n4.Linux驅動程式設計\n5.網路通訊協定開發\n6.乙太網路產品開發設計\n7.網路管理系統開發",
+    "tools": [
+      "Linux",
+      "Git",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 30
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:36:30+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Requirements:\n- Junior Software Developer (minimum 2 years experience).\n- Familiarity with Linux C Programming (GNU C preferred).\n- Good documentation habits.\n- Good understanding of TCP/IP protocols.\n- Strong Linux command line tools.\n- Experience developing in an Embedded environment.\n- Networking protocol modification, bug fix and implementation.\n- Enjoy programming and hard problems, can deal with stressful situations.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "通訊軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、通訊軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區連城路192號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Requirements:\n- Junior Software Developer (minimum 2 years experience).\n- Familiarity with Linux C Programming (GNU C preferred).\n- Good documentation habits.\n- Good understanding of TCP/IP protocols.\n- Strong Linux command line tools.\n- Experience developing in an Embedded environment.\n- Networking protocol modification, bug fix and implementation.\n- Enjoy programming and hard problems, can deal with stressful situations."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Git",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Git、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.嵌入式系統(Embedded system)開發\n2.網頁設計\n3.C語言程式設計\n4.Linux驅動程式設計\n5.網路通訊協定開發\n6.乙太網路產品開發設計\n7.網路管理系統開發",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、精通、精通\n擅長工具：Linux、Git、C++\n其他條件：1.嵌入式系統(Embedded system)開發\n2.網頁設計\n3.C語言程式設計\n4.Linux驅動程式設計\n5.網路通訊協定開發\n6.乙太網路產品開發設計\n7.網路管理系統開發"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6nsx7",
+    "job_url": "https://www.104.com.tw/job/6nsx7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6nsx7.json",
+    "raw_sha256": "cc3ab4fc9d6842c4f895a128034ab393a40b66536160c0477de56a4ccb9e2085",
+    "requested_url": "https://www.104.com.tw/api/jobs/6nsx7"
+  }
+}

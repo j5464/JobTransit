@@ -1,0 +1,133 @@
+{
+  "company": {
+    "id": "3193pp4",
+    "name": "奇美醫療財團法人奇美醫院"
+  },
+  "job": {
+    "categories": [
+      "醫院行政管理人員",
+      "財務分析／財務人員",
+      "數據分析師／資料分析師"
+    ],
+    "description": {
+      "items": [],
+      "text": "資格：\n一、碩士(含)以上，商管、醫管、資訊相關科系畢業。\n二、無工作經驗亦可，具專案分析、程式設計相關工作經驗尤佳。\n三、本職務為主管培訓人員。\n四、工作內容：財務分析系統相關作業(含成本管控與費用分析、財務報表分析及科損益分析等Power BI及AI運用)。\n五、薪資：面議【依職務及學歷不同核定薪資】。"
+    },
+    "employment_type_raw": "全職",
+    "title": "奇美醫院【總院】財務處 財務成本組-行政管理員(儲備專員/擴編)"
+  },
+  "location": {
+    "address_raw": "台南市永康區中華路901號",
+    "raw": "台南市永康區中華路901號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 72
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:20:29+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "資格：\n一、碩士(含)以上，商管、醫管、資訊相關科系畢業。\n二、無工作經驗亦可，具專案分析、程式設計相關工作經驗尤佳。\n三、本職務為主管培訓人員。\n四、工作內容：財務分析系統相關作業(含成本管控與費用分析、財務報表分析及科損益分析等Power BI及AI運用)。\n五、薪資：面議【依職務及學歷不同核定薪資】。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "醫院行政管理人員",
+            "財務分析／財務人員",
+            "數據分析師／資料分析師"
+          ],
+          "label": "職務類別",
+          "text": "醫院行政管理人員、財務分析／財務人員、數據分析師／資料分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市永康區中華路901號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "資格：\n一、碩士(含)以上，商管、醫管、資訊相關科系畢業。\n二、無工作經驗亦可，具專案分析、程式設計相關工作經驗尤佳。\n三、本職務為主管培訓人員。\n四、工作內容：財務分析系統相關作業(含成本管控與費用分析、財務報表分析及科損益分析等Power BI及AI運用)。\n五、薪資：面議【依職務及學歷不同核定薪資】。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "94sua",
+    "job_url": "https://www.104.com.tw/job/94sua",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94sua.json",
+    "raw_sha256": "a6f62b125176e712a55ae78ebe063ef833a88410d082d0228d2aa7b6658e130a",
+    "requested_url": "https://www.104.com.tw/api/jobs/94sua"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "company": {
+    "id": "1a2x6bmker",
+    "name": "DELOITTE CONSULTING BUSINESSES_勤業眾信管理顧問股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "顧問",
+      "軟體專案主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助客戶進行企業流程自動化機會鑑別，並提供必要的企業流程再造"
+        },
+        {
+          "children": [],
+          "text": "協助客戶應用RPA機器人流程自動化進行數位轉型"
+        },
+        {
+          "children": [],
+          "text": "協助客戶結合AI與RPA，推動智能自動化"
+        }
+      ],
+      "text": "1. 協助客戶進行企業流程自動化機會鑑別，並提供必要的企業流程再造\n2. 協助客戶應用RPA機器人流程自動化進行數位轉型\n3. 協助客戶結合AI與RPA，推動智能自動化"
+    },
+    "employment_type_raw": "全職",
+    "title": "【科技與轉型服務】RPA數位科技應用顧問- Finance Transformation - T&T -台北所/台中所/高雄所"
+  },
+  "location": {
+    "address_raw": "台北市信義區松仁路100號20樓",
+    "raw": "台北市信義區松仁路100號20樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "企業管理相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "企業管理相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "Excel",
+          "PowerPoint",
+          "Outlook",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、PowerPoint、Outlook、Word"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具專案規劃經驗及團隊合作經驗者佳，\n2.具責任感、良好表達及溝通能力、團隊意識者佳\n3.須配合出差\n4.具流程規劃及大型ERP系統相關知識與經驗者尤佳\n5.具良好英文能力者尤佳\n6.工作地所在分所可討論"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "企業管理相關",
+      "資訊管理相關"
+    ],
+    "other_text": "1.具專案規劃經驗及團隊合作經驗者佳，\n2.具責任感、良好表達及溝通能力、團隊意識者佳\n3.須配合出差\n4.具流程規劃及大型ERP系統相關知識與經驗者尤佳\n5.具良好英文能力者尤佳\n6.工作地所在分所可討論",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：企業管理相關、資訊管理相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Excel、PowerPoint、Outlook、Word\n其他條件：1.具專案規劃經驗及團隊合作經驗者佳，\n2.具責任感、良好表達及溝通能力、團隊意識者佳\n3.須配合出差\n4.具流程規劃及大型ERP系統相關知識與經驗者尤佳\n5.具良好英文能力者尤佳\n6.工作地所在分所可討論",
+    "tools": [
+      "Excel",
+      "PowerPoint",
+      "Outlook",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 53
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:32:31+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 協助客戶進行企業流程自動化機會鑑別，並提供必要的企業流程再造\n2. 協助客戶應用RPA機器人流程自動化進行數位轉型\n3. 協助客戶結合AI與RPA，推動智能自動化",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "顧問",
+            "軟體專案主管"
+          ],
+          "label": "職務類別",
+          "text": "顧問、軟體專案主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區松仁路100號20樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 協助客戶進行企業流程自動化機會鑑別，並提供必要的企業流程再造\n2. 協助客戶應用RPA機器人流程自動化進行數位轉型\n3. 協助客戶結合AI與RPA，推動智能自動化"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "企業管理相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "企業管理相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "PowerPoint",
+            "Outlook",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、PowerPoint、Outlook、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具專案規劃經驗及團隊合作經驗者佳，\n2.具責任感、良好表達及溝通能力、團隊意識者佳\n3.須配合出差\n4.具流程規劃及大型ERP系統相關知識與經驗者尤佳\n5.具良好英文能力者尤佳\n6.工作地所在分所可討論",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：企業管理相關、資訊管理相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Excel、PowerPoint、Outlook、Word\n其他條件：1.具專案規劃經驗及團隊合作經驗者佳，\n2.具責任感、良好表達及溝通能力、團隊意識者佳\n3.須配合出差\n4.具流程規劃及大型ERP系統相關知識與經驗者尤佳\n5.具良好英文能力者尤佳\n6.工作地所在分所可討論"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8w51b",
+    "job_url": "https://www.104.com.tw/job/8w51b",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8w51b.json",
+    "raw_sha256": "f5f09dbde80fd1bd4bffe1688ab85d7625aaa67724a3f470d53442ec864cf5f6",
+    "requested_url": "https://www.104.com.tw/api/jobs/8w51b"
+  }
+}

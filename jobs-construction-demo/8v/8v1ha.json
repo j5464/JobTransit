@@ -1,0 +1,227 @@
+{
+  "company": {
+    "id": "e69rzhc",
+    "name": "俊良貿易股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "軟體助理工程師",
+      "MIS程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "SD、MM、PP、QM 至少熟悉任一模組標準作業流程及操作。"
+        },
+        {
+          "children": [],
+          "text": "可針對新需求訪談、設計解決方案、系統分析和使用者教育訓練。"
+        },
+        {
+          "children": [],
+          "text": "SAP新專案程式導入、日常維護、異常處理和使用者問題處理。"
+        },
+        {
+          "children": [],
+          "text": "相關專案管理和規畫執行。"
+        },
+        {
+          "children": [],
+          "text": "熟悉SAP ABAP程式者佳。"
+        },
+        {
+          "children": [],
+          "text": "具IMG設定經驗尤佳。"
+        },
+        {
+          "children": [],
+          "text": "具備 SAP開發與操作經驗或有其他ERP維護/開發經驗者。"
+        },
+        {
+          "children": [],
+          "text": "對SAP系統開發有興趣學習者。"
+        },
+        {
+          "children": [],
+          "text": "需為資訊相關科系畢業。"
+        }
+      ],
+      "text": "工作內容：\n1.SD、MM、PP、QM 至少熟悉任一模組標準作業流程及操作。\n2.可針對新需求訪談、設計解決方案、系統分析和使用者教育訓練。\n3.SAP新專案程式導入、日常維護、異常處理和使用者問題處理。\n4.相關專案管理和規畫執行。\n5.熟悉SAP ABAP程式者佳。\n6.具IMG設定經驗尤佳。\n條件需求：\n1.具備 SAP開發與操作經驗或有其他ERP維護/開發經驗者。\n2.對SAP系統開發有興趣學習者。\n3.需為資訊相關科系畢業。"
+    },
+    "employment_type_raw": "全職",
+    "title": "SAP工程師(台北)"
+  },
+  "location": {
+    "address_raw": "台北市中山區松江路200號10樓",
+    "raw": "台北市中山區松江路200號10樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "SAP",
+          "ABAP"
+        ],
+        "label": "擅長工具",
+        "text": "SAP、ABAP"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "模組化系統設計",
+          "資料庫程式設計",
+          "結構化程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、模組化系統設計、資料庫程式設計、結構化程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具ERP程式開發經驗 3年以上者佳。\n2. 提供 SAP 全模組之在職訓練。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 具ERP程式開發經驗 3年以上者佳。\n2. 提供 SAP 全模組之在職訓練。",
+    "skills": [
+      "軟體程式設計",
+      "模組化系統設計",
+      "資料庫程式設計",
+      "結構化程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n擅長工具：SAP、ABAP\n工作技能：軟體程式設計、模組化系統設計、資料庫程式設計、結構化程式設計\n其他條件：1. 具ERP程式開發經驗 3年以上者佳。\n2. 提供 SAP 全模組之在職訓練。",
+    "tools": [
+      "SAP",
+      "ABAP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 44
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:10:33+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作內容：\n1.SD、MM、PP、QM 至少熟悉任一模組標準作業流程及操作。\n2.可針對新需求訪談、設計解決方案、系統分析和使用者教育訓練。\n3.SAP新專案程式導入、日常維護、異常處理和使用者問題處理。\n4.相關專案管理和規畫執行。\n5.熟悉SAP ABAP程式者佳。\n6.具IMG設定經驗尤佳。\n條件需求：\n1.具備 SAP開發與操作經驗或有其他ERP維護/開發經驗者。\n2.對SAP系統開發有興趣學習者。\n3.需為資訊相關科系畢業。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "軟體助理工程師",
+            "MIS程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、軟體助理工程師、MIS程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區松江路200號10樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作內容：\n1.SD、MM、PP、QM 至少熟悉任一模組標準作業流程及操作。\n2.可針對新需求訪談、設計解決方案、系統分析和使用者教育訓練。\n3.SAP新專案程式導入、日常維護、異常處理和使用者問題處理。\n4.相關專案管理和規畫執行。\n5.熟悉SAP ABAP程式者佳。\n6.具IMG設定經驗尤佳。\n條件需求：\n1.具備 SAP開發與操作經驗或有其他ERP維護/開發經驗者。\n2.對SAP系統開發有興趣學習者。\n3.需為資訊相關科系畢業。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "SAP",
+            "ABAP"
+          ],
+          "label": "擅長工具",
+          "text": "SAP、ABAP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "模組化系統設計",
+            "資料庫程式設計",
+            "結構化程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、模組化系統設計、資料庫程式設計、結構化程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具ERP程式開發經驗 3年以上者佳。\n2. 提供 SAP 全模組之在職訓練。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n擅長工具：SAP、ABAP\n工作技能：軟體程式設計、模組化系統設計、資料庫程式設計、結構化程式設計\n其他條件：1. 具ERP程式開發經驗 3年以上者佳。\n2. 提供 SAP 全模組之在職訓練。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8v1ha",
+    "job_url": "https://www.104.com.tw/job/8v1ha",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8v1ha.json",
+    "raw_sha256": "a00a1612533c69fa605375220fb79e659ec798adbacf2345dc6d8033d8f84042",
+    "requested_url": "https://www.104.com.tw/api/jobs/8v1ha"
+  }
+}

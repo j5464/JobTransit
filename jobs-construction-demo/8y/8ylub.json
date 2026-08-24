@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "as5u8g8",
+    "name": "口袋證券股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "FAE工程師",
+      "客服工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助客戶問題排除與技術諮詢服務"
+        },
+        {
+          "children": [],
+          "text": "與研發團隊溝通需求與問題回報"
+        }
+      ],
+      "text": "1. 協助客戶問題排除與技術諮詢服務\n2.與研發團隊溝通需求與問題回報"
+    },
+    "employment_type_raw": "全職",
+    "title": "技術支援工程師(FAE)"
+  },
+  "location": {
+    "address_raw": "新北市板橋區三民路一段216號9樓",
+    "raw": "新北市板橋區三民路一段216號9樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Python"
+      },
+      {
+        "items": [
+          "作業系統基本操作",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "作業系統基本操作、資料庫軟體應用"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.API 測試工具(Postman)\n2.Log分析能力\n3.具備良好溝通能力與客戶應對能力\n4.具問題分析與獨立解決能力\n5.具Saas產品或系統整合經驗尤佳\n6.具API串接或基礎程式能力尤佳\n7.基礎程式能力(Python佳)\n8.RESTful API概念\n9.Docker 基礎概念\n10.專案管理基礎能力"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.API 測試工具(Postman)\n2.Log分析能力\n3.具備良好溝通能力與客戶應對能力\n4.具問題分析與獨立解決能力\n5.具Saas產品或系統整合經驗尤佳\n6.具API串接或基礎程式能力尤佳\n7.基礎程式能力(Python佳)\n8.RESTful API概念\n9.Docker 基礎概念\n10.專案管理基礎能力",
+    "skills": [
+      "作業系統基本操作",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Python\n工作技能：作業系統基本操作、資料庫軟體應用\n其他條件：1.API 測試工具(Postman)\n2.Log分析能力\n3.具備良好溝通能力與客戶應對能力\n4.具問題分析與獨立解決能力\n5.具Saas產品或系統整合經驗尤佳\n6.具API串接或基礎程式能力尤佳\n7.基礎程式能力(Python佳)\n8.RESTful API概念\n9.Docker 基礎概念\n10.專案管理基礎能力",
+    "tools": [
+      "Linux",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 44
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:09:41+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 協助客戶問題排除與技術諮詢服務\n2.與研發團隊溝通需求與問題回報",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "FAE工程師",
+            "客服工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "FAE工程師、客服工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區三民路一段216號9樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 協助客戶問題排除與技術諮詢服務\n2.與研發團隊溝通需求與問題回報"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "作業系統基本操作",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "作業系統基本操作、資料庫軟體應用",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.API 測試工具(Postman)\n2.Log分析能力\n3.具備良好溝通能力與客戶應對能力\n4.具問題分析與獨立解決能力\n5.具Saas產品或系統整合經驗尤佳\n6.具API串接或基礎程式能力尤佳\n7.基礎程式能力(Python佳)\n8.RESTful API概念\n9.Docker 基礎概念\n10.專案管理基礎能力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Python\n工作技能：作業系統基本操作、資料庫軟體應用\n其他條件：1.API 測試工具(Postman)\n2.Log分析能力\n3.具備良好溝通能力與客戶應對能力\n4.具問題分析與獨立解決能力\n5.具Saas產品或系統整合經驗尤佳\n6.具API串接或基礎程式能力尤佳\n7.基礎程式能力(Python佳)\n8.RESTful API概念\n9.Docker 基礎概念\n10.專案管理基礎能力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ylub",
+    "job_url": "https://www.104.com.tw/job/8ylub",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ylub.json",
+    "raw_sha256": "7aac6ca693dd9875043df8a5a4c0058784ed12ecda78ca12599766d11960ef25",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ylub"
+  }
+}

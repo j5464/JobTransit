@@ -1,0 +1,280 @@
+{
+  "company": {
+    "id": "ahfsoq0",
+    "name": "廣達電腦股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "生產技術／製程工程師",
+      "軟體工程師",
+      "軟韌體測試工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計、開發、驗證測試工廠測伺服器開發程式架構，控制與分析測試數據並進行錯誤分析。"
+        },
+        {
+          "children": [],
+          "text": "與伺服器系統開發的Functional team、客戶溝通協調測試項目。"
+        },
+        {
+          "children": [],
+          "text": "開發與測試系統並進行報告分析。"
+        },
+        {
+          "children": [],
+          "text": "按上述需求、功能、環境、客製程度等，開發自動化測試工具/程式。"
+        }
+      ],
+      "text": "1. 設計、開發、驗證測試工廠測伺服器開發程式架構，控制與分析測試數據並進行錯誤分析。\n2. 與伺服器系統開發的Functional team、客戶溝通協調測試項目。\n3. 開發與測試系統並進行報告分析。\n4. 按上述需求、功能、環境、客製程度等，開發自動化測試工具/程式。"
+    },
+    "employment_type_raw": "全職",
+    "title": "雲端伺服器製造自動化測試開發 - J0294"
+  },
+  "location": {
+    "address_raw": "桃園市龜山區文化二路188號",
+    "raw": "桃園市龜山區文化二路188號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子維護相關",
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子維護相關、電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python",
+          "C++",
+          "UNIX",
+          "Shell",
+          "Linux"
+        ],
+        "label": "擅長工具",
+        "text": "Python、C++、UNIX、Shell、Linux"
+      },
+      {
+        "items": [
+          "韌體整合測試",
+          "模組化系統設計",
+          "結構化程式設計",
+          "測試計劃及測試報告書撰寫",
+          "作業系統基本操作",
+          "測試環境建置規劃",
+          "軟體整合測試",
+          "問題追蹤處理(Bug tracking)",
+          "使用者測試(Usability test)",
+          "功能測試(function test)",
+          "系統整合分析",
+          "資訊設備環境設定"
+        ],
+        "label": "工作技能",
+        "text": "韌體整合測試、模組化系統設計、結構化程式設計、測試計劃及測試報告書撰寫、作業系統基本操作、測試環境建置規劃、軟體整合測試、問題追蹤處理(Bug tracking)、使用者測試(Usability test)、功能測試(function test)、系統整合分析、資訊設備環境設定"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 大學畢業以上，電子、電機、資管或有程式開發相關學習系所優先。\n2. 能以C/C++, Python, Bash語言開發程式，有物件導向分析能力與設計模式概念者佳。\n3. 有Linux System programming, Window system programming 能力。\n4. 熟悉網路 Network Protocol (HTTP, TCP, IP, DNS, DHCP), Computer Architecture 及系統程式者佳。\n5. 英文能力佳(多益600+) 。\n6. 因應機種生產需求，須配合短期性出差至海外廠區(美/德/泰)。\n7. 有獨立開發能力，相關工作經驗至少3年以上者佳。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子維護相關",
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1. 大學畢業以上，電子、電機、資管或有程式開發相關學習系所優先。\n2. 能以C/C++, Python, Bash語言開發程式，有物件導向分析能力與設計模式概念者佳。\n3. 有Linux System programming, Window system programming 能力。\n4. 熟悉網路 Network Protocol (HTTP, TCP, IP, DNS, DHCP), Computer Architecture 及系統程式者佳。\n5. 英文能力佳(多益600+) 。\n6. 因應機種生產需求，須配合短期性出差至海外廠區(美/德/泰)。\n7. 有獨立開發能力，相關工作經驗至少3年以上者佳。",
+    "skills": [
+      "韌體整合測試",
+      "模組化系統設計",
+      "結構化程式設計",
+      "測試計劃及測試報告書撰寫",
+      "作業系統基本操作",
+      "測試環境建置規劃",
+      "軟體整合測試",
+      "問題追蹤處理(Bug tracking)",
+      "使用者測試(Usability test)",
+      "功能測試(function test)",
+      "系統整合分析",
+      "資訊設備環境設定"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：電機電子維護相關、電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、C++、UNIX、Shell、Linux\n工作技能：韌體整合測試、模組化系統設計、結構化程式設計、測試計劃及測試報告書撰寫、作業系統基本操作、測試環境建置規劃、軟體整合測試、問題追蹤處理(Bug tracking)、使用者測試(Usability test)、功能測試(function test)、系統整合分析、資訊設備環境設定\n其他條件：1. 大學畢業以上，電子、電機、資管或有程式開發相關學習系所優先。\n2. 能以C/C++, Python, Bash語言開發程式，有物件導向分析能力與設計模式概念者佳。\n3. 有Linux System programming, Window system programming 能力。\n4. 熟悉網路 Network Protocol (HTTP, TCP, IP, DNS, DHCP), Computer Architecture 及系統程式者佳。\n5. 英文能力佳(多益600+) 。\n6. 因應機種生產需求，須配合短期性出差至海外廠區(美/德/泰)。\n7. 有獨立開發能力，相關工作經驗至少3年以上者佳。",
+    "tools": [
+      "Python",
+      "C++",
+      "UNIX",
+      "Shell",
+      "Linux"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 30
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:35:30+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 設計、開發、驗證測試工廠測伺服器開發程式架構，控制與分析測試數據並進行錯誤分析。\n2. 與伺服器系統開發的Functional team、客戶溝通協調測試項目。\n3. 開發與測試系統並進行報告分析。\n4. 按上述需求、功能、環境、客製程度等，開發自動化測試工具/程式。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "生產技術／製程工程師",
+            "軟體工程師",
+            "軟韌體測試工程師"
+          ],
+          "label": "職務類別",
+          "text": "生產技術／製程工程師、軟體工程師、軟韌體測試工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市龜山區文化二路188號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 設計、開發、驗證測試工廠測伺服器開發程式架構，控制與分析測試數據並進行錯誤分析。\n2. 與伺服器系統開發的Functional team、客戶溝通協調測試項目。\n3. 開發與測試系統並進行報告分析。\n4. 按上述需求、功能、環境、客製程度等，開發自動化測試工具/程式。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子維護相關",
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子維護相關、電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "C++",
+            "UNIX",
+            "Shell",
+            "Linux"
+          ],
+          "label": "擅長工具",
+          "text": "Python、C++、UNIX、Shell、Linux",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "韌體整合測試",
+            "模組化系統設計",
+            "結構化程式設計",
+            "測試計劃及測試報告書撰寫",
+            "作業系統基本操作",
+            "測試環境建置規劃",
+            "軟體整合測試",
+            "問題追蹤處理(Bug tracking)",
+            "使用者測試(Usability test)",
+            "功能測試(function test)",
+            "系統整合分析",
+            "資訊設備環境設定"
+          ],
+          "label": "工作技能",
+          "text": "韌體整合測試、模組化系統設計、結構化程式設計、測試計劃及測試報告書撰寫、作業系統基本操作、測試環境建置規劃、軟體整合測試、問題追蹤處理(Bug tracking)、使用者測試(Usability test)、功能測試(function test)、系統整合分析、資訊設備環境設定",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 大學畢業以上，電子、電機、資管或有程式開發相關學習系所優先。\n2. 能以C/C++, Python, Bash語言開發程式，有物件導向分析能力與設計模式概念者佳。\n3. 有Linux System programming, Window system programming 能力。\n4. 熟悉網路 Network Protocol (HTTP, TCP, IP, DNS, DHCP), Computer Architecture 及系統程式者佳。\n5. 英文能力佳(多益600+) 。\n6. 因應機種生產需求，須配合短期性出差至海外廠區(美/德/泰)。\n7. 有獨立開發能力，相關工作經驗至少3年以上者佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：電機電子維護相關、電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、C++、UNIX、Shell、Linux\n工作技能：韌體整合測試、模組化系統設計、結構化程式設計、測試計劃及測試報告書撰寫、作業系統基本操作、測試環境建置規劃、軟體整合測試、問題追蹤處理(Bug tracking)、使用者測試(Usability test)、功能測試(function test)、系統整合分析、資訊設備環境設定\n其他條件：1. 大學畢業以上，電子、電機、資管或有程式開發相關學習系所優先。\n2. 能以C/C++, Python, Bash語言開發程式，有物件導向分析能力與設計模式概念者佳。\n3. 有Linux System programming, Window system programming 能力。\n4. 熟悉網路 Network Protocol (HTTP, TCP, IP, DNS, DHCP), Computer Architecture 及系統程式者佳。\n5. 英文能力佳(多益600+) 。\n6. 因應機種生產需求，須配合短期性出差至海外廠區(美/德/泰)。\n7. 有獨立開發能力，相關工作經驗至少3年以上者佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "87gc6",
+    "job_url": "https://www.104.com.tw/job/87gc6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/87gc6.json",
+    "raw_sha256": "f9145724fea88cff4635fbc24fac3f187d5d7f4a1e29968231ec3600cd741e87",
+    "requested_url": "https://www.104.com.tw/api/jobs/87gc6"
+  }
+}

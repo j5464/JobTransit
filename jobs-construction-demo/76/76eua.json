@@ -1,0 +1,173 @@
+{
+  "company": {
+    "id": "absj6xs",
+    "name": "大立光電股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "其他資訊專業人員",
+      "助理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助影像檢測設備架設及維護。"
+        },
+        {
+          "children": [],
+          "text": "協助影像檢測程式修正。"
+        }
+      ],
+      "text": "1.協助影像檢測設備架設及維護。\n2.協助影像檢測程式修正。"
+    },
+    "employment_type_raw": "全職",
+    "title": "影像助理工程師(LD)"
+  },
+  "location": {
+    "address_raw": "台中市南屯區精科路11號",
+    "raw": "台中市南屯區精科路11號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.對影像處理基本概念\n2.邏輯性佳\n3.可配合加班\n4.具學習熱誠尤佳"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "1.對影像處理基本概念\n2.邏輯性佳\n3.可配合加班\n4.具學習熱誠尤佳",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：電機電子工程相關、其他數學及電算機科學相關\n其他條件：1.對影像處理基本概念\n2.邏輯性佳\n3.可配合加班\n4.具學習熱誠尤佳",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 80
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:39:36+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000~55,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.協助影像檢測設備架設及維護。\n2.協助影像檢測程式修正。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "其他資訊專業人員",
+            "助理工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、其他資訊專業人員、助理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000~55,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市南屯區精科路11號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.協助影像檢測設備架設及維護。\n2.協助影像檢測程式修正。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.對影像處理基本概念\n2.邏輯性佳\n3.可配合加班\n4.具學習熱誠尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：電機電子工程相關、其他數學及電算機科學相關\n其他條件：1.對影像處理基本概念\n2.邏輯性佳\n3.可配合加班\n4.具學習熱誠尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "76eua",
+    "job_url": "https://www.104.com.tw/job/76eua",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/76eua.json",
+    "raw_sha256": "ed96bda6dec9020f8362e7b70306e06d5759c8bd156609965e3784fc19167864",
+    "requested_url": "https://www.104.com.tw/api/jobs/76eua"
+  }
+}

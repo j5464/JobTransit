@@ -1,0 +1,235 @@
+{
+  "company": {
+    "id": "oi77qwg",
+    "name": "日新軟體股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "使用 Ansible 進行環境自動化佈署與設定管理。"
+        },
+        {
+          "children": [],
+          "text": "維運與優化 Kafka 3.9 + ( KRaft Mode ）/ Tomcat / Redis 叢集設定與運作狀態。"
+        },
+        {
+          "children": [],
+          "text": "協助分析 Java 應用或中介軟體異常行為，並進行初步問題定位。"
+        },
+        {
+          "children": [],
+          "text": "撰寫與維護相關技術文件與操作手冊。"
+        },
+        {
+          "children": [],
+          "text": "具備 Java 程式開發基礎能力，理解 Java Web / 後端服務運作模式。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 基本 Linux 操作（檔案、程序、網路、權限等）。"
+        },
+        {
+          "children": [],
+          "text": "具備 Shell Script 基礎撰寫能力。"
+        },
+        {
+          "children": [],
+          "text": "了解並能操作 Kafka 、Tomcat、或 Redis 其中一至兩項。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的問題分析能力，能配合團隊進行除錯與學習。"
+        },
+        {
+          "children": [],
+          "text": "具備 Kafka 3.9 以上（KRaft Mode）實務經驗（優先考量）。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Ansible Playbook 撰寫設計。"
+        },
+        {
+          "children": [],
+          "text": "具備自我研究的能力。"
+        }
+      ],
+      "text": "【工作內容】\n• 使用 Ansible 進行環境自動化佈署與設定管理。\n• 維運與優化 Kafka 3.9 + ( KRaft Mode ）/ Tomcat / Redis 叢集設定與運作狀態。\n• 協助分析 Java 應用或中介軟體異常行為，並進行初步問題定位。\n• 撰寫與維護相關技術文件與操作手冊。\n條件需求:\n• 具備 Java 程式開發基礎能力，理解 Java Web / 後端服務運作模式。\n• 熟悉 基本 Linux 操作（檔案、程序、網路、權限等）。\n• 具備 Shell Script 基礎撰寫能力。\n• 了解並能操作 Kafka 、Tomcat、或 Redis 其中一至兩項。\n• 具備良好的問題分析能力，能配合團隊進行除錯與學習。\n【加分條件】\n• 具備 Kafka 3.9 以上（KRaft Mode）實務經驗（優先考量）。\n• 熟悉 Ansible Playbook 撰寫設計。\n• 具備自我研究的能力。"
+    },
+    "employment_type_raw": "全職",
+    "title": "R&D Engineer (Redis / Kafka)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路333號16樓",
+    "raw": "台北市內湖區瑞光路333號16樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "Linux",
+          "Tomcat"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Tomcat"
+      },
+      {
+        "items": [
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Linux、Tomcat\n工作技能：軟體工程系統開發",
+    "tools": [
+      "Linux",
+      "Tomcat"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 28
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:31:15+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n• 使用 Ansible 進行環境自動化佈署與設定管理。\n• 維運與優化 Kafka 3.9 + ( KRaft Mode ）/ Tomcat / Redis 叢集設定與運作狀態。\n• 協助分析 Java 應用或中介軟體異常行為，並進行初步問題定位。\n• 撰寫與維護相關技術文件與操作手冊。\n條件需求:\n• 具備 Java 程式開發基礎能力，理解 Java Web / 後端服務運作模式。\n• 熟悉 基本 Linux 操作（檔案、程序、網路、權限等）。\n• 具備 Shell Script 基礎撰寫能力。\n• 了解並能操作 Kafka 、Tomcat、或 Redis 其中一至兩項。\n• 具備良好的問題分析能力，能配合團隊進行除錯與學習。\n【加分條件】\n• 具備 Kafka 3.9 以上（KRaft Mode）實務經驗（優先考量）。\n• 熟悉 Ansible Playbook 撰寫設計。\n• 具備自我研究的能力。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路333號16樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n• 使用 Ansible 進行環境自動化佈署與設定管理。\n• 維運與優化 Kafka 3.9 + ( KRaft Mode ）/ Tomcat / Redis 叢集設定與運作狀態。\n• 協助分析 Java 應用或中介軟體異常行為，並進行初步問題定位。\n• 撰寫與維護相關技術文件與操作手冊。\n條件需求:\n• 具備 Java 程式開發基礎能力，理解 Java Web / 後端服務運作模式。\n• 熟悉 基本 Linux 操作（檔案、程序、網路、權限等）。\n• 具備 Shell Script 基礎撰寫能力。\n• 了解並能操作 Kafka 、Tomcat、或 Redis 其中一至兩項。\n• 具備良好的問題分析能力，能配合團隊進行除錯與學習。\n【加分條件】\n• 具備 Kafka 3.9 以上（KRaft Mode）實務經驗（優先考量）。\n• 熟悉 Ansible Playbook 撰寫設計。\n• 具備自我研究的能力。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Tomcat"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Tomcat",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Linux、Tomcat\n工作技能：軟體工程系統開發"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8y3c4",
+    "job_url": "https://www.104.com.tw/job/8y3c4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8y3c4.json",
+    "raw_sha256": "1ec74b629224407fd0848e10d11d72a8d041d12100a66b8dd5c77475dde3a3b1",
+    "requested_url": "https://www.104.com.tw/api/jobs/8y3c4"
+  }
+}

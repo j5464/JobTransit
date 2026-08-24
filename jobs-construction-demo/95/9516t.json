@@ -1,0 +1,198 @@
+{
+  "company": {
+    "id": "10r4uuvc",
+    "name": "全曜財經資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料工程師",
+      "資料科學家",
+      "數據分析師／資料分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "建置消費 Raw Data 的資料基礎：從 MongoDB 等 Source System 進行資料擷取、清理、轉換與儲存，建立穩定、可追蹤且可擴展的 Raw Data Pipeline，讓下游分析與資料應用能取得可信賴的資料。"
+        },
+        {
+          "children": [],
+          "text": "設計與維護 Hybrid Data Pipeline：依資料量、處理時效與使用情境，規劃 Cloud 與 On-premise 之間的資料流、運算與儲存方式，確保大量消費資料能穩定流通與處理。"
+        },
+        {
+          "children": [],
+          "text": "建立可支援大量資料的 Data Pipeline 與資料架構：針對 Batch 與不同時效需求設計資料處理流程、資料模型與查詢結構，在效能、穩定性、成本與維護性之間做出合理的技術取捨。"
+        },
+        {
+          "children": [],
+          "text": "提升資料品質與 Pipeline 穩定性：建立資料驗證、異常監控、錯誤處理與可觀測性機制，快速定位資料缺漏、延遲或 Pipeline Failure 的根因，確保下游使用者取得正確且穩定的資料。"
+        },
+        {
+          "children": [],
+          "text": "與分析、產品及相關團隊定義資料需求：理解分析與商業應用真正需要的資料粒度、更新頻率與使用方式，將需求轉化為可落地的 Data Pipeline 與資料架構，而非單純依規格搬運資料。"
+        },
+        {
+          "children": [],
+          "text": "持續改善資料工程架構與開發流程：辨識既有 Pipeline、Storage 或 Data Processing 中的效能與維護問題，逐步改善資料處理效率、工程品質與自動化程度。"
+        },
+        {
+          "children": [],
+          "text": "支援近即時資料應用的工程需求：依推薦、廣告、推播等資料使用情境，參與 Streaming / Near Real-time Pipeline 的設計與建置，縮短資料從 Source 到下游應用可使用的時間。"
+        },
+        {
+          "children": [],
+          "text": "於 電商、零售、消費產業中具備成熟的 Data Engineering 實務經驗，能獨立設計、建置與維護從 Source、Raw Data、Transformation 到下游使用的 Data Pipeline。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Python，能用於資料擷取、處理、自動化及 Pipeline 開發，並具備可維護的程式設計與問題排查能力。"
+        },
+        {
+          "children": [],
+          "text": "具備大型資料處理與資料架構能力，能根據資料量、更新頻率與下游使用方式選擇適合的處理與儲存方案，而非僅熟悉單一 ETL 工具。"
+        },
+        {
+          "children": [],
+          "text": "具備 SQL 與 NoSQL 資料處理經驗，理解不同資料儲存方式的 Schema、查詢特性與效能取捨；能處理 MongoDB 等 Source Data 的擷取與後續資料工程需求。"
+        },
+        {
+          "children": [],
+          "text": "具備 Cloud Data Engineering 實務經驗，曾實際使用雲端環境建立或維護 Data Pipeline、Data Processing 或 Storage，能說明架構選擇及實際遇過的問題。"
+        },
+        {
+          "children": [],
+          "text": "能獨立處理 Pipeline Failure、資料異常、效能瓶頸等 Production 問題，從資料流與系統行為定位根因並完成改善。"
+        },
+        {
+          "children": [],
+          "text": "能與 Data Analyst、PM 或其他資料使用者釐清需求，將「需要什麼資料、多久需要一次、如何使用」轉化為合理的資料工程方案。"
+        },
+        {
+          "children": [],
+          "text": "具備 Kafka 或其他 Event Streaming 技術的實務經驗，曾在 On-premise 或 Hybrid Environment 建置、維護 Streaming / Near Real-time Data Pipeline。"
+        },
+        {
+          "children": [],
+          "text": "曾支援推薦系統、廣告、CRM／推播等時效性較高的資料應用，理解從事件產生、資料處理到下游 Serving 的完整資料流。"
+        }
+      ],
+      "text": "【角色期待】\nCMoney 消費事業團隊 透過「發票、記帳、消費與生活型產品」服務大量一般消費者，並將累積的消費資料進一步轉化為可被分析與商業應用使用的資料能力。\n這個角色的核心任務是「把 Raw Data 到可被使用的資料基礎建起來」。目前部分 Source Data 儲存在 MongoDB 等環境中，因此，我們期待你能從資料來源、擷取與處理開始，設計穩定且可擴展的 Data Pipeline，並處理雲端與地端並存的 Hybrid Data Environment，讓大量消費資料能穩定地流向後續分析與產品應用。\n除了 Batch Data Processing，我們也正在面對更多具有時效性的資料使用情境，例如：推薦系統、廣告與推播等應用。因此，如果你曾經建置過 Streaming / Near Real-time Data Pipeline，且知道如何讓資料從事件發生到下游系統可使用，會非常貼近我們接下來要解決的問題！\n我們期待是一位能從 Source、Raw Data、Pipeline、Storage 到 Serving 思考完整 Data Flow，並能在 Cloud 與 On-premise 之間做出合理架構選擇的資深數據工程師。\n【工作內容】\n1. 建置消費 Raw Data 的資料基礎：從 MongoDB 等 Source System 進行資料擷取、清理、轉換與儲存，建立穩定、可追蹤且可擴展的 Raw Data Pipeline，讓下游分析與資料應用能取得可信賴的資料。\n2. 設計與維護 Hybrid Data Pipeline：依資料量、處理時效與使用情境，規劃 Cloud 與 On-premise 之間的資料流、運算與儲存方式，確保大量消費資料能穩定流通與處理。\n3. 建立可支援大量資料的 Data Pipeline 與資料架構：針對 Batch 與不同時效需求設計資料處理流程、資料模型與查詢結構，在效能、穩定性、成本與維護性之間做出合理的技術取捨。\n4. 提升資料品質與 Pipeline 穩定性：建立資料驗證、異常監控、錯誤處理與可觀測性機制，快速定位資料缺漏、延遲或 Pipeline Failure 的根因，確保下游使用者取得正確且穩定的資料。\n5. 與分析、產品及相關團隊定義資料需求：理解分析與商業應用真正需要的資料粒度、更新頻率與使用方式，將需求轉化為可落地的 Data Pipeline 與資料架構，而非單純依規格搬運資料。\n6. 持續改善資料工程架構與開發流程：辨識既有 Pipeline、Storage 或 Data Processing 中的效能與維護問題，逐步改善資料處理效率、工程品質與自動化程度。\n7. 支援近即時資料應用的工程需求：依推薦、廣告、推播等資料使用情境，參與 Streaming / Near Real-time Pipeline 的設計與建置，縮短資料從 Source 到下游應用可使用的時間。\n【基本條件】\n1. 於 電商、零售、消費產業中具備成熟的 Data Engineering 實務經驗，能獨立設計、建置與維護從 Source、Raw Data、Transformation 到下游使用的 Data Pipeline。\n2. 熟悉 Python，能用於資料擷取、處理、自動化及 Pipeline 開發，並具備可維護的程式設計與問題排查能力。\n3. 具備大型資料處理與資料架構能力，能根據資料量、更新頻率與下游使用方式選擇適合的處理與儲存方案，而非僅熟悉單一 ETL 工具。\n4. 具備 SQL 與 NoSQL 資料處理經驗，理解不同資料儲存方式的 Schema、查詢特性與效能取捨；能處理 MongoDB 等 Source Data 的擷取與後續資料工程需求。\n5. 具備 Cloud Data Engineering 實務經驗，曾實際使用雲端環境建立或維護 Data Pipeline、Data Processing 或 Storage，能說明架構選擇及實際遇過的問題。\n6. 能獨立處理 Pipeline Failure、資料異常、效能瓶頸等 Production 問題，從資料流與系統行為定位根因並完成改善。\n7. 能與 Data Analyst、PM 或其他資料使用者釐清需求，將「需要什麼資料、多久需要一次、如何使用」轉化為合理的資料工程方案。\n【加分項目】\n1. 具備 Kafka 或其他 Event Streaming 技術的實務經驗，曾在 On-premise 或 Hybrid Environment 建置、維護 Streaming / Near Real-time Data Pipeline。\n2. 曾支援推薦系統、廣告、CRM／推播等時效性較高的資料應用，理解從事件產生、資料處理到下游 Serving 的完整資料流。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【數據應用部】消費事業群｜資深資料工程師 - 消費數據 Senior Data Engineer（JIRA854）"
+  },
+  "location": {
+    "address_raw": "新北市板橋區文化路一段268號12樓",
+    "raw": "新北市板橋區文化路一段268號12樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 76
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:29:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【角色期待】\nCMoney 消費事業團隊 透過「發票、記帳、消費與生活型產品」服務大量一般消費者，並將累積的消費資料進一步轉化為可被分析與商業應用使用的資料能力。\n這個角色的核心任務是「把 Raw Data 到可被使用的資料基礎建起來」。目前部分 Source Data 儲存在 MongoDB 等環境中，因此，我們期待你能從資料來源、擷取與處理開始，設計穩定且可擴展的 Data Pipeline，並處理雲端與地端並存的 Hybrid Data Environment，讓大量消費資料能穩定地流向後續分析與產品應用。\n除了 Batch Data Processing，我們也正在面對更多具有時效性的資料使用情境，例如：推薦系統、廣告與推播等應用。因此，如果你曾經建置過 Streaming / Near Real-time Data Pipeline，且知道如何讓資料從事件發生到下游系統可使用，會非常貼近我們接下來要解決的問題！\n我們期待是一位能從 Source、Raw Data、Pipeline、Storage 到 Serving 思考完整 Data Flow，並能在 Cloud 與 On-premise 之間做出合理架構選擇的資深數據工程師。\n【工作內容】\n1. 建置消費 Raw Data 的資料基礎：從 MongoDB 等 Source System 進行資料擷取、清理、轉換與儲存，建立穩定、可追蹤且可擴展的 Raw Data Pipeline，讓下游分析與資料應用能取得可信賴的資料。\n2. 設計與維護 Hybrid Data Pipeline：依資料量、處理時效與使用情境，規劃 Cloud 與 On-premise 之間的資料流、運算與儲存方式，確保大量消費資料能穩定流通與處理。\n3. 建立可支援大量資料的 Data Pipeline 與資料架構：針對 Batch 與不同時效需求設計資料處理流程、資料模型與查詢結構，在效能、穩定性、成本與維護性之間做出合理的技術取捨。\n4. 提升資料品質與 Pipeline 穩定性：建立資料驗證、異常監控、錯誤處理與可觀測性機制，快速定位資料缺漏、延遲或 Pipeline Failure 的根因，確保下游使用者取得正確且穩定的資料。\n5. 與分析、產品及相關團隊定義資料需求：理解分析與商業應用真正需要的資料粒度、更新頻率與使用方式，將需求轉化為可落地的 Data Pipeline 與資料架構，而非單純依規格搬運資料。\n6. 持續改善資料工程架構與開發流程：辨識既有 Pipeline、Storage 或 Data Processing 中的效能與維護問題，逐步改善資料處理效率、工程品質與自動化程度。\n7. 支援近即時資料應用的工程需求：依推薦、廣告、推播等資料使用情境，參與 Streaming / Near Real-time Pipeline 的設計與建置，縮短資料從 Source 到下游應用可使用的時間。\n【基本條件】\n1. 於 電商、零售、消費產業中具備成熟的 Data Engineering 實務經驗，能獨立設計、建置與維護從 Source、Raw Data、Transformation 到下游使用的 Data Pipeline。\n2. 熟悉 Python，能用於資料擷取、處理、自動化及 Pipeline 開發，並具備可維護的程式設計與問題排查能力。\n3. 具備大型資料處理與資料架構能力，能根據資料量、更新頻率與下游使用方式選擇適合的處理與儲存方案，而非僅熟悉單一 ETL 工具。\n4. 具備 SQL 與 NoSQL 資料處理經驗，理解不同資料儲存方式的 Schema、查詢特性與效能取捨；能處理 MongoDB 等 Source Data 的擷取與後續資料工程需求。\n5. 具備 Cloud Data Engineering 實務經驗，曾實際使用雲端環境建立或維護 Data Pipeline、Data Processing 或 Storage，能說明架構選擇及實際遇過的問題。\n6. 能獨立處理 Pipeline Failure、資料異常、效能瓶頸等 Production 問題，從資料流與系統行為定位根因並完成改善。\n7. 能與 Data Analyst、PM 或其他資料使用者釐清需求，將「需要什麼資料、多久需要一次、如何使用」轉化為合理的資料工程方案。\n【加分項目】\n1. 具備 Kafka 或其他 Event Streaming 技術的實務經驗，曾在 On-premise 或 Hybrid Environment 建置、維護 Streaming / Near Real-time Data Pipeline。\n2. 曾支援推薦系統、廣告、CRM／推播等時效性較高的資料應用，理解從事件產生、資料處理到下游 Serving 的完整資料流。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料工程師",
+            "資料科學家",
+            "數據分析師／資料分析師"
+          ],
+          "label": "職務類別",
+          "text": "資料工程師、資料科學家、數據分析師／資料分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區文化路一段268號12樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【角色期待】\nCMoney 消費事業團隊 透過「發票、記帳、消費與生活型產品」服務大量一般消費者，並將累積的消費資料進一步轉化為可被分析與商業應用使用的資料能力。\n這個角色的核心任務是「把 Raw Data 到可被使用的資料基礎建起來」。目前部分 Source Data 儲存在 MongoDB 等環境中，因此，我們期待你能從資料來源、擷取與處理開始，設計穩定且可擴展的 Data Pipeline，並處理雲端與地端並存的 Hybrid Data Environment，讓大量消費資料能穩定地流向後續分析與產品應用。\n除了 Batch Data Processing，我們也正在面對更多具有時效性的資料使用情境，例如：推薦系統、廣告與推播等應用。因此，如果你曾經建置過 Streaming / Near Real-time Data Pipeline，且知道如何讓資料從事件發生到下游系統可使用，會非常貼近我們接下來要解決的問題！\n我們期待是一位能從 Source、Raw Data、Pipeline、Storage 到 Serving 思考完整 Data Flow，並能在 Cloud 與 On-premise 之間做出合理架構選擇的資深數據工程師。\n【工作內容】\n1. 建置消費 Raw Data 的資料基礎：從 MongoDB 等 Source System 進行資料擷取、清理、轉換與儲存，建立穩定、可追蹤且可擴展的 Raw Data Pipeline，讓下游分析與資料應用能取得可信賴的資料。\n2. 設計與維護 Hybrid Data Pipeline：依資料量、處理時效與使用情境，規劃 Cloud 與 On-premise 之間的資料流、運算與儲存方式，確保大量消費資料能穩定流通與處理。\n3. 建立可支援大量資料的 Data Pipeline 與資料架構：針對 Batch 與不同時效需求設計資料處理流程、資料模型與查詢結構，在效能、穩定性、成本與維護性之間做出合理的技術取捨。\n4. 提升資料品質與 Pipeline 穩定性：建立資料驗證、異常監控、錯誤處理與可觀測性機制，快速定位資料缺漏、延遲或 Pipeline Failure 的根因，確保下游使用者取得正確且穩定的資料。\n5. 與分析、產品及相關團隊定義資料需求：理解分析與商業應用真正需要的資料粒度、更新頻率與使用方式，將需求轉化為可落地的 Data Pipeline 與資料架構，而非單純依規格搬運資料。\n6. 持續改善資料工程架構與開發流程：辨識既有 Pipeline、Storage 或 Data Processing 中的效能與維護問題，逐步改善資料處理效率、工程品質與自動化程度。\n7. 支援近即時資料應用的工程需求：依推薦、廣告、推播等資料使用情境，參與 Streaming / Near Real-time Pipeline 的設計與建置，縮短資料從 Source 到下游應用可使用的時間。\n【基本條件】\n1. 於 電商、零售、消費產業中具備成熟的 Data Engineering 實務經驗，能獨立設計、建置與維護從 Source、Raw Data、Transformation 到下游使用的 Data Pipeline。\n2. 熟悉 Python，能用於資料擷取、處理、自動化及 Pipeline 開發，並具備可維護的程式設計與問題排查能力。\n3. 具備大型資料處理與資料架構能力，能根據資料量、更新頻率與下游使用方式選擇適合的處理與儲存方案，而非僅熟悉單一 ETL 工具。\n4. 具備 SQL 與 NoSQL 資料處理經驗，理解不同資料儲存方式的 Schema、查詢特性與效能取捨；能處理 MongoDB 等 Source Data 的擷取與後續資料工程需求。\n5. 具備 Cloud Data Engineering 實務經驗，曾實際使用雲端環境建立或維護 Data Pipeline、Data Processing 或 Storage，能說明架構選擇及實際遇過的問題。\n6. 能獨立處理 Pipeline Failure、資料異常、效能瓶頸等 Production 問題，從資料流與系統行為定位根因並完成改善。\n7. 能與 Data Analyst、PM 或其他資料使用者釐清需求，將「需要什麼資料、多久需要一次、如何使用」轉化為合理的資料工程方案。\n【加分項目】\n1. 具備 Kafka 或其他 Event Streaming 技術的實務經驗，曾在 On-premise 或 Hybrid Environment 建置、維護 Streaming / Near Real-time Data Pipeline。\n2. 曾支援推薦系統、廣告、CRM／推播等時效性較高的資料應用，理解從事件產生、資料處理到下游 Serving 的完整資料流。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "9516t",
+    "job_url": "https://www.104.com.tw/job/9516t",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9516t.json",
+    "raw_sha256": "458a4ea70c03b6bf5a4473a62bf7151e853c5674af44eca50d05fd86d3a57b2c",
+    "requested_url": "https://www.104.com.tw/api/jobs/9516t"
+  }
+}

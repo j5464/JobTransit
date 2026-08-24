@@ -1,0 +1,202 @@
+{
+  "company": {
+    "id": "d2ebcoo",
+    "name": "三貝德數位文創股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計與開發 RESTful API，提供給教育學習系統使用"
+        },
+        {
+          "children": [],
+          "text": "維護與優化既有 API 服務，提升回應速度與穩定性"
+        },
+        {
+          "children": [],
+          "text": "設計與優化資料庫結構"
+        },
+        {
+          "children": [],
+          "text": "與前端工程師、產品經理協作，討論需求與 API 規格"
+        },
+        {
+          "children": [],
+          "text": "處理線上問題排查（log 分析、效能瓶頸定位、bug 修復）"
+        },
+        {
+          "children": [],
+          "text": "參與架構討論與 Code Review"
+        },
+        {
+          "children": [],
+          "text": "2 年以上 .NET / C# 後端開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 ASP.NET Core Web API 開發"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Entity Framework Core"
+        },
+        {
+          "children": [],
+          "text": "熟悉 MySQL 或 SQL Server 任一"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 流程，能撰寫清晰的 commit message 並參與 Code Review"
+        },
+        {
+          "children": [],
+          "text": "良好的問題分析與除錯能力，能獨立追查線上問題根因"
+        },
+        {
+          "children": [],
+          "text": "良好的跨團隊溝通能力（需與前端、PM、設計師頻繁協作）"
+        },
+        {
+          "children": [],
+          "text": "有實際使用 AI 輔助開發工具的習慣，能將 AI 整合進日常開發流程"
+        },
+        {
+          "children": [],
+          "text": "熟悉Vue開發、具有 Pinia 、Vue Router 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "具有 Docker / Container 化部署經驗"
+        },
+        {
+          "children": [],
+          "text": "有與行動端工程師協作的經驗"
+        },
+        {
+          "children": [],
+          "text": "有教育產業、內容型平台的後端開發經驗"
+        }
+      ],
+      "text": "【工作內容】\n1. 設計與開發 RESTful API，提供給教育學習系統使用\n2. 維護與優化既有 API 服務，提升回應速度與穩定性\n3. 設計與優化資料庫結構\n4. 與前端工程師、產品經理協作，討論需求與 API 規格\n5. 處理線上問題排查（log 分析、效能瓶頸定位、bug 修復）\n6. 參與架構討論與 Code Review\n【必備條件】\n•2 年以上 .NET / C# 後端開發經驗\n•熟悉 ASP.NET Core Web API 開發\n•熟悉 Entity Framework Core\n•熟悉 MySQL 或 SQL Server 任一\n•熟悉 Git 流程，能撰寫清晰的 commit message 並參與 Code Review\n•良好的問題分析與除錯能力，能獨立追查線上問題根因\n•良好的跨團隊溝通能力（需與前端、PM、設計師頻繁協作）\n【加分條件】\n•有實際使用 AI 輔助開發工具的習慣，能將 AI 整合進日常開發流程\n•熟悉Vue開發、具有 Pinia 、Vue Router 開發經驗\n•具有 Docker / Container 化部署經驗\n•有與行動端工程師協作的經驗\n•有教育產業、內容型平台的後端開發經驗"
+    },
+    "employment_type_raw": "全職",
+    "title": "後端工程師"
+  },
+  "location": {
+    "address_raw": "新北市三重區重新路5段609巷2號5樓",
+    "raw": "新北市三重區重新路5段609巷2號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 63
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:57:21+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 設計與開發 RESTful API，提供給教育學習系統使用\n2. 維護與優化既有 API 服務，提升回應速度與穩定性\n3. 設計與優化資料庫結構\n4. 與前端工程師、產品經理協作，討論需求與 API 規格\n5. 處理線上問題排查（log 分析、效能瓶頸定位、bug 修復）\n6. 參與架構討論與 Code Review\n【必備條件】\n•2 年以上 .NET / C# 後端開發經驗\n•熟悉 ASP.NET Core Web API 開發\n•熟悉 Entity Framework Core\n•熟悉 MySQL 或 SQL Server 任一\n•熟悉 Git 流程，能撰寫清晰的 commit message 並參與 Code Review\n•良好的問題分析與除錯能力，能獨立追查線上問題根因\n•良好的跨團隊溝通能力（需與前端、PM、設計師頻繁協作）\n【加分條件】\n•有實際使用 AI 輔助開發工具的習慣，能將 AI 整合進日常開發流程\n•熟悉Vue開發、具有 Pinia 、Vue Router 開發經驗\n•具有 Docker / Container 化部署經驗\n•有與行動端工程師協作的經驗\n•有教育產業、內容型平台的後端開發經驗",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市三重區重新路5段609巷2號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 設計與開發 RESTful API，提供給教育學習系統使用\n2. 維護與優化既有 API 服務，提升回應速度與穩定性\n3. 設計與優化資料庫結構\n4. 與前端工程師、產品經理協作，討論需求與 API 規格\n5. 處理線上問題排查（log 分析、效能瓶頸定位、bug 修復）\n6. 參與架構討論與 Code Review\n【必備條件】\n•2 年以上 .NET / C# 後端開發經驗\n•熟悉 ASP.NET Core Web API 開發\n•熟悉 Entity Framework Core\n•熟悉 MySQL 或 SQL Server 任一\n•熟悉 Git 流程，能撰寫清晰的 commit message 並參與 Code Review\n•良好的問題分析與除錯能力，能獨立追查線上問題根因\n•良好的跨團隊溝通能力（需與前端、PM、設計師頻繁協作）\n【加分條件】\n•有實際使用 AI 輔助開發工具的習慣，能將 AI 整合進日常開發流程\n•熟悉Vue開發、具有 Pinia 、Vue Router 開發經驗\n•具有 Docker / Container 化部署經驗\n•有與行動端工程師協作的經驗\n•有教育產業、內容型平台的後端開發經驗"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91vpj",
+    "job_url": "https://www.104.com.tw/job/91vpj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91vpj.json",
+    "raw_sha256": "d8407ebe67ce1b8d0c6ff1ee82ab21625d713ed3ab2cbf9fb701bb734909b8a5",
+    "requested_url": "https://www.104.com.tw/api/jobs/91vpj"
+  }
+}

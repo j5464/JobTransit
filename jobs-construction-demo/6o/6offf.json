@@ -1,0 +1,185 @@
+{
+  "company": {
+    "id": "ao3kufs",
+    "name": "全台物流股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [],
+      "text": "❤【工作內容】\n(1)管理與維護公司物流資訊系統，確保運作正常及異常排除\n(2)負責與使用單位／委外開發廠商進行需求訪談、開發進度追蹤及整合測試\n(3)使用者系統操作教育訓練\n(4)資訊系統架構研究及提案改善\n❤【我們需要這樣的您】\n(1)對系統開發有興趣，且具高度熱誠\n(2)具有良好的跨部門溝通能力，共同尋求解決方案\n❤【如果您具備以下特質】\n(1)細心負責\n(2)具邏輯思維\n那麼全台物流就是您的最佳選擇！\n期待您加入全台大家庭！共創美好未來！"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統開發工程師"
+  },
+  "location": {
+    "address_raw": "新北市林口區東林里宏昌街1號",
+    "raw": "新北市林口區東林里宏昌街1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "Outlook",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Outlook、PowerPoint、Word"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉T-SQL資料庫語法尤佳\n2026career"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "熟悉T-SQL資料庫語法尤佳\n2026career",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Outlook、PowerPoint、Word\n其他條件：熟悉T-SQL資料庫語法尤佳\n2026career",
+    "tools": [
+      "Outlook",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 30
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:35:40+08:00"
+  },
+  "salary": {
+    "raw": "月薪34,000~40,500元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "❤【工作內容】\n(1)管理與維護公司物流資訊系統，確保運作正常及異常排除\n(2)負責與使用單位／委外開發廠商進行需求訪談、開發進度追蹤及整合測試\n(3)使用者系統操作教育訓練\n(4)資訊系統架構研究及提案改善\n❤【我們需要這樣的您】\n(1)對系統開發有興趣，且具高度熱誠\n(2)具有良好的跨部門溝通能力，共同尋求解決方案\n❤【如果您具備以下特質】\n(1)細心負責\n(2)具邏輯思維\n那麼全台物流就是您的最佳選擇！\n期待您加入全台大家庭！共創美好未來！",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪34,000~40,500元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市林口區東林里宏昌街1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "❤【工作內容】\n(1)管理與維護公司物流資訊系統，確保運作正常及異常排除\n(2)負責與使用單位／委外開發廠商進行需求訪談、開發進度追蹤及整合測試\n(3)使用者系統操作教育訓練\n(4)資訊系統架構研究及提案改善\n❤【我們需要這樣的您】\n(1)對系統開發有興趣，且具高度熱誠\n(2)具有良好的跨部門溝通能力，共同尋求解決方案\n❤【如果您具備以下特質】\n(1)細心負責\n(2)具邏輯思維\n那麼全台物流就是您的最佳選擇！\n期待您加入全台大家庭！共創美好未來！"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Outlook",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Outlook、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉T-SQL資料庫語法尤佳\n2026career",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Outlook、PowerPoint、Word\n其他條件：熟悉T-SQL資料庫語法尤佳\n2026career"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6offf",
+    "job_url": "https://www.104.com.tw/job/6offf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6offf.json",
+    "raw_sha256": "7d999d6593b1fd2d2fb348ab81b6bf0441140766cb5686c4579e6c6d4d593369",
+    "requested_url": "https://www.104.com.tw/api/jobs/6offf"
+  }
+}

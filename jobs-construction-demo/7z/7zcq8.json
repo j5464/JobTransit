@@ -1,0 +1,213 @@
+{
+  "company": {
+    "id": "10wiapy0",
+    "name": "元大人壽保險股份有限公司(總公司)"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "軟體工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "核心應用系統需求分析規劃及撰寫功能規格等相關文件。"
+        },
+        {
+          "children": [],
+          "text": "負責確保程式開發者交付的進度、技術文件、測試與開發品質等，符合公司規範。"
+        },
+        {
+          "children": [],
+          "text": "協助系統功能維運、問題分析與追蹤改善與優化。"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項。"
+        }
+      ],
+      "text": "1.核心應用系統需求分析規劃及撰寫功能規格等相關文件。\n2.負責確保程式開發者交付的進度、技術文件、測試與開發品質等，符合公司規範。\n3.協助系統功能維運、問題分析與追蹤改善與優化。\n4.主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "總公司【資訊系統開發部】系統分析師(核心應用系統)"
+  },
+  "location": {
+    "address_raw": "台北市松山區民生東路三段156號",
+    "raw": "台北市松山區民生東路三段156號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "Java",
+          "MS SQL",
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Java、MS SQL、Excel、Outlook、PowerPoint、Word"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具備金融保險業相關經驗佳。\n2. 具備 Java 程式實務經驗 。\n3. 熟悉資料庫技術 SQL 。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "1. 具備金融保險業相關經驗佳。\n2. 具備 Java 程式實務經驗 。\n3. 熟悉資料庫技術 SQL 。",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Java、MS SQL、Excel、Outlook、PowerPoint、Word\n其他條件：1. 具備金融保險業相關經驗佳。\n2. 具備 Java 程式實務經驗 。\n3. 熟悉資料庫技術 SQL 。",
+    "tools": [
+      "Java",
+      "MS SQL",
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 83
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:47:05+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.核心應用系統需求分析規劃及撰寫功能規格等相關文件。\n2.負責確保程式開發者交付的進度、技術文件、測試與開發品質等，符合公司規範。\n3.協助系統功能維運、問題分析與追蹤改善與優化。\n4.主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "軟體工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、軟體工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區民生東路三段156號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.核心應用系統需求分析規劃及撰寫功能規格等相關文件。\n2.負責確保程式開發者交付的進度、技術文件、測試與開發品質等，符合公司規範。\n3.協助系統功能維運、問題分析與追蹤改善與優化。\n4.主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "MS SQL",
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Java、MS SQL、Excel、Outlook、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具備金融保險業相關經驗佳。\n2. 具備 Java 程式實務經驗 。\n3. 熟悉資料庫技術 SQL 。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Java、MS SQL、Excel、Outlook、PowerPoint、Word\n其他條件：1. 具備金融保險業相關經驗佳。\n2. 具備 Java 程式實務經驗 。\n3. 熟悉資料庫技術 SQL 。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7zcq8",
+    "job_url": "https://www.104.com.tw/job/7zcq8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7zcq8.json",
+    "raw_sha256": "243c970e36ccec5d5ead2bcc26ade1fc0fa0781ef6a49e8dcc200b899b693aae",
+    "requested_url": "https://www.104.com.tw/api/jobs/7zcq8"
+  }
+}

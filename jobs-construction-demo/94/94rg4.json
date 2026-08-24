@@ -1,0 +1,254 @@
+{
+  "company": {
+    "id": "1a2x6bnpb0",
+    "name": "立視科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "DevOps 工程師",
+      "資料庫管理人員",
+      "網路管理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計與維運 GitLab CI/CD 與 Jenkins 流程，實現建置、測試與部署流程自動化。"
+        },
+        {
+          "children": [],
+          "text": "具備容器化與微服務架構基礎，熟悉 Kubernetes 或 VMware Tanzu 等相關技術。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 GCP、AWS 等主流雲平台，並具備相關服務與功能的理解與應用經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備 CI/CD 自動化實務經驗，熟悉 GitOps、Terraform、Ansible、Argo CD 等工具。"
+        },
+        {
+          "children": [],
+          "text": "熟悉或願意學習常見監控工具（Prometheus、Grafana、Zabbix、ELK/EFK、Loki 等）。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Linux 作業系統及基礎網路設定。"
+        },
+        {
+          "children": [],
+          "text": "具備至少一種程式或腳本語言的開發經驗（如 Java、Go、Rust、Python、Shell Script）。"
+        },
+        {
+          "children": [],
+          "text": "具備 AWS、GCP 雲端資料庫及 MongoDB Atlas 使用或維運經驗，並具備基本問題排查能力。"
+        },
+        {
+          "children": [],
+          "text": "具備 Encoder／Decoder、Cue Tone 等頭端設備運維經驗佳，或有學習熱忱者亦可。"
+        }
+      ],
+      "text": "• 設計與維運 GitLab CI/CD 與 Jenkins 流程，實現建置、測試與部署流程自動化。\n• 具備容器化與微服務架構基礎，熟悉 Kubernetes 或 VMware Tanzu 等相關技術。\n• 熟悉 GCP、AWS 等主流雲平台，並具備相關服務與功能的理解與應用經驗。\n• 具備 CI/CD 自動化實務經驗，熟悉 GitOps、Terraform、Ansible、Argo CD 等工具。\n• 熟悉或願意學習常見監控工具（Prometheus、Grafana、Zabbix、ELK/EFK、Loki 等）。\n• 熟悉 Linux 作業系統及基礎網路設定。\n• 具備至少一種程式或腳本語言的開發經驗（如 Java、Go、Rust、Python、Shell Script）。\n• 具備 AWS、GCP 雲端資料庫及 MongoDB Atlas 使用或維運經驗，並具備基本問題排查能力。\n• 具備 Encoder／Decoder、Cue Tone 等頭端設備運維經驗佳，或有學習熱忱者亦可。"
+    },
+    "employment_type_raw": "全職",
+    "title": "DevOps 工程師"
+  },
+  "location": {
+    "address_raw": "台北市松山區八德路四段760號6樓",
+    "raw": "台北市松山區八德路四段760號6樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "Vmware",
+          "Linux",
+          "Shell",
+          "UML",
+          "Jenkins",
+          "Git",
+          "Python",
+          "AWS"
+        ],
+        "label": "擅長工具",
+        "text": "Vmware、Linux、Shell、UML、Jenkins、Git、Python、AWS"
+      },
+      {
+        "items": [
+          "資訊設備環境設定",
+          "資料備份與復原",
+          "系統整合分析",
+          "網路程式設計",
+          "資料庫系統管理維護",
+          "設計網路安全系統",
+          "網路系統危機管理"
+        ],
+        "label": "工作技能",
+        "text": "資訊設備環境設定、資料備份與復原、系統整合分析、網路程式設計、資料庫系統管理維護、設計網路安全系統、網路系統危機管理"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "• 高可用 (HA) 與災難復原 (DR) 測試經驗。\n• 熟悉基礎設施監控、容量規劃、效能調校。\n• 能撰寫並維護 Runbook、技術文件、架構圖 (Mermaid、Visio、Draw.io)。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "• 高可用 (HA) 與災難復原 (DR) 測試經驗。\n• 熟悉基礎設施監控、容量規劃、效能調校。\n• 能撰寫並維護 Runbook、技術文件、架構圖 (Mermaid、Visio、Draw.io)。",
+    "skills": [
+      "資訊設備環境設定",
+      "資料備份與復原",
+      "系統整合分析",
+      "網路程式設計",
+      "資料庫系統管理維護",
+      "設計網路安全系統",
+      "網路系統危機管理"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學\n擅長工具：Vmware、Linux、Shell、UML、Jenkins、Git、Python、AWS\n工作技能：資訊設備環境設定、資料備份與復原、系統整合分析、網路程式設計、資料庫系統管理維護、設計網路安全系統、網路系統危機管理\n其他條件：• 高可用 (HA) 與災難復原 (DR) 測試經驗。\n• 熟悉基礎設施監控、容量規劃、效能調校。\n• 能撰寫並維護 Runbook、技術文件、架構圖 (Mermaid、Visio、Draw.io)。",
+    "tools": [
+      "Vmware",
+      "Linux",
+      "Shell",
+      "UML",
+      "Jenkins",
+      "Git",
+      "Python",
+      "AWS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 7
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:36:12+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "• 設計與維運 GitLab CI/CD 與 Jenkins 流程，實現建置、測試與部署流程自動化。\n• 具備容器化與微服務架構基礎，熟悉 Kubernetes 或 VMware Tanzu 等相關技術。\n• 熟悉 GCP、AWS 等主流雲平台，並具備相關服務與功能的理解與應用經驗。\n• 具備 CI/CD 自動化實務經驗，熟悉 GitOps、Terraform、Ansible、Argo CD 等工具。\n• 熟悉或願意學習常見監控工具（Prometheus、Grafana、Zabbix、ELK/EFK、Loki 等）。\n• 熟悉 Linux 作業系統及基礎網路設定。\n• 具備至少一種程式或腳本語言的開發經驗（如 Java、Go、Rust、Python、Shell Script）。\n• 具備 AWS、GCP 雲端資料庫及 MongoDB Atlas 使用或維運經驗，並具備基本問題排查能力。\n• 具備 Encoder／Decoder、Cue Tone 等頭端設備運維經驗佳，或有學習熱忱者亦可。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "DevOps 工程師",
+            "資料庫管理人員",
+            "網路管理工程師"
+          ],
+          "label": "職務類別",
+          "text": "DevOps 工程師、資料庫管理人員、網路管理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區八德路四段760號6樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "• 設計與維運 GitLab CI/CD 與 Jenkins 流程，實現建置、測試與部署流程自動化。\n• 具備容器化與微服務架構基礎，熟悉 Kubernetes 或 VMware Tanzu 等相關技術。\n• 熟悉 GCP、AWS 等主流雲平台，並具備相關服務與功能的理解與應用經驗。\n• 具備 CI/CD 自動化實務經驗，熟悉 GitOps、Terraform、Ansible、Argo CD 等工具。\n• 熟悉或願意學習常見監控工具（Prometheus、Grafana、Zabbix、ELK/EFK、Loki 等）。\n• 熟悉 Linux 作業系統及基礎網路設定。\n• 具備至少一種程式或腳本語言的開發經驗（如 Java、Go、Rust、Python、Shell Script）。\n• 具備 AWS、GCP 雲端資料庫及 MongoDB Atlas 使用或維運經驗，並具備基本問題排查能力。\n• 具備 Encoder／Decoder、Cue Tone 等頭端設備運維經驗佳，或有學習熱忱者亦可。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Vmware",
+            "Linux",
+            "Shell",
+            "UML",
+            "Jenkins",
+            "Git",
+            "Python",
+            "AWS"
+          ],
+          "label": "擅長工具",
+          "text": "Vmware、Linux、Shell、UML、Jenkins、Git、Python、AWS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊設備環境設定",
+            "資料備份與復原",
+            "系統整合分析",
+            "網路程式設計",
+            "資料庫系統管理維護",
+            "設計網路安全系統",
+            "網路系統危機管理"
+          ],
+          "label": "工作技能",
+          "text": "資訊設備環境設定、資料備份與復原、系統整合分析、網路程式設計、資料庫系統管理維護、設計網路安全系統、網路系統危機管理",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "• 高可用 (HA) 與災難復原 (DR) 測試經驗。\n• 熟悉基礎設施監控、容量規劃、效能調校。\n• 能撰寫並維護 Runbook、技術文件、架構圖 (Mermaid、Visio、Draw.io)。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學\n擅長工具：Vmware、Linux、Shell、UML、Jenkins、Git、Python、AWS\n工作技能：資訊設備環境設定、資料備份與復原、系統整合分析、網路程式設計、資料庫系統管理維護、設計網路安全系統、網路系統危機管理\n其他條件：• 高可用 (HA) 與災難復原 (DR) 測試經驗。\n• 熟悉基礎設施監控、容量規劃、效能調校。\n• 能撰寫並維護 Runbook、技術文件、架構圖 (Mermaid、Visio、Draw.io)。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94rg4",
+    "job_url": "https://www.104.com.tw/job/94rg4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94rg4.json",
+    "raw_sha256": "436a60e0d04accabf1b09f2db50c21770a09281f669fdb4c6c930359b71bf341",
+    "requested_url": "https://www.104.com.tw/api/jobs/94rg4"
+  }
+}

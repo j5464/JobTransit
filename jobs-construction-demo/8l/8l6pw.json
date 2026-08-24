@@ -1,0 +1,215 @@
+{
+  "company": {
+    "id": "1a2x6blyb5",
+    "name": "星亞視覺股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "通訊軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "軟體程式設計"
+    },
+    "employment_type_raw": "全職",
+    "title": "E022 軟體工程師"
+  },
+  "location": {
+    "address_raw": "新竹市力行五路1號8樓",
+    "raw": "新竹市力行五路1號8樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "C++",
+          "Qt"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Qt"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟悉Qt/C++開發和維護Windows桌面應用程式的用戶界面\n2. 設計符合人因工程UI介面和程式模組化和功能化的架構設計開發\n3. 具有優化軟體經驗 及 熟悉TCP/IP & UART相關通訊協議\n4. 擁有良好的表達能力及責任心, 能解決問題,勇於挑戰與創新"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1. 熟悉Qt/C++開發和維護Windows桌面應用程式的用戶界面\n2. 設計符合人因工程UI介面和程式模組化和功能化的架構設計開發\n3. 具有優化軟體經驗 及 熟悉TCP/IP & UART相關通訊協議\n4. 擁有良好的表達能力及責任心, 能解決問題,勇於挑戰與創新",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C++、Qt\n工作技能：軟體程式設計\n其他條件：1. 熟悉Qt/C++開發和維護Windows桌面應用程式的用戶界面\n2. 設計符合人因工程UI介面和程式模組化和功能化的架構設計開發\n3. 具有優化軟體經驗 及 熟悉TCP/IP & UART相關通訊協議\n4. 擁有良好的表達能力及責任心, 能解決問題,勇於挑戰與創新",
+    "tools": [
+      "C++",
+      "Qt"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 45
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:12:37+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "軟體程式設計",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "通訊軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、通訊軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市力行五路1號8樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "軟體程式設計"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Qt"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Qt",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟悉Qt/C++開發和維護Windows桌面應用程式的用戶界面\n2. 設計符合人因工程UI介面和程式模組化和功能化的架構設計開發\n3. 具有優化軟體經驗 及 熟悉TCP/IP & UART相關通訊協議\n4. 擁有良好的表達能力及責任心, 能解決問題,勇於挑戰與創新",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C++、Qt\n工作技能：軟體程式設計\n其他條件：1. 熟悉Qt/C++開發和維護Windows桌面應用程式的用戶界面\n2. 設計符合人因工程UI介面和程式模組化和功能化的架構設計開發\n3. 具有優化軟體經驗 及 熟悉TCP/IP & UART相關通訊協議\n4. 擁有良好的表達能力及責任心, 能解決問題,勇於挑戰與創新"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8l6pw",
+    "job_url": "https://www.104.com.tw/job/8l6pw",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8l6pw.json",
+    "raw_sha256": "3a89bb4884ebd8b72f453bbf952c2297ba669bc5f6f148bc7b017a916a798d72",
+    "requested_url": "https://www.104.com.tw/api/jobs/8l6pw"
+  }
+}

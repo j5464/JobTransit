@@ -1,0 +1,215 @@
+{
+  "company": {
+    "id": "13tpbu88",
+    "name": "中磊電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "VMare、VDI虛擬化平台維護管理"
+        },
+        {
+          "children": [],
+          "text": "微軟相關系統管理和運維、Microsoft 365、Azure、One Drive、SharePoint."
+        },
+        {
+          "children": [],
+          "text": "負責虛擬環境、資料庫及雲端系統之備份與還原管理、確保資料安全性、備份完整性及災難復原機制正常運作"
+        },
+        {
+          "children": [],
+          "text": "AI 應用平台之管理、導入與維運"
+        },
+        {
+          "children": [],
+          "text": "相關資料專案推動及其他主管交辦事項。"
+        }
+      ],
+      "text": "工作職掌:\n將負責資訊專案支援與電腦系統相關問題排除\n1.VMare、VDI虛擬化平台維護管理\n2. 微軟相關系統管理和運維、Microsoft 365、Azure、One Drive、SharePoint.\n3.負責虛擬環境、資料庫及雲端系統之備份與還原管理、確保資料安全性、備份完整性及災難復原機制正常運作\n4. AI 應用平台之管理、導入與維運\n5. 相關資料專案推動及其他主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "C102 資深系統工程師"
+  },
+  "location": {
+    "address_raw": "台北市南港區園區街3之1號2樓(南港軟體工業園區G棟)",
+    "raw": "台北市南港區園區街3之1號2樓(南港軟體工業園區G棟)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Microsoft Azure",
+          "Microsoft SharePoint",
+          "Cisco"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Microsoft Azure、Microsoft SharePoint、Cisco"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Microsoft Azure、Microsoft SharePoint、Cisco",
+    "tools": [
+      "Linux",
+      "Microsoft Azure",
+      "Microsoft SharePoint",
+      "Cisco"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 40
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:00:13+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作職掌:\n將負責資訊專案支援與電腦系統相關問題排除\n1.VMare、VDI虛擬化平台維護管理\n2. 微軟相關系統管理和運維、Microsoft 365、Azure、One Drive、SharePoint.\n3.負責虛擬環境、資料庫及雲端系統之備份與還原管理、確保資料安全性、備份完整性及災難復原機制正常運作\n4. AI 應用平台之管理、導入與維運\n5. 相關資料專案推動及其他主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區園區街3之1號2樓(南港軟體工業園區G棟)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作職掌:\n將負責資訊專案支援與電腦系統相關問題排除\n1.VMare、VDI虛擬化平台維護管理\n2. 微軟相關系統管理和運維、Microsoft 365、Azure、One Drive、SharePoint.\n3.負責虛擬環境、資料庫及雲端系統之備份與還原管理、確保資料安全性、備份完整性及災難復原機制正常運作\n4. AI 應用平台之管理、導入與維運\n5. 相關資料專案推動及其他主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Microsoft Azure",
+            "Microsoft SharePoint",
+            "Cisco"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Microsoft Azure、Microsoft SharePoint、Cisco",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Microsoft Azure、Microsoft SharePoint、Cisco"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93pkm",
+    "job_url": "https://www.104.com.tw/job/93pkm",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93pkm.json",
+    "raw_sha256": "274eb972b8e4b298368f370986fed46a8e9596084516379156ceab998682370e",
+    "requested_url": "https://www.104.com.tw/api/jobs/93pkm"
+  }
+}

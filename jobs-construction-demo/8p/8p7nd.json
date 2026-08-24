@@ -1,0 +1,215 @@
+{
+  "company": {
+    "id": "1mtr7vs",
+    "name": "中信金控_台灣人壽保險股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "核保／保險內勤人員",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "保單服務核心系統規劃與維運"
+        },
+        {
+          "children": [],
+          "text": "保單服務相關數位化專案規劃與執行"
+        },
+        {
+          "children": [],
+          "text": "保單服務核心系統資轉平測問題處理"
+        }
+      ],
+      "text": "1.保單服務核心系統規劃與維運\n2.保單服務相關數位化專案規劃與執行\n3.保單服務核心系統資轉平測問題處理"
+    },
+    "employment_type_raw": "全職",
+    "title": "客服_系統規劃人員"
+  },
+  "location": {
+    "address_raw": "台北市南港區經貿二路188號(中國信託金融園區)",
+    "raw": "台北市南港區經貿二路188號(中國信託金融園區)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "銀行保險相關",
+          "商業及管理學科類"
+        ],
+        "label": "科系要求",
+        "text": "銀行保險相關、商業及管理學科類"
+      },
+      {
+        "items": [
+          "Excel",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、PowerPoint、Word"
+      },
+      {
+        "items": [
+          "系統整合分析"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具新契約或保單服務相關系統規劃經驗5年以上"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "銀行保險相關",
+      "商業及管理學科類"
+    ],
+    "other_text": "1.具新契約或保單服務相關系統規劃經驗5年以上",
+    "skills": [
+      "系統整合分析"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：銀行保險相關、商業及管理學科類\n擅長工具：Excel、PowerPoint、Word\n工作技能：系統整合分析\n其他條件：1.具新契約或保單服務相關系統規劃經驗5年以上",
+    "tools": [
+      "Excel",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 61
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:52:59+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.保單服務核心系統規劃與維運\n2.保單服務相關數位化專案規劃與執行\n3.保單服務核心系統資轉平測問題處理",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "核保／保險內勤人員",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "核保／保險內勤人員、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區經貿二路188號(中國信託金融園區)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.保單服務核心系統規劃與維運\n2.保單服務相關數位化專案規劃與執行\n3.保單服務核心系統資轉平測問題處理"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "銀行保險相關",
+            "商業及管理學科類"
+          ],
+          "label": "科系要求",
+          "text": "銀行保險相關、商業及管理學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具新契約或保單服務相關系統規劃經驗5年以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：銀行保險相關、商業及管理學科類\n擅長工具：Excel、PowerPoint、Word\n工作技能：系統整合分析\n其他條件：1.具新契約或保單服務相關系統規劃經驗5年以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8p7nd",
+    "job_url": "https://www.104.com.tw/job/8p7nd",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8p7nd.json",
+    "raw_sha256": "412703b6cd0a338cfe73a0ff4265d39fc56f0fe1d2f0c42538d82308ca773ba5",
+    "requested_url": "https://www.104.com.tw/api/jobs/8p7nd"
+  }
+}

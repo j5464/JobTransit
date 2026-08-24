@@ -1,0 +1,166 @@
+{
+  "company": {
+    "id": "13qvhzjs",
+    "name": "台新新光金控_台新國際商業銀行股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "網路安全分析師",
+      "資安主管",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "資安政策與治理架構規劃"
+        },
+        {
+          "children": [],
+          "text": "資安風險管理與合規審查"
+        },
+        {
+          "children": [],
+          "text": "新興科技資安治理"
+        },
+        {
+          "children": [],
+          "text": "事故應變與資安意識推廣"
+        },
+        {
+          "children": [],
+          "text": "資訊安全管理相關工作經驗5年以上，有金融業相關資安工作經驗尤佳"
+        },
+        {
+          "children": [],
+          "text": "具導入、維護ISMS、NIST CSF、NIST AI RMF、CSA CCM等資安管理框架經驗尤佳"
+        },
+        {
+          "children": [],
+          "text": "具CISSP、CCSP、CSSLP、CISM、CISA、CEH、CPENT、ECIH、CHFI、CSA、CTIA、 ISO27001/BS10012 LA等資安證照尤佳"
+        },
+        {
+          "children": [],
+          "text": "具良好溝通能力與跨組織協作經驗。"
+        }
+      ],
+      "text": "【工作內容】\n1、資安政策與治理架構規劃\n2、資安風險管理與合規審查\n3、新興科技資安治理\n4、事故應變與資安意識推廣\n【資格條件】\n1.資訊安全管理相關工作經驗5年以上，有金融業相關資安工作經驗尤佳\n2.具導入、維護ISMS、NIST CSF、NIST AI RMF、CSA CCM等資安管理框架經驗尤佳\n3.具CISSP、CCSP、CSSLP、CISM、CISA、CEH、CPENT、ECIH、CHFI、CSA、CTIA、 ISO27001/BS10012 LA等資安證照尤佳\n4.具良好溝通能力與跨組織協作經驗。"
+    },
+    "employment_type_raw": "全職",
+    "title": "〔金控〕資訊安全治理師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區舊宗路二段207號",
+    "raw": "台北市內湖區舊宗路二段207號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 84
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:48:47+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1、資安政策與治理架構規劃\n2、資安風險管理與合規審查\n3、新興科技資安治理\n4、事故應變與資安意識推廣\n【資格條件】\n1.資訊安全管理相關工作經驗5年以上，有金融業相關資安工作經驗尤佳\n2.具導入、維護ISMS、NIST CSF、NIST AI RMF、CSA CCM等資安管理框架經驗尤佳\n3.具CISSP、CCSP、CSSLP、CISM、CISA、CEH、CPENT、ECIH、CHFI、CSA、CTIA、 ISO27001/BS10012 LA等資安證照尤佳\n4.具良好溝通能力與跨組織協作經驗。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "網路安全分析師",
+            "資安主管",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "網路安全分析師、資安主管、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區舊宗路二段207號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1、資安政策與治理架構規劃\n2、資安風險管理與合規審查\n3、新興科技資安治理\n4、事故應變與資安意識推廣\n【資格條件】\n1.資訊安全管理相關工作經驗5年以上，有金融業相關資安工作經驗尤佳\n2.具導入、維護ISMS、NIST CSF、NIST AI RMF、CSA CCM等資安管理框架經驗尤佳\n3.具CISSP、CCSP、CSSLP、CISM、CISA、CEH、CPENT、ECIH、CHFI、CSA、CTIA、 ISO27001/BS10012 LA等資安證照尤佳\n4.具良好溝通能力與跨組織協作經驗。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7wn4s",
+    "job_url": "https://www.104.com.tw/job/7wn4s",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7wn4s.json",
+    "raw_sha256": "e57c3cfe2d9b25788340e27dda13f95b331b075173c237800ab35d0f7936e025",
+    "requested_url": "https://www.104.com.tw/api/jobs/7wn4s"
+  }
+}

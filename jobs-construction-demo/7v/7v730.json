@@ -1,0 +1,260 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "以機器學習、深度學習、統計與作業研究等技術，分析內外部客戶資料，提供合適的解決方案"
+        },
+        {
+          "children": [],
+          "text": "研究與開發人工智慧之演算法、應用和服務"
+        },
+        {
+          "children": [],
+          "text": "設計、協助及管理資料分析及最佳化專案、培訓等業務推動"
+        },
+        {
+          "children": [],
+          "text": "參與Smart Design, Smart Manufacturing/智慧製造, 節能最佳化等產業轉型專案。"
+        },
+        {
+          "children": [],
+          "text": "Smart Design"
+        },
+        {
+          "children": [],
+          "text": "PCB layout optimization"
+        },
+        {
+          "children": [],
+          "text": "Carrier Design"
+        },
+        {
+          "children": [],
+          "text": "Simulation Automation"
+        },
+        {
+          "children": [],
+          "text": "Design Parameter Optimization"
+        },
+        {
+          "children": [],
+          "text": "Smart Manufacturing"
+        },
+        {
+          "children": [],
+          "text": "Image Processing"
+        },
+        {
+          "children": [],
+          "text": "Visual Positioning"
+        },
+        {
+          "children": [],
+          "text": "LLM-based Application"
+        },
+        {
+          "children": [],
+          "text": "Digital Twin Simulation"
+        },
+        {
+          "children": [],
+          "text": "Path planning"
+        },
+        {
+          "children": [],
+          "text": "Machine Parameter Optimization"
+        },
+        {
+          "children": [],
+          "text": "Factory Layout/Logistic Optimization"
+        },
+        {
+          "children": [],
+          "text": "Energy Saving"
+        },
+        {
+          "children": [],
+          "text": "Time Series Analysis"
+        },
+        {
+          "children": [],
+          "text": "Cooling Strategy Optimization"
+        }
+      ],
+      "text": "「台達研究院」(Delta Research Center, DRC)成立於2013年，為台達集團總部研發單位，除致力於大數據分析及物聯網應用與解決方案的開發與整合，加速企業轉型成功，也積極與產官學研生態體系協作，以開放創新模式，創造多贏生態圈。2022年台達研究院進入下一階段，專注於研發台達下下世代(next-next-generation)產品或解決方案之前瞻技術。\n在「台達研究院」之下，團隊專注在模擬最佳化、機器人演算法、數位孿生建模與應用，發展具商業價值的AI應用與解決方案。\n本職缺主要工作內容:\n1. 以機器學習、深度學習、統計與作業研究等技術，分析內外部客戶資料，提供合適的解決方案\n2. 研究與開發人工智慧之演算法、應用和服務\n3. 設計、協助及管理資料分析及最佳化專案、培訓等業務推動\n4. 參與Smart Design, Smart Manufacturing/智慧製造, 節能最佳化等產業轉型專案。\n你/妳將會應用資料分析技術於以下3個類別的問題\n1. Smart Design\n* PCB layout optimization\n* Carrier Design\n* Simulation Automation\n* Design Parameter Optimization\n2. Smart Manufacturing\n* Image Processing\n* Visual Positioning\n* LLM-based Application\n* Digital Twin Simulation\n* Path planning\n* Machine Parameter Optimization\n* Factory Layout/Logistic Optimization\n3. Energy Saving\n* Time Series Analysis\n* Cooling Strategy Optimization"
+    },
+    "employment_type_raw": "全職",
+    "title": "人工智慧資料科學家/AI Data Scientist_台達研究院(台北)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號",
+    "raw": "台北市內湖區瑞光路186號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、工程學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、精通、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、精通、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 電機/資工/資管/機械/數學/統計/工工，具機器學習、深度學習或資料分析背景等相關系所\n2. 熟悉以下至少一種資料分析語言：Python, Java, R, Matlab, Scala, C/C++\n3. 熟悉至少一種機器學習或資料分析工具或套件：Scikit-learn, PyTorch, Tensorflow, Keras, OpenCV等\n4. 具備程式開發熱忱與積極性，善於溝通協調與團隊合作精神並能獨立解決問題\n5. 具以下任一經歷尤佳：製造業實務經驗、專案管理經驗、軟體開發經驗\n6. 投遞履歷須檢附大學及研究所成績單"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、精通、中等"
+    ],
+    "majors": [
+      "數學及電算機科學學科類",
+      "工程學科類"
+    ],
+    "other_text": "1. 電機/資工/資管/機械/數學/統計/工工，具機器學習、深度學習或資料分析背景等相關系所\n2. 熟悉以下至少一種資料分析語言：Python, Java, R, Matlab, Scala, C/C++\n3. 熟悉至少一種機器學習或資料分析工具或套件：Scikit-learn, PyTorch, Tensorflow, Keras, OpenCV等\n4. 具備程式開發熱忱與積極性，善於溝通協調與團隊合作精神並能獨立解決問題\n5. 具以下任一經歷尤佳：製造業實務經驗、專案管理經驗、軟體開發經驗\n6. 投遞履歷須檢附大學及研究所成績單",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：數學及電算機科學學科類、工程學科類\n語文條件：英文：中等、中等、精通、中等\n其他條件：1. 電機/資工/資管/機械/數學/統計/工工，具機器學習、深度學習或資料分析背景等相關系所\n2. 熟悉以下至少一種資料分析語言：Python, Java, R, Matlab, Scala, C/C++\n3. 熟悉至少一種機器學習或資料分析工具或套件：Scikit-learn, PyTorch, Tensorflow, Keras, OpenCV等\n4. 具備程式開發熱忱與積極性，善於溝通協調與團隊合作精神並能獨立解決問題\n5. 具以下任一經歷尤佳：製造業實務經驗、專案管理經驗、軟體開發經驗\n6. 投遞履歷須檢附大學及研究所成績單",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 71
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:16:58+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "「台達研究院」(Delta Research Center, DRC)成立於2013年，為台達集團總部研發單位，除致力於大數據分析及物聯網應用與解決方案的開發與整合，加速企業轉型成功，也積極與產官學研生態體系協作，以開放創新模式，創造多贏生態圈。2022年台達研究院進入下一階段，專注於研發台達下下世代(next-next-generation)產品或解決方案之前瞻技術。\n在「台達研究院」之下，團隊專注在模擬最佳化、機器人演算法、數位孿生建模與應用，發展具商業價值的AI應用與解決方案。\n本職缺主要工作內容:\n1. 以機器學習、深度學習、統計與作業研究等技術，分析內外部客戶資料，提供合適的解決方案\n2. 研究與開發人工智慧之演算法、應用和服務\n3. 設計、協助及管理資料分析及最佳化專案、培訓等業務推動\n4. 參與Smart Design, Smart Manufacturing/智慧製造, 節能最佳化等產業轉型專案。\n你/妳將會應用資料分析技術於以下3個類別的問題\n1. Smart Design\n* PCB layout optimization\n* Carrier Design\n* Simulation Automation\n* Design Parameter Optimization\n2. Smart Manufacturing\n* Image Processing\n* Visual Positioning\n* LLM-based Application\n* Digital Twin Simulation\n* Path planning\n* Machine Parameter Optimization\n* Factory Layout/Logistic Optimization\n3. Energy Saving\n* Time Series Analysis\n* Cooling Strategy Optimization",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "「台達研究院」(Delta Research Center, DRC)成立於2013年，為台達集團總部研發單位，除致力於大數據分析及物聯網應用與解決方案的開發與整合，加速企業轉型成功，也積極與產官學研生態體系協作，以開放創新模式，創造多贏生態圈。2022年台達研究院進入下一階段，專注於研發台達下下世代(next-next-generation)產品或解決方案之前瞻技術。\n在「台達研究院」之下，團隊專注在模擬最佳化、機器人演算法、數位孿生建模與應用，發展具商業價值的AI應用與解決方案。\n本職缺主要工作內容:\n1. 以機器學習、深度學習、統計與作業研究等技術，分析內外部客戶資料，提供合適的解決方案\n2. 研究與開發人工智慧之演算法、應用和服務\n3. 設計、協助及管理資料分析及最佳化專案、培訓等業務推動\n4. 參與Smart Design, Smart Manufacturing/智慧製造, 節能最佳化等產業轉型專案。\n你/妳將會應用資料分析技術於以下3個類別的問題\n1. Smart Design\n* PCB layout optimization\n* Carrier Design\n* Simulation Automation\n* Design Parameter Optimization\n2. Smart Manufacturing\n* Image Processing\n* Visual Positioning\n* LLM-based Application\n* Digital Twin Simulation\n* Path planning\n* Machine Parameter Optimization\n* Factory Layout/Logistic Optimization\n3. Energy Saving\n* Time Series Analysis\n* Cooling Strategy Optimization"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、精通、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、精通、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 電機/資工/資管/機械/數學/統計/工工，具機器學習、深度學習或資料分析背景等相關系所\n2. 熟悉以下至少一種資料分析語言：Python, Java, R, Matlab, Scala, C/C++\n3. 熟悉至少一種機器學習或資料分析工具或套件：Scikit-learn, PyTorch, Tensorflow, Keras, OpenCV等\n4. 具備程式開發熱忱與積極性，善於溝通協調與團隊合作精神並能獨立解決問題\n5. 具以下任一經歷尤佳：製造業實務經驗、專案管理經驗、軟體開發經驗\n6. 投遞履歷須檢附大學及研究所成績單",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：數學及電算機科學學科類、工程學科類\n語文條件：英文：中等、中等、精通、中等\n其他條件：1. 電機/資工/資管/機械/數學/統計/工工，具機器學習、深度學習或資料分析背景等相關系所\n2. 熟悉以下至少一種資料分析語言：Python, Java, R, Matlab, Scala, C/C++\n3. 熟悉至少一種機器學習或資料分析工具或套件：Scikit-learn, PyTorch, Tensorflow, Keras, OpenCV等\n4. 具備程式開發熱忱與積極性，善於溝通協調與團隊合作精神並能獨立解決問題\n5. 具以下任一經歷尤佳：製造業實務經驗、專案管理經驗、軟體開發經驗\n6. 投遞履歷須檢附大學及研究所成績單"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7v730",
+    "job_url": "https://www.104.com.tw/job/7v730",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7v730.json",
+    "raw_sha256": "8815b0bc390dec14048b6c7ec22864a00de9cf44b18cab942e2be8f1b96d551a",
+    "requested_url": "https://www.104.com.tw/api/jobs/7v730"
+  }
+}

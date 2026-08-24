@@ -1,0 +1,272 @@
+{
+  "company": {
+    "id": "au3pjdk",
+    "name": "毅嘉科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "員工持股信託: 加入滿半年，不論職級皆可參加，與公司一同成長！"
+        },
+        {
+          "children": [],
+          "text": "獎金制度：年中按績效及公司營運狀況發放獎金＋年終獎金"
+        },
+        {
+          "children": [],
+          "text": "員工專屬免費健身房、游泳池、瑜珈教室、撞球、桌球桌等"
+        },
+        {
+          "children": [],
+          "text": "午餐自付25元享自助餐吃到飽，晚上加班餐免費！"
+        },
+        {
+          "children": [],
+          "text": "免費地下停車場(機車免費，汽車500元/月)"
+        },
+        {
+          "children": [],
+          "text": "公司宿舍就在公司正隔壁，走路1分鐘即抵達"
+        },
+        {
+          "children": [],
+          "text": "團體保險"
+        },
+        {
+          "children": [],
+          "text": "開發與維護 產線自動化檢測上位機軟體。"
+        },
+        {
+          "children": [],
+          "text": "訓練、優化並部署電腦視覺影像演算法用於邊緣裝置（如 NPU / MCU）。"
+        },
+        {
+          "children": [],
+          "text": "整合 Camera Sensor與 ISP pipeline，實現即時影像分析功能。"
+        },
+        {
+          "children": [],
+          "text": "撰寫影像前處理 / 資料標註 / 測試等工作。"
+        },
+        {
+          "children": [],
+          "text": "協同硬體與嵌入式韌體。"
+        }
+      ],
+      "text": "優渥獎金福利制度：\n1.員工持股信託: 加入滿半年，不論職級皆可參加，與公司一同成長！\n2.獎金制度：年中按績效及公司營運狀況發放獎金＋年終獎金\n3.員工專屬免費健身房、游泳池、瑜珈教室、撞球、桌球桌等\n4.午餐自付25元享自助餐吃到飽，晚上加班餐免費！\n5.免費地下停車場(機車免費，汽車500元/月)\n6.公司宿舍就在公司正隔壁，走路1分鐘即抵達\n7.團體保險\n【工作內容】\n1.開發與維護 產線自動化檢測上位機軟體。\n2.訓練、優化並部署電腦視覺影像演算法用於邊緣裝置（如 NPU / MCU）。\n3.整合 Camera Sensor與 ISP pipeline，實現即時影像分析功能。\n4.撰寫影像前處理 / 資料標註 / 測試等工作。\n5.協同硬體與嵌入式韌體。"
+    },
+    "employment_type_raw": "全職",
+    "title": "車用/機器人/無人機 軟體工程師/25C006"
+  },
+  "location": {
+    "address_raw": "桃園市龜山區華亞二路268號",
+    "raw": "桃園市龜山區華亞二路268號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C++",
+          "Python",
+          "tensorflow",
+          "PyTorch"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Python、tensorflow、PyTorch"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.資訊、電子、電機、影像處理相關科系,大學以上學歷\n2.熟悉 Python / C++，具備 TensorFlow、PyTorch、OpenCV 等開發經驗。\n3.熟悉影像分類、物件偵測（YOLO/SSD）、姿態估測等 AI 演算法。\n4.熟悉 AI 模型部署技術（如 TFLite、ONNX、NPU 編譯工具）。\n5.具備邊緣裝置部署經驗（如 ARM Cortex-M / Cortex-A、NXP、NUC）。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.資訊、電子、電機、影像處理相關科系,大學以上學歷\n2.熟悉 Python / C++，具備 TensorFlow、PyTorch、OpenCV 等開發經驗。\n3.熟悉影像分類、物件偵測（YOLO/SSD）、姿態估測等 AI 演算法。\n4.熟悉 AI 模型部署技術（如 TFLite、ONNX、NPU 編譯工具）。\n5.具備邊緣裝置部署經驗（如 ARM Cortex-M / Cortex-A、NXP、NUC）。",
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Python、tensorflow、PyTorch\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：1.資訊、電子、電機、影像處理相關科系,大學以上學歷\n2.熟悉 Python / C++，具備 TensorFlow、PyTorch、OpenCV 等開發經驗。\n3.熟悉影像分類、物件偵測（YOLO/SSD）、姿態估測等 AI 演算法。\n4.熟悉 AI 模型部署技術（如 TFLite、ONNX、NPU 編譯工具）。\n5.具備邊緣裝置部署經驗（如 ARM Cortex-M / Cortex-A、NXP、NUC）。",
+    "tools": [
+      "C++",
+      "Python",
+      "tensorflow",
+      "PyTorch"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 54
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:35:33+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "優渥獎金福利制度：\n1.員工持股信託: 加入滿半年，不論職級皆可參加，與公司一同成長！\n2.獎金制度：年中按績效及公司營運狀況發放獎金＋年終獎金\n3.員工專屬免費健身房、游泳池、瑜珈教室、撞球、桌球桌等\n4.午餐自付25元享自助餐吃到飽，晚上加班餐免費！\n5.免費地下停車場(機車免費，汽車500元/月)\n6.公司宿舍就在公司正隔壁，走路1分鐘即抵達\n7.團體保險\n【工作內容】\n1.開發與維護 產線自動化檢測上位機軟體。\n2.訓練、優化並部署電腦視覺影像演算法用於邊緣裝置（如 NPU / MCU）。\n3.整合 Camera Sensor與 ISP pipeline，實現即時影像分析功能。\n4.撰寫影像前處理 / 資料標註 / 測試等工作。\n5.協同硬體與嵌入式韌體。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市龜山區華亞二路268號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "優渥獎金福利制度：\n1.員工持股信託: 加入滿半年，不論職級皆可參加，與公司一同成長！\n2.獎金制度：年中按績效及公司營運狀況發放獎金＋年終獎金\n3.員工專屬免費健身房、游泳池、瑜珈教室、撞球、桌球桌等\n4.午餐自付25元享自助餐吃到飽，晚上加班餐免費！\n5.免費地下停車場(機車免費，汽車500元/月)\n6.公司宿舍就在公司正隔壁，走路1分鐘即抵達\n7.團體保險\n【工作內容】\n1.開發與維護 產線自動化檢測上位機軟體。\n2.訓練、優化並部署電腦視覺影像演算法用於邊緣裝置（如 NPU / MCU）。\n3.整合 Camera Sensor與 ISP pipeline，實現即時影像分析功能。\n4.撰寫影像前處理 / 資料標註 / 測試等工作。\n5.協同硬體與嵌入式韌體。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Python",
+            "tensorflow",
+            "PyTorch"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Python、tensorflow、PyTorch",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.資訊、電子、電機、影像處理相關科系,大學以上學歷\n2.熟悉 Python / C++，具備 TensorFlow、PyTorch、OpenCV 等開發經驗。\n3.熟悉影像分類、物件偵測（YOLO/SSD）、姿態估測等 AI 演算法。\n4.熟悉 AI 模型部署技術（如 TFLite、ONNX、NPU 編譯工具）。\n5.具備邊緣裝置部署經驗（如 ARM Cortex-M / Cortex-A、NXP、NUC）。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Python、tensorflow、PyTorch\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：1.資訊、電子、電機、影像處理相關科系,大學以上學歷\n2.熟悉 Python / C++，具備 TensorFlow、PyTorch、OpenCV 等開發經驗。\n3.熟悉影像分類、物件偵測（YOLO/SSD）、姿態估測等 AI 演算法。\n4.熟悉 AI 模型部署技術（如 TFLite、ONNX、NPU 編譯工具）。\n5.具備邊緣裝置部署經驗（如 ARM Cortex-M / Cortex-A、NXP、NUC）。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8tf7t",
+    "job_url": "https://www.104.com.tw/job/8tf7t",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8tf7t.json",
+    "raw_sha256": "be49ee5b02ffe7b43a230134d587165ea7199557f7e89ff029f59a92be001635",
+    "requested_url": "https://www.104.com.tw/api/jobs/8tf7t"
+  }
+}

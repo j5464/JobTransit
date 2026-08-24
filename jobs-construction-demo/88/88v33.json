@@ -1,0 +1,217 @@
+{
+  "company": {
+    "id": "1a2x6bmtht",
+    "name": "千逢科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料科學家",
+      "演算法工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "Job Title: Generative AI Models Optimization Engineer - NPU Hardware\nJob Description:\nOverview:\nWe are seeking a skilled and innovative Generative AI Models Optimization Engineer to join our dynamic team. In this role, you will be responsible for developing and optimizing generative AI models specifically tailored for Neural Processing Unit (NPU) hardware. As a key member of our AI research and development team, you will play a crucial role in advancing the efficiency and performance of our cutting-edge AI applications.\nResponsibilities:\nGenerative AI Model Development:\nDesign, implement, and optimize generative AI models for deployment on NPU hardware.\nCollaborate with cross-functional teams to understand application requirements and tailor models for specific use cases.\nNPU Hardware Optimization:\nAnalyze and profile NPU hardware architecture to identify optimization opportunities.\nImplement and fine-tune algorithms to maximize performance and minimize resource utilization on NPUs.\nPerformance Evaluation:\nConduct rigorous testing and performance evaluations to ensure generative AI models meet quality standards and deliver optimal results on NPU hardware.\nCollaborate with QA teams to establish benchmarking criteria and validate model performance across various scenarios.\nAlgorithmic Efficiency:\nWork on enhancing algorithmic efficiency to ensure that generative AI models are capable of real-time generation while maintaining high-quality outputs.\nImplement and experiment with state-of-the-art techniques for model compression and quantization.\nCollaboration:\nCollaborate with hardware engineers, software developers, and researchers to integrate optimized models into end-to-end AI systems.\nProvide technical expertise and guidance to cross-functional teams.\nDocumentation:\nDocument optimization methodologies, best practices, and performance results.\nCreate clear and comprehensive documentation for both technical and non-technical stakeholders.\nQualifications:\nMaster's or Ph.D. in Computer Science, Electrical Engineering, or a related field.\nProven experience in developing and optimizing generative AI models.\nSolid understanding of Neural Processing Unit (NPU) architecture and hardware constraints.\nProficiency in programming languages such as Python, TensorFlow, PyTorch, or C++.\nExperience with model compression, quantization, and other optimization techniques.\nStrong problem-solving skills and the ability to work in a collaborative team environment.\nPreferred Skills:\nFamiliarity with deep learning frameworks and libraries.\nKnowledge of hardware acceleration technologies and frameworks.\nExperience with parallel computing and distributed systems.\nPrevious work on AI applications in computer vision, natural language processing, or speech recognition is a plus.\nIf you are passionate about pushing the boundaries of AI optimization on NPU hardware and want to be part of a team driving innovation, we encourage you to apply. Join us in shaping the future of generative AI applications."
+    },
+    "employment_type_raw": "全職",
+    "title": "Generative AI Models Optimization"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市",
+    "raw": "新竹縣竹北市"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "應用數學相關",
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "應用數學相關、資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Python"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "結構化程式設計",
+          "模組化系統設計",
+          "Machine Learning",
+          "資料庫程式設計",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、結構化程式設計、模組化系統設計、Machine Learning、資料庫程式設計、資料庫軟體應用"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "應用數學相關",
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "結構化程式設計",
+      "模組化系統設計",
+      "Machine Learning",
+      "資料庫程式設計",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：應用數學相關、資訊工程相關、其他數學及電算機科學相關\n擅長工具：C++、Python\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、結構化程式設計、模組化系統設計、Machine Learning、資料庫程式設計、資料庫軟體應用",
+    "tools": [
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 72
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:18:42+08:00"
+  },
+  "salary": {
+    "raw": "月薪80,000~250,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Job Title: Generative AI Models Optimization Engineer - NPU Hardware\nJob Description:\nOverview:\nWe are seeking a skilled and innovative Generative AI Models Optimization Engineer to join our dynamic team. In this role, you will be responsible for developing and optimizing generative AI models specifically tailored for Neural Processing Unit (NPU) hardware. As a key member of our AI research and development team, you will play a crucial role in advancing the efficiency and performance of our cutting-edge AI applications.\nResponsibilities:\nGenerative AI Model Development:\nDesign, implement, and optimize generative AI models for deployment on NPU hardware.\nCollaborate with cross-functional teams to understand application requirements and tailor models for specific use cases.\nNPU Hardware Optimization:\nAnalyze and profile NPU hardware architecture to identify optimization opportunities.\nImplement and fine-tune algorithms to maximize performance and minimize resource utilization on NPUs.\nPerformance Evaluation:\nConduct rigorous testing and performance evaluations to ensure generative AI models meet quality standards and deliver optimal results on NPU hardware.\nCollaborate with QA teams to establish benchmarking criteria and validate model performance across various scenarios.\nAlgorithmic Efficiency:\nWork on enhancing algorithmic efficiency to ensure that generative AI models are capable of real-time generation while maintaining high-quality outputs.\nImplement and experiment with state-of-the-art techniques for model compression and quantization.\nCollaboration:\nCollaborate with hardware engineers, software developers, and researchers to integrate optimized models into end-to-end AI systems.\nProvide technical expertise and guidance to cross-functional teams.\nDocumentation:\nDocument optimization methodologies, best practices, and performance results.\nCreate clear and comprehensive documentation for both technical and non-technical stakeholders.\nQualifications:\nMaster's or Ph.D. in Computer Science, Electrical Engineering, or a related field.\nProven experience in developing and optimizing generative AI models.\nSolid understanding of Neural Processing Unit (NPU) architecture and hardware constraints.\nProficiency in programming languages such as Python, TensorFlow, PyTorch, or C++.\nExperience with model compression, quantization, and other optimization techniques.\nStrong problem-solving skills and the ability to work in a collaborative team environment.\nPreferred Skills:\nFamiliarity with deep learning frameworks and libraries.\nKnowledge of hardware acceleration technologies and frameworks.\nExperience with parallel computing and distributed systems.\nPrevious work on AI applications in computer vision, natural language processing, or speech recognition is a plus.\nIf you are passionate about pushing the boundaries of AI optimization on NPU hardware and want to be part of a team driving innovation, we encourage you to apply. Join us in shaping the future of generative AI applications.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料科學家",
+            "演算法工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料科學家、演算法工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪80,000~250,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Job Title: Generative AI Models Optimization Engineer - NPU Hardware\nJob Description:\nOverview:\nWe are seeking a skilled and innovative Generative AI Models Optimization Engineer to join our dynamic team. In this role, you will be responsible for developing and optimizing generative AI models specifically tailored for Neural Processing Unit (NPU) hardware. As a key member of our AI research and development team, you will play a crucial role in advancing the efficiency and performance of our cutting-edge AI applications.\nResponsibilities:\nGenerative AI Model Development:\nDesign, implement, and optimize generative AI models for deployment on NPU hardware.\nCollaborate with cross-functional teams to understand application requirements and tailor models for specific use cases.\nNPU Hardware Optimization:\nAnalyze and profile NPU hardware architecture to identify optimization opportunities.\nImplement and fine-tune algorithms to maximize performance and minimize resource utilization on NPUs.\nPerformance Evaluation:\nConduct rigorous testing and performance evaluations to ensure generative AI models meet quality standards and deliver optimal results on NPU hardware.\nCollaborate with QA teams to establish benchmarking criteria and validate model performance across various scenarios.\nAlgorithmic Efficiency:\nWork on enhancing algorithmic efficiency to ensure that generative AI models are capable of real-time generation while maintaining high-quality outputs.\nImplement and experiment with state-of-the-art techniques for model compression and quantization.\nCollaboration:\nCollaborate with hardware engineers, software developers, and researchers to integrate optimized models into end-to-end AI systems.\nProvide technical expertise and guidance to cross-functional teams.\nDocumentation:\nDocument optimization methodologies, best practices, and performance results.\nCreate clear and comprehensive documentation for both technical and non-technical stakeholders.\nQualifications:\nMaster's or Ph.D. in Computer Science, Electrical Engineering, or a related field.\nProven experience in developing and optimizing generative AI models.\nSolid understanding of Neural Processing Unit (NPU) architecture and hardware constraints.\nProficiency in programming languages such as Python, TensorFlow, PyTorch, or C++.\nExperience with model compression, quantization, and other optimization techniques.\nStrong problem-solving skills and the ability to work in a collaborative team environment.\nPreferred Skills:\nFamiliarity with deep learning frameworks and libraries.\nKnowledge of hardware acceleration technologies and frameworks.\nExperience with parallel computing and distributed systems.\nPrevious work on AI applications in computer vision, natural language processing, or speech recognition is a plus.\nIf you are passionate about pushing the boundaries of AI optimization on NPU hardware and want to be part of a team driving innovation, we encourage you to apply. Join us in shaping the future of generative AI applications."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "應用數學相關",
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "應用數學相關、資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "結構化程式設計",
+            "模組化系統設計",
+            "Machine Learning",
+            "資料庫程式設計",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、結構化程式設計、模組化系統設計、Machine Learning、資料庫程式設計、資料庫軟體應用",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：應用數學相關、資訊工程相關、其他數學及電算機科學相關\n擅長工具：C++、Python\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、結構化程式設計、模組化系統設計、Machine Learning、資料庫程式設計、資料庫軟體應用"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "88v33",
+    "job_url": "https://www.104.com.tw/job/88v33",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/88v33.json",
+    "raw_sha256": "f09247124ff2bdb7d82d98a9135462ced5766ebb1ed536ec2da09098e352aeff",
+    "requested_url": "https://www.104.com.tw/api/jobs/88v33"
+  }
+}

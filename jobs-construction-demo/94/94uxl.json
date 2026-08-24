@@ -1,0 +1,229 @@
+{
+  "company": {
+    "id": "1a2x6bippr",
+    "name": "恆勁科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "MIS程式設計師",
+      "軟體工程師",
+      "軟體專案主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "部門溝通協調與專案執行能力，熟悉簽核系統及流程，解決用戶問題；"
+        },
+        {
+          "children": [],
+          "text": "EasyFlow GP電子表單、報表開發與維護；"
+        },
+        {
+          "children": [],
+          "text": "Web系統整合介面開發(ASP.Net, HTML, JavaScript, jQuery, CSS, Web Service)"
+        }
+      ],
+      "text": "1. 部門溝通協調與專案執行能力，熟悉簽核系統及流程，解決用戶問題；\n2. EasyFlow GP電子表單、報表開發與維護；\n3. Web系統整合介面開發(ASP.Net, HTML, JavaScript, jQuery, CSS, Web Service)"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊應用工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣湖口鄉新興路458-17號(位於唐榮科技園區內)",
+    "raw": "新竹縣湖口鄉新興路458-17號(位於唐榮科技園區內)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "ASP.NET",
+          "HTML",
+          "JavaScript",
+          "jQuery",
+          "CSS",
+          "XML Web services"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、ASP.NET、HTML、JavaScript、jQuery、CSS、XML Web services"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 大學以上資訊相關科系畢(歡迎應屆畢業生)\n2. 溝通協調能力佳，積極負責\n3. 表達能力良好，抗壓性高\n實際薪資將依薪資核敘、班別、加班及個人工作表現而定。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "1. 大學以上資訊相關科系畢(歡迎應屆畢業生)\n2. 溝通協調能力佳，積極負責\n3. 表達能力良好，抗壓性高\n實際薪資將依薪資核敘、班別、加班及個人工作表現而定。",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MS SQL、ASP.NET、HTML、JavaScript、jQuery、CSS、XML Web services\n其他條件：1. 大學以上資訊相關科系畢(歡迎應屆畢業生)\n2. 溝通協調能力佳，積極負責\n3. 表達能力良好，抗壓性高\n實際薪資將依薪資核敘、班別、加班及個人工作表現而定。",
+    "tools": [
+      "MS SQL",
+      "ASP.NET",
+      "HTML",
+      "JavaScript",
+      "jQuery",
+      "CSS",
+      "XML Web services"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 60
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:49:21+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 部門溝通協調與專案執行能力，熟悉簽核系統及流程，解決用戶問題；\n2. EasyFlow GP電子表單、報表開發與維護；\n3. Web系統整合介面開發(ASP.Net, HTML, JavaScript, jQuery, CSS, Web Service)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MIS程式設計師",
+            "軟體工程師",
+            "軟體專案主管"
+          ],
+          "label": "職務類別",
+          "text": "MIS程式設計師、軟體工程師、軟體專案主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣湖口鄉新興路458-17號(位於唐榮科技園區內)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 部門溝通協調與專案執行能力，熟悉簽核系統及流程，解決用戶問題；\n2. EasyFlow GP電子表單、報表開發與維護；\n3. Web系統整合介面開發(ASP.Net, HTML, JavaScript, jQuery, CSS, Web Service)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "ASP.NET",
+            "HTML",
+            "JavaScript",
+            "jQuery",
+            "CSS",
+            "XML Web services"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、ASP.NET、HTML、JavaScript、jQuery、CSS、XML Web services",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 大學以上資訊相關科系畢(歡迎應屆畢業生)\n2. 溝通協調能力佳，積極負責\n3. 表達能力良好，抗壓性高\n實際薪資將依薪資核敘、班別、加班及個人工作表現而定。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MS SQL、ASP.NET、HTML、JavaScript、jQuery、CSS、XML Web services\n其他條件：1. 大學以上資訊相關科系畢(歡迎應屆畢業生)\n2. 溝通協調能力佳，積極負責\n3. 表達能力良好，抗壓性高\n實際薪資將依薪資核敘、班別、加班及個人工作表現而定。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94uxl",
+    "job_url": "https://www.104.com.tw/job/94uxl",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94uxl.json",
+    "raw_sha256": "3bfbe6ab670ebab0708eb71a96c74a8a65a7ca4f3bf9e5de80d04eab1ae3d76d",
+    "requested_url": "https://www.104.com.tw/api/jobs/94uxl"
+  }
+}

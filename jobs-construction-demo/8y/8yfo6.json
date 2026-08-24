@@ -1,0 +1,212 @@
+{
+  "company": {
+    "id": "1a2x6bnnpl",
+    "name": "喬富科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發團隊成員們，致力於打造高品質擴充性的電商平台系統，重視團隊成員共同的成長，尋求喜歡團隊合作，共同解決問題的氛圍"
+        },
+        {
+          "children": [],
+          "text": "尋求橫向跨領域能力優質的同事，希望有機會與不同產品，技術同仁合作，致力於提供賣家最好的產品體驗"
+        },
+        {
+          "children": [],
+          "text": "每一位成員都保持著學習新技術的熱情，能夠適應快速變化的環境，並尋求突破"
+        },
+        {
+          "children": [],
+          "text": "負責電商平台程式開發及維護"
+        },
+        {
+          "children": [],
+          "text": "撰寫高品質的軟體程式"
+        },
+        {
+          "children": [],
+          "text": "新技術學習及導入"
+        },
+        {
+          "children": [],
+          "text": "至少具備一種以上語言技能，如：Ruby、Go、Node.js、Python、Java 和學習其他語言的能力"
+        },
+        {
+          "children": [],
+          "text": "可以 multi-tasking，並判斷事情優先級，依序處理現場問題"
+        },
+        {
+          "children": [],
+          "text": "細心且具備良好溝通能力以及團隊合作能力，並有能力獨立解決問題"
+        },
+        {
+          "children": [],
+          "text": "良好的開發習慣、對於技能有專研"
+        },
+        {
+          "children": [],
+          "text": "需基本中英文讀寫能力"
+        },
+        {
+          "children": [],
+          "text": "Ruby on Rails / Golang"
+        },
+        {
+          "children": [],
+          "text": "MongoDB"
+        },
+        {
+          "children": [],
+          "text": "Elastic Search"
+        },
+        {
+          "children": [],
+          "text": "K8S"
+        },
+        {
+          "children": [],
+          "text": "Git"
+        },
+        {
+          "children": [],
+          "text": "AWS"
+        },
+        {
+          "children": [],
+          "text": "Docker"
+        },
+        {
+          "children": [],
+          "text": "Oauth"
+        },
+        {
+          "children": [],
+          "text": "Linux 基本"
+        }
+      ],
+      "text": "喬富科技股份有限公司為 SHOPLINE 商線科技之關係企業，並專注於提供核心產品之技術研發與系統架構，是驅動 SHOPLINE 全通路零售生態圈關鍵的技術引擎。\nSHOPLINE 商線科技成立於 2013 年，是擁有十年以上全通路銷售與管理經驗的全方位零售整合專家，致力為各種規模的品牌提供一站式零售解決方案並實現數位轉型，服務客戶涵蓋大型企業、中小型品牌至個人創業者，是台灣眾多知名品牌選用的零售系統領導服務商，至今已協助全球累計超過 60 萬家品牌成功開店。\n【開發團隊的文化】\n- 開發團隊成員們，致力於打造高品質擴充性的電商平台系統，重視團隊成員共同的成長，尋求喜歡團隊合作，共同解決問題的氛圍\n- 尋求橫向跨領域能力優質的同事，希望有機會與不同產品，技術同仁合作，致力於提供賣家最好的產品體驗\n- 每一位成員都保持著學習新技術的熱情，能夠適應快速變化的環境，並尋求突破\n【What you'll be doing】\n- 負責電商平台程式開發及維護\n- 撰寫高品質的軟體程式\n- 新技術學習及導入\n【Who we are looking for 】\n- 至少具備一種以上語言技能，如：Ruby、Go、Node.js、Python、Java 和學習其他語言的能力\n- 可以 multi-tasking，並判斷事情優先級，依序處理現場問題\n- 細心且具備良好溝通能力以及團隊合作能力，並有能力獨立解決問題\n- 良好的開發習慣、對於技能有專研\n- 需基本中英文讀寫能力\n【Technique you will work with】\n- Ruby on Rails / Golang\n- MongoDB\n- Elastic Search\n- K8S\n- Git\n- AWS\n- Docker\n- Oauth\n- Linux 基本"
+    },
+    "employment_type_raw": "全職",
+    "title": "【TENG0502】Software Engineer (Backend) - Golang / RoR"
+  },
+  "location": {
+    "address_raw": "台北市松山區敦化北路170號10樓A室",
+    "raw": "台北市松山區敦化北路170號10樓A室"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 6
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:34:52+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "喬富科技股份有限公司為 SHOPLINE 商線科技之關係企業，並專注於提供核心產品之技術研發與系統架構，是驅動 SHOPLINE 全通路零售生態圈關鍵的技術引擎。\nSHOPLINE 商線科技成立於 2013 年，是擁有十年以上全通路銷售與管理經驗的全方位零售整合專家，致力為各種規模的品牌提供一站式零售解決方案並實現數位轉型，服務客戶涵蓋大型企業、中小型品牌至個人創業者，是台灣眾多知名品牌選用的零售系統領導服務商，至今已協助全球累計超過 60 萬家品牌成功開店。\n【開發團隊的文化】\n- 開發團隊成員們，致力於打造高品質擴充性的電商平台系統，重視團隊成員共同的成長，尋求喜歡團隊合作，共同解決問題的氛圍\n- 尋求橫向跨領域能力優質的同事，希望有機會與不同產品，技術同仁合作，致力於提供賣家最好的產品體驗\n- 每一位成員都保持著學習新技術的熱情，能夠適應快速變化的環境，並尋求突破\n【What you'll be doing】\n- 負責電商平台程式開發及維護\n- 撰寫高品質的軟體程式\n- 新技術學習及導入\n【Who we are looking for 】\n- 至少具備一種以上語言技能，如：Ruby、Go、Node.js、Python、Java 和學習其他語言的能力\n- 可以 multi-tasking，並判斷事情優先級，依序處理現場問題\n- 細心且具備良好溝通能力以及團隊合作能力，並有能力獨立解決問題\n- 良好的開發習慣、對於技能有專研\n- 需基本中英文讀寫能力\n【Technique you will work with】\n- Ruby on Rails / Golang\n- MongoDB\n- Elastic Search\n- K8S\n- Git\n- AWS\n- Docker\n- Oauth\n- Linux 基本",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區敦化北路170號10樓A室",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "喬富科技股份有限公司為 SHOPLINE 商線科技之關係企業，並專注於提供核心產品之技術研發與系統架構，是驅動 SHOPLINE 全通路零售生態圈關鍵的技術引擎。\nSHOPLINE 商線科技成立於 2013 年，是擁有十年以上全通路銷售與管理經驗的全方位零售整合專家，致力為各種規模的品牌提供一站式零售解決方案並實現數位轉型，服務客戶涵蓋大型企業、中小型品牌至個人創業者，是台灣眾多知名品牌選用的零售系統領導服務商，至今已協助全球累計超過 60 萬家品牌成功開店。\n【開發團隊的文化】\n- 開發團隊成員們，致力於打造高品質擴充性的電商平台系統，重視團隊成員共同的成長，尋求喜歡團隊合作，共同解決問題的氛圍\n- 尋求橫向跨領域能力優質的同事，希望有機會與不同產品，技術同仁合作，致力於提供賣家最好的產品體驗\n- 每一位成員都保持著學習新技術的熱情，能夠適應快速變化的環境，並尋求突破\n【What you'll be doing】\n- 負責電商平台程式開發及維護\n- 撰寫高品質的軟體程式\n- 新技術學習及導入\n【Who we are looking for 】\n- 至少具備一種以上語言技能，如：Ruby、Go、Node.js、Python、Java 和學習其他語言的能力\n- 可以 multi-tasking，並判斷事情優先級，依序處理現場問題\n- 細心且具備良好溝通能力以及團隊合作能力，並有能力獨立解決問題\n- 良好的開發習慣、對於技能有專研\n- 需基本中英文讀寫能力\n【Technique you will work with】\n- Ruby on Rails / Golang\n- MongoDB\n- Elastic Search\n- K8S\n- Git\n- AWS\n- Docker\n- Oauth\n- Linux 基本"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8yfo6",
+    "job_url": "https://www.104.com.tw/job/8yfo6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8yfo6.json",
+    "raw_sha256": "28cd0e48788454742785d6f6e19833234ecd876f58c57c3ba889eff954a67d9b",
+    "requested_url": "https://www.104.com.tw/api/jobs/8yfo6"
+  }
+}

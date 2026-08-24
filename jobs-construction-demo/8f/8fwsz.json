@@ -1,0 +1,240 @@
+{
+  "company": {
+    "id": "1a2x6bn2ab",
+    "name": "狄泰有限公司"
+  },
+  "job": {
+    "categories": [
+      "雲端工程師",
+      "DevOps 工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "基礎設施部署與管理："
+        },
+        {
+          "children": [],
+          "text": "1 利用 IaC 工具實踐基礎設施的自動化部署與版本控制"
+        },
+        {
+          "children": [],
+          "text": "2 建置與管理 Docker / K8s 容器編排環境"
+        },
+        {
+          "children": [],
+          "text": "3 規劃雲端資源配置，確保架構具備高可用性"
+        },
+        {
+          "children": [],
+          "text": "網路與安全架構："
+        },
+        {
+          "children": [],
+          "text": "1 設計雲端網路架構，包括 VPC、Load Balancers 和 CDN 配置"
+        },
+        {
+          "children": [],
+          "text": "2 管理 IAM 政策、角色和權限，確保雲端存取安全"
+        },
+        {
+          "children": [],
+          "text": "3 實施防火牆規則配置，確保雲端環境安全合規"
+        },
+        {
+          "children": [],
+          "text": "監控與維運："
+        },
+        {
+          "children": [],
+          "text": "1 建置系統監控與警報機制，即時掌握服務狀態"
+        },
+        {
+          "children": [],
+          "text": "2 監控與分析雲端使用數據報告，提出優化策略"
+        },
+        {
+          "children": [],
+          "text": "3 規劃備份與災難恢復機制"
+        },
+        {
+          "children": [],
+          "text": "經驗"
+        },
+        {
+          "children": [],
+          "text": "1 兩年以上開發、維運或網管實務經驗"
+        },
+        {
+          "children": [],
+          "text": "2 具備 AWS, GCP 或 Azure 實務操作經驗"
+        },
+        {
+          "children": [],
+          "text": "3 具備 CI/CD 工具建置與維運經驗"
+        },
+        {
+          "children": [],
+          "text": "1 熟悉 AWS, GCP 或 Azure 至少一種平台的核心服務、計費模式與最佳實踐"
+        },
+        {
+          "children": [],
+          "text": "2 理解雲端網路協定與架構"
+        },
+        {
+          "children": [],
+          "text": "3 熟悉資安配置，包含 IAM 權限控管、KMS 加密、防火牆與 Security Group 設定"
+        },
+        {
+          "children": [],
+          "text": "4 熟悉 CLI 工具、Docker、K8s 操作，並能撰寫 Python 或 Bash"
+        },
+        {
+          "children": [],
+          "text": "5 熟悉 Linux、Windows 系統環境與 Git 版控"
+        },
+        {
+          "children": [],
+          "text": "對配置與部署流程的細節具備高敏感度"
+        },
+        {
+          "children": [],
+          "text": "追求 CI/CD 管線、laC 的高穩定性與精準度，能系統性地預測並排除潛在故障風險"
+        },
+        {
+          "children": [],
+          "text": "具備耐心與嚴謹的驗證思維，能針對複雜環境進行徹底測試"
+        },
+        {
+          "children": [],
+          "text": "曾獨立完成 Infra 建置與部署 (CI/CD)"
+        },
+        {
+          "children": [],
+          "text": "具備 Service Mesh 使用經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Helm 或 Kustomize 等 K8s 部署管理工具"
+        }
+      ],
+      "text": "此職位負責設計、部署、維護和優化企業的雲端基礎設施和服務，確保雲端環境的高可靠性、安全性、擴展性與成本效益。\n【核心職責】\n1. 基礎設施部署與管理：\n1.1 利用 IaC 工具實踐基礎設施的自動化部署與版本控制\n1.2 建置與管理 Docker / K8s 容器編排環境\n1.3 規劃雲端資源配置，確保架構具備高可用性\n2. 網路與安全架構：\n2.1 設計雲端網路架構，包括 VPC、Load Balancers 和 CDN 配置\n2.2 管理 IAM 政策、角色和權限，確保雲端存取安全\n2.3 實施防火牆規則配置，確保雲端環境安全合規\n3. 監控與維運：\n3.1 建置系統監控與警報機制，即時掌握服務狀態\n3.2 監控與分析雲端使用數據報告，提出優化策略\n3.3 規劃備份與災難恢復機制\n【基本條件】\n1. 經驗\n1.1 兩年以上開發、維運或網管實務經驗\n1.2 具備 AWS, GCP 或 Azure 實務操作經驗\n1.3 具備 CI/CD 工具建置與維運經驗\n2 知識工具\n2.1 熟悉 AWS, GCP 或 Azure 至少一種平台的核心服務、計費模式與最佳實踐\n2.2 理解雲端網路協定與架構\n2.3 熟悉資安配置，包含 IAM 權限控管、KMS 加密、防火牆與 Security Group 設定\n2.4 熟悉 CLI 工具、Docker、K8s 操作，並能撰寫 Python 或 Bash\n2.5 熟悉 Linux、Windows 系統環境與 Git 版控\n【期望您的工作方式】\n1. 對配置與部署流程的細節具備高敏感度\n2. 追求 CI/CD 管線、laC 的高穩定性與精準度，能系統性地預測並排除潛在故障風險\n3. 具備耐心與嚴謹的驗證思維，能針對複雜環境進行徹底測試\n【加分條件】\n1. 曾獨立完成 Infra 建置與部署 (CI/CD)\n2. 具備 Service Mesh 使用經驗\n3. 熟悉 Helm 或 Kustomize 等 K8s 部署管理工具"
+    },
+    "employment_type_raw": "全職",
+    "title": "DevOps 工程師"
+  },
+  "location": {
+    "address_raw": "台中市西屯區文心路二段201號11樓之7",
+    "raw": "台中市西屯區文心路二段201號11樓之7"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：專科、大學",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 45
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:12:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "此職位負責設計、部署、維護和優化企業的雲端基礎設施和服務，確保雲端環境的高可靠性、安全性、擴展性與成本效益。\n【核心職責】\n1. 基礎設施部署與管理：\n1.1 利用 IaC 工具實踐基礎設施的自動化部署與版本控制\n1.2 建置與管理 Docker / K8s 容器編排環境\n1.3 規劃雲端資源配置，確保架構具備高可用性\n2. 網路與安全架構：\n2.1 設計雲端網路架構，包括 VPC、Load Balancers 和 CDN 配置\n2.2 管理 IAM 政策、角色和權限，確保雲端存取安全\n2.3 實施防火牆規則配置，確保雲端環境安全合規\n3. 監控與維運：\n3.1 建置系統監控與警報機制，即時掌握服務狀態\n3.2 監控與分析雲端使用數據報告，提出優化策略\n3.3 規劃備份與災難恢復機制\n【基本條件】\n1. 經驗\n1.1 兩年以上開發、維運或網管實務經驗\n1.2 具備 AWS, GCP 或 Azure 實務操作經驗\n1.3 具備 CI/CD 工具建置與維運經驗\n2 知識工具\n2.1 熟悉 AWS, GCP 或 Azure 至少一種平台的核心服務、計費模式與最佳實踐\n2.2 理解雲端網路協定與架構\n2.3 熟悉資安配置，包含 IAM 權限控管、KMS 加密、防火牆與 Security Group 設定\n2.4 熟悉 CLI 工具、Docker、K8s 操作，並能撰寫 Python 或 Bash\n2.5 熟悉 Linux、Windows 系統環境與 Git 版控\n【期望您的工作方式】\n1. 對配置與部署流程的細節具備高敏感度\n2. 追求 CI/CD 管線、laC 的高穩定性與精準度，能系統性地預測並排除潛在故障風險\n3. 具備耐心與嚴謹的驗證思維，能針對複雜環境進行徹底測試\n【加分條件】\n1. 曾獨立完成 Infra 建置與部署 (CI/CD)\n2. 具備 Service Mesh 使用經驗\n3. 熟悉 Helm 或 Kustomize 等 K8s 部署管理工具",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "雲端工程師",
+            "DevOps 工程師"
+          ],
+          "label": "職務類別",
+          "text": "雲端工程師、DevOps 工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區文心路二段201號11樓之7",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "此職位負責設計、部署、維護和優化企業的雲端基礎設施和服務，確保雲端環境的高可靠性、安全性、擴展性與成本效益。\n【核心職責】\n1. 基礎設施部署與管理：\n1.1 利用 IaC 工具實踐基礎設施的自動化部署與版本控制\n1.2 建置與管理 Docker / K8s 容器編排環境\n1.3 規劃雲端資源配置，確保架構具備高可用性\n2. 網路與安全架構：\n2.1 設計雲端網路架構，包括 VPC、Load Balancers 和 CDN 配置\n2.2 管理 IAM 政策、角色和權限，確保雲端存取安全\n2.3 實施防火牆規則配置，確保雲端環境安全合規\n3. 監控與維運：\n3.1 建置系統監控與警報機制，即時掌握服務狀態\n3.2 監控與分析雲端使用數據報告，提出優化策略\n3.3 規劃備份與災難恢復機制\n【基本條件】\n1. 經驗\n1.1 兩年以上開發、維運或網管實務經驗\n1.2 具備 AWS, GCP 或 Azure 實務操作經驗\n1.3 具備 CI/CD 工具建置與維運經驗\n2 知識工具\n2.1 熟悉 AWS, GCP 或 Azure 至少一種平台的核心服務、計費模式與最佳實踐\n2.2 理解雲端網路協定與架構\n2.3 熟悉資安配置，包含 IAM 權限控管、KMS 加密、防火牆與 Security Group 設定\n2.4 熟悉 CLI 工具、Docker、K8s 操作，並能撰寫 Python 或 Bash\n2.5 熟悉 Linux、Windows 系統環境與 Git 版控\n【期望您的工作方式】\n1. 對配置與部署流程的細節具備高敏感度\n2. 追求 CI/CD 管線、laC 的高穩定性與精準度，能系統性地預測並排除潛在故障風險\n3. 具備耐心與嚴謹的驗證思維，能針對複雜環境進行徹底測試\n【加分條件】\n1. 曾獨立完成 Infra 建置與部署 (CI/CD)\n2. 具備 Service Mesh 使用經驗\n3. 熟悉 Helm 或 Kustomize 等 K8s 部署管理工具"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科、大學"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8fwsz",
+    "job_url": "https://www.104.com.tw/job/8fwsz",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8fwsz.json",
+    "raw_sha256": "e9af25fdca9c5dcd1fd85a2e153879aba8ef1c10e9eaf4a154b948a4d1988fbd",
+    "requested_url": "https://www.104.com.tw/api/jobs/8fwsz"
+  }
+}

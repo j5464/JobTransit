@@ -1,0 +1,241 @@
+{
+  "company": {
+    "id": "1a2x6bjjxi",
+    "name": "永擎電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "BIOS工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發、維護以及改善主機板BIOS 程式。"
+        },
+        {
+          "children": [],
+          "text": "導入主機板相關零件控制方法。"
+        },
+        {
+          "children": [],
+          "text": "負責BIOS程式偵錯與問題解決。"
+        },
+        {
+          "children": [],
+          "text": "回覆客戶或相關部門BIOS技術問題。"
+        },
+        {
+          "children": [],
+          "text": "協助FAE（field application engineer）解決問題。"
+        },
+        {
+          "children": [],
+          "text": "與客戶溝通客製化需求、時程安排"
+        }
+      ],
+      "text": "從事Server主機板BIOS撰寫及修改工作。\n1. 開發、維護以及改善主機板BIOS 程式。\n2. 導入主機板相關零件控制方法。\n3. 負責BIOS程式偵錯與問題解決。\n4. 回覆客戶或相關部門BIOS技術問題。\n5. 協助FAE（field application engineer）解決問題。\n6. 與客戶溝通客製化需求、時程安排"
+    },
+    "employment_type_raw": "全職",
+    "title": "Server BIOS工程師"
+  },
+  "location": {
+    "address_raw": "台北市北投區中央南路二段37號4樓",
+    "raw": "台北市北投區中央南路二段37號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C"
+        ],
+        "label": "擅長工具",
+        "text": "C"
+      },
+      {
+        "items": [
+          "BIOS程式研發",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "BIOS程式研發、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具編寫程式語言能力\n2. 具良好溝通、協調能力\n3. 具獨立出差能力(配合需要短期出差)"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "1. 具編寫程式語言能力\n2. 具良好溝通、協調能力\n3. 具獨立出差能力(配合需要短期出差)",
+    "skills": [
+      "BIOS程式研發",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C\n工作技能：BIOS程式研發、軟體工程系統開發\n其他條件：1. 具編寫程式語言能力\n2. 具良好溝通、協調能力\n3. 具獨立出差能力(配合需要短期出差)",
+    "tools": [
+      "C"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 24
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:21:21+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "從事Server主機板BIOS撰寫及修改工作。\n1. 開發、維護以及改善主機板BIOS 程式。\n2. 導入主機板相關零件控制方法。\n3. 負責BIOS程式偵錯與問題解決。\n4. 回覆客戶或相關部門BIOS技術問題。\n5. 協助FAE（field application engineer）解決問題。\n6. 與客戶溝通客製化需求、時程安排",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "BIOS工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "BIOS工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市北投區中央南路二段37號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "從事Server主機板BIOS撰寫及修改工作。\n1. 開發、維護以及改善主機板BIOS 程式。\n2. 導入主機板相關零件控制方法。\n3. 負責BIOS程式偵錯與問題解決。\n4. 回覆客戶或相關部門BIOS技術問題。\n5. 協助FAE（field application engineer）解決問題。\n6. 與客戶溝通客製化需求、時程安排"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C"
+          ],
+          "label": "擅長工具",
+          "text": "C",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "BIOS程式研發",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "BIOS程式研發、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具編寫程式語言能力\n2. 具良好溝通、協調能力\n3. 具獨立出差能力(配合需要短期出差)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C\n工作技能：BIOS程式研發、軟體工程系統開發\n其他條件：1. 具編寫程式語言能力\n2. 具良好溝通、協調能力\n3. 具獨立出差能力(配合需要短期出差)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "4ti6p",
+    "job_url": "https://www.104.com.tw/job/4ti6p",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/4ti6p.json",
+    "raw_sha256": "3a6e441252d7b951b8740e9b4f15e14bb7a2a9a55573d8c172738c895a56ee0f",
+    "requested_url": "https://www.104.com.tw/api/jobs/4ti6p"
+  }
+}

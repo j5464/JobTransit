@@ -1,0 +1,250 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉基本工具及程式語言。"
+        },
+        {
+          "children": [],
+          "text": "進行單元功能程式整合。"
+        },
+        {
+          "children": [],
+          "text": "單元功能程式撰寫及驗證。"
+        },
+        {
+          "children": [],
+          "text": "系統壓力測試。"
+        },
+        {
+          "children": [],
+          "text": "撰寫工程規格 / 技術文件 (包含測試計畫)。"
+        }
+      ],
+      "text": "1.熟悉基本工具及程式語言。\n2.進行單元功能程式整合。\n3.單元功能程式撰寫及驗證。\n4.系統壓力測試。\n5.撰寫工程規格 / 技術文件 (包含測試計畫)。"
+    },
+    "employment_type_raw": "全職",
+    "title": "韌體設計資深工程師_電動車逆變器事業部(平鎮/中壢)"
+  },
+  "location": {
+    "address_raw": "桃園市平鎮區中興路平鎮段458號",
+    "raw": "桃園市平鎮區中興路平鎮段458號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "機械工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、機械工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "Python",
+          "Matlab"
+        ],
+        "label": "擅長工具",
+        "text": "C、Python、Matlab"
+      },
+      {
+        "items": [
+          "韌體程式設計",
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "模組化系統設計"
+        ],
+        "label": "工作技能",
+        "text": "韌體程式設計、軟體程式設計、軟體工程系統開發、模組化系統設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 有電動車、商務車、非道路用車、相關電力電子系統開發經驗、車輛系統整合者尤佳\n2. 有嵌入式系統, Python, MATLAB, Simulink, dSPACE 使用經驗佳\n3. 車用標準相關經驗佳(ASPICE, ISO26262, ISO21434)\n4. 有嵌入式系統開發經驗 (MCU)"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "機械工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1. 有電動車、商務車、非道路用車、相關電力電子系統開發經驗、車輛系統整合者尤佳\n2. 有嵌入式系統, Python, MATLAB, Simulink, dSPACE 使用經驗佳\n3. 車用標準相關經驗佳(ASPICE, ISO26262, ISO21434)\n4. 有嵌入式系統開發經驗 (MCU)",
+    "skills": [
+      "韌體程式設計",
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "模組化系統設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子工程相關、機械工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、Python、Matlab\n工作技能：韌體程式設計、軟體程式設計、軟體工程系統開發、模組化系統設計\n其他條件：1. 有電動車、商務車、非道路用車、相關電力電子系統開發經驗、車輛系統整合者尤佳\n2. 有嵌入式系統, Python, MATLAB, Simulink, dSPACE 使用經驗佳\n3. 車用標準相關經驗佳(ASPICE, ISO26262, ISO21434)\n4. 有嵌入式系統開發經驗 (MCU)",
+    "tools": [
+      "C",
+      "Python",
+      "Matlab"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 78
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:33:28+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.熟悉基本工具及程式語言。\n2.進行單元功能程式整合。\n3.單元功能程式撰寫及驗證。\n4.系統壓力測試。\n5.撰寫工程規格 / 技術文件 (包含測試計畫)。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市平鎮區中興路平鎮段458號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.熟悉基本工具及程式語言。\n2.進行單元功能程式整合。\n3.單元功能程式撰寫及驗證。\n4.系統壓力測試。\n5.撰寫工程規格 / 技術文件 (包含測試計畫)。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "機械工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、機械工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "Python",
+            "Matlab"
+          ],
+          "label": "擅長工具",
+          "text": "C、Python、Matlab",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "韌體程式設計",
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "模組化系統設計"
+          ],
+          "label": "工作技能",
+          "text": "韌體程式設計、軟體程式設計、軟體工程系統開發、模組化系統設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 有電動車、商務車、非道路用車、相關電力電子系統開發經驗、車輛系統整合者尤佳\n2. 有嵌入式系統, Python, MATLAB, Simulink, dSPACE 使用經驗佳\n3. 車用標準相關經驗佳(ASPICE, ISO26262, ISO21434)\n4. 有嵌入式系統開發經驗 (MCU)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子工程相關、機械工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、Python、Matlab\n工作技能：韌體程式設計、軟體程式設計、軟體工程系統開發、模組化系統設計\n其他條件：1. 有電動車、商務車、非道路用車、相關電力電子系統開發經驗、車輛系統整合者尤佳\n2. 有嵌入式系統, Python, MATLAB, Simulink, dSPACE 使用經驗佳\n3. 車用標準相關經驗佳(ASPICE, ISO26262, ISO21434)\n4. 有嵌入式系統開發經驗 (MCU)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "91yv2",
+    "job_url": "https://www.104.com.tw/job/91yv2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91yv2.json",
+    "raw_sha256": "d373966bd9a96461d723f33599260ffb95e3cd1df6bbb24e0c9a25725feb4c1c",
+    "requested_url": "https://www.104.com.tw/api/jobs/91yv2"
+  }
+}

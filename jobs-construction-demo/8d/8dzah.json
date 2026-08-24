@@ -1,0 +1,301 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依專案需求調研演算法等技術於相關應用議題"
+        },
+        {
+          "children": [],
+          "text": "基於CAD設計工具與CAE模擬工具的應用開發"
+        },
+        {
+          "children": [],
+          "text": "協同開發、佈建與測試解決方案於應用運算場域"
+        },
+        {
+          "children": [],
+          "text": "熟悉Python, Java, Matlab, C/C++等任一資料分析程式語言"
+        },
+        {
+          "children": [],
+          "text": "熟悉數值分析、最佳化演算法、機器/深度學習 等實務經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉Git版控工具，以及API、SDK、Qt開發經驗"
+        },
+        {
+          "children": [],
+          "text": "善於溝通協調與團隊合作精神並能獨立解決問題"
+        },
+        {
+          "children": [],
+          "text": "-"
+        },
+        {
+          "children": [],
+          "text": "Investigate algorithms and other technologies and related application issues according to project requirements."
+        },
+        {
+          "children": [],
+          "text": "Application development based on CAD design tools and CAE simulation tools."
+        },
+        {
+          "children": [],
+          "text": "Coordinated development, deployment and testing of solutions in the application computing field."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in one of Python, Java, Matlab, C/C++ or other data analysis programming languages."
+        },
+        {
+          "children": [],
+          "text": "Practical experience in data analysis, optimization algorithms, machine/deep learning."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with Git version control tools, as well as API, SDK, and Qt development experience."
+        },
+        {
+          "children": [],
+          "text": "Strong communication and teamwork skills, capable of independent problem-solving."
+        }
+      ],
+      "text": "《職務說明》\n1. 依專案需求調研演算法等技術於相關應用議題\n2. 基於CAD設計工具與CAE模擬工具的應用開發\n3. 協同開發、佈建與測試解決方案於應用運算場域\n《Qualification》\n1. 熟悉Python, Java, Matlab, C/C++等任一資料分析程式語言\n2. 熟悉數值分析、最佳化演算法、機器/深度學習 等實務經驗\n3. 熟悉Git版控工具，以及API、SDK、Qt開發經驗\n4. 善於溝通協調與團隊合作精神並能獨立解決問題\n--\n《Responsibility》\n1. Investigate algorithms and other technologies and related application issues according to project requirements.\n2. Application development based on CAD design tools and CAE simulation tools.\n3. Coordinated development, deployment and testing of solutions in the application computing field.\n《Qualification》\n1. Proficiency in one of Python, Java, Matlab, C/C++ or other data analysis programming languages.\n2. Practical experience in data analysis, optimization algorithms, machine/deep learning.\n3. Familiarity with Git version control tools, as well as API, SDK, and Qt development experience.\n4. Strong communication and teamwork skills, capable of independent problem-solving."
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體設計資深工程師(研發)_資訊處_研發支援系統整合(內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號(內湖)",
+    "raw": "台北市內湖區瑞光路186號(內湖)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Java",
+          "Matlab",
+          "Python",
+          "OpenCV",
+          "ANSYS",
+          "OrCAD"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Java、Matlab、Python、OpenCV、ANSYS、OrCAD"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "《Plus qualifications》\n1. 具有軟硬體系統整合與OpenCV/OpenGL軟體開發實務經驗\n2. 使用Creo, Solidwork, Altium Designer, OrCAD等任CAD研發工具經驗\n3. 使用Ansys, Abaqus, Flotherm, Simplis, Cadence等任CAE研發工具經驗\n《Plus qualifications》\n1. Hands-on software and hardware co-design, and using OpenCV/OpenGL experience\n2. Familiar with Opencascade or other 3D CAD engine experience, such as model analysis, feature extraction function\n3. Experience in using CAD tools such as Creo, SolidWorks, Altium Designer, OrCAD, etc.\n4. Experience in using CAE tools such as Ansys, Abaqus, Flotherm, Simplis, Cadence, etc."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "《Plus qualifications》\n1. 具有軟硬體系統整合與OpenCV/OpenGL軟體開發實務經驗\n2. 使用Creo, Solidwork, Altium Designer, OrCAD等任CAD研發工具經驗\n3. 使用Ansys, Abaqus, Flotherm, Simplis, Cadence等任CAE研發工具經驗\n《Plus qualifications》\n1. Hands-on software and hardware co-design, and using OpenCV/OpenGL experience\n2. Familiar with Opencascade or other 3D CAD engine experience, such as model analysis, feature extraction function\n3. Experience in using CAD tools such as Creo, SolidWorks, Altium Designer, OrCAD, etc.\n4. Experience in using CAE tools such as Ansys, Abaqus, Flotherm, Simplis, Cadence, etc.",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Java、Matlab、Python、OpenCV、ANSYS、OrCAD\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：《Plus qualifications》\n1. 具有軟硬體系統整合與OpenCV/OpenGL軟體開發實務經驗\n2. 使用Creo, Solidwork, Altium Designer, OrCAD等任CAD研發工具經驗\n3. 使用Ansys, Abaqus, Flotherm, Simplis, Cadence等任CAE研發工具經驗\n《Plus qualifications》\n1. Hands-on software and hardware co-design, and using OpenCV/OpenGL experience\n2. Familiar with Opencascade or other 3D CAD engine experience, such as model analysis, feature extraction function\n3. Experience in using CAD tools such as Creo, SolidWorks, Altium Designer, OrCAD, etc.\n4. Experience in using CAE tools such as Ansys, Abaqus, Flotherm, Simplis, Cadence, etc.",
+    "tools": [
+      "C",
+      "C++",
+      "Java",
+      "Matlab",
+      "Python",
+      "OpenCV",
+      "ANSYS",
+      "OrCAD"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 85
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:51:54+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "《職務說明》\n1. 依專案需求調研演算法等技術於相關應用議題\n2. 基於CAD設計工具與CAE模擬工具的應用開發\n3. 協同開發、佈建與測試解決方案於應用運算場域\n《Qualification》\n1. 熟悉Python, Java, Matlab, C/C++等任一資料分析程式語言\n2. 熟悉數值分析、最佳化演算法、機器/深度學習 等實務經驗\n3. 熟悉Git版控工具，以及API、SDK、Qt開發經驗\n4. 善於溝通協調與團隊合作精神並能獨立解決問題\n--\n《Responsibility》\n1. Investigate algorithms and other technologies and related application issues according to project requirements.\n2. Application development based on CAD design tools and CAE simulation tools.\n3. Coordinated development, deployment and testing of solutions in the application computing field.\n《Qualification》\n1. Proficiency in one of Python, Java, Matlab, C/C++ or other data analysis programming languages.\n2. Practical experience in data analysis, optimization algorithms, machine/deep learning.\n3. Familiarity with Git version control tools, as well as API, SDK, and Qt development experience.\n4. Strong communication and teamwork skills, capable of independent problem-solving.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號(內湖)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "《職務說明》\n1. 依專案需求調研演算法等技術於相關應用議題\n2. 基於CAD設計工具與CAE模擬工具的應用開發\n3. 協同開發、佈建與測試解決方案於應用運算場域\n《Qualification》\n1. 熟悉Python, Java, Matlab, C/C++等任一資料分析程式語言\n2. 熟悉數值分析、最佳化演算法、機器/深度學習 等實務經驗\n3. 熟悉Git版控工具，以及API、SDK、Qt開發經驗\n4. 善於溝通協調與團隊合作精神並能獨立解決問題\n--\n《Responsibility》\n1. Investigate algorithms and other technologies and related application issues according to project requirements.\n2. Application development based on CAD design tools and CAE simulation tools.\n3. Coordinated development, deployment and testing of solutions in the application computing field.\n《Qualification》\n1. Proficiency in one of Python, Java, Matlab, C/C++ or other data analysis programming languages.\n2. Practical experience in data analysis, optimization algorithms, machine/deep learning.\n3. Familiarity with Git version control tools, as well as API, SDK, and Qt development experience.\n4. Strong communication and teamwork skills, capable of independent problem-solving."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Java",
+            "Matlab",
+            "Python",
+            "OpenCV",
+            "ANSYS",
+            "OrCAD"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Java、Matlab、Python、OpenCV、ANSYS、OrCAD",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "《Plus qualifications》\n1. 具有軟硬體系統整合與OpenCV/OpenGL軟體開發實務經驗\n2. 使用Creo, Solidwork, Altium Designer, OrCAD等任CAD研發工具經驗\n3. 使用Ansys, Abaqus, Flotherm, Simplis, Cadence等任CAE研發工具經驗\n《Plus qualifications》\n1. Hands-on software and hardware co-design, and using OpenCV/OpenGL experience\n2. Familiar with Opencascade or other 3D CAD engine experience, such as model analysis, feature extraction function\n3. Experience in using CAD tools such as Creo, SolidWorks, Altium Designer, OrCAD, etc.\n4. Experience in using CAE tools such as Ansys, Abaqus, Flotherm, Simplis, Cadence, etc.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Java、Matlab、Python、OpenCV、ANSYS、OrCAD\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：《Plus qualifications》\n1. 具有軟硬體系統整合與OpenCV/OpenGL軟體開發實務經驗\n2. 使用Creo, Solidwork, Altium Designer, OrCAD等任CAD研發工具經驗\n3. 使用Ansys, Abaqus, Flotherm, Simplis, Cadence等任CAE研發工具經驗\n《Plus qualifications》\n1. Hands-on software and hardware co-design, and using OpenCV/OpenGL experience\n2. Familiar with Opencascade or other 3D CAD engine experience, such as model analysis, feature extraction function\n3. Experience in using CAD tools such as Creo, SolidWorks, Altium Designer, OrCAD, etc.\n4. Experience in using CAE tools such as Ansys, Abaqus, Flotherm, Simplis, Cadence, etc."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8dzah",
+    "job_url": "https://www.104.com.tw/job/8dzah",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8dzah.json",
+    "raw_sha256": "ec1ee5f6f851c8e9ff79702228735f54374aab1573db926c19361bb176dfcec8",
+    "requested_url": "https://www.104.com.tw/api/jobs/8dzah"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "company": {
+    "id": "r8a83y0",
+    "name": "秀傳醫療體系_秀傳醫療社團法人秀傳紀念醫院"
+  },
+  "job": {
+    "categories": [
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "生物資訊管理與大數據處理"
+        },
+        {
+          "children": [],
+          "text": "檢體與臨床資料連結資料庫建置"
+        },
+        {
+          "children": [],
+          "text": "數據庫、軟體最佳化及維護"
+        },
+        {
+          "children": [],
+          "text": "生物數據安全與法規等資訊文件制訂與認證"
+        },
+        {
+          "children": [],
+          "text": "行政作業級主管交辦事項"
+        }
+      ],
+      "text": "例行性:\n1.生物資訊管理與大數據處理\n2.檢體與臨床資料連結資料庫建置\n3.數據庫、軟體最佳化及維護\n4.生物數據安全與法規等資訊文件制訂與認證\n不定期性:\n1.行政作業級主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "[駐彰濱院區]人體生物資料庫-生物資訊工程師"
+  },
+  "location": {
+    "address_raw": "彰化縣鹿港鎮鹿工路6號",
+    "raw": "彰化縣鹿港鎮鹿工路6號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "統計學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、統計學相關"
+      },
+      {
+        "items": [
+          "Linux",
+          "Shell",
+          "Python",
+          "Git",
+          "PostgreSQL",
+          "MS SQL",
+          "JavaScript",
+          "Github"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Shell、Python、Git、PostgreSQL、MS SQL、JavaScript、Github"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具備資料庫建立或報告系統建立/維護經驗\n2.有生物統計相關經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "統計學相關"
+    ],
+    "other_text": "1.具備資料庫建立或報告系統建立/維護經驗\n2.有生物統計相關經驗",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、統計學相關\n擅長工具：Linux、Shell、Python、Git、PostgreSQL、MS SQL、JavaScript、Github\n其他條件：1.具備資料庫建立或報告系統建立/維護經驗\n2.有生物統計相關經驗",
+    "tools": [
+      "Linux",
+      "Shell",
+      "Python",
+      "Git",
+      "PostgreSQL",
+      "MS SQL",
+      "JavaScript",
+      "Github"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 51
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:26:56+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "例行性:\n1.生物資訊管理與大數據處理\n2.檢體與臨床資料連結資料庫建置\n3.數據庫、軟體最佳化及維護\n4.生物數據安全與法規等資訊文件制訂與認證\n不定期性:\n1.行政作業級主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "彰化縣鹿港鎮鹿工路6號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "例行性:\n1.生物資訊管理與大數據處理\n2.檢體與臨床資料連結資料庫建置\n3.數據庫、軟體最佳化及維護\n4.生物數據安全與法規等資訊文件制訂與認證\n不定期性:\n1.行政作業級主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "統計學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、統計學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Shell",
+            "Python",
+            "Git",
+            "PostgreSQL",
+            "MS SQL",
+            "JavaScript",
+            "Github"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Shell、Python、Git、PostgreSQL、MS SQL、JavaScript、Github",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具備資料庫建立或報告系統建立/維護經驗\n2.有生物統計相關經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、統計學相關\n擅長工具：Linux、Shell、Python、Git、PostgreSQL、MS SQL、JavaScript、Github\n其他條件：1.具備資料庫建立或報告系統建立/維護經驗\n2.有生物統計相關經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "9167u",
+    "job_url": "https://www.104.com.tw/job/9167u",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9167u.json",
+    "raw_sha256": "9d0803ba2b06574e068f143382afd56032c2a9d75b752fad255607eaf9e0ad1e",
+    "requested_url": "https://www.104.com.tw/api/jobs/9167u"
+  }
+}

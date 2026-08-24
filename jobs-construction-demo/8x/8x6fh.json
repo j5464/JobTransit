@@ -1,0 +1,234 @@
+{
+  "company": {
+    "id": "awtdxnk",
+    "name": "耀聖資訊科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統分析師",
+      "軟體專案主管"
+    ],
+    "description": {
+      "items": [],
+      "text": "程式語言：C# & VB & HTML\n有WPF或ASP NET開發經驗佳\n使用過MS SQL與Entity Framework 框架尤佳\n歡迎有基礎程式設計能力，且對寫程式有熱忱，願意主動溝通問題，融入團隊開發。\n公司有一系列的教育訓練，提供資深工程師教學，讓新手能夠穩定且有效率地培養成資深工程師。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師 / 程式設計師"
+  },
+  "location": {
+    "address_raw": "新北市三重區光復路一段80號4樓",
+    "raw": "新北市三重區光復路一段80號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中、專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中、專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "OOP",
+          "C#",
+          "Visual Studio",
+          "MS SQL",
+          "ASP.NET",
+          "HTML",
+          "Visual Basic"
+        ],
+        "label": "擅長工具",
+        "text": "OOP、C#、Visual Studio、MS SQL、ASP.NET、HTML、Visual Basic"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體整合測試",
+          "軟體程式設計",
+          "結構化程式設計",
+          "模組化系統設計",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體整合測試、軟體程式設計、結構化程式設計、模組化系統設計、資料庫軟體應用"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【 加分條件 】\n1. 有實際 C# 或 VB 開發經驗者。\n2. 有實際 MS SQL 使用經驗。\n3. 有實際 Visual Studio 及 WPF 使用經驗。\n4. 熟悉 Entity Framework。\n5. 熟悉物件導向分析設計與開發。\n6. 熟悉ASP NET MVC 網頁設計與開發。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "【 加分條件 】\n1. 有實際 C# 或 VB 開發經驗者。\n2. 有實際 MS SQL 使用經驗。\n3. 有實際 Visual Studio 及 WPF 使用經驗。\n4. 熟悉 Entity Framework。\n5. 熟悉物件導向分析設計與開發。\n6. 熟悉ASP NET MVC 網頁設計與開發。",
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體整合測試",
+      "軟體程式設計",
+      "結構化程式設計",
+      "模組化系統設計",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：高中、專科、大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：OOP、C#、Visual Studio、MS SQL、ASP.NET、HTML、Visual Basic\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體整合測試、軟體程式設計、結構化程式設計、模組化系統設計、資料庫軟體應用\n其他條件：【 加分條件 】\n1. 有實際 C# 或 VB 開發經驗者。\n2. 有實際 MS SQL 使用經驗。\n3. 有實際 Visual Studio 及 WPF 使用經驗。\n4. 熟悉 Entity Framework。\n5. 熟悉物件導向分析設計與開發。\n6. 熟悉ASP NET MVC 網頁設計與開發。",
+    "tools": [
+      "OOP",
+      "C#",
+      "Visual Studio",
+      "MS SQL",
+      "ASP.NET",
+      "HTML",
+      "Visual Basic"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 81
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:42:03+08:00"
+  },
+  "salary": {
+    "raw": "月薪30,000~65,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "程式語言：C# & VB & HTML\n有WPF或ASP NET開發經驗佳\n使用過MS SQL與Entity Framework 框架尤佳\n歡迎有基礎程式設計能力，且對寫程式有熱忱，願意主動溝通問題，融入團隊開發。\n公司有一系列的教育訓練，提供資深工程師教學，讓新手能夠穩定且有效率地培養成資深工程師。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統分析師",
+            "軟體專案主管"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統分析師、軟體專案主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪30,000~65,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市三重區光復路一段80號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "程式語言：C# & VB & HTML\n有WPF或ASP NET開發經驗佳\n使用過MS SQL與Entity Framework 框架尤佳\n歡迎有基礎程式設計能力，且對寫程式有熱忱，願意主動溝通問題，融入團隊開發。\n公司有一系列的教育訓練，提供資深工程師教學，讓新手能夠穩定且有效率地培養成資深工程師。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中、專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "OOP",
+            "C#",
+            "Visual Studio",
+            "MS SQL",
+            "ASP.NET",
+            "HTML",
+            "Visual Basic"
+          ],
+          "label": "擅長工具",
+          "text": "OOP、C#、Visual Studio、MS SQL、ASP.NET、HTML、Visual Basic",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體整合測試",
+            "軟體程式設計",
+            "結構化程式設計",
+            "模組化系統設計",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體整合測試、軟體程式設計、結構化程式設計、模組化系統設計、資料庫軟體應用",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【 加分條件 】\n1. 有實際 C# 或 VB 開發經驗者。\n2. 有實際 MS SQL 使用經驗。\n3. 有實際 Visual Studio 及 WPF 使用經驗。\n4. 熟悉 Entity Framework。\n5. 熟悉物件導向分析設計與開發。\n6. 熟悉ASP NET MVC 網頁設計與開發。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：高中、專科、大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：OOP、C#、Visual Studio、MS SQL、ASP.NET、HTML、Visual Basic\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體整合測試、軟體程式設計、結構化程式設計、模組化系統設計、資料庫軟體應用\n其他條件：【 加分條件 】\n1. 有實際 C# 或 VB 開發經驗者。\n2. 有實際 MS SQL 使用經驗。\n3. 有實際 Visual Studio 及 WPF 使用經驗。\n4. 熟悉 Entity Framework。\n5. 熟悉物件導向分析設計與開發。\n6. 熟悉ASP NET MVC 網頁設計與開發。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8x6fh",
+    "job_url": "https://www.104.com.tw/job/8x6fh",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8x6fh.json",
+    "raw_sha256": "2d32dbd0c734a2e32b0f8c1a81de32dcd23f297bc856efc1c3206c05702c5543",
+    "requested_url": "https://www.104.com.tw/api/jobs/8x6fh"
+  }
+}

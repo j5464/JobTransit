@@ -1,0 +1,265 @@
+{
+  "company": {
+    "id": "1a2x6bl4uw",
+    "name": "覺華工程科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "數據分析師／資料分析師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發與維護 AI 應用功能（如影像辨識、LLM 串接、prompt 設計、資料處理 pipeline）"
+        },
+        {
+          "children": [],
+          "text": "依據既定架構與技術方向，獨立完成指派的開發任務"
+        },
+        {
+          "children": [],
+          "text": "協助影像資料前處理、模型輸出結果的驗證與除錯"
+        },
+        {
+          "children": [],
+          "text": "撰寫基本技術文件，維護程式碼可讀性與可交接性"
+        },
+        {
+          "children": [],
+          "text": "與團隊成員（含架構負責人）溝通進度與技術問題"
+        },
+        {
+          "children": [],
+          "text": "Python或任一程式語言具有中等以上熟練度"
+        },
+        {
+          "children": [],
+          "text": "基礎 SQL 操作"
+        },
+        {
+          "children": [],
+          "text": "Git 版本控制基本操作"
+        },
+        {
+          "children": [],
+          "text": "至少具備 LLM、YOLO、多模態其中一項相關的專案(論文)經驗"
+        },
+        {
+          "children": [],
+          "text": "容器化部署經驗（Docker）"
+        },
+        {
+          "children": [],
+          "text": "具備任一 API 框架基礎知識"
+        },
+        {
+          "children": [],
+          "text": "雲端服務經驗（阿里雲 / AWS / GCP / Azure）"
+        },
+        {
+          "children": [],
+          "text": "Function calling / tool use 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "對 LangChain / LlamaIndex 等框架有基本了解"
+        },
+        {
+          "children": [],
+          "text": "同時具備兩項以上 AI 核心技術經驗（YOLO / LLM / 多模態）"
+        }
+      ],
+      "text": "# 工作內容\n負責 AI 應用功能的開發與實作，主要聚焦於影像辨識、LLM、多模態並具備自我把關的工作習慣。**本職缺歡迎應屆畢業生投遞，尤其歡迎碩士班曾以 YOLO、LLM 或多模態技術完成專題/論文研究的同學。**\n- 開發與維護 AI 應用功能（如影像辨識、LLM 串接、prompt 設計、資料處理 pipeline）\n- 依據既定架構與技術方向，獨立完成指派的開發任務\n- 協助影像資料前處理、模型輸出結果的驗證與除錯\n- 撰寫基本技術文件，維護程式碼可讀性與可交接性\n- 與團隊成員（含架構負責人）溝通進度與技術問題\n# 必備技能\n- Python或任一程式語言具有中等以上熟練度\n- 基礎 SQL 操作\n- Git 版本控制基本操作\n- 至少具備 LLM、YOLO、多模態其中一項相關的專案(論文)經驗\n# 加分條件\n- 容器化部署經驗（Docker）\n- 具備任一 API 框架基礎知識\n- 雲端服務經驗（阿里雲 / AWS / GCP / Azure）\n- Function calling / tool use 開發經驗\n- 對 LangChain / LlamaIndex 等框架有基本了解\n- 同時具備兩項以上 AI 核心技術經驗（YOLO / LLM / 多模態）"
+    },
+    "employment_type_raw": "全職",
+    "title": "初階 AI 應用工程師"
+  },
+  "location": {
+    "address_raw": "桃園市中壢區環北路1號9樓",
+    "raw": "桃園市中壢區環北路1號9樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Python",
+          "Git",
+          "PyTorch"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Python、Git、PyTorch"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具備基本Python程式語言能力。\n2. 熟悉 CV、NLP、LLM、機器學習演算法，其中一種。\n3. 熟悉TensorFlow及Pytorch等深度學習框架，並且擁有1年以上開發經驗。\n4. 熟悉Container實作與Git版控經驗。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1. 具備基本Python程式語言能力。\n2. 熟悉 CV、NLP、LLM、機器學習演算法，其中一種。\n3. 熟悉TensorFlow及Pytorch等深度學習框架，並且擁有1年以上開發經驗。\n4. 熟悉Container實作與Git版控經驗。",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Python、Git、PyTorch\n工作技能：軟體程式設計\n其他條件：1. 具備基本Python程式語言能力。\n2. 熟悉 CV、NLP、LLM、機器學習演算法，其中一種。\n3. 熟悉TensorFlow及Pytorch等深度學習框架，並且擁有1年以上開發經驗。\n4. 熟悉Container實作與Git版控經驗。",
+    "tools": [
+      "Linux",
+      "Python",
+      "Git",
+      "PyTorch"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 88
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:00:03+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "# 工作內容\n負責 AI 應用功能的開發與實作，主要聚焦於影像辨識、LLM、多模態並具備自我把關的工作習慣。**本職缺歡迎應屆畢業生投遞，尤其歡迎碩士班曾以 YOLO、LLM 或多模態技術完成專題/論文研究的同學。**\n- 開發與維護 AI 應用功能（如影像辨識、LLM 串接、prompt 設計、資料處理 pipeline）\n- 依據既定架構與技術方向，獨立完成指派的開發任務\n- 協助影像資料前處理、模型輸出結果的驗證與除錯\n- 撰寫基本技術文件，維護程式碼可讀性與可交接性\n- 與團隊成員（含架構負責人）溝通進度與技術問題\n# 必備技能\n- Python或任一程式語言具有中等以上熟練度\n- 基礎 SQL 操作\n- Git 版本控制基本操作\n- 至少具備 LLM、YOLO、多模態其中一項相關的專案(論文)經驗\n# 加分條件\n- 容器化部署經驗（Docker）\n- 具備任一 API 框架基礎知識\n- 雲端服務經驗（阿里雲 / AWS / GCP / Azure）\n- Function calling / tool use 開發經驗\n- 對 LangChain / LlamaIndex 等框架有基本了解\n- 同時具備兩項以上 AI 核心技術經驗（YOLO / LLM / 多模態）",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "數據分析師／資料分析師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、數據分析師／資料分析師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市中壢區環北路1號9樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "# 工作內容\n負責 AI 應用功能的開發與實作，主要聚焦於影像辨識、LLM、多模態並具備自我把關的工作習慣。**本職缺歡迎應屆畢業生投遞，尤其歡迎碩士班曾以 YOLO、LLM 或多模態技術完成專題/論文研究的同學。**\n- 開發與維護 AI 應用功能（如影像辨識、LLM 串接、prompt 設計、資料處理 pipeline）\n- 依據既定架構與技術方向，獨立完成指派的開發任務\n- 協助影像資料前處理、模型輸出結果的驗證與除錯\n- 撰寫基本技術文件，維護程式碼可讀性與可交接性\n- 與團隊成員（含架構負責人）溝通進度與技術問題\n# 必備技能\n- Python或任一程式語言具有中等以上熟練度\n- 基礎 SQL 操作\n- Git 版本控制基本操作\n- 至少具備 LLM、YOLO、多模態其中一項相關的專案(論文)經驗\n# 加分條件\n- 容器化部署經驗（Docker）\n- 具備任一 API 框架基礎知識\n- 雲端服務經驗（阿里雲 / AWS / GCP / Azure）\n- Function calling / tool use 開發經驗\n- 對 LangChain / LlamaIndex 等框架有基本了解\n- 同時具備兩項以上 AI 核心技術經驗（YOLO / LLM / 多模態）"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Python",
+            "Git",
+            "PyTorch"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Python、Git、PyTorch",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具備基本Python程式語言能力。\n2. 熟悉 CV、NLP、LLM、機器學習演算法，其中一種。\n3. 熟悉TensorFlow及Pytorch等深度學習框架，並且擁有1年以上開發經驗。\n4. 熟悉Container實作與Git版控經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Python、Git、PyTorch\n工作技能：軟體程式設計\n其他條件：1. 具備基本Python程式語言能力。\n2. 熟悉 CV、NLP、LLM、機器學習演算法，其中一種。\n3. 熟悉TensorFlow及Pytorch等深度學習框架，並且擁有1年以上開發經驗。\n4. 熟悉Container實作與Git版控經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "83ng9",
+    "job_url": "https://www.104.com.tw/job/83ng9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/83ng9.json",
+    "raw_sha256": "a77b5629d418a4c490d159ca3cbc068ce40e4662650d629dd951893f657936f0",
+    "requested_url": "https://www.104.com.tw/api/jobs/83ng9"
+  }
+}

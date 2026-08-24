@@ -1,0 +1,174 @@
+{
+  "company": {
+    "id": "wic70ug",
+    "name": "悠遊卡股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "系統分析及規劃。"
+        },
+        {
+          "children": [],
+          "text": "應用系統開發與維護 。"
+        },
+        {
+          "children": [],
+          "text": "系統規格文件維護與管理。"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項。"
+        }
+      ],
+      "text": "1. 系統分析及規劃。\n2. 應用系統開發與維護 。\n3. 系統規格文件維護與管理。\n4. 主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師"
+  },
+  "location": {
+    "address_raw": "台北市南港區園區街3之1號13樓",
+    "raw": "台北市南港區園區街3之1號13樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.有前端技術，HTML5、JavaScript、CSS、Ajax等相關開發經驗。\n2.熟悉Java/servlet/HTML/JSP/JavaSecript/CSS/AJAX/jQuery等程式設計方法。\n3.熟悉SQL 語法、熟悉MS SQL 、Oracle等資料庫。\n4.有Internet、Web API 程式設計經驗。\n5.具良好邏輯思維與溝通協調能力，能與合作夥伴有效溝通。\n6.具金融系統或行銷系統開發實務經驗尤佳。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1.有前端技術，HTML5、JavaScript、CSS、Ajax等相關開發經驗。\n2.熟悉Java/servlet/HTML/JSP/JavaSecript/CSS/AJAX/jQuery等程式設計方法。\n3.熟悉SQL 語法、熟悉MS SQL 、Oracle等資料庫。\n4.有Internet、Web API 程式設計經驗。\n5.具良好邏輯思維與溝通協調能力，能與合作夥伴有效溝通。\n6.具金融系統或行銷系統開發實務經驗尤佳。",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學\n語文條件：英文：中等、中等、中等、中等\n其他條件：1.有前端技術，HTML5、JavaScript、CSS、Ajax等相關開發經驗。\n2.熟悉Java/servlet/HTML/JSP/JavaSecript/CSS/AJAX/jQuery等程式設計方法。\n3.熟悉SQL 語法、熟悉MS SQL 、Oracle等資料庫。\n4.有Internet、Web API 程式設計經驗。\n5.具良好邏輯思維與溝通協調能力，能與合作夥伴有效溝通。\n6.具金融系統或行銷系統開發實務經驗尤佳。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:04:07+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 系統分析及規劃。\n2. 應用系統開發與維護 。\n3. 系統規格文件維護與管理。\n4. 主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區園區街3之1號13樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 系統分析及規劃。\n2. 應用系統開發與維護 。\n3. 系統規格文件維護與管理。\n4. 主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.有前端技術，HTML5、JavaScript、CSS、Ajax等相關開發經驗。\n2.熟悉Java/servlet/HTML/JSP/JavaSecript/CSS/AJAX/jQuery等程式設計方法。\n3.熟悉SQL 語法、熟悉MS SQL 、Oracle等資料庫。\n4.有Internet、Web API 程式設計經驗。\n5.具良好邏輯思維與溝通協調能力，能與合作夥伴有效溝通。\n6.具金融系統或行銷系統開發實務經驗尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學\n語文條件：英文：中等、中等、中等、中等\n其他條件：1.有前端技術，HTML5、JavaScript、CSS、Ajax等相關開發經驗。\n2.熟悉Java/servlet/HTML/JSP/JavaSecript/CSS/AJAX/jQuery等程式設計方法。\n3.熟悉SQL 語法、熟悉MS SQL 、Oracle等資料庫。\n4.有Internet、Web API 程式設計經驗。\n5.具良好邏輯思維與溝通協調能力，能與合作夥伴有效溝通。\n6.具金融系統或行銷系統開發實務經驗尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "908oe",
+    "job_url": "https://www.104.com.tw/job/908oe",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/908oe.json",
+    "raw_sha256": "7c415597abbd0ba35a0ab9147a3d1ff88039ee1e52cc428bc6cdf7d1dcf72ff4",
+    "requested_url": "https://www.104.com.tw/api/jobs/908oe"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "company": {
+    "id": "g9uktns",
+    "name": "新日興股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "營運管理師／系統整合／ERP專案師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "ERP系統維護及問題排除"
+        },
+        {
+          "children": [],
+          "text": "ERP系統客製化開發"
+        },
+        {
+          "children": [],
+          "text": "企業流程改造和系統文件製作"
+        },
+        {
+          "children": [],
+          "text": "BI報表開發"
+        },
+        {
+          "children": [],
+          "text": "其他主管交代事項"
+        }
+      ],
+      "text": "1. ERP系統維護及問題排除\n2. ERP系統客製化開發\n3.企業流程改造和系統文件製作\n4. BI報表開發\n5.其他主管交代事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "【資訊】ERP軟體工程師"
+  },
+  "location": {
+    "address_raw": "新北市樹林區俊英街174號",
+    "raw": "新北市樹林區俊英街174號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Outlook、PowerPoint、Word"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.程式撰寫:Oracle D2K開發工具(Forms Developer 12c)(可培訓)、PL/SQL、XML(佳)、.NET(佳)\n2.資料庫:Oracle DB、MS SQL、MySQL(以上技能擇一可)\n3.具ERP系統維護經驗佳"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "1.程式撰寫:Oracle D2K開發工具(Forms Developer 12c)(可培訓)、PL/SQL、XML(佳)、.NET(佳)\n2.資料庫:Oracle DB、MS SQL、MySQL(以上技能擇一可)\n3.具ERP系統維護經驗佳",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Excel、Outlook、PowerPoint、Word\n其他條件：1.程式撰寫:Oracle D2K開發工具(Forms Developer 12c)(可培訓)、PL/SQL、XML(佳)、.NET(佳)\n2.資料庫:Oracle DB、MS SQL、MySQL(以上技能擇一可)\n3.具ERP系統維護經驗佳",
+    "tools": [
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 49
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:22:52+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. ERP系統維護及問題排除\n2. ERP系統客製化開發\n3.企業流程改造和系統文件製作\n4. BI報表開發\n5.其他主管交代事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "營運管理師／系統整合／ERP專案師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "營運管理師／系統整合／ERP專案師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市樹林區俊英街174號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. ERP系統維護及問題排除\n2. ERP系統客製化開發\n3.企業流程改造和系統文件製作\n4. BI報表開發\n5.其他主管交代事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Outlook、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.程式撰寫:Oracle D2K開發工具(Forms Developer 12c)(可培訓)、PL/SQL、XML(佳)、.NET(佳)\n2.資料庫:Oracle DB、MS SQL、MySQL(以上技能擇一可)\n3.具ERP系統維護經驗佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Excel、Outlook、PowerPoint、Word\n其他條件：1.程式撰寫:Oracle D2K開發工具(Forms Developer 12c)(可培訓)、PL/SQL、XML(佳)、.NET(佳)\n2.資料庫:Oracle DB、MS SQL、MySQL(以上技能擇一可)\n3.具ERP系統維護經驗佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "78a1n",
+    "job_url": "https://www.104.com.tw/job/78a1n",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/78a1n.json",
+    "raw_sha256": "ea7fa8f9759fbf9eec16fd7dbbf20cf148e2c12a77f31011ca2af86cd543ae4e",
+    "requested_url": "https://www.104.com.tw/api/jobs/78a1n"
+  }
+}

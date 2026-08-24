@@ -1,0 +1,235 @@
+{
+  "company": {
+    "id": "1a2x6bneox",
+    "name": "照熒科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "通訊軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發與維護控制平台軟體功能。"
+        },
+        {
+          "children": [],
+          "text": "設計並實現智慧交通應用程式及相關解決方案。"
+        },
+        {
+          "children": [],
+          "text": "撰寫並管理Linux平台的系統控制服務（如Ubuntu Service）。"
+        },
+        {
+          "children": [],
+          "text": "使用Socket Programming開發通訊功能，實現穩定的數據交換與傳輸。"
+        },
+        {
+          "children": [],
+          "text": "架設與維護Restful API Server，支援應用服務需求。"
+        },
+        {
+          "children": [],
+          "text": "測試與除錯應用程式，確保系統效能與穩定性。"
+        }
+      ],
+      "text": "就是你~我們正在尋找一位有經驗的C程式開發人員，專注於控制平台及智慧交通應用的設計與開發。該職位將負責開發穩定高效的系統功能，並與跨部門團隊合作實現智慧交通解決方案。\n* 開發與維護控制平台軟體功能。\n* 設計並實現智慧交通應用程式及相關解決方案。\n* 撰寫並管理Linux平台的系統控制服務（如Ubuntu Service）。\n* 使用Socket Programming開發通訊功能，實現穩定的數據交換與傳輸。\n* 架設與維護Restful API Server，支援應用服務需求。\n* 測試與除錯應用程式，確保系統效能與穩定性。"
+    },
+    "employment_type_raw": "全職",
+    "title": "C語言軟體工程師"
+  },
+  "location": {
+    "address_raw": "台南市東區大學路1號 自強校區 科技大樓 1F A01室",
+    "raw": "台南市東區大學路1號 自強校區 科技大樓 1F A01室"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "Linux",
+          "Git",
+          "Socket",
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Git、Socket、C#"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "系統架構規劃"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、系統架構規劃"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉C程式語言，具備扎實的程式開發能力。\n* 熟悉 Linux 系統控制（如 Ubuntu Service 開發與管理）。\n* 具備 Socket Programming 開發經驗，熟悉網路通訊協定（如 TCP/IP）。\n* 能獨立架設與維護 Restful Server，理解 HTTP 通訊機制。\n* 良好的問題分析與解決能力，具團隊合作精神。\n* 英文讀寫能力良好，能理解相關技術文件。\n加分條件，交通工程相關經驗：\n* 熟悉智慧交通系統（ITS，Intelligent Transportation Systems）架構與應用。\n* 了解交通號誌控制邏輯與設計，能開發與整合交通控制系統。\n* 熟悉車輛偵測技術（如自動車牌辨識、交通流量偵測）。\n* 有智慧交通管理平台（如路口號誌系統、交通流量模擬系統）開發經驗者佳。\n* 熟悉交通數據分析與建模工具（如VISSIM、SUMO）者尤佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "熟悉C程式語言，具備扎實的程式開發能力。\n* 熟悉 Linux 系統控制（如 Ubuntu Service 開發與管理）。\n* 具備 Socket Programming 開發經驗，熟悉網路通訊協定（如 TCP/IP）。\n* 能獨立架設與維護 Restful Server，理解 HTTP 通訊機制。\n* 良好的問題分析與解決能力，具團隊合作精神。\n* 英文讀寫能力良好，能理解相關技術文件。\n加分條件，交通工程相關經驗：\n* 熟悉智慧交通系統（ITS，Intelligent Transportation Systems）架構與應用。\n* 了解交通號誌控制邏輯與設計，能開發與整合交通控制系統。\n* 熟悉車輛偵測技術（如自動車牌辨識、交通流量偵測）。\n* 有智慧交通管理平台（如路口號誌系統、交通流量模擬系統）開發經驗者佳。\n* 熟悉交通數據分析與建模工具（如VISSIM、SUMO）者尤佳。",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "系統架構規劃"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n擅長工具：Linux、Git、Socket、C#\n工作技能：軟體工程系統開發、軟體程式設計、系統架構規劃\n其他條件：熟悉C程式語言，具備扎實的程式開發能力。\n* 熟悉 Linux 系統控制（如 Ubuntu Service 開發與管理）。\n* 具備 Socket Programming 開發經驗，熟悉網路通訊協定（如 TCP/IP）。\n* 能獨立架設與維護 Restful Server，理解 HTTP 通訊機制。\n* 良好的問題分析與解決能力，具團隊合作精神。\n* 英文讀寫能力良好，能理解相關技術文件。\n加分條件，交通工程相關經驗：\n* 熟悉智慧交通系統（ITS，Intelligent Transportation Systems）架構與應用。\n* 了解交通號誌控制邏輯與設計，能開發與整合交通控制系統。\n* 熟悉車輛偵測技術（如自動車牌辨識、交通流量偵測）。\n* 有智慧交通管理平台（如路口號誌系統、交通流量模擬系統）開發經驗者佳。\n* 熟悉交通數據分析與建模工具（如VISSIM、SUMO）者尤佳。",
+    "tools": [
+      "Linux",
+      "Git",
+      "Socket",
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 32
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:40:29+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~55,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "就是你~我們正在尋找一位有經驗的C程式開發人員，專注於控制平台及智慧交通應用的設計與開發。該職位將負責開發穩定高效的系統功能，並與跨部門團隊合作實現智慧交通解決方案。\n* 開發與維護控制平台軟體功能。\n* 設計並實現智慧交通應用程式及相關解決方案。\n* 撰寫並管理Linux平台的系統控制服務（如Ubuntu Service）。\n* 使用Socket Programming開發通訊功能，實現穩定的數據交換與傳輸。\n* 架設與維護Restful API Server，支援應用服務需求。\n* 測試與除錯應用程式，確保系統效能與穩定性。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "通訊軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、通訊軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~55,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市東區大學路1號 自強校區 科技大樓 1F A01室",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "就是你~我們正在尋找一位有經驗的C程式開發人員，專注於控制平台及智慧交通應用的設計與開發。該職位將負責開發穩定高效的系統功能，並與跨部門團隊合作實現智慧交通解決方案。\n* 開發與維護控制平台軟體功能。\n* 設計並實現智慧交通應用程式及相關解決方案。\n* 撰寫並管理Linux平台的系統控制服務（如Ubuntu Service）。\n* 使用Socket Programming開發通訊功能，實現穩定的數據交換與傳輸。\n* 架設與維護Restful API Server，支援應用服務需求。\n* 測試與除錯應用程式，確保系統效能與穩定性。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Git",
+            "Socket",
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Git、Socket、C#",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "系統架構規劃"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、系統架構規劃",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉C程式語言，具備扎實的程式開發能力。\n* 熟悉 Linux 系統控制（如 Ubuntu Service 開發與管理）。\n* 具備 Socket Programming 開發經驗，熟悉網路通訊協定（如 TCP/IP）。\n* 能獨立架設與維護 Restful Server，理解 HTTP 通訊機制。\n* 良好的問題分析與解決能力，具團隊合作精神。\n* 英文讀寫能力良好，能理解相關技術文件。\n加分條件，交通工程相關經驗：\n* 熟悉智慧交通系統（ITS，Intelligent Transportation Systems）架構與應用。\n* 了解交通號誌控制邏輯與設計，能開發與整合交通控制系統。\n* 熟悉車輛偵測技術（如自動車牌辨識、交通流量偵測）。\n* 有智慧交通管理平台（如路口號誌系統、交通流量模擬系統）開發經驗者佳。\n* 熟悉交通數據分析與建模工具（如VISSIM、SUMO）者尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n擅長工具：Linux、Git、Socket、C#\n工作技能：軟體工程系統開發、軟體程式設計、系統架構規劃\n其他條件：熟悉C程式語言，具備扎實的程式開發能力。\n* 熟悉 Linux 系統控制（如 Ubuntu Service 開發與管理）。\n* 具備 Socket Programming 開發經驗，熟悉網路通訊協定（如 TCP/IP）。\n* 能獨立架設與維護 Restful Server，理解 HTTP 通訊機制。\n* 良好的問題分析與解決能力，具團隊合作精神。\n* 英文讀寫能力良好，能理解相關技術文件。\n加分條件，交通工程相關經驗：\n* 熟悉智慧交通系統（ITS，Intelligent Transportation Systems）架構與應用。\n* 了解交通號誌控制邏輯與設計，能開發與整合交通控制系統。\n* 熟悉車輛偵測技術（如自動車牌辨識、交通流量偵測）。\n* 有智慧交通管理平台（如路口號誌系統、交通流量模擬系統）開發經驗者佳。\n* 熟悉交通數據分析與建模工具（如VISSIM、SUMO）者尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91ijm",
+    "job_url": "https://www.104.com.tw/job/91ijm",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91ijm.json",
+    "raw_sha256": "4a558d66152f30185c2a0ac8e5d81c0a05e554f2efa23c4ed2653411241dcd01",
+    "requested_url": "https://www.104.com.tw/api/jobs/91ijm"
+  }
+}

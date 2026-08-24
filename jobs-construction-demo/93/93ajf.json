@@ -1,0 +1,177 @@
+{
+  "company": {
+    "id": "1a2x6bimny",
+    "name": "Cooler Master_訊凱國際股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "數據分析師／資料分析師",
+      "資料庫管理人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "建立 MES／ERP／IoT 設備等資料來源之整合架構"
+        },
+        {
+          "children": [],
+          "text": "設計並開發 ETL / ELT Pipeline，處理大量製造數據"
+        },
+        {
+          "children": [],
+          "text": "設置即時資料串流平台（Kafka／MQTT）"
+        },
+        {
+          "children": [],
+          "text": "規劃 Data Model、資料清洗及資料品質管理"
+        },
+        {
+          "children": [],
+          "text": "建立 Omniverse / Digital Twin 所需資料介接"
+        },
+        {
+          "children": [],
+          "text": "與 AI Team 合作提供模型訓練資料"
+        },
+        {
+          "children": [],
+          "text": "建立 API、Database、Message Queue 等資料交換機制"
+        },
+        {
+          "children": [],
+          "text": "維護 Data Pipeline 穩定性及效能最佳化"
+        }
+      ],
+      "text": "加入 Cooler Master Digital Twin 團隊，你將負責建立智慧工廠資料流(Data Pipeline)，串接 MES、ERP、IoT 等製造系統，打造即時資料平台，作為 Digital Twin、AI 分析及 Omniverse 模擬的重要基礎。\n你將與 AI Engineer、Digital Twin Engineer、MES Engineer 共同合作，建立企業級資料整合架構。\n工作內容\n1. 建立 MES／ERP／IoT 設備等資料來源之整合架構\n2. 設計並開發 ETL / ELT Pipeline，處理大量製造數據\n3. 設置即時資料串流平台（Kafka／MQTT）\n4. 規劃 Data Model、資料清洗及資料品質管理\n5. 建立 Omniverse / Digital Twin 所需資料介接\n6. 與 AI Team 合作提供模型訓練資料\n7. 建立 API、Database、Message Queue 等資料交換機制\n8. 維護 Data Pipeline 穩定性及效能最佳化"
+    },
+    "employment_type_raw": "全職",
+    "title": "Data Integration Engineer｜數據整合工程師 (Digital Twin)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區新湖一路398號",
+    "raw": "台北市內湖區新湖一路398號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "必備條件\n1. 三年以上 Data Engineer / ETL 開發經驗\n2. 熟悉 Python / SQL，具備 Apache Kafka 等串流處理經驗​\n3. 具備 REST API / MQTT / OPC-UA 等工業通訊協定經驗\n4. 了解資料庫系統（PostgreSQL / MongoDB / InfluxDB）\n加分條件\n1. 製造業 MES / ERP 系統整合經驗​\n2. 雲端平台（AWS / Azure / GCP）經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "必備條件\n1. 三年以上 Data Engineer / ETL 開發經驗\n2. 熟悉 Python / SQL，具備 Apache Kafka 等串流處理經驗​\n3. 具備 REST API / MQTT / OPC-UA 等工業通訊協定經驗\n4. 了解資料庫系統（PostgreSQL / MongoDB / InfluxDB）\n加分條件\n1. 製造業 MES / ERP 系統整合經驗​\n2. 雲端平台（AWS / Azure / GCP）經驗",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n其他條件：必備條件\n1. 三年以上 Data Engineer / ETL 開發經驗\n2. 熟悉 Python / SQL，具備 Apache Kafka 等串流處理經驗​\n3. 具備 REST API / MQTT / OPC-UA 等工業通訊協定經驗\n4. 了解資料庫系統（PostgreSQL / MongoDB / InfluxDB）\n加分條件\n1. 製造業 MES / ERP 系統整合經驗​\n2. 雲端平台（AWS / Azure / GCP）經驗",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 84
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:49:17+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "加入 Cooler Master Digital Twin 團隊，你將負責建立智慧工廠資料流(Data Pipeline)，串接 MES、ERP、IoT 等製造系統，打造即時資料平台，作為 Digital Twin、AI 分析及 Omniverse 模擬的重要基礎。\n你將與 AI Engineer、Digital Twin Engineer、MES Engineer 共同合作，建立企業級資料整合架構。\n工作內容\n1. 建立 MES／ERP／IoT 設備等資料來源之整合架構\n2. 設計並開發 ETL / ELT Pipeline，處理大量製造數據\n3. 設置即時資料串流平台（Kafka／MQTT）\n4. 規劃 Data Model、資料清洗及資料品質管理\n5. 建立 Omniverse / Digital Twin 所需資料介接\n6. 與 AI Team 合作提供模型訓練資料\n7. 建立 API、Database、Message Queue 等資料交換機制\n8. 維護 Data Pipeline 穩定性及效能最佳化",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "數據分析師／資料分析師",
+            "資料庫管理人員"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、數據分析師／資料分析師、資料庫管理人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區新湖一路398號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "加入 Cooler Master Digital Twin 團隊，你將負責建立智慧工廠資料流(Data Pipeline)，串接 MES、ERP、IoT 等製造系統，打造即時資料平台，作為 Digital Twin、AI 分析及 Omniverse 模擬的重要基礎。\n你將與 AI Engineer、Digital Twin Engineer、MES Engineer 共同合作，建立企業級資料整合架構。\n工作內容\n1. 建立 MES／ERP／IoT 設備等資料來源之整合架構\n2. 設計並開發 ETL / ELT Pipeline，處理大量製造數據\n3. 設置即時資料串流平台（Kafka／MQTT）\n4. 規劃 Data Model、資料清洗及資料品質管理\n5. 建立 Omniverse / Digital Twin 所需資料介接\n6. 與 AI Team 合作提供模型訓練資料\n7. 建立 API、Database、Message Queue 等資料交換機制\n8. 維護 Data Pipeline 穩定性及效能最佳化"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "必備條件\n1. 三年以上 Data Engineer / ETL 開發經驗\n2. 熟悉 Python / SQL，具備 Apache Kafka 等串流處理經驗​\n3. 具備 REST API / MQTT / OPC-UA 等工業通訊協定經驗\n4. 了解資料庫系統（PostgreSQL / MongoDB / InfluxDB）\n加分條件\n1. 製造業 MES / ERP 系統整合經驗​\n2. 雲端平台（AWS / Azure / GCP）經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n其他條件：必備條件\n1. 三年以上 Data Engineer / ETL 開發經驗\n2. 熟悉 Python / SQL，具備 Apache Kafka 等串流處理經驗​\n3. 具備 REST API / MQTT / OPC-UA 等工業通訊協定經驗\n4. 了解資料庫系統（PostgreSQL / MongoDB / InfluxDB）\n加分條件\n1. 製造業 MES / ERP 系統整合經驗​\n2. 雲端平台（AWS / Azure / GCP）經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "93ajf",
+    "job_url": "https://www.104.com.tw/job/93ajf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93ajf.json",
+    "raw_sha256": "91e22835489b4593e90e4dbbcfa8e2dc4dad6a092626bbe62a9267e0dc978e9b",
+    "requested_url": "https://www.104.com.tw/api/jobs/93ajf"
+  }
+}

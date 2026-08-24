@@ -1,0 +1,229 @@
+{
+  "company": {
+    "id": "13u156q8",
+    "name": "由田新技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "維護與優化公司內部軟體開發流程系統(C#/.NET開發)。"
+        },
+        {
+          "children": [],
+          "text": "整合CI/CD自動化流程(部署、測試、建置等功能)。"
+        },
+        {
+          "children": [],
+          "text": "管理與擴充Git倉庫整合相關工具。"
+        },
+        {
+          "children": [],
+          "text": "撰寫技術與使用文件，協助內部團隊導入軟體開發工作流程。"
+        },
+        {
+          "children": [],
+          "text": "問題排查與功能優化，持續改善系統效能與穩定性。"
+        }
+      ],
+      "text": "1. 維護與優化公司內部軟體開發流程系統(C#/.NET開發)。\n2. 整合CI/CD自動化流程(部署、測試、建置等功能)。\n3. 管理與擴充Git倉庫整合相關工具。\n4. 撰寫技術與使用文件，協助內部團隊導入軟體開發工作流程。\n5. 問題排查與功能優化，持續改善系統效能與穩定性。"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統開發與維護工程師"
+  },
+  "location": {
+    "address_raw": "新北市中和區連城路268號10樓之1",
+    "raw": "新北市中和區連城路268號10樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、工程學科類"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Git",
+          "C",
+          "C#",
+          "C++",
+          "Visual Studio"
+        ],
+        "label": "擅長工具",
+        "text": "Git、C、C#、C++、Visual Studio"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "必要條件:\n* 熟悉C#與.NET框架開發\n* 熟悉Git版本控管與日常操作\n* 了解軟體開發流程概念(CI/CD、自動部署、自動測試等)\n* 具備獨立開發與除錯的能力\n加分條件:\n* 具備基本Linux操作與指令使用經驗\n* 有Jenkins、GitLab CI、Azure DevOps等CI/CD系統開發經驗\n* 熟悉Docker或Kubernetes等容器技術\n* 熟悉自動化測試工具(如xUnit、NUnit)"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "數學及電算機科學學科類",
+      "工程學科類"
+    ],
+    "other_text": "必要條件:\n* 熟悉C#與.NET框架開發\n* 熟悉Git版本控管與日常操作\n* 了解軟體開發流程概念(CI/CD、自動部署、自動測試等)\n* 具備獨立開發與除錯的能力\n加分條件:\n* 具備基本Linux操作與指令使用經驗\n* 有Jenkins、GitLab CI、Azure DevOps等CI/CD系統開發經驗\n* 熟悉Docker或Kubernetes等容器技術\n* 熟悉自動化測試工具(如xUnit、NUnit)",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、工程學科類\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Git、C、C#、C++、Visual Studio\n其他條件：必要條件:\n* 熟悉C#與.NET框架開發\n* 熟悉Git版本控管與日常操作\n* 了解軟體開發流程概念(CI/CD、自動部署、自動測試等)\n* 具備獨立開發與除錯的能力\n加分條件:\n* 具備基本Linux操作與指令使用經驗\n* 有Jenkins、GitLab CI、Azure DevOps等CI/CD系統開發經驗\n* 熟悉Docker或Kubernetes等容器技術\n* 熟悉自動化測試工具(如xUnit、NUnit)",
+    "tools": [
+      "Git",
+      "C",
+      "C#",
+      "C++",
+      "Visual Studio"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 1
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:21:26+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 維護與優化公司內部軟體開發流程系統(C#/.NET開發)。\n2. 整合CI/CD自動化流程(部署、測試、建置等功能)。\n3. 管理與擴充Git倉庫整合相關工具。\n4. 撰寫技術與使用文件，協助內部團隊導入軟體開發工作流程。\n5. 問題排查與功能優化，持續改善系統效能與穩定性。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區連城路268號10樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 維護與優化公司內部軟體開發流程系統(C#/.NET開發)。\n2. 整合CI/CD自動化流程(部署、測試、建置等功能)。\n3. 管理與擴充Git倉庫整合相關工具。\n4. 撰寫技術與使用文件，協助內部團隊導入軟體開發工作流程。\n5. 問題排查與功能優化，持續改善系統效能與穩定性。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "C",
+            "C#",
+            "C++",
+            "Visual Studio"
+          ],
+          "label": "擅長工具",
+          "text": "Git、C、C#、C++、Visual Studio",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "必要條件:\n* 熟悉C#與.NET框架開發\n* 熟悉Git版本控管與日常操作\n* 了解軟體開發流程概念(CI/CD、自動部署、自動測試等)\n* 具備獨立開發與除錯的能力\n加分條件:\n* 具備基本Linux操作與指令使用經驗\n* 有Jenkins、GitLab CI、Azure DevOps等CI/CD系統開發經驗\n* 熟悉Docker或Kubernetes等容器技術\n* 熟悉自動化測試工具(如xUnit、NUnit)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、工程學科類\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Git、C、C#、C++、Visual Studio\n其他條件：必要條件:\n* 熟悉C#與.NET框架開發\n* 熟悉Git版本控管與日常操作\n* 了解軟體開發流程概念(CI/CD、自動部署、自動測試等)\n* 具備獨立開發與除錯的能力\n加分條件:\n* 具備基本Linux操作與指令使用經驗\n* 有Jenkins、GitLab CI、Azure DevOps等CI/CD系統開發經驗\n* 熟悉Docker或Kubernetes等容器技術\n* 熟悉自動化測試工具(如xUnit、NUnit)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/22",
+    "html_sha256": null,
+    "job_id": "3244h",
+    "job_url": "https://www.104.com.tw/job/3244h",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/3244h.json",
+    "raw_sha256": "2ffe2c3a0ca41e23a2ae7407e0221ed3d9a322137b4b402859b2967500c19dc5",
+    "requested_url": "https://www.104.com.tw/api/jobs/3244h"
+  }
+}

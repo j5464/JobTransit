@@ -1,0 +1,218 @@
+{
+  "company": {
+    "id": "13u3sbvs",
+    "name": "緯致科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "數位IC設計工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Defect Triage & Analysis: Investigate and categorize reported issues, including incorrect computation results, API failures, and build errors across different distributions."
+        },
+        {
+          "children": [],
+          "text": "Build & Compatibility Issue Resolution: Ensure library builds successfully on various platforms and distributions (Ubuntu, Red Hat, SLES, CentOS) and identify root causes of failures."
+        },
+        {
+          "children": [],
+          "text": "Client Tool Support: Assist in maintaining and enhancing functionalities within the library tools to support debugging and performance analysis."
+        },
+        {
+          "children": [],
+          "text": "Cross-Team Collaboration: Work closely with developers, QA, and support teams to diagnose, prioritize, and resolve issues efficiently."
+        }
+      ],
+      "text": "Key Responsibilities\n• Defect Triage & Analysis: Investigate and categorize reported issues, including incorrect computation results, API failures, and build errors across different distributions.\n• Build & Compatibility Issue Resolution: Ensure library builds successfully on various platforms and distributions (Ubuntu, Red Hat, SLES, CentOS) and identify root causes of failures.\n• Client Tool Support: Assist in maintaining and enhancing functionalities within the library tools to support debugging and performance analysis.\n• Cross-Team Collaboration: Work closely with developers, QA, and support teams to diagnose, prioritize, and resolve issues efficiently."
+    },
+    "employment_type_raw": "全職",
+    "title": "T－Software Engineer – GPU & Performance Analysis（台北）"
+  },
+  "location": {
+    "address_raw": "台北市南港區or新竹公道五路程or遠端",
+    "raw": "台北市南港區or新竹公道五路程or遠端"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Required Qualifications\n• Strong understanding of C/C++/Python and debugging techniques.\n• Experience with Linux build systems (CMake, Make) and troubleshooting software build failures.\n• Familiarity with GPU programming (CUDA, HIP, OpenCL) and GEMM libraries is a plus.\n• Hands-on experience with Ubuntu, Red Hat, SLES, CentOS distributions.\n• Good analytical and problem-solving skills to diagnose issues effectively."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "Required Qualifications\n• Strong understanding of C/C++/Python and debugging techniques.\n• Experience with Linux build systems (CMake, Make) and troubleshooting software build failures.\n• Familiarity with GPU programming (CUDA, HIP, OpenCL) and GEMM libraries is a plus.\n• Hands-on experience with Ubuntu, Red Hat, SLES, CentOS distributions.\n• Good analytical and problem-solving skills to diagnose issues effectively.",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Python\n其他條件：Required Qualifications\n• Strong understanding of C/C++/Python and debugging techniques.\n• Experience with Linux build systems (CMake, Make) and troubleshooting software build failures.\n• Familiarity with GPU programming (CUDA, HIP, OpenCL) and GEMM libraries is a plus.\n• Hands-on experience with Ubuntu, Red Hat, SLES, CentOS distributions.\n• Good analytical and problem-solving skills to diagnose issues effectively.",
+    "tools": [
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 64
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:00:58+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Key Responsibilities\n• Defect Triage & Analysis: Investigate and categorize reported issues, including incorrect computation results, API failures, and build errors across different distributions.\n• Build & Compatibility Issue Resolution: Ensure library builds successfully on various platforms and distributions (Ubuntu, Red Hat, SLES, CentOS) and identify root causes of failures.\n• Client Tool Support: Assist in maintaining and enhancing functionalities within the library tools to support debugging and performance analysis.\n• Cross-Team Collaboration: Work closely with developers, QA, and support teams to diagnose, prioritize, and resolve issues efficiently.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "數位IC設計工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、數位IC設計工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區or新竹公道五路程or遠端",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Key Responsibilities\n• Defect Triage & Analysis: Investigate and categorize reported issues, including incorrect computation results, API failures, and build errors across different distributions.\n• Build & Compatibility Issue Resolution: Ensure library builds successfully on various platforms and distributions (Ubuntu, Red Hat, SLES, CentOS) and identify root causes of failures.\n• Client Tool Support: Assist in maintaining and enhancing functionalities within the library tools to support debugging and performance analysis.\n• Cross-Team Collaboration: Work closely with developers, QA, and support teams to diagnose, prioritize, and resolve issues efficiently."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Required Qualifications\n• Strong understanding of C/C++/Python and debugging techniques.\n• Experience with Linux build systems (CMake, Make) and troubleshooting software build failures.\n• Familiarity with GPU programming (CUDA, HIP, OpenCL) and GEMM libraries is a plus.\n• Hands-on experience with Ubuntu, Red Hat, SLES, CentOS distributions.\n• Good analytical and problem-solving skills to diagnose issues effectively.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Python\n其他條件：Required Qualifications\n• Strong understanding of C/C++/Python and debugging techniques.\n• Experience with Linux build systems (CMake, Make) and troubleshooting software build failures.\n• Familiarity with GPU programming (CUDA, HIP, OpenCL) and GEMM libraries is a plus.\n• Hands-on experience with Ubuntu, Red Hat, SLES, CentOS distributions.\n• Good analytical and problem-solving skills to diagnose issues effectively."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8o16y",
+    "job_url": "https://www.104.com.tw/job/8o16y",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8o16y.json",
+    "raw_sha256": "0543d067c842dcaffad173e8df4479293714881655b1002a8949f715566369ae",
+    "requested_url": "https://www.104.com.tw/api/jobs/8o16y"
+  }
+}

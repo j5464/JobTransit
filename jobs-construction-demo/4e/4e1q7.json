@@ -1,0 +1,205 @@
+{
+  "company": {
+    "id": "1a2x6birz8",
+    "name": "當若科技藝術股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "遊戲工程師",
+      "多媒體開發主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "遊戲引擎： Unity 或 Unreal Engine 。"
+        },
+        {
+          "children": [],
+          "text": "視覺化編程： TouchDesigner、vvvv 或 Max/MSP 。"
+        },
+        {
+          "children": [],
+          "text": "程式框架： openFrameworks 或 Processing (Java/Python)。"
+        },
+        {
+          "children": [],
+          "text": "網頁互動： Three.js 或 PixiJS。"
+        }
+      ],
+      "text": "一、開發工具 (必備，至少精通一項)：\n1.遊戲引擎： Unity 或 Unreal Engine 。\n2.視覺化編程： TouchDesigner、vvvv 或 Max/MSP 。\n3.程式框架： openFrameworks 或 Processing (Java/Python)。\n4.網頁互動： Three.js 或 PixiJS。\n二、系統整合:熟練使用 UDP/TCP, OSC, MIDI, Serial Port (RS232/485)、感測設備串接、熟悉 DMX/Art-Net 協定以控制燈光。\n三、視覺與美感素養與現場調校"
+    },
+    "employment_type_raw": "全職",
+    "title": "互動程式設計師"
+  },
+  "location": {
+    "address_raw": "台北市中山區松江路156巷9號1樓",
+    "raw": "台北市中山區松江路156巷9號1樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中、專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中、專科、大學、碩士"
+      },
+      {
+        "items": [
+          "C#",
+          "C++",
+          "Unity3D",
+          "Unreal Engine"
+        ],
+        "label": "擅長工具",
+        "text": "C#、C++、Unity3D、Unreal Engine"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "軟體工程系統開發",
+          "多媒體技術開發",
+          "多媒體影像處理",
+          "動畫程式撰寫"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、軟體工程系統開發、多媒體技術開發、多媒體影像處理、動畫程式撰寫"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "系統架構規劃",
+      "軟體工程系統開發",
+      "多媒體技術開發",
+      "多媒體影像處理",
+      "動畫程式撰寫"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：高中、專科、大學、碩士\n擅長工具：C#、C++、Unity3D、Unreal Engine\n工作技能：系統架構規劃、軟體工程系統開發、多媒體技術開發、多媒體影像處理、動畫程式撰寫",
+    "tools": [
+      "C#",
+      "C++",
+      "Unity3D",
+      "Unreal Engine"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 35
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:47:55+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "一、開發工具 (必備，至少精通一項)：\n1.遊戲引擎： Unity 或 Unreal Engine 。\n2.視覺化編程： TouchDesigner、vvvv 或 Max/MSP 。\n3.程式框架： openFrameworks 或 Processing (Java/Python)。\n4.網頁互動： Three.js 或 PixiJS。\n二、系統整合:熟練使用 UDP/TCP, OSC, MIDI, Serial Port (RS232/485)、感測設備串接、熟悉 DMX/Art-Net 協定以控制燈光。\n三、視覺與美感素養與現場調校",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "遊戲工程師",
+            "多媒體開發主管"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、遊戲工程師、多媒體開發主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區松江路156巷9號1樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "一、開發工具 (必備，至少精通一項)：\n1.遊戲引擎： Unity 或 Unreal Engine 。\n2.視覺化編程： TouchDesigner、vvvv 或 Max/MSP 。\n3.程式框架： openFrameworks 或 Processing (Java/Python)。\n4.網頁互動： Three.js 或 PixiJS。\n二、系統整合:熟練使用 UDP/TCP, OSC, MIDI, Serial Port (RS232/485)、感測設備串接、熟悉 DMX/Art-Net 協定以控制燈光。\n三、視覺與美感素養與現場調校"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中、專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "C++",
+            "Unity3D",
+            "Unreal Engine"
+          ],
+          "label": "擅長工具",
+          "text": "C#、C++、Unity3D、Unreal Engine",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "軟體工程系統開發",
+            "多媒體技術開發",
+            "多媒體影像處理",
+            "動畫程式撰寫"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、軟體工程系統開發、多媒體技術開發、多媒體影像處理、動畫程式撰寫",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：高中、專科、大學、碩士\n擅長工具：C#、C++、Unity3D、Unreal Engine\n工作技能：系統架構規劃、軟體工程系統開發、多媒體技術開發、多媒體影像處理、動畫程式撰寫"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "4e1q7",
+    "job_url": "https://www.104.com.tw/job/4e1q7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/4e1q7.json",
+    "raw_sha256": "6da2920408b70bf51cb2c50fbad6d48afd851c6509b1403150de1e086f39f2bd",
+    "requested_url": "https://www.104.com.tw/api/jobs/4e1q7"
+  }
+}

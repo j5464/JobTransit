@@ -1,0 +1,256 @@
+{
+  "company": {
+    "id": "1a2x6bn2p5",
+    "name": "威凜科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "YOLO 視覺辨識模型訓練與優化 / Vision Detection Model Training & Optimization"
+        },
+        {
+          "children": [],
+          "text": "機器學習漁場預測模型訓練與優化 / Machine Learning Fishing Ground Prediction"
+        },
+        {
+          "children": [],
+          "text": "LLM 應用開發 / LLM Application Development"
+        }
+      ],
+      "text": "本職位負責跨產品線的 AI 系統開發與整合，核心工作涵蓋三大領域：影像辨識、機器學習預測系統、以及 LLM/Agent 應用開發。不侷限於單一技術領域，需具備將各類 AI 技術落地到實際產品與內部流程中的能力。\nThis role is responsible for cross-product-line AI system development and integration, spanning three core domains: computer vision, machine learning prediction systems, and LLM/agent application development. Rather than specializing in a single domain, this engineer will apply a broad range of AI techniques into both production systems and internal workflows.\n【主要工作內容 / Key Responsibilities】\n1. YOLO 視覺辨識模型訓練與優化 / Vision Detection Model Training & Optimization\n・基於 Ultralytics YOLO 進行魚群 / 船隻目標偵測模型的訓練、評估、超參數調優\nTrain, evaluate, and tune hyperparameters for fish/vessel detection models using Ultralytics YOLO\n・模型推論優化與匯出（ONNX / TensorRT），支援邊緣裝置部署\nOptimize inference performance and export models (ONNX / TensorRT) for edge deployment\n・管理 CVAT 標注後處理流程與訓練資料品質\nManage CVAT annotation post-processing workflows and training data quality\n2. 機器學習漁場預測模型訓練與優化 / Machine Learning Fishing Ground Prediction\n・整合衛星環境資料（SST、葉綠素、洋流）與船載感測器訊號（聲納、雷達），設計 ETL 與特徵工程管線\nIntegrate satellite environmental data (SST, chlorophyll, currents) with onboard sensor signals (sonar, radar); design ETL and feature engineering pipelines\n・訓練與優化 CPUE / 漁場預測模型，結合時序、空間與環境變數\nTrain and optimize CPUE / fishing ground prediction models incorporating temporal, spatial, and environmental variables\n・開發邊緣端推論模組，支援每日漁場建議與離線容錯機制\nDevelop edge inference modules for daily fishing ground recommendations and offline fallback mechanisms\n3. LLM 應用開發 / LLM Application Development\n・使用 Google ADK (Agent Development Kit)、Gemini SDK 開發 Agent 應用，串接內部系統與工作流程\nBuild agent applications using Google ADK (Agent Development Kit) and the Gemini SDK, integrating with internal systems and workflows\n・使用 n8n 設計自動化流程，串接 LLM 與既有系統（如文件生成、資料處理、通知系統）\nDesign automation workflows using n8n to connect LLM capabilities with existing systems (e.g., document generation, data processing, notifications)\n・評估並導入 RAG、Prompt Engineering 等技術於內部效率工具與客戶端功能\nEvaluate and implement RAG, prompt engineering, and related techniques for internal efficiency tools and customer-facing features"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI 工程師 / AI Engineer"
+  },
+  "location": {
+    "address_raw": "台北市松山區南京東路四段2號4樓(Taiwan Tech Arena)",
+    "raw": "台北市松山區南京東路四段2號4樓(Taiwan Tech Arena)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "統計學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、統計學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python",
+          "Git"
+        ],
+        "label": "擅長工具",
+        "text": "Python、Git"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "AI",
+          "系統整合分析",
+          "資料庫軟體應用",
+          "Machine Learning",
+          "機器學習",
+          "人工智慧",
+          "電腦視覺"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、AI、系統整合分析、資料庫軟體應用、Machine Learning、機器學習、人工智慧、電腦視覺"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【資格條件 / Requirements】\n・大學（含）以上，資訊工程、電機工程、統計或相關科系\nBachelor’s degree or above in Computer Science, Electrical Engineering, Statistics, or a related field\n・5 年以上 AI / 機器學習實作經驗，且在上述三大領域中至少具備兩項的實作經驗\n5+ years of hands-on AI/ML experience, with practical experience in at least two of the three domains above\n・熟悉 Python，具備良好的軟體工程實踐（版本控制、模組化程式碼、測試）\nProficient in Python with solid software engineering practices (version control, modular code, testing)\n・熟悉至少一種主流深度學習框架（PyTorch / TensorFlow），並具備跨框架學習能力\nFamiliar with at least one major deep learning framework (PyTorch / TensorFlow), with demonstrated ability to pick up new frameworks/tools quickly\n・熟悉 pandas、NumPy、xarray 等資料處理工具\nFamiliar with data processing tools such as pandas, NumPy, and xarray\n・熟悉 Git 與 Conventional Commits 規範\nFamiliar with Git and the Conventional Commits standard\n・具備將 AI 技術轉譯為產品功能的能力，能與非技術背景的產品/業務團隊溝通\nAbility to translate AI capabilities into product features and communicate effectively with non-technical product/business stakeholders\n---\n【加分條件 / Nice to Have】\n・具備 ONNX、TensorRT、或其他邊緣推論部署經驗\nExperience with ONNX, TensorRT, or other edge inference deployment\n・具備 Google ADK、Gemini SDK 或其他 Agent 開發框架（LangChain、LangGraph 等）經驗\nExperience with Google ADK, Gemini SDK, or other agent development frameworks (LangChain, LangGraph, etc.)\n・具備 n8n 或其他工作流自動化工具經驗\nExperience with n8n or other workflow automation tools\n・具備 Copernicus Marine Service 或其他環境資料源使用經驗\nExperience using Copernicus Marine Service or other environmental data sources\n・具備時間序列特徵工程、海洋氣候相關領域知識\nKnowledge of time-series feature engineering or ocean/climate-related domains\n・具備 CVAT 或其他資料標注平台使用經驗\nExperience with CVAT or other data annotation platforms\n・具備 CUDA、nvidia-container-toolkit、或 MLOps（模型監控、CI/CD for ML）經驗\nExperience with CUDA, nvidia-container-toolkit, or MLOps (model monitoring, CI/CD for ML)"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "統計學相關"
+    ],
+    "other_text": "【資格條件 / Requirements】\n・大學（含）以上，資訊工程、電機工程、統計或相關科系\nBachelor’s degree or above in Computer Science, Electrical Engineering, Statistics, or a related field\n・5 年以上 AI / 機器學習實作經驗，且在上述三大領域中至少具備兩項的實作經驗\n5+ years of hands-on AI/ML experience, with practical experience in at least two of the three domains above\n・熟悉 Python，具備良好的軟體工程實踐（版本控制、模組化程式碼、測試）\nProficient in Python with solid software engineering practices (version control, modular code, testing)\n・熟悉至少一種主流深度學習框架（PyTorch / TensorFlow），並具備跨框架學習能力\nFamiliar with at least one major deep learning framework (PyTorch / TensorFlow), with demonstrated ability to pick up new frameworks/tools quickly\n・熟悉 pandas、NumPy、xarray 等資料處理工具\nFamiliar with data processing tools such as pandas, NumPy, and xarray\n・熟悉 Git 與 Conventional Commits 規範\nFamiliar with Git and the Conventional Commits standard\n・具備將 AI 技術轉譯為產品功能的能力，能與非技術背景的產品/業務團隊溝通\nAbility to translate AI capabilities into product features and communicate effectively with non-technical product/business stakeholders\n---\n【加分條件 / Nice to Have】\n・具備 ONNX、TensorRT、或其他邊緣推論部署經驗\nExperience with ONNX, TensorRT, or other edge inference deployment\n・具備 Google ADK、Gemini SDK 或其他 Agent 開發框架（LangChain、LangGraph 等）經驗\nExperience with Google ADK, Gemini SDK, or other agent development frameworks (LangChain, LangGraph, etc.)\n・具備 n8n 或其他工作流自動化工具經驗\nExperience with n8n or other workflow automation tools\n・具備 Copernicus Marine Service 或其他環境資料源使用經驗\nExperience using Copernicus Marine Service or other environmental data sources\n・具備時間序列特徵工程、海洋氣候相關領域知識\nKnowledge of time-series feature engineering or ocean/climate-related domains\n・具備 CVAT 或其他資料標注平台使用經驗\nExperience with CVAT or other data annotation platforms\n・具備 CUDA、nvidia-container-toolkit、或 MLOps（模型監控、CI/CD for ML）經驗\nExperience with CUDA, nvidia-container-toolkit, or MLOps (model monitoring, CI/CD for ML)",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "AI",
+      "系統整合分析",
+      "資料庫軟體應用",
+      "Machine Learning",
+      "機器學習",
+      "人工智慧",
+      "電腦視覺"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、統計學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Git\n工作技能：軟體工程系統開發、軟體程式設計、AI、系統整合分析、資料庫軟體應用、Machine Learning、機器學習、人工智慧、電腦視覺\n其他條件：【資格條件 / Requirements】\n・大學（含）以上，資訊工程、電機工程、統計或相關科系\nBachelor’s degree or above in Computer Science, Electrical Engineering, Statistics, or a related field\n・5 年以上 AI / 機器學習實作經驗，且在上述三大領域中至少具備兩項的實作經驗\n5+ years of hands-on AI/ML experience, with practical experience in at least two of the three domains above\n・熟悉 Python，具備良好的軟體工程實踐（版本控制、模組化程式碼、測試）\nProficient in Python with solid software engineering practices (version control, modular code, testing)\n・熟悉至少一種主流深度學習框架（PyTorch / TensorFlow），並具備跨框架學習能力\nFamiliar with at least one major deep learning framework (PyTorch / TensorFlow), with demonstrated ability to pick up new frameworks/tools quickly\n・熟悉 pandas、NumPy、xarray 等資料處理工具\nFamiliar with data processing tools such as pandas, NumPy, and xarray\n・熟悉 Git 與 Conventional Commits 規範\nFamiliar with Git and the Conventional Commits standard\n・具備將 AI 技術轉譯為產品功能的能力，能與非技術背景的產品/業務團隊溝通\nAbility to translate AI capabilities into product features and communicate effectively with non-technical product/business stakeholders\n---\n【加分條件 / Nice to Have】\n・具備 ONNX、TensorRT、或其他邊緣推論部署經驗\nExperience with ONNX, TensorRT, or other edge inference deployment\n・具備 Google ADK、Gemini SDK 或其他 Agent 開發框架（LangChain、LangGraph 等）經驗\nExperience with Google ADK, Gemini SDK, or other agent development frameworks (LangChain, LangGraph, etc.)\n・具備 n8n 或其他工作流自動化工具經驗\nExperience with n8n or other workflow automation tools\n・具備 Copernicus Marine Service 或其他環境資料源使用經驗\nExperience using Copernicus Marine Service or other environmental data sources\n・具備時間序列特徵工程、海洋氣候相關領域知識\nKnowledge of time-series feature engineering or ocean/climate-related domains\n・具備 CVAT 或其他資料標注平台使用經驗\nExperience with CVAT or other data annotation platforms\n・具備 CUDA、nvidia-container-toolkit、或 MLOps（模型監控、CI/CD for ML）經驗\nExperience with CUDA, nvidia-container-toolkit, or MLOps (model monitoring, CI/CD for ML)",
+    "tools": [
+      "Python",
+      "Git"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 91
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:06:29+08:00"
+  },
+  "salary": {
+    "raw": "年薪1,200,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "本職位負責跨產品線的 AI 系統開發與整合，核心工作涵蓋三大領域：影像辨識、機器學習預測系統、以及 LLM/Agent 應用開發。不侷限於單一技術領域，需具備將各類 AI 技術落地到實際產品與內部流程中的能力。\nThis role is responsible for cross-product-line AI system development and integration, spanning three core domains: computer vision, machine learning prediction systems, and LLM/agent application development. Rather than specializing in a single domain, this engineer will apply a broad range of AI techniques into both production systems and internal workflows.\n【主要工作內容 / Key Responsibilities】\n1. YOLO 視覺辨識模型訓練與優化 / Vision Detection Model Training & Optimization\n・基於 Ultralytics YOLO 進行魚群 / 船隻目標偵測模型的訓練、評估、超參數調優\nTrain, evaluate, and tune hyperparameters for fish/vessel detection models using Ultralytics YOLO\n・模型推論優化與匯出（ONNX / TensorRT），支援邊緣裝置部署\nOptimize inference performance and export models (ONNX / TensorRT) for edge deployment\n・管理 CVAT 標注後處理流程與訓練資料品質\nManage CVAT annotation post-processing workflows and training data quality\n2. 機器學習漁場預測模型訓練與優化 / Machine Learning Fishing Ground Prediction\n・整合衛星環境資料（SST、葉綠素、洋流）與船載感測器訊號（聲納、雷達），設計 ETL 與特徵工程管線\nIntegrate satellite environmental data (SST, chlorophyll, currents) with onboard sensor signals (sonar, radar); design ETL and feature engineering pipelines\n・訓練與優化 CPUE / 漁場預測模型，結合時序、空間與環境變數\nTrain and optimize CPUE / fishing ground prediction models incorporating temporal, spatial, and environmental variables\n・開發邊緣端推論模組，支援每日漁場建議與離線容錯機制\nDevelop edge inference modules for daily fishing ground recommendations and offline fallback mechanisms\n3. LLM 應用開發 / LLM Application Development\n・使用 Google ADK (Agent Development Kit)、Gemini SDK 開發 Agent 應用，串接內部系統與工作流程\nBuild agent applications using Google ADK (Agent Development Kit) and the Gemini SDK, integrating with internal systems and workflows\n・使用 n8n 設計自動化流程，串接 LLM 與既有系統（如文件生成、資料處理、通知系統）\nDesign automation workflows using n8n to connect LLM capabilities with existing systems (e.g., document generation, data processing, notifications)\n・評估並導入 RAG、Prompt Engineering 等技術於內部效率工具與客戶端功能\nEvaluate and implement RAG, prompt engineering, and related techniques for internal efficiency tools and customer-facing features",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪1,200,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區南京東路四段2號4樓(Taiwan Tech Arena)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "本職位負責跨產品線的 AI 系統開發與整合，核心工作涵蓋三大領域：影像辨識、機器學習預測系統、以及 LLM/Agent 應用開發。不侷限於單一技術領域，需具備將各類 AI 技術落地到實際產品與內部流程中的能力。\nThis role is responsible for cross-product-line AI system development and integration, spanning three core domains: computer vision, machine learning prediction systems, and LLM/agent application development. Rather than specializing in a single domain, this engineer will apply a broad range of AI techniques into both production systems and internal workflows.\n【主要工作內容 / Key Responsibilities】\n1. YOLO 視覺辨識模型訓練與優化 / Vision Detection Model Training & Optimization\n・基於 Ultralytics YOLO 進行魚群 / 船隻目標偵測模型的訓練、評估、超參數調優\nTrain, evaluate, and tune hyperparameters for fish/vessel detection models using Ultralytics YOLO\n・模型推論優化與匯出（ONNX / TensorRT），支援邊緣裝置部署\nOptimize inference performance and export models (ONNX / TensorRT) for edge deployment\n・管理 CVAT 標注後處理流程與訓練資料品質\nManage CVAT annotation post-processing workflows and training data quality\n2. 機器學習漁場預測模型訓練與優化 / Machine Learning Fishing Ground Prediction\n・整合衛星環境資料（SST、葉綠素、洋流）與船載感測器訊號（聲納、雷達），設計 ETL 與特徵工程管線\nIntegrate satellite environmental data (SST, chlorophyll, currents) with onboard sensor signals (sonar, radar); design ETL and feature engineering pipelines\n・訓練與優化 CPUE / 漁場預測模型，結合時序、空間與環境變數\nTrain and optimize CPUE / fishing ground prediction models incorporating temporal, spatial, and environmental variables\n・開發邊緣端推論模組，支援每日漁場建議與離線容錯機制\nDevelop edge inference modules for daily fishing ground recommendations and offline fallback mechanisms\n3. LLM 應用開發 / LLM Application Development\n・使用 Google ADK (Agent Development Kit)、Gemini SDK 開發 Agent 應用，串接內部系統與工作流程\nBuild agent applications using Google ADK (Agent Development Kit) and the Gemini SDK, integrating with internal systems and workflows\n・使用 n8n 設計自動化流程，串接 LLM 與既有系統（如文件生成、資料處理、通知系統）\nDesign automation workflows using n8n to connect LLM capabilities with existing systems (e.g., document generation, data processing, notifications)\n・評估並導入 RAG、Prompt Engineering 等技術於內部效率工具與客戶端功能\nEvaluate and implement RAG, prompt engineering, and related techniques for internal efficiency tools and customer-facing features"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "統計學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、統計學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "Git"
+          ],
+          "label": "擅長工具",
+          "text": "Python、Git",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "AI",
+            "系統整合分析",
+            "資料庫軟體應用",
+            "Machine Learning",
+            "機器學習",
+            "人工智慧",
+            "電腦視覺"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、AI、系統整合分析、資料庫軟體應用、Machine Learning、機器學習、人工智慧、電腦視覺",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【資格條件 / Requirements】\n・大學（含）以上，資訊工程、電機工程、統計或相關科系\nBachelor’s degree or above in Computer Science, Electrical Engineering, Statistics, or a related field\n・5 年以上 AI / 機器學習實作經驗，且在上述三大領域中至少具備兩項的實作經驗\n5+ years of hands-on AI/ML experience, with practical experience in at least two of the three domains above\n・熟悉 Python，具備良好的軟體工程實踐（版本控制、模組化程式碼、測試）\nProficient in Python with solid software engineering practices (version control, modular code, testing)\n・熟悉至少一種主流深度學習框架（PyTorch / TensorFlow），並具備跨框架學習能力\nFamiliar with at least one major deep learning framework (PyTorch / TensorFlow), with demonstrated ability to pick up new frameworks/tools quickly\n・熟悉 pandas、NumPy、xarray 等資料處理工具\nFamiliar with data processing tools such as pandas, NumPy, and xarray\n・熟悉 Git 與 Conventional Commits 規範\nFamiliar with Git and the Conventional Commits standard\n・具備將 AI 技術轉譯為產品功能的能力，能與非技術背景的產品/業務團隊溝通\nAbility to translate AI capabilities into product features and communicate effectively with non-technical product/business stakeholders\n---\n【加分條件 / Nice to Have】\n・具備 ONNX、TensorRT、或其他邊緣推論部署經驗\nExperience with ONNX, TensorRT, or other edge inference deployment\n・具備 Google ADK、Gemini SDK 或其他 Agent 開發框架（LangChain、LangGraph 等）經驗\nExperience with Google ADK, Gemini SDK, or other agent development frameworks (LangChain, LangGraph, etc.)\n・具備 n8n 或其他工作流自動化工具經驗\nExperience with n8n or other workflow automation tools\n・具備 Copernicus Marine Service 或其他環境資料源使用經驗\nExperience using Copernicus Marine Service or other environmental data sources\n・具備時間序列特徵工程、海洋氣候相關領域知識\nKnowledge of time-series feature engineering or ocean/climate-related domains\n・具備 CVAT 或其他資料標注平台使用經驗\nExperience with CVAT or other data annotation platforms\n・具備 CUDA、nvidia-container-toolkit、或 MLOps（模型監控、CI/CD for ML）經驗\nExperience with CUDA, nvidia-container-toolkit, or MLOps (model monitoring, CI/CD for ML)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、統計學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Git\n工作技能：軟體工程系統開發、軟體程式設計、AI、系統整合分析、資料庫軟體應用、Machine Learning、機器學習、人工智慧、電腦視覺\n其他條件：【資格條件 / Requirements】\n・大學（含）以上，資訊工程、電機工程、統計或相關科系\nBachelor’s degree or above in Computer Science, Electrical Engineering, Statistics, or a related field\n・5 年以上 AI / 機器學習實作經驗，且在上述三大領域中至少具備兩項的實作經驗\n5+ years of hands-on AI/ML experience, with practical experience in at least two of the three domains above\n・熟悉 Python，具備良好的軟體工程實踐（版本控制、模組化程式碼、測試）\nProficient in Python with solid software engineering practices (version control, modular code, testing)\n・熟悉至少一種主流深度學習框架（PyTorch / TensorFlow），並具備跨框架學習能力\nFamiliar with at least one major deep learning framework (PyTorch / TensorFlow), with demonstrated ability to pick up new frameworks/tools quickly\n・熟悉 pandas、NumPy、xarray 等資料處理工具\nFamiliar with data processing tools such as pandas, NumPy, and xarray\n・熟悉 Git 與 Conventional Commits 規範\nFamiliar with Git and the Conventional Commits standard\n・具備將 AI 技術轉譯為產品功能的能力，能與非技術背景的產品/業務團隊溝通\nAbility to translate AI capabilities into product features and communicate effectively with non-technical product/business stakeholders\n---\n【加分條件 / Nice to Have】\n・具備 ONNX、TensorRT、或其他邊緣推論部署經驗\nExperience with ONNX, TensorRT, or other edge inference deployment\n・具備 Google ADK、Gemini SDK 或其他 Agent 開發框架（LangChain、LangGraph 等）經驗\nExperience with Google ADK, Gemini SDK, or other agent development frameworks (LangChain, LangGraph, etc.)\n・具備 n8n 或其他工作流自動化工具經驗\nExperience with n8n or other workflow automation tools\n・具備 Copernicus Marine Service 或其他環境資料源使用經驗\nExperience using Copernicus Marine Service or other environmental data sources\n・具備時間序列特徵工程、海洋氣候相關領域知識\nKnowledge of time-series feature engineering or ocean/climate-related domains\n・具備 CVAT 或其他資料標注平台使用經驗\nExperience with CVAT or other data annotation platforms\n・具備 CUDA、nvidia-container-toolkit、或 MLOps（模型監控、CI/CD for ML）經驗\nExperience with CUDA, nvidia-container-toolkit, or MLOps (model monitoring, CI/CD for ML)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "9514w",
+    "job_url": "https://www.104.com.tw/job/9514w",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9514w.json",
+    "raw_sha256": "5c1710e44b358816883b100c7bed8787c4b9536a7cb35cd5414a02e6e9989e42",
+    "requested_url": "https://www.104.com.tw/api/jobs/9514w"
+  }
+}

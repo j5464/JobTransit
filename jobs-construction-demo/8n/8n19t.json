@@ -1,0 +1,280 @@
+{
+  "company": {
+    "id": "aed9jhs",
+    "name": "國巨股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "數據分析師／資料分析師",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Power BI Development: Design, develop, and maintain interactive Power BI dashboards and reports that help business users understand key trends, performance, and opportunities."
+        },
+        {
+          "children": [],
+          "text": "Data Preparation and Transformation: Use Power Query, M code, DAX, and related tools to clean, transform, and prepare data for reporting and analysis."
+        },
+        {
+          "children": [],
+          "text": "SQL and Data Analysis: Write SQL queries to extract, organize, and analyze data from different sources, with attention to accuracy, performance, and usability."
+        },
+        {
+          "children": [],
+          "text": "ETL and Data Integration: Support the design and improvement of ETL workflows to ensure data is reliable, consistent, and available for business reporting."
+        },
+        {
+          "children": [],
+          "text": "Data Modeling: Build and maintain data models that support reporting, analytics, and business intelligence needs."
+        },
+        {
+          "children": [],
+          "text": "Business Collaboration: Work closely with cross-functional teams to understand reporting requirements, clarify business questions, and deliver practical data solutions."
+        },
+        {
+          "children": [],
+          "text": "Continuous Improvement: Help improve dashboards, reports, data pipelines, and reporting processes to make them more efficient, reliable, and user-friendly."
+        },
+        {
+          "children": [],
+          "text": "Hands-on experience developing Power BI reports and dashboards."
+        },
+        {
+          "children": [],
+          "text": "Working knowledge of DAX and Power Query / M code."
+        },
+        {
+          "children": [],
+          "text": "Experience writing SQL queries for data extraction, transformation, and analysis."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with ETL processes, data pipelines, or data integration workflows."
+        },
+        {
+          "children": [],
+          "text": "Understanding of data modeling concepts for reporting and analytics."
+        },
+        {
+          "children": [],
+          "text": "Experience with business intelligence, data visualization, or analytics projects is highly preferred."
+        },
+        {
+          "children": [],
+          "text": "Experience with vibe coding, AI-assisted development, or using AI tools to accelerate data analysis, dashboard development, automation, or problem-solving is a plus."
+        },
+        {
+          "children": [],
+          "text": "Strong analytical mindset with the ability to understand data, identify patterns, and translate findings into useful business insights."
+        },
+        {
+          "children": [],
+          "text": "Detail-oriented, proactive, and willing to investigate data issues to find practical solutions."
+        },
+        {
+          "children": [],
+          "text": "Good communication skills, with the ability to explain data and technical concepts clearly to both technical and non-technical stakeholders."
+        },
+        {
+          "children": [],
+          "text": "Comfortable working on multiple priorities in a dynamic business environment."
+        },
+        {
+          "children": [],
+          "text": "Hands-on attitude and willingness to learn, adapt, and contribute in a fast-paced organization."
+        },
+        {
+          "children": [],
+          "text": "Strong interpersonal skills and the ability to work well with diverse teams and business users."
+        }
+      ],
+      "text": "Position Overview\nYAGEO Corporation, a leading global supplier of electronic components, is looking for an energetic, positive, and customer-focused professional to join our team as a Data Analyst / Business Intelligence Developer.\nIn this role, you will help transform business requirements and raw data into meaningful insights that support better decision-making across the organization. We are looking for someone with hands-on experience in Power BI, SQL, data modeling, and ETL processes, as well as a strong interest in understanding business needs and turning them into practical data solutions.\nThe ideal candidate will have around 3–4 years of relevant experience, but we are also open to candidates who have built strong capabilities through similar roles, projects, or hands-on business intelligence work. If you enjoy working with data, collaborating with business users, and creating dashboards and reports that make an impact, we would love to hear from you.\nKey Responsibilities\n•Power BI Development: Design, develop, and maintain interactive Power BI dashboards and reports that help business users understand key trends, performance, and opportunities.\n•Data Preparation and Transformation: Use Power Query, M code, DAX, and related tools to clean, transform, and prepare data for reporting and analysis.\n•SQL and Data Analysis: Write SQL queries to extract, organize, and analyze data from different sources, with attention to accuracy, performance, and usability.\n•ETL and Data Integration: Support the design and improvement of ETL workflows to ensure data is reliable, consistent, and available for business reporting.\n•Data Modeling: Build and maintain data models that support reporting, analytics, and business intelligence needs.\n•Business Collaboration: Work closely with cross-functional teams to understand reporting requirements, clarify business questions, and deliver practical data solutions.\n•Continuous Improvement: Help improve dashboards, reports, data pipelines, and reporting processes to make them more efficient, reliable, and user-friendly.\nQualifications\nEducation\nBachelor’s degree in a related field such as Computer Science, Information Systems, Data Analytics, Business Analytics, or equivalent practical experience.\nTechnical Skills\n•Hands-on experience developing Power BI reports and dashboards.\n•Working knowledge of DAX and Power Query / M code.\n•Experience writing SQL queries for data extraction, transformation, and analysis.\n•Familiarity with ETL processes, data pipelines, or data integration workflows.\n•Understanding of data modeling concepts for reporting and analytics.\n•Experience with business intelligence, data visualization, or analytics projects is highly preferred.\n•Experience with vibe coding, AI-assisted development, or using AI tools to accelerate data analysis, dashboard development, automation, or problem-solving is a plus.\nAdditional Skills\n•Strong analytical mindset with the ability to understand data, identify patterns, and translate findings into useful business insights.\n•Detail-oriented, proactive, and willing to investigate data issues to find practical solutions.\n•Good communication skills, with the ability to explain data and technical concepts clearly to both technical and non-technical stakeholders.\n•Comfortable working on multiple priorities in a dynamic business environment.\n•Hands-on attitude and willingness to learn, adapt, and contribute in a fast-paced organization.\n•Strong interpersonal skills and the ability to work well with diverse teams and business users.\nAbout YAGEO Group\nYAGEO Group is a global leader in electronic components, operating across multiple brands, regions, and manufacturing footprints. As part of our continued transformation and growth in Asia, we are strengthening regional leadership to ensure scalable, high-performing, and customer-centric operations.\n#LI-LY1"
+    },
+    "employment_type_raw": "全職",
+    "title": "(Taipei) Data Analytics Engineer"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶橋路233-1號3樓",
+    "raw": "新北市新店區寶橋路233-1號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "統計學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、統計學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "PL/SQL",
+          "Power BI​",
+          "ETL"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、PL/SQL、Power BI​、ETL"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "統計學相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、統計學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MS SQL、PL/SQL、Power BI​、ETL",
+    "tools": [
+      "MS SQL",
+      "PL/SQL",
+      "Power BI​",
+      "ETL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 67
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:06:46+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Position Overview\nYAGEO Corporation, a leading global supplier of electronic components, is looking for an energetic, positive, and customer-focused professional to join our team as a Data Analyst / Business Intelligence Developer.\nIn this role, you will help transform business requirements and raw data into meaningful insights that support better decision-making across the organization. We are looking for someone with hands-on experience in Power BI, SQL, data modeling, and ETL processes, as well as a strong interest in understanding business needs and turning them into practical data solutions.\nThe ideal candidate will have around 3–4 years of relevant experience, but we are also open to candidates who have built strong capabilities through similar roles, projects, or hands-on business intelligence work. If you enjoy working with data, collaborating with business users, and creating dashboards and reports that make an impact, we would love to hear from you.\nKey Responsibilities\n•Power BI Development: Design, develop, and maintain interactive Power BI dashboards and reports that help business users understand key trends, performance, and opportunities.\n•Data Preparation and Transformation: Use Power Query, M code, DAX, and related tools to clean, transform, and prepare data for reporting and analysis.\n•SQL and Data Analysis: Write SQL queries to extract, organize, and analyze data from different sources, with attention to accuracy, performance, and usability.\n•ETL and Data Integration: Support the design and improvement of ETL workflows to ensure data is reliable, consistent, and available for business reporting.\n•Data Modeling: Build and maintain data models that support reporting, analytics, and business intelligence needs.\n•Business Collaboration: Work closely with cross-functional teams to understand reporting requirements, clarify business questions, and deliver practical data solutions.\n•Continuous Improvement: Help improve dashboards, reports, data pipelines, and reporting processes to make them more efficient, reliable, and user-friendly.\nQualifications\nEducation\nBachelor’s degree in a related field such as Computer Science, Information Systems, Data Analytics, Business Analytics, or equivalent practical experience.\nTechnical Skills\n•Hands-on experience developing Power BI reports and dashboards.\n•Working knowledge of DAX and Power Query / M code.\n•Experience writing SQL queries for data extraction, transformation, and analysis.\n•Familiarity with ETL processes, data pipelines, or data integration workflows.\n•Understanding of data modeling concepts for reporting and analytics.\n•Experience with business intelligence, data visualization, or analytics projects is highly preferred.\n•Experience with vibe coding, AI-assisted development, or using AI tools to accelerate data analysis, dashboard development, automation, or problem-solving is a plus.\nAdditional Skills\n•Strong analytical mindset with the ability to understand data, identify patterns, and translate findings into useful business insights.\n•Detail-oriented, proactive, and willing to investigate data issues to find practical solutions.\n•Good communication skills, with the ability to explain data and technical concepts clearly to both technical and non-technical stakeholders.\n•Comfortable working on multiple priorities in a dynamic business environment.\n•Hands-on attitude and willingness to learn, adapt, and contribute in a fast-paced organization.\n•Strong interpersonal skills and the ability to work well with diverse teams and business users.\nAbout YAGEO Group\nYAGEO Group is a global leader in electronic components, operating across multiple brands, regions, and manufacturing footprints. As part of our continued transformation and growth in Asia, we are strengthening regional leadership to ensure scalable, high-performing, and customer-centric operations.\n#LI-LY1",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "數據分析師／資料分析師",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、數據分析師／資料分析師、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶橋路233-1號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Position Overview\nYAGEO Corporation, a leading global supplier of electronic components, is looking for an energetic, positive, and customer-focused professional to join our team as a Data Analyst / Business Intelligence Developer.\nIn this role, you will help transform business requirements and raw data into meaningful insights that support better decision-making across the organization. We are looking for someone with hands-on experience in Power BI, SQL, data modeling, and ETL processes, as well as a strong interest in understanding business needs and turning them into practical data solutions.\nThe ideal candidate will have around 3–4 years of relevant experience, but we are also open to candidates who have built strong capabilities through similar roles, projects, or hands-on business intelligence work. If you enjoy working with data, collaborating with business users, and creating dashboards and reports that make an impact, we would love to hear from you.\nKey Responsibilities\n•Power BI Development: Design, develop, and maintain interactive Power BI dashboards and reports that help business users understand key trends, performance, and opportunities.\n•Data Preparation and Transformation: Use Power Query, M code, DAX, and related tools to clean, transform, and prepare data for reporting and analysis.\n•SQL and Data Analysis: Write SQL queries to extract, organize, and analyze data from different sources, with attention to accuracy, performance, and usability.\n•ETL and Data Integration: Support the design and improvement of ETL workflows to ensure data is reliable, consistent, and available for business reporting.\n•Data Modeling: Build and maintain data models that support reporting, analytics, and business intelligence needs.\n•Business Collaboration: Work closely with cross-functional teams to understand reporting requirements, clarify business questions, and deliver practical data solutions.\n•Continuous Improvement: Help improve dashboards, reports, data pipelines, and reporting processes to make them more efficient, reliable, and user-friendly.\nQualifications\nEducation\nBachelor’s degree in a related field such as Computer Science, Information Systems, Data Analytics, Business Analytics, or equivalent practical experience.\nTechnical Skills\n•Hands-on experience developing Power BI reports and dashboards.\n•Working knowledge of DAX and Power Query / M code.\n•Experience writing SQL queries for data extraction, transformation, and analysis.\n•Familiarity with ETL processes, data pipelines, or data integration workflows.\n•Understanding of data modeling concepts for reporting and analytics.\n•Experience with business intelligence, data visualization, or analytics projects is highly preferred.\n•Experience with vibe coding, AI-assisted development, or using AI tools to accelerate data analysis, dashboard development, automation, or problem-solving is a plus.\nAdditional Skills\n•Strong analytical mindset with the ability to understand data, identify patterns, and translate findings into useful business insights.\n•Detail-oriented, proactive, and willing to investigate data issues to find practical solutions.\n•Good communication skills, with the ability to explain data and technical concepts clearly to both technical and non-technical stakeholders.\n•Comfortable working on multiple priorities in a dynamic business environment.\n•Hands-on attitude and willingness to learn, adapt, and contribute in a fast-paced organization.\n•Strong interpersonal skills and the ability to work well with diverse teams and business users.\nAbout YAGEO Group\nYAGEO Group is a global leader in electronic components, operating across multiple brands, regions, and manufacturing footprints. As part of our continued transformation and growth in Asia, we are strengthening regional leadership to ensure scalable, high-performing, and customer-centric operations.\n#LI-LY1"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "統計學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、統計學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "PL/SQL",
+            "Power BI​",
+            "ETL"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、PL/SQL、Power BI​、ETL",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、統計學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MS SQL、PL/SQL、Power BI​、ETL"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8n19t",
+    "job_url": "https://www.104.com.tw/job/8n19t",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8n19t.json",
+    "raw_sha256": "a62ab9b870c0beb70882705fd0b81c1f49d4789a2de5a4303854fb87c8a6feac",
+    "requested_url": "https://www.104.com.tw/api/jobs/8n19t"
+  }
+}

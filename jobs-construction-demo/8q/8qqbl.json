@@ -1,0 +1,197 @@
+{
+  "company": {
+    "id": "2bwadzc",
+    "name": "中租控股_中租迪和股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "資料工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "為AI技術先驅，研究與導入主流 AI 技術/工具/服務，並與各單位合作設計建置AI應用，以提升各事業單位營運效能。"
+        },
+        {
+          "children": [],
+          "text": "推廣Coding Agent，進一步提升資訊團隊開發品質與效率，且能使用Coding Agent開發建置Python之AI微服務。"
+        },
+        {
+          "children": [],
+          "text": "與基礎架構團隊合作，執行雲端或自建機房資源佈建AI服務、管理各項AI工具等。"
+        },
+        {
+          "children": [],
+          "text": "發展智能維運，將AI技術與日常工作充分結合以釋放更多例行性作業時間。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Python、SQL 等程式語言與相關開發套件；具其他程式語言能力尤佳。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的 邏輯思維與跨部門溝通能力。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Linux、Windows 作業系統及運算資源管理。"
+        },
+        {
+          "children": [],
+          "text": "能運用 Kubernetes、Docker、CI/CD 工具進行微服務容器化佈署。"
+        }
+      ],
+      "text": "【工作內容】\n我們正在招募AI技術專才，加入我們打造創新AI應用的核心團隊：\n1. 為AI技術先驅，研究與導入主流 AI 技術/工具/服務，並與各單位合作設計建置AI應用，以提升各事業單位營運效能。\n2. 推廣Coding Agent，進一步提升資訊團隊開發品質與效率，且能使用Coding Agent開發建置Python之AI微服務。\n3. 與基礎架構團隊合作，執行雲端或自建機房資源佈建AI服務、管理各項AI工具等。\n4. 發展智能維運，將AI技術與日常工作充分結合以釋放更多例行性作業時間。\n【基本條件】（資深／資淺皆須具備）\n1. 熟悉 Python、SQL 等程式語言與相關開發套件；具其他程式語言能力尤佳。\n2. 具備良好的 邏輯思維與跨部門溝通能力。\n3. 熟悉 Linux、Windows 作業系統及運算資源管理。\n4. 能運用 Kubernetes、Docker、CI/CD 工具進行微服務容器化佈署。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【資訊】AI應用工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路362號",
+    "raw": "台北市內湖區瑞光路362號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【依資歷區分條件】\n【資深 (Senior)】\n1. 具4年以上相關工作經驗，熟悉AI專案開發、Coding Agent、軟體開發實務、資料分析及網路架構基礎。\n2. 熟悉雲端服務，具Azure / AWS cloud-native架構與佈署經驗尤佳。\n3. 有實際機器學習模型開發／應用經驗，了解各類模型與應用情境。\n【資淺 (Junior)】\n1. 碩士畢業，主修資工／資管相關領域，研究主題與AI或資料分析相關。\n2. 具備公有雲使用經驗或理論知識，具Azure / AWS cloud-native架構理解或操作經驗尤佳。\n3. 若有機器學習模型開發／應用實作經驗為加分項。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "【依資歷區分條件】\n【資深 (Senior)】\n1. 具4年以上相關工作經驗，熟悉AI專案開發、Coding Agent、軟體開發實務、資料分析及網路架構基礎。\n2. 熟悉雲端服務，具Azure / AWS cloud-native架構與佈署經驗尤佳。\n3. 有實際機器學習模型開發／應用經驗，了解各類模型與應用情境。\n【資淺 (Junior)】\n1. 碩士畢業，主修資工／資管相關領域，研究主題與AI或資料分析相關。\n2. 具備公有雲使用經驗或理論知識，具Azure / AWS cloud-native架構理解或操作經驗尤佳。\n3. 若有機器學習模型開發／應用實作經驗為加分項。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n其他條件：【依資歷區分條件】\n【資深 (Senior)】\n1. 具4年以上相關工作經驗，熟悉AI專案開發、Coding Agent、軟體開發實務、資料分析及網路架構基礎。\n2. 熟悉雲端服務，具Azure / AWS cloud-native架構與佈署經驗尤佳。\n3. 有實際機器學習模型開發／應用經驗，了解各類模型與應用情境。\n【資淺 (Junior)】\n1. 碩士畢業，主修資工／資管相關領域，研究主題與AI或資料分析相關。\n2. 具備公有雲使用經驗或理論知識，具Azure / AWS cloud-native架構理解或操作經驗尤佳。\n3. 若有機器學習模型開發／應用實作經驗為加分項。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 85
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:50:34+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n我們正在招募AI技術專才，加入我們打造創新AI應用的核心團隊：\n1. 為AI技術先驅，研究與導入主流 AI 技術/工具/服務，並與各單位合作設計建置AI應用，以提升各事業單位營運效能。\n2. 推廣Coding Agent，進一步提升資訊團隊開發品質與效率，且能使用Coding Agent開發建置Python之AI微服務。\n3. 與基礎架構團隊合作，執行雲端或自建機房資源佈建AI服務、管理各項AI工具等。\n4. 發展智能維運，將AI技術與日常工作充分結合以釋放更多例行性作業時間。\n【基本條件】（資深／資淺皆須具備）\n1. 熟悉 Python、SQL 等程式語言與相關開發套件；具其他程式語言能力尤佳。\n2. 具備良好的 邏輯思維與跨部門溝通能力。\n3. 熟悉 Linux、Windows 作業系統及運算資源管理。\n4. 能運用 Kubernetes、Docker、CI/CD 工具進行微服務容器化佈署。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "資料工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、資料工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路362號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n我們正在招募AI技術專才，加入我們打造創新AI應用的核心團隊：\n1. 為AI技術先驅，研究與導入主流 AI 技術/工具/服務，並與各單位合作設計建置AI應用，以提升各事業單位營運效能。\n2. 推廣Coding Agent，進一步提升資訊團隊開發品質與效率，且能使用Coding Agent開發建置Python之AI微服務。\n3. 與基礎架構團隊合作，執行雲端或自建機房資源佈建AI服務、管理各項AI工具等。\n4. 發展智能維運，將AI技術與日常工作充分結合以釋放更多例行性作業時間。\n【基本條件】（資深／資淺皆須具備）\n1. 熟悉 Python、SQL 等程式語言與相關開發套件；具其他程式語言能力尤佳。\n2. 具備良好的 邏輯思維與跨部門溝通能力。\n3. 熟悉 Linux、Windows 作業系統及運算資源管理。\n4. 能運用 Kubernetes、Docker、CI/CD 工具進行微服務容器化佈署。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【依資歷區分條件】\n【資深 (Senior)】\n1. 具4年以上相關工作經驗，熟悉AI專案開發、Coding Agent、軟體開發實務、資料分析及網路架構基礎。\n2. 熟悉雲端服務，具Azure / AWS cloud-native架構與佈署經驗尤佳。\n3. 有實際機器學習模型開發／應用經驗，了解各類模型與應用情境。\n【資淺 (Junior)】\n1. 碩士畢業，主修資工／資管相關領域，研究主題與AI或資料分析相關。\n2. 具備公有雲使用經驗或理論知識，具Azure / AWS cloud-native架構理解或操作經驗尤佳。\n3. 若有機器學習模型開發／應用實作經驗為加分項。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n其他條件：【依資歷區分條件】\n【資深 (Senior)】\n1. 具4年以上相關工作經驗，熟悉AI專案開發、Coding Agent、軟體開發實務、資料分析及網路架構基礎。\n2. 熟悉雲端服務，具Azure / AWS cloud-native架構與佈署經驗尤佳。\n3. 有實際機器學習模型開發／應用經驗，了解各類模型與應用情境。\n【資淺 (Junior)】\n1. 碩士畢業，主修資工／資管相關領域，研究主題與AI或資料分析相關。\n2. 具備公有雲使用經驗或理論知識，具Azure / AWS cloud-native架構理解或操作經驗尤佳。\n3. 若有機器學習模型開發／應用實作經驗為加分項。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8qqbl",
+    "job_url": "https://www.104.com.tw/job/8qqbl",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8qqbl.json",
+    "raw_sha256": "d959591e43ceb51d7d80bc3e907f5362d20dddc3ef4ce9752bafbeef34a91982",
+    "requested_url": "https://www.104.com.tw/api/jobs/8qqbl"
+  }
+}

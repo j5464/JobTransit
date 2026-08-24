@@ -1,0 +1,241 @@
+{
+  "company": {
+    "id": "1a2x6bjtx4",
+    "name": "奕力科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI 應用開發：規劃並開發以LLM/RAG為基礎的內部應用，協助EDA/CAD流程智能化。"
+        },
+        {
+          "children": [],
+          "text": "向量資料庫建置：建立技術文件、設計規格、Log 資料等之向量索引，提供語意搜尋與檢索服務。"
+        },
+        {
+          "children": [],
+          "text": "LLM 模型部署：負責 LLM(如 vLLM、Ollama 等)模型部署、推論優化及 API 服務維運。"
+        },
+        {
+          "children": [],
+          "text": "自動化腳本開發：以 Python/TCL/Shell 開發 EDA/CAD 流程自動化腳本，整合既有工具鏈。"
+        },
+        {
+          "children": [],
+          "text": "跨部門協作：與 EDA、IT、RD 等部門協作，了解需求並提供 AI 解決方案。"
+        },
+        {
+          "children": [],
+          "text": "技術研究：持續追蹤 AI/LLM 領域最新發展，評估並導入適用之新技術。"
+        },
+        {
+          "children": [],
+          "text": "文件與知識管理：撰寫技術文件、操作手冊，並進行內部 AI 應用教育訓練。"
+        }
+      ],
+      "text": "【工作內容】\n1.AI 應用開發：規劃並開發以LLM/RAG為基礎的內部應用，協助EDA/CAD流程智能化。\n2.向量資料庫建置：建立技術文件、設計規格、Log 資料等之向量索引，提供語意搜尋與檢索服務。\n3.LLM 模型部署：負責 LLM(如 vLLM、Ollama 等)模型部署、推論優化及 API 服務維運。\n4.自動化腳本開發：以 Python/TCL/Shell 開發 EDA/CAD 流程自動化腳本，整合既有工具鏈。\n5.跨部門協作：與 EDA、IT、RD 等部門協作，了解需求並提供 AI 解決方案。\n6.技術研究：持續追蹤 AI/LLM 領域最新發展，評估並導入適用之新技術。\n7.文件與知識管理：撰寫技術文件、操作手冊，並進行內部 AI 應用教育訓練。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI 工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市台元二街1號10樓",
+    "raw": "新竹縣竹北市台元二街1號10樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Perl",
+          "TCL",
+          "Python",
+          "Linux",
+          "Shell",
+          "LLM",
+          "EDA"
+        ],
+        "label": "擅長工具",
+        "text": "Perl、TCL、Python、Linux、Shell、LLM、EDA"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【需求條件】\n1.熟悉 Python 程式語言開發，具良好程式撰寫風格與可維護性。\n2.熟悉 Linux 作業系統環境操作，能於 Shell 環境下進行開發與除錯。\n3.具備 Shell Script 撰寫能力，能進行流程自動化與系統整合。\n4.具備自動化腳本開發能力(TCL 或 Python)，可用於 EDA/CAD 流程整合。\n【加分條件】\n1.熟悉主流 AI Framework，例如 HuggingFace、LangChain、RAG 應用開發。\n2.熟悉向量資料庫建置與應用，如 Qdrant、FAISS、Milvus。\n3.熟悉 LLM 模型部署與推論優化，如 vLLM、Ollama、TGI 等部署工具。\n4.具備 EDA/CAD 工作流程或半導體設計流程相關背景。\n5.具備 Prompt Engineering、Agent 應用開發、模型微調經驗。\n6.具備 Docker、Git、CI/CD 等 DevOps 相關工具使用經驗。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "【需求條件】\n1.熟悉 Python 程式語言開發，具良好程式撰寫風格與可維護性。\n2.熟悉 Linux 作業系統環境操作，能於 Shell 環境下進行開發與除錯。\n3.具備 Shell Script 撰寫能力，能進行流程自動化與系統整合。\n4.具備自動化腳本開發能力(TCL 或 Python)，可用於 EDA/CAD 流程整合。\n【加分條件】\n1.熟悉主流 AI Framework，例如 HuggingFace、LangChain、RAG 應用開發。\n2.熟悉向量資料庫建置與應用，如 Qdrant、FAISS、Milvus。\n3.熟悉 LLM 模型部署與推論優化，如 vLLM、Ollama、TGI 等部署工具。\n4.具備 EDA/CAD 工作流程或半導體設計流程相關背景。\n5.具備 Prompt Engineering、Agent 應用開發、模型微調經驗。\n6.具備 Docker、Git、CI/CD 等 DevOps 相關工具使用經驗。",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Perl、TCL、Python、Linux、Shell、LLM、EDA\n其他條件：【需求條件】\n1.熟悉 Python 程式語言開發，具良好程式撰寫風格與可維護性。\n2.熟悉 Linux 作業系統環境操作，能於 Shell 環境下進行開發與除錯。\n3.具備 Shell Script 撰寫能力，能進行流程自動化與系統整合。\n4.具備自動化腳本開發能力(TCL 或 Python)，可用於 EDA/CAD 流程整合。\n【加分條件】\n1.熟悉主流 AI Framework，例如 HuggingFace、LangChain、RAG 應用開發。\n2.熟悉向量資料庫建置與應用，如 Qdrant、FAISS、Milvus。\n3.熟悉 LLM 模型部署與推論優化，如 vLLM、Ollama、TGI 等部署工具。\n4.具備 EDA/CAD 工作流程或半導體設計流程相關背景。\n5.具備 Prompt Engineering、Agent 應用開發、模型微調經驗。\n6.具備 Docker、Git、CI/CD 等 DevOps 相關工具使用經驗。",
+    "tools": [
+      "Perl",
+      "TCL",
+      "Python",
+      "Linux",
+      "Shell",
+      "LLM",
+      "EDA"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 10
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:47:10+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1.AI 應用開發：規劃並開發以LLM/RAG為基礎的內部應用，協助EDA/CAD流程智能化。\n2.向量資料庫建置：建立技術文件、設計規格、Log 資料等之向量索引，提供語意搜尋與檢索服務。\n3.LLM 模型部署：負責 LLM(如 vLLM、Ollama 等)模型部署、推論優化及 API 服務維運。\n4.自動化腳本開發：以 Python/TCL/Shell 開發 EDA/CAD 流程自動化腳本，整合既有工具鏈。\n5.跨部門協作：與 EDA、IT、RD 等部門協作，了解需求並提供 AI 解決方案。\n6.技術研究：持續追蹤 AI/LLM 領域最新發展，評估並導入適用之新技術。\n7.文件與知識管理：撰寫技術文件、操作手冊，並進行內部 AI 應用教育訓練。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市台元二街1號10樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1.AI 應用開發：規劃並開發以LLM/RAG為基礎的內部應用，協助EDA/CAD流程智能化。\n2.向量資料庫建置：建立技術文件、設計規格、Log 資料等之向量索引，提供語意搜尋與檢索服務。\n3.LLM 模型部署：負責 LLM(如 vLLM、Ollama 等)模型部署、推論優化及 API 服務維運。\n4.自動化腳本開發：以 Python/TCL/Shell 開發 EDA/CAD 流程自動化腳本，整合既有工具鏈。\n5.跨部門協作：與 EDA、IT、RD 等部門協作，了解需求並提供 AI 解決方案。\n6.技術研究：持續追蹤 AI/LLM 領域最新發展，評估並導入適用之新技術。\n7.文件與知識管理：撰寫技術文件、操作手冊，並進行內部 AI 應用教育訓練。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Perl",
+            "TCL",
+            "Python",
+            "Linux",
+            "Shell",
+            "LLM",
+            "EDA"
+          ],
+          "label": "擅長工具",
+          "text": "Perl、TCL、Python、Linux、Shell、LLM、EDA",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【需求條件】\n1.熟悉 Python 程式語言開發，具良好程式撰寫風格與可維護性。\n2.熟悉 Linux 作業系統環境操作，能於 Shell 環境下進行開發與除錯。\n3.具備 Shell Script 撰寫能力，能進行流程自動化與系統整合。\n4.具備自動化腳本開發能力(TCL 或 Python)，可用於 EDA/CAD 流程整合。\n【加分條件】\n1.熟悉主流 AI Framework，例如 HuggingFace、LangChain、RAG 應用開發。\n2.熟悉向量資料庫建置與應用，如 Qdrant、FAISS、Milvus。\n3.熟悉 LLM 模型部署與推論優化，如 vLLM、Ollama、TGI 等部署工具。\n4.具備 EDA/CAD 工作流程或半導體設計流程相關背景。\n5.具備 Prompt Engineering、Agent 應用開發、模型微調經驗。\n6.具備 Docker、Git、CI/CD 等 DevOps 相關工具使用經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Perl、TCL、Python、Linux、Shell、LLM、EDA\n其他條件：【需求條件】\n1.熟悉 Python 程式語言開發，具良好程式撰寫風格與可維護性。\n2.熟悉 Linux 作業系統環境操作，能於 Shell 環境下進行開發與除錯。\n3.具備 Shell Script 撰寫能力，能進行流程自動化與系統整合。\n4.具備自動化腳本開發能力(TCL 或 Python)，可用於 EDA/CAD 流程整合。\n【加分條件】\n1.熟悉主流 AI Framework，例如 HuggingFace、LangChain、RAG 應用開發。\n2.熟悉向量資料庫建置與應用，如 Qdrant、FAISS、Milvus。\n3.熟悉 LLM 模型部署與推論優化，如 vLLM、Ollama、TGI 等部署工具。\n4.具備 EDA/CAD 工作流程或半導體設計流程相關背景。\n5.具備 Prompt Engineering、Agent 應用開發、模型微調經驗。\n6.具備 Docker、Git、CI/CD 等 DevOps 相關工具使用經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91fzz",
+    "job_url": "https://www.104.com.tw/job/91fzz",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91fzz.json",
+    "raw_sha256": "813d52009702c06d7f515c341b5256cec9072dd8b91f1e943b879f12f50f511b",
+    "requested_url": "https://www.104.com.tw/api/jobs/91fzz"
+  }
+}

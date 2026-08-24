@@ -1,0 +1,268 @@
+{
+  "company": {
+    "id": "olmlwc8",
+    "name": "行動貝果有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Lead scalable software & AI architecture integrating enterprise solutions with MLOps, AutoML, LLM, and AI Agent workflows"
+        },
+        {
+          "children": [],
+          "text": "Align product and tech roadmaps for timely, quality delivery"
+        },
+        {
+          "children": [],
+          "text": "Architect CI/CD pipelines on AWS, Azure, GCP, or on premise using Kubernetes (K8s), Kubeflow, Airflow"
+        },
+        {
+          "children": [],
+          "text": "Integrate job queues (RabbitMQ, Celery, Kafka) and automation tools (n8n, Dify)"
+        },
+        {
+          "children": [],
+          "text": "Oversee performance validation and continuous monitoring"
+        },
+        {
+          "children": [],
+          "text": "Drive innovation and operational excellence in software and AI systems"
+        },
+        {
+          "children": [],
+          "text": "Mentor teams and shape technical strategy to build a competitive edge"
+        },
+        {
+          "children": [],
+          "text": "Ensure product/projects meet schedule, quality, and budget targets"
+        },
+        {
+          "children": [],
+          "text": "Bachelor’s in CS/AI (Master’s/PhD preferred)"
+        },
+        {
+          "children": [],
+          "text": "5+ years in software & AI system architecture with P&L management"
+        },
+        {
+          "children": [],
+          "text": "Proficient in Python, Java, and cloud/on premise solutions"
+        },
+        {
+          "children": [],
+          "text": "Experienced in MLOps, CI/CD, Kubernetes, and AI/ML/LLM frameworks (TensorFlow, PyTorch, HuggingFace, LangChain)"
+        },
+        {
+          "children": [],
+          "text": "Bonus: Familiarity with AI coding assistants (GitHub Copilot, Cursor, Tabnine)"
+        },
+        {
+          "children": [],
+          "text": "At MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and thrive in a dynamic, fast-paced startup."
+        }
+      ],
+      "text": "＊請至 【https://mobagel.typeform.com/to/ojShbwVv】 投遞履歷，於 104 投遞者恕不受理，謝謝你的協助＊\nJob Function\n- Lead scalable software & AI architecture integrating enterprise solutions with MLOps, AutoML, LLM, and AI Agent workflows\n- Align product and tech roadmaps for timely, quality delivery\n- Architect CI/CD pipelines on AWS, Azure, GCP, or on premise using Kubernetes (K8s), Kubeflow, Airflow\n- Integrate job queues (RabbitMQ, Celery, Kafka) and automation tools (n8n, Dify)\n- Oversee performance validation and continuous monitoring\nYour Impact\n- Drive innovation and operational excellence in software and AI systems\n- Mentor teams and shape technical strategy to build a competitive edge\n- Ensure product/projects meet schedule, quality, and budget targets\nQualifications\n- Bachelor’s in CS/AI (Master’s/PhD preferred)\n- 5+ years in software & AI system architecture with P&L management\n- Proficient in Python, Java, and cloud/on premise solutions\n- Experienced in MLOps, CI/CD, Kubernetes, and AI/ML/LLM frameworks (TensorFlow, PyTorch, HuggingFace, LangChain)\n- Bonus: Familiarity with AI coding assistants (GitHub Copilot, Cursor, Tabnine)\nJoin Us\n- At MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and thrive in a dynamic, fast-paced startup."
+    },
+    "employment_type_raw": "全職",
+    "title": "Director/Staff Software Engineer 軟體技術總監"
+  },
+  "location": {
+    "address_raw": "台北市信義區東興路51號4樓",
+    "raw": "台北市信義區東興路51號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Java",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Java、Python"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、軟體工程系統開發、軟體程式設計"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "數學及電算機科學學科類"
+    ],
+    "other_text": null,
+    "skills": [
+      "系統架構規劃",
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Java、Python\n工作技能：系統架構規劃、軟體工程系統開發、軟體程式設計",
+    "tools": [
+      "Linux",
+      "Java",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 60
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:49:01+08:00"
+  },
+  "salary": {
+    "raw": "年薪1,400,000~4,000,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "＊請至 【https://mobagel.typeform.com/to/ojShbwVv】 投遞履歷，於 104 投遞者恕不受理，謝謝你的協助＊\nJob Function\n- Lead scalable software & AI architecture integrating enterprise solutions with MLOps, AutoML, LLM, and AI Agent workflows\n- Align product and tech roadmaps for timely, quality delivery\n- Architect CI/CD pipelines on AWS, Azure, GCP, or on premise using Kubernetes (K8s), Kubeflow, Airflow\n- Integrate job queues (RabbitMQ, Celery, Kafka) and automation tools (n8n, Dify)\n- Oversee performance validation and continuous monitoring\nYour Impact\n- Drive innovation and operational excellence in software and AI systems\n- Mentor teams and shape technical strategy to build a competitive edge\n- Ensure product/projects meet schedule, quality, and budget targets\nQualifications\n- Bachelor’s in CS/AI (Master’s/PhD preferred)\n- 5+ years in software & AI system architecture with P&L management\n- Proficient in Python, Java, and cloud/on premise solutions\n- Experienced in MLOps, CI/CD, Kubernetes, and AI/ML/LLM frameworks (TensorFlow, PyTorch, HuggingFace, LangChain)\n- Bonus: Familiarity with AI coding assistants (GitHub Copilot, Cursor, Tabnine)\nJoin Us\n- At MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and thrive in a dynamic, fast-paced startup.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪1,400,000~4,000,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區東興路51號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "＊請至 【https://mobagel.typeform.com/to/ojShbwVv】 投遞履歷，於 104 投遞者恕不受理，謝謝你的協助＊\nJob Function\n- Lead scalable software & AI architecture integrating enterprise solutions with MLOps, AutoML, LLM, and AI Agent workflows\n- Align product and tech roadmaps for timely, quality delivery\n- Architect CI/CD pipelines on AWS, Azure, GCP, or on premise using Kubernetes (K8s), Kubeflow, Airflow\n- Integrate job queues (RabbitMQ, Celery, Kafka) and automation tools (n8n, Dify)\n- Oversee performance validation and continuous monitoring\nYour Impact\n- Drive innovation and operational excellence in software and AI systems\n- Mentor teams and shape technical strategy to build a competitive edge\n- Ensure product/projects meet schedule, quality, and budget targets\nQualifications\n- Bachelor’s in CS/AI (Master’s/PhD preferred)\n- 5+ years in software & AI system architecture with P&L management\n- Proficient in Python, Java, and cloud/on premise solutions\n- Experienced in MLOps, CI/CD, Kubernetes, and AI/ML/LLM frameworks (TensorFlow, PyTorch, HuggingFace, LangChain)\n- Bonus: Familiarity with AI coding assistants (GitHub Copilot, Cursor, Tabnine)\nJoin Us\n- At MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and thrive in a dynamic, fast-paced startup."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Java",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Java、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Java、Python\n工作技能：系統架構規劃、軟體工程系統開發、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7icwl",
+    "job_url": "https://www.104.com.tw/job/7icwl",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7icwl.json",
+    "raw_sha256": "a8ea212d26dfc18587a58f94c4c09af44b10fb9a76c2db1b2c3f6eab266a0b72",
+    "requested_url": "https://www.104.com.tw/api/jobs/7icwl"
+  }
+}

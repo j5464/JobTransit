@@ -1,0 +1,244 @@
+{
+  "company": {
+    "id": "a6fk8ns",
+    "name": "精益科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "研讀影像處理相關理論"
+        },
+        {
+          "children": [],
+          "text": "影像處理之技術開發、品質分析及比較"
+        },
+        {
+          "children": [],
+          "text": "影像處理之軟體設計、效能評估及改善"
+        },
+        {
+          "children": [],
+          "text": "熟悉C/C++程式語言設計"
+        },
+        {
+          "children": [],
+          "text": "具備專案開發管理及演算法實務經驗(需三年以上影像處理經驗)"
+        },
+        {
+          "children": [],
+          "text": "擁有良好溝通及部門合作能力"
+        },
+        {
+          "children": [],
+          "text": "* 公司官網 www.adview.com.tw **"
+        }
+      ],
+      "text": "1. 研讀影像處理相關理論\n2. 影像處理之技術開發、品質分析及比較\n3. 影像處理之軟體設計、效能評估及改善\n4. 熟悉C/C++程式語言設計\n5. 具備專案開發管理及演算法實務經驗(需三年以上影像處理經驗)\n6. 擁有良好溝通及部門合作能力\n** 公司官網 www.adview.com.tw **"
+    },
+    "employment_type_raw": "全職",
+    "title": "高雄軟體園區 - 資深影像處理開發工程師"
+  },
+  "location": {
+    "address_raw": "高雄市前鎮區前鎮區復興四路12號",
+    "raw": "高雄市前鎮區前鎮區復興四路12號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "其他數學及電算機科學相關",
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "其他數學及電算機科學相關、電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Visual Basic .net",
+          "Visual C++",
+          "Visual Studio"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Visual Basic .net、Visual C++、Visual Studio"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、中等"
+    ],
+    "majors": [
+      "其他數學及電算機科學相關",
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：其他數學及電算機科學相關、電機電子工程相關、資訊工程相關\n語文條件：英文：略懂、略懂、中等、中等\n擅長工具：C、C++、Visual Basic .net、Visual C++、Visual Studio\n工作技能：軟體程式設計",
+    "tools": [
+      "C",
+      "C++",
+      "Visual Basic .net",
+      "Visual C++",
+      "Visual Studio"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 58
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:44:04+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 研讀影像處理相關理論\n2. 影像處理之技術開發、品質分析及比較\n3. 影像處理之軟體設計、效能評估及改善\n4. 熟悉C/C++程式語言設計\n5. 具備專案開發管理及演算法實務經驗(需三年以上影像處理經驗)\n6. 擁有良好溝通及部門合作能力\n** 公司官網 www.adview.com.tw **",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市前鎮區前鎮區復興四路12號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 研讀影像處理相關理論\n2. 影像處理之技術開發、品質分析及比較\n3. 影像處理之軟體設計、效能評估及改善\n4. 熟悉C/C++程式語言設計\n5. 具備專案開發管理及演算法實務經驗(需三年以上影像處理經驗)\n6. 擁有良好溝通及部門合作能力\n** 公司官網 www.adview.com.tw **"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "其他數學及電算機科學相關",
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "其他數學及電算機科學相關、電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Visual Basic .net",
+            "Visual C++",
+            "Visual Studio"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Visual Basic .net、Visual C++、Visual Studio",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：其他數學及電算機科學相關、電機電子工程相關、資訊工程相關\n語文條件：英文：略懂、略懂、中等、中等\n擅長工具：C、C++、Visual Basic .net、Visual C++、Visual Studio\n工作技能：軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "4sxr1",
+    "job_url": "https://www.104.com.tw/job/4sxr1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/4sxr1.json",
+    "raw_sha256": "1be827d51e39be19a545b97f2c2890defb26819bc523f9b24dd982282f271473",
+    "requested_url": "https://www.104.com.tw/api/jobs/4sxr1"
+  }
+}

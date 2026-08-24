@@ -1,0 +1,159 @@
+{
+  "company": {
+    "id": "2byd7nl",
+    "name": "資策會_財團法人資訊工業策進會"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI演算法應用開發"
+        },
+        {
+          "children": [],
+          "text": "智慧駕駛安全演算法開發"
+        },
+        {
+          "children": [],
+          "text": "4D雷達AI感知演算法應用開發"
+        },
+        {
+          "children": [],
+          "text": "邊緣運算平台部署"
+        }
+      ],
+      "text": "1.AI演算法應用開發\n2.智慧駕駛安全演算法開發\n3.4D雷達AI感知演算法應用開發\n4.邊緣運算平台部署"
+    },
+    "employment_type_raw": "全職",
+    "title": "【AI 院】AI開發應用工程師 (移動安全)"
+  },
+  "location": {
+    "address_raw": "台北市松山區民生東路四段133號7樓",
+    "raw": "台北市松山區民生東路四段133號7樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "工作技能：C++、Python、PyTorch、OpenCV、具嵌入式系統軟體開發及AI軟體編譯器經驗者\n其他條件：碩博士論文題目為AI深度學習辨識主題相關\n加分條件：具備點雲AI感知開發經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "工作技能：C++、Python、PyTorch、OpenCV、具嵌入式系統軟體開發及AI軟體編譯器經驗者\n其他條件：碩博士論文題目為AI深度學習辨識主題相關\n加分條件：具備點雲AI感知開發經驗",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n其他條件：工作技能：C++、Python、PyTorch、OpenCV、具嵌入式系統軟體開發及AI軟體編譯器經驗者\n其他條件：碩博士論文題目為AI深度學習辨識主題相關\n加分條件：具備點雲AI感知開發經驗",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:58:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.AI演算法應用開發\n2.智慧駕駛安全演算法開發\n3.4D雷達AI感知演算法應用開發\n4.邊緣運算平台部署",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區民生東路四段133號7樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.AI演算法應用開發\n2.智慧駕駛安全演算法開發\n3.4D雷達AI感知演算法應用開發\n4.邊緣運算平台部署"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "工作技能：C++、Python、PyTorch、OpenCV、具嵌入式系統軟體開發及AI軟體編譯器經驗者\n其他條件：碩博士論文題目為AI深度學習辨識主題相關\n加分條件：具備點雲AI感知開發經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n其他條件：工作技能：C++、Python、PyTorch、OpenCV、具嵌入式系統軟體開發及AI軟體編譯器經驗者\n其他條件：碩博士論文題目為AI深度學習辨識主題相關\n加分條件：具備點雲AI感知開發經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8yp7c",
+    "job_url": "https://www.104.com.tw/job/8yp7c",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8yp7c.json",
+    "raw_sha256": "acafa6b2a8067ffaf7709b642ff1667066eadf3892c32c224597a7eb134f0a62",
+    "requested_url": "https://www.104.com.tw/api/jobs/8yp7c"
+  }
+}

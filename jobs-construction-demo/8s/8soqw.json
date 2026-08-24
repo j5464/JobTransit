@@ -1,0 +1,192 @@
+{
+  "company": {
+    "id": "10tytuqg",
+    "name": "基點資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "軟韌體測試工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Automated Lab 日常運作與工具維護。"
+        },
+        {
+          "children": [],
+          "text": "次世代新產品的設計驗證與品質分析工作。"
+        },
+        {
+          "children": [],
+          "text": "產品修正與變更生命週期管理。"
+        }
+      ],
+      "text": "1. Automated Lab 日常運作與工具維護。\n2. 次世代新產品的設計驗證與品質分析工作。\n3. 產品修正與變更生命週期管理。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Software Engineer (Lab)"
+  },
+  "location": {
+    "address_raw": "新北市板橋區縣民大道2段7號25樓 (板橋車站五鐵共構，聯合辦公大樓)",
+    "raw": "新北市板橋區縣民大道2段7號25樓 (板橋車站五鐵共構，聯合辦公大樓)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 資工系本科畢業。\n2. 具 Python 實際開發經驗，並可提供 GitHub 或相關程式作品參考；此職缺面試流程包含 coding 基本能力測驗與上機實作，需具備基礎程式開發能力。\n3. 邏輯能力強。\n4. 有使用 AI 輔助 IDE 進行開發與工作流配置相關知識與經驗。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1. 資工系本科畢業。\n2. 具 Python 實際開發經驗，並可提供 GitHub 或相關程式作品參考；此職缺面試流程包含 coding 基本能力測驗與上機實作，需具備基礎程式開發能力。\n3. 邏輯能力強。\n4. 有使用 AI 輔助 IDE 進行開發與工作流配置相關知識與經驗。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊工程相關\n擅長工具：C++、Python\n其他條件：1. 資工系本科畢業。\n2. 具 Python 實際開發經驗，並可提供 GitHub 或相關程式作品參考；此職缺面試流程包含 coding 基本能力測驗與上機實作，需具備基礎程式開發能力。\n3. 邏輯能力強。\n4. 有使用 AI 輔助 IDE 進行開發與工作流配置相關知識與經驗。",
+    "tools": [
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 24
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:20:55+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. Automated Lab 日常運作與工具維護。\n2. 次世代新產品的設計驗證與品質分析工作。\n3. 產品修正與變更生命週期管理。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "軟韌體測試工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、軟韌體測試工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區縣民大道2段7號25樓 (板橋車站五鐵共構，聯合辦公大樓)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. Automated Lab 日常運作與工具維護。\n2. 次世代新產品的設計驗證與品質分析工作。\n3. 產品修正與變更生命週期管理。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 資工系本科畢業。\n2. 具 Python 實際開發經驗，並可提供 GitHub 或相關程式作品參考；此職缺面試流程包含 coding 基本能力測驗與上機實作，需具備基礎程式開發能力。\n3. 邏輯能力強。\n4. 有使用 AI 輔助 IDE 進行開發與工作流配置相關知識與經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊工程相關\n擅長工具：C++、Python\n其他條件：1. 資工系本科畢業。\n2. 具 Python 實際開發經驗，並可提供 GitHub 或相關程式作品參考；此職缺面試流程包含 coding 基本能力測驗與上機實作，需具備基礎程式開發能力。\n3. 邏輯能力強。\n4. 有使用 AI 輔助 IDE 進行開發與工作流配置相關知識與經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8soqw",
+    "job_url": "https://www.104.com.tw/job/8soqw",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8soqw.json",
+    "raw_sha256": "53d3b60e5baac0c0c057d6e87986c620bda913951567edbc8aa2b97c051b9478",
+    "requested_url": "https://www.104.com.tw/api/jobs/8soqw"
+  }
+}

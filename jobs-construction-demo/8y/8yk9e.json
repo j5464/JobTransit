@@ -1,0 +1,210 @@
+{
+  "company": {
+    "id": "aunp60g",
+    "name": "崇越科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "資料科學家",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Agent 開發： 使用 Claude Agent SDK (Python) 開發具備自主規劃、多步驟執行與 Tool Use 能力的企業級 Agent。"
+        },
+        {
+          "children": [],
+          "text": "MCP 系統整合： 實作 Model Context Protocol (MCP) 架構，開發 MCP Servers/Clients 以安全連接內部資料庫、API 與 AWS 服務。"
+        },
+        {
+          "children": [],
+          "text": "AWS 雲端部署： 規劃與部署 Agent 至 AWS Fargate (ECS) 或 Amazon Bedrock 環境，並優化運算資源與成本。"
+        },
+        {
+          "children": [],
+          "text": "安全與評測： 設計 Agent 安全沙箱 (Sandboxing) 機制，並建立自動化評測 (Evals) 流程，確保執行邏輯的準確與穩定。"
+        }
+      ],
+      "text": "1.Agent 開發： 使用 Claude Agent SDK (Python) 開發具備自主規劃、多步驟執行與 Tool Use 能力的企業級 Agent。\n2.MCP 系統整合： 實作 Model Context Protocol (MCP) 架構，開發 MCP Servers/Clients 以安全連接內部資料庫、API 與 AWS 服務。\n3.AWS 雲端部署： 規劃與部署 Agent 至 AWS Fargate (ECS) 或 Amazon Bedrock 環境，並優化運算資源與成本。\n4.安全與評測： 設計 Agent 安全沙箱 (Sandboxing) 機制，並建立自動化評測 (Evals) 流程，確保執行邏輯的準確與穩定。"
+    },
+    "employment_type_raw": "全職",
+    "title": ".AI 開發工程師（台北總公司）"
+  },
+  "location": {
+    "address_raw": "台北市內湖區洲子街 176 號",
+    "raw": "台北市內湖區洲子街 176 號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "Python",
+          "AWS"
+        ],
+        "label": "擅長工具",
+        "text": "Python、AWS"
+      },
+      {
+        "items": [
+          "AI",
+          "生成式AI"
+        ],
+        "label": "工作技能",
+        "text": "AI、生成式AI"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "AI",
+      "生成式AI"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Python、AWS\n工作技能：AI、生成式AI",
+    "tools": [
+      "Python",
+      "AWS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 19
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:07:54+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.Agent 開發： 使用 Claude Agent SDK (Python) 開發具備自主規劃、多步驟執行與 Tool Use 能力的企業級 Agent。\n2.MCP 系統整合： 實作 Model Context Protocol (MCP) 架構，開發 MCP Servers/Clients 以安全連接內部資料庫、API 與 AWS 服務。\n3.AWS 雲端部署： 規劃與部署 Agent 至 AWS Fargate (ECS) 或 Amazon Bedrock 環境，並優化運算資源與成本。\n4.安全與評測： 設計 Agent 安全沙箱 (Sandboxing) 機制，並建立自動化評測 (Evals) 流程，確保執行邏輯的準確與穩定。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "資料科學家",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、資料科學家、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區洲子街 176 號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.Agent 開發： 使用 Claude Agent SDK (Python) 開發具備自主規劃、多步驟執行與 Tool Use 能力的企業級 Agent。\n2.MCP 系統整合： 實作 Model Context Protocol (MCP) 架構，開發 MCP Servers/Clients 以安全連接內部資料庫、API 與 AWS 服務。\n3.AWS 雲端部署： 規劃與部署 Agent 至 AWS Fargate (ECS) 或 Amazon Bedrock 環境，並優化運算資源與成本。\n4.安全與評測： 設計 Agent 安全沙箱 (Sandboxing) 機制，並建立自動化評測 (Evals) 流程，確保執行邏輯的準確與穩定。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "AWS"
+          ],
+          "label": "擅長工具",
+          "text": "Python、AWS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "生成式AI"
+          ],
+          "label": "工作技能",
+          "text": "AI、生成式AI",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Python、AWS\n工作技能：AI、生成式AI"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8yk9e",
+    "job_url": "https://www.104.com.tw/job/8yk9e",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8yk9e.json",
+    "raw_sha256": "b26285bc00c7c1caa4be8beb283fe2feb74e0f30bdda7b189977370f96565c30",
+    "requested_url": "https://www.104.com.tw/api/jobs/8yk9e"
+  }
+}

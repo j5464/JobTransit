@@ -1,0 +1,268 @@
+{
+  "company": {
+    "id": "1a2x6bnc1c",
+    "name": "賓士KTV_南紡賓士有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉React native or React.js"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Node.js"
+        },
+        {
+          "children": [],
+          "text": "熟悉 JavaScript / ES6+ 語法"
+        },
+        {
+          "children": [],
+          "text": "具備良好的邏輯思考與溝通協調能力"
+        },
+        {
+          "children": [],
+          "text": "熟悉 git 版本控制 Source tree / github desktop"
+        },
+        {
+          "children": [],
+          "text": "前端UI實作"
+        },
+        {
+          "children": [],
+          "text": "串接後端 或 第三方 API or SDK"
+        },
+        {
+          "children": [],
+          "text": "維護現有程式碼"
+        },
+        {
+          "children": [],
+          "text": "主動發現問題並進行回報與優化"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Tailwinds / BootStraps/ gluestack-ui 或其他第三方 UI framework"
+        },
+        {
+          "children": [],
+          "text": "具備 RESTful API 串接經驗"
+        },
+        {
+          "children": [],
+          "text": "請附上個人作品集"
+        },
+        {
+          "children": [],
+          "text": "Proficiency in JavaScript frameworks."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in React Native or React.js"
+        },
+        {
+          "children": [],
+          "text": "Solid understanding of Tailwinds ,BootStraps, gluestack-ui for styling and"
+        },
+        {
+          "children": [],
+          "text": "Comfortable with Git, NodeJS"
+        },
+        {
+          "children": [],
+          "text": "Ability to work collaboratively with a team"
+        },
+        {
+          "children": [],
+          "text": "Participate in product design and feature development."
+        },
+        {
+          "children": [],
+          "text": "Code using the latest JavaScript, React, and CSS frameworks."
+        },
+        {
+          "children": [],
+          "text": "Deliver reusable code and contribute to the UI framework."
+        },
+        {
+          "children": [],
+          "text": "Optimize applications for speed, scalability, and user experience."
+        },
+        {
+          "children": [],
+          "text": "Implement modern CSS patterns and web technologies."
+        },
+        {
+          "children": [],
+          "text": "Stay updated with current technologies and apply them appropriately."
+        }
+      ],
+      "text": "必要條件\n1. 熟悉React native or React.js\n2. 熟悉 Node.js\n3. 熟悉 JavaScript / ES6+ 語法\n4. 具備良好的邏輯思考與溝通協調能力\n5. 熟悉 git 版本控制 Source tree / github desktop\n職務內容：\n1. 前端UI實作\n2. 串接後端 或 第三方 API or SDK\n3. 維護現有程式碼\n4. 主動發現問題並進行回報與優化\n加分條件：\n1. 熟悉 Tailwinds / BootStraps/ gluestack-ui 或其他第三方 UI framework\n2. 具備 RESTful API 串接經驗\n*請附上個人作品集\nRequirements and skills\n1.Proficiency in JavaScript frameworks.\n2.Proficiency in React Native or React.js\n3.Solid understanding of Tailwinds ,BootStraps, gluestack-ui for styling and\ndesigning web pages.\n4.Comfortable with Git, NodeJS\n5.Ability to work collaboratively with a team\nResponsibilities\n1.Participate in product design and feature development.\n2.Code using the latest JavaScript, React, and CSS frameworks.\n3.Deliver reusable code and contribute to the UI framework.\n4.Optimize applications for speed, scalability, and user experience.\n5.Implement modern CSS patterns and web technologies.\n6.Stay updated with current technologies and apply them appropriately."
+    },
+    "employment_type_raw": "全職",
+    "title": "React Native 前端工程師 (React Native Front-end developer)"
+  },
+  "location": {
+    "address_raw": "台南市北區中華北路一段255號",
+    "raw": "台南市北區中華北路一段255號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Git",
+          "JavaScript",
+          "Node.js",
+          "ReactNative"
+        ],
+        "label": "擅長工具",
+        "text": "Git、JavaScript、Node.js、ReactNative"
+      },
+      {
+        "items": [
+          "使用者介面設計",
+          "網頁語法撰寫"
+        ],
+        "label": "工作技能",
+        "text": "使用者介面設計、網頁語法撰寫"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "使用者介面設計",
+      "網頁語法撰寫"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：Git、JavaScript、Node.js、ReactNative\n工作技能：使用者介面設計、網頁語法撰寫",
+    "tools": [
+      "Git",
+      "JavaScript",
+      "Node.js",
+      "ReactNative"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 35
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:49:06+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000~48,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "必要條件\n1. 熟悉React native or React.js\n2. 熟悉 Node.js\n3. 熟悉 JavaScript / ES6+ 語法\n4. 具備良好的邏輯思考與溝通協調能力\n5. 熟悉 git 版本控制 Source tree / github desktop\n職務內容：\n1. 前端UI實作\n2. 串接後端 或 第三方 API or SDK\n3. 維護現有程式碼\n4. 主動發現問題並進行回報與優化\n加分條件：\n1. 熟悉 Tailwinds / BootStraps/ gluestack-ui 或其他第三方 UI framework\n2. 具備 RESTful API 串接經驗\n*請附上個人作品集\nRequirements and skills\n1.Proficiency in JavaScript frameworks.\n2.Proficiency in React Native or React.js\n3.Solid understanding of Tailwinds ,BootStraps, gluestack-ui for styling and\ndesigning web pages.\n4.Comfortable with Git, NodeJS\n5.Ability to work collaboratively with a team\nResponsibilities\n1.Participate in product design and feature development.\n2.Code using the latest JavaScript, React, and CSS frameworks.\n3.Deliver reusable code and contribute to the UI framework.\n4.Optimize applications for speed, scalability, and user experience.\n5.Implement modern CSS patterns and web technologies.\n6.Stay updated with current technologies and apply them appropriately.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000~48,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市北區中華北路一段255號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "必要條件\n1. 熟悉React native or React.js\n2. 熟悉 Node.js\n3. 熟悉 JavaScript / ES6+ 語法\n4. 具備良好的邏輯思考與溝通協調能力\n5. 熟悉 git 版本控制 Source tree / github desktop\n職務內容：\n1. 前端UI實作\n2. 串接後端 或 第三方 API or SDK\n3. 維護現有程式碼\n4. 主動發現問題並進行回報與優化\n加分條件：\n1. 熟悉 Tailwinds / BootStraps/ gluestack-ui 或其他第三方 UI framework\n2. 具備 RESTful API 串接經驗\n*請附上個人作品集\nRequirements and skills\n1.Proficiency in JavaScript frameworks.\n2.Proficiency in React Native or React.js\n3.Solid understanding of Tailwinds ,BootStraps, gluestack-ui for styling and\ndesigning web pages.\n4.Comfortable with Git, NodeJS\n5.Ability to work collaboratively with a team\nResponsibilities\n1.Participate in product design and feature development.\n2.Code using the latest JavaScript, React, and CSS frameworks.\n3.Deliver reusable code and contribute to the UI framework.\n4.Optimize applications for speed, scalability, and user experience.\n5.Implement modern CSS patterns and web technologies.\n6.Stay updated with current technologies and apply them appropriately."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "JavaScript",
+            "Node.js",
+            "ReactNative"
+          ],
+          "label": "擅長工具",
+          "text": "Git、JavaScript、Node.js、ReactNative",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "使用者介面設計",
+            "網頁語法撰寫"
+          ],
+          "label": "工作技能",
+          "text": "使用者介面設計、網頁語法撰寫",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：Git、JavaScript、Node.js、ReactNative\n工作技能：使用者介面設計、網頁語法撰寫"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8o1gw",
+    "job_url": "https://www.104.com.tw/job/8o1gw",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8o1gw.json",
+    "raw_sha256": "df912643ab428742053c094ab772a5151409c0da0bfdd27d7b2f949539f5b9ae",
+    "requested_url": "https://www.104.com.tw/api/jobs/8o1gw"
+  }
+}

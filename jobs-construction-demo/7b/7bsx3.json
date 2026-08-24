@@ -1,0 +1,167 @@
+{
+  "company": {
+    "id": "cx5aw1c",
+    "name": "安富科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "軟體工程師",
+      "聲學／噪音工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "音訊處理相關演算法文獻研究與實現，包括但不限於以下領域，如適應性迴音消除、噪訊抑制、語音增強、主動式噪聲控制、語音分離、語音去混響、汽車聲響警示系統、語音波束形成等。\n利用深度學習TensorFlow、PyTorch、Keras等套件，建立不同機器學習演算法架構，如 DNN、CNN、RNN、LSTM等，來實現不同音訊處理演算法應用。\n利用Python等模擬開發環境，規劃、設計與驗證音訊處理演算法。\n協助建立音訊資料庫，並完成資料建模。"
+    },
+    "employment_type_raw": "全職",
+    "title": "[台北]音訊演算法工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路258巷31號5樓",
+    "raw": "台北市內湖區瑞光路258巷31號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉適應性訊號處理技能。\n擁有機器學習相關技能並具備模型參數效能調適能力。\n擁有良好溝通能力與團隊合作精神。\n具備數位訊號處理相關知識，有相關開發經驗(Speech/Audio)尤佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "熟悉適應性訊號處理技能。\n擁有機器學習相關技能並具備模型參數效能調適能力。\n擁有良好溝通能力與團隊合作精神。\n具備數位訊號處理相關知識，有相關開發經驗(Speech/Audio)尤佳。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n擅長工具：C、C++、Python\n其他條件：熟悉適應性訊號處理技能。\n擁有機器學習相關技能並具備模型參數效能調適能力。\n擁有良好溝通能力與團隊合作精神。\n具備數位訊號處理相關知識，有相關開發經驗(Speech/Audio)尤佳。",
+    "tools": [
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 28
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:31:48+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "音訊處理相關演算法文獻研究與實現，包括但不限於以下領域，如適應性迴音消除、噪訊抑制、語音增強、主動式噪聲控制、語音分離、語音去混響、汽車聲響警示系統、語音波束形成等。\n利用深度學習TensorFlow、PyTorch、Keras等套件，建立不同機器學習演算法架構，如 DNN、CNN、RNN、LSTM等，來實現不同音訊處理演算法應用。\n利用Python等模擬開發環境，規劃、設計與驗證音訊處理演算法。\n協助建立音訊資料庫，並完成資料建模。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "軟體工程師",
+            "聲學／噪音工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、軟體工程師、聲學／噪音工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路258巷31號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "音訊處理相關演算法文獻研究與實現，包括但不限於以下領域，如適應性迴音消除、噪訊抑制、語音增強、主動式噪聲控制、語音分離、語音去混響、汽車聲響警示系統、語音波束形成等。\n利用深度學習TensorFlow、PyTorch、Keras等套件，建立不同機器學習演算法架構，如 DNN、CNN、RNN、LSTM等，來實現不同音訊處理演算法應用。\n利用Python等模擬開發環境，規劃、設計與驗證音訊處理演算法。\n協助建立音訊資料庫，並完成資料建模。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉適應性訊號處理技能。\n擁有機器學習相關技能並具備模型參數效能調適能力。\n擁有良好溝通能力與團隊合作精神。\n具備數位訊號處理相關知識，有相關開發經驗(Speech/Audio)尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n擅長工具：C、C++、Python\n其他條件：熟悉適應性訊號處理技能。\n擁有機器學習相關技能並具備模型參數效能調適能力。\n擁有良好溝通能力與團隊合作精神。\n具備數位訊號處理相關知識，有相關開發經驗(Speech/Audio)尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7bsx3",
+    "job_url": "https://www.104.com.tw/job/7bsx3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7bsx3.json",
+    "raw_sha256": "70502342bfd952fdb731adace89903b3c777ea2677e7e1e648a8fc706eddf10b",
+    "requested_url": "https://www.104.com.tw/api/jobs/7bsx3"
+  }
+}

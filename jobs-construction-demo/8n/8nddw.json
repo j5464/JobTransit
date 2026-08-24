@@ -1,0 +1,279 @@
+{
+  "company": {
+    "id": "1a2x6bn73f",
+    "name": "瑞利光智能股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "軟體工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發與精進巨量轉移製程的AI演算法"
+        },
+        {
+          "children": [],
+          "text": "建立生產製程與檢測資料分析系統，利用AI進行預測預防與分類"
+        },
+        {
+          "children": [],
+          "text": "擁有資訊、電子工程、AI、ML 或相關領域的學士、碩士或博士學位"
+        },
+        {
+          "children": [],
+          "text": "至少 2 年實際實施 AI 解決方案的經驗"
+        },
+        {
+          "children": [],
+          "text": "具有扎實的 AI/ML 原理基礎"
+        },
+        {
+          "children": [],
+          "text": "精通 Python（必須）和 C++/C#（加分）"
+        },
+        {
+          "children": [],
+          "text": "熟悉 PyTorch 或 TensorFlow"
+        },
+        {
+          "children": [],
+          "text": "具有職場溝通能力和合作技巧"
+        }
+      ],
+      "text": "【職務說明】\nRVi 持續投入 AI × MicroLED × 矽光子，致力於打造下一世代的先進顯示技術與矽光子應用。我們正在尋找具備深厚 AI/ML 技術背景、對前沿技術應用充滿熱忱的 AI 工程師。在這裡，您將能參與從概念驗證到實際部署的完整開發流程，推動智慧製造與 AI 應用創新的核心力量。\n【工作內容】\n1. 開發與精進巨量轉移製程的AI演算法\n2. 建立生產製程與檢測資料分析系統，利用AI進行預測預防與分類\n【資格條件】\n1. 擁有資訊、電子工程、AI、ML 或相關領域的學士、碩士或博士學位\n2. 至少 2 年實際實施 AI 解決方案的經驗\n3. 具有扎實的 AI/ML 原理基礎\n4. 精通 Python（必須）和 C++/C#（加分）\n5. 熟悉 PyTorch 或 TensorFlow\n6. 具有職場溝通能力和合作技巧"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI工程師/機器學習ML工程師"
+  },
+  "location": {
+    "address_raw": "新竹市東區水利路81號5樓之3",
+    "raw": "新竹市東區水利路81號5樓之3"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關",
+          "數理統計相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關、數理統計相關"
+      },
+      {
+        "items": [
+          "C++",
+          "PyTorch",
+          "LLM",
+          "Python",
+          "tensorflow",
+          "scikit-learn",
+          "C#",
+          "MS SQL",
+          "MySQL",
+          "PostgreSQL",
+          "PL/SQL"
+        ],
+        "label": "擅長工具",
+        "text": "C++、PyTorch、LLM、Python、tensorflow、scikit-learn、C#、MS SQL、MySQL、PostgreSQL、PL/SQL"
+      },
+      {
+        "items": [
+          "AI",
+          "演算法設計",
+          "軟體程式設計",
+          "資料庫程式設計",
+          "機器學習",
+          "深度學習"
+        ],
+        "label": "工作技能",
+        "text": "AI、演算法設計、軟體程式設計、資料庫程式設計、機器學習、深度學習"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分項目：\n具備 Kubernetes、Docker、CI/CD 工具的經驗\n電腦視覺專長（如 OpenCV、Dlib）\n雲平台經驗（如 AWS、Azure、GCP）\n具有大規模數據和分布式系統的經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關",
+      "數理統計相關"
+    ],
+    "other_text": "加分項目：\n具備 Kubernetes、Docker、CI/CD 工具的經驗\n電腦視覺專長（如 OpenCV、Dlib）\n雲平台經驗（如 AWS、Azure、GCP）\n具有大規模數據和分布式系統的經驗",
+    "skills": [
+      "AI",
+      "演算法設計",
+      "軟體程式設計",
+      "資料庫程式設計",
+      "機器學習",
+      "深度學習"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、數理統計相關\n擅長工具：C++、PyTorch、LLM、Python、tensorflow、scikit-learn、C#、MS SQL、MySQL、PostgreSQL、PL/SQL\n工作技能：AI、演算法設計、軟體程式設計、資料庫程式設計、機器學習、深度學習\n其他條件：加分項目：\n具備 Kubernetes、Docker、CI/CD 工具的經驗\n電腦視覺專長（如 OpenCV、Dlib）\n雲平台經驗（如 AWS、Azure、GCP）\n具有大規模數據和分布式系統的經驗",
+    "tools": [
+      "C++",
+      "PyTorch",
+      "LLM",
+      "Python",
+      "tensorflow",
+      "scikit-learn",
+      "C#",
+      "MS SQL",
+      "MySQL",
+      "PostgreSQL",
+      "PL/SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 68
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:10:49+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職務說明】\nRVi 持續投入 AI × MicroLED × 矽光子，致力於打造下一世代的先進顯示技術與矽光子應用。我們正在尋找具備深厚 AI/ML 技術背景、對前沿技術應用充滿熱忱的 AI 工程師。在這裡，您將能參與從概念驗證到實際部署的完整開發流程，推動智慧製造與 AI 應用創新的核心力量。\n【工作內容】\n1. 開發與精進巨量轉移製程的AI演算法\n2. 建立生產製程與檢測資料分析系統，利用AI進行預測預防與分類\n【資格條件】\n1. 擁有資訊、電子工程、AI、ML 或相關領域的學士、碩士或博士學位\n2. 至少 2 年實際實施 AI 解決方案的經驗\n3. 具有扎實的 AI/ML 原理基礎\n4. 精通 Python（必須）和 C++/C#（加分）\n5. 熟悉 PyTorch 或 TensorFlow\n6. 具有職場溝通能力和合作技巧",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "軟體工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、軟體工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東區水利路81號5樓之3",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職務說明】\nRVi 持續投入 AI × MicroLED × 矽光子，致力於打造下一世代的先進顯示技術與矽光子應用。我們正在尋找具備深厚 AI/ML 技術背景、對前沿技術應用充滿熱忱的 AI 工程師。在這裡，您將能參與從概念驗證到實際部署的完整開發流程，推動智慧製造與 AI 應用創新的核心力量。\n【工作內容】\n1. 開發與精進巨量轉移製程的AI演算法\n2. 建立生產製程與檢測資料分析系統，利用AI進行預測預防與分類\n【資格條件】\n1. 擁有資訊、電子工程、AI、ML 或相關領域的學士、碩士或博士學位\n2. 至少 2 年實際實施 AI 解決方案的經驗\n3. 具有扎實的 AI/ML 原理基礎\n4. 精通 Python（必須）和 C++/C#（加分）\n5. 熟悉 PyTorch 或 TensorFlow\n6. 具有職場溝通能力和合作技巧"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關",
+            "數理統計相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關、數理統計相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "PyTorch",
+            "LLM",
+            "Python",
+            "tensorflow",
+            "scikit-learn",
+            "C#",
+            "MS SQL",
+            "MySQL",
+            "PostgreSQL",
+            "PL/SQL"
+          ],
+          "label": "擅長工具",
+          "text": "C++、PyTorch、LLM、Python、tensorflow、scikit-learn、C#、MS SQL、MySQL、PostgreSQL、PL/SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "演算法設計",
+            "軟體程式設計",
+            "資料庫程式設計",
+            "機器學習",
+            "深度學習"
+          ],
+          "label": "工作技能",
+          "text": "AI、演算法設計、軟體程式設計、資料庫程式設計、機器學習、深度學習",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分項目：\n具備 Kubernetes、Docker、CI/CD 工具的經驗\n電腦視覺專長（如 OpenCV、Dlib）\n雲平台經驗（如 AWS、Azure、GCP）\n具有大規模數據和分布式系統的經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、數理統計相關\n擅長工具：C++、PyTorch、LLM、Python、tensorflow、scikit-learn、C#、MS SQL、MySQL、PostgreSQL、PL/SQL\n工作技能：AI、演算法設計、軟體程式設計、資料庫程式設計、機器學習、深度學習\n其他條件：加分項目：\n具備 Kubernetes、Docker、CI/CD 工具的經驗\n電腦視覺專長（如 OpenCV、Dlib）\n雲平台經驗（如 AWS、Azure、GCP）\n具有大規模數據和分布式系統的經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8nddw",
+    "job_url": "https://www.104.com.tw/job/8nddw",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8nddw.json",
+    "raw_sha256": "48f939143c275e5f5c3e17056692995efc837334564380c6bfe7286c52775cf9",
+    "requested_url": "https://www.104.com.tw/api/jobs/8nddw"
+  }
+}

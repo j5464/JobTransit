@@ -1,0 +1,150 @@
+{
+  "company": {
+    "id": "1a2x6bjr6p",
+    "name": "勝圖國際企業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "遊戲工程師",
+      "數據分析師／資料分析師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計遊戲玩法與得分機制。"
+        },
+        {
+          "children": [],
+          "text": "熟悉排列組合、機率理論，與建立遊戲機率模型。"
+        },
+        {
+          "children": [],
+          "text": "驗證機率模型之正確性、公平性與可行性。"
+        },
+        {
+          "children": [],
+          "text": "調整各項參數，優化遊戲體驗。"
+        }
+      ],
+      "text": "1.設計遊戲玩法與得分機制。\n2.熟悉排列組合、機率理論，與建立遊戲機率模型。\n3.驗證機率模型之正確性、公平性與可行性。\n4.調整各項參數，優化遊戲體驗。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【內湖】遊戲機率工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區洲子街112號4樓",
+    "raw": "台北市內湖區洲子街112號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 75
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:27:46+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000~70,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.設計遊戲玩法與得分機制。\n2.熟悉排列組合、機率理論，與建立遊戲機率模型。\n3.驗證機率模型之正確性、公平性與可行性。\n4.調整各項參數，優化遊戲體驗。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "遊戲工程師",
+            "數據分析師／資料分析師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "遊戲工程師、數據分析師／資料分析師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000~70,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區洲子街112號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.設計遊戲玩法與得分機制。\n2.熟悉排列組合、機率理論，與建立遊戲機率模型。\n3.驗證機率模型之正確性、公平性與可行性。\n4.調整各項參數，優化遊戲體驗。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "881hj",
+    "job_url": "https://www.104.com.tw/job/881hj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/881hj.json",
+    "raw_sha256": "1127a42989d0d904db66a3aae2001f07fb196c8b713610e4a3f84df8ccac414f",
+    "requested_url": "https://www.104.com.tw/api/jobs/881hj"
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "company": {
+    "id": "co326mg",
+    "name": "盛大資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "DevOps 工程師",
+      "可靠度工程師",
+      "雲端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "維護與優化GCP環境（VM / Cloud Run / GKE / Cloud SQL / Redis / Pub/Sub）"
+        },
+        {
+          "children": [],
+          "text": "維護與優化AWS環境（EC2 / ECS / EKS / RDS / ElastiCache / SQS·SNS）"
+        },
+        {
+          "children": [],
+          "text": "設計跨雲高可用（HA）與可擴展（Scalable）架構"
+        },
+        {
+          "children": [],
+          "text": "優化資源配置與雙雲成本管理（FinOps）"
+        },
+        {
+          "children": [],
+          "text": "以 Infrastructure as Code（Terraform 等工具）管理基礎架構"
+        },
+        {
+          "children": [],
+          "text": "建立與優化 CI/CD（Github Actions 或其他工具）"
+        },
+        {
+          "children": [],
+          "text": "將既有部署流程自動化，降低人工操作風險"
+        },
+        {
+          "children": [],
+          "text": "優化容器化與 Kubernetes（GKE）管理流程"
+        },
+        {
+          "children": [],
+          "text": "建立與維護 ELK 監控與日誌系統"
+        },
+        {
+          "children": [],
+          "text": "建立告警機制與 Incident Response 流程"
+        },
+        {
+          "children": [],
+          "text": "定義並落實 SLO / SLA（含 SLI 指標設計）"
+        },
+        {
+          "children": [],
+          "text": "與開發團隊協作，持續優化部署流程"
+        },
+        {
+          "children": [],
+          "text": "建立基礎架構標準、文件與最佳實務"
+        },
+        {
+          "children": [],
+          "text": "規劃未來 Infra 架構方向與技術藍圖"
+        },
+        {
+          "children": [],
+          "text": "3 年以上 SRE / DevOps / Cloud Infrastructure 相關經驗"
+        },
+        {
+          "children": [],
+          "text": "同時熟悉GCP 與 AWS雙雲環境，具備實際維運經驗"
+        },
+        {
+          "children": [],
+          "text": "具備Terraform等 IaC 實務經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉Docker 與 Kubernetes（GKE / EKS 尤佳）"
+        },
+        {
+          "children": [],
+          "text": "具備 CI/CD 建置經驗（Bitbucket Pipelines / GitHub Actions 等）"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Linux 系統管理與至少一種腳本語言（Bash / Python / Go）"
+        },
+        {
+          "children": [],
+          "text": "具備監控與日誌系統經驗（ELK / Prometheus / Grafana 等）"
+        },
+        {
+          "children": [],
+          "text": "理解 SLO / SLA / Incident Response 概念並有實作經驗"
+        },
+        {
+          "children": [],
+          "text": "具備雲端成本優化（FinOps）實績"
+        },
+        {
+          "children": [],
+          "text": "持有 GCP 或 AWS 證照（GCP Professional Cloud Architect / DevOps Engineer、AWS SolutionsArchitect / DevOps Engineer）"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Service Mesh、GitOps（ArgoCD / Flux）"
+        },
+        {
+          "children": [],
+          "text": "具備資安、合規或網路架構（VPC / Load Balancer / CDN）經驗"
+        },
+        {
+          "children": [],
+          "text": "有 On-call 輪值與大型 Incident 處理經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉Zero Trust Architecture（ZTA）零信任架構的設計與導入（如 BeyondCorp、IAP、身分為核心的存取控管）"
+        },
+        {
+          "children": [],
+          "text": "以自動化取代重複手動作業的工程思維"
+        },
+        {
+          "children": [],
+          "text": "重視可靠性、文件化與可維護性"
+        },
+        {
+          "children": [],
+          "text": "良好的跨團隊溝通與協作能力"
+        }
+      ],
+      "text": "【工作內容】\n一、GCP / AWS 雙雲基礎架構管理與優化\n1.維護與優化GCP環境（VM / Cloud Run / GKE / Cloud SQL / Redis / Pub/Sub）\n2.維護與優化AWS環境（EC2 / ECS / EKS / RDS / ElastiCache / SQS·SNS）\n3.設計跨雲高可用（HA）與可擴展（Scalable）架構\n4.優化資源配置與雙雲成本管理（FinOps）\n二、自動化與部署流程建構\n1.以 Infrastructure as Code（Terraform 等工具）管理基礎架構\n2.建立與優化 CI/CD（Github Actions 或其他工具）\n3.將既有部署流程自動化，降低人工操作風險\n4.優化容器化與 Kubernetes（GKE）管理流程\n三、監控與可觀測性\n1.建立與維護 ELK 監控與日誌系統\n2.建立告警機制與 Incident Response 流程\n3.定義並落實 SLO / SLA（含 SLI 指標設計）\n四、跨團隊協作與制度建立\n1.與開發團隊協作，持續優化部署流程\n2.建立基礎架構標準、文件與最佳實務\n3.規劃未來 Infra 架構方向與技術藍圖\n【必備條件】\n1.3 年以上 SRE / DevOps / Cloud Infrastructure 相關經驗\n2.同時熟悉GCP 與 AWS雙雲環境，具備實際維運經驗\n3.具備Terraform等 IaC 實務經驗\n4.熟悉Docker 與 Kubernetes（GKE / EKS 尤佳）\n5.具備 CI/CD 建置經驗（Bitbucket Pipelines / GitHub Actions 等）\n6.熟悉 Linux 系統管理與至少一種腳本語言（Bash / Python / Go）\n7.具備監控與日誌系統經驗（ELK / Prometheus / Grafana 等）\n8.理解 SLO / SLA / Incident Response 概念並有實作經驗\n【加分條件】\n1.具備雲端成本優化（FinOps）實績\n2.持有 GCP 或 AWS 證照（GCP Professional Cloud Architect / DevOps Engineer、AWS SolutionsArchitect / DevOps Engineer）\n3.熟悉 Service Mesh、GitOps（ArgoCD / Flux）\n4.具備資安、合規或網路架構（VPC / Load Balancer / CDN）經驗\n5.有 On-call 輪值與大型 Incident 處理經驗\n6.熟悉Zero Trust Architecture（ZTA）零信任架構的設計與導入（如 BeyondCorp、IAP、身分為核心的存取控管）\n【特質】\n1.以自動化取代重複手動作業的工程思維\n2.重視可靠性、文件化與可維護性\n3.良好的跨團隊溝通與協作能力\n主動發現問題並提出系統性解法"
+    },
+    "employment_type_raw": "全職",
+    "title": "D-Site Reliability Engineer(SRE)"
+  },
+  "location": {
+    "address_raw": "台北市大安區",
+    "raw": "台北市大安區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "AWS",
+          "Cloud",
+          "Linux",
+          "Kubernetes"
+        ],
+        "label": "擅長工具",
+        "text": "AWS、Cloud、Linux、Kubernetes"
+      },
+      {
+        "items": [
+          "CI/CD"
+        ],
+        "label": "工作技能",
+        "text": "CI/CD"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "CI/CD"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n擅長工具：AWS、Cloud、Linux、Kubernetes\n工作技能：CI/CD",
+    "tools": [
+      "AWS",
+      "Cloud",
+      "Linux",
+      "Kubernetes"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:04:19+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n一、GCP / AWS 雙雲基礎架構管理與優化\n1.維護與優化GCP環境（VM / Cloud Run / GKE / Cloud SQL / Redis / Pub/Sub）\n2.維護與優化AWS環境（EC2 / ECS / EKS / RDS / ElastiCache / SQS·SNS）\n3.設計跨雲高可用（HA）與可擴展（Scalable）架構\n4.優化資源配置與雙雲成本管理（FinOps）\n二、自動化與部署流程建構\n1.以 Infrastructure as Code（Terraform 等工具）管理基礎架構\n2.建立與優化 CI/CD（Github Actions 或其他工具）\n3.將既有部署流程自動化，降低人工操作風險\n4.優化容器化與 Kubernetes（GKE）管理流程\n三、監控與可觀測性\n1.建立與維護 ELK 監控與日誌系統\n2.建立告警機制與 Incident Response 流程\n3.定義並落實 SLO / SLA（含 SLI 指標設計）\n四、跨團隊協作與制度建立\n1.與開發團隊協作，持續優化部署流程\n2.建立基礎架構標準、文件與最佳實務\n3.規劃未來 Infra 架構方向與技術藍圖\n【必備條件】\n1.3 年以上 SRE / DevOps / Cloud Infrastructure 相關經驗\n2.同時熟悉GCP 與 AWS雙雲環境，具備實際維運經驗\n3.具備Terraform等 IaC 實務經驗\n4.熟悉Docker 與 Kubernetes（GKE / EKS 尤佳）\n5.具備 CI/CD 建置經驗（Bitbucket Pipelines / GitHub Actions 等）\n6.熟悉 Linux 系統管理與至少一種腳本語言（Bash / Python / Go）\n7.具備監控與日誌系統經驗（ELK / Prometheus / Grafana 等）\n8.理解 SLO / SLA / Incident Response 概念並有實作經驗\n【加分條件】\n1.具備雲端成本優化（FinOps）實績\n2.持有 GCP 或 AWS 證照（GCP Professional Cloud Architect / DevOps Engineer、AWS SolutionsArchitect / DevOps Engineer）\n3.熟悉 Service Mesh、GitOps（ArgoCD / Flux）\n4.具備資安、合規或網路架構（VPC / Load Balancer / CDN）經驗\n5.有 On-call 輪值與大型 Incident 處理經驗\n6.熟悉Zero Trust Architecture（ZTA）零信任架構的設計與導入（如 BeyondCorp、IAP、身分為核心的存取控管）\n【特質】\n1.以自動化取代重複手動作業的工程思維\n2.重視可靠性、文件化與可維護性\n3.良好的跨團隊溝通與協作能力\n主動發現問題並提出系統性解法",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "DevOps 工程師",
+            "可靠度工程師",
+            "雲端工程師"
+          ],
+          "label": "職務類別",
+          "text": "DevOps 工程師、可靠度工程師、雲端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n一、GCP / AWS 雙雲基礎架構管理與優化\n1.維護與優化GCP環境（VM / Cloud Run / GKE / Cloud SQL / Redis / Pub/Sub）\n2.維護與優化AWS環境（EC2 / ECS / EKS / RDS / ElastiCache / SQS·SNS）\n3.設計跨雲高可用（HA）與可擴展（Scalable）架構\n4.優化資源配置與雙雲成本管理（FinOps）\n二、自動化與部署流程建構\n1.以 Infrastructure as Code（Terraform 等工具）管理基礎架構\n2.建立與優化 CI/CD（Github Actions 或其他工具）\n3.將既有部署流程自動化，降低人工操作風險\n4.優化容器化與 Kubernetes（GKE）管理流程\n三、監控與可觀測性\n1.建立與維護 ELK 監控與日誌系統\n2.建立告警機制與 Incident Response 流程\n3.定義並落實 SLO / SLA（含 SLI 指標設計）\n四、跨團隊協作與制度建立\n1.與開發團隊協作，持續優化部署流程\n2.建立基礎架構標準、文件與最佳實務\n3.規劃未來 Infra 架構方向與技術藍圖\n【必備條件】\n1.3 年以上 SRE / DevOps / Cloud Infrastructure 相關經驗\n2.同時熟悉GCP 與 AWS雙雲環境，具備實際維運經驗\n3.具備Terraform等 IaC 實務經驗\n4.熟悉Docker 與 Kubernetes（GKE / EKS 尤佳）\n5.具備 CI/CD 建置經驗（Bitbucket Pipelines / GitHub Actions 等）\n6.熟悉 Linux 系統管理與至少一種腳本語言（Bash / Python / Go）\n7.具備監控與日誌系統經驗（ELK / Prometheus / Grafana 等）\n8.理解 SLO / SLA / Incident Response 概念並有實作經驗\n【加分條件】\n1.具備雲端成本優化（FinOps）實績\n2.持有 GCP 或 AWS 證照（GCP Professional Cloud Architect / DevOps Engineer、AWS SolutionsArchitect / DevOps Engineer）\n3.熟悉 Service Mesh、GitOps（ArgoCD / Flux）\n4.具備資安、合規或網路架構（VPC / Load Balancer / CDN）經驗\n5.有 On-call 輪值與大型 Incident 處理經驗\n6.熟悉Zero Trust Architecture（ZTA）零信任架構的設計與導入（如 BeyondCorp、IAP、身分為核心的存取控管）\n【特質】\n1.以自動化取代重複手動作業的工程思維\n2.重視可靠性、文件化與可維護性\n3.良好的跨團隊溝通與協作能力\n主動發現問題並提出系統性解法"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AWS",
+            "Cloud",
+            "Linux",
+            "Kubernetes"
+          ],
+          "label": "擅長工具",
+          "text": "AWS、Cloud、Linux、Kubernetes",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "CI/CD"
+          ],
+          "label": "工作技能",
+          "text": "CI/CD",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n擅長工具：AWS、Cloud、Linux、Kubernetes\n工作技能：CI/CD"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "95253",
+    "job_url": "https://www.104.com.tw/job/95253",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/95253.json",
+    "raw_sha256": "66eb3a27eb2428ca7736cee602395437d635a56b6f76dfb9b6fc14fe2def3292",
+    "requested_url": "https://www.104.com.tw/api/jobs/95253"
+  }
+}

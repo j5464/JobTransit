@@ -1,0 +1,368 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依專案需求設計並開發前端畫面"
+        },
+        {
+          "children": [],
+          "text": "依專案需求介接內部、外部平台"
+        },
+        {
+          "children": [],
+          "text": "需考量效能、安全、品質等因素"
+        },
+        {
+          "children": [],
+          "text": "熟悉至少一種JavaScript MVC, MVVM框架: VueJS, ReactJS, AngularJS"
+        },
+        {
+          "children": [],
+          "text": "對於框架生命週期與hook function原理熟悉"
+        },
+        {
+          "children": [],
+          "text": "對於ES6 (JavaScript的 ECMA 2015標準)以上語法熟悉"
+        },
+        {
+          "children": [],
+          "text": "更進一步理解SSR架構，例如NextJS"
+        },
+        {
+          "children": [],
+          "text": "熟悉至少一種框架相應狀態處理套件: Vuex, Redux, React-redux 或 Pinia"
+        },
+        {
+          "children": [],
+          "text": "定義狀態處理的功能模組化"
+        },
+        {
+          "children": [],
+          "text": "基於資安需求的storage和初始狀態處理"
+        },
+        {
+          "children": [],
+          "text": "熟悉至少一種框架相應路由處理套件: vue-router, react-router"
+        },
+        {
+          "children": [],
+          "text": "了解瀏覽器模式原理應用(hash/history mode)"
+        },
+        {
+          "children": [],
+          "text": "建構路由與參數傳遞方法"
+        },
+        {
+          "children": [],
+          "text": "可以了解快速構建框架的應用方式: create-react-app, vue-cli, vite等"
+        },
+        {
+          "children": [],
+          "text": "熟悉一種套件管理系統: npm 或 yarn"
+        },
+        {
+          "children": [],
+          "text": "熟悉框架資料處理套件，如 Axios , Fetch"
+        },
+        {
+          "children": [],
+          "text": "熟悉版控工具: git, github"
+        },
+        {
+          "children": [],
+          "text": "具備良好的溝通協作能力，有較強的主動性及團隊合作精神，思路清晰與敏捷\""
+        },
+        {
+          "children": [],
+          "text": "Design and develop front-end interfaces according to project requirements"
+        },
+        {
+          "children": [],
+          "text": "Integrate internal and external platforms based on project needs"
+        },
+        {
+          "children": [],
+          "text": "Consider factors such as performance, security, and quality"
+        },
+        {
+          "children": [],
+          "text": "Familiar with at least one JavaScript MVC or MVVM framework: VueJS, ReactJS, AngularJS"
+        },
+        {
+          "children": [],
+          "text": "Familiar with the framework lifecycle and the principles of hook functions"
+        },
+        {
+          "children": [],
+          "text": "Proficient in ES6 (ECMAScript 2015) syntax and above"
+        },
+        {
+          "children": [],
+          "text": "Further understanding of SSR architecture, such as NextJS"
+        },
+        {
+          "children": [],
+          "text": "Proficient in at least one framework-specific state management library: Vuex, Redux, React-redux, or Pinia"
+        },
+        {
+          "children": [],
+          "text": "Modular definition of state management functionalities"
+        },
+        {
+          "children": [],
+          "text": "Handling storage and initial state processing based on security requirements"
+        },
+        {
+          "children": [],
+          "text": "Proficient in at least one framework-specific routing library: vue-router, react-router"
+        },
+        {
+          "children": [],
+          "text": "Understanding of browser mode principles (hash/history mode) application"
+        },
+        {
+          "children": [],
+          "text": "Constructing routes and methods for parameter passing"
+        },
+        {
+          "children": [],
+          "text": "Application methods for rapid framework construction: create-react-app, vue-cli, vite, etc."
+        },
+        {
+          "children": [],
+          "text": "Proficient in one package management system: npm or yarn"
+        },
+        {
+          "children": [],
+          "text": "Familiar with framework data handling libraries, such as Axios, Fetch"
+        },
+        {
+          "children": [],
+          "text": "Proficient in version control tools: git, github"
+        },
+        {
+          "children": [],
+          "text": "Capable of excellent communication and collaboration skills, with strong initiative and teamwork spirit, clear and agile thinking"
+        }
+      ],
+      "text": "《職務說明》\n1. 依專案需求設計並開發前端畫面\n2. 依專案需求介接內部、外部平台\n3. 需考量效能、安全、品質等因素\n《需求條件》\n1. 熟悉至少一種JavaScript MVC, MVVM框架: VueJS, ReactJS, AngularJS\n- 對於框架生命週期與hook function原理熟悉\n- 對於ES6 (JavaScript的 ECMA 2015標準)以上語法熟悉\n- 更進一步理解SSR架構，例如NextJS\n2. 熟悉至少一種框架相應狀態處理套件: Vuex, Redux, React-redux 或 Pinia\n- 定義狀態處理的功能模組化\n- 基於資安需求的storage和初始狀態處理\n3. 熟悉至少一種框架相應路由處理套件: vue-router, react-router\n-了解瀏覽器模式原理應用(hash/history mode)\n-建構路由與參數傳遞方法\n4. 可以了解快速構建框架的應用方式: create-react-app, vue-cli, vite等\n5. 熟悉一種套件管理系統: npm 或 yarn\n6. 熟悉框架資料處理套件，如 Axios , Fetch\n7. 熟悉版控工具: git, github\n8. 具備良好的溝通協作能力，有較強的主動性及團隊合作精神，思路清晰與敏捷\"\n《Responsibility》\n1. Design and develop front-end interfaces according to project requirements\n2. Integrate internal and external platforms based on project needs\n3. Consider factors such as performance, security, and quality\n《Qualification》\n1. Familiar with at least one JavaScript MVC or MVVM framework: VueJS, ReactJS, AngularJS\n- Familiar with the framework lifecycle and the principles of hook functions\n- Proficient in ES6 (ECMAScript 2015) syntax and above\n- Further understanding of SSR architecture, such as NextJS\n2. Proficient in at least one framework-specific state management library: Vuex, Redux, React-redux, or Pinia\n- Modular definition of state management functionalities\n- Handling storage and initial state processing based on security requirements\n3. Proficient in at least one framework-specific routing library: vue-router, react-router\n- Understanding of browser mode principles (hash/history mode) application\n- Constructing routes and methods for parameter passing\n4. Application methods for rapid framework construction: create-react-app, vue-cli, vite, etc.\n5. Proficient in one package management system: npm or yarn\n6. Familiar with framework data handling libraries, such as Axios, Fetch\n7. Proficient in version control tools: git, github\n8. Capable of excellent communication and collaboration skills, with strong initiative and teamwork spirit, clear and agile thinking"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體設計資深工程師(前端)_資訊處_研發支援系統整合(內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號(內湖)",
+    "raw": "台北市內湖區瑞光路186號(內湖)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Github",
+          "Git",
+          "JavaScript",
+          "ReactJS",
+          "AngularJS",
+          "VueJS"
+        ],
+        "label": "擅長工具",
+        "text": "Github、Git、JavaScript、ReactJS、AngularJS、VueJS"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Github、Git、JavaScript、ReactJS、AngularJS、VueJS\n工作技能：軟體工程系統開發、軟體程式設計",
+    "tools": [
+      "Github",
+      "Git",
+      "JavaScript",
+      "ReactJS",
+      "AngularJS",
+      "VueJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 72
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:18:26+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "《職務說明》\n1. 依專案需求設計並開發前端畫面\n2. 依專案需求介接內部、外部平台\n3. 需考量效能、安全、品質等因素\n《需求條件》\n1. 熟悉至少一種JavaScript MVC, MVVM框架: VueJS, ReactJS, AngularJS\n- 對於框架生命週期與hook function原理熟悉\n- 對於ES6 (JavaScript的 ECMA 2015標準)以上語法熟悉\n- 更進一步理解SSR架構，例如NextJS\n2. 熟悉至少一種框架相應狀態處理套件: Vuex, Redux, React-redux 或 Pinia\n- 定義狀態處理的功能模組化\n- 基於資安需求的storage和初始狀態處理\n3. 熟悉至少一種框架相應路由處理套件: vue-router, react-router\n-了解瀏覽器模式原理應用(hash/history mode)\n-建構路由與參數傳遞方法\n4. 可以了解快速構建框架的應用方式: create-react-app, vue-cli, vite等\n5. 熟悉一種套件管理系統: npm 或 yarn\n6. 熟悉框架資料處理套件，如 Axios , Fetch\n7. 熟悉版控工具: git, github\n8. 具備良好的溝通協作能力，有較強的主動性及團隊合作精神，思路清晰與敏捷\"\n《Responsibility》\n1. Design and develop front-end interfaces according to project requirements\n2. Integrate internal and external platforms based on project needs\n3. Consider factors such as performance, security, and quality\n《Qualification》\n1. Familiar with at least one JavaScript MVC or MVVM framework: VueJS, ReactJS, AngularJS\n- Familiar with the framework lifecycle and the principles of hook functions\n- Proficient in ES6 (ECMAScript 2015) syntax and above\n- Further understanding of SSR architecture, such as NextJS\n2. Proficient in at least one framework-specific state management library: Vuex, Redux, React-redux, or Pinia\n- Modular definition of state management functionalities\n- Handling storage and initial state processing based on security requirements\n3. Proficient in at least one framework-specific routing library: vue-router, react-router\n- Understanding of browser mode principles (hash/history mode) application\n- Constructing routes and methods for parameter passing\n4. Application methods for rapid framework construction: create-react-app, vue-cli, vite, etc.\n5. Proficient in one package management system: npm or yarn\n6. Familiar with framework data handling libraries, such as Axios, Fetch\n7. Proficient in version control tools: git, github\n8. Capable of excellent communication and collaboration skills, with strong initiative and teamwork spirit, clear and agile thinking",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號(內湖)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "《職務說明》\n1. 依專案需求設計並開發前端畫面\n2. 依專案需求介接內部、外部平台\n3. 需考量效能、安全、品質等因素\n《需求條件》\n1. 熟悉至少一種JavaScript MVC, MVVM框架: VueJS, ReactJS, AngularJS\n- 對於框架生命週期與hook function原理熟悉\n- 對於ES6 (JavaScript的 ECMA 2015標準)以上語法熟悉\n- 更進一步理解SSR架構，例如NextJS\n2. 熟悉至少一種框架相應狀態處理套件: Vuex, Redux, React-redux 或 Pinia\n- 定義狀態處理的功能模組化\n- 基於資安需求的storage和初始狀態處理\n3. 熟悉至少一種框架相應路由處理套件: vue-router, react-router\n-了解瀏覽器模式原理應用(hash/history mode)\n-建構路由與參數傳遞方法\n4. 可以了解快速構建框架的應用方式: create-react-app, vue-cli, vite等\n5. 熟悉一種套件管理系統: npm 或 yarn\n6. 熟悉框架資料處理套件，如 Axios , Fetch\n7. 熟悉版控工具: git, github\n8. 具備良好的溝通協作能力，有較強的主動性及團隊合作精神，思路清晰與敏捷\"\n《Responsibility》\n1. Design and develop front-end interfaces according to project requirements\n2. Integrate internal and external platforms based on project needs\n3. Consider factors such as performance, security, and quality\n《Qualification》\n1. Familiar with at least one JavaScript MVC or MVVM framework: VueJS, ReactJS, AngularJS\n- Familiar with the framework lifecycle and the principles of hook functions\n- Proficient in ES6 (ECMAScript 2015) syntax and above\n- Further understanding of SSR architecture, such as NextJS\n2. Proficient in at least one framework-specific state management library: Vuex, Redux, React-redux, or Pinia\n- Modular definition of state management functionalities\n- Handling storage and initial state processing based on security requirements\n3. Proficient in at least one framework-specific routing library: vue-router, react-router\n- Understanding of browser mode principles (hash/history mode) application\n- Constructing routes and methods for parameter passing\n4. Application methods for rapid framework construction: create-react-app, vue-cli, vite, etc.\n5. Proficient in one package management system: npm or yarn\n6. Familiar with framework data handling libraries, such as Axios, Fetch\n7. Proficient in version control tools: git, github\n8. Capable of excellent communication and collaboration skills, with strong initiative and teamwork spirit, clear and agile thinking"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Github",
+            "Git",
+            "JavaScript",
+            "ReactJS",
+            "AngularJS",
+            "VueJS"
+          ],
+          "label": "擅長工具",
+          "text": "Github、Git、JavaScript、ReactJS、AngularJS、VueJS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Github、Git、JavaScript、ReactJS、AngularJS、VueJS\n工作技能：軟體工程系統開發、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "81mp9",
+    "job_url": "https://www.104.com.tw/job/81mp9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/81mp9.json",
+    "raw_sha256": "e3141313748eeec3fac8b284de35d718faf4ae2f848168caf5798f74ab2eab1a",
+    "requested_url": "https://www.104.com.tw/api/jobs/81mp9"
+  }
+}

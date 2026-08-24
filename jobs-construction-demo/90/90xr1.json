@@ -1,0 +1,176 @@
+{
+  "company": {
+    "id": "wbygn1s",
+    "name": "樺漢科技股份有限公司_鴻海集團"
+  },
+  "job": {
+    "categories": [
+      "資料工程師",
+      "數據分析師／資料分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "報表開發與維護：負責 SAP 與 Looker 財務、成本、預算及銷售毛利報表設計與優化。"
+        },
+        {
+          "children": [],
+          "text": "決策數據分析：針對國內外的全球業務，執行多維度財務分析，建立視覺化看板。"
+        },
+        {
+          "children": [],
+          "text": "流程數位化：協助財務自動化對帳與預算控管，確保數據即時性與精確度。"
+        },
+        {
+          "children": [],
+          "text": "跨部門協作：對齊全球銷售與財務數據邏輯，支援高階主管管理決策。"
+        }
+      ],
+      "text": "1.報表開發與維護：負責 SAP 與 Looker 財務、成本、預算及銷售毛利報表設計與優化。\n2.決策數據分析：針對國內外的全球業務，執行多維度財務分析，建立視覺化看板。\n3.流程數位化：協助財務自動化對帳與預算控管，確保數據即時性與精確度。\n4.跨部門協作：對齊全球銷售與財務數據邏輯，支援高階主管管理決策。"
+    },
+    "employment_type_raw": "全職",
+    "title": "BI系統維運工程師(HS260423014)"
+  },
+  "location": {
+    "address_raw": "新北市中和區建康路10號6樓",
+    "raw": "新北市中和區建康路10號6樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "SAP"
+        ],
+        "label": "擅長工具",
+        "text": "SAP"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具SAP ABAP程式開發、使用者問題解決相關經驗3年以上者\n2. 具SAP(SD/MM/PP/FI/CO)任一模組管理經驗尤佳\n3. 熟悉 BAPI and RFC 與其他系統整合之相關經驗\n4. 有使用Power BI / Tableau 經驗者尤佳"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 具SAP ABAP程式開發、使用者問題解決相關經驗3年以上者\n2. 具SAP(SD/MM/PP/FI/CO)任一模組管理經驗尤佳\n3. 熟悉 BAPI and RFC 與其他系統整合之相關經驗\n4. 有使用Power BI / Tableau 經驗者尤佳",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n擅長工具：SAP\n其他條件：1. 具SAP ABAP程式開發、使用者問題解決相關經驗3年以上者\n2. 具SAP(SD/MM/PP/FI/CO)任一模組管理經驗尤佳\n3. 熟悉 BAPI and RFC 與其他系統整合之相關經驗\n4. 有使用Power BI / Tableau 經驗者尤佳",
+    "tools": [
+      "SAP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 51
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:28:14+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.報表開發與維護：負責 SAP 與 Looker 財務、成本、預算及銷售毛利報表設計與優化。\n2.決策數據分析：針對國內外的全球業務，執行多維度財務分析，建立視覺化看板。\n3.流程數位化：協助財務自動化對帳與預算控管，確保數據即時性與精確度。\n4.跨部門協作：對齊全球銷售與財務數據邏輯，支援高階主管管理決策。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料工程師",
+            "數據分析師／資料分析師"
+          ],
+          "label": "職務類別",
+          "text": "資料工程師、數據分析師／資料分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區建康路10號6樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.報表開發與維護：負責 SAP 與 Looker 財務、成本、預算及銷售毛利報表設計與優化。\n2.決策數據分析：針對國內外的全球業務，執行多維度財務分析，建立視覺化看板。\n3.流程數位化：協助財務自動化對帳與預算控管，確保數據即時性與精確度。\n4.跨部門協作：對齊全球銷售與財務數據邏輯，支援高階主管管理決策。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "SAP"
+          ],
+          "label": "擅長工具",
+          "text": "SAP",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具SAP ABAP程式開發、使用者問題解決相關經驗3年以上者\n2. 具SAP(SD/MM/PP/FI/CO)任一模組管理經驗尤佳\n3. 熟悉 BAPI and RFC 與其他系統整合之相關經驗\n4. 有使用Power BI / Tableau 經驗者尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n擅長工具：SAP\n其他條件：1. 具SAP ABAP程式開發、使用者問題解決相關經驗3年以上者\n2. 具SAP(SD/MM/PP/FI/CO)任一模組管理經驗尤佳\n3. 熟悉 BAPI and RFC 與其他系統整合之相關經驗\n4. 有使用Power BI / Tableau 經驗者尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "90xr1",
+    "job_url": "https://www.104.com.tw/job/90xr1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90xr1.json",
+    "raw_sha256": "e9315e677e9da02fbd5ebbf779b8d0a09de2b36e458e4e223266b15f55474770",
+    "requested_url": "https://www.104.com.tw/api/jobs/90xr1"
+  }
+}

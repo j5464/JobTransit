@@ -1,0 +1,215 @@
+{
+  "company": {
+    "id": "5ohnxlc",
+    "name": "翔耀實業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "於客戶現場或私有資料中心部署、配置AI算力叢集(GPU/NPU)"
+        },
+        {
+          "children": [],
+          "text": "地端及邊緣環境部署，並優化開源小模型(Llam,Qwen,Mistral)推算服務"
+        },
+        {
+          "children": [],
+          "text": "評估邊緣算力硬體(本地GPU伺服器及邊緣AI設備)，並配置推理職行環境(Ollama,llama.cpp,VLLM)"
+        },
+        {
+          "children": [],
+          "text": "使用React及Tailwind CSS/Ant Design建置清亮內部儀表板與客戶狀態入口"
+        },
+        {
+          "children": [],
+          "text": "將AI服務整合至客戶現有IT基礎設施與業務流程"
+        },
+        {
+          "children": [],
+          "text": "執行企業客戶技術導入、教育訓練及持續技術支援"
+        },
+        {
+          "children": [],
+          "text": "診斷並排除部署問題，將複雜問題升級回工程團段"
+        },
+        {
+          "children": [],
+          "text": "撰寫部署架構文件、操作手冊及客戶配置紀錄"
+        },
+        {
+          "children": [],
+          "text": "彙整現場回饋，協同產品團隊持續優化解決方案"
+        },
+        {
+          "children": [],
+          "text": "其他：可接受出差赴現場部署、客戶溝通能有優質應對能力"
+        }
+      ],
+      "text": "擔任AI基礎設施與企業客戶之間的技術橋梁；負責A算力解決方案的現場部署、系統整合與維護，並建置清亮管理介面使客戶能輕鬆操作。\n1. 於客戶現場或私有資料中心部署、配置AI算力叢集(GPU/NPU)\n2. 地端及邊緣環境部署，並優化開源小模型(Llam,Qwen,Mistral)推算服務\n3. 評估邊緣算力硬體(本地GPU伺服器及邊緣AI設備)，並配置推理職行環境(Ollama,llama.cpp,VLLM)\n4. 使用React及Tailwind CSS/Ant Design建置清亮內部儀表板與客戶狀態入口\n5. 將AI服務整合至客戶現有IT基礎設施與業務流程\n6. 執行企業客戶技術導入、教育訓練及持續技術支援\n7. 診斷並排除部署問題，將複雜問題升級回工程團段\n8. 撰寫部署架構文件、操作手冊及客戶配置紀錄\n9. 彙整現場回饋，協同產品團隊持續優化解決方案\n10.其他：可接受出差赴現場部署、客戶溝通能有優質應對能力"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI事業處 AI部署工程師"
+  },
+  "location": {
+    "address_raw": "台北市松山區南京東路四段1號3樓",
+    "raw": "台北市松山區南京東路四段1號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "Linux",
+          "Kubernetes",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Kubernetes、CSS"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關\n擅長工具：Linux、Kubernetes、CSS",
+    "tools": [
+      "Linux",
+      "Kubernetes",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:58:49+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "擔任AI基礎設施與企業客戶之間的技術橋梁；負責A算力解決方案的現場部署、系統整合與維護，並建置清亮管理介面使客戶能輕鬆操作。\n1. 於客戶現場或私有資料中心部署、配置AI算力叢集(GPU/NPU)\n2. 地端及邊緣環境部署，並優化開源小模型(Llam,Qwen,Mistral)推算服務\n3. 評估邊緣算力硬體(本地GPU伺服器及邊緣AI設備)，並配置推理職行環境(Ollama,llama.cpp,VLLM)\n4. 使用React及Tailwind CSS/Ant Design建置清亮內部儀表板與客戶狀態入口\n5. 將AI服務整合至客戶現有IT基礎設施與業務流程\n6. 執行企業客戶技術導入、教育訓練及持續技術支援\n7. 診斷並排除部署問題，將複雜問題升級回工程團段\n8. 撰寫部署架構文件、操作手冊及客戶配置紀錄\n9. 彙整現場回饋，協同產品團隊持續優化解決方案\n10.其他：可接受出差赴現場部署、客戶溝通能有優質應對能力",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區南京東路四段1號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "擔任AI基礎設施與企業客戶之間的技術橋梁；負責A算力解決方案的現場部署、系統整合與維護，並建置清亮管理介面使客戶能輕鬆操作。\n1. 於客戶現場或私有資料中心部署、配置AI算力叢集(GPU/NPU)\n2. 地端及邊緣環境部署，並優化開源小模型(Llam,Qwen,Mistral)推算服務\n3. 評估邊緣算力硬體(本地GPU伺服器及邊緣AI設備)，並配置推理職行環境(Ollama,llama.cpp,VLLM)\n4. 使用React及Tailwind CSS/Ant Design建置清亮內部儀表板與客戶狀態入口\n5. 將AI服務整合至客戶現有IT基礎設施與業務流程\n6. 執行企業客戶技術導入、教育訓練及持續技術支援\n7. 診斷並排除部署問題，將複雜問題升級回工程團段\n8. 撰寫部署架構文件、操作手冊及客戶配置紀錄\n9. 彙整現場回饋，協同產品團隊持續優化解決方案\n10.其他：可接受出差赴現場部署、客戶溝通能有優質應對能力"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Kubernetes",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Kubernetes、CSS",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關\n擅長工具：Linux、Kubernetes、CSS"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91tkf",
+    "job_url": "https://www.104.com.tw/job/91tkf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91tkf.json",
+    "raw_sha256": "698aff3e8ec18826afce2753c3f99d33fe39f910d32596de9197e39ee05f6e88",
+    "requested_url": "https://www.104.com.tw/api/jobs/91tkf"
+  }
+}

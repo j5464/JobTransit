@@ -1,0 +1,187 @@
+{
+  "company": {
+    "id": "ahnw48g",
+    "name": "五福旅行社股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [],
+      "text": "(1) 協助全公司網站(Web、Mobile)前端網頁架構、後端產銷流程等功能開發/維運。\n(2) 協助全公司網站與管理資訊系統之API開發、維護與對接。\n(3) 協助公司內產品、通路、行銷之內部整合性管理資訊系統開發/維運。\n(4) 透過學習產業/標準Know-How、搜集資料、與開發團隊討論，達成資訊系統解決方案共識，進而打造管理資訊系統。\n(5) 依據需求規格、系統設計文件進行程式開發等工作為主，須熟悉ASP.NET (C#)、MVC、jQuery與基本資料庫(MSSQL)語法。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【台北】資訊部-軟體工程師"
+  },
+  "location": {
+    "address_raw": "台北市松山區南京東路三段275號7樓",
+    "raw": "台北市松山區南京東路三段275號7樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、MS SQL"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "(1) 具 .NET Framework 與 C# 開發經驗 (必備)\n(2) 具 ASP.NET MVC 經驗以及MS-SQL技術經驗。\n(3) 對程式開發有高度興趣熱忱，具有強烈企圖心、責任感及團隊分工合作精神\n(4) 願意瞭解學習企業商業邏輯，願意與內部使用者進行溝通討論。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "(1) 具 .NET Framework 與 C# 開發經驗 (必備)\n(2) 具 ASP.NET MVC 經驗以及MS-SQL技術經驗。\n(3) 對程式開發有高度興趣熱忱，具有強烈企圖心、責任感及團隊分工合作精神\n(4) 願意瞭解學習企業商業邏輯，願意與內部使用者進行溝通討論。",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學\n擅長工具：ASP.NET、C#、MS SQL\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：(1) 具 .NET Framework 與 C# 開發經驗 (必備)\n(2) 具 ASP.NET MVC 經驗以及MS-SQL技術經驗。\n(3) 對程式開發有高度興趣熱忱，具有強烈企圖心、責任感及團隊分工合作精神\n(4) 願意瞭解學習企業商業邏輯，願意與內部使用者進行溝通討論。",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 92
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:08:30+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "(1) 協助全公司網站(Web、Mobile)前端網頁架構、後端產銷流程等功能開發/維運。\n(2) 協助全公司網站與管理資訊系統之API開發、維護與對接。\n(3) 協助公司內產品、通路、行銷之內部整合性管理資訊系統開發/維運。\n(4) 透過學習產業/標準Know-How、搜集資料、與開發團隊討論，達成資訊系統解決方案共識，進而打造管理資訊系統。\n(5) 依據需求規格、系統設計文件進行程式開發等工作為主，須熟悉ASP.NET (C#)、MVC、jQuery與基本資料庫(MSSQL)語法。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區南京東路三段275號7樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "(1) 協助全公司網站(Web、Mobile)前端網頁架構、後端產銷流程等功能開發/維運。\n(2) 協助全公司網站與管理資訊系統之API開發、維護與對接。\n(3) 協助公司內產品、通路、行銷之內部整合性管理資訊系統開發/維運。\n(4) 透過學習產業/標準Know-How、搜集資料、與開發團隊討論，達成資訊系統解決方案共識，進而打造管理資訊系統。\n(5) 依據需求規格、系統設計文件進行程式開發等工作為主，須熟悉ASP.NET (C#)、MVC、jQuery與基本資料庫(MSSQL)語法。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "(1) 具 .NET Framework 與 C# 開發經驗 (必備)\n(2) 具 ASP.NET MVC 經驗以及MS-SQL技術經驗。\n(3) 對程式開發有高度興趣熱忱，具有強烈企圖心、責任感及團隊分工合作精神\n(4) 願意瞭解學習企業商業邏輯，願意與內部使用者進行溝通討論。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學\n擅長工具：ASP.NET、C#、MS SQL\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：(1) 具 .NET Framework 與 C# 開發經驗 (必備)\n(2) 具 ASP.NET MVC 經驗以及MS-SQL技術經驗。\n(3) 對程式開發有高度興趣熱忱，具有強烈企圖心、責任感及團隊分工合作精神\n(4) 願意瞭解學習企業商業邏輯，願意與內部使用者進行溝通討論。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8momi",
+    "job_url": "https://www.104.com.tw/job/8momi",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8momi.json",
+    "raw_sha256": "8e3bc6b64b4b3060114a524001cb51962e3a7160da0080a6ec8c61a185d0016f",
+    "requested_url": "https://www.104.com.tw/api/jobs/8momi"
+  }
+}

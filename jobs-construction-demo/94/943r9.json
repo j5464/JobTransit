@@ -1,0 +1,146 @@
+{
+  "company": {
+    "id": "d66wxv4",
+    "name": "荷陽創意行銷整合有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依據客戶或市場需求開發、優化產品結構"
+        },
+        {
+          "children": [],
+          "text": "與設計師合作，實作符合 UI/UX 設計的使用者介面"
+        },
+        {
+          "children": [],
+          "text": "串接 API，處理資料結構與前端互動邏輯的整合"
+        },
+        {
+          "children": [],
+          "text": "主動研究開發過程中的技術問題，對於新技術或數位市場趨勢保持高度敏感與興趣"
+        }
+      ],
+      "text": "我們是一個年輕的RD團隊！\n在老公司的資源基礎上，建築我們數位互動的夢想，\n利用AI跟程式的力量，作成各種好玩的行銷工具，\n只要有機會，我們都有實力可以創造！\n我們希望借重我們長久以來的實力及資源，為不同領域客戶提供更完善的數位服務！\n公司官網：https://www.hypernex.io/\n工作內容：\n- 依據客戶或市場需求開發、優化產品結構\n- 與設計師合作，實作符合 UI/UX 設計的使用者介面\n- 串接 API，處理資料結構與前端互動邏輯的整合\n- 主動研究開發過程中的技術問題，對於新技術或數位市場趨勢保持高度敏感與興趣\n專業需求\n1 對程式品質要求、重視 Coding Style\n2 熟悉React.js、Tailwind CSS\n3 熟悉 Restful設計規範與JSON資料格式操作\n4 加分：使用過 Vue 或 Angular 其中一種framework\n我們可以提供給您：\n※彈性之上下班時間\n※穩定調整的薪資待遇\n※舒適、輕鬆的工作環境，充足的零食、泡麵\n※寵物友善的空間，歡迎家中寵物來玩\n在這裡，您能擁有舞台，以及自由發揮的空間。\n歡迎有興趣的您，一起加入我們的行列 : )"
+    },
+    "employment_type_raw": "全職",
+    "title": "【新事業體】前端工程師"
+  },
+  "location": {
+    "address_raw": "台北市大安區光復南路108巷5號1樓",
+    "raw": "台北市大安區光復南路108巷5號1樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:04:40+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們是一個年輕的RD團隊！\n在老公司的資源基礎上，建築我們數位互動的夢想，\n利用AI跟程式的力量，作成各種好玩的行銷工具，\n只要有機會，我們都有實力可以創造！\n我們希望借重我們長久以來的實力及資源，為不同領域客戶提供更完善的數位服務！\n公司官網：https://www.hypernex.io/\n工作內容：\n- 依據客戶或市場需求開發、優化產品結構\n- 與設計師合作，實作符合 UI/UX 設計的使用者介面\n- 串接 API，處理資料結構與前端互動邏輯的整合\n- 主動研究開發過程中的技術問題，對於新技術或數位市場趨勢保持高度敏感與興趣\n專業需求\n1 對程式品質要求、重視 Coding Style\n2 熟悉React.js、Tailwind CSS\n3 熟悉 Restful設計規範與JSON資料格式操作\n4 加分：使用過 Vue 或 Angular 其中一種framework\n我們可以提供給您：\n※彈性之上下班時間\n※穩定調整的薪資待遇\n※舒適、輕鬆的工作環境，充足的零食、泡麵\n※寵物友善的空間，歡迎家中寵物來玩\n在這裡，您能擁有舞台，以及自由發揮的空間。\n歡迎有興趣的您，一起加入我們的行列 : )",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區光復南路108巷5號1樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們是一個年輕的RD團隊！\n在老公司的資源基礎上，建築我們數位互動的夢想，\n利用AI跟程式的力量，作成各種好玩的行銷工具，\n只要有機會，我們都有實力可以創造！\n我們希望借重我們長久以來的實力及資源，為不同領域客戶提供更完善的數位服務！\n公司官網：https://www.hypernex.io/\n工作內容：\n- 依據客戶或市場需求開發、優化產品結構\n- 與設計師合作，實作符合 UI/UX 設計的使用者介面\n- 串接 API，處理資料結構與前端互動邏輯的整合\n- 主動研究開發過程中的技術問題，對於新技術或數位市場趨勢保持高度敏感與興趣\n專業需求\n1 對程式品質要求、重視 Coding Style\n2 熟悉React.js、Tailwind CSS\n3 熟悉 Restful設計規範與JSON資料格式操作\n4 加分：使用過 Vue 或 Angular 其中一種framework\n我們可以提供給您：\n※彈性之上下班時間\n※穩定調整的薪資待遇\n※舒適、輕鬆的工作環境，充足的零食、泡麵\n※寵物友善的空間，歡迎家中寵物來玩\n在這裡，您能擁有舞台，以及自由發揮的空間。\n歡迎有興趣的您，一起加入我們的行列 : )"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "943r9",
+    "job_url": "https://www.104.com.tw/job/943r9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/943r9.json",
+    "raw_sha256": "2aab3b062b451478826e1e58939000ba628713f4825d33db2947023c022e9471",
+    "requested_url": "https://www.104.com.tw/api/jobs/943r9"
+  }
+}

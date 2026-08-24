@@ -1,0 +1,239 @@
+{
+  "company": {
+    "id": "op5i3l4",
+    "name": "來毅數位科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責產品後端軟體之設計開發及維護"
+        },
+        {
+          "children": [],
+          "text": "與團隊成員分工達成產品目標，共同完成目標"
+        },
+        {
+          "children": [],
+          "text": "與前端軟體工程師配合專案進行"
+        },
+        {
+          "children": [],
+          "text": "持續學習並運用新技術，優化產品、程式"
+        }
+      ],
+      "text": "後端軟體工程師 / Backend Software Engineer\n1. 負責產品後端軟體之設計開發及維護\n2. 與團隊成員分工達成產品目標，共同完成目標\n3. 與前端軟體工程師配合專案進行\n4. 持續學習並運用新技術，優化產品、程式"
+    },
+    "employment_type_raw": "全職",
+    "title": "後端軟體工程師"
+  },
+  "location": {
+    "address_raw": "台北市南港區昆陽街16號17樓(國建南港昆陽大樓)",
+    "raw": "台北市南港區昆陽街16號17樓(國建南港昆陽大樓)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "數理統計相關",
+          "應用數學相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "數理統計相關、應用數學相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "Windows 10",
+          "Linux",
+          "Mac OS",
+          "Git",
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "Windows 10、Linux、Mac OS、Git、Java"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "網路程式設計",
+          "軟體工程系統開發",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、網路程式設計、軟體工程系統開發、資料庫程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟悉JAVA後端程式語言，編譯及調試\n2. 具備Windows/Linux平台\n3. 具有獨立作業、溝通協調能力\n4. 具團隊合作、統整能力\n[加分條件]\n本公司團隊採敏捷式開發，需密切與團隊內產品經理、工程師、QA及設計師等成員溝通合作，對產品產生迭代的曝光。\n(1)熟悉 Web / App / API 開發流程，能理解技術架構與模組邏輯\n(2)熟悉 Jira、Trello 等專案管理工具\n(3)熟悉 Git 等開發驗證工具\n(4)熟悉 SCRUM/Agile 敏捷開發方法論"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "數理統計相關",
+      "應用數學相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1. 熟悉JAVA後端程式語言，編譯及調試\n2. 具備Windows/Linux平台\n3. 具有獨立作業、溝通協調能力\n4. 具團隊合作、統整能力\n[加分條件]\n本公司團隊採敏捷式開發，需密切與團隊內產品經理、工程師、QA及設計師等成員溝通合作，對產品產生迭代的曝光。\n(1)熟悉 Web / App / API 開發流程，能理解技術架構與模組邏輯\n(2)熟悉 Jira、Trello 等專案管理工具\n(3)熟悉 Git 等開發驗證工具\n(4)熟悉 SCRUM/Agile 敏捷開發方法論",
+    "skills": [
+      "軟體程式設計",
+      "網路程式設計",
+      "軟體工程系統開發",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：數理統計相關、應用數學相關、資訊工程相關\n擅長工具：Windows 10、Linux、Mac OS、Git、Java\n工作技能：軟體程式設計、網路程式設計、軟體工程系統開發、資料庫程式設計\n其他條件：1. 熟悉JAVA後端程式語言，編譯及調試\n2. 具備Windows/Linux平台\n3. 具有獨立作業、溝通協調能力\n4. 具團隊合作、統整能力\n[加分條件]\n本公司團隊採敏捷式開發，需密切與團隊內產品經理、工程師、QA及設計師等成員溝通合作，對產品產生迭代的曝光。\n(1)熟悉 Web / App / API 開發流程，能理解技術架構與模組邏輯\n(2)熟悉 Jira、Trello 等專案管理工具\n(3)熟悉 Git 等開發驗證工具\n(4)熟悉 SCRUM/Agile 敏捷開發方法論",
+    "tools": [
+      "Windows 10",
+      "Linux",
+      "Mac OS",
+      "Git",
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 92
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:09:32+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "後端軟體工程師 / Backend Software Engineer\n1. 負責產品後端軟體之設計開發及維護\n2. 與團隊成員分工達成產品目標，共同完成目標\n3. 與前端軟體工程師配合專案進行\n4. 持續學習並運用新技術，優化產品、程式",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區昆陽街16號17樓(國建南港昆陽大樓)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "後端軟體工程師 / Backend Software Engineer\n1. 負責產品後端軟體之設計開發及維護\n2. 與團隊成員分工達成產品目標，共同完成目標\n3. 與前端軟體工程師配合專案進行\n4. 持續學習並運用新技術，優化產品、程式"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數理統計相關",
+            "應用數學相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "數理統計相關、應用數學相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Windows 10",
+            "Linux",
+            "Mac OS",
+            "Git",
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "Windows 10、Linux、Mac OS、Git、Java",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "網路程式設計",
+            "軟體工程系統開發",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、網路程式設計、軟體工程系統開發、資料庫程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟悉JAVA後端程式語言，編譯及調試\n2. 具備Windows/Linux平台\n3. 具有獨立作業、溝通協調能力\n4. 具團隊合作、統整能力\n[加分條件]\n本公司團隊採敏捷式開發，需密切與團隊內產品經理、工程師、QA及設計師等成員溝通合作，對產品產生迭代的曝光。\n(1)熟悉 Web / App / API 開發流程，能理解技術架構與模組邏輯\n(2)熟悉 Jira、Trello 等專案管理工具\n(3)熟悉 Git 等開發驗證工具\n(4)熟悉 SCRUM/Agile 敏捷開發方法論",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：數理統計相關、應用數學相關、資訊工程相關\n擅長工具：Windows 10、Linux、Mac OS、Git、Java\n工作技能：軟體程式設計、網路程式設計、軟體工程系統開發、資料庫程式設計\n其他條件：1. 熟悉JAVA後端程式語言，編譯及調試\n2. 具備Windows/Linux平台\n3. 具有獨立作業、溝通協調能力\n4. 具團隊合作、統整能力\n[加分條件]\n本公司團隊採敏捷式開發，需密切與團隊內產品經理、工程師、QA及設計師等成員溝通合作，對產品產生迭代的曝光。\n(1)熟悉 Web / App / API 開發流程，能理解技術架構與模組邏輯\n(2)熟悉 Jira、Trello 等專案管理工具\n(3)熟悉 Git 等開發驗證工具\n(4)熟悉 SCRUM/Agile 敏捷開發方法論"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8qfeu",
+    "job_url": "https://www.104.com.tw/job/8qfeu",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8qfeu.json",
+    "raw_sha256": "6ca47c8426c2c048019ae57b44385e85ed007fed463f061ad54b6e55337a0854",
+    "requested_url": "https://www.104.com.tw/api/jobs/8qfeu"
+  }
+}

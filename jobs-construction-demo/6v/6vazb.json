@@ -1,0 +1,245 @@
+{
+  "company": {
+    "id": "1a2x6bl4u1",
+    "name": "阿爾發證券投資顧問股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉 Python 程式語言，具備 FastAPI 或 Flask 框架開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Web Service 資料串接流程，了解資料加解密與資訊安全基本原理。"
+        },
+        {
+          "children": [],
+          "text": "具 RESTful API 開發與串接經驗，能整合金融數據 API 與第三方服務。"
+        },
+        {
+          "children": [],
+          "text": "具金融創新服務或後端系統開發經驗者佳。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版本控管與團隊協作開發流程。"
+        },
+        {
+          "children": [],
+          "text": "具 MS SQL 使用經驗，並熟悉任一關聯式資料庫（MySQL、PostgreSQL 等）"
+        },
+        {
+          "children": [],
+          "text": "能與 PM、UI/UX 設計師及 Frontend 工程師跨部門合作，進行系統開發與維護。"
+        },
+        {
+          "children": [],
+          "text": "曾使用或接觸雲端服務平台，如 GCP、AWS、Azure 等。"
+        },
+        {
+          "children": [],
+          "text": "具金融資訊系統、金融科技相關開發經驗者佳。"
+        },
+        {
+          "children": [],
+          "text": "具大型語言模型（LLM）或生成式 AI 應用整合經驗者尤佳。"
+        },
+        {
+          "children": [],
+          "text": "對金融科技與 AI 應用整合具高度學習熱忱。"
+        },
+        {
+          "children": [],
+          "text": "具良好邏輯分析與問題解決能力，擁有團隊合作精神與良好溝通能力。"
+        }
+      ],
+      "text": "1. 熟悉 Python 程式語言，具備 FastAPI 或 Flask 框架開發經驗。\n2. 熟悉 Web Service 資料串接流程，了解資料加解密與資訊安全基本原理。\n3. 具 RESTful API 開發與串接經驗，能整合金融數據 API 與第三方服務。\n4. 具金融創新服務或後端系統開發經驗者佳。\n5. 熟悉 Git 版本控管與團隊協作開發流程。\n6. 具 MS SQL 使用經驗，並熟悉任一關聯式資料庫（MySQL、PostgreSQL 等）\n7. 能與 PM、UI/UX 設計師及 Frontend 工程師跨部門合作，進行系統開發與維護。\n8. 曾使用或接觸雲端服務平台，如 GCP、AWS、Azure 等。\n9. 具金融資訊系統、金融科技相關開發經驗者佳。\n10. 具大型語言模型（LLM）或生成式 AI 應用整合經驗者尤佳。\n11. 對金融科技與 AI 應用整合具高度學習熱忱。\n12. 具良好邏輯分析與問題解決能力，擁有團隊合作精神與良好溝通能力。\n你將可以在這裡一起為金融科技的創新和應用來努力，歡迎一起加入最具有創新力、活力的金融科技團隊。\n※注意！本公司無從事個股、產業與總體經濟研究分析與程式高頻交易，請投遞履歷前慎重考慮！"
+    },
+    "employment_type_raw": "全職",
+    "title": "Python後端工程師"
+  },
+  "location": {
+    "address_raw": "台北市中正區羅斯福路二段102號8樓之1",
+    "raw": "台北市中正區羅斯福路二段102號8樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "Github",
+          "Python",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "Github、Python、MS SQL"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、資料庫程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Github、Python、MS SQL\n工作技能：軟體程式設計、資料庫程式設計",
+    "tools": [
+      "Github",
+      "Python",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 82
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:44:57+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 熟悉 Python 程式語言，具備 FastAPI 或 Flask 框架開發經驗。\n2. 熟悉 Web Service 資料串接流程，了解資料加解密與資訊安全基本原理。\n3. 具 RESTful API 開發與串接經驗，能整合金融數據 API 與第三方服務。\n4. 具金融創新服務或後端系統開發經驗者佳。\n5. 熟悉 Git 版本控管與團隊協作開發流程。\n6. 具 MS SQL 使用經驗，並熟悉任一關聯式資料庫（MySQL、PostgreSQL 等）\n7. 能與 PM、UI/UX 設計師及 Frontend 工程師跨部門合作，進行系統開發與維護。\n8. 曾使用或接觸雲端服務平台，如 GCP、AWS、Azure 等。\n9. 具金融資訊系統、金融科技相關開發經驗者佳。\n10. 具大型語言模型（LLM）或生成式 AI 應用整合經驗者尤佳。\n11. 對金融科技與 AI 應用整合具高度學習熱忱。\n12. 具良好邏輯分析與問題解決能力，擁有團隊合作精神與良好溝通能力。\n你將可以在這裡一起為金融科技的創新和應用來努力，歡迎一起加入最具有創新力、活力的金融科技團隊。\n※注意！本公司無從事個股、產業與總體經濟研究分析與程式高頻交易，請投遞履歷前慎重考慮！",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區羅斯福路二段102號8樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 熟悉 Python 程式語言，具備 FastAPI 或 Flask 框架開發經驗。\n2. 熟悉 Web Service 資料串接流程，了解資料加解密與資訊安全基本原理。\n3. 具 RESTful API 開發與串接經驗，能整合金融數據 API 與第三方服務。\n4. 具金融創新服務或後端系統開發經驗者佳。\n5. 熟悉 Git 版本控管與團隊協作開發流程。\n6. 具 MS SQL 使用經驗，並熟悉任一關聯式資料庫（MySQL、PostgreSQL 等）\n7. 能與 PM、UI/UX 設計師及 Frontend 工程師跨部門合作，進行系統開發與維護。\n8. 曾使用或接觸雲端服務平台，如 GCP、AWS、Azure 等。\n9. 具金融資訊系統、金融科技相關開發經驗者佳。\n10. 具大型語言模型（LLM）或生成式 AI 應用整合經驗者尤佳。\n11. 對金融科技與 AI 應用整合具高度學習熱忱。\n12. 具良好邏輯分析與問題解決能力，擁有團隊合作精神與良好溝通能力。\n你將可以在這裡一起為金融科技的創新和應用來努力，歡迎一起加入最具有創新力、活力的金融科技團隊。\n※注意！本公司無從事個股、產業與總體經濟研究分析與程式高頻交易，請投遞履歷前慎重考慮！"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Github",
+            "Python",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "Github、Python、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Github、Python、MS SQL\n工作技能：軟體程式設計、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "6vazb",
+    "job_url": "https://www.104.com.tw/job/6vazb",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6vazb.json",
+    "raw_sha256": "f4a36f286b06f244abe2fbe95dd335b026ffa72049a53e653531800dbdd4cdc7",
+    "requested_url": "https://www.104.com.tw/api/jobs/6vazb"
+  }
+}

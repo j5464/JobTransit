@@ -1,0 +1,198 @@
+{
+  "company": {
+    "id": "1a2x6bl5vw",
+    "name": "醫流體股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "生物科技研發人員",
+      "韌體工程師",
+      "機構工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "可攜式自動化醫療診斷系統研發設計。"
+        },
+        {
+          "children": [],
+          "text": "模組及機台組裝設計測試。"
+        },
+        {
+          "children": [],
+          "text": "產品研發生物技術操作。"
+        },
+        {
+          "children": [],
+          "text": "電機資訊工程、生物領域等相關科系背景。"
+        },
+        {
+          "children": [],
+          "text": "喜歡新創公司高創造性高挑戰性的工作環境。"
+        },
+        {
+          "children": [],
+          "text": "熟悉系統整合、微生物檢測或細胞培養領域者大加分。"
+        }
+      ],
+      "text": "本公司(醫流體MedFluid)以整合型氣動式微流體晶片為核心，並結合可攜式自動化控制機台，來開發體外診斷(In-vitro diagnostic devices, IVD)裝置，改善傳染性疾病病患的健康福祉。\n目前實行跨領域研發實習計畫，現在希望尋找一同創業打拼的優秀夥伴，\n實習內容有:\nFirmware Engineer Internship\nMechanical Engineer Internship\nProduct Application Researcher Internship\n其分別工作內容為：\n1. 可攜式自動化醫療診斷系統研發設計。\n2. 模組及機台組裝設計測試。\n3. 產品研發生物技術操作。\n其他條件：\n1. 電機資訊工程、生物領域等相關科系背景。\n2. 喜歡新創公司高創造性高挑戰性的工作環境。\n3. 熟悉系統整合、微生物檢測或細胞培養領域者大加分。"
+    },
+    "employment_type_raw": "全職",
+    "title": "[Full time/part time]研發實習生計畫(Internship program)"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市生醫路二段6號3樓",
+    "raw": "新竹縣竹北市生醫路二段6號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "機械工程相關",
+          "電機電子工程相關",
+          "生物學相關"
+        ],
+        "label": "科系要求",
+        "text": "機械工程相關、電機電子工程相關、生物學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "機械工程相關",
+      "電機電子工程相關",
+      "生物學相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：機械工程相關、電機電子工程相關、生物學相關\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 92
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:08:37+08:00"
+  },
+  "salary": {
+    "raw": "時薪196~250元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "本公司(醫流體MedFluid)以整合型氣動式微流體晶片為核心，並結合可攜式自動化控制機台，來開發體外診斷(In-vitro diagnostic devices, IVD)裝置，改善傳染性疾病病患的健康福祉。\n目前實行跨領域研發實習計畫，現在希望尋找一同創業打拼的優秀夥伴，\n實習內容有:\nFirmware Engineer Internship\nMechanical Engineer Internship\nProduct Application Researcher Internship\n其分別工作內容為：\n1. 可攜式自動化醫療診斷系統研發設計。\n2. 模組及機台組裝設計測試。\n3. 產品研發生物技術操作。\n其他條件：\n1. 電機資訊工程、生物領域等相關科系背景。\n2. 喜歡新創公司高創造性高挑戰性的工作環境。\n3. 熟悉系統整合、微生物檢測或細胞培養領域者大加分。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "生物科技研發人員",
+            "韌體工程師",
+            "機構工程師"
+          ],
+          "label": "職務類別",
+          "text": "生物科技研發人員、韌體工程師、機構工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "時薪196~250元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市生醫路二段6號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "本公司(醫流體MedFluid)以整合型氣動式微流體晶片為核心，並結合可攜式自動化控制機台，來開發體外診斷(In-vitro diagnostic devices, IVD)裝置，改善傳染性疾病病患的健康福祉。\n目前實行跨領域研發實習計畫，現在希望尋找一同創業打拼的優秀夥伴，\n實習內容有:\nFirmware Engineer Internship\nMechanical Engineer Internship\nProduct Application Researcher Internship\n其分別工作內容為：\n1. 可攜式自動化醫療診斷系統研發設計。\n2. 模組及機台組裝設計測試。\n3. 產品研發生物技術操作。\n其他條件：\n1. 電機資訊工程、生物領域等相關科系背景。\n2. 喜歡新創公司高創造性高挑戰性的工作環境。\n3. 熟悉系統整合、微生物檢測或細胞培養領域者大加分。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "機械工程相關",
+            "電機電子工程相關",
+            "生物學相關"
+          ],
+          "label": "科系要求",
+          "text": "機械工程相關、電機電子工程相關、生物學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：機械工程相關、電機電子工程相關、生物學相關\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7cba9",
+    "job_url": "https://www.104.com.tw/job/7cba9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7cba9.json",
+    "raw_sha256": "0413b41fe440b36e18be85fe8b831001431e50962fe3af62d9a721eb3b868eba",
+    "requested_url": "https://www.104.com.tw/api/jobs/7cba9"
+  }
+}

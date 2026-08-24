@@ -1,0 +1,192 @@
+{
+  "company": {
+    "id": "9mfvobu",
+    "name": "輝創電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "車用控制器韌體體開發。"
+        },
+        {
+          "children": [],
+          "text": "超聲波產品算法研究。"
+        },
+        {
+          "children": [],
+          "text": "超聲波產品測試驗證。"
+        }
+      ],
+      "text": "1、車用控制器韌體體開發。\n2、超聲波產品算法研究。\n3、超聲波產品測試驗證。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師(超聲波)-高雄"
+  },
+  "location": {
+    "address_raw": "高雄市苓雅區新光路38號22樓之1-3",
+    "raw": "高雄市苓雅區新光路38號22樓之1-3"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1、具車用產品開發經驗\n2、熟聲波原理\n3、具車身網路經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1、具車用產品開發經驗\n2、熟聲波原理\n3、具車身網路經驗",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1、具車用產品開發經驗\n2、熟聲波原理\n3、具車身網路經驗",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 65
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:01:11+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1、車用控制器韌體體開發。\n2、超聲波產品算法研究。\n3、超聲波產品測試驗證。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市苓雅區新光路38號22樓之1-3",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1、車用控制器韌體體開發。\n2、超聲波產品算法研究。\n3、超聲波產品測試驗證。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1、具車用產品開發經驗\n2、熟聲波原理\n3、具車身網路經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1、具車用產品開發經驗\n2、熟聲波原理\n3、具車身網路經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8777q",
+    "job_url": "https://www.104.com.tw/job/8777q",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8777q.json",
+    "raw_sha256": "860c56273f2183877922cdbb29aae84636e1f3fd7ba5d98682d29f46ea3f5760",
+    "requested_url": "https://www.104.com.tw/api/jobs/8777q"
+  }
+}

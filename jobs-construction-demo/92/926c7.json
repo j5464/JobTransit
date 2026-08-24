@@ -1,0 +1,168 @@
+{
+  "company": {
+    "id": "1a2x6bkddo",
+    "name": "中國信託綜合證券股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "維護電子交易中台相關系統與管理"
+        },
+        {
+          "children": [],
+          "text": "配合業務發展開發需求"
+        }
+      ],
+      "text": "1.維護電子交易中台相關系統與管理\n2.配合業務發展開發需求"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊_程式開發人員(中台)"
+  },
+  "location": {
+    "address_raw": "台北市南港區經貿二路195號18樓",
+    "raw": "台北市南港區經貿二路195號18樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉證券、期貨或複委託交易系統\n具電子交易平台（Online Trading System）維運經驗\n熟悉 Open API 技術（RESTful API、Swagger、API Gateway）\n熟悉資料庫（Oracle / MSSQL / MySQL）"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關"
+    ],
+    "other_text": "熟悉證券、期貨或複委託交易系統\n具電子交易平台（Online Trading System）維運經驗\n熟悉 Open API 技術（RESTful API、Swagger、API Gateway）\n熟悉資料庫（Oracle / MSSQL / MySQL）",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關\n其他條件：熟悉證券、期貨或複委託交易系統\n具電子交易平台（Online Trading System）維運經驗\n熟悉 Open API 技術（RESTful API、Swagger、API Gateway）\n熟悉資料庫（Oracle / MSSQL / MySQL）",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 57
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:43:00+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.維護電子交易中台相關系統與管理\n2.配合業務發展開發需求",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區經貿二路195號18樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.維護電子交易中台相關系統與管理\n2.配合業務發展開發需求"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉證券、期貨或複委託交易系統\n具電子交易平台（Online Trading System）維運經驗\n熟悉 Open API 技術（RESTful API、Swagger、API Gateway）\n熟悉資料庫（Oracle / MSSQL / MySQL）",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關\n其他條件：熟悉證券、期貨或複委託交易系統\n具電子交易平台（Online Trading System）維運經驗\n熟悉 Open API 技術（RESTful API、Swagger、API Gateway）\n熟悉資料庫（Oracle / MSSQL / MySQL）"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "926c7",
+    "job_url": "https://www.104.com.tw/job/926c7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/926c7.json",
+    "raw_sha256": "3b7d4ab8e84780e206d5c65e1d9d0024011679744cc8b84ce1c844844c323f30",
+    "requested_url": "https://www.104.com.tw/api/jobs/926c7"
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "company": {
+    "id": "wen1654",
+    "name": "愛爾達科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Android工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Android Mobile/TV App開發、測試、性能優化，並控管進度。"
+        },
+        {
+          "children": [],
+          "text": "App 軟體架構及功能模組化設計。"
+        },
+        {
+          "children": [],
+          "text": "API資料介接應用服務。"
+        },
+        {
+          "children": [],
+          "text": "和需求單位討論，評估、規劃任務時程。"
+        },
+        {
+          "children": [],
+          "text": "和後端工程師合作串接API與測試。"
+        },
+        {
+          "children": [],
+          "text": "與UI/UX設計師討論，實作畫面的呈現。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項。"
+        }
+      ],
+      "text": "● Android Mobile/TV App開發、測試、性能優化，並控管進度。\n● App 軟體架構及功能模組化設計。\n● API資料介接應用服務。\n● 和需求單位討論，評估、規劃任務時程。\n● 和後端工程師合作串接API與測試。\n● 與UI/UX設計師討論，實作畫面的呈現。\n● 其他主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Android App Developer"
+  },
+  "location": {
+    "address_raw": "台北市中正區中華路1段41號4樓",
+    "raw": "台北市中正區中華路1段41號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "Android",
+          "JavaScript",
+          "Flutter"
+        ],
+        "label": "擅長工具",
+        "text": "Android、JavaScript、Flutter"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "● 有實務APP上架作品\n● 有TV APP開發經驗\n● 有Hybrid Mobile App或Flutter等開發經驗\n● 有WebView及JavaScript Interface實作經驗\n● 影音串流服務串接\n● 有App的CI/CD經驗\n● 開發iOS經驗\n● 對 UX 具備⾜夠敏感度，能夠提出各種優化使⽤體驗的建議及設計\n● 能配合公司開發流程，抗壓性高，具備解決問題的獨立思考能力，擅長溝通協調，重視團隊合作\n● 與PM 合作並溝通討論產品需求與了解發展方向完成目標\n● 具有強烈企圖心及責任感，抗壓性高、溝通能力良好\n● 對 UX 具備⾜夠敏感度，能夠提出各種優化使⽤體驗的建議及設計\n● 能配合公司開發流程，抗壓性高，具備解決問題的獨立思考能力，擅長溝通協調，重視團隊合作\n● 與PM 合作並溝通討論產品需求與了解發展方向完成目標\n● 具有強烈企圖心及責任感，抗壓性高、溝通能力良好"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "● 有實務APP上架作品\n● 有TV APP開發經驗\n● 有Hybrid Mobile App或Flutter等開發經驗\n● 有WebView及JavaScript Interface實作經驗\n● 影音串流服務串接\n● 有App的CI/CD經驗\n● 開發iOS經驗\n● 對 UX 具備⾜夠敏感度，能夠提出各種優化使⽤體驗的建議及設計\n● 能配合公司開發流程，抗壓性高，具備解決問題的獨立思考能力，擅長溝通協調，重視團隊合作\n● 與PM 合作並溝通討論產品需求與了解發展方向完成目標\n● 具有強烈企圖心及責任感，抗壓性高、溝通能力良好\n● 對 UX 具備⾜夠敏感度，能夠提出各種優化使⽤體驗的建議及設計\n● 能配合公司開發流程，抗壓性高，具備解決問題的獨立思考能力，擅長溝通協調，重視團隊合作\n● 與PM 合作並溝通討論產品需求與了解發展方向完成目標\n● 具有強烈企圖心及責任感，抗壓性高、溝通能力良好",
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n擅長工具：Android、JavaScript、Flutter\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：● 有實務APP上架作品\n● 有TV APP開發經驗\n● 有Hybrid Mobile App或Flutter等開發經驗\n● 有WebView及JavaScript Interface實作經驗\n● 影音串流服務串接\n● 有App的CI/CD經驗\n● 開發iOS經驗\n● 對 UX 具備⾜夠敏感度，能夠提出各種優化使⽤體驗的建議及設計\n● 能配合公司開發流程，抗壓性高，具備解決問題的獨立思考能力，擅長溝通協調，重視團隊合作\n● 與PM 合作並溝通討論產品需求與了解發展方向完成目標\n● 具有強烈企圖心及責任感，抗壓性高、溝通能力良好\n● 對 UX 具備⾜夠敏感度，能夠提出各種優化使⽤體驗的建議及設計\n● 能配合公司開發流程，抗壓性高，具備解決問題的獨立思考能力，擅長溝通協調，重視團隊合作\n● 與PM 合作並溝通討論產品需求與了解發展方向完成目標\n● 具有強烈企圖心及責任感，抗壓性高、溝通能力良好",
+    "tools": [
+      "Android",
+      "JavaScript",
+      "Flutter"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 73
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:22:21+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "● Android Mobile/TV App開發、測試、性能優化，並控管進度。\n● App 軟體架構及功能模組化設計。\n● API資料介接應用服務。\n● 和需求單位討論，評估、規劃任務時程。\n● 和後端工程師合作串接API與測試。\n● 與UI/UX設計師討論，實作畫面的呈現。\n● 其他主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Android工程師"
+          ],
+          "label": "職務類別",
+          "text": "Android工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區中華路1段41號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "● Android Mobile/TV App開發、測試、性能優化，並控管進度。\n● App 軟體架構及功能模組化設計。\n● API資料介接應用服務。\n● 和需求單位討論，評估、規劃任務時程。\n● 和後端工程師合作串接API與測試。\n● 與UI/UX設計師討論，實作畫面的呈現。\n● 其他主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Android",
+            "JavaScript",
+            "Flutter"
+          ],
+          "label": "擅長工具",
+          "text": "Android、JavaScript、Flutter",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "● 有實務APP上架作品\n● 有TV APP開發經驗\n● 有Hybrid Mobile App或Flutter等開發經驗\n● 有WebView及JavaScript Interface實作經驗\n● 影音串流服務串接\n● 有App的CI/CD經驗\n● 開發iOS經驗\n● 對 UX 具備⾜夠敏感度，能夠提出各種優化使⽤體驗的建議及設計\n● 能配合公司開發流程，抗壓性高，具備解決問題的獨立思考能力，擅長溝通協調，重視團隊合作\n● 與PM 合作並溝通討論產品需求與了解發展方向完成目標\n● 具有強烈企圖心及責任感，抗壓性高、溝通能力良好\n● 對 UX 具備⾜夠敏感度，能夠提出各種優化使⽤體驗的建議及設計\n● 能配合公司開發流程，抗壓性高，具備解決問題的獨立思考能力，擅長溝通協調，重視團隊合作\n● 與PM 合作並溝通討論產品需求與了解發展方向完成目標\n● 具有強烈企圖心及責任感，抗壓性高、溝通能力良好",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n擅長工具：Android、JavaScript、Flutter\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：● 有實務APP上架作品\n● 有TV APP開發經驗\n● 有Hybrid Mobile App或Flutter等開發經驗\n● 有WebView及JavaScript Interface實作經驗\n● 影音串流服務串接\n● 有App的CI/CD經驗\n● 開發iOS經驗\n● 對 UX 具備⾜夠敏感度，能夠提出各種優化使⽤體驗的建議及設計\n● 能配合公司開發流程，抗壓性高，具備解決問題的獨立思考能力，擅長溝通協調，重視團隊合作\n● 與PM 合作並溝通討論產品需求與了解發展方向完成目標\n● 具有強烈企圖心及責任感，抗壓性高、溝通能力良好\n● 對 UX 具備⾜夠敏感度，能夠提出各種優化使⽤體驗的建議及設計\n● 能配合公司開發流程，抗壓性高，具備解決問題的獨立思考能力，擅長溝通協調，重視團隊合作\n● 與PM 合作並溝通討論產品需求與了解發展方向完成目標\n● 具有強烈企圖心及責任感，抗壓性高、溝通能力良好"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8qw8c",
+    "job_url": "https://www.104.com.tw/job/8qw8c",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8qw8c.json",
+    "raw_sha256": "bf0ae5761213a24e52a2b021514aec3088decb3f0f61e60e7a4e02093c25f97b",
+    "requested_url": "https://www.104.com.tw/api/jobs/8qw8c"
+  }
+}

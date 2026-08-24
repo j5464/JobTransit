@@ -1,0 +1,253 @@
+{
+  "company": {
+    "id": "5tb9l8w",
+    "name": "金財通商務科技服務股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟 .NET Framework / .NET Core (C#) 程式設計及 MS-SQL Server 資料庫設計"
+        },
+        {
+          "children": [],
+          "text": "具MVC或前後端架構開發概念尤佳，主要工作為後端程式開發"
+        },
+        {
+          "children": [],
+          "text": "具程式開發及系統建置與設計能力，具.NET Framework / .NET Core 開發經驗尤佳"
+        },
+        {
+          "children": [],
+          "text": "進行網路銀行後端程式設計"
+        },
+        {
+          "children": [],
+          "text": "完整的團隊合作與銀行客戶、原廠合作共事"
+        },
+        {
+          "children": [],
+          "text": "學習能力強、能主動發現問題並尋求最佳解決方案"
+        },
+        {
+          "children": [],
+          "text": "樂於溝通與分享、優良的團隊合作者"
+        },
+        {
+          "children": [],
+          "text": "有銀行系統建置經驗或曾經歷銀行工作者尤佳"
+        }
+      ],
+      "text": "開發網路銀行後端.NET Framework / .NET Core (C#)API程式\n【資格條件】\n1.熟 .NET Framework / .NET Core (C#) 程式設計及 MS-SQL Server 資料庫設計\n2.具MVC或前後端架構開發概念尤佳，主要工作為後端程式開發\n3.具程式開發及系統建置與設計能力，具.NET Framework / .NET Core 開發經驗尤佳\n【工作內容】\n1.進行網路銀行後端程式設計\n2.完整的團隊合作與銀行客戶、原廠合作共事\n【其他】\n1.學習能力強、能主動發現問題並尋求最佳解決方案\n2.樂於溝通與分享、優良的團隊合作者\n3.有銀行系統建置經驗或曾經歷銀行工作者尤佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師_.NET_101B"
+  },
+  "location": {
+    "address_raw": "台北市中山區中山北路三段22號8樓 及 專案特定時程需要時至單一客戶定點",
+    "raw": "台北市中山區中山北路三段22號8樓 及 專案特定時程需要時至單一客戶定點"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "Github",
+          "ASP.NET",
+          "C#",
+          "Visual C#",
+          "ADO",
+          "MS SQL",
+          "DHTML",
+          "HTML",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "Github、ASP.NET、C#、Visual C#、ADO、MS SQL、DHTML、HTML、CSS"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "功能測試(function test)",
+          "軟體程式設計",
+          "結構化程式設計",
+          "網路程式設計",
+          "模組化系統設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、功能測試(function test)、軟體程式設計、結構化程式設計、網路程式設計、模組化系統設計、資料庫程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "持有經濟部能力鑑定(iPAS)證書者優先面試! ISE"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "持有經濟部能力鑑定(iPAS)證書者優先面試! ISE",
+    "skills": [
+      "軟體工程系統開發",
+      "功能測試(function test)",
+      "軟體程式設計",
+      "結構化程式設計",
+      "網路程式設計",
+      "模組化系統設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：Github、ASP.NET、C#、Visual C#、ADO、MS SQL、DHTML、HTML、CSS\n工作技能：軟體工程系統開發、功能測試(function test)、軟體程式設計、結構化程式設計、網路程式設計、模組化系統設計、資料庫程式設計\n其他條件：持有經濟部能力鑑定(iPAS)證書者優先面試! ISE",
+    "tools": [
+      "Github",
+      "ASP.NET",
+      "C#",
+      "Visual C#",
+      "ADO",
+      "MS SQL",
+      "DHTML",
+      "HTML",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 40
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:00:46+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "開發網路銀行後端.NET Framework / .NET Core (C#)API程式\n【資格條件】\n1.熟 .NET Framework / .NET Core (C#) 程式設計及 MS-SQL Server 資料庫設計\n2.具MVC或前後端架構開發概念尤佳，主要工作為後端程式開發\n3.具程式開發及系統建置與設計能力，具.NET Framework / .NET Core 開發經驗尤佳\n【工作內容】\n1.進行網路銀行後端程式設計\n2.完整的團隊合作與銀行客戶、原廠合作共事\n【其他】\n1.學習能力強、能主動發現問題並尋求最佳解決方案\n2.樂於溝通與分享、優良的團隊合作者\n3.有銀行系統建置經驗或曾經歷銀行工作者尤佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區中山北路三段22號8樓 及 專案特定時程需要時至單一客戶定點",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "開發網路銀行後端.NET Framework / .NET Core (C#)API程式\n【資格條件】\n1.熟 .NET Framework / .NET Core (C#) 程式設計及 MS-SQL Server 資料庫設計\n2.具MVC或前後端架構開發概念尤佳，主要工作為後端程式開發\n3.具程式開發及系統建置與設計能力，具.NET Framework / .NET Core 開發經驗尤佳\n【工作內容】\n1.進行網路銀行後端程式設計\n2.完整的團隊合作與銀行客戶、原廠合作共事\n【其他】\n1.學習能力強、能主動發現問題並尋求最佳解決方案\n2.樂於溝通與分享、優良的團隊合作者\n3.有銀行系統建置經驗或曾經歷銀行工作者尤佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Github",
+            "ASP.NET",
+            "C#",
+            "Visual C#",
+            "ADO",
+            "MS SQL",
+            "DHTML",
+            "HTML",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "Github、ASP.NET、C#、Visual C#、ADO、MS SQL、DHTML、HTML、CSS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "功能測試(function test)",
+            "軟體程式設計",
+            "結構化程式設計",
+            "網路程式設計",
+            "模組化系統設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、功能測試(function test)、軟體程式設計、結構化程式設計、網路程式設計、模組化系統設計、資料庫程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "持有經濟部能力鑑定(iPAS)證書者優先面試! ISE",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：Github、ASP.NET、C#、Visual C#、ADO、MS SQL、DHTML、HTML、CSS\n工作技能：軟體工程系統開發、功能測試(function test)、軟體程式設計、結構化程式設計、網路程式設計、模組化系統設計、資料庫程式設計\n其他條件：持有經濟部能力鑑定(iPAS)證書者優先面試! ISE"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "78cva",
+    "job_url": "https://www.104.com.tw/job/78cva",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/78cva.json",
+    "raw_sha256": "7cd879834f22689755094796edfb3a7eeac6ddf6557502d830815f137365a36c",
+    "requested_url": "https://www.104.com.tw/api/jobs/78cva"
+  }
+}

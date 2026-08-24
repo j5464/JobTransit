@@ -1,0 +1,161 @@
+{
+  "company": {
+    "id": "7f454u0",
+    "name": "統一資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "資料科學家",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "【關於團隊與專案規模】\n我們致⼒於解決零售場景中的真實難題，重視研發深度與技術落地。團隊近期的研發成果\n獲得國內外指標性技術肯定：\n■獲選2025、2026 NVIDIA GTC Poster：技術成果受邀於NVIDIA 年度全球技術⼤會(GTC) 展⽰。\n■獲選2025 IT Matters Awards (AI Selected)：獲選年度AI應⽤專案，肯定團隊在技術創新與實際商業落地的價值。\n■市場版圖擴及海內外：⾃主研發之AI 零售解決⽅案導⼊台灣及海外市場，將跨國⼤規模商⽤落地。\n【⼯作內容】\n我們專注於智慧零售領域的創新應⽤，您將有機會加⼊核⼼研發團隊，如無⼈商店、智能櫃與⾃動販賣系統。將AI 技術轉化為真實的商業價值。\n主要職責：\n■負責零售場景之電腦視覺模型開發，包含商品辨識、物件偵測、影像分類、缺貨偵測、商品錯位偵測與消費者匿名行為分析。\n■使用 PyTorch 開發、訓練與優化深度學習模型，並針對實際場景中的遮擋、反光、相似商品、新品快速上架、少量樣本等問題提出解決方案。\n■建立與維護影像資料處理流程，包含資料清洗、標註格式轉換、資料增強、模型評估與誤判案例分析，持續優化模型準確率。\n■將模型部署至 Edge Device 或 GPU Server，進行 ONNX / TensorRT / ONNX Runtime 轉換與推論加速，確保系統具備即時性與穩定性。\n■處理 RTSP 影像串流、OpenCV / GStreamer 影像前處理，並與後端、IoT、設備與門市系統進行整合。\n■持續追蹤 Computer Vision 相關技術，評估新模型與新方法在零售場景中的導入可行性。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI Computer Vision Engineer / AI圖像⼯程師(智慧零售)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區石潭路155號8F~10F",
+    "raw": "台北市內湖區石潭路155號8F~10F"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "★必備條件★\n1.熟悉 Python，具備良好的程式撰寫習慣與 Git 版本控制經驗。\n2.熟悉 PyTorch，具備深度學習模型訓練、驗證與推論經驗。\n3.熟悉 Computer Vision 基礎，具備以下至少一項實作經驗：\n■Object Detection，例如 YOLO、DETR 系列\n■Image Classification\n■Segmentation\n■Product Recognition\n■Fine-grained Classification\n4.熟悉 CNN、Transformer、ViT 等常見模型架構概念。\n5.熟悉 OpenCV 與影像前處理技術。\n6.熟悉 Linux 開發環境，能進行基本系統操作、log 分析與問題排查。\n7.理解模型評估指標，例如 mAP、Precision、Recall、F1-score、Confusion Matrix。\n★加分條件★\n1.具備 NVIDIA Jetson、Edge AI 或 GPU Server 模型部署經驗。\n2.熟悉 ONNX、TensorRT、ONNX Runtime、FP16 / INT8 量化或模型推論加速。\n3.熟悉 Docker / Docker Compose 容器化部署。\n4.有 RTSP、GStreamer、DeepStream 或多攝影機串流處理經驗。\n5.有零售商品辨識、智慧貨架、智慧冰箱、自助結帳或門市影像分析相關經驗。\n6.具備 Few-shot Learning、Metric Learning、Embedding Retrieval、Re-ID 或相似商品比對經驗。\n7.了解 CLIP、DINO、SAM、Grounding DINO、Vision-Language Model 等新型視覺模型應用。\n8.熟悉 FastAPI、Flask、gRPC、MQTT 或其他系統整合方式。\n9.具備 C++、CUDA、Camera SDK 或底層效能優化經驗尤佳。"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [],
+    "other_text": "★必備條件★\n1.熟悉 Python，具備良好的程式撰寫習慣與 Git 版本控制經驗。\n2.熟悉 PyTorch，具備深度學習模型訓練、驗證與推論經驗。\n3.熟悉 Computer Vision 基礎，具備以下至少一項實作經驗：\n■Object Detection，例如 YOLO、DETR 系列\n■Image Classification\n■Segmentation\n■Product Recognition\n■Fine-grained Classification\n4.熟悉 CNN、Transformer、ViT 等常見模型架構概念。\n5.熟悉 OpenCV 與影像前處理技術。\n6.熟悉 Linux 開發環境，能進行基本系統操作、log 分析與問題排查。\n7.理解模型評估指標，例如 mAP、Precision、Recall、F1-score、Confusion Matrix。\n★加分條件★\n1.具備 NVIDIA Jetson、Edge AI 或 GPU Server 模型部署經驗。\n2.熟悉 ONNX、TensorRT、ONNX Runtime、FP16 / INT8 量化或模型推論加速。\n3.熟悉 Docker / Docker Compose 容器化部署。\n4.有 RTSP、GStreamer、DeepStream 或多攝影機串流處理經驗。\n5.有零售商品辨識、智慧貨架、智慧冰箱、自助結帳或門市影像分析相關經驗。\n6.具備 Few-shot Learning、Metric Learning、Embedding Retrieval、Re-ID 或相似商品比對經驗。\n7.了解 CLIP、DINO、SAM、Grounding DINO、Vision-Language Model 等新型視覺模型應用。\n8.熟悉 FastAPI、Flask、gRPC、MQTT 或其他系統整合方式。\n9.具備 C++、CUDA、Camera SDK 或底層效能優化經驗尤佳。",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n語文條件：英文：精通、精通、精通、精通\n其他條件：★必備條件★\n1.熟悉 Python，具備良好的程式撰寫習慣與 Git 版本控制經驗。\n2.熟悉 PyTorch，具備深度學習模型訓練、驗證與推論經驗。\n3.熟悉 Computer Vision 基礎，具備以下至少一項實作經驗：\n■Object Detection，例如 YOLO、DETR 系列\n■Image Classification\n■Segmentation\n■Product Recognition\n■Fine-grained Classification\n4.熟悉 CNN、Transformer、ViT 等常見模型架構概念。\n5.熟悉 OpenCV 與影像前處理技術。\n6.熟悉 Linux 開發環境，能進行基本系統操作、log 分析與問題排查。\n7.理解模型評估指標，例如 mAP、Precision、Recall、F1-score、Confusion Matrix。\n★加分條件★\n1.具備 NVIDIA Jetson、Edge AI 或 GPU Server 模型部署經驗。\n2.熟悉 ONNX、TensorRT、ONNX Runtime、FP16 / INT8 量化或模型推論加速。\n3.熟悉 Docker / Docker Compose 容器化部署。\n4.有 RTSP、GStreamer、DeepStream 或多攝影機串流處理經驗。\n5.有零售商品辨識、智慧貨架、智慧冰箱、自助結帳或門市影像分析相關經驗。\n6.具備 Few-shot Learning、Metric Learning、Embedding Retrieval、Re-ID 或相似商品比對經驗。\n7.了解 CLIP、DINO、SAM、Grounding DINO、Vision-Language Model 等新型視覺模型應用。\n8.熟悉 FastAPI、Flask、gRPC、MQTT 或其他系統整合方式。\n9.具備 C++、CUDA、Camera SDK 或底層效能優化經驗尤佳。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 86
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:54:32+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【關於團隊與專案規模】\n我們致⼒於解決零售場景中的真實難題，重視研發深度與技術落地。團隊近期的研發成果\n獲得國內外指標性技術肯定：\n■獲選2025、2026 NVIDIA GTC Poster：技術成果受邀於NVIDIA 年度全球技術⼤會(GTC) 展⽰。\n■獲選2025 IT Matters Awards (AI Selected)：獲選年度AI應⽤專案，肯定團隊在技術創新與實際商業落地的價值。\n■市場版圖擴及海內外：⾃主研發之AI 零售解決⽅案導⼊台灣及海外市場，將跨國⼤規模商⽤落地。\n【⼯作內容】\n我們專注於智慧零售領域的創新應⽤，您將有機會加⼊核⼼研發團隊，如無⼈商店、智能櫃與⾃動販賣系統。將AI 技術轉化為真實的商業價值。\n主要職責：\n■負責零售場景之電腦視覺模型開發，包含商品辨識、物件偵測、影像分類、缺貨偵測、商品錯位偵測與消費者匿名行為分析。\n■使用 PyTorch 開發、訓練與優化深度學習模型，並針對實際場景中的遮擋、反光、相似商品、新品快速上架、少量樣本等問題提出解決方案。\n■建立與維護影像資料處理流程，包含資料清洗、標註格式轉換、資料增強、模型評估與誤判案例分析，持續優化模型準確率。\n■將模型部署至 Edge Device 或 GPU Server，進行 ONNX / TensorRT / ONNX Runtime 轉換與推論加速，確保系統具備即時性與穩定性。\n■處理 RTSP 影像串流、OpenCV / GStreamer 影像前處理，並與後端、IoT、設備與門市系統進行整合。\n■持續追蹤 Computer Vision 相關技術，評估新模型與新方法在零售場景中的導入可行性。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "資料科學家",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、資料科學家、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區石潭路155號8F~10F",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【關於團隊與專案規模】\n我們致⼒於解決零售場景中的真實難題，重視研發深度與技術落地。團隊近期的研發成果\n獲得國內外指標性技術肯定：\n■獲選2025、2026 NVIDIA GTC Poster：技術成果受邀於NVIDIA 年度全球技術⼤會(GTC) 展⽰。\n■獲選2025 IT Matters Awards (AI Selected)：獲選年度AI應⽤專案，肯定團隊在技術創新與實際商業落地的價值。\n■市場版圖擴及海內外：⾃主研發之AI 零售解決⽅案導⼊台灣及海外市場，將跨國⼤規模商⽤落地。\n【⼯作內容】\n我們專注於智慧零售領域的創新應⽤，您將有機會加⼊核⼼研發團隊，如無⼈商店、智能櫃與⾃動販賣系統。將AI 技術轉化為真實的商業價值。\n主要職責：\n■負責零售場景之電腦視覺模型開發，包含商品辨識、物件偵測、影像分類、缺貨偵測、商品錯位偵測與消費者匿名行為分析。\n■使用 PyTorch 開發、訓練與優化深度學習模型，並針對實際場景中的遮擋、反光、相似商品、新品快速上架、少量樣本等問題提出解決方案。\n■建立與維護影像資料處理流程，包含資料清洗、標註格式轉換、資料增強、模型評估與誤判案例分析，持續優化模型準確率。\n■將模型部署至 Edge Device 或 GPU Server，進行 ONNX / TensorRT / ONNX Runtime 轉換與推論加速，確保系統具備即時性與穩定性。\n■處理 RTSP 影像串流、OpenCV / GStreamer 影像前處理，並與後端、IoT、設備與門市系統進行整合。\n■持續追蹤 Computer Vision 相關技術，評估新模型與新方法在零售場景中的導入可行性。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "★必備條件★\n1.熟悉 Python，具備良好的程式撰寫習慣與 Git 版本控制經驗。\n2.熟悉 PyTorch，具備深度學習模型訓練、驗證與推論經驗。\n3.熟悉 Computer Vision 基礎，具備以下至少一項實作經驗：\n■Object Detection，例如 YOLO、DETR 系列\n■Image Classification\n■Segmentation\n■Product Recognition\n■Fine-grained Classification\n4.熟悉 CNN、Transformer、ViT 等常見模型架構概念。\n5.熟悉 OpenCV 與影像前處理技術。\n6.熟悉 Linux 開發環境，能進行基本系統操作、log 分析與問題排查。\n7.理解模型評估指標，例如 mAP、Precision、Recall、F1-score、Confusion Matrix。\n★加分條件★\n1.具備 NVIDIA Jetson、Edge AI 或 GPU Server 模型部署經驗。\n2.熟悉 ONNX、TensorRT、ONNX Runtime、FP16 / INT8 量化或模型推論加速。\n3.熟悉 Docker / Docker Compose 容器化部署。\n4.有 RTSP、GStreamer、DeepStream 或多攝影機串流處理經驗。\n5.有零售商品辨識、智慧貨架、智慧冰箱、自助結帳或門市影像分析相關經驗。\n6.具備 Few-shot Learning、Metric Learning、Embedding Retrieval、Re-ID 或相似商品比對經驗。\n7.了解 CLIP、DINO、SAM、Grounding DINO、Vision-Language Model 等新型視覺模型應用。\n8.熟悉 FastAPI、Flask、gRPC、MQTT 或其他系統整合方式。\n9.具備 C++、CUDA、Camera SDK 或底層效能優化經驗尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n語文條件：英文：精通、精通、精通、精通\n其他條件：★必備條件★\n1.熟悉 Python，具備良好的程式撰寫習慣與 Git 版本控制經驗。\n2.熟悉 PyTorch，具備深度學習模型訓練、驗證與推論經驗。\n3.熟悉 Computer Vision 基礎，具備以下至少一項實作經驗：\n■Object Detection，例如 YOLO、DETR 系列\n■Image Classification\n■Segmentation\n■Product Recognition\n■Fine-grained Classification\n4.熟悉 CNN、Transformer、ViT 等常見模型架構概念。\n5.熟悉 OpenCV 與影像前處理技術。\n6.熟悉 Linux 開發環境，能進行基本系統操作、log 分析與問題排查。\n7.理解模型評估指標，例如 mAP、Precision、Recall、F1-score、Confusion Matrix。\n★加分條件★\n1.具備 NVIDIA Jetson、Edge AI 或 GPU Server 模型部署經驗。\n2.熟悉 ONNX、TensorRT、ONNX Runtime、FP16 / INT8 量化或模型推論加速。\n3.熟悉 Docker / Docker Compose 容器化部署。\n4.有 RTSP、GStreamer、DeepStream 或多攝影機串流處理經驗。\n5.有零售商品辨識、智慧貨架、智慧冰箱、自助結帳或門市影像分析相關經驗。\n6.具備 Few-shot Learning、Metric Learning、Embedding Retrieval、Re-ID 或相似商品比對經驗。\n7.了解 CLIP、DINO、SAM、Grounding DINO、Vision-Language Model 等新型視覺模型應用。\n8.熟悉 FastAPI、Flask、gRPC、MQTT 或其他系統整合方式。\n9.具備 C++、CUDA、Camera SDK 或底層效能優化經驗尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "885s5",
+    "job_url": "https://www.104.com.tw/job/885s5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/885s5.json",
+    "raw_sha256": "8c122aa1f58d8391d21f739bef391f7be9f9cfef18066749ba48190d1034bdf9",
+    "requested_url": "https://www.104.com.tw/api/jobs/885s5"
+  }
+}

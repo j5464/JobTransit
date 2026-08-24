@@ -1,0 +1,266 @@
+{
+  "company": {
+    "id": "1a2x6bmav5",
+    "name": "天茶智能科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發框架： C# / .NET Core (目前使用 .NET 8)"
+        },
+        {
+          "children": [],
+          "text": "多語言與新技術： 團隊抱持開放態度，依業務需求與架構演進導入適合的語言與工具"
+        },
+        {
+          "children": [],
+          "text": "API 與安全： RESTful API、JWT 認證"
+        },
+        {
+          "children": [],
+          "text": "資料存取： Entity Framework Core / MS SQL Server"
+        },
+        {
+          "children": [],
+          "text": "基礎設施： Git、Docker"
+        },
+        {
+          "children": [],
+          "text": "了解 RESTful API 設計原則與 JWT 認證概念。"
+        },
+        {
+          "children": [],
+          "text": "具備 MS SQL 基本操作能力，有 ORM (EF Core) 使用經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備 C# 以外第二語言開發經驗（如 Go, Python, Node.js, Java 等）者加分！"
+        },
+        {
+          "children": [],
+          "text": "具備 Stored Procedure (SP) 撰寫或複雜效能調優經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備 Redis 或 Message Queue (MQ) 使用經驗。"
+        },
+        {
+          "children": [],
+          "text": "了解 Docker 容器化部署概念。"
+        }
+      ],
+      "text": "參考官網 https://www.tcitech.com.tw/\n【職位概述】\n我們誠徵 .NET / 後端開發夥伴，加入智慧建築管理平台的研發團隊！我們重視團隊協作與開放的技術氛圍，在這裡你將參與高性能 API 開發與系統架構設計。\n本職位以 .NET Core 為主力開發語言，但我們不設限技術棧！團隊鼓勵技術探索與重構，提供學習並實戰其他後端語言/新技術的空間。 適合想穩固 .NET 實力，同時希望保持技術靈活性與學習成長的你！\n【技術棧】\n• 開發框架： C# / .NET Core (目前使用 .NET 8)\n• 多語言與新技術： 團隊抱持開放態度，依業務需求與架構演進導入適合的語言與工具\n• API 與安全： RESTful API、JWT 認證\n• 資料存取： Entity Framework Core / MS SQL Server\n• 基礎設施： Git、Docker\n【工作內容】\n核心 API 開發： 設計與維護 RESTful API，實作系統業務邏輯與身分驗證。\n資料庫互動： 運用 EF Core 處理日常業務，並進行基礎 SQL 查詢撰寫與優化。\n技術演進與多語言探索： 參與團隊技術選型，未來有機會依專案需求學習並導入其他程式語言、微服務或新技術。\n團隊協作： 使用 Git 進行版控，參與 Code Review 與技術分享。\n【條件要求】\n基礎能力： 具備 .NET Core / C# 開發經驗（熟悉 .NET 6+ 佳，具 Framework 轉型經驗亦可）。\nWeb 與資料庫：\n• 了解 RESTful API 設計原則與 JWT 認證概念。\n• 具備 MS SQL 基本操作能力，有 ORM (EF Core) 使用經驗。\n學習與適應力： 保持開放心態，樂於學習新技術或不同程式語言，並能靈活運用於解決實際問題。\n團隊協作： 具備 Git 版本控制基本操作能力與良好的溝通習慣。\n【加分條件】(進入團隊後一起學習也完全 OK！)\n• 具備 C# 以外第二語言開發經驗（如 Go, Python, Node.js, Java 等）者加分！\n• 具備 Stored Procedure (SP) 撰寫或複雜效能調優經驗。\n• 具備 Redis 或 Message Queue (MQ) 使用經驗。\n• 了解 Docker 容器化部署概念。"
+    },
+    "employment_type_raw": "全職",
+    "title": ".Net Core 後端工程師 Backend Engineer (C# / .NET Core)"
+  },
+  "location": {
+    "address_raw": "新北市新店區北新路三段221號4樓",
+    "raw": "新北市新店區北新路三段221號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "C#",
+          "Visual Studio .net",
+          "MS SQL",
+          "Github"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Visual Studio .net、MS SQL、Github"
+      },
+      {
+        "items": [
+          "作業系統基本操作",
+          "資料備份與復原",
+          "軟體程式設計",
+          "網路程式設計",
+          "模組化系統設計",
+          "資料庫系統管理維護",
+          "資料庫程式設計",
+          "資料庫軟體應用",
+          "多媒體影像處理",
+          "網頁語法撰寫"
+        ],
+        "label": "工作技能",
+        "text": "作業系統基本操作、資料備份與復原、軟體程式設計、網路程式設計、模組化系統設計、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、多媒體影像處理、網頁語法撰寫"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "作業系統基本操作",
+      "資料備份與復原",
+      "軟體程式設計",
+      "網路程式設計",
+      "模組化系統設計",
+      "資料庫系統管理維護",
+      "資料庫程式設計",
+      "資料庫軟體應用",
+      "多媒體影像處理",
+      "網頁語法撰寫"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：C#、Visual Studio .net、MS SQL、Github\n工作技能：作業系統基本操作、資料備份與復原、軟體程式設計、網路程式設計、模組化系統設計、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、多媒體影像處理、網頁語法撰寫",
+    "tools": [
+      "C#",
+      "Visual Studio .net",
+      "MS SQL",
+      "Github"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 79
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:37:07+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "參考官網 https://www.tcitech.com.tw/\n【職位概述】\n我們誠徵 .NET / 後端開發夥伴，加入智慧建築管理平台的研發團隊！我們重視團隊協作與開放的技術氛圍，在這裡你將參與高性能 API 開發與系統架構設計。\n本職位以 .NET Core 為主力開發語言，但我們不設限技術棧！團隊鼓勵技術探索與重構，提供學習並實戰其他後端語言/新技術的空間。 適合想穩固 .NET 實力，同時希望保持技術靈活性與學習成長的你！\n【技術棧】\n• 開發框架： C# / .NET Core (目前使用 .NET 8)\n• 多語言與新技術： 團隊抱持開放態度，依業務需求與架構演進導入適合的語言與工具\n• API 與安全： RESTful API、JWT 認證\n• 資料存取： Entity Framework Core / MS SQL Server\n• 基礎設施： Git、Docker\n【工作內容】\n核心 API 開發： 設計與維護 RESTful API，實作系統業務邏輯與身分驗證。\n資料庫互動： 運用 EF Core 處理日常業務，並進行基礎 SQL 查詢撰寫與優化。\n技術演進與多語言探索： 參與團隊技術選型，未來有機會依專案需求學習並導入其他程式語言、微服務或新技術。\n團隊協作： 使用 Git 進行版控，參與 Code Review 與技術分享。\n【條件要求】\n基礎能力： 具備 .NET Core / C# 開發經驗（熟悉 .NET 6+ 佳，具 Framework 轉型經驗亦可）。\nWeb 與資料庫：\n• 了解 RESTful API 設計原則與 JWT 認證概念。\n• 具備 MS SQL 基本操作能力，有 ORM (EF Core) 使用經驗。\n學習與適應力： 保持開放心態，樂於學習新技術或不同程式語言，並能靈活運用於解決實際問題。\n團隊協作： 具備 Git 版本控制基本操作能力與良好的溝通習慣。\n【加分條件】(進入團隊後一起學習也完全 OK！)\n• 具備 C# 以外第二語言開發經驗（如 Go, Python, Node.js, Java 等）者加分！\n• 具備 Stored Procedure (SP) 撰寫或複雜效能調優經驗。\n• 具備 Redis 或 Message Queue (MQ) 使用經驗。\n• 了解 Docker 容器化部署概念。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區北新路三段221號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "參考官網 https://www.tcitech.com.tw/\n【職位概述】\n我們誠徵 .NET / 後端開發夥伴，加入智慧建築管理平台的研發團隊！我們重視團隊協作與開放的技術氛圍，在這裡你將參與高性能 API 開發與系統架構設計。\n本職位以 .NET Core 為主力開發語言，但我們不設限技術棧！團隊鼓勵技術探索與重構，提供學習並實戰其他後端語言/新技術的空間。 適合想穩固 .NET 實力，同時希望保持技術靈活性與學習成長的你！\n【技術棧】\n• 開發框架： C# / .NET Core (目前使用 .NET 8)\n• 多語言與新技術： 團隊抱持開放態度，依業務需求與架構演進導入適合的語言與工具\n• API 與安全： RESTful API、JWT 認證\n• 資料存取： Entity Framework Core / MS SQL Server\n• 基礎設施： Git、Docker\n【工作內容】\n核心 API 開發： 設計與維護 RESTful API，實作系統業務邏輯與身分驗證。\n資料庫互動： 運用 EF Core 處理日常業務，並進行基礎 SQL 查詢撰寫與優化。\n技術演進與多語言探索： 參與團隊技術選型，未來有機會依專案需求學習並導入其他程式語言、微服務或新技術。\n團隊協作： 使用 Git 進行版控，參與 Code Review 與技術分享。\n【條件要求】\n基礎能力： 具備 .NET Core / C# 開發經驗（熟悉 .NET 6+ 佳，具 Framework 轉型經驗亦可）。\nWeb 與資料庫：\n• 了解 RESTful API 設計原則與 JWT 認證概念。\n• 具備 MS SQL 基本操作能力，有 ORM (EF Core) 使用經驗。\n學習與適應力： 保持開放心態，樂於學習新技術或不同程式語言，並能靈活運用於解決實際問題。\n團隊協作： 具備 Git 版本控制基本操作能力與良好的溝通習慣。\n【加分條件】(進入團隊後一起學習也完全 OK！)\n• 具備 C# 以外第二語言開發經驗（如 Go, Python, Node.js, Java 等）者加分！\n• 具備 Stored Procedure (SP) 撰寫或複雜效能調優經驗。\n• 具備 Redis 或 Message Queue (MQ) 使用經驗。\n• 了解 Docker 容器化部署概念。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Visual Studio .net",
+            "MS SQL",
+            "Github"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Visual Studio .net、MS SQL、Github",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "作業系統基本操作",
+            "資料備份與復原",
+            "軟體程式設計",
+            "網路程式設計",
+            "模組化系統設計",
+            "資料庫系統管理維護",
+            "資料庫程式設計",
+            "資料庫軟體應用",
+            "多媒體影像處理",
+            "網頁語法撰寫"
+          ],
+          "label": "工作技能",
+          "text": "作業系統基本操作、資料備份與復原、軟體程式設計、網路程式設計、模組化系統設計、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、多媒體影像處理、網頁語法撰寫",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：C#、Visual Studio .net、MS SQL、Github\n工作技能：作業系統基本操作、資料備份與復原、軟體程式設計、網路程式設計、模組化系統設計、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、多媒體影像處理、網頁語法撰寫"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7t8qn",
+    "job_url": "https://www.104.com.tw/job/7t8qn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7t8qn.json",
+    "raw_sha256": "4d04694227cbc4c47029887dd319a149327feaa33498166633fdd23144866a12",
+    "requested_url": "https://www.104.com.tw/api/jobs/7t8qn"
+  }
+}

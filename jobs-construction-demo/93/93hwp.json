@@ -1,0 +1,226 @@
+{
+  "company": {
+    "id": "1a2x6bjhcz",
+    "name": "全球動力科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "軟體工程師",
+      "遊戲工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "使用Unity開發VR、AR互動式應用程式與專案功能。"
+        },
+        {
+          "children": [],
+          "text": "串接前後端API、即時資料、感測器或第三方SDK。"
+        },
+        {
+          "children": [],
+          "text": "與企劃、設計、後端工程師協做完成產品與專案開發。"
+        },
+        {
+          "children": [],
+          "text": "具備獨立解決問題能力，能與團隊良好溝通。"
+        },
+        {
+          "children": [],
+          "text": "協助優化系統效能、穩定性與使用體驗。"
+        },
+        {
+          "children": [],
+          "text": "協助處理專案部署、版本管理與技術文件整理。"
+        }
+      ],
+      "text": "1.使用Unity開發VR、AR互動式應用程式與專案功能。\n2.串接前後端API、即時資料、感測器或第三方SDK。\n3.與企劃、設計、後端工程師協做完成產品與專案開發。\n4.具備獨立解決問題能力，能與團隊良好溝通。\n5.協助優化系統效能、穩定性與使用體驗。\n6.協助處理專案部署、版本管理與技術文件整理。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【研發部】Unity工程師"
+  },
+  "location": {
+    "address_raw": "台北市大安區復興南路一段368號5樓(距捷運大安站約220公尺)",
+    "raw": "台北市大安區復興南路一段368號5樓(距捷運大安站約220公尺)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Unity3D",
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "Unity3D、C#"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分條件】\n1.參與過完整的VR或AR專案開發\n2.熟悉Git協作流程\n3.具備資料解析與功能模組化能力\n4.擅長運用AI工具"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "【加分條件】\n1.參與過完整的VR或AR專案開發\n2.熟悉Git協作流程\n3.具備資料解析與功能模組化能力\n4.擅長運用AI工具",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Unity3D、C#\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：【加分條件】\n1.參與過完整的VR或AR專案開發\n2.熟悉Git協作流程\n3.具備資料解析與功能模組化能力\n4.擅長運用AI工具",
+    "tools": [
+      "Unity3D",
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 80
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:38:31+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.使用Unity開發VR、AR互動式應用程式與專案功能。\n2.串接前後端API、即時資料、感測器或第三方SDK。\n3.與企劃、設計、後端工程師協做完成產品與專案開發。\n4.具備獨立解決問題能力，能與團隊良好溝通。\n5.協助優化系統效能、穩定性與使用體驗。\n6.協助處理專案部署、版本管理與技術文件整理。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "軟體工程師",
+            "遊戲工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、軟體工程師、遊戲工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區復興南路一段368號5樓(距捷運大安站約220公尺)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.使用Unity開發VR、AR互動式應用程式與專案功能。\n2.串接前後端API、即時資料、感測器或第三方SDK。\n3.與企劃、設計、後端工程師協做完成產品與專案開發。\n4.具備獨立解決問題能力，能與團隊良好溝通。\n5.協助優化系統效能、穩定性與使用體驗。\n6.協助處理專案部署、版本管理與技術文件整理。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Unity3D",
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "Unity3D、C#",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分條件】\n1.參與過完整的VR或AR專案開發\n2.熟悉Git協作流程\n3.具備資料解析與功能模組化能力\n4.擅長運用AI工具",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Unity3D、C#\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：【加分條件】\n1.參與過完整的VR或AR專案開發\n2.熟悉Git協作流程\n3.具備資料解析與功能模組化能力\n4.擅長運用AI工具"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "93hwp",
+    "job_url": "https://www.104.com.tw/job/93hwp",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93hwp.json",
+    "raw_sha256": "5a0467a43609ee6661dac2286f12de3aadd04d79ed08a465fe6cc445e2d7d6f1",
+    "requested_url": "https://www.104.com.tw/api/jobs/93hwp"
+  }
+}

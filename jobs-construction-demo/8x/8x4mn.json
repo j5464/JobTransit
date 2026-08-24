@@ -1,0 +1,201 @@
+{
+  "company": {
+    "id": "1a2x6bm0nh",
+    "name": "石敢當科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "遊戲工程師",
+      "通訊軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "2年以上遊戲開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉使用前端框架開發經驗1年以上。"
+        },
+        {
+          "children": [],
+          "text": "優化現有產品流程。"
+        },
+        {
+          "children": [],
+          "text": "具備cocos 開發經驗1年以上。"
+        }
+      ],
+      "text": "1. 2年以上遊戲開發經驗。\n2. 熟悉使用前端框架開發經驗1年以上。\n4. 優化現有產品流程。\n5. 具備cocos 開發經驗1年以上。"
+    },
+    "employment_type_raw": "全職",
+    "title": "前端遊戲工程師 (台中)"
+  },
+  "location": {
+    "address_raw": "台中市西屯區市政北二路238號10樓之1(BHW鼎盛大樓)",
+    "raw": "台中市西屯區市政北二路238號10樓之1(BHW鼎盛大樓)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、中等"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "撰寫硬體語言程式"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、撰寫硬體語言程式"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.擅長工具：H5 / cocos。\n2.加分條件：\n★具備APP 開發與上架經驗。\n★具備客戶維護經驗。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1.擅長工具：H5 / cocos。\n2.加分條件：\n★具備APP 開發與上架經驗。\n★具備客戶維護經驗。",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "撰寫硬體語言程式"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n語文條件：英文：略懂、略懂、中等、中等\n工作技能：軟體工程系統開發、軟體程式設計、撰寫硬體語言程式\n其他條件：1.擅長工具：H5 / cocos。\n2.加分條件：\n★具備APP 開發與上架經驗。\n★具備客戶維護經驗。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 29
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:33:19+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 2年以上遊戲開發經驗。\n2. 熟悉使用前端框架開發經驗1年以上。\n4. 優化現有產品流程。\n5. 具備cocos 開發經驗1年以上。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "遊戲工程師",
+            "通訊軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、遊戲工程師、通訊軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區市政北二路238號10樓之1(BHW鼎盛大樓)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 2年以上遊戲開發經驗。\n2. 熟悉使用前端框架開發經驗1年以上。\n4. 優化現有產品流程。\n5. 具備cocos 開發經驗1年以上。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "撰寫硬體語言程式"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、撰寫硬體語言程式",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.擅長工具：H5 / cocos。\n2.加分條件：\n★具備APP 開發與上架經驗。\n★具備客戶維護經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n語文條件：英文：略懂、略懂、中等、中等\n工作技能：軟體工程系統開發、軟體程式設計、撰寫硬體語言程式\n其他條件：1.擅長工具：H5 / cocos。\n2.加分條件：\n★具備APP 開發與上架經驗。\n★具備客戶維護經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8x4mn",
+    "job_url": "https://www.104.com.tw/job/8x4mn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8x4mn.json",
+    "raw_sha256": "2d02a2e4d6d9ac22be2cb30710058316cc6da5a10b75c4f19aef8540af97e4ba",
+    "requested_url": "https://www.104.com.tw/api/jobs/8x4mn"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "company": {
+    "id": "112fnt8g",
+    "name": "祥碩科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "數位IC設計工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "與演算法團隊合作，分析 DSP 演算法之數學模型與運算需求。"
+        },
+        {
+          "children": [],
+          "text": "根據效能、面積與功耗需求，設計對應的數位硬體架構。"
+        },
+        {
+          "children": [],
+          "text": "使用 Verilog 撰寫 RTL 程式碼，實現演算法硬體化。"
+        },
+        {
+          "children": [],
+          "text": "撰寫 testbench 並進行功能模擬與驗證 (Functional Simulation / Verification)。"
+        },
+        {
+          "children": [],
+          "text": "支援ASIC synthesis、timing closure 相關工作。"
+        },
+        {
+          "children": [],
+          "text": "與後端團隊合作，確保設計符合時序與面積要求。"
+        },
+        {
+          "children": [],
+          "text": "撰寫設計與驗證文件，確保可維護性與可重複使用性。"
+        }
+      ],
+      "text": "1. 與演算法團隊合作，分析 DSP 演算法之數學模型與運算需求。\n2. 根據效能、面積與功耗需求，設計對應的數位硬體架構。\n3. 使用 Verilog 撰寫 RTL 程式碼，實現演算法硬體化。\n4. 撰寫 testbench 並進行功能模擬與驗證 (Functional Simulation / Verification)。\n5. 支援ASIC synthesis、timing closure 相關工作。\n6. 與後端團隊合作，確保設計符合時序與面積要求。\n7. 撰寫設計與驗證文件，確保可維護性與可重複使用性。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【新竹】數位訊號處理演算法工程師(DSP)"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市",
+    "raw": "新竹縣竹北市"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "必要條件：\n• 熟悉 Verilog RTL 設計。\n• 具 communication/DSP 概念與演算法實作經驗。\n• 熟悉基本硬體設計流程 (Simulation, Synthesis, STA, Lint)。\n• 具備 VCS / Synopsys / Cadence 相關工具操作經驗。\n• 具良好團隊合作與問題解決能力。\n加分條件：\n• 具 FPGA prototyping 或 ASIC flow 經驗。\n• 熟悉Python以協助演算法分析與驗證。\n• 具 pipeline、fixed-point arithmetic、low-power design 經驗。\n• 熟悉PCIe protocol。\n• 具 SystemVerilog UVM 驗證觀念或實務經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關"
+    ],
+    "other_text": "必要條件：\n• 熟悉 Verilog RTL 設計。\n• 具 communication/DSP 概念與演算法實作經驗。\n• 熟悉基本硬體設計流程 (Simulation, Synthesis, STA, Lint)。\n• 具備 VCS / Synopsys / Cadence 相關工具操作經驗。\n• 具良好團隊合作與問題解決能力。\n加分條件：\n• 具 FPGA prototyping 或 ASIC flow 經驗。\n• 熟悉Python以協助演算法分析與驗證。\n• 具 pipeline、fixed-point arithmetic、low-power design 經驗。\n• 熟悉PCIe protocol。\n• 具 SystemVerilog UVM 驗證觀念或實務經驗",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關\n其他條件：必要條件：\n• 熟悉 Verilog RTL 設計。\n• 具 communication/DSP 概念與演算法實作經驗。\n• 熟悉基本硬體設計流程 (Simulation, Synthesis, STA, Lint)。\n• 具備 VCS / Synopsys / Cadence 相關工具操作經驗。\n• 具良好團隊合作與問題解決能力。\n加分條件：\n• 具 FPGA prototyping 或 ASIC flow 經驗。\n• 熟悉Python以協助演算法分析與驗證。\n• 具 pipeline、fixed-point arithmetic、low-power design 經驗。\n• 熟悉PCIe protocol。\n• 具 SystemVerilog UVM 驗證觀念或實務經驗",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 5
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:31:11+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 與演算法團隊合作，分析 DSP 演算法之數學模型與運算需求。\n2. 根據效能、面積與功耗需求，設計對應的數位硬體架構。\n3. 使用 Verilog 撰寫 RTL 程式碼，實現演算法硬體化。\n4. 撰寫 testbench 並進行功能模擬與驗證 (Functional Simulation / Verification)。\n5. 支援ASIC synthesis、timing closure 相關工作。\n6. 與後端團隊合作，確保設計符合時序與面積要求。\n7. 撰寫設計與驗證文件，確保可維護性與可重複使用性。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "數位IC設計工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "數位IC設計工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 與演算法團隊合作，分析 DSP 演算法之數學模型與運算需求。\n2. 根據效能、面積與功耗需求，設計對應的數位硬體架構。\n3. 使用 Verilog 撰寫 RTL 程式碼，實現演算法硬體化。\n4. 撰寫 testbench 並進行功能模擬與驗證 (Functional Simulation / Verification)。\n5. 支援ASIC synthesis、timing closure 相關工作。\n6. 與後端團隊合作，確保設計符合時序與面積要求。\n7. 撰寫設計與驗證文件，確保可維護性與可重複使用性。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "必要條件：\n• 熟悉 Verilog RTL 設計。\n• 具 communication/DSP 概念與演算法實作經驗。\n• 熟悉基本硬體設計流程 (Simulation, Synthesis, STA, Lint)。\n• 具備 VCS / Synopsys / Cadence 相關工具操作經驗。\n• 具良好團隊合作與問題解決能力。\n加分條件：\n• 具 FPGA prototyping 或 ASIC flow 經驗。\n• 熟悉Python以協助演算法分析與驗證。\n• 具 pipeline、fixed-point arithmetic、low-power design 經驗。\n• 熟悉PCIe protocol。\n• 具 SystemVerilog UVM 驗證觀念或實務經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關\n其他條件：必要條件：\n• 熟悉 Verilog RTL 設計。\n• 具 communication/DSP 概念與演算法實作經驗。\n• 熟悉基本硬體設計流程 (Simulation, Synthesis, STA, Lint)。\n• 具備 VCS / Synopsys / Cadence 相關工具操作經驗。\n• 具良好團隊合作與問題解決能力。\n加分條件：\n• 具 FPGA prototyping 或 ASIC flow 經驗。\n• 熟悉Python以協助演算法分析與驗證。\n• 具 pipeline、fixed-point arithmetic、low-power design 經驗。\n• 熟悉PCIe protocol。\n• 具 SystemVerilog UVM 驗證觀念或實務經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8w4bt",
+    "job_url": "https://www.104.com.tw/job/8w4bt",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8w4bt.json",
+    "raw_sha256": "df2ed0efe5ab8d577d4d32d789bf6b285c4798ba0939d6b7454153f0408a1889",
+    "requested_url": "https://www.104.com.tw/api/jobs/8w4bt"
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "company": {
+    "id": "oidh20g",
+    "name": "華光工程顧問股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "MIS程式設計師"
+    ],
+    "description": {
+      "items": [],
+      "text": "公司內部管理資訊系統之程式開發與系統設計。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊工程師-行政室"
+  },
+  "location": {
+    "address_raw": "台北市內湖區",
+    "raw": "台北市內湖區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "土木工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、土木工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "Visual Basic .net",
+          "ASP.NET",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Visual Basic .net、ASP.NET、MS SQL"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "具備.NET 5.0以上、.NET Framwork(C#、VB.NET程式語言)、ASP.Net開發平台、MVC架構及SQL Server等系統開發技術，具備雲端應用開發或物件導向之分析與設計能力尤佳。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "土木工程相關"
+    ],
+    "other_text": "具備.NET 5.0以上、.NET Framwork(C#、VB.NET程式語言)、ASP.Net開發平台、MVC架構及SQL Server等系統開發技術，具備雲端應用開發或物件導向之分析與設計能力尤佳。",
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、土木工程相關\n語文條件：英文：略懂、略懂、中等、中等\n擅長工具：C#、Visual Basic .net、ASP.NET、MS SQL\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發\n其他條件：具備.NET 5.0以上、.NET Framwork(C#、VB.NET程式語言)、ASP.Net開發平台、MVC架構及SQL Server等系統開發技術，具備雲端應用開發或物件導向之分析與設計能力尤佳。",
+    "tools": [
+      "C#",
+      "Visual Basic .net",
+      "ASP.NET",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 17
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:02:32+08:00"
+  },
+  "salary": {
+    "raw": "月薪46,900元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "公司內部管理資訊系統之程式開發與系統設計。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "MIS程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、MIS程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪46,900元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "公司內部管理資訊系統之程式開發與系統設計。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "土木工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、土木工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Visual Basic .net",
+            "ASP.NET",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Visual Basic .net、ASP.NET、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "具備.NET 5.0以上、.NET Framwork(C#、VB.NET程式語言)、ASP.Net開發平台、MVC架構及SQL Server等系統開發技術，具備雲端應用開發或物件導向之分析與設計能力尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、土木工程相關\n語文條件：英文：略懂、略懂、中等、中等\n擅長工具：C#、Visual Basic .net、ASP.NET、MS SQL\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發\n其他條件：具備.NET 5.0以上、.NET Framwork(C#、VB.NET程式語言)、ASP.Net開發平台、MVC架構及SQL Server等系統開發技術，具備雲端應用開發或物件導向之分析與設計能力尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92izv",
+    "job_url": "https://www.104.com.tw/job/92izv",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92izv.json",
+    "raw_sha256": "fcd6f4ab811af4b4bb393c37d6ffc41a4582f3ef954fa8b9773374d2b320b3ca",
+    "requested_url": "https://www.104.com.tw/api/jobs/92izv"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "company": {
+    "id": "nw2a9wx",
+    "name": "中山醫學大學附設醫院"
+  },
+  "job": {
+    "categories": [
+      "資料庫管理人員",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "1年以上資料庫管理經驗"
+        },
+        {
+          "children": [],
+          "text": "工具：MSSQL / Postgresql"
+        },
+        {
+          "children": [],
+          "text": "SQL 與性能調校，精通 T-SQL"
+        },
+        {
+          "children": [],
+          "text": "資料安全合規"
+        },
+        {
+          "children": [],
+          "text": "溝通協作能力"
+        }
+      ],
+      "text": "【職務需求】\n1. 1年以上資料庫管理經驗\n具備資料庫管理與開發經驗。\n2. 工具：MSSQL / Postgresql\n3. SQL 與性能調校，精通 T-SQL\n能撰寫複雜查詢、Stored Procedure、View，並執行索引與查詢優化。\n4.資料安全合規\n了解醫療資料法規（HIPAA、GDPR）與去識別化技術。\n5.溝通協作能力\n良好文件撰寫與跨部門溝通能力，能將技術細節轉化為團隊可理解的方案。\n中心介紹資訊 https://aic-csh.org/"
+    },
+    "employment_type_raw": "全職",
+    "title": "人工智慧中心-研發工程師(資料庫)"
+  },
+  "location": {
+    "address_raw": "台中市南區建國北路一段110號",
+    "raw": "台中市南區建國北路一段110號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "PostgreSQL"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、PostgreSQL"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【職務需求】\n1.可獨立執行工作內容\n2.可將問題轉換為非資訊背景也可理解之語言與臨床單位溝通\n3.熟悉資料庫的指令操作\n4.做事謹慎細心，對自己提供之資料正確性負責\n5.抗壓性強"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "【職務需求】\n1.可獨立執行工作內容\n2.可將問題轉換為非資訊背景也可理解之語言與臨床單位溝通\n3.熟悉資料庫的指令操作\n4.做事謹慎細心，對自己提供之資料正確性負責\n5.抗壓性強",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：MS SQL、PostgreSQL\n其他條件：【職務需求】\n1.可獨立執行工作內容\n2.可將問題轉換為非資訊背景也可理解之語言與臨床單位溝通\n3.熟悉資料庫的指令操作\n4.做事謹慎細心，對自己提供之資料正確性負責\n5.抗壓性強",
+    "tools": [
+      "MS SQL",
+      "PostgreSQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 49
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:21:27+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職務需求】\n1. 1年以上資料庫管理經驗\n具備資料庫管理與開發經驗。\n2. 工具：MSSQL / Postgresql\n3. SQL 與性能調校，精通 T-SQL\n能撰寫複雜查詢、Stored Procedure、View，並執行索引與查詢優化。\n4.資料安全合規\n了解醫療資料法規（HIPAA、GDPR）與去識別化技術。\n5.溝通協作能力\n良好文件撰寫與跨部門溝通能力，能將技術細節轉化為團隊可理解的方案。\n中心介紹資訊 https://aic-csh.org/",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料庫管理人員",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料庫管理人員、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市南區建國北路一段110號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職務需求】\n1. 1年以上資料庫管理經驗\n具備資料庫管理與開發經驗。\n2. 工具：MSSQL / Postgresql\n3. SQL 與性能調校，精通 T-SQL\n能撰寫複雜查詢、Stored Procedure、View，並執行索引與查詢優化。\n4.資料安全合規\n了解醫療資料法規（HIPAA、GDPR）與去識別化技術。\n5.溝通協作能力\n良好文件撰寫與跨部門溝通能力，能將技術細節轉化為團隊可理解的方案。\n中心介紹資訊 https://aic-csh.org/"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "PostgreSQL"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、PostgreSQL",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【職務需求】\n1.可獨立執行工作內容\n2.可將問題轉換為非資訊背景也可理解之語言與臨床單位溝通\n3.熟悉資料庫的指令操作\n4.做事謹慎細心，對自己提供之資料正確性負責\n5.抗壓性強",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：MS SQL、PostgreSQL\n其他條件：【職務需求】\n1.可獨立執行工作內容\n2.可將問題轉換為非資訊背景也可理解之語言與臨床單位溝通\n3.熟悉資料庫的指令操作\n4.做事謹慎細心，對自己提供之資料正確性負責\n5.抗壓性強"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8d1n5",
+    "job_url": "https://www.104.com.tw/job/8d1n5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8d1n5.json",
+    "raw_sha256": "c83a8fe27d11c7c0ddc497a1281d0b4fb79a696c91ce0cc00eaef21e7209ee67",
+    "requested_url": "https://www.104.com.tw/api/jobs/8d1n5"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "company": {
+    "id": "aqae7i0",
+    "name": "光寶科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計、開發及維護企業 AI 平台與相關服務"
+        },
+        {
+          "children": [],
+          "text": "將 AI 與數位技術導入工程流程，提升研發、生產力及知識管理效率"
+        },
+        {
+          "children": [],
+          "text": "建立與優化 CI/CD、自動化測試及 DevOps 流程，提升開發效率與軟體品質"
+        },
+        {
+          "children": [],
+          "text": "整合工程文件、程式碼及其他資料來源，提升 AI 應用品質"
+        },
+        {
+          "children": [],
+          "text": "持續研究 AI、軟體工程及數位技術的新趨勢"
+        },
+        {
+          "children": [],
+          "text": "熟悉Python、Git、REST API、Docker與CI/CD"
+        },
+        {
+          "children": [],
+          "text": "具備AI/LLM應用開發經驗 (RAG、AI Agents、Prompt Engineering)"
+        },
+        {
+          "children": [],
+          "text": "具備資料處理、ETL pipeline或知識平台建置經驗"
+        },
+        {
+          "children": [],
+          "text": "能設計、開發與維護可擴充、可維運的AI平台與數位化解決方案"
+        },
+        {
+          "children": [],
+          "text": "充足的升遷、學習及成長機會，和光寶一同成長。"
+        },
+        {
+          "children": [],
+          "text": "具有競爭力的薪酬、獎金及福利待遇。"
+        },
+        {
+          "children": [],
+          "text": "充滿活力的工作環境、開放的企業文化和豐富的員工活動。"
+        }
+      ],
+      "text": "我們是全球知名的AI伺服器電源領域的專家，在雲端運算電源憑藉著先進的電源管理實力，並以Green Data Centers為成長引擎，立基全球。\n現在，我們正在尋找一位韌體設計工程師，加入我們的精英團隊。你將會從事下列工作：\n【工作職責】\n1. 設計、開發及維護企業 AI 平台與相關服務\n2. 將 AI 與數位技術導入工程流程，提升研發、生產力及知識管理效率\n3. 建立與優化 CI/CD、自動化測試及 DevOps 流程，提升開發效率與軟體品質\n4. 整合工程文件、程式碼及其他資料來源，提升 AI 應用品質\n5. 持續研究 AI、軟體工程及數位技術的新趨勢\n【職務要求】\n1. 熟悉Python、Git、REST API、Docker與CI/CD\n2. 具備AI/LLM應用開發經驗 (RAG、AI Agents、Prompt Engineering)\n3. 具備資料處理、ETL pipeline或知識平台建置經驗\n4. 能設計、開發與維護可擴充、可維運的AI平台與數位化解決方案\n【我們提供】\n•充足的升遷、學習及成長機會，和光寶一同成長。\n•具有競爭力的薪酬、獎金及福利待遇。\n•充滿活力的工作環境、開放的企業文化和豐富的員工活動。\n加入我們，你將與頂尖技術人才合作，扎實提升自己的技能，為業務做出實際貢獻並展開充滿激情的事業之旅。如果你對此職缺感興趣並符合以上要求，請立即投遞簡歷，我們期待你的加入！"
+    },
+    "employment_type_raw": "全職",
+    "title": "【PowerUp!】AI & Digital Engineering Engineer(中和-ENT) 雲端基礎設施系統與平台事業群"
+  },
+  "location": {
+    "address_raw": "新北市中和區建一路90號",
+    "raw": "新北市中和區建一路90號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "電機電子維護相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子維護相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "SDLC",
+          "Github",
+          "Git",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、SDLC、Github、Git、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Required\n- Python\n- Git / GitHub\n- REST API\n- Linux、Docker\n- SDLC\n- CI/CD\n- LLM / RAG / AI Agent (至少一項)\nPreferred\n- Azure\n- Kubernetes\n- ETL\n- Vector Database\n- MCP\n- Firmware / Embedded System"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子維護相關",
+      "資訊工程相關"
+    ],
+    "other_text": "Required\n- Python\n- Git / GitHub\n- REST API\n- Linux、Docker\n- SDLC\n- CI/CD\n- LLM / RAG / AI Agent (至少一項)\nPreferred\n- Azure\n- Kubernetes\n- ETL\n- Vector Database\n- MCP\n- Firmware / Embedded System",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子維護相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、SDLC、Github、Git、Python\n其他條件：Required\n- Python\n- Git / GitHub\n- REST API\n- Linux、Docker\n- SDLC\n- CI/CD\n- LLM / RAG / AI Agent (至少一項)\nPreferred\n- Azure\n- Kubernetes\n- ETL\n- Vector Database\n- MCP\n- Firmware / Embedded System",
+    "tools": [
+      "Linux",
+      "SDLC",
+      "Github",
+      "Git",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 9
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:43:47+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們是全球知名的AI伺服器電源領域的專家，在雲端運算電源憑藉著先進的電源管理實力，並以Green Data Centers為成長引擎，立基全球。\n現在，我們正在尋找一位韌體設計工程師，加入我們的精英團隊。你將會從事下列工作：\n【工作職責】\n1. 設計、開發及維護企業 AI 平台與相關服務\n2. 將 AI 與數位技術導入工程流程，提升研發、生產力及知識管理效率\n3. 建立與優化 CI/CD、自動化測試及 DevOps 流程，提升開發效率與軟體品質\n4. 整合工程文件、程式碼及其他資料來源，提升 AI 應用品質\n5. 持續研究 AI、軟體工程及數位技術的新趨勢\n【職務要求】\n1. 熟悉Python、Git、REST API、Docker與CI/CD\n2. 具備AI/LLM應用開發經驗 (RAG、AI Agents、Prompt Engineering)\n3. 具備資料處理、ETL pipeline或知識平台建置經驗\n4. 能設計、開發與維護可擴充、可維運的AI平台與數位化解決方案\n【我們提供】\n•充足的升遷、學習及成長機會，和光寶一同成長。\n•具有競爭力的薪酬、獎金及福利待遇。\n•充滿活力的工作環境、開放的企業文化和豐富的員工活動。\n加入我們，你將與頂尖技術人才合作，扎實提升自己的技能，為業務做出實際貢獻並展開充滿激情的事業之旅。如果你對此職缺感興趣並符合以上要求，請立即投遞簡歷，我們期待你的加入！",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區建一路90號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們是全球知名的AI伺服器電源領域的專家，在雲端運算電源憑藉著先進的電源管理實力，並以Green Data Centers為成長引擎，立基全球。\n現在，我們正在尋找一位韌體設計工程師，加入我們的精英團隊。你將會從事下列工作：\n【工作職責】\n1. 設計、開發及維護企業 AI 平台與相關服務\n2. 將 AI 與數位技術導入工程流程，提升研發、生產力及知識管理效率\n3. 建立與優化 CI/CD、自動化測試及 DevOps 流程，提升開發效率與軟體品質\n4. 整合工程文件、程式碼及其他資料來源，提升 AI 應用品質\n5. 持續研究 AI、軟體工程及數位技術的新趨勢\n【職務要求】\n1. 熟悉Python、Git、REST API、Docker與CI/CD\n2. 具備AI/LLM應用開發經驗 (RAG、AI Agents、Prompt Engineering)\n3. 具備資料處理、ETL pipeline或知識平台建置經驗\n4. 能設計、開發與維護可擴充、可維運的AI平台與數位化解決方案\n【我們提供】\n•充足的升遷、學習及成長機會，和光寶一同成長。\n•具有競爭力的薪酬、獎金及福利待遇。\n•充滿活力的工作環境、開放的企業文化和豐富的員工活動。\n加入我們，你將與頂尖技術人才合作，扎實提升自己的技能，為業務做出實際貢獻並展開充滿激情的事業之旅。如果你對此職缺感興趣並符合以上要求，請立即投遞簡歷，我們期待你的加入！"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子維護相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子維護相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "SDLC",
+            "Github",
+            "Git",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、SDLC、Github、Git、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Required\n- Python\n- Git / GitHub\n- REST API\n- Linux、Docker\n- SDLC\n- CI/CD\n- LLM / RAG / AI Agent (至少一項)\nPreferred\n- Azure\n- Kubernetes\n- ETL\n- Vector Database\n- MCP\n- Firmware / Embedded System",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子維護相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、SDLC、Github、Git、Python\n其他條件：Required\n- Python\n- Git / GitHub\n- REST API\n- Linux、Docker\n- SDLC\n- CI/CD\n- LLM / RAG / AI Agent (至少一項)\nPreferred\n- Azure\n- Kubernetes\n- ETL\n- Vector Database\n- MCP\n- Firmware / Embedded System"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94lh2",
+    "job_url": "https://www.104.com.tw/job/94lh2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94lh2.json",
+    "raw_sha256": "5682fe99afd3a0e228654fd265b6d3db576d38b8ff9b926b9e54ac1395eb71e2",
+    "requested_url": "https://www.104.com.tw/api/jobs/94lh2"
+  }
+}

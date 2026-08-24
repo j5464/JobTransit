@@ -1,0 +1,271 @@
+{
+  "company": {
+    "id": "1a2x6bmutz",
+    "name": "奕界科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師",
+      "遊戲工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Collaborate with product managers, designers, and developers to ensure product quality throughout the development lifecycle."
+        },
+        {
+          "children": [],
+          "text": "Design, execute, and maintain clear and effective test cases to ensure comprehensive coverage."
+        },
+        {
+          "children": [],
+          "text": "Identify, track, and analyze issues; reproduce bugs and provide actionable feedback for resolution."
+        },
+        {
+          "children": [],
+          "text": "Contribute to test planning, test strategies, and release validation processes."
+        },
+        {
+          "children": [],
+          "text": "Document testing processes and promote best practices across the team."
+        },
+        {
+          "children": [],
+          "text": "Continuously improve testing methods, tools, and workflows."
+        },
+        {
+          "children": [],
+          "text": "(For senior candidates) Mentor team members and help drive QA standards and process improvements."
+        },
+        {
+          "children": [],
+          "text": "Experience in software testing (Game, Web, API)."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with test management tools such as Jira, TestRail, or similar."
+        },
+        {
+          "children": [],
+          "text": "Experience in test case design and test documentation."
+        },
+        {
+          "children": [],
+          "text": "Understanding of testing methodologies (e.g., boundary testing, risk-based testing)."
+        },
+        {
+          "children": [],
+          "text": "Strong communication, problem-solving skills, and proactive mindset."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in both English and Chinese, written and spoken."
+        },
+        {
+          "children": [],
+          "text": "(For senior candidates) Experience in at least one advanced area such as test automation, performance testing, or system-level testing."
+        }
+      ],
+      "text": "We're seeking a QA tester to ensure the quality and reliability of our game development, including server-side logic, databases, and client-side admin interfaces. If you're experienced in testing, fluent in English, and ready to join an exciting project, we'd love to have you on our team!\n#Responsibilities\n1. Collaborate with product managers, designers, and developers to ensure product quality throughout the development lifecycle.\n2. Design, execute, and maintain clear and effective test cases to ensure comprehensive coverage.\n3. Identify, track, and analyze issues; reproduce bugs and provide actionable feedback for resolution.\n4. Contribute to test planning, test strategies, and release validation processes.\n5. Document testing processes and promote best practices across the team.\n6. Continuously improve testing methods, tools, and workflows.\n7. (For senior candidates) Mentor team members and help drive QA standards and process improvements.\n# Qualifications\n1. Experience in software testing (Game, Web, API).\nJunior/Mid-level: 1+ years or strong interest in pursuing a QA career\nSenior: 6+ years of relevant experience\n2. Familiarity with test management tools such as Jira, TestRail, or similar.\n3. Experience in test case design and test documentation.\n4. Understanding of testing methodologies (e.g., boundary testing, risk-based testing).\n5. Strong communication, problem-solving skills, and proactive mindset.\n6. Proficiency in both English and Chinese, written and spoken.\n7. (For senior candidates) Experience in at least one advanced area such as test automation, performance testing, or system-level testing.\n/* Title and compensation will be determined based on experience and qualifications. */"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體測試工程師 / Software QA Tester / Software QA Engineer (Junior to Senior)"
+  },
+  "location": {
+    "address_raw": "台北市中正區仁愛路二段99號",
+    "raw": "台北市中正區仁愛路二段99號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "中文：中等、中等、中等、中等",
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "中文：中等、中等、中等、中等\n英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "軟體品質與保證",
+          "功能測試(function test)",
+          "安全性測試(Security test)",
+          "使用者測試(Usability test)",
+          "問題追蹤處理(Bug tracking)",
+          "軟體整合測試",
+          "壓力測試(stress test)",
+          "測試計劃及測試報告書撰寫"
+        ],
+        "label": "工作技能",
+        "text": "軟體品質與保證、功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、壓力測試(stress test)、測試計劃及測試報告書撰寫"
+      }
+    ],
+    "languages": [
+      "中文：中等、中等、中等、中等",
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體品質與保證",
+      "功能測試(function test)",
+      "安全性測試(Security test)",
+      "使用者測試(Usability test)",
+      "問題追蹤處理(Bug tracking)",
+      "軟體整合測試",
+      "壓力測試(stress test)",
+      "測試計劃及測試報告書撰寫"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n語文條件：中文：中等、中等、中等、中等\n英文：精通、精通、精通、精通\n工作技能：軟體品質與保證、功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、壓力測試(stress test)、測試計劃及測試報告書撰寫",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:03:50+08:00"
+  },
+  "salary": {
+    "raw": "年薪520,000~1,430,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We're seeking a QA tester to ensure the quality and reliability of our game development, including server-side logic, databases, and client-side admin interfaces. If you're experienced in testing, fluent in English, and ready to join an exciting project, we'd love to have you on our team!\n#Responsibilities\n1. Collaborate with product managers, designers, and developers to ensure product quality throughout the development lifecycle.\n2. Design, execute, and maintain clear and effective test cases to ensure comprehensive coverage.\n3. Identify, track, and analyze issues; reproduce bugs and provide actionable feedback for resolution.\n4. Contribute to test planning, test strategies, and release validation processes.\n5. Document testing processes and promote best practices across the team.\n6. Continuously improve testing methods, tools, and workflows.\n7. (For senior candidates) Mentor team members and help drive QA standards and process improvements.\n# Qualifications\n1. Experience in software testing (Game, Web, API).\nJunior/Mid-level: 1+ years or strong interest in pursuing a QA career\nSenior: 6+ years of relevant experience\n2. Familiarity with test management tools such as Jira, TestRail, or similar.\n3. Experience in test case design and test documentation.\n4. Understanding of testing methodologies (e.g., boundary testing, risk-based testing).\n5. Strong communication, problem-solving skills, and proactive mindset.\n6. Proficiency in both English and Chinese, written and spoken.\n7. (For senior candidates) Experience in at least one advanced area such as test automation, performance testing, or system-level testing.\n/* Title and compensation will be determined based on experience and qualifications. */",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師",
+            "遊戲工程師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師、遊戲工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪520,000~1,430,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區仁愛路二段99號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We're seeking a QA tester to ensure the quality and reliability of our game development, including server-side logic, databases, and client-side admin interfaces. If you're experienced in testing, fluent in English, and ready to join an exciting project, we'd love to have you on our team!\n#Responsibilities\n1. Collaborate with product managers, designers, and developers to ensure product quality throughout the development lifecycle.\n2. Design, execute, and maintain clear and effective test cases to ensure comprehensive coverage.\n3. Identify, track, and analyze issues; reproduce bugs and provide actionable feedback for resolution.\n4. Contribute to test planning, test strategies, and release validation processes.\n5. Document testing processes and promote best practices across the team.\n6. Continuously improve testing methods, tools, and workflows.\n7. (For senior candidates) Mentor team members and help drive QA standards and process improvements.\n# Qualifications\n1. Experience in software testing (Game, Web, API).\nJunior/Mid-level: 1+ years or strong interest in pursuing a QA career\nSenior: 6+ years of relevant experience\n2. Familiarity with test management tools such as Jira, TestRail, or similar.\n3. Experience in test case design and test documentation.\n4. Understanding of testing methodologies (e.g., boundary testing, risk-based testing).\n5. Strong communication, problem-solving skills, and proactive mindset.\n6. Proficiency in both English and Chinese, written and spoken.\n7. (For senior candidates) Experience in at least one advanced area such as test automation, performance testing, or system-level testing.\n/* Title and compensation will be determined based on experience and qualifications. */"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "中文：中等、中等、中等、中等",
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "中文：中等、中等、中等、中等\n英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體品質與保證",
+            "功能測試(function test)",
+            "安全性測試(Security test)",
+            "使用者測試(Usability test)",
+            "問題追蹤處理(Bug tracking)",
+            "軟體整合測試",
+            "壓力測試(stress test)",
+            "測試計劃及測試報告書撰寫"
+          ],
+          "label": "工作技能",
+          "text": "軟體品質與保證、功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、壓力測試(stress test)、測試計劃及測試報告書撰寫",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n語文條件：中文：中等、中等、中等、中等\n英文：精通、精通、精通、精通\n工作技能：軟體品質與保證、功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、壓力測試(stress test)、測試計劃及測試報告書撰寫"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8i5fa",
+    "job_url": "https://www.104.com.tw/job/8i5fa",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8i5fa.json",
+    "raw_sha256": "d7d4c678b8ad09f169395eb52907d2d9b46030771e92e6a194fc6ffe4f0ad2c3",
+    "requested_url": "https://www.104.com.tw/api/jobs/8i5fa"
+  }
+}

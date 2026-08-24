@@ -1,0 +1,240 @@
+{
+  "company": {
+    "id": "1a2x6bi7ot",
+    "name": "蘋果世界股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "MIS程式設計師",
+      "資料庫管理人員",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉php8以上語言，能熟練構建Web平臺項目"
+        },
+        {
+          "children": [],
+          "text": "精通MySQL，具備架構和優化的經驗和技巧"
+        },
+        {
+          "children": [],
+          "text": "負責各項資訊專案或需求功能開發，包括系統設計、程式開發、專案維護等"
+        },
+        {
+          "children": [],
+          "text": "具有JavaScript、HTML5、CSS3、jQuery、XML、RWD等基本Web開發技術，熟悉前後端分離，有相關介面設計及開發經驗"
+        },
+        {
+          "children": [],
+          "text": "API接口與後端管理系統開發、維護管理"
+        },
+        {
+          "children": [],
+          "text": "AI技術串接及開發"
+        },
+        {
+          "children": [],
+          "text": "具備良好的程式設計習慣及較強的文檔編寫能力"
+        },
+        {
+          "children": [],
+          "text": "有良好的溝通、協調能力和學習能力，對工作積極有抗壓性"
+        },
+        {
+          "children": [],
+          "text": "需攜帶作品面試"
+        }
+      ],
+      "text": "＊＊＊目前全面採視訊面試＊＊＊\n1.熟悉php8以上語言，能熟練構建Web平臺項目\n2.精通MySQL，具備架構和優化的經驗和技巧\n3.負責各項資訊專案或需求功能開發，包括系統設計、程式開發、專案維護等\n4.具有JavaScript、HTML5、CSS3、jQuery、XML、RWD等基本Web開發技術，熟悉前後端分離，有相關介面設計及開發經驗\n5.API接口與後端管理系統開發、維護管理\n6.AI技術串接及開發\n7.具備良好的程式設計習慣及較強的文檔編寫能力\n8.有良好的溝通、協調能力和學習能力，對工作積極有抗壓性\n9.需攜帶作品面試\n如果能有自信迎接這樣的挑戰！\n！請從Google搜尋「網頁設計蘋果優化」進入官網後到人才專區預約我們要會談的時間並將履歷投於104\n＊＊＊目前全面採視訊面試＊＊＊"
+    },
+    "employment_type_raw": "全職",
+    "title": "網站工程師"
+  },
+  "location": {
+    "address_raw": "台南市北區西門路四段533巷77號",
+    "raw": "台南市北區西門路四段533巷77號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "PHP",
+          "MySQL",
+          "Dreamweaver",
+          "HTML",
+          "JavaScript",
+          "jQuery",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "PHP、MySQL、Dreamweaver、HTML、JavaScript、jQuery、CSS"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "結構化程式設計",
+          "模組化系統設計",
+          "系統架構規劃",
+          "伺服器網站管理維護",
+          "資料庫程式設計",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、結構化程式設計、模組化系統設計、系統架構規劃、伺服器網站管理維護、資料庫程式設計、軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "結構化程式設計",
+      "模組化系統設計",
+      "系統架構規劃",
+      "伺服器網站管理維護",
+      "資料庫程式設計",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：PHP、MySQL、Dreamweaver、HTML、JavaScript、jQuery、CSS\n工作技能：軟體工程系統開發、結構化程式設計、模組化系統設計、系統架構規劃、伺服器網站管理維護、資料庫程式設計、軟體程式設計",
+    "tools": [
+      "PHP",
+      "MySQL",
+      "Dreamweaver",
+      "HTML",
+      "JavaScript",
+      "jQuery",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 47
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:17:56+08:00"
+  },
+  "salary": {
+    "raw": "月薪100,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "＊＊＊目前全面採視訊面試＊＊＊\n1.熟悉php8以上語言，能熟練構建Web平臺項目\n2.精通MySQL，具備架構和優化的經驗和技巧\n3.負責各項資訊專案或需求功能開發，包括系統設計、程式開發、專案維護等\n4.具有JavaScript、HTML5、CSS3、jQuery、XML、RWD等基本Web開發技術，熟悉前後端分離，有相關介面設計及開發經驗\n5.API接口與後端管理系統開發、維護管理\n6.AI技術串接及開發\n7.具備良好的程式設計習慣及較強的文檔編寫能力\n8.有良好的溝通、協調能力和學習能力，對工作積極有抗壓性\n9.需攜帶作品面試\n如果能有自信迎接這樣的挑戰！\n！請從Google搜尋「網頁設計蘋果優化」進入官網後到人才專區預約我們要會談的時間並將履歷投於104\n＊＊＊目前全面採視訊面試＊＊＊",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MIS程式設計師",
+            "資料庫管理人員",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "MIS程式設計師、資料庫管理人員、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪100,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市北區西門路四段533巷77號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "＊＊＊目前全面採視訊面試＊＊＊\n1.熟悉php8以上語言，能熟練構建Web平臺項目\n2.精通MySQL，具備架構和優化的經驗和技巧\n3.負責各項資訊專案或需求功能開發，包括系統設計、程式開發、專案維護等\n4.具有JavaScript、HTML5、CSS3、jQuery、XML、RWD等基本Web開發技術，熟悉前後端分離，有相關介面設計及開發經驗\n5.API接口與後端管理系統開發、維護管理\n6.AI技術串接及開發\n7.具備良好的程式設計習慣及較強的文檔編寫能力\n8.有良好的溝通、協調能力和學習能力，對工作積極有抗壓性\n9.需攜帶作品面試\n如果能有自信迎接這樣的挑戰！\n！請從Google搜尋「網頁設計蘋果優化」進入官網後到人才專區預約我們要會談的時間並將履歷投於104\n＊＊＊目前全面採視訊面試＊＊＊"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PHP",
+            "MySQL",
+            "Dreamweaver",
+            "HTML",
+            "JavaScript",
+            "jQuery",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "PHP、MySQL、Dreamweaver、HTML、JavaScript、jQuery、CSS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "結構化程式設計",
+            "模組化系統設計",
+            "系統架構規劃",
+            "伺服器網站管理維護",
+            "資料庫程式設計",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、結構化程式設計、模組化系統設計、系統架構規劃、伺服器網站管理維護、資料庫程式設計、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：PHP、MySQL、Dreamweaver、HTML、JavaScript、jQuery、CSS\n工作技能：軟體工程系統開發、結構化程式設計、模組化系統設計、系統架構規劃、伺服器網站管理維護、資料庫程式設計、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8qqxx",
+    "job_url": "https://www.104.com.tw/job/8qqxx",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8qqxx.json",
+    "raw_sha256": "3894bbea2e4e5b63b25f710c56095b476885a3532e5f4a947983d0105082899b",
+    "requested_url": "https://www.104.com.tw/api/jobs/8qqxx"
+  }
+}

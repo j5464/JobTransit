@@ -1,0 +1,224 @@
+{
+  "company": {
+    "id": "1a2x6blv7o",
+    "name": "英屬維京群島商京永股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統分析師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助分析SAP使用者問題，找出真正原因並提出改善方案。"
+        },
+        {
+          "children": [],
+          "text": "協助系統流程改善與優化，訪談使用者需求，整理流程並提出可行解決方案。"
+        },
+        {
+          "children": [],
+          "text": "協助SAP五大模組日常維運與問題排除。"
+        },
+        {
+          "children": [],
+          "text": "SAP客製程式(ABAP)閱讀、修改與開發。"
+        },
+        {
+          "children": [],
+          "text": "撰寫功能規格、測試案例及操作文件。"
+        },
+        {
+          "children": [],
+          "text": "必要時協助分析SAP Table、SQL與資料異常。"
+        }
+      ],
+      "text": "1.協助分析SAP使用者問題，找出真正原因並提出改善方案。\n2.協助系統流程改善與優化，訪談使用者需求，整理流程並提出可行解決方案。\n3.協助SAP五大模組日常維運與問題排除。\n4.SAP客製程式(ABAP)閱讀、修改與開發。\n5.撰寫功能規格、測試案例及操作文件。\n6.必要時協助分析SAP Table、SQL與資料異常。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊SAP ERP專員"
+  },
+  "location": {
+    "address_raw": "台中市西屯區市政路386號35樓之7",
+    "raw": "台中市西屯區市政路386號35樓之7"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "鼎新",
+          "SAP",
+          "JavaScript",
+          "ABAP"
+        ],
+        "label": "擅長工具",
+        "text": "鼎新、SAP、JavaScript、ABAP"
+      },
+      {
+        "items": [
+          "資料庫系統管理維護",
+          "資料庫程式設計",
+          "資料庫軟體應用",
+          "報表開發",
+          "系統整合分析"
+        ],
+        "label": "工作技能",
+        "text": "資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、報表開發、系統整合分析"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉SAP任一模組(MM、PP、SD、FI、CO)\n2.具備ABAP基本開發或閱讀能力，並了解User Exit、BAdI、Enhancement\n3.能獨立分析問題並持續追查原因，而不是只等待別人告訴你答案\n4.具有良好的邏輯思考能力\n5.願意與使用者溝通並理解真正需求\n6.具有ERP導入或流程改善經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1.熟悉SAP任一模組(MM、PP、SD、FI、CO)\n2.具備ABAP基本開發或閱讀能力，並了解User Exit、BAdI、Enhancement\n3.能獨立分析問題並持續追查原因，而不是只等待別人告訴你答案\n4.具有良好的邏輯思考能力\n5.願意與使用者溝通並理解真正需求\n6.具有ERP導入或流程改善經驗",
+    "skills": [
+      "資料庫系統管理維護",
+      "資料庫程式設計",
+      "資料庫軟體應用",
+      "報表開發",
+      "系統整合分析"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：鼎新、SAP、JavaScript、ABAP\n工作技能：資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、報表開發、系統整合分析\n其他條件：1.熟悉SAP任一模組(MM、PP、SD、FI、CO)\n2.具備ABAP基本開發或閱讀能力，並了解User Exit、BAdI、Enhancement\n3.能獨立分析問題並持續追查原因，而不是只等待別人告訴你答案\n4.具有良好的邏輯思考能力\n5.願意與使用者溝通並理解真正需求\n6.具有ERP導入或流程改善經驗",
+    "tools": [
+      "鼎新",
+      "SAP",
+      "JavaScript",
+      "ABAP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 35
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:48:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.協助分析SAP使用者問題，找出真正原因並提出改善方案。\n2.協助系統流程改善與優化，訪談使用者需求，整理流程並提出可行解決方案。\n3.協助SAP五大模組日常維運與問題排除。\n4.SAP客製程式(ABAP)閱讀、修改與開發。\n5.撰寫功能規格、測試案例及操作文件。\n6.必要時協助分析SAP Table、SQL與資料異常。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統分析師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統分析師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區市政路386號35樓之7",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.協助分析SAP使用者問題，找出真正原因並提出改善方案。\n2.協助系統流程改善與優化，訪談使用者需求，整理流程並提出可行解決方案。\n3.協助SAP五大模組日常維運與問題排除。\n4.SAP客製程式(ABAP)閱讀、修改與開發。\n5.撰寫功能規格、測試案例及操作文件。\n6.必要時協助分析SAP Table、SQL與資料異常。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "鼎新",
+            "SAP",
+            "JavaScript",
+            "ABAP"
+          ],
+          "label": "擅長工具",
+          "text": "鼎新、SAP、JavaScript、ABAP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料庫系統管理維護",
+            "資料庫程式設計",
+            "資料庫軟體應用",
+            "報表開發",
+            "系統整合分析"
+          ],
+          "label": "工作技能",
+          "text": "資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、報表開發、系統整合分析",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉SAP任一模組(MM、PP、SD、FI、CO)\n2.具備ABAP基本開發或閱讀能力，並了解User Exit、BAdI、Enhancement\n3.能獨立分析問題並持續追查原因，而不是只等待別人告訴你答案\n4.具有良好的邏輯思考能力\n5.願意與使用者溝通並理解真正需求\n6.具有ERP導入或流程改善經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：鼎新、SAP、JavaScript、ABAP\n工作技能：資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、報表開發、系統整合分析\n其他條件：1.熟悉SAP任一模組(MM、PP、SD、FI、CO)\n2.具備ABAP基本開發或閱讀能力，並了解User Exit、BAdI、Enhancement\n3.能獨立分析問題並持續追查原因，而不是只等待別人告訴你答案\n4.具有良好的邏輯思考能力\n5.願意與使用者溝通並理解真正需求\n6.具有ERP導入或流程改善經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8szkw",
+    "job_url": "https://www.104.com.tw/job/8szkw",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8szkw.json",
+    "raw_sha256": "9c75450a91c46c92333c6c53a12183af025275a1ba7459e49f63dbd5b5a9a81a",
+    "requested_url": "https://www.104.com.tw/api/jobs/8szkw"
+  }
+}

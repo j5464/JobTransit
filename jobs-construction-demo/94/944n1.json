@@ -1,0 +1,190 @@
+{
+  "company": {
+    "id": "5wp49rs",
+    "name": "威剛科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "網頁設計師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責企業網站、CMS 及 Web 應用系統的前後端開發與維護。"
+        },
+        {
+          "children": [],
+          "text": "根據產品需求進行系統分析、架構設計、API 開發及資料庫設計。"
+        },
+        {
+          "children": [],
+          "text": "與 UI/UX、Marketing、IT 及外部開發團隊合作，確保專案如期交付。"
+        },
+        {
+          "children": [],
+          "text": "擔任技術窗口，協助需求訪談、時程規劃、風險管理及跨部門溝通。"
+        },
+        {
+          "children": [],
+          "text": "管理外包開發廠商，追蹤專案進度與品質。"
+        },
+        {
+          "children": [],
+          "text": "持續優化網站效能、SEO、資訊安全及使用者體驗。"
+        }
+      ],
+      "text": "1.負責企業網站、CMS 及 Web 應用系統的前後端開發與維護。\n2.根據產品需求進行系統分析、架構設計、API 開發及資料庫設計。\n3.與 UI/UX、Marketing、IT 及外部開發團隊合作，確保專案如期交付。\n4.擔任技術窗口，協助需求訪談、時程規劃、風險管理及跨部門溝通。\n5.管理外包開發廠商，追蹤專案進度與品質。\n6.持續優化網站效能、SEO、資訊安全及使用者體驗。"
+    },
+    "employment_type_raw": "全職",
+    "title": "品牌行銷類-資深網頁全端工程師(約聘6個月)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區潭美街533號",
+    "raw": "台北市內湖區潭美街533號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "應用數學相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、應用數學相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具專案管理經驗（需求分析、時程控管）。\n2.熟悉 AWS 雲端平台。\n3.具 Docker、CI/CD、DevOps 經驗。\n4.具 AI/LLM API 整合經驗（如 OpenAI、Claude、Gemini）。\n5.熟悉 SEO、網站效能優化及資訊安全。\n6.熟悉前端開發技術，包含 React、Vue 2、JavaScript / TypeScript、HTML5、CSS3，具備 RWD 網站開發及前端效能優化經驗尤佳。\n7.熟悉後端開發技術，包含 PHP（Laravel Framework），具備 MySQL／NoSQL 資料庫設計、開發及效能優化經驗。\n*彈性工時(上班:8:00-10:00；下班:17:00-19:00)\n*免費上下班接駁(松山、昆陽、南港站)、交通車(中和遠東新埔線、景安捷運站)"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "應用數學相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "1.具專案管理經驗（需求分析、時程控管）。\n2.熟悉 AWS 雲端平台。\n3.具 Docker、CI/CD、DevOps 經驗。\n4.具 AI/LLM API 整合經驗（如 OpenAI、Claude、Gemini）。\n5.熟悉 SEO、網站效能優化及資訊安全。\n6.熟悉前端開發技術，包含 React、Vue 2、JavaScript / TypeScript、HTML5、CSS3，具備 RWD 網站開發及前端效能優化經驗尤佳。\n7.熟悉後端開發技術，包含 PHP（Laravel Framework），具備 MySQL／NoSQL 資料庫設計、開發及效能優化經驗。\n*彈性工時(上班:8:00-10:00；下班:17:00-19:00)\n*免費上下班接駁(松山、昆陽、南港站)、交通車(中和遠東新埔線、景安捷運站)",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、應用數學相關、其他數學及電算機科學相關\n其他條件：1.具專案管理經驗（需求分析、時程控管）。\n2.熟悉 AWS 雲端平台。\n3.具 Docker、CI/CD、DevOps 經驗。\n4.具 AI/LLM API 整合經驗（如 OpenAI、Claude、Gemini）。\n5.熟悉 SEO、網站效能優化及資訊安全。\n6.熟悉前端開發技術，包含 React、Vue 2、JavaScript / TypeScript、HTML5、CSS3，具備 RWD 網站開發及前端效能優化經驗尤佳。\n7.熟悉後端開發技術，包含 PHP（Laravel Framework），具備 MySQL／NoSQL 資料庫設計、開發及效能優化經驗。\n*彈性工時(上班:8:00-10:00；下班:17:00-19:00)\n*免費上下班接駁(松山、昆陽、南港站)、交通車(中和遠東新埔線、景安捷運站)",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:57:29+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責企業網站、CMS 及 Web 應用系統的前後端開發與維護。\n2.根據產品需求進行系統分析、架構設計、API 開發及資料庫設計。\n3.與 UI/UX、Marketing、IT 及外部開發團隊合作，確保專案如期交付。\n4.擔任技術窗口，協助需求訪談、時程規劃、風險管理及跨部門溝通。\n5.管理外包開發廠商，追蹤專案進度與品質。\n6.持續優化網站效能、SEO、資訊安全及使用者體驗。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "網頁設計師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "網頁設計師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區潭美街533號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責企業網站、CMS 及 Web 應用系統的前後端開發與維護。\n2.根據產品需求進行系統分析、架構設計、API 開發及資料庫設計。\n3.與 UI/UX、Marketing、IT 及外部開發團隊合作，確保專案如期交付。\n4.擔任技術窗口，協助需求訪談、時程規劃、風險管理及跨部門溝通。\n5.管理外包開發廠商，追蹤專案進度與品質。\n6.持續優化網站效能、SEO、資訊安全及使用者體驗。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "應用數學相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、應用數學相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具專案管理經驗（需求分析、時程控管）。\n2.熟悉 AWS 雲端平台。\n3.具 Docker、CI/CD、DevOps 經驗。\n4.具 AI/LLM API 整合經驗（如 OpenAI、Claude、Gemini）。\n5.熟悉 SEO、網站效能優化及資訊安全。\n6.熟悉前端開發技術，包含 React、Vue 2、JavaScript / TypeScript、HTML5、CSS3，具備 RWD 網站開發及前端效能優化經驗尤佳。\n7.熟悉後端開發技術，包含 PHP（Laravel Framework），具備 MySQL／NoSQL 資料庫設計、開發及效能優化經驗。\n*彈性工時(上班:8:00-10:00；下班:17:00-19:00)\n*免費上下班接駁(松山、昆陽、南港站)、交通車(中和遠東新埔線、景安捷運站)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、應用數學相關、其他數學及電算機科學相關\n其他條件：1.具專案管理經驗（需求分析、時程控管）。\n2.熟悉 AWS 雲端平台。\n3.具 Docker、CI/CD、DevOps 經驗。\n4.具 AI/LLM API 整合經驗（如 OpenAI、Claude、Gemini）。\n5.熟悉 SEO、網站效能優化及資訊安全。\n6.熟悉前端開發技術，包含 React、Vue 2、JavaScript / TypeScript、HTML5、CSS3，具備 RWD 網站開發及前端效能優化經驗尤佳。\n7.熟悉後端開發技術，包含 PHP（Laravel Framework），具備 MySQL／NoSQL 資料庫設計、開發及效能優化經驗。\n*彈性工時(上班:8:00-10:00；下班:17:00-19:00)\n*免費上下班接駁(松山、昆陽、南港站)、交通車(中和遠東新埔線、景安捷運站)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "944n1",
+    "job_url": "https://www.104.com.tw/job/944n1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/944n1.json",
+    "raw_sha256": "fefdde6938b09889a0d379ce0edcbf6610bb15a57fd7b4a5bdffaf20261b52a4",
+    "requested_url": "https://www.104.com.tw/api/jobs/944n1"
+  }
+}

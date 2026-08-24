@@ -1,0 +1,194 @@
+{
+  "company": {
+    "id": "233rv1s",
+    "name": "鴻海精密工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "使用Lua和Objective-C在Mac OS上開發軟體用於自動化硬體功能測試。"
+        },
+        {
+          "children": [],
+          "text": "與跨職能團隊合作，分析、排除並解決硬體功能測試問題。"
+        },
+        {
+          "children": [],
+          "text": "使用Python或其他語言開發用於工程流程改進的軟體。"
+        },
+        {
+          "children": [],
+          "text": "前往海外支援新產品工程需求開發。"
+        }
+      ],
+      "text": "1. 使用Lua和Objective-C在Mac OS上開發軟體用於自動化硬體功能測試。\n2. 與跨職能團隊合作，分析、排除並解決硬體功能測試問題。\n3. 使用Python或其他語言開發用於工程流程改進的軟體。\n4. 前往海外支援新產品工程需求開發。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【HWTE】I-軟體開發工程師"
+  },
+  "location": {
+    "address_raw": "新北市土城區",
+    "raw": "新北市土城區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 2年以上軟體開發經驗。\n2. 具備至少一種程式語言開發能力，例如 Python、C++、Objective-C、C#、Java 和 Lua。\n3. 具備新產品工程經驗者優先。\n4. 具備硬體功能測試解決方案開發經驗者優先。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1. 2年以上軟體開發經驗。\n2. 具備至少一種程式語言開發能力，例如 Python、C++、Objective-C、C#、Java 和 Lua。\n3. 具備新產品工程經驗者優先。\n4. 具備硬體功能測試解決方案開發經驗者優先。",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 2年以上軟體開發經驗。\n2. 具備至少一種程式語言開發能力，例如 Python、C++、Objective-C、C#、Java 和 Lua。\n3. 具備新產品工程經驗者優先。\n4. 具備硬體功能測試解決方案開發經驗者優先。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 46
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:14:42+08:00"
+  },
+  "salary": {
+    "raw": "年薪1,000,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 使用Lua和Objective-C在Mac OS上開發軟體用於自動化硬體功能測試。\n2. 與跨職能團隊合作，分析、排除並解決硬體功能測試問題。\n3. 使用Python或其他語言開發用於工程流程改進的軟體。\n4. 前往海外支援新產品工程需求開發。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪1,000,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市土城區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 使用Lua和Objective-C在Mac OS上開發軟體用於自動化硬體功能測試。\n2. 與跨職能團隊合作，分析、排除並解決硬體功能測試問題。\n3. 使用Python或其他語言開發用於工程流程改進的軟體。\n4. 前往海外支援新產品工程需求開發。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 2年以上軟體開發經驗。\n2. 具備至少一種程式語言開發能力，例如 Python、C++、Objective-C、C#、Java 和 Lua。\n3. 具備新產品工程經驗者優先。\n4. 具備硬體功能測試解決方案開發經驗者優先。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 2年以上軟體開發經驗。\n2. 具備至少一種程式語言開發能力，例如 Python、C++、Objective-C、C#、Java 和 Lua。\n3. 具備新產品工程經驗者優先。\n4. 具備硬體功能測試解決方案開發經驗者優先。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "648y4",
+    "job_url": "https://www.104.com.tw/job/648y4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/648y4.json",
+    "raw_sha256": "051d22d9f105373f9e6986c5a00e2e05850a2a00cc4c88041621a7714078928c",
+    "requested_url": "https://www.104.com.tw/api/jobs/648y4"
+  }
+}

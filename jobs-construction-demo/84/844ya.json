@@ -1,0 +1,330 @@
+{
+  "company": {
+    "id": "1a2x6bj842",
+    "name": "宏康智慧股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責企業級系統的開發、測試與維護，從設計到上線全程參與"
+        },
+        {
+          "children": [],
+          "text": "依需求文件規格進行系統開發，將設計轉化為高品質、可維護的程式碼"
+        },
+        {
+          "children": [],
+          "text": "參與系統架構設計、程式碼優化、效能調校及問題分析，持續提升系統穩定性與品質。"
+        },
+        {
+          "children": [],
+          "text": "撰寫系統設計文件、API 文件及技術文件，建立完善的知識管理"
+        },
+        {
+          "children": [],
+          "text": "重視team work，與其他工程師密切合作，共同完成專案目標"
+        },
+        {
+          "children": [],
+          "text": "參與程式碼審查 (Code Review)、問題分析與效能最佳化"
+        },
+        {
+          "children": [],
+          "text": "參與敏捷式開發 (Agile／Scrum)，持續改善開發流程與產品品質"
+        },
+        {
+          "children": [],
+          "text": "使用過前端框架 (Angular、Vue、React)者尤佳"
+        },
+        {
+          "children": [],
+          "text": "使用過軟體架構 (MVC、MVP、MVVM)者尤佳"
+        },
+        {
+          "children": [],
+          "text": "善用 Agentic AI 開發工具（如 Claude Code、GitHub Copilot、OpenAI Codex 等），提升程式開發、除錯、測試及文件撰寫效率，將更多心力投入系統架構與商業邏輯設計。"
+        },
+        {
+          "children": [],
+          "text": "持續學習新技術，協助導入新工具與最佳實務，提升團隊整體開發效率。"
+        }
+      ],
+      "text": "加入宏康智慧 (HCI)，您將參與企業級資訊系統、客製化系統、AI、IoT 與智慧營運平台的設計與開發，從需求分析到產品上線，全程參與產品生命週期。\n工作內容包含：\n-負責企業級系統的開發、測試與維護，從設計到上線全程參與\n-依需求文件規格進行系統開發，將設計轉化為高品質、可維護的程式碼\n-參與系統架構設計、程式碼優化、效能調校及問題分析，持續提升系統穩定性與品質。\n-撰寫系統設計文件、API 文件及技術文件，建立完善的知識管理\n-重視team work，與其他工程師密切合作，共同完成專案目標\n-參與程式碼審查 (Code Review)、問題分析與效能最佳化\n-參與敏捷式開發 (Agile／Scrum)，持續改善開發流程與產品品質\n-使用過前端框架 (Angular、Vue、React)者尤佳\n-使用過軟體架構 (MVC、MVP、MVVM)者尤佳\n-善用 Agentic AI 開發工具（如 Claude Code、GitHub Copilot、OpenAI Codex 等），提升程式開發、除錯、測試及文件撰寫效率，將更多心力投入系統架構與商業邏輯設計。\n-持續學習新技術，協助導入新工具與最佳實務，提升團隊整體開發效率。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師"
+  },
+  "location": {
+    "address_raw": "新北市汐止區新台五路一段110號12樓",
+    "raw": "新北市汐止區新台五路一段110號12樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "Git",
+          "Java",
+          "JSP",
+          "Spring",
+          "MS SQL",
+          "MySQL",
+          "HTML",
+          "JavaScript",
+          "CSS",
+          "Excel",
+          "Outlook",
+          "Word",
+          "Github",
+          "Copilot",
+          "Claude",
+          "Gemini",
+          "PowerPoint",
+          "ChatGPT",
+          "Scrum"
+        ],
+        "label": "擅長工具",
+        "text": "Git、Java、JSP、Spring、MS SQL、MySQL、HTML、JavaScript、CSS、Excel、Outlook、Word、Github、Copilot、Claude、Gemini、PowerPoint、ChatGPT、Scrum"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體整合測試",
+          "資料庫程式設計",
+          "資料庫軟體應用",
+          "資料庫系統管理維護",
+          "系統整合分析",
+          "系統架構規劃",
+          "功能測試(function test)",
+          "測試計劃及測試報告書撰寫",
+          "系統架構規劃與維護",
+          "文書處理軟體操作"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體整合測試、資料庫程式設計、資料庫軟體應用、資料庫系統管理維護、系統整合分析、系統架構規劃、功能測試(function test)、測試計劃及測試報告書撰寫、系統架構規劃與維護、文書處理軟體操作"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "-需自備工作筆電。\n-具備良好的邏輯思維、問題分析及解決能力。\n-具備良好的溝通能力及團隊合作精神，樂於跨部門協作。\n-具備高度責任感，能獨立完成開發任務並重視程式品質。\n-主動回報工作進度、風險及問題，具良好的專案執行能力。\n-樂於持續學習新技術，並勇於接受新挑戰。\n-熟悉敏捷開發流程、Code Review、CI/CD 或 DevOps 開發模式者尤佳。\n-具中大型企業資訊系統開發經驗者尤佳。\n-具微服務（Microservices）、雲端平台（AWS、Azure、GCP）或容器化技術（Docker、Kubernetes）經驗者尤佳。\n-熟悉 AI 輔助開發工具（如 Claude Code、GitHub Copilot、OpenAI Codex、Cursor 等），並能有效運用於程式開發、測試、自動化及技術文件撰寫者尤佳。\n應備技能\n-軟體程式設計\n-Java 軟體開發與物件導向程式設計（OOP）\n-Web 系統開發與維護\n-RESTful API 設計與開發\n-資料庫設計、SQL 撰寫及效能調校\n-MVC／MVVM／微服務 等軟體架構設計\n-Git 版本控制\n-軟體測試、除錯及問題分析\n-系統分析與技術文件撰寫\n-敏捷式開發（Agile／Scrum）\n-AI 輔助軟體開發（AI-assisted Development）\n加分技能\n-Vue.js、React 或 Angular\n-Docker\n-Kubernetes\n-Claude Code\n-GitHub Copilot\n-OpenAI Codex\n-Cursor\n-Gemini Code Assist\n-Windsurf\n擅長工具／程式\n-Maven／Gradle\n-GitHub\n-GitLab\n-Postman\n-IntelliJ IDEA 或 Eclipse\n-VS Code\n-Java\n-Spring\n-MySQL\n-JavaScript\n-HTML\n-CSS\n-Git"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "-需自備工作筆電。\n-具備良好的邏輯思維、問題分析及解決能力。\n-具備良好的溝通能力及團隊合作精神，樂於跨部門協作。\n-具備高度責任感，能獨立完成開發任務並重視程式品質。\n-主動回報工作進度、風險及問題，具良好的專案執行能力。\n-樂於持續學習新技術，並勇於接受新挑戰。\n-熟悉敏捷開發流程、Code Review、CI/CD 或 DevOps 開發模式者尤佳。\n-具中大型企業資訊系統開發經驗者尤佳。\n-具微服務（Microservices）、雲端平台（AWS、Azure、GCP）或容器化技術（Docker、Kubernetes）經驗者尤佳。\n-熟悉 AI 輔助開發工具（如 Claude Code、GitHub Copilot、OpenAI Codex、Cursor 等），並能有效運用於程式開發、測試、自動化及技術文件撰寫者尤佳。\n應備技能\n-軟體程式設計\n-Java 軟體開發與物件導向程式設計（OOP）\n-Web 系統開發與維護\n-RESTful API 設計與開發\n-資料庫設計、SQL 撰寫及效能調校\n-MVC／MVVM／微服務 等軟體架構設計\n-Git 版本控制\n-軟體測試、除錯及問題分析\n-系統分析與技術文件撰寫\n-敏捷式開發（Agile／Scrum）\n-AI 輔助軟體開發（AI-assisted Development）\n加分技能\n-Vue.js、React 或 Angular\n-Docker\n-Kubernetes\n-Claude Code\n-GitHub Copilot\n-OpenAI Codex\n-Cursor\n-Gemini Code Assist\n-Windsurf\n擅長工具／程式\n-Maven／Gradle\n-GitHub\n-GitLab\n-Postman\n-IntelliJ IDEA 或 Eclipse\n-VS Code\n-Java\n-Spring\n-MySQL\n-JavaScript\n-HTML\n-CSS\n-Git",
+    "skills": [
+      "軟體程式設計",
+      "軟體整合測試",
+      "資料庫程式設計",
+      "資料庫軟體應用",
+      "資料庫系統管理維護",
+      "系統整合分析",
+      "系統架構規劃",
+      "功能測試(function test)",
+      "測試計劃及測試報告書撰寫",
+      "系統架構規劃與維護",
+      "文書處理軟體操作"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、電機電子工程相關、資訊工程相關\n擅長工具：Git、Java、JSP、Spring、MS SQL、MySQL、HTML、JavaScript、CSS、Excel、Outlook、Word、Github、Copilot、Claude、Gemini、PowerPoint、ChatGPT、Scrum\n工作技能：軟體程式設計、軟體整合測試、資料庫程式設計、資料庫軟體應用、資料庫系統管理維護、系統整合分析、系統架構規劃、功能測試(function test)、測試計劃及測試報告書撰寫、系統架構規劃與維護、文書處理軟體操作\n其他條件：-需自備工作筆電。\n-具備良好的邏輯思維、問題分析及解決能力。\n-具備良好的溝通能力及團隊合作精神，樂於跨部門協作。\n-具備高度責任感，能獨立完成開發任務並重視程式品質。\n-主動回報工作進度、風險及問題，具良好的專案執行能力。\n-樂於持續學習新技術，並勇於接受新挑戰。\n-熟悉敏捷開發流程、Code Review、CI/CD 或 DevOps 開發模式者尤佳。\n-具中大型企業資訊系統開發經驗者尤佳。\n-具微服務（Microservices）、雲端平台（AWS、Azure、GCP）或容器化技術（Docker、Kubernetes）經驗者尤佳。\n-熟悉 AI 輔助開發工具（如 Claude Code、GitHub Copilot、OpenAI Codex、Cursor 等），並能有效運用於程式開發、測試、自動化及技術文件撰寫者尤佳。\n應備技能\n-軟體程式設計\n-Java 軟體開發與物件導向程式設計（OOP）\n-Web 系統開發與維護\n-RESTful API 設計與開發\n-資料庫設計、SQL 撰寫及效能調校\n-MVC／MVVM／微服務 等軟體架構設計\n-Git 版本控制\n-軟體測試、除錯及問題分析\n-系統分析與技術文件撰寫\n-敏捷式開發（Agile／Scrum）\n-AI 輔助軟體開發（AI-assisted Development）\n加分技能\n-Vue.js、React 或 Angular\n-Docker\n-Kubernetes\n-Claude Code\n-GitHub Copilot\n-OpenAI Codex\n-Cursor\n-Gemini Code Assist\n-Windsurf\n擅長工具／程式\n-Maven／Gradle\n-GitHub\n-GitLab\n-Postman\n-IntelliJ IDEA 或 Eclipse\n-VS Code\n-Java\n-Spring\n-MySQL\n-JavaScript\n-HTML\n-CSS\n-Git",
+    "tools": [
+      "Git",
+      "Java",
+      "JSP",
+      "Spring",
+      "MS SQL",
+      "MySQL",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "Excel",
+      "Outlook",
+      "Word",
+      "Github",
+      "Copilot",
+      "Claude",
+      "Gemini",
+      "PowerPoint",
+      "ChatGPT",
+      "Scrum"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 84
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:49:11+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "加入宏康智慧 (HCI)，您將參與企業級資訊系統、客製化系統、AI、IoT 與智慧營運平台的設計與開發，從需求分析到產品上線，全程參與產品生命週期。\n工作內容包含：\n-負責企業級系統的開發、測試與維護，從設計到上線全程參與\n-依需求文件規格進行系統開發，將設計轉化為高品質、可維護的程式碼\n-參與系統架構設計、程式碼優化、效能調校及問題分析，持續提升系統穩定性與品質。\n-撰寫系統設計文件、API 文件及技術文件，建立完善的知識管理\n-重視team work，與其他工程師密切合作，共同完成專案目標\n-參與程式碼審查 (Code Review)、問題分析與效能最佳化\n-參與敏捷式開發 (Agile／Scrum)，持續改善開發流程與產品品質\n-使用過前端框架 (Angular、Vue、React)者尤佳\n-使用過軟體架構 (MVC、MVP、MVVM)者尤佳\n-善用 Agentic AI 開發工具（如 Claude Code、GitHub Copilot、OpenAI Codex 等），提升程式開發、除錯、測試及文件撰寫效率，將更多心力投入系統架構與商業邏輯設計。\n-持續學習新技術，協助導入新工具與最佳實務，提升團隊整體開發效率。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市汐止區新台五路一段110號12樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "加入宏康智慧 (HCI)，您將參與企業級資訊系統、客製化系統、AI、IoT 與智慧營運平台的設計與開發，從需求分析到產品上線，全程參與產品生命週期。\n工作內容包含：\n-負責企業級系統的開發、測試與維護，從設計到上線全程參與\n-依需求文件規格進行系統開發，將設計轉化為高品質、可維護的程式碼\n-參與系統架構設計、程式碼優化、效能調校及問題分析，持續提升系統穩定性與品質。\n-撰寫系統設計文件、API 文件及技術文件，建立完善的知識管理\n-重視team work，與其他工程師密切合作，共同完成專案目標\n-參與程式碼審查 (Code Review)、問題分析與效能最佳化\n-參與敏捷式開發 (Agile／Scrum)，持續改善開發流程與產品品質\n-使用過前端框架 (Angular、Vue、React)者尤佳\n-使用過軟體架構 (MVC、MVP、MVVM)者尤佳\n-善用 Agentic AI 開發工具（如 Claude Code、GitHub Copilot、OpenAI Codex 等），提升程式開發、除錯、測試及文件撰寫效率，將更多心力投入系統架構與商業邏輯設計。\n-持續學習新技術，協助導入新工具與最佳實務，提升團隊整體開發效率。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "Java",
+            "JSP",
+            "Spring",
+            "MS SQL",
+            "MySQL",
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "Excel",
+            "Outlook",
+            "Word",
+            "Github",
+            "Copilot",
+            "Claude",
+            "Gemini",
+            "PowerPoint",
+            "ChatGPT",
+            "Scrum"
+          ],
+          "label": "擅長工具",
+          "text": "Git、Java、JSP、Spring、MS SQL、MySQL、HTML、JavaScript、CSS、Excel、Outlook、Word、Github、Copilot、Claude、Gemini、PowerPoint、ChatGPT、Scrum",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體整合測試",
+            "資料庫程式設計",
+            "資料庫軟體應用",
+            "資料庫系統管理維護",
+            "系統整合分析",
+            "系統架構規劃",
+            "功能測試(function test)",
+            "測試計劃及測試報告書撰寫",
+            "系統架構規劃與維護",
+            "文書處理軟體操作"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體整合測試、資料庫程式設計、資料庫軟體應用、資料庫系統管理維護、系統整合分析、系統架構規劃、功能測試(function test)、測試計劃及測試報告書撰寫、系統架構規劃與維護、文書處理軟體操作",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "-需自備工作筆電。\n-具備良好的邏輯思維、問題分析及解決能力。\n-具備良好的溝通能力及團隊合作精神，樂於跨部門協作。\n-具備高度責任感，能獨立完成開發任務並重視程式品質。\n-主動回報工作進度、風險及問題，具良好的專案執行能力。\n-樂於持續學習新技術，並勇於接受新挑戰。\n-熟悉敏捷開發流程、Code Review、CI/CD 或 DevOps 開發模式者尤佳。\n-具中大型企業資訊系統開發經驗者尤佳。\n-具微服務（Microservices）、雲端平台（AWS、Azure、GCP）或容器化技術（Docker、Kubernetes）經驗者尤佳。\n-熟悉 AI 輔助開發工具（如 Claude Code、GitHub Copilot、OpenAI Codex、Cursor 等），並能有效運用於程式開發、測試、自動化及技術文件撰寫者尤佳。\n應備技能\n-軟體程式設計\n-Java 軟體開發與物件導向程式設計（OOP）\n-Web 系統開發與維護\n-RESTful API 設計與開發\n-資料庫設計、SQL 撰寫及效能調校\n-MVC／MVVM／微服務 等軟體架構設計\n-Git 版本控制\n-軟體測試、除錯及問題分析\n-系統分析與技術文件撰寫\n-敏捷式開發（Agile／Scrum）\n-AI 輔助軟體開發（AI-assisted Development）\n加分技能\n-Vue.js、React 或 Angular\n-Docker\n-Kubernetes\n-Claude Code\n-GitHub Copilot\n-OpenAI Codex\n-Cursor\n-Gemini Code Assist\n-Windsurf\n擅長工具／程式\n-Maven／Gradle\n-GitHub\n-GitLab\n-Postman\n-IntelliJ IDEA 或 Eclipse\n-VS Code\n-Java\n-Spring\n-MySQL\n-JavaScript\n-HTML\n-CSS\n-Git",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、電機電子工程相關、資訊工程相關\n擅長工具：Git、Java、JSP、Spring、MS SQL、MySQL、HTML、JavaScript、CSS、Excel、Outlook、Word、Github、Copilot、Claude、Gemini、PowerPoint、ChatGPT、Scrum\n工作技能：軟體程式設計、軟體整合測試、資料庫程式設計、資料庫軟體應用、資料庫系統管理維護、系統整合分析、系統架構規劃、功能測試(function test)、測試計劃及測試報告書撰寫、系統架構規劃與維護、文書處理軟體操作\n其他條件：-需自備工作筆電。\n-具備良好的邏輯思維、問題分析及解決能力。\n-具備良好的溝通能力及團隊合作精神，樂於跨部門協作。\n-具備高度責任感，能獨立完成開發任務並重視程式品質。\n-主動回報工作進度、風險及問題，具良好的專案執行能力。\n-樂於持續學習新技術，並勇於接受新挑戰。\n-熟悉敏捷開發流程、Code Review、CI/CD 或 DevOps 開發模式者尤佳。\n-具中大型企業資訊系統開發經驗者尤佳。\n-具微服務（Microservices）、雲端平台（AWS、Azure、GCP）或容器化技術（Docker、Kubernetes）經驗者尤佳。\n-熟悉 AI 輔助開發工具（如 Claude Code、GitHub Copilot、OpenAI Codex、Cursor 等），並能有效運用於程式開發、測試、自動化及技術文件撰寫者尤佳。\n應備技能\n-軟體程式設計\n-Java 軟體開發與物件導向程式設計（OOP）\n-Web 系統開發與維護\n-RESTful API 設計與開發\n-資料庫設計、SQL 撰寫及效能調校\n-MVC／MVVM／微服務 等軟體架構設計\n-Git 版本控制\n-軟體測試、除錯及問題分析\n-系統分析與技術文件撰寫\n-敏捷式開發（Agile／Scrum）\n-AI 輔助軟體開發（AI-assisted Development）\n加分技能\n-Vue.js、React 或 Angular\n-Docker\n-Kubernetes\n-Claude Code\n-GitHub Copilot\n-OpenAI Codex\n-Cursor\n-Gemini Code Assist\n-Windsurf\n擅長工具／程式\n-Maven／Gradle\n-GitHub\n-GitLab\n-Postman\n-IntelliJ IDEA 或 Eclipse\n-VS Code\n-Java\n-Spring\n-MySQL\n-JavaScript\n-HTML\n-CSS\n-Git"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "844ya",
+    "job_url": "https://www.104.com.tw/job/844ya",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/844ya.json",
+    "raw_sha256": "872e3eef5516437864681a42050a57b2ba3d42bbee3a2448da7645e12a9b297b",
+    "requested_url": "https://www.104.com.tw/api/jobs/844ya"
+  }
+}

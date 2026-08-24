@@ -1,0 +1,191 @@
+{
+  "company": {
+    "id": "ftfgrvc",
+    "name": "新北市肉品市場"
+  },
+  "job": {
+    "categories": [
+      "資訊助理"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "維護公司內電腦系統，保持系統正常運作。"
+        },
+        {
+          "children": [],
+          "text": "機房設備維護。"
+        },
+        {
+          "children": [],
+          "text": "部門內部行政工作。"
+        }
+      ],
+      "text": "1. 維護公司內電腦系統，保持系統正常運作。\n2. 機房設備維護。\n3. 部門內部行政工作。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊助理"
+  },
+  "location": {
+    "address_raw": "新北市樹林區俊安街43號",
+    "raw": "新北市樹林區俊安街43號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "電機電子維護相關",
+          "其他工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、電機電子維護相關、其他工程相關"
+      },
+      {
+        "items": [
+          "資訊設備環境設定",
+          "資訊設備操作檢修",
+          "電腦設備裝配",
+          "網路架設佈線"
+        ],
+        "label": "工作技能",
+        "text": "資訊設備環境設定、資訊設備操作檢修、電腦設備裝配、網路架設佈線"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "電機電子維護相關",
+      "其他工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "資訊設備環境設定",
+      "資訊設備操作檢修",
+      "電腦設備裝配",
+      "網路架設佈線"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：電機電子工程相關、電機電子維護相關、其他工程相關\n工作技能：資訊設備環境設定、資訊設備操作檢修、電腦設備裝配、網路架設佈線",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 51
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:27:47+08:00"
+  },
+  "salary": {
+    "raw": "月薪32,350元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 維護公司內電腦系統，保持系統正常運作。\n2. 機房設備維護。\n3. 部門內部行政工作。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資訊助理"
+          ],
+          "label": "職務類別",
+          "text": "資訊助理",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪32,350元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市樹林區俊安街43號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 維護公司內電腦系統，保持系統正常運作。\n2. 機房設備維護。\n3. 部門內部行政工作。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "電機電子維護相關",
+            "其他工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、電機電子維護相關、其他工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊設備環境設定",
+            "資訊設備操作檢修",
+            "電腦設備裝配",
+            "網路架設佈線"
+          ],
+          "label": "工作技能",
+          "text": "資訊設備環境設定、資訊設備操作檢修、電腦設備裝配、網路架設佈線",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：電機電子工程相關、電機電子維護相關、其他工程相關\n工作技能：資訊設備環境設定、資訊設備操作檢修、電腦設備裝配、網路架設佈線"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8pxgn",
+    "job_url": "https://www.104.com.tw/job/8pxgn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8pxgn.json",
+    "raw_sha256": "037100726113822f882217c6f2db22aae4cdffb22c3452bfc47921c585cdbd68",
+    "requested_url": "https://www.104.com.tw/api/jobs/8pxgn"
+  }
+}

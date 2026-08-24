@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "1a2x6bn2ab",
+    "name": "狄泰有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "能主動與後端確認 API 規格，並能向非技術人員清晰說明技術限制"
+        },
+        {
+          "children": [],
+          "text": "能耐心且系統性的處理相容性、跑版及非同步狀態管理等問題"
+        },
+        {
+          "children": [],
+          "text": "具備一年以上前端開發相關工作經驗"
+        },
+        {
+          "children": [],
+          "text": "知識工具"
+        },
+        {
+          "children": [],
+          "text": "1 掌握 JavaScript (ES6+) 核心特性；精通 TypeScript 的類型系統、編譯配置與應用"
+        },
+        {
+          "children": [],
+          "text": "2 深入理解 HTML5, CSS3, DOM, Render Tree, Event Loop 運作原理"
+        },
+        {
+          "children": [],
+          "text": "3 理解 HTTP/HTTPS 協議與 RESTful API 概念"
+        },
+        {
+          "children": [],
+          "text": "4 熟練至少一種主流框架 (Vue.js / React / Angular)，具備組件化開發與狀態管理能力"
+        },
+        {
+          "children": [],
+          "text": "5 熟練 VS Code (含 ESLint/Prettier 配置)、Git 版本控制"
+        },
+        {
+          "children": [],
+          "text": "6 熟悉 Figma 操作，能高效提取設計資源與規格"
+        },
+        {
+          "children": [],
+          "text": "資訊工程或資訊管理相關學系"
+        },
+        {
+          "children": [],
+          "text": "具備撰寫單元測試能力，能快速定位及修復 Bug"
+        },
+        {
+          "children": [],
+          "text": "精通模組打包工具 (Webpack, Vite, Rollup) 之配置與優化"
+        },
+        {
+          "children": [],
+          "text": "了解 CI/CD 流程在前端部署的應用"
+        },
+        {
+          "children": [],
+          "text": "精通 DevTools 進行深度的網路監控與 JavaScript 調試"
+        },
+        {
+          "children": [],
+          "text": "介面開發與 RWD 實作："
+        },
+        {
+          "children": [],
+          "text": "1 使用主流框架精準還原設計稿的視覺佈局與動態效果，獨立完成 RWD"
+        },
+        {
+          "children": [],
+          "text": "2 解決跨瀏覽器與行動裝置的兼容性問題，確保一致的使用者體驗"
+        },
+        {
+          "children": [],
+          "text": "系統架構與效能優化："
+        },
+        {
+          "children": [],
+          "text": "1 撰寫高可讀性、可維護的程式碼，維護共用組件庫以提升開發效率"
+        },
+        {
+          "children": [],
+          "text": "2 使用 DevTools 進行效能瓶頸分析、記憶體洩漏檢查，優化資源載入與渲染效能"
+        },
+        {
+          "children": [],
+          "text": "3 評估並導入新興前端技術，持續減少資源消耗，提升系統效能與使用者體驗"
+        },
+        {
+          "children": [],
+          "text": "API 整合與數據串接："
+        },
+        {
+          "children": [],
+          "text": "1 與後端工程師協作定義 API 規格，設計前端數據結構並處理非同步狀態管理"
+        },
+        {
+          "children": [],
+          "text": "2 根據需求提出技術解決方案，確保數據在介面上安全且正確地呈現"
+        }
+      ],
+      "text": "此職位負責將 UI/UX 設計稿轉換為高效、互動流暢的網頁介面，確保產品在各種裝置與瀏覽器上具備極佳的可用性、兼容性與效能。\n【期望您的工作方式】\n1. 能主動與後端確認 API 規格，並能向非技術人員清晰說明技術限制\n2. 能耐心且系統性的處理相容性、跑版及非同步狀態管理等問題\n【基本條件】\n1. 具備一年以上前端開發相關工作經驗\n2. 知識工具\n2.1 掌握 JavaScript (ES6+) 核心特性；精通 TypeScript 的類型系統、編譯配置與應用\n2.2 深入理解 HTML5, CSS3, DOM, Render Tree, Event Loop 運作原理\n2.3 理解 HTTP/HTTPS 協議與 RESTful API 概念\n2.4 熟練至少一種主流框架 (Vue.js / React / Angular)，具備組件化開發與狀態管理能力\n2.5 熟練 VS Code (含 ESLint/Prettier 配置)、Git 版本控制\n2.6 熟悉 Figma 操作，能高效提取設計資源與規格\n【加分條件】\n1. 資訊工程或資訊管理相關學系\n2. 具備撰寫單元測試能力，能快速定位及修復 Bug\n3. 精通模組打包工具 (Webpack, Vite, Rollup) 之配置與優化\n4. 了解 CI/CD 流程在前端部署的應用\n5. 精通 DevTools 進行深度的網路監控與 JavaScript 調試\n【核心職責】\n1. 介面開發與 RWD 實作：\n1.1 使用主流框架精準還原設計稿的視覺佈局與動態效果，獨立完成 RWD\n1.2 解決跨瀏覽器與行動裝置的兼容性問題，確保一致的使用者體驗\n2. 系統架構與效能優化：\n2.1 撰寫高可讀性、可維護的程式碼，維護共用組件庫以提升開發效率\n2.2 使用 DevTools 進行效能瓶頸分析、記憶體洩漏檢查，優化資源載入與渲染效能\n2.3 評估並導入新興前端技術，持續減少資源消耗，提升系統效能與使用者體驗\n3. API 整合與數據串接：\n3.1 與後端工程師協作定義 API 規格，設計前端數據結構並處理非同步狀態管理\n3.2 根據需求提出技術解決方案，確保數據在介面上安全且正確地呈現"
+    },
+    "employment_type_raw": "全職",
+    "title": "前端工程師"
+  },
+  "location": {
+    "address_raw": "台中市西屯區文心路二段201號11樓之7",
+    "raw": "台中市西屯區文心路二段201號11樓之7"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 4
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:29:41+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "此職位負責將 UI/UX 設計稿轉換為高效、互動流暢的網頁介面，確保產品在各種裝置與瀏覽器上具備極佳的可用性、兼容性與效能。\n【期望您的工作方式】\n1. 能主動與後端確認 API 規格，並能向非技術人員清晰說明技術限制\n2. 能耐心且系統性的處理相容性、跑版及非同步狀態管理等問題\n【基本條件】\n1. 具備一年以上前端開發相關工作經驗\n2. 知識工具\n2.1 掌握 JavaScript (ES6+) 核心特性；精通 TypeScript 的類型系統、編譯配置與應用\n2.2 深入理解 HTML5, CSS3, DOM, Render Tree, Event Loop 運作原理\n2.3 理解 HTTP/HTTPS 協議與 RESTful API 概念\n2.4 熟練至少一種主流框架 (Vue.js / React / Angular)，具備組件化開發與狀態管理能力\n2.5 熟練 VS Code (含 ESLint/Prettier 配置)、Git 版本控制\n2.6 熟悉 Figma 操作，能高效提取設計資源與規格\n【加分條件】\n1. 資訊工程或資訊管理相關學系\n2. 具備撰寫單元測試能力，能快速定位及修復 Bug\n3. 精通模組打包工具 (Webpack, Vite, Rollup) 之配置與優化\n4. 了解 CI/CD 流程在前端部署的應用\n5. 精通 DevTools 進行深度的網路監控與 JavaScript 調試\n【核心職責】\n1. 介面開發與 RWD 實作：\n1.1 使用主流框架精準還原設計稿的視覺佈局與動態效果，獨立完成 RWD\n1.2 解決跨瀏覽器與行動裝置的兼容性問題，確保一致的使用者體驗\n2. 系統架構與效能優化：\n2.1 撰寫高可讀性、可維護的程式碼，維護共用組件庫以提升開發效率\n2.2 使用 DevTools 進行效能瓶頸分析、記憶體洩漏檢查，優化資源載入與渲染效能\n2.3 評估並導入新興前端技術，持續減少資源消耗，提升系統效能與使用者體驗\n3. API 整合與數據串接：\n3.1 與後端工程師協作定義 API 規格，設計前端數據結構並處理非同步狀態管理\n3.2 根據需求提出技術解決方案，確保數據在介面上安全且正確地呈現",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區文心路二段201號11樓之7",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "此職位負責將 UI/UX 設計稿轉換為高效、互動流暢的網頁介面，確保產品在各種裝置與瀏覽器上具備極佳的可用性、兼容性與效能。\n【期望您的工作方式】\n1. 能主動與後端確認 API 規格，並能向非技術人員清晰說明技術限制\n2. 能耐心且系統性的處理相容性、跑版及非同步狀態管理等問題\n【基本條件】\n1. 具備一年以上前端開發相關工作經驗\n2. 知識工具\n2.1 掌握 JavaScript (ES6+) 核心特性；精通 TypeScript 的類型系統、編譯配置與應用\n2.2 深入理解 HTML5, CSS3, DOM, Render Tree, Event Loop 運作原理\n2.3 理解 HTTP/HTTPS 協議與 RESTful API 概念\n2.4 熟練至少一種主流框架 (Vue.js / React / Angular)，具備組件化開發與狀態管理能力\n2.5 熟練 VS Code (含 ESLint/Prettier 配置)、Git 版本控制\n2.6 熟悉 Figma 操作，能高效提取設計資源與規格\n【加分條件】\n1. 資訊工程或資訊管理相關學系\n2. 具備撰寫單元測試能力，能快速定位及修復 Bug\n3. 精通模組打包工具 (Webpack, Vite, Rollup) 之配置與優化\n4. 了解 CI/CD 流程在前端部署的應用\n5. 精通 DevTools 進行深度的網路監控與 JavaScript 調試\n【核心職責】\n1. 介面開發與 RWD 實作：\n1.1 使用主流框架精準還原設計稿的視覺佈局與動態效果，獨立完成 RWD\n1.2 解決跨瀏覽器與行動裝置的兼容性問題，確保一致的使用者體驗\n2. 系統架構與效能優化：\n2.1 撰寫高可讀性、可維護的程式碼，維護共用組件庫以提升開發效率\n2.2 使用 DevTools 進行效能瓶頸分析、記憶體洩漏檢查，優化資源載入與渲染效能\n2.3 評估並導入新興前端技術，持續減少資源消耗，提升系統效能與使用者體驗\n3. API 整合與數據串接：\n3.1 與後端工程師協作定義 API 規格，設計前端數據結構並處理非同步狀態管理\n3.2 根據需求提出技術解決方案，確保數據在介面上安全且正確地呈現"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8mqfu",
+    "job_url": "https://www.104.com.tw/job/8mqfu",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8mqfu.json",
+    "raw_sha256": "2accb2c6dae8df75ddc933ac8e309ecda21ae6f3d4e654a7937ed00832982175",
+    "requested_url": "https://www.104.com.tw/api/jobs/8mqfu"
+  }
+}

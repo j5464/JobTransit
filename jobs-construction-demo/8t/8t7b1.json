@@ -1,0 +1,178 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "與後端工程師及設計師合作，開發系統服務的 Web 介面。"
+        },
+        {
+          "children": [],
+          "text": "設計、開發並維護高品質的前端 Web 應用程式，並持續優化網站效能。"
+        },
+        {
+          "children": [],
+          "text": "願意學習新工具和技術，不限於網頁/前端。"
+        },
+        {
+          "children": [],
+          "text": "擅長問題解決，並能夠在團隊環境中合作。"
+        },
+        {
+          "children": [],
+          "text": "良好的書面和口頭溝通能力"
+        }
+      ],
+      "text": "本職缺主要工作內容 :\n1.與後端工程師及設計師合作，開發系統服務的 Web 介面。\n2.設計、開發並維護高品質的前端 Web 應用程式，並持續優化網站效能。\n3.願意學習新工具和技術，不限於網頁/前端。\n4.擅長問題解決，並能夠在團隊環境中合作。\n5.良好的書面和口頭溝通能力"
+    },
+    "employment_type_raw": "全職",
+    "title": "前端網頁工程師_台達研究院(新竹)"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市台元二街10號17樓",
+    "raw": "新竹縣竹北市台元二街10號17樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.資工/資管/資科/設計背景等相關系所，具備至少 2 年前端 Web 開發經驗\n2.熟悉Vue.js, HTML, SCSS, JavaScript, RWD(Responsive Web Design), Bootstrap網頁切版，有作品集尤佳\n3.具備基本的 RESTful API 設計概念，能與後端工程師溝通，熟悉php框架laravel尤佳\n4.具備基礎的 UI/UX 設計原則概念，並熟悉設計工具Figma\n5.運用數據可視化：使用 D3.js、ECharts 等數據可視化工具，開發直觀的數據展示界面\n6.具備基本的網站佈建知識，了解各種瀏覽器及尺寸相容問題\n7.熟悉單元測試（Vitest）及自動化測試工具\n8.編寫開發文件\n9.具備程式開發熱忱與積極性，善於溝通協調與團隊合作精神並能獨立解決問題\n10.投遞履歷須檢附大學及研究所成績單\n11.有過前後台分離的經驗尤佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1.資工/資管/資科/設計背景等相關系所，具備至少 2 年前端 Web 開發經驗\n2.熟悉Vue.js, HTML, SCSS, JavaScript, RWD(Responsive Web Design), Bootstrap網頁切版，有作品集尤佳\n3.具備基本的 RESTful API 設計概念，能與後端工程師溝通，熟悉php框架laravel尤佳\n4.具備基礎的 UI/UX 設計原則概念，並熟悉設計工具Figma\n5.運用數據可視化：使用 D3.js、ECharts 等數據可視化工具，開發直觀的數據展示界面\n6.具備基本的網站佈建知識，了解各種瀏覽器及尺寸相容問題\n7.熟悉單元測試（Vitest）及自動化測試工具\n8.編寫開發文件\n9.具備程式開發熱忱與積極性，善於溝通協調與團隊合作精神並能獨立解決問題\n10.投遞履歷須檢附大學及研究所成績單\n11.有過前後台分離的經驗尤佳",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n其他條件：1.資工/資管/資科/設計背景等相關系所，具備至少 2 年前端 Web 開發經驗\n2.熟悉Vue.js, HTML, SCSS, JavaScript, RWD(Responsive Web Design), Bootstrap網頁切版，有作品集尤佳\n3.具備基本的 RESTful API 設計概念，能與後端工程師溝通，熟悉php框架laravel尤佳\n4.具備基礎的 UI/UX 設計原則概念，並熟悉設計工具Figma\n5.運用數據可視化：使用 D3.js、ECharts 等數據可視化工具，開發直觀的數據展示界面\n6.具備基本的網站佈建知識，了解各種瀏覽器及尺寸相容問題\n7.熟悉單元測試（Vitest）及自動化測試工具\n8.編寫開發文件\n9.具備程式開發熱忱與積極性，善於溝通協調與團隊合作精神並能獨立解決問題\n10.投遞履歷須檢附大學及研究所成績單\n11.有過前後台分離的經驗尤佳",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 77
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:31:22+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "本職缺主要工作內容 :\n1.與後端工程師及設計師合作，開發系統服務的 Web 介面。\n2.設計、開發並維護高品質的前端 Web 應用程式，並持續優化網站效能。\n3.願意學習新工具和技術，不限於網頁/前端。\n4.擅長問題解決，並能夠在團隊環境中合作。\n5.良好的書面和口頭溝通能力",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市台元二街10號17樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "本職缺主要工作內容 :\n1.與後端工程師及設計師合作，開發系統服務的 Web 介面。\n2.設計、開發並維護高品質的前端 Web 應用程式，並持續優化網站效能。\n3.願意學習新工具和技術，不限於網頁/前端。\n4.擅長問題解決，並能夠在團隊環境中合作。\n5.良好的書面和口頭溝通能力"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.資工/資管/資科/設計背景等相關系所，具備至少 2 年前端 Web 開發經驗\n2.熟悉Vue.js, HTML, SCSS, JavaScript, RWD(Responsive Web Design), Bootstrap網頁切版，有作品集尤佳\n3.具備基本的 RESTful API 設計概念，能與後端工程師溝通，熟悉php框架laravel尤佳\n4.具備基礎的 UI/UX 設計原則概念，並熟悉設計工具Figma\n5.運用數據可視化：使用 D3.js、ECharts 等數據可視化工具，開發直觀的數據展示界面\n6.具備基本的網站佈建知識，了解各種瀏覽器及尺寸相容問題\n7.熟悉單元測試（Vitest）及自動化測試工具\n8.編寫開發文件\n9.具備程式開發熱忱與積極性，善於溝通協調與團隊合作精神並能獨立解決問題\n10.投遞履歷須檢附大學及研究所成績單\n11.有過前後台分離的經驗尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n其他條件：1.資工/資管/資科/設計背景等相關系所，具備至少 2 年前端 Web 開發經驗\n2.熟悉Vue.js, HTML, SCSS, JavaScript, RWD(Responsive Web Design), Bootstrap網頁切版，有作品集尤佳\n3.具備基本的 RESTful API 設計概念，能與後端工程師溝通，熟悉php框架laravel尤佳\n4.具備基礎的 UI/UX 設計原則概念，並熟悉設計工具Figma\n5.運用數據可視化：使用 D3.js、ECharts 等數據可視化工具，開發直觀的數據展示界面\n6.具備基本的網站佈建知識，了解各種瀏覽器及尺寸相容問題\n7.熟悉單元測試（Vitest）及自動化測試工具\n8.編寫開發文件\n9.具備程式開發熱忱與積極性，善於溝通協調與團隊合作精神並能獨立解決問題\n10.投遞履歷須檢附大學及研究所成績單\n11.有過前後台分離的經驗尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8t7b1",
+    "job_url": "https://www.104.com.tw/job/8t7b1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8t7b1.json",
+    "raw_sha256": "51b328706587627b305c5cbaf673d4d7198d171bb17c1e088ad7e924818fd095",
+    "requested_url": "https://www.104.com.tw/api/jobs/8t7b1"
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "company": {
+    "id": "1a2x6bkdyp",
+    "name": "邦鉑科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "AI工程師",
+      "資料科學家"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI 模型整合與應用開發"
+        },
+        {
+          "children": [],
+          "text": "AI 產品原型與技術驗證"
+        },
+        {
+          "children": [],
+          "text": "測試、效能與系統維運"
+        },
+        {
+          "children": [],
+          "text": "技術研究與團隊協作"
+        },
+        {
+          "children": [],
+          "text": "2–4 年軟體開發經驗，具備將 AI 模型實際落地於專案／產品的開發經歷"
+        },
+        {
+          "children": [],
+          "text": "熟悉以下技術與實務："
+        },
+        {
+          "children": [],
+          "text": "具備 Agentic Workflow 設計與開發經驗，能有系統地建立系統架構"
+        },
+        {
+          "children": [],
+          "text": "具備 MCP 開發與整合經驗"
+        },
+        {
+          "children": [],
+          "text": "OpenAI Function Calling、Assistants API 深度使用經驗"
+        },
+        {
+          "children": [],
+          "text": "有 Fine-tuning 開源模型的實戰經驗"
+        },
+        {
+          "children": [],
+          "text": "具備 B2B SaaS 或企業解決方案開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Playwright、Selenium 或自動化測試工具"
+        },
+        {
+          "children": [],
+          "text": "具錯誤監控工具使用經驗，如 Sentry、Kibana"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Tailwind CSS／Design System"
+        }
+      ],
+      "text": "【Bombus AI事業發展部】\n我們正在擴建 AI 事業發展部！我們的核心產品線包含兩大版圖：自主研發的 Agentic AI 平台 『Sage』，以及由其深度賦能的企業級應用 『Senzfor』。\n我們致力於將複雜的 Agent 協作架構封裝成流暢的 SaaS 體驗，讓 AI 技術真正落地於企業客戶的日常營運中。\n我們相信 AI 不只是聊天機器人，更是能夠深度整合企業資料與流程的智能引擎。為了達成這個目標，我們需要 AI Engineer 加入我們，與團隊緊密配合。\n【你的使命 Your Mission】\n這不是一個研究型職位，而是 Product-Oriented 的實作角色。\n你將把 LLM、RAG、Agent 等 Generative AI 技術轉化為可運行的產品功能，從 AI 整合、Context Engineering，到 Agent Workflow 設計，打造使用者真正願意使用的 AI 體驗。你的工作將直接影響企業客戶在醫療衛教、內部稽核、知識管理等場景中的實際成效。\n【你將在團隊參與⋯】\n1. AI 模型整合與應用開發\n(1)整合 LLM、RAG、MCP、Agent Workflow Design 等 Generative AI 技術至產品功能模組\n(2)設計並優化 Agent Context Engineering，降低幻覺並提升生成品質\n(3)開發 RAG 系統、管理向量資料庫，建立企業知識庫\n(4)設計具備 Persona、情緒偵測與意圖識別的智能對話系統\n(5)建立 Agent 評測框架，量化模型效能（Accuracy／Latency／Cost）\n2. AI 產品原型與技術驗證\n(1)快速開發 AI 產品原型（PoC），評估 Scope 與 Agent 技術架構可行性\n(2)整合多模態模型能力，如圖片比對、圖文解析至業務流程\n(3)調查與研究 AI Agent、MCP、RAG 最新發展，實驗並導入技術核心\n3. 測試、效能與系統維運\n(1)撰寫 AI 功能測試案例，建立錯誤監控與問題追蹤機制\n(2)優化模型 API 呼叫效能與成本管控\n(3)開發並串聯自動化代理流程（Automated Agentic Pipeline）\n4. 技術研究與團隊協作\n(1)撰寫技術文件與 API Spec，協助 AI 模型版本管理\n(2)參與跨部門技術討論，將技術可行性轉化為實際產品功能\n(3)在開發團隊內部推動技術分享與知識交流\n【我們期待看到一個優秀的 AI Engineer 具備以下能力】\n1. 2–4 年軟體開發經驗，具備將 AI 模型實際落地於專案／產品的開發經歷\n2. 熟悉以下技術與實務：\n(1)精通 Python\n(2)具備 LLM 應用開發與 Context Engineering 實務經驗\n(3)熟悉 RAG 架構與向量資料庫，如 Pinecone、Qdrant、Milvus 等\n(4)熟悉 LangChain、LlamaIndex 或其他 AI 開發框架\n(5)具備基礎後端能力，包含資料存儲設計、系統資料流規劃、API 機制設計\n(6)具備 AI-Augmented Development 能力，善用 AI 工具提升開發效率\n【如果你擁有以下能力，那就更棒了！】\n1. 具備 Agentic Workflow 設計與開發經驗，能有系統地建立系統架構\n2. 具備 MCP 開發與整合經驗\n3. OpenAI Function Calling、Assistants API 深度使用經驗\n4. 有 Fine-tuning 開源模型的實戰經驗\n5. 具備 B2B SaaS 或企業解決方案開發經驗\n6. 熟悉 Playwright、Selenium 或自動化測試工具\n7. 具錯誤監控工具使用經驗，如 Sentry、Kibana\n8. 熟悉 Tailwind CSS／Design System\n【文化契合度 Culture Fit】\n對 AI 產品充滿熱情，渴望從「玩模型」進化到「做產品」\n在快速演進的 AI 領域，擁抱實驗與持續學習\n每個人都參與開發與測試——品質是建構出來的，而不僅僅是測試出來的\n具備主動溝通能力，能在跨部門環境中高效協作\n認同邦鉑「無界文化」——在傳統框架中突破，強調自由與責任、個人與團隊協作的無邊界可能性"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI工程師 AI Engineer（AI事業發展部）"
+  },
+  "location": {
+    "address_raw": "台北市內湖區新明路159號6樓",
+    "raw": "台北市內湖區新明路159號6樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "LLM",
+          "Python",
+          "Git",
+          "Prompt",
+          "ReactJS"
+        ],
+        "label": "擅長工具",
+        "text": "LLM、Python、Git、Prompt、ReactJS"
+      },
+      {
+        "items": [
+          "AI",
+          "機器學習",
+          "人工智慧",
+          "深度學習",
+          "Machine Learning",
+          "電腦視覺",
+          "提示工程",
+          "生成式AI",
+          "自然語言處理"
+        ],
+        "label": "工作技能",
+        "text": "AI、機器學習、人工智慧、深度學習、Machine Learning、電腦視覺、提示工程、生成式AI、自然語言處理"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【我們期待看到一個優秀的 AI Engineer 具備以下能力】\n1. 2–4 年軟體開發經驗，具備將 AI 模型實際落地於專案／產品的開發經歷\n2. 熟悉以下技術與實務：\n(1)精通 Python\n(2)具備 LLM 應用開發與 Context Engineering 實務經驗\n(3)熟悉 RAG 架構與向量資料庫，如 Pinecone、Qdrant、Milvus 等\n(4)熟悉 LangChain、LlamaIndex 或其他 AI 開發框架\n(5)具備基礎後端能力，包含資料存儲設計、系統資料流規劃、API 機制設計\n(6)具備 AI-Augmented Development 能力，善用 AI 工具提升開發效率\n【如果你擁有以下能力，那就更棒了！】\n1. 具備 Agentic Workflow 設計與開發經驗，能有系統地建立系統架構\n2. 具備 MCP 開發與整合經驗\n3. OpenAI Function Calling、Assistants API 深度使用經驗\n4. 有 Fine-tuning 開源模型的實戰經驗\n5. 具備 B2B SaaS 或企業解決方案開發經驗\n6. 熟悉 Playwright、Selenium 或自動化測試工具\n7. 具錯誤監控工具使用經驗，如 Sentry、Kibana\n8. 熟悉 Tailwind CSS／Design System"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "【我們期待看到一個優秀的 AI Engineer 具備以下能力】\n1. 2–4 年軟體開發經驗，具備將 AI 模型實際落地於專案／產品的開發經歷\n2. 熟悉以下技術與實務：\n(1)精通 Python\n(2)具備 LLM 應用開發與 Context Engineering 實務經驗\n(3)熟悉 RAG 架構與向量資料庫，如 Pinecone、Qdrant、Milvus 等\n(4)熟悉 LangChain、LlamaIndex 或其他 AI 開發框架\n(5)具備基礎後端能力，包含資料存儲設計、系統資料流規劃、API 機制設計\n(6)具備 AI-Augmented Development 能力，善用 AI 工具提升開發效率\n【如果你擁有以下能力，那就更棒了！】\n1. 具備 Agentic Workflow 設計與開發經驗，能有系統地建立系統架構\n2. 具備 MCP 開發與整合經驗\n3. OpenAI Function Calling、Assistants API 深度使用經驗\n4. 有 Fine-tuning 開源模型的實戰經驗\n5. 具備 B2B SaaS 或企業解決方案開發經驗\n6. 熟悉 Playwright、Selenium 或自動化測試工具\n7. 具錯誤監控工具使用經驗，如 Sentry、Kibana\n8. 熟悉 Tailwind CSS／Design System",
+    "skills": [
+      "AI",
+      "機器學習",
+      "人工智慧",
+      "深度學習",
+      "Machine Learning",
+      "電腦視覺",
+      "提示工程",
+      "生成式AI",
+      "自然語言處理"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：LLM、Python、Git、Prompt、ReactJS\n工作技能：AI、機器學習、人工智慧、深度學習、Machine Learning、電腦視覺、提示工程、生成式AI、自然語言處理\n其他條件：【我們期待看到一個優秀的 AI Engineer 具備以下能力】\n1. 2–4 年軟體開發經驗，具備將 AI 模型實際落地於專案／產品的開發經歷\n2. 熟悉以下技術與實務：\n(1)精通 Python\n(2)具備 LLM 應用開發與 Context Engineering 實務經驗\n(3)熟悉 RAG 架構與向量資料庫，如 Pinecone、Qdrant、Milvus 等\n(4)熟悉 LangChain、LlamaIndex 或其他 AI 開發框架\n(5)具備基礎後端能力，包含資料存儲設計、系統資料流規劃、API 機制設計\n(6)具備 AI-Augmented Development 能力，善用 AI 工具提升開發效率\n【如果你擁有以下能力，那就更棒了！】\n1. 具備 Agentic Workflow 設計與開發經驗，能有系統地建立系統架構\n2. 具備 MCP 開發與整合經驗\n3. OpenAI Function Calling、Assistants API 深度使用經驗\n4. 有 Fine-tuning 開源模型的實戰經驗\n5. 具備 B2B SaaS 或企業解決方案開發經驗\n6. 熟悉 Playwright、Selenium 或自動化測試工具\n7. 具錯誤監控工具使用經驗，如 Sentry、Kibana\n8. 熟悉 Tailwind CSS／Design System",
+    "tools": [
+      "LLM",
+      "Python",
+      "Git",
+      "Prompt",
+      "ReactJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 71
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:16:17+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【Bombus AI事業發展部】\n我們正在擴建 AI 事業發展部！我們的核心產品線包含兩大版圖：自主研發的 Agentic AI 平台 『Sage』，以及由其深度賦能的企業級應用 『Senzfor』。\n我們致力於將複雜的 Agent 協作架構封裝成流暢的 SaaS 體驗，讓 AI 技術真正落地於企業客戶的日常營運中。\n我們相信 AI 不只是聊天機器人，更是能夠深度整合企業資料與流程的智能引擎。為了達成這個目標，我們需要 AI Engineer 加入我們，與團隊緊密配合。\n【你的使命 Your Mission】\n這不是一個研究型職位，而是 Product-Oriented 的實作角色。\n你將把 LLM、RAG、Agent 等 Generative AI 技術轉化為可運行的產品功能，從 AI 整合、Context Engineering，到 Agent Workflow 設計，打造使用者真正願意使用的 AI 體驗。你的工作將直接影響企業客戶在醫療衛教、內部稽核、知識管理等場景中的實際成效。\n【你將在團隊參與⋯】\n1. AI 模型整合與應用開發\n(1)整合 LLM、RAG、MCP、Agent Workflow Design 等 Generative AI 技術至產品功能模組\n(2)設計並優化 Agent Context Engineering，降低幻覺並提升生成品質\n(3)開發 RAG 系統、管理向量資料庫，建立企業知識庫\n(4)設計具備 Persona、情緒偵測與意圖識別的智能對話系統\n(5)建立 Agent 評測框架，量化模型效能（Accuracy／Latency／Cost）\n2. AI 產品原型與技術驗證\n(1)快速開發 AI 產品原型（PoC），評估 Scope 與 Agent 技術架構可行性\n(2)整合多模態模型能力，如圖片比對、圖文解析至業務流程\n(3)調查與研究 AI Agent、MCP、RAG 最新發展，實驗並導入技術核心\n3. 測試、效能與系統維運\n(1)撰寫 AI 功能測試案例，建立錯誤監控與問題追蹤機制\n(2)優化模型 API 呼叫效能與成本管控\n(3)開發並串聯自動化代理流程（Automated Agentic Pipeline）\n4. 技術研究與團隊協作\n(1)撰寫技術文件與 API Spec，協助 AI 模型版本管理\n(2)參與跨部門技術討論，將技術可行性轉化為實際產品功能\n(3)在開發團隊內部推動技術分享與知識交流\n【我們期待看到一個優秀的 AI Engineer 具備以下能力】\n1. 2–4 年軟體開發經驗，具備將 AI 模型實際落地於專案／產品的開發經歷\n2. 熟悉以下技術與實務：\n(1)精通 Python\n(2)具備 LLM 應用開發與 Context Engineering 實務經驗\n(3)熟悉 RAG 架構與向量資料庫，如 Pinecone、Qdrant、Milvus 等\n(4)熟悉 LangChain、LlamaIndex 或其他 AI 開發框架\n(5)具備基礎後端能力，包含資料存儲設計、系統資料流規劃、API 機制設計\n(6)具備 AI-Augmented Development 能力，善用 AI 工具提升開發效率\n【如果你擁有以下能力，那就更棒了！】\n1. 具備 Agentic Workflow 設計與開發經驗，能有系統地建立系統架構\n2. 具備 MCP 開發與整合經驗\n3. OpenAI Function Calling、Assistants API 深度使用經驗\n4. 有 Fine-tuning 開源模型的實戰經驗\n5. 具備 B2B SaaS 或企業解決方案開發經驗\n6. 熟悉 Playwright、Selenium 或自動化測試工具\n7. 具錯誤監控工具使用經驗，如 Sentry、Kibana\n8. 熟悉 Tailwind CSS／Design System\n【文化契合度 Culture Fit】\n對 AI 產品充滿熱情，渴望從「玩模型」進化到「做產品」\n在快速演進的 AI 領域，擁抱實驗與持續學習\n每個人都參與開發與測試——品質是建構出來的，而不僅僅是測試出來的\n具備主動溝通能力，能在跨部門環境中高效協作\n認同邦鉑「無界文化」——在傳統框架中突破，強調自由與責任、個人與團隊協作的無邊界可能性",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "AI工程師",
+            "資料科學家"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、AI工程師、資料科學家",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區新明路159號6樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【Bombus AI事業發展部】\n我們正在擴建 AI 事業發展部！我們的核心產品線包含兩大版圖：自主研發的 Agentic AI 平台 『Sage』，以及由其深度賦能的企業級應用 『Senzfor』。\n我們致力於將複雜的 Agent 協作架構封裝成流暢的 SaaS 體驗，讓 AI 技術真正落地於企業客戶的日常營運中。\n我們相信 AI 不只是聊天機器人，更是能夠深度整合企業資料與流程的智能引擎。為了達成這個目標，我們需要 AI Engineer 加入我們，與團隊緊密配合。\n【你的使命 Your Mission】\n這不是一個研究型職位，而是 Product-Oriented 的實作角色。\n你將把 LLM、RAG、Agent 等 Generative AI 技術轉化為可運行的產品功能，從 AI 整合、Context Engineering，到 Agent Workflow 設計，打造使用者真正願意使用的 AI 體驗。你的工作將直接影響企業客戶在醫療衛教、內部稽核、知識管理等場景中的實際成效。\n【你將在團隊參與⋯】\n1. AI 模型整合與應用開發\n(1)整合 LLM、RAG、MCP、Agent Workflow Design 等 Generative AI 技術至產品功能模組\n(2)設計並優化 Agent Context Engineering，降低幻覺並提升生成品質\n(3)開發 RAG 系統、管理向量資料庫，建立企業知識庫\n(4)設計具備 Persona、情緒偵測與意圖識別的智能對話系統\n(5)建立 Agent 評測框架，量化模型效能（Accuracy／Latency／Cost）\n2. AI 產品原型與技術驗證\n(1)快速開發 AI 產品原型（PoC），評估 Scope 與 Agent 技術架構可行性\n(2)整合多模態模型能力，如圖片比對、圖文解析至業務流程\n(3)調查與研究 AI Agent、MCP、RAG 最新發展，實驗並導入技術核心\n3. 測試、效能與系統維運\n(1)撰寫 AI 功能測試案例，建立錯誤監控與問題追蹤機制\n(2)優化模型 API 呼叫效能與成本管控\n(3)開發並串聯自動化代理流程（Automated Agentic Pipeline）\n4. 技術研究與團隊協作\n(1)撰寫技術文件與 API Spec，協助 AI 模型版本管理\n(2)參與跨部門技術討論，將技術可行性轉化為實際產品功能\n(3)在開發團隊內部推動技術分享與知識交流\n【我們期待看到一個優秀的 AI Engineer 具備以下能力】\n1. 2–4 年軟體開發經驗，具備將 AI 模型實際落地於專案／產品的開發經歷\n2. 熟悉以下技術與實務：\n(1)精通 Python\n(2)具備 LLM 應用開發與 Context Engineering 實務經驗\n(3)熟悉 RAG 架構與向量資料庫，如 Pinecone、Qdrant、Milvus 等\n(4)熟悉 LangChain、LlamaIndex 或其他 AI 開發框架\n(5)具備基礎後端能力，包含資料存儲設計、系統資料流規劃、API 機制設計\n(6)具備 AI-Augmented Development 能力，善用 AI 工具提升開發效率\n【如果你擁有以下能力，那就更棒了！】\n1. 具備 Agentic Workflow 設計與開發經驗，能有系統地建立系統架構\n2. 具備 MCP 開發與整合經驗\n3. OpenAI Function Calling、Assistants API 深度使用經驗\n4. 有 Fine-tuning 開源模型的實戰經驗\n5. 具備 B2B SaaS 或企業解決方案開發經驗\n6. 熟悉 Playwright、Selenium 或自動化測試工具\n7. 具錯誤監控工具使用經驗，如 Sentry、Kibana\n8. 熟悉 Tailwind CSS／Design System\n【文化契合度 Culture Fit】\n對 AI 產品充滿熱情，渴望從「玩模型」進化到「做產品」\n在快速演進的 AI 領域，擁抱實驗與持續學習\n每個人都參與開發與測試——品質是建構出來的，而不僅僅是測試出來的\n具備主動溝通能力，能在跨部門環境中高效協作\n認同邦鉑「無界文化」——在傳統框架中突破，強調自由與責任、個人與團隊協作的無邊界可能性"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "LLM",
+            "Python",
+            "Git",
+            "Prompt",
+            "ReactJS"
+          ],
+          "label": "擅長工具",
+          "text": "LLM、Python、Git、Prompt、ReactJS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "機器學習",
+            "人工智慧",
+            "深度學習",
+            "Machine Learning",
+            "電腦視覺",
+            "提示工程",
+            "生成式AI",
+            "自然語言處理"
+          ],
+          "label": "工作技能",
+          "text": "AI、機器學習、人工智慧、深度學習、Machine Learning、電腦視覺、提示工程、生成式AI、自然語言處理",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【我們期待看到一個優秀的 AI Engineer 具備以下能力】\n1. 2–4 年軟體開發經驗，具備將 AI 模型實際落地於專案／產品的開發經歷\n2. 熟悉以下技術與實務：\n(1)精通 Python\n(2)具備 LLM 應用開發與 Context Engineering 實務經驗\n(3)熟悉 RAG 架構與向量資料庫，如 Pinecone、Qdrant、Milvus 等\n(4)熟悉 LangChain、LlamaIndex 或其他 AI 開發框架\n(5)具備基礎後端能力，包含資料存儲設計、系統資料流規劃、API 機制設計\n(6)具備 AI-Augmented Development 能力，善用 AI 工具提升開發效率\n【如果你擁有以下能力，那就更棒了！】\n1. 具備 Agentic Workflow 設計與開發經驗，能有系統地建立系統架構\n2. 具備 MCP 開發與整合經驗\n3. OpenAI Function Calling、Assistants API 深度使用經驗\n4. 有 Fine-tuning 開源模型的實戰經驗\n5. 具備 B2B SaaS 或企業解決方案開發經驗\n6. 熟悉 Playwright、Selenium 或自動化測試工具\n7. 具錯誤監控工具使用經驗，如 Sentry、Kibana\n8. 熟悉 Tailwind CSS／Design System",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：LLM、Python、Git、Prompt、ReactJS\n工作技能：AI、機器學習、人工智慧、深度學習、Machine Learning、電腦視覺、提示工程、生成式AI、自然語言處理\n其他條件：【我們期待看到一個優秀的 AI Engineer 具備以下能力】\n1. 2–4 年軟體開發經驗，具備將 AI 模型實際落地於專案／產品的開發經歷\n2. 熟悉以下技術與實務：\n(1)精通 Python\n(2)具備 LLM 應用開發與 Context Engineering 實務經驗\n(3)熟悉 RAG 架構與向量資料庫，如 Pinecone、Qdrant、Milvus 等\n(4)熟悉 LangChain、LlamaIndex 或其他 AI 開發框架\n(5)具備基礎後端能力，包含資料存儲設計、系統資料流規劃、API 機制設計\n(6)具備 AI-Augmented Development 能力，善用 AI 工具提升開發效率\n【如果你擁有以下能力，那就更棒了！】\n1. 具備 Agentic Workflow 設計與開發經驗，能有系統地建立系統架構\n2. 具備 MCP 開發與整合經驗\n3. OpenAI Function Calling、Assistants API 深度使用經驗\n4. 有 Fine-tuning 開源模型的實戰經驗\n5. 具備 B2B SaaS 或企業解決方案開發經驗\n6. 熟悉 Playwright、Selenium 或自動化測試工具\n7. 具錯誤監控工具使用經驗，如 Sentry、Kibana\n8. 熟悉 Tailwind CSS／Design System"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8yvq4",
+    "job_url": "https://www.104.com.tw/job/8yvq4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8yvq4.json",
+    "raw_sha256": "2f8d9472d18dea103a24246114fc0496d33e457eca56a643d1b094438fb85236",
+    "requested_url": "https://www.104.com.tw/api/jobs/8yvq4"
+  }
+}

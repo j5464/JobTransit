@@ -1,0 +1,244 @@
+{
+  "company": {
+    "id": "ctvszsw",
+    "name": "大聯大控股股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "團隊內系統設計/開發"
+        },
+        {
+          "children": [],
+          "text": "系統測試，功能完成後協助單元/整合測試"
+        },
+        {
+          "children": [],
+          "text": "新技術/技能/AI研究"
+        }
+      ],
+      "text": "大聯大控股資訊服務處擁有百名團隊夥伴，媲美中型軟體公司，以服務導向傾聽內外部客戶需求，結合自有資訊技術團隊，提供軟體開發、流程優化、跨集團系統整合之專業服務。以資訊技術為根本，內涵管理系統思考，協助大聯大達成企業運營目標\n【職務內容】\n負責集團內部系統的開發與日常運維，涵蓋需求分析、系統設計、開發、測試及上線。\n1. 團隊內系統設計/開發\n2. 系統測試，功能完成後協助單元/整合測試\n3. 新技術/技能/AI研究\n專案開發方式:\n＊ 採 Scrum 敏捷開發，並採用 DevOps 流程(CI/CD、代碼版本管理、容器化部署)\n＊ 架構為 Cloud Native，整合容器化技術與自動化部署流程\n【Must / 必備條件】\nJava 開發經驗： 1 年以上 Java 核心與物件導向開發實務。\n微服務實務： 熟悉 Spring Boot 微服務架構設計與 RESTful API 開發。\n資料庫能力： 熟練 SQL 語法、資料庫操作與效能優化。\n版本控制： 熟悉 Git 版本管控與 Branching 團隊協作流程。\n語言能力： TOEIC 600 分以上（或同等英文讀寫證明），能流暢閱讀英文技術文件與 API 規格。\n【Nice to have / 加分條件】\n前端開發經驗： 具備 Angular 或其他主流前端框架開發經驗者尤佳。\n雲端平台經驗： 具備雲端服務開發經驗（有 Azure 或 Aliyun 經驗者尤佳，或 AWS / GCP）。\nNoSQL 資料庫： 具備 Redis 操作、資料結構設計或開發經驗者尤佳。\nDevOps 實務： 熟悉 CI / CD 自動化部署流程（有 Azure DevOps 經驗者優先錄取）。\n現代化架構： 了解 Cloud Native（雲端原生）架構與 Container（如 Docker, Kubernetes）容器化技術。\n．年薪依績效可達約15~18全月薪以上\n．若接受經培養，可至新加坡、印尼、馬來西亞、越南、美國等地外派，也歡迎投遞"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java 軟體開發工程師 (MSU) #MRQ202607000109"
+  },
+  "location": {
+    "address_raw": "台北市南港區經貿二路189號 (南港軟體園區站1號出口步行25公尺)",
+    "raw": "台北市南港區經貿二路189號 (南港軟體園區站1號出口步行25公尺)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等",
+          "中文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等\n中文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Servlets",
+          "Java",
+          "Spring",
+          "MS SQL",
+          "MySQL",
+          "Oracle"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Servlets、Java、Spring、MS SQL、MySQL、Oracle"
+      },
+      {
+        "items": [
+          "系統維護操作",
+          "系統整合分析",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "系統維護操作、系統整合分析、軟體工程系統開發"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等",
+      "中文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "系統維護操作",
+      "系統整合分析",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n中文：中等、中等、中等、中等\n擅長工具：Linux、Servlets、Java、Spring、MS SQL、MySQL、Oracle\n工作技能：系統維護操作、系統整合分析、軟體工程系統開發",
+    "tools": [
+      "Linux",
+      "Servlets",
+      "Java",
+      "Spring",
+      "MS SQL",
+      "MySQL",
+      "Oracle"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 33
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:43:57+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "大聯大控股資訊服務處擁有百名團隊夥伴，媲美中型軟體公司，以服務導向傾聽內外部客戶需求，結合自有資訊技術團隊，提供軟體開發、流程優化、跨集團系統整合之專業服務。以資訊技術為根本，內涵管理系統思考，協助大聯大達成企業運營目標\n【職務內容】\n負責集團內部系統的開發與日常運維，涵蓋需求分析、系統設計、開發、測試及上線。\n1. 團隊內系統設計/開發\n2. 系統測試，功能完成後協助單元/整合測試\n3. 新技術/技能/AI研究\n專案開發方式:\n＊ 採 Scrum 敏捷開發，並採用 DevOps 流程(CI/CD、代碼版本管理、容器化部署)\n＊ 架構為 Cloud Native，整合容器化技術與自動化部署流程\n【Must / 必備條件】\nJava 開發經驗： 1 年以上 Java 核心與物件導向開發實務。\n微服務實務： 熟悉 Spring Boot 微服務架構設計與 RESTful API 開發。\n資料庫能力： 熟練 SQL 語法、資料庫操作與效能優化。\n版本控制： 熟悉 Git 版本管控與 Branching 團隊協作流程。\n語言能力： TOEIC 600 分以上（或同等英文讀寫證明），能流暢閱讀英文技術文件與 API 規格。\n【Nice to have / 加分條件】\n前端開發經驗： 具備 Angular 或其他主流前端框架開發經驗者尤佳。\n雲端平台經驗： 具備雲端服務開發經驗（有 Azure 或 Aliyun 經驗者尤佳，或 AWS / GCP）。\nNoSQL 資料庫： 具備 Redis 操作、資料結構設計或開發經驗者尤佳。\nDevOps 實務： 熟悉 CI / CD 自動化部署流程（有 Azure DevOps 經驗者優先錄取）。\n現代化架構： 了解 Cloud Native（雲端原生）架構與 Container（如 Docker, Kubernetes）容器化技術。\n．年薪依績效可達約15~18全月薪以上\n．若接受經培養，可至新加坡、印尼、馬來西亞、越南、美國等地外派，也歡迎投遞",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區經貿二路189號 (南港軟體園區站1號出口步行25公尺)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "大聯大控股資訊服務處擁有百名團隊夥伴，媲美中型軟體公司，以服務導向傾聽內外部客戶需求，結合自有資訊技術團隊，提供軟體開發、流程優化、跨集團系統整合之專業服務。以資訊技術為根本，內涵管理系統思考，協助大聯大達成企業運營目標\n【職務內容】\n負責集團內部系統的開發與日常運維，涵蓋需求分析、系統設計、開發、測試及上線。\n1. 團隊內系統設計/開發\n2. 系統測試，功能完成後協助單元/整合測試\n3. 新技術/技能/AI研究\n專案開發方式:\n＊ 採 Scrum 敏捷開發，並採用 DevOps 流程(CI/CD、代碼版本管理、容器化部署)\n＊ 架構為 Cloud Native，整合容器化技術與自動化部署流程\n【Must / 必備條件】\nJava 開發經驗： 1 年以上 Java 核心與物件導向開發實務。\n微服務實務： 熟悉 Spring Boot 微服務架構設計與 RESTful API 開發。\n資料庫能力： 熟練 SQL 語法、資料庫操作與效能優化。\n版本控制： 熟悉 Git 版本管控與 Branching 團隊協作流程。\n語言能力： TOEIC 600 分以上（或同等英文讀寫證明），能流暢閱讀英文技術文件與 API 規格。\n【Nice to have / 加分條件】\n前端開發經驗： 具備 Angular 或其他主流前端框架開發經驗者尤佳。\n雲端平台經驗： 具備雲端服務開發經驗（有 Azure 或 Aliyun 經驗者尤佳，或 AWS / GCP）。\nNoSQL 資料庫： 具備 Redis 操作、資料結構設計或開發經驗者尤佳。\nDevOps 實務： 熟悉 CI / CD 自動化部署流程（有 Azure DevOps 經驗者優先錄取）。\n現代化架構： 了解 Cloud Native（雲端原生）架構與 Container（如 Docker, Kubernetes）容器化技術。\n．年薪依績效可達約15~18全月薪以上\n．若接受經培養，可至新加坡、印尼、馬來西亞、越南、美國等地外派，也歡迎投遞"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等",
+            "中文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等\n中文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Servlets",
+            "Java",
+            "Spring",
+            "MS SQL",
+            "MySQL",
+            "Oracle"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Servlets、Java、Spring、MS SQL、MySQL、Oracle",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統維護操作",
+            "系統整合分析",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "系統維護操作、系統整合分析、軟體工程系統開發",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n中文：中等、中等、中等、中等\n擅長工具：Linux、Servlets、Java、Spring、MS SQL、MySQL、Oracle\n工作技能：系統維護操作、系統整合分析、軟體工程系統開發"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "919w6",
+    "job_url": "https://www.104.com.tw/job/919w6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/919w6.json",
+    "raw_sha256": "798a1e45a540668873fc23796c6768f6535ef87663b36137585153b66b9c536f",
+    "requested_url": "https://www.104.com.tw/api/jobs/919w6"
+  }
+}

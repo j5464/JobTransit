@@ -1,0 +1,197 @@
+{
+  "company": {
+    "id": "alcg2cw",
+    "name": "欣技資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Android工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "掌握新/既有產品需求的Android應用程式開發並與產品及設計端同仁討論實作細節。"
+        },
+        {
+          "children": [],
+          "text": "持續改善產品架構，維護程式碼品質及技術文件。"
+        },
+        {
+          "children": [],
+          "text": "新技術研究與試做。"
+        },
+        {
+          "children": [],
+          "text": "團隊合作，互相給予意見，達成共同目標。"
+        }
+      ],
+      "text": "1. 掌握新/既有產品需求的Android應用程式開發並與產品及設計端同仁討論實作細節。\n2. 持續改善產品架構，維護程式碼品質及技術文件。\n3. 新技術研究與試做。\n4. 團隊合作，互相給予意見，達成共同目標。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體研發工程師 ( Android APK )"
+  },
+  "location": {
+    "address_raw": "台北市大安區敦化南路二段333號12樓(國泰敦南商業大樓)",
+    "raw": "台北市大安區敦化南路二段333號12樓(國泰敦南商業大樓)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "Android",
+          "Kotlin"
+        ],
+        "label": "擅長工具",
+        "text": "Android、Kotlin"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具有1年以上Android開發實務經驗\n2. 熟悉Java, Kotlin\n3. 能獨立或團隊合力開發產品\n4. 積極主動，對新技術和行業趨勢保持敏感"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 具有1年以上Android開發實務經驗\n2. 熟悉Java, Kotlin\n3. 能獨立或團隊合力開發產品\n4. 積極主動，對新技術和行業趨勢保持敏感",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：Android、Kotlin\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：1. 具有1年以上Android開發實務經驗\n2. 熟悉Java, Kotlin\n3. 能獨立或團隊合力開發產品\n4. 積極主動，對新技術和行業趨勢保持敏感",
+    "tools": [
+      "Android",
+      "Kotlin"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 78
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:33:11+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 掌握新/既有產品需求的Android應用程式開發並與產品及設計端同仁討論實作細節。\n2. 持續改善產品架構，維護程式碼品質及技術文件。\n3. 新技術研究與試做。\n4. 團隊合作，互相給予意見，達成共同目標。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Android工程師"
+          ],
+          "label": "職務類別",
+          "text": "Android工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區敦化南路二段333號12樓(國泰敦南商業大樓)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 掌握新/既有產品需求的Android應用程式開發並與產品及設計端同仁討論實作細節。\n2. 持續改善產品架構，維護程式碼品質及技術文件。\n3. 新技術研究與試做。\n4. 團隊合作，互相給予意見，達成共同目標。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Android",
+            "Kotlin"
+          ],
+          "label": "擅長工具",
+          "text": "Android、Kotlin",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具有1年以上Android開發實務經驗\n2. 熟悉Java, Kotlin\n3. 能獨立或團隊合力開發產品\n4. 積極主動，對新技術和行業趨勢保持敏感",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：Android、Kotlin\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：1. 具有1年以上Android開發實務經驗\n2. 熟悉Java, Kotlin\n3. 能獨立或團隊合力開發產品\n4. 積極主動，對新技術和行業趨勢保持敏感"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8e38v",
+    "job_url": "https://www.104.com.tw/job/8e38v",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8e38v.json",
+    "raw_sha256": "068df35438fe48dd9c38932a1abb37ab5d45a29acfa33b01d2b30e599277f7b0",
+    "requested_url": "https://www.104.com.tw/api/jobs/8e38v"
+  }
+}

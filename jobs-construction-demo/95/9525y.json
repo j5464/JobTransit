@@ -1,0 +1,208 @@
+{
+  "company": {
+    "id": "24vuvio",
+    "name": "威健實業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "資料科學家",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "如果你每天都在用 ChatGPT、Claude、Gemini...\n如果你：\n✅ 習慣使用 ChatGPT、Claude Code、Gemini 或 Copilot 提升工作效率\n✅ 曾經思考如何把 AI 導入企業流程\n✅ 希望不只是寫程式，而是實際改變一家公司的工作方式\n✅ 想參與 AI Agent、企業知識庫、自動化流程等實戰專案\n歡迎加入威健實業 AI 數位轉型團隊。\n我們不是在研究 AI。\n我們正在利用 AI 改變企業營運模式。\n你將參與的專案\n>> AI應用導入\n評估與導入新興 AI 工具\n規劃企業 AI 使用情境\n建置 AI Agent 與知識庫\n>> 數位轉型推動\n與各部門訪談需求\n找出可改善流程\n規劃 AI 與自動化方案\n>> 系統整合\nERP / CRM / WMS 系統整合\nAPI 串接\n資料平台建置\n>> AI推廣\n舉辦教育訓練\n分享最佳實務\n推動 AI Champion 計畫\n我們正在找這樣的人\n你不一定要是 AI 專家。\n但希望你符合以下特質：\n✅ 喜歡研究新工具\n✅ 願意挑戰既有流程\n✅ 能把問題拆解成解決方案\n✅ 喜歡和不同部門溝通\n✅ 樂於持續學習\n✅ 對 AI 改變企業充滿熱情"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI數位轉型暨應用工程師（Copilot／ChatGPT／AI Agent）"
+  },
+  "location": {
+    "address_raw": "台北市內湖區內湖路一段308號11樓",
+    "raw": "台北市內湖區內湖路一段308號11樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "Python",
+          "Git",
+          "PL/SQL",
+          "Java",
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "Python、Git、PL/SQL、Java、C#"
+      },
+      {
+        "items": [
+          "系統整合分析",
+          "系統架構規劃",
+          "結構化程式設計",
+          "流程自動化",
+          "生成式AI",
+          "語言模型",
+          "提示工程"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析、系統架構規劃、結構化程式設計、流程自動化、生成式AI、語言模型、提示工程"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "* 加分條件\n具下列任一經驗尤佳：\nERP、CRM、WMS、Workflow 等企業系統導入或維運經驗\nAI 工具導入或企業數位轉型專案經驗\nCopilot、Agent、知識庫或 RAG 系統建置經驗\nOracle Database、Microsoft 365 或 Azure 平台經驗\nPython、JavaScript、Power Automate 開發經驗\n半導體、電子零組件代理商或製造業經驗\n* 其他條件\n核心能力\n具跨部門溝通與需求分析能力\n能將業務需求轉換為系統或 AI 解決方案\n具專案管理與推動能力\n樂於研究新技術並分享知識\n具獨立解決問題能力\n願意接受快速變化與持續學習挑戰\n具備 AI Agent、Workflow Automation、Knowledge Base 或企業 AI 專案實務經驗者尤佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "* 加分條件\n具下列任一經驗尤佳：\nERP、CRM、WMS、Workflow 等企業系統導入或維運經驗\nAI 工具導入或企業數位轉型專案經驗\nCopilot、Agent、知識庫或 RAG 系統建置經驗\nOracle Database、Microsoft 365 或 Azure 平台經驗\nPython、JavaScript、Power Automate 開發經驗\n半導體、電子零組件代理商或製造業經驗\n* 其他條件\n核心能力\n具跨部門溝通與需求分析能力\n能將業務需求轉換為系統或 AI 解決方案\n具專案管理與推動能力\n樂於研究新技術並分享知識\n具獨立解決問題能力\n願意接受快速變化與持續學習挑戰\n具備 AI Agent、Workflow Automation、Knowledge Base 或企業 AI 專案實務經驗者尤佳。",
+    "skills": [
+      "系統整合分析",
+      "系統架構規劃",
+      "結構化程式設計",
+      "流程自動化",
+      "生成式AI",
+      "語言模型",
+      "提示工程"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：Python、Git、PL/SQL、Java、C#\n工作技能：系統整合分析、系統架構規劃、結構化程式設計、流程自動化、生成式AI、語言模型、提示工程\n其他條件：* 加分條件\n具下列任一經驗尤佳：\nERP、CRM、WMS、Workflow 等企業系統導入或維運經驗\nAI 工具導入或企業數位轉型專案經驗\nCopilot、Agent、知識庫或 RAG 系統建置經驗\nOracle Database、Microsoft 365 或 Azure 平台經驗\nPython、JavaScript、Power Automate 開發經驗\n半導體、電子零組件代理商或製造業經驗\n* 其他條件\n核心能力\n具跨部門溝通與需求分析能力\n能將業務需求轉換為系統或 AI 解決方案\n具專案管理與推動能力\n樂於研究新技術並分享知識\n具獨立解決問題能力\n願意接受快速變化與持續學習挑戰\n具備 AI Agent、Workflow Automation、Knowledge Base 或企業 AI 專案實務經驗者尤佳。",
+    "tools": [
+      "Python",
+      "Git",
+      "PL/SQL",
+      "Java",
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:03:59+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "如果你每天都在用 ChatGPT、Claude、Gemini...\n如果你：\n✅ 習慣使用 ChatGPT、Claude Code、Gemini 或 Copilot 提升工作效率\n✅ 曾經思考如何把 AI 導入企業流程\n✅ 希望不只是寫程式，而是實際改變一家公司的工作方式\n✅ 想參與 AI Agent、企業知識庫、自動化流程等實戰專案\n歡迎加入威健實業 AI 數位轉型團隊。\n我們不是在研究 AI。\n我們正在利用 AI 改變企業營運模式。\n你將參與的專案\n>> AI應用導入\n評估與導入新興 AI 工具\n規劃企業 AI 使用情境\n建置 AI Agent 與知識庫\n>> 數位轉型推動\n與各部門訪談需求\n找出可改善流程\n規劃 AI 與自動化方案\n>> 系統整合\nERP / CRM / WMS 系統整合\nAPI 串接\n資料平台建置\n>> AI推廣\n舉辦教育訓練\n分享最佳實務\n推動 AI Champion 計畫\n我們正在找這樣的人\n你不一定要是 AI 專家。\n但希望你符合以下特質：\n✅ 喜歡研究新工具\n✅ 願意挑戰既有流程\n✅ 能把問題拆解成解決方案\n✅ 喜歡和不同部門溝通\n✅ 樂於持續學習\n✅ 對 AI 改變企業充滿熱情",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "資料科學家",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、資料科學家、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區內湖路一段308號11樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "如果你每天都在用 ChatGPT、Claude、Gemini...\n如果你：\n✅ 習慣使用 ChatGPT、Claude Code、Gemini 或 Copilot 提升工作效率\n✅ 曾經思考如何把 AI 導入企業流程\n✅ 希望不只是寫程式，而是實際改變一家公司的工作方式\n✅ 想參與 AI Agent、企業知識庫、自動化流程等實戰專案\n歡迎加入威健實業 AI 數位轉型團隊。\n我們不是在研究 AI。\n我們正在利用 AI 改變企業營運模式。\n你將參與的專案\n>> AI應用導入\n評估與導入新興 AI 工具\n規劃企業 AI 使用情境\n建置 AI Agent 與知識庫\n>> 數位轉型推動\n與各部門訪談需求\n找出可改善流程\n規劃 AI 與自動化方案\n>> 系統整合\nERP / CRM / WMS 系統整合\nAPI 串接\n資料平台建置\n>> AI推廣\n舉辦教育訓練\n分享最佳實務\n推動 AI Champion 計畫\n我們正在找這樣的人\n你不一定要是 AI 專家。\n但希望你符合以下特質：\n✅ 喜歡研究新工具\n✅ 願意挑戰既有流程\n✅ 能把問題拆解成解決方案\n✅ 喜歡和不同部門溝通\n✅ 樂於持續學習\n✅ 對 AI 改變企業充滿熱情"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "Git",
+            "PL/SQL",
+            "Java",
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "Python、Git、PL/SQL、Java、C#",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析",
+            "系統架構規劃",
+            "結構化程式設計",
+            "流程自動化",
+            "生成式AI",
+            "語言模型",
+            "提示工程"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析、系統架構規劃、結構化程式設計、流程自動化、生成式AI、語言模型、提示工程",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "* 加分條件\n具下列任一經驗尤佳：\nERP、CRM、WMS、Workflow 等企業系統導入或維運經驗\nAI 工具導入或企業數位轉型專案經驗\nCopilot、Agent、知識庫或 RAG 系統建置經驗\nOracle Database、Microsoft 365 或 Azure 平台經驗\nPython、JavaScript、Power Automate 開發經驗\n半導體、電子零組件代理商或製造業經驗\n* 其他條件\n核心能力\n具跨部門溝通與需求分析能力\n能將業務需求轉換為系統或 AI 解決方案\n具專案管理與推動能力\n樂於研究新技術並分享知識\n具獨立解決問題能力\n願意接受快速變化與持續學習挑戰\n具備 AI Agent、Workflow Automation、Knowledge Base 或企業 AI 專案實務經驗者尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：Python、Git、PL/SQL、Java、C#\n工作技能：系統整合分析、系統架構規劃、結構化程式設計、流程自動化、生成式AI、語言模型、提示工程\n其他條件：* 加分條件\n具下列任一經驗尤佳：\nERP、CRM、WMS、Workflow 等企業系統導入或維運經驗\nAI 工具導入或企業數位轉型專案經驗\nCopilot、Agent、知識庫或 RAG 系統建置經驗\nOracle Database、Microsoft 365 或 Azure 平台經驗\nPython、JavaScript、Power Automate 開發經驗\n半導體、電子零組件代理商或製造業經驗\n* 其他條件\n核心能力\n具跨部門溝通與需求分析能力\n能將業務需求轉換為系統或 AI 解決方案\n具專案管理與推動能力\n樂於研究新技術並分享知識\n具獨立解決問題能力\n願意接受快速變化與持續學習挑戰\n具備 AI Agent、Workflow Automation、Knowledge Base 或企業 AI 專案實務經驗者尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "9525y",
+    "job_url": "https://www.104.com.tw/job/9525y",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9525y.json",
+    "raw_sha256": "b433d19cfd010bc583cbf6961674251e194401b2742140a9798db920062069ab",
+    "requested_url": "https://www.104.com.tw/api/jobs/9525y"
+  }
+}

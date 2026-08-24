@@ -1,0 +1,222 @@
+{
+  "company": {
+    "id": "13u156q8",
+    "name": "由田新技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發維護AOI演算法、AVI演算法"
+        },
+        {
+          "children": [],
+          "text": "程式加速效能提升"
+        },
+        {
+          "children": [],
+          "text": "數位影像處理應用"
+        },
+        {
+          "children": [],
+          "text": "高速與高精度2D/3D全版量測設備演算發開發與改進"
+        }
+      ],
+      "text": "1.開發維護AOI演算法、AVI演算法\n2.程式加速效能提升\n3.數位影像處理應用\n4.高速與高精度2D/3D全版量測設備演算發開發與改進\n【 年薪14個月以上! 】"
+    },
+    "employment_type_raw": "全職",
+    "title": "影像處理演算法工程師(視訊面試)"
+  },
+  "location": {
+    "address_raw": "新北市中和區連城路268號10樓之1",
+    "raw": "新北市中和區連城路268號10樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、工程學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C#",
+          "C++",
+          "Visual C#"
+        ],
+        "label": "擅長工具",
+        "text": "C、C#、C++、Visual C#"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉C++或C#\n2.熟悉物件分割、邊緣偵測、Sub-pixel等影像處理作業\n3.熟悉Windows programming各項技術\n4.Assembly, MMX, GPU ability is plus\n5.有精密量測經驗尤佳\n6.學習能力佳，具備良好的溝通與處理問題能力"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "數學及電算機科學學科類",
+      "工程學科類"
+    ],
+    "other_text": "1.熟悉C++或C#\n2.熟悉物件分割、邊緣偵測、Sub-pixel等影像處理作業\n3.熟悉Windows programming各項技術\n4.Assembly, MMX, GPU ability is plus\n5.有精密量測經驗尤佳\n6.學習能力佳，具備良好的溝通與處理問題能力",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：數學及電算機科學學科類、工程學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C#、C++、Visual C#\n其他條件：1.熟悉C++或C#\n2.熟悉物件分割、邊緣偵測、Sub-pixel等影像處理作業\n3.熟悉Windows programming各項技術\n4.Assembly, MMX, GPU ability is plus\n5.有精密量測經驗尤佳\n6.學習能力佳，具備良好的溝通與處理問題能力",
+    "tools": [
+      "C",
+      "C#",
+      "C++",
+      "Visual C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 1
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:20:58+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.開發維護AOI演算法、AVI演算法\n2.程式加速效能提升\n3.數位影像處理應用\n4.高速與高精度2D/3D全版量測設備演算發開發與改進\n【 年薪14個月以上! 】",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區連城路268號10樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.開發維護AOI演算法、AVI演算法\n2.程式加速效能提升\n3.數位影像處理應用\n4.高速與高精度2D/3D全版量測設備演算發開發與改進\n【 年薪14個月以上! 】"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C#",
+            "C++",
+            "Visual C#"
+          ],
+          "label": "擅長工具",
+          "text": "C、C#、C++、Visual C#",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉C++或C#\n2.熟悉物件分割、邊緣偵測、Sub-pixel等影像處理作業\n3.熟悉Windows programming各項技術\n4.Assembly, MMX, GPU ability is plus\n5.有精密量測經驗尤佳\n6.學習能力佳，具備良好的溝通與處理問題能力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：數學及電算機科學學科類、工程學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C#、C++、Visual C#\n其他條件：1.熟悉C++或C#\n2.熟悉物件分割、邊緣偵測、Sub-pixel等影像處理作業\n3.熟悉Windows programming各項技術\n4.Assembly, MMX, GPU ability is plus\n5.有精密量測經驗尤佳\n6.學習能力佳，具備良好的溝通與處理問題能力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/22",
+    "html_sha256": null,
+    "job_id": "2dr3q",
+    "job_url": "https://www.104.com.tw/job/2dr3q",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/2dr3q.json",
+    "raw_sha256": "40d7dcd8473b75c55b57badb3ca0677cc6fef886bab7c29cda1a98817b8d91fa",
+    "requested_url": "https://www.104.com.tw/api/jobs/2dr3q"
+  }
+}

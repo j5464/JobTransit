@@ -1,0 +1,197 @@
+{
+  "company": {
+    "id": "1a2x6bm895",
+    "name": "WEINTEK_香港商威綸物聯網有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Embedded Linux系統軟體開發"
+        },
+        {
+          "children": [],
+          "text": "跨平台程式開發"
+        },
+        {
+          "children": [],
+          "text": "伺服器前端與後台管理程式開發"
+        },
+        {
+          "children": [],
+          "text": "操作介面軟體開發"
+        }
+      ],
+      "text": "參與雲端、工業物聯網與人機介面產品開發，工作項目包含：\n1. Embedded Linux系統軟體開發\n2. 跨平台程式開發\n3. 伺服器前端與後台管理程式開發\n4. 操作介面軟體開發"
+    },
+    "employment_type_raw": "全職",
+    "title": "【優渥年薪 高手請進】高級軟體工程師，精通C++"
+  },
+  "location": {
+    "address_raw": "新北市中和區台灣科技廣場",
+    "raw": "新北市中和區台灣科技廣場"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "C++"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 精通C/C++物件導向程式設計\n2. 熟悉GUI開發工具, 如Qt、MFC 等\n3. 熟悉Multi-Thread, BSD Socket Programming\n4. 具備軟體工程知識，包含Software Process、Design Pattern、Refactoring等"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "機械工程相關"
+    ],
+    "other_text": "1. 精通C/C++物件導向程式設計\n2. 熟悉GUI開發工具, 如Qt、MFC 等\n3. 熟悉Multi-Thread, BSD Socket Programming\n4. 具備軟體工程知識，包含Software Process、Design Pattern、Refactoring等",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n擅長工具：C++\n其他條件：1. 精通C/C++物件導向程式設計\n2. 熟悉GUI開發工具, 如Qt、MFC 等\n3. 熟悉Multi-Thread, BSD Socket Programming\n4. 具備軟體工程知識，包含Software Process、Design Pattern、Refactoring等",
+    "tools": [
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 24
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:20:05+08:00"
+  },
+  "salary": {
+    "raw": "月薪120,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "參與雲端、工業物聯網與人機介面產品開發，工作項目包含：\n1. Embedded Linux系統軟體開發\n2. 跨平台程式開發\n3. 伺服器前端與後台管理程式開發\n4. 操作介面軟體開發",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪120,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區台灣科技廣場",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "參與雲端、工業物聯網與人機介面產品開發，工作項目包含：\n1. Embedded Linux系統軟體開發\n2. 跨平台程式開發\n3. 伺服器前端與後台管理程式開發\n4. 操作介面軟體開發"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "C++",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 精通C/C++物件導向程式設計\n2. 熟悉GUI開發工具, 如Qt、MFC 等\n3. 熟悉Multi-Thread, BSD Socket Programming\n4. 具備軟體工程知識，包含Software Process、Design Pattern、Refactoring等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n擅長工具：C++\n其他條件：1. 精通C/C++物件導向程式設計\n2. 熟悉GUI開發工具, 如Qt、MFC 等\n3. 熟悉Multi-Thread, BSD Socket Programming\n4. 具備軟體工程知識，包含Software Process、Design Pattern、Refactoring等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "849do",
+    "job_url": "https://www.104.com.tw/job/849do",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/849do.json",
+    "raw_sha256": "6e3f325c52b4321e7e495772ce95b62d1ce6d7e2d088fc2c15b6ba9c5a5047fe",
+    "requested_url": "https://www.104.com.tw/api/jobs/849do"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "company": {
+    "id": "10tp2avc",
+    "name": "艾思網絡股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "後端工程師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Ruby on Rails網站相關技術：利用ROR、HTML、JS、CSS持續開發網站功能。"
+        },
+        {
+          "children": [],
+          "text": "大數據相關技術：利用MongoDB自行開發Data Management Platform，並應用於數據分析、廣告投放、個人化推薦、OneID辨識等地方。"
+        },
+        {
+          "children": [],
+          "text": "AI相關技術：導入LLM應用於@cosme平台，啟動AI賦能，將現行服務+AI。"
+        }
+      ],
+      "text": "國內最大化妝品使用心得及排行榜綜合網站@cosme Taiwan(前身UrCosme,2004年創建)在台營運20年，為國內消費者找尋化妝品使用心得及排行榜綜合資訊的主流網站，隸屬於日本上市公司集團istyle Inc.。除日本、台灣外，在香港、大陸、韓國、美國等地，亦有集團旗下化妝品社群/電商/零售等相關事業營運。\n網路產業隨著科技的不停進步，許多新技術不斷創新，加上AI重塑了工程師的日常工作樣貌，利用AI協作，大幅提高工作效率，而「整合應用」則成為了新一代工程師的必備能力，學習各式工具並透過排列組合，優化/解決當前遇到的各式問題。\n為維運@cosme TW、@cosme HK及整體Global平台系統，技術研發主要分成三部分：\n1.Ruby on Rails網站相關技術：利用ROR、HTML、JS、CSS持續開發網站功能。\n2.大數據相關技術：利用MongoDB自行開發Data Management Platform，並應用於數據分析、廣告投放、個人化推薦、OneID辨識等地方。\n3.AI相關技術：導入LLM應用於@cosme平台，啟動AI賦能，將現行服務+AI。\n技術部門是小型團隊(5人以下)，透過靈活賦予任務，接觸各種技術，提升技術也提升問題解決能力，期待你具備獨立網站開發能力，有學過上述三部分技術尤佳，希望找到有活力、邏輯清晰、思考靈活的你加入，一起共創價值。"
+    },
+    "employment_type_raw": "全職",
+    "title": "網站工程師（Website Enginner）"
+  },
+  "location": {
+    "address_raw": "台北市中正區南昌路二段81號3樓",
+    "raw": "台北市中正區南昌路二段81號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Ruby",
+          "LLM",
+          "HTML",
+          "JavaScript",
+          "Rails",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "Ruby、LLM、HTML、JavaScript、Rails、CSS"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "AI",
+          "自然語言處理"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發、AI、自然語言處理"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "AI",
+      "自然語言處理"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Ruby、LLM、HTML、JavaScript、Rails、CSS\n工作技能：軟體程式設計、軟體工程系統開發、AI、自然語言處理",
+    "tools": [
+      "Ruby",
+      "LLM",
+      "HTML",
+      "JavaScript",
+      "Rails",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 32
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:40:06+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "國內最大化妝品使用心得及排行榜綜合網站@cosme Taiwan(前身UrCosme,2004年創建)在台營運20年，為國內消費者找尋化妝品使用心得及排行榜綜合資訊的主流網站，隸屬於日本上市公司集團istyle Inc.。除日本、台灣外，在香港、大陸、韓國、美國等地，亦有集團旗下化妝品社群/電商/零售等相關事業營運。\n網路產業隨著科技的不停進步，許多新技術不斷創新，加上AI重塑了工程師的日常工作樣貌，利用AI協作，大幅提高工作效率，而「整合應用」則成為了新一代工程師的必備能力，學習各式工具並透過排列組合，優化/解決當前遇到的各式問題。\n為維運@cosme TW、@cosme HK及整體Global平台系統，技術研發主要分成三部分：\n1.Ruby on Rails網站相關技術：利用ROR、HTML、JS、CSS持續開發網站功能。\n2.大數據相關技術：利用MongoDB自行開發Data Management Platform，並應用於數據分析、廣告投放、個人化推薦、OneID辨識等地方。\n3.AI相關技術：導入LLM應用於@cosme平台，啟動AI賦能，將現行服務+AI。\n技術部門是小型團隊(5人以下)，透過靈活賦予任務，接觸各種技術，提升技術也提升問題解決能力，期待你具備獨立網站開發能力，有學過上述三部分技術尤佳，希望找到有活力、邏輯清晰、思考靈活的你加入，一起共創價值。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "後端工程師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、後端工程師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區南昌路二段81號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "國內最大化妝品使用心得及排行榜綜合網站@cosme Taiwan(前身UrCosme,2004年創建)在台營運20年，為國內消費者找尋化妝品使用心得及排行榜綜合資訊的主流網站，隸屬於日本上市公司集團istyle Inc.。除日本、台灣外，在香港、大陸、韓國、美國等地，亦有集團旗下化妝品社群/電商/零售等相關事業營運。\n網路產業隨著科技的不停進步，許多新技術不斷創新，加上AI重塑了工程師的日常工作樣貌，利用AI協作，大幅提高工作效率，而「整合應用」則成為了新一代工程師的必備能力，學習各式工具並透過排列組合，優化/解決當前遇到的各式問題。\n為維運@cosme TW、@cosme HK及整體Global平台系統，技術研發主要分成三部分：\n1.Ruby on Rails網站相關技術：利用ROR、HTML、JS、CSS持續開發網站功能。\n2.大數據相關技術：利用MongoDB自行開發Data Management Platform，並應用於數據分析、廣告投放、個人化推薦、OneID辨識等地方。\n3.AI相關技術：導入LLM應用於@cosme平台，啟動AI賦能，將現行服務+AI。\n技術部門是小型團隊(5人以下)，透過靈活賦予任務，接觸各種技術，提升技術也提升問題解決能力，期待你具備獨立網站開發能力，有學過上述三部分技術尤佳，希望找到有活力、邏輯清晰、思考靈活的你加入，一起共創價值。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Ruby",
+            "LLM",
+            "HTML",
+            "JavaScript",
+            "Rails",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "Ruby、LLM、HTML、JavaScript、Rails、CSS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "AI",
+            "自然語言處理"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發、AI、自然語言處理",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Ruby、LLM、HTML、JavaScript、Rails、CSS\n工作技能：軟體程式設計、軟體工程系統開發、AI、自然語言處理"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8nsy6",
+    "job_url": "https://www.104.com.tw/job/8nsy6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8nsy6.json",
+    "raw_sha256": "58a1c4a3f8a6e545f7526f1d926b9ded464358ebd8c78568ffa4e5e39e7195d9",
+    "requested_url": "https://www.104.com.tw/api/jobs/8nsy6"
+  }
+}

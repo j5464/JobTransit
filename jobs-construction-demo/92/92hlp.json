@@ -1,0 +1,211 @@
+{
+  "company": {
+    "id": "6geuxug",
+    "name": "四星國際股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "MIS程式設計師",
+      "軟體工程師",
+      "MES工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具備SQL Server 資料庫開發能力。"
+        },
+        {
+          "children": [],
+          "text": "熟悉撰寫T-SQL語言 (多表 JOIN、子查詢) 。"
+        },
+        {
+          "children": [],
+          "text": "熟悉JavaScript。"
+        },
+        {
+          "children": [],
+          "text": "確保辦公室電腦設備的日常運作順暢，提供用戶使用者基礎的電腦系統及設備維護。"
+        },
+        {
+          "children": [],
+          "text": "網路會議技術支持 (Zoom、Teams、Skype)、投影機擺放設置。"
+        },
+        {
+          "children": [],
+          "text": "具備使用Microsoft 365及應用(Ex. MS Office、SharePoint及Teams使用)設置及使用。"
+        },
+        {
+          "children": [],
+          "text": "相關上級主管交辦事項及資訊專案支援。"
+        },
+        {
+          "children": [],
+          "text": "大專或以上(不限科系)。"
+        },
+        {
+          "children": [],
+          "text": "應屆畢業或具IT/MIS工作及電腦程式開發工作經驗1年更佳。"
+        },
+        {
+          "children": [],
+          "text": "熟悉Microsoft 365系統及應用(Ex. MS Office、SharePoint及Teams使用)。"
+        },
+        {
+          "children": [],
+          "text": "了解雲端基礎設施、網路架構及建置。"
+        },
+        {
+          "children": [],
+          "text": "基礎英語讀寫能力。"
+        },
+        {
+          "children": [],
+          "text": "具備Python開發能力，能獨立撰寫腳本解決自動化問題。"
+        },
+        {
+          "children": [],
+          "text": "具備C#語言"
+        },
+        {
+          "children": [],
+          "text": "有實際操作過網路安全相關項目尤佳(Ex. 弱點掃描、源碼檢測、入侵偵測、社交工程演練等)。"
+        }
+      ],
+      "text": "【職務內容及要求】\n-具備SQL Server 資料庫開發能力。\n-熟悉撰寫T-SQL語言 (多表 JOIN、子查詢) 。\n-熟悉JavaScript。\n-確保辦公室電腦設備的日常運作順暢，提供用戶使用者基礎的電腦系統及設備維護。\n-網路會議技術支持 (Zoom、Teams、Skype)、投影機擺放設置。\n-具備使用Microsoft 365及應用(Ex. MS Office、SharePoint及Teams使用)設置及使用。\n-相關上級主管交辦事項及資訊專案支援。\n【必要條件】\n-大專或以上(不限科系)。\n-應屆畢業或具IT/MIS工作及電腦程式開發工作經驗1年更佳。\n-熟悉Microsoft 365系統及應用(Ex. MS Office、SharePoint及Teams使用)。\n-了解雲端基礎設施、網路架構及建置。\n-基礎英語讀寫能力。\n【加分條件】\n-具備Python開發能力，能獨立撰寫腳本解決自動化問題。\n-具備C#語言\n-有實際操作過網路安全相關項目尤佳(Ex. 弱點掃描、源碼檢測、入侵偵測、社交工程演練等)。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊專員/資深專員_IT/ MIS Specialist/Sr. Specialist"
+  },
+  "location": {
+    "address_raw": "台北市松山區民生東路四段",
+    "raw": "台北市松山區民生東路四段"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：專科以上\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 73
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:23:05+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職務內容及要求】\n-具備SQL Server 資料庫開發能力。\n-熟悉撰寫T-SQL語言 (多表 JOIN、子查詢) 。\n-熟悉JavaScript。\n-確保辦公室電腦設備的日常運作順暢，提供用戶使用者基礎的電腦系統及設備維護。\n-網路會議技術支持 (Zoom、Teams、Skype)、投影機擺放設置。\n-具備使用Microsoft 365及應用(Ex. MS Office、SharePoint及Teams使用)設置及使用。\n-相關上級主管交辦事項及資訊專案支援。\n【必要條件】\n-大專或以上(不限科系)。\n-應屆畢業或具IT/MIS工作及電腦程式開發工作經驗1年更佳。\n-熟悉Microsoft 365系統及應用(Ex. MS Office、SharePoint及Teams使用)。\n-了解雲端基礎設施、網路架構及建置。\n-基礎英語讀寫能力。\n【加分條件】\n-具備Python開發能力，能獨立撰寫腳本解決自動化問題。\n-具備C#語言\n-有實際操作過網路安全相關項目尤佳(Ex. 弱點掃描、源碼檢測、入侵偵測、社交工程演練等)。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MIS程式設計師",
+            "軟體工程師",
+            "MES工程師"
+          ],
+          "label": "職務類別",
+          "text": "MIS程式設計師、軟體工程師、MES工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區民生東路四段",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職務內容及要求】\n-具備SQL Server 資料庫開發能力。\n-熟悉撰寫T-SQL語言 (多表 JOIN、子查詢) 。\n-熟悉JavaScript。\n-確保辦公室電腦設備的日常運作順暢，提供用戶使用者基礎的電腦系統及設備維護。\n-網路會議技術支持 (Zoom、Teams、Skype)、投影機擺放設置。\n-具備使用Microsoft 365及應用(Ex. MS Office、SharePoint及Teams使用)設置及使用。\n-相關上級主管交辦事項及資訊專案支援。\n【必要條件】\n-大專或以上(不限科系)。\n-應屆畢業或具IT/MIS工作及電腦程式開發工作經驗1年更佳。\n-熟悉Microsoft 365系統及應用(Ex. MS Office、SharePoint及Teams使用)。\n-了解雲端基礎設施、網路架構及建置。\n-基礎英語讀寫能力。\n【加分條件】\n-具備Python開發能力，能獨立撰寫腳本解決自動化問題。\n-具備C#語言\n-有實際操作過網路安全相關項目尤佳(Ex. 弱點掃描、源碼檢測、入侵偵測、社交工程演練等)。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科以上\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "92hlp",
+    "job_url": "https://www.104.com.tw/job/92hlp",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92hlp.json",
+    "raw_sha256": "74ba58642b558646775bc56681895b074f7cbd40fc1eaf67b400e0e92f09fea8",
+    "requested_url": "https://www.104.com.tw/api/jobs/92hlp"
+  }
+}

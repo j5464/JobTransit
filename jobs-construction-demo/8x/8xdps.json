@@ -1,0 +1,241 @@
+{
+  "company": {
+    "id": "a5hrb8w",
+    "name": "聯合骨科器材股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "App 開發(使用 React Native 進行跨平台開發)"
+        },
+        {
+          "children": [],
+          "text": "使用 C# (.Net Core) 進行後端系統開發與維護"
+        },
+        {
+          "children": [],
+          "text": "操作 MS SQL 進行資料建模與提取，以進行數據分析與應用"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項"
+        }
+      ],
+      "text": "1.App 開發(使用 React Native 進行跨平台開發)\n2.使用 C# (.Net Core) 進行後端系統開發與維護\n3.操作 MS SQL 進行資料建模與提取，以進行數據分析與應用\n4.其他主管交辦事項\n｜所需技能與經驗｜\n■ 行動端技術： 熟悉 React Native 生命週期、狀態管理（如 Redux/Context API）、 UI 元件開發、CI/CD 流程、App 上架（iOS/Android）與版本控制（Git）\n■資料庫管理： 精通 MS SQL，具備資料結構設計、資料探勘及大數據基本概念\n■數據分析工具： 具備基礎 Python 或 R 語言能力， 熟悉 Tableau、Power BI 等 BI 工具，以進行數據整理與分析\n■具 Ruby on Rails (RoR) 開發經驗、專案管理、跨部門溝通經驗尤佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "【新竹】資訊高級工程師"
+  },
+  "location": {
+    "address_raw": "新竹市園區二路57號",
+    "raw": "新竹市園區二路57號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "C#",
+          "MS SQL",
+          "Python",
+          "Ruby",
+          "iOS",
+          "Android",
+          "Tableau",
+          "Rails",
+          "Power BI​"
+        ],
+        "label": "擅長工具",
+        "text": "C#、MS SQL、Python、Ruby、iOS、Android、Tableau、Rails、Power BI​"
+      },
+      {
+        "items": [
+          "專案溝通╱整合管理",
+          "數據分析",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "專案溝通╱整合管理、數據分析、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "能秉持誠信、盡責之態度執行每件交辦事項！"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "能秉持誠信、盡責之態度執行每件交辦事項！",
+    "skills": [
+      "專案溝通╱整合管理",
+      "數據分析",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：C#、MS SQL、Python、Ruby、iOS、Android、Tableau、Rails、Power BI​\n工作技能：專案溝通╱整合管理、數據分析、軟體程式設計\n其他條件：能秉持誠信、盡責之態度執行每件交辦事項！",
+    "tools": [
+      "C#",
+      "MS SQL",
+      "Python",
+      "Ruby",
+      "iOS",
+      "Android",
+      "Tableau",
+      "Rails",
+      "Power BI​"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 99
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:27:12+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.App 開發(使用 React Native 進行跨平台開發)\n2.使用 C# (.Net Core) 進行後端系統開發與維護\n3.操作 MS SQL 進行資料建模與提取，以進行數據分析與應用\n4.其他主管交辦事項\n｜所需技能與經驗｜\n■ 行動端技術： 熟悉 React Native 生命週期、狀態管理（如 Redux/Context API）、 UI 元件開發、CI/CD 流程、App 上架（iOS/Android）與版本控制（Git）\n■資料庫管理： 精通 MS SQL，具備資料結構設計、資料探勘及大數據基本概念\n■數據分析工具： 具備基礎 Python 或 R 語言能力， 熟悉 Tableau、Power BI 等 BI 工具，以進行數據整理與分析\n■具 Ruby on Rails (RoR) 開發經驗、專案管理、跨部門溝通經驗尤佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市園區二路57號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.App 開發(使用 React Native 進行跨平台開發)\n2.使用 C# (.Net Core) 進行後端系統開發與維護\n3.操作 MS SQL 進行資料建模與提取，以進行數據分析與應用\n4.其他主管交辦事項\n｜所需技能與經驗｜\n■ 行動端技術： 熟悉 React Native 生命週期、狀態管理（如 Redux/Context API）、 UI 元件開發、CI/CD 流程、App 上架（iOS/Android）與版本控制（Git）\n■資料庫管理： 精通 MS SQL，具備資料結構設計、資料探勘及大數據基本概念\n■數據分析工具： 具備基礎 Python 或 R 語言能力， 熟悉 Tableau、Power BI 等 BI 工具，以進行數據整理與分析\n■具 Ruby on Rails (RoR) 開發經驗、專案管理、跨部門溝通經驗尤佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "MS SQL",
+            "Python",
+            "Ruby",
+            "iOS",
+            "Android",
+            "Tableau",
+            "Rails",
+            "Power BI​"
+          ],
+          "label": "擅長工具",
+          "text": "C#、MS SQL、Python、Ruby、iOS、Android、Tableau、Rails、Power BI​",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "專案溝通╱整合管理",
+            "數據分析",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "專案溝通╱整合管理、數據分析、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "能秉持誠信、盡責之態度執行每件交辦事項！",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：C#、MS SQL、Python、Ruby、iOS、Android、Tableau、Rails、Power BI​\n工作技能：專案溝通╱整合管理、數據分析、軟體程式設計\n其他條件：能秉持誠信、盡責之態度執行每件交辦事項！"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8xdps",
+    "job_url": "https://www.104.com.tw/job/8xdps",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xdps.json",
+    "raw_sha256": "dc2cacf53f97825c305f4b332cedd0c15710942cdc9d80dbb170b83361db8ad1",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xdps"
+  }
+}

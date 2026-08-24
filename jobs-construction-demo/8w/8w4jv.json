@@ -1,0 +1,252 @@
+{
+  "company": {
+    "id": "1a2x6bmnic",
+    "name": "瑞典商英鉑科股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "各項遊戲功能及遊戲邏輯之程式開發與維護。"
+        },
+        {
+          "children": [],
+          "text": "遊戲系統及編輯工具之開發與維護。"
+        },
+        {
+          "children": [],
+          "text": "遊戲客戶端整體效能的優化。"
+        },
+        {
+          "children": [],
+          "text": "進行新系統或新功能規劃設計及開發。"
+        },
+        {
+          "children": [],
+          "text": "撰寫技術文件。"
+        },
+        {
+          "children": [],
+          "text": "多平台與多語系內容開發與上架維護 (iOS、Android、H5)。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Unity3D 引擎。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Addressable 資源管理與加載。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 C#語言及物件導向程式設計、具有嚴謹的邏輯思維能力。"
+        },
+        {
+          "children": [],
+          "text": "熟悉基本演算法、基礎數學。"
+        },
+        {
+          "children": [],
+          "text": "熟悉設計模式(design Pattern)。"
+        },
+        {
+          "children": [],
+          "text": "喜愛團隊合作，並願意分享知識，一同成長。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的時間管理能力。"
+        }
+      ],
+      "text": "【工作內容】\n1. 各項遊戲功能及遊戲邏輯之程式開發與維護。\n2. 遊戲系統及編輯工具之開發與維護。\n3. 遊戲客戶端整體效能的優化。\n4. 進行新系統或新功能規劃設計及開發。\n5. 撰寫技術文件。\n6. 多平台與多語系內容開發與上架維護 (iOS、Android、H5)。\n【必要條件】\n1. 熟悉 Unity3D 引擎。\n2. 熟悉 Addressable 資源管理與加載。\n3. 熟悉 C#語言及物件導向程式設計、具有嚴謹的邏輯思維能力。\n4. 熟悉基本演算法、基礎數學。\n5. 熟悉設計模式(design Pattern)。\n6. 喜愛團隊合作，並願意分享知識，一同成長。\n7. 具備良好的時間管理能力。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【擴編】Unity前端工程師 / Unity Developer"
+  },
+  "location": {
+    "address_raw": "台北市中山區中山北路二段44號4樓",
+    "raw": "台北市中山區中山北路二段44號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "Unity",
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "Unity、C#"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分條件】\n1. 熟悉 AI 並樂於嘗試與學習。\n2. 有專案設計、規畫、進度管理相關工作經驗。\n3. 專案開發、Apple Store 上架經驗。\n4. 遊戲引擎開發經驗，如 Unreal、CocosCreator。\n5. 圖學相關專長，能撰寫或修改 Shader。\n6. 有熱更新方案使用經驗，如 ILruntime、HybridCLR。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "【加分條件】\n1. 熟悉 AI 並樂於嘗試與學習。\n2. 有專案設計、規畫、進度管理相關工作經驗。\n3. 專案開發、Apple Store 上架經驗。\n4. 遊戲引擎開發經驗，如 Unreal、CocosCreator。\n5. 圖學相關專長，能撰寫或修改 Shader。\n6. 有熱更新方案使用經驗，如 ILruntime、HybridCLR。",
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n科系要求：資訊工程相關\n擅長工具：Unity、C#\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：【加分條件】\n1. 熟悉 AI 並樂於嘗試與學習。\n2. 有專案設計、規畫、進度管理相關工作經驗。\n3. 專案開發、Apple Store 上架經驗。\n4. 遊戲引擎開發經驗，如 Unreal、CocosCreator。\n5. 圖學相關專長，能撰寫或修改 Shader。\n6. 有熱更新方案使用經驗，如 ILruntime、HybridCLR。",
+    "tools": [
+      "Unity",
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 32
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:42:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 各項遊戲功能及遊戲邏輯之程式開發與維護。\n2. 遊戲系統及編輯工具之開發與維護。\n3. 遊戲客戶端整體效能的優化。\n4. 進行新系統或新功能規劃設計及開發。\n5. 撰寫技術文件。\n6. 多平台與多語系內容開發與上架維護 (iOS、Android、H5)。\n【必要條件】\n1. 熟悉 Unity3D 引擎。\n2. 熟悉 Addressable 資源管理與加載。\n3. 熟悉 C#語言及物件導向程式設計、具有嚴謹的邏輯思維能力。\n4. 熟悉基本演算法、基礎數學。\n5. 熟悉設計模式(design Pattern)。\n6. 喜愛團隊合作，並願意分享知識，一同成長。\n7. 具備良好的時間管理能力。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區中山北路二段44號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 各項遊戲功能及遊戲邏輯之程式開發與維護。\n2. 遊戲系統及編輯工具之開發與維護。\n3. 遊戲客戶端整體效能的優化。\n4. 進行新系統或新功能規劃設計及開發。\n5. 撰寫技術文件。\n6. 多平台與多語系內容開發與上架維護 (iOS、Android、H5)。\n【必要條件】\n1. 熟悉 Unity3D 引擎。\n2. 熟悉 Addressable 資源管理與加載。\n3. 熟悉 C#語言及物件導向程式設計、具有嚴謹的邏輯思維能力。\n4. 熟悉基本演算法、基礎數學。\n5. 熟悉設計模式(design Pattern)。\n6. 喜愛團隊合作，並願意分享知識，一同成長。\n7. 具備良好的時間管理能力。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Unity",
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "Unity、C#",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分條件】\n1. 熟悉 AI 並樂於嘗試與學習。\n2. 有專案設計、規畫、進度管理相關工作經驗。\n3. 專案開發、Apple Store 上架經驗。\n4. 遊戲引擎開發經驗，如 Unreal、CocosCreator。\n5. 圖學相關專長，能撰寫或修改 Shader。\n6. 有熱更新方案使用經驗，如 ILruntime、HybridCLR。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n科系要求：資訊工程相關\n擅長工具：Unity、C#\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：【加分條件】\n1. 熟悉 AI 並樂於嘗試與學習。\n2. 有專案設計、規畫、進度管理相關工作經驗。\n3. 專案開發、Apple Store 上架經驗。\n4. 遊戲引擎開發經驗，如 Unreal、CocosCreator。\n5. 圖學相關專長，能撰寫或修改 Shader。\n6. 有熱更新方案使用經驗，如 ILruntime、HybridCLR。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8w4jv",
+    "job_url": "https://www.104.com.tw/job/8w4jv",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8w4jv.json",
+    "raw_sha256": "c9cc1775fd6f6cd65960f10223ba3c65207065547d25d84f9e7f0a0538013486",
+    "requested_url": "https://www.104.com.tw/api/jobs/8w4jv"
+  }
+}

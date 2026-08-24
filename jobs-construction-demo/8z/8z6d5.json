@@ -1,0 +1,237 @@
+{
+  "company": {
+    "id": "1a2x6bkidf",
+    "name": "陽昇資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統分析師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依據客戶需求，開發與維護高效能、高安全性且使用者易用的應用程式。"
+        },
+        {
+          "children": [],
+          "text": "負責軟體產品的開發、系統規劃與持續改善。"
+        },
+        {
+          "children": [],
+          "text": "提供系統維護所需的所有必要文件。"
+        }
+      ],
+      "text": "【職缺名稱】\n軟體工程師（歡迎對商用軟體開發有熱忱的夥伴）\n【人格特質與要求】\n溝通與協調能力：具備良好之跨部門溝通協調技巧，能清晰闡述技術問題與需求規格，並落實項目追蹤至完成。\n【核心技術領域】（必備）\nMicrosoft SQL Server\nWinForm（使用 C# 或 VB.NET）\n希望你程式語言部份能夠至少會上述其中一種。WinForm部分會提供教育訓練\n【工作職責】\n1.依據客戶需求，開發與維護高效能、高安全性且使用者易用的應用程式。\n2.負責軟體產品的開發、系統規劃與持續改善。\n3.提供系統維護所需的所有必要文件。\n【公司福利】\n年節禮品\n年節獎金\n定期聚餐\n團體保險"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師"
+  },
+  "location": {
+    "address_raw": "台中市西屯區朝貴路106號1樓",
+    "raw": "台中市西屯區朝貴路106號1樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "中文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "中文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "C#",
+          "WinForm",
+          "Visual Basic .net"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、C#、WinForm、Visual Basic .net"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分項目】（具備以下技術或產業知識尤佳）\n技術專長：ASP.NET、JavaScript、RESTful API、Android Java、WCF、Crystal Reports、AI 相關技術。\n產業知識：POS 系統、ERP 系統、電子發票、電子商務、會計相關知識。"
+      }
+    ],
+    "languages": [
+      "中文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "【加分項目】（具備以下技術或產業知識尤佳）\n技術專長：ASP.NET、JavaScript、RESTful API、Android Java、WCF、Crystal Reports、AI 相關技術。\n產業知識：POS 系統、ERP 系統、電子發票、電子商務、會計相關知識。",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：中文：精通、精通、精通、精通\n擅長工具：MS SQL、C#、WinForm、Visual Basic .net\n工作技能：軟體程式設計\n其他條件：【加分項目】（具備以下技術或產業知識尤佳）\n技術專長：ASP.NET、JavaScript、RESTful API、Android Java、WCF、Crystal Reports、AI 相關技術。\n產業知識：POS 系統、ERP 系統、電子發票、電子商務、會計相關知識。",
+    "tools": [
+      "MS SQL",
+      "C#",
+      "WinForm",
+      "Visual Basic .net"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 3
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:26:16+08:00"
+  },
+  "salary": {
+    "raw": "月薪36,000~68,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職缺名稱】\n軟體工程師（歡迎對商用軟體開發有熱忱的夥伴）\n【人格特質與要求】\n溝通與協調能力：具備良好之跨部門溝通協調技巧，能清晰闡述技術問題與需求規格，並落實項目追蹤至完成。\n【核心技術領域】（必備）\nMicrosoft SQL Server\nWinForm（使用 C# 或 VB.NET）\n希望你程式語言部份能夠至少會上述其中一種。WinForm部分會提供教育訓練\n【工作職責】\n1.依據客戶需求，開發與維護高效能、高安全性且使用者易用的應用程式。\n2.負責軟體產品的開發、系統規劃與持續改善。\n3.提供系統維護所需的所有必要文件。\n【公司福利】\n年節禮品\n年節獎金\n定期聚餐\n團體保險",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統分析師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統分析師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪36,000~68,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區朝貴路106號1樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職缺名稱】\n軟體工程師（歡迎對商用軟體開發有熱忱的夥伴）\n【人格特質與要求】\n溝通與協調能力：具備良好之跨部門溝通協調技巧，能清晰闡述技術問題與需求規格，並落實項目追蹤至完成。\n【核心技術領域】（必備）\nMicrosoft SQL Server\nWinForm（使用 C# 或 VB.NET）\n希望你程式語言部份能夠至少會上述其中一種。WinForm部分會提供教育訓練\n【工作職責】\n1.依據客戶需求，開發與維護高效能、高安全性且使用者易用的應用程式。\n2.負責軟體產品的開發、系統規劃與持續改善。\n3.提供系統維護所需的所有必要文件。\n【公司福利】\n年節禮品\n年節獎金\n定期聚餐\n團體保險"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "中文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "中文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "C#",
+            "WinForm",
+            "Visual Basic .net"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、C#、WinForm、Visual Basic .net",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分項目】（具備以下技術或產業知識尤佳）\n技術專長：ASP.NET、JavaScript、RESTful API、Android Java、WCF、Crystal Reports、AI 相關技術。\n產業知識：POS 系統、ERP 系統、電子發票、電子商務、會計相關知識。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：中文：精通、精通、精通、精通\n擅長工具：MS SQL、C#、WinForm、Visual Basic .net\n工作技能：軟體程式設計\n其他條件：【加分項目】（具備以下技術或產業知識尤佳）\n技術專長：ASP.NET、JavaScript、RESTful API、Android Java、WCF、Crystal Reports、AI 相關技術。\n產業知識：POS 系統、ERP 系統、電子發票、電子商務、會計相關知識。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8z6d5",
+    "job_url": "https://www.104.com.tw/job/8z6d5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8z6d5.json",
+    "raw_sha256": "bc5ff30df4e6024bd592ca22b2eebac5a8444da9917f2cf9d2a214dab2072c08",
+    "requested_url": "https://www.104.com.tw/api/jobs/8z6d5"
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "company": {
+    "id": "1a2x6bn8xb",
+    "name": "彼特思方舟股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Implement mark price algorithms that reflect fair value and ensure stability under volatile market conditions."
+        },
+        {
+          "children": [],
+          "text": "Build and maintain index methodologies (e.g., VWAP, TWAP, median-based) for use in settlement, funding rate calculation, and NAV determination."
+        },
+        {
+          "children": [],
+          "text": "Support risk systems with accurate and timely price feeds and model calibration, continuously integrating new pricing sources based on business requests to enhance coverage and stability."
+        },
+        {
+          "children": [],
+          "text": "Conduct statistical and time-series analysis of price data to detect anomalies, latency patterns, or market manipulation."
+        },
+        {
+          "children": [],
+          "text": "Work with exchange infrastructure to ensure low-latency data capture, normalisation, and cross-venue synchronisation."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with devops and infra teams to deploy production-ready Java code on trading systems."
+        },
+        {
+          "children": [],
+          "text": "Backtest and monitor model performance; propose data-driven improvements to ensure accuracy and robustness."
+        },
+        {
+          "children": [],
+          "text": "Document methodologies and contribute to internal pricing standards across the firm."
+        },
+        {
+          "children": [],
+          "text": "Support business operations, including on-call troubleshooting of pricing issues and onboarding new token listings etc."
+        },
+        {
+          "children": [],
+          "text": "An interest in crypto markets and systematic trading."
+        },
+        {
+          "children": [],
+          "text": "2+ years of hands-on experience with Java development."
+        },
+        {
+          "children": [],
+          "text": "Experience in real-time systems or financial/trading environments."
+        },
+        {
+          "children": [],
+          "text": "Understanding of multi-threading, concurrency, and low-latency system design."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of data structures, algorithms, and design patterns."
+        },
+        {
+          "children": [],
+          "text": "Strong analytical and problem-solving skills."
+        },
+        {
+          "children": [],
+          "text": "Excellent communication and teamwork skills."
+        },
+        {
+          "children": [],
+          "text": "Experience working on crypto trading systems."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of crypto market instruments, such as perpetual futures."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with cloud platforms."
+        },
+        {
+          "children": [],
+          "text": "Exposure to market data feeds and trading APIs."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of databases, including SQL and NoSQL."
+        },
+        {
+          "children": [],
+          "text": "Experience in other scripting languages, like Python, for backtesting or tooling."
+        },
+        {
+          "children": [],
+          "text": "Understanding of risk management in trading systems."
+        }
+      ],
+      "text": "About the opportunity:\nWe are seeking a highly skilled Java Developer to join our trading system development team. You will play a critical role in building, optimising, and maintaining a high-performance, low-latency trading system. This is an exciting opportunity to work in a fast-paced, collaborative environment and make a direct impact on trading strategies and operations.\nResponsibilities:\n1. Implement mark price algorithms that reflect fair value and ensure stability under volatile market conditions.\n2. Build and maintain index methodologies (e.g., VWAP, TWAP, median-based) for use in settlement, funding rate calculation, and NAV determination.\n3. Support risk systems with accurate and timely price feeds and model calibration, continuously integrating new pricing sources based on business requests to enhance coverage and stability.\n4. Conduct statistical and time-series analysis of price data to detect anomalies, latency patterns, or market manipulation.\n5. Work with exchange infrastructure to ensure low-latency data capture, normalisation, and cross-venue synchronisation.\n6. Collaborate with devops and infra teams to deploy production-ready Java code on trading systems.\n7. Backtest and monitor model performance; propose data-driven improvements to ensure accuracy and robustness.\n8. Document methodologies and contribute to internal pricing standards across the firm.\n9. Support business operations, including on-call troubleshooting of pricing issues and onboarding new token listings etc.\nRequirements:\n1. An interest in crypto markets and systematic trading.\n2. 2+ years of hands-on experience with Java development.\n3. Experience in real-time systems or financial/trading environments.\n4. Understanding of multi-threading, concurrency, and low-latency system design.\n5. Knowledge of data structures, algorithms, and design patterns.\n6. Strong analytical and problem-solving skills.\n7. Excellent communication and teamwork skills.\nNice to have:\n1. Experience working on crypto trading systems.\n2. Knowledge of crypto market instruments, such as perpetual futures.\n3. Familiarity with cloud platforms.\n4. Exposure to market data feeds and trading APIs.\n5. Knowledge of databases, including SQL and NoSQL.\n6. Experience in other scripting languages, like Python, for backtesting or tooling.\n7. Understanding of risk management in trading systems."
+    },
+    "employment_type_raw": "全職",
+    "title": "Quant Developer - Pricing"
+  },
+  "location": {
+    "address_raw": "台北市信義區",
+    "raw": "台北市信義區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "Java"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "系統架構規劃"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發、系統架構規劃"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "系統架構規劃"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java\n工作技能：軟體程式設計、軟體工程系統開發、系統架構規劃",
+    "tools": [
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 20
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:09:54+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "About the opportunity:\nWe are seeking a highly skilled Java Developer to join our trading system development team. You will play a critical role in building, optimising, and maintaining a high-performance, low-latency trading system. This is an exciting opportunity to work in a fast-paced, collaborative environment and make a direct impact on trading strategies and operations.\nResponsibilities:\n1. Implement mark price algorithms that reflect fair value and ensure stability under volatile market conditions.\n2. Build and maintain index methodologies (e.g., VWAP, TWAP, median-based) for use in settlement, funding rate calculation, and NAV determination.\n3. Support risk systems with accurate and timely price feeds and model calibration, continuously integrating new pricing sources based on business requests to enhance coverage and stability.\n4. Conduct statistical and time-series analysis of price data to detect anomalies, latency patterns, or market manipulation.\n5. Work with exchange infrastructure to ensure low-latency data capture, normalisation, and cross-venue synchronisation.\n6. Collaborate with devops and infra teams to deploy production-ready Java code on trading systems.\n7. Backtest and monitor model performance; propose data-driven improvements to ensure accuracy and robustness.\n8. Document methodologies and contribute to internal pricing standards across the firm.\n9. Support business operations, including on-call troubleshooting of pricing issues and onboarding new token listings etc.\nRequirements:\n1. An interest in crypto markets and systematic trading.\n2. 2+ years of hands-on experience with Java development.\n3. Experience in real-time systems or financial/trading environments.\n4. Understanding of multi-threading, concurrency, and low-latency system design.\n5. Knowledge of data structures, algorithms, and design patterns.\n6. Strong analytical and problem-solving skills.\n7. Excellent communication and teamwork skills.\nNice to have:\n1. Experience working on crypto trading systems.\n2. Knowledge of crypto market instruments, such as perpetual futures.\n3. Familiarity with cloud platforms.\n4. Exposure to market data feeds and trading APIs.\n5. Knowledge of databases, including SQL and NoSQL.\n6. Experience in other scripting languages, like Python, for backtesting or tooling.\n7. Understanding of risk management in trading systems.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "About the opportunity:\nWe are seeking a highly skilled Java Developer to join our trading system development team. You will play a critical role in building, optimising, and maintaining a high-performance, low-latency trading system. This is an exciting opportunity to work in a fast-paced, collaborative environment and make a direct impact on trading strategies and operations.\nResponsibilities:\n1. Implement mark price algorithms that reflect fair value and ensure stability under volatile market conditions.\n2. Build and maintain index methodologies (e.g., VWAP, TWAP, median-based) for use in settlement, funding rate calculation, and NAV determination.\n3. Support risk systems with accurate and timely price feeds and model calibration, continuously integrating new pricing sources based on business requests to enhance coverage and stability.\n4. Conduct statistical and time-series analysis of price data to detect anomalies, latency patterns, or market manipulation.\n5. Work with exchange infrastructure to ensure low-latency data capture, normalisation, and cross-venue synchronisation.\n6. Collaborate with devops and infra teams to deploy production-ready Java code on trading systems.\n7. Backtest and monitor model performance; propose data-driven improvements to ensure accuracy and robustness.\n8. Document methodologies and contribute to internal pricing standards across the firm.\n9. Support business operations, including on-call troubleshooting of pricing issues and onboarding new token listings etc.\nRequirements:\n1. An interest in crypto markets and systematic trading.\n2. 2+ years of hands-on experience with Java development.\n3. Experience in real-time systems or financial/trading environments.\n4. Understanding of multi-threading, concurrency, and low-latency system design.\n5. Knowledge of data structures, algorithms, and design patterns.\n6. Strong analytical and problem-solving skills.\n7. Excellent communication and teamwork skills.\nNice to have:\n1. Experience working on crypto trading systems.\n2. Knowledge of crypto market instruments, such as perpetual futures.\n3. Familiarity with cloud platforms.\n4. Exposure to market data feeds and trading APIs.\n5. Knowledge of databases, including SQL and NoSQL.\n6. Experience in other scripting languages, like Python, for backtesting or tooling.\n7. Understanding of risk management in trading systems."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "Java",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "系統架構規劃"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發、系統架構規劃",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java\n工作技能：軟體程式設計、軟體工程系統開發、系統架構規劃"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "953y1",
+    "job_url": "https://www.104.com.tw/job/953y1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/953y1.json",
+    "raw_sha256": "eddde69db4457e932e90ccb79dda372421f8413f50cfc67ae816c5de0179f035",
+    "requested_url": "https://www.104.com.tw/api/jobs/953y1"
+  }
+}

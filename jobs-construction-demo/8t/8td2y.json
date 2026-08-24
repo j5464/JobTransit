@@ -1,0 +1,272 @@
+{
+  "company": {
+    "id": "10xim8xk",
+    "name": "賽輪思股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "後端工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Translate research findings and prototypes into production-grade software solutions"
+        },
+        {
+          "children": [],
+          "text": "Collaborate with R&D teams to bridge the gap between innovation and product delivery"
+        },
+        {
+          "children": [],
+          "text": "Conduct thorough automated testing, including stability and performance testing, prior to product releases"
+        },
+        {
+          "children": [],
+          "text": "Develop and maintain CI/CD pipelines to ensure smooth deployment processes"
+        },
+        {
+          "children": [],
+          "text": "Resolve merge conflicts in version control systems (e.g., Git)"
+        },
+        {
+          "children": [],
+          "text": "Review and optimize codebase for maintainability and scalability"
+        },
+        {
+          "children": [],
+          "text": "Ensure compliance with coding standards and best practices"
+        },
+        {
+          "children": [],
+          "text": "Write comprehensive release notes detailing changes, improvements, and known issues"
+        },
+        {
+          "children": [],
+          "text": "Maintain technical documentation for development processes and system architecture"
+        },
+        {
+          "children": [],
+          "text": "5+ years of experience in software development"
+        },
+        {
+          "children": [],
+          "text": "Strong proficiency in C/C++, Java and Python"
+        },
+        {
+          "children": [],
+          "text": "Experience with automated testing frameworks"
+        },
+        {
+          "children": [],
+          "text": "Knowledge of performance testing tools"
+        },
+        {
+          "children": [],
+          "text": "Familiarity with version control systems"
+        },
+        {
+          "children": [],
+          "text": "Proven track record of delivering production-ready software"
+        },
+        {
+          "children": [],
+          "text": "Basic deep learning and LLM knowledge and reference framework and optimization with such as ONNX"
+        },
+        {
+          "children": [],
+          "text": "Excellent problem-solving and communication skills"
+        },
+        {
+          "children": [],
+          "text": "Good team player with fluent English language capability"
+        }
+      ],
+      "text": "We are seeking a highly skilled Senior Software Engineer for the development and release of software products by transforming research outcomes into production-ready solutions. The ideal candidate will be responsible for ensuring software quality through comprehensive testing, managing version upgrades, resolving code conflicts, and maintaining proper documentation.\nKey Responsibilities:\nRepresentative responsibilities/duties will include but not limited to:\n• Translate research findings and prototypes into production-grade software solutions\n• Collaborate with R&D teams to bridge the gap between innovation and product delivery\n• Conduct thorough automated testing, including stability and performance testing, prior to product releases\n• Develop and maintain CI/CD pipelines to ensure smooth deployment processes\n• Resolve merge conflicts in version control systems (e.g., Git)\n• Review and optimize codebase for maintainability and scalability\n• Ensure compliance with coding standards and best practices\n• Write comprehensive release notes detailing changes, improvements, and known issues\n• Maintain technical documentation for development processes and system architecture\nKnowledge, skills, and qualifications\nEducation: Bachelor’s or above degree from CS or related field\nRequired/preferred skills:\n• 5+ years of experience in software development\n• Strong proficiency in C/C++, Java and Python\n• Experience with automated testing frameworks\n• Knowledge of performance testing tools\n• Familiarity with version control systems\n• Proven track record of delivering production-ready software\n• Basic deep learning and LLM knowledge and reference framework and optimization with such as ONNX\n• Excellent problem-solving and communication skills\n• Good team player with fluent English language capability\nCerenceAI champions diversity and innovation. We welcome applicants from all backgrounds to work on cutting-edge AI voice technology, shape the future of human-machine interaction, and join a team that values innovation and collaboration."
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior Software Engineer-TTS"
+  },
+  "location": {
+    "address_raw": "台北市內湖區洲子街55號4樓 (內湖新世紀大樓)",
+    "raw": "台北市內湖區洲子街55號4樓 (內湖新世紀大樓)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "C++",
+          "C",
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "C++、C、Java"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "生成式AI",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、生成式AI、軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "生成式AI",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關\n擅長工具：C++、C、Java\n工作技能：軟體工程系統開發、生成式AI、軟體程式設計",
+    "tools": [
+      "C++",
+      "C",
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 69
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:13:02+08:00"
+  },
+  "salary": {
+    "raw": "年薪1,400,000~1,700,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are seeking a highly skilled Senior Software Engineer for the development and release of software products by transforming research outcomes into production-ready solutions. The ideal candidate will be responsible for ensuring software quality through comprehensive testing, managing version upgrades, resolving code conflicts, and maintaining proper documentation.\nKey Responsibilities:\nRepresentative responsibilities/duties will include but not limited to:\n• Translate research findings and prototypes into production-grade software solutions\n• Collaborate with R&D teams to bridge the gap between innovation and product delivery\n• Conduct thorough automated testing, including stability and performance testing, prior to product releases\n• Develop and maintain CI/CD pipelines to ensure smooth deployment processes\n• Resolve merge conflicts in version control systems (e.g., Git)\n• Review and optimize codebase for maintainability and scalability\n• Ensure compliance with coding standards and best practices\n• Write comprehensive release notes detailing changes, improvements, and known issues\n• Maintain technical documentation for development processes and system architecture\nKnowledge, skills, and qualifications\nEducation: Bachelor’s or above degree from CS or related field\nRequired/preferred skills:\n• 5+ years of experience in software development\n• Strong proficiency in C/C++, Java and Python\n• Experience with automated testing frameworks\n• Knowledge of performance testing tools\n• Familiarity with version control systems\n• Proven track record of delivering production-ready software\n• Basic deep learning and LLM knowledge and reference framework and optimization with such as ONNX\n• Excellent problem-solving and communication skills\n• Good team player with fluent English language capability\nCerenceAI champions diversity and innovation. We welcome applicants from all backgrounds to work on cutting-edge AI voice technology, shape the future of human-machine interaction, and join a team that values innovation and collaboration.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "後端工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、後端工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪1,400,000~1,700,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區洲子街55號4樓 (內湖新世紀大樓)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are seeking a highly skilled Senior Software Engineer for the development and release of software products by transforming research outcomes into production-ready solutions. The ideal candidate will be responsible for ensuring software quality through comprehensive testing, managing version upgrades, resolving code conflicts, and maintaining proper documentation.\nKey Responsibilities:\nRepresentative responsibilities/duties will include but not limited to:\n• Translate research findings and prototypes into production-grade software solutions\n• Collaborate with R&D teams to bridge the gap between innovation and product delivery\n• Conduct thorough automated testing, including stability and performance testing, prior to product releases\n• Develop and maintain CI/CD pipelines to ensure smooth deployment processes\n• Resolve merge conflicts in version control systems (e.g., Git)\n• Review and optimize codebase for maintainability and scalability\n• Ensure compliance with coding standards and best practices\n• Write comprehensive release notes detailing changes, improvements, and known issues\n• Maintain technical documentation for development processes and system architecture\nKnowledge, skills, and qualifications\nEducation: Bachelor’s or above degree from CS or related field\nRequired/preferred skills:\n• 5+ years of experience in software development\n• Strong proficiency in C/C++, Java and Python\n• Experience with automated testing frameworks\n• Knowledge of performance testing tools\n• Familiarity with version control systems\n• Proven track record of delivering production-ready software\n• Basic deep learning and LLM knowledge and reference framework and optimization with such as ONNX\n• Excellent problem-solving and communication skills\n• Good team player with fluent English language capability\nCerenceAI champions diversity and innovation. We welcome applicants from all backgrounds to work on cutting-edge AI voice technology, shape the future of human-machine interaction, and join a team that values innovation and collaboration."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "C",
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "C++、C、Java",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "生成式AI",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、生成式AI、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關\n擅長工具：C++、C、Java\n工作技能：軟體工程系統開發、生成式AI、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8td2y",
+    "job_url": "https://www.104.com.tw/job/8td2y",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8td2y.json",
+    "raw_sha256": "33b299b6e3b9ebbcdbc5c6f9d18fc24c48cced3b37e9ce60364db513ebf06f72",
+    "requested_url": "https://www.104.com.tw/api/jobs/8td2y"
+  }
+}

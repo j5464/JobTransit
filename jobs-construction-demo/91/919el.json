@@ -1,0 +1,238 @@
+{
+  "company": {
+    "id": "13kxcxbc",
+    "name": "Allion_百佳泰股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "演算法工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "持續研究、評估與整理各類 AI 模型與工具，包括語言模型（LM / LLM / SLM）、視覺語言模型（VLM）、OCR、語音模型（ASR / STT / TTS）、影像理解、多模態模型等。"
+        },
+        {
+          "children": [],
+          "text": "針對公司自動化測試、產品方案、螢幕理解、語音判斷、影像辨識、文件分析等場景，建立 PoC、Demo 與可落地的技術方案。"
+        },
+        {
+          "children": [],
+          "text": "評估模型導入可行性，包括準確率、反應時間、硬體需求、授權成本、維護難度、資安與產品化風險。"
+        },
+        {
+          "children": [],
+          "text": "協助將模型能力整合至公司既有產品或自動化流程，例如 API 串接、本地部署、邊緣部署、Prompt / Workflow 設計、RAG 或 Agent 流程設計。"
+        },
+        {
+          "children": [],
+          "text": "建立模型測試資料、評估方法與比較報告，協助團隊選擇合適模型與導入方式。"
+        },
+        {
+          "children": [],
+          "text": "與自動化工程師、軟體工程師、測試團隊合作，將 AI 技術轉化為可展示、可驗證、可維護的產品功能。"
+        }
+      ],
+      "text": "1. 持續研究、評估與整理各類 AI 模型與工具，包括語言模型（LM / LLM / SLM）、視覺語言模型（VLM）、OCR、語音模型（ASR / STT / TTS）、影像理解、多模態模型等。\n2. 針對公司自動化測試、產品方案、螢幕理解、語音判斷、影像辨識、文件分析等場景，建立 PoC、Demo 與可落地的技術方案。\n3. 評估模型導入可行性，包括準確率、反應時間、硬體需求、授權成本、維護難度、資安與產品化風險。\n4. 協助將模型能力整合至公司既有產品或自動化流程，例如 API 串接、本地部署、邊緣部署、Prompt / Workflow 設計、RAG 或 Agent 流程設計。\n5. 建立模型測試資料、評估方法與比較報告，協助團隊選擇合適模型與導入方式。\n6. 與自動化工程師、軟體工程師、測試團隊合作，將 AI 技術轉化為可展示、可驗證、可維護的產品功能。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI模型應用工程師 AI Research & Application Engineer (中興新村南投高等研究園區)"
+  },
+  "location": {
+    "address_raw": "南投縣南投市中興路9號(中興新村南投高等研究園區)",
+    "raw": "南投縣南投市中興路9號(中興新村南投高等研究園區)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "應用數學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、應用數學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python",
+          "Git",
+          "PyTorch",
+          "tensorflow",
+          "LLM"
+        ],
+        "label": "擅長工具",
+        "text": "Python、Git、PyTorch、tensorflow、LLM"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "※ 具 AI 應用、資料分析、軟體開發、模型部署或相關作品經驗佳\n1. 本職務重點在「模型研究、評估與實用導入」，不要求自行從零訓練大型模型，但需能判斷模型是否適合公司產品場景。\n2. 熟悉語言模型、視覺語言模型、OCR、語音模型、影像模型或多模態模型任一領域者佳。\n3. 能針對不同模型建立測試方法，整理準確率、速度、硬體需求、成本與落地風險。\n4. 具本地端／邊緣端部署、量化、低 GPU 資源推論、API 化或 Docker 化經驗者佳。\n5. 具備 Python 開發能力，能完成簡易 PoC、Demo、API 串接與資料處理流程。\n6. 熟悉 AI tool 佳，例如 ChatGPT、GitHub Copilot、Cursor、Perplexity 或相關研究／開發輔助工具。\n7. 可提供 AI 專案、Side Project、模型測試報告、Demo 或 GitHub 作品者佳。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "應用數學相關"
+    ],
+    "other_text": "※ 具 AI 應用、資料分析、軟體開發、模型部署或相關作品經驗佳\n1. 本職務重點在「模型研究、評估與實用導入」，不要求自行從零訓練大型模型，但需能判斷模型是否適合公司產品場景。\n2. 熟悉語言模型、視覺語言模型、OCR、語音模型、影像模型或多模態模型任一領域者佳。\n3. 能針對不同模型建立測試方法，整理準確率、速度、硬體需求、成本與落地風險。\n4. 具本地端／邊緣端部署、量化、低 GPU 資源推論、API 化或 Docker 化經驗者佳。\n5. 具備 Python 開發能力，能完成簡易 PoC、Demo、API 串接與資料處理流程。\n6. 熟悉 AI tool 佳，例如 ChatGPT、GitHub Copilot、Cursor、Perplexity 或相關研究／開發輔助工具。\n7. 可提供 AI 專案、Side Project、模型測試報告、Demo 或 GitHub 作品者佳。",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、應用數學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Git、PyTorch、tensorflow、LLM\n其他條件：※ 具 AI 應用、資料分析、軟體開發、模型部署或相關作品經驗佳\n1. 本職務重點在「模型研究、評估與實用導入」，不要求自行從零訓練大型模型，但需能判斷模型是否適合公司產品場景。\n2. 熟悉語言模型、視覺語言模型、OCR、語音模型、影像模型或多模態模型任一領域者佳。\n3. 能針對不同模型建立測試方法，整理準確率、速度、硬體需求、成本與落地風險。\n4. 具本地端／邊緣端部署、量化、低 GPU 資源推論、API 化或 Docker 化經驗者佳。\n5. 具備 Python 開發能力，能完成簡易 PoC、Demo、API 串接與資料處理流程。\n6. 熟悉 AI tool 佳，例如 ChatGPT、GitHub Copilot、Cursor、Perplexity 或相關研究／開發輔助工具。\n7. 可提供 AI 專案、Side Project、模型測試報告、Demo 或 GitHub 作品者佳。",
+    "tools": [
+      "Python",
+      "Git",
+      "PyTorch",
+      "tensorflow",
+      "LLM"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 44
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:09:12+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 持續研究、評估與整理各類 AI 模型與工具，包括語言模型（LM / LLM / SLM）、視覺語言模型（VLM）、OCR、語音模型（ASR / STT / TTS）、影像理解、多模態模型等。\n2. 針對公司自動化測試、產品方案、螢幕理解、語音判斷、影像辨識、文件分析等場景，建立 PoC、Demo 與可落地的技術方案。\n3. 評估模型導入可行性，包括準確率、反應時間、硬體需求、授權成本、維護難度、資安與產品化風險。\n4. 協助將模型能力整合至公司既有產品或自動化流程，例如 API 串接、本地部署、邊緣部署、Prompt / Workflow 設計、RAG 或 Agent 流程設計。\n5. 建立模型測試資料、評估方法與比較報告，協助團隊選擇合適模型與導入方式。\n6. 與自動化工程師、軟體工程師、測試團隊合作，將 AI 技術轉化為可展示、可驗證、可維護的產品功能。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "演算法工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、演算法工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "南投縣南投市中興路9號(中興新村南投高等研究園區)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 持續研究、評估與整理各類 AI 模型與工具，包括語言模型（LM / LLM / SLM）、視覺語言模型（VLM）、OCR、語音模型（ASR / STT / TTS）、影像理解、多模態模型等。\n2. 針對公司自動化測試、產品方案、螢幕理解、語音判斷、影像辨識、文件分析等場景，建立 PoC、Demo 與可落地的技術方案。\n3. 評估模型導入可行性，包括準確率、反應時間、硬體需求、授權成本、維護難度、資安與產品化風險。\n4. 協助將模型能力整合至公司既有產品或自動化流程，例如 API 串接、本地部署、邊緣部署、Prompt / Workflow 設計、RAG 或 Agent 流程設計。\n5. 建立模型測試資料、評估方法與比較報告，協助團隊選擇合適模型與導入方式。\n6. 與自動化工程師、軟體工程師、測試團隊合作，將 AI 技術轉化為可展示、可驗證、可維護的產品功能。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "應用數學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、應用數學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "Git",
+            "PyTorch",
+            "tensorflow",
+            "LLM"
+          ],
+          "label": "擅長工具",
+          "text": "Python、Git、PyTorch、tensorflow、LLM",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "※ 具 AI 應用、資料分析、軟體開發、模型部署或相關作品經驗佳\n1. 本職務重點在「模型研究、評估與實用導入」，不要求自行從零訓練大型模型，但需能判斷模型是否適合公司產品場景。\n2. 熟悉語言模型、視覺語言模型、OCR、語音模型、影像模型或多模態模型任一領域者佳。\n3. 能針對不同模型建立測試方法，整理準確率、速度、硬體需求、成本與落地風險。\n4. 具本地端／邊緣端部署、量化、低 GPU 資源推論、API 化或 Docker 化經驗者佳。\n5. 具備 Python 開發能力，能完成簡易 PoC、Demo、API 串接與資料處理流程。\n6. 熟悉 AI tool 佳，例如 ChatGPT、GitHub Copilot、Cursor、Perplexity 或相關研究／開發輔助工具。\n7. 可提供 AI 專案、Side Project、模型測試報告、Demo 或 GitHub 作品者佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、應用數學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Git、PyTorch、tensorflow、LLM\n其他條件：※ 具 AI 應用、資料分析、軟體開發、模型部署或相關作品經驗佳\n1. 本職務重點在「模型研究、評估與實用導入」，不要求自行從零訓練大型模型，但需能判斷模型是否適合公司產品場景。\n2. 熟悉語言模型、視覺語言模型、OCR、語音模型、影像模型或多模態模型任一領域者佳。\n3. 能針對不同模型建立測試方法，整理準確率、速度、硬體需求、成本與落地風險。\n4. 具本地端／邊緣端部署、量化、低 GPU 資源推論、API 化或 Docker 化經驗者佳。\n5. 具備 Python 開發能力，能完成簡易 PoC、Demo、API 串接與資料處理流程。\n6. 熟悉 AI tool 佳，例如 ChatGPT、GitHub Copilot、Cursor、Perplexity 或相關研究／開發輔助工具。\n7. 可提供 AI 專案、Side Project、模型測試報告、Demo 或 GitHub 作品者佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "919el",
+    "job_url": "https://www.104.com.tw/job/919el",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/919el.json",
+    "raw_sha256": "a870b0d62cd994e3e19e8e984f24bd7d579c855631a0e33e53e8c8a24dca6c17",
+    "requested_url": "https://www.104.com.tw/api/jobs/919el"
+  }
+}

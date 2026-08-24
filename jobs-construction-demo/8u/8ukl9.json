@@ -1,0 +1,261 @@
+{
+  "company": {
+    "id": "13prkvfs",
+    "name": "生木科技玻璃股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "軟體工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責公司資訊系統需求分析，並與系統廠商協同開發、測試及維護。"
+        },
+        {
+          "children": [],
+          "text": "負責協助 SQL Server 資料庫查詢、報表製作及資料分析。"
+        },
+        {
+          "children": [],
+          "text": "開發及維護公司內部程式。"
+        },
+        {
+          "children": [],
+          "text": "負責電腦、網路、NAS、印表機及各項資訊設備管理。"
+        },
+        {
+          "children": [],
+          "text": "協助跨部門資訊需求分析，規劃並執行資訊化專案。"
+        },
+        {
+          "children": [],
+          "text": "建立資訊文件、SOP、教育訓練及資訊安全管理。"
+        },
+        {
+          "children": [],
+          "text": "支援使用者日常資訊問題，提供教育訓練及技術協助。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Microsoft Windows、Office 基本操作。"
+        },
+        {
+          "children": [],
+          "text": "具 SQL（MS SQL 或 MySQL）查詢能力。"
+        },
+        {
+          "children": [],
+          "text": "具程式開發能力（Python、PHP 任一）。"
+        },
+        {
+          "children": [],
+          "text": "具資訊設備、網路及系統維護經驗。"
+        },
+        {
+          "children": [],
+          "text": "能獨立分析問題並提出改善方案。"
+        },
+        {
+          "children": [],
+          "text": "具良好的跨部門溝通能力及責任感。"
+        }
+      ],
+      "text": "【職務內容】\n1.負責公司資訊系統需求分析，並與系統廠商協同開發、測試及維護。\n2.負責協助 SQL Server 資料庫查詢、報表製作及資料分析。\n3.開發及維護公司內部程式。\n4.負責電腦、網路、NAS、印表機及各項資訊設備管理。\n5.協助跨部門資訊需求分析，規劃並執行資訊化專案。\n6.建立資訊文件、SOP、教育訓練及資訊安全管理。\n7.支援使用者日常資訊問題，提供教育訓練及技術協助。\n【必要條件】\n1.熟悉 Microsoft Windows、Office 基本操作。\n2.具 SQL（MS SQL 或 MySQL）查詢能力。\n3.具程式開發能力（Python、PHP 任一）。\n4.具資訊設備、網路及系統維護經驗。\n5.能獨立分析問題並提出改善方案。\n6.具良好的跨部門溝通能力及責任感。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊工程師 MIS/ERP(具備二年經驗)"
+  },
+  "location": {
+    "address_raw": "高雄市仁武區竹楠路33巷51號",
+    "raw": "高雄市仁武區竹楠路33巷51號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "其他相關科系"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、其他相關科系"
+      },
+      {
+        "items": [
+          "Excel",
+          "Word",
+          "PowerPoint",
+          "MySQL",
+          "MES",
+          "JavaScript",
+          "HTML",
+          "ASP",
+          "CSS",
+          "PHP"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Word、PowerPoint、MySQL、MES、JavaScript、HTML、ASP、CSS、PHP"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分條件】\n1.有 ERP 導入或維護經驗。\n2.熟悉 EasyFlow、鼎新HRM、名鑰 ERP 等企業系統。\n3.具備財會經驗者優先錄取。\n4.具製造業 MES、生產管理或自動化經驗。\n5.具能源管理系統（EMS）、ISO 50001、能源監控、電力數據分析或節能改善相關經驗者佳。\n6.曾參與資訊專案管理或系統整合。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "其他相關科系"
+    ],
+    "other_text": "【加分條件】\n1.有 ERP 導入或維護經驗。\n2.熟悉 EasyFlow、鼎新HRM、名鑰 ERP 等企業系統。\n3.具備財會經驗者優先錄取。\n4.具製造業 MES、生產管理或自動化經驗。\n5.具能源管理系統（EMS）、ISO 50001、能源監控、電力數據分析或節能改善相關經驗者佳。\n6.曾參與資訊專案管理或系統整合。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：資訊管理相關、其他相關科系\n擅長工具：Excel、Word、PowerPoint、MySQL、MES、JavaScript、HTML、ASP、CSS、PHP\n其他條件：【加分條件】\n1.有 ERP 導入或維護經驗。\n2.熟悉 EasyFlow、鼎新HRM、名鑰 ERP 等企業系統。\n3.具備財會經驗者優先錄取。\n4.具製造業 MES、生產管理或自動化經驗。\n5.具能源管理系統（EMS）、ISO 50001、能源監控、電力數據分析或節能改善相關經驗者佳。\n6.曾參與資訊專案管理或系統整合。",
+    "tools": [
+      "Excel",
+      "Word",
+      "PowerPoint",
+      "MySQL",
+      "MES",
+      "JavaScript",
+      "HTML",
+      "ASP",
+      "CSS",
+      "PHP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 55
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:36:32+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000~42,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職務內容】\n1.負責公司資訊系統需求分析，並與系統廠商協同開發、測試及維護。\n2.負責協助 SQL Server 資料庫查詢、報表製作及資料分析。\n3.開發及維護公司內部程式。\n4.負責電腦、網路、NAS、印表機及各項資訊設備管理。\n5.協助跨部門資訊需求分析，規劃並執行資訊化專案。\n6.建立資訊文件、SOP、教育訓練及資訊安全管理。\n7.支援使用者日常資訊問題，提供教育訓練及技術協助。\n【必要條件】\n1.熟悉 Microsoft Windows、Office 基本操作。\n2.具 SQL（MS SQL 或 MySQL）查詢能力。\n3.具程式開發能力（Python、PHP 任一）。\n4.具資訊設備、網路及系統維護經驗。\n5.能獨立分析問題並提出改善方案。\n6.具良好的跨部門溝通能力及責任感。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "軟體工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、軟體工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000~42,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市仁武區竹楠路33巷51號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職務內容】\n1.負責公司資訊系統需求分析，並與系統廠商協同開發、測試及維護。\n2.負責協助 SQL Server 資料庫查詢、報表製作及資料分析。\n3.開發及維護公司內部程式。\n4.負責電腦、網路、NAS、印表機及各項資訊設備管理。\n5.協助跨部門資訊需求分析，規劃並執行資訊化專案。\n6.建立資訊文件、SOP、教育訓練及資訊安全管理。\n7.支援使用者日常資訊問題，提供教育訓練及技術協助。\n【必要條件】\n1.熟悉 Microsoft Windows、Office 基本操作。\n2.具 SQL（MS SQL 或 MySQL）查詢能力。\n3.具程式開發能力（Python、PHP 任一）。\n4.具資訊設備、網路及系統維護經驗。\n5.能獨立分析問題並提出改善方案。\n6.具良好的跨部門溝通能力及責任感。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "其他相關科系"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、其他相關科系",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Word",
+            "PowerPoint",
+            "MySQL",
+            "MES",
+            "JavaScript",
+            "HTML",
+            "ASP",
+            "CSS",
+            "PHP"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Word、PowerPoint、MySQL、MES、JavaScript、HTML、ASP、CSS、PHP",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分條件】\n1.有 ERP 導入或維護經驗。\n2.熟悉 EasyFlow、鼎新HRM、名鑰 ERP 等企業系統。\n3.具備財會經驗者優先錄取。\n4.具製造業 MES、生產管理或自動化經驗。\n5.具能源管理系統（EMS）、ISO 50001、能源監控、電力數據分析或節能改善相關經驗者佳。\n6.曾參與資訊專案管理或系統整合。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：資訊管理相關、其他相關科系\n擅長工具：Excel、Word、PowerPoint、MySQL、MES、JavaScript、HTML、ASP、CSS、PHP\n其他條件：【加分條件】\n1.有 ERP 導入或維護經驗。\n2.熟悉 EasyFlow、鼎新HRM、名鑰 ERP 等企業系統。\n3.具備財會經驗者優先錄取。\n4.具製造業 MES、生產管理或自動化經驗。\n5.具能源管理系統（EMS）、ISO 50001、能源監控、電力數據分析或節能改善相關經驗者佳。\n6.曾參與資訊專案管理或系統整合。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ukl9",
+    "job_url": "https://www.104.com.tw/job/8ukl9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ukl9.json",
+    "raw_sha256": "e6bf68ea06610a4e46a5c5d54b5370762acd2e8d7ad2e648408eade85d01ed75",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ukl9"
+  }
+}

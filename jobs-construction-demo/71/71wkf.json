@@ -1,0 +1,187 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "數位IC設計工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "系統與產品需求分析"
+        },
+        {
+          "children": [],
+          "text": "演算法設計與軟硬體實作可行性評估"
+        },
+        {
+          "children": [],
+          "text": "撰寫硬體／軟體規格文件"
+        },
+        {
+          "children": [],
+          "text": "SoC 架構設計（IP 功能定義、效能／功耗／資源規劃）"
+        },
+        {
+          "children": [],
+          "text": "使用 SystemC 或其他建模工具進行系統模擬與分析"
+        },
+        {
+          "children": [],
+          "text": "與 RTL、韌體、SoC 團隊合作，推動設計實現"
+        }
+      ],
+      "text": "我們是 SoC 架構設計與分析團隊，\n負責從產品需求出發，進行演算法設計、系統建模（如 SystemC）、效能與功耗分析、架構規劃與 SoC 系統整合。\n團隊參與的產品涵蓋企業級、車用與商用 SSD、UFS 儲存裝置、AI 加速晶片及客製化 NRE 專案等。\n加入我們，你將參與：\n• 系統與產品需求分析\n• 演算法設計與軟硬體實作可行性評估\n• 撰寫硬體／軟體規格文件\n• SoC 架構設計（IP 功能定義、效能／功耗／資源規劃）\n• 使用 SystemC 或其他建模工具進行系統模擬與分析\n• 與 RTL、韌體、SoC 團隊合作，推動設計實現\n我們正在尋找對架構設計有熱情、具備系統觀與跨領域溝通能力的你，一起打造下一代高效能 SoC 解決方案！"
+    },
+    "employment_type_raw": "全職",
+    "title": "SoC架構設計工程師8100"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉演算法設計，具備系統與硬體思考能力 •理解記憶體階層與快取（Cache）管理機制 •熟悉 control/data path 架構設計與 bus traffic 分析 •熟悉功耗分析與建模手法，能進行效能／資源預估 •加分項目： 具備 DRAM、PCIe、NAND、UFS、AI 加速或大型 SoC 專案經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "熟悉演算法設計，具備系統與硬體思考能力 •理解記憶體階層與快取（Cache）管理機制 •熟悉 control/data path 架構設計與 bus traffic 分析 •熟悉功耗分析與建模手法，能進行效能／資源預估 •加分項目： 具備 DRAM、PCIe、NAND、UFS、AI 加速或大型 SoC 專案經驗",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n其他條件：熟悉演算法設計，具備系統與硬體思考能力 •理解記憶體階層與快取（Cache）管理機制 •熟悉 control/data path 架構設計與 bus traffic 分析 •熟悉功耗分析與建模手法，能進行效能／資源預估 •加分項目： 具備 DRAM、PCIe、NAND、UFS、AI 加速或大型 SoC 專案經驗",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 34
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:46:28+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們是 SoC 架構設計與分析團隊，\n負責從產品需求出發，進行演算法設計、系統建模（如 SystemC）、效能與功耗分析、架構規劃與 SoC 系統整合。\n團隊參與的產品涵蓋企業級、車用與商用 SSD、UFS 儲存裝置、AI 加速晶片及客製化 NRE 專案等。\n加入我們，你將參與：\n• 系統與產品需求分析\n• 演算法設計與軟硬體實作可行性評估\n• 撰寫硬體／軟體規格文件\n• SoC 架構設計（IP 功能定義、效能／功耗／資源規劃）\n• 使用 SystemC 或其他建模工具進行系統模擬與分析\n• 與 RTL、韌體、SoC 團隊合作，推動設計實現\n我們正在尋找對架構設計有熱情、具備系統觀與跨領域溝通能力的你，一起打造下一代高效能 SoC 解決方案！",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "數位IC設計工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、數位IC設計工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們是 SoC 架構設計與分析團隊，\n負責從產品需求出發，進行演算法設計、系統建模（如 SystemC）、效能與功耗分析、架構規劃與 SoC 系統整合。\n團隊參與的產品涵蓋企業級、車用與商用 SSD、UFS 儲存裝置、AI 加速晶片及客製化 NRE 專案等。\n加入我們，你將參與：\n• 系統與產品需求分析\n• 演算法設計與軟硬體實作可行性評估\n• 撰寫硬體／軟體規格文件\n• SoC 架構設計（IP 功能定義、效能／功耗／資源規劃）\n• 使用 SystemC 或其他建模工具進行系統模擬與分析\n• 與 RTL、韌體、SoC 團隊合作，推動設計實現\n我們正在尋找對架構設計有熱情、具備系統觀與跨領域溝通能力的你，一起打造下一代高效能 SoC 解決方案！"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉演算法設計，具備系統與硬體思考能力 •理解記憶體階層與快取（Cache）管理機制 •熟悉 control/data path 架構設計與 bus traffic 分析 •熟悉功耗分析與建模手法，能進行效能／資源預估 •加分項目： 具備 DRAM、PCIe、NAND、UFS、AI 加速或大型 SoC 專案經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n其他條件：熟悉演算法設計，具備系統與硬體思考能力 •理解記憶體階層與快取（Cache）管理機制 •熟悉 control/data path 架構設計與 bus traffic 分析 •熟悉功耗分析與建模手法，能進行效能／資源預估 •加分項目： 具備 DRAM、PCIe、NAND、UFS、AI 加速或大型 SoC 專案經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "71wkf",
+    "job_url": "https://www.104.com.tw/job/71wkf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/71wkf.json",
+    "raw_sha256": "eab3c223c7c9805d7a8d02eb1ddf7e26694611c5203f91d7dcfad8ac5d61d023",
+    "requested_url": "https://www.104.com.tw/api/jobs/71wkf"
+  }
+}

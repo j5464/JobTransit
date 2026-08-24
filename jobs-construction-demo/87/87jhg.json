@@ -1,0 +1,241 @@
+{
+  "company": {
+    "id": "1a2x6blwhx",
+    "name": "睿控網安股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Design, develop, and maintain the DPI engine's core architecture, ensuring high throughput, low latency, and reliability under production network loads"
+        },
+        {
+          "children": [],
+          "text": "Implement and optimize protocol parsers and dissectors for both IT and OT/ICS protocols"
+        },
+        {
+          "children": [],
+          "text": "Develop signature-based and behavior-based detection framework for identifying malicious or anomalous network traffic"
+        },
+        {
+          "children": [],
+          "text": "Conduct protocol reverse engineering and analysis for proprietary or undocumented industrial protocols"
+        },
+        {
+          "children": [],
+          "text": "Perform asset fingerprinting and device identification based on network traffic patterns"
+        },
+        {
+          "children": [],
+          "text": "Optimize DPI engine performance through efficient memory management, multi-threading, and CPU/resource-aware design"
+        },
+        {
+          "children": [],
+          "text": "Collaborate with threat research and detection teams to translate threat intelligence into actionable detection logic"
+        },
+        {
+          "children": [],
+          "text": "Write and maintain technical documentation for protocol specifications, engine architecture, and detection logic"
+        },
+        {
+          "children": [],
+          "text": "Drive the adoption and implementation of AI-assisted SDLC (Software Development Life Cycle) practices across the team"
+        },
+        {
+          "children": [],
+          "text": "Provide technical leadership and mentorship to other engineers, guiding architectural decisions and best practices"
+        }
+      ],
+      "text": "TXOne Networks provides cybersecurity solutions for ICS and OT environments using the OT zero trust methodology. We collaborate with top manufacturers and infrastructure operators to develop practical defense strategies that eliminate security vulnerabilities in industrial settings. TXOne ensures the availability of industrial systems by mitigating cybersecurity challenges that can disrupt operations. Our solutions empower customers to benefit from networked control systems while maintaining operational resilience, personnel safety, and asset security. TXOne Networks is honored to be named again as one of the 10 Coolest IoT Security Companies by CRN in Mar 2026.\nJob Summary\nWe are seeking a skilled DPI Engine Developer to join our OT/ICS cybersecurity team. In this role, you will design, develop, and optimize our Deep Packet Inspection engine - a core component responsible for real-time traffic analysis, protocol identification, and threat detection across industrial and enterprise networks. This position is ideal for an engineer who enjoys working close to the network stack and thrives on solving complex, performance-critical problems.\nKey Responsibilities\n- Design, develop, and maintain the DPI engine's core architecture, ensuring high throughput, low latency, and reliability under production network loads\n- Implement and optimize protocol parsers and dissectors for both IT and OT/ICS protocols\n- Develop signature-based and behavior-based detection framework for identifying malicious or anomalous network traffic\n- Conduct protocol reverse engineering and analysis for proprietary or undocumented industrial protocols\n- Perform asset fingerprinting and device identification based on network traffic patterns\n- Optimize DPI engine performance through efficient memory management, multi-threading, and CPU/resource-aware design\n- Collaborate with threat research and detection teams to translate threat intelligence into actionable detection logic\n- Write and maintain technical documentation for protocol specifications, engine architecture, and detection logic\n- Drive the adoption and implementation of AI-assisted SDLC (Software Development Life Cycle) practices across the team\n- Provide technical leadership and mentorship to other engineers, guiding architectural decisions and best practices\nEqual Opportunities Statement\nTXOne is committed to promoting equal opportunities and creating a workplace that is free from discrimination based on personal characteristics such as race, gender, age, religion, or any other protected characteristic. We welcome and encourage all qualified candidates to apply, and we are dedicated to providing fair and inclusive hiring processes for all applicants. We will continue to review and improve our policies and practices to ensure that we maintain an ongoing commitment to diversity and inclusion."
+    },
+    "employment_type_raw": "全職",
+    "title": "(Sr.) Software Engineer - Network Defense"
+  },
+  "location": {
+    "address_raw": "新竹市力行六路6號5樓",
+    "raw": "新竹市力行六路6號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "C",
+          "Firewall",
+          "IPS"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、C、Firewall、IPS"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Essential Skills:\n- Strong proficiency in C with solid understanding of low-level systems programming\n- Experience developing or maintaining DPI engines, IDS/IPS systems, or similar network security products\n- Familiarity with Linux systems programming and kernel-level networking concepts\n- Hands-on experience with network protocol analysis and packet processing\n- Strong analytical and debugging skills, with the ability to perform detailed forensic analysis on network traffic\n- Good communication skills and ability to collaborate cross-functionally with security research, QA, and product teams\nPreferred Skills:\n- Experience with embedded Linux distributions (e.g., Yocto Project, OpenWRT).\n- Experience with embedded system debugging tools\n- Experience with OT/ICS protocols\n- Background in industrial control systems (ICS), SCADA, or critical infrastructure security\n- Experience with signature rule engines (Snort/Suricata-style rules) or custom detection rule languages"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "Essential Skills:\n- Strong proficiency in C with solid understanding of low-level systems programming\n- Experience developing or maintaining DPI engines, IDS/IPS systems, or similar network security products\n- Familiarity with Linux systems programming and kernel-level networking concepts\n- Hands-on experience with network protocol analysis and packet processing\n- Strong analytical and debugging skills, with the ability to perform detailed forensic analysis on network traffic\n- Good communication skills and ability to collaborate cross-functionally with security research, QA, and product teams\nPreferred Skills:\n- Experience with embedded Linux distributions (e.g., Yocto Project, OpenWRT).\n- Experience with embedded system debugging tools\n- Experience with OT/ICS protocols\n- Background in industrial control systems (ICS), SCADA, or critical infrastructure security\n- Experience with signature rule engines (Snort/Suricata-style rules) or custom detection rule languages",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C、Firewall、IPS\n工作技能：軟體程式設計\n其他條件：Essential Skills:\n- Strong proficiency in C with solid understanding of low-level systems programming\n- Experience developing or maintaining DPI engines, IDS/IPS systems, or similar network security products\n- Familiarity with Linux systems programming and kernel-level networking concepts\n- Hands-on experience with network protocol analysis and packet processing\n- Strong analytical and debugging skills, with the ability to perform detailed forensic analysis on network traffic\n- Good communication skills and ability to collaborate cross-functionally with security research, QA, and product teams\nPreferred Skills:\n- Experience with embedded Linux distributions (e.g., Yocto Project, OpenWRT).\n- Experience with embedded system debugging tools\n- Experience with OT/ICS protocols\n- Background in industrial control systems (ICS), SCADA, or critical infrastructure security\n- Experience with signature rule engines (Snort/Suricata-style rules) or custom detection rule languages",
+    "tools": [
+      "Linux",
+      "C",
+      "Firewall",
+      "IPS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 93
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:11:28+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "TXOne Networks provides cybersecurity solutions for ICS and OT environments using the OT zero trust methodology. We collaborate with top manufacturers and infrastructure operators to develop practical defense strategies that eliminate security vulnerabilities in industrial settings. TXOne ensures the availability of industrial systems by mitigating cybersecurity challenges that can disrupt operations. Our solutions empower customers to benefit from networked control systems while maintaining operational resilience, personnel safety, and asset security. TXOne Networks is honored to be named again as one of the 10 Coolest IoT Security Companies by CRN in Mar 2026.\nJob Summary\nWe are seeking a skilled DPI Engine Developer to join our OT/ICS cybersecurity team. In this role, you will design, develop, and optimize our Deep Packet Inspection engine - a core component responsible for real-time traffic analysis, protocol identification, and threat detection across industrial and enterprise networks. This position is ideal for an engineer who enjoys working close to the network stack and thrives on solving complex, performance-critical problems.\nKey Responsibilities\n- Design, develop, and maintain the DPI engine's core architecture, ensuring high throughput, low latency, and reliability under production network loads\n- Implement and optimize protocol parsers and dissectors for both IT and OT/ICS protocols\n- Develop signature-based and behavior-based detection framework for identifying malicious or anomalous network traffic\n- Conduct protocol reverse engineering and analysis for proprietary or undocumented industrial protocols\n- Perform asset fingerprinting and device identification based on network traffic patterns\n- Optimize DPI engine performance through efficient memory management, multi-threading, and CPU/resource-aware design\n- Collaborate with threat research and detection teams to translate threat intelligence into actionable detection logic\n- Write and maintain technical documentation for protocol specifications, engine architecture, and detection logic\n- Drive the adoption and implementation of AI-assisted SDLC (Software Development Life Cycle) practices across the team\n- Provide technical leadership and mentorship to other engineers, guiding architectural decisions and best practices\nEqual Opportunities Statement\nTXOne is committed to promoting equal opportunities and creating a workplace that is free from discrimination based on personal characteristics such as race, gender, age, religion, or any other protected characteristic. We welcome and encourage all qualified candidates to apply, and we are dedicated to providing fair and inclusive hiring processes for all applicants. We will continue to review and improve our policies and practices to ensure that we maintain an ongoing commitment to diversity and inclusion.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市力行六路6號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "TXOne Networks provides cybersecurity solutions for ICS and OT environments using the OT zero trust methodology. We collaborate with top manufacturers and infrastructure operators to develop practical defense strategies that eliminate security vulnerabilities in industrial settings. TXOne ensures the availability of industrial systems by mitigating cybersecurity challenges that can disrupt operations. Our solutions empower customers to benefit from networked control systems while maintaining operational resilience, personnel safety, and asset security. TXOne Networks is honored to be named again as one of the 10 Coolest IoT Security Companies by CRN in Mar 2026.\nJob Summary\nWe are seeking a skilled DPI Engine Developer to join our OT/ICS cybersecurity team. In this role, you will design, develop, and optimize our Deep Packet Inspection engine - a core component responsible for real-time traffic analysis, protocol identification, and threat detection across industrial and enterprise networks. This position is ideal for an engineer who enjoys working close to the network stack and thrives on solving complex, performance-critical problems.\nKey Responsibilities\n- Design, develop, and maintain the DPI engine's core architecture, ensuring high throughput, low latency, and reliability under production network loads\n- Implement and optimize protocol parsers and dissectors for both IT and OT/ICS protocols\n- Develop signature-based and behavior-based detection framework for identifying malicious or anomalous network traffic\n- Conduct protocol reverse engineering and analysis for proprietary or undocumented industrial protocols\n- Perform asset fingerprinting and device identification based on network traffic patterns\n- Optimize DPI engine performance through efficient memory management, multi-threading, and CPU/resource-aware design\n- Collaborate with threat research and detection teams to translate threat intelligence into actionable detection logic\n- Write and maintain technical documentation for protocol specifications, engine architecture, and detection logic\n- Drive the adoption and implementation of AI-assisted SDLC (Software Development Life Cycle) practices across the team\n- Provide technical leadership and mentorship to other engineers, guiding architectural decisions and best practices\nEqual Opportunities Statement\nTXOne is committed to promoting equal opportunities and creating a workplace that is free from discrimination based on personal characteristics such as race, gender, age, religion, or any other protected characteristic. We welcome and encourage all qualified candidates to apply, and we are dedicated to providing fair and inclusive hiring processes for all applicants. We will continue to review and improve our policies and practices to ensure that we maintain an ongoing commitment to diversity and inclusion."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "C",
+            "Firewall",
+            "IPS"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、C、Firewall、IPS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Essential Skills:\n- Strong proficiency in C with solid understanding of low-level systems programming\n- Experience developing or maintaining DPI engines, IDS/IPS systems, or similar network security products\n- Familiarity with Linux systems programming and kernel-level networking concepts\n- Hands-on experience with network protocol analysis and packet processing\n- Strong analytical and debugging skills, with the ability to perform detailed forensic analysis on network traffic\n- Good communication skills and ability to collaborate cross-functionally with security research, QA, and product teams\nPreferred Skills:\n- Experience with embedded Linux distributions (e.g., Yocto Project, OpenWRT).\n- Experience with embedded system debugging tools\n- Experience with OT/ICS protocols\n- Background in industrial control systems (ICS), SCADA, or critical infrastructure security\n- Experience with signature rule engines (Snort/Suricata-style rules) or custom detection rule languages",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C、Firewall、IPS\n工作技能：軟體程式設計\n其他條件：Essential Skills:\n- Strong proficiency in C with solid understanding of low-level systems programming\n- Experience developing or maintaining DPI engines, IDS/IPS systems, or similar network security products\n- Familiarity with Linux systems programming and kernel-level networking concepts\n- Hands-on experience with network protocol analysis and packet processing\n- Strong analytical and debugging skills, with the ability to perform detailed forensic analysis on network traffic\n- Good communication skills and ability to collaborate cross-functionally with security research, QA, and product teams\nPreferred Skills:\n- Experience with embedded Linux distributions (e.g., Yocto Project, OpenWRT).\n- Experience with embedded system debugging tools\n- Experience with OT/ICS protocols\n- Background in industrial control systems (ICS), SCADA, or critical infrastructure security\n- Experience with signature rule engines (Snort/Suricata-style rules) or custom detection rule languages"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "87jhg",
+    "job_url": "https://www.104.com.tw/job/87jhg",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/87jhg.json",
+    "raw_sha256": "0c8814439897d6cffc7254064b1514f91e2829e2708188a742fbdffdb858c1a5",
+    "requested_url": "https://www.104.com.tw/api/jobs/87jhg"
+  }
+}

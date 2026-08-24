@@ -1,0 +1,266 @@
+{
+  "company": {
+    "id": "ghmiji0",
+    "name": "炎洲股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "MIS／網管主管",
+      "軟體專案主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責專案計劃、執行和交付"
+        },
+        {
+          "children": [],
+          "text": "監督項目進程，跟進進度"
+        },
+        {
+          "children": [],
+          "text": "管理和指導團隊成員的工作"
+        },
+        {
+          "children": [],
+          "text": "確保專案符合預算和時間限制"
+        },
+        {
+          "children": [],
+          "text": "建立和維護與客戶的關係"
+        },
+        {
+          "children": [],
+          "text": "解決問題並確保專案的成功完成"
+        }
+      ],
+      "text": "1. 負責專案計劃、執行和交付\n2. 監督項目進程，跟進進度\n3. 管理和指導團隊成員的工作\n4. 確保專案符合預算和時間限制\n5. 建立和維護與客戶的關係\n6. 解決問題並確保專案的成功完成\n軟體專案主管在公司中扮演著重要的角色，負責管理和領導開發團隊，確保專案的成功完成發展中有著非常大的發展前景。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【集團總部-擴編中】資訊處-專案主管"
+  },
+  "location": {
+    "address_raw": "台北市內湖區行善路397號",
+    "raw": "台北市內湖區行善路397號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "10年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "10年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "C++.Net",
+          "MES",
+          "JavaScript",
+          "PostgreSQL",
+          "Oracle",
+          "MS SQL",
+          "ETL",
+          "Python",
+          "ASP.NET",
+          "Systems Analysis",
+          "Power BI​"
+        ],
+        "label": "擅長工具",
+        "text": "C++.Net、MES、JavaScript、PostgreSQL、Oracle、MS SQL、ETL、Python、ASP.NET、Systems Analysis、Power BI​"
+      },
+      {
+        "items": [
+          "系統整合分析",
+          "系統架構規劃與維護",
+          "企業資源規劃管理(ERP)",
+          "MES工廠執行系統規劃管理",
+          "網路程式設計",
+          "結構化程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析、系統架構規劃與維護、企業資源規劃管理(ERP)、MES工廠執行系統規劃管理、網路程式設計、結構化程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件：\n1.開發工具： / Visual Studio Code / Gitlab，AI工具輔助開發，相關經驗\n2.程式語言：Python / Node.js / Oracle SQL /PostgreSQL ，相關經驗\n3.網頁技術：RWD響應式網頁開發\n4.加分的技能： PMP專案管理、電子商務平台管理\n5.具備製造業及建設業，上市上櫃公司資訊主管經驗佳\n6.出差外派 : 需出差本島區/國外"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "加分條件：\n1.開發工具： / Visual Studio Code / Gitlab，AI工具輔助開發，相關經驗\n2.程式語言：Python / Node.js / Oracle SQL /PostgreSQL ，相關經驗\n3.網頁技術：RWD響應式網頁開發\n4.加分的技能： PMP專案管理、電子商務平台管理\n5.具備製造業及建設業，上市上櫃公司資訊主管經驗佳\n6.出差外派 : 需出差本島區/國外",
+    "skills": [
+      "系統整合分析",
+      "系統架構規劃與維護",
+      "企業資源規劃管理(ERP)",
+      "MES工廠執行系統規劃管理",
+      "網路程式設計",
+      "結構化程式設計"
+    ],
+    "text": "工作經歷：10年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：C++.Net、MES、JavaScript、PostgreSQL、Oracle、MS SQL、ETL、Python、ASP.NET、Systems Analysis、Power BI​\n工作技能：系統整合分析、系統架構規劃與維護、企業資源規劃管理(ERP)、MES工廠執行系統規劃管理、網路程式設計、結構化程式設計\n其他條件：加分條件：\n1.開發工具： / Visual Studio Code / Gitlab，AI工具輔助開發，相關經驗\n2.程式語言：Python / Node.js / Oracle SQL /PostgreSQL ，相關經驗\n3.網頁技術：RWD響應式網頁開發\n4.加分的技能： PMP專案管理、電子商務平台管理\n5.具備製造業及建設業，上市上櫃公司資訊主管經驗佳\n6.出差外派 : 需出差本島區/國外",
+    "tools": [
+      "C++.Net",
+      "MES",
+      "JavaScript",
+      "PostgreSQL",
+      "Oracle",
+      "MS SQL",
+      "ETL",
+      "Python",
+      "ASP.NET",
+      "Systems Analysis",
+      "Power BI​"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 68
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:08:52+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責專案計劃、執行和交付\n2. 監督項目進程，跟進進度\n3. 管理和指導團隊成員的工作\n4. 確保專案符合預算和時間限制\n5. 建立和維護與客戶的關係\n6. 解決問題並確保專案的成功完成\n軟體專案主管在公司中扮演著重要的角色，負責管理和領導開發團隊，確保專案的成功完成發展中有著非常大的發展前景。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MIS／網管主管",
+            "軟體專案主管"
+          ],
+          "label": "職務類別",
+          "text": "MIS／網管主管、軟體專案主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區行善路397號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責專案計劃、執行和交付\n2. 監督項目進程，跟進進度\n3. 管理和指導團隊成員的工作\n4. 確保專案符合預算和時間限制\n5. 建立和維護與客戶的關係\n6. 解決問題並確保專案的成功完成\n軟體專案主管在公司中扮演著重要的角色，負責管理和領導開發團隊，確保專案的成功完成發展中有著非常大的發展前景。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "10年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++.Net",
+            "MES",
+            "JavaScript",
+            "PostgreSQL",
+            "Oracle",
+            "MS SQL",
+            "ETL",
+            "Python",
+            "ASP.NET",
+            "Systems Analysis",
+            "Power BI​"
+          ],
+          "label": "擅長工具",
+          "text": "C++.Net、MES、JavaScript、PostgreSQL、Oracle、MS SQL、ETL、Python、ASP.NET、Systems Analysis、Power BI​",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析",
+            "系統架構規劃與維護",
+            "企業資源規劃管理(ERP)",
+            "MES工廠執行系統規劃管理",
+            "網路程式設計",
+            "結構化程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析、系統架構規劃與維護、企業資源規劃管理(ERP)、MES工廠執行系統規劃管理、網路程式設計、結構化程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件：\n1.開發工具： / Visual Studio Code / Gitlab，AI工具輔助開發，相關經驗\n2.程式語言：Python / Node.js / Oracle SQL /PostgreSQL ，相關經驗\n3.網頁技術：RWD響應式網頁開發\n4.加分的技能： PMP專案管理、電子商務平台管理\n5.具備製造業及建設業，上市上櫃公司資訊主管經驗佳\n6.出差外派 : 需出差本島區/國外",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：10年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：C++.Net、MES、JavaScript、PostgreSQL、Oracle、MS SQL、ETL、Python、ASP.NET、Systems Analysis、Power BI​\n工作技能：系統整合分析、系統架構規劃與維護、企業資源規劃管理(ERP)、MES工廠執行系統規劃管理、網路程式設計、結構化程式設計\n其他條件：加分條件：\n1.開發工具： / Visual Studio Code / Gitlab，AI工具輔助開發，相關經驗\n2.程式語言：Python / Node.js / Oracle SQL /PostgreSQL ，相關經驗\n3.網頁技術：RWD響應式網頁開發\n4.加分的技能： PMP專案管理、電子商務平台管理\n5.具備製造業及建設業，上市上櫃公司資訊主管經驗佳\n6.出差外派 : 需出差本島區/國外"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "94h4z",
+    "job_url": "https://www.104.com.tw/job/94h4z",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94h4z.json",
+    "raw_sha256": "2971525b943d195be769bb396734de51f654a2002786416be32849ff5f16e13b",
+    "requested_url": "https://www.104.com.tw/api/jobs/94h4z"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "company": {
+    "id": "2d9ntmw",
+    "name": "Advantech_研華股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Lead and participate in BMC software and firmware development."
+        },
+        {
+          "children": [],
+          "text": "Maintain and enhance existing BMC solutions to ensure stability and performance."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with hardware, firmware, and system teams to integrate BMC features."
+        },
+        {
+          "children": [],
+          "text": "Provide technical support and customized solutions to meet customer requirements."
+        },
+        {
+          "children": [],
+          "text": "Continuously explore new technologies to improve efficiency and functionality."
+        },
+        {
+          "children": [],
+          "text": "Bachelor's degree in Computer Science, Electrical Engineering, or a related field."
+        },
+        {
+          "children": [],
+          "text": "3+ years of hands-on experience in BMC development (OpenBMC, IPMI, Redfish, or related domains)."
+        },
+        {
+          "children": [],
+          "text": "Strong knowledge of embedded Linux systems, C/C++, Python, or shell scripting."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with server management protocols and standards (IPMI, PLDM, MCTP, Redfish)."
+        },
+        {
+          "children": [],
+          "text": "Problem-solving mindset with excellent communication and collaboration skills."
+        },
+        {
+          "children": [],
+          "text": "Experience with AST2600 or similar BMC SoCs."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of hardware interfaces such as I²C, SPI, PCIe, and GPIO."
+        }
+      ],
+      "text": "We are seeking an experienced FW BMC Engineer to lead the development and maintenance of BMC solutions that power our next-generation platforms. In this role, you will be responsible for designing, implementing, and optimizing BMC features to meet diverse customer needs, ensuring high efficiency, reliability, and scalability.\nAs a key member of our R&D team, you will collaborate closely with cross-functional groups to deliver tailored BMC solutions that create tangible value for our clients and strengthen the company's competitiveness.\n【Responsibilities】\n1. Lead and participate in BMC software and firmware development.\n2. Maintain and enhance existing BMC solutions to ensure stability and performance.\n3. Collaborate with hardware, firmware, and system teams to integrate BMC features.\n4. Provide technical support and customized solutions to meet customer requirements.\n5. Continuously explore new technologies to improve efficiency and functionality.\n【Qualifications】\n1. Bachelor's degree in Computer Science, Electrical Engineering, or a related field.\n2. 3+ years of hands-on experience in BMC development (OpenBMC, IPMI, Redfish, or related domains).\n3. Strong knowledge of embedded Linux systems, C/C++, Python, or shell scripting.\n4. Familiarity with server management protocols and standards (IPMI, PLDM, MCTP, Redfish).\n5. Problem-solving mindset with excellent communication and collaboration skills.\n【Preferred Skills】\n1. Experience with AST2600 or similar BMC SoCs.\n2. Knowledge of hardware interfaces such as I²C, SPI, PCIe, and GPIO."
+    },
+    "employment_type_raw": "全職",
+    "title": "Firmware Engineer_BMC (Embedded/ 林口園區)_JR202604011"
+  },
+  "location": {
+    "address_raw": "桃園市龜山區文德路27號",
+    "raw": "桃園市龜山區文德路27號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、C++、Python"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C++、Python",
+    "tools": [
+      "Linux",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 25
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:22:32+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are seeking an experienced FW BMC Engineer to lead the development and maintenance of BMC solutions that power our next-generation platforms. In this role, you will be responsible for designing, implementing, and optimizing BMC features to meet diverse customer needs, ensuring high efficiency, reliability, and scalability.\nAs a key member of our R&D team, you will collaborate closely with cross-functional groups to deliver tailored BMC solutions that create tangible value for our clients and strengthen the company's competitiveness.\n【Responsibilities】\n1. Lead and participate in BMC software and firmware development.\n2. Maintain and enhance existing BMC solutions to ensure stability and performance.\n3. Collaborate with hardware, firmware, and system teams to integrate BMC features.\n4. Provide technical support and customized solutions to meet customer requirements.\n5. Continuously explore new technologies to improve efficiency and functionality.\n【Qualifications】\n1. Bachelor's degree in Computer Science, Electrical Engineering, or a related field.\n2. 3+ years of hands-on experience in BMC development (OpenBMC, IPMI, Redfish, or related domains).\n3. Strong knowledge of embedded Linux systems, C/C++, Python, or shell scripting.\n4. Familiarity with server management protocols and standards (IPMI, PLDM, MCTP, Redfish).\n5. Problem-solving mindset with excellent communication and collaboration skills.\n【Preferred Skills】\n1. Experience with AST2600 or similar BMC SoCs.\n2. Knowledge of hardware interfaces such as I²C, SPI, PCIe, and GPIO.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市龜山區文德路27號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are seeking an experienced FW BMC Engineer to lead the development and maintenance of BMC solutions that power our next-generation platforms. In this role, you will be responsible for designing, implementing, and optimizing BMC features to meet diverse customer needs, ensuring high efficiency, reliability, and scalability.\nAs a key member of our R&D team, you will collaborate closely with cross-functional groups to deliver tailored BMC solutions that create tangible value for our clients and strengthen the company's competitiveness.\n【Responsibilities】\n1. Lead and participate in BMC software and firmware development.\n2. Maintain and enhance existing BMC solutions to ensure stability and performance.\n3. Collaborate with hardware, firmware, and system teams to integrate BMC features.\n4. Provide technical support and customized solutions to meet customer requirements.\n5. Continuously explore new technologies to improve efficiency and functionality.\n【Qualifications】\n1. Bachelor's degree in Computer Science, Electrical Engineering, or a related field.\n2. 3+ years of hands-on experience in BMC development (OpenBMC, IPMI, Redfish, or related domains).\n3. Strong knowledge of embedded Linux systems, C/C++, Python, or shell scripting.\n4. Familiarity with server management protocols and standards (IPMI, PLDM, MCTP, Redfish).\n5. Problem-solving mindset with excellent communication and collaboration skills.\n【Preferred Skills】\n1. Experience with AST2600 or similar BMC SoCs.\n2. Knowledge of hardware interfaces such as I²C, SPI, PCIe, and GPIO."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、C++、Python",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C++、Python"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8tzqu",
+    "job_url": "https://www.104.com.tw/job/8tzqu",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8tzqu.json",
+    "raw_sha256": "63309b0ee003125d625ae7b8f39025fc564dbe8aec81fe759c393b45b128da42",
+    "requested_url": "https://www.104.com.tw/api/jobs/8tzqu"
+  }
+}

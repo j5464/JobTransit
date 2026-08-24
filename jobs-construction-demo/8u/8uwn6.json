@@ -1,0 +1,202 @@
+{
+  "company": {
+    "id": "1a2x6bm7ab",
+    "name": "三幸食品股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "行政人員",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "接聽電話及接待訪客"
+        },
+        {
+          "children": [],
+          "text": "收、發包裹及信件"
+        },
+        {
+          "children": [],
+          "text": "主管行程安排及會議支援"
+        },
+        {
+          "children": [],
+          "text": "資料管理及完成主管交辦事項"
+        },
+        {
+          "children": [],
+          "text": "須具備良好的溝通能力及時間管理能力"
+        },
+        {
+          "children": [],
+          "text": "語言能力：英文佳"
+        }
+      ],
+      "text": "[工作內容]\n1.接聽電話及接待訪客\n2.收、發包裹及信件\n3文件整理、歸檔及熟悉(word、excel、powerpoint)\n4.主管行程安排及會議支援\n5.資料管理及完成主管交辦事項\n6.須具備良好的溝通能力及時間管理能力\n7.語言能力：英文佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "行政助理"
+  },
+  "location": {
+    "address_raw": "台中市太平區中山路三段19巷37號",
+    "raw": "台中市太平區中山路三段19巷37號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中、專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中、專科、大學、碩士"
+      },
+      {
+        "items": [
+          "Canva",
+          "Illustrator",
+          "Adobe Photoshop"
+        ],
+        "label": "擅長工具",
+        "text": "Canva、Illustrator、Adobe Photoshop"
+      },
+      {
+        "items": [
+          "文件收發與檔案管理",
+          "文書處理╱排版能力",
+          "文件檔案資料處理、轉換及整合工作"
+        ],
+        "label": "工作技能",
+        "text": "文件收發與檔案管理、文書處理╱排版能力、文件檔案資料處理、轉換及整合工作"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "文件收發與檔案管理",
+      "文書處理╱排版能力",
+      "文件檔案資料處理、轉換及整合工作"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：高中、專科、大學、碩士\n擅長工具：Canva、Illustrator、Adobe Photoshop\n工作技能：文件收發與檔案管理、文書處理╱排版能力、文件檔案資料處理、轉換及整合工作",
+    "tools": [
+      "Canva",
+      "Illustrator",
+      "Adobe Photoshop"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 4
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:29:17+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "[工作內容]\n1.接聽電話及接待訪客\n2.收、發包裹及信件\n3文件整理、歸檔及熟悉(word、excel、powerpoint)\n4.主管行程安排及會議支援\n5.資料管理及完成主管交辦事項\n6.須具備良好的溝通能力及時間管理能力\n7.語言能力：英文佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "行政人員",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "行政人員、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市太平區中山路三段19巷37號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "[工作內容]\n1.接聽電話及接待訪客\n2.收、發包裹及信件\n3文件整理、歸檔及熟悉(word、excel、powerpoint)\n4.主管行程安排及會議支援\n5.資料管理及完成主管交辦事項\n6.須具備良好的溝通能力及時間管理能力\n7.語言能力：英文佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中、專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Canva",
+            "Illustrator",
+            "Adobe Photoshop"
+          ],
+          "label": "擅長工具",
+          "text": "Canva、Illustrator、Adobe Photoshop",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "文件收發與檔案管理",
+            "文書處理╱排版能力",
+            "文件檔案資料處理、轉換及整合工作"
+          ],
+          "label": "工作技能",
+          "text": "文件收發與檔案管理、文書處理╱排版能力、文件檔案資料處理、轉換及整合工作",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：高中、專科、大學、碩士\n擅長工具：Canva、Illustrator、Adobe Photoshop\n工作技能：文件收發與檔案管理、文書處理╱排版能力、文件檔案資料處理、轉換及整合工作"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8uwn6",
+    "job_url": "https://www.104.com.tw/job/8uwn6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8uwn6.json",
+    "raw_sha256": "e74d57168668f751caac73cfc0072b07214dd6790abb66a9185a9d09518c667d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8uwn6"
+  }
+}

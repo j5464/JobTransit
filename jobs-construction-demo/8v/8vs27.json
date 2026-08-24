@@ -1,0 +1,182 @@
+{
+  "company": {
+    "id": "whzylwo",
+    "name": "O-Bank_王道商業銀行股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責電子表單系統開發與維運工作。"
+        },
+        {
+          "children": [],
+          "text": "需求分析、系統設計、程式設計及系統文件撰寫。"
+        },
+        {
+          "children": [],
+          "text": "配合業務需求參與專案管理、系統維運工作。"
+        },
+        {
+          "children": [],
+          "text": "負責廠商管理。"
+        }
+      ],
+      "text": "1.負責電子表單系統開發與維運工作。\n2.需求分析、系統設計、程式設計及系統文件撰寫。\n3.配合業務需求參與專案管理、系統維運工作。\n4.負責廠商管理。"
+    },
+    "employment_type_raw": "全職",
+    "title": "科技金融_企業系統開發暨維運工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區",
+    "raw": "台北市內湖區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.需熟悉C#、Python、Java，對.NET應用程式開發有高度興趣。\n2.需熟悉MSSQL Server資料庫之SQL語法。\n3.有電子表單系統維運經驗尤佳。\n4.邏輯佳，態度積極正面，主動，樂於合作，學習力佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1.需熟悉C#、Python、Java，對.NET應用程式開發有高度興趣。\n2.需熟悉MSSQL Server資料庫之SQL語法。\n3.有電子表單系統維運經驗尤佳。\n4.邏輯佳，態度積極正面，主動，樂於合作，學習力佳。",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：ASP.NET、C#、Python\n其他條件：1.需熟悉C#、Python、Java，對.NET應用程式開發有高度興趣。\n2.需熟悉MSSQL Server資料庫之SQL語法。\n3.有電子表單系統維運經驗尤佳。\n4.邏輯佳，態度積極正面，主動，樂於合作，學習力佳。",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 96
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:18:24+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責電子表單系統開發與維運工作。\n2.需求分析、系統設計、程式設計及系統文件撰寫。\n3.配合業務需求參與專案管理、系統維運工作。\n4.負責廠商管理。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責電子表單系統開發與維運工作。\n2.需求分析、系統設計、程式設計及系統文件撰寫。\n3.配合業務需求參與專案管理、系統維運工作。\n4.負責廠商管理。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.需熟悉C#、Python、Java，對.NET應用程式開發有高度興趣。\n2.需熟悉MSSQL Server資料庫之SQL語法。\n3.有電子表單系統維運經驗尤佳。\n4.邏輯佳，態度積極正面，主動，樂於合作，學習力佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：ASP.NET、C#、Python\n其他條件：1.需熟悉C#、Python、Java，對.NET應用程式開發有高度興趣。\n2.需熟悉MSSQL Server資料庫之SQL語法。\n3.有電子表單系統維運經驗尤佳。\n4.邏輯佳，態度積極正面，主動，樂於合作，學習力佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8vs27",
+    "job_url": "https://www.104.com.tw/job/8vs27",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8vs27.json",
+    "raw_sha256": "d02b249aa53a83b407b1a7b9e69bc7ad2f845d0b23d5202acb05ee0099a19392",
+    "requested_url": "https://www.104.com.tw/api/jobs/8vs27"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "company": {
+    "id": "13tpbu88",
+    "name": "中磊電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "需求分析與系統方案設計"
+        },
+        {
+          "children": [],
+          "text": "系統架構與整合設計"
+        },
+        {
+          "children": [],
+          "text": "技術方案落地與品質管理"
+        },
+        {
+          "children": [],
+          "text": "跨部門溝通與專案協作"
+        }
+      ],
+      "text": "工作內容\n1. 需求分析與系統方案設計\n與各 BU 進行需求訪談，釐清業務流程及系統需求，並將 Business Requirements 轉化為可執行的系統方案及 SA/SD 文件。\n2. 系統架構與整合設計\n負責 Application、Database、API 及跨系統整合規劃，進行技術可行性、系統影響及風險評估，確保整體架構符合業務需求。\n3. 技術方案落地與品質管理\n與內部開發團隊及 Vendor 協作，進行 Technical Design、Code Review 及開發品質確認，追蹤方案落地並協助解決相關技術問題。\n4. 跨部門溝通與專案協作\n作為 BU、開發團隊及 Vendor 間的技術溝通窗口，協助釐清需求與技術議題，確保專案依規劃推進。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior System Analyst"
+  },
+  "location": {
+    "address_raw": "台北市南港區園區街3之1號2樓(南港軟體工業園區G棟)",
+    "raw": "台北市南港區園區街3之1號2樓(南港軟體工業園區G棟)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "Database Management",
+          "MySQL",
+          "CodeTest"
+        ],
+        "label": "擅長工具",
+        "text": "Database Management、MySQL、CodeTest"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "必備條件\n1. 5 年以上企業應用系統或軟體開發經驗，具扎實技術背景。\n2. 具需求訪談、系統分析或 SA/SD 經驗，能與非技術使用者有效溝通。\n3. 能獨立評估技術可行性，並將業務需求轉化為可執行的系統方案。\n4. 具備良好的英文能力。\n加分條件\n1. 具 Cloud、DevOps、資訊安全或企業 AI 應用經驗尤佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "必備條件\n1. 5 年以上企業應用系統或軟體開發經驗，具扎實技術背景。\n2. 具需求訪談、系統分析或 SA/SD 經驗，能與非技術使用者有效溝通。\n3. 能獨立評估技術可行性，並將業務需求轉化為可執行的系統方案。\n4. 具備良好的英文能力。\n加分條件\n1. 具 Cloud、DevOps、資訊安全或企業 AI 應用經驗尤佳。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n擅長工具：Database Management、MySQL、CodeTest\n其他條件：必備條件\n1. 5 年以上企業應用系統或軟體開發經驗，具扎實技術背景。\n2. 具需求訪談、系統分析或 SA/SD 經驗，能與非技術使用者有效溝通。\n3. 能獨立評估技術可行性，並將業務需求轉化為可執行的系統方案。\n4. 具備良好的英文能力。\n加分條件\n1. 具 Cloud、DevOps、資訊安全或企業 AI 應用經驗尤佳。",
+    "tools": [
+      "Database Management",
+      "MySQL",
+      "CodeTest"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 20
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:11:28+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作內容\n1. 需求分析與系統方案設計\n與各 BU 進行需求訪談，釐清業務流程及系統需求，並將 Business Requirements 轉化為可執行的系統方案及 SA/SD 文件。\n2. 系統架構與整合設計\n負責 Application、Database、API 及跨系統整合規劃，進行技術可行性、系統影響及風險評估，確保整體架構符合業務需求。\n3. 技術方案落地與品質管理\n與內部開發團隊及 Vendor 協作，進行 Technical Design、Code Review 及開發品質確認，追蹤方案落地並協助解決相關技術問題。\n4. 跨部門溝通與專案協作\n作為 BU、開發團隊及 Vendor 間的技術溝通窗口，協助釐清需求與技術議題，確保專案依規劃推進。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區園區街3之1號2樓(南港軟體工業園區G棟)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作內容\n1. 需求分析與系統方案設計\n與各 BU 進行需求訪談，釐清業務流程及系統需求，並將 Business Requirements 轉化為可執行的系統方案及 SA/SD 文件。\n2. 系統架構與整合設計\n負責 Application、Database、API 及跨系統整合規劃，進行技術可行性、系統影響及風險評估，確保整體架構符合業務需求。\n3. 技術方案落地與品質管理\n與內部開發團隊及 Vendor 協作，進行 Technical Design、Code Review 及開發品質確認，追蹤方案落地並協助解決相關技術問題。\n4. 跨部門溝通與專案協作\n作為 BU、開發團隊及 Vendor 間的技術溝通窗口，協助釐清需求與技術議題，確保專案依規劃推進。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Database Management",
+            "MySQL",
+            "CodeTest"
+          ],
+          "label": "擅長工具",
+          "text": "Database Management、MySQL、CodeTest",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "必備條件\n1. 5 年以上企業應用系統或軟體開發經驗，具扎實技術背景。\n2. 具需求訪談、系統分析或 SA/SD 經驗，能與非技術使用者有效溝通。\n3. 能獨立評估技術可行性，並將業務需求轉化為可執行的系統方案。\n4. 具備良好的英文能力。\n加分條件\n1. 具 Cloud、DevOps、資訊安全或企業 AI 應用經驗尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n擅長工具：Database Management、MySQL、CodeTest\n其他條件：必備條件\n1. 5 年以上企業應用系統或軟體開發經驗，具扎實技術背景。\n2. 具需求訪談、系統分析或 SA/SD 經驗，能與非技術使用者有效溝通。\n3. 能獨立評估技術可行性，並將業務需求轉化為可執行的系統方案。\n4. 具備良好的英文能力。\n加分條件\n1. 具 Cloud、DevOps、資訊安全或企業 AI 應用經驗尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "953mr",
+    "job_url": "https://www.104.com.tw/job/953mr",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/953mr.json",
+    "raw_sha256": "c66ddac5b9bd82776a86d79958f76d28bb860adaa89dac25fb4bc16bc371251a",
+    "requested_url": "https://www.104.com.tw/api/jobs/953mr"
+  }
+}

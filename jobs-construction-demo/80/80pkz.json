@@ -1,0 +1,220 @@
+{
+  "company": {
+    "id": "wfo0t6o",
+    "name": "安勤科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "BIOS工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "需有UEFI BIOS porting 二年以上經驗"
+        },
+        {
+          "children": [],
+          "text": "基本要求C."
+        },
+        {
+          "children": [],
+          "text": "瞭解 PC 硬體架構及其相關介面或週邊標準協定."
+        },
+        {
+          "children": [],
+          "text": "大專以上電子/電機/資訊/理工 相關科系畢"
+        },
+        {
+          "children": [],
+          "text": "基本要求瞭解 Windows"
+        }
+      ],
+      "text": "1. 需有UEFI BIOS porting 二年以上經驗\n2. 基本要求C.\n3. 瞭解 PC 硬體架構及其相關介面或週邊標準協定.\n4. 大專以上電子/電機/資訊/理工 相關科系畢\n5. 基本要求瞭解 Windows"
+    },
+    "employment_type_raw": "全職",
+    "title": "BIOS工程師 (台北、台中)"
+  },
+  "location": {
+    "address_raw": "新北市中和區連城路228號(7樓) 台中也有office",
+    "raw": "新北市中和區連城路228號(7樓) 台中也有office"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "C"
+        ],
+        "label": "擅長工具",
+        "text": "C"
+      },
+      {
+        "items": [
+          "BIOS程式研發",
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "BIOS程式研發、韌體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "新產品BIOS功能開發,修改,及驗證\nODM/OEM BIOS功能變更,修改\n協助AE解決客戶技術上的問題,或提供技術上的諮詢"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "新產品BIOS功能開發,修改,及驗證\nODM/OEM BIOS功能變更,修改\n協助AE解決客戶技術上的問題,或提供技術上的諮詢",
+    "skills": [
+      "BIOS程式研發",
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n擅長工具：C\n工作技能：BIOS程式研發、韌體程式設計\n其他條件：新產品BIOS功能開發,修改,及驗證\nODM/OEM BIOS功能變更,修改\n協助AE解決客戶技術上的問題,或提供技術上的諮詢",
+    "tools": [
+      "C"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 53
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:32:41+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 需有UEFI BIOS porting 二年以上經驗\n2. 基本要求C.\n3. 瞭解 PC 硬體架構及其相關介面或週邊標準協定.\n4. 大專以上電子/電機/資訊/理工 相關科系畢\n5. 基本要求瞭解 Windows",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "BIOS工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、BIOS工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區連城路228號(7樓) 台中也有office",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 需有UEFI BIOS porting 二年以上經驗\n2. 基本要求C.\n3. 瞭解 PC 硬體架構及其相關介面或週邊標準協定.\n4. 大專以上電子/電機/資訊/理工 相關科系畢\n5. 基本要求瞭解 Windows"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C"
+          ],
+          "label": "擅長工具",
+          "text": "C",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "BIOS程式研發",
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "BIOS程式研發、韌體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "新產品BIOS功能開發,修改,及驗證\nODM/OEM BIOS功能變更,修改\n協助AE解決客戶技術上的問題,或提供技術上的諮詢",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n擅長工具：C\n工作技能：BIOS程式研發、韌體程式設計\n其他條件：新產品BIOS功能開發,修改,及驗證\nODM/OEM BIOS功能變更,修改\n協助AE解決客戶技術上的問題,或提供技術上的諮詢"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "80pkz",
+    "job_url": "https://www.104.com.tw/job/80pkz",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/80pkz.json",
+    "raw_sha256": "9f2f44c1ad7e6e60cec0a7b74eb524cacebc93d5ec9630de7cf46c076f7bedab",
+    "requested_url": "https://www.104.com.tw/api/jobs/80pkz"
+  }
+}

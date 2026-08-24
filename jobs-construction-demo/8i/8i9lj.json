@@ -1,0 +1,212 @@
+{
+  "company": {
+    "id": "1a2x6ble2t",
+    "name": "瞬聯科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Proficiency in Python is required."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of application architecture and design patterns is a plus."
+        },
+        {
+          "children": [],
+          "text": "Experience integrating generative AI products into daily workflows is a plus."
+        },
+        {
+          "children": [],
+          "text": "Bachelor’s degree or above in Computer Science, Computer/Electrical Engineering or equivalent."
+        },
+        {
+          "children": [],
+          "text": "1+ years’ working experience on software development and software integration."
+        },
+        {
+          "children": [],
+          "text": "Good communication and problem solving skills"
+        },
+        {
+          "children": [],
+          "text": "Good English ability would be a plus"
+        }
+      ],
+      "text": "We are seeking an experienced software engineer to work with our development team & US clients. You will be directly working with cross-country elite engineers in the world. Also, you will be joining the software team that is responsible for the development, design, diagnose and troubleshooting, and bug fixing software modules to improve product performance and stability.\nKey Qualifications:\n- Proficiency in Python is required.\n- Knowledge of application architecture and design patterns is a plus.\n- Experience integrating generative AI products into daily workflows is a plus.\n- Bachelor’s degree or above in Computer Science, Computer/Electrical Engineering or equivalent.\n- 1+ years’ working experience on software development and software integration.\n- Good communication and problem solving skills\n- Good English ability would be a plus"
+    },
+    "employment_type_raw": "全職",
+    "title": "Python Engineer"
+  },
+  "location": {
+    "address_raw": "台北市大安區和平東路二段339號11樓",
+    "raw": "台北市大安區和平東路二段339號11樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "Python",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "Python、C++"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關\n擅長工具：Python、C++\n工作技能：軟體程式設計",
+    "tools": [
+      "Python",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 7
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:36:26+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are seeking an experienced software engineer to work with our development team & US clients. You will be directly working with cross-country elite engineers in the world. Also, you will be joining the software team that is responsible for the development, design, diagnose and troubleshooting, and bug fixing software modules to improve product performance and stability.\nKey Qualifications:\n- Proficiency in Python is required.\n- Knowledge of application architecture and design patterns is a plus.\n- Experience integrating generative AI products into daily workflows is a plus.\n- Bachelor’s degree or above in Computer Science, Computer/Electrical Engineering or equivalent.\n- 1+ years’ working experience on software development and software integration.\n- Good communication and problem solving skills\n- Good English ability would be a plus",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區和平東路二段339號11樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are seeking an experienced software engineer to work with our development team & US clients. You will be directly working with cross-country elite engineers in the world. Also, you will be joining the software team that is responsible for the development, design, diagnose and troubleshooting, and bug fixing software modules to improve product performance and stability.\nKey Qualifications:\n- Proficiency in Python is required.\n- Knowledge of application architecture and design patterns is a plus.\n- Experience integrating generative AI products into daily workflows is a plus.\n- Bachelor’s degree or above in Computer Science, Computer/Electrical Engineering or equivalent.\n- 1+ years’ working experience on software development and software integration.\n- Good communication and problem solving skills\n- Good English ability would be a plus"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "Python、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關\n擅長工具：Python、C++\n工作技能：軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8i9lj",
+    "job_url": "https://www.104.com.tw/job/8i9lj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8i9lj.json",
+    "raw_sha256": "112dc2fc0849a444deb5969f2606c609126184ef481682c526eec95df3df4bf5",
+    "requested_url": "https://www.104.com.tw/api/jobs/8i9lj"
+  }
+}

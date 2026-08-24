@@ -1,0 +1,179 @@
+{
+  "company": {
+    "id": "1a2x6bn2w9",
+    "name": "崴叡有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [],
+      "text": "■ 工作內容\n□ 分析並設計系統與 API 服務\n□ 撰寫單元測試、整合測試確保功能正確\n□ 設計並撰寫分佈式運算服務\n□ 公開 Review 同事的程式\n□ 自動化部署與維護\n□ 對現有設計提出改善意見\n■ 必要條件\n□ 熟悉 Java 基本語法\n□ 有單元測試基礎\n□ 懂基本 SQL 語法\n□ 使用過 Spring 框架\n□ 依工作需求不同，可能會有 Pair Programming\n■ 背景經歷\n□ 相關工作經驗至少 1 年\n■ 身為團隊的工程師，我們期待你：\n□ 提供高品質的程式，例如清楚的命名，好維護的封裝，可測試的程式，清楚易用的介面，內聚高的業務模組。\n□ 在個人開發流程以及最佳實踐上不斷地迭代改進。\n□ 要有能力清楚且有脈絡地表達與論述事情。\n□ 保持開放心態並積極學習。\n■ 加入後 1~3 個月內，你將會：\n□ 建制開發環境\n□ 透過新手專案，熟悉團隊技術 Stack 與工作流程\n□ 了解團隊開發流程\n□ 了解團隊開發風格\n□ 了解不同專案以及參與系統實作\n■ 3~6 個月後，你將會：\n□ 負責產品需求的優化與維護\n□ 解決更複雜的需求\n□ 參與更多產品開發"
+    },
+    "employment_type_raw": "全職",
+    "title": "後端工程師 - Java Engineer(遠端工作)"
+  },
+  "location": {
+    "address_raw": "新竹市",
+    "raw": "新竹市"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Shell",
+          "Git",
+          "Java",
+          "Spring"
+        ],
+        "label": "擅長工具",
+        "text": "Shell、Git、Java、Spring"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n擅長工具：Shell、Git、Java、Spring\n工作技能：軟體工程系統開發、軟體程式設計",
+    "tools": [
+      "Shell",
+      "Git",
+      "Java",
+      "Spring"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 5
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:33:15+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "■ 工作內容\n□ 分析並設計系統與 API 服務\n□ 撰寫單元測試、整合測試確保功能正確\n□ 設計並撰寫分佈式運算服務\n□ 公開 Review 同事的程式\n□ 自動化部署與維護\n□ 對現有設計提出改善意見\n■ 必要條件\n□ 熟悉 Java 基本語法\n□ 有單元測試基礎\n□ 懂基本 SQL 語法\n□ 使用過 Spring 框架\n□ 依工作需求不同，可能會有 Pair Programming\n■ 背景經歷\n□ 相關工作經驗至少 1 年\n■ 身為團隊的工程師，我們期待你：\n□ 提供高品質的程式，例如清楚的命名，好維護的封裝，可測試的程式，清楚易用的介面，內聚高的業務模組。\n□ 在個人開發流程以及最佳實踐上不斷地迭代改進。\n□ 要有能力清楚且有脈絡地表達與論述事情。\n□ 保持開放心態並積極學習。\n■ 加入後 1~3 個月內，你將會：\n□ 建制開發環境\n□ 透過新手專案，熟悉團隊技術 Stack 與工作流程\n□ 了解團隊開發流程\n□ 了解團隊開發風格\n□ 了解不同專案以及參與系統實作\n■ 3~6 個月後，你將會：\n□ 負責產品需求的優化與維護\n□ 解決更複雜的需求\n□ 參與更多產品開發",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "■ 工作內容\n□ 分析並設計系統與 API 服務\n□ 撰寫單元測試、整合測試確保功能正確\n□ 設計並撰寫分佈式運算服務\n□ 公開 Review 同事的程式\n□ 自動化部署與維護\n□ 對現有設計提出改善意見\n■ 必要條件\n□ 熟悉 Java 基本語法\n□ 有單元測試基礎\n□ 懂基本 SQL 語法\n□ 使用過 Spring 框架\n□ 依工作需求不同，可能會有 Pair Programming\n■ 背景經歷\n□ 相關工作經驗至少 1 年\n■ 身為團隊的工程師，我們期待你：\n□ 提供高品質的程式，例如清楚的命名，好維護的封裝，可測試的程式，清楚易用的介面，內聚高的業務模組。\n□ 在個人開發流程以及最佳實踐上不斷地迭代改進。\n□ 要有能力清楚且有脈絡地表達與論述事情。\n□ 保持開放心態並積極學習。\n■ 加入後 1~3 個月內，你將會：\n□ 建制開發環境\n□ 透過新手專案，熟悉團隊技術 Stack 與工作流程\n□ 了解團隊開發流程\n□ 了解團隊開發風格\n□ 了解不同專案以及參與系統實作\n■ 3~6 個月後，你將會：\n□ 負責產品需求的優化與維護\n□ 解決更複雜的需求\n□ 參與更多產品開發"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Shell",
+            "Git",
+            "Java",
+            "Spring"
+          ],
+          "label": "擅長工具",
+          "text": "Shell、Git、Java、Spring",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n擅長工具：Shell、Git、Java、Spring\n工作技能：軟體工程系統開發、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ge0v",
+    "job_url": "https://www.104.com.tw/job/8ge0v",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ge0v.json",
+    "raw_sha256": "f85a14e024266d562831e3dd2dcf4940179d59a3eceb75ae6ab4152a99ac7933",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ge0v"
+  }
+}

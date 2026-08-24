@@ -1,0 +1,133 @@
+{
+  "company": {
+    "id": "7lka688",
+    "name": "凌網科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟韌體測試工程師",
+      "軟體工程師",
+      "品管／品保工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "QA 測試工程師｜一起打造更好的數位閱讀體驗\n你是否對軟體品質有堅持，喜歡找出問題、思考解決方法？\n你是否對自動化測試、軟體開發與新技術充滿好奇？\nHyRead 是台灣圖書館電子書領域的重要品牌，我們致力於打造優質的數位閱讀服務與產品。現在，我們正在尋找一位對 QA、軟體測試與產品品質 有熱情的夥伴加入研發團隊，與開發及設計夥伴一起，讓每一次閱讀體驗都更穩定、更順暢。\n【工作內容】\n與開發、設計團隊密切合作，依產品需求執行 Web／App 手動測試與自動化測試。\n撰寫及維護 User Stories、Test Plan、Test Cases，建立完整的測試流程。\n使用 Monday 進行問題記錄、分析與追蹤，並於問題修復後執行驗證。\n主動發掘產品與流程中的問題，提出改善建議，持續提升產品品質與穩定度。\n【職務需求】\n對 軟體品質、產品測試與品質控管 具有熱情與責任感。\n喜歡學習新技術、新工具與測試方法，願意主動分享、與團隊一起成長。\n具備至少一種程式語言基礎，如 Python、Java、JavaScript，能撰寫或維護測試腳本。\n熟悉 Windows／Linux 基本指令操作及環境建置。\n【加分能力】\n熟悉自動化測試框架，如 Appium、Playwright、Maestro。\n熟悉 Git 版本控制及 CI/CD 流程。\n接觸過 Jenkins、GitLab CI、GitHub Actions 等工具。\n【加入我們】\n從「測試功能」進一步參與產品品質與開發流程，接觸 Web、App、自動化測試與 CI/CD 等技術。這不只是一份 QA 工作，更是累積軟體開發流程、產品思維與品質工程能力的機會。"
+    },
+    "employment_type_raw": "全職",
+    "title": "QA測試工程師-台北(R)"
+  },
+  "location": {
+    "address_raw": "台北市中正區",
+    "raw": "台北市中正區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 7
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:39:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "QA 測試工程師｜一起打造更好的數位閱讀體驗\n你是否對軟體品質有堅持，喜歡找出問題、思考解決方法？\n你是否對自動化測試、軟體開發與新技術充滿好奇？\nHyRead 是台灣圖書館電子書領域的重要品牌，我們致力於打造優質的數位閱讀服務與產品。現在，我們正在尋找一位對 QA、軟體測試與產品品質 有熱情的夥伴加入研發團隊，與開發及設計夥伴一起，讓每一次閱讀體驗都更穩定、更順暢。\n【工作內容】\n與開發、設計團隊密切合作，依產品需求執行 Web／App 手動測試與自動化測試。\n撰寫及維護 User Stories、Test Plan、Test Cases，建立完整的測試流程。\n使用 Monday 進行問題記錄、分析與追蹤，並於問題修復後執行驗證。\n主動發掘產品與流程中的問題，提出改善建議，持續提升產品品質與穩定度。\n【職務需求】\n對 軟體品質、產品測試與品質控管 具有熱情與責任感。\n喜歡學習新技術、新工具與測試方法，願意主動分享、與團隊一起成長。\n具備至少一種程式語言基礎，如 Python、Java、JavaScript，能撰寫或維護測試腳本。\n熟悉 Windows／Linux 基本指令操作及環境建置。\n【加分能力】\n熟悉自動化測試框架，如 Appium、Playwright、Maestro。\n熟悉 Git 版本控制及 CI/CD 流程。\n接觸過 Jenkins、GitLab CI、GitHub Actions 等工具。\n【加入我們】\n從「測試功能」進一步參與產品品質與開發流程，接觸 Web、App、自動化測試與 CI/CD 等技術。這不只是一份 QA 工作，更是累積軟體開發流程、產品思維與品質工程能力的機會。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟韌體測試工程師",
+            "軟體工程師",
+            "品管／品保工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟韌體測試工程師、軟體工程師、品管／品保工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "QA 測試工程師｜一起打造更好的數位閱讀體驗\n你是否對軟體品質有堅持，喜歡找出問題、思考解決方法？\n你是否對自動化測試、軟體開發與新技術充滿好奇？\nHyRead 是台灣圖書館電子書領域的重要品牌，我們致力於打造優質的數位閱讀服務與產品。現在，我們正在尋找一位對 QA、軟體測試與產品品質 有熱情的夥伴加入研發團隊，與開發及設計夥伴一起，讓每一次閱讀體驗都更穩定、更順暢。\n【工作內容】\n與開發、設計團隊密切合作，依產品需求執行 Web／App 手動測試與自動化測試。\n撰寫及維護 User Stories、Test Plan、Test Cases，建立完整的測試流程。\n使用 Monday 進行問題記錄、分析與追蹤，並於問題修復後執行驗證。\n主動發掘產品與流程中的問題，提出改善建議，持續提升產品品質與穩定度。\n【職務需求】\n對 軟體品質、產品測試與品質控管 具有熱情與責任感。\n喜歡學習新技術、新工具與測試方法，願意主動分享、與團隊一起成長。\n具備至少一種程式語言基礎，如 Python、Java、JavaScript，能撰寫或維護測試腳本。\n熟悉 Windows／Linux 基本指令操作及環境建置。\n【加分能力】\n熟悉自動化測試框架，如 Appium、Playwright、Maestro。\n熟悉 Git 版本控制及 CI/CD 流程。\n接觸過 Jenkins、GitLab CI、GitHub Actions 等工具。\n【加入我們】\n從「測試功能」進一步參與產品品質與開發流程，接觸 Web、App、自動化測試與 CI/CD 等技術。這不只是一份 QA 工作，更是累積軟體開發流程、產品思維與品質工程能力的機會。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94tze",
+    "job_url": "https://www.104.com.tw/job/94tze",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94tze.json",
+    "raw_sha256": "46e3255439d0bf53c9b07717232c465fdeb2e6ad1892644c551d45801e6c439c",
+    "requested_url": "https://www.104.com.tw/api/jobs/94tze"
+  }
+}

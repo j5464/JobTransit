@@ -1,0 +1,300 @@
+{
+  "company": {
+    "id": "10x62k4o",
+    "name": "台境企業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "網路管理工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "伺服器及桌面虛擬化導入、維護與分析(VMWare Solution, Hyper V)"
+        },
+        {
+          "children": [],
+          "text": "網路相關設備( Switch, firewall, wireless)，安裝設定與維護"
+        },
+        {
+          "children": [],
+          "text": "AD、mail Server (Exchange) 管理與維護"
+        },
+        {
+          "children": [],
+          "text": "網路架構規劃架設建置"
+        },
+        {
+          "children": [],
+          "text": "內部系統操作管理，電腦軟硬體、網路故障排除"
+        },
+        {
+          "children": [],
+          "text": "資訊系統導入及維護"
+        },
+        {
+          "children": [],
+          "text": "PBX、VOIP等交換機相關"
+        },
+        {
+          "children": [],
+          "text": "主管交代事項"
+        }
+      ],
+      "text": "1.伺服器及桌面虛擬化導入、維護與分析(VMWare Solution, Hyper V)\n2.網路相關設備( Switch, firewall, wireless)，安裝設定與維護\n3.AD、mail Server (Exchange) 管理與維護\n4.網路架構規劃架設建置\n5.內部系統操作管理，電腦軟硬體、網路故障排除\n6.資訊系統導入及維護\n7.PBX、VOIP等交換機相關\n8.主管交代事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊工程師(擴編)"
+  },
+  "location": {
+    "address_raw": "高雄市苓雅區中正二路175號30樓之1",
+    "raw": "高雄市苓雅區中正二路175號30樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "電機電子工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、電機電子工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "VPN",
+          "Firewall",
+          "DNS",
+          "DHCP",
+          "Windows 10",
+          "Windows Server 2012",
+          "Windows Server 2008",
+          "Windows 7",
+          "Mac/Macintosh",
+          "Mac OS",
+          "Linux"
+        ],
+        "label": "擅長工具",
+        "text": "VPN、Firewall、DNS、DHCP、Windows 10、Windows Server 2012、Windows Server 2008、Windows 7、Mac/Macintosh、Mac OS、Linux"
+      },
+      {
+        "items": [
+          "系統架構規劃與維護",
+          "伺服器網站管理維護",
+          "企業資源規劃管理(ERP)",
+          "資料庫軟體應用",
+          "資料庫程式設計",
+          "資料庫系統管理維護",
+          "測試環境建置規劃",
+          "軟體整合測試",
+          "軟體工程系統開發",
+          "系統整合分析",
+          "系統架構規劃",
+          "資訊設備環境設定",
+          "資料備份與復原"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃與維護、伺服器網站管理維護、企業資源規劃管理(ERP)、資料庫軟體應用、資料庫程式設計、資料庫系統管理維護、測試環境建置規劃、軟體整合測試、軟體工程系統開發、系統整合分析、系統架構規劃、資訊設備環境設定、資料備份與復原"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "電腦專長：LINUX/Mac OS/Windows Server 2000-2012/VPN\n擅長工具：Mac/Macintosh\n工作積極，並熟悉以下工作技能\n網路設備：Firewall, Switch, VPN\n作業系統：Windows Server, Windows 7/10, MAC, Linux\n內部服務：AD, Exchange, DNS, DHCP, NAS, 資料備份與還原,\n具 Networking 相關工作技能、網路相關證照者,高益ERP經驗 尤佳"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "數學及電算機科學學科類",
+      "電機電子工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "電腦專長：LINUX/Mac OS/Windows Server 2000-2012/VPN\n擅長工具：Mac/Macintosh\n工作積極，並熟悉以下工作技能\n網路設備：Firewall, Switch, VPN\n作業系統：Windows Server, Windows 7/10, MAC, Linux\n內部服務：AD, Exchange, DNS, DHCP, NAS, 資料備份與還原,\n具 Networking 相關工作技能、網路相關證照者,高益ERP經驗 尤佳",
+    "skills": [
+      "系統架構規劃與維護",
+      "伺服器網站管理維護",
+      "企業資源規劃管理(ERP)",
+      "資料庫軟體應用",
+      "資料庫程式設計",
+      "資料庫系統管理維護",
+      "測試環境建置規劃",
+      "軟體整合測試",
+      "軟體工程系統開發",
+      "系統整合分析",
+      "系統架構規劃",
+      "資訊設備環境設定",
+      "資料備份與復原"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類、電機電子工程相關、資訊管理相關\n擅長工具：VPN、Firewall、DNS、DHCP、Windows 10、Windows Server 2012、Windows Server 2008、Windows 7、Mac/Macintosh、Mac OS、Linux\n工作技能：系統架構規劃與維護、伺服器網站管理維護、企業資源規劃管理(ERP)、資料庫軟體應用、資料庫程式設計、資料庫系統管理維護、測試環境建置規劃、軟體整合測試、軟體工程系統開發、系統整合分析、系統架構規劃、資訊設備環境設定、資料備份與復原\n其他條件：電腦專長：LINUX/Mac OS/Windows Server 2000-2012/VPN\n擅長工具：Mac/Macintosh\n工作積極，並熟悉以下工作技能\n網路設備：Firewall, Switch, VPN\n作業系統：Windows Server, Windows 7/10, MAC, Linux\n內部服務：AD, Exchange, DNS, DHCP, NAS, 資料備份與還原,\n具 Networking 相關工作技能、網路相關證照者,高益ERP經驗 尤佳",
+    "tools": [
+      "VPN",
+      "Firewall",
+      "DNS",
+      "DHCP",
+      "Windows 10",
+      "Windows Server 2012",
+      "Windows Server 2008",
+      "Windows 7",
+      "Mac/Macintosh",
+      "Mac OS",
+      "Linux"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 84
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:49:26+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.伺服器及桌面虛擬化導入、維護與分析(VMWare Solution, Hyper V)\n2.網路相關設備( Switch, firewall, wireless)，安裝設定與維護\n3.AD、mail Server (Exchange) 管理與維護\n4.網路架構規劃架設建置\n5.內部系統操作管理，電腦軟硬體、網路故障排除\n6.資訊系統導入及維護\n7.PBX、VOIP等交換機相關\n8.主管交代事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "網路管理工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、網路管理工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市苓雅區中正二路175號30樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.伺服器及桌面虛擬化導入、維護與分析(VMWare Solution, Hyper V)\n2.網路相關設備( Switch, firewall, wireless)，安裝設定與維護\n3.AD、mail Server (Exchange) 管理與維護\n4.網路架構規劃架設建置\n5.內部系統操作管理，電腦軟硬體、網路故障排除\n6.資訊系統導入及維護\n7.PBX、VOIP等交換機相關\n8.主管交代事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "電機電子工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、電機電子工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "VPN",
+            "Firewall",
+            "DNS",
+            "DHCP",
+            "Windows 10",
+            "Windows Server 2012",
+            "Windows Server 2008",
+            "Windows 7",
+            "Mac/Macintosh",
+            "Mac OS",
+            "Linux"
+          ],
+          "label": "擅長工具",
+          "text": "VPN、Firewall、DNS、DHCP、Windows 10、Windows Server 2012、Windows Server 2008、Windows 7、Mac/Macintosh、Mac OS、Linux",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃與維護",
+            "伺服器網站管理維護",
+            "企業資源規劃管理(ERP)",
+            "資料庫軟體應用",
+            "資料庫程式設計",
+            "資料庫系統管理維護",
+            "測試環境建置規劃",
+            "軟體整合測試",
+            "軟體工程系統開發",
+            "系統整合分析",
+            "系統架構規劃",
+            "資訊設備環境設定",
+            "資料備份與復原"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃與維護、伺服器網站管理維護、企業資源規劃管理(ERP)、資料庫軟體應用、資料庫程式設計、資料庫系統管理維護、測試環境建置規劃、軟體整合測試、軟體工程系統開發、系統整合分析、系統架構規劃、資訊設備環境設定、資料備份與復原",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "電腦專長：LINUX/Mac OS/Windows Server 2000-2012/VPN\n擅長工具：Mac/Macintosh\n工作積極，並熟悉以下工作技能\n網路設備：Firewall, Switch, VPN\n作業系統：Windows Server, Windows 7/10, MAC, Linux\n內部服務：AD, Exchange, DNS, DHCP, NAS, 資料備份與還原,\n具 Networking 相關工作技能、網路相關證照者,高益ERP經驗 尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類、電機電子工程相關、資訊管理相關\n擅長工具：VPN、Firewall、DNS、DHCP、Windows 10、Windows Server 2012、Windows Server 2008、Windows 7、Mac/Macintosh、Mac OS、Linux\n工作技能：系統架構規劃與維護、伺服器網站管理維護、企業資源規劃管理(ERP)、資料庫軟體應用、資料庫程式設計、資料庫系統管理維護、測試環境建置規劃、軟體整合測試、軟體工程系統開發、系統整合分析、系統架構規劃、資訊設備環境設定、資料備份與復原\n其他條件：電腦專長：LINUX/Mac OS/Windows Server 2000-2012/VPN\n擅長工具：Mac/Macintosh\n工作積極，並熟悉以下工作技能\n網路設備：Firewall, Switch, VPN\n作業系統：Windows Server, Windows 7/10, MAC, Linux\n內部服務：AD, Exchange, DNS, DHCP, NAS, 資料備份與還原,\n具 Networking 相關工作技能、網路相關證照者,高益ERP經驗 尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "869jv",
+    "job_url": "https://www.104.com.tw/job/869jv",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/869jv.json",
+    "raw_sha256": "5dc72a2acfa60a6e676956917457ae0732e46a8f0ba253314c972ebfd35de083",
+    "requested_url": "https://www.104.com.tw/api/jobs/869jv"
+  }
+}

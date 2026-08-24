@@ -1,0 +1,165 @@
+{
+  "company": {
+    "id": "1jt7ol5",
+    "name": "國泰人壽保險股份有限公司_總公司_國泰金控"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "軟體工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "國泰人壽中台系統分析設計。"
+        },
+        {
+          "children": [],
+          "text": "國泰人壽中台服務之例行維護以及問題查找。"
+        },
+        {
+          "children": [],
+          "text": "針對流程進行整合性測試並驗證開發項目結果。"
+        },
+        {
+          "children": [],
+          "text": "異業合作之系統串接規劃設計。"
+        },
+        {
+          "children": [],
+          "text": "具備良好溝通技巧，能與團隊共同合作完成目標。"
+        }
+      ],
+      "text": "1. 國泰人壽中台系統分析設計。\n2. 國泰人壽中台服務之例行維護以及問題查找。\n3. 針對流程進行整合性測試並驗證開發項目結果。\n4. 異業合作之系統串接規劃設計。\n5. 具備良好溝通技巧，能與團隊共同合作完成目標。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【資訊專才】中台系統分析師_I00010317"
+  },
+  "location": {
+    "address_raw": "台北市內湖區",
+    "raw": "台北市內湖區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 大學日間部以上，理、工、商、管理學院相關系所畢業。\n2. 具3年以上WEB系統開發以及系統分析相關經驗，熟Java尤佳。\n3. 熟悉Git操作及Git Flow相關概念。\n4. 熟悉Restful API設計及運作。\n5. 加分項目：\n.曾使用DDD拆分服務者為佳。\n‧曾參與敏捷開發團隊或有相關證照者為佳。\n‧具Jira或其他專案管理工具使用經驗。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 大學日間部以上，理、工、商、管理學院相關系所畢業。\n2. 具3年以上WEB系統開發以及系統分析相關經驗，熟Java尤佳。\n3. 熟悉Git操作及Git Flow相關概念。\n4. 熟悉Restful API設計及運作。\n5. 加分項目：\n.曾使用DDD拆分服務者為佳。\n‧曾參與敏捷開發團隊或有相關證照者為佳。\n‧具Jira或其他專案管理工具使用經驗。",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：不拘\n其他條件：1. 大學日間部以上，理、工、商、管理學院相關系所畢業。\n2. 具3年以上WEB系統開發以及系統分析相關經驗，熟Java尤佳。\n3. 熟悉Git操作及Git Flow相關概念。\n4. 熟悉Restful API設計及運作。\n5. 加分項目：\n.曾使用DDD拆分服務者為佳。\n‧曾參與敏捷開發團隊或有相關證照者為佳。\n‧具Jira或其他專案管理工具使用經驗。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 64
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:58:48+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 國泰人壽中台系統分析設計。\n2. 國泰人壽中台服務之例行維護以及問題查找。\n3. 針對流程進行整合性測試並驗證開發項目結果。\n4. 異業合作之系統串接規劃設計。\n5. 具備良好溝通技巧，能與團隊共同合作完成目標。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "軟體工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、軟體工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 國泰人壽中台系統分析設計。\n2. 國泰人壽中台服務之例行維護以及問題查找。\n3. 針對流程進行整合性測試並驗證開發項目結果。\n4. 異業合作之系統串接規劃設計。\n5. 具備良好溝通技巧，能與團隊共同合作完成目標。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 大學日間部以上，理、工、商、管理學院相關系所畢業。\n2. 具3年以上WEB系統開發以及系統分析相關經驗，熟Java尤佳。\n3. 熟悉Git操作及Git Flow相關概念。\n4. 熟悉Restful API設計及運作。\n5. 加分項目：\n.曾使用DDD拆分服務者為佳。\n‧曾參與敏捷開發團隊或有相關證照者為佳。\n‧具Jira或其他專案管理工具使用經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：不拘\n其他條件：1. 大學日間部以上，理、工、商、管理學院相關系所畢業。\n2. 具3年以上WEB系統開發以及系統分析相關經驗，熟Java尤佳。\n3. 熟悉Git操作及Git Flow相關概念。\n4. 熟悉Restful API設計及運作。\n5. 加分項目：\n.曾使用DDD拆分服務者為佳。\n‧曾參與敏捷開發團隊或有相關證照者為佳。\n‧具Jira或其他專案管理工具使用經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8l02z",
+    "job_url": "https://www.104.com.tw/job/8l02z",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8l02z.json",
+    "raw_sha256": "2cfbefab49f29f4221733b2f4ec61af9a7a5cc4317e61da261b4f728a486b0ea",
+    "requested_url": "https://www.104.com.tw/api/jobs/8l02z"
+  }
+}

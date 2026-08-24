@@ -1,0 +1,165 @@
+{
+  "company": {
+    "id": "1a2x6bn3m7",
+    "name": "麟雲數據科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "At least 3 years of experience with X86 system Legacy/uEFI BIOS porting/customization/debugging."
+        },
+        {
+          "children": [],
+          "text": "Self-Motivated with strong passion for learning"
+        },
+        {
+          "children": [],
+          "text": "Server MB BIOS AMI C/C++ programming and debugging"
+        },
+        {
+          "children": [],
+          "text": "Co-work with hardware team and external vendor (AMI, Intel,AMD.) to solve issues."
+        },
+        {
+          "children": [],
+          "text": "Clarify RAS(Reliability, Availability, Serviceability) features related issues."
+        },
+        {
+          "children": [],
+          "text": "Good knowledge of PC/Server system architecture"
+        }
+      ],
+      "text": "1.At least 3 years of experience with X86 system Legacy/uEFI BIOS porting/customization/debugging.\n2.Self-Motivated with strong passion for learning\n3.Server MB BIOS AMI C/C++ programming and debugging\n4.Co-work with hardware team and external vendor (AMI, Intel,AMD.) to solve issues.\n5.Clarify RAS(Reliability, Availability, Serviceability) features related issues.\n6.Good knowledge of PC/Server system architecture"
+    },
+    "employment_type_raw": "全職",
+    "title": "BIOS 工程師"
+  },
+  "location": {
+    "address_raw": "台北市南港區三重路66號16樓之2",
+    "raw": "台北市南港區三重路66號16樓之2"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "• More than 2 years of BIOS development experience\n• Intel x86 or AMD x86 product development experience\n• Familiar with x86 system architecture\n• Familiarity with C/Assembly\n• Cross-functional teamwork"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "• More than 2 years of BIOS development experience\n• Intel x86 or AMD x86 product development experience\n• Familiar with x86 system architecture\n• Familiarity with C/Assembly\n• Cross-functional teamwork",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學\n其他條件：• More than 2 years of BIOS development experience\n• Intel x86 or AMD x86 product development experience\n• Familiar with x86 system architecture\n• Familiarity with C/Assembly\n• Cross-functional teamwork",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 46
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:14:28+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.At least 3 years of experience with X86 system Legacy/uEFI BIOS porting/customization/debugging.\n2.Self-Motivated with strong passion for learning\n3.Server MB BIOS AMI C/C++ programming and debugging\n4.Co-work with hardware team and external vendor (AMI, Intel,AMD.) to solve issues.\n5.Clarify RAS(Reliability, Availability, Serviceability) features related issues.\n6.Good knowledge of PC/Server system architecture",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區三重路66號16樓之2",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.At least 3 years of experience with X86 system Legacy/uEFI BIOS porting/customization/debugging.\n2.Self-Motivated with strong passion for learning\n3.Server MB BIOS AMI C/C++ programming and debugging\n4.Co-work with hardware team and external vendor (AMI, Intel,AMD.) to solve issues.\n5.Clarify RAS(Reliability, Availability, Serviceability) features related issues.\n6.Good knowledge of PC/Server system architecture"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "• More than 2 years of BIOS development experience\n• Intel x86 or AMD x86 product development experience\n• Familiar with x86 system architecture\n• Familiarity with C/Assembly\n• Cross-functional teamwork",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學\n其他條件：• More than 2 years of BIOS development experience\n• Intel x86 or AMD x86 product development experience\n• Familiar with x86 system architecture\n• Familiarity with C/Assembly\n• Cross-functional teamwork"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ijar",
+    "job_url": "https://www.104.com.tw/job/8ijar",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ijar.json",
+    "raw_sha256": "f499ac27dab8176db7121c3aa0df0f1ecf0373e54704a967a9378408a4cdc2af",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ijar"
+  }
+}

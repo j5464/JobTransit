@@ -1,0 +1,161 @@
+{
+  "company": {
+    "id": "cifpbp4",
+    "name": "國泰綜合證券股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "配合業務發展需要進行前端設計並產出各種功能服務樣版"
+        },
+        {
+          "children": [],
+          "text": "以使用者為中心，開發介面、邏輯功能等設計"
+        },
+        {
+          "children": [],
+          "text": "配合團隊其他開發人員、測試人員，完成產品設計和發佈"
+        },
+        {
+          "children": [],
+          "text": "執行專案計畫各項工作，確保工作品質符合專案需求，依既定目標與時程完成產出"
+        },
+        {
+          "children": [],
+          "text": "熟悉 .Net前後端程式開發等相關技術"
+        }
+      ],
+      "text": "1. 配合業務發展需要進行前端設計並產出各種功能服務樣版\n2. 以使用者為中心，開發介面、邏輯功能等設計\n3. 配合團隊其他開發人員、測試人員，完成產品設計和發佈\n4. 執行專案計畫各項工作，確保工作品質符合專案需求，依既定目標與時程完成產出\n5. 熟悉 .Net前後端程式開發等相關技術"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體研發工程專業人員(數位營運資訊部)_I00008546"
+  },
+  "location": {
+    "address_raw": "台北市大安區敦化南路二段335號18樓",
+    "raw": "台北市大安區敦化南路二段335號18樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉C#開發工具。\n2.具2年以上C#及WEB開發維護經驗。\n【本職缺歡迎身心障礙者投遞履歷】"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1.熟悉C#開發工具。\n2.具2年以上C#及WEB開發維護經驗。\n【本職缺歡迎身心障礙者投遞履歷】",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：不拘\n其他條件：1.熟悉C#開發工具。\n2.具2年以上C#及WEB開發維護經驗。\n【本職缺歡迎身心障礙者投遞履歷】",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 64
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:58:44+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 配合業務發展需要進行前端設計並產出各種功能服務樣版\n2. 以使用者為中心，開發介面、邏輯功能等設計\n3. 配合團隊其他開發人員、測試人員，完成產品設計和發佈\n4. 執行專案計畫各項工作，確保工作品質符合專案需求，依既定目標與時程完成產出\n5. 熟悉 .Net前後端程式開發等相關技術",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區敦化南路二段335號18樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 配合業務發展需要進行前端設計並產出各種功能服務樣版\n2. 以使用者為中心，開發介面、邏輯功能等設計\n3. 配合團隊其他開發人員、測試人員，完成產品設計和發佈\n4. 執行專案計畫各項工作，確保工作品質符合專案需求，依既定目標與時程完成產出\n5. 熟悉 .Net前後端程式開發等相關技術"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉C#開發工具。\n2.具2年以上C#及WEB開發維護經驗。\n【本職缺歡迎身心障礙者投遞履歷】",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：不拘\n其他條件：1.熟悉C#開發工具。\n2.具2年以上C#及WEB開發維護經驗。\n【本職缺歡迎身心障礙者投遞履歷】"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8aku4",
+    "job_url": "https://www.104.com.tw/job/8aku4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8aku4.json",
+    "raw_sha256": "047b0157a5862a377b3e2d1db29b2d847cda93d9f0427014ca6abbfe4b0e3d47",
+    "requested_url": "https://www.104.com.tw/api/jobs/8aku4"
+  }
+}

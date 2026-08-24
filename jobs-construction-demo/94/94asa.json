@@ -1,0 +1,231 @@
+{
+  "company": {
+    "id": "18jym5s8",
+    "name": "貿聯國際股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "數據分析師／資料分析師",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Drive Strategic Projects: Drive Business Intelligence and Data Transformation projects from concept through design and implementation, ensuring alignment with overarching business goals"
+        },
+        {
+          "children": [],
+          "text": "Design Data Solutions: Design complex data solutions utilizing the Medallion Architecture (Bronze, Silver, Gold layers) to ensure data quality and reliability"
+        },
+        {
+          "children": [],
+          "text": "Optimize for scale: Optimize enterprise data solutions on Databricks and Microsoft Fabric to support big data processing and AI/ML workloads."
+        },
+        {
+          "children": [],
+          "text": "Advanced Analytics & Reporting: Develop highly interactive, visually compelling, and performant Power BI dashboards to translate complex data into actionable business insights."
+        },
+        {
+          "children": [],
+          "text": "AI/ML Integration: Collaborate with business leaders to integrate predictive modeling, machine learning into daily business operations."
+        },
+        {
+          "children": [],
+          "text": "Data Governance & Best Practices: Follow and enforce standards for data architecture, security, and governance across all BI and AI platforms."
+        },
+        {
+          "children": [],
+          "text": "Cross-functional Collaboration: Partner with stakeholders across various departments to understand their data needs and deliver tailored analytical solutions."
+        }
+      ],
+      "text": "We are seeking a highly skilled Senior Business Intelligence & Data Specialist to drive our company’s most critical digital transformation initiatives. In this role, you will be at the forefront of designing and implementing advanced data intelligence that drives strategic decision-making and operational efficiency. You will work closely with cross-functional teams to transform raw data into impactful business intelligence using cutting-edge technologies. The ideal candidate is a strategic thinker with deep expertise in complex data ecosystems and a passion for transforming raw data into competitive advantages.\nResponsibilities:\n1. Drive Strategic Projects: Drive Business Intelligence and Data Transformation projects from concept through design and implementation, ensuring alignment with overarching business goals\n2. Design Data Solutions: Design complex data solutions utilizing the Medallion Architecture (Bronze, Silver, Gold layers) to ensure data quality and reliability\n3. Optimize for scale: Optimize enterprise data solutions on Databricks and Microsoft Fabric to support big data processing and AI/ML workloads.\n4. Advanced Analytics & Reporting: Develop highly interactive, visually compelling, and performant Power BI dashboards to translate complex data into actionable business insights.\n5. AI/ML Integration: Collaborate with business leaders to integrate predictive modeling, machine learning into daily business operations.\n6.Data Governance & Best Practices: Follow and enforce standards for data architecture, security, and governance across all BI and AI platforms.\n7. Cross-functional Collaboration: Partner with stakeholders across various departments to understand their data needs and deliver tailored analytical solutions."
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior Data Specialist"
+  },
+  "location": {
+    "address_raw": "新北市中和區建一路186號3樓",
+    "raw": "新北市中和區建一路186號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通",
+          "中文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通\n中文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "Python",
+          "ETL",
+          "Scala"
+        ],
+        "label": "擅長工具",
+        "text": "Python、ETL、Scala"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Qualifications:\n* 5+ years of proven experience in Data Engineering, Business Intelligence or roles.\n* Demonstrated experience driving impactful data transformation projects\n* Solid understanding of modern data warehouse, data lakes, and data mesh concepts\nSkills:\n* Business Intelligence & Data Engineering: Deep expertise in complex data analysis, data modeling, and ETL/ELT processes.\n* Architecture & Frameworks: Hands-on experience designing and implementing Medallion Architecture\n* Platform Expertise: Advanced proficiency in Databricks and Microsoft Fabric\n* Visualization: Expert-level skills in Power BI, including DAX, Power Query, and performance tuning\n* Languages: Strong programming skills in SQL, Python, or Scala\nPreferred Qualifications:\n* Industry Experience: Prior experience working within the Manufacturing industry, with an understanding of supply chain, production metrics, and operational efficiency\n* Systems Knowledge: Hands-on experience integrating data from ERP and PLM systems (Agile, Oracle, SAP, etc).\n* Relevant certifications (e.g., Microsoft Fabrics, Databricks).\n* AI/ML: Familiarity with deploying and operationalizing machine learning models"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通",
+      "中文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "數學及電算機科學學科類"
+    ],
+    "other_text": "Qualifications:\n* 5+ years of proven experience in Data Engineering, Business Intelligence or roles.\n* Demonstrated experience driving impactful data transformation projects\n* Solid understanding of modern data warehouse, data lakes, and data mesh concepts\nSkills:\n* Business Intelligence & Data Engineering: Deep expertise in complex data analysis, data modeling, and ETL/ELT processes.\n* Architecture & Frameworks: Hands-on experience designing and implementing Medallion Architecture\n* Platform Expertise: Advanced proficiency in Databricks and Microsoft Fabric\n* Visualization: Expert-level skills in Power BI, including DAX, Power Query, and performance tuning\n* Languages: Strong programming skills in SQL, Python, or Scala\nPreferred Qualifications:\n* Industry Experience: Prior experience working within the Manufacturing industry, with an understanding of supply chain, production metrics, and operational efficiency\n* Systems Knowledge: Hands-on experience integrating data from ERP and PLM systems (Agile, Oracle, SAP, etc).\n* Relevant certifications (e.g., Microsoft Fabrics, Databricks).\n* AI/ML: Familiarity with deploying and operationalizing machine learning models",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類\n語文條件：英文：精通、精通、精通、精通\n中文：精通、精通、精通、精通\n擅長工具：Python、ETL、Scala\n其他條件：Qualifications:\n* 5+ years of proven experience in Data Engineering, Business Intelligence or roles.\n* Demonstrated experience driving impactful data transformation projects\n* Solid understanding of modern data warehouse, data lakes, and data mesh concepts\nSkills:\n* Business Intelligence & Data Engineering: Deep expertise in complex data analysis, data modeling, and ETL/ELT processes.\n* Architecture & Frameworks: Hands-on experience designing and implementing Medallion Architecture\n* Platform Expertise: Advanced proficiency in Databricks and Microsoft Fabric\n* Visualization: Expert-level skills in Power BI, including DAX, Power Query, and performance tuning\n* Languages: Strong programming skills in SQL, Python, or Scala\nPreferred Qualifications:\n* Industry Experience: Prior experience working within the Manufacturing industry, with an understanding of supply chain, production metrics, and operational efficiency\n* Systems Knowledge: Hands-on experience integrating data from ERP and PLM systems (Agile, Oracle, SAP, etc).\n* Relevant certifications (e.g., Microsoft Fabrics, Databricks).\n* AI/ML: Familiarity with deploying and operationalizing machine learning models",
+    "tools": [
+      "Python",
+      "ETL",
+      "Scala"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 91
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:05:46+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are seeking a highly skilled Senior Business Intelligence & Data Specialist to drive our company’s most critical digital transformation initiatives. In this role, you will be at the forefront of designing and implementing advanced data intelligence that drives strategic decision-making and operational efficiency. You will work closely with cross-functional teams to transform raw data into impactful business intelligence using cutting-edge technologies. The ideal candidate is a strategic thinker with deep expertise in complex data ecosystems and a passion for transforming raw data into competitive advantages.\nResponsibilities:\n1. Drive Strategic Projects: Drive Business Intelligence and Data Transformation projects from concept through design and implementation, ensuring alignment with overarching business goals\n2. Design Data Solutions: Design complex data solutions utilizing the Medallion Architecture (Bronze, Silver, Gold layers) to ensure data quality and reliability\n3. Optimize for scale: Optimize enterprise data solutions on Databricks and Microsoft Fabric to support big data processing and AI/ML workloads.\n4. Advanced Analytics & Reporting: Develop highly interactive, visually compelling, and performant Power BI dashboards to translate complex data into actionable business insights.\n5. AI/ML Integration: Collaborate with business leaders to integrate predictive modeling, machine learning into daily business operations.\n6.Data Governance & Best Practices: Follow and enforce standards for data architecture, security, and governance across all BI and AI platforms.\n7. Cross-functional Collaboration: Partner with stakeholders across various departments to understand their data needs and deliver tailored analytical solutions.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "數據分析師／資料分析師",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "數據分析師／資料分析師、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區建一路186號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are seeking a highly skilled Senior Business Intelligence & Data Specialist to drive our company’s most critical digital transformation initiatives. In this role, you will be at the forefront of designing and implementing advanced data intelligence that drives strategic decision-making and operational efficiency. You will work closely with cross-functional teams to transform raw data into impactful business intelligence using cutting-edge technologies. The ideal candidate is a strategic thinker with deep expertise in complex data ecosystems and a passion for transforming raw data into competitive advantages.\nResponsibilities:\n1. Drive Strategic Projects: Drive Business Intelligence and Data Transformation projects from concept through design and implementation, ensuring alignment with overarching business goals\n2. Design Data Solutions: Design complex data solutions utilizing the Medallion Architecture (Bronze, Silver, Gold layers) to ensure data quality and reliability\n3. Optimize for scale: Optimize enterprise data solutions on Databricks and Microsoft Fabric to support big data processing and AI/ML workloads.\n4. Advanced Analytics & Reporting: Develop highly interactive, visually compelling, and performant Power BI dashboards to translate complex data into actionable business insights.\n5. AI/ML Integration: Collaborate with business leaders to integrate predictive modeling, machine learning into daily business operations.\n6.Data Governance & Best Practices: Follow and enforce standards for data architecture, security, and governance across all BI and AI platforms.\n7. Cross-functional Collaboration: Partner with stakeholders across various departments to understand their data needs and deliver tailored analytical solutions."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通",
+            "中文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通\n中文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "ETL",
+            "Scala"
+          ],
+          "label": "擅長工具",
+          "text": "Python、ETL、Scala",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Qualifications:\n* 5+ years of proven experience in Data Engineering, Business Intelligence or roles.\n* Demonstrated experience driving impactful data transformation projects\n* Solid understanding of modern data warehouse, data lakes, and data mesh concepts\nSkills:\n* Business Intelligence & Data Engineering: Deep expertise in complex data analysis, data modeling, and ETL/ELT processes.\n* Architecture & Frameworks: Hands-on experience designing and implementing Medallion Architecture\n* Platform Expertise: Advanced proficiency in Databricks and Microsoft Fabric\n* Visualization: Expert-level skills in Power BI, including DAX, Power Query, and performance tuning\n* Languages: Strong programming skills in SQL, Python, or Scala\nPreferred Qualifications:\n* Industry Experience: Prior experience working within the Manufacturing industry, with an understanding of supply chain, production metrics, and operational efficiency\n* Systems Knowledge: Hands-on experience integrating data from ERP and PLM systems (Agile, Oracle, SAP, etc).\n* Relevant certifications (e.g., Microsoft Fabrics, Databricks).\n* AI/ML: Familiarity with deploying and operationalizing machine learning models",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類\n語文條件：英文：精通、精通、精通、精通\n中文：精通、精通、精通、精通\n擅長工具：Python、ETL、Scala\n其他條件：Qualifications:\n* 5+ years of proven experience in Data Engineering, Business Intelligence or roles.\n* Demonstrated experience driving impactful data transformation projects\n* Solid understanding of modern data warehouse, data lakes, and data mesh concepts\nSkills:\n* Business Intelligence & Data Engineering: Deep expertise in complex data analysis, data modeling, and ETL/ELT processes.\n* Architecture & Frameworks: Hands-on experience designing and implementing Medallion Architecture\n* Platform Expertise: Advanced proficiency in Databricks and Microsoft Fabric\n* Visualization: Expert-level skills in Power BI, including DAX, Power Query, and performance tuning\n* Languages: Strong programming skills in SQL, Python, or Scala\nPreferred Qualifications:\n* Industry Experience: Prior experience working within the Manufacturing industry, with an understanding of supply chain, production metrics, and operational efficiency\n* Systems Knowledge: Hands-on experience integrating data from ERP and PLM systems (Agile, Oracle, SAP, etc).\n* Relevant certifications (e.g., Microsoft Fabrics, Databricks).\n* AI/ML: Familiarity with deploying and operationalizing machine learning models"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "94asa",
+    "job_url": "https://www.104.com.tw/job/94asa",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94asa.json",
+    "raw_sha256": "b290725d152ee8db2897a56f104546aff24855ae6cba4eff6728ad07a4bba588",
+    "requested_url": "https://www.104.com.tw/api/jobs/94asa"
+  }
+}

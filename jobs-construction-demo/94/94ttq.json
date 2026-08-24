@@ -1,0 +1,215 @@
+{
+  "company": {
+    "id": "1l71ku0",
+    "name": "新光產物保險股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "核保／保險內勤人員",
+      "數據分析師／資料分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "資訊收集整合"
+        },
+        {
+          "children": [],
+          "text": "資料統計分析"
+        },
+        {
+          "children": [],
+          "text": "專案企劃執行"
+        }
+      ],
+      "text": "➤每年春節、端午獎金及員工分紅，合計獎金可達三個月以上。\n1.資訊收集整合\n2.資料統計分析\n3.專案企劃執行"
+    },
+    "employment_type_raw": "全職",
+    "title": "統計企劃人員"
+  },
+  "location": {
+    "address_raw": "台北市松山區民權東路三段169號3樓",
+    "raw": "台北市松山區民權東路三段169號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "銀行保險相關",
+          "市場行銷相關",
+          "數理統計相關"
+        ],
+        "label": "科系要求",
+        "text": "銀行保險相關、市場行銷相關、數理統計相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Excel",
+          "PowerPoint"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、PowerPoint"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.主動積極、抗壓性高\n2.可獨立作業，溝通能力佳\n3.熟Microsoft Office、Excel 函數及資料分析工具者尤佳"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "銀行保險相關",
+      "市場行銷相關",
+      "數理統計相關"
+    ],
+    "other_text": "1.主動積極、抗壓性高\n2.可獨立作業，溝通能力佳\n3.熟Microsoft Office、Excel 函數及資料分析工具者尤佳",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：銀行保險相關、市場行銷相關、數理統計相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Excel、PowerPoint\n其他條件：1.主動積極、抗壓性高\n2.可獨立作業，溝通能力佳\n3.熟Microsoft Office、Excel 函數及資料分析工具者尤佳",
+    "tools": [
+      "Excel",
+      "PowerPoint"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 16
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:01:02+08:00"
+  },
+  "salary": {
+    "raw": "月薪38,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "➤每年春節、端午獎金及員工分紅，合計獎金可達三個月以上。\n1.資訊收集整合\n2.資料統計分析\n3.專案企劃執行",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "核保／保險內勤人員",
+            "數據分析師／資料分析師"
+          ],
+          "label": "職務類別",
+          "text": "核保／保險內勤人員、數據分析師／資料分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪38,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區民權東路三段169號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "➤每年春節、端午獎金及員工分紅，合計獎金可達三個月以上。\n1.資訊收集整合\n2.資料統計分析\n3.專案企劃執行"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "銀行保險相關",
+            "市場行銷相關",
+            "數理統計相關"
+          ],
+          "label": "科系要求",
+          "text": "銀行保險相關、市場行銷相關、數理統計相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "PowerPoint"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、PowerPoint",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.主動積極、抗壓性高\n2.可獨立作業，溝通能力佳\n3.熟Microsoft Office、Excel 函數及資料分析工具者尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：銀行保險相關、市場行銷相關、數理統計相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Excel、PowerPoint\n其他條件：1.主動積極、抗壓性高\n2.可獨立作業，溝通能力佳\n3.熟Microsoft Office、Excel 函數及資料分析工具者尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94ttq",
+    "job_url": "https://www.104.com.tw/job/94ttq",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94ttq.json",
+    "raw_sha256": "46a89ae4898ff1f1b8024141f9ba4a1954909af8f9e91a55fe02567915d9202a",
+    "requested_url": "https://www.104.com.tw/api/jobs/94ttq"
+  }
+}

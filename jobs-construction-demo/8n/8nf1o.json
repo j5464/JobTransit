@@ -1,0 +1,208 @@
+{
+  "company": {
+    "id": "7gn623s",
+    "name": "榮益科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "電子工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責產品韌體程式開發、修改、測試、除錯與驗證。"
+        },
+        {
+          "children": [],
+          "text": "與硬體工程師協作，確保韌體與硬體整合的正確性與穩定性。"
+        },
+        {
+          "children": [],
+          "text": "參與新產品開發，負責韌體設計、開發與測試驗證。"
+        },
+        {
+          "children": [],
+          "text": "進行新技術研究，負責產品測試驗證與測試報告撰寫。"
+        },
+        {
+          "children": [],
+          "text": "支援無線通訊功能開發（Bluetooth / WiFi）。"
+        },
+        {
+          "children": [],
+          "text": "進行韌體程式碼 Review / Debug，優化系統效能與穩定性。"
+        },
+        {
+          "children": [],
+          "text": "與 PM、硬體工程師、APP/MIS 團隊合作，確保產品功能符合需求，並順利量產。"
+        }
+      ],
+      "text": "1.負責產品韌體程式開發、修改、測試、除錯與驗證。\n2.與硬體工程師協作，確保韌體與硬體整合的正確性與穩定性。\n3.參與新產品開發，負責韌體設計、開發與測試驗證。\n4.進行新技術研究，負責產品測試驗證與測試報告撰寫。\n5.支援無線通訊功能開發（Bluetooth / WiFi）。\n6.進行韌體程式碼 Review / Debug，優化系統效能與穩定性。\n7.與 PM、硬體工程師、APP/MIS 團隊合作，確保產品功能符合需求，並順利量產。"
+    },
+    "employment_type_raw": "全職",
+    "title": "嵌入式韌體工程師（Embedded Firmware Engineer）"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶興路45巷6弄8號3樓",
+    "raw": "新北市新店區寶興路45巷6弄8號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "技能與專長\n1.開發語言：熟悉 C / C++，具備 ESP32 / Nordic 開發經驗者尤佳。\n2.開發環境：熟悉 ESP32 IDF / Arduino 或 Nordic SDK。\n3.硬體介面：具備 GPIO、UART、SPI、I2C、ADC、PWM、Touch Sensor 相關控制經驗。\n4.通訊協定：熟悉 WiFi、WebSocket、TCP/IP、MQTT、BLE、GATT，並具備 API 介接經驗（iOS / Android）。\n5.硬體概念：具備基本硬體概念，有產品測試、驗證經驗佳。\n6.問題解決：具備 Debug、故障排除能力，能提升系統穩定性與效能。\n7.團隊合作：良好的跨部門協作與溝通能力。\n加分條件（非必須）\n1.具備 IoT 產品開發、電源管理、感測技術經驗。\n2.有量產產品開發經驗。\n3.具備數學運算、信號處理相關知識。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "技能與專長\n1.開發語言：熟悉 C / C++，具備 ESP32 / Nordic 開發經驗者尤佳。\n2.開發環境：熟悉 ESP32 IDF / Arduino 或 Nordic SDK。\n3.硬體介面：具備 GPIO、UART、SPI、I2C、ADC、PWM、Touch Sensor 相關控制經驗。\n4.通訊協定：熟悉 WiFi、WebSocket、TCP/IP、MQTT、BLE、GATT，並具備 API 介接經驗（iOS / Android）。\n5.硬體概念：具備基本硬體概念，有產品測試、驗證經驗佳。\n6.問題解決：具備 Debug、故障排除能力，能提升系統穩定性與效能。\n7.團隊合作：良好的跨部門協作與溝通能力。\n加分條件（非必須）\n1.具備 IoT 產品開發、電源管理、感測技術經驗。\n2.有量產產品開發經驗。\n3.具備數學運算、信號處理相關知識。",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：技能與專長\n1.開發語言：熟悉 C / C++，具備 ESP32 / Nordic 開發經驗者尤佳。\n2.開發環境：熟悉 ESP32 IDF / Arduino 或 Nordic SDK。\n3.硬體介面：具備 GPIO、UART、SPI、I2C、ADC、PWM、Touch Sensor 相關控制經驗。\n4.通訊協定：熟悉 WiFi、WebSocket、TCP/IP、MQTT、BLE、GATT，並具備 API 介接經驗（iOS / Android）。\n5.硬體概念：具備基本硬體概念，有產品測試、驗證經驗佳。\n6.問題解決：具備 Debug、故障排除能力，能提升系統穩定性與效能。\n7.團隊合作：良好的跨部門協作與溝通能力。\n加分條件（非必須）\n1.具備 IoT 產品開發、電源管理、感測技術經驗。\n2.有量產產品開發經驗。\n3.具備數學運算、信號處理相關知識。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 3
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:26:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責產品韌體程式開發、修改、測試、除錯與驗證。\n2.與硬體工程師協作，確保韌體與硬體整合的正確性與穩定性。\n3.參與新產品開發，負責韌體設計、開發與測試驗證。\n4.進行新技術研究，負責產品測試驗證與測試報告撰寫。\n5.支援無線通訊功能開發（Bluetooth / WiFi）。\n6.進行韌體程式碼 Review / Debug，優化系統效能與穩定性。\n7.與 PM、硬體工程師、APP/MIS 團隊合作，確保產品功能符合需求，並順利量產。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "電子工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、電子工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶興路45巷6弄8號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責產品韌體程式開發、修改、測試、除錯與驗證。\n2.與硬體工程師協作，確保韌體與硬體整合的正確性與穩定性。\n3.參與新產品開發，負責韌體設計、開發與測試驗證。\n4.進行新技術研究，負責產品測試驗證與測試報告撰寫。\n5.支援無線通訊功能開發（Bluetooth / WiFi）。\n6.進行韌體程式碼 Review / Debug，優化系統效能與穩定性。\n7.與 PM、硬體工程師、APP/MIS 團隊合作，確保產品功能符合需求，並順利量產。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "技能與專長\n1.開發語言：熟悉 C / C++，具備 ESP32 / Nordic 開發經驗者尤佳。\n2.開發環境：熟悉 ESP32 IDF / Arduino 或 Nordic SDK。\n3.硬體介面：具備 GPIO、UART、SPI、I2C、ADC、PWM、Touch Sensor 相關控制經驗。\n4.通訊協定：熟悉 WiFi、WebSocket、TCP/IP、MQTT、BLE、GATT，並具備 API 介接經驗（iOS / Android）。\n5.硬體概念：具備基本硬體概念，有產品測試、驗證經驗佳。\n6.問題解決：具備 Debug、故障排除能力，能提升系統穩定性與效能。\n7.團隊合作：良好的跨部門協作與溝通能力。\n加分條件（非必須）\n1.具備 IoT 產品開發、電源管理、感測技術經驗。\n2.有量產產品開發經驗。\n3.具備數學運算、信號處理相關知識。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：技能與專長\n1.開發語言：熟悉 C / C++，具備 ESP32 / Nordic 開發經驗者尤佳。\n2.開發環境：熟悉 ESP32 IDF / Arduino 或 Nordic SDK。\n3.硬體介面：具備 GPIO、UART、SPI、I2C、ADC、PWM、Touch Sensor 相關控制經驗。\n4.通訊協定：熟悉 WiFi、WebSocket、TCP/IP、MQTT、BLE、GATT，並具備 API 介接經驗（iOS / Android）。\n5.硬體概念：具備基本硬體概念，有產品測試、驗證經驗佳。\n6.問題解決：具備 Debug、故障排除能力，能提升系統穩定性與效能。\n7.團隊合作：良好的跨部門協作與溝通能力。\n加分條件（非必須）\n1.具備 IoT 產品開發、電源管理、感測技術經驗。\n2.有量產產品開發經驗。\n3.具備數學運算、信號處理相關知識。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8nf1o",
+    "job_url": "https://www.104.com.tw/job/8nf1o",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8nf1o.json",
+    "raw_sha256": "a2a7a7a2f76352218880c47a1093f2b477eb167af54d87887384e259e747eae7",
+    "requested_url": "https://www.104.com.tw/api/jobs/8nf1o"
+  }
+}

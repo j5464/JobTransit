@@ -1,0 +1,182 @@
+{
+  "company": {
+    "id": "1a2x6bkrky",
+    "name": "翰霖科技資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "我們正在尋找具備 分散式系統與微服務架構經驗 的後端工程師，負責系統開發、維運與架構優化。此職位不限定使用的程式語言，期待具備良好的後端服務開發、系統整合及穩定性維護，並協助提升整體系統效能與可擴展性。\n【工作內容】\n☑️ 負責後端系統開發與維運，確保服務穩定運行\n☑️ 參與系統架構優化、效能調整與服務可擴展性設計\n☑️ 具備任一後端程式語言開發經驗（如 Go、Java、Python、Node.js 等）\n【必要技能】\n☑️ 具備任一後端程式語言開發經驗（語言不限）\n☑️ 具備 分散式系統或微服務架構開發經驗\n☑️ 熟悉後端系統維運與服務部署流程\n【加分條件】\n☑️ 具備 Golang 獨立開發經驗者尤佳\n☑️ 熟悉 Docker Container 技術，具 Kubernetes (K8s) 使用或部署經驗者佳\n☑️ 具備管理能力、需求理解、溝通能力佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "【專案駐點】後端工程師（台南）"
+  },
+  "location": {
+    "address_raw": "台南市善化區",
+    "raw": "台南市善化區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Go",
+          "Node.js",
+          "Java",
+          "Python",
+          "Spring"
+        ],
+        "label": "擅長工具",
+        "text": "Go、Node.js、Java、Python、Spring"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：Go、Node.js、Java、Python、Spring\n工作技能：軟體工程系統開發、軟體程式設計",
+    "tools": [
+      "Go",
+      "Node.js",
+      "Java",
+      "Python",
+      "Spring"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 93
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:11:00+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們正在尋找具備 分散式系統與微服務架構經驗 的後端工程師，負責系統開發、維運與架構優化。此職位不限定使用的程式語言，期待具備良好的後端服務開發、系統整合及穩定性維護，並協助提升整體系統效能與可擴展性。\n【工作內容】\n☑️ 負責後端系統開發與維運，確保服務穩定運行\n☑️ 參與系統架構優化、效能調整與服務可擴展性設計\n☑️ 具備任一後端程式語言開發經驗（如 Go、Java、Python、Node.js 等）\n【必要技能】\n☑️ 具備任一後端程式語言開發經驗（語言不限）\n☑️ 具備 分散式系統或微服務架構開發經驗\n☑️ 熟悉後端系統維運與服務部署流程\n【加分條件】\n☑️ 具備 Golang 獨立開發經驗者尤佳\n☑️ 熟悉 Docker Container 技術，具 Kubernetes (K8s) 使用或部署經驗者佳\n☑️ 具備管理能力、需求理解、溝通能力佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市善化區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們正在尋找具備 分散式系統與微服務架構經驗 的後端工程師，負責系統開發、維運與架構優化。此職位不限定使用的程式語言，期待具備良好的後端服務開發、系統整合及穩定性維護，並協助提升整體系統效能與可擴展性。\n【工作內容】\n☑️ 負責後端系統開發與維運，確保服務穩定運行\n☑️ 參與系統架構優化、效能調整與服務可擴展性設計\n☑️ 具備任一後端程式語言開發經驗（如 Go、Java、Python、Node.js 等）\n【必要技能】\n☑️ 具備任一後端程式語言開發經驗（語言不限）\n☑️ 具備 分散式系統或微服務架構開發經驗\n☑️ 熟悉後端系統維運與服務部署流程\n【加分條件】\n☑️ 具備 Golang 獨立開發經驗者尤佳\n☑️ 熟悉 Docker Container 技術，具 Kubernetes (K8s) 使用或部署經驗者佳\n☑️ 具備管理能力、需求理解、溝通能力佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Go",
+            "Node.js",
+            "Java",
+            "Python",
+            "Spring"
+          ],
+          "label": "擅長工具",
+          "text": "Go、Node.js、Java、Python、Spring",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：Go、Node.js、Java、Python、Spring\n工作技能：軟體工程系統開發、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8z7im",
+    "job_url": "https://www.104.com.tw/job/8z7im",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8z7im.json",
+    "raw_sha256": "d6b4de12abca0db0d77d3649cee5fbb54dac59a9329d744eca958b1801dedba5",
+    "requested_url": "https://www.104.com.tw/api/jobs/8z7im"
+  }
+}

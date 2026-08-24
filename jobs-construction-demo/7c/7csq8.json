@@ -1,0 +1,220 @@
+{
+  "company": {
+    "id": "1a2x6blanp",
+    "name": "明瑞資通科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師",
+      "軟韌體測試工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具有撰寫測試案例的經驗，熟悉測試流程與方法（測試計劃、測試策略、測試案例撰寫、執行測試、測試報告產出、整合測試、Bug 追蹤驗證）。"
+        },
+        {
+          "children": [],
+          "text": "具備1年以上軟體測試相關經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備批判性思考與問題解決能力，能獨立分析測試結果。"
+        },
+        {
+          "children": [],
+          "text": "需要能夠思考以及善於溝通，具有自我學習與發掘問題的能力。"
+        },
+        {
+          "children": [],
+          "text": "具有一項程式語言（如 Python / Java / C# / Shell/JavaScript）的實作能力，並能撰寫自動化測試尤佳。"
+        },
+        {
+          "children": [],
+          "text": "具備API/UI/Load Testing自動化測試經驗（熟悉 JMeter/Postman/Robot Framework/Playwright佳）。"
+        },
+        {
+          "children": [],
+          "text": "具備撰寫SQL查詢進行資料驗證，並熟悉敏捷式開發流程的能力。"
+        }
+      ],
+      "text": "1. 具有撰寫測試案例的經驗，熟悉測試流程與方法（測試計劃、測試策略、測試案例撰寫、執行測試、測試報告產出、整合測試、Bug 追蹤驗證）。\n2. 具備1年以上軟體測試相關經驗。\n3. 具備批判性思考與問題解決能力，能獨立分析測試結果。\n4. 需要能夠思考以及善於溝通，具有自我學習與發掘問題的能力。\n加分項：\n1. 具有一項程式語言（如 Python / Java / C# / Shell/JavaScript）的實作能力，並能撰寫自動化測試尤佳。\n2. 具備API/UI/Load Testing自動化測試經驗（熟悉 JMeter/Postman/Robot Framework/Playwright佳）。\n3. 具備撰寫SQL查詢進行資料驗證，並熟悉敏捷式開發流程的能力。"
+    },
+    "employment_type_raw": "全職",
+    "title": "TQA 軟體自動化測試工程師"
+  },
+  "location": {
+    "address_raw": "台北市中山區中山北路二段112號4樓之7",
+    "raw": "台北市中山區中山北路二段112號4樓之7"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Java",
+          "Python",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Python、JavaScript"
+      },
+      {
+        "items": [
+          "功能測試(function test)",
+          "使用者測試(Usability test)",
+          "問題追蹤處理(Bug tracking)",
+          "軟體整合測試",
+          "測試計劃及測試報告書撰寫",
+          "軟體程式設計",
+          "網頁軟體操作"
+        ],
+        "label": "工作技能",
+        "text": "功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、測試計劃及測試報告書撰寫、軟體程式設計、網頁軟體操作"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "功能測試(function test)",
+      "使用者測試(Usability test)",
+      "問題追蹤處理(Bug tracking)",
+      "軟體整合測試",
+      "測試計劃及測試報告書撰寫",
+      "軟體程式設計",
+      "網頁軟體操作"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科以上\n擅長工具：Java、Python、JavaScript\n工作技能：功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、測試計劃及測試報告書撰寫、軟體程式設計、網頁軟體操作",
+    "tools": [
+      "Java",
+      "Python",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 74
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:24:01+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 具有撰寫測試案例的經驗，熟悉測試流程與方法（測試計劃、測試策略、測試案例撰寫、執行測試、測試報告產出、整合測試、Bug 追蹤驗證）。\n2. 具備1年以上軟體測試相關經驗。\n3. 具備批判性思考與問題解決能力，能獨立分析測試結果。\n4. 需要能夠思考以及善於溝通，具有自我學習與發掘問題的能力。\n加分項：\n1. 具有一項程式語言（如 Python / Java / C# / Shell/JavaScript）的實作能力，並能撰寫自動化測試尤佳。\n2. 具備API/UI/Load Testing自動化測試經驗（熟悉 JMeter/Postman/Robot Framework/Playwright佳）。\n3. 具備撰寫SQL查詢進行資料驗證，並熟悉敏捷式開發流程的能力。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師",
+            "軟韌體測試工程師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師、軟韌體測試工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區中山北路二段112號4樓之7",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 具有撰寫測試案例的經驗，熟悉測試流程與方法（測試計劃、測試策略、測試案例撰寫、執行測試、測試報告產出、整合測試、Bug 追蹤驗證）。\n2. 具備1年以上軟體測試相關經驗。\n3. 具備批判性思考與問題解決能力，能獨立分析測試結果。\n4. 需要能夠思考以及善於溝通，具有自我學習與發掘問題的能力。\n加分項：\n1. 具有一項程式語言（如 Python / Java / C# / Shell/JavaScript）的實作能力，並能撰寫自動化測試尤佳。\n2. 具備API/UI/Load Testing自動化測試經驗（熟悉 JMeter/Postman/Robot Framework/Playwright佳）。\n3. 具備撰寫SQL查詢進行資料驗證，並熟悉敏捷式開發流程的能力。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Python",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Python、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "功能測試(function test)",
+            "使用者測試(Usability test)",
+            "問題追蹤處理(Bug tracking)",
+            "軟體整合測試",
+            "測試計劃及測試報告書撰寫",
+            "軟體程式設計",
+            "網頁軟體操作"
+          ],
+          "label": "工作技能",
+          "text": "功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、測試計劃及測試報告書撰寫、軟體程式設計、網頁軟體操作",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科以上\n擅長工具：Java、Python、JavaScript\n工作技能：功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、測試計劃及測試報告書撰寫、軟體程式設計、網頁軟體操作"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7csq8",
+    "job_url": "https://www.104.com.tw/job/7csq8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7csq8.json",
+    "raw_sha256": "150323c6ee89c9d4e935ab5d0b786491e516a95a01dc1fd8dd9443c09b4fb59c",
+    "requested_url": "https://www.104.com.tw/api/jobs/7csq8"
+  }
+}

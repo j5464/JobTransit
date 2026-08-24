@@ -1,0 +1,345 @@
+{
+  "company": {
+    "id": "1a2x6bmtht",
+    "name": "千逢科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料科學家",
+      "演算法工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Compiler Development:"
+        },
+        {
+          "children": [],
+          "text": "Design and develop an AI compiler that translates high-level neural network descriptions (in frameworks like TensorFlow, PyTorch, or ONNX) into optimized machine code for the NPU."
+        },
+        {
+          "children": [],
+          "text": "Implement parsing algorithms to analyze neural network graphs and extract relevant information for compilation."
+        },
+        {
+          "children": [],
+          "text": "Optimization Strategies:"
+        },
+        {
+          "children": [],
+          "text": "Optimize the computational graph by applying techniques such as operator fusion, kernel selection, and memory layout transformations."
+        },
+        {
+          "children": [],
+          "text": "Minimize inference time, reduce power consumption, and optimize memory footprint through intelligent code generation."
+        },
+        {
+          "children": [],
+          "text": "Performance Profiling and Analysis:"
+        },
+        {
+          "children": [],
+          "text": "Profile compiled code to identify bottlenecks and areas for improvement."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with hardware architects to understand NPU microarchitecture and tailor optimizations accordingly."
+        },
+        {
+          "children": [],
+          "text": "Code Generation and Lowering:"
+        },
+        {
+          "children": [],
+          "text": "Generate efficient machine code from the intermediate representation of neural network operations."
+        },
+        {
+          "children": [],
+          "text": "Ensure compatibility with the NPU's instruction set architecture."
+        },
+        {
+          "children": [],
+          "text": "Integration and Testing:"
+        },
+        {
+          "children": [],
+          "text": "Integrate the AI compiler into the overall software stack, including runtime libraries and drivers."
+        },
+        {
+          "children": [],
+          "text": "Develop test suites to validate correctness, performance, and compatibility across various neural network models."
+        },
+        {
+          "children": [],
+          "text": "Documentation and Communication:"
+        },
+        {
+          "children": [],
+          "text": "Document design decisions, algorithms, and implementation details."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with cross-functional teams, including hardware engineers, software developers, and researchers."
+        },
+        {
+          "children": [],
+          "text": "Master's or Ph.D. in Computer Science, Electrical Engineering, or a related field."
+        },
+        {
+          "children": [],
+          "text": "Minimum of 3 years of experience in compiler development, preferably with exposure to AI or machine learning."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in C/C++/Python programming and familiarity with compiler construction."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of neural network frameworks (TensorFlow, PyTorch, etc.) and their intermediate representations."
+        },
+        {
+          "children": [],
+          "text": "Experience with performance profiling tools and optimization techniques."
+        },
+        {
+          "children": [],
+          "text": "Understanding of machine learning concepts and hardware architectures."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with data structures, optimization algorithms, and DevOps tools (such as Git, CI/CD pipelines)."
+        },
+        {
+          "children": [],
+          "text": "Strong problem-solving abilities and attention to detail."
+        },
+        {
+          "children": [],
+          "text": "Excellent communication skills for collaborating with cross-functional teams."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with deep learning frameworks and libraries."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of hardware acceleration technologies and frameworks."
+        },
+        {
+          "children": [],
+          "text": "Experience of tensor computation and optimization."
+        },
+        {
+          "children": [],
+          "text": "Previous work in compiler for CPU, GPU, DSP, NPU is a plus."
+        }
+      ],
+      "text": "Job Title: AI Compiler Engineer\nJob Description:\nOverview:\nWe are seeking a skilled and motivated AI Compiler Engineer to lead the development of our AI compiler for the Neural Processing Unit (NPU). As part of our team, you will play a critical role in transforming high-level neural network workloads (such as CNNs and transformer models) into efficient machine code that maximizes inference performance, minimizes power consumption, and optimizes memory usage.\nResponsibilities:\n1. Compiler Development:\n• Design and develop an AI compiler that translates high-level neural network descriptions (in frameworks like TensorFlow, PyTorch, or ONNX) into optimized machine code for the NPU.\n• Implement parsing algorithms to analyze neural network graphs and extract relevant information for compilation.\n2. Optimization Strategies:\n• Optimize the computational graph by applying techniques such as operator fusion, kernel selection, and memory layout transformations.\n• Minimize inference time, reduce power consumption, and optimize memory footprint through intelligent code generation.\n3. Performance Profiling and Analysis:\n• Profile compiled code to identify bottlenecks and areas for improvement.\n• Collaborate with hardware architects to understand NPU microarchitecture and tailor optimizations accordingly.\n4. Code Generation and Lowering:\n• Generate efficient machine code from the intermediate representation of neural network operations.\n• Ensure compatibility with the NPU's instruction set architecture.\n5. Integration and Testing:\n• Integrate the AI compiler into the overall software stack, including runtime libraries and drivers.\n• Develop test suites to validate correctness, performance, and compatibility across various neural network models.\n6. Documentation and Communication:\n• Document design decisions, algorithms, and implementation details.\n• Collaborate with cross-functional teams, including hardware engineers, software developers, and researchers.\nQualifications:\n• Master's or Ph.D. in Computer Science, Electrical Engineering, or a related field.\n• Minimum of 3 years of experience in compiler development, preferably with exposure to AI or machine learning.\n• Proficiency in C/C++/Python programming and familiarity with compiler construction.\n• Knowledge of neural network frameworks (TensorFlow, PyTorch, etc.) and their intermediate representations.\n• Experience with performance profiling tools and optimization techniques.\n• Understanding of machine learning concepts and hardware architectures.\n• Familiarity with data structures, optimization algorithms, and DevOps tools (such as Git, CI/CD pipelines).\n• Strong problem-solving abilities and attention to detail.\n• Excellent communication skills for collaborating with cross-functional teams.\nPreferred Skills:\n• Familiarity with deep learning frameworks and libraries.\n• Knowledge of hardware acceleration technologies and frameworks.\n• Experience of tensor computation and optimization.\n• Previous work in compiler for CPU, GPU, DSP, NPU is a plus.\nIf you are passionate about compiler engineering, AI optimization, and want to be part of a team driving innovation, we encourage you to apply. Join us in shaping the future of AI acceleration."
+    },
+    "employment_type_raw": "全職",
+    "title": "AI Compiler Engineer"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市",
+    "raw": "新竹縣竹北市"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "應用數學相關",
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "應用數學相關、資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Python"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體品質與保證",
+          "軟體整合測試",
+          "軟體程式設計",
+          "結構化程式設計",
+          "模組化系統設計",
+          "Machine Learning",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體品質與保證、軟體整合測試、軟體程式設計、結構化程式設計、模組化系統設計、Machine Learning、資料庫程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "應用數學相關",
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體品質與保證",
+      "軟體整合測試",
+      "軟體程式設計",
+      "結構化程式設計",
+      "模組化系統設計",
+      "Machine Learning",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：應用數學相關、資訊工程相關、其他數學及電算機科學相關\n擅長工具：C++、Python\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體品質與保證、軟體整合測試、軟體程式設計、結構化程式設計、模組化系統設計、Machine Learning、資料庫程式設計",
+    "tools": [
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 69
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:12:43+08:00"
+  },
+  "salary": {
+    "raw": "月薪80,000~250,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Job Title: AI Compiler Engineer\nJob Description:\nOverview:\nWe are seeking a skilled and motivated AI Compiler Engineer to lead the development of our AI compiler for the Neural Processing Unit (NPU). As part of our team, you will play a critical role in transforming high-level neural network workloads (such as CNNs and transformer models) into efficient machine code that maximizes inference performance, minimizes power consumption, and optimizes memory usage.\nResponsibilities:\n1. Compiler Development:\n• Design and develop an AI compiler that translates high-level neural network descriptions (in frameworks like TensorFlow, PyTorch, or ONNX) into optimized machine code for the NPU.\n• Implement parsing algorithms to analyze neural network graphs and extract relevant information for compilation.\n2. Optimization Strategies:\n• Optimize the computational graph by applying techniques such as operator fusion, kernel selection, and memory layout transformations.\n• Minimize inference time, reduce power consumption, and optimize memory footprint through intelligent code generation.\n3. Performance Profiling and Analysis:\n• Profile compiled code to identify bottlenecks and areas for improvement.\n• Collaborate with hardware architects to understand NPU microarchitecture and tailor optimizations accordingly.\n4. Code Generation and Lowering:\n• Generate efficient machine code from the intermediate representation of neural network operations.\n• Ensure compatibility with the NPU's instruction set architecture.\n5. Integration and Testing:\n• Integrate the AI compiler into the overall software stack, including runtime libraries and drivers.\n• Develop test suites to validate correctness, performance, and compatibility across various neural network models.\n6. Documentation and Communication:\n• Document design decisions, algorithms, and implementation details.\n• Collaborate with cross-functional teams, including hardware engineers, software developers, and researchers.\nQualifications:\n• Master's or Ph.D. in Computer Science, Electrical Engineering, or a related field.\n• Minimum of 3 years of experience in compiler development, preferably with exposure to AI or machine learning.\n• Proficiency in C/C++/Python programming and familiarity with compiler construction.\n• Knowledge of neural network frameworks (TensorFlow, PyTorch, etc.) and their intermediate representations.\n• Experience with performance profiling tools and optimization techniques.\n• Understanding of machine learning concepts and hardware architectures.\n• Familiarity with data structures, optimization algorithms, and DevOps tools (such as Git, CI/CD pipelines).\n• Strong problem-solving abilities and attention to detail.\n• Excellent communication skills for collaborating with cross-functional teams.\nPreferred Skills:\n• Familiarity with deep learning frameworks and libraries.\n• Knowledge of hardware acceleration technologies and frameworks.\n• Experience of tensor computation and optimization.\n• Previous work in compiler for CPU, GPU, DSP, NPU is a plus.\nIf you are passionate about compiler engineering, AI optimization, and want to be part of a team driving innovation, we encourage you to apply. Join us in shaping the future of AI acceleration.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料科學家",
+            "演算法工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料科學家、演算法工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪80,000~250,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Job Title: AI Compiler Engineer\nJob Description:\nOverview:\nWe are seeking a skilled and motivated AI Compiler Engineer to lead the development of our AI compiler for the Neural Processing Unit (NPU). As part of our team, you will play a critical role in transforming high-level neural network workloads (such as CNNs and transformer models) into efficient machine code that maximizes inference performance, minimizes power consumption, and optimizes memory usage.\nResponsibilities:\n1. Compiler Development:\n• Design and develop an AI compiler that translates high-level neural network descriptions (in frameworks like TensorFlow, PyTorch, or ONNX) into optimized machine code for the NPU.\n• Implement parsing algorithms to analyze neural network graphs and extract relevant information for compilation.\n2. Optimization Strategies:\n• Optimize the computational graph by applying techniques such as operator fusion, kernel selection, and memory layout transformations.\n• Minimize inference time, reduce power consumption, and optimize memory footprint through intelligent code generation.\n3. Performance Profiling and Analysis:\n• Profile compiled code to identify bottlenecks and areas for improvement.\n• Collaborate with hardware architects to understand NPU microarchitecture and tailor optimizations accordingly.\n4. Code Generation and Lowering:\n• Generate efficient machine code from the intermediate representation of neural network operations.\n• Ensure compatibility with the NPU's instruction set architecture.\n5. Integration and Testing:\n• Integrate the AI compiler into the overall software stack, including runtime libraries and drivers.\n• Develop test suites to validate correctness, performance, and compatibility across various neural network models.\n6. Documentation and Communication:\n• Document design decisions, algorithms, and implementation details.\n• Collaborate with cross-functional teams, including hardware engineers, software developers, and researchers.\nQualifications:\n• Master's or Ph.D. in Computer Science, Electrical Engineering, or a related field.\n• Minimum of 3 years of experience in compiler development, preferably with exposure to AI or machine learning.\n• Proficiency in C/C++/Python programming and familiarity with compiler construction.\n• Knowledge of neural network frameworks (TensorFlow, PyTorch, etc.) and their intermediate representations.\n• Experience with performance profiling tools and optimization techniques.\n• Understanding of machine learning concepts and hardware architectures.\n• Familiarity with data structures, optimization algorithms, and DevOps tools (such as Git, CI/CD pipelines).\n• Strong problem-solving abilities and attention to detail.\n• Excellent communication skills for collaborating with cross-functional teams.\nPreferred Skills:\n• Familiarity with deep learning frameworks and libraries.\n• Knowledge of hardware acceleration technologies and frameworks.\n• Experience of tensor computation and optimization.\n• Previous work in compiler for CPU, GPU, DSP, NPU is a plus.\nIf you are passionate about compiler engineering, AI optimization, and want to be part of a team driving innovation, we encourage you to apply. Join us in shaping the future of AI acceleration."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "應用數學相關",
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "應用數學相關、資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體品質與保證",
+            "軟體整合測試",
+            "軟體程式設計",
+            "結構化程式設計",
+            "模組化系統設計",
+            "Machine Learning",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體品質與保證、軟體整合測試、軟體程式設計、結構化程式設計、模組化系統設計、Machine Learning、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：應用數學相關、資訊工程相關、其他數學及電算機科學相關\n擅長工具：C++、Python\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體品質與保證、軟體整合測試、軟體程式設計、結構化程式設計、模組化系統設計、Machine Learning、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8b5zk",
+    "job_url": "https://www.104.com.tw/job/8b5zk",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8b5zk.json",
+    "raw_sha256": "9733a8e6e7a3056c79e51f634956824cb7d850f0860aacd5ae74b483318ac61b",
+    "requested_url": "https://www.104.com.tw/api/jobs/8b5zk"
+  }
+}

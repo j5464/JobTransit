@@ -1,0 +1,312 @@
+{
+  "company": {
+    "id": "1a2x6blghh",
+    "name": "鴻華先進科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "電子工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Design, train, and validate perception models: object detection, segmentation, lane and free-space estimation, occupancy prediction, and multi-camera depth estimation"
+        },
+        {
+          "children": [],
+          "text": "Develop BEV models that fuse multi-camera streams into spatial representations for downstream planning"
+        },
+        {
+          "children": [],
+          "text": "Define model I/O contracts, preprocessing and postprocessing boundaries with other engineers"
+        },
+        {
+          "children": [],
+          "text": "Research and iterate on end-to-end driving models that produce trajectory proposals, waypoints, hazard scores, or action tokens from raw camera inputs"
+        },
+        {
+          "children": [],
+          "text": "Develop and evaluate VLA architectures: encoder-decoder designs, language-"
+        },
+        {
+          "children": [],
+          "text": "Build closed-loop evaluation pipelines: simulation-based testing, distribution shift analysis, and failure mode characterization"
+        },
+        {
+          "children": [],
+          "text": "Design arbitration interfaces between classical pipeline and VLA outputs"
+        },
+        {
+          "children": [],
+          "text": "Track VLA, world model, and autonomous driving foundation model research and assess production applicability"
+        },
+        {
+          "children": [],
+          "text": "Build auto-labeling pipelines using perception models and ensemble strategies to generate labels at scale across heterogeneous datasets"
+        },
+        {
+          "children": [],
+          "text": "Develop data mining models that surface hard cases, long-tail scenarios, and safety-critical events from fleet logs"
+        },
+        {
+          "children": [],
+          "text": "Build data quality scoring systems to gate label accuracy before training"
+        },
+        {
+          "children": [],
+          "text": "Design active learning workflows connecting model failure detection to targeted data collection"
+        },
+        {
+          "children": [],
+          "text": "Develop or integrate synthetic data pipelines for rare scenario coverage"
+        },
+        {
+          "children": [],
+          "text": "Maintain model training infrastructure: distributed multi-GPU training, experiment tracking, and hyperparameter management"
+        },
+        {
+          "children": [],
+          "text": "Own ML evaluation frameworks: per-scenario metrics, regression tracking, and safety-critical recall monitoring"
+        },
+        {
+          "children": [],
+          "text": "Optimize all model types for embedded deployment via quantization, pruning, ONNX, and TensorRT"
+        },
+        {
+          "children": [],
+          "text": "Drive ML safety practices: OOD detection, uncertainty quantification, and robustness under sensor degradation"
+        },
+        {
+          "children": [],
+          "text": "Evaluate third-party AI solutions for perception, planning, and data tooling — assess technical fit against our architecture, define integration requirements, and own the technical collaboration with external vendors through to ECU integration"
+        },
+        {
+          "children": [],
+          "text": "Master's or above in Computer Science, AI, Electrical Engineering, or related field"
+        },
+        {
+          "children": [],
+          "text": "At least 3 years in production ML with exposure to at least one of: perception modeling, end-to-end driving models, or data pipeline ML"
+        },
+        {
+          "children": [],
+          "text": "Hands-on experience with large-scale distributed model training on GPU clusters"
+        },
+        {
+          "children": [],
+          "text": "Strong PyTorch proficiency; familiarity with ONNX export"
+        },
+        {
+          "children": [],
+          "text": "Deep understanding of modern deep learning architectures such as Transformers and Diffusion"
+        },
+        {
+          "children": [],
+          "text": "Solid experience with model compression and deployment: TensorRT, cuDNN, quantization-aware training, distillation"
+        },
+        {
+          "children": [],
+          "text": "Proficiency in Python across the full ML engineering stack"
+        },
+        {
+          "children": [],
+          "text": "Basic C++ proficiency for reading and debugging inference code"
+        },
+        {
+          "children": [],
+          "text": "Experience with dataset engineering at scale: annotation pipelines, quality control, and long-tail sampling"
+        },
+        {
+          "children": [],
+          "text": "Ability to communicate complex ML technical requirements clearly with external vendors and cross-functional partners in English"
+        }
+      ],
+      "text": "【About the Role】\nWe are building an AI-centric ADAS platform supporting L2++ to L4 autonomous driving through a dual-path architecture: a classical ADAS pipeline for deterministic safety-certified behaviors, and a VLA (Vision-Language-Action) end-to-end model for open-world long-tail scenarios.\nAs an AI/ML Engineer, you own the full ML lifecycle — perception models, driving foundation models, and the data factory that feeds them — working primarily with raw sensor data from fleet logs. You ship models that run on the vehicle and build the tooling that keeps them improving at scale.\n【Your Responsibilities】\nPerception Modeling\n•Design, train, and validate perception models: object detection, segmentation, lane and free-space estimation, occupancy prediction, and multi-camera depth estimation\n•Develop BEV models that fuse multi-camera streams into spatial representations for downstream planning\n•Define model I/O contracts, preprocessing and postprocessing boundaries with other engineers\nVLA & End-to-End Driving Models\n•Research and iterate on end-to-end driving models that produce trajectory proposals, waypoints, hazard scores, or action tokens from raw camera inputs\n•Develop and evaluate VLA architectures: encoder-decoder designs, language-\nconditioned policies, and imitation learning on large-scale driving data\n•Build closed-loop evaluation pipelines: simulation-based testing, distribution shift analysis, and failure mode characterization\n•Design arbitration interfaces between classical pipeline and VLA outputs\n•Track VLA, world model, and autonomous driving foundation model research and assess production applicability\nData Factory AI\n•Build auto-labeling pipelines using perception models and ensemble strategies to generate labels at scale across heterogeneous datasets\n•Develop data mining models that surface hard cases, long-tail scenarios, and safety-critical events from fleet logs\n•Build data quality scoring systems to gate label accuracy before training\n•Design active learning workflows connecting model failure detection to targeted data collection\n•Develop or integrate synthetic data pipelines for rare scenario coverage\nCross-Cutting\n•Maintain model training infrastructure: distributed multi-GPU training, experiment tracking, and hyperparameter management\n•Own ML evaluation frameworks: per-scenario metrics, regression tracking, and safety-critical recall monitoring\n•Optimize all model types for embedded deployment via quantization, pruning, ONNX, and TensorRT\n•Drive ML safety practices: OOD detection, uncertainty quantification, and robustness under sensor degradation\n•Evaluate third-party AI solutions for perception, planning, and data tooling — assess technical fit against our architecture, define integration requirements, and own the technical collaboration with external vendors through to ECU integration\n【You Have】\n•Master's or above in Computer Science, AI, Electrical Engineering, or related field\n•At least 3 years in production ML with exposure to at least one of: perception modeling, end-to-end driving models, or data pipeline ML\n•Hands-on experience with large-scale distributed model training on GPU clusters\n•Strong PyTorch proficiency; familiarity with ONNX export\n•Deep understanding of modern deep learning architectures such as Transformers and Diffusion\n•Solid experience with model compression and deployment: TensorRT, cuDNN, quantization-aware training, distillation\n•Proficiency in Python across the full ML engineering stack\n•Basic C++ proficiency for reading and debugging inference code\n•Experience with dataset engineering at scale: annotation pipelines, quality control, and long-tail sampling\n•Ability to communicate complex ML technical requirements clearly with external vendors and cross-functional partners in English"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師-AI / ML Engineer (ADAS Full-Stack Machine Learning)-F76"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶高路26號",
+    "raw": "新北市新店區寶高路26號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "工程學科類",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "工程學科類、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【Great to Have】\n•Hands-on experience on OpenCV and CUDA\n•VLA or multimodal LLM experience applied to driving or robot control\n•BEV perception experience in robotics or adjacent fields\n•Auto-labeling or active learning experience in an AD/robotics data factory\n•Synthetic data generation: neural rendering, domain adaptation, or simulation augmentation\n•Occupancy networks or world models for autonomous driving\n•Production deployment experience on NVIDIA Orin / Thor / DriveOS\n•Publications or open-source contributions in autonomous driving or computer vision\n•Familiarity with ADAS compliance requirements of GSR and NCAP\n•Familiarity with ML governance and safety evaluation under ISO 26262 or equivalent"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "工程學科類",
+      "資訊工程相關"
+    ],
+    "other_text": "【Great to Have】\n•Hands-on experience on OpenCV and CUDA\n•VLA or multimodal LLM experience applied to driving or robot control\n•BEV perception experience in robotics or adjacent fields\n•Auto-labeling or active learning experience in an AD/robotics data factory\n•Synthetic data generation: neural rendering, domain adaptation, or simulation augmentation\n•Occupancy networks or world models for autonomous driving\n•Production deployment experience on NVIDIA Orin / Thor / DriveOS\n•Publications or open-source contributions in autonomous driving or computer vision\n•Familiarity with ADAS compliance requirements of GSR and NCAP\n•Familiarity with ML governance and safety evaluation under ISO 26262 or equivalent",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：碩士以上\n科系要求：工程學科類、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Python\n其他條件：【Great to Have】\n•Hands-on experience on OpenCV and CUDA\n•VLA or multimodal LLM experience applied to driving or robot control\n•BEV perception experience in robotics or adjacent fields\n•Auto-labeling or active learning experience in an AD/robotics data factory\n•Synthetic data generation: neural rendering, domain adaptation, or simulation augmentation\n•Occupancy networks or world models for autonomous driving\n•Production deployment experience on NVIDIA Orin / Thor / DriveOS\n•Publications or open-source contributions in autonomous driving or computer vision\n•Familiarity with ADAS compliance requirements of GSR and NCAP\n•Familiarity with ML governance and safety evaluation under ISO 26262 or equivalent",
+    "tools": [
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 24
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:21:00+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【About the Role】\nWe are building an AI-centric ADAS platform supporting L2++ to L4 autonomous driving through a dual-path architecture: a classical ADAS pipeline for deterministic safety-certified behaviors, and a VLA (Vision-Language-Action) end-to-end model for open-world long-tail scenarios.\nAs an AI/ML Engineer, you own the full ML lifecycle — perception models, driving foundation models, and the data factory that feeds them — working primarily with raw sensor data from fleet logs. You ship models that run on the vehicle and build the tooling that keeps them improving at scale.\n【Your Responsibilities】\nPerception Modeling\n•Design, train, and validate perception models: object detection, segmentation, lane and free-space estimation, occupancy prediction, and multi-camera depth estimation\n•Develop BEV models that fuse multi-camera streams into spatial representations for downstream planning\n•Define model I/O contracts, preprocessing and postprocessing boundaries with other engineers\nVLA & End-to-End Driving Models\n•Research and iterate on end-to-end driving models that produce trajectory proposals, waypoints, hazard scores, or action tokens from raw camera inputs\n•Develop and evaluate VLA architectures: encoder-decoder designs, language-\nconditioned policies, and imitation learning on large-scale driving data\n•Build closed-loop evaluation pipelines: simulation-based testing, distribution shift analysis, and failure mode characterization\n•Design arbitration interfaces between classical pipeline and VLA outputs\n•Track VLA, world model, and autonomous driving foundation model research and assess production applicability\nData Factory AI\n•Build auto-labeling pipelines using perception models and ensemble strategies to generate labels at scale across heterogeneous datasets\n•Develop data mining models that surface hard cases, long-tail scenarios, and safety-critical events from fleet logs\n•Build data quality scoring systems to gate label accuracy before training\n•Design active learning workflows connecting model failure detection to targeted data collection\n•Develop or integrate synthetic data pipelines for rare scenario coverage\nCross-Cutting\n•Maintain model training infrastructure: distributed multi-GPU training, experiment tracking, and hyperparameter management\n•Own ML evaluation frameworks: per-scenario metrics, regression tracking, and safety-critical recall monitoring\n•Optimize all model types for embedded deployment via quantization, pruning, ONNX, and TensorRT\n•Drive ML safety practices: OOD detection, uncertainty quantification, and robustness under sensor degradation\n•Evaluate third-party AI solutions for perception, planning, and data tooling — assess technical fit against our architecture, define integration requirements, and own the technical collaboration with external vendors through to ECU integration\n【You Have】\n•Master's or above in Computer Science, AI, Electrical Engineering, or related field\n•At least 3 years in production ML with exposure to at least one of: perception modeling, end-to-end driving models, or data pipeline ML\n•Hands-on experience with large-scale distributed model training on GPU clusters\n•Strong PyTorch proficiency; familiarity with ONNX export\n•Deep understanding of modern deep learning architectures such as Transformers and Diffusion\n•Solid experience with model compression and deployment: TensorRT, cuDNN, quantization-aware training, distillation\n•Proficiency in Python across the full ML engineering stack\n•Basic C++ proficiency for reading and debugging inference code\n•Experience with dataset engineering at scale: annotation pipelines, quality control, and long-tail sampling\n•Ability to communicate complex ML technical requirements clearly with external vendors and cross-functional partners in English",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "電子工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "電子工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶高路26號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【About the Role】\nWe are building an AI-centric ADAS platform supporting L2++ to L4 autonomous driving through a dual-path architecture: a classical ADAS pipeline for deterministic safety-certified behaviors, and a VLA (Vision-Language-Action) end-to-end model for open-world long-tail scenarios.\nAs an AI/ML Engineer, you own the full ML lifecycle — perception models, driving foundation models, and the data factory that feeds them — working primarily with raw sensor data from fleet logs. You ship models that run on the vehicle and build the tooling that keeps them improving at scale.\n【Your Responsibilities】\nPerception Modeling\n•Design, train, and validate perception models: object detection, segmentation, lane and free-space estimation, occupancy prediction, and multi-camera depth estimation\n•Develop BEV models that fuse multi-camera streams into spatial representations for downstream planning\n•Define model I/O contracts, preprocessing and postprocessing boundaries with other engineers\nVLA & End-to-End Driving Models\n•Research and iterate on end-to-end driving models that produce trajectory proposals, waypoints, hazard scores, or action tokens from raw camera inputs\n•Develop and evaluate VLA architectures: encoder-decoder designs, language-\nconditioned policies, and imitation learning on large-scale driving data\n•Build closed-loop evaluation pipelines: simulation-based testing, distribution shift analysis, and failure mode characterization\n•Design arbitration interfaces between classical pipeline and VLA outputs\n•Track VLA, world model, and autonomous driving foundation model research and assess production applicability\nData Factory AI\n•Build auto-labeling pipelines using perception models and ensemble strategies to generate labels at scale across heterogeneous datasets\n•Develop data mining models that surface hard cases, long-tail scenarios, and safety-critical events from fleet logs\n•Build data quality scoring systems to gate label accuracy before training\n•Design active learning workflows connecting model failure detection to targeted data collection\n•Develop or integrate synthetic data pipelines for rare scenario coverage\nCross-Cutting\n•Maintain model training infrastructure: distributed multi-GPU training, experiment tracking, and hyperparameter management\n•Own ML evaluation frameworks: per-scenario metrics, regression tracking, and safety-critical recall monitoring\n•Optimize all model types for embedded deployment via quantization, pruning, ONNX, and TensorRT\n•Drive ML safety practices: OOD detection, uncertainty quantification, and robustness under sensor degradation\n•Evaluate third-party AI solutions for perception, planning, and data tooling — assess technical fit against our architecture, define integration requirements, and own the technical collaboration with external vendors through to ECU integration\n【You Have】\n•Master's or above in Computer Science, AI, Electrical Engineering, or related field\n•At least 3 years in production ML with exposure to at least one of: perception modeling, end-to-end driving models, or data pipeline ML\n•Hands-on experience with large-scale distributed model training on GPU clusters\n•Strong PyTorch proficiency; familiarity with ONNX export\n•Deep understanding of modern deep learning architectures such as Transformers and Diffusion\n•Solid experience with model compression and deployment: TensorRT, cuDNN, quantization-aware training, distillation\n•Proficiency in Python across the full ML engineering stack\n•Basic C++ proficiency for reading and debugging inference code\n•Experience with dataset engineering at scale: annotation pipelines, quality control, and long-tail sampling\n•Ability to communicate complex ML technical requirements clearly with external vendors and cross-functional partners in English"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "工程學科類",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "工程學科類、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【Great to Have】\n•Hands-on experience on OpenCV and CUDA\n•VLA or multimodal LLM experience applied to driving or robot control\n•BEV perception experience in robotics or adjacent fields\n•Auto-labeling or active learning experience in an AD/robotics data factory\n•Synthetic data generation: neural rendering, domain adaptation, or simulation augmentation\n•Occupancy networks or world models for autonomous driving\n•Production deployment experience on NVIDIA Orin / Thor / DriveOS\n•Publications or open-source contributions in autonomous driving or computer vision\n•Familiarity with ADAS compliance requirements of GSR and NCAP\n•Familiarity with ML governance and safety evaluation under ISO 26262 or equivalent",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：碩士以上\n科系要求：工程學科類、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Python\n其他條件：【Great to Have】\n•Hands-on experience on OpenCV and CUDA\n•VLA or multimodal LLM experience applied to driving or robot control\n•BEV perception experience in robotics or adjacent fields\n•Auto-labeling or active learning experience in an AD/robotics data factory\n•Synthetic data generation: neural rendering, domain adaptation, or simulation augmentation\n•Occupancy networks or world models for autonomous driving\n•Production deployment experience on NVIDIA Orin / Thor / DriveOS\n•Publications or open-source contributions in autonomous driving or computer vision\n•Familiarity with ADAS compliance requirements of GSR and NCAP\n•Familiarity with ML governance and safety evaluation under ISO 26262 or equivalent"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93xw7",
+    "job_url": "https://www.104.com.tw/job/93xw7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93xw7.json",
+    "raw_sha256": "f7a394e5ce4c4769bc59a6b715733224c01e9f136e14f985c4aa852afcc2b1ea",
+    "requested_url": "https://www.104.com.tw/api/jobs/93xw7"
+  }
+}

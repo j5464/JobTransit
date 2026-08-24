@@ -1,0 +1,196 @@
+{
+  "company": {
+    "id": "1a2x6bidjh",
+    "name": "中華民國信用合作社聯合社南區聯合資訊處理中心"
+  },
+  "job": {
+    "categories": [
+      "資訊助理",
+      "其他資訊專業人員",
+      "資訊設備管制人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "大型主機系統及機房相關設備操作。"
+        },
+        {
+          "children": [],
+          "text": "記錄大型主機系統及機房相關設備維護異動之相關訊息。"
+        }
+      ],
+      "text": "1.大型主機系統及機房相關設備操作。\n2.記錄大型主機系統及機房相關設備維護異動之相關訊息。"
+    },
+    "employment_type_raw": "全職",
+    "title": "大型主機機房操作人員"
+  },
+  "location": {
+    "address_raw": "台南市南區美南街21號",
+    "raw": "台南市南區美南街21號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Adobe Acrobat",
+          "Excel",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Adobe Acrobat、Excel、PowerPoint、Word"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "高中職（含）以上畢業，具備下列資格條件之一。\n(一) 大型主機（Mainframe）操作經驗者為佳（金融業經歷為佳）。\n(二) 網路設備或防火牆設備操作經驗（金融業經歷為佳）。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "高中職（含）以上畢業，具備下列資格條件之一。\n(一) 大型主機（Mainframe）操作經驗者為佳（金融業經歷為佳）。\n(二) 網路設備或防火牆設備操作經驗（金融業經歷為佳）。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Adobe Acrobat、Excel、PowerPoint、Word\n其他條件：高中職（含）以上畢業，具備下列資格條件之一。\n(一) 大型主機（Mainframe）操作經驗者為佳（金融業經歷為佳）。\n(二) 網路設備或防火牆設備操作經驗（金融業經歷為佳）。",
+    "tools": [
+      "Adobe Acrobat",
+      "Excel",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 33
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:44:30+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,362~41,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.大型主機系統及機房相關設備操作。\n2.記錄大型主機系統及機房相關設備維護異動之相關訊息。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資訊助理",
+            "其他資訊專業人員",
+            "資訊設備管制人員"
+          ],
+          "label": "職務類別",
+          "text": "資訊助理、其他資訊專業人員、資訊設備管制人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,362~41,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市南區美南街21號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.大型主機系統及機房相關設備操作。\n2.記錄大型主機系統及機房相關設備維護異動之相關訊息。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Adobe Acrobat",
+            "Excel",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Adobe Acrobat、Excel、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "高中職（含）以上畢業，具備下列資格條件之一。\n(一) 大型主機（Mainframe）操作經驗者為佳（金融業經歷為佳）。\n(二) 網路設備或防火牆設備操作經驗（金融業經歷為佳）。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Adobe Acrobat、Excel、PowerPoint、Word\n其他條件：高中職（含）以上畢業，具備下列資格條件之一。\n(一) 大型主機（Mainframe）操作經驗者為佳（金融業經歷為佳）。\n(二) 網路設備或防火牆設備操作經驗（金融業經歷為佳）。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "88h72",
+    "job_url": "https://www.104.com.tw/job/88h72",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/88h72.json",
+    "raw_sha256": "c0862ae56b42897089c5df2081ff639097f72bd1a90433fa71b202c859eed317",
+    "requested_url": "https://www.104.com.tw/api/jobs/88h72"
+  }
+}

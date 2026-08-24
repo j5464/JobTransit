@@ -1,0 +1,243 @@
+{
+  "company": {
+    "id": "4crs1yo",
+    "name": "寶楠生技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "數據分析師／資料分析師",
+      "營運管理師／系統整合／ERP專案師",
+      "商業分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "參與 ERP、BI、AI 與流程自動化等數位轉型專案開發與導入 。"
+        },
+        {
+          "children": [],
+          "text": "協助作業流程分析、需求訪談及系統設計規劃 。"
+        },
+        {
+          "children": [],
+          "text": "執行跨系統資料串接、整合作業。"
+        },
+        {
+          "children": [],
+          "text": "維護與優化公司既有資訊系統，確保系統穩定運作(鼎新 ERP、EF.NET、Power BI等) 。"
+        },
+        {
+          "children": [],
+          "text": "程式撰寫、測試、除錯及技術文件，確保系統穩定運作。"
+        },
+        {
+          "children": [],
+          "text": "新工具(應用)的研究。"
+        },
+        {
+          "children": [],
+          "text": "其他資訊專案協作與主管交辦事項。"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料庫（SQL Server、MongoDB）操作。"
+        },
+        {
+          "children": [],
+          "text": "具備程式開發能力（C#、.NET、JavaScript等）。"
+        },
+        {
+          "children": [],
+          "text": "了解 ERP/BI 系統運作，有相關導入或維護經驗者佳。"
+        },
+        {
+          "children": [],
+          "text": "具備良好溝通能力與跨部門協作經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備問題分析與解決能力，能獨立完成任務。"
+        },
+        {
+          "children": [],
+          "text": "有 Power BI 報表設計與資料視覺化經驗。"
+        }
+      ],
+      "text": "1.參與 ERP、BI、AI 與流程自動化等數位轉型專案開發與導入 。\n2.協助作業流程分析、需求訪談及系統設計規劃 。\n3.執行跨系統資料串接、整合作業。\n4.維護與優化公司既有資訊系統，確保系統穩定運作(鼎新 ERP、EF.NET、Power BI等) 。\n5.程式撰寫、測試、除錯及技術文件，確保系統穩定運作。\n6.新工具(應用)的研究。\n7.其他資訊專案協作與主管交辦事項。\n職務需求：\n• 熟悉資料庫（SQL Server、MongoDB）操作。\n• 具備程式開發能力（C#、.NET、JavaScript等）。\n• 了解 ERP/BI 系統運作，有相關導入或維護經驗者佳。\n• 具備良好溝通能力與跨部門協作經驗。\n• 具備問題分析與解決能力，能獨立完成任務。\n• 有 Power BI 報表設計與資料視覺化經驗。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊系統工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路258巷50號3樓",
+    "raw": "台北市內湖區瑞光路258巷50號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "ASP.NET",
+          "C#",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、ASP.NET、C#、JavaScript"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件：\n• 熟悉 API 串接與系統整合。\n• 具備 ISO 27001 或資訊安全相關知識。\n• 有數位轉型專案經驗。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "加分條件：\n• 熟悉 API 串接與系統整合。\n• 具備 ISO 27001 或資訊安全相關知識。\n• 有數位轉型專案經驗。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：MS SQL、ASP.NET、C#、JavaScript\n其他條件：加分條件：\n• 熟悉 API 串接與系統整合。\n• 具備 ISO 27001 或資訊安全相關知識。\n• 有數位轉型專案經驗。",
+    "tools": [
+      "MS SQL",
+      "ASP.NET",
+      "C#",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 34
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:45:07+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.參與 ERP、BI、AI 與流程自動化等數位轉型專案開發與導入 。\n2.協助作業流程分析、需求訪談及系統設計規劃 。\n3.執行跨系統資料串接、整合作業。\n4.維護與優化公司既有資訊系統，確保系統穩定運作(鼎新 ERP、EF.NET、Power BI等) 。\n5.程式撰寫、測試、除錯及技術文件，確保系統穩定運作。\n6.新工具(應用)的研究。\n7.其他資訊專案協作與主管交辦事項。\n職務需求：\n• 熟悉資料庫（SQL Server、MongoDB）操作。\n• 具備程式開發能力（C#、.NET、JavaScript等）。\n• 了解 ERP/BI 系統運作，有相關導入或維護經驗者佳。\n• 具備良好溝通能力與跨部門協作經驗。\n• 具備問題分析與解決能力，能獨立完成任務。\n• 有 Power BI 報表設計與資料視覺化經驗。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "數據分析師／資料分析師",
+            "營運管理師／系統整合／ERP專案師",
+            "商業分析師"
+          ],
+          "label": "職務類別",
+          "text": "數據分析師／資料分析師、營運管理師／系統整合／ERP專案師、商業分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路258巷50號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.參與 ERP、BI、AI 與流程自動化等數位轉型專案開發與導入 。\n2.協助作業流程分析、需求訪談及系統設計規劃 。\n3.執行跨系統資料串接、整合作業。\n4.維護與優化公司既有資訊系統，確保系統穩定運作(鼎新 ERP、EF.NET、Power BI等) 。\n5.程式撰寫、測試、除錯及技術文件，確保系統穩定運作。\n6.新工具(應用)的研究。\n7.其他資訊專案協作與主管交辦事項。\n職務需求：\n• 熟悉資料庫（SQL Server、MongoDB）操作。\n• 具備程式開發能力（C#、.NET、JavaScript等）。\n• 了解 ERP/BI 系統運作，有相關導入或維護經驗者佳。\n• 具備良好溝通能力與跨部門協作經驗。\n• 具備問題分析與解決能力，能獨立完成任務。\n• 有 Power BI 報表設計與資料視覺化經驗。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "ASP.NET",
+            "C#",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、ASP.NET、C#、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件：\n• 熟悉 API 串接與系統整合。\n• 具備 ISO 27001 或資訊安全相關知識。\n• 有數位轉型專案經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：MS SQL、ASP.NET、C#、JavaScript\n其他條件：加分條件：\n• 熟悉 API 串接與系統整合。\n• 具備 ISO 27001 或資訊安全相關知識。\n• 有數位轉型專案經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92gi0",
+    "job_url": "https://www.104.com.tw/job/92gi0",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92gi0.json",
+    "raw_sha256": "f8914abef4bfd6fe03506b05835b7e8f5e02739419ea8a6b572e25e17acdca36",
+    "requested_url": "https://www.104.com.tw/api/jobs/92gi0"
+  }
+}

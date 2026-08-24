@@ -1,0 +1,291 @@
+{
+  "company": {
+    "id": "1a2x6bm023",
+    "name": "千享國際企業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "演算法工程師",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計多步驟 AI Agent Pipeline：意圖解析 → 工具選擇 → 資訊檢索 → 回答生成 → 品質驗證"
+        },
+        {
+          "children": [],
+          "text": "以 LangGraph 實作併行工作流、條件分支與 Human-in-the-Loop 審核流程"
+        },
+        {
+          "children": [],
+          "text": "透過 LangChain 管理 LLM 呼叫、Tools 調用與對話歷史狀態"
+        },
+        {
+          "children": [],
+          "text": "設計安全護欄：防幻覺、Fallback 機制、模稜兩可查詢處理"
+        },
+        {
+          "children": [],
+          "text": "建構與優化 RAG Pipeline：文件切分、Embedding、向量 + 關鍵字混合檢索、Reranking"
+        },
+        {
+          "children": [],
+          "text": "串接多家 LLM API（OpenAI / Claude / Gemini），設計 System Prompt 與輸出格式控制"
+        },
+        {
+          "children": [],
+          "text": "觀光內容自動摘要、多語系實體識別、語意分類"
+        },
+        {
+          "children": [],
+          "text": "以 FastAPI 開發 API 服務，處理即時串流（SSE / WebSocket）與並行請求"
+        },
+        {
+          "children": [],
+          "text": "使用 SQLAlchemy 進行資料模型設計與查詢優化"
+        },
+        {
+          "children": [],
+          "text": "雲端環境建置維護、對話記錄分析與系統品質迭代"
+        },
+        {
+          "children": [],
+          "text": "1 年以上 Python 後端開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 LangChain：包含 LLM API 模型設定與調整、Tools 呼叫流程設計，以及對話歷史（messages）管理"
+        },
+        {
+          "children": [],
+          "text": "熟悉 LangGraph：能進行併行工作流設計，並具備 Human-in-the-Loop 流程規劃經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 SQLAlchemy：具備資料表設計與操作能力"
+        },
+        {
+          "children": [],
+          "text": "熟悉 FastAPI：具備 API 設計與開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版本控制，能閱讀英文技術文件"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Docker / Docker Compose：具備容器化與服務部署經驗"
+        },
+        {
+          "children": [],
+          "text": "具備 Bash Shell 撰寫能力：能處理一般指令與腳本需求"
+        },
+        {
+          "children": [],
+          "text": "了解 DDD（Domain-Driven Design）架構：理解各分層之間的職責與關係"
+        },
+        {
+          "children": [],
+          "text": "了解向量資料庫原理"
+        },
+        {
+          "children": [],
+          "text": "了解全文檢索資料庫原理"
+        },
+        {
+          "children": [],
+          "text": "全面導入 Claude Code 作為日常開發與技術討論工具"
+        },
+        {
+          "children": [],
+          "text": "鼓勵工程師透過 AI 輔助工具探索新技術、快速驗證想法"
+        },
+        {
+          "children": [],
+          "text": "重視實作能力與學習速度，不拘泥於特定框架經歷"
+        }
+      ],
+      "text": "我們打造台灣觀光產業的 AI Agent 系統，從多步驟推理到多語系旅遊中樞，這裡有真實的 Production 挑戰。團隊全面導入 Claude Code 進行開發與技術討論，如果你是想深入 AI 領域的工程師，這裡有實戰場景和工具支持讓你快速成長。\n【工作內容】\nAgent 工作流設計與開發\n● 設計多步驟 AI Agent Pipeline：意圖解析 → 工具選擇 → 資訊檢索 → 回答生成 → 品質驗證\n● 以 LangGraph 實作併行工作流、條件分支與 Human-in-the-Loop 審核流程\n● 透過 LangChain 管理 LLM 呼叫、Tools 調用與對話歷史狀態\n● 設計安全護欄：防幻覺、Fallback 機制、模稜兩可查詢處理\nRAG Pipeline 與 LLM 整合\n● 建構與優化 RAG Pipeline：文件切分、Embedding、向量 + 關鍵字混合檢索、Reranking\n● 串接多家 LLM API（OpenAI / Claude / Gemini），設計 System Prompt 與輸出格式控制\n● 觀光內容自動摘要、多語系實體識別、語意分類\nPython 後端與系統維運\n● 以 FastAPI 開發 API 服務，處理即時串流（SSE / WebSocket）與並行請求\n● 使用 SQLAlchemy 進行資料模型設計與查詢優化\n● 雲端環境建置維護、對話記錄分析與系統品質迭代\n【必備條件】\n● 1 年以上 Python 後端開發經驗\n● 熟悉 LangChain：包含 LLM API 模型設定與調整、Tools 呼叫流程設計，以及對話歷史（messages）管理\n● 熟悉 LangGraph：能進行併行工作流設計，並具備 Human-in-the-Loop 流程規劃經驗\n● 熟悉 SQLAlchemy：具備資料表設計與操作能力\n● 熟悉 FastAPI：具備 API 設計與開發經驗\n● 熟悉 Git 版本控制，能閱讀英文技術文件\n【加分條件】\n● 熟悉 Docker / Docker Compose：具備容器化與服務部署經驗\n● 具備 Bash Shell 撰寫能力：能處理一般指令與腳本需求\n● 了解 DDD（Domain-Driven Design）架構：理解各分層之間的職責與關係\n● 了解向量資料庫原理\n● 了解全文檢索資料庫原理\n【團隊工具與文化】\n● 全面導入 Claude Code 作為日常開發與技術討論工具\n● 鼓勵工程師透過 AI 輔助工具探索新技術、快速驗證想法\n● 重視實作能力與學習速度，不拘泥於特定框架經歷"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI 應用工程師/AI Application Engineer《技術部》【台北事業處】"
+  },
+  "location": {
+    "address_raw": "台北市大安區忠孝東路四段285號5樓",
+    "raw": "台北市大安區忠孝東路四段285號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Python",
+          "LLM",
+          "PostgreSQL",
+          "Prompt"
+        ],
+        "label": "擅長工具",
+        "text": "Python、LLM、PostgreSQL、Prompt"
+      },
+      {
+        "items": [
+          "AI",
+          "深度學習",
+          "人工智慧",
+          "生成式AI",
+          "自然語言處理",
+          "提示工程",
+          "語言模型"
+        ],
+        "label": "工作技能",
+        "text": "AI、深度學習、人工智慧、生成式AI、自然語言處理、提示工程、語言模型"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "AI",
+      "深度學習",
+      "人工智慧",
+      "生成式AI",
+      "自然語言處理",
+      "提示工程",
+      "語言模型"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n擅長工具：Python、LLM、PostgreSQL、Prompt\n工作技能：AI、深度學習、人工智慧、生成式AI、自然語言處理、提示工程、語言模型",
+    "tools": [
+      "Python",
+      "LLM",
+      "PostgreSQL",
+      "Prompt"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 70
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:14:26+08:00"
+  },
+  "salary": {
+    "raw": "年薪800,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們打造台灣觀光產業的 AI Agent 系統，從多步驟推理到多語系旅遊中樞，這裡有真實的 Production 挑戰。團隊全面導入 Claude Code 進行開發與技術討論，如果你是想深入 AI 領域的工程師，這裡有實戰場景和工具支持讓你快速成長。\n【工作內容】\nAgent 工作流設計與開發\n● 設計多步驟 AI Agent Pipeline：意圖解析 → 工具選擇 → 資訊檢索 → 回答生成 → 品質驗證\n● 以 LangGraph 實作併行工作流、條件分支與 Human-in-the-Loop 審核流程\n● 透過 LangChain 管理 LLM 呼叫、Tools 調用與對話歷史狀態\n● 設計安全護欄：防幻覺、Fallback 機制、模稜兩可查詢處理\nRAG Pipeline 與 LLM 整合\n● 建構與優化 RAG Pipeline：文件切分、Embedding、向量 + 關鍵字混合檢索、Reranking\n● 串接多家 LLM API（OpenAI / Claude / Gemini），設計 System Prompt 與輸出格式控制\n● 觀光內容自動摘要、多語系實體識別、語意分類\nPython 後端與系統維運\n● 以 FastAPI 開發 API 服務，處理即時串流（SSE / WebSocket）與並行請求\n● 使用 SQLAlchemy 進行資料模型設計與查詢優化\n● 雲端環境建置維護、對話記錄分析與系統品質迭代\n【必備條件】\n● 1 年以上 Python 後端開發經驗\n● 熟悉 LangChain：包含 LLM API 模型設定與調整、Tools 呼叫流程設計，以及對話歷史（messages）管理\n● 熟悉 LangGraph：能進行併行工作流設計，並具備 Human-in-the-Loop 流程規劃經驗\n● 熟悉 SQLAlchemy：具備資料表設計與操作能力\n● 熟悉 FastAPI：具備 API 設計與開發經驗\n● 熟悉 Git 版本控制，能閱讀英文技術文件\n【加分條件】\n● 熟悉 Docker / Docker Compose：具備容器化與服務部署經驗\n● 具備 Bash Shell 撰寫能力：能處理一般指令與腳本需求\n● 了解 DDD（Domain-Driven Design）架構：理解各分層之間的職責與關係\n● 了解向量資料庫原理\n● 了解全文檢索資料庫原理\n【團隊工具與文化】\n● 全面導入 Claude Code 作為日常開發與技術討論工具\n● 鼓勵工程師透過 AI 輔助工具探索新技術、快速驗證想法\n● 重視實作能力與學習速度，不拘泥於特定框架經歷",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "演算法工程師",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、演算法工程師、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪800,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區忠孝東路四段285號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們打造台灣觀光產業的 AI Agent 系統，從多步驟推理到多語系旅遊中樞，這裡有真實的 Production 挑戰。團隊全面導入 Claude Code 進行開發與技術討論，如果你是想深入 AI 領域的工程師，這裡有實戰場景和工具支持讓你快速成長。\n【工作內容】\nAgent 工作流設計與開發\n● 設計多步驟 AI Agent Pipeline：意圖解析 → 工具選擇 → 資訊檢索 → 回答生成 → 品質驗證\n● 以 LangGraph 實作併行工作流、條件分支與 Human-in-the-Loop 審核流程\n● 透過 LangChain 管理 LLM 呼叫、Tools 調用與對話歷史狀態\n● 設計安全護欄：防幻覺、Fallback 機制、模稜兩可查詢處理\nRAG Pipeline 與 LLM 整合\n● 建構與優化 RAG Pipeline：文件切分、Embedding、向量 + 關鍵字混合檢索、Reranking\n● 串接多家 LLM API（OpenAI / Claude / Gemini），設計 System Prompt 與輸出格式控制\n● 觀光內容自動摘要、多語系實體識別、語意分類\nPython 後端與系統維運\n● 以 FastAPI 開發 API 服務，處理即時串流（SSE / WebSocket）與並行請求\n● 使用 SQLAlchemy 進行資料模型設計與查詢優化\n● 雲端環境建置維護、對話記錄分析與系統品質迭代\n【必備條件】\n● 1 年以上 Python 後端開發經驗\n● 熟悉 LangChain：包含 LLM API 模型設定與調整、Tools 呼叫流程設計，以及對話歷史（messages）管理\n● 熟悉 LangGraph：能進行併行工作流設計，並具備 Human-in-the-Loop 流程規劃經驗\n● 熟悉 SQLAlchemy：具備資料表設計與操作能力\n● 熟悉 FastAPI：具備 API 設計與開發經驗\n● 熟悉 Git 版本控制，能閱讀英文技術文件\n【加分條件】\n● 熟悉 Docker / Docker Compose：具備容器化與服務部署經驗\n● 具備 Bash Shell 撰寫能力：能處理一般指令與腳本需求\n● 了解 DDD（Domain-Driven Design）架構：理解各分層之間的職責與關係\n● 了解向量資料庫原理\n● 了解全文檢索資料庫原理\n【團隊工具與文化】\n● 全面導入 Claude Code 作為日常開發與技術討論工具\n● 鼓勵工程師透過 AI 輔助工具探索新技術、快速驗證想法\n● 重視實作能力與學習速度，不拘泥於特定框架經歷"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "LLM",
+            "PostgreSQL",
+            "Prompt"
+          ],
+          "label": "擅長工具",
+          "text": "Python、LLM、PostgreSQL、Prompt",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "深度學習",
+            "人工智慧",
+            "生成式AI",
+            "自然語言處理",
+            "提示工程",
+            "語言模型"
+          ],
+          "label": "工作技能",
+          "text": "AI、深度學習、人工智慧、生成式AI、自然語言處理、提示工程、語言模型",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n擅長工具：Python、LLM、PostgreSQL、Prompt\n工作技能：AI、深度學習、人工智慧、生成式AI、自然語言處理、提示工程、語言模型"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8y513",
+    "job_url": "https://www.104.com.tw/job/8y513",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8y513.json",
+    "raw_sha256": "5d70198d7f6467bd33ffe5768b251434f58ce28a8cc87b71b88048395d74eaeb",
+    "requested_url": "https://www.104.com.tw/api/jobs/8y513"
+  }
+}

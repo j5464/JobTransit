@@ -1,0 +1,200 @@
+{
+  "company": {
+    "id": "wi4quiw",
+    "name": "迅得機械股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "嵌入式系統韌體開發"
+        },
+        {
+          "children": [],
+          "text": "實現相關演算法"
+        },
+        {
+          "children": [],
+          "text": "建立與維護專案"
+        }
+      ],
+      "text": "1.嵌入式系統韌體開發\n2.實現相關演算法\n3.建立與維護專案"
+    },
+    "employment_type_raw": "全職",
+    "title": "嵌入式系統韌體研發工程師"
+  },
+  "location": {
+    "address_raw": "桃園市中壢區新生路三段255巷99號",
+    "raw": "桃園市中壢區新生路三段255巷99號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "其他工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、其他工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "C",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具備ARM Keil C尤佳\n2.熟悉MATLAB 尤佳\n3.有C# 開發經驗尤佳\n4.熟悉C/C++ 語言\n5.熟悉ARM Cortex-M 基本操作\n6.有SD/MMC、LCD、USB、I2C、UART 等周邊驅動\n7.有Embedded System RTOS 開發經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "其他工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.具備ARM Keil C尤佳\n2.熟悉MATLAB 尤佳\n3.有C# 開發經驗尤佳\n4.熟悉C/C++ 語言\n5.熟悉ARM Cortex-M 基本操作\n6.有SD/MMC、LCD、USB、I2C、UART 等周邊驅動\n7.有Embedded System RTOS 開發經驗",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、其他工程相關、資訊工程相關\n擅長工具：C、C++\n其他條件：1.具備ARM Keil C尤佳\n2.熟悉MATLAB 尤佳\n3.有C# 開發經驗尤佳\n4.熟悉C/C++ 語言\n5.熟悉ARM Cortex-M 基本操作\n6.有SD/MMC、LCD、USB、I2C、UART 等周邊驅動\n7.有Embedded System RTOS 開發經驗",
+    "tools": [
+      "C",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 95
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:17:21+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.嵌入式系統韌體開發\n2.實現相關演算法\n3.建立與維護專案",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市中壢區新生路三段255巷99號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.嵌入式系統韌體開發\n2.實現相關演算法\n3.建立與維護專案"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "其他工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、其他工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具備ARM Keil C尤佳\n2.熟悉MATLAB 尤佳\n3.有C# 開發經驗尤佳\n4.熟悉C/C++ 語言\n5.熟悉ARM Cortex-M 基本操作\n6.有SD/MMC、LCD、USB、I2C、UART 等周邊驅動\n7.有Embedded System RTOS 開發經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、其他工程相關、資訊工程相關\n擅長工具：C、C++\n其他條件：1.具備ARM Keil C尤佳\n2.熟悉MATLAB 尤佳\n3.有C# 開發經驗尤佳\n4.熟悉C/C++ 語言\n5.熟悉ARM Cortex-M 基本操作\n6.有SD/MMC、LCD、USB、I2C、UART 等周邊驅動\n7.有Embedded System RTOS 開發經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8ej1r",
+    "job_url": "https://www.104.com.tw/job/8ej1r",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ej1r.json",
+    "raw_sha256": "086dc0ed8720271a5c5a953a9bc4493bc06896f7f8f04a1cce83be4b1e185476",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ej1r"
+  }
+}

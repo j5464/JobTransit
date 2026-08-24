@@ -1,0 +1,217 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "營運管理師／系統整合／ERP專案師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "ERP財務相關系統分析"
+        },
+        {
+          "children": [],
+          "text": "整合測試及教育訓練"
+        },
+        {
+          "children": [],
+          "text": "使用者驗收及上線支援"
+        },
+        {
+          "children": [],
+          "text": "負責財務功能的日常維運, 協助問題排除及教育訓練"
+        },
+        {
+          "children": [],
+          "text": "具備SAP ERP系統分析及程式設計兩年以上經驗"
+        },
+        {
+          "children": [],
+          "text": "具備ERP 專案導入一年以上經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉SAP ERP- FICO模組應用"
+        },
+        {
+          "children": [],
+          "text": "具備財務帳務概念佳"
+        },
+        {
+          "children": [],
+          "text": "具備ERP project manager 經驗者佳"
+        },
+        {
+          "children": [],
+          "text": "具備ABAP, Fiori , JAVA程式開發經驗者佳"
+        },
+        {
+          "children": [],
+          "text": "良好的邏輯概念、溝通協調能力、組織與表達能力"
+        },
+        {
+          "children": [],
+          "text": "英文聽說讀寫中等以上能力"
+        }
+      ],
+      "text": "<工作內容>\n1. ERP財務相關系統分析\n2. 整合測試及教育訓練\n3. 使用者驗收及上線支援\n4. 負責財務功能的日常維運, 協助問題排除及教育訓練\n<需求條件>\n1. 具備SAP ERP系統分析及程式設計兩年以上經驗\n2. 具備ERP 專案導入一年以上經驗\n3. 熟悉SAP ERP- FICO模組應用\n4. 具備財務帳務概念佳\n5. 具備ERP project manager 經驗者佳\n6. 具備ABAP, Fiori , JAVA程式開發經驗者佳\n7. 良好的邏輯概念、溝通協調能力、組織與表達能力\n8. 英文聽說讀寫中等以上能力"
+    },
+    "employment_type_raw": "全職",
+    "title": "SAP ERP財務管理系統分析師(FICO)_資訊處(內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號(內湖)",
+    "raw": "台北市內湖區瑞光路186號(內湖)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 90
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:04:42+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "<工作內容>\n1. ERP財務相關系統分析\n2. 整合測試及教育訓練\n3. 使用者驗收及上線支援\n4. 負責財務功能的日常維運, 協助問題排除及教育訓練\n<需求條件>\n1. 具備SAP ERP系統分析及程式設計兩年以上經驗\n2. 具備ERP 專案導入一年以上經驗\n3. 熟悉SAP ERP- FICO模組應用\n4. 具備財務帳務概念佳\n5. 具備ERP project manager 經驗者佳\n6. 具備ABAP, Fiori , JAVA程式開發經驗者佳\n7. 良好的邏輯概念、溝通協調能力、組織與表達能力\n8. 英文聽說讀寫中等以上能力",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "營運管理師／系統整合／ERP專案師"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、營運管理師／系統整合／ERP專案師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號(內湖)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "<工作內容>\n1. ERP財務相關系統分析\n2. 整合測試及教育訓練\n3. 使用者驗收及上線支援\n4. 負責財務功能的日常維運, 協助問題排除及教育訓練\n<需求條件>\n1. 具備SAP ERP系統分析及程式設計兩年以上經驗\n2. 具備ERP 專案導入一年以上經驗\n3. 熟悉SAP ERP- FICO模組應用\n4. 具備財務帳務概念佳\n5. 具備ERP project manager 經驗者佳\n6. 具備ABAP, Fiori , JAVA程式開發經驗者佳\n7. 良好的邏輯概念、溝通協調能力、組織與表達能力\n8. 英文聽說讀寫中等以上能力"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8xhar",
+    "job_url": "https://www.104.com.tw/job/8xhar",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xhar.json",
+    "raw_sha256": "7cd64c7e80c88a3f0ab32de154f46ca5699841b534777a411c664f92837fba2e",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xhar"
+  }
+}

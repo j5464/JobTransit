@@ -1,0 +1,228 @@
+{
+  "company": {
+    "id": "nw2a9wx",
+    "name": "中山醫學大學附設醫院"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "軟體工程師",
+      "軟體助理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "以 FastAPI 或 Spring Boot 開發後端與 AI 應用服務"
+        },
+        {
+          "children": [],
+          "text": "設計與開發 RESTful API,串接生成式 AI / LLM 與院內資訊系統"
+        },
+        {
+          "children": [],
+          "text": "主導系統模組與微服務拆分,建立可維護、可測試的架構"
+        },
+        {
+          "children": [],
+          "text": "主導系統架構與技術選型"
+        },
+        {
+          "children": [],
+          "text": "制定開發規範、執行 code review"
+        },
+        {
+          "children": [],
+          "text": "帶領後端與新進工程師,協助團隊成長"
+        },
+        {
+          "children": [],
+          "text": "優化 API 效能"
+        },
+        {
+          "children": [],
+          "text": "提升系統穩定性與可觀測性,協助排除疑難問題"
+        },
+        {
+          "children": [],
+          "text": "3 年以上後端開發經驗"
+        },
+        {
+          "children": [],
+          "text": "精熟 FastAPI 或 Spring Boot, 兩者擇一"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RESTful API 設計與微服務架構"
+        },
+        {
+          "children": [],
+          "text": "有生成式 AI / LLM 應用串接經驗(RAG、Agent)"
+        },
+        {
+          "children": [],
+          "text": "熟悉 OAuth 2.0 / OIDC 身分驗證授權,實作過 API 權限控管"
+        },
+        {
+          "children": [],
+          "text": "有 HL7 FHIR 醫療資料標準整合經驗(FHIR Server / SMART on FHIR)"
+        },
+        {
+          "children": [],
+          "text": "有分散式系統與高併發處理經驗"
+        }
+      ],
+      "text": "【工作內容】\n一、後端與 AI 服務開發\n1. 以 FastAPI 或 Spring Boot 開發後端與 AI 應用服務\n2. 設計與開發 RESTful API,串接生成式 AI / LLM 與院內資訊系統\n3. 主導系統模組與微服務拆分,建立可維護、可測試的架構\n二、系統設計與技術領導\n1. 主導系統架構與技術選型\n2. 制定開發規範、執行 code review\n3. 帶領後端與新進工程師,協助團隊成長\n三、效能與穩定性\n1. 優化 API 效能\n2. 提升系統穩定性與可觀測性,協助排除疑難問題\n【職務需求】\n1. 3 年以上後端開發經驗\n2. 精熟 FastAPI 或 Spring Boot, 兩者擇一\n3. 熟悉 RESTful API 設計與微服務架構\n【加分條件】\n1. 有生成式 AI / LLM 應用串接經驗(RAG、Agent)\n2. 熟悉 OAuth 2.0 / OIDC 身分驗證授權,實作過 API 權限控管\n3. 有 HL7 FHIR 醫療資料標準整合經驗(FHIR Server / SMART on FHIR)\n4. 有分散式系統與高併發處理經驗\n(中心介紹: https://aic-csh.org/)"
+    },
+    "employment_type_raw": "全職",
+    "title": "人工智慧中心-資深後端工程師"
+  },
+  "location": {
+    "address_raw": "台中市南區建國北路一段110號",
+    "raw": "台中市南區建國北路一段110號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Git",
+          "Java",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Git、Java、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "擅長工具:Python、Java、FastAPI、Spring Boot、Redis、Docker、Git\n帶人經驗者尤佳;熟悉 Git 版本控制,能撰寫可維護、可測試的程式碼"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "擅長工具:Python、Java、FastAPI、Spring Boot、Redis、Docker、Git\n帶人經驗者尤佳;熟悉 Git 版本控制,能撰寫可維護、可測試的程式碼",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：Git、Java、Python\n其他條件：擅長工具:Python、Java、FastAPI、Spring Boot、Redis、Docker、Git\n帶人經驗者尤佳;熟悉 Git 版本控制,能撰寫可維護、可測試的程式碼",
+    "tools": [
+      "Git",
+      "Java",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 57
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:43:25+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n一、後端與 AI 服務開發\n1. 以 FastAPI 或 Spring Boot 開發後端與 AI 應用服務\n2. 設計與開發 RESTful API,串接生成式 AI / LLM 與院內資訊系統\n3. 主導系統模組與微服務拆分,建立可維護、可測試的架構\n二、系統設計與技術領導\n1. 主導系統架構與技術選型\n2. 制定開發規範、執行 code review\n3. 帶領後端與新進工程師,協助團隊成長\n三、效能與穩定性\n1. 優化 API 效能\n2. 提升系統穩定性與可觀測性,協助排除疑難問題\n【職務需求】\n1. 3 年以上後端開發經驗\n2. 精熟 FastAPI 或 Spring Boot, 兩者擇一\n3. 熟悉 RESTful API 設計與微服務架構\n【加分條件】\n1. 有生成式 AI / LLM 應用串接經驗(RAG、Agent)\n2. 熟悉 OAuth 2.0 / OIDC 身分驗證授權,實作過 API 權限控管\n3. 有 HL7 FHIR 醫療資料標準整合經驗(FHIR Server / SMART on FHIR)\n4. 有分散式系統與高併發處理經驗\n(中心介紹: https://aic-csh.org/)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "軟體工程師",
+            "軟體助理工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、軟體工程師、軟體助理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市南區建國北路一段110號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n一、後端與 AI 服務開發\n1. 以 FastAPI 或 Spring Boot 開發後端與 AI 應用服務\n2. 設計與開發 RESTful API,串接生成式 AI / LLM 與院內資訊系統\n3. 主導系統模組與微服務拆分,建立可維護、可測試的架構\n二、系統設計與技術領導\n1. 主導系統架構與技術選型\n2. 制定開發規範、執行 code review\n3. 帶領後端與新進工程師,協助團隊成長\n三、效能與穩定性\n1. 優化 API 效能\n2. 提升系統穩定性與可觀測性,協助排除疑難問題\n【職務需求】\n1. 3 年以上後端開發經驗\n2. 精熟 FastAPI 或 Spring Boot, 兩者擇一\n3. 熟悉 RESTful API 設計與微服務架構\n【加分條件】\n1. 有生成式 AI / LLM 應用串接經驗(RAG、Agent)\n2. 熟悉 OAuth 2.0 / OIDC 身分驗證授權,實作過 API 權限控管\n3. 有 HL7 FHIR 醫療資料標準整合經驗(FHIR Server / SMART on FHIR)\n4. 有分散式系統與高併發處理經驗\n(中心介紹: https://aic-csh.org/)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "Java",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Git、Java、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "擅長工具:Python、Java、FastAPI、Spring Boot、Redis、Docker、Git\n帶人經驗者尤佳;熟悉 Git 版本控制,能撰寫可維護、可測試的程式碼",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：Git、Java、Python\n其他條件：擅長工具:Python、Java、FastAPI、Spring Boot、Redis、Docker、Git\n帶人經驗者尤佳;熟悉 Git 版本控制,能撰寫可維護、可測試的程式碼"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "930g1",
+    "job_url": "https://www.104.com.tw/job/930g1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/930g1.json",
+    "raw_sha256": "3311775f5bafe661819edab617d86ae0e32494f02b2b1d213c1d6412ef3c308e",
+    "requested_url": "https://www.104.com.tw/api/jobs/930g1"
+  }
+}

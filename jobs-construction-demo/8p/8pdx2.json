@@ -1,0 +1,237 @@
+{
+  "company": {
+    "id": "156ljehc",
+    "name": "旺矽科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "軟體工程師",
+      "MIS程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "資訊系統開發"
+        },
+        {
+          "children": [],
+          "text": "軟體測試與版本維護"
+        },
+        {
+          "children": [],
+          "text": "關聯式資料庫系統應用開發"
+        },
+        {
+          "children": [],
+          "text": "Java、Web相關程式設計與開發"
+        },
+        {
+          "children": [],
+          "text": "電子表單謙和系統開發"
+        }
+      ],
+      "text": "1. 資訊系統開發\n2. 軟體測試與版本維護\n3. 關聯式資料庫系統應用開發\n4. Java、Web相關程式設計與開發\n5. 電子表單謙和系統開發"
+    },
+    "employment_type_raw": "全職",
+    "title": "C111506-MIS軟體工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市中和街155號",
+    "raw": "新竹縣竹北市中和街155號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "Java",
+          "VueJS",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "Oracle"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、Java、VueJS、JavaScript、CSS、HTML、Oracle"
+      },
+      {
+        "items": [
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟悉Java語法\n2. 熟悉SQL語法(MS SQL/Oracle)\n3. 具備HTML, CSS, JavaScript前端基礎語法能力\n4. 熟悉Vue語法及VS Code開發環境"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1. 熟悉Java語法\n2. 熟悉SQL語法(MS SQL/Oracle)\n3. 具備HTML, CSS, JavaScript前端基礎語法能力\n4. 熟悉Vue語法及VS Code開發環境",
+    "skills": [
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：MS SQL、Java、VueJS、JavaScript、CSS、HTML、Oracle\n工作技能：軟體工程系統開發\n其他條件：1. 熟悉Java語法\n2. 熟悉SQL語法(MS SQL/Oracle)\n3. 具備HTML, CSS, JavaScript前端基礎語法能力\n4. 熟悉Vue語法及VS Code開發環境",
+    "tools": [
+      "MS SQL",
+      "Java",
+      "VueJS",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Oracle"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 70
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:14:22+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 資訊系統開發\n2. 軟體測試與版本維護\n3. 關聯式資料庫系統應用開發\n4. Java、Web相關程式設計與開發\n5. 電子表單謙和系統開發",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "軟體工程師",
+            "MIS程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、軟體工程師、MIS程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市中和街155號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 資訊系統開發\n2. 軟體測試與版本維護\n3. 關聯式資料庫系統應用開發\n4. Java、Web相關程式設計與開發\n5. 電子表單謙和系統開發"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "Java",
+            "VueJS",
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "Oracle"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、Java、VueJS、JavaScript、CSS、HTML、Oracle",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟悉Java語法\n2. 熟悉SQL語法(MS SQL/Oracle)\n3. 具備HTML, CSS, JavaScript前端基礎語法能力\n4. 熟悉Vue語法及VS Code開發環境",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：MS SQL、Java、VueJS、JavaScript、CSS、HTML、Oracle\n工作技能：軟體工程系統開發\n其他條件：1. 熟悉Java語法\n2. 熟悉SQL語法(MS SQL/Oracle)\n3. 具備HTML, CSS, JavaScript前端基礎語法能力\n4. 熟悉Vue語法及VS Code開發環境"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8pdx2",
+    "job_url": "https://www.104.com.tw/job/8pdx2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8pdx2.json",
+    "raw_sha256": "56018bc1ed63547bb8ded48b76960efc5eca8568f65aa92f1c6a5910bf7569d8",
+    "requested_url": "https://www.104.com.tw/api/jobs/8pdx2"
+  }
+}

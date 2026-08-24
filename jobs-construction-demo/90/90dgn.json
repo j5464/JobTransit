@@ -1,0 +1,443 @@
+{
+  "company": {
+    "id": "7icrvxe",
+    "name": "台郡科技股份有限公司(總公司)"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "系統工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "OTA（Over-The-Air）平台開發與維護"
+        },
+        {
+          "children": [],
+          "text": "IoT Device Management Platform"
+        },
+        {
+          "children": [],
+          "text": "Backend API 與即時通訊系統"
+        },
+        {
+          "children": [],
+          "text": "Flutter / React Native 雙平台 App 開發"
+        },
+        {
+          "children": [],
+          "text": "BLE / WiFi 裝置串接"
+        },
+        {
+          "children": [],
+          "text": "Device 狀態監控 Dashboard"
+        },
+        {
+          "children": [],
+          "text": "IoT Sensor 資料整合與展示"
+        },
+        {
+          "children": [],
+          "text": "開發 IoT Device OTA 更新平台"
+        },
+        {
+          "children": [],
+          "text": "設計 OTA Update Flow 與 Device 狀態管理"
+        },
+        {
+          "children": [],
+          "text": "Firmware Version 管理與 OTA Deployment"
+        },
+        {
+          "children": [],
+          "text": "OTA 更新進度與 Log 系統建置"
+        },
+        {
+          "children": [],
+          "text": "OTA Fail-safe / Retry / Rollback 機制設計"
+        },
+        {
+          "children": [],
+          "text": "開發 RESTful API / WebSocket / MQTT 服務"
+        },
+        {
+          "children": [],
+          "text": "建立 Device Management Platform"
+        },
+        {
+          "children": [],
+          "text": "IoT Device 即時狀態監控"
+        },
+        {
+          "children": [],
+          "text": "Server 架構部署與維運"
+        },
+        {
+          "children": [],
+          "text": "Docker Container 建置與管理"
+        },
+        {
+          "children": [],
+          "text": "Database Schema 設計與維護"
+        },
+        {
+          "children": [],
+          "text": "Flutter / React Native 雙平台 App 開發"
+        },
+        {
+          "children": [],
+          "text": "BLE / WiFi Device 串接"
+        },
+        {
+          "children": [],
+          "text": "即時顯示 Sensor Data"
+        },
+        {
+          "children": [],
+          "text": "OTA 更新狀態顯示"
+        },
+        {
+          "children": [],
+          "text": "Device 管理與控制功能"
+        },
+        {
+          "children": [],
+          "text": "BLE / WiFi Device Communication"
+        },
+        {
+          "children": [],
+          "text": "MQTT / TCP/IP / WebSocket 串接"
+        },
+        {
+          "children": [],
+          "text": "Sensor Data Parsing 與 Dashboard 顯示"
+        },
+        {
+          "children": [],
+          "text": "與 Firmware 團隊協作進行整合測試"
+        },
+        {
+          "children": [],
+          "text": "Node.js / Python 任一後端開發經驗"
+        },
+        {
+          "children": [],
+          "text": "RESTful API 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "Database 使用經驗（MySQL / PostgreSQL / MongoDB）"
+        },
+        {
+          "children": [],
+          "text": "Git / GitLab 使用經驗"
+        },
+        {
+          "children": [],
+          "text": "Linux 基本操作能力"
+        },
+        {
+          "children": [],
+          "text": "Docker / Docker Compose 使用經驗"
+        },
+        {
+          "children": [],
+          "text": "Nginx / Reverse Proxy 基本概念"
+        },
+        {
+          "children": [],
+          "text": "Server Deployment 經驗"
+        },
+        {
+          "children": [],
+          "text": "Flutter"
+        },
+        {
+          "children": [],
+          "text": "React Native"
+        },
+        {
+          "children": [],
+          "text": "BLE / WiFi Device 串接經驗"
+        },
+        {
+          "children": [],
+          "text": "API 串接經驗"
+        },
+        {
+          "children": [],
+          "text": "State Management 概念"
+        },
+        {
+          "children": [],
+          "text": "MQTT"
+        },
+        {
+          "children": [],
+          "text": "WebSocket"
+        },
+        {
+          "children": [],
+          "text": "BLE"
+        },
+        {
+          "children": [],
+          "text": "TCP/IP"
+        },
+        {
+          "children": [],
+          "text": "IoT Device Communication"
+        },
+        {
+          "children": [],
+          "text": "對 IoT / Smart Device 有興趣"
+        },
+        {
+          "children": [],
+          "text": "具備系統整合與問題分析能力"
+        },
+        {
+          "children": [],
+          "text": "願意跨領域與 Firmware / Hardware 團隊合作"
+        },
+        {
+          "children": [],
+          "text": "能獨立 Debug 與追蹤問題"
+        },
+        {
+          "children": [],
+          "text": "具備良好溝通能力與技術文件撰寫能力"
+        },
+        {
+          "children": [],
+          "text": "IoT Platform"
+        },
+        {
+          "children": [],
+          "text": "OTA System"
+        },
+        {
+          "children": [],
+          "text": "BLE / WiFi Device"
+        },
+        {
+          "children": [],
+          "text": "MQTT Realtime System"
+        },
+        {
+          "children": [],
+          "text": "Mobile App"
+        },
+        {
+          "children": [],
+          "text": "Device Dashboard"
+        },
+        {
+          "children": [],
+          "text": "RF / Sensor Device Integration"
+        },
+        {
+          "children": [],
+          "text": "Smart Device Solution"
+        }
+      ],
+      "text": "職務說明\n我們正在尋找具備 IoT Platform、Backend、Mobile App 與 Device Integration 能力的全端工程師，共同參與公司 IoT 與 RF 智慧裝置平台的建置與開發。\n此職位主要負責：\n• OTA（Over-The-Air）平台開發與維護\n• IoT Device Management Platform\n• Backend API 與即時通訊系統\n• Flutter / React Native 雙平台 App 開發\n• BLE / WiFi 裝置串接\n• Device 狀態監控 Dashboard\n• IoT Sensor 資料整合與展示\n您將與 Firmware、RF、Hardware 團隊密切合作，打造完整的 IoT Device ↔ Cloud ↔ Mobile App 解決方案。\n工作內容\n【OTA Platform 開發與維護】\n• 開發 IoT Device OTA 更新平台\n• 設計 OTA Update Flow 與 Device 狀態管理\n• Firmware Version 管理與 OTA Deployment\n• OTA 更新進度與 Log 系統建置\n• OTA Fail-safe / Retry / Rollback 機制設計\n【Backend / Server 開發】\n• 開發 RESTful API / WebSocket / MQTT 服務\n• 建立 Device Management Platform\n• IoT Device 即時狀態監控\n• Server 架構部署與維運\n• Docker Container 建置與管理\n• Database Schema 設計與維護\n【Mobile App 開發】\n• Flutter / React Native 雙平台 App 開發\n• BLE / WiFi Device 串接\n• 即時顯示 Sensor Data\n• OTA 更新狀態顯示\n• Device 管理與控制功能\n【IoT Device Integration】\n• BLE / WiFi Device Communication\n• MQTT / TCP/IP / WebSocket 串接\n• Sensor Data Parsing 與 Dashboard 顯示\n• 與 Firmware 團隊協作進行整合測試\n技術需求\n【Backend / Full-Stack】\n• Node.js / Python 任一後端開發經驗\n• RESTful API 開發經驗\n• Database 使用經驗（MySQL / PostgreSQL / MongoDB）\n• Git / GitLab 使用經驗\n【Server / DevOps】\n• Linux 基本操作能力\n• Docker / Docker Compose 使用經驗\n• Nginx / Reverse Proxy 基本概念\n• Server Deployment 經驗\n【Mobile App】\n以下任一：\n• Flutter\n• React Native\n需具備：\n• BLE / WiFi Device 串接經驗\n• API 串接經驗\n• State Management 概念\n【IoT / Realtime】\n具備以下任一經驗尤佳：\n• MQTT\n• WebSocket\n• BLE\n• TCP/IP\n• IoT Device Communication\n我們希望你具備\n• 對 IoT / Smart Device 有興趣\n• 具備系統整合與問題分析能力\n• 願意跨領域與 Firmware / Hardware 團隊合作\n• 能獨立 Debug 與追蹤問題\n• 具備良好溝通能力與技術文件撰寫能力\n工作技術方向\n• IoT Platform\n• OTA System\n• BLE / WiFi Device\n• MQTT Realtime System\n• Mobile App\n• Device Dashboard\n• RF / Sensor Device Integration\n• Smart Device Solution\n溫馨提醒：只有經過台郡授權的人員才能處理您的個人簡歷，台郡亦將遵守相關法規與政策，保護您的個人資料。投遞簡歷視同您同意台郡收集您的個人資訊。"
+    },
+    "employment_type_raw": "全職",
+    "title": "產品研發-IoT OTA 平台全端工程師"
+  },
+  "location": {
+    "address_raw": "高雄市大寮區上發五路1號",
+    "raw": "高雄市大寮區上發五路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、工程學科類"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、略懂"
+      },
+      {
+        "items": [
+          "ARM",
+          "RF",
+          "IoT",
+          "AWS"
+        ],
+        "label": "擅長工具",
+        "text": "ARM、RF、IoT、AWS"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件（Nice to Have）\n• OTA Platform 開發經驗\n• IoT Platform 開發經驗\n• MQTT Broker（Mosquitto / EMQX）經驗\n• Redis / Queue System 使用經驗\n• Grafana / ELK / Monitoring 經驗\n• CI/CD 經驗\n• AWS / Azure / GCP 雲端部署經驗\n• Firmware / Embedded System 基本概念\n• Bluetooth Low Energy（BLE）開發經驗\n• Web Dashboard 開發經驗"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、略懂"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "工程學科類"
+    ],
+    "other_text": "加分條件（Nice to Have）\n• OTA Platform 開發經驗\n• IoT Platform 開發經驗\n• MQTT Broker（Mosquitto / EMQX）經驗\n• Redis / Queue System 使用經驗\n• Grafana / ELK / Monitoring 經驗\n• CI/CD 經驗\n• AWS / Azure / GCP 雲端部署經驗\n• Firmware / Embedded System 基本概念\n• Bluetooth Low Energy（BLE）開發經驗\n• Web Dashboard 開發經驗",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、工程學科類\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：ARM、RF、IoT、AWS\n其他條件：加分條件（Nice to Have）\n• OTA Platform 開發經驗\n• IoT Platform 開發經驗\n• MQTT Broker（Mosquitto / EMQX）經驗\n• Redis / Queue System 使用經驗\n• Grafana / ELK / Monitoring 經驗\n• CI/CD 經驗\n• AWS / Azure / GCP 雲端部署經驗\n• Firmware / Embedded System 基本概念\n• Bluetooth Low Energy（BLE）開發經驗\n• Web Dashboard 開發經驗",
+    "tools": [
+      "ARM",
+      "RF",
+      "IoT",
+      "AWS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 86
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:53:30+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "職務說明\n我們正在尋找具備 IoT Platform、Backend、Mobile App 與 Device Integration 能力的全端工程師，共同參與公司 IoT 與 RF 智慧裝置平台的建置與開發。\n此職位主要負責：\n• OTA（Over-The-Air）平台開發與維護\n• IoT Device Management Platform\n• Backend API 與即時通訊系統\n• Flutter / React Native 雙平台 App 開發\n• BLE / WiFi 裝置串接\n• Device 狀態監控 Dashboard\n• IoT Sensor 資料整合與展示\n您將與 Firmware、RF、Hardware 團隊密切合作，打造完整的 IoT Device ↔ Cloud ↔ Mobile App 解決方案。\n工作內容\n【OTA Platform 開發與維護】\n• 開發 IoT Device OTA 更新平台\n• 設計 OTA Update Flow 與 Device 狀態管理\n• Firmware Version 管理與 OTA Deployment\n• OTA 更新進度與 Log 系統建置\n• OTA Fail-safe / Retry / Rollback 機制設計\n【Backend / Server 開發】\n• 開發 RESTful API / WebSocket / MQTT 服務\n• 建立 Device Management Platform\n• IoT Device 即時狀態監控\n• Server 架構部署與維運\n• Docker Container 建置與管理\n• Database Schema 設計與維護\n【Mobile App 開發】\n• Flutter / React Native 雙平台 App 開發\n• BLE / WiFi Device 串接\n• 即時顯示 Sensor Data\n• OTA 更新狀態顯示\n• Device 管理與控制功能\n【IoT Device Integration】\n• BLE / WiFi Device Communication\n• MQTT / TCP/IP / WebSocket 串接\n• Sensor Data Parsing 與 Dashboard 顯示\n• 與 Firmware 團隊協作進行整合測試\n技術需求\n【Backend / Full-Stack】\n• Node.js / Python 任一後端開發經驗\n• RESTful API 開發經驗\n• Database 使用經驗（MySQL / PostgreSQL / MongoDB）\n• Git / GitLab 使用經驗\n【Server / DevOps】\n• Linux 基本操作能力\n• Docker / Docker Compose 使用經驗\n• Nginx / Reverse Proxy 基本概念\n• Server Deployment 經驗\n【Mobile App】\n以下任一：\n• Flutter\n• React Native\n需具備：\n• BLE / WiFi Device 串接經驗\n• API 串接經驗\n• State Management 概念\n【IoT / Realtime】\n具備以下任一經驗尤佳：\n• MQTT\n• WebSocket\n• BLE\n• TCP/IP\n• IoT Device Communication\n我們希望你具備\n• 對 IoT / Smart Device 有興趣\n• 具備系統整合與問題分析能力\n• 願意跨領域與 Firmware / Hardware 團隊合作\n• 能獨立 Debug 與追蹤問題\n• 具備良好溝通能力與技術文件撰寫能力\n工作技術方向\n• IoT Platform\n• OTA System\n• BLE / WiFi Device\n• MQTT Realtime System\n• Mobile App\n• Device Dashboard\n• RF / Sensor Device Integration\n• Smart Device Solution\n溫馨提醒：只有經過台郡授權的人員才能處理您的個人簡歷，台郡亦將遵守相關法規與政策，保護您的個人資料。投遞簡歷視同您同意台郡收集您的個人資訊。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "系統工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、系統工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市大寮區上發五路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "職務說明\n我們正在尋找具備 IoT Platform、Backend、Mobile App 與 Device Integration 能力的全端工程師，共同參與公司 IoT 與 RF 智慧裝置平台的建置與開發。\n此職位主要負責：\n• OTA（Over-The-Air）平台開發與維護\n• IoT Device Management Platform\n• Backend API 與即時通訊系統\n• Flutter / React Native 雙平台 App 開發\n• BLE / WiFi 裝置串接\n• Device 狀態監控 Dashboard\n• IoT Sensor 資料整合與展示\n您將與 Firmware、RF、Hardware 團隊密切合作，打造完整的 IoT Device ↔ Cloud ↔ Mobile App 解決方案。\n工作內容\n【OTA Platform 開發與維護】\n• 開發 IoT Device OTA 更新平台\n• 設計 OTA Update Flow 與 Device 狀態管理\n• Firmware Version 管理與 OTA Deployment\n• OTA 更新進度與 Log 系統建置\n• OTA Fail-safe / Retry / Rollback 機制設計\n【Backend / Server 開發】\n• 開發 RESTful API / WebSocket / MQTT 服務\n• 建立 Device Management Platform\n• IoT Device 即時狀態監控\n• Server 架構部署與維運\n• Docker Container 建置與管理\n• Database Schema 設計與維護\n【Mobile App 開發】\n• Flutter / React Native 雙平台 App 開發\n• BLE / WiFi Device 串接\n• 即時顯示 Sensor Data\n• OTA 更新狀態顯示\n• Device 管理與控制功能\n【IoT Device Integration】\n• BLE / WiFi Device Communication\n• MQTT / TCP/IP / WebSocket 串接\n• Sensor Data Parsing 與 Dashboard 顯示\n• 與 Firmware 團隊協作進行整合測試\n技術需求\n【Backend / Full-Stack】\n• Node.js / Python 任一後端開發經驗\n• RESTful API 開發經驗\n• Database 使用經驗（MySQL / PostgreSQL / MongoDB）\n• Git / GitLab 使用經驗\n【Server / DevOps】\n• Linux 基本操作能力\n• Docker / Docker Compose 使用經驗\n• Nginx / Reverse Proxy 基本概念\n• Server Deployment 經驗\n【Mobile App】\n以下任一：\n• Flutter\n• React Native\n需具備：\n• BLE / WiFi Device 串接經驗\n• API 串接經驗\n• State Management 概念\n【IoT / Realtime】\n具備以下任一經驗尤佳：\n• MQTT\n• WebSocket\n• BLE\n• TCP/IP\n• IoT Device Communication\n我們希望你具備\n• 對 IoT / Smart Device 有興趣\n• 具備系統整合與問題分析能力\n• 願意跨領域與 Firmware / Hardware 團隊合作\n• 能獨立 Debug 與追蹤問題\n• 具備良好溝通能力與技術文件撰寫能力\n工作技術方向\n• IoT Platform\n• OTA System\n• BLE / WiFi Device\n• MQTT Realtime System\n• Mobile App\n• Device Dashboard\n• RF / Sensor Device Integration\n• Smart Device Solution\n溫馨提醒：只有經過台郡授權的人員才能處理您的個人簡歷，台郡亦將遵守相關法規與政策，保護您的個人資料。投遞簡歷視同您同意台郡收集您的個人資訊。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ARM",
+            "RF",
+            "IoT",
+            "AWS"
+          ],
+          "label": "擅長工具",
+          "text": "ARM、RF、IoT、AWS",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件（Nice to Have）\n• OTA Platform 開發經驗\n• IoT Platform 開發經驗\n• MQTT Broker（Mosquitto / EMQX）經驗\n• Redis / Queue System 使用經驗\n• Grafana / ELK / Monitoring 經驗\n• CI/CD 經驗\n• AWS / Azure / GCP 雲端部署經驗\n• Firmware / Embedded System 基本概念\n• Bluetooth Low Energy（BLE）開發經驗\n• Web Dashboard 開發經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、工程學科類\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：ARM、RF、IoT、AWS\n其他條件：加分條件（Nice to Have）\n• OTA Platform 開發經驗\n• IoT Platform 開發經驗\n• MQTT Broker（Mosquitto / EMQX）經驗\n• Redis / Queue System 使用經驗\n• Grafana / ELK / Monitoring 經驗\n• CI/CD 經驗\n• AWS / Azure / GCP 雲端部署經驗\n• Firmware / Embedded System 基本概念\n• Bluetooth Low Energy（BLE）開發經驗\n• Web Dashboard 開發經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "90dgn",
+    "job_url": "https://www.104.com.tw/job/90dgn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90dgn.json",
+    "raw_sha256": "f1da366296f0eed71bc4990ba81f93603b713525230e821f6a0b46d4bd99a11c",
+    "requested_url": "https://www.104.com.tw/api/jobs/90dgn"
+  }
+}

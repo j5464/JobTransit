@@ -1,0 +1,184 @@
+{
+  "company": {
+    "id": "7hlkrgw",
+    "name": "前進國際股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "於客戶端協助客戶完成系統開發及維護"
+        },
+        {
+          "children": [],
+          "text": "了解 響應式設計 與 跨瀏覽器相容性，確保一致的使用者體驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Vue3框架，具備模組化前端架構開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 版本控制工具（如 Git），能夠管理與合併程式分支"
+        },
+        {
+          "children": [],
+          "text": "精通 HTML5、CSS3、JavaScript，能夠實作互動式網頁功能"
+        },
+        {
+          "children": [],
+          "text": "具備 整合 RESTful API 的經驗，理解前後端資料交換機制"
+        },
+        {
+          "children": [],
+          "text": "具備 良好的問題解決能力，並能有效與團隊合作完成開發任務"
+        }
+      ],
+      "text": "- 於客戶端協助客戶完成系統開發及維護\n- 了解 響應式設計 與 跨瀏覽器相容性，確保一致的使用者體驗\n- 熟悉 Vue3框架，具備模組化前端架構開發經驗\n- 熟悉 版本控制工具（如 Git），能夠管理與合併程式分支\n- 精通 HTML5、CSS3、JavaScript，能夠實作互動式網頁功能\n- 具備 整合 RESTful API 的經驗，理解前後端資料交換機制\n- 具備 良好的問題解決能力，並能有效與團隊合作完成開發任務"
+    },
+    "employment_type_raw": "全職",
+    "title": "前端工程師(台北)"
+  },
+  "location": {
+    "address_raw": "台北市大安區",
+    "raw": "台北市大安區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Git",
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "Git、JavaScript、HTML、CSS"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：Git、JavaScript、HTML、CSS",
+    "tools": [
+      "Git",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 83
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:46:25+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "- 於客戶端協助客戶完成系統開發及維護\n- 了解 響應式設計 與 跨瀏覽器相容性，確保一致的使用者體驗\n- 熟悉 Vue3框架，具備模組化前端架構開發經驗\n- 熟悉 版本控制工具（如 Git），能夠管理與合併程式分支\n- 精通 HTML5、CSS3、JavaScript，能夠實作互動式網頁功能\n- 具備 整合 RESTful API 的經驗，理解前後端資料交換機制\n- 具備 良好的問題解決能力，並能有效與團隊合作完成開發任務",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "- 於客戶端協助客戶完成系統開發及維護\n- 了解 響應式設計 與 跨瀏覽器相容性，確保一致的使用者體驗\n- 熟悉 Vue3框架，具備模組化前端架構開發經驗\n- 熟悉 版本控制工具（如 Git），能夠管理與合併程式分支\n- 精通 HTML5、CSS3、JavaScript，能夠實作互動式網頁功能\n- 具備 整合 RESTful API 的經驗，理解前後端資料交換機制\n- 具備 良好的問題解決能力，並能有效與團隊合作完成開發任務"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "JavaScript",
+            "HTML",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "Git、JavaScript、HTML、CSS",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：Git、JavaScript、HTML、CSS"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8w298",
+    "job_url": "https://www.104.com.tw/job/8w298",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8w298.json",
+    "raw_sha256": "c9e95115649983152cd37c845335fb8e0dd5e896e6722484c66979313a60ed06",
+    "requested_url": "https://www.104.com.tw/api/jobs/8w298"
+  }
+}

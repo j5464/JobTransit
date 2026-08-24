@@ -1,0 +1,236 @@
+{
+  "company": {
+    "id": "oe22du0",
+    "name": "LILEE SYSTEMS_理立系統股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Design and maintain end-to-end MLOps pipelines — including data versioning, model training, experiment tracking, deployment, and monitoring in production environments"
+        },
+        {
+          "children": [],
+          "text": "Research and implement transformer-based vision models (e.g., ViT, DETR, BEVFormer) to improve object recognition accuracy and stability"
+        },
+        {
+          "children": [],
+          "text": "Collaborate cross-functionally with hardware, software, and safety teams; coordinate project timelines and communicate technical progress to stakeholders"
+        },
+        {
+          "children": [],
+          "text": "Drive continuous improvement through model performance analysis and iterative experimentation"
+        },
+        {
+          "children": [],
+          "text": "Fluent C++ programming skills; proficient in Python"
+        },
+        {
+          "children": [],
+          "text": "BS or MS degree in Computer Science, Electrical Engineering, or related field"
+        },
+        {
+          "children": [],
+          "text": "Familiar with camera imaging fundamentals and digital image processing theories"
+        },
+        {
+          "children": [],
+          "text": "Experience with transformer-based architectures (Vision Transformer, DETR, or similar) and classic CNNs"
+        },
+        {
+          "children": [],
+          "text": "Hands-on experience with MLOps practices — experiment tracking, model registry, CI/CD for ML, and production monitoring"
+        },
+        {
+          "children": [],
+          "text": "Experience with training and performance tuning using PyTorch or TensorFlow"
+        },
+        {
+          "children": [],
+          "text": "Experience with ROS/ROS2 infrastructure"
+        },
+        {
+          "children": [],
+          "text": "Ability to manage project scope and deliverables, communicate status, and flag risks proactively"
+        },
+        {
+          "children": [],
+          "text": "Good communication skills and ability to self-direct"
+        },
+        {
+          "children": [],
+          "text": "Familiar with BEV (Bird's Eye View) perception models and multi-sensor fusion"
+        },
+        {
+          "children": [],
+          "text": "Familiar with 3D pose estimation over point clouds or images"
+        },
+        {
+          "children": [],
+          "text": "Experience with CUDA C/C++ and model optimization (TensorRT, ONNX)"
+        },
+        {
+          "children": [],
+          "text": "Experience with data pipeline orchestration tools"
+        },
+        {
+          "children": [],
+          "text": "Experience in tech lead or project coordination roles"
+        }
+      ],
+      "text": "Computer Vision and Machine Learning is the key for autonomous driving vehicles to be equipped with the capability of understanding objects in the surrounding world. You will be working with the autonomous rapid transit team to build robust, scalable object recognition subsystems over images and point clouds—from data pipelines all the way to production deployment.\nResponsibilities\n• Design and maintain end-to-end MLOps pipelines — including data versioning, model training, experiment tracking, deployment, and monitoring in production environments\n• Research and implement transformer-based vision models (e.g., ViT, DETR, BEVFormer) to improve object recognition accuracy and stability\n• Collaborate cross-functionally with hardware, software, and safety teams; coordinate project timelines and communicate technical progress to stakeholders\n• Drive continuous improvement through model performance analysis and iterative experimentation\nQualifications\n• Fluent C++ programming skills; proficient in Python\n• BS or MS degree in Computer Science, Electrical Engineering, or related field\n• Familiar with camera imaging fundamentals and digital image processing theories\n• Experience with transformer-based architectures (Vision Transformer, DETR, or similar) and classic CNNs\n• Hands-on experience with MLOps practices — experiment tracking, model registry, CI/CD for ML, and production monitoring\n• Experience with training and performance tuning using PyTorch or TensorFlow\n• Experience with ROS/ROS2 infrastructure\n• Ability to manage project scope and deliverables, communicate status, and flag risks proactively\n• Good communication skills and ability to self-direct\nBonus Qualifications\n• Familiar with BEV (Bird's Eye View) perception models and multi-sensor fusion\n• Familiar with 3D pose estimation over point clouds or images\n• Experience with CUDA C/C++ and model optimization (TensorRT, ONNX)\n• Experience with data pipeline orchestration tools\n• Experience in tech lead or project coordination roles\nWe encourage candidates to apply even if they don't meet all of the above qualifications. We value skill and experience diversity — and most importantly, enthusiasm for building robust autonomous driving systems together."
+    },
+    "employment_type_raw": "全職",
+    "title": "[ACES Team] Senior Software Engineer - Computer Vision and Machine Learning"
+  },
+  "location": {
+    "address_raw": "新北市板橋區新站路16之1號24樓 (近板橋車站)",
+    "raw": "新北市板橋區新站路16之1號24樓 (近板橋車站)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "4年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "4年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "MLOPs",
+          "Python",
+          "tensorflow",
+          "C++",
+          "Computer Vision",
+          "PyTorch"
+        ],
+        "label": "擅長工具",
+        "text": "MLOPs、Python、tensorflow、C++、Computer Vision、PyTorch"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：4年以上\n學歷要求：大學以上\n擅長工具：MLOPs、Python、tensorflow、C++、Computer Vision、PyTorch",
+    "tools": [
+      "MLOPs",
+      "Python",
+      "tensorflow",
+      "C++",
+      "Computer Vision",
+      "PyTorch"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 17
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:03:37+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Computer Vision and Machine Learning is the key for autonomous driving vehicles to be equipped with the capability of understanding objects in the surrounding world. You will be working with the autonomous rapid transit team to build robust, scalable object recognition subsystems over images and point clouds—from data pipelines all the way to production deployment.\nResponsibilities\n• Design and maintain end-to-end MLOps pipelines — including data versioning, model training, experiment tracking, deployment, and monitoring in production environments\n• Research and implement transformer-based vision models (e.g., ViT, DETR, BEVFormer) to improve object recognition accuracy and stability\n• Collaborate cross-functionally with hardware, software, and safety teams; coordinate project timelines and communicate technical progress to stakeholders\n• Drive continuous improvement through model performance analysis and iterative experimentation\nQualifications\n• Fluent C++ programming skills; proficient in Python\n• BS or MS degree in Computer Science, Electrical Engineering, or related field\n• Familiar with camera imaging fundamentals and digital image processing theories\n• Experience with transformer-based architectures (Vision Transformer, DETR, or similar) and classic CNNs\n• Hands-on experience with MLOps practices — experiment tracking, model registry, CI/CD for ML, and production monitoring\n• Experience with training and performance tuning using PyTorch or TensorFlow\n• Experience with ROS/ROS2 infrastructure\n• Ability to manage project scope and deliverables, communicate status, and flag risks proactively\n• Good communication skills and ability to self-direct\nBonus Qualifications\n• Familiar with BEV (Bird's Eye View) perception models and multi-sensor fusion\n• Familiar with 3D pose estimation over point clouds or images\n• Experience with CUDA C/C++ and model optimization (TensorRT, ONNX)\n• Experience with data pipeline orchestration tools\n• Experience in tech lead or project coordination roles\nWe encourage candidates to apply even if they don't meet all of the above qualifications. We value skill and experience diversity — and most importantly, enthusiasm for building robust autonomous driving systems together.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區新站路16之1號24樓 (近板橋車站)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Computer Vision and Machine Learning is the key for autonomous driving vehicles to be equipped with the capability of understanding objects in the surrounding world. You will be working with the autonomous rapid transit team to build robust, scalable object recognition subsystems over images and point clouds—from data pipelines all the way to production deployment.\nResponsibilities\n• Design and maintain end-to-end MLOps pipelines — including data versioning, model training, experiment tracking, deployment, and monitoring in production environments\n• Research and implement transformer-based vision models (e.g., ViT, DETR, BEVFormer) to improve object recognition accuracy and stability\n• Collaborate cross-functionally with hardware, software, and safety teams; coordinate project timelines and communicate technical progress to stakeholders\n• Drive continuous improvement through model performance analysis and iterative experimentation\nQualifications\n• Fluent C++ programming skills; proficient in Python\n• BS or MS degree in Computer Science, Electrical Engineering, or related field\n• Familiar with camera imaging fundamentals and digital image processing theories\n• Experience with transformer-based architectures (Vision Transformer, DETR, or similar) and classic CNNs\n• Hands-on experience with MLOps practices — experiment tracking, model registry, CI/CD for ML, and production monitoring\n• Experience with training and performance tuning using PyTorch or TensorFlow\n• Experience with ROS/ROS2 infrastructure\n• Ability to manage project scope and deliverables, communicate status, and flag risks proactively\n• Good communication skills and ability to self-direct\nBonus Qualifications\n• Familiar with BEV (Bird's Eye View) perception models and multi-sensor fusion\n• Familiar with 3D pose estimation over point clouds or images\n• Experience with CUDA C/C++ and model optimization (TensorRT, ONNX)\n• Experience with data pipeline orchestration tools\n• Experience in tech lead or project coordination roles\nWe encourage candidates to apply even if they don't meet all of the above qualifications. We value skill and experience diversity — and most importantly, enthusiasm for building robust autonomous driving systems together."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "4年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MLOPs",
+            "Python",
+            "tensorflow",
+            "C++",
+            "Computer Vision",
+            "PyTorch"
+          ],
+          "label": "擅長工具",
+          "text": "MLOPs、Python、tensorflow、C++、Computer Vision、PyTorch",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：4年以上\n學歷要求：大學以上\n擅長工具：MLOPs、Python、tensorflow、C++、Computer Vision、PyTorch"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "918nz",
+    "job_url": "https://www.104.com.tw/job/918nz",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/918nz.json",
+    "raw_sha256": "9032b26a9caff77c043986edfb1626c469a94cdc4090358364a5d3df0595ec2e",
+    "requested_url": "https://www.104.com.tw/api/jobs/918nz"
+  }
+}

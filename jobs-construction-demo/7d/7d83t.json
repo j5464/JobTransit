@@ -1,0 +1,159 @@
+{
+  "company": {
+    "id": "1a2x6bl3ek",
+    "name": "LINE Bank_連線商業銀行股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟韌體測試工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "測試案例設計：根據產品需求規劃測試策略，獨立撰寫詳細的 Test Case 並執行功能測試、回歸測試。"
+        },
+        {
+          "children": [],
+          "text": "缺陷管理：負責 Bug 的生命週期管理，熟練使用 Bug Tracking 工具記錄問題，並與開發團隊協作追蹤修復進度。"
+        },
+        {
+          "children": [],
+          "text": "自動化建構：開發 App Automation 測試腳本（iOS/Android），提升回歸測試的效率與覆蓋率。"
+        },
+        {
+          "children": [],
+          "text": "跨團隊協作：與 PM、Developer 緊密合作，確保每個版本在發布前達到最高品質標準。"
+        }
+      ],
+      "text": "[About the role]\n我們正在尋找一名對品質有極高追求的 QA 工程師加入 LINE Bank 團隊。你將負責確保數位銀行服務的穩定性與可靠性，從需求分析、測試計畫制定、執行到自動化框架維護，全面把關產品上線品質。如果你熱衷於挖掘潛在 Bug 並透過技術手段提升測試效率，歡迎加入我們。\n[Responsibilities]\n1.測試案例設計：根據產品需求規劃測試策略，獨立撰寫詳細的 Test Case 並執行功能測試、回歸測試。\n2.缺陷管理：負責 Bug 的生命週期管理，熟練使用 Bug Tracking 工具記錄問題，並與開發團隊協作追蹤修復進度。\n3.自動化建構：開發 App Automation 測試腳本（iOS/Android），提升回歸測試的效率與覆蓋率。\n4.跨團隊協作：與 PM、Developer 緊密合作，確保每個版本在發布前達到最高品質標準。"
+    },
+    "employment_type_raw": "全職",
+    "title": "(LINE Bank) QA Engineer_軟體測試工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路333號3樓",
+    "raw": "台北市內湖區瑞光路333號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "[Qualifications]\n1. 2年以上專職軟體 QA 經驗。\n2. 測試案例結構化能力：能將複雜的業務邏輯轉化為結構化的 Test Case，確保測試覆蓋率完整。\n3. 熟悉 Bug Tracking 工具。\n4. 自動化經驗：具備 App 自動化測試經驗，熟悉 Appium。\n[Plus/加分項目]\n1.AI 驅動測試：有利用 AI 工具（如 GitHub Copilot）優化測試腳本撰寫、產生測試資料或提升測試效率的經驗。\n2.具備數位銀行、金流或金融 App 測試經驗者優先。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "[Qualifications]\n1. 2年以上專職軟體 QA 經驗。\n2. 測試案例結構化能力：能將複雜的業務邏輯轉化為結構化的 Test Case，確保測試覆蓋率完整。\n3. 熟悉 Bug Tracking 工具。\n4. 自動化經驗：具備 App 自動化測試經驗，熟悉 Appium。\n[Plus/加分項目]\n1.AI 驅動測試：有利用 AI 工具（如 GitHub Copilot）優化測試腳本撰寫、產生測試資料或提升測試效率的經驗。\n2.具備數位銀行、金流或金融 App 測試經驗者優先。",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n其他條件：[Qualifications]\n1. 2年以上專職軟體 QA 經驗。\n2. 測試案例結構化能力：能將複雜的業務邏輯轉化為結構化的 Test Case，確保測試覆蓋率完整。\n3. 熟悉 Bug Tracking 工具。\n4. 自動化經驗：具備 App 自動化測試經驗，熟悉 Appium。\n[Plus/加分項目]\n1.AI 驅動測試：有利用 AI 工具（如 GitHub Copilot）優化測試腳本撰寫、產生測試資料或提升測試效率的經驗。\n2.具備數位銀行、金流或金融 App 測試經驗者優先。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 12
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:50:59+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "[About the role]\n我們正在尋找一名對品質有極高追求的 QA 工程師加入 LINE Bank 團隊。你將負責確保數位銀行服務的穩定性與可靠性，從需求分析、測試計畫制定、執行到自動化框架維護，全面把關產品上線品質。如果你熱衷於挖掘潛在 Bug 並透過技術手段提升測試效率，歡迎加入我們。\n[Responsibilities]\n1.測試案例設計：根據產品需求規劃測試策略，獨立撰寫詳細的 Test Case 並執行功能測試、回歸測試。\n2.缺陷管理：負責 Bug 的生命週期管理，熟練使用 Bug Tracking 工具記錄問題，並與開發團隊協作追蹤修復進度。\n3.自動化建構：開發 App Automation 測試腳本（iOS/Android），提升回歸測試的效率與覆蓋率。\n4.跨團隊協作：與 PM、Developer 緊密合作，確保每個版本在發布前達到最高品質標準。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟韌體測試工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟韌體測試工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路333號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "[About the role]\n我們正在尋找一名對品質有極高追求的 QA 工程師加入 LINE Bank 團隊。你將負責確保數位銀行服務的穩定性與可靠性，從需求分析、測試計畫制定、執行到自動化框架維護，全面把關產品上線品質。如果你熱衷於挖掘潛在 Bug 並透過技術手段提升測試效率，歡迎加入我們。\n[Responsibilities]\n1.測試案例設計：根據產品需求規劃測試策略，獨立撰寫詳細的 Test Case 並執行功能測試、回歸測試。\n2.缺陷管理：負責 Bug 的生命週期管理，熟練使用 Bug Tracking 工具記錄問題，並與開發團隊協作追蹤修復進度。\n3.自動化建構：開發 App Automation 測試腳本（iOS/Android），提升回歸測試的效率與覆蓋率。\n4.跨團隊協作：與 PM、Developer 緊密合作，確保每個版本在發布前達到最高品質標準。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "[Qualifications]\n1. 2年以上專職軟體 QA 經驗。\n2. 測試案例結構化能力：能將複雜的業務邏輯轉化為結構化的 Test Case，確保測試覆蓋率完整。\n3. 熟悉 Bug Tracking 工具。\n4. 自動化經驗：具備 App 自動化測試經驗，熟悉 Appium。\n[Plus/加分項目]\n1.AI 驅動測試：有利用 AI 工具（如 GitHub Copilot）優化測試腳本撰寫、產生測試資料或提升測試效率的經驗。\n2.具備數位銀行、金流或金融 App 測試經驗者優先。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n其他條件：[Qualifications]\n1. 2年以上專職軟體 QA 經驗。\n2. 測試案例結構化能力：能將複雜的業務邏輯轉化為結構化的 Test Case，確保測試覆蓋率完整。\n3. 熟悉 Bug Tracking 工具。\n4. 自動化經驗：具備 App 自動化測試經驗，熟悉 Appium。\n[Plus/加分項目]\n1.AI 驅動測試：有利用 AI 工具（如 GitHub Copilot）優化測試腳本撰寫、產生測試資料或提升測試效率的經驗。\n2.具備數位銀行、金流或金融 App 測試經驗者優先。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7d83t",
+    "job_url": "https://www.104.com.tw/job/7d83t",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7d83t.json",
+    "raw_sha256": "b272ed69ea88e2d35a354669d5a27434e73624b0eacd15ec0a5f60cef604db8c",
+    "requested_url": "https://www.104.com.tw/api/jobs/7d83t"
+  }
+}

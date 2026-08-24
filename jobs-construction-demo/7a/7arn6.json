@@ -1,0 +1,239 @@
+{
+  "company": {
+    "id": "cifpbp4",
+    "name": "國泰綜合證券股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發與建置網站前後台及開發Web Api"
+        },
+        {
+          "children": [],
+          "text": "資料庫建置與規劃"
+        },
+        {
+          "children": [],
+          "text": "專案進行中與不同開發團隊針對需求、規格和測試的結果進行討論"
+        },
+        {
+          "children": [],
+          "text": "熟悉CSS、HTML、JavaScript、jQuery、AJAX、HTML5等開發技術"
+        },
+        {
+          "children": [],
+          "text": "熟悉ASP.NET、ASP.NET Core、C#、MS SQL"
+        },
+        {
+          "children": [],
+          "text": "具有SQL撰寫與優化經驗"
+        },
+        {
+          "children": [],
+          "text": "熟Git版控工具及CI/CD相關工具流程"
+        },
+        {
+          "children": [],
+          "text": "良好的表達能力，例: 具備獨立負責和跟進項目的經驗"
+        },
+        {
+          "children": [],
+          "text": "基於工作性質，需要具備學習能力和自我驅動意識，"
+        },
+        {
+          "children": [],
+          "text": "基於市場需求多樣與變動快速，需具備不怕犯錯的韌性與實驗精神，"
+        },
+        {
+          "children": [],
+          "text": "具備金融商品交易專案開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟.NET Core開發技術"
+        },
+        {
+          "children": [],
+          "text": "有敏捷團隊的經驗，了解敏捷開發的運作思維和流程"
+        }
+      ],
+      "text": "【工作內容】\n1. 開發與建置網站前後台及開發Web Api\n2. 資料庫建置與規劃\n3. 專案進行中與不同開發團隊針對需求、規格和測試的結果進行討論\n與問題排除\n【需求條件】\n1. 熟悉CSS、HTML、JavaScript、jQuery、AJAX、HTML5等開發技術\n2. 熟悉ASP.NET、ASP.NET Core、C#、MS SQL\n3. 具有SQL撰寫與優化經驗\n4. 熟Git版控工具及CI/CD相關工具流程\n5. 良好的表達能力，例: 具備獨立負責和跟進項目的經驗\n6. 基於工作性質，需要具備學習能力和自我驅動意識，\n能夠發現問題並解決問題\n7. 基於市場需求多樣與變動快速，需具備不怕犯錯的韌性與實驗精神，\n迅速從錯誤中學習下一次更好的經驗\n【加分條件】\n1. 具備金融商品交易專案開發經驗\n2. 熟.NET Core開發技術\n3. 有敏捷團隊的經驗，了解敏捷開發的運作思維和流程\n【你將收穫】\n你將會在一個具有開放文化、敏捷思維的工作環境中揮灑你的能力與創造力，除了將與一群熱情與專業的夥伴共事之外，你也將會汲取投資、數位金融知識、參與新產品孵化從無到有的過程，並在諸多專案當中貢獻、精進與成長。國證數位金融團隊，就是你的創業舞台 ! 期待你來大放異彩。\n※為招攬菁英人才，面試流程如下：\nstep1、請先投遞104人力銀行上之此職缺\nstep2、符合資格者，將邀請您至【國泰證券招募官網https://recruit.cathayholdings.com/】登錄履歷"
+    },
+    "employment_type_raw": "全職",
+    "title": "Internet 軟體工程師(數位開發部)"
+  },
+  "location": {
+    "address_raw": "台北市大安區敦化南路二段335號22樓",
+    "raw": "台北市大安區敦化南路二段335號22樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "Git",
+          "AJAX",
+          "ASP.NET",
+          "C#",
+          "MS SQL",
+          "HTML",
+          "JavaScript",
+          "XHTML",
+          "jQuery",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "Git、AJAX、ASP.NET、C#、MS SQL、HTML、JavaScript、XHTML、jQuery、CSS"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【本職缺歡迎身心障礙者投遞履歷】"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "【本職缺歡迎身心障礙者投遞履歷】",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n擅長工具：Git、AJAX、ASP.NET、C#、MS SQL、HTML、JavaScript、XHTML、jQuery、CSS\n其他條件：【本職缺歡迎身心障礙者投遞履歷】",
+    "tools": [
+      "Git",
+      "AJAX",
+      "ASP.NET",
+      "C#",
+      "MS SQL",
+      "HTML",
+      "JavaScript",
+      "XHTML",
+      "jQuery",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 33
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:44:42+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 開發與建置網站前後台及開發Web Api\n2. 資料庫建置與規劃\n3. 專案進行中與不同開發團隊針對需求、規格和測試的結果進行討論\n與問題排除\n【需求條件】\n1. 熟悉CSS、HTML、JavaScript、jQuery、AJAX、HTML5等開發技術\n2. 熟悉ASP.NET、ASP.NET Core、C#、MS SQL\n3. 具有SQL撰寫與優化經驗\n4. 熟Git版控工具及CI/CD相關工具流程\n5. 良好的表達能力，例: 具備獨立負責和跟進項目的經驗\n6. 基於工作性質，需要具備學習能力和自我驅動意識，\n能夠發現問題並解決問題\n7. 基於市場需求多樣與變動快速，需具備不怕犯錯的韌性與實驗精神，\n迅速從錯誤中學習下一次更好的經驗\n【加分條件】\n1. 具備金融商品交易專案開發經驗\n2. 熟.NET Core開發技術\n3. 有敏捷團隊的經驗，了解敏捷開發的運作思維和流程\n【你將收穫】\n你將會在一個具有開放文化、敏捷思維的工作環境中揮灑你的能力與創造力，除了將與一群熱情與專業的夥伴共事之外，你也將會汲取投資、數位金融知識、參與新產品孵化從無到有的過程，並在諸多專案當中貢獻、精進與成長。國證數位金融團隊，就是你的創業舞台 ! 期待你來大放異彩。\n※為招攬菁英人才，面試流程如下：\nstep1、請先投遞104人力銀行上之此職缺\nstep2、符合資格者，將邀請您至【國泰證券招募官網https://recruit.cathayholdings.com/】登錄履歷",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區敦化南路二段335號22樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 開發與建置網站前後台及開發Web Api\n2. 資料庫建置與規劃\n3. 專案進行中與不同開發團隊針對需求、規格和測試的結果進行討論\n與問題排除\n【需求條件】\n1. 熟悉CSS、HTML、JavaScript、jQuery、AJAX、HTML5等開發技術\n2. 熟悉ASP.NET、ASP.NET Core、C#、MS SQL\n3. 具有SQL撰寫與優化經驗\n4. 熟Git版控工具及CI/CD相關工具流程\n5. 良好的表達能力，例: 具備獨立負責和跟進項目的經驗\n6. 基於工作性質，需要具備學習能力和自我驅動意識，\n能夠發現問題並解決問題\n7. 基於市場需求多樣與變動快速，需具備不怕犯錯的韌性與實驗精神，\n迅速從錯誤中學習下一次更好的經驗\n【加分條件】\n1. 具備金融商品交易專案開發經驗\n2. 熟.NET Core開發技術\n3. 有敏捷團隊的經驗，了解敏捷開發的運作思維和流程\n【你將收穫】\n你將會在一個具有開放文化、敏捷思維的工作環境中揮灑你的能力與創造力，除了將與一群熱情與專業的夥伴共事之外，你也將會汲取投資、數位金融知識、參與新產品孵化從無到有的過程，並在諸多專案當中貢獻、精進與成長。國證數位金融團隊，就是你的創業舞台 ! 期待你來大放異彩。\n※為招攬菁英人才，面試流程如下：\nstep1、請先投遞104人力銀行上之此職缺\nstep2、符合資格者，將邀請您至【國泰證券招募官網https://recruit.cathayholdings.com/】登錄履歷"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "AJAX",
+            "ASP.NET",
+            "C#",
+            "MS SQL",
+            "HTML",
+            "JavaScript",
+            "XHTML",
+            "jQuery",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "Git、AJAX、ASP.NET、C#、MS SQL、HTML、JavaScript、XHTML、jQuery、CSS",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【本職缺歡迎身心障礙者投遞履歷】",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n擅長工具：Git、AJAX、ASP.NET、C#、MS SQL、HTML、JavaScript、XHTML、jQuery、CSS\n其他條件：【本職缺歡迎身心障礙者投遞履歷】"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7arn6",
+    "job_url": "https://www.104.com.tw/job/7arn6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7arn6.json",
+    "raw_sha256": "6c03c5c897816d740b97bc49a76916294d9260989a3791b63146ee4b35d2559c",
+    "requested_url": "https://www.104.com.tw/api/jobs/7arn6"
+  }
+}

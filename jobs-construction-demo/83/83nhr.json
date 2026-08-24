@@ -1,0 +1,222 @@
+{
+  "company": {
+    "id": "1a2x6bi64y",
+    "name": "遊悅科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "遊戲工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Implement core features in mobile games"
+        },
+        {
+          "children": [],
+          "text": "Work closely with production team to ship games with world-class polish"
+        },
+        {
+          "children": [],
+          "text": "Test your own and your peer’s code"
+        },
+        {
+          "children": [],
+          "text": "Write good code using world-class engineering practices"
+        }
+      ],
+      "text": "• Implement core features in mobile games\n• Work closely with production team to ship games with world-class polish\n• Test your own and your peer’s code\n• Write good code using world-class engineering practices"
+    },
+    "employment_type_raw": "全職",
+    "title": "Junior遊戲開發工程師"
+  },
+  "location": {
+    "address_raw": "新北市永和區永和路二段57號9樓",
+    "raw": "新北市永和區永和路二段57號9樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "C++",
+          "Unity"
+        ],
+        "label": "擅長工具",
+        "text": "C#、C++、Unity"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "• Experience in ANY of the following: C++, C#\n• Passion for software and gaming\n• Strong problem solving skills and self-motivation\n• Both entry level and experienced applicants are welcome\n• Willing to \"WORK HARD\""
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "• Experience in ANY of the following: C++, C#\n• Passion for software and gaming\n• Strong problem solving skills and self-motivation\n• Both entry level and experienced applicants are welcome\n• Willing to \"WORK HARD\"",
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、C++、Unity\n工作技能：系統架構規劃、系統整合分析、軟體程式設計\n其他條件：• Experience in ANY of the following: C++, C#\n• Passion for software and gaming\n• Strong problem solving skills and self-motivation\n• Both entry level and experienced applicants are welcome\n• Willing to \"WORK HARD\"",
+    "tools": [
+      "C#",
+      "C++",
+      "Unity"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 29
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:32:49+08:00"
+  },
+  "salary": {
+    "raw": "月薪38,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "• Implement core features in mobile games\n• Work closely with production team to ship games with world-class polish\n• Test your own and your peer’s code\n• Write good code using world-class engineering practices",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "遊戲工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "遊戲工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪38,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市永和區永和路二段57號9樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "• Implement core features in mobile games\n• Work closely with production team to ship games with world-class polish\n• Test your own and your peer’s code\n• Write good code using world-class engineering practices"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "C++",
+            "Unity"
+          ],
+          "label": "擅長工具",
+          "text": "C#、C++、Unity",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "• Experience in ANY of the following: C++, C#\n• Passion for software and gaming\n• Strong problem solving skills and self-motivation\n• Both entry level and experienced applicants are welcome\n• Willing to \"WORK HARD\"",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、C++、Unity\n工作技能：系統架構規劃、系統整合分析、軟體程式設計\n其他條件：• Experience in ANY of the following: C++, C#\n• Passion for software and gaming\n• Strong problem solving skills and self-motivation\n• Both entry level and experienced applicants are welcome\n• Willing to \"WORK HARD\""
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "83nhr",
+    "job_url": "https://www.104.com.tw/job/83nhr",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/83nhr.json",
+    "raw_sha256": "80a3f5da99d06de14ea9665d02562610c131e0e6d000dfe1625a39381e57982e",
+    "requested_url": "https://www.104.com.tw/api/jobs/83nhr"
+  }
+}

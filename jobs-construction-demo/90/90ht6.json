@@ -1,0 +1,188 @@
+{
+  "company": {
+    "id": "1a2x6bms4k",
+    "name": "艾美斯科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "機器學習工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "我們正在尋找一位 AI應用工程師，負責將大型語言模型（LLM）導入實際產品，設計與優化AI應用，讓AI真正落地並創造價值。\n工作內容：\n設計與優化 Prompt（提示詞），提升AI回應品質與穩定性\n將 LLM（大型語言模型） 應用於產品功能或內部流程\n評估模型輸出品質，進行測試與優化\n建立與維護AI應用相關流程（如資料整理、測試機制）\n與跨部門團隊合作推動 AI 專案"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI應用工程師(AI Application Engineer)"
+  },
+  "location": {
+    "address_raw": "台北市松山區東興路26號15樓",
+    "raw": "台北市松山區東興路26號15樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "LLM",
+          "Python",
+          "ChatGPT"
+        ],
+        "label": "擅長工具",
+        "text": "LLM、Python、ChatGPT"
+      },
+      {
+        "items": [
+          "AI",
+          "語言模型",
+          "深度學習"
+        ],
+        "label": "工作技能",
+        "text": "AI、語言模型、深度學習"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【必要條件】\n熟悉 ChatGPT / LLM 應用（如 prompt 設計、AI工具使用）\n具備基本程式能力（Python / API串接尤佳）\n對AI應用有高度興趣，願意持續嘗試與優化\n邏輯清晰，能分析問題並提出解決方案\n有跨部門溝通能力\n【加分條件】\n有實際AI應用或自動化專案經驗\n熟悉 OpenAI / LangChain / RAG 架構"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "【必要條件】\n熟悉 ChatGPT / LLM 應用（如 prompt 設計、AI工具使用）\n具備基本程式能力（Python / API串接尤佳）\n對AI應用有高度興趣，願意持續嘗試與優化\n邏輯清晰，能分析問題並提出解決方案\n有跨部門溝通能力\n【加分條件】\n有實際AI應用或自動化專案經驗\n熟悉 OpenAI / LangChain / RAG 架構",
+    "skills": [
+      "AI",
+      "語言模型",
+      "深度學習"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學\n擅長工具：LLM、Python、ChatGPT\n工作技能：AI、語言模型、深度學習\n其他條件：【必要條件】\n熟悉 ChatGPT / LLM 應用（如 prompt 設計、AI工具使用）\n具備基本程式能力（Python / API串接尤佳）\n對AI應用有高度興趣，願意持續嘗試與優化\n邏輯清晰，能分析問題並提出解決方案\n有跨部門溝通能力\n【加分條件】\n有實際AI應用或自動化專案經驗\n熟悉 OpenAI / LangChain / RAG 架構",
+    "tools": [
+      "LLM",
+      "Python",
+      "ChatGPT"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 67
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:07:27+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們正在尋找一位 AI應用工程師，負責將大型語言模型（LLM）導入實際產品，設計與優化AI應用，讓AI真正落地並創造價值。\n工作內容：\n設計與優化 Prompt（提示詞），提升AI回應品質與穩定性\n將 LLM（大型語言模型） 應用於產品功能或內部流程\n評估模型輸出品質，進行測試與優化\n建立與維護AI應用相關流程（如資料整理、測試機制）\n與跨部門團隊合作推動 AI 專案",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "機器學習工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、機器學習工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區東興路26號15樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們正在尋找一位 AI應用工程師，負責將大型語言模型（LLM）導入實際產品，設計與優化AI應用，讓AI真正落地並創造價值。\n工作內容：\n設計與優化 Prompt（提示詞），提升AI回應品質與穩定性\n將 LLM（大型語言模型） 應用於產品功能或內部流程\n評估模型輸出品質，進行測試與優化\n建立與維護AI應用相關流程（如資料整理、測試機制）\n與跨部門團隊合作推動 AI 專案"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "LLM",
+            "Python",
+            "ChatGPT"
+          ],
+          "label": "擅長工具",
+          "text": "LLM、Python、ChatGPT",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "語言模型",
+            "深度學習"
+          ],
+          "label": "工作技能",
+          "text": "AI、語言模型、深度學習",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【必要條件】\n熟悉 ChatGPT / LLM 應用（如 prompt 設計、AI工具使用）\n具備基本程式能力（Python / API串接尤佳）\n對AI應用有高度興趣，願意持續嘗試與優化\n邏輯清晰，能分析問題並提出解決方案\n有跨部門溝通能力\n【加分條件】\n有實際AI應用或自動化專案經驗\n熟悉 OpenAI / LangChain / RAG 架構",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學\n擅長工具：LLM、Python、ChatGPT\n工作技能：AI、語言模型、深度學習\n其他條件：【必要條件】\n熟悉 ChatGPT / LLM 應用（如 prompt 設計、AI工具使用）\n具備基本程式能力（Python / API串接尤佳）\n對AI應用有高度興趣，願意持續嘗試與優化\n邏輯清晰，能分析問題並提出解決方案\n有跨部門溝通能力\n【加分條件】\n有實際AI應用或自動化專案經驗\n熟悉 OpenAI / LangChain / RAG 架構"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "90ht6",
+    "job_url": "https://www.104.com.tw/job/90ht6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90ht6.json",
+    "raw_sha256": "e1ede2968250a5d3e76a795e6c9e9139fff76823493b4575e551d6ef7d636219",
+    "requested_url": "https://www.104.com.tw/api/jobs/90ht6"
+  }
+}

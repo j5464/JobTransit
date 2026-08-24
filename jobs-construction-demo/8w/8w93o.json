@@ -1,0 +1,267 @@
+{
+  "company": {
+    "id": "1a2x6bkirw",
+    "name": "杰倫智能科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "FAE工程師",
+      "產品售後技術服務"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助排查與處理 AutoML 平台的操作問題與系統異常"
+        },
+        {
+          "children": [],
+          "text": "協助客戶進行基本環境設定與部署指引（Windows / Linux）"
+        },
+        {
+          "children": [],
+          "text": "回覆 AI/ML 相關基礎應用問題，協助客戶理解模型結果"
+        },
+        {
+          "children": [],
+          "text": "協助整理問題回報資訊，與研發團隊合作追蹤問題進度"
+        },
+        {
+          "children": [],
+          "text": "撰寫或更新操作文件與常見問題說明"
+        },
+        {
+          "children": [],
+          "text": "具備基礎 IT 知識"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Windows 或 Linux 基本操作"
+        },
+        {
+          "children": [],
+          "text": "能閱讀簡單 Log 訊息"
+        },
+        {
+          "children": [],
+          "text": "了解 API 與 HTTP 基本概念"
+        },
+        {
+          "children": [],
+          "text": "對資料與 AI 有興趣"
+        },
+        {
+          "children": [],
+          "text": "理解基本機器學習概念（例如訓練 / 預測流程）"
+        },
+        {
+          "children": [],
+          "text": "了解常見評估指標（Accuracy、MAE 等）"
+        },
+        {
+          "children": [],
+          "text": "具備基本問題分析能力"
+        },
+        {
+          "children": [],
+          "text": "能清楚描述問題現象"
+        },
+        {
+          "children": [],
+          "text": "願意主動查找資料與學習"
+        },
+        {
+          "children": [],
+          "text": "良好的溝通能力"
+        },
+        {
+          "children": [],
+          "text": "能將技術問題轉化為易懂說明"
+        },
+        {
+          "children": [],
+          "text": "能與不同角色合作（業務 / RD）"
+        },
+        {
+          "children": [],
+          "text": "具備 Python 基礎或程式閱讀能力"
+        },
+        {
+          "children": [],
+          "text": "有使用 Docker 或 Postman 經驗"
+        },
+        {
+          "children": [],
+          "text": "曾參與 AI / 數據分析課程或專案"
+        },
+        {
+          "children": [],
+          "text": "有客服或技術支援經驗"
+        }
+      ],
+      "text": "工作內容\n- 協助排查與處理 AutoML 平台的操作問題與系統異常\n- 協助客戶進行基本環境設定與部署指引（Windows / Linux）\n- 回覆 AI/ML 相關基礎應用問題，協助客戶理解模型結果\n- 協助整理問題回報資訊，與研發團隊合作追蹤問題進度\n- 撰寫或更新操作文件與常見問題說明\n基本要求\n- 具備基礎 IT 知識\n- 熟悉 Windows 或 Linux 基本操作\n- 能閱讀簡單 Log 訊息\n- 了解 API 與 HTTP 基本概念\n- 對資料與 AI 有興趣\n- 理解基本機器學習概念（例如訓練 / 預測流程）\n- 了解常見評估指標（Accuracy、MAE 等）\n- 具備基本問題分析能力\n- 能清楚描述問題現象\n- 願意主動查找資料與學習\n- 良好的溝通能力\n- 能將技術問題轉化為易懂說明\n- 能與不同角色合作（業務 / RD）\n加分項目\n- 具備 Python 基礎或程式閱讀能力\n- 有使用 Docker 或 Postman 經驗\n- 曾參與 AI / 數據分析課程或專案\n- 有客服或技術支援經驗"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI/機器學習平台技術服務工程師｜ AI/ML TechSupport Engineer"
+  },
+  "location": {
+    "address_raw": "台北市信義區基隆路一段111號3樓",
+    "raw": "台北市信義區基隆路一段111號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "面試時請準備能展現自己程式實作或解決問題能力的作品"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "面試時請準備能展現自己程式實作或解決問題能力的作品",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python\n其他條件：面試時請準備能展現自己程式實作或解決問題能力的作品",
+    "tools": [
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 31
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:39:15+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作內容\n- 協助排查與處理 AutoML 平台的操作問題與系統異常\n- 協助客戶進行基本環境設定與部署指引（Windows / Linux）\n- 回覆 AI/ML 相關基礎應用問題，協助客戶理解模型結果\n- 協助整理問題回報資訊，與研發團隊合作追蹤問題進度\n- 撰寫或更新操作文件與常見問題說明\n基本要求\n- 具備基礎 IT 知識\n- 熟悉 Windows 或 Linux 基本操作\n- 能閱讀簡單 Log 訊息\n- 了解 API 與 HTTP 基本概念\n- 對資料與 AI 有興趣\n- 理解基本機器學習概念（例如訓練 / 預測流程）\n- 了解常見評估指標（Accuracy、MAE 等）\n- 具備基本問題分析能力\n- 能清楚描述問題現象\n- 願意主動查找資料與學習\n- 良好的溝通能力\n- 能將技術問題轉化為易懂說明\n- 能與不同角色合作（業務 / RD）\n加分項目\n- 具備 Python 基礎或程式閱讀能力\n- 有使用 Docker 或 Postman 經驗\n- 曾參與 AI / 數據分析課程或專案\n- 有客服或技術支援經驗",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "FAE工程師",
+            "產品售後技術服務"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、FAE工程師、產品售後技術服務",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區基隆路一段111號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作內容\n- 協助排查與處理 AutoML 平台的操作問題與系統異常\n- 協助客戶進行基本環境設定與部署指引（Windows / Linux）\n- 回覆 AI/ML 相關基礎應用問題，協助客戶理解模型結果\n- 協助整理問題回報資訊，與研發團隊合作追蹤問題進度\n- 撰寫或更新操作文件與常見問題說明\n基本要求\n- 具備基礎 IT 知識\n- 熟悉 Windows 或 Linux 基本操作\n- 能閱讀簡單 Log 訊息\n- 了解 API 與 HTTP 基本概念\n- 對資料與 AI 有興趣\n- 理解基本機器學習概念（例如訓練 / 預測流程）\n- 了解常見評估指標（Accuracy、MAE 等）\n- 具備基本問題分析能力\n- 能清楚描述問題現象\n- 願意主動查找資料與學習\n- 良好的溝通能力\n- 能將技術問題轉化為易懂說明\n- 能與不同角色合作（業務 / RD）\n加分項目\n- 具備 Python 基礎或程式閱讀能力\n- 有使用 Docker 或 Postman 經驗\n- 曾參與 AI / 數據分析課程或專案\n- 有客服或技術支援經驗"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "面試時請準備能展現自己程式實作或解決問題能力的作品",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python\n其他條件：面試時請準備能展現自己程式實作或解決問題能力的作品"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8w93o",
+    "job_url": "https://www.104.com.tw/job/8w93o",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8w93o.json",
+    "raw_sha256": "8b26fc024151a3e32325e56a9fb7e588c4b0df844dd914d331e23549fc039664",
+    "requested_url": "https://www.104.com.tw/api/jobs/8w93o"
+  }
+}

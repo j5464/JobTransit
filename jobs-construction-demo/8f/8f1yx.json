@@ -1,0 +1,181 @@
+{
+  "company": {
+    "id": "am935lk",
+    "name": "永豐金證券股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "交易系統前、後端程式開發與設計"
+        },
+        {
+          "children": [],
+          "text": "網頁爬蟲、交易相關 API 程式撰寫與串接"
+        },
+        {
+          "children": [],
+          "text": "交易系統維運及問題追蹤處理"
+        }
+      ],
+      "text": "1. 交易系統前、後端程式開發與設計\n2. 網頁爬蟲、交易相關 API 程式撰寫與串接\n3. 交易系統維運及問題追蹤處理\n歡迎對金融領域系統開發有興趣的菁英加入~"
+    },
+    "employment_type_raw": "全職",
+    "title": "金融交易系統-設計開發工程師(支援系統部)"
+  },
+  "location": {
+    "address_raw": "新北市板橋區縣民大道二段(板橋火車站對面)",
+    "raw": "新北市板橋區縣民大道二段(板橋火車站對面)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Linux",
+          "C#",
+          "C++",
+          "WinForm"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、C#、C++、WinForm"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具2年以上C# Winform/Wpf or Linux C++ 程式開發經驗\n2. 具備系統專案開發經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 具2年以上C# Winform/Wpf or Linux C++ 程式開發經驗\n2. 具備系統專案開發經驗",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：Linux、C#、C++、WinForm\n其他條件：1. 具2年以上C# Winform/Wpf or Linux C++ 程式開發經驗\n2. 具備系統專案開發經驗",
+    "tools": [
+      "Linux",
+      "C#",
+      "C++",
+      "WinForm"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:58:39+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 交易系統前、後端程式開發與設計\n2. 網頁爬蟲、交易相關 API 程式撰寫與串接\n3. 交易系統維運及問題追蹤處理\n歡迎對金融領域系統開發有興趣的菁英加入~",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區縣民大道二段(板橋火車站對面)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 交易系統前、後端程式開發與設計\n2. 網頁爬蟲、交易相關 API 程式撰寫與串接\n3. 交易系統維運及問題追蹤處理\n歡迎對金融領域系統開發有興趣的菁英加入~"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "C#",
+            "C++",
+            "WinForm"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、C#、C++、WinForm",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具2年以上C# Winform/Wpf or Linux C++ 程式開發經驗\n2. 具備系統專案開發經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：Linux、C#、C++、WinForm\n其他條件：1. 具2年以上C# Winform/Wpf or Linux C++ 程式開發經驗\n2. 具備系統專案開發經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8f1yx",
+    "job_url": "https://www.104.com.tw/job/8f1yx",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8f1yx.json",
+    "raw_sha256": "4c35653163f405a8195c8f24e348e2b0fce2135dbb6401af614a318c6921f7d6",
+    "requested_url": "https://www.104.com.tw/api/jobs/8f1yx"
+  }
+}

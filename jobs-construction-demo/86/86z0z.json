@@ -1,0 +1,133 @@
+{
+  "company": {
+    "id": "1a2x6blwqu",
+    "name": "宇數科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "電話客服",
+      "客服工程師",
+      "資訊助理"
+    ],
+    "description": {
+      "items": [],
+      "text": "專門提供『好學科技職業訓練中心』學員履歷投遞應徵專區，將有專人提供就業服務。"
+    },
+    "employment_type_raw": "全職",
+    "title": "服務人員-好學科技職訓中心-履歷投遞專區"
+  },
+  "location": {
+    "address_raw": "桃園市桃園區富國路",
+    "raw": "桃園市桃園區富國路"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：高中以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 57
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:42:27+08:00"
+  },
+  "salary": {
+    "raw": "月薪29,500~34,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "專門提供『好學科技職業訓練中心』學員履歷投遞應徵專區，將有專人提供就業服務。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "電話客服",
+            "客服工程師",
+            "資訊助理"
+          ],
+          "label": "職務類別",
+          "text": "電話客服、客服工程師、資訊助理",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪29,500~34,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市桃園區富國路",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "專門提供『好學科技職業訓練中心』學員履歷投遞應徵專區，將有專人提供就業服務。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：高中以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "86z0z",
+    "job_url": "https://www.104.com.tw/job/86z0z",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/86z0z.json",
+    "raw_sha256": "2ea83c87c8bd9cddd8b48f63bc4579d2c9cbb030b67fe404c64b7499bcb7eeb7",
+    "requested_url": "https://www.104.com.tw/api/jobs/86z0z"
+  }
+}

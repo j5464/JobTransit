@@ -1,0 +1,265 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "系統介接與開發： 設計、開發與維護企業middleware，實現不同系統間的 API 與數據整合。"
+        },
+        {
+          "children": [],
+          "text": "EDI 與供應鏈對接： 負責與外部客戶或供應商建立連線，產出並交換EDI，確保需求數據傳遞無誤。"
+        },
+        {
+          "children": [],
+          "text": "架構規劃與優化：評估引進新系統架構，持續進行效能調優與伺服器日常維護。"
+        },
+        {
+          "children": [],
+          "text": "技術文件撰寫： 編製系統整合邏輯圖、接口文件及標準作業程序。"
+        },
+        {
+          "children": [],
+          "text": "跨部門協作： 與內部維運團隊及外部供應商配合，進行問題排查與系統升級。"
+        },
+        {
+          "children": [],
+          "text": "Middleware經驗： 熟悉 SAP PI/PO、webMethods 或Tibco 等整合平台開發，或企業自行開發的middleware平台。"
+        },
+        {
+          "children": [],
+          "text": "傳輸協定： 精通 RESTful API, SOAP, sFTP, AS2 等通訊協定，並具備 XML, JSON 數據轉換能力。"
+        },
+        {
+          "children": [],
+          "text": "資料庫與系統： 具備 SQL 查詢能力，熟悉資料結構分析設計與資料庫運用，熟悉 Linux /Windows伺服器與Java AP管理運維。"
+        },
+        {
+          "children": [],
+          "text": "專案經驗： 具備 ERP整合經驗，或有處理 EDI 標準格式之實務經驗者佳。"
+        }
+      ],
+      "text": "主要職責：\n•系統介接與開發： 設計、開發與維護企業middleware，實現不同系統間的 API 與數據整合。\n•EDI 與供應鏈對接： 負責與外部客戶或供應商建立連線，產出並交換EDI，確保需求數據傳遞無誤。\n•架構規劃與優化：評估引進新系統架構，持續進行效能調優與伺服器日常維護。\n•技術文件撰寫： 編製系統整合邏輯圖、接口文件及標準作業程序。\n•跨部門協作： 與內部維運團隊及外部供應商配合，進行問題排查與系統升級。\n需求條件：\n•Middleware經驗： 熟悉 SAP PI/PO、webMethods 或Tibco 等整合平台開發，或企業自行開發的middleware平台。\n•傳輸協定： 精通 RESTful API, SOAP, sFTP, AS2 等通訊協定，並具備 XML, JSON 數據轉換能力。\n•資料庫與系統： 具備 SQL 查詢能力，熟悉資料結構分析設計與資料庫運用，熟悉 Linux /Windows伺服器與Java AP管理運維。\n•專案經驗： 具備 ERP整合經驗，或有處理 EDI 標準格式之實務經驗者佳。"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統整合開發工程師_先進技術暨應用_資訊處(內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號(台北)",
+    "raw": "台北市內湖區瑞光路186號(台北)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "EDI",
+          "SOAP",
+          "SAP"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、EDI、SOAP、SAP"
+      },
+      {
+        "items": [
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析、軟體工程系統開發、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分項目：\n•具備大型系統遷移、HA 架構設計或負載平衡建置經驗。\n•熟 Java程式語言。\n•具備良好的邏輯思維與問題解決能力，能在壓力下準確判斷異常原因。\n•具備SAP ERP系統分析及程式設計經驗。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "加分項目：\n•具備大型系統遷移、HA 架構設計或負載平衡建置經驗。\n•熟 Java程式語言。\n•具備良好的邏輯思維與問題解決能力，能在壓力下準確判斷異常原因。\n•具備SAP ERP系統分析及程式設計經驗。",
+    "skills": [
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、EDI、SOAP、SAP\n工作技能：系統整合分析、軟體工程系統開發、軟體程式設計\n其他條件：加分項目：\n•具備大型系統遷移、HA 架構設計或負載平衡建置經驗。\n•熟 Java程式語言。\n•具備良好的邏輯思維與問題解決能力，能在壓力下準確判斷異常原因。\n•具備SAP ERP系統分析及程式設計經驗。",
+    "tools": [
+      "Linux",
+      "EDI",
+      "SOAP",
+      "SAP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 69
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:12:35+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "主要職責：\n•系統介接與開發： 設計、開發與維護企業middleware，實現不同系統間的 API 與數據整合。\n•EDI 與供應鏈對接： 負責與外部客戶或供應商建立連線，產出並交換EDI，確保需求數據傳遞無誤。\n•架構規劃與優化：評估引進新系統架構，持續進行效能調優與伺服器日常維護。\n•技術文件撰寫： 編製系統整合邏輯圖、接口文件及標準作業程序。\n•跨部門協作： 與內部維運團隊及外部供應商配合，進行問題排查與系統升級。\n需求條件：\n•Middleware經驗： 熟悉 SAP PI/PO、webMethods 或Tibco 等整合平台開發，或企業自行開發的middleware平台。\n•傳輸協定： 精通 RESTful API, SOAP, sFTP, AS2 等通訊協定，並具備 XML, JSON 數據轉換能力。\n•資料庫與系統： 具備 SQL 查詢能力，熟悉資料結構分析設計與資料庫運用，熟悉 Linux /Windows伺服器與Java AP管理運維。\n•專案經驗： 具備 ERP整合經驗，或有處理 EDI 標準格式之實務經驗者佳。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號(台北)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "主要職責：\n•系統介接與開發： 設計、開發與維護企業middleware，實現不同系統間的 API 與數據整合。\n•EDI 與供應鏈對接： 負責與外部客戶或供應商建立連線，產出並交換EDI，確保需求數據傳遞無誤。\n•架構規劃與優化：評估引進新系統架構，持續進行效能調優與伺服器日常維護。\n•技術文件撰寫： 編製系統整合邏輯圖、接口文件及標準作業程序。\n•跨部門協作： 與內部維運團隊及外部供應商配合，進行問題排查與系統升級。\n需求條件：\n•Middleware經驗： 熟悉 SAP PI/PO、webMethods 或Tibco 等整合平台開發，或企業自行開發的middleware平台。\n•傳輸協定： 精通 RESTful API, SOAP, sFTP, AS2 等通訊協定，並具備 XML, JSON 數據轉換能力。\n•資料庫與系統： 具備 SQL 查詢能力，熟悉資料結構分析設計與資料庫運用，熟悉 Linux /Windows伺服器與Java AP管理運維。\n•專案經驗： 具備 ERP整合經驗，或有處理 EDI 標準格式之實務經驗者佳。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "EDI",
+            "SOAP",
+            "SAP"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、EDI、SOAP、SAP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析、軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分項目：\n•具備大型系統遷移、HA 架構設計或負載平衡建置經驗。\n•熟 Java程式語言。\n•具備良好的邏輯思維與問題解決能力，能在壓力下準確判斷異常原因。\n•具備SAP ERP系統分析及程式設計經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、EDI、SOAP、SAP\n工作技能：系統整合分析、軟體工程系統開發、軟體程式設計\n其他條件：加分項目：\n•具備大型系統遷移、HA 架構設計或負載平衡建置經驗。\n•熟 Java程式語言。\n•具備良好的邏輯思維與問題解決能力，能在壓力下準確判斷異常原因。\n•具備SAP ERP系統分析及程式設計經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8l8w4",
+    "job_url": "https://www.104.com.tw/job/8l8w4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8l8w4.json",
+    "raw_sha256": "fae54d314b3c03e052d9c71a65fdec8b46502b9caf36c7d93da281bdc9bb03d9",
+    "requested_url": "https://www.104.com.tw/api/jobs/8l8w4"
+  }
+}

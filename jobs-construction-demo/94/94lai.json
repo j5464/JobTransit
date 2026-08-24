@@ -1,0 +1,293 @@
+{
+  "company": {
+    "id": "12noi188",
+    "name": "美商_科林研發股份有限公司_Lam Research"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Design and develop new software system for next generation of products."
+        },
+        {
+          "children": [],
+          "text": "Implement new customer requirements and features on existing products."
+        },
+        {
+          "children": [],
+          "text": "Analysis and troubleshooting for the most challenging issue of tool."
+        },
+        {
+          "children": [],
+          "text": "Might visit customer site for support and oversea travel (waring PPE, less than 5%)."
+        },
+        {
+          "children": [],
+          "text": "MS in computer science or equivalent experience."
+        },
+        {
+          "children": [],
+          "text": "New graduates are qualified when you have master’s degree in computer science."
+        },
+        {
+          "children": [],
+          "text": "3 years’ relevant experience in software development if you do not have MS degree in CS."
+        },
+        {
+          "children": [],
+          "text": "At least familiar one of language (C++, C#, Java, Python or Smalltalk ..etc)."
+        },
+        {
+          "children": [],
+          "text": "Object-oriented programming (OOP)."
+        },
+        {
+          "children": [],
+          "text": "Good coding structure concept."
+        },
+        {
+          "children": [],
+          "text": "Effective communication capability and English reading/writing/communication skill."
+        }
+      ],
+      "text": "The group you will be a part of\nIn the Global Products Group; we are dedicated to excellence in the design and engineering of Lam’s etch and deposition products.\nWhat you will do:\n- Design and develop new software system for next generation of products.\n- Implement new customer requirements and features on existing products.\n- Analysis and troubleshooting for the most challenging issue of tool.\n- Might visit customer site for support and oversea travel (waring PPE, less than 5%).\nMinimum Qualifications:\n- MS in computer science or equivalent experience.\n- New graduates are qualified when you have master’s degree in computer science.\n- 3 years’ relevant experience in software development if you do not have MS degree in CS.\n- At least familiar one of language (C++, C#, Java, Python or Smalltalk ..etc).\nPreferred qualifications:\n- Object-oriented programming (OOP).\n- Good coding structure concept.\n- Effective communication capability and English reading/writing/communication skill.\nSemiconductor experience preferred."
+    },
+    "employment_type_raw": "全職",
+    "title": "Software Engineer 2"
+  },
+  "location": {
+    "address_raw": "新竹市東區公道五路三段1號8F-1",
+    "raw": "新竹市東區公道五路三段1號8F-1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "C#",
+          "C++",
+          "Java",
+          "Python",
+          "Smalltalk",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "C#、C++、Java、Python、Smalltalk、JavaScript"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "模組化系統設計",
+          "系統整合分析",
+          "軟體整合測試",
+          "功能測試(function test)",
+          "結構化程式設計",
+          "問題追蹤處理(Bug tracking)",
+          "軟體品質與保證",
+          "系統架構規劃",
+          "系統維護操作",
+          "機器學習演算法",
+          "測試環境建置規劃"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發、模組化系統設計、系統整合分析、軟體整合測試、功能測試(function test)、結構化程式設計、問題追蹤處理(Bug tracking)、軟體品質與保證、系統架構規劃、系統維護操作、機器學習演算法、測試環境建置規劃"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "模組化系統設計",
+      "系統整合分析",
+      "軟體整合測試",
+      "功能測試(function test)",
+      "結構化程式設計",
+      "問題追蹤處理(Bug tracking)",
+      "軟體品質與保證",
+      "系統架構規劃",
+      "系統維護操作",
+      "機器學習演算法",
+      "測試環境建置規劃"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：C#、C++、Java、Python、Smalltalk、JavaScript\n工作技能：軟體程式設計、軟體工程系統開發、模組化系統設計、系統整合分析、軟體整合測試、功能測試(function test)、結構化程式設計、問題追蹤處理(Bug tracking)、軟體品質與保證、系統架構規劃、系統維護操作、機器學習演算法、測試環境建置規劃",
+    "tools": [
+      "C#",
+      "C++",
+      "Java",
+      "Python",
+      "Smalltalk",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 3
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:26:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "The group you will be a part of\nIn the Global Products Group; we are dedicated to excellence in the design and engineering of Lam’s etch and deposition products.\nWhat you will do:\n- Design and develop new software system for next generation of products.\n- Implement new customer requirements and features on existing products.\n- Analysis and troubleshooting for the most challenging issue of tool.\n- Might visit customer site for support and oversea travel (waring PPE, less than 5%).\nMinimum Qualifications:\n- MS in computer science or equivalent experience.\n- New graduates are qualified when you have master’s degree in computer science.\n- 3 years’ relevant experience in software development if you do not have MS degree in CS.\n- At least familiar one of language (C++, C#, Java, Python or Smalltalk ..etc).\nPreferred qualifications:\n- Object-oriented programming (OOP).\n- Good coding structure concept.\n- Effective communication capability and English reading/writing/communication skill.\nSemiconductor experience preferred.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東區公道五路三段1號8F-1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "The group you will be a part of\nIn the Global Products Group; we are dedicated to excellence in the design and engineering of Lam’s etch and deposition products.\nWhat you will do:\n- Design and develop new software system for next generation of products.\n- Implement new customer requirements and features on existing products.\n- Analysis and troubleshooting for the most challenging issue of tool.\n- Might visit customer site for support and oversea travel (waring PPE, less than 5%).\nMinimum Qualifications:\n- MS in computer science or equivalent experience.\n- New graduates are qualified when you have master’s degree in computer science.\n- 3 years’ relevant experience in software development if you do not have MS degree in CS.\n- At least familiar one of language (C++, C#, Java, Python or Smalltalk ..etc).\nPreferred qualifications:\n- Object-oriented programming (OOP).\n- Good coding structure concept.\n- Effective communication capability and English reading/writing/communication skill.\nSemiconductor experience preferred."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "C++",
+            "Java",
+            "Python",
+            "Smalltalk",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "C#、C++、Java、Python、Smalltalk、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "模組化系統設計",
+            "系統整合分析",
+            "軟體整合測試",
+            "功能測試(function test)",
+            "結構化程式設計",
+            "問題追蹤處理(Bug tracking)",
+            "軟體品質與保證",
+            "系統架構規劃",
+            "系統維護操作",
+            "機器學習演算法",
+            "測試環境建置規劃"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發、模組化系統設計、系統整合分析、軟體整合測試、功能測試(function test)、結構化程式設計、問題追蹤處理(Bug tracking)、軟體品質與保證、系統架構規劃、系統維護操作、機器學習演算法、測試環境建置規劃",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：C#、C++、Java、Python、Smalltalk、JavaScript\n工作技能：軟體程式設計、軟體工程系統開發、模組化系統設計、系統整合分析、軟體整合測試、功能測試(function test)、結構化程式設計、問題追蹤處理(Bug tracking)、軟體品質與保證、系統架構規劃、系統維護操作、機器學習演算法、測試環境建置規劃"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94lai",
+    "job_url": "https://www.104.com.tw/job/94lai",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94lai.json",
+    "raw_sha256": "f0f43b1e339b59d7a8ad3a8fa5205b15081251172d4193babef1f5f950dcfc31",
+    "requested_url": "https://www.104.com.tw/api/jobs/94lai"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "company": {
+    "id": "233rv1s",
+    "name": "鴻海精密工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "營運管理師／系統整合／ERP專案師",
+      "系統分析師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "參與系統開發專案規劃討論與技術分析，並可獨立完成網頁開發及維護。"
+        },
+        {
+          "children": [],
+          "text": "與開發園隊協作，依照文件串接 RESTful API, 並能有效處理資料。"
+        },
+        {
+          "children": [],
+          "text": "規劃易維護、可擴展的元件及模組，提升開發效率。"
+        },
+        {
+          "children": [],
+          "text": "關注 Web 技術發展，學習並試導入新技術。"
+        },
+        {
+          "children": [],
+          "text": "具備前端實務開發經驗至少2年。"
+        },
+        {
+          "children": [],
+          "text": "獨立解決問題的能力，且熟悉各瀏覽器及裝置的開發偵錯工具。"
+        },
+        {
+          "children": [],
+          "text": "負責任與積極的態度，對工作及所產出的程式進行品質管理，並随時考慮優化可能。"
+        }
+      ],
+      "text": "1. 參與系統開發專案規劃討論與技術分析，並可獨立完成網頁開發及維護。\n2. 與開發園隊協作，依照文件串接 RESTful API, 並能有效處理資料。\n3. 規劃易維護、可擴展的元件及模組，提升開發效率。\n4. 關注 Web 技術發展，學習並試導入新技術。\n5. 具備前端實務開發經驗至少2年。\n6. 獨立解決問題的能力，且熟悉各瀏覽器及裝置的開發偵錯工具。\n7. 負責任與積極的態度，對工作及所產出的程式進行品質管理，並随時考慮優化可能。"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統開發工程師"
+  },
+  "location": {
+    "address_raw": "新北市土城區",
+    "raw": "新北市土城區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "數理統計相關",
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "數理統計相關、資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟 C#、JAVA、Web API、JQuery、 Html/CSS。\n2. MSSQL 建置、Store Procedure 開發。\n3. 實際程式開發經驗3年以上。\n4. 能團隊合作開發，工作態度積極、負責。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "數理統計相關",
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1. 熟 C#、JAVA、Web API、JQuery、 Html/CSS。\n2. MSSQL 建置、Store Procedure 開發。\n3. 實際程式開發經驗3年以上。\n4. 能團隊合作開發，工作態度積極、負責。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：數理統計相關、資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 熟 C#、JAVA、Web API、JQuery、 Html/CSS。\n2. MSSQL 建置、Store Procedure 開發。\n3. 實際程式開發經驗3年以上。\n4. 能團隊合作開發，工作態度積極、負責。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 85
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:52:12+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 參與系統開發專案規劃討論與技術分析，並可獨立完成網頁開發及維護。\n2. 與開發園隊協作，依照文件串接 RESTful API, 並能有效處理資料。\n3. 規劃易維護、可擴展的元件及模組，提升開發效率。\n4. 關注 Web 技術發展，學習並試導入新技術。\n5. 具備前端實務開發經驗至少2年。\n6. 獨立解決問題的能力，且熟悉各瀏覽器及裝置的開發偵錯工具。\n7. 負責任與積極的態度，對工作及所產出的程式進行品質管理，並随時考慮優化可能。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "營運管理師／系統整合／ERP專案師",
+            "系統分析師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "營運管理師／系統整合／ERP專案師、系統分析師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市土城區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 參與系統開發專案規劃討論與技術分析，並可獨立完成網頁開發及維護。\n2. 與開發園隊協作，依照文件串接 RESTful API, 並能有效處理資料。\n3. 規劃易維護、可擴展的元件及模組，提升開發效率。\n4. 關注 Web 技術發展，學習並試導入新技術。\n5. 具備前端實務開發經驗至少2年。\n6. 獨立解決問題的能力，且熟悉各瀏覽器及裝置的開發偵錯工具。\n7. 負責任與積極的態度，對工作及所產出的程式進行品質管理，並随時考慮優化可能。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數理統計相關",
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "數理統計相關、資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟 C#、JAVA、Web API、JQuery、 Html/CSS。\n2. MSSQL 建置、Store Procedure 開發。\n3. 實際程式開發經驗3年以上。\n4. 能團隊合作開發，工作態度積極、負責。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：數理統計相關、資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 熟 C#、JAVA、Web API、JQuery、 Html/CSS。\n2. MSSQL 建置、Store Procedure 開發。\n3. 實際程式開發經驗3年以上。\n4. 能團隊合作開發，工作態度積極、負責。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "89o2o",
+    "job_url": "https://www.104.com.tw/job/89o2o",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/89o2o.json",
+    "raw_sha256": "0cb0d87dc3b79b4aaf59fb5d671e6dfbba7aaab7037c5e4b3a85db429cf10b54",
+    "requested_url": "https://www.104.com.tw/api/jobs/89o2o"
+  }
+}

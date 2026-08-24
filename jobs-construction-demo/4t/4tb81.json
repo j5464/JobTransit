@@ -1,0 +1,228 @@
+{
+  "company": {
+    "id": "18ofrziw",
+    "name": "華研科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟 .NET C#、ASP.NET、HTML5、Javiscript、CSS"
+        },
+        {
+          "children": [],
+          "text": "熟 SQL 指令"
+        },
+        {
+          "children": [],
+          "text": "負責ERP、HR軟體程式設計。"
+        },
+        {
+          "children": [],
+          "text": "善於溝通、規格討論、團隊合作。"
+        }
+      ],
+      "text": "1. 熟 .NET C#、ASP.NET、HTML5、Javiscript、CSS\n2. 熟 SQL 指令\n3. 負責ERP、HR軟體程式設計。\n4. 善於溝通、規格討論、團隊合作。"
+    },
+    "employment_type_raw": "全職",
+    "title": "程式設計師"
+  },
+  "location": {
+    "address_raw": "新北市三重區重新路五段609巷6號5樓之2",
+    "raw": "新北市三重區重新路五段609巷6號5樓之2"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "C#",
+          "MS SQL",
+          "JavaScript",
+          "CSS",
+          "ASP.NET",
+          "Python",
+          "Visual Studio .net",
+          "HTML",
+          "jQuery"
+        ],
+        "label": "擅長工具",
+        "text": "C#、MS SQL、JavaScript、CSS、ASP.NET、Python、Visual Studio .net、HTML、jQuery"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫程式設計",
+          "企業資源規劃管理(ERP)"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、網路程式設計、資料庫程式設計、企業資源規劃管理(ERP)"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 一年以上資料庫程式開發經驗。\n2. 熟 .NET C#、ASP.NET、HTML5、Javiscript、CSS、AJAX、JQuery。\n3. 具備資料庫應用經驗。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 一年以上資料庫程式開發經驗。\n2. 熟 .NET C#、ASP.NET、HTML5、Javiscript、CSS、AJAX、JQuery。\n3. 具備資料庫應用經驗。",
+    "skills": [
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫程式設計",
+      "企業資源規劃管理(ERP)"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：C#、MS SQL、JavaScript、CSS、ASP.NET、Python、Visual Studio .net、HTML、jQuery\n工作技能：軟體程式設計、網路程式設計、資料庫程式設計、企業資源規劃管理(ERP)\n其他條件：1. 一年以上資料庫程式開發經驗。\n2. 熟 .NET C#、ASP.NET、HTML5、Javiscript、CSS、AJAX、JQuery。\n3. 具備資料庫應用經驗。",
+    "tools": [
+      "C#",
+      "MS SQL",
+      "JavaScript",
+      "CSS",
+      "ASP.NET",
+      "Python",
+      "Visual Studio .net",
+      "HTML",
+      "jQuery"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 16
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:01:06+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 熟 .NET C#、ASP.NET、HTML5、Javiscript、CSS\n2. 熟 SQL 指令\n3. 負責ERP、HR軟體程式設計。\n4. 善於溝通、規格討論、團隊合作。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市三重區重新路五段609巷6號5樓之2",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 熟 .NET C#、ASP.NET、HTML5、Javiscript、CSS\n2. 熟 SQL 指令\n3. 負責ERP、HR軟體程式設計。\n4. 善於溝通、規格討論、團隊合作。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "MS SQL",
+            "JavaScript",
+            "CSS",
+            "ASP.NET",
+            "Python",
+            "Visual Studio .net",
+            "HTML",
+            "jQuery"
+          ],
+          "label": "擅長工具",
+          "text": "C#、MS SQL、JavaScript、CSS、ASP.NET、Python、Visual Studio .net、HTML、jQuery",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫程式設計",
+            "企業資源規劃管理(ERP)"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、網路程式設計、資料庫程式設計、企業資源規劃管理(ERP)",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 一年以上資料庫程式開發經驗。\n2. 熟 .NET C#、ASP.NET、HTML5、Javiscript、CSS、AJAX、JQuery。\n3. 具備資料庫應用經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：C#、MS SQL、JavaScript、CSS、ASP.NET、Python、Visual Studio .net、HTML、jQuery\n工作技能：軟體程式設計、網路程式設計、資料庫程式設計、企業資源規劃管理(ERP)\n其他條件：1. 一年以上資料庫程式開發經驗。\n2. 熟 .NET C#、ASP.NET、HTML5、Javiscript、CSS、AJAX、JQuery。\n3. 具備資料庫應用經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "4tb81",
+    "job_url": "https://www.104.com.tw/job/4tb81",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/4tb81.json",
+    "raw_sha256": "01d312b10fd6d6b7549900060cb896465ce97ecb56ed32972d58c446301ab3b0",
+    "requested_url": "https://www.104.com.tw/api/jobs/4tb81"
+  }
+}

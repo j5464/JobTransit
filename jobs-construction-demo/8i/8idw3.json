@@ -1,0 +1,280 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責開發和維護公司的網站和應用程式，使用 VueJS為主要框架"
+        },
+        {
+          "children": [],
+          "text": "參與監控系統之規劃設計開發"
+        },
+        {
+          "children": [],
+          "text": "維運及持續更新已上線之系統"
+        },
+        {
+          "children": [],
+          "text": "優化前端效能、介面、可用性和相容性"
+        },
+        {
+          "children": [],
+          "text": "跟PM, SA團隊成員合作，確保前端功能符合需求和規格"
+        },
+        {
+          "children": [],
+          "text": "跟其他團隊合作串接API"
+        },
+        {
+          "children": [],
+          "text": "測試及除錯程式與撰寫技術文件"
+        },
+        {
+          "children": [],
+          "text": "持續學習新技術和最佳實踐，提升前端開發品質及效能"
+        },
+        {
+          "children": [],
+          "text": "具備製造業網頁前端開發3年以上經驗, 熟悉HTML/CSS/JavaScript 等技術"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Vue.js 框架及其相關生態系統，如 Vuex, Vue Router等"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RESTful API 的串接和使用"
+        },
+        {
+          "children": [],
+          "text": "了解 Webpack 或其他打包工具的使用和配置"
+        },
+        {
+          "children": [],
+          "text": "有 Git 版本控制的使用經驗"
+        },
+        {
+          "children": [],
+          "text": "有製作程式規格書與測試文件能力"
+        },
+        {
+          "children": [],
+          "text": "具基礎英文聽說讀寫能力"
+        }
+      ],
+      "text": "【主要工作內容】\n1.負責開發和維護公司的網站和應用程式，使用 VueJS為主要框架\n2.參與監控系統之規劃設計開發\n3.維運及持續更新已上線之系統\n4.優化前端效能、介面、可用性和相容性\n5.跟PM, SA團隊成員合作，確保前端功能符合需求和規格\n6.跟其他團隊合作串接API\n7.測試及除錯程式與撰寫技術文件\n8.持續學習新技術和最佳實踐，提升前端開發品質及效能\n【工作技能】\n1.具備製造業網頁前端開發3年以上經驗, 熟悉HTML/CSS/JavaScript 等技術\n2.熟悉 Vue.js 框架及其相關生態系統，如 Vuex, Vue Router等\n3.熟悉 RESTful API 的串接和使用\n4.了解 Webpack 或其他打包工具的使用和配置\n5.有 Git 版本控制的使用經驗\n6.有製作程式規格書與測試文件能力\n7.具基礎英文聽說讀寫能力"
+    },
+    "employment_type_raw": "全職",
+    "title": "VueJS前端開發工程師_風險管理_資訊處(台北內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號(內湖)",
+    "raw": "台北市內湖區瑞光路186號(內湖)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Git",
+          "Java",
+          "VueJS"
+        ],
+        "label": "擅長工具",
+        "text": "Git、Java、VueJS"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "《Plus qualifications》\n1.具有跟其他系統串接的經驗 (PLM, ERP, Azure, Google, ...)\n2.具有參與過 scrum 或是 agile 專案開發方法的經驗\n3.具有 Kubernetes 或其他雲端服務的使用或部署經驗\n4.了解devops, CI/CD pipe line\n5.具有 Java 或其他後端語言的開發能力\n6.具有單元測試或自動化測試的撰寫能力\n7.具有 RWD 或 PWA 的開發經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "《Plus qualifications》\n1.具有跟其他系統串接的經驗 (PLM, ERP, Azure, Google, ...)\n2.具有參與過 scrum 或是 agile 專案開發方法的經驗\n3.具有 Kubernetes 或其他雲端服務的使用或部署經驗\n4.了解devops, CI/CD pipe line\n5.具有 Java 或其他後端語言的開發能力\n6.具有單元測試或自動化測試的撰寫能力\n7.具有 RWD 或 PWA 的開發經驗",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Git、Java、VueJS\n工作技能：軟體程式設計\n其他條件：《Plus qualifications》\n1.具有跟其他系統串接的經驗 (PLM, ERP, Azure, Google, ...)\n2.具有參與過 scrum 或是 agile 專案開發方法的經驗\n3.具有 Kubernetes 或其他雲端服務的使用或部署經驗\n4.了解devops, CI/CD pipe line\n5.具有 Java 或其他後端語言的開發能力\n6.具有單元測試或自動化測試的撰寫能力\n7.具有 RWD 或 PWA 的開發經驗",
+    "tools": [
+      "Git",
+      "Java",
+      "VueJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 70
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:14:57+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【主要工作內容】\n1.負責開發和維護公司的網站和應用程式，使用 VueJS為主要框架\n2.參與監控系統之規劃設計開發\n3.維運及持續更新已上線之系統\n4.優化前端效能、介面、可用性和相容性\n5.跟PM, SA團隊成員合作，確保前端功能符合需求和規格\n6.跟其他團隊合作串接API\n7.測試及除錯程式與撰寫技術文件\n8.持續學習新技術和最佳實踐，提升前端開發品質及效能\n【工作技能】\n1.具備製造業網頁前端開發3年以上經驗, 熟悉HTML/CSS/JavaScript 等技術\n2.熟悉 Vue.js 框架及其相關生態系統，如 Vuex, Vue Router等\n3.熟悉 RESTful API 的串接和使用\n4.了解 Webpack 或其他打包工具的使用和配置\n5.有 Git 版本控制的使用經驗\n6.有製作程式規格書與測試文件能力\n7.具基礎英文聽說讀寫能力",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號(內湖)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【主要工作內容】\n1.負責開發和維護公司的網站和應用程式，使用 VueJS為主要框架\n2.參與監控系統之規劃設計開發\n3.維運及持續更新已上線之系統\n4.優化前端效能、介面、可用性和相容性\n5.跟PM, SA團隊成員合作，確保前端功能符合需求和規格\n6.跟其他團隊合作串接API\n7.測試及除錯程式與撰寫技術文件\n8.持續學習新技術和最佳實踐，提升前端開發品質及效能\n【工作技能】\n1.具備製造業網頁前端開發3年以上經驗, 熟悉HTML/CSS/JavaScript 等技術\n2.熟悉 Vue.js 框架及其相關生態系統，如 Vuex, Vue Router等\n3.熟悉 RESTful API 的串接和使用\n4.了解 Webpack 或其他打包工具的使用和配置\n5.有 Git 版本控制的使用經驗\n6.有製作程式規格書與測試文件能力\n7.具基礎英文聽說讀寫能力"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "Java",
+            "VueJS"
+          ],
+          "label": "擅長工具",
+          "text": "Git、Java、VueJS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "《Plus qualifications》\n1.具有跟其他系統串接的經驗 (PLM, ERP, Azure, Google, ...)\n2.具有參與過 scrum 或是 agile 專案開發方法的經驗\n3.具有 Kubernetes 或其他雲端服務的使用或部署經驗\n4.了解devops, CI/CD pipe line\n5.具有 Java 或其他後端語言的開發能力\n6.具有單元測試或自動化測試的撰寫能力\n7.具有 RWD 或 PWA 的開發經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Git、Java、VueJS\n工作技能：軟體程式設計\n其他條件：《Plus qualifications》\n1.具有跟其他系統串接的經驗 (PLM, ERP, Azure, Google, ...)\n2.具有參與過 scrum 或是 agile 專案開發方法的經驗\n3.具有 Kubernetes 或其他雲端服務的使用或部署經驗\n4.了解devops, CI/CD pipe line\n5.具有 Java 或其他後端語言的開發能力\n6.具有單元測試或自動化測試的撰寫能力\n7.具有 RWD 或 PWA 的開發經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8idw3",
+    "job_url": "https://www.104.com.tw/job/8idw3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8idw3.json",
+    "raw_sha256": "0f8c9c20862dd9837f4c61b9c90d4c4cfc67bd7ddd0ab25c06857c7b988b22a0",
+    "requested_url": "https://www.104.com.tw/api/jobs/8idw3"
+  }
+}

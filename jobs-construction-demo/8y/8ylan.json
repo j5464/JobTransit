@@ -1,0 +1,217 @@
+{
+  "company": {
+    "id": "aunp60g",
+    "name": "崇越科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "資料科學家",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "打造 AI 生態系：主導集團AI Portal 產品全生命週期管理，制定 Roadmap 並整合 HR、BI 等多元 Agent，確保平台持續迭代優化，建立統一入口。"
+        },
+        {
+          "children": [],
+          "text": "推動 AI 文化： 策劃內訓與 AI Academy，建立學習社群與競賽機制，培育集團內部的數位種子部隊。"
+        },
+        {
+          "children": [],
+          "text": "前瞻技術落地：擔任新技術測試官，快速執行POC 驗證，撰寫評估報告並推動規模化導入。"
+        }
+      ],
+      "text": "1.打造 AI 生態系：主導集團AI Portal 產品全生命週期管理，制定 Roadmap 並整合 HR、BI 等多元 Agent，確保平台持續迭代優化，建立統一入口。\n2.推動 AI 文化： 策劃內訓與 AI Academy，建立學習社群與競賽機制，培育集團內部的數位種子部隊。\n3.前瞻技術落地：擔任新技術測試官，快速執行POC 驗證，撰寫評估報告並推動規模化導入。"
+    },
+    "employment_type_raw": "全職",
+    "title": ".AI Project Manager（台北總公司）"
+  },
+  "location": {
+    "address_raw": "台北市內湖區洲子街 176 號",
+    "raw": "台北市內湖區洲子街 176 號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "Python",
+          "AWS"
+        ],
+        "label": "擅長工具",
+        "text": "Python、AWS"
+      },
+      {
+        "items": [
+          "AI",
+          "生成式AI"
+        ],
+        "label": "工作技能",
+        "text": "AI、生成式AI"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "擁有 3 年以上軟體或數位轉型 PM 經驗尤佳"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "擁有 3 年以上軟體或數位轉型 PM 經驗尤佳",
+    "skills": [
+      "AI",
+      "生成式AI"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Python、AWS\n工作技能：AI、生成式AI\n其他條件：擁有 3 年以上軟體或數位轉型 PM 經驗尤佳",
+    "tools": [
+      "Python",
+      "AWS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 25
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:23:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.打造 AI 生態系：主導集團AI Portal 產品全生命週期管理，制定 Roadmap 並整合 HR、BI 等多元 Agent，確保平台持續迭代優化，建立統一入口。\n2.推動 AI 文化： 策劃內訓與 AI Academy，建立學習社群與競賽機制，培育集團內部的數位種子部隊。\n3.前瞻技術落地：擔任新技術測試官，快速執行POC 驗證，撰寫評估報告並推動規模化導入。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "資料科學家",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、資料科學家、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區洲子街 176 號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.打造 AI 生態系：主導集團AI Portal 產品全生命週期管理，制定 Roadmap 並整合 HR、BI 等多元 Agent，確保平台持續迭代優化，建立統一入口。\n2.推動 AI 文化： 策劃內訓與 AI Academy，建立學習社群與競賽機制，培育集團內部的數位種子部隊。\n3.前瞻技術落地：擔任新技術測試官，快速執行POC 驗證，撰寫評估報告並推動規模化導入。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "AWS"
+          ],
+          "label": "擅長工具",
+          "text": "Python、AWS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "生成式AI"
+          ],
+          "label": "工作技能",
+          "text": "AI、生成式AI",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "擁有 3 年以上軟體或數位轉型 PM 經驗尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Python、AWS\n工作技能：AI、生成式AI\n其他條件：擁有 3 年以上軟體或數位轉型 PM 經驗尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ylan",
+    "job_url": "https://www.104.com.tw/job/8ylan",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ylan.json",
+    "raw_sha256": "2add565aa7a30cc1a180b20b1f833907a5718743bfc766da771780b42fe155eb",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ylan"
+  }
+}

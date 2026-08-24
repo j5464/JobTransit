@@ -1,0 +1,275 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "資料科學家",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Work with manufacturing, quality, equipment, process, and factory users to clarify AI application requirements and use cases."
+        },
+        {
+          "children": [],
+          "text": "Apply ML techniques to manufacturing problems, such as prediction, classification, anomaly detection, time-series forecasting, and optimization."
+        },
+        {
+          "children": [],
+          "text": "Integrate LLM / Generative AI capabilities into manufacturing workflows, such as knowledge assistants, SOP retrieval, report summarization, troubleshooting support, and decision support."
+        },
+        {
+          "children": [],
+          "text": "Integrate AI services with manufacturing or enterprise systems, such as MES, ERP, quality systems, reporting systems, and data platforms."
+        },
+        {
+          "children": [],
+          "text": "Work with data, platform, and infrastructure teams to ensure AI solutions meet requirements for accuracy, traceability, performance, stability, and security."
+        },
+        {
+          "children": [],
+          "text": "Support the development of reusable and scalable AI service architectures for manufacturing scenarios."
+        },
+        {
+          "children": [],
+          "text": "Participate in manufacturing-related data governance and AI governance practices, including data lineage, access control, model versioning, usage tracking, and monitoring."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with manufacturing sites or offices outside Taipei when required by project needs."
+        },
+        {
+          "children": [],
+          "text": "3+ years of experience in software engineering, AI/data development, or industrial AI application development."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in at least one backend programming language, such as Python, Java, or Node.js, with API development experience."
+        },
+        {
+          "children": [],
+          "text": "Understanding of AI / ML fundamentals, including data preparation, model training, evaluation, inference, and limitations."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with SQL, ETL, data processing, and structured data handling."
+        },
+        {
+          "children": [],
+          "text": "Basic understanding of manufacturing concepts, such as production process, quality control, equipment operation, yield, defect analysis, or factory workflows."
+        },
+        {
+          "children": [],
+          "text": "Ability to translate business requirements into practical AI / system solutions."
+        },
+        {
+          "children": [],
+          "text": "Strong problem-solving, communication, and cross-functional collaboration skills."
+        },
+        {
+          "children": [],
+          "text": "Willingness to regularly collaborate with manufacturing sites or offices outside Taipei and support occasional overseas business travel based on project needs."
+        }
+      ],
+      "text": "We are looking for an AI Engineer for Manufacturing Domain with strong AI implementation capabilities, backend development experience, and interest or experience in manufacturing-related scenarios.\nThis role will focus on applying Machine Learning and Generative AI / LLM technologies to manufacturing use cases, such as quality prediction, anomaly detection, equipment monitoring, production optimization, reporting automation, knowledge retrieval, and decision support.\nThe candidate will work closely with manufacturing, factory, IT, data, platform, and infrastructure teams to translate real business needs into scalable AI solutions, including use case clarification, data analysis, model/service design, API development, system integration, and deployment support.\nThis position may require regular on-site collaboration at manufacturing sites or offices outside Taipei, depending on project needs.\nThis position may require regular on-site collaboration at manufacturing sites or offices outside Taipei, and occasional overseas business travel depending on project needs.\n【Key Responsibilities】\n• Work with manufacturing, quality, equipment, process, and factory users to clarify AI application requirements and use cases.\n• Apply ML techniques to manufacturing problems, such as prediction, classification, anomaly detection, time-series forecasting, and optimization.\n• Integrate LLM / Generative AI capabilities into manufacturing workflows, such as knowledge assistants, SOP retrieval, report summarization, troubleshooting support, and decision support.\n• Integrate AI services with manufacturing or enterprise systems, such as MES, ERP, quality systems, reporting systems, and data platforms.\n• Work with data, platform, and infrastructure teams to ensure AI solutions meet requirements for accuracy, traceability, performance, stability, and security.\n• Support the development of reusable and scalable AI service architectures for manufacturing scenarios.\n• Participate in manufacturing-related data governance and AI governance practices, including data lineage, access control, model versioning, usage tracking, and monitoring.\n• Collaborate with manufacturing sites or offices outside Taipei when required by project needs.\n【Required Qualifications】\n• 3+ years of experience in software engineering, AI/data development, or industrial AI application development.\nJunior candidates may be considered based on project experience.\n• Proficiency in at least one backend programming language, such as Python, Java, or Node.js, with API development experience.\n• Understanding of AI / ML fundamentals, including data preparation, model training, evaluation, inference, and limitations.\n• Familiarity with SQL, ETL, data processing, and structured data handling.\n• Basic understanding of manufacturing concepts, such as production process, quality control, equipment operation, yield, defect analysis, or factory workflows.\n• Ability to translate business requirements into practical AI / system solutions.\n• Strong problem-solving, communication, and cross-functional collaboration skills.\n• Willingness to regularly collaborate with manufacturing sites or offices outside Taipei and support occasional overseas business travel based on project needs."
+    },
+    "employment_type_raw": "全職",
+    "title": "AI Engineer (Manufacturing Domain)_ 先進技術暨應用_資訊處(新竹)"
+  },
+  "location": {
+    "address_raw": "新竹市研發二路2號",
+    "raw": "新竹市研發二路2號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "LLM",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "LLM、MS SQL"
+      },
+      {
+        "items": [
+          "AI",
+          "語言模型",
+          "機器學習",
+          "Machine Learning"
+        ],
+        "label": "工作技能",
+        "text": "AI、語言模型、機器學習、Machine Learning"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【Preferred Qualifications】\n• Experience with manufacturing AI / ML use cases, such as quality prediction, defect detection, yield analysis, equipment anomaly detection, predictive maintenance, production forecasting, or process optimization.\n• Experience with LLM / Generative AI applications, such as RAG, knowledge assistants, document analysis, report generation, or agent-based workflows.\n• Familiarity with AI Serving / MLOps, including model deployment, version control, monitoring, inference APIs, or retraining workflows.\n• Experience with Docker, Kubernetes, OpenShift, or similar platform technologies.\n• Experience with manufacturing systems or industrial data sources, such as MES, SCADA, equipment logs, sensor data, quality inspection data, or production records.\n• Experience with computer vision, time-series analysis, optimization algorithms, or industrial analytics is a plus."
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "【Preferred Qualifications】\n• Experience with manufacturing AI / ML use cases, such as quality prediction, defect detection, yield analysis, equipment anomaly detection, predictive maintenance, production forecasting, or process optimization.\n• Experience with LLM / Generative AI applications, such as RAG, knowledge assistants, document analysis, report generation, or agent-based workflows.\n• Familiarity with AI Serving / MLOps, including model deployment, version control, monitoring, inference APIs, or retraining workflows.\n• Experience with Docker, Kubernetes, OpenShift, or similar platform technologies.\n• Experience with manufacturing systems or industrial data sources, such as MES, SCADA, equipment logs, sensor data, quality inspection data, or production records.\n• Experience with computer vision, time-series analysis, optimization algorithms, or industrial analytics is a plus.",
+    "skills": [
+      "AI",
+      "語言模型",
+      "機器學習",
+      "Machine Learning"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關\n擅長工具：LLM、MS SQL\n工作技能：AI、語言模型、機器學習、Machine Learning\n其他條件：【Preferred Qualifications】\n• Experience with manufacturing AI / ML use cases, such as quality prediction, defect detection, yield analysis, equipment anomaly detection, predictive maintenance, production forecasting, or process optimization.\n• Experience with LLM / Generative AI applications, such as RAG, knowledge assistants, document analysis, report generation, or agent-based workflows.\n• Familiarity with AI Serving / MLOps, including model deployment, version control, monitoring, inference APIs, or retraining workflows.\n• Experience with Docker, Kubernetes, OpenShift, or similar platform technologies.\n• Experience with manufacturing systems or industrial data sources, such as MES, SCADA, equipment logs, sensor data, quality inspection data, or production records.\n• Experience with computer vision, time-series analysis, optimization algorithms, or industrial analytics is a plus.",
+    "tools": [
+      "LLM",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 67
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:08:17+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are looking for an AI Engineer for Manufacturing Domain with strong AI implementation capabilities, backend development experience, and interest or experience in manufacturing-related scenarios.\nThis role will focus on applying Machine Learning and Generative AI / LLM technologies to manufacturing use cases, such as quality prediction, anomaly detection, equipment monitoring, production optimization, reporting automation, knowledge retrieval, and decision support.\nThe candidate will work closely with manufacturing, factory, IT, data, platform, and infrastructure teams to translate real business needs into scalable AI solutions, including use case clarification, data analysis, model/service design, API development, system integration, and deployment support.\nThis position may require regular on-site collaboration at manufacturing sites or offices outside Taipei, depending on project needs.\nThis position may require regular on-site collaboration at manufacturing sites or offices outside Taipei, and occasional overseas business travel depending on project needs.\n【Key Responsibilities】\n• Work with manufacturing, quality, equipment, process, and factory users to clarify AI application requirements and use cases.\n• Apply ML techniques to manufacturing problems, such as prediction, classification, anomaly detection, time-series forecasting, and optimization.\n• Integrate LLM / Generative AI capabilities into manufacturing workflows, such as knowledge assistants, SOP retrieval, report summarization, troubleshooting support, and decision support.\n• Integrate AI services with manufacturing or enterprise systems, such as MES, ERP, quality systems, reporting systems, and data platforms.\n• Work with data, platform, and infrastructure teams to ensure AI solutions meet requirements for accuracy, traceability, performance, stability, and security.\n• Support the development of reusable and scalable AI service architectures for manufacturing scenarios.\n• Participate in manufacturing-related data governance and AI governance practices, including data lineage, access control, model versioning, usage tracking, and monitoring.\n• Collaborate with manufacturing sites or offices outside Taipei when required by project needs.\n【Required Qualifications】\n• 3+ years of experience in software engineering, AI/data development, or industrial AI application development.\nJunior candidates may be considered based on project experience.\n• Proficiency in at least one backend programming language, such as Python, Java, or Node.js, with API development experience.\n• Understanding of AI / ML fundamentals, including data preparation, model training, evaluation, inference, and limitations.\n• Familiarity with SQL, ETL, data processing, and structured data handling.\n• Basic understanding of manufacturing concepts, such as production process, quality control, equipment operation, yield, defect analysis, or factory workflows.\n• Ability to translate business requirements into practical AI / system solutions.\n• Strong problem-solving, communication, and cross-functional collaboration skills.\n• Willingness to regularly collaborate with manufacturing sites or offices outside Taipei and support occasional overseas business travel based on project needs.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "資料科學家",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、資料科學家、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市研發二路2號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are looking for an AI Engineer for Manufacturing Domain with strong AI implementation capabilities, backend development experience, and interest or experience in manufacturing-related scenarios.\nThis role will focus on applying Machine Learning and Generative AI / LLM technologies to manufacturing use cases, such as quality prediction, anomaly detection, equipment monitoring, production optimization, reporting automation, knowledge retrieval, and decision support.\nThe candidate will work closely with manufacturing, factory, IT, data, platform, and infrastructure teams to translate real business needs into scalable AI solutions, including use case clarification, data analysis, model/service design, API development, system integration, and deployment support.\nThis position may require regular on-site collaboration at manufacturing sites or offices outside Taipei, depending on project needs.\nThis position may require regular on-site collaboration at manufacturing sites or offices outside Taipei, and occasional overseas business travel depending on project needs.\n【Key Responsibilities】\n• Work with manufacturing, quality, equipment, process, and factory users to clarify AI application requirements and use cases.\n• Apply ML techniques to manufacturing problems, such as prediction, classification, anomaly detection, time-series forecasting, and optimization.\n• Integrate LLM / Generative AI capabilities into manufacturing workflows, such as knowledge assistants, SOP retrieval, report summarization, troubleshooting support, and decision support.\n• Integrate AI services with manufacturing or enterprise systems, such as MES, ERP, quality systems, reporting systems, and data platforms.\n• Work with data, platform, and infrastructure teams to ensure AI solutions meet requirements for accuracy, traceability, performance, stability, and security.\n• Support the development of reusable and scalable AI service architectures for manufacturing scenarios.\n• Participate in manufacturing-related data governance and AI governance practices, including data lineage, access control, model versioning, usage tracking, and monitoring.\n• Collaborate with manufacturing sites or offices outside Taipei when required by project needs.\n【Required Qualifications】\n• 3+ years of experience in software engineering, AI/data development, or industrial AI application development.\nJunior candidates may be considered based on project experience.\n• Proficiency in at least one backend programming language, such as Python, Java, or Node.js, with API development experience.\n• Understanding of AI / ML fundamentals, including data preparation, model training, evaluation, inference, and limitations.\n• Familiarity with SQL, ETL, data processing, and structured data handling.\n• Basic understanding of manufacturing concepts, such as production process, quality control, equipment operation, yield, defect analysis, or factory workflows.\n• Ability to translate business requirements into practical AI / system solutions.\n• Strong problem-solving, communication, and cross-functional collaboration skills.\n• Willingness to regularly collaborate with manufacturing sites or offices outside Taipei and support occasional overseas business travel based on project needs."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "LLM",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "LLM、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "語言模型",
+            "機器學習",
+            "Machine Learning"
+          ],
+          "label": "工作技能",
+          "text": "AI、語言模型、機器學習、Machine Learning",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【Preferred Qualifications】\n• Experience with manufacturing AI / ML use cases, such as quality prediction, defect detection, yield analysis, equipment anomaly detection, predictive maintenance, production forecasting, or process optimization.\n• Experience with LLM / Generative AI applications, such as RAG, knowledge assistants, document analysis, report generation, or agent-based workflows.\n• Familiarity with AI Serving / MLOps, including model deployment, version control, monitoring, inference APIs, or retraining workflows.\n• Experience with Docker, Kubernetes, OpenShift, or similar platform technologies.\n• Experience with manufacturing systems or industrial data sources, such as MES, SCADA, equipment logs, sensor data, quality inspection data, or production records.\n• Experience with computer vision, time-series analysis, optimization algorithms, or industrial analytics is a plus.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關\n擅長工具：LLM、MS SQL\n工作技能：AI、語言模型、機器學習、Machine Learning\n其他條件：【Preferred Qualifications】\n• Experience with manufacturing AI / ML use cases, such as quality prediction, defect detection, yield analysis, equipment anomaly detection, predictive maintenance, production forecasting, or process optimization.\n• Experience with LLM / Generative AI applications, such as RAG, knowledge assistants, document analysis, report generation, or agent-based workflows.\n• Familiarity with AI Serving / MLOps, including model deployment, version control, monitoring, inference APIs, or retraining workflows.\n• Experience with Docker, Kubernetes, OpenShift, or similar platform technologies.\n• Experience with manufacturing systems or industrial data sources, such as MES, SCADA, equipment logs, sensor data, quality inspection data, or production records.\n• Experience with computer vision, time-series analysis, optimization algorithms, or industrial analytics is a plus."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "91s14",
+    "job_url": "https://www.104.com.tw/job/91s14",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91s14.json",
+    "raw_sha256": "d50adeb3a18af9e7e58ff674d29b747fb620782710fc98b46d9f333dd0b28aa1",
+    "requested_url": "https://www.104.com.tw/api/jobs/91s14"
+  }
+}

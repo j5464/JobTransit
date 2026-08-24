@@ -1,0 +1,256 @@
+{
+  "company": {
+    "id": "1a2x6bkknv",
+    "name": "六點資訊科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師",
+      "網頁設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具 .NET MVC 或 .NET Core MVC 開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "具軟體開發經驗且可獨立進行開發者。"
+        },
+        {
+          "children": [],
+          "text": "具 AI 開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Web API/WebService 開發經驗 佳。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 JavaScript、HTML、CSS、XML，以及 JQuery、JSON、AJAX 等前端技術 佳。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 MicroSoft SQL、MySQL 經驗者 佳。"
+        },
+        {
+          "children": [],
+          "text": "熟悉版本控制軟體 Git 佳。"
+        },
+        {
+          "children": [],
+          "text": "具有良好溝通能力，能主動提出問題與良好團隊合作，團隊配合度高，負責任。"
+        },
+        {
+          "children": [],
+          "text": "對程式設計有熱誠，對程式品質自我要求高，學習力強。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 C# WinForm、WebForm 程式開發。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 VueJs。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 原始碼掃描/滲透測試 報告風險修正。"
+        },
+        {
+          "children": [],
+          "text": "具SA/SD經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉Dapper、Entity Framework(EF)、LINQ。"
+        }
+      ],
+      "text": "在這裡，工程師不只是寫程式的人，更是推動專案成功的關鍵力量。\n你將參與多元產業系統的開發與優化，從需求分析、架構設計到上線維護，全面磨練技術與思考能力。\n我們重視規劃與流程管理，提供明確的專案框架，但也相信優秀的工程師需要自由發揮創意解決問題。\n如果你希望累積實戰經驗，挑戰自我，並成為被尊重的專業者，我們誠摯邀請你一起創造更大的價值。\n1. 具 .NET MVC 或 .NET Core MVC 開發經驗。\n2. 具軟體開發經驗且可獨立進行開發者。\n3. 具 AI 開發經驗。\n4. 熟悉 Web API/WebService 開發經驗 佳。\n5. 熟悉 JavaScript、HTML、CSS、XML，以及 JQuery、JSON、AJAX 等前端技術 佳。\n6. 熟悉 MicroSoft SQL、MySQL 經驗者 佳。\n7. 熟悉版本控制軟體 Git 佳。\n8. 具有良好溝通能力，能主動提出問題與良好團隊合作，團隊配合度高，負責任。\n9. 對程式設計有熱誠，對程式品質自我要求高，學習力強。\n加分條件\n1. 熟悉 C# WinForm、WebForm 程式開發。\n2. 熟悉 VueJs。\n3. 熟悉 原始碼掃描/滲透測試 報告風險修正。\n4. 具SA/SD經驗。\n5. 熟悉Dapper、Entity Framework(EF)、LINQ。"
+    },
+    "employment_type_raw": "全職",
+    "title": "ASP.NET軟體工程師"
+  },
+  "location": {
+    "address_raw": "新北市板橋區文化路一段266號14樓",
+    "raw": "新北市板橋區文化路一段266號14樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "數理統計相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、數理統計相關"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "MS SQL",
+          "jQuery"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、MS SQL、jQuery"
+      },
+      {
+        "items": [
+          "網路程式設計"
+        ],
+        "label": "工作技能",
+        "text": "網路程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "數理統計相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "網路程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科以上\n科系要求：資訊管理相關、資訊工程相關、數理統計相關\n擅長工具：ASP.NET、C#、MS SQL、jQuery\n工作技能：網路程式設計",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "MS SQL",
+      "jQuery"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 9
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:44:18+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "在這裡，工程師不只是寫程式的人，更是推動專案成功的關鍵力量。\n你將參與多元產業系統的開發與優化，從需求分析、架構設計到上線維護，全面磨練技術與思考能力。\n我們重視規劃與流程管理，提供明確的專案框架，但也相信優秀的工程師需要自由發揮創意解決問題。\n如果你希望累積實戰經驗，挑戰自我，並成為被尊重的專業者，我們誠摯邀請你一起創造更大的價值。\n1. 具 .NET MVC 或 .NET Core MVC 開發經驗。\n2. 具軟體開發經驗且可獨立進行開發者。\n3. 具 AI 開發經驗。\n4. 熟悉 Web API/WebService 開發經驗 佳。\n5. 熟悉 JavaScript、HTML、CSS、XML，以及 JQuery、JSON、AJAX 等前端技術 佳。\n6. 熟悉 MicroSoft SQL、MySQL 經驗者 佳。\n7. 熟悉版本控制軟體 Git 佳。\n8. 具有良好溝通能力，能主動提出問題與良好團隊合作，團隊配合度高，負責任。\n9. 對程式設計有熱誠，對程式品質自我要求高，學習力強。\n加分條件\n1. 熟悉 C# WinForm、WebForm 程式開發。\n2. 熟悉 VueJs。\n3. 熟悉 原始碼掃描/滲透測試 報告風險修正。\n4. 具SA/SD經驗。\n5. 熟悉Dapper、Entity Framework(EF)、LINQ。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師",
+            "網頁設計師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師、網頁設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區文化路一段266號14樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "在這裡，工程師不只是寫程式的人，更是推動專案成功的關鍵力量。\n你將參與多元產業系統的開發與優化，從需求分析、架構設計到上線維護，全面磨練技術與思考能力。\n我們重視規劃與流程管理，提供明確的專案框架，但也相信優秀的工程師需要自由發揮創意解決問題。\n如果你希望累積實戰經驗，挑戰自我，並成為被尊重的專業者，我們誠摯邀請你一起創造更大的價值。\n1. 具 .NET MVC 或 .NET Core MVC 開發經驗。\n2. 具軟體開發經驗且可獨立進行開發者。\n3. 具 AI 開發經驗。\n4. 熟悉 Web API/WebService 開發經驗 佳。\n5. 熟悉 JavaScript、HTML、CSS、XML，以及 JQuery、JSON、AJAX 等前端技術 佳。\n6. 熟悉 MicroSoft SQL、MySQL 經驗者 佳。\n7. 熟悉版本控制軟體 Git 佳。\n8. 具有良好溝通能力，能主動提出問題與良好團隊合作，團隊配合度高，負責任。\n9. 對程式設計有熱誠，對程式品質自我要求高，學習力強。\n加分條件\n1. 熟悉 C# WinForm、WebForm 程式開發。\n2. 熟悉 VueJs。\n3. 熟悉 原始碼掃描/滲透測試 報告風險修正。\n4. 具SA/SD經驗。\n5. 熟悉Dapper、Entity Framework(EF)、LINQ。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "數理統計相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、數理統計相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "MS SQL",
+            "jQuery"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、MS SQL、jQuery",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "網路程式設計"
+          ],
+          "label": "工作技能",
+          "text": "網路程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科以上\n科系要求：資訊管理相關、資訊工程相關、數理統計相關\n擅長工具：ASP.NET、C#、MS SQL、jQuery\n工作技能：網路程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7gkco",
+    "job_url": "https://www.104.com.tw/job/7gkco",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7gkco.json",
+    "raw_sha256": "d4c7d06cd482f04d8d193e9fa8547ec08c579ee7d4708256ad67068db71bb8be",
+    "requested_url": "https://www.104.com.tw/api/jobs/7gkco"
+  }
+}

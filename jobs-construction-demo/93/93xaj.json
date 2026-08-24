@@ -1,0 +1,187 @@
+{
+  "company": {
+    "id": "13tw0k4g",
+    "name": "佳必琪國際股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "電子工程師",
+      "軟韌體測試工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責控制介面與協議程式編寫與驗證： 熟悉 I2C、SPI、UART 等通訊協議，用於晶片暫存器配置及 EEPROM 燒錄。"
+        },
+        {
+          "children": [],
+          "text": "根據CMIS管理介面標準進行產品編碼： 遵循產業標準（如 SFP-DD、QSFP-DD、OSFP 的 CMIS 管理介面），撰寫能與交換器/伺服器溝通狀態的韌體。"
+        }
+      ],
+      "text": "1.負責控制介面與協議程式編寫與驗證： 熟悉 I2C、SPI、UART 等通訊協議，用於晶片暫存器配置及 EEPROM 燒錄。\n2.根據CMIS管理介面標準進行產品編碼： 遵循產業標準（如 SFP-DD、QSFP-DD、OSFP 的 CMIS 管理介面），撰寫能與交換器/伺服器溝通狀態的韌體。"
+    },
+    "employment_type_raw": "全職",
+    "title": "《研發》韌體設計工程師"
+  },
+  "location": {
+    "address_raw": "新北市中和區建一路176號9樓",
+    "raw": "新北市中和區建一路176號9樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "工程學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "孰悉CMIS相關規範"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "工程學科類"
+    ],
+    "other_text": "孰悉CMIS相關規範",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：工程學科類\n語文條件：英文：中等、中等、中等、中等\n其他條件：孰悉CMIS相關規範",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 100
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:28:08+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責控制介面與協議程式編寫與驗證： 熟悉 I2C、SPI、UART 等通訊協議，用於晶片暫存器配置及 EEPROM 燒錄。\n2.根據CMIS管理介面標準進行產品編碼： 遵循產業標準（如 SFP-DD、QSFP-DD、OSFP 的 CMIS 管理介面），撰寫能與交換器/伺服器溝通狀態的韌體。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "電子工程師",
+            "軟韌體測試工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、電子工程師、軟韌體測試工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區建一路176號9樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責控制介面與協議程式編寫與驗證： 熟悉 I2C、SPI、UART 等通訊協議，用於晶片暫存器配置及 EEPROM 燒錄。\n2.根據CMIS管理介面標準進行產品編碼： 遵循產業標準（如 SFP-DD、QSFP-DD、OSFP 的 CMIS 管理介面），撰寫能與交換器/伺服器溝通狀態的韌體。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "孰悉CMIS相關規範",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：工程學科類\n語文條件：英文：中等、中等、中等、中等\n其他條件：孰悉CMIS相關規範"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "93xaj",
+    "job_url": "https://www.104.com.tw/job/93xaj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93xaj.json",
+    "raw_sha256": "c3e8d3e616069134cdecc3f11323401efafc3f278319770604fdb21e916d45d7",
+    "requested_url": "https://www.104.com.tw/api/jobs/93xaj"
+  }
+}

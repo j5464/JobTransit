@@ -1,0 +1,273 @@
+{
+  "company": {
+    "id": "1a2x6bi7ot",
+    "name": "蘋果世界股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "助理工程師",
+      "網頁設計師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "撰寫SEO相關優化文章。"
+        },
+        {
+          "children": [],
+          "text": "網站檢查排修。"
+        },
+        {
+          "children": [],
+          "text": "網站結構優化。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 HTML、CSS、RWD、JavaScript、PHP、MYSQL"
+        },
+        {
+          "children": [],
+          "text": "具開發RWD設計切版經驗"
+        },
+        {
+          "children": [],
+          "text": "可完成前端網頁切版建置，以便與後端工程師銜接"
+        },
+        {
+          "children": [],
+          "text": "熟悉各種瀏覽器兼容性"
+        },
+        {
+          "children": [],
+          "text": "熟悉美工繪圖工具Photoshop和Illustrator操作"
+        },
+        {
+          "children": [],
+          "text": "具備基本溝通能力，需與網頁工程師、設計師溝通講解套版設計"
+        },
+        {
+          "children": [],
+          "text": "需攜帶作品面試"
+        }
+      ],
+      "text": "網路世界求新求變，而行銷若沒有一天進步就是退步一天，我們團隊的大家每天都在不斷學習新知、接受挑戰。\n而執行客戶的行銷要求是需要相當熱忱與熱情的！因此我們希望團隊裡的每個人都能帶著歡樂、正向、愉快的心情上班，這樣才能全神貫注在眼前的種種挑戰。\n若你對快速步調的生活有興趣，喜歡接受挑戰、善於時間管理、能夠依據重要性安排自己的工作任務清單，同時合理為每項任務分配時間\n那我們歡迎您的加入，也請您不要猶豫按下應徵的按鈕、送出您手上的履歷！我們將會盡快與您聯繫唷～\n––––––––––––––––––––––––\n1. 撰寫SEO相關優化文章。\n2. 網站檢查排修。\n3. 網站結構優化。\n4. 熟悉 HTML、CSS、RWD、JavaScript、PHP、MYSQL\n5. 具開發RWD設計切版經驗\n6. 可完成前端網頁切版建置，以便與後端工程師銜接\n7. 熟悉各種瀏覽器兼容性\n8. 熟悉美工繪圖工具Photoshop和Illustrator操作\n9. 具備基本溝通能力，需與網頁工程師、設計師溝通講解套版設計\n10. 需攜帶作品面試\n熟悉HTML5、Css3、ajax、PHP、MYSQL技術尤佳\nP.S. 會依照個人能力、屬性做工作內容的調整。\nP.S. 就職後依表現發放工作表現獎金。\n如果能有自信迎接這樣的挑戰！\n！請從Google搜尋「網頁設計蘋果優化」進入官網後到人才專區預約我們要會談的時間並將履歷投於104"
+    },
+    "employment_type_raw": "全職",
+    "title": "網頁/SEO工程助理"
+  },
+  "location": {
+    "address_raw": "台南市北區西門路四段533巷77號",
+    "raw": "台南市北區西門路四段533巷77號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Dreamweaver",
+          "HTML",
+          "JavaScript",
+          "jQuery",
+          "CSS",
+          "Adobe Photoshop",
+          "Illustrator",
+          "AJAX",
+          "PHP",
+          "MySQL",
+          "SEO"
+        ],
+        "label": "擅長工具",
+        "text": "Dreamweaver、HTML、JavaScript、jQuery、CSS、Adobe Photoshop、Illustrator、AJAX、PHP、MySQL、SEO"
+      },
+      {
+        "items": [
+          "網頁語法撰寫",
+          "網頁軟體操作",
+          "設計表現能力",
+          "資料備份與復原",
+          "網路程式設計",
+          "電腦排版設計",
+          "多媒體企劃設計",
+          "電腦動畫設計",
+          "多媒體影像處理"
+        ],
+        "label": "工作技能",
+        "text": "網頁語法撰寫、網頁軟體操作、設計表現能力、資料備份與復原、網路程式設計、電腦排版設計、多媒體企劃設計、電腦動畫設計、多媒體影像處理"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "工作技能\nEDM、Banner設計與製作\n、\n專案整合技術與溝通管理\n附加條件\n●負責任、有耐心\n●有開發創新能力\n●具解決問題能力"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "工作技能\nEDM、Banner設計與製作\n、\n專案整合技術與溝通管理\n附加條件\n●負責任、有耐心\n●有開發創新能力\n●具解決問題能力",
+    "skills": [
+      "網頁語法撰寫",
+      "網頁軟體操作",
+      "設計表現能力",
+      "資料備份與復原",
+      "網路程式設計",
+      "電腦排版設計",
+      "多媒體企劃設計",
+      "電腦動畫設計",
+      "多媒體影像處理"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科以上\n擅長工具：Dreamweaver、HTML、JavaScript、jQuery、CSS、Adobe Photoshop、Illustrator、AJAX、PHP、MySQL、SEO\n工作技能：網頁語法撰寫、網頁軟體操作、設計表現能力、資料備份與復原、網路程式設計、電腦排版設計、多媒體企劃設計、電腦動畫設計、多媒體影像處理\n其他條件：工作技能\nEDM、Banner設計與製作\n、\n專案整合技術與溝通管理\n附加條件\n●負責任、有耐心\n●有開發創新能力\n●具解決問題能力",
+    "tools": [
+      "Dreamweaver",
+      "HTML",
+      "JavaScript",
+      "jQuery",
+      "CSS",
+      "Adobe Photoshop",
+      "Illustrator",
+      "AJAX",
+      "PHP",
+      "MySQL",
+      "SEO"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 65
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:01:25+08:00"
+  },
+  "salary": {
+    "raw": "月薪29,500~35,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "網路世界求新求變，而行銷若沒有一天進步就是退步一天，我們團隊的大家每天都在不斷學習新知、接受挑戰。\n而執行客戶的行銷要求是需要相當熱忱與熱情的！因此我們希望團隊裡的每個人都能帶著歡樂、正向、愉快的心情上班，這樣才能全神貫注在眼前的種種挑戰。\n若你對快速步調的生活有興趣，喜歡接受挑戰、善於時間管理、能夠依據重要性安排自己的工作任務清單，同時合理為每項任務分配時間\n那我們歡迎您的加入，也請您不要猶豫按下應徵的按鈕、送出您手上的履歷！我們將會盡快與您聯繫唷～\n––––––––––––––––––––––––\n1. 撰寫SEO相關優化文章。\n2. 網站檢查排修。\n3. 網站結構優化。\n4. 熟悉 HTML、CSS、RWD、JavaScript、PHP、MYSQL\n5. 具開發RWD設計切版經驗\n6. 可完成前端網頁切版建置，以便與後端工程師銜接\n7. 熟悉各種瀏覽器兼容性\n8. 熟悉美工繪圖工具Photoshop和Illustrator操作\n9. 具備基本溝通能力，需與網頁工程師、設計師溝通講解套版設計\n10. 需攜帶作品面試\n熟悉HTML5、Css3、ajax、PHP、MYSQL技術尤佳\nP.S. 會依照個人能力、屬性做工作內容的調整。\nP.S. 就職後依表現發放工作表現獎金。\n如果能有自信迎接這樣的挑戰！\n！請從Google搜尋「網頁設計蘋果優化」進入官網後到人才專區預約我們要會談的時間並將履歷投於104",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "助理工程師",
+            "網頁設計師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "助理工程師、網頁設計師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪29,500~35,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市北區西門路四段533巷77號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "網路世界求新求變，而行銷若沒有一天進步就是退步一天，我們團隊的大家每天都在不斷學習新知、接受挑戰。\n而執行客戶的行銷要求是需要相當熱忱與熱情的！因此我們希望團隊裡的每個人都能帶著歡樂、正向、愉快的心情上班，這樣才能全神貫注在眼前的種種挑戰。\n若你對快速步調的生活有興趣，喜歡接受挑戰、善於時間管理、能夠依據重要性安排自己的工作任務清單，同時合理為每項任務分配時間\n那我們歡迎您的加入，也請您不要猶豫按下應徵的按鈕、送出您手上的履歷！我們將會盡快與您聯繫唷～\n––––––––––––––––––––––––\n1. 撰寫SEO相關優化文章。\n2. 網站檢查排修。\n3. 網站結構優化。\n4. 熟悉 HTML、CSS、RWD、JavaScript、PHP、MYSQL\n5. 具開發RWD設計切版經驗\n6. 可完成前端網頁切版建置，以便與後端工程師銜接\n7. 熟悉各種瀏覽器兼容性\n8. 熟悉美工繪圖工具Photoshop和Illustrator操作\n9. 具備基本溝通能力，需與網頁工程師、設計師溝通講解套版設計\n10. 需攜帶作品面試\n熟悉HTML5、Css3、ajax、PHP、MYSQL技術尤佳\nP.S. 會依照個人能力、屬性做工作內容的調整。\nP.S. 就職後依表現發放工作表現獎金。\n如果能有自信迎接這樣的挑戰！\n！請從Google搜尋「網頁設計蘋果優化」進入官網後到人才專區預約我們要會談的時間並將履歷投於104"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Dreamweaver",
+            "HTML",
+            "JavaScript",
+            "jQuery",
+            "CSS",
+            "Adobe Photoshop",
+            "Illustrator",
+            "AJAX",
+            "PHP",
+            "MySQL",
+            "SEO"
+          ],
+          "label": "擅長工具",
+          "text": "Dreamweaver、HTML、JavaScript、jQuery、CSS、Adobe Photoshop、Illustrator、AJAX、PHP、MySQL、SEO",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "網頁語法撰寫",
+            "網頁軟體操作",
+            "設計表現能力",
+            "資料備份與復原",
+            "網路程式設計",
+            "電腦排版設計",
+            "多媒體企劃設計",
+            "電腦動畫設計",
+            "多媒體影像處理"
+          ],
+          "label": "工作技能",
+          "text": "網頁語法撰寫、網頁軟體操作、設計表現能力、資料備份與復原、網路程式設計、電腦排版設計、多媒體企劃設計、電腦動畫設計、多媒體影像處理",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "工作技能\nEDM、Banner設計與製作\n、\n專案整合技術與溝通管理\n附加條件\n●負責任、有耐心\n●有開發創新能力\n●具解決問題能力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科以上\n擅長工具：Dreamweaver、HTML、JavaScript、jQuery、CSS、Adobe Photoshop、Illustrator、AJAX、PHP、MySQL、SEO\n工作技能：網頁語法撰寫、網頁軟體操作、設計表現能力、資料備份與復原、網路程式設計、電腦排版設計、多媒體企劃設計、電腦動畫設計、多媒體影像處理\n其他條件：工作技能\nEDM、Banner設計與製作\n、\n專案整合技術與溝通管理\n附加條件\n●負責任、有耐心\n●有開發創新能力\n●具解決問題能力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8qqub",
+    "job_url": "https://www.104.com.tw/job/8qqub",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8qqub.json",
+    "raw_sha256": "6fa480d64fc3215ae3dfc28725d4aaf67eeb0cb39fe5ea1068ea0c350af93123",
+    "requested_url": "https://www.104.com.tw/api/jobs/8qqub"
+  }
+}

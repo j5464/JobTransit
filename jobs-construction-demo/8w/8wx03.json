@@ -1,0 +1,208 @@
+{
+  "company": {
+    "id": "10tmt748",
+    "name": "清谷電子有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "通訊軟體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "規劃韌體系統並產出相關文件。"
+        },
+        {
+          "children": [],
+          "text": "依系統規劃完成韌體撰寫。"
+        },
+        {
+          "children": [],
+          "text": "進行韌體測試/修改/debug。"
+        },
+        {
+          "children": [],
+          "text": "搭配硬體進行產品設計及測試。"
+        },
+        {
+          "children": [],
+          "text": "產品維護"
+        }
+      ],
+      "text": "工作內容\n1. 規劃韌體系統並產出相關文件。\n2. 依系統規劃完成韌體撰寫。\n3. 進行韌體測試/修改/debug。\n4. 搭配硬體進行產品設計及測試。\n5. 產品維護"
+    },
+    "employment_type_raw": "全職",
+    "title": "韌體工程師"
+  },
+  "location": {
+    "address_raw": "新北市淡水區中正東路一段3巷17號3F",
+    "raw": "新北市淡水區中正東路一段3巷17號3F"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "電機電子維護相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、電機電子維護相關"
+      },
+      {
+        "items": [
+          "Assembly",
+          "C"
+        ],
+        "label": "擅長工具",
+        "text": "Assembly、C"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.英文聽/說/讀/寫精通\n2.有MCU程式撰寫經驗或1年以上產品開發經驗佳\n3.普通小型車\n4.擅長工具：Assembly、C"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "電機電子維護相關"
+    ],
+    "other_text": "1.英文聽/說/讀/寫精通\n2.有MCU程式撰寫經驗或1年以上產品開發經驗佳\n3.普通小型車\n4.擅長工具：Assembly、C",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、電機電子維護相關\n擅長工具：Assembly、C\n其他條件：1.英文聽/說/讀/寫精通\n2.有MCU程式撰寫經驗或1年以上產品開發經驗佳\n3.普通小型車\n4.擅長工具：Assembly、C",
+    "tools": [
+      "Assembly",
+      "C"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 30
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:35:03+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作內容\n1. 規劃韌體系統並產出相關文件。\n2. 依系統規劃完成韌體撰寫。\n3. 進行韌體測試/修改/debug。\n4. 搭配硬體進行產品設計及測試。\n5. 產品維護",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "通訊軟體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、通訊軟體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市淡水區中正東路一段3巷17號3F",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作內容\n1. 規劃韌體系統並產出相關文件。\n2. 依系統規劃完成韌體撰寫。\n3. 進行韌體測試/修改/debug。\n4. 搭配硬體進行產品設計及測試。\n5. 產品維護"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "電機電子維護相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、電機電子維護相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Assembly",
+            "C"
+          ],
+          "label": "擅長工具",
+          "text": "Assembly、C",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.英文聽/說/讀/寫精通\n2.有MCU程式撰寫經驗或1年以上產品開發經驗佳\n3.普通小型車\n4.擅長工具：Assembly、C",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、電機電子維護相關\n擅長工具：Assembly、C\n其他條件：1.英文聽/說/讀/寫精通\n2.有MCU程式撰寫經驗或1年以上產品開發經驗佳\n3.普通小型車\n4.擅長工具：Assembly、C"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8wx03",
+    "job_url": "https://www.104.com.tw/job/8wx03",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8wx03.json",
+    "raw_sha256": "6677d5d7f34524687d123d4c084c6f4d9e4814ec52b0784dee6792885ffecc39",
+    "requested_url": "https://www.104.com.tw/api/jobs/8wx03"
+  }
+}

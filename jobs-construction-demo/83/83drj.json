@@ -1,0 +1,212 @@
+{
+  "company": {
+    "id": "odg2mqw",
+    "name": "新夥伴科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "其他資訊專業人員",
+      "網路管理工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助處理客戶產品與系統相關問題，於資深工程師指導下進行問題釐清與基本排除"
+        },
+        {
+          "children": [],
+          "text": "協助產品安裝、設定與基本操作說明，逐步熟悉產品架構與服務流程"
+        },
+        {
+          "children": [],
+          "text": "協助整理客戶問題與處理紀錄，回饋給研發與產品團隊"
+        },
+        {
+          "children": [],
+          "text": "協助撰寫與維護中文技術文件（操作說明、安裝文件、常見問題）"
+        },
+        {
+          "children": [],
+          "text": "依學習進度逐步參與技術支援流程與專案任務"
+        }
+      ],
+      "text": "工作內容:\n1. 協助處理客戶產品與系統相關問題，於資深工程師指導下進行問題釐清與基本排除\n2. 協助產品安裝、設定與基本操作說明，逐步熟悉產品架構與服務流程\n3. 協助整理客戶問題與處理紀錄，回饋給研發與產品團隊\n4. 協助撰寫與維護中文技術文件（操作說明、安裝文件、常見問題）\n5. 依學習進度逐步參與技術支援流程與專案任務"
+    },
+    "employment_type_raw": "全職",
+    "title": "TAC | 技術支援助理工程師"
+  },
+  "location": {
+    "address_raw": "台中市西區忠明南路497號13樓",
+    "raw": "台中市西區忠明南路497號13樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、略懂"
+      },
+      {
+        "items": [
+          "Linux",
+          "Windows 2003",
+          "Windows 7",
+          "Windows Server 2008",
+          "Windows Server 2012",
+          "Vmware",
+          "Excel",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Windows 2003、Windows 7、Windows Server 2008、Windows Server 2012、Vmware、Excel、PowerPoint、Word"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、略懂"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：Linux、Windows 2003、Windows 7、Windows Server 2008、Windows Server 2012、Vmware、Excel、PowerPoint、Word",
+    "tools": [
+      "Linux",
+      "Windows 2003",
+      "Windows 7",
+      "Windows Server 2008",
+      "Windows Server 2012",
+      "Vmware",
+      "Excel",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 75
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:26:38+08:00"
+  },
+  "salary": {
+    "raw": "年薪450,000~600,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作內容:\n1. 協助處理客戶產品與系統相關問題，於資深工程師指導下進行問題釐清與基本排除\n2. 協助產品安裝、設定與基本操作說明，逐步熟悉產品架構與服務流程\n3. 協助整理客戶問題與處理紀錄，回饋給研發與產品團隊\n4. 協助撰寫與維護中文技術文件（操作說明、安裝文件、常見問題）\n5. 依學習進度逐步參與技術支援流程與專案任務",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "其他資訊專業人員",
+            "網路管理工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "其他資訊專業人員、網路管理工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪450,000~600,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西區忠明南路497號13樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作內容:\n1. 協助處理客戶產品與系統相關問題，於資深工程師指導下進行問題釐清與基本排除\n2. 協助產品安裝、設定與基本操作說明，逐步熟悉產品架構與服務流程\n3. 協助整理客戶問題與處理紀錄，回饋給研發與產品團隊\n4. 協助撰寫與維護中文技術文件（操作說明、安裝文件、常見問題）\n5. 依學習進度逐步參與技術支援流程與專案任務"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Windows 2003",
+            "Windows 7",
+            "Windows Server 2008",
+            "Windows Server 2012",
+            "Vmware",
+            "Excel",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Windows 2003、Windows 7、Windows Server 2008、Windows Server 2012、Vmware、Excel、PowerPoint、Word",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：Linux、Windows 2003、Windows 7、Windows Server 2008、Windows Server 2012、Vmware、Excel、PowerPoint、Word"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "83drj",
+    "job_url": "https://www.104.com.tw/job/83drj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/83drj.json",
+    "raw_sha256": "42423ab899c8cc1e105265763e6cb7762d40f031d80304cf0e0c060482269aa5",
+    "requested_url": "https://www.104.com.tw/api/jobs/83drj"
+  }
+}

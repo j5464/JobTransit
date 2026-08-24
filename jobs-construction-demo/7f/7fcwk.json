@@ -1,0 +1,237 @@
+{
+  "company": {
+    "id": "1a2x6bjtt5",
+    "name": "咸軏智能科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Research fundamental problems and implement fitness solutions for wearable and human interface devices using motion sensors (e.g., accelerometers, gyroscopes, magnetometers) and biosensors (e.g., PPG, ECG)."
+        },
+        {
+          "children": [],
+          "text": "Collects data and statistics from multiple sources and generates statistical analysis (e.g., EPOC, Aerobic/Anaerobic training effect)."
+        },
+        {
+          "children": [],
+          "text": "Build and deploy end-to-end data pipelines to power ML models, algorithms, bucket testing at scale."
+        },
+        {
+          "children": [],
+          "text": "Prototype customer-desired functions for wearable devices, translate sensor data into richer and more effective workout information in live and on-demand classes."
+        },
+        {
+          "children": [],
+          "text": "Incorporate feedback on proposed architectural solutions, and make final modification decisions."
+        },
+        {
+          "children": [],
+          "text": "Interaction with cross-functional team members, including hardware, FAE, QA and PM."
+        },
+        {
+          "children": [],
+          "text": "Participate in product and application definition activities including feature analysis and system tradeoffs"
+        }
+      ],
+      "text": "Software Engineer\nResponsibilities:\n*Research fundamental problems and implement fitness solutions for wearable and human interface devices using motion sensors (e.g., accelerometers, gyroscopes, magnetometers) and biosensors (e.g., PPG, ECG).\n*Collects data and statistics from multiple sources and generates statistical analysis (e.g., EPOC, Aerobic/Anaerobic training effect).\n*Build and deploy end-to-end data pipelines to power ML models, algorithms, bucket testing at scale.\nSenior Software Engineer\nSame as Software Engineer, but also...\nResponsibilities:\n*Prototype customer-desired functions for wearable devices, translate sensor data into richer and more effective workout information in live and on-demand classes.\n*Incorporate feedback on proposed architectural solutions, and make final modification decisions.\n*Interaction with cross-functional team members, including hardware, FAE, QA and PM.\n*Participate in product and application definition activities including feature analysis and system tradeoffs"
+    },
+    "employment_type_raw": "全職",
+    "title": "Software Engineer – Fitness"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路335號10樓",
+    "raw": "台北市內湖區瑞光路335號10樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "Android",
+          "C",
+          "C++",
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "Android、C、C++、Java"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Software Engineer\nMinimum qualifications:\n*BS degree in Computer Science, Engineering, Physics, Mathematics or equivalent practical experience.\n*Solid algorithms and math fundamentals, such as signal processing, statics, adaptive filters, physiology or sports science.\n*Experience with scripting languages (e.g Python) and software development languages (e.g C, C++).\n*Must demonstrate competence with researching fundamental problems and implementing appropriate algorithmic solutions.\nPreferred qualifications:\n*Ability to use a wide variety of open-source technologies.\n*Trainee positions in various fields.\n*Knowledge of MCU structure, familiar with ARM Cortex-M series.\n*Previous work or internship experience in consumer products development.\n*Experience with motion capture systems.\nSenior Software Engineer\nMinimum qualifications:\n*6 years of work experience in software development, or 3 years of experience in software development with an advanced degree.\n*Experience with the implementation of sensor data processing and industrial coding for portable or wearable devices.\n*Experience with PPG, HRV, and IMU related signal processing and analysis.\n*Proficient in developing algorithms in either C/C++.\n*Understands software design, memory management and instruction usages.\n*Previous experience working in a team environment.\nPreferred qualifications:\n*Experience in sensor fusion with multiple sensor modalities.\n*Experience in cloud services (e.g., AWS, Azure) and database technologies (MySQL, PostgreSQL, and MongoDB).\n*Excellent communication and collaboration skills.\n*Experience with motion capture systems."
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "機械工程相關"
+    ],
+    "other_text": "Software Engineer\nMinimum qualifications:\n*BS degree in Computer Science, Engineering, Physics, Mathematics or equivalent practical experience.\n*Solid algorithms and math fundamentals, such as signal processing, statics, adaptive filters, physiology or sports science.\n*Experience with scripting languages (e.g Python) and software development languages (e.g C, C++).\n*Must demonstrate competence with researching fundamental problems and implementing appropriate algorithmic solutions.\nPreferred qualifications:\n*Ability to use a wide variety of open-source technologies.\n*Trainee positions in various fields.\n*Knowledge of MCU structure, familiar with ARM Cortex-M series.\n*Previous work or internship experience in consumer products development.\n*Experience with motion capture systems.\nSenior Software Engineer\nMinimum qualifications:\n*6 years of work experience in software development, or 3 years of experience in software development with an advanced degree.\n*Experience with the implementation of sensor data processing and industrial coding for portable or wearable devices.\n*Experience with PPG, HRV, and IMU related signal processing and analysis.\n*Proficient in developing algorithms in either C/C++.\n*Understands software design, memory management and instruction usages.\n*Previous experience working in a team environment.\nPreferred qualifications:\n*Experience in sensor fusion with multiple sensor modalities.\n*Experience in cloud services (e.g., AWS, Azure) and database technologies (MySQL, PostgreSQL, and MongoDB).\n*Excellent communication and collaboration skills.\n*Experience with motion capture systems.",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n擅長工具：Android、C、C++、Java\n工作技能：軟體程式設計\n其他條件：Software Engineer\nMinimum qualifications:\n*BS degree in Computer Science, Engineering, Physics, Mathematics or equivalent practical experience.\n*Solid algorithms and math fundamentals, such as signal processing, statics, adaptive filters, physiology or sports science.\n*Experience with scripting languages (e.g Python) and software development languages (e.g C, C++).\n*Must demonstrate competence with researching fundamental problems and implementing appropriate algorithmic solutions.\nPreferred qualifications:\n*Ability to use a wide variety of open-source technologies.\n*Trainee positions in various fields.\n*Knowledge of MCU structure, familiar with ARM Cortex-M series.\n*Previous work or internship experience in consumer products development.\n*Experience with motion capture systems.\nSenior Software Engineer\nMinimum qualifications:\n*6 years of work experience in software development, or 3 years of experience in software development with an advanced degree.\n*Experience with the implementation of sensor data processing and industrial coding for portable or wearable devices.\n*Experience with PPG, HRV, and IMU related signal processing and analysis.\n*Proficient in developing algorithms in either C/C++.\n*Understands software design, memory management and instruction usages.\n*Previous experience working in a team environment.\nPreferred qualifications:\n*Experience in sensor fusion with multiple sensor modalities.\n*Experience in cloud services (e.g., AWS, Azure) and database technologies (MySQL, PostgreSQL, and MongoDB).\n*Excellent communication and collaboration skills.\n*Experience with motion capture systems.",
+    "tools": [
+      "Android",
+      "C",
+      "C++",
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 48
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:20:34+08:00"
+  },
+  "salary": {
+    "raw": "年薪500,000~2,000,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Software Engineer\nResponsibilities:\n*Research fundamental problems and implement fitness solutions for wearable and human interface devices using motion sensors (e.g., accelerometers, gyroscopes, magnetometers) and biosensors (e.g., PPG, ECG).\n*Collects data and statistics from multiple sources and generates statistical analysis (e.g., EPOC, Aerobic/Anaerobic training effect).\n*Build and deploy end-to-end data pipelines to power ML models, algorithms, bucket testing at scale.\nSenior Software Engineer\nSame as Software Engineer, but also...\nResponsibilities:\n*Prototype customer-desired functions for wearable devices, translate sensor data into richer and more effective workout information in live and on-demand classes.\n*Incorporate feedback on proposed architectural solutions, and make final modification decisions.\n*Interaction with cross-functional team members, including hardware, FAE, QA and PM.\n*Participate in product and application definition activities including feature analysis and system tradeoffs",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪500,000~2,000,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路335號10樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Software Engineer\nResponsibilities:\n*Research fundamental problems and implement fitness solutions for wearable and human interface devices using motion sensors (e.g., accelerometers, gyroscopes, magnetometers) and biosensors (e.g., PPG, ECG).\n*Collects data and statistics from multiple sources and generates statistical analysis (e.g., EPOC, Aerobic/Anaerobic training effect).\n*Build and deploy end-to-end data pipelines to power ML models, algorithms, bucket testing at scale.\nSenior Software Engineer\nSame as Software Engineer, but also...\nResponsibilities:\n*Prototype customer-desired functions for wearable devices, translate sensor data into richer and more effective workout information in live and on-demand classes.\n*Incorporate feedback on proposed architectural solutions, and make final modification decisions.\n*Interaction with cross-functional team members, including hardware, FAE, QA and PM.\n*Participate in product and application definition activities including feature analysis and system tradeoffs"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Android",
+            "C",
+            "C++",
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "Android、C、C++、Java",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Software Engineer\nMinimum qualifications:\n*BS degree in Computer Science, Engineering, Physics, Mathematics or equivalent practical experience.\n*Solid algorithms and math fundamentals, such as signal processing, statics, adaptive filters, physiology or sports science.\n*Experience with scripting languages (e.g Python) and software development languages (e.g C, C++).\n*Must demonstrate competence with researching fundamental problems and implementing appropriate algorithmic solutions.\nPreferred qualifications:\n*Ability to use a wide variety of open-source technologies.\n*Trainee positions in various fields.\n*Knowledge of MCU structure, familiar with ARM Cortex-M series.\n*Previous work or internship experience in consumer products development.\n*Experience with motion capture systems.\nSenior Software Engineer\nMinimum qualifications:\n*6 years of work experience in software development, or 3 years of experience in software development with an advanced degree.\n*Experience with the implementation of sensor data processing and industrial coding for portable or wearable devices.\n*Experience with PPG, HRV, and IMU related signal processing and analysis.\n*Proficient in developing algorithms in either C/C++.\n*Understands software design, memory management and instruction usages.\n*Previous experience working in a team environment.\nPreferred qualifications:\n*Experience in sensor fusion with multiple sensor modalities.\n*Experience in cloud services (e.g., AWS, Azure) and database technologies (MySQL, PostgreSQL, and MongoDB).\n*Excellent communication and collaboration skills.\n*Experience with motion capture systems.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n擅長工具：Android、C、C++、Java\n工作技能：軟體程式設計\n其他條件：Software Engineer\nMinimum qualifications:\n*BS degree in Computer Science, Engineering, Physics, Mathematics or equivalent practical experience.\n*Solid algorithms and math fundamentals, such as signal processing, statics, adaptive filters, physiology or sports science.\n*Experience with scripting languages (e.g Python) and software development languages (e.g C, C++).\n*Must demonstrate competence with researching fundamental problems and implementing appropriate algorithmic solutions.\nPreferred qualifications:\n*Ability to use a wide variety of open-source technologies.\n*Trainee positions in various fields.\n*Knowledge of MCU structure, familiar with ARM Cortex-M series.\n*Previous work or internship experience in consumer products development.\n*Experience with motion capture systems.\nSenior Software Engineer\nMinimum qualifications:\n*6 years of work experience in software development, or 3 years of experience in software development with an advanced degree.\n*Experience with the implementation of sensor data processing and industrial coding for portable or wearable devices.\n*Experience with PPG, HRV, and IMU related signal processing and analysis.\n*Proficient in developing algorithms in either C/C++.\n*Understands software design, memory management and instruction usages.\n*Previous experience working in a team environment.\nPreferred qualifications:\n*Experience in sensor fusion with multiple sensor modalities.\n*Experience in cloud services (e.g., AWS, Azure) and database technologies (MySQL, PostgreSQL, and MongoDB).\n*Excellent communication and collaboration skills.\n*Experience with motion capture systems."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7fcwk",
+    "job_url": "https://www.104.com.tw/job/7fcwk",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7fcwk.json",
+    "raw_sha256": "a93269a02d7b295efe7e0ca32c9549839001d7c43993a48052f976c908472999",
+    "requested_url": "https://www.104.com.tw/api/jobs/7fcwk"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "wexgons",
+    "name": "國際厚生數位科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "醫療資訊系統分析設計及程式開發撰寫、測試、維護"
+        },
+        {
+          "children": [],
+          "text": "系統線上問題排除"
+        },
+        {
+          "children": [],
+          "text": "撰寫程式測試文件、使用者操作手冊等相關文件。"
+        }
+      ],
+      "text": "1.醫療資訊系統分析設計及程式開發撰寫、測試、維護\n2.系統線上問題排除\n3.撰寫程式測試文件、使用者操作手冊等相關文件。"
+    },
+    "employment_type_raw": "全職",
+    "title": "程式設計師(彰化醫療組)"
+  },
+  "location": {
+    "address_raw": "彰化縣彰化市中山路2段2號11樓",
+    "raw": "彰化縣彰化市中山路2段2號11樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "醫務管理相關",
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "醫務管理相關、資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "C#",
+          "Delphi",
+          "Oracle",
+          "PostgreSQL",
+          "JavaScript",
+          "jQuery",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Delphi、Oracle、PostgreSQL、JavaScript、jQuery、CSS"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.Prompt Engineering（提示設計）能力：能將需求拆解為結構化指令（含條件、限制、輸出格式），提升 AI 輸出品質與穩定性\n2.AI 輸出驗證與調整能力：能檢視 AI 結果之正確性、邏輯性與可執行性，並進行必要修正或重構（而非直接採用）\n3.AI 輔助開發整合能力（加分關鍵）：能將 AI 工具融入開發流程（如 coding、debug、test、文件），提升開發效率與品質\n4.資料安全與合規意識：了解 AI 使用之資安風險、機敏資料控管與著作權原則，避免不當資料外洩\n5.以C#開發Web及Window程式，熟Oracle/SQL SERVER資料庫語法\n6.具醫療資訊系統設計經驗尤佳\n7.具良好溝通能力及團隊合作精神\n8.可獨立進行系統設計並具獨立作業能力\n--"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "醫務管理相關",
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.Prompt Engineering（提示設計）能力：能將需求拆解為結構化指令（含條件、限制、輸出格式），提升 AI 輸出品質與穩定性\n2.AI 輸出驗證與調整能力：能檢視 AI 結果之正確性、邏輯性與可執行性，並進行必要修正或重構（而非直接採用）\n3.AI 輔助開發整合能力（加分關鍵）：能將 AI 工具融入開發流程（如 coding、debug、test、文件），提升開發效率與品質\n4.資料安全與合規意識：了解 AI 使用之資安風險、機敏資料控管與著作權原則，避免不當資料外洩\n5.以C#開發Web及Window程式，熟Oracle/SQL SERVER資料庫語法\n6.具醫療資訊系統設計經驗尤佳\n7.具良好溝通能力及團隊合作精神\n8.可獨立進行系統設計並具獨立作業能力\n--",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：醫務管理相關、資訊管理相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C#、Delphi、Oracle、PostgreSQL、JavaScript、jQuery、CSS\n其他條件：1.Prompt Engineering（提示設計）能力：能將需求拆解為結構化指令（含條件、限制、輸出格式），提升 AI 輸出品質與穩定性\n2.AI 輸出驗證與調整能力：能檢視 AI 結果之正確性、邏輯性與可執行性，並進行必要修正或重構（而非直接採用）\n3.AI 輔助開發整合能力（加分關鍵）：能將 AI 工具融入開發流程（如 coding、debug、test、文件），提升開發效率與品質\n4.資料安全與合規意識：了解 AI 使用之資安風險、機敏資料控管與著作權原則，避免不當資料外洩\n5.以C#開發Web及Window程式，熟Oracle/SQL SERVER資料庫語法\n6.具醫療資訊系統設計經驗尤佳\n7.具良好溝通能力及團隊合作精神\n8.可獨立進行系統設計並具獨立作業能力\n--",
+    "tools": [
+      "C#",
+      "Delphi",
+      "Oracle",
+      "PostgreSQL",
+      "JavaScript",
+      "jQuery",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 26
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:25:25+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.醫療資訊系統分析設計及程式開發撰寫、測試、維護\n2.系統線上問題排除\n3.撰寫程式測試文件、使用者操作手冊等相關文件。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "彰化縣彰化市中山路2段2號11樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.醫療資訊系統分析設計及程式開發撰寫、測試、維護\n2.系統線上問題排除\n3.撰寫程式測試文件、使用者操作手冊等相關文件。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "醫務管理相關",
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "醫務管理相關、資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Delphi",
+            "Oracle",
+            "PostgreSQL",
+            "JavaScript",
+            "jQuery",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Delphi、Oracle、PostgreSQL、JavaScript、jQuery、CSS",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.Prompt Engineering（提示設計）能力：能將需求拆解為結構化指令（含條件、限制、輸出格式），提升 AI 輸出品質與穩定性\n2.AI 輸出驗證與調整能力：能檢視 AI 結果之正確性、邏輯性與可執行性，並進行必要修正或重構（而非直接採用）\n3.AI 輔助開發整合能力（加分關鍵）：能將 AI 工具融入開發流程（如 coding、debug、test、文件），提升開發效率與品質\n4.資料安全與合規意識：了解 AI 使用之資安風險、機敏資料控管與著作權原則，避免不當資料外洩\n5.以C#開發Web及Window程式，熟Oracle/SQL SERVER資料庫語法\n6.具醫療資訊系統設計經驗尤佳\n7.具良好溝通能力及團隊合作精神\n8.可獨立進行系統設計並具獨立作業能力\n--",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：醫務管理相關、資訊管理相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C#、Delphi、Oracle、PostgreSQL、JavaScript、jQuery、CSS\n其他條件：1.Prompt Engineering（提示設計）能力：能將需求拆解為結構化指令（含條件、限制、輸出格式），提升 AI 輸出品質與穩定性\n2.AI 輸出驗證與調整能力：能檢視 AI 結果之正確性、邏輯性與可執行性，並進行必要修正或重構（而非直接採用）\n3.AI 輔助開發整合能力（加分關鍵）：能將 AI 工具融入開發流程（如 coding、debug、test、文件），提升開發效率與品質\n4.資料安全與合規意識：了解 AI 使用之資安風險、機敏資料控管與著作權原則，避免不當資料外洩\n5.以C#開發Web及Window程式，熟Oracle/SQL SERVER資料庫語法\n6.具醫療資訊系統設計經驗尤佳\n7.具良好溝通能力及團隊合作精神\n8.可獨立進行系統設計並具獨立作業能力\n--"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91tes",
+    "job_url": "https://www.104.com.tw/job/91tes",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91tes.json",
+    "raw_sha256": "8426ee03d9492bcf3256ec78d0ccb2aaaa54ca58d4f4a788b7ad54e77d00038f",
+    "requested_url": "https://www.104.com.tw/api/jobs/91tes"
+  }
+}

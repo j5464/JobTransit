@@ -1,0 +1,178 @@
+{
+  "company": {
+    "id": "olmlwc8",
+    "name": "行動貝果有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop and maintain user interfaces with React"
+        },
+        {
+          "children": [],
+          "text": "Optimize web applications for speed and scalability"
+        },
+        {
+          "children": [],
+          "text": "Collaborate with backend teams to design and integrate APIs"
+        },
+        {
+          "children": [],
+          "text": "Ensure code quality through testing and peer reviews"
+        },
+        {
+          "children": [],
+          "text": "Deliver high-quality, responsive, and intuitive user experiences"
+        },
+        {
+          "children": [],
+          "text": "Enhance platform reliability and scalability for a growing user base"
+        },
+        {
+          "children": [],
+          "text": "Contribute to technical decision-making and mentorship of junior developers"
+        },
+        {
+          "children": [],
+          "text": "Bachelor’s degree in Computer Science or related field"
+        },
+        {
+          "children": [],
+          "text": "3+ years of experience in frontend development"
+        },
+        {
+          "children": [],
+          "text": "Proficiency in React, Vue, and modern web development practices"
+        },
+        {
+          "children": [],
+          "text": "Strong debugging and problem-solving skills"
+        },
+        {
+          "children": [],
+          "text": "At MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and be part of a dynamic and fast-paced startup environment."
+        }
+      ],
+      "text": "Please submit your resume via the following link：https://mobagel.typeform.com/to/ojShbwVv\nJob Function\n-Develop and maintain user interfaces with React\n-Optimize web applications for speed and scalability\n-Collaborate with backend teams to design and integrate APIs\n-Ensure code quality through testing and peer reviews\nYour Impact\n-Deliver high-quality, responsive, and intuitive user experiences\n-Enhance platform reliability and scalability for a growing user base\n-Contribute to technical decision-making and mentorship of junior developers\nQualifications\n-Bachelor’s degree in Computer Science or related field\n-3+ years of experience in frontend development\n-Proficiency in React, Vue, and modern web development practices\n-Strong debugging and problem-solving skills\nJoin Us\n- At MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and be part of a dynamic and fast-paced startup environment."
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior Frontend Engineer 前端工程師(React)"
+  },
+  "location": {
+    "address_raw": "台北市信義區4F No. 51, Dongxing Road, Xinyi District, Taipei City, Taiwan",
+    "raw": "台北市信義區4F No. 51, Dongxing Road, Xinyi District, Taipei City, Taiwan"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 43
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:08:39+08:00"
+  },
+  "salary": {
+    "raw": "年薪1,000,000~1,600,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Please submit your resume via the following link：https://mobagel.typeform.com/to/ojShbwVv\nJob Function\n-Develop and maintain user interfaces with React\n-Optimize web applications for speed and scalability\n-Collaborate with backend teams to design and integrate APIs\n-Ensure code quality through testing and peer reviews\nYour Impact\n-Deliver high-quality, responsive, and intuitive user experiences\n-Enhance platform reliability and scalability for a growing user base\n-Contribute to technical decision-making and mentorship of junior developers\nQualifications\n-Bachelor’s degree in Computer Science or related field\n-3+ years of experience in frontend development\n-Proficiency in React, Vue, and modern web development practices\n-Strong debugging and problem-solving skills\nJoin Us\n- At MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and be part of a dynamic and fast-paced startup environment.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪1,000,000~1,600,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區4F No. 51, Dongxing Road, Xinyi District, Taipei City, Taiwan",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Please submit your resume via the following link：https://mobagel.typeform.com/to/ojShbwVv\nJob Function\n-Develop and maintain user interfaces with React\n-Optimize web applications for speed and scalability\n-Collaborate with backend teams to design and integrate APIs\n-Ensure code quality through testing and peer reviews\nYour Impact\n-Deliver high-quality, responsive, and intuitive user experiences\n-Enhance platform reliability and scalability for a growing user base\n-Contribute to technical decision-making and mentorship of junior developers\nQualifications\n-Bachelor’s degree in Computer Science or related field\n-3+ years of experience in frontend development\n-Proficiency in React, Vue, and modern web development practices\n-Strong debugging and problem-solving skills\nJoin Us\n- At MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and be part of a dynamic and fast-paced startup environment."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8i1y2",
+    "job_url": "https://www.104.com.tw/job/8i1y2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8i1y2.json",
+    "raw_sha256": "7142f8dbda4fad4ebb046356fda359066fa0b1ef98ba599f099ef762501fb664",
+    "requested_url": "https://www.104.com.tw/api/jobs/8i1y2"
+  }
+}

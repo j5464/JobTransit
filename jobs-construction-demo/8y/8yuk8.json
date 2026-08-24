@@ -1,0 +1,144 @@
+{
+  "company": {
+    "id": "1a2x6bkcb8",
+    "name": "高雄市政府資訊處"
+  },
+  "job": {
+    "categories": [
+      "其他資訊專業人員",
+      "網路管理工程師",
+      "資訊設備管制人員"
+    ],
+    "description": {
+      "items": [],
+      "text": "工作項目：\n一、電腦機房軟硬體資訊設備規劃與維護管理。\n二、網路設備及網路基礎服務等維護與管理推動。\n三、其他臨時交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "約僱人員-資訊機房設備"
+  },
+  "location": {
+    "address_raw": "高雄市苓雅區四維三路2號8樓",
+    "raw": "高雄市苓雅區四維三路2號8樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "資格條件：國內外專科以上學校畢業者。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "資格條件：國內外專科以上學校畢業者。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n其他條件：資格條件：國內外專科以上學校畢業者。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 6
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:35:18+08:00"
+  },
+  "salary": {
+    "raw": "月薪38,948~40,339元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作項目：\n一、電腦機房軟硬體資訊設備規劃與維護管理。\n二、網路設備及網路基礎服務等維護與管理推動。\n三、其他臨時交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "其他資訊專業人員",
+            "網路管理工程師",
+            "資訊設備管制人員"
+          ],
+          "label": "職務類別",
+          "text": "其他資訊專業人員、網路管理工程師、資訊設備管制人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪38,948~40,339元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市苓雅區四維三路2號8樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作項目：\n一、電腦機房軟硬體資訊設備規劃與維護管理。\n二、網路設備及網路基礎服務等維護與管理推動。\n三、其他臨時交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "資格條件：國內外專科以上學校畢業者。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n其他條件：資格條件：國內外專科以上學校畢業者。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8yuk8",
+    "job_url": "https://www.104.com.tw/job/8yuk8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8yuk8.json",
+    "raw_sha256": "65c5f75d4d1f8d380694b77d24d5cfc4935bcc9fb5108aa64b8c8bb1da62f63f",
+    "requested_url": "https://www.104.com.tw/api/jobs/8yuk8"
+  }
+}

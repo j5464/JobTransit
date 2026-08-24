@@ -1,0 +1,182 @@
+{
+  "company": {
+    "id": "akp9q3c",
+    "name": "新壽公寓大廈管理維護股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資訊助理",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [],
+      "text": "＊負責公司資訊系統專案之規劃、執行與進度控管\n＊跨部門溝通協調，整合需求\n＊管理委外廠商(系統開發、設備導入、維運)與驗收流程\n＊建立專案管理機制(時程、風險、品質、變更管理)\n＊協助資訊治理制度建立(SOP、文件化、流程標準化)\n＊定期向主管回報專案進度與成果"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊助理"
+  },
+  "location": {
+    "address_raw": "台北市中正區忠孝西路一段66號18樓",
+    "raw": "台北市中正區忠孝西路一段66號18樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關"
+      },
+      {
+        "items": [
+          "Excel",
+          "Word",
+          "PowerPoint"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Word、PowerPoint"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "一、必備條件\n1.熟悉專案管理流程(如時程控管、風險控管、需求管理)\n2.具備跨部門溝通協調能力\n3.熟悉基本IT架構概念(網路、伺服器、資料庫)"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關"
+    ],
+    "other_text": "一、必備條件\n1.熟悉專案管理流程(如時程控管、風險控管、需求管理)\n2.具備跨部門溝通協調能力\n3.熟悉基本IT架構概念(網路、伺服器、資料庫)",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：資訊管理相關\n擅長工具：Excel、Word、PowerPoint\n其他條件：一、必備條件\n1.熟悉專案管理流程(如時程控管、風險控管、需求管理)\n2.具備跨部門溝通協調能力\n3.熟悉基本IT架構概念(網路、伺服器、資料庫)",
+    "tools": [
+      "Excel",
+      "Word",
+      "PowerPoint"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 68
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:10:13+08:00"
+  },
+  "salary": {
+    "raw": "月薪39,000~43,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "＊負責公司資訊系統專案之規劃、執行與進度控管\n＊跨部門溝通協調，整合需求\n＊管理委外廠商(系統開發、設備導入、維運)與驗收流程\n＊建立專案管理機制(時程、風險、品質、變更管理)\n＊協助資訊治理制度建立(SOP、文件化、流程標準化)\n＊定期向主管回報專案進度與成果",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資訊助理",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "資訊助理、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪39,000~43,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區忠孝西路一段66號18樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "＊負責公司資訊系統專案之規劃、執行與進度控管\n＊跨部門溝通協調，整合需求\n＊管理委外廠商(系統開發、設備導入、維運)與驗收流程\n＊建立專案管理機制(時程、風險、品質、變更管理)\n＊協助資訊治理制度建立(SOP、文件化、流程標準化)\n＊定期向主管回報專案進度與成果"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Word",
+            "PowerPoint"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Word、PowerPoint",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "一、必備條件\n1.熟悉專案管理流程(如時程控管、風險控管、需求管理)\n2.具備跨部門溝通協調能力\n3.熟悉基本IT架構概念(網路、伺服器、資料庫)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：資訊管理相關\n擅長工具：Excel、Word、PowerPoint\n其他條件：一、必備條件\n1.熟悉專案管理流程(如時程控管、風險控管、需求管理)\n2.具備跨部門溝通協調能力\n3.熟悉基本IT架構概念(網路、伺服器、資料庫)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "913kp",
+    "job_url": "https://www.104.com.tw/job/913kp",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/913kp.json",
+    "raw_sha256": "6573ee38dfeb72186fc1b94b8c089bcfd87f19c8b8515dd33b5df855b049927d",
+    "requested_url": "https://www.104.com.tw/api/jobs/913kp"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "company": {
+    "id": "18lpfdc0",
+    "name": "英特內軟體股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Java 基礎：OOP、例外處理、集合。"
+        },
+        {
+          "children": [],
+          "text": "Spring：Spring MVC、REST API、JDBC/JPA。"
+        },
+        {
+          "children": [],
+          "text": "Hibernate：ORM Mapping、HQL、交易處理。"
+        },
+        {
+          "children": [],
+          "text": "MSSQL：T-SQL、Stored Procedure、Index。"
+        },
+        {
+          "children": [],
+          "text": "維護範疇：Servlet、JSP、Struts2、Java Applet。"
+        },
+        {
+          "children": [],
+          "text": "前基礎：HTML、CSS、JavaScript。"
+        },
+        {
+          "children": [],
+          "text": "金融／證券相關系統之申報與維運。"
+        },
+        {
+          "children": [],
+          "text": "現有網頁系統維護與功能調整。"
+        },
+        {
+          "children": [],
+          "text": "依據 SA 所撰寫之規格文件進行程式開發與測試。"
+        },
+        {
+          "children": [],
+          "text": "參與新需求分析、開發、驗證及上線作業。"
+        },
+        {
+          "children": [],
+          "text": "協助排除系統問題並提供技術支援、客戶端駐點問題解決。"
+        }
+      ],
+      "text": "英特內軟體現有主力產品為人力資源管理系統及Java軟體技術開發，在這兩個領域中都是台灣本土廠商首屈一指的公司。我們目前正積極研發：具AI特性的新世代人力資源產品、低程式碼線上表單開發平台及其他前沿產品，希望對新技術應用至商業軟體具有熱誠的夥伴加入。\n1. Java 基礎：OOP、例外處理、集合。\n2. Spring：Spring MVC、REST API、JDBC/JPA。\n3. Hibernate：ORM Mapping、HQL、交易處理。\n4. MSSQL：T-SQL、Stored Procedure、Index。\n5. 維護範疇：Servlet、JSP、Struts2、Java Applet。\n6. 前基礎：HTML、CSS、JavaScript。\n【工作內容】\n1. 金融／證券相關系統之申報與維運。\n2. 現有網頁系統維護與功能調整。\n3. 依據 SA 所撰寫之規格文件進行程式開發與測試。\n4. 參與新需求分析、開發、驗證及上線作業。\n5. 協助排除系統問題並提供技術支援、客戶端駐點問題解決。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【系統處-技術二部】程式設計師"
+  },
+  "location": {
+    "address_raw": "新北市中和區",
+    "raw": "新北市中和區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "Java",
+          "Spring"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Spring"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "中英打字速度：達50個字。\n本職缺進入錄取程序後，公司將依任用需要進行履歷資料查核，敬請應徵者預先知悉，並準備至少二位可供聯繫查證之參考人聯絡資訊，以利後續查核作業。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "中英打字速度：達50個字。\n本職缺進入錄取程序後，公司將依任用需要進行履歷資料查核，敬請應徵者預先知悉，並準備至少二位可供聯繫查證之參考人聯絡資訊，以利後續查核作業。",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Java、Spring\n工作技能：軟體程式設計\n其他條件：中英打字速度：達50個字。\n本職缺進入錄取程序後，公司將依任用需要進行履歷資料查核，敬請應徵者預先知悉，並準備至少二位可供聯繫查證之參考人聯絡資訊，以利後續查核作業。",
+    "tools": [
+      "Java",
+      "Spring"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 62
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:54:09+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "英特內軟體現有主力產品為人力資源管理系統及Java軟體技術開發，在這兩個領域中都是台灣本土廠商首屈一指的公司。我們目前正積極研發：具AI特性的新世代人力資源產品、低程式碼線上表單開發平台及其他前沿產品，希望對新技術應用至商業軟體具有熱誠的夥伴加入。\n1. Java 基礎：OOP、例外處理、集合。\n2. Spring：Spring MVC、REST API、JDBC/JPA。\n3. Hibernate：ORM Mapping、HQL、交易處理。\n4. MSSQL：T-SQL、Stored Procedure、Index。\n5. 維護範疇：Servlet、JSP、Struts2、Java Applet。\n6. 前基礎：HTML、CSS、JavaScript。\n【工作內容】\n1. 金融／證券相關系統之申報與維運。\n2. 現有網頁系統維護與功能調整。\n3. 依據 SA 所撰寫之規格文件進行程式開發與測試。\n4. 參與新需求分析、開發、驗證及上線作業。\n5. 協助排除系統問題並提供技術支援、客戶端駐點問題解決。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "英特內軟體現有主力產品為人力資源管理系統及Java軟體技術開發，在這兩個領域中都是台灣本土廠商首屈一指的公司。我們目前正積極研發：具AI特性的新世代人力資源產品、低程式碼線上表單開發平台及其他前沿產品，希望對新技術應用至商業軟體具有熱誠的夥伴加入。\n1. Java 基礎：OOP、例外處理、集合。\n2. Spring：Spring MVC、REST API、JDBC/JPA。\n3. Hibernate：ORM Mapping、HQL、交易處理。\n4. MSSQL：T-SQL、Stored Procedure、Index。\n5. 維護範疇：Servlet、JSP、Struts2、Java Applet。\n6. 前基礎：HTML、CSS、JavaScript。\n【工作內容】\n1. 金融／證券相關系統之申報與維運。\n2. 現有網頁系統維護與功能調整。\n3. 依據 SA 所撰寫之規格文件進行程式開發與測試。\n4. 參與新需求分析、開發、驗證及上線作業。\n5. 協助排除系統問題並提供技術支援、客戶端駐點問題解決。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Spring"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Spring",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "中英打字速度：達50個字。\n本職缺進入錄取程序後，公司將依任用需要進行履歷資料查核，敬請應徵者預先知悉，並準備至少二位可供聯繫查證之參考人聯絡資訊，以利後續查核作業。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Java、Spring\n工作技能：軟體程式設計\n其他條件：中英打字速度：達50個字。\n本職缺進入錄取程序後，公司將依任用需要進行履歷資料查核，敬請應徵者預先知悉，並準備至少二位可供聯繫查證之參考人聯絡資訊，以利後續查核作業。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8w46m",
+    "job_url": "https://www.104.com.tw/job/8w46m",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8w46m.json",
+    "raw_sha256": "c15af8eeb4fcede8eaf869b1493b4f12e3cc78acd72817364bd013aca9c5f310",
+    "requested_url": "https://www.104.com.tw/api/jobs/8w46m"
+  }
+}

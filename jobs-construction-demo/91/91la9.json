@@ -1,0 +1,277 @@
+{
+  "company": {
+    "id": "wexgons",
+    "name": "國際厚生數位科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資訊設備管制人員",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "防火牆、網路設備安裝、設定、維護"
+        },
+        {
+          "children": [],
+          "text": "網域(Microsoft Active Directory)、資訊系統建置及管理與維護"
+        },
+        {
+          "children": [],
+          "text": "各單位電腦軟硬體安裝、維修、電腦問題處理"
+        },
+        {
+          "children": [],
+          "text": "網路建置管理(ForitGate、Cisco switch等)。"
+        },
+        {
+          "children": [],
+          "text": "資訊合約文件管理"
+        },
+        {
+          "children": [],
+          "text": "ISO 27001文件管理及執行"
+        },
+        {
+          "children": [],
+          "text": "配合資訊相關作業之推動與運作"
+        },
+        {
+          "children": [],
+          "text": "執行主管交辦事項"
+        },
+        {
+          "children": [],
+          "text": "需值班ON CALL"
+        }
+      ],
+      "text": "1.防火牆、網路設備安裝、設定、維護\n2.網域(Microsoft Active Directory)、資訊系統建置及管理與維護\n3.各單位電腦軟硬體安裝、維修、電腦問題處理\n4.網路建置管理(ForitGate、Cisco switch等)。\n5.資訊合約文件管理\n6. ISO 27001文件管理及執行\n7.配合資訊相關作業之推動與運作\n8.執行主管交辦事項\n9.需值班ON CALL"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統維護工程師(駐點台南市立醫院)"
+  },
+  "location": {
+    "address_raw": "台南市東區崇德路 670 號",
+    "raw": "台南市東區崇德路 670 號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Windows 10",
+          "Ethernet",
+          "Firewall",
+          "IIS",
+          "Routers",
+          "TCP/IP"
+        ],
+        "label": "擅長工具",
+        "text": "Windows 10、Ethernet、Firewall、IIS、Routers、TCP/IP"
+      },
+      {
+        "items": [
+          "系統架構規劃與維護",
+          "安裝與維護網路安全系統",
+          "規劃與管理防火牆",
+          "網路架設佈線",
+          "網路設備設定安裝"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃與維護、安裝與維護網路安全系統、規劃與管理防火牆、網路架設佈線、網路設備設定安裝"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.網路管理或硬體維護經驗2年以上者為佳\n2.熟伺服器作業系統管理：Windows Server、Linux…等\n3.具電腦硬體裝修、網路架設、CCNA證照尤佳\n4.具ISO 27001:2022證照尤佳"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.網路管理或硬體維護經驗2年以上者為佳\n2.熟伺服器作業系統管理：Windows Server、Linux…等\n3.具電腦硬體裝修、網路架設、CCNA證照尤佳\n4.具ISO 27001:2022證照尤佳",
+    "skills": [
+      "系統架構規劃與維護",
+      "安裝與維護網路安全系統",
+      "規劃與管理防火牆",
+      "網路架設佈線",
+      "網路設備設定安裝"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Windows 10、Ethernet、Firewall、IIS、Routers、TCP/IP\n工作技能：系統架構規劃與維護、安裝與維護網路安全系統、規劃與管理防火牆、網路架設佈線、網路設備設定安裝\n其他條件：1.網路管理或硬體維護經驗2年以上者為佳\n2.熟伺服器作業系統管理：Windows Server、Linux…等\n3.具電腦硬體裝修、網路架設、CCNA證照尤佳\n4.具ISO 27001:2022證照尤佳",
+    "tools": [
+      "Windows 10",
+      "Ethernet",
+      "Firewall",
+      "IIS",
+      "Routers",
+      "TCP/IP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 48
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:20:51+08:00"
+  },
+  "salary": {
+    "raw": "月薪34,000~40,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.防火牆、網路設備安裝、設定、維護\n2.網域(Microsoft Active Directory)、資訊系統建置及管理與維護\n3.各單位電腦軟硬體安裝、維修、電腦問題處理\n4.網路建置管理(ForitGate、Cisco switch等)。\n5.資訊合約文件管理\n6. ISO 27001文件管理及執行\n7.配合資訊相關作業之推動與運作\n8.執行主管交辦事項\n9.需值班ON CALL",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資訊設備管制人員",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "資訊設備管制人員、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪34,000~40,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市東區崇德路 670 號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.防火牆、網路設備安裝、設定、維護\n2.網域(Microsoft Active Directory)、資訊系統建置及管理與維護\n3.各單位電腦軟硬體安裝、維修、電腦問題處理\n4.網路建置管理(ForitGate、Cisco switch等)。\n5.資訊合約文件管理\n6. ISO 27001文件管理及執行\n7.配合資訊相關作業之推動與運作\n8.執行主管交辦事項\n9.需值班ON CALL"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Windows 10",
+            "Ethernet",
+            "Firewall",
+            "IIS",
+            "Routers",
+            "TCP/IP"
+          ],
+          "label": "擅長工具",
+          "text": "Windows 10、Ethernet、Firewall、IIS、Routers、TCP/IP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃與維護",
+            "安裝與維護網路安全系統",
+            "規劃與管理防火牆",
+            "網路架設佈線",
+            "網路設備設定安裝"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃與維護、安裝與維護網路安全系統、規劃與管理防火牆、網路架設佈線、網路設備設定安裝",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.網路管理或硬體維護經驗2年以上者為佳\n2.熟伺服器作業系統管理：Windows Server、Linux…等\n3.具電腦硬體裝修、網路架設、CCNA證照尤佳\n4.具ISO 27001:2022證照尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Windows 10、Ethernet、Firewall、IIS、Routers、TCP/IP\n工作技能：系統架構規劃與維護、安裝與維護網路安全系統、規劃與管理防火牆、網路架設佈線、網路設備設定安裝\n其他條件：1.網路管理或硬體維護經驗2年以上者為佳\n2.熟伺服器作業系統管理：Windows Server、Linux…等\n3.具電腦硬體裝修、網路架設、CCNA證照尤佳\n4.具ISO 27001:2022證照尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91la9",
+    "job_url": "https://www.104.com.tw/job/91la9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91la9.json",
+    "raw_sha256": "9bb3b9b82da90df05a6cb36c8092348a85fd8dfdc45ebea8e41b8d7967556a3c",
+    "requested_url": "https://www.104.com.tw/api/jobs/91la9"
+  }
+}

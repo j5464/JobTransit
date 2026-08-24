@@ -1,0 +1,286 @@
+{
+  "company": {
+    "id": "1a2x6bnfbg",
+    "name": "蘇正股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "遊戲工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop medical education game-related system features using Unity."
+        },
+        {
+          "children": [],
+          "text": "Participate in project development, subsequent updates, and maintenance."
+        },
+        {
+          "children": [],
+          "text": "Design and write flexible, highly maintainable C# code."
+        },
+        {
+          "children": [],
+          "text": "Customize backend systems according to the requirements of different medical institutions."
+        },
+        {
+          "children": [],
+          "text": "Provide necessary technical documentation and professional support for projects."
+        },
+        {
+          "children": [],
+          "text": "Communicate directly with the game lead, requiring proficiency in English communication."
+        },
+        {
+          "children": [],
+          "text": "Degree in Computer Science, Game Design, or related field, or equivalent self-taught experience."
+        },
+        {
+          "children": [],
+          "text": "At least 1 year of Unity development experience (including school projects or personal work)."
+        },
+        {
+          "children": [],
+          "text": "Proficient in C# programming fundamentals."
+        },
+        {
+          "children": [],
+          "text": "Portfolio of 1–2 showcase-worthy Unity projects."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with the basic functions of the Unity engine."
+        },
+        {
+          "children": [],
+          "text": "Basic UI design and implementation skills."
+        },
+        {
+          "children": [],
+          "text": "Proficient with version control tools such as Git."
+        },
+        {
+          "children": [],
+          "text": "Strong teamwork and cross-departmental communication skills."
+        },
+        {
+          "children": [],
+          "text": "Creative thinking and problem-solving abilities."
+        },
+        {
+          "children": [],
+          "text": "Willingness and ability to learn independently and adapt to new challenges."
+        },
+        {
+          "children": [],
+          "text": "Interest in interactive content for medical or educational applications."
+        },
+        {
+          "children": [],
+          "text": "Basic knowledge of Unreal Engine or TouchDesigner."
+        },
+        {
+          "children": [],
+          "text": "Basic understanding of 3D modeling and animation."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with visual design and user experience fundamentals."
+        },
+        {
+          "children": [],
+          "text": "Basic understanding of multi-platform deployment (web, mobile)."
+        },
+        {
+          "children": [],
+          "text": "Experience participating in a complete project development cycle."
+        },
+        {
+          "children": [],
+          "text": "Experience in software testing or backend system integration."
+        },
+        {
+          "children": [],
+          "text": "Open-minded and curious about emerging technologies."
+        }
+      ],
+      "text": "Company Overview\nJervois Plus is a Hong Kong-based multimedia production team that offers media and technical consulting. We are looking for talents to work with our joint company, Pacific Meta, to develop their product that will be widely used in medical and hospital training.\nPacific Meta is a technology company focused on developing training games and serious games that transform professional training into engaging, interactive learning experiences.\nOur products are primarily used in healthcare, caregiving, and professional skills training, allowing learners to practice real-world procedures through simulation-based scenarios in a safe and repeatable environment. By combining game design with practical training needs, we help users build confidence and improve performance effectively.\nWe believe effective training goes beyond delivering information—it enables people to truly learn by doing. Pacific Meta works closely with professional institutions to create training solutions that balance accuracy, usability, and learning impact.\nhttps://www.pacificmeta.io/index.php\nYOUR MISSION\n- Develop medical education game-related system features using Unity.\n- Participate in project development, subsequent updates, and maintenance.\n- Design and write flexible, highly maintainable C# code.\n- Customize backend systems according to the requirements of different medical institutions.\n- Provide necessary technical documentation and professional support for projects.\n- Communicate directly with the game lead, requiring proficiency in English communication.\nYOUR HEROIC SKILLS\n- Degree in Computer Science, Game Design, or related field, or equivalent self-taught experience.\n- At least 1 year of Unity development experience (including school projects or personal work).\n- Proficient in C# programming fundamentals.\n- Portfolio of 1–2 showcase-worthy Unity projects.\n- Familiarity with the basic functions of the Unity engine.\n- Basic UI design and implementation skills.\n- Proficient with version control tools such as Git.\n- Strong teamwork and cross-departmental communication skills.\n- Creative thinking and problem-solving abilities.\n- Willingness and ability to learn independently and adapt to new challenges.\nNICE TO HAVE\n- Interest in interactive content for medical or educational applications.\n- Basic knowledge of Unreal Engine or TouchDesigner.\n- Basic understanding of 3D modeling and animation.\n- Familiarity with visual design and user experience fundamentals.\n- Basic understanding of multi-platform deployment (web, mobile).\n- Experience participating in a complete project development cycle.\n- Experience in software testing or backend system integration.\n- Open-minded and curious about emerging technologies."
+    },
+    "employment_type_raw": "全職",
+    "title": "Unity遊戲工程師"
+  },
+  "location": {
+    "address_raw": "新北市林口區文化二路1段354號之1(1樓)",
+    "raw": "新北市林口區文化二路1段354號之1(1樓)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "C#",
+          "Unreal Engine",
+          "Unity"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Unreal Engine、Unity"
+      },
+      {
+        "items": [
+          "遊戲開發",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "遊戲開發、資料庫程式設計"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "遊戲開發",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n語文條件：英文：精通、精通、精通、精通\n擅長工具：C#、Unreal Engine、Unity\n工作技能：遊戲開發、資料庫程式設計",
+    "tools": [
+      "C#",
+      "Unreal Engine",
+      "Unity"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 31
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:38:19+08:00"
+  },
+  "salary": {
+    "raw": "月薪58,000~72,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Company Overview\nJervois Plus is a Hong Kong-based multimedia production team that offers media and technical consulting. We are looking for talents to work with our joint company, Pacific Meta, to develop their product that will be widely used in medical and hospital training.\nPacific Meta is a technology company focused on developing training games and serious games that transform professional training into engaging, interactive learning experiences.\nOur products are primarily used in healthcare, caregiving, and professional skills training, allowing learners to practice real-world procedures through simulation-based scenarios in a safe and repeatable environment. By combining game design with practical training needs, we help users build confidence and improve performance effectively.\nWe believe effective training goes beyond delivering information—it enables people to truly learn by doing. Pacific Meta works closely with professional institutions to create training solutions that balance accuracy, usability, and learning impact.\nhttps://www.pacificmeta.io/index.php\nYOUR MISSION\n- Develop medical education game-related system features using Unity.\n- Participate in project development, subsequent updates, and maintenance.\n- Design and write flexible, highly maintainable C# code.\n- Customize backend systems according to the requirements of different medical institutions.\n- Provide necessary technical documentation and professional support for projects.\n- Communicate directly with the game lead, requiring proficiency in English communication.\nYOUR HEROIC SKILLS\n- Degree in Computer Science, Game Design, or related field, or equivalent self-taught experience.\n- At least 1 year of Unity development experience (including school projects or personal work).\n- Proficient in C# programming fundamentals.\n- Portfolio of 1–2 showcase-worthy Unity projects.\n- Familiarity with the basic functions of the Unity engine.\n- Basic UI design and implementation skills.\n- Proficient with version control tools such as Git.\n- Strong teamwork and cross-departmental communication skills.\n- Creative thinking and problem-solving abilities.\n- Willingness and ability to learn independently and adapt to new challenges.\nNICE TO HAVE\n- Interest in interactive content for medical or educational applications.\n- Basic knowledge of Unreal Engine or TouchDesigner.\n- Basic understanding of 3D modeling and animation.\n- Familiarity with visual design and user experience fundamentals.\n- Basic understanding of multi-platform deployment (web, mobile).\n- Experience participating in a complete project development cycle.\n- Experience in software testing or backend system integration.\n- Open-minded and curious about emerging technologies.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "遊戲工程師"
+          ],
+          "label": "職務類別",
+          "text": "遊戲工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪58,000~72,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市林口區文化二路1段354號之1(1樓)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Company Overview\nJervois Plus is a Hong Kong-based multimedia production team that offers media and technical consulting. We are looking for talents to work with our joint company, Pacific Meta, to develop their product that will be widely used in medical and hospital training.\nPacific Meta is a technology company focused on developing training games and serious games that transform professional training into engaging, interactive learning experiences.\nOur products are primarily used in healthcare, caregiving, and professional skills training, allowing learners to practice real-world procedures through simulation-based scenarios in a safe and repeatable environment. By combining game design with practical training needs, we help users build confidence and improve performance effectively.\nWe believe effective training goes beyond delivering information—it enables people to truly learn by doing. Pacific Meta works closely with professional institutions to create training solutions that balance accuracy, usability, and learning impact.\nhttps://www.pacificmeta.io/index.php\nYOUR MISSION\n- Develop medical education game-related system features using Unity.\n- Participate in project development, subsequent updates, and maintenance.\n- Design and write flexible, highly maintainable C# code.\n- Customize backend systems according to the requirements of different medical institutions.\n- Provide necessary technical documentation and professional support for projects.\n- Communicate directly with the game lead, requiring proficiency in English communication.\nYOUR HEROIC SKILLS\n- Degree in Computer Science, Game Design, or related field, or equivalent self-taught experience.\n- At least 1 year of Unity development experience (including school projects or personal work).\n- Proficient in C# programming fundamentals.\n- Portfolio of 1–2 showcase-worthy Unity projects.\n- Familiarity with the basic functions of the Unity engine.\n- Basic UI design and implementation skills.\n- Proficient with version control tools such as Git.\n- Strong teamwork and cross-departmental communication skills.\n- Creative thinking and problem-solving abilities.\n- Willingness and ability to learn independently and adapt to new challenges.\nNICE TO HAVE\n- Interest in interactive content for medical or educational applications.\n- Basic knowledge of Unreal Engine or TouchDesigner.\n- Basic understanding of 3D modeling and animation.\n- Familiarity with visual design and user experience fundamentals.\n- Basic understanding of multi-platform deployment (web, mobile).\n- Experience participating in a complete project development cycle.\n- Experience in software testing or backend system integration.\n- Open-minded and curious about emerging technologies."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Unreal Engine",
+            "Unity"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Unreal Engine、Unity",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "遊戲開發",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "遊戲開發、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n語文條件：英文：精通、精通、精通、精通\n擅長工具：C#、Unreal Engine、Unity\n工作技能：遊戲開發、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8qvj4",
+    "job_url": "https://www.104.com.tw/job/8qvj4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8qvj4.json",
+    "raw_sha256": "55f13f998c7ef6dc36dd66e1dc89ae56122c7e6c3658155230d5ef0fd600f740",
+    "requested_url": "https://www.104.com.tw/api/jobs/8qvj4"
+  }
+}

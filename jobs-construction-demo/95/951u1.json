@@ -1,0 +1,198 @@
+{
+  "company": {
+    "id": "wjc8v2g",
+    "name": "富邦產物保險股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "閱讀EJB 2.x、Struts 1.x、Spring 3.x、PL/SQL程式碼，整理邏輯與相依性。"
+        },
+        {
+          "children": [],
+          "text": "與其他維運Java工程師協作，發展將既有業務邏輯文件化的程序。"
+        },
+        {
+          "children": [],
+          "text": "使用Java 17 + Spring Boot 3.x建置REST / gRPC服務。"
+        },
+        {
+          "children": [],
+          "text": "整合JPA/Hibernate、MyBatis等資料存取機制。"
+        },
+        {
+          "children": [],
+          "text": "發展將JSP / Struts Tag逐步遷移置Angular 2+ SPA開發模式。"
+        },
+        {
+          "children": [],
+          "text": "優化Dockerfile、Kustomize等部署配置。"
+        },
+        {
+          "children": [],
+          "text": "優化Observability (Prometheus、Grafana、Elastic APM)等參數設定。"
+        },
+        {
+          "children": [],
+          "text": "使用Claude Code等AI工具於程式生成、文件產生、回歸測試。"
+        },
+        {
+          "children": [],
+          "text": "回饋最佳實踐並導入團隊流程。"
+        }
+      ],
+      "text": "【Java應用系統轉型為容器化架構規劃研發】\n一、分析舊系統模組\n- 閱讀EJB 2.x、Struts 1.x、Spring 3.x、PL/SQL程式碼，整理邏輯與相依性。\n- 與其他維運Java工程師協作，發展將既有業務邏輯文件化的程序。\n二、發展微服務開發模式\n- 使用Java 17 + Spring Boot 3.x建置REST / gRPC服務。\n- 整合JPA/Hibernate、MyBatis等資料存取機制。\n三、發展前端協作開發模式\n- 發展將JSP / Struts Tag逐步遷移置Angular 2+ SPA開發模式。\n四、優化容器化部署配置\n- 優化Dockerfile、Kustomize等部署配置。\n- 優化Observability (Prometheus、Grafana、Elastic APM)等參數設定。\n五、AI協作研發\n- 使用Claude Code等AI工具於程式生成、文件產生、回歸測試。\n- 回饋最佳實踐並導入團隊流程。\n六、撰寫技術文件，並對同仁進行教育訓練。\n七、其他主管交辦事項。\n【如具備特定經驗或條件者，薪資不限刊登範圍】"
+    },
+    "employment_type_raw": "全職",
+    "title": "JAVA軟體研發工程師(內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區(以內湖地區為主，依公司指派)",
+    "raw": "台北市內湖區(以內湖地區為主，依公司指派)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.基本Office文書軟體應用。\n2.具有金融市場常識與職業道德、產險及壽險相關證照者尤佳。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "1.基本Office文書軟體應用。\n2.具有金融市場常識與職業道德、產險及壽險相關證照者尤佳。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n其他條件：1.基本Office文書軟體應用。\n2.具有金融市場常識與職業道德、產險及壽險相關證照者尤佳。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 92
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:09:58+08:00"
+  },
+  "salary": {
+    "raw": "月薪33,000~55,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【Java應用系統轉型為容器化架構規劃研發】\n一、分析舊系統模組\n- 閱讀EJB 2.x、Struts 1.x、Spring 3.x、PL/SQL程式碼，整理邏輯與相依性。\n- 與其他維運Java工程師協作，發展將既有業務邏輯文件化的程序。\n二、發展微服務開發模式\n- 使用Java 17 + Spring Boot 3.x建置REST / gRPC服務。\n- 整合JPA/Hibernate、MyBatis等資料存取機制。\n三、發展前端協作開發模式\n- 發展將JSP / Struts Tag逐步遷移置Angular 2+ SPA開發模式。\n四、優化容器化部署配置\n- 優化Dockerfile、Kustomize等部署配置。\n- 優化Observability (Prometheus、Grafana、Elastic APM)等參數設定。\n五、AI協作研發\n- 使用Claude Code等AI工具於程式生成、文件產生、回歸測試。\n- 回饋最佳實踐並導入團隊流程。\n六、撰寫技術文件，並對同仁進行教育訓練。\n七、其他主管交辦事項。\n【如具備特定經驗或條件者，薪資不限刊登範圍】",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪33,000~55,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區(以內湖地區為主，依公司指派)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【Java應用系統轉型為容器化架構規劃研發】\n一、分析舊系統模組\n- 閱讀EJB 2.x、Struts 1.x、Spring 3.x、PL/SQL程式碼，整理邏輯與相依性。\n- 與其他維運Java工程師協作，發展將既有業務邏輯文件化的程序。\n二、發展微服務開發模式\n- 使用Java 17 + Spring Boot 3.x建置REST / gRPC服務。\n- 整合JPA/Hibernate、MyBatis等資料存取機制。\n三、發展前端協作開發模式\n- 發展將JSP / Struts Tag逐步遷移置Angular 2+ SPA開發模式。\n四、優化容器化部署配置\n- 優化Dockerfile、Kustomize等部署配置。\n- 優化Observability (Prometheus、Grafana、Elastic APM)等參數設定。\n五、AI協作研發\n- 使用Claude Code等AI工具於程式生成、文件產生、回歸測試。\n- 回饋最佳實踐並導入團隊流程。\n六、撰寫技術文件，並對同仁進行教育訓練。\n七、其他主管交辦事項。\n【如具備特定經驗或條件者，薪資不限刊登範圍】"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.基本Office文書軟體應用。\n2.具有金融市場常識與職業道德、產險及壽險相關證照者尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n其他條件：1.基本Office文書軟體應用。\n2.具有金融市場常識與職業道德、產險及壽險相關證照者尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "951u1",
+    "job_url": "https://www.104.com.tw/job/951u1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/951u1.json",
+    "raw_sha256": "c4cc320c3f49b22fb75c8b61bcdde87f0782ea0cab2fdd4b11eb61ba64d69440",
+    "requested_url": "https://www.104.com.tw/api/jobs/951u1"
+  }
+}

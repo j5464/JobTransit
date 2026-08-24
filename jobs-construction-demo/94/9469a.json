@@ -1,0 +1,213 @@
+{
+  "company": {
+    "id": "5z4kla0",
+    "name": "鴻佰科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "全端工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "使用 Vue 3 + Composition API 開發製造執行(MES)與相關系統"
+        },
+        {
+          "children": [],
+          "text": "撰寫共用元件、表單驗證邏輯與事件驅動架構"
+        },
+        {
+          "children": [],
+          "text": "串接 RESTful APIs，處理非同步操作與狀態管理（Vuex / Pinia）"
+        },
+        {
+          "children": [],
+          "text": "串接身份驗證、JWT 授權流程與使用者行為追蹤"
+        },
+        {
+          "children": [],
+          "text": "開發 PWA / WebSocket 畫面處理與通知模組"
+        },
+        {
+          "children": [],
+          "text": "開發 Web 製造戰情屏幕"
+        },
+        {
+          "children": [],
+          "text": "與後端、SRE、PM 協作，參與流程設計與效能測試"
+        }
+      ],
+      "text": "1.使用 Vue 3 + Composition API 開發製造執行(MES)與相關系統\n2.撰寫共用元件、表單驗證邏輯與事件驅動架構\n3.串接 RESTful APIs，處理非同步操作與狀態管理（Vuex / Pinia）\n4.串接身份驗證、JWT 授權流程與使用者行為追蹤\n5.開發 PWA / WebSocket 畫面處理與通知模組\n6.開發 Web 製造戰情屏幕\n7.與後端、SRE、PM 協作，參與流程設計與效能測試"
+    },
+    "employment_type_raw": "全職",
+    "title": "IT-前端開發工程師"
+  },
+  "location": {
+    "address_raw": "新北市土城區",
+    "raw": "新北市土城區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "通信學類"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、通信學類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "管理責任 : 無\n【我們期望您】\n1.Vue 前端開發經驗（Vue 2 / Vue 3 / Composition API）\n2.熟 HTML / CSS / JavaScript，具備良好 RWD 實作經驗\n3.熟 RESTful API 串接與非同步流程管理\n4.熟身份驗證、Token 傳遞、CORS、前後端串接協議\n5.了解基本前端效能優化技巧（Lazy Load、Debounce、Chunk 拆分）\n6.熟 Figma 規格對接，有 UI / UX 理解力"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "通信學類"
+    ],
+    "other_text": "管理責任 : 無\n【我們期望您】\n1.Vue 前端開發經驗（Vue 2 / Vue 3 / Composition API）\n2.熟 HTML / CSS / JavaScript，具備良好 RWD 實作經驗\n3.熟 RESTful API 串接與非同步流程管理\n4.熟身份驗證、Token 傳遞、CORS、前後端串接協議\n5.了解基本前端效能優化技巧（Lazy Load、Debounce、Chunk 拆分）\n6.熟 Figma 規格對接，有 UI / UX 理解力",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關、通信學類\n語文條件：英文：中等、中等、中等、中等\n其他條件：管理責任 : 無\n【我們期望您】\n1.Vue 前端開發經驗（Vue 2 / Vue 3 / Composition API）\n2.熟 HTML / CSS / JavaScript，具備良好 RWD 實作經驗\n3.熟 RESTful API 串接與非同步流程管理\n4.熟身份驗證、Token 傳遞、CORS、前後端串接協議\n5.了解基本前端效能優化技巧（Lazy Load、Debounce、Chunk 拆分）\n6.熟 Figma 規格對接，有 UI / UX 理解力",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 74
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:23:18+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.使用 Vue 3 + Composition API 開發製造執行(MES)與相關系統\n2.撰寫共用元件、表單驗證邏輯與事件驅動架構\n3.串接 RESTful APIs，處理非同步操作與狀態管理（Vuex / Pinia）\n4.串接身份驗證、JWT 授權流程與使用者行為追蹤\n5.開發 PWA / WebSocket 畫面處理與通知模組\n6.開發 Web 製造戰情屏幕\n7.與後端、SRE、PM 協作，參與流程設計與效能測試",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "全端工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、全端工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市土城區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.使用 Vue 3 + Composition API 開發製造執行(MES)與相關系統\n2.撰寫共用元件、表單驗證邏輯與事件驅動架構\n3.串接 RESTful APIs，處理非同步操作與狀態管理（Vuex / Pinia）\n4.串接身份驗證、JWT 授權流程與使用者行為追蹤\n5.開發 PWA / WebSocket 畫面處理與通知模組\n6.開發 Web 製造戰情屏幕\n7.與後端、SRE、PM 協作，參與流程設計與效能測試"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "通信學類"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、通信學類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "管理責任 : 無\n【我們期望您】\n1.Vue 前端開發經驗（Vue 2 / Vue 3 / Composition API）\n2.熟 HTML / CSS / JavaScript，具備良好 RWD 實作經驗\n3.熟 RESTful API 串接與非同步流程管理\n4.熟身份驗證、Token 傳遞、CORS、前後端串接協議\n5.了解基本前端效能優化技巧（Lazy Load、Debounce、Chunk 拆分）\n6.熟 Figma 規格對接，有 UI / UX 理解力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關、通信學類\n語文條件：英文：中等、中等、中等、中等\n其他條件：管理責任 : 無\n【我們期望您】\n1.Vue 前端開發經驗（Vue 2 / Vue 3 / Composition API）\n2.熟 HTML / CSS / JavaScript，具備良好 RWD 實作經驗\n3.熟 RESTful API 串接與非同步流程管理\n4.熟身份驗證、Token 傳遞、CORS、前後端串接協議\n5.了解基本前端效能優化技巧（Lazy Load、Debounce、Chunk 拆分）\n6.熟 Figma 規格對接，有 UI / UX 理解力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "9469a",
+    "job_url": "https://www.104.com.tw/job/9469a",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9469a.json",
+    "raw_sha256": "ec265081e6bca2d59b6ea690694e97a1c5f3e36b457693687dfdb1e271009589",
+    "requested_url": "https://www.104.com.tw/api/jobs/9469a"
+  }
+}

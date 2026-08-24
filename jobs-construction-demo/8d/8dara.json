@@ -1,0 +1,211 @@
+{
+  "company": {
+    "id": "as2ph1c",
+    "name": "Flextronics International (Taiwan) Ltd_偉創力股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "通訊軟體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Design OpenBMC Firmware by applying knowledge of BMC architecture"
+        },
+        {
+          "children": [],
+          "text": "Customize OpenBMC stack to meet customer's requirement"
+        },
+        {
+          "children": [],
+          "text": "System level debug and root cause analysis for BMC firmware design"
+        },
+        {
+          "children": [],
+          "text": "Cross-function teamwork for issues analysis and debug"
+        },
+        {
+          "children": [],
+          "text": "Overall project responsibility in all aspects on SW design related- from project kick off to end of M.P."
+        },
+        {
+          "children": [],
+          "text": "Bachelor or above degree in Electrical Engineering or Computer Science"
+        },
+        {
+          "children": [],
+          "text": "8+ years' experience for debugging, development, and testing work in the Linux environment"
+        },
+        {
+          "children": [],
+          "text": "Be highly passionate and interested in BMC development and capability of teamwork in multi-task environment"
+        },
+        {
+          "children": [],
+          "text": "Solid understanding of software implementation/design experience is required."
+        },
+        {
+          "children": [],
+          "text": "Experience developing device drivers for peripherals and connectivity buses (e.g., I2C, SPI, PMBus, USB)."
+        },
+        {
+          "children": [],
+          "text": "Capability of independent research and working with new technologies is required."
+        },
+        {
+          "children": [],
+          "text": "Excellent written and verbal communications skills (in Mandarin and English) is required."
+        },
+        {
+          "children": [],
+          "text": "With strong sense of responsibility (be able to go on business trips, dispatch overseas is preferred)"
+        },
+        {
+          "children": [],
+          "text": "Domain expertise in OpenBMC or AST2600 firmware development experience is plus"
+        },
+        {
+          "children": [],
+          "text": "OOB or In-band System Management experience with DMTF standards IPMI and Redfish is plus."
+        }
+      ],
+      "text": "The Staff FW Engineer, OpenBMC will be based in Taiwan Taipei Wugu Site. The Staff FW Engineer, OpenBMC performs the responsibility for system design in OpenBMC Solution Projects request.\nWhat a typical day looks like:\n• Design OpenBMC Firmware by applying knowledge of BMC architecture\n• Customize OpenBMC stack to meet customer's requirement\n• System level debug and root cause analysis for BMC firmware design\n• Cross-function teamwork for issues analysis and debug\n• Overall project responsibility in all aspects on SW design related- from project kick off to end of M.P.\nThe experience we are looking to add to our team:\n• Bachelor or above degree in Electrical Engineering or Computer Science\n• 8+ years' experience for debugging, development, and testing work in the Linux environment\n• Be highly passionate and interested in BMC development and capability of teamwork in multi-task environment\n• Solid understanding of software implementation/design experience is required.\n• Experience developing device drivers for peripherals and connectivity buses (e.g., I2C, SPI, PMBus, USB).\n• Capability of independent research and working with new technologies is required.\n• Excellent written and verbal communications skills (in Mandarin and English) is required.\n• With strong sense of responsibility (be able to go on business trips, dispatch overseas is preferred)\n• Domain expertise in OpenBMC or AST2600 firmware development experience is plus\n• OOB or In-band System Management experience with DMTF standards IPMI and Redfish is plus.\nThe information we collect:\nWe may collect personal information that you choose to submit to us through the Website or otherwise provide to us. This may include your contact details; information provided in online questionnaires, feedback forms, or applications for employment; and information you provide such as CV/Resume. We will use your information for legitimate business purposes such as responding to comments or queries or answering questions; progressing applications for employment; allowing you to choose to share web content with others or; where you represent one of our customers or suppliers, administering the business relationship with that customer or supplier."
+    },
+    "employment_type_raw": "全職",
+    "title": "Staff/Sr. OpenBMC FW Engineer (Power PSC/PMC)"
+  },
+  "location": {
+    "address_raw": "新北市五股區中興路一段6號5樓",
+    "raw": "新北市五股區中興路一段6號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "8年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "8年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：8年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 31
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:38:34+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "The Staff FW Engineer, OpenBMC will be based in Taiwan Taipei Wugu Site. The Staff FW Engineer, OpenBMC performs the responsibility for system design in OpenBMC Solution Projects request.\nWhat a typical day looks like:\n• Design OpenBMC Firmware by applying knowledge of BMC architecture\n• Customize OpenBMC stack to meet customer's requirement\n• System level debug and root cause analysis for BMC firmware design\n• Cross-function teamwork for issues analysis and debug\n• Overall project responsibility in all aspects on SW design related- from project kick off to end of M.P.\nThe experience we are looking to add to our team:\n• Bachelor or above degree in Electrical Engineering or Computer Science\n• 8+ years' experience for debugging, development, and testing work in the Linux environment\n• Be highly passionate and interested in BMC development and capability of teamwork in multi-task environment\n• Solid understanding of software implementation/design experience is required.\n• Experience developing device drivers for peripherals and connectivity buses (e.g., I2C, SPI, PMBus, USB).\n• Capability of independent research and working with new technologies is required.\n• Excellent written and verbal communications skills (in Mandarin and English) is required.\n• With strong sense of responsibility (be able to go on business trips, dispatch overseas is preferred)\n• Domain expertise in OpenBMC or AST2600 firmware development experience is plus\n• OOB or In-band System Management experience with DMTF standards IPMI and Redfish is plus.\nThe information we collect:\nWe may collect personal information that you choose to submit to us through the Website or otherwise provide to us. This may include your contact details; information provided in online questionnaires, feedback forms, or applications for employment; and information you provide such as CV/Resume. We will use your information for legitimate business purposes such as responding to comments or queries or answering questions; progressing applications for employment; allowing you to choose to share web content with others or; where you represent one of our customers or suppliers, administering the business relationship with that customer or supplier.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "通訊軟體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、通訊軟體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市五股區中興路一段6號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "The Staff FW Engineer, OpenBMC will be based in Taiwan Taipei Wugu Site. The Staff FW Engineer, OpenBMC performs the responsibility for system design in OpenBMC Solution Projects request.\nWhat a typical day looks like:\n• Design OpenBMC Firmware by applying knowledge of BMC architecture\n• Customize OpenBMC stack to meet customer's requirement\n• System level debug and root cause analysis for BMC firmware design\n• Cross-function teamwork for issues analysis and debug\n• Overall project responsibility in all aspects on SW design related- from project kick off to end of M.P.\nThe experience we are looking to add to our team:\n• Bachelor or above degree in Electrical Engineering or Computer Science\n• 8+ years' experience for debugging, development, and testing work in the Linux environment\n• Be highly passionate and interested in BMC development and capability of teamwork in multi-task environment\n• Solid understanding of software implementation/design experience is required.\n• Experience developing device drivers for peripherals and connectivity buses (e.g., I2C, SPI, PMBus, USB).\n• Capability of independent research and working with new technologies is required.\n• Excellent written and verbal communications skills (in Mandarin and English) is required.\n• With strong sense of responsibility (be able to go on business trips, dispatch overseas is preferred)\n• Domain expertise in OpenBMC or AST2600 firmware development experience is plus\n• OOB or In-band System Management experience with DMTF standards IPMI and Redfish is plus.\nThe information we collect:\nWe may collect personal information that you choose to submit to us through the Website or otherwise provide to us. This may include your contact details; information provided in online questionnaires, feedback forms, or applications for employment; and information you provide such as CV/Resume. We will use your information for legitimate business purposes such as responding to comments or queries or answering questions; progressing applications for employment; allowing you to choose to share web content with others or; where you represent one of our customers or suppliers, administering the business relationship with that customer or supplier."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "8年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：8年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8dara",
+    "job_url": "https://www.104.com.tw/job/8dara",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8dara.json",
+    "raw_sha256": "6eb13e7d10943b6339dd9cea8d17df822a5771236a95b0692f67d05c3c8e2132",
+    "requested_url": "https://www.104.com.tw/api/jobs/8dara"
+  }
+}

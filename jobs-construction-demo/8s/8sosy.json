@@ -1,0 +1,245 @@
+{
+  "company": {
+    "id": "10tytuqg",
+    "name": "基點資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟韌體測試工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計測試計畫與測試案例。"
+        },
+        {
+          "children": [],
+          "text": "測試與驗證軟體模組之功能、相容性、效能、壓力承載、可靠度等。"
+        },
+        {
+          "children": [],
+          "text": "維護測試環境及測試工具。"
+        },
+        {
+          "children": [],
+          "text": "分析測試資料、釐清問題、提出改善建議。"
+        }
+      ],
+      "text": "1. 設計測試計畫與測試案例。\n2. 測試與驗證軟體模組之功能、相容性、效能、壓力承載、可靠度等。\n3. 維護測試環境及測試工具。\n4. 分析測試資料、釐清問題、提出改善建議。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Software QA Engineer"
+  },
+  "location": {
+    "address_raw": "新北市板橋區縣民大道2段7號25樓 (板橋車站五鐵共構，聯合辦公大樓)",
+    "raw": "新北市板橋區縣民大道2段7號25樓 (板橋車站五鐵共構，聯合辦公大樓)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Vmware",
+          "LDAP",
+          "ssh"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Vmware、LDAP、ssh"
+      },
+      {
+        "items": [
+          "伺服器網站管理維護",
+          "軟體品質與保證"
+        ],
+        "label": "工作技能",
+        "text": "伺服器網站管理維護、軟體品質與保證"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "必要條件:\n1. 具有 Python 基本程式撰寫能力 (此職缺面試流程將安排 coding 基本能力測驗與上機實作，需具備基礎程式開發能力)。\n2. 具有 Git 或相關版本控制工具使用經驗。\n3. 有使用 AI 輔助 IDE 進行開發與工作流配置相關知識與經驗。\n加分條件:\n1. 基本 shell script 撰寫。\n2. 至少有一種自動化測試工具，如 Playwright、Selenium 等。\n3. 具備系統壓力測試、效能與 API 測試相關經驗者。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "必要條件:\n1. 具有 Python 基本程式撰寫能力 (此職缺面試流程將安排 coding 基本能力測驗與上機實作，需具備基礎程式開發能力)。\n2. 具有 Git 或相關版本控制工具使用經驗。\n3. 有使用 AI 輔助 IDE 進行開發與工作流配置相關知識與經驗。\n加分條件:\n1. 基本 shell script 撰寫。\n2. 至少有一種自動化測試工具，如 Playwright、Selenium 等。\n3. 具備系統壓力測試、效能與 API 測試相關經驗者。",
+    "skills": [
+      "伺服器網站管理維護",
+      "軟體品質與保證"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Vmware、LDAP、ssh\n工作技能：伺服器網站管理維護、軟體品質與保證\n其他條件：必要條件:\n1. 具有 Python 基本程式撰寫能力 (此職缺面試流程將安排 coding 基本能力測驗與上機實作，需具備基礎程式開發能力)。\n2. 具有 Git 或相關版本控制工具使用經驗。\n3. 有使用 AI 輔助 IDE 進行開發與工作流配置相關知識與經驗。\n加分條件:\n1. 基本 shell script 撰寫。\n2. 至少有一種自動化測試工具，如 Playwright、Selenium 等。\n3. 具備系統壓力測試、效能與 API 測試相關經驗者。",
+    "tools": [
+      "Linux",
+      "Vmware",
+      "LDAP",
+      "ssh"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 9
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:44:13+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 設計測試計畫與測試案例。\n2. 測試與驗證軟體模組之功能、相容性、效能、壓力承載、可靠度等。\n3. 維護測試環境及測試工具。\n4. 分析測試資料、釐清問題、提出改善建議。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟韌體測試工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟韌體測試工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區縣民大道2段7號25樓 (板橋車站五鐵共構，聯合辦公大樓)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 設計測試計畫與測試案例。\n2. 測試與驗證軟體模組之功能、相容性、效能、壓力承載、可靠度等。\n3. 維護測試環境及測試工具。\n4. 分析測試資料、釐清問題、提出改善建議。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Vmware",
+            "LDAP",
+            "ssh"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Vmware、LDAP、ssh",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "伺服器網站管理維護",
+            "軟體品質與保證"
+          ],
+          "label": "工作技能",
+          "text": "伺服器網站管理維護、軟體品質與保證",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "必要條件:\n1. 具有 Python 基本程式撰寫能力 (此職缺面試流程將安排 coding 基本能力測驗與上機實作，需具備基礎程式開發能力)。\n2. 具有 Git 或相關版本控制工具使用經驗。\n3. 有使用 AI 輔助 IDE 進行開發與工作流配置相關知識與經驗。\n加分條件:\n1. 基本 shell script 撰寫。\n2. 至少有一種自動化測試工具，如 Playwright、Selenium 等。\n3. 具備系統壓力測試、效能與 API 測試相關經驗者。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Vmware、LDAP、ssh\n工作技能：伺服器網站管理維護、軟體品質與保證\n其他條件：必要條件:\n1. 具有 Python 基本程式撰寫能力 (此職缺面試流程將安排 coding 基本能力測驗與上機實作，需具備基礎程式開發能力)。\n2. 具有 Git 或相關版本控制工具使用經驗。\n3. 有使用 AI 輔助 IDE 進行開發與工作流配置相關知識與經驗。\n加分條件:\n1. 基本 shell script 撰寫。\n2. 至少有一種自動化測試工具，如 Playwright、Selenium 等。\n3. 具備系統壓力測試、效能與 API 測試相關經驗者。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8sosy",
+    "job_url": "https://www.104.com.tw/job/8sosy",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8sosy.json",
+    "raw_sha256": "680f75cdbc9d789e1d140307abd2d559642b2c1d4f3d726505d7423758fdffad",
+    "requested_url": "https://www.104.com.tw/api/jobs/8sosy"
+  }
+}

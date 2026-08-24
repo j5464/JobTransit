@@ -1,0 +1,305 @@
+{
+  "company": {
+    "id": "1a2x6bmtua",
+    "name": "歐美科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "系統工程師",
+      "資安工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責公司資訊基礎設備管理與維護，確保系統穩定與安全。"
+        },
+        {
+          "children": [],
+          "text": "與資訊團隊共同執行GitHub/GitLab備份與資安防護。"
+        },
+        {
+          "children": [],
+          "text": "研究AI、大數據、雲端等新技術並評估導入之可行性。"
+        },
+        {
+          "children": [],
+          "text": "追蹤國際資訊標準與法規，確保公司合規。"
+        },
+        {
+          "children": [],
+          "text": "擬定並執行災難復原計畫，於系統異常時迅速應變，維持業務持續作業。"
+        }
+      ],
+      "text": "1. 負責公司資訊基礎設備管理與維護，確保系統穩定與安全。\n2. 與資訊團隊共同執行GitHub/GitLab備份與資安防護。\n3.研究AI、大數據、雲端等新技術並評估導入之可行性。\n4. 追蹤國際資訊標準與法規，確保公司合規。\n5. 擬定並執行災難復原計畫，於系統異常時迅速應變，維持業務持續作業。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊工程師"
+  },
+  "location": {
+    "address_raw": "新竹市光復路二段段321號（1館）",
+    "raw": "新竹市光復路二段段321號（1館）"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python",
+          "Shell",
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Python、Shell、Excel、Outlook、PowerPoint、Word"
+      },
+      {
+        "items": [
+          "系統整合分析",
+          "系統架構規劃",
+          "伺服器網站管理維護",
+          "資料備份與復原",
+          "資訊設備環境設定",
+          "資訊設備操作檢修",
+          "功能測試(function test)",
+          "安全性測試(Security test)",
+          "使用者測試(Usability test)",
+          "AI",
+          "軟體程式設計",
+          "資料庫系統管理維護",
+          "MES工廠執行系統規劃管理",
+          "企業資源規劃管理(ERP)",
+          "系統架構規劃與維護",
+          "安裝與維護網路安全系統",
+          "規劃與管理防火牆",
+          "規劃與管理網路入侵檢測系統（NIDS）"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析、系統架構規劃、伺服器網站管理維護、資料備份與復原、資訊設備環境設定、資訊設備操作檢修、功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、AI、軟體程式設計、資料庫系統管理維護、MES工廠執行系統規劃管理、企業資源規劃管理(ERP)、系統架構規劃與維護、安裝與維護網路安全系統、規劃與管理防火牆、規劃與管理網路入侵檢測系統（NIDS）"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1、熟悉自動化腳本撰寫(Python、Shell)。\n2、具半導體或製造業資訊經驗，熟悉MES/ERP系統對接。\n3、熟悉伺服器、網路、資料庫維護、雲端服務(Azure)。\n4、具資安框架知識(如ISO 27001)。\n5、具備災難復原計畫(DRP)擬定與危機應變經驗。\n6、溝通與抗壓能力佳。\n7、具MS 365 Certified、CISSP、CISM等證照者優先。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "1、熟悉自動化腳本撰寫(Python、Shell)。\n2、具半導體或製造業資訊經驗，熟悉MES/ERP系統對接。\n3、熟悉伺服器、網路、資料庫維護、雲端服務(Azure)。\n4、具資安框架知識(如ISO 27001)。\n5、具備災難復原計畫(DRP)擬定與危機應變經驗。\n6、溝通與抗壓能力佳。\n7、具MS 365 Certified、CISSP、CISM等證照者優先。",
+    "skills": [
+      "系統整合分析",
+      "系統架構規劃",
+      "伺服器網站管理維護",
+      "資料備份與復原",
+      "資訊設備環境設定",
+      "資訊設備操作檢修",
+      "功能測試(function test)",
+      "安全性測試(Security test)",
+      "使用者測試(Usability test)",
+      "AI",
+      "軟體程式設計",
+      "資料庫系統管理維護",
+      "MES工廠執行系統規劃管理",
+      "企業資源規劃管理(ERP)",
+      "系統架構規劃與維護",
+      "安裝與維護網路安全系統",
+      "規劃與管理防火牆",
+      "規劃與管理網路入侵檢測系統（NIDS）"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Shell、Excel、Outlook、PowerPoint、Word\n工作技能：系統整合分析、系統架構規劃、伺服器網站管理維護、資料備份與復原、資訊設備環境設定、資訊設備操作檢修、功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、AI、軟體程式設計、資料庫系統管理維護、MES工廠執行系統規劃管理、企業資源規劃管理(ERP)、系統架構規劃與維護、安裝與維護網路安全系統、規劃與管理防火牆、規劃與管理網路入侵檢測系統（NIDS）\n其他條件：1、熟悉自動化腳本撰寫(Python、Shell)。\n2、具半導體或製造業資訊經驗，熟悉MES/ERP系統對接。\n3、熟悉伺服器、網路、資料庫維護、雲端服務(Azure)。\n4、具資安框架知識(如ISO 27001)。\n5、具備災難復原計畫(DRP)擬定與危機應變經驗。\n6、溝通與抗壓能力佳。\n7、具MS 365 Certified、CISSP、CISM等證照者優先。",
+    "tools": [
+      "Python",
+      "Shell",
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 81
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:41:13+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責公司資訊基礎設備管理與維護，確保系統穩定與安全。\n2. 與資訊團隊共同執行GitHub/GitLab備份與資安防護。\n3.研究AI、大數據、雲端等新技術並評估導入之可行性。\n4. 追蹤國際資訊標準與法規，確保公司合規。\n5. 擬定並執行災難復原計畫，於系統異常時迅速應變，維持業務持續作業。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "系統工程師",
+            "資安工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、系統工程師、資安工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市光復路二段段321號（1館）",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責公司資訊基礎設備管理與維護，確保系統穩定與安全。\n2. 與資訊團隊共同執行GitHub/GitLab備份與資安防護。\n3.研究AI、大數據、雲端等新技術並評估導入之可行性。\n4. 追蹤國際資訊標準與法規，確保公司合規。\n5. 擬定並執行災難復原計畫，於系統異常時迅速應變，維持業務持續作業。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "Shell",
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Python、Shell、Excel、Outlook、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析",
+            "系統架構規劃",
+            "伺服器網站管理維護",
+            "資料備份與復原",
+            "資訊設備環境設定",
+            "資訊設備操作檢修",
+            "功能測試(function test)",
+            "安全性測試(Security test)",
+            "使用者測試(Usability test)",
+            "AI",
+            "軟體程式設計",
+            "資料庫系統管理維護",
+            "MES工廠執行系統規劃管理",
+            "企業資源規劃管理(ERP)",
+            "系統架構規劃與維護",
+            "安裝與維護網路安全系統",
+            "規劃與管理防火牆",
+            "規劃與管理網路入侵檢測系統（NIDS）"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析、系統架構規劃、伺服器網站管理維護、資料備份與復原、資訊設備環境設定、資訊設備操作檢修、功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、AI、軟體程式設計、資料庫系統管理維護、MES工廠執行系統規劃管理、企業資源規劃管理(ERP)、系統架構規劃與維護、安裝與維護網路安全系統、規劃與管理防火牆、規劃與管理網路入侵檢測系統（NIDS）",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1、熟悉自動化腳本撰寫(Python、Shell)。\n2、具半導體或製造業資訊經驗，熟悉MES/ERP系統對接。\n3、熟悉伺服器、網路、資料庫維護、雲端服務(Azure)。\n4、具資安框架知識(如ISO 27001)。\n5、具備災難復原計畫(DRP)擬定與危機應變經驗。\n6、溝通與抗壓能力佳。\n7、具MS 365 Certified、CISSP、CISM等證照者優先。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Shell、Excel、Outlook、PowerPoint、Word\n工作技能：系統整合分析、系統架構規劃、伺服器網站管理維護、資料備份與復原、資訊設備環境設定、資訊設備操作檢修、功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、AI、軟體程式設計、資料庫系統管理維護、MES工廠執行系統規劃管理、企業資源規劃管理(ERP)、系統架構規劃與維護、安裝與維護網路安全系統、規劃與管理防火牆、規劃與管理網路入侵檢測系統（NIDS）\n其他條件：1、熟悉自動化腳本撰寫(Python、Shell)。\n2、具半導體或製造業資訊經驗，熟悉MES/ERP系統對接。\n3、熟悉伺服器、網路、資料庫維護、雲端服務(Azure)。\n4、具資安框架知識(如ISO 27001)。\n5、具備災難復原計畫(DRP)擬定與危機應變經驗。\n6、溝通與抗壓能力佳。\n7、具MS 365 Certified、CISSP、CISM等證照者優先。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "943yz",
+    "job_url": "https://www.104.com.tw/job/943yz",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/943yz.json",
+    "raw_sha256": "292c1f1c536d7ad9671fae5ab26154a20566bccd39e0283d0955ef6f8bc35fd4",
+    "requested_url": "https://www.104.com.tw/api/jobs/943yz"
+  }
+}

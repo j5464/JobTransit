@@ -1,0 +1,176 @@
+{
+  "company": {
+    "id": "1a2x6blghh",
+    "name": "鴻華先進科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "機械工程師",
+      "軟體工程師",
+      "自動控制工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責整車動力性能、能源效率（耗能）及駕駛性能（Drivability）調校與優化。"
+        },
+        {
+          "children": [],
+          "text": "負責整車動力系統控制策略開發與調校，提升整車性能表現。"
+        },
+        {
+          "children": [],
+          "text": "執行整車測試、數據分析及測試報告撰寫，並依測試結果持續優化控制策略。"
+        },
+        {
+          "children": [],
+          "text": "與控制、軟體、測試等跨部門團隊合作，完成整車動力系統開發與驗證。"
+        }
+      ],
+      "text": "【工作內容】\n1.負責整車動力性能、能源效率（耗能）及駕駛性能（Drivability）調校與優化。\n2.負責整車動力系統控制策略開發與調校，提升整車性能表現。\n3.執行整車測試、數據分析及測試報告撰寫，並依測試結果持續優化控制策略。\n4.與控制、軟體、測試等跨部門團隊合作，完成整車動力系統開發與驗證。\n【需求條件】\n√機械、車輛、電子、電機等相關科系畢業。\n√熟悉車輛動力系統工作原理。\n√具備 Matlab／Simulink 使用經驗（必要條件）。\n√熟悉 CAN Bus 分析工具（如 Vector）。\n√了解車用軟體開發流程。\n√具備測試分析及技術報告撰寫能力。\n√可配合國內外測試及專案需求出差。\n【加分條件】\n◆具備 INCA 校正工具使用經驗。\n◆熟悉 Vector CANoe、CANalyzer 等 CAN Bus 分析工具。\n◆具整車動力調校（Calibration）或 ECU 校正經驗。\n◆曾參與電動車、混合動力車或傳統車輛動力系統開發。\n◆具 HIL／SIL、實車測試或耐久測試經驗者佳。\n【人格特質】\n◆具備良好的團隊合作精神及跨部門溝通能力，能配合團隊共同完成專案任務。\n◆具備獨立分析與解決整車配置技術問題的能力。\n◆主動積極，樂於學習新技術，具備持續精進的態度。\n◆具責任感，能配合專案時程完成工作。"
+    },
+    "employment_type_raw": "全職",
+    "title": "動力調校工程師-E20"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶高路26號",
+    "raw": "新北市新店區寶高路26號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Matlab",
+          "Excel",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Matlab、Excel、PowerPoint、Word"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Matlab、Excel、PowerPoint、Word",
+    "tools": [
+      "Matlab",
+      "Excel",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 62
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:55:44+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1.負責整車動力性能、能源效率（耗能）及駕駛性能（Drivability）調校與優化。\n2.負責整車動力系統控制策略開發與調校，提升整車性能表現。\n3.執行整車測試、數據分析及測試報告撰寫，並依測試結果持續優化控制策略。\n4.與控制、軟體、測試等跨部門團隊合作，完成整車動力系統開發與驗證。\n【需求條件】\n√機械、車輛、電子、電機等相關科系畢業。\n√熟悉車輛動力系統工作原理。\n√具備 Matlab／Simulink 使用經驗（必要條件）。\n√熟悉 CAN Bus 分析工具（如 Vector）。\n√了解車用軟體開發流程。\n√具備測試分析及技術報告撰寫能力。\n√可配合國內外測試及專案需求出差。\n【加分條件】\n◆具備 INCA 校正工具使用經驗。\n◆熟悉 Vector CANoe、CANalyzer 等 CAN Bus 分析工具。\n◆具整車動力調校（Calibration）或 ECU 校正經驗。\n◆曾參與電動車、混合動力車或傳統車輛動力系統開發。\n◆具 HIL／SIL、實車測試或耐久測試經驗者佳。\n【人格特質】\n◆具備良好的團隊合作精神及跨部門溝通能力，能配合團隊共同完成專案任務。\n◆具備獨立分析與解決整車配置技術問題的能力。\n◆主動積極，樂於學習新技術，具備持續精進的態度。\n◆具責任感，能配合專案時程完成工作。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "機械工程師",
+            "軟體工程師",
+            "自動控制工程師"
+          ],
+          "label": "職務類別",
+          "text": "機械工程師、軟體工程師、自動控制工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶高路26號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1.負責整車動力性能、能源效率（耗能）及駕駛性能（Drivability）調校與優化。\n2.負責整車動力系統控制策略開發與調校，提升整車性能表現。\n3.執行整車測試、數據分析及測試報告撰寫，並依測試結果持續優化控制策略。\n4.與控制、軟體、測試等跨部門團隊合作，完成整車動力系統開發與驗證。\n【需求條件】\n√機械、車輛、電子、電機等相關科系畢業。\n√熟悉車輛動力系統工作原理。\n√具備 Matlab／Simulink 使用經驗（必要條件）。\n√熟悉 CAN Bus 分析工具（如 Vector）。\n√了解車用軟體開發流程。\n√具備測試分析及技術報告撰寫能力。\n√可配合國內外測試及專案需求出差。\n【加分條件】\n◆具備 INCA 校正工具使用經驗。\n◆熟悉 Vector CANoe、CANalyzer 等 CAN Bus 分析工具。\n◆具整車動力調校（Calibration）或 ECU 校正經驗。\n◆曾參與電動車、混合動力車或傳統車輛動力系統開發。\n◆具 HIL／SIL、實車測試或耐久測試經驗者佳。\n【人格特質】\n◆具備良好的團隊合作精神及跨部門溝通能力，能配合團隊共同完成專案任務。\n◆具備獨立分析與解決整車配置技術問題的能力。\n◆主動積極，樂於學習新技術，具備持續精進的態度。\n◆具責任感，能配合專案時程完成工作。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Matlab",
+            "Excel",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Matlab、Excel、PowerPoint、Word",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Matlab、Excel、PowerPoint、Word"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ac4i",
+    "job_url": "https://www.104.com.tw/job/8ac4i",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ac4i.json",
+    "raw_sha256": "bf401acc989407378e4fa8c1edada208787f3d4c0cfa64b0daf3c928587381c5",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ac4i"
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "company": {
+    "id": "5tfvgp4",
+    "name": "新誼整合科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "以 C# / .NET Core 進行後端核心邏輯開發，包含 RESTful API 設計、邏輯實作與系統模組化架構規劃。"
+        },
+        {
+          "children": [],
+          "text": "使用 Vue.js（搭配 Vuetify / Bootstrap）開發前端介面，負責診間管理、候診顯示、設備監控等醫療場景的 UI 設計與實作。"
+        },
+        {
+          "children": [],
+          "text": "參與 MS SQL Server 的資料庫設計、查詢撰寫與效能優化，確保高併發情境下的資料讀寫穩定性。"
+        },
+        {
+          "children": [],
+          "text": "負責醫療設備與第三方系統的資料介接，包含 HIS（醫院資訊系統）串接、設備通訊協定整合，以及非同步資料處理機制設計。"
+        },
+        {
+          "children": [],
+          "text": "參與系統需求分析、技術規格制定，與 PM、硬體工程師及醫院端 IT 人員協作，確保產品如期交付並符合醫療場域的高穩定性要求。"
+        },
+        {
+          "children": [],
+          "text": "維護既有系統程式碼品質，進行 Code Review、問題排查與效能改善。"
+        },
+        {
+          "children": [],
+          "text": "後端：具備 C# / .NET Core 後端及 WebAPI 開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "前端：具備 Vue.js 前端開發經驗，熟悉元件化開發與前後端 API 串接"
+        },
+        {
+          "children": [],
+          "text": "資料庫：熟悉 MS SQL Server 或 MySQL等關聯式資料庫，具備資料庫設計撰寫能力。"
+        },
+        {
+          "children": [],
+          "text": "具備版本控制使用經驗。"
+        },
+        {
+          "children": [],
+          "text": "有醫療資訊系統（HIS / EMR）開發或介接經驗者。"
+        },
+        {
+          "children": [],
+          "text": "若有Nginx、K8S實務經驗者尤佳"
+        }
+      ],
+      "text": "職務說明：\n新誼整合科技長期深耕醫療資訊領域，產品涵蓋診間報到系統、生理量測系統、電子紙系統等，服務對象為全台各大醫療院所。我們正在擴編研發團隊，誠摯邀請對醫療數位化有熱忱、具備紮實全端開發能力的工程師加入。\n工作內容：\n1. 以 C# / .NET Core 進行後端核心邏輯開發，包含 RESTful API 設計、邏輯實作與系統模組化架構規劃。\n2. 使用 Vue.js（搭配 Vuetify / Bootstrap）開發前端介面，負責診間管理、候診顯示、設備監控等醫療場景的 UI 設計與實作。\n3. 參與 MS SQL Server 的資料庫設計、查詢撰寫與效能優化，確保高併發情境下的資料讀寫穩定性。\n4. 負責醫療設備與第三方系統的資料介接，包含 HIS（醫院資訊系統）串接、設備通訊協定整合，以及非同步資料處理機制設計。\n5. 參與系統需求分析、技術規格制定，與 PM、硬體工程師及醫院端 IT 人員協作，確保產品如期交付並符合醫療場域的高穩定性要求。\n6. 維護既有系統程式碼品質，進行 Code Review、問題排查與效能改善。\n技能條件：\n1. 後端：具備 C# / .NET Core 後端及 WebAPI 開發經驗。\n2. 前端：具備 Vue.js 前端開發經驗，熟悉元件化開發與前後端 API 串接\n3. 資料庫：熟悉 MS SQL Server 或 MySQL等關聯式資料庫，具備資料庫設計撰寫能力。\n4. 具備版本控制使用經驗。\n加分項目：\n1. 有醫療資訊系統（HIS / EMR）開發或介接經驗者。\n2. 若有Nginx、K8S實務經驗者尤佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "智慧醫療系統全端工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區新湖二路128號3樓",
+    "raw": "台北市內湖區新湖二路128號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "C#",
+          "jQuery",
+          "JavaScript",
+          "MySQL"
+        ],
+        "label": "擅長工具",
+        "text": "C#、jQuery、JavaScript、MySQL"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "模組化系統設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、模組化系統設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "模組化系統設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n擅長工具：C#、jQuery、JavaScript、MySQL\n工作技能：軟體程式設計、模組化系統設計",
+    "tools": [
+      "C#",
+      "jQuery",
+      "JavaScript",
+      "MySQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 18
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:06:18+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "職務說明：\n新誼整合科技長期深耕醫療資訊領域，產品涵蓋診間報到系統、生理量測系統、電子紙系統等，服務對象為全台各大醫療院所。我們正在擴編研發團隊，誠摯邀請對醫療數位化有熱忱、具備紮實全端開發能力的工程師加入。\n工作內容：\n1. 以 C# / .NET Core 進行後端核心邏輯開發，包含 RESTful API 設計、邏輯實作與系統模組化架構規劃。\n2. 使用 Vue.js（搭配 Vuetify / Bootstrap）開發前端介面，負責診間管理、候診顯示、設備監控等醫療場景的 UI 設計與實作。\n3. 參與 MS SQL Server 的資料庫設計、查詢撰寫與效能優化，確保高併發情境下的資料讀寫穩定性。\n4. 負責醫療設備與第三方系統的資料介接，包含 HIS（醫院資訊系統）串接、設備通訊協定整合，以及非同步資料處理機制設計。\n5. 參與系統需求分析、技術規格制定，與 PM、硬體工程師及醫院端 IT 人員協作，確保產品如期交付並符合醫療場域的高穩定性要求。\n6. 維護既有系統程式碼品質，進行 Code Review、問題排查與效能改善。\n技能條件：\n1. 後端：具備 C# / .NET Core 後端及 WebAPI 開發經驗。\n2. 前端：具備 Vue.js 前端開發經驗，熟悉元件化開發與前後端 API 串接\n3. 資料庫：熟悉 MS SQL Server 或 MySQL等關聯式資料庫，具備資料庫設計撰寫能力。\n4. 具備版本控制使用經驗。\n加分項目：\n1. 有醫療資訊系統（HIS / EMR）開發或介接經驗者。\n2. 若有Nginx、K8S實務經驗者尤佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區新湖二路128號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "職務說明：\n新誼整合科技長期深耕醫療資訊領域，產品涵蓋診間報到系統、生理量測系統、電子紙系統等，服務對象為全台各大醫療院所。我們正在擴編研發團隊，誠摯邀請對醫療數位化有熱忱、具備紮實全端開發能力的工程師加入。\n工作內容：\n1. 以 C# / .NET Core 進行後端核心邏輯開發，包含 RESTful API 設計、邏輯實作與系統模組化架構規劃。\n2. 使用 Vue.js（搭配 Vuetify / Bootstrap）開發前端介面，負責診間管理、候診顯示、設備監控等醫療場景的 UI 設計與實作。\n3. 參與 MS SQL Server 的資料庫設計、查詢撰寫與效能優化，確保高併發情境下的資料讀寫穩定性。\n4. 負責醫療設備與第三方系統的資料介接，包含 HIS（醫院資訊系統）串接、設備通訊協定整合，以及非同步資料處理機制設計。\n5. 參與系統需求分析、技術規格制定，與 PM、硬體工程師及醫院端 IT 人員協作，確保產品如期交付並符合醫療場域的高穩定性要求。\n6. 維護既有系統程式碼品質，進行 Code Review、問題排查與效能改善。\n技能條件：\n1. 後端：具備 C# / .NET Core 後端及 WebAPI 開發經驗。\n2. 前端：具備 Vue.js 前端開發經驗，熟悉元件化開發與前後端 API 串接\n3. 資料庫：熟悉 MS SQL Server 或 MySQL等關聯式資料庫，具備資料庫設計撰寫能力。\n4. 具備版本控制使用經驗。\n加分項目：\n1. 有醫療資訊系統（HIS / EMR）開發或介接經驗者。\n2. 若有Nginx、K8S實務經驗者尤佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "jQuery",
+            "JavaScript",
+            "MySQL"
+          ],
+          "label": "擅長工具",
+          "text": "C#、jQuery、JavaScript、MySQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "模組化系統設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、模組化系統設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n擅長工具：C#、jQuery、JavaScript、MySQL\n工作技能：軟體程式設計、模組化系統設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8zbbu",
+    "job_url": "https://www.104.com.tw/job/8zbbu",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8zbbu.json",
+    "raw_sha256": "21e6b6f5a913e2f0285f6d9c9cfb945f84d5e1bdf680673f800cbeecac0825ad",
+    "requested_url": "https://www.104.com.tw/api/jobs/8zbbu"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "company": {
+    "id": "13mhazhk",
+    "name": "坤眾科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "**歡迎資訊背景優質的你(妳)加入我們團隊。***"
+        },
+        {
+          "children": [],
+          "text": "具備程式開發經驗，熟悉ASP.NET MVC者佳。"
+        },
+        {
+          "children": [],
+          "text": "熟悉關聯式資料庫(MS SQL、PostgreSQL、 MY SQL…至少一種)及SQL語法使用經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備網頁設計經驗者佳。"
+        },
+        {
+          "children": [],
+          "text": "工作態度積極並具備責任感。"
+        },
+        {
+          "children": [],
+          "text": "學習意願強並樂於與人溝通。"
+        }
+      ],
+      "text": "本公司係屬專業資訊顧問服務業，為國內地理資訊系統領域專家。\n***歡迎資訊背景優質的你(妳)加入我們團隊。***\n1. 具備程式開發經驗，熟悉ASP.NET MVC者佳。\n2. 熟悉關聯式資料庫(MS SQL、PostgreSQL、 MY SQL…至少一種)及SQL語法使用經驗。\n3. 具備網頁設計經驗者佳。\n4. 工作態度積極並具備責任感。\n5. 學習意願強並樂於與人溝通。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體程式設計師(高雄)"
+  },
+  "location": {
+    "address_raw": "高雄市前鎮區(依照公司規定分派)",
+    "raw": "高雄市前鎮區(依照公司規定分派)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "Visual Studio",
+          "MS SQL",
+          "MySQL",
+          "PostgreSQL",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、Visual Studio、MS SQL、MySQL、PostgreSQL、JavaScript"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學\n擅長工具：ASP.NET、C#、Visual Studio、MS SQL、MySQL、PostgreSQL、JavaScript",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "Visual Studio",
+      "MS SQL",
+      "MySQL",
+      "PostgreSQL",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 53
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:32:01+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "本公司係屬專業資訊顧問服務業，為國內地理資訊系統領域專家。\n***歡迎資訊背景優質的你(妳)加入我們團隊。***\n1. 具備程式開發經驗，熟悉ASP.NET MVC者佳。\n2. 熟悉關聯式資料庫(MS SQL、PostgreSQL、 MY SQL…至少一種)及SQL語法使用經驗。\n3. 具備網頁設計經驗者佳。\n4. 工作態度積極並具備責任感。\n5. 學習意願強並樂於與人溝通。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市前鎮區(依照公司規定分派)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "本公司係屬專業資訊顧問服務業，為國內地理資訊系統領域專家。\n***歡迎資訊背景優質的你(妳)加入我們團隊。***\n1. 具備程式開發經驗，熟悉ASP.NET MVC者佳。\n2. 熟悉關聯式資料庫(MS SQL、PostgreSQL、 MY SQL…至少一種)及SQL語法使用經驗。\n3. 具備網頁設計經驗者佳。\n4. 工作態度積極並具備責任感。\n5. 學習意願強並樂於與人溝通。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "Visual Studio",
+            "MS SQL",
+            "MySQL",
+            "PostgreSQL",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、Visual Studio、MS SQL、MySQL、PostgreSQL、JavaScript",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n擅長工具：ASP.NET、C#、Visual Studio、MS SQL、MySQL、PostgreSQL、JavaScript"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "5zmub",
+    "job_url": "https://www.104.com.tw/job/5zmub",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/5zmub.json",
+    "raw_sha256": "2bb187f0426121f989c2bc1c6faf209073008d5b251082e9a6f14dbb60a857e9",
+    "requested_url": "https://www.104.com.tw/api/jobs/5zmub"
+  }
+}

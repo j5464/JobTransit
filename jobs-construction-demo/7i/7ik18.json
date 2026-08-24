@@ -1,0 +1,287 @@
+{
+  "company": {
+    "id": "1a2x6blaj3",
+    "name": "創鑫智慧股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Own the firmware and driver development lifecycle — from architecture definition and implementation to performance optimization."
+        },
+        {
+          "children": [],
+          "text": "Drive pre-silicon validation and hardware-software co-verification across platform generations."
+        },
+        {
+          "children": [],
+          "text": "Lead post-silicon bring-up, functional qualification, and mass production readiness."
+        },
+        {
+          "children": [],
+          "text": "Collaborate closely with hardware architects and designers to define SW/HW interfaces and resolve complex system integration issues."
+        },
+        {
+          "children": [],
+          "text": "Master's degree in Electrical Engineering, Computer Science, or related technical fields"
+        },
+        {
+          "children": [],
+          "text": "2+ years of experience in firmware, device driver, or SoC development"
+        },
+        {
+          "children": [],
+          "text": "Direct experience implementing and debugging Linux kernel device drivers"
+        },
+        {
+          "children": [],
+          "text": "Experience with pre-silicon verification using FPGA or emulation platforms"
+        },
+        {
+          "children": [],
+          "text": "Strong C/C++ programming skills in kernel-mode or bare-metal environments"
+        },
+        {
+          "children": [],
+          "text": "Solid understanding of system architecture fundamentals — CPU, cache, bus, DMA, memory hierarchy, and interrupt handling"
+        },
+        {
+          "children": [],
+          "text": "Familiarity with PCIe protocol and interface design — including BAR, MMIO, DMA, and interrupt handling"
+        },
+        {
+          "children": [],
+          "text": "Experience with DRAM subsystem verification — LPDDR or GDDR interface validation"
+        },
+        {
+          "children": [],
+          "text": "Experience with SoC boot flow verification, including bootloader and early hardware bring-up"
+        },
+        {
+          "children": [],
+          "text": "Experience with power domain management — low-power state transitions and clock/power gating"
+        },
+        {
+          "children": [],
+          "text": "Proficiency with JTAG-based debugging for firmware bring-up and hardware validation"
+        },
+        {
+          "children": [],
+          "text": "Experience modifying UVM-based testbenches and writing C/C++ firmware to co-verify hardware behavior against VIP"
+        },
+        {
+          "children": [],
+          "text": "Comfortable leveraging AI coding assistants (e.g., Cursor, Claude Code) to accelerate development and debugging workflows"
+        }
+      ],
+      "text": "NEUCHIPS's software team is seeking a self-motivated, hands-on Software Engineer to develop and enable world-class AI accelerator solutions.\nDo you thrive where hardware meets software for the very first time — where a single line of firmware determines whether silicon lives or stays silent? As a member of our Design Service team, you will be among the first engineers to bring NEUCHIPS AI accelerator silicon to life. The firmware and driver foundation you establish will ensure our silicon successfully runs real-world AI applications at peak performance — from first silicon to final product.\nResponsibilities:\n- Own the firmware and driver development lifecycle — from architecture definition and implementation to performance optimization.\n- Drive pre-silicon validation and hardware-software co-verification across platform generations.\n- Lead post-silicon bring-up, functional qualification, and mass production readiness.\n- Collaborate closely with hardware architects and designers to define SW/HW interfaces and resolve complex system integration issues.\nQualifications/Skills:\n- Master's degree in Electrical Engineering, Computer Science, or related technical fields\n- 2+ years of experience in firmware, device driver, or SoC development\n- Direct experience implementing and debugging Linux kernel device drivers\n- Experience with pre-silicon verification using FPGA or emulation platforms\n- Strong C/C++ programming skills in kernel-mode or bare-metal environments\n- Solid understanding of system architecture fundamentals — CPU, cache, bus, DMA, memory hierarchy, and interrupt handling\nPreferred Skills:\n- Familiarity with PCIe protocol and interface design — including BAR, MMIO, DMA, and interrupt handling\n- Experience with DRAM subsystem verification — LPDDR or GDDR interface validation\n- Experience with SoC boot flow verification, including bootloader and early hardware bring-up\n- Experience with power domain management — low-power state transitions and clock/power gating\n- Proficiency with JTAG-based debugging for firmware bring-up and hardware validation\n- Experience modifying UVM-based testbenches and writing C/C++ firmware to co-verify hardware behavior against VIP\n- Comfortable leveraging AI coding assistants (e.g., Cursor, Claude Code) to accelerate development and debugging workflows\nIf this sounds like you, we invite you to apply to come join us. We highly encourage submission of a brief cover letter, just tell us why you're here (using the form when you submit an application)."
+    },
+    "employment_type_raw": "全職",
+    "title": "Firmware/Driver Engineer — AI Accelerator SoC"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市高鐵一路36號12樓",
+    "raw": "新竹縣竹北市高鐵一路36號12樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "C",
+          "C++",
+          "Python",
+          "Git"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、C、C++、Python、Git"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、韌體程式設計"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C、C++、Python、Git\n工作技能：軟體程式設計、韌體程式設計",
+    "tools": [
+      "Linux",
+      "C",
+      "C++",
+      "Python",
+      "Git"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 6
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:35:22+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "NEUCHIPS's software team is seeking a self-motivated, hands-on Software Engineer to develop and enable world-class AI accelerator solutions.\nDo you thrive where hardware meets software for the very first time — where a single line of firmware determines whether silicon lives or stays silent? As a member of our Design Service team, you will be among the first engineers to bring NEUCHIPS AI accelerator silicon to life. The firmware and driver foundation you establish will ensure our silicon successfully runs real-world AI applications at peak performance — from first silicon to final product.\nResponsibilities:\n- Own the firmware and driver development lifecycle — from architecture definition and implementation to performance optimization.\n- Drive pre-silicon validation and hardware-software co-verification across platform generations.\n- Lead post-silicon bring-up, functional qualification, and mass production readiness.\n- Collaborate closely with hardware architects and designers to define SW/HW interfaces and resolve complex system integration issues.\nQualifications/Skills:\n- Master's degree in Electrical Engineering, Computer Science, or related technical fields\n- 2+ years of experience in firmware, device driver, or SoC development\n- Direct experience implementing and debugging Linux kernel device drivers\n- Experience with pre-silicon verification using FPGA or emulation platforms\n- Strong C/C++ programming skills in kernel-mode or bare-metal environments\n- Solid understanding of system architecture fundamentals — CPU, cache, bus, DMA, memory hierarchy, and interrupt handling\nPreferred Skills:\n- Familiarity with PCIe protocol and interface design — including BAR, MMIO, DMA, and interrupt handling\n- Experience with DRAM subsystem verification — LPDDR or GDDR interface validation\n- Experience with SoC boot flow verification, including bootloader and early hardware bring-up\n- Experience with power domain management — low-power state transitions and clock/power gating\n- Proficiency with JTAG-based debugging for firmware bring-up and hardware validation\n- Experience modifying UVM-based testbenches and writing C/C++ firmware to co-verify hardware behavior against VIP\n- Comfortable leveraging AI coding assistants (e.g., Cursor, Claude Code) to accelerate development and debugging workflows\nIf this sounds like you, we invite you to apply to come join us. We highly encourage submission of a brief cover letter, just tell us why you're here (using the form when you submit an application).",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市高鐵一路36號12樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "NEUCHIPS's software team is seeking a self-motivated, hands-on Software Engineer to develop and enable world-class AI accelerator solutions.\nDo you thrive where hardware meets software for the very first time — where a single line of firmware determines whether silicon lives or stays silent? As a member of our Design Service team, you will be among the first engineers to bring NEUCHIPS AI accelerator silicon to life. The firmware and driver foundation you establish will ensure our silicon successfully runs real-world AI applications at peak performance — from first silicon to final product.\nResponsibilities:\n- Own the firmware and driver development lifecycle — from architecture definition and implementation to performance optimization.\n- Drive pre-silicon validation and hardware-software co-verification across platform generations.\n- Lead post-silicon bring-up, functional qualification, and mass production readiness.\n- Collaborate closely with hardware architects and designers to define SW/HW interfaces and resolve complex system integration issues.\nQualifications/Skills:\n- Master's degree in Electrical Engineering, Computer Science, or related technical fields\n- 2+ years of experience in firmware, device driver, or SoC development\n- Direct experience implementing and debugging Linux kernel device drivers\n- Experience with pre-silicon verification using FPGA or emulation platforms\n- Strong C/C++ programming skills in kernel-mode or bare-metal environments\n- Solid understanding of system architecture fundamentals — CPU, cache, bus, DMA, memory hierarchy, and interrupt handling\nPreferred Skills:\n- Familiarity with PCIe protocol and interface design — including BAR, MMIO, DMA, and interrupt handling\n- Experience with DRAM subsystem verification — LPDDR or GDDR interface validation\n- Experience with SoC boot flow verification, including bootloader and early hardware bring-up\n- Experience with power domain management — low-power state transitions and clock/power gating\n- Proficiency with JTAG-based debugging for firmware bring-up and hardware validation\n- Experience modifying UVM-based testbenches and writing C/C++ firmware to co-verify hardware behavior against VIP\n- Comfortable leveraging AI coding assistants (e.g., Cursor, Claude Code) to accelerate development and debugging workflows\nIf this sounds like you, we invite you to apply to come join us. We highly encourage submission of a brief cover letter, just tell us why you're here (using the form when you submit an application)."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "C",
+            "C++",
+            "Python",
+            "Git"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、C、C++、Python、Git",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、韌體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C、C++、Python、Git\n工作技能：軟體程式設計、韌體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7ik18",
+    "job_url": "https://www.104.com.tw/job/7ik18",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7ik18.json",
+    "raw_sha256": "e38698fb8949a58ee843f3c44dafa7dd2b4abed1c5bda4d9b31e8d7706efe86e",
+    "requested_url": "https://www.104.com.tw/api/jobs/7ik18"
+  }
+}

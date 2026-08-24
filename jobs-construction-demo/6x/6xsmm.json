@@ -1,0 +1,237 @@
+{
+  "company": {
+    "id": "yxcvx7k",
+    "name": "日月光半導體製造股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "WEB系統設計開發"
+        },
+        {
+          "children": [],
+          "text": "財務資訊系統自動化設計開發、整合"
+        },
+        {
+          "children": [],
+          "text": "專案建構評估、規劃開發、整合管理、問題解析及改善"
+        },
+        {
+          "children": [],
+          "text": "AI專案開發"
+        }
+      ],
+      "text": "【工作說明】\n1.WEB系統設計開發\n2.財務資訊系統自動化設計開發、整合\n3.專案建構評估、規劃開發、整合管理、問題解析及改善\n4.AI專案開發"
+    },
+    "employment_type_raw": "全職",
+    "title": "技術工程類 - 軟體設計工程師 - 財務資訊系統【高雄】"
+  },
+  "location": {
+    "address_raw": "高雄市楠梓區經三路26號",
+    "raw": "高雄市楠梓區經三路26號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "Python",
+          "MS SQL",
+          "HTML",
+          "JavaScript",
+          "CSS",
+          "Node.js",
+          "ReactJS",
+          "AngularJS",
+          "VueJS",
+          "D3.js"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、Python、MS SQL、HTML、JavaScript、CSS、Node.js、ReactJS、AngularJS、VueJS、D3.js"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、C#、Python、MS SQL、HTML、JavaScript、CSS、Node.js、ReactJS、AngularJS、VueJS、D3.js",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "Python",
+      "MS SQL",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "Node.js",
+      "ReactJS",
+      "AngularJS",
+      "VueJS",
+      "D3.js"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 29
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:34:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作說明】\n1.WEB系統設計開發\n2.財務資訊系統自動化設計開發、整合\n3.專案建構評估、規劃開發、整合管理、問題解析及改善\n4.AI專案開發",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市楠梓區經三路26號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作說明】\n1.WEB系統設計開發\n2.財務資訊系統自動化設計開發、整合\n3.專案建構評估、規劃開發、整合管理、問題解析及改善\n4.AI專案開發"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "Python",
+            "MS SQL",
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "Node.js",
+            "ReactJS",
+            "AngularJS",
+            "VueJS",
+            "D3.js"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、Python、MS SQL、HTML、JavaScript、CSS、Node.js、ReactJS、AngularJS、VueJS、D3.js",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、C#、Python、MS SQL、HTML、JavaScript、CSS、Node.js、ReactJS、AngularJS、VueJS、D3.js"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6xsmm",
+    "job_url": "https://www.104.com.tw/job/6xsmm",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6xsmm.json",
+    "raw_sha256": "cfa5213b48df2c654fde8c23201aee26db1bd0499d809beed93338a8f63a0cc0",
+    "requested_url": "https://www.104.com.tw/api/jobs/6xsmm"
+  }
+}

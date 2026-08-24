@@ -1,0 +1,165 @@
+{
+  "company": {
+    "id": "1a2x6bmdkh",
+    "name": "17LIVE_藝啟股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "17 LIVE 歡迎對以下工作內容有興趣的 網站可靠性工程師 加入我們的大家庭！\n如果您具備以下工作技能及工作經驗，請不要猶豫立即手刀提出申請：\n－具備 Container 以及 Kubernetes 的基礎知識。\n－具備 CI/CD 流程的基礎概念，有撰寫或維護 CI/CD pipeline 的經驗者佳 (我們主要的使用到的有: CircleCI, Jenkins, ArgoCD, Helm)。\n－具備建置或維護監控系統的相關經驗 (例如：Prometheus, Thanos, Grafana, Elasticsearch, Fluentd, Kibana 等)。\n－了解 Linux 作業系統，並能在 Linux 環境下進行操作與問題排查。\n－熟悉使用 Infrastructure as Code (IaC) 工具管理雲端資源，特別是 Terraform。\n－具備基礎的 Shell Script 撰寫能力。\n－提高可用性：知道如何部署HA架構以及DR架構。\n－參與輪班值班，提供 24/7 支援\n－具備至少一種程式語言的開發經驗 (例如：Go, Python, etc.)\n加分條件：\n－具備快速學習新技術與解決問題的能力。\n－曾對開源軟體專案做出貢獻。\n－具備後端服務開發經驗。\n我們希望您具備的特質：\n－反應迅速，能快速理解問題並採取行動。\n－做事謹慎，習慣在進行變更或部署前，先進行小範圍的測試或驗證。\n－熱愛學習，對 SRE 領域有高度熱情。\n－良好的溝通能力與團隊合作精神。\nIf you have the following skills and experience, don’t hesitate to apply — we’d love to hear from you!\nRequired Skills & Experience\n－Basic knowledge of Containers and Kubernetes\n－Familiar with CI/CD workflows; experience in writing or maintaining CI/CD pipelines is a plus (tools we use include CircleCI, Jenkins, ArgoCD, and Helm)\n－Experience in building or maintaining monitoring systems such as Prometheus, Thanos, Grafana, Elasticsearch, Fluentd, Kibana, etc.\n－Solid understanding of the Linux operating system, including the ability to operate and troubleshoot in a Linux environment\n－Familiar with using Infrastructure as Code (IaC) tools to manage cloud resources, especially Terraform\n－Basic scripting skills with Shell scripts\n－Knowledge of how to design and deploy high availability (HA) and disaster recovery (DR) architectures to improve system reliability\n－Willingness to participate in an on-call rotation and provide 24/7 support\n－Experience with at least one programming language (e.g., Go, Python, etc.)\nBonus Points\n－Ability to quickly learn new technologies and solve complex problems\n－Contributions to open-source projects\n－Experience in backend service development\nWhat We Look for in You\n－Fast response: Able to quickly understand and act on issues\n－Cautious and detail-oriented: Prefer to test and validate changes in a limited scope before deploying widely\n－Curious and passionate: Eager to learn and enthusiastic about the SRE field\n－Great communicator and team player: Strong collaboration and communication skills"
+    },
+    "employment_type_raw": "全職",
+    "title": "Jr./Sr. Site Reliability Engineer Jr./Sr. 網站可靠性工程師"
+  },
+  "location": {
+    "address_raw": "台北市中山區南京復興捷運站二號出口",
+    "raw": "台北市中山區南京復興捷運站二號出口"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "Linux"
+        ],
+        "label": "擅長工具",
+        "text": "Linux"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Linux",
+    "tools": [
+      "Linux"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 93
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:10:08+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "17 LIVE 歡迎對以下工作內容有興趣的 網站可靠性工程師 加入我們的大家庭！\n如果您具備以下工作技能及工作經驗，請不要猶豫立即手刀提出申請：\n－具備 Container 以及 Kubernetes 的基礎知識。\n－具備 CI/CD 流程的基礎概念，有撰寫或維護 CI/CD pipeline 的經驗者佳 (我們主要的使用到的有: CircleCI, Jenkins, ArgoCD, Helm)。\n－具備建置或維護監控系統的相關經驗 (例如：Prometheus, Thanos, Grafana, Elasticsearch, Fluentd, Kibana 等)。\n－了解 Linux 作業系統，並能在 Linux 環境下進行操作與問題排查。\n－熟悉使用 Infrastructure as Code (IaC) 工具管理雲端資源，特別是 Terraform。\n－具備基礎的 Shell Script 撰寫能力。\n－提高可用性：知道如何部署HA架構以及DR架構。\n－參與輪班值班，提供 24/7 支援\n－具備至少一種程式語言的開發經驗 (例如：Go, Python, etc.)\n加分條件：\n－具備快速學習新技術與解決問題的能力。\n－曾對開源軟體專案做出貢獻。\n－具備後端服務開發經驗。\n我們希望您具備的特質：\n－反應迅速，能快速理解問題並採取行動。\n－做事謹慎，習慣在進行變更或部署前，先進行小範圍的測試或驗證。\n－熱愛學習，對 SRE 領域有高度熱情。\n－良好的溝通能力與團隊合作精神。\nIf you have the following skills and experience, don’t hesitate to apply — we’d love to hear from you!\nRequired Skills & Experience\n－Basic knowledge of Containers and Kubernetes\n－Familiar with CI/CD workflows; experience in writing or maintaining CI/CD pipelines is a plus (tools we use include CircleCI, Jenkins, ArgoCD, and Helm)\n－Experience in building or maintaining monitoring systems such as Prometheus, Thanos, Grafana, Elasticsearch, Fluentd, Kibana, etc.\n－Solid understanding of the Linux operating system, including the ability to operate and troubleshoot in a Linux environment\n－Familiar with using Infrastructure as Code (IaC) tools to manage cloud resources, especially Terraform\n－Basic scripting skills with Shell scripts\n－Knowledge of how to design and deploy high availability (HA) and disaster recovery (DR) architectures to improve system reliability\n－Willingness to participate in an on-call rotation and provide 24/7 support\n－Experience with at least one programming language (e.g., Go, Python, etc.)\nBonus Points\n－Ability to quickly learn new technologies and solve complex problems\n－Contributions to open-source projects\n－Experience in backend service development\nWhat We Look for in You\n－Fast response: Able to quickly understand and act on issues\n－Cautious and detail-oriented: Prefer to test and validate changes in a limited scope before deploying widely\n－Curious and passionate: Eager to learn and enthusiastic about the SRE field\n－Great communicator and team player: Strong collaboration and communication skills",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區南京復興捷運站二號出口",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "17 LIVE 歡迎對以下工作內容有興趣的 網站可靠性工程師 加入我們的大家庭！\n如果您具備以下工作技能及工作經驗，請不要猶豫立即手刀提出申請：\n－具備 Container 以及 Kubernetes 的基礎知識。\n－具備 CI/CD 流程的基礎概念，有撰寫或維護 CI/CD pipeline 的經驗者佳 (我們主要的使用到的有: CircleCI, Jenkins, ArgoCD, Helm)。\n－具備建置或維護監控系統的相關經驗 (例如：Prometheus, Thanos, Grafana, Elasticsearch, Fluentd, Kibana 等)。\n－了解 Linux 作業系統，並能在 Linux 環境下進行操作與問題排查。\n－熟悉使用 Infrastructure as Code (IaC) 工具管理雲端資源，特別是 Terraform。\n－具備基礎的 Shell Script 撰寫能力。\n－提高可用性：知道如何部署HA架構以及DR架構。\n－參與輪班值班，提供 24/7 支援\n－具備至少一種程式語言的開發經驗 (例如：Go, Python, etc.)\n加分條件：\n－具備快速學習新技術與解決問題的能力。\n－曾對開源軟體專案做出貢獻。\n－具備後端服務開發經驗。\n我們希望您具備的特質：\n－反應迅速，能快速理解問題並採取行動。\n－做事謹慎，習慣在進行變更或部署前，先進行小範圍的測試或驗證。\n－熱愛學習，對 SRE 領域有高度熱情。\n－良好的溝通能力與團隊合作精神。\nIf you have the following skills and experience, don’t hesitate to apply — we’d love to hear from you!\nRequired Skills & Experience\n－Basic knowledge of Containers and Kubernetes\n－Familiar with CI/CD workflows; experience in writing or maintaining CI/CD pipelines is a plus (tools we use include CircleCI, Jenkins, ArgoCD, and Helm)\n－Experience in building or maintaining monitoring systems such as Prometheus, Thanos, Grafana, Elasticsearch, Fluentd, Kibana, etc.\n－Solid understanding of the Linux operating system, including the ability to operate and troubleshoot in a Linux environment\n－Familiar with using Infrastructure as Code (IaC) tools to manage cloud resources, especially Terraform\n－Basic scripting skills with Shell scripts\n－Knowledge of how to design and deploy high availability (HA) and disaster recovery (DR) architectures to improve system reliability\n－Willingness to participate in an on-call rotation and provide 24/7 support\n－Experience with at least one programming language (e.g., Go, Python, etc.)\nBonus Points\n－Ability to quickly learn new technologies and solve complex problems\n－Contributions to open-source projects\n－Experience in backend service development\nWhat We Look for in You\n－Fast response: Able to quickly understand and act on issues\n－Cautious and detail-oriented: Prefer to test and validate changes in a limited scope before deploying widely\n－Curious and passionate: Eager to learn and enthusiastic about the SRE field\n－Great communicator and team player: Strong collaboration and communication skills"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux"
+          ],
+          "label": "擅長工具",
+          "text": "Linux",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Linux"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8cjtz",
+    "job_url": "https://www.104.com.tw/job/8cjtz",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8cjtz.json",
+    "raw_sha256": "bc839aa06b6fcedb995ebb0dc571ab326730ab822c3cfd06c3354213138dd078",
+    "requested_url": "https://www.104.com.tw/api/jobs/8cjtz"
+  }
+}

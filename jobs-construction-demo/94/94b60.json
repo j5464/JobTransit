@@ -1,0 +1,253 @@
+{
+  "company": {
+    "id": "1a2x6bipu5",
+    "name": "美商法里亞有限公司臺灣分公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "DevOps 工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Operate, monitor, and improve production infrastructure across AWS and Azure (incl. China regions)."
+        },
+        {
+          "children": [],
+          "text": "Automate deployments and infrastructure with Terraform, Ansible, and CI/CD pipelines."
+        },
+        {
+          "children": [],
+          "text": "Proactively improve stability, performance, and security — preventing incidents before they happen."
+        },
+        {
+          "children": [],
+          "text": "Respond to incidents within SLA, troubleshoot, and drive root-cause fixes."
+        },
+        {
+          "children": [],
+          "text": "Support developers with infrastructure-related questions and unblock their work."
+        },
+        {
+          "children": [],
+          "text": "Participate in the on-call rotation."
+        },
+        {
+          "children": [],
+          "text": "Clear, consistent messaging across launches and campaigns"
+        },
+        {
+          "children": [],
+          "text": "Strong alignment between Product, PMM, Sales, and CE"
+        },
+        {
+          "children": [],
+          "text": "GTM efforts grounded in product reality and school calendars"
+        },
+        {
+          "children": [],
+          "text": "Increasing confidence across teams in how ManageBac+ is positioned"
+        },
+        {
+          "children": [],
+          "text": "Globally distributed team operating follow-the-sun across time zones"
+        },
+        {
+          "children": [],
+          "text": "On-call rotation during business hours plus weekend coverage. Urgent off-hours/night escalations happen only for major incidents — these are rare, and we actively invest in keeping them that way"
+        },
+        {
+          "children": [],
+          "text": "Compensation - Competitive salary and opportunities for career development"
+        },
+        {
+          "children": [],
+          "text": "Learning - We encourage continued education, providing an online learning platform, unlimited book purchases, and diverse internal and external training programs."
+        },
+        {
+          "children": [],
+          "text": "Team - Friendly atmosphere, group activities, and corporate events"
+        },
+        {
+          "children": [],
+          "text": "Equipment - MacBook Pro or another laptop of your specification, peripherals, and displays included"
+        }
+      ],
+      "text": "INTERESTED APPLICANTS MUST REQUEST HERE:\nhttps://faria.bamboohr.com/careers/270\nDescription\nWe’re looking for a Middle DevOps / SRE Engineer to help keep our multi-cloud production environment reliable, secure, and fast. You’ll join a globally distributed team working follow-the-sun — on everything from research and PoCs for new applications to deployment automation, security hardening, and day-to-day support for our developers.\nKey Responsibilities\n-Operate, monitor, and improve production infrastructure across AWS and Azure (incl. China regions).\n-Automate deployments and infrastructure with Terraform, Ansible, and CI/CD pipelines.\n-Proactively improve stability, performance, and security — preventing incidents before they happen.\n-Respond to incidents within SLA, troubleshoot, and drive root-cause fixes.\n-Support developers with infrastructure-related questions and unblock their work.\n-Participate in the on-call rotation.\nWhat Success Looks Like\n-Clear, consistent messaging across launches and campaigns\n-Strong alignment between Product, PMM, Sales, and CE\n-GTM efforts grounded in product reality and school calendars\n-Increasing confidence across teams in how ManageBac+ is positioned\nBenefits\n-Globally distributed team operating follow-the-sun across time zones\n-On-call rotation during business hours plus weekend coverage. Urgent off-hours/night escalations happen only for major incidents — these are rare, and we actively invest in keeping them that way\nWhat We Offer\n-Compensation - Competitive salary and opportunities for career development\n-Learning - We encourage continued education, providing an online learning platform, unlimited book purchases, and diverse internal and external training programs.\n-Team - Friendly atmosphere, group activities, and corporate events\n-Equipment - MacBook Pro or another laptop of your specification, peripherals, and displays included\nABOUT FARIA EDUCATION GROUP\nFor over 15 years, Faria Education Group has deeply understood the needs of schools, leveraging extensive experience in education. Our dedication to reaching every learner and inspiring every educator has supported over 10,000 schools and 4 million students across 155 countries. We are committed to driving transformative experiences for learners, educators, and families globally.\nOur integrated SaaS solutions suite supports all aspects of curriculum management (Atlas), teaching and learning (ManageBac), admissions (OpenApply), and school-to-home communications (SchoolsBuddy). With an unwavering commitment to innovation, our technology meets rigorous data protection and security standards, ensuring first-class training and support.\nThrough our innovative online schools (Pamoja and Wolsey Hall), we provide comprehensive educational experiences with IB Diploma and Cambridge online courses, delivering high-quality education to schools and homes worldwide.\nJoin us in our commitment to transforming education and empowering communities worldwide.\nhttps://www.faria.org/careers"
+    },
+    "employment_type_raw": "全職",
+    "title": "Middle DevOps/SRE Engineer"
+  },
+  "location": {
+    "address_raw": "台北市大安區金山南路二段200號12樓",
+    "raw": "台北市大安區金山南路二段200號12樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "SaaS",
+          "Excel",
+          "PowerPoint",
+          "Word",
+          "Canva"
+        ],
+        "label": "擅長工具",
+        "text": "SaaS、Excel、PowerPoint、Word、Canva"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Requirements\nWhat We Are Looking For：\n-3+ years in DevOps / SRE, including hands-on AWS experience\n-Strong AWS: EC2, VPC, RDS, S3, ElastiCache, OpenSearch, EKS, ECS, Lambda, ELB (ALB/NLB), CloudFront, CloudWatch, CloudTrail, AWS Config, Secrets Manager, SES, Security Hub, Inspector\n-Azure: App Service, Container Apps, Front Door, CDN, Azure SQL Database, Storage Accounts, Virtual Network (VNet), Azure DevOps\n-Containers & orchestration: Kubernetes, Docker, Helm, ArgoCD\nInfrastructure as Code: Terraform, Ansible\n-CI/CD & version control: GitHub Actions, solid Git workflow\n-Scripting: Bash and Python\n-Linux administration, networking, firewalls, web servers (Nginx/Apache)\n-Monitoring & observability: Prometheus (Kubernetes), Grafana, ELK, Loki, incident management with PagerDuty\n-Solid understanding of SDLC and SLA-based incident response\n-Strong troubleshooting skills and a structured, methodical approach\n-English B2+\nNice-to-Haves：\n-AWS / Azure certifications\n-Alibaba Cloud experience\n-Experience with Ruby, Python, C# web application frameworks (deploying and troubleshooting)\n-Basic understanding of disaster recovery & database backups (PITR, restore procedures)\n-Experience with compliance-driven environments (GDPR, ISO 27001, China data residency)\n-Cost optimization / FinOps awareness\n-Experience with AI applications\nWho You Are:\n-Proactive — you suggest improvements and work ahead of problems, removing risks before they become incidents\n-Calm under pressure, able to juggle multiple complex tasks with a clear head\n-A team player who takes ownership and is accountable for their area of responsibility\n-Eager to learn and grow to support both current and new products"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [],
+    "other_text": "Requirements\nWhat We Are Looking For：\n-3+ years in DevOps / SRE, including hands-on AWS experience\n-Strong AWS: EC2, VPC, RDS, S3, ElastiCache, OpenSearch, EKS, ECS, Lambda, ELB (ALB/NLB), CloudFront, CloudWatch, CloudTrail, AWS Config, Secrets Manager, SES, Security Hub, Inspector\n-Azure: App Service, Container Apps, Front Door, CDN, Azure SQL Database, Storage Accounts, Virtual Network (VNet), Azure DevOps\n-Containers & orchestration: Kubernetes, Docker, Helm, ArgoCD\nInfrastructure as Code: Terraform, Ansible\n-CI/CD & version control: GitHub Actions, solid Git workflow\n-Scripting: Bash and Python\n-Linux administration, networking, firewalls, web servers (Nginx/Apache)\n-Monitoring & observability: Prometheus (Kubernetes), Grafana, ELK, Loki, incident management with PagerDuty\n-Solid understanding of SDLC and SLA-based incident response\n-Strong troubleshooting skills and a structured, methodical approach\n-English B2+\nNice-to-Haves：\n-AWS / Azure certifications\n-Alibaba Cloud experience\n-Experience with Ruby, Python, C# web application frameworks (deploying and troubleshooting)\n-Basic understanding of disaster recovery & database backups (PITR, restore procedures)\n-Experience with compliance-driven environments (GDPR, ISO 27001, China data residency)\n-Cost optimization / FinOps awareness\n-Experience with AI applications\nWho You Are:\n-Proactive — you suggest improvements and work ahead of problems, removing risks before they become incidents\n-Calm under pressure, able to juggle multiple complex tasks with a clear head\n-A team player who takes ownership and is accountable for their area of responsibility\n-Eager to learn and grow to support both current and new products",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學\n語文條件：英文：精通、精通、精通、精通\n擅長工具：SaaS、Excel、PowerPoint、Word、Canva\n其他條件：Requirements\nWhat We Are Looking For：\n-3+ years in DevOps / SRE, including hands-on AWS experience\n-Strong AWS: EC2, VPC, RDS, S3, ElastiCache, OpenSearch, EKS, ECS, Lambda, ELB (ALB/NLB), CloudFront, CloudWatch, CloudTrail, AWS Config, Secrets Manager, SES, Security Hub, Inspector\n-Azure: App Service, Container Apps, Front Door, CDN, Azure SQL Database, Storage Accounts, Virtual Network (VNet), Azure DevOps\n-Containers & orchestration: Kubernetes, Docker, Helm, ArgoCD\nInfrastructure as Code: Terraform, Ansible\n-CI/CD & version control: GitHub Actions, solid Git workflow\n-Scripting: Bash and Python\n-Linux administration, networking, firewalls, web servers (Nginx/Apache)\n-Monitoring & observability: Prometheus (Kubernetes), Grafana, ELK, Loki, incident management with PagerDuty\n-Solid understanding of SDLC and SLA-based incident response\n-Strong troubleshooting skills and a structured, methodical approach\n-English B2+\nNice-to-Haves：\n-AWS / Azure certifications\n-Alibaba Cloud experience\n-Experience with Ruby, Python, C# web application frameworks (deploying and troubleshooting)\n-Basic understanding of disaster recovery & database backups (PITR, restore procedures)\n-Experience with compliance-driven environments (GDPR, ISO 27001, China data residency)\n-Cost optimization / FinOps awareness\n-Experience with AI applications\nWho You Are:\n-Proactive — you suggest improvements and work ahead of problems, removing risks before they become incidents\n-Calm under pressure, able to juggle multiple complex tasks with a clear head\n-A team player who takes ownership and is accountable for their area of responsibility\n-Eager to learn and grow to support both current and new products",
+    "tools": [
+      "SaaS",
+      "Excel",
+      "PowerPoint",
+      "Word",
+      "Canva"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 27
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:28:42+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "INTERESTED APPLICANTS MUST REQUEST HERE:\nhttps://faria.bamboohr.com/careers/270\nDescription\nWe’re looking for a Middle DevOps / SRE Engineer to help keep our multi-cloud production environment reliable, secure, and fast. You’ll join a globally distributed team working follow-the-sun — on everything from research and PoCs for new applications to deployment automation, security hardening, and day-to-day support for our developers.\nKey Responsibilities\n-Operate, monitor, and improve production infrastructure across AWS and Azure (incl. China regions).\n-Automate deployments and infrastructure with Terraform, Ansible, and CI/CD pipelines.\n-Proactively improve stability, performance, and security — preventing incidents before they happen.\n-Respond to incidents within SLA, troubleshoot, and drive root-cause fixes.\n-Support developers with infrastructure-related questions and unblock their work.\n-Participate in the on-call rotation.\nWhat Success Looks Like\n-Clear, consistent messaging across launches and campaigns\n-Strong alignment between Product, PMM, Sales, and CE\n-GTM efforts grounded in product reality and school calendars\n-Increasing confidence across teams in how ManageBac+ is positioned\nBenefits\n-Globally distributed team operating follow-the-sun across time zones\n-On-call rotation during business hours plus weekend coverage. Urgent off-hours/night escalations happen only for major incidents — these are rare, and we actively invest in keeping them that way\nWhat We Offer\n-Compensation - Competitive salary and opportunities for career development\n-Learning - We encourage continued education, providing an online learning platform, unlimited book purchases, and diverse internal and external training programs.\n-Team - Friendly atmosphere, group activities, and corporate events\n-Equipment - MacBook Pro or another laptop of your specification, peripherals, and displays included\nABOUT FARIA EDUCATION GROUP\nFor over 15 years, Faria Education Group has deeply understood the needs of schools, leveraging extensive experience in education. Our dedication to reaching every learner and inspiring every educator has supported over 10,000 schools and 4 million students across 155 countries. We are committed to driving transformative experiences for learners, educators, and families globally.\nOur integrated SaaS solutions suite supports all aspects of curriculum management (Atlas), teaching and learning (ManageBac), admissions (OpenApply), and school-to-home communications (SchoolsBuddy). With an unwavering commitment to innovation, our technology meets rigorous data protection and security standards, ensuring first-class training and support.\nThrough our innovative online schools (Pamoja and Wolsey Hall), we provide comprehensive educational experiences with IB Diploma and Cambridge online courses, delivering high-quality education to schools and homes worldwide.\nJoin us in our commitment to transforming education and empowering communities worldwide.\nhttps://www.faria.org/careers",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "DevOps 工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、DevOps 工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區金山南路二段200號12樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "INTERESTED APPLICANTS MUST REQUEST HERE:\nhttps://faria.bamboohr.com/careers/270\nDescription\nWe’re looking for a Middle DevOps / SRE Engineer to help keep our multi-cloud production environment reliable, secure, and fast. You’ll join a globally distributed team working follow-the-sun — on everything from research and PoCs for new applications to deployment automation, security hardening, and day-to-day support for our developers.\nKey Responsibilities\n-Operate, monitor, and improve production infrastructure across AWS and Azure (incl. China regions).\n-Automate deployments and infrastructure with Terraform, Ansible, and CI/CD pipelines.\n-Proactively improve stability, performance, and security — preventing incidents before they happen.\n-Respond to incidents within SLA, troubleshoot, and drive root-cause fixes.\n-Support developers with infrastructure-related questions and unblock their work.\n-Participate in the on-call rotation.\nWhat Success Looks Like\n-Clear, consistent messaging across launches and campaigns\n-Strong alignment between Product, PMM, Sales, and CE\n-GTM efforts grounded in product reality and school calendars\n-Increasing confidence across teams in how ManageBac+ is positioned\nBenefits\n-Globally distributed team operating follow-the-sun across time zones\n-On-call rotation during business hours plus weekend coverage. Urgent off-hours/night escalations happen only for major incidents — these are rare, and we actively invest in keeping them that way\nWhat We Offer\n-Compensation - Competitive salary and opportunities for career development\n-Learning - We encourage continued education, providing an online learning platform, unlimited book purchases, and diverse internal and external training programs.\n-Team - Friendly atmosphere, group activities, and corporate events\n-Equipment - MacBook Pro or another laptop of your specification, peripherals, and displays included\nABOUT FARIA EDUCATION GROUP\nFor over 15 years, Faria Education Group has deeply understood the needs of schools, leveraging extensive experience in education. Our dedication to reaching every learner and inspiring every educator has supported over 10,000 schools and 4 million students across 155 countries. We are committed to driving transformative experiences for learners, educators, and families globally.\nOur integrated SaaS solutions suite supports all aspects of curriculum management (Atlas), teaching and learning (ManageBac), admissions (OpenApply), and school-to-home communications (SchoolsBuddy). With an unwavering commitment to innovation, our technology meets rigorous data protection and security standards, ensuring first-class training and support.\nThrough our innovative online schools (Pamoja and Wolsey Hall), we provide comprehensive educational experiences with IB Diploma and Cambridge online courses, delivering high-quality education to schools and homes worldwide.\nJoin us in our commitment to transforming education and empowering communities worldwide.\nhttps://www.faria.org/careers"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "SaaS",
+            "Excel",
+            "PowerPoint",
+            "Word",
+            "Canva"
+          ],
+          "label": "擅長工具",
+          "text": "SaaS、Excel、PowerPoint、Word、Canva",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Requirements\nWhat We Are Looking For：\n-3+ years in DevOps / SRE, including hands-on AWS experience\n-Strong AWS: EC2, VPC, RDS, S3, ElastiCache, OpenSearch, EKS, ECS, Lambda, ELB (ALB/NLB), CloudFront, CloudWatch, CloudTrail, AWS Config, Secrets Manager, SES, Security Hub, Inspector\n-Azure: App Service, Container Apps, Front Door, CDN, Azure SQL Database, Storage Accounts, Virtual Network (VNet), Azure DevOps\n-Containers & orchestration: Kubernetes, Docker, Helm, ArgoCD\nInfrastructure as Code: Terraform, Ansible\n-CI/CD & version control: GitHub Actions, solid Git workflow\n-Scripting: Bash and Python\n-Linux administration, networking, firewalls, web servers (Nginx/Apache)\n-Monitoring & observability: Prometheus (Kubernetes), Grafana, ELK, Loki, incident management with PagerDuty\n-Solid understanding of SDLC and SLA-based incident response\n-Strong troubleshooting skills and a structured, methodical approach\n-English B2+\nNice-to-Haves：\n-AWS / Azure certifications\n-Alibaba Cloud experience\n-Experience with Ruby, Python, C# web application frameworks (deploying and troubleshooting)\n-Basic understanding of disaster recovery & database backups (PITR, restore procedures)\n-Experience with compliance-driven environments (GDPR, ISO 27001, China data residency)\n-Cost optimization / FinOps awareness\n-Experience with AI applications\nWho You Are:\n-Proactive — you suggest improvements and work ahead of problems, removing risks before they become incidents\n-Calm under pressure, able to juggle multiple complex tasks with a clear head\n-A team player who takes ownership and is accountable for their area of responsibility\n-Eager to learn and grow to support both current and new products",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學\n語文條件：英文：精通、精通、精通、精通\n擅長工具：SaaS、Excel、PowerPoint、Word、Canva\n其他條件：Requirements\nWhat We Are Looking For：\n-3+ years in DevOps / SRE, including hands-on AWS experience\n-Strong AWS: EC2, VPC, RDS, S3, ElastiCache, OpenSearch, EKS, ECS, Lambda, ELB (ALB/NLB), CloudFront, CloudWatch, CloudTrail, AWS Config, Secrets Manager, SES, Security Hub, Inspector\n-Azure: App Service, Container Apps, Front Door, CDN, Azure SQL Database, Storage Accounts, Virtual Network (VNet), Azure DevOps\n-Containers & orchestration: Kubernetes, Docker, Helm, ArgoCD\nInfrastructure as Code: Terraform, Ansible\n-CI/CD & version control: GitHub Actions, solid Git workflow\n-Scripting: Bash and Python\n-Linux administration, networking, firewalls, web servers (Nginx/Apache)\n-Monitoring & observability: Prometheus (Kubernetes), Grafana, ELK, Loki, incident management with PagerDuty\n-Solid understanding of SDLC and SLA-based incident response\n-Strong troubleshooting skills and a structured, methodical approach\n-English B2+\nNice-to-Haves：\n-AWS / Azure certifications\n-Alibaba Cloud experience\n-Experience with Ruby, Python, C# web application frameworks (deploying and troubleshooting)\n-Basic understanding of disaster recovery & database backups (PITR, restore procedures)\n-Experience with compliance-driven environments (GDPR, ISO 27001, China data residency)\n-Cost optimization / FinOps awareness\n-Experience with AI applications\nWho You Are:\n-Proactive — you suggest improvements and work ahead of problems, removing risks before they become incidents\n-Calm under pressure, able to juggle multiple complex tasks with a clear head\n-A team player who takes ownership and is accountable for their area of responsibility\n-Eager to learn and grow to support both current and new products"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94b60",
+    "job_url": "https://www.104.com.tw/job/94b60",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94b60.json",
+    "raw_sha256": "33adc83282dcde27e8dd1ee9a36740f1cdc70ac4e80335240fbe7f1f398bcd71",
+    "requested_url": "https://www.104.com.tw/api/jobs/94b60"
+  }
+}

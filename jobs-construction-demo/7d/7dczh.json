@@ -1,0 +1,243 @@
+{
+  "company": {
+    "id": "7hqkeah",
+    "name": "眾匯智能健康股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "後端工程師",
+      "電子商務技術主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "健康檢查作業系統之開發及維護"
+        },
+        {
+          "children": [],
+          "text": "遠距醫療諮詢系統之開發及維護"
+        },
+        {
+          "children": [],
+          "text": "資料庫及雲端伺服器管理"
+        },
+        {
+          "children": [],
+          "text": "參與AI創新服務產品之開發等"
+        }
+      ],
+      "text": "上班地點在台北市南港軟體工業園區，位南港車站圈(三鐵共構)，交通便利；鄰近中信金融園區及日本三井''LaLaPort''商場，生活與休閒機能豐富。\n週休二日、上班時間9:00-18:00。\n職務內容:\n1. 健康檢查作業系統之開發及維護\n2. 遠距醫療諮詢系統之開發及維護\n3. 資料庫及雲端伺服器管理\n4. 參與AI創新服務產品之開發等\n(使用軟體與工具，請參考下方欄位)\n良禽擇木而棲，歡迎熱愛擁抱新技術，對數位科技在【健康照護】領域運用具好奇心及興趣者，加入我們的行列!"
+    },
+    "employment_type_raw": "全職",
+    "title": "後端工程師"
+  },
+  "location": {
+    "address_raw": "台北市南港區三重路19-13號5樓E棟",
+    "raw": "台北市南港區三重路19-13號5樓E棟"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "Git",
+          "ASP.NET",
+          "C#",
+          "MS SQL",
+          "JavaScript",
+          "Go",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Git、ASP.NET、C#、MS SQL、JavaScript、Go、Python"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "功能測試(function test)",
+          "測試環境建置規劃",
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫系統管理維護",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、功能測試(function test)、測試環境建置規劃、軟體程式設計、網路程式設計、資料庫系統管理維護、資料庫程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "功能測試(function test)",
+      "測試環境建置規劃",
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫系統管理維護",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、其他數學及電算機科學相關\n擅長工具：Git、ASP.NET、C#、MS SQL、JavaScript、Go、Python\n工作技能：軟體工程系統開發、功能測試(function test)、測試環境建置規劃、軟體程式設計、網路程式設計、資料庫系統管理維護、資料庫程式設計",
+    "tools": [
+      "Git",
+      "ASP.NET",
+      "C#",
+      "MS SQL",
+      "JavaScript",
+      "Go",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 84
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:49:58+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "上班地點在台北市南港軟體工業園區，位南港車站圈(三鐵共構)，交通便利；鄰近中信金融園區及日本三井''LaLaPort''商場，生活與休閒機能豐富。\n週休二日、上班時間9:00-18:00。\n職務內容:\n1. 健康檢查作業系統之開發及維護\n2. 遠距醫療諮詢系統之開發及維護\n3. 資料庫及雲端伺服器管理\n4. 參與AI創新服務產品之開發等\n(使用軟體與工具，請參考下方欄位)\n良禽擇木而棲，歡迎熱愛擁抱新技術，對數位科技在【健康照護】領域運用具好奇心及興趣者，加入我們的行列!",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "後端工程師",
+            "電子商務技術主管"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、後端工程師、電子商務技術主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區三重路19-13號5樓E棟",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "上班地點在台北市南港軟體工業園區，位南港車站圈(三鐵共構)，交通便利；鄰近中信金融園區及日本三井''LaLaPort''商場，生活與休閒機能豐富。\n週休二日、上班時間9:00-18:00。\n職務內容:\n1. 健康檢查作業系統之開發及維護\n2. 遠距醫療諮詢系統之開發及維護\n3. 資料庫及雲端伺服器管理\n4. 參與AI創新服務產品之開發等\n(使用軟體與工具，請參考下方欄位)\n良禽擇木而棲，歡迎熱愛擁抱新技術，對數位科技在【健康照護】領域運用具好奇心及興趣者，加入我們的行列!"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "ASP.NET",
+            "C#",
+            "MS SQL",
+            "JavaScript",
+            "Go",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Git、ASP.NET、C#、MS SQL、JavaScript、Go、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "功能測試(function test)",
+            "測試環境建置規劃",
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫系統管理維護",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、功能測試(function test)、測試環境建置規劃、軟體程式設計、網路程式設計、資料庫系統管理維護、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、其他數學及電算機科學相關\n擅長工具：Git、ASP.NET、C#、MS SQL、JavaScript、Go、Python\n工作技能：軟體工程系統開發、功能測試(function test)、測試環境建置規劃、軟體程式設計、網路程式設計、資料庫系統管理維護、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7dczh",
+    "job_url": "https://www.104.com.tw/job/7dczh",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7dczh.json",
+    "raw_sha256": "420bd5a2326a9035f18e687b45813ebce36384b26b5f892a490f860a12ddcaf6",
+    "requested_url": "https://www.104.com.tw/api/jobs/7dczh"
+  }
+}

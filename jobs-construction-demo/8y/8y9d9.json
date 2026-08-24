@@ -1,0 +1,197 @@
+{
+  "company": {
+    "id": "oe22du0",
+    "name": "LILEE SYSTEMS_理立系統股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "DevOps 工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "CI/CD & Release: Own CI/CD pipelines and release workflows (Jenkins, Gerrit/Git). Improve build/deploy speed, reliability, and rollback practices."
+        },
+        {
+          "children": [],
+          "text": "Infrastructure Automation: Build and maintain automation for infrastructure and operations using Ansible and shell scripts (Python is a plus). Keep infra changes versioned and reviewable."
+        },
+        {
+          "children": [],
+          "text": "Container & Runtime Operations: Operate Docker/docker-compose environments, including service configuration, environment management, and deployment templates. Standardize how services are built, configured, and run."
+        },
+        {
+          "children": [],
+          "text": "On-prem Platform Operations: Maintain and improve VMware vCenter/vSphere infrastructure and NAS/storage (Synology preferred), including backups, snapshots, and restore drills. Ensure retention and recovery procedures are reliable."
+        },
+        {
+          "children": [],
+          "text": "Observability & Incident Handling: Improve monitoring/logging/alerting (Prometheus/Grafana/Loki or equivalent) and support production issues. Perform root cause analysis, write postmortems, and drive preventive improvements."
+        },
+        {
+          "children": [],
+          "text": "Documentation & Diagrams: Maintain runbooks, SOPs, and clear infrastructure diagrams to support teamwork and consistent operations."
+        },
+        {
+          "children": [],
+          "text": "Leadership & Collaboration: Mentor teammates, coordinate work across Dev/QA teams, and communicate clearly with stakeholders."
+        },
+        {
+          "children": [],
+          "text": "5+ years experience in DevOps / SRE engineering"
+        },
+        {
+          "children": [],
+          "text": "Strong Linux administration and troubleshooting skills"
+        },
+        {
+          "children": [],
+          "text": "Docker and docker-compose (build/run/debug)"
+        },
+        {
+          "children": [],
+          "text": "Basic networking knowledge (TCP/IP, DNS, TLS, firewall/routing concepts)"
+        },
+        {
+          "children": [],
+          "text": "CI/CD pipeline experience (Jenkins preferred); familiar with Gerrit-based workflow and Git"
+        },
+        {
+          "children": [],
+          "text": "On-prem virtualization experience (VMware vCenter/vSphere preferred)"
+        },
+        {
+          "children": [],
+          "text": "Infrastructure automation experience (Ansible preferred) and shell scripting"
+        }
+      ],
+      "text": "Responsibilities:\n•CI/CD & Release: Own CI/CD pipelines and release workflows (Jenkins, Gerrit/Git). Improve build/deploy speed, reliability, and rollback practices.\n•Infrastructure Automation: Build and maintain automation for infrastructure and operations using Ansible and shell scripts (Python is a plus). Keep infra changes versioned and reviewable.\n•Container & Runtime Operations: Operate Docker/docker-compose environments, including service configuration, environment management, and deployment templates. Standardize how services are built, configured, and run.\n•On-prem Platform Operations: Maintain and improve VMware vCenter/vSphere infrastructure and NAS/storage (Synology preferred), including backups, snapshots, and restore drills. Ensure retention and recovery procedures are reliable.\n•Observability & Incident Handling: Improve monitoring/logging/alerting (Prometheus/Grafana/Loki or equivalent) and support production issues. Perform root cause analysis, write postmortems, and drive preventive improvements.\n•Documentation & Diagrams: Maintain runbooks, SOPs, and clear infrastructure diagrams to support teamwork and consistent operations.\n•Leadership & Collaboration: Mentor teammates, coordinate work across Dev/QA teams, and communicate clearly with stakeholders.\nRequirements:\nMust have:\n•5+ years experience in DevOps / SRE engineering\n•Strong Linux administration and troubleshooting skills\n•Docker and docker-compose (build/run/debug)\n•Basic networking knowledge (TCP/IP, DNS, TLS, firewall/routing concepts)\n•CI/CD pipeline experience (Jenkins preferred); familiar with Gerrit-based workflow and Git\n•On-prem virtualization experience (VMware vCenter/vSphere preferred)\n•Infrastructure automation experience (Ansible preferred) and shell scripting"
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior DevOps Engineer"
+  },
+  "location": {
+    "address_raw": "新北市板橋區新站路16之1號24樓",
+    "raw": "新北市板橋區新站路16之1號24樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Nice to have:\n•NAS / storage experience (RAID, snapshots, backup/restore)\n•Monitoring/logging stack experience (Prometheus/Grafana/Loki/ELK — any)\n•Security tooling familiarity (vulnerability scanning concepts, least-privilege mindset)\n•Knowledge of database and message queue\n•Python automation (tools/scripts, API integrations)\n•Kubernetes or k3s (basic operations and troubleshooting)"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "Nice to have:\n•NAS / storage experience (RAID, snapshots, backup/restore)\n•Monitoring/logging stack experience (Prometheus/Grafana/Loki/ELK — any)\n•Security tooling familiarity (vulnerability scanning concepts, least-privilege mindset)\n•Knowledge of database and message queue\n•Python automation (tools/scripts, API integrations)\n•Kubernetes or k3s (basic operations and troubleshooting)",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n其他條件：Nice to have:\n•NAS / storage experience (RAID, snapshots, backup/restore)\n•Monitoring/logging stack experience (Prometheus/Grafana/Loki/ELK — any)\n•Security tooling familiarity (vulnerability scanning concepts, least-privilege mindset)\n•Knowledge of database and message queue\n•Python automation (tools/scripts, API integrations)\n•Kubernetes or k3s (basic operations and troubleshooting)",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 62
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:54:55+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Responsibilities:\n•CI/CD & Release: Own CI/CD pipelines and release workflows (Jenkins, Gerrit/Git). Improve build/deploy speed, reliability, and rollback practices.\n•Infrastructure Automation: Build and maintain automation for infrastructure and operations using Ansible and shell scripts (Python is a plus). Keep infra changes versioned and reviewable.\n•Container & Runtime Operations: Operate Docker/docker-compose environments, including service configuration, environment management, and deployment templates. Standardize how services are built, configured, and run.\n•On-prem Platform Operations: Maintain and improve VMware vCenter/vSphere infrastructure and NAS/storage (Synology preferred), including backups, snapshots, and restore drills. Ensure retention and recovery procedures are reliable.\n•Observability & Incident Handling: Improve monitoring/logging/alerting (Prometheus/Grafana/Loki or equivalent) and support production issues. Perform root cause analysis, write postmortems, and drive preventive improvements.\n•Documentation & Diagrams: Maintain runbooks, SOPs, and clear infrastructure diagrams to support teamwork and consistent operations.\n•Leadership & Collaboration: Mentor teammates, coordinate work across Dev/QA teams, and communicate clearly with stakeholders.\nRequirements:\nMust have:\n•5+ years experience in DevOps / SRE engineering\n•Strong Linux administration and troubleshooting skills\n•Docker and docker-compose (build/run/debug)\n•Basic networking knowledge (TCP/IP, DNS, TLS, firewall/routing concepts)\n•CI/CD pipeline experience (Jenkins preferred); familiar with Gerrit-based workflow and Git\n•On-prem virtualization experience (VMware vCenter/vSphere preferred)\n•Infrastructure automation experience (Ansible preferred) and shell scripting",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "DevOps 工程師"
+          ],
+          "label": "職務類別",
+          "text": "DevOps 工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區新站路16之1號24樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Responsibilities:\n•CI/CD & Release: Own CI/CD pipelines and release workflows (Jenkins, Gerrit/Git). Improve build/deploy speed, reliability, and rollback practices.\n•Infrastructure Automation: Build and maintain automation for infrastructure and operations using Ansible and shell scripts (Python is a plus). Keep infra changes versioned and reviewable.\n•Container & Runtime Operations: Operate Docker/docker-compose environments, including service configuration, environment management, and deployment templates. Standardize how services are built, configured, and run.\n•On-prem Platform Operations: Maintain and improve VMware vCenter/vSphere infrastructure and NAS/storage (Synology preferred), including backups, snapshots, and restore drills. Ensure retention and recovery procedures are reliable.\n•Observability & Incident Handling: Improve monitoring/logging/alerting (Prometheus/Grafana/Loki or equivalent) and support production issues. Perform root cause analysis, write postmortems, and drive preventive improvements.\n•Documentation & Diagrams: Maintain runbooks, SOPs, and clear infrastructure diagrams to support teamwork and consistent operations.\n•Leadership & Collaboration: Mentor teammates, coordinate work across Dev/QA teams, and communicate clearly with stakeholders.\nRequirements:\nMust have:\n•5+ years experience in DevOps / SRE engineering\n•Strong Linux administration and troubleshooting skills\n•Docker and docker-compose (build/run/debug)\n•Basic networking knowledge (TCP/IP, DNS, TLS, firewall/routing concepts)\n•CI/CD pipeline experience (Jenkins preferred); familiar with Gerrit-based workflow and Git\n•On-prem virtualization experience (VMware vCenter/vSphere preferred)\n•Infrastructure automation experience (Ansible preferred) and shell scripting"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Nice to have:\n•NAS / storage experience (RAID, snapshots, backup/restore)\n•Monitoring/logging stack experience (Prometheus/Grafana/Loki/ELK — any)\n•Security tooling familiarity (vulnerability scanning concepts, least-privilege mindset)\n•Knowledge of database and message queue\n•Python automation (tools/scripts, API integrations)\n•Kubernetes or k3s (basic operations and troubleshooting)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n其他條件：Nice to have:\n•NAS / storage experience (RAID, snapshots, backup/restore)\n•Monitoring/logging stack experience (Prometheus/Grafana/Loki/ELK — any)\n•Security tooling familiarity (vulnerability scanning concepts, least-privilege mindset)\n•Knowledge of database and message queue\n•Python automation (tools/scripts, API integrations)\n•Kubernetes or k3s (basic operations and troubleshooting)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8y9d9",
+    "job_url": "https://www.104.com.tw/job/8y9d9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8y9d9.json",
+    "raw_sha256": "cffacbd967e9698a0eae32a32edd9f217b6fc0274f74ef46fbb483fa8bc3ab24",
+    "requested_url": "https://www.104.com.tw/api/jobs/8y9d9"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "company": {
+    "id": "5rl0nmw",
+    "name": "四維航業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資訊助理",
+      "網路管理工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "公司內部電腦、印表機、事務機等設備之軟、硬體障礙排除"
+        },
+        {
+          "children": [],
+          "text": "公司船舶資訊設備、應用軟體之安裝與維護"
+        },
+        {
+          "children": [],
+          "text": "公司船舶衛星系統管理與問題排除協助"
+        },
+        {
+          "children": [],
+          "text": "公司網路、伺服器、防火牆等機房設備管理與維護"
+        },
+        {
+          "children": [],
+          "text": "其他有關資訊支援等及主管交辦事項"
+        }
+      ],
+      "text": "1.公司內部電腦、印表機、事務機等設備之軟、硬體障礙排除\n2.公司船舶資訊設備、應用軟體之安裝與維護\n3.公司船舶衛星系統管理與問題排除協助\n4.公司網路、伺服器、防火牆等機房設備管理與維護\n5.其他有關資訊支援等及主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊人員"
+  },
+  "location": {
+    "address_raw": "台北市松山區復興北路167號16樓",
+    "raw": "台北市松山區復興北路167號16樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Windows 7",
+          "Windows 10",
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Windows 7、Windows 10、Excel、Outlook、PowerPoint、Word"
+      },
+      {
+        "items": [
+          "伺服器網站管理維護",
+          "作業系統基本操作",
+          "資料備份與復原",
+          "電腦設備裝配",
+          "資訊設備操作檢修",
+          "資訊設備環境設定"
+        ],
+        "label": "工作技能",
+        "text": "伺服器網站管理維護、作業系統基本操作、資料備份與復原、電腦設備裝配、資訊設備操作檢修、資訊設備環境設定"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "備資訊安全管理及實務經驗尤佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關"
+    ],
+    "other_text": "備資訊安全管理及實務經驗尤佳",
+    "skills": [
+      "伺服器網站管理維護",
+      "作業系統基本操作",
+      "資料備份與復原",
+      "電腦設備裝配",
+      "資訊設備操作檢修",
+      "資訊設備環境設定"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學\n科系要求：資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Windows 7、Windows 10、Excel、Outlook、PowerPoint、Word\n工作技能：伺服器網站管理維護、作業系統基本操作、資料備份與復原、電腦設備裝配、資訊設備操作檢修、資訊設備環境設定\n其他條件：備資訊安全管理及實務經驗尤佳",
+    "tools": [
+      "Windows 7",
+      "Windows 10",
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 71
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:16:11+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.公司內部電腦、印表機、事務機等設備之軟、硬體障礙排除\n2.公司船舶資訊設備、應用軟體之安裝與維護\n3.公司船舶衛星系統管理與問題排除協助\n4.公司網路、伺服器、防火牆等機房設備管理與維護\n5.其他有關資訊支援等及主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資訊助理",
+            "網路管理工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "資訊助理、網路管理工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區復興北路167號16樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.公司內部電腦、印表機、事務機等設備之軟、硬體障礙排除\n2.公司船舶資訊設備、應用軟體之安裝與維護\n3.公司船舶衛星系統管理與問題排除協助\n4.公司網路、伺服器、防火牆等機房設備管理與維護\n5.其他有關資訊支援等及主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Windows 7",
+            "Windows 10",
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Windows 7、Windows 10、Excel、Outlook、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "伺服器網站管理維護",
+            "作業系統基本操作",
+            "資料備份與復原",
+            "電腦設備裝配",
+            "資訊設備操作檢修",
+            "資訊設備環境設定"
+          ],
+          "label": "工作技能",
+          "text": "伺服器網站管理維護、作業系統基本操作、資料備份與復原、電腦設備裝配、資訊設備操作檢修、資訊設備環境設定",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "備資訊安全管理及實務經驗尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學\n科系要求：資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Windows 7、Windows 10、Excel、Outlook、PowerPoint、Word\n工作技能：伺服器網站管理維護、作業系統基本操作、資料備份與復原、電腦設備裝配、資訊設備操作檢修、資訊設備環境設定\n其他條件：備資訊安全管理及實務經驗尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "6x644",
+    "job_url": "https://www.104.com.tw/job/6x644",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6x644.json",
+    "raw_sha256": "39904c97c7d506a7e1589a2a192339ba78c6a4513671e0d718de7598c52a9165",
+    "requested_url": "https://www.104.com.tw/api/jobs/6x644"
+  }
+}

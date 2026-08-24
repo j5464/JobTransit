@@ -1,0 +1,229 @@
+{
+  "company": {
+    "id": "18nhbrdk",
+    "name": "中和碁電股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料庫管理人員",
+      "MIS／網管主管",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "處理公司內部系統需求分析、程式設計"
+        },
+        {
+          "children": [],
+          "text": "公司資料庫管理"
+        },
+        {
+          "children": [],
+          "text": "公司系統或軟體使用異常排除"
+        },
+        {
+          "children": [],
+          "text": "正航ERP維護與內部需求處理"
+        },
+        {
+          "children": [],
+          "text": "跨部門技術支援"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事務處理"
+        }
+      ],
+      "text": "1.處理公司內部系統需求分析、程式設計\n2.公司資料庫管理\n3.公司系統或軟體使用異常排除\n4.正航ERP維護與內部需求處理\n5.跨部門技術支援\n6.主管交辦事務處理"
+    },
+    "employment_type_raw": "全職",
+    "title": "MIS"
+  },
+  "location": {
+    "address_raw": "台南市仁德區保安路一段62號",
+    "raw": "台南市仁德區保安路一段62號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "Visual Studio",
+          "WinForm",
+          "正航"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Visual Studio、WinForm、正航"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.能獨立作業、工作積極\n2.擅於溝通，了解使用者與主管需求\n3.個性溫和好相處\n4.有正航ERP使用、開發經驗優先錄取\n5.有網路通訊軟體撰寫經驗者佳\n6.有資料庫管理者佳\n7.有主機管理經驗者佳\n8.有異質平台整合經驗者佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1.能獨立作業、工作積極\n2.擅於溝通，了解使用者與主管需求\n3.個性溫和好相處\n4.有正航ERP使用、開發經驗優先錄取\n5.有網路通訊軟體撰寫經驗者佳\n6.有資料庫管理者佳\n7.有主機管理經驗者佳\n8.有異質平台整合經驗者佳",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Visual Studio、WinForm、正航\n其他條件：1.能獨立作業、工作積極\n2.擅於溝通，了解使用者與主管需求\n3.個性溫和好相處\n4.有正航ERP使用、開發經驗優先錄取\n5.有網路通訊軟體撰寫經驗者佳\n6.有資料庫管理者佳\n7.有主機管理經驗者佳\n8.有異質平台整合經驗者佳",
+    "tools": [
+      "C#",
+      "Visual Studio",
+      "WinForm",
+      "正航"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 41
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:02:11+08:00"
+  },
+  "salary": {
+    "raw": "月薪44,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.處理公司內部系統需求分析、程式設計\n2.公司資料庫管理\n3.公司系統或軟體使用異常排除\n4.正航ERP維護與內部需求處理\n5.跨部門技術支援\n6.主管交辦事務處理",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料庫管理人員",
+            "MIS／網管主管",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料庫管理人員、MIS／網管主管、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪44,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市仁德區保安路一段62號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.處理公司內部系統需求分析、程式設計\n2.公司資料庫管理\n3.公司系統或軟體使用異常排除\n4.正航ERP維護與內部需求處理\n5.跨部門技術支援\n6.主管交辦事務處理"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Visual Studio",
+            "WinForm",
+            "正航"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Visual Studio、WinForm、正航",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.能獨立作業、工作積極\n2.擅於溝通，了解使用者與主管需求\n3.個性溫和好相處\n4.有正航ERP使用、開發經驗優先錄取\n5.有網路通訊軟體撰寫經驗者佳\n6.有資料庫管理者佳\n7.有主機管理經驗者佳\n8.有異質平台整合經驗者佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Visual Studio、WinForm、正航\n其他條件：1.能獨立作業、工作積極\n2.擅於溝通，了解使用者與主管需求\n3.個性溫和好相處\n4.有正航ERP使用、開發經驗優先錄取\n5.有網路通訊軟體撰寫經驗者佳\n6.有資料庫管理者佳\n7.有主機管理經驗者佳\n8.有異質平台整合經驗者佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ht80",
+    "job_url": "https://www.104.com.tw/job/8ht80",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ht80.json",
+    "raw_sha256": "5c8f00131f9ce90a1992b3d9cc3d0a183950263ad6836ec9919b2d22f5bb75cd",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ht80"
+  }
+}

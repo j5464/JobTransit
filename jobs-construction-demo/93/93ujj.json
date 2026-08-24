@@ -1,0 +1,191 @@
+{
+  "company": {
+    "id": "fgnzuvk",
+    "name": "盛達電業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "--------------------------------------------------------------------------------------"
+        },
+        {
+          "children": [],
+          "text": "系統研發與維護： 參與 Web 應用前後台系統開發、功能迭代與效能優化。"
+        },
+        {
+          "children": [],
+          "text": "前端開發與切版： 運用 HTML5 / CSS / JavaScript / Bootstrap 獨立完成 RWD 響應式切版。"
+        },
+        {
+          "children": [],
+          "text": "前端架構實作： 使用 Vue 3 / Nuxt 3 進行網頁開發，熟練運用 Pinia 狀態管理與 Component 模組化，並整合 UI 與 Chart 圖表套件。"
+        },
+        {
+          "children": [],
+          "text": "後端與 API 開發： 基於 Java Spring Boot 框架開發商業邏輯，設計並串接 RESTful API，確保資料傳輸安全順暢。"
+        },
+        {
+          "children": [],
+          "text": "環境與部署協助： 協助 Nginx / Nitro Server Engine 的環境設定與日常維護。"
+        },
+        {
+          "children": [],
+          "text": "前端核心： 具備扎實的獨立切版與 RWD 實作經驗（HTML / CSS / JavaScript / Bootstrap）。"
+        },
+        {
+          "children": [],
+          "text": "前端框架： 熟悉 Vue 3 生態系（Nuxt 3、Pinia）及模組化開發模式。"
+        },
+        {
+          "children": [],
+          "text": "後端技術： 熟悉 Java 語言，並具備 Spring Boot 框架實務開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "系統架構： 熟悉 RESTful API 設計原則與前後端串接流程。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Spring Data JPA / Hibernate，並具備 PostgreSQL、SQL 資料庫操作經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Docker / Podman 容器化開發與部署。"
+        }
+      ],
+      "text": "【關於我們】\n盛齊綠能Billion Watts為盛達集團子公司，以專業與品質為核心價值，致力於能源技術創新與永續發展。\n集團業務涵蓋光充儲系統整合、電池模組/通訊研發製造、案場維運，擁有MIT自有品牌及AI能源監控系統。\n2017年創立，儲能案場建置量達全台灣15%，累計服務超過1500個太陽能電站，因應產業快速成長，正積極招募海內外(日、澳)人才。\n盛齊綠能由一群熱愛挑戰的夥伴組成，扁平化的組織結構提供更多樣、彈性的職涯發展機會。\n如果您熱愛挑戰、渴望在節奏快速的新興產業中成長，歡迎加入我們，共同打造專業與永續並行的綠色未來！\n盛齊綠能官網：https://www.billionwatts.com.tw\n---------------------------------------------------------------------------------------\n【職位簡介】\n您將加入核心研發團隊，負責打造與維護生產級 Web 應用系統。工作範圍涵蓋全新功能開發、現有專案推進與上線系統維護。我們期待您靈活運用現代化前端（Vue 3 / Nuxt 3）與穩健後端（Java Spring Boot）技術，在清晰的架構下確保系統擴展性與穩定性，與團隊共同打造流暢的使用者體驗。\n【主要工作職責】\n• 系統研發與維護： 參與 Web 應用前後台系統開發、功能迭代與效能優化。\n• 前端開發與切版： 運用 HTML5 / CSS / JavaScript / Bootstrap 獨立完成 RWD 響應式切版。\n• 前端架構實作： 使用 Vue 3 / Nuxt 3 進行網頁開發，熟練運用 Pinia 狀態管理與 Component 模組化，並整合 UI 與 Chart 圖表套件。\n• 後端與 API 開發： 基於 Java Spring Boot 框架開發商業邏輯，設計並串接 RESTful API，確保資料傳輸安全順暢。\n• 環境與部署協助： 協助 Nginx / Nitro Server Engine 的環境設定與日常維護。\n【必備技術能力】\n• 前端核心： 具備扎實的獨立切版與 RWD 實作經驗（HTML / CSS / JavaScript / Bootstrap）。\n• 前端框架： 熟悉 Vue 3 生態系（Nuxt 3、Pinia）及模組化開發模式。\n• 後端技術： 熟悉 Java 語言，並具備 Spring Boot 框架實務開發經驗。\n• 系統架構： 熟悉 RESTful API 設計原則與前後端串接流程。\n熟悉 JavaScript / TypeScript，並具備 Vue 3 / Nuxt 3 實務開發經驗。\n• 熟悉 Spring Data JPA / Hibernate，並具備 PostgreSQL、SQL 資料庫操作經驗。\n• 熟悉 Docker / Podman 容器化開發與部署。"
+    },
+    "employment_type_raw": "全職",
+    "title": "全端軟體工程師"
+  },
+  "location": {
+    "address_raw": "新北市新店區中興路二段190號7樓",
+    "raw": "新北市新店區中興路二段190號7樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "• 具備 Docker 容器化技術與 CI/CD 自動化部署經驗。\n• 熟悉資料視覺化處理，或具備豐富的 Chart 套件（如 ECharts, Chart.js）應用經驗。\n• 具備 Nginx 或 Nitro Server Engine 實務操作與調校經驗。\n• 熟悉 TimescaleDB 或時序資料的儲存、查詢與處理。\n• 具備 RabbitMQ、MQTT 等訊息傳遞或非同步處理技術經驗。\n• 具備 WebSocket / STOMP 即時資料傳輸與功能開發經驗。\n• 熟悉 React / Redux / Ant Design 開發經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "• 具備 Docker 容器化技術與 CI/CD 自動化部署經驗。\n• 熟悉資料視覺化處理，或具備豐富的 Chart 套件（如 ECharts, Chart.js）應用經驗。\n• 具備 Nginx 或 Nitro Server Engine 實務操作與調校經驗。\n• 熟悉 TimescaleDB 或時序資料的儲存、查詢與處理。\n• 具備 RabbitMQ、MQTT 等訊息傳遞或非同步處理技術經驗。\n• 具備 WebSocket / STOMP 即時資料傳輸與功能開發經驗。\n• 熟悉 React / Redux / Ant Design 開發經驗",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n其他條件：• 具備 Docker 容器化技術與 CI/CD 自動化部署經驗。\n• 熟悉資料視覺化處理，或具備豐富的 Chart 套件（如 ECharts, Chart.js）應用經驗。\n• 具備 Nginx 或 Nitro Server Engine 實務操作與調校經驗。\n• 熟悉 TimescaleDB 或時序資料的儲存、查詢與處理。\n• 具備 RabbitMQ、MQTT 等訊息傳遞或非同步處理技術經驗。\n• 具備 WebSocket / STOMP 即時資料傳輸與功能開發經驗。\n• 熟悉 React / Redux / Ant Design 開發經驗",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 96
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:19:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【關於我們】\n盛齊綠能Billion Watts為盛達集團子公司，以專業與品質為核心價值，致力於能源技術創新與永續發展。\n集團業務涵蓋光充儲系統整合、電池模組/通訊研發製造、案場維運，擁有MIT自有品牌及AI能源監控系統。\n2017年創立，儲能案場建置量達全台灣15%，累計服務超過1500個太陽能電站，因應產業快速成長，正積極招募海內外(日、澳)人才。\n盛齊綠能由一群熱愛挑戰的夥伴組成，扁平化的組織結構提供更多樣、彈性的職涯發展機會。\n如果您熱愛挑戰、渴望在節奏快速的新興產業中成長，歡迎加入我們，共同打造專業與永續並行的綠色未來！\n盛齊綠能官網：https://www.billionwatts.com.tw\n---------------------------------------------------------------------------------------\n【職位簡介】\n您將加入核心研發團隊，負責打造與維護生產級 Web 應用系統。工作範圍涵蓋全新功能開發、現有專案推進與上線系統維護。我們期待您靈活運用現代化前端（Vue 3 / Nuxt 3）與穩健後端（Java Spring Boot）技術，在清晰的架構下確保系統擴展性與穩定性，與團隊共同打造流暢的使用者體驗。\n【主要工作職責】\n• 系統研發與維護： 參與 Web 應用前後台系統開發、功能迭代與效能優化。\n• 前端開發與切版： 運用 HTML5 / CSS / JavaScript / Bootstrap 獨立完成 RWD 響應式切版。\n• 前端架構實作： 使用 Vue 3 / Nuxt 3 進行網頁開發，熟練運用 Pinia 狀態管理與 Component 模組化，並整合 UI 與 Chart 圖表套件。\n• 後端與 API 開發： 基於 Java Spring Boot 框架開發商業邏輯，設計並串接 RESTful API，確保資料傳輸安全順暢。\n• 環境與部署協助： 協助 Nginx / Nitro Server Engine 的環境設定與日常維護。\n【必備技術能力】\n• 前端核心： 具備扎實的獨立切版與 RWD 實作經驗（HTML / CSS / JavaScript / Bootstrap）。\n• 前端框架： 熟悉 Vue 3 生態系（Nuxt 3、Pinia）及模組化開發模式。\n• 後端技術： 熟悉 Java 語言，並具備 Spring Boot 框架實務開發經驗。\n• 系統架構： 熟悉 RESTful API 設計原則與前後端串接流程。\n熟悉 JavaScript / TypeScript，並具備 Vue 3 / Nuxt 3 實務開發經驗。\n• 熟悉 Spring Data JPA / Hibernate，並具備 PostgreSQL、SQL 資料庫操作經驗。\n• 熟悉 Docker / Podman 容器化開發與部署。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區中興路二段190號7樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【關於我們】\n盛齊綠能Billion Watts為盛達集團子公司，以專業與品質為核心價值，致力於能源技術創新與永續發展。\n集團業務涵蓋光充儲系統整合、電池模組/通訊研發製造、案場維運，擁有MIT自有品牌及AI能源監控系統。\n2017年創立，儲能案場建置量達全台灣15%，累計服務超過1500個太陽能電站，因應產業快速成長，正積極招募海內外(日、澳)人才。\n盛齊綠能由一群熱愛挑戰的夥伴組成，扁平化的組織結構提供更多樣、彈性的職涯發展機會。\n如果您熱愛挑戰、渴望在節奏快速的新興產業中成長，歡迎加入我們，共同打造專業與永續並行的綠色未來！\n盛齊綠能官網：https://www.billionwatts.com.tw\n---------------------------------------------------------------------------------------\n【職位簡介】\n您將加入核心研發團隊，負責打造與維護生產級 Web 應用系統。工作範圍涵蓋全新功能開發、現有專案推進與上線系統維護。我們期待您靈活運用現代化前端（Vue 3 / Nuxt 3）與穩健後端（Java Spring Boot）技術，在清晰的架構下確保系統擴展性與穩定性，與團隊共同打造流暢的使用者體驗。\n【主要工作職責】\n• 系統研發與維護： 參與 Web 應用前後台系統開發、功能迭代與效能優化。\n• 前端開發與切版： 運用 HTML5 / CSS / JavaScript / Bootstrap 獨立完成 RWD 響應式切版。\n• 前端架構實作： 使用 Vue 3 / Nuxt 3 進行網頁開發，熟練運用 Pinia 狀態管理與 Component 模組化，並整合 UI 與 Chart 圖表套件。\n• 後端與 API 開發： 基於 Java Spring Boot 框架開發商業邏輯，設計並串接 RESTful API，確保資料傳輸安全順暢。\n• 環境與部署協助： 協助 Nginx / Nitro Server Engine 的環境設定與日常維護。\n【必備技術能力】\n• 前端核心： 具備扎實的獨立切版與 RWD 實作經驗（HTML / CSS / JavaScript / Bootstrap）。\n• 前端框架： 熟悉 Vue 3 生態系（Nuxt 3、Pinia）及模組化開發模式。\n• 後端技術： 熟悉 Java 語言，並具備 Spring Boot 框架實務開發經驗。\n• 系統架構： 熟悉 RESTful API 設計原則與前後端串接流程。\n熟悉 JavaScript / TypeScript，並具備 Vue 3 / Nuxt 3 實務開發經驗。\n• 熟悉 Spring Data JPA / Hibernate，並具備 PostgreSQL、SQL 資料庫操作經驗。\n• 熟悉 Docker / Podman 容器化開發與部署。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "• 具備 Docker 容器化技術與 CI/CD 自動化部署經驗。\n• 熟悉資料視覺化處理，或具備豐富的 Chart 套件（如 ECharts, Chart.js）應用經驗。\n• 具備 Nginx 或 Nitro Server Engine 實務操作與調校經驗。\n• 熟悉 TimescaleDB 或時序資料的儲存、查詢與處理。\n• 具備 RabbitMQ、MQTT 等訊息傳遞或非同步處理技術經驗。\n• 具備 WebSocket / STOMP 即時資料傳輸與功能開發經驗。\n• 熟悉 React / Redux / Ant Design 開發經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n其他條件：• 具備 Docker 容器化技術與 CI/CD 自動化部署經驗。\n• 熟悉資料視覺化處理，或具備豐富的 Chart 套件（如 ECharts, Chart.js）應用經驗。\n• 具備 Nginx 或 Nitro Server Engine 實務操作與調校經驗。\n• 熟悉 TimescaleDB 或時序資料的儲存、查詢與處理。\n• 具備 RabbitMQ、MQTT 等訊息傳遞或非同步處理技術經驗。\n• 具備 WebSocket / STOMP 即時資料傳輸與功能開發經驗。\n• 熟悉 React / Redux / Ant Design 開發經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "93ujj",
+    "job_url": "https://www.104.com.tw/job/93ujj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93ujj.json",
+    "raw_sha256": "91160c8f226b537d896540d00711ff0ff7fda82464a2de7f58e8ec0a72d0b20b",
+    "requested_url": "https://www.104.com.tw/api/jobs/93ujj"
+  }
+}

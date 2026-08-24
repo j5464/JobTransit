@@ -1,0 +1,190 @@
+{
+  "company": {
+    "id": "odx75yo",
+    "name": "向陽優能電力股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "網路管理工程師",
+      "資安工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉個人電腦、帳號管理(Windows AD)及其他辦公室資訊設備如印表機、視訊設備等軟硬體管理設定及故障排除。"
+        },
+        {
+          "children": [],
+          "text": "熟悉網路、伺服器與機房相關軟硬體管理(包含VMWare虛擬架構、Switch、防火牆、Storage、Mail Server、File Server、NAS等)、擅長使用Infra管理工具者。"
+        },
+        {
+          "children": [],
+          "text": "熟悉資訊安全相關業務、企業內部系統帳號與權限管理、伺服器備份備援之執行與管理。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項。"
+        }
+      ],
+      "text": "1、熟悉個人電腦、帳號管理(Windows AD)及其他辦公室資訊設備如印表機、視訊設備等軟硬體管理設定及故障排除。\n2、熟悉網路、伺服器與機房相關軟硬體管理(包含VMWare虛擬架構、Switch、防火牆、Storage、Mail Server、File Server、NAS等)、擅長使用Infra管理工具者。\n3、熟悉資訊安全相關業務、企業內部系統帳號與權限管理、伺服器備份備援之執行與管理。\n4、其他主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【高雄】MIS資訊工程師"
+  },
+  "location": {
+    "address_raw": "高雄市新興區",
+    "raw": "高雄市新興區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "資料備份與復原",
+          "資訊設備操作檢修",
+          "資料庫系統管理維護",
+          "規劃與管理防火牆",
+          "網路規劃管理"
+        ],
+        "label": "工作技能",
+        "text": "資料備份與復原、資訊設備操作檢修、資料庫系統管理維護、規劃與管理防火牆、網路規劃管理"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件(非必備)：\n1.具備發電監控經驗者\n2.具備資訊安全(EDR/MDR/XDR)相關經驗者"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "加分條件(非必備)：\n1.具備發電監控經驗者\n2.具備資訊安全(EDR/MDR/XDR)相關經驗者",
+    "skills": [
+      "資料備份與復原",
+      "資訊設備操作檢修",
+      "資料庫系統管理維護",
+      "規劃與管理防火牆",
+      "網路規劃管理"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科、大學\n工作技能：資料備份與復原、資訊設備操作檢修、資料庫系統管理維護、規劃與管理防火牆、網路規劃管理\n其他條件：加分條件(非必備)：\n1.具備發電監控經驗者\n2.具備資訊安全(EDR/MDR/XDR)相關經驗者",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 99
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:27:08+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1、熟悉個人電腦、帳號管理(Windows AD)及其他辦公室資訊設備如印表機、視訊設備等軟硬體管理設定及故障排除。\n2、熟悉網路、伺服器與機房相關軟硬體管理(包含VMWare虛擬架構、Switch、防火牆、Storage、Mail Server、File Server、NAS等)、擅長使用Infra管理工具者。\n3、熟悉資訊安全相關業務、企業內部系統帳號與權限管理、伺服器備份備援之執行與管理。\n4、其他主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "網路管理工程師",
+            "資安工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "網路管理工程師、資安工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市新興區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1、熟悉個人電腦、帳號管理(Windows AD)及其他辦公室資訊設備如印表機、視訊設備等軟硬體管理設定及故障排除。\n2、熟悉網路、伺服器與機房相關軟硬體管理(包含VMWare虛擬架構、Switch、防火牆、Storage、Mail Server、File Server、NAS等)、擅長使用Infra管理工具者。\n3、熟悉資訊安全相關業務、企業內部系統帳號與權限管理、伺服器備份備援之執行與管理。\n4、其他主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料備份與復原",
+            "資訊設備操作檢修",
+            "資料庫系統管理維護",
+            "規劃與管理防火牆",
+            "網路規劃管理"
+          ],
+          "label": "工作技能",
+          "text": "資料備份與復原、資訊設備操作檢修、資料庫系統管理維護、規劃與管理防火牆、網路規劃管理",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件(非必備)：\n1.具備發電監控經驗者\n2.具備資訊安全(EDR/MDR/XDR)相關經驗者",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科、大學\n工作技能：資料備份與復原、資訊設備操作檢修、資料庫系統管理維護、規劃與管理防火牆、網路規劃管理\n其他條件：加分條件(非必備)：\n1.具備發電監控經驗者\n2.具備資訊安全(EDR/MDR/XDR)相關經驗者"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8n9rl",
+    "job_url": "https://www.104.com.tw/job/8n9rl",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8n9rl.json",
+    "raw_sha256": "be46d51892c45d4009e42f1098ede95dc39a6d186cc0502bed7636d2ec0adddb",
+    "requested_url": "https://www.104.com.tw/api/jobs/8n9rl"
+  }
+}

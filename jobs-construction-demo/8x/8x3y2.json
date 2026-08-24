@@ -1,0 +1,170 @@
+{
+  "company": {
+    "id": "am88jqw",
+    "name": "凱基證券股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "相關資訊系統之需求確認、開發測試、系統維運與專案執行，並提供使用者技術支援。"
+        },
+        {
+          "children": [],
+          "text": "負責工作專案任務進行。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項"
+        }
+      ],
+      "text": "1. 相關資訊系統之需求確認、開發測試、系統維運與專案執行，並提供使用者技術支援。\n2. 負責工作專案任務進行。\n3. 其他主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "【凱基證券/資訊部】AS/400 軟體開發工程師"
+  },
+  "location": {
+    "address_raw": "台北市中正區忠孝西路",
+    "raw": "台北市中正區忠孝西路"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "AS/400"
+        ],
+        "label": "擅長工具",
+        "text": "AS/400"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具 AS/400 RPG 語言開發 經驗者佳\n2.熟悉AS/400及Windows平台開發及操作"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1.具 AS/400 RPG 語言開發 經驗者佳\n2.熟悉AS/400及Windows平台開發及操作",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學\n擅長工具：AS/400\n其他條件：1.具 AS/400 RPG 語言開發 經驗者佳\n2.熟悉AS/400及Windows平台開發及操作",
+    "tools": [
+      "AS/400"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 61
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:52:17+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 相關資訊系統之需求確認、開發測試、系統維運與專案執行，並提供使用者技術支援。\n2. 負責工作專案任務進行。\n3. 其他主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區忠孝西路",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 相關資訊系統之需求確認、開發測試、系統維運與專案執行，並提供使用者技術支援。\n2. 負責工作專案任務進行。\n3. 其他主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AS/400"
+          ],
+          "label": "擅長工具",
+          "text": "AS/400",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具 AS/400 RPG 語言開發 經驗者佳\n2.熟悉AS/400及Windows平台開發及操作",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學\n擅長工具：AS/400\n其他條件：1.具 AS/400 RPG 語言開發 經驗者佳\n2.熟悉AS/400及Windows平台開發及操作"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8x3y2",
+    "job_url": "https://www.104.com.tw/job/8x3y2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8x3y2.json",
+    "raw_sha256": "ac1987e9f9b058df242cc9256107fb926ee4ad9e927d297705c5ce16e37fc591",
+    "requested_url": "https://www.104.com.tw/api/jobs/8x3y2"
+  }
+}

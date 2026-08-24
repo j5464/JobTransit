@@ -1,0 +1,265 @@
+{
+  "company": {
+    "id": "7ovnv1s",
+    "name": "精材科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "自動控制工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "SECS/GEM自動化開發及應用"
+        },
+        {
+          "children": [],
+          "text": "影像處理/缺陷檢測/量測應用"
+        },
+        {
+          "children": [],
+          "text": "機器學習模型應用"
+        },
+        {
+          "children": [],
+          "text": "系統整合應用/共用元件開發"
+        },
+        {
+          "children": [],
+          "text": "現有系統維護(自動化系統,工程系統)"
+        },
+        {
+          "children": [],
+          "text": "on-call值班"
+        }
+      ],
+      "text": "1.SECS/GEM自動化開發及應用\n2.影像處理/缺陷檢測/量測應用\n3.機器學習模型應用\n4.系統整合應用/共用元件開發\n5.現有系統維護(自動化系統,工程系統)\n6.on-call值班"
+    },
+    "employment_type_raw": "全職",
+    "title": "自動化軟體開發工程師"
+  },
+  "location": {
+    "address_raw": "桃園市中壢區中園路188號",
+    "raw": "桃園市中壢區中園路188號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "數理統計相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、數理統計相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Java",
+          "Python",
+          "Visual Basic .net",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Python、Visual Basic .net、MS SQL"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "AI",
+          "自動化系統設計整合",
+          "設計機台設備自動化",
+          "協助產線自動化系統推展",
+          "自動化設備／系統介面之維護改善"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、AI、自動化系統設計整合、設計機台設備自動化、協助產線自動化系統推展、自動化設備／系統介面之維護改善"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.程式語言至少熟悉其中兩種:.NET, JAVA, Python, MS SQL\n2.演算法及資料結構\n3.熟悉MVC[Model-View-Controller]\n4.瞭解人工智慧和機器學習: 使用TensorFlow、PyTorch或Scikit-learn等工具建立AI和ML模型(物件偵測, LLM...)\n5.DevOps: 瞭解使用Docker、Kubernetes或Jenkins等工具實現持續整合和交付\n6.資料科學:了解收集、分析和視覺化資料，包括使用Pandas、NumPy和Matplotlib等\n7.光學系統建構及影像處理\n8.機電整合\n9.資料庫應用程式開發:了解如何使用SQL、NoSQL或雲端資料庫等技術進行資料儲存和查詢"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "數理統計相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "1.程式語言至少熟悉其中兩種:.NET, JAVA, Python, MS SQL\n2.演算法及資料結構\n3.熟悉MVC[Model-View-Controller]\n4.瞭解人工智慧和機器學習: 使用TensorFlow、PyTorch或Scikit-learn等工具建立AI和ML模型(物件偵測, LLM...)\n5.DevOps: 瞭解使用Docker、Kubernetes或Jenkins等工具實現持續整合和交付\n6.資料科學:了解收集、分析和視覺化資料，包括使用Pandas、NumPy和Matplotlib等\n7.光學系統建構及影像處理\n8.機電整合\n9.資料庫應用程式開發:了解如何使用SQL、NoSQL或雲端資料庫等技術進行資料儲存和查詢",
+    "skills": [
+      "軟體程式設計",
+      "AI",
+      "自動化系統設計整合",
+      "設計機台設備自動化",
+      "協助產線自動化系統推展",
+      "自動化設備／系統介面之維護改善"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、數理統計相關、電機電子工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Java、Python、Visual Basic .net、MS SQL\n工作技能：軟體程式設計、AI、自動化系統設計整合、設計機台設備自動化、協助產線自動化系統推展、自動化設備／系統介面之維護改善\n其他條件：1.程式語言至少熟悉其中兩種:.NET, JAVA, Python, MS SQL\n2.演算法及資料結構\n3.熟悉MVC[Model-View-Controller]\n4.瞭解人工智慧和機器學習: 使用TensorFlow、PyTorch或Scikit-learn等工具建立AI和ML模型(物件偵測, LLM...)\n5.DevOps: 瞭解使用Docker、Kubernetes或Jenkins等工具實現持續整合和交付\n6.資料科學:了解收集、分析和視覺化資料，包括使用Pandas、NumPy和Matplotlib等\n7.光學系統建構及影像處理\n8.機電整合\n9.資料庫應用程式開發:了解如何使用SQL、NoSQL或雲端資料庫等技術進行資料儲存和查詢",
+    "tools": [
+      "Java",
+      "Python",
+      "Visual Basic .net",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 91
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:06:23+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.SECS/GEM自動化開發及應用\n2.影像處理/缺陷檢測/量測應用\n3.機器學習模型應用\n4.系統整合應用/共用元件開發\n5.現有系統維護(自動化系統,工程系統)\n6.on-call值班",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "自動控制工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、自動控制工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市中壢區中園路188號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.SECS/GEM自動化開發及應用\n2.影像處理/缺陷檢測/量測應用\n3.機器學習模型應用\n4.系統整合應用/共用元件開發\n5.現有系統維護(自動化系統,工程系統)\n6.on-call值班"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "數理統計相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、數理統計相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Python",
+            "Visual Basic .net",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Python、Visual Basic .net、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "AI",
+            "自動化系統設計整合",
+            "設計機台設備自動化",
+            "協助產線自動化系統推展",
+            "自動化設備／系統介面之維護改善"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、AI、自動化系統設計整合、設計機台設備自動化、協助產線自動化系統推展、自動化設備／系統介面之維護改善",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.程式語言至少熟悉其中兩種:.NET, JAVA, Python, MS SQL\n2.演算法及資料結構\n3.熟悉MVC[Model-View-Controller]\n4.瞭解人工智慧和機器學習: 使用TensorFlow、PyTorch或Scikit-learn等工具建立AI和ML模型(物件偵測, LLM...)\n5.DevOps: 瞭解使用Docker、Kubernetes或Jenkins等工具實現持續整合和交付\n6.資料科學:了解收集、分析和視覺化資料，包括使用Pandas、NumPy和Matplotlib等\n7.光學系統建構及影像處理\n8.機電整合\n9.資料庫應用程式開發:了解如何使用SQL、NoSQL或雲端資料庫等技術進行資料儲存和查詢",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、數理統計相關、電機電子工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Java、Python、Visual Basic .net、MS SQL\n工作技能：軟體程式設計、AI、自動化系統設計整合、設計機台設備自動化、協助產線自動化系統推展、自動化設備／系統介面之維護改善\n其他條件：1.程式語言至少熟悉其中兩種:.NET, JAVA, Python, MS SQL\n2.演算法及資料結構\n3.熟悉MVC[Model-View-Controller]\n4.瞭解人工智慧和機器學習: 使用TensorFlow、PyTorch或Scikit-learn等工具建立AI和ML模型(物件偵測, LLM...)\n5.DevOps: 瞭解使用Docker、Kubernetes或Jenkins等工具實現持續整合和交付\n6.資料科學:了解收集、分析和視覺化資料，包括使用Pandas、NumPy和Matplotlib等\n7.光學系統建構及影像處理\n8.機電整合\n9.資料庫應用程式開發:了解如何使用SQL、NoSQL或雲端資料庫等技術進行資料儲存和查詢"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "36sw7",
+    "job_url": "https://www.104.com.tw/job/36sw7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/36sw7.json",
+    "raw_sha256": "56c9682f9c770c23f648082fb0fb6fe3ba842f8971634e09d3a0fc08f43b5885",
+    "requested_url": "https://www.104.com.tw/api/jobs/36sw7"
+  }
+}

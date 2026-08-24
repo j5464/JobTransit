@@ -1,0 +1,356 @@
+{
+  "company": {
+    "id": "1a2x6blghh",
+    "name": "鴻華先進科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "使用 Go 與 Python 設計、開發並維護高可擴展性的後端服務，負責資料擷取、處理及提供 RESTful API 串接。"
+        },
+        {
+          "children": [],
+          "text": "設計、開發並維護可擴展後端服務，以實現物聯網車輛 (IoV) 和電動車 (EV) 生態系統中的監控、警示、除錯以及品質改善。"
+        },
+        {
+          "children": [],
+          "text": "建置並最佳化資料儲存解決方案，包括資料湖（Data Lake）、資料倉儲（Data Warehouse）與各類資料庫。"
+        },
+        {
+          "children": [],
+          "text": "與產品經理 (PM)、DevOps 工程師、ECU 軟體工程師及前端開發人員緊密協作。"
+        },
+        {
+          "children": [],
+          "text": "參與程式碼審查 (Code Review)，以確保高品質與程式碼的可維護性。"
+        },
+        {
+          "children": [],
+          "text": "具備電腦科學 (Computer Science) 或相關技術領域之學士學位，或具備同等實務經驗。"
+        },
+        {
+          "children": [],
+          "text": "3 年以上使用一種或多種程式語言（如 Java、Node.js、Go 或 Python）開發後端服務的經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉身分與存取管理（IAM）相關協定，如 OAuth2、OpenID Connect、JWT、SAML 及單一登入（SSO）。"
+        },
+        {
+          "children": [],
+          "text": "精通 SQL 語法及查詢最佳化。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的溝通和文件撰寫能力。"
+        },
+        {
+          "children": [],
+          "text": "具備即時資料串流技術經驗（例如：Apache Kafka、Apache Flink 或 Amazon Kinesis）。"
+        },
+        {
+          "children": [],
+          "text": "具備設計與維護開放表格格式的經驗（例如：Apache Iceberg、Delta Lake 或 Hudi）。"
+        },
+        {
+          "children": [],
+          "text": "具備關聯式資料庫與 NoSQL 資料庫效能調教 (Performance Tuning) 的知識。"
+        },
+        {
+          "children": [],
+          "text": "有參與過大型系統的維運經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 GitHub Actions 或其他 CI/CD 自動化部署流程。"
+        },
+        {
+          "children": [],
+          "text": "具備優秀的問題分析、除錯與解決能力。"
+        },
+        {
+          "children": [],
+          "text": "Design, develop, and maintain scalable backend services for data ingestion, processing, and RESTful API exposure using Go and Python."
+        },
+        {
+          "children": [],
+          "text": "Design, develop, and maintain scalable backend services to enable monitoring, alerting, debugging, and quality optimization in Internet of Vehicles (IoV) and Electric Vehicle (EV) ecosystem."
+        },
+        {
+          "children": [],
+          "text": "Build and optimize data storage solutions, including data lakes, warehouses, and databases."
+        },
+        {
+          "children": [],
+          "text": "Collaborate closely with product managers, DevOps engineers, ECU software engineers, and frontend developers."
+        },
+        {
+          "children": [],
+          "text": "Participate in code reviews to ensure high code quality and maintainability."
+        },
+        {
+          "children": [],
+          "text": "Bachelor’s degree in Computer Science or a related technical field, or equivalent practical experience."
+        },
+        {
+          "children": [],
+          "text": "3+ years of experience developing backend services using one or more programming languages such as Java, Node.js, Go, or Python."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with Identity and Access Management protocols (e.g., OAuth2, OpenID Connect, JWT, SAML, Single Sign-On)."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in SQL syntax and query optimization."
+        },
+        {
+          "children": [],
+          "text": "Strong communication and documentation skills."
+        },
+        {
+          "children": [],
+          "text": "Experience with real-time data streaming technologies (e.g., Apache Kafka, Apache Flink, or Amazon Kinesis)."
+        },
+        {
+          "children": [],
+          "text": "Experience designing and maintaining open table formats (e.g., Apache Iceberg, Delta Lake, or Hudi)."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of performance tuning in relational and NoSQL databases."
+        },
+        {
+          "children": [],
+          "text": "Experience in operating and maintaining large-scale systems."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with GitHub Actions or other CI/CD pipelines."
+        },
+        {
+          "children": [],
+          "text": "Strong problem-solving and debugging skills."
+        }
+      ],
+      "text": "工作職責\n• 使用 Go 與 Python 設計、開發並維護高可擴展性的後端服務，負責資料擷取、處理及提供 RESTful API 串接。\n• 設計、開發並維護可擴展後端服務，以實現物聯網車輛 (IoV) 和電動車 (EV) 生態系統中的監控、警示、除錯以及品質改善。\n• 建置並最佳化資料儲存解決方案，包括資料湖（Data Lake）、資料倉儲（Data Warehouse）與各類資料庫。\n• 與產品經理 (PM)、DevOps 工程師、ECU 軟體工程師及前端開發人員緊密協作。\n• 參與程式碼審查 (Code Review)，以確保高品質與程式碼的可維護性。\n必備條件\n• 具備電腦科學 (Computer Science) 或相關技術領域之學士學位，或具備同等實務經驗。\n• 3 年以上使用一種或多種程式語言（如 Java、Node.js、Go 或 Python）開發後端服務的經驗。\n• 熟悉身分與存取管理（IAM）相關協定，如 OAuth2、OpenID Connect、JWT、SAML 及單一登入（SSO）。\n• 精通 SQL 語法及查詢最佳化。\n• 具備良好的溝通和文件撰寫能力。\n加分條件\n• 具備即時資料串流技術經驗（例如：Apache Kafka、Apache Flink 或 Amazon Kinesis）。\n• 具備設計與維護開放表格格式的經驗（例如：Apache Iceberg、Delta Lake 或 Hudi）。\n• 具備關聯式資料庫與 NoSQL 資料庫效能調教 (Performance Tuning) 的知識。\n• 有參與過大型系統的維運經驗。\n• 熟悉 GitHub Actions 或其他 CI/CD 自動化部署流程。\n• 具備優秀的問題分析、除錯與解決能力。\nYour Responsibilities\n• Design, develop, and maintain scalable backend services for data ingestion, processing, and RESTful API exposure using Go and Python.\n• Design, develop, and maintain scalable backend services to enable monitoring, alerting, debugging, and quality optimization in Internet of Vehicles (IoV) and Electric Vehicle (EV) ecosystem.\n• Build and optimize data storage solutions, including data lakes, warehouses, and databases.\n• Collaborate closely with product managers, DevOps engineers, ECU software engineers, and frontend developers.\n• Participate in code reviews to ensure high code quality and maintainability.\nMust Have\n• Bachelor’s degree in Computer Science or a related technical field, or equivalent practical experience.\n• 3+ years of experience developing backend services using one or more programming languages such as Java, Node.js, Go, or Python.\n• Familiarity with Identity and Access Management protocols (e.g., OAuth2, OpenID Connect, JWT, SAML, Single Sign-On).\n• Proficiency in SQL syntax and query optimization.\n• Strong communication and documentation skills.\nGreat to Have\n• Experience with real-time data streaming technologies (e.g., Apache Kafka, Apache Flink, or Amazon Kinesis).\n• Experience designing and maintaining open table formats (e.g., Apache Iceberg, Delta Lake, or Hudi).\n• Knowledge of performance tuning in relational and NoSQL databases.\n• Experience in operating and maintaining large-scale systems.\n• Familiarity with GitHub Actions or other CI/CD pipelines.\n• Strong problem-solving and debugging skills."
+    },
+    "employment_type_raw": "全職",
+    "title": "電動車軟體工程師-Backend Engineer (Data Portal)-F55"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶高路26號",
+    "raw": "新北市新店區寶高路26號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "工程學科類",
+          "通信學類",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "工程學科類、通信學類、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Java",
+          "Node.js",
+          "Go",
+          "Python",
+          "D3.js",
+          "Adobe XD",
+          "Figma",
+          "Sketch"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Node.js、Go、Python、D3.js、Adobe XD、Figma、Sketch"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "工程學科類",
+      "通信學類",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：工程學科類、通信學類、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、Node.js、Go、Python、D3.js、Adobe XD、Figma、Sketch\n工作技能：軟體工程系統開發、軟體程式設計",
+    "tools": [
+      "Java",
+      "Node.js",
+      "Go",
+      "Python",
+      "D3.js",
+      "Adobe XD",
+      "Figma",
+      "Sketch"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 51
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:26:41+08:00"
+  },
+  "salary": {
+    "raw": "月薪55,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作職責\n• 使用 Go 與 Python 設計、開發並維護高可擴展性的後端服務，負責資料擷取、處理及提供 RESTful API 串接。\n• 設計、開發並維護可擴展後端服務，以實現物聯網車輛 (IoV) 和電動車 (EV) 生態系統中的監控、警示、除錯以及品質改善。\n• 建置並最佳化資料儲存解決方案，包括資料湖（Data Lake）、資料倉儲（Data Warehouse）與各類資料庫。\n• 與產品經理 (PM)、DevOps 工程師、ECU 軟體工程師及前端開發人員緊密協作。\n• 參與程式碼審查 (Code Review)，以確保高品質與程式碼的可維護性。\n必備條件\n• 具備電腦科學 (Computer Science) 或相關技術領域之學士學位，或具備同等實務經驗。\n• 3 年以上使用一種或多種程式語言（如 Java、Node.js、Go 或 Python）開發後端服務的經驗。\n• 熟悉身分與存取管理（IAM）相關協定，如 OAuth2、OpenID Connect、JWT、SAML 及單一登入（SSO）。\n• 精通 SQL 語法及查詢最佳化。\n• 具備良好的溝通和文件撰寫能力。\n加分條件\n• 具備即時資料串流技術經驗（例如：Apache Kafka、Apache Flink 或 Amazon Kinesis）。\n• 具備設計與維護開放表格格式的經驗（例如：Apache Iceberg、Delta Lake 或 Hudi）。\n• 具備關聯式資料庫與 NoSQL 資料庫效能調教 (Performance Tuning) 的知識。\n• 有參與過大型系統的維運經驗。\n• 熟悉 GitHub Actions 或其他 CI/CD 自動化部署流程。\n• 具備優秀的問題分析、除錯與解決能力。\nYour Responsibilities\n• Design, develop, and maintain scalable backend services for data ingestion, processing, and RESTful API exposure using Go and Python.\n• Design, develop, and maintain scalable backend services to enable monitoring, alerting, debugging, and quality optimization in Internet of Vehicles (IoV) and Electric Vehicle (EV) ecosystem.\n• Build and optimize data storage solutions, including data lakes, warehouses, and databases.\n• Collaborate closely with product managers, DevOps engineers, ECU software engineers, and frontend developers.\n• Participate in code reviews to ensure high code quality and maintainability.\nMust Have\n• Bachelor’s degree in Computer Science or a related technical field, or equivalent practical experience.\n• 3+ years of experience developing backend services using one or more programming languages such as Java, Node.js, Go, or Python.\n• Familiarity with Identity and Access Management protocols (e.g., OAuth2, OpenID Connect, JWT, SAML, Single Sign-On).\n• Proficiency in SQL syntax and query optimization.\n• Strong communication and documentation skills.\nGreat to Have\n• Experience with real-time data streaming technologies (e.g., Apache Kafka, Apache Flink, or Amazon Kinesis).\n• Experience designing and maintaining open table formats (e.g., Apache Iceberg, Delta Lake, or Hudi).\n• Knowledge of performance tuning in relational and NoSQL databases.\n• Experience in operating and maintaining large-scale systems.\n• Familiarity with GitHub Actions or other CI/CD pipelines.\n• Strong problem-solving and debugging skills.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪55,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶高路26號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作職責\n• 使用 Go 與 Python 設計、開發並維護高可擴展性的後端服務，負責資料擷取、處理及提供 RESTful API 串接。\n• 設計、開發並維護可擴展後端服務，以實現物聯網車輛 (IoV) 和電動車 (EV) 生態系統中的監控、警示、除錯以及品質改善。\n• 建置並最佳化資料儲存解決方案，包括資料湖（Data Lake）、資料倉儲（Data Warehouse）與各類資料庫。\n• 與產品經理 (PM)、DevOps 工程師、ECU 軟體工程師及前端開發人員緊密協作。\n• 參與程式碼審查 (Code Review)，以確保高品質與程式碼的可維護性。\n必備條件\n• 具備電腦科學 (Computer Science) 或相關技術領域之學士學位，或具備同等實務經驗。\n• 3 年以上使用一種或多種程式語言（如 Java、Node.js、Go 或 Python）開發後端服務的經驗。\n• 熟悉身分與存取管理（IAM）相關協定，如 OAuth2、OpenID Connect、JWT、SAML 及單一登入（SSO）。\n• 精通 SQL 語法及查詢最佳化。\n• 具備良好的溝通和文件撰寫能力。\n加分條件\n• 具備即時資料串流技術經驗（例如：Apache Kafka、Apache Flink 或 Amazon Kinesis）。\n• 具備設計與維護開放表格格式的經驗（例如：Apache Iceberg、Delta Lake 或 Hudi）。\n• 具備關聯式資料庫與 NoSQL 資料庫效能調教 (Performance Tuning) 的知識。\n• 有參與過大型系統的維運經驗。\n• 熟悉 GitHub Actions 或其他 CI/CD 自動化部署流程。\n• 具備優秀的問題分析、除錯與解決能力。\nYour Responsibilities\n• Design, develop, and maintain scalable backend services for data ingestion, processing, and RESTful API exposure using Go and Python.\n• Design, develop, and maintain scalable backend services to enable monitoring, alerting, debugging, and quality optimization in Internet of Vehicles (IoV) and Electric Vehicle (EV) ecosystem.\n• Build and optimize data storage solutions, including data lakes, warehouses, and databases.\n• Collaborate closely with product managers, DevOps engineers, ECU software engineers, and frontend developers.\n• Participate in code reviews to ensure high code quality and maintainability.\nMust Have\n• Bachelor’s degree in Computer Science or a related technical field, or equivalent practical experience.\n• 3+ years of experience developing backend services using one or more programming languages such as Java, Node.js, Go, or Python.\n• Familiarity with Identity and Access Management protocols (e.g., OAuth2, OpenID Connect, JWT, SAML, Single Sign-On).\n• Proficiency in SQL syntax and query optimization.\n• Strong communication and documentation skills.\nGreat to Have\n• Experience with real-time data streaming technologies (e.g., Apache Kafka, Apache Flink, or Amazon Kinesis).\n• Experience designing and maintaining open table formats (e.g., Apache Iceberg, Delta Lake, or Hudi).\n• Knowledge of performance tuning in relational and NoSQL databases.\n• Experience in operating and maintaining large-scale systems.\n• Familiarity with GitHub Actions or other CI/CD pipelines.\n• Strong problem-solving and debugging skills."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "工程學科類",
+            "通信學類",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "工程學科類、通信學類、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Node.js",
+            "Go",
+            "Python",
+            "D3.js",
+            "Adobe XD",
+            "Figma",
+            "Sketch"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Node.js、Go、Python、D3.js、Adobe XD、Figma、Sketch",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：工程學科類、通信學類、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、Node.js、Go、Python、D3.js、Adobe XD、Figma、Sketch\n工作技能：軟體工程系統開發、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8pjhk",
+    "job_url": "https://www.104.com.tw/job/8pjhk",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8pjhk.json",
+    "raw_sha256": "14ea9700d13ab558756c123188e7a00449ae635bb171b695fb153a0aad26f2ec",
+    "requested_url": "https://www.104.com.tw/api/jobs/8pjhk"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "company": {
+    "id": "1mtr7vs",
+    "name": "中信金控_台灣人壽保險股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責團旅險系統依據BA規格書之需求分析，撰寫SA需求文件"
+        },
+        {
+          "children": [],
+          "text": "協助開發者依SA需求設計去開發系統功能及維運"
+        }
+      ],
+      "text": "1. 負責團旅險系統依據BA規格書之需求分析，撰寫SA需求文件\n2. 協助開發者依SA需求設計去開發系統功能及維運"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊_系統分析師(SA)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區安康路6號",
+    "raw": "台北市內湖區安康路6號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "Java"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具5年以上壽險保險系統分析與設計經驗\n2.具Java程式設計開發經驗或維運經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1.具5年以上壽險保險系統分析與設計經驗\n2.具Java程式設計開發經驗或維運經驗",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n擅長工具：Java\n其他條件：1.具5年以上壽險保險系統分析與設計經驗\n2.具Java程式設計開發經驗或維運經驗",
+    "tools": [
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 63
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:56:46+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責團旅險系統依據BA規格書之需求分析，撰寫SA需求文件\n2. 協助開發者依SA需求設計去開發系統功能及維運",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區安康路6號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責團旅險系統依據BA規格書之需求分析，撰寫SA需求文件\n2. 協助開發者依SA需求設計去開發系統功能及維運"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "Java",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具5年以上壽險保險系統分析與設計經驗\n2.具Java程式設計開發經驗或維運經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n擅長工具：Java\n其他條件：1.具5年以上壽險保險系統分析與設計經驗\n2.具Java程式設計開發經驗或維運經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ji9e",
+    "job_url": "https://www.104.com.tw/job/8ji9e",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ji9e.json",
+    "raw_sha256": "0835dc103d66e93d4ef20d4646ffd58d1b5980442cb93750c5565e110c88ad11",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ji9e"
+  }
+}

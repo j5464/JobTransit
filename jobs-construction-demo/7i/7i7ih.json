@@ -1,0 +1,214 @@
+{
+  "company": {
+    "id": "4buzv2w",
+    "name": "藍天電腦股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "應用程式開發。"
+        },
+        {
+          "children": [],
+          "text": "Linux相關軟體測試。"
+        },
+        {
+          "children": [],
+          "text": "處理Thunderbolt認證相關事宜, 確認功能正確及相容性並且分析Bug原因"
+        },
+        {
+          "children": [],
+          "text": "協助產品開發應用程式的分析處理。"
+        }
+      ],
+      "text": "1.應用程式開發。\n2.Linux相關軟體測試。\n3.處理Thunderbolt認證相關事宜, 確認功能正確及相容性並且分析Bug原因\n4.協助產品開發應用程式的分析處理。"
+    },
+    "employment_type_raw": "全職",
+    "title": "(NB)軟體工程師(Application Development)"
+  },
+  "location": {
+    "address_raw": "新北市新莊區思源路555號35樓",
+    "raw": "新北市新莊區思源路555號35樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "C",
+          "C#",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "C、C#、C++"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.Windows/Linux 指令操作\n2.熟悉電腦及週邊產品的各項操作及各種連接介面屬性(USB, Thunderbolt, HDMI, DisplayPort)\n3.熟計算機概論、作業系統。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1.Windows/Linux 指令操作\n2.熟悉電腦及週邊產品的各項操作及各種連接介面屬性(USB, Thunderbolt, HDMI, DisplayPort)\n3.熟計算機概論、作業系統。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C、C#、C++\n其他條件：1.Windows/Linux 指令操作\n2.熟悉電腦及週邊產品的各項操作及各種連接介面屬性(USB, Thunderbolt, HDMI, DisplayPort)\n3.熟計算機概論、作業系統。",
+    "tools": [
+      "C",
+      "C#",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 96
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:19:55+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.應用程式開發。\n2.Linux相關軟體測試。\n3.處理Thunderbolt認證相關事宜, 確認功能正確及相容性並且分析Bug原因\n4.協助產品開發應用程式的分析處理。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新莊區思源路555號35樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.應用程式開發。\n2.Linux相關軟體測試。\n3.處理Thunderbolt認證相關事宜, 確認功能正確及相容性並且分析Bug原因\n4.協助產品開發應用程式的分析處理。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C#",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "C、C#、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.Windows/Linux 指令操作\n2.熟悉電腦及週邊產品的各項操作及各種連接介面屬性(USB, Thunderbolt, HDMI, DisplayPort)\n3.熟計算機概論、作業系統。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C、C#、C++\n其他條件：1.Windows/Linux 指令操作\n2.熟悉電腦及週邊產品的各項操作及各種連接介面屬性(USB, Thunderbolt, HDMI, DisplayPort)\n3.熟計算機概論、作業系統。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7i7ih",
+    "job_url": "https://www.104.com.tw/job/7i7ih",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7i7ih.json",
+    "raw_sha256": "5d0eb6ad57744e74b09c80af9374c0860284f65e1b84541112d63701b0e5f1bd",
+    "requested_url": "https://www.104.com.tw/api/jobs/7i7ih"
+  }
+}

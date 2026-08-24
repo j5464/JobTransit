@@ -1,0 +1,375 @@
+{
+  "company": {
+    "id": "233rv1s",
+    "name": "鴻海精密工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發和維護EDA應用雲服務"
+        },
+        {
+          "children": [],
+          "text": "使用Python和Git進行開發和版本管理"
+        },
+        {
+          "children": [],
+          "text": "利用Python和資料結構及Algorithm進行資料處理分析"
+        },
+        {
+          "children": [],
+          "text": "開發和維護Dash Web/Restful API"
+        },
+        {
+          "children": [],
+          "text": "使用Yolo8和sentence-transformer進行finetune應用"
+        },
+        {
+          "children": [],
+          "text": "使用OpenCV進行圖像處理應用"
+        },
+        {
+          "children": [],
+          "text": "使用LLM/ VLM進行語言模型應用"
+        }
+      ],
+      "text": "•開發和維護EDA應用雲服務\n•使用Python和Git進行開發和版本管理\n•利用Python和資料結構及Algorithm進行資料處理分析\n•開發和維護Dash Web/Restful API\n•使用Yolo8和sentence-transformer進行finetune應用\n•使用OpenCV進行圖像處理應用\n•使用LLM/ VLM進行語言模型應用"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI Server-EDA /演算法應用開發工程師(土城)_E事業群"
+  },
+  "location": {
+    "address_raw": "新北市土城區",
+    "raw": "新北市土城區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Windows 10",
+          "OOAD",
+          "OOP",
+          "SDLC",
+          "Github",
+          "Git",
+          "Python",
+          "PyTorch",
+          "NLP",
+          "scikit-learn",
+          "OpenCV",
+          "Data Modeling",
+          "Database Management",
+          "HTML",
+          "CSS",
+          "DHCP",
+          "DNS",
+          "Ethernet",
+          "Firewall",
+          "HTTP",
+          "LAN",
+          "Socket",
+          "ssh",
+          "TCP/IP",
+          "UDP"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Windows 10、OOAD、OOP、SDLC、Github、Git、Python、PyTorch、NLP、scikit-learn、OpenCV、Data Modeling、Database Management、HTML、CSS、DHCP、DNS、Ethernet、Firewall、HTTP、LAN、Socket、ssh、TCP/IP、UDP"
+      },
+      {
+        "items": [
+          "作業系統基本操作",
+          "系統架構規劃",
+          "系統維護操作",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "網路程式設計",
+          "Machine Learning",
+          "機器學習",
+          "深度學習",
+          "自然語言處理",
+          "人工智慧",
+          "AI",
+          "語言模型",
+          "提示工程",
+          "生成式AI",
+          "資料庫系統管理維護",
+          "資料庫程式設計",
+          "資料庫軟體應用",
+          "網路系統配置"
+        ],
+        "label": "工作技能",
+        "text": "作業系統基本操作、系統架構規劃、系統維護操作、系統整合分析、軟體工程系統開發、軟體程式設計、網路程式設計、Machine Learning、機器學習、深度學習、自然語言處理、人工智慧、AI、語言模型、提示工程、生成式AI、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、網路系統配置"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "•具有相關的軟體開發經驗\n•熟悉Python和Git\n•具有資料結構和演算法基礎\n•能夠獨立工作和團隊合作\n•良好的溝通和問題解決能力\n•探索新模型/演算法及AI Agent在電子輔助設計/模擬/驗証 領域應用"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "•具有相關的軟體開發經驗\n•熟悉Python和Git\n•具有資料結構和演算法基礎\n•能夠獨立工作和團隊合作\n•良好的溝通和問題解決能力\n•探索新模型/演算法及AI Agent在電子輔助設計/模擬/驗証 領域應用",
+    "skills": [
+      "作業系統基本操作",
+      "系統架構規劃",
+      "系統維護操作",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "網路程式設計",
+      "Machine Learning",
+      "機器學習",
+      "深度學習",
+      "自然語言處理",
+      "人工智慧",
+      "AI",
+      "語言模型",
+      "提示工程",
+      "生成式AI",
+      "資料庫系統管理維護",
+      "資料庫程式設計",
+      "資料庫軟體應用",
+      "網路系統配置"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Windows 10、OOAD、OOP、SDLC、Github、Git、Python、PyTorch、NLP、scikit-learn、OpenCV、Data Modeling、Database Management、HTML、CSS、DHCP、DNS、Ethernet、Firewall、HTTP、LAN、Socket、ssh、TCP/IP、UDP\n工作技能：作業系統基本操作、系統架構規劃、系統維護操作、系統整合分析、軟體工程系統開發、軟體程式設計、網路程式設計、Machine Learning、機器學習、深度學習、自然語言處理、人工智慧、AI、語言模型、提示工程、生成式AI、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、網路系統配置\n其他條件：•具有相關的軟體開發經驗\n•熟悉Python和Git\n•具有資料結構和演算法基礎\n•能夠獨立工作和團隊合作\n•良好的溝通和問題解決能力\n•探索新模型/演算法及AI Agent在電子輔助設計/模擬/驗証 領域應用",
+    "tools": [
+      "Linux",
+      "Windows 10",
+      "OOAD",
+      "OOP",
+      "SDLC",
+      "Github",
+      "Git",
+      "Python",
+      "PyTorch",
+      "NLP",
+      "scikit-learn",
+      "OpenCV",
+      "Data Modeling",
+      "Database Management",
+      "HTML",
+      "CSS",
+      "DHCP",
+      "DNS",
+      "Ethernet",
+      "Firewall",
+      "HTTP",
+      "LAN",
+      "Socket",
+      "ssh",
+      "TCP/IP",
+      "UDP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:58:43+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "•開發和維護EDA應用雲服務\n•使用Python和Git進行開發和版本管理\n•利用Python和資料結構及Algorithm進行資料處理分析\n•開發和維護Dash Web/Restful API\n•使用Yolo8和sentence-transformer進行finetune應用\n•使用OpenCV進行圖像處理應用\n•使用LLM/ VLM進行語言模型應用",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市土城區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "•開發和維護EDA應用雲服務\n•使用Python和Git進行開發和版本管理\n•利用Python和資料結構及Algorithm進行資料處理分析\n•開發和維護Dash Web/Restful API\n•使用Yolo8和sentence-transformer進行finetune應用\n•使用OpenCV進行圖像處理應用\n•使用LLM/ VLM進行語言模型應用"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Windows 10",
+            "OOAD",
+            "OOP",
+            "SDLC",
+            "Github",
+            "Git",
+            "Python",
+            "PyTorch",
+            "NLP",
+            "scikit-learn",
+            "OpenCV",
+            "Data Modeling",
+            "Database Management",
+            "HTML",
+            "CSS",
+            "DHCP",
+            "DNS",
+            "Ethernet",
+            "Firewall",
+            "HTTP",
+            "LAN",
+            "Socket",
+            "ssh",
+            "TCP/IP",
+            "UDP"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Windows 10、OOAD、OOP、SDLC、Github、Git、Python、PyTorch、NLP、scikit-learn、OpenCV、Data Modeling、Database Management、HTML、CSS、DHCP、DNS、Ethernet、Firewall、HTTP、LAN、Socket、ssh、TCP/IP、UDP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "作業系統基本操作",
+            "系統架構規劃",
+            "系統維護操作",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "網路程式設計",
+            "Machine Learning",
+            "機器學習",
+            "深度學習",
+            "自然語言處理",
+            "人工智慧",
+            "AI",
+            "語言模型",
+            "提示工程",
+            "生成式AI",
+            "資料庫系統管理維護",
+            "資料庫程式設計",
+            "資料庫軟體應用",
+            "網路系統配置"
+          ],
+          "label": "工作技能",
+          "text": "作業系統基本操作、系統架構規劃、系統維護操作、系統整合分析、軟體工程系統開發、軟體程式設計、網路程式設計、Machine Learning、機器學習、深度學習、自然語言處理、人工智慧、AI、語言模型、提示工程、生成式AI、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、網路系統配置",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "•具有相關的軟體開發經驗\n•熟悉Python和Git\n•具有資料結構和演算法基礎\n•能夠獨立工作和團隊合作\n•良好的溝通和問題解決能力\n•探索新模型/演算法及AI Agent在電子輔助設計/模擬/驗証 領域應用",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Windows 10、OOAD、OOP、SDLC、Github、Git、Python、PyTorch、NLP、scikit-learn、OpenCV、Data Modeling、Database Management、HTML、CSS、DHCP、DNS、Ethernet、Firewall、HTTP、LAN、Socket、ssh、TCP/IP、UDP\n工作技能：作業系統基本操作、系統架構規劃、系統維護操作、系統整合分析、軟體工程系統開發、軟體程式設計、網路程式設計、Machine Learning、機器學習、深度學習、自然語言處理、人工智慧、AI、語言模型、提示工程、生成式AI、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、網路系統配置\n其他條件：•具有相關的軟體開發經驗\n•熟悉Python和Git\n•具有資料結構和演算法基礎\n•能夠獨立工作和團隊合作\n•良好的溝通和問題解決能力\n•探索新模型/演算法及AI Agent在電子輔助設計/模擬/驗証 領域應用"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8oiaz",
+    "job_url": "https://www.104.com.tw/job/8oiaz",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8oiaz.json",
+    "raw_sha256": "83b94a511036113c38af31deb4a11c915cdeea0d52992a1c974cefcb5ccdfe87",
+    "requested_url": "https://www.104.com.tw/api/jobs/8oiaz"
+  }
+}

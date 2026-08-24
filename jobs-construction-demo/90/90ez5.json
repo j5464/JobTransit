@@ -1,0 +1,212 @@
+{
+  "company": {
+    "id": "1a2x6bnnuj",
+    "name": "睿思軟體有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "全端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "非遠端工作*"
+        },
+        {
+          "children": [],
+          "text": "需有5年經驗以上Angular 2+ or Vue or React前端開發相關實務經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備前/後端分離架構的開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 TypeScript / JavaScript / RxJS。"
+        },
+        {
+          "children": [],
+          "text": "前端應用程式效能優化與障礙排除。"
+        },
+        {
+          "children": [],
+          "text": "具備程式碼版本控管工具GIT的使用概念。"
+        },
+        {
+          "children": [],
+          "text": "具備串接後端 API 經驗。"
+        },
+        {
+          "children": [],
+          "text": "撰寫部分後端功能且不排斥學習後端。"
+        }
+      ],
+      "text": "*非遠端工作*\n1、需有5年經驗以上Angular 2+ or Vue or React前端開發相關實務經驗。\n2、具備前/後端分離架構的開發經驗。\n3、熟悉 TypeScript / JavaScript / RxJS。\n4、前端應用程式效能優化與障礙排除。\n5、具備程式碼版本控管工具GIT的使用概念。\n6、具備串接後端 API 經驗。\n7、撰寫部分後端功能且不排斥學習後端。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Angular前端工程師(R)"
+  },
+  "location": {
+    "address_raw": "台中市西屯區惠來里惠中路一段",
+    "raw": "台中市西屯區惠來里惠中路一段"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "JavaScript",
+          "CSS",
+          "VueJS",
+          "Angular",
+          "HTML",
+          "PHP",
+          "Linux"
+        ],
+        "label": "擅長工具",
+        "text": "JavaScript、CSS、VueJS、Angular、HTML、PHP、Linux"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分條件】\n1、撰寫過單元測試。\n2、具備良好的物件導向概念。\n3、開發過hybrid app的經驗。\n4、自動化部署與維護。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "【加分條件】\n1、撰寫過單元測試。\n2、具備良好的物件導向概念。\n3、開發過hybrid app的經驗。\n4、自動化部署與維護。",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n擅長工具：JavaScript、CSS、VueJS、Angular、HTML、PHP、Linux\n其他條件：【加分條件】\n1、撰寫過單元測試。\n2、具備良好的物件導向概念。\n3、開發過hybrid app的經驗。\n4、自動化部署與維護。",
+    "tools": [
+      "JavaScript",
+      "CSS",
+      "VueJS",
+      "Angular",
+      "HTML",
+      "PHP",
+      "Linux"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 83
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:46:31+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "*非遠端工作*\n1、需有5年經驗以上Angular 2+ or Vue or React前端開發相關實務經驗。\n2、具備前/後端分離架構的開發經驗。\n3、熟悉 TypeScript / JavaScript / RxJS。\n4、前端應用程式效能優化與障礙排除。\n5、具備程式碼版本控管工具GIT的使用概念。\n6、具備串接後端 API 經驗。\n7、撰寫部分後端功能且不排斥學習後端。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "全端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、全端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區惠來里惠中路一段",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "*非遠端工作*\n1、需有5年經驗以上Angular 2+ or Vue or React前端開發相關實務經驗。\n2、具備前/後端分離架構的開發經驗。\n3、熟悉 TypeScript / JavaScript / RxJS。\n4、前端應用程式效能優化與障礙排除。\n5、具備程式碼版本控管工具GIT的使用概念。\n6、具備串接後端 API 經驗。\n7、撰寫部分後端功能且不排斥學習後端。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "JavaScript",
+            "CSS",
+            "VueJS",
+            "Angular",
+            "HTML",
+            "PHP",
+            "Linux"
+          ],
+          "label": "擅長工具",
+          "text": "JavaScript、CSS、VueJS、Angular、HTML、PHP、Linux",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分條件】\n1、撰寫過單元測試。\n2、具備良好的物件導向概念。\n3、開發過hybrid app的經驗。\n4、自動化部署與維護。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n擅長工具：JavaScript、CSS、VueJS、Angular、HTML、PHP、Linux\n其他條件：【加分條件】\n1、撰寫過單元測試。\n2、具備良好的物件導向概念。\n3、開發過hybrid app的經驗。\n4、自動化部署與維護。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "90ez5",
+    "job_url": "https://www.104.com.tw/job/90ez5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90ez5.json",
+    "raw_sha256": "aec0794a2d674a05d223cfaa8133ed1c65e0334852001b4e5fe0f2e2b64d5d4b",
+    "requested_url": "https://www.104.com.tw/api/jobs/90ez5"
+  }
+}

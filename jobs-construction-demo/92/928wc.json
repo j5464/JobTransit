@@ -1,0 +1,201 @@
+{
+  "company": {
+    "id": "18jym5s8",
+    "name": "貿聯國際股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料庫管理人員",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Database Maintenance: Assist in monitoring, backup/recovery, and performance tuning of SQL Server environments."
+        },
+        {
+          "children": [],
+          "text": "Cross-Platform Upskilling: Actively learn and adopt Oracle DB administration tasks under senior guidance."
+        },
+        {
+          "children": [],
+          "text": "Data Engineering & Analytics: Collaborate on analytics projects, building and maintaining data pipelines (ETL/ELT)."
+        },
+        {
+          "children": [],
+          "text": "Troubleshooting: Respond to database alerts, investigate query performance issues, and assist with user access requests."
+        },
+        {
+          "children": [],
+          "text": "Documentation: Maintain clear documentation for database schemas, backup policies, and system changes."
+        },
+        {
+          "children": [],
+          "text": "Collaboration: Work closely with senior DBA, developing team, and system administration team to ensure data availability and security."
+        }
+      ],
+      "text": "Role Overview\nWe are seeking a motivated Junior Database Administrator (DBA) to join our global DBA team. This role is ideal for someone with a mid-strong foundational knowledge of SQL Server who is highly passionate about building a long-term career in database administration. While SQL Server is your starting point, you must possess a strong \"willing-to-learn\" mindset to expand your expertise into Oracle DB. Experience with SAP HANA is a major advantage.\nBeyond core DBA duties, you will immediately get involved in data analytics projects and receive formal training to expand your skillset into a Data Engineer.\nKey Responsibilities:\n* Database Maintenance: Assist in monitoring, backup/recovery, and performance tuning of SQL Server environments.\n* Cross-Platform Upskilling: Actively learn and adopt Oracle DB administration tasks under senior guidance.\n* Data Engineering & Analytics: Collaborate on analytics projects, building and maintaining data pipelines (ETL/ELT).\n* Troubleshooting: Respond to database alerts, investigate query performance issues, and assist with user access requests.\n* Documentation: Maintain clear documentation for database schemas, backup policies, and system changes.\n* Collaboration: Work closely with senior DBA, developing team, and system administration team to ensure data availability and security."
+    },
+    "employment_type_raw": "全職",
+    "title": "Database Administrator"
+  },
+  "location": {
+    "address_raw": "新北市中和區建一路186號3樓",
+    "raw": "新北市中和區建一路186號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "Database Administrator"
+        ],
+        "label": "擅長工具",
+        "text": "Database Administrator"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Required Qualifications:\n* Education: Bachelor’s degree in Computer Science, IT, or equivalent practical experience.\n* Experience: 1–3 years of hands-on experience or academic exposure to MS SQL Server management.\n* Core Skills: Strong proficiency in writing and optimizing SQL queries and understanding relational database concepts.\n* Career Focus: Clear commitment to pursuing Database Administration as a long-term career path.\n* Soft Skills: Curious mindset, strong problem-solving skills, and a proactive attitude toward learning new technologies.\nHighly Desired Skills: (Pluses)\n* SAP HANA: Prior experience, training, or basic knowledge of SAP HANA architecture is a huge plus.\n* Analytics Tools: Exposure to ETL tools, MS Fabrics, or data visualization software (e.g., PowerBI).\n* Oracle Knowledge: Basic familiarity with Oracle SQL, PL/SQL, or architecture components.\n* Certifications: Any foundational certifications in SQL Server, Oracle, or Cloud databases."
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "數學及電算機科學學科類"
+    ],
+    "other_text": "Required Qualifications:\n* Education: Bachelor’s degree in Computer Science, IT, or equivalent practical experience.\n* Experience: 1–3 years of hands-on experience or academic exposure to MS SQL Server management.\n* Core Skills: Strong proficiency in writing and optimizing SQL queries and understanding relational database concepts.\n* Career Focus: Clear commitment to pursuing Database Administration as a long-term career path.\n* Soft Skills: Curious mindset, strong problem-solving skills, and a proactive attitude toward learning new technologies.\nHighly Desired Skills: (Pluses)\n* SAP HANA: Prior experience, training, or basic knowledge of SAP HANA architecture is a huge plus.\n* Analytics Tools: Exposure to ETL tools, MS Fabrics, or data visualization software (e.g., PowerBI).\n* Oracle Knowledge: Basic familiarity with Oracle SQL, PL/SQL, or architecture components.\n* Certifications: Any foundational certifications in SQL Server, Oracle, or Cloud databases.",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類\n擅長工具：Database Administrator\n其他條件：Required Qualifications:\n* Education: Bachelor’s degree in Computer Science, IT, or equivalent practical experience.\n* Experience: 1–3 years of hands-on experience or academic exposure to MS SQL Server management.\n* Core Skills: Strong proficiency in writing and optimizing SQL queries and understanding relational database concepts.\n* Career Focus: Clear commitment to pursuing Database Administration as a long-term career path.\n* Soft Skills: Curious mindset, strong problem-solving skills, and a proactive attitude toward learning new technologies.\nHighly Desired Skills: (Pluses)\n* SAP HANA: Prior experience, training, or basic knowledge of SAP HANA architecture is a huge plus.\n* Analytics Tools: Exposure to ETL tools, MS Fabrics, or data visualization software (e.g., PowerBI).\n* Oracle Knowledge: Basic familiarity with Oracle SQL, PL/SQL, or architecture components.\n* Certifications: Any foundational certifications in SQL Server, Oracle, or Cloud databases.",
+    "tools": [
+      "Database Administrator"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 85
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:50:21+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Role Overview\nWe are seeking a motivated Junior Database Administrator (DBA) to join our global DBA team. This role is ideal for someone with a mid-strong foundational knowledge of SQL Server who is highly passionate about building a long-term career in database administration. While SQL Server is your starting point, you must possess a strong \"willing-to-learn\" mindset to expand your expertise into Oracle DB. Experience with SAP HANA is a major advantage.\nBeyond core DBA duties, you will immediately get involved in data analytics projects and receive formal training to expand your skillset into a Data Engineer.\nKey Responsibilities:\n* Database Maintenance: Assist in monitoring, backup/recovery, and performance tuning of SQL Server environments.\n* Cross-Platform Upskilling: Actively learn and adopt Oracle DB administration tasks under senior guidance.\n* Data Engineering & Analytics: Collaborate on analytics projects, building and maintaining data pipelines (ETL/ELT).\n* Troubleshooting: Respond to database alerts, investigate query performance issues, and assist with user access requests.\n* Documentation: Maintain clear documentation for database schemas, backup policies, and system changes.\n* Collaboration: Work closely with senior DBA, developing team, and system administration team to ensure data availability and security.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料庫管理人員",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料庫管理人員、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區建一路186號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Role Overview\nWe are seeking a motivated Junior Database Administrator (DBA) to join our global DBA team. This role is ideal for someone with a mid-strong foundational knowledge of SQL Server who is highly passionate about building a long-term career in database administration. While SQL Server is your starting point, you must possess a strong \"willing-to-learn\" mindset to expand your expertise into Oracle DB. Experience with SAP HANA is a major advantage.\nBeyond core DBA duties, you will immediately get involved in data analytics projects and receive formal training to expand your skillset into a Data Engineer.\nKey Responsibilities:\n* Database Maintenance: Assist in monitoring, backup/recovery, and performance tuning of SQL Server environments.\n* Cross-Platform Upskilling: Actively learn and adopt Oracle DB administration tasks under senior guidance.\n* Data Engineering & Analytics: Collaborate on analytics projects, building and maintaining data pipelines (ETL/ELT).\n* Troubleshooting: Respond to database alerts, investigate query performance issues, and assist with user access requests.\n* Documentation: Maintain clear documentation for database schemas, backup policies, and system changes.\n* Collaboration: Work closely with senior DBA, developing team, and system administration team to ensure data availability and security."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Database Administrator"
+          ],
+          "label": "擅長工具",
+          "text": "Database Administrator",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Required Qualifications:\n* Education: Bachelor’s degree in Computer Science, IT, or equivalent practical experience.\n* Experience: 1–3 years of hands-on experience or academic exposure to MS SQL Server management.\n* Core Skills: Strong proficiency in writing and optimizing SQL queries and understanding relational database concepts.\n* Career Focus: Clear commitment to pursuing Database Administration as a long-term career path.\n* Soft Skills: Curious mindset, strong problem-solving skills, and a proactive attitude toward learning new technologies.\nHighly Desired Skills: (Pluses)\n* SAP HANA: Prior experience, training, or basic knowledge of SAP HANA architecture is a huge plus.\n* Analytics Tools: Exposure to ETL tools, MS Fabrics, or data visualization software (e.g., PowerBI).\n* Oracle Knowledge: Basic familiarity with Oracle SQL, PL/SQL, or architecture components.\n* Certifications: Any foundational certifications in SQL Server, Oracle, or Cloud databases.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類\n擅長工具：Database Administrator\n其他條件：Required Qualifications:\n* Education: Bachelor’s degree in Computer Science, IT, or equivalent practical experience.\n* Experience: 1–3 years of hands-on experience or academic exposure to MS SQL Server management.\n* Core Skills: Strong proficiency in writing and optimizing SQL queries and understanding relational database concepts.\n* Career Focus: Clear commitment to pursuing Database Administration as a long-term career path.\n* Soft Skills: Curious mindset, strong problem-solving skills, and a proactive attitude toward learning new technologies.\nHighly Desired Skills: (Pluses)\n* SAP HANA: Prior experience, training, or basic knowledge of SAP HANA architecture is a huge plus.\n* Analytics Tools: Exposure to ETL tools, MS Fabrics, or data visualization software (e.g., PowerBI).\n* Oracle Knowledge: Basic familiarity with Oracle SQL, PL/SQL, or architecture components.\n* Certifications: Any foundational certifications in SQL Server, Oracle, or Cloud databases."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "928wc",
+    "job_url": "https://www.104.com.tw/job/928wc",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/928wc.json",
+    "raw_sha256": "e81a1abafa06be357d6d44fb79d05787c01acc721fa11203f6b9a9105c2a9560",
+    "requested_url": "https://www.104.com.tw/api/jobs/928wc"
+  }
+}

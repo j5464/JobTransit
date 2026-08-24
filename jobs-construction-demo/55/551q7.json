@@ -1,0 +1,238 @@
+{
+  "company": {
+    "id": "1a2x6bjtx4",
+    "name": "奕力科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "手機、平板、穿戴式及相關TDDI面板產品、OLED面板相關產品；"
+        },
+        {
+          "children": [],
+          "text": "外掛式電容觸控，應用於工控、車載等產品"
+        },
+        {
+          "children": [],
+          "text": "IC開發階段FPGA/ASIC驗證"
+        },
+        {
+          "children": [],
+          "text": "客製化韌體功能開發"
+        },
+        {
+          "children": [],
+          "text": "觸控報點相關演算法開發、維護"
+        },
+        {
+          "children": [],
+          "text": "協助客戶端的量產與問題解析"
+        },
+        {
+          "children": [],
+          "text": "熟悉C語言"
+        },
+        {
+          "children": [],
+          "text": "熟悉示波器、邏輯分析儀操作"
+        }
+      ],
+      "text": "【產品範疇】\n1.手機、平板、穿戴式及相關TDDI面板產品、OLED面板相關產品；\nTouch and Display Driver Integration(TDDI) IC、Touch Controller\n2.外掛式電容觸控，應用於工控、車載等產品\n【工作內容】\n1.IC開發階段FPGA/ASIC驗證\n2.客製化韌體功能開發\n3.觸控報點相關演算法開發、維護\n4.協助客戶端的量產與問題解析\n【需求條件】\n1.熟悉C語言\n2.熟悉示波器、邏輯分析儀操作"
+    },
+    "employment_type_raw": "全職",
+    "title": "韌體工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市台元二街1號10樓",
+    "raw": "新竹縣竹北市台元二街1號10樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Java"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【其他條件】\n1.熟悉嵌入式系統及架構、面板驅動原理、eDP、TCON相關PQ演算法基礎知尤佳\n2.使用過I2C/SPI interface尤佳\n3.熟悉USB HID Protocol尤佳\n4.熟悉GitHub開發流程、8051功能開發、NB GPU或Monitor Scaler基礎知識尤佳\n5.因應專案需求，需要出差至客戶端支援\n【加分條件】\n1.熟悉TCON IC功能驗證\n2.熟悉TCON chip design block diagram\n3.熟悉三大GPU廠相關規格\n4.具備軟體相容性的問題解析經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": "【其他條件】\n1.熟悉嵌入式系統及架構、面板驅動原理、eDP、TCON相關PQ演算法基礎知尤佳\n2.使用過I2C/SPI interface尤佳\n3.熟悉USB HID Protocol尤佳\n4.熟悉GitHub開發流程、8051功能開發、NB GPU或Monitor Scaler基礎知識尤佳\n5.因應專案需求，需要出差至客戶端支援\n【加分條件】\n1.熟悉TCON IC功能驗證\n2.熟悉TCON chip design block diagram\n3.熟悉三大GPU廠相關規格\n4.具備軟體相容性的問題解析經驗",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、數學及電算機科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Java\n其他條件：【其他條件】\n1.熟悉嵌入式系統及架構、面板驅動原理、eDP、TCON相關PQ演算法基礎知尤佳\n2.使用過I2C/SPI interface尤佳\n3.熟悉USB HID Protocol尤佳\n4.熟悉GitHub開發流程、8051功能開發、NB GPU或Monitor Scaler基礎知識尤佳\n5.因應專案需求，需要出差至客戶端支援\n【加分條件】\n1.熟悉TCON IC功能驗證\n2.熟悉TCON chip design block diagram\n3.熟悉三大GPU廠相關規格\n4.具備軟體相容性的問題解析經驗",
+    "tools": [
+      "C",
+      "C++",
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 6
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:35:07+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【產品範疇】\n1.手機、平板、穿戴式及相關TDDI面板產品、OLED面板相關產品；\nTouch and Display Driver Integration(TDDI) IC、Touch Controller\n2.外掛式電容觸控，應用於工控、車載等產品\n【工作內容】\n1.IC開發階段FPGA/ASIC驗證\n2.客製化韌體功能開發\n3.觸控報點相關演算法開發、維護\n4.協助客戶端的量產與問題解析\n【需求條件】\n1.熟悉C語言\n2.熟悉示波器、邏輯分析儀操作",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市台元二街1號10樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【產品範疇】\n1.手機、平板、穿戴式及相關TDDI面板產品、OLED面板相關產品；\nTouch and Display Driver Integration(TDDI) IC、Touch Controller\n2.外掛式電容觸控，應用於工控、車載等產品\n【工作內容】\n1.IC開發階段FPGA/ASIC驗證\n2.客製化韌體功能開發\n3.觸控報點相關演算法開發、維護\n4.協助客戶端的量產與問題解析\n【需求條件】\n1.熟悉C語言\n2.熟悉示波器、邏輯分析儀操作"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Java",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【其他條件】\n1.熟悉嵌入式系統及架構、面板驅動原理、eDP、TCON相關PQ演算法基礎知尤佳\n2.使用過I2C/SPI interface尤佳\n3.熟悉USB HID Protocol尤佳\n4.熟悉GitHub開發流程、8051功能開發、NB GPU或Monitor Scaler基礎知識尤佳\n5.因應專案需求，需要出差至客戶端支援\n【加分條件】\n1.熟悉TCON IC功能驗證\n2.熟悉TCON chip design block diagram\n3.熟悉三大GPU廠相關規格\n4.具備軟體相容性的問題解析經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、數學及電算機科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Java\n其他條件：【其他條件】\n1.熟悉嵌入式系統及架構、面板驅動原理、eDP、TCON相關PQ演算法基礎知尤佳\n2.使用過I2C/SPI interface尤佳\n3.熟悉USB HID Protocol尤佳\n4.熟悉GitHub開發流程、8051功能開發、NB GPU或Monitor Scaler基礎知識尤佳\n5.因應專案需求，需要出差至客戶端支援\n【加分條件】\n1.熟悉TCON IC功能驗證\n2.熟悉TCON chip design block diagram\n3.熟悉三大GPU廠相關規格\n4.具備軟體相容性的問題解析經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "551q7",
+    "job_url": "https://www.104.com.tw/job/551q7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/551q7.json",
+    "raw_sha256": "3f9f91436016c311201b7ecd4eba34b3af8a7d58603c7a4efc8261f5f075b262",
+    "requested_url": "https://www.104.com.tw/api/jobs/551q7"
+  }
+}

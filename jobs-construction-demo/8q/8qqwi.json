@@ -1,0 +1,255 @@
+{
+  "company": {
+    "id": "1a2x6bi7ot",
+    "name": "蘋果世界股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "網站行銷企劃",
+      "Internet程式設計師",
+      "網路管理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "批量建站，維護網站排名，使其穩定在首頁。"
+        },
+        {
+          "children": [],
+          "text": "精通SEO原理和實施方法，如：關鍵字優化、標籤優化、標題優化、關鍵字排名優化...等。"
+        },
+        {
+          "children": [],
+          "text": "熟悉Google、Bing、Yahoo...等，搜尋引擎的更新規則、演算法觀察與測試。"
+        },
+        {
+          "children": [],
+          "text": "對於網站改版和專題頁製作植入SEO優化策略和相應技術，並提出合理的網站調整建議。"
+        },
+        {
+          "children": [],
+          "text": "熟悉黑帽以及白帽基本SEO操作流程，懂得區分不同作業下效果和存在的風險，並避免使用黑帽優化手法。"
+        },
+        {
+          "children": [],
+          "text": "研究SEO策略，協助制定內部SEO 優化方案及標準；策劃SEO階段推廣計畫並執行。"
+        },
+        {
+          "children": [],
+          "text": "具責任心，有工作經驗者尤佳。"
+        },
+        {
+          "children": [],
+          "text": "提供完整教育訓練"
+        },
+        {
+          "children": [],
+          "text": "可學習、接觸到多元網路行銷"
+        },
+        {
+          "children": [],
+          "text": "完整獎金制度"
+        }
+      ],
+      "text": "●批量建站，維護網站排名，使其穩定在首頁。\n●精通SEO原理和實施方法，如：關鍵字優化、標籤優化、標題優化、關鍵字排名優化...等。\n●熟悉Google、Bing、Yahoo...等，搜尋引擎的更新規則、演算法觀察與測試。\n●對於網站改版和專題頁製作植入SEO優化策略和相應技術，並提出合理的網站調整建議。\n●熟悉黑帽以及白帽基本SEO操作流程，懂得區分不同作業下效果和存在的風險，並避免使用黑帽優化手法。\n●研究SEO策略，協助制定內部SEO 優化方案及標準；策劃SEO階段推廣計畫並執行。\n● 具責任心，有工作經驗者尤佳。\n*提供完整教育訓練\n*可學習、接觸到多元網路行銷\n*完整獎金制度\n請從Google搜尋 網頁設計蘋果優化 進入官網後到人才專區預約我們要會談的時間!\n蘋果seo官方網站\nhttp://www.appleseo.com.tw\nhttps://www.i-web.com.tw/"
+    },
+    "employment_type_raw": "全職",
+    "title": "SEO工程師"
+  },
+  "location": {
+    "address_raw": "台南市北區西門路四段533巷77號",
+    "raw": "台南市北區西門路四段533巷77號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "MySQL",
+          "ASP",
+          "Java",
+          "jQuery",
+          "PHP",
+          "SEO"
+        ],
+        "label": "擅長工具",
+        "text": "MySQL、ASP、Java、jQuery、PHP、SEO"
+      },
+      {
+        "items": [
+          "網站流量成效追蹤",
+          "網頁軟體操作",
+          "網站企劃能力",
+          "伺服器網站管理維護",
+          "安裝與維護網路安全系統",
+          "資訊設備環境設定"
+        ],
+        "label": "工作技能",
+        "text": "網站流量成效追蹤、網頁軟體操作、網站企劃能力、伺服器網站管理維護、安裝與維護網路安全系統、資訊設備環境設定"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "網站流量成效追蹤",
+      "網頁軟體操作",
+      "網站企劃能力",
+      "伺服器網站管理維護",
+      "安裝與維護網路安全系統",
+      "資訊設備環境設定"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊工程相關\n擅長工具：MySQL、ASP、Java、jQuery、PHP、SEO\n工作技能：網站流量成效追蹤、網頁軟體操作、網站企劃能力、伺服器網站管理維護、安裝與維護網路安全系統、資訊設備環境設定",
+    "tools": [
+      "MySQL",
+      "ASP",
+      "Java",
+      "jQuery",
+      "PHP",
+      "SEO"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 51
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:27:14+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "●批量建站，維護網站排名，使其穩定在首頁。\n●精通SEO原理和實施方法，如：關鍵字優化、標籤優化、標題優化、關鍵字排名優化...等。\n●熟悉Google、Bing、Yahoo...等，搜尋引擎的更新規則、演算法觀察與測試。\n●對於網站改版和專題頁製作植入SEO優化策略和相應技術，並提出合理的網站調整建議。\n●熟悉黑帽以及白帽基本SEO操作流程，懂得區分不同作業下效果和存在的風險，並避免使用黑帽優化手法。\n●研究SEO策略，協助制定內部SEO 優化方案及標準；策劃SEO階段推廣計畫並執行。\n● 具責任心，有工作經驗者尤佳。\n*提供完整教育訓練\n*可學習、接觸到多元網路行銷\n*完整獎金制度\n請從Google搜尋 網頁設計蘋果優化 進入官網後到人才專區預約我們要會談的時間!\n蘋果seo官方網站\nhttp://www.appleseo.com.tw\nhttps://www.i-web.com.tw/",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "網站行銷企劃",
+            "Internet程式設計師",
+            "網路管理工程師"
+          ],
+          "label": "職務類別",
+          "text": "網站行銷企劃、Internet程式設計師、網路管理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市北區西門路四段533巷77號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "●批量建站，維護網站排名，使其穩定在首頁。\n●精通SEO原理和實施方法，如：關鍵字優化、標籤優化、標題優化、關鍵字排名優化...等。\n●熟悉Google、Bing、Yahoo...等，搜尋引擎的更新規則、演算法觀察與測試。\n●對於網站改版和專題頁製作植入SEO優化策略和相應技術，並提出合理的網站調整建議。\n●熟悉黑帽以及白帽基本SEO操作流程，懂得區分不同作業下效果和存在的風險，並避免使用黑帽優化手法。\n●研究SEO策略，協助制定內部SEO 優化方案及標準；策劃SEO階段推廣計畫並執行。\n● 具責任心，有工作經驗者尤佳。\n*提供完整教育訓練\n*可學習、接觸到多元網路行銷\n*完整獎金制度\n請從Google搜尋 網頁設計蘋果優化 進入官網後到人才專區預約我們要會談的時間!\n蘋果seo官方網站\nhttp://www.appleseo.com.tw\nhttps://www.i-web.com.tw/"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MySQL",
+            "ASP",
+            "Java",
+            "jQuery",
+            "PHP",
+            "SEO"
+          ],
+          "label": "擅長工具",
+          "text": "MySQL、ASP、Java、jQuery、PHP、SEO",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "網站流量成效追蹤",
+            "網頁軟體操作",
+            "網站企劃能力",
+            "伺服器網站管理維護",
+            "安裝與維護網路安全系統",
+            "資訊設備環境設定"
+          ],
+          "label": "工作技能",
+          "text": "網站流量成效追蹤、網頁軟體操作、網站企劃能力、伺服器網站管理維護、安裝與維護網路安全系統、資訊設備環境設定",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊工程相關\n擅長工具：MySQL、ASP、Java、jQuery、PHP、SEO\n工作技能：網站流量成效追蹤、網頁軟體操作、網站企劃能力、伺服器網站管理維護、安裝與維護網路安全系統、資訊設備環境設定"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8qqwi",
+    "job_url": "https://www.104.com.tw/job/8qqwi",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8qqwi.json",
+    "raw_sha256": "2b17eccde70b7060451189e0a4e90dd8d96dccfee1b8087ef00eb6ead6f134dd",
+    "requested_url": "https://www.104.com.tw/api/jobs/8qqwi"
+  }
+}

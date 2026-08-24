@@ -1,0 +1,285 @@
+{
+  "company": {
+    "id": "1a2x6bm9nt",
+    "name": "創視界W.G.P_金樽有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責平台後端系統功能開發與維護（使用 C# / .NET Core）。"
+        },
+        {
+          "children": [],
+          "text": "協助直播互動、遊戲系統、金流串接等核心模組開發。"
+        },
+        {
+          "children": [],
+          "text": "進行 RESTful API 開發與系統串接。"
+        },
+        {
+          "children": [],
+          "text": "協助資料庫設計、SQL 撰寫與查詢效能優化（熟悉 MS SQL 或 PostgreSQL 佳）。"
+        },
+        {
+          "children": [],
+          "text": "參與高併發系統效能調校、快取機制與非同步處理優化。"
+        },
+        {
+          "children": [],
+          "text": "配合團隊進行 Code Review、版本控管（Git）與技術文件維護。"
+        },
+        {
+          "children": [],
+          "text": "協助系統問題排查與日常維運。"
+        },
+        {
+          "children": [],
+          "text": "核心技術：精通 C# 語言，熟悉 .NET Core / .NET 6+ 開發框架。"
+        },
+        {
+          "children": [],
+          "text": "介面開發：具備 RESTful API 開發與設計經驗。"
+        },
+        {
+          "children": [],
+          "text": "資料庫：具備 SQL 撰寫與資料庫設計能力（如 MS SQL、PostgreSQL）。"
+        },
+        {
+          "children": [],
+          "text": "環境與工具：具備 Linux 基本操作、Git 版本控制能力。"
+        },
+        {
+          "children": [],
+          "text": "系統優化：了解系統效能優化與基本網路概念。"
+        },
+        {
+          "children": [],
+          "text": "具 Redis、Docker 或微服務架構相關經驗。"
+        },
+        {
+          "children": [],
+          "text": "曾接觸 Kafka、RabbitMQ 等消息佇列系統（Message Queue）。"
+        },
+        {
+          "children": [],
+          "text": "具 GCP 或 Azure 雲端服務使用經驗。"
+        },
+        {
+          "children": [],
+          "text": "具高流量、直播、遊戲或電商平台開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "了解 WebSocket 或即時通訊相關技術。"
+        },
+        {
+          "children": [],
+          "text": "具基本資安觀念（如防止 SQL Injection / XSS 等）。"
+        }
+      ],
+      "text": "【 關於我們 】\n創視界系統開發部專注於娛樂互動與直播平台系統開發，致力打造高穩定、高效能的即時互動服務。團隊持續投入高流量架構優化、直播互動技術與平台效能提升，透過穩定的後端系統支撐大量即時用戶與多元娛樂場景。我們重視團隊協作與技術成長，鼓勵工程師參與架構討論、效能優化與技術交流，提供能真正發揮技術能力的開發環境。\n如果你對高併發系統、後端架構設計與大型平台開發有興趣，歡迎加入我們，一起打造更穩定流暢的產品體驗。\n【 工作內容 】\n1. 負責平台後端系統功能開發與維護（使用 C# / .NET Core）。\n2. 協助直播互動、遊戲系統、金流串接等核心模組開發。\n3. 進行 RESTful API 開發與系統串接。\n4. 協助資料庫設計、SQL 撰寫與查詢效能優化（熟悉 MS SQL 或 PostgreSQL 佳）。\n5. 參與高併發系統效能調校、快取機制與非同步處理優化。\n6. 配合團隊進行 Code Review、版本控管（Git）與技術文件維護。\n7. 協助系統問題排查與日常維運。\n【 工作技能 】\n* 核心技術：精通 C# 語言，熟悉 .NET Core / .NET 6+ 開發框架。\n* 介面開發：具備 RESTful API 開發與設計經驗。\n* 資料庫：具備 SQL 撰寫與資料庫設計能力（如 MS SQL、PostgreSQL）。\n* 環境與工具：具備 Linux 基本操作、Git 版本控制能力。\n* 系統優化：了解系統效能優化與基本網路概念。\n【 加分條件 】\n1. 具 Redis、Docker 或微服務架構相關經驗。\n2. 曾接觸 Kafka、RabbitMQ 等消息佇列系統（Message Queue）。\n3. 具 GCP 或 Azure 雲端服務使用經驗。\n4. 具高流量、直播、遊戲或電商平台開發經驗。\n5. 了解 WebSocket 或即時通訊相關技術。\n6. 具基本資安觀念（如防止 SQL Injection / XSS 等）。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【徵才｜C# / .NET 後端工程師】"
+  },
+  "location": {
+    "address_raw": "台中市西屯區河南路二段262號3號(中港長鴻辦公大樓)",
+    "raw": "台中市西屯區河南路二段262號3號(中港長鴻辦公大樓)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Git",
+          "PostgreSQL",
+          "Github",
+          "MS SQL",
+          "C#",
+          "ASP.NET",
+          "Visual Studio",
+          "Visual Studio .net"
+        ],
+        "label": "擅長工具",
+        "text": "Git、PostgreSQL、Github、MS SQL、C#、ASP.NET、Visual Studio、Visual Studio .net"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "模組化系統設計",
+          "問題追蹤處理(Bug tracking)",
+          "軟體工程系統開發",
+          "系統架構規劃",
+          "CI/CD"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、模組化系統設計、問題追蹤處理(Bug tracking)、軟體工程系統開發、系統架構規劃、CI/CD"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟悉 C# 語言，並具備 3 年以上 .NET Core 實際專案開發經驗。\n2. 熟練掌握 MS SQL 或 PostgreSQL 資料庫，具備 SQL 語法編寫與效能調校能力。\n3. 具備 RESTful API 設計、開發與串接經驗。\n4. 熟悉 Git 版本控制工具，並具備 Linux 環境基本操作能力。\n5. 具備良好邏輯思維與軟體架構觀念，能獨立完成模組功能開發。\n【 加分項 】\n具備 Redis、Kafka/RabbitMQ、WebSocket 等高併發、即時通訊或微服務相關經驗者優先。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 熟悉 C# 語言，並具備 3 年以上 .NET Core 實際專案開發經驗。\n2. 熟練掌握 MS SQL 或 PostgreSQL 資料庫，具備 SQL 語法編寫與效能調校能力。\n3. 具備 RESTful API 設計、開發與串接經驗。\n4. 熟悉 Git 版本控制工具，並具備 Linux 環境基本操作能力。\n5. 具備良好邏輯思維與軟體架構觀念，能獨立完成模組功能開發。\n【 加分項 】\n具備 Redis、Kafka/RabbitMQ、WebSocket 等高併發、即時通訊或微服務相關經驗者優先。",
+    "skills": [
+      "軟體程式設計",
+      "模組化系統設計",
+      "問題追蹤處理(Bug tracking)",
+      "軟體工程系統開發",
+      "系統架構規劃",
+      "CI/CD"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：Git、PostgreSQL、Github、MS SQL、C#、ASP.NET、Visual Studio、Visual Studio .net\n工作技能：軟體程式設計、模組化系統設計、問題追蹤處理(Bug tracking)、軟體工程系統開發、系統架構規劃、CI/CD\n其他條件：1. 熟悉 C# 語言，並具備 3 年以上 .NET Core 實際專案開發經驗。\n2. 熟練掌握 MS SQL 或 PostgreSQL 資料庫，具備 SQL 語法編寫與效能調校能力。\n3. 具備 RESTful API 設計、開發與串接經驗。\n4. 熟悉 Git 版本控制工具，並具備 Linux 環境基本操作能力。\n5. 具備良好邏輯思維與軟體架構觀念，能獨立完成模組功能開發。\n【 加分項 】\n具備 Redis、Kafka/RabbitMQ、WebSocket 等高併發、即時通訊或微服務相關經驗者優先。",
+    "tools": [
+      "Git",
+      "PostgreSQL",
+      "Github",
+      "MS SQL",
+      "C#",
+      "ASP.NET",
+      "Visual Studio",
+      "Visual Studio .net"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 56
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:39:25+08:00"
+  },
+  "salary": {
+    "raw": "月薪55,000~75,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【 關於我們 】\n創視界系統開發部專注於娛樂互動與直播平台系統開發，致力打造高穩定、高效能的即時互動服務。團隊持續投入高流量架構優化、直播互動技術與平台效能提升，透過穩定的後端系統支撐大量即時用戶與多元娛樂場景。我們重視團隊協作與技術成長，鼓勵工程師參與架構討論、效能優化與技術交流，提供能真正發揮技術能力的開發環境。\n如果你對高併發系統、後端架構設計與大型平台開發有興趣，歡迎加入我們，一起打造更穩定流暢的產品體驗。\n【 工作內容 】\n1. 負責平台後端系統功能開發與維護（使用 C# / .NET Core）。\n2. 協助直播互動、遊戲系統、金流串接等核心模組開發。\n3. 進行 RESTful API 開發與系統串接。\n4. 協助資料庫設計、SQL 撰寫與查詢效能優化（熟悉 MS SQL 或 PostgreSQL 佳）。\n5. 參與高併發系統效能調校、快取機制與非同步處理優化。\n6. 配合團隊進行 Code Review、版本控管（Git）與技術文件維護。\n7. 協助系統問題排查與日常維運。\n【 工作技能 】\n* 核心技術：精通 C# 語言，熟悉 .NET Core / .NET 6+ 開發框架。\n* 介面開發：具備 RESTful API 開發與設計經驗。\n* 資料庫：具備 SQL 撰寫與資料庫設計能力（如 MS SQL、PostgreSQL）。\n* 環境與工具：具備 Linux 基本操作、Git 版本控制能力。\n* 系統優化：了解系統效能優化與基本網路概念。\n【 加分條件 】\n1. 具 Redis、Docker 或微服務架構相關經驗。\n2. 曾接觸 Kafka、RabbitMQ 等消息佇列系統（Message Queue）。\n3. 具 GCP 或 Azure 雲端服務使用經驗。\n4. 具高流量、直播、遊戲或電商平台開發經驗。\n5. 了解 WebSocket 或即時通訊相關技術。\n6. 具基本資安觀念（如防止 SQL Injection / XSS 等）。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪55,000~75,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區河南路二段262號3號(中港長鴻辦公大樓)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【 關於我們 】\n創視界系統開發部專注於娛樂互動與直播平台系統開發，致力打造高穩定、高效能的即時互動服務。團隊持續投入高流量架構優化、直播互動技術與平台效能提升，透過穩定的後端系統支撐大量即時用戶與多元娛樂場景。我們重視團隊協作與技術成長，鼓勵工程師參與架構討論、效能優化與技術交流，提供能真正發揮技術能力的開發環境。\n如果你對高併發系統、後端架構設計與大型平台開發有興趣，歡迎加入我們，一起打造更穩定流暢的產品體驗。\n【 工作內容 】\n1. 負責平台後端系統功能開發與維護（使用 C# / .NET Core）。\n2. 協助直播互動、遊戲系統、金流串接等核心模組開發。\n3. 進行 RESTful API 開發與系統串接。\n4. 協助資料庫設計、SQL 撰寫與查詢效能優化（熟悉 MS SQL 或 PostgreSQL 佳）。\n5. 參與高併發系統效能調校、快取機制與非同步處理優化。\n6. 配合團隊進行 Code Review、版本控管（Git）與技術文件維護。\n7. 協助系統問題排查與日常維運。\n【 工作技能 】\n* 核心技術：精通 C# 語言，熟悉 .NET Core / .NET 6+ 開發框架。\n* 介面開發：具備 RESTful API 開發與設計經驗。\n* 資料庫：具備 SQL 撰寫與資料庫設計能力（如 MS SQL、PostgreSQL）。\n* 環境與工具：具備 Linux 基本操作、Git 版本控制能力。\n* 系統優化：了解系統效能優化與基本網路概念。\n【 加分條件 】\n1. 具 Redis、Docker 或微服務架構相關經驗。\n2. 曾接觸 Kafka、RabbitMQ 等消息佇列系統（Message Queue）。\n3. 具 GCP 或 Azure 雲端服務使用經驗。\n4. 具高流量、直播、遊戲或電商平台開發經驗。\n5. 了解 WebSocket 或即時通訊相關技術。\n6. 具基本資安觀念（如防止 SQL Injection / XSS 等）。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "PostgreSQL",
+            "Github",
+            "MS SQL",
+            "C#",
+            "ASP.NET",
+            "Visual Studio",
+            "Visual Studio .net"
+          ],
+          "label": "擅長工具",
+          "text": "Git、PostgreSQL、Github、MS SQL、C#、ASP.NET、Visual Studio、Visual Studio .net",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "模組化系統設計",
+            "問題追蹤處理(Bug tracking)",
+            "軟體工程系統開發",
+            "系統架構規劃",
+            "CI/CD"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、模組化系統設計、問題追蹤處理(Bug tracking)、軟體工程系統開發、系統架構規劃、CI/CD",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟悉 C# 語言，並具備 3 年以上 .NET Core 實際專案開發經驗。\n2. 熟練掌握 MS SQL 或 PostgreSQL 資料庫，具備 SQL 語法編寫與效能調校能力。\n3. 具備 RESTful API 設計、開發與串接經驗。\n4. 熟悉 Git 版本控制工具，並具備 Linux 環境基本操作能力。\n5. 具備良好邏輯思維與軟體架構觀念，能獨立完成模組功能開發。\n【 加分項 】\n具備 Redis、Kafka/RabbitMQ、WebSocket 等高併發、即時通訊或微服務相關經驗者優先。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：Git、PostgreSQL、Github、MS SQL、C#、ASP.NET、Visual Studio、Visual Studio .net\n工作技能：軟體程式設計、模組化系統設計、問題追蹤處理(Bug tracking)、軟體工程系統開發、系統架構規劃、CI/CD\n其他條件：1. 熟悉 C# 語言，並具備 3 年以上 .NET Core 實際專案開發經驗。\n2. 熟練掌握 MS SQL 或 PostgreSQL 資料庫，具備 SQL 語法編寫與效能調校能力。\n3. 具備 RESTful API 設計、開發與串接經驗。\n4. 熟悉 Git 版本控制工具，並具備 Linux 環境基本操作能力。\n5. 具備良好邏輯思維與軟體架構觀念，能獨立完成模組功能開發。\n【 加分項 】\n具備 Redis、Kafka/RabbitMQ、WebSocket 等高併發、即時通訊或微服務相關經驗者優先。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92314",
+    "job_url": "https://www.104.com.tw/job/92314",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92314.json",
+    "raw_sha256": "9167b38f5e98bcd577dccf20e539e10ca64c421a9e7e3239b94c22de5901a36c",
+    "requested_url": "https://www.104.com.tw/api/jobs/92314"
+  }
+}

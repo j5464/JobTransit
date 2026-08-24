@@ -1,0 +1,191 @@
+{
+  "company": {
+    "id": "1a2x6bj1s7",
+    "name": "iCHEF_資廚管理顧問股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "專案經理",
+      "系統分析師",
+      "營運管理師／系統整合／ERP專案師"
+    ],
+    "description": {
+      "items": [],
+      "text": "iCHEF 正在尋找一位能同時「看清楚流程斷點」又「動手解決問題」的營運專案經理。\n你不是純粹的技術人，也不是純粹的業務人——你是兩者之間，懂商業邏輯，能用系統與自動化方式實現。\n你將直接嵌入 iCHEF 的 Sales Operations 與 Internal Operations，從流程分析、自動化設計、AI 工具導入，一手推動。你的產出不是報告，是真正上線運作的流程與工具——讓策略決策有更紮實的資訊基礎，讓執行有更高的一致性與效率。\n你的工作會是…\n一、流程分析與系統化設計\n拆解 Sales 與各部門的現有作業流程，識別人工重複、資訊落差與決策延遲的根因；以系統思維重新設計流程架構，定義標準化 SOP 與資料流規範。\n二、自動化與 AI 工具導入\n盤點適合自動化的人工流程，評估並試點工具；設計人機協作的作業模式，確保工具落地而非停在 demo；追蹤導入後的效率提升與 ROI。\n三、數據可見性與決策支援\n建立跨部門 KPI dashboard，讓管理層能即時掌握業務健康度；確保 CRM、財務、CS 系統的資料品質與一致性；定期產出 Ops review report，支撐策略討論的資訊品質。\n四、跨部門專案推進\n協調 Sales、Product、Finance 的跨部門改善專案；追蹤 milestone、衡量成效；作為流程標準化的推動者，降低跨團隊協作的摩擦與資訊孤島。\n五、主導或協助新系統、新工具的導入專案\n從需求訪談、功能規格定義，到 UAT 測試計畫設計與執行；確保上線前的驗收標準明確、測試覆蓋完整；評估工具導入的資安風險，確保資安政策；建立系統上線後的維運文件與教育訓練機制，確保知識不因人員異動而流失。"
+    },
+    "employment_type_raw": "全職",
+    "title": "營運專案經理"
+  },
+  "location": {
+    "address_raw": "台北市南港區八德路四段768巷5號6樓",
+    "raw": "台北市南港區八德路四段768巷5號6樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "Claude",
+          "Gemini",
+          "ChatGPT",
+          "Prompt",
+          "Project"
+        ],
+        "label": "擅長工具",
+        "text": "Claude、Gemini、ChatGPT、Prompt、Project"
+      },
+      {
+        "items": [
+          "專案溝通╱整合管理",
+          "專案管理架構及專案說明",
+          "流程自動化",
+          "AI",
+          "企業資源規劃管理(ERP)"
+        ],
+        "label": "工作技能",
+        "text": "專案溝通╱整合管理、專案管理架構及專案說明、流程自動化、AI、企業資源規劃管理(ERP)"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "專案溝通╱整合管理",
+      "專案管理架構及專案說明",
+      "流程自動化",
+      "AI",
+      "企業資源規劃管理(ERP)"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：不拘\n擅長工具：Claude、Gemini、ChatGPT、Prompt、Project\n工作技能：專案溝通╱整合管理、專案管理架構及專案說明、流程自動化、AI、企業資源規劃管理(ERP)",
+    "tools": [
+      "Claude",
+      "Gemini",
+      "ChatGPT",
+      "Prompt",
+      "Project"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 69
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:11:11+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "iCHEF 正在尋找一位能同時「看清楚流程斷點」又「動手解決問題」的營運專案經理。\n你不是純粹的技術人，也不是純粹的業務人——你是兩者之間，懂商業邏輯，能用系統與自動化方式實現。\n你將直接嵌入 iCHEF 的 Sales Operations 與 Internal Operations，從流程分析、自動化設計、AI 工具導入，一手推動。你的產出不是報告，是真正上線運作的流程與工具——讓策略決策有更紮實的資訊基礎，讓執行有更高的一致性與效率。\n你的工作會是…\n一、流程分析與系統化設計\n拆解 Sales 與各部門的現有作業流程，識別人工重複、資訊落差與決策延遲的根因；以系統思維重新設計流程架構，定義標準化 SOP 與資料流規範。\n二、自動化與 AI 工具導入\n盤點適合自動化的人工流程，評估並試點工具；設計人機協作的作業模式，確保工具落地而非停在 demo；追蹤導入後的效率提升與 ROI。\n三、數據可見性與決策支援\n建立跨部門 KPI dashboard，讓管理層能即時掌握業務健康度；確保 CRM、財務、CS 系統的資料品質與一致性；定期產出 Ops review report，支撐策略討論的資訊品質。\n四、跨部門專案推進\n協調 Sales、Product、Finance 的跨部門改善專案；追蹤 milestone、衡量成效；作為流程標準化的推動者，降低跨團隊協作的摩擦與資訊孤島。\n五、主導或協助新系統、新工具的導入專案\n從需求訪談、功能規格定義，到 UAT 測試計畫設計與執行；確保上線前的驗收標準明確、測試覆蓋完整；評估工具導入的資安風險，確保資安政策；建立系統上線後的維運文件與教育訓練機制，確保知識不因人員異動而流失。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "專案經理",
+            "系統分析師",
+            "營運管理師／系統整合／ERP專案師"
+          ],
+          "label": "職務類別",
+          "text": "專案經理、系統分析師、營運管理師／系統整合／ERP專案師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區八德路四段768巷5號6樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "iCHEF 正在尋找一位能同時「看清楚流程斷點」又「動手解決問題」的營運專案經理。\n你不是純粹的技術人，也不是純粹的業務人——你是兩者之間，懂商業邏輯，能用系統與自動化方式實現。\n你將直接嵌入 iCHEF 的 Sales Operations 與 Internal Operations，從流程分析、自動化設計、AI 工具導入，一手推動。你的產出不是報告，是真正上線運作的流程與工具——讓策略決策有更紮實的資訊基礎，讓執行有更高的一致性與效率。\n你的工作會是…\n一、流程分析與系統化設計\n拆解 Sales 與各部門的現有作業流程，識別人工重複、資訊落差與決策延遲的根因；以系統思維重新設計流程架構，定義標準化 SOP 與資料流規範。\n二、自動化與 AI 工具導入\n盤點適合自動化的人工流程，評估並試點工具；設計人機協作的作業模式，確保工具落地而非停在 demo；追蹤導入後的效率提升與 ROI。\n三、數據可見性與決策支援\n建立跨部門 KPI dashboard，讓管理層能即時掌握業務健康度；確保 CRM、財務、CS 系統的資料品質與一致性；定期產出 Ops review report，支撐策略討論的資訊品質。\n四、跨部門專案推進\n協調 Sales、Product、Finance 的跨部門改善專案；追蹤 milestone、衡量成效；作為流程標準化的推動者，降低跨團隊協作的摩擦與資訊孤島。\n五、主導或協助新系統、新工具的導入專案\n從需求訪談、功能規格定義，到 UAT 測試計畫設計與執行；確保上線前的驗收標準明確、測試覆蓋完整；評估工具導入的資安風險，確保資安政策；建立系統上線後的維運文件與教育訓練機制，確保知識不因人員異動而流失。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Claude",
+            "Gemini",
+            "ChatGPT",
+            "Prompt",
+            "Project"
+          ],
+          "label": "擅長工具",
+          "text": "Claude、Gemini、ChatGPT、Prompt、Project",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "專案溝通╱整合管理",
+            "專案管理架構及專案說明",
+            "流程自動化",
+            "AI",
+            "企業資源規劃管理(ERP)"
+          ],
+          "label": "工作技能",
+          "text": "專案溝通╱整合管理、專案管理架構及專案說明、流程自動化、AI、企業資源規劃管理(ERP)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘\n擅長工具：Claude、Gemini、ChatGPT、Prompt、Project\n工作技能：專案溝通╱整合管理、專案管理架構及專案說明、流程自動化、AI、企業資源規劃管理(ERP)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "939sl",
+    "job_url": "https://www.104.com.tw/job/939sl",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/939sl.json",
+    "raw_sha256": "8ae86f01de155a8652888a08d0acfd82bd5bf9ccffad065eef6009088d1c5bc0",
+    "requested_url": "https://www.104.com.tw/api/jobs/939sl"
+  }
+}

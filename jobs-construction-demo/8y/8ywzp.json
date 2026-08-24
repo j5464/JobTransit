@@ -1,0 +1,199 @@
+{
+  "company": {
+    "id": "1a2x6bk5cu",
+    "name": "英屬開曼群島商萬里雲互聯股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "雲端工程師",
+      "銷售工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [],
+      "text": "CloudMile is a young start-up team which enables clients to solve most mission-critical challenges by leveraging top-notch artificial intelligence, cloud and security technologies with leading vendors in the markets.\nAs a“CloudMiler”, we thrive to be the leading Enterprise-grade Artificial Intelligence, cloud and security solutions provider in Asia. We are the First Google Premier Partner to acquire Infrastructure and machine learning Specializations in North Asia with strong investment in R&D and technologies.\n【工作內容】\n◎ 深入暸解金融客戶端系統架構，分析業務需求並提供符合合規性的雲端解決方案\n◎ 研究最新雲端服務與金融科技趨勢，協助客戶進行 PoC 驗證與技術導入，並提供相關技術顧問諮詢服務\n◎ 擔任客戶的單一技術溝通窗口，負責關鍵問題的初步排查與跨團隊協作，確保服務可用性\n◎ 定期與客戶技術決策層（如架構師、資訊主管）進行 QBR (Quarterly Business Reviews)，分享業界趨勢並校準技術藍圖，確保客戶的雲端策略與其業務目標一致。\n【職務需求】\n◎ 大學或以上資訊工程或同等經歷畢業\n◎ 具備二年以上公有雲實作或維運經驗\n◎ 具備二年以上金融產業服務經驗\n◎ 具備客戶溝通經驗\n◎ 優異的組織能力和溝通技巧\n【加分條件】\n◎ 具備混合雲架構規畫經驗\n◎ 熟悉 Container、Kubernetes\n◎ 熟悉資安法規與金融資訊安全防護實務\n◎ 持有持有 GCP 或 K8s 等相關專業證照\n◎ 使用 AI 相關工具之經驗"
+    },
+    "employment_type_raw": "全職",
+    "title": "雲端解決方案架構師 Cloud Solution Architect (Infra/Security)"
+  },
+  "location": {
+    "address_raw": "台北市信義區基隆路一段333號33樓",
+    "raw": "台北市信義區基隆路一段333號33樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Google Cloud",
+          "Microsoft Azure",
+          "Security",
+          "Cloud",
+          "AWS"
+        ],
+        "label": "擅長工具",
+        "text": "Google Cloud、Microsoft Azure、Security、Cloud、AWS"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "數學及電算機科學學科類",
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Google Cloud、Microsoft Azure、Security、Cloud、AWS",
+    "tools": [
+      "Google Cloud",
+      "Microsoft Azure",
+      "Security",
+      "Cloud",
+      "AWS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 14
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:57:09+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "CloudMile is a young start-up team which enables clients to solve most mission-critical challenges by leveraging top-notch artificial intelligence, cloud and security technologies with leading vendors in the markets.\nAs a“CloudMiler”, we thrive to be the leading Enterprise-grade Artificial Intelligence, cloud and security solutions provider in Asia. We are the First Google Premier Partner to acquire Infrastructure and machine learning Specializations in North Asia with strong investment in R&D and technologies.\n【工作內容】\n◎ 深入暸解金融客戶端系統架構，分析業務需求並提供符合合規性的雲端解決方案\n◎ 研究最新雲端服務與金融科技趨勢，協助客戶進行 PoC 驗證與技術導入，並提供相關技術顧問諮詢服務\n◎ 擔任客戶的單一技術溝通窗口，負責關鍵問題的初步排查與跨團隊協作，確保服務可用性\n◎ 定期與客戶技術決策層（如架構師、資訊主管）進行 QBR (Quarterly Business Reviews)，分享業界趨勢並校準技術藍圖，確保客戶的雲端策略與其業務目標一致。\n【職務需求】\n◎ 大學或以上資訊工程或同等經歷畢業\n◎ 具備二年以上公有雲實作或維運經驗\n◎ 具備二年以上金融產業服務經驗\n◎ 具備客戶溝通經驗\n◎ 優異的組織能力和溝通技巧\n【加分條件】\n◎ 具備混合雲架構規畫經驗\n◎ 熟悉 Container、Kubernetes\n◎ 熟悉資安法規與金融資訊安全防護實務\n◎ 持有持有 GCP 或 K8s 等相關專業證照\n◎ 使用 AI 相關工具之經驗",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "雲端工程師",
+            "銷售工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "雲端工程師、銷售工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區基隆路一段333號33樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "CloudMile is a young start-up team which enables clients to solve most mission-critical challenges by leveraging top-notch artificial intelligence, cloud and security technologies with leading vendors in the markets.\nAs a“CloudMiler”, we thrive to be the leading Enterprise-grade Artificial Intelligence, cloud and security solutions provider in Asia. We are the First Google Premier Partner to acquire Infrastructure and machine learning Specializations in North Asia with strong investment in R&D and technologies.\n【工作內容】\n◎ 深入暸解金融客戶端系統架構，分析業務需求並提供符合合規性的雲端解決方案\n◎ 研究最新雲端服務與金融科技趨勢，協助客戶進行 PoC 驗證與技術導入，並提供相關技術顧問諮詢服務\n◎ 擔任客戶的單一技術溝通窗口，負責關鍵問題的初步排查與跨團隊協作，確保服務可用性\n◎ 定期與客戶技術決策層（如架構師、資訊主管）進行 QBR (Quarterly Business Reviews)，分享業界趨勢並校準技術藍圖，確保客戶的雲端策略與其業務目標一致。\n【職務需求】\n◎ 大學或以上資訊工程或同等經歷畢業\n◎ 具備二年以上公有雲實作或維運經驗\n◎ 具備二年以上金融產業服務經驗\n◎ 具備客戶溝通經驗\n◎ 優異的組織能力和溝通技巧\n【加分條件】\n◎ 具備混合雲架構規畫經驗\n◎ 熟悉 Container、Kubernetes\n◎ 熟悉資安法規與金融資訊安全防護實務\n◎ 持有持有 GCP 或 K8s 等相關專業證照\n◎ 使用 AI 相關工具之經驗"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Google Cloud",
+            "Microsoft Azure",
+            "Security",
+            "Cloud",
+            "AWS"
+          ],
+          "label": "擅長工具",
+          "text": "Google Cloud、Microsoft Azure、Security、Cloud、AWS",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Google Cloud、Microsoft Azure、Security、Cloud、AWS"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ywzp",
+    "job_url": "https://www.104.com.tw/job/8ywzp",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ywzp.json",
+    "raw_sha256": "b5b3165b21100a77f26e3556a50854baf7ffe322e139f3aa1611820f05b26f1f",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ywzp"
+  }
+}

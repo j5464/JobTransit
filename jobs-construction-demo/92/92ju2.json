@@ -1,0 +1,190 @@
+{
+  "company": {
+    "id": "1mtr7vs",
+    "name": "中信金控_台灣人壽保險股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "AI工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "進行流程業務分析"
+        },
+        {
+          "children": [],
+          "text": "撰寫系統開發規格書"
+        },
+        {
+          "children": [],
+          "text": "參與、執行RPA之程式開發、維運、單元測試及SIT"
+        },
+        {
+          "children": [],
+          "text": "監控、維運RPA流程機器人系統"
+        }
+      ],
+      "text": "1.進行流程業務分析\n2.撰寫系統開發規格書\n3.參與、執行RPA之程式開發、維運、單元測試及SIT\n4.監控、維運RPA流程機器人系統"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊_RPA軟體開發工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區安康路6號",
+    "raw": "台北市內湖區安康路6號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "Java",
+          "C#",
+          "HTML",
+          "Oracle",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "Java、C#、HTML、Oracle、CSS"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具RPA相關軟體開發經驗\n2.邏輯清晰、問題分析、善於溝通\n3.具資料庫設計能力(MSSQL、Oracle、MySQL等)尤佳"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 具RPA相關軟體開發經驗\n2.邏輯清晰、問題分析、善於溝通\n3.具資料庫設計能力(MSSQL、Oracle、MySQL等)尤佳",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學\n擅長工具：Java、C#、HTML、Oracle、CSS\n其他條件：1. 具RPA相關軟體開發經驗\n2.邏輯清晰、問題分析、善於溝通\n3.具資料庫設計能力(MSSQL、Oracle、MySQL等)尤佳",
+    "tools": [
+      "Java",
+      "C#",
+      "HTML",
+      "Oracle",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 17
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:03:07+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.進行流程業務分析\n2.撰寫系統開發規格書\n3.參與、執行RPA之程式開發、維運、單元測試及SIT\n4.監控、維運RPA流程機器人系統",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "AI工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、AI工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區安康路6號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.進行流程業務分析\n2.撰寫系統開發規格書\n3.參與、執行RPA之程式開發、維運、單元測試及SIT\n4.監控、維運RPA流程機器人系統"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "C#",
+            "HTML",
+            "Oracle",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "Java、C#、HTML、Oracle、CSS",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具RPA相關軟體開發經驗\n2.邏輯清晰、問題分析、善於溝通\n3.具資料庫設計能力(MSSQL、Oracle、MySQL等)尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學\n擅長工具：Java、C#、HTML、Oracle、CSS\n其他條件：1. 具RPA相關軟體開發經驗\n2.邏輯清晰、問題分析、善於溝通\n3.具資料庫設計能力(MSSQL、Oracle、MySQL等)尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92ju2",
+    "job_url": "https://www.104.com.tw/job/92ju2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92ju2.json",
+    "raw_sha256": "6fb0633b3fb5d9cecf8edd04c889ea9a9395420113bbdcc0fc9d5d05d072b5fe",
+    "requested_url": "https://www.104.com.tw/api/jobs/92ju2"
+  }
+}

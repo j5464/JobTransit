@@ -1,0 +1,183 @@
+{
+  "company": {
+    "id": "12sjgn88",
+    "name": "三商美邦人壽保險股份有限公司_總公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "核保／保險內勤人員",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "執行庶務性及文書處理工作"
+        },
+        {
+          "children": [],
+          "text": "保單實體文件管理、掃描機管理"
+        },
+        {
+          "children": [],
+          "text": "協助使用端進行系統測試"
+        }
+      ],
+      "text": "1. 執行庶務性及文書處理工作\n2. 保單實體文件管理、掃描機管理\n3. 協助使用端進行系統測試\n※此職缺上班地點預計於Q3~Q4間改至臺北市松山區敦化北路205號※\n《若有相關工作經驗者薪資另議》"
+    },
+    "employment_type_raw": "全職",
+    "title": "【總公司智能系統服務組】營運支援科人員"
+  },
+  "location": {
+    "address_raw": "台北市內湖區石潭路58號",
+    "raw": "台北市內湖區石潭路58號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "Word",
+          "Excel",
+          "PowerPoint",
+          "Outlook"
+        ],
+        "label": "擅長工具",
+        "text": "Word、Excel、PowerPoint、Outlook"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具保險業相關經驗尤佳\n2. 肯學習、細心耐心、執行力高"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 具保險業相關經驗尤佳\n2. 肯學習、細心耐心、執行力高",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：Word、Excel、PowerPoint、Outlook\n其他條件：1. 具保險業相關經驗尤佳\n2. 肯學習、細心耐心、執行力高",
+    "tools": [
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "Outlook"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:59:05+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,500~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 執行庶務性及文書處理工作\n2. 保單實體文件管理、掃描機管理\n3. 協助使用端進行系統測試\n※此職缺上班地點預計於Q3~Q4間改至臺北市松山區敦化北路205號※\n《若有相關工作經驗者薪資另議》",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "核保／保險內勤人員",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、核保／保險內勤人員、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,500~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區石潭路58號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 執行庶務性及文書處理工作\n2. 保單實體文件管理、掃描機管理\n3. 協助使用端進行系統測試\n※此職缺上班地點預計於Q3~Q4間改至臺北市松山區敦化北路205號※\n《若有相關工作經驗者薪資另議》"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Word",
+            "Excel",
+            "PowerPoint",
+            "Outlook"
+          ],
+          "label": "擅長工具",
+          "text": "Word、Excel、PowerPoint、Outlook",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具保險業相關經驗尤佳\n2. 肯學習、細心耐心、執行力高",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：Word、Excel、PowerPoint、Outlook\n其他條件：1. 具保險業相關經驗尤佳\n2. 肯學習、細心耐心、執行力高"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8xoqw",
+    "job_url": "https://www.104.com.tw/job/8xoqw",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xoqw.json",
+    "raw_sha256": "700ff0d76a83c325de685d2e535b94907b7974a38a2af87e3fa6ba6397c7d2a8",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xoqw"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "company": {
+    "id": "1a2x6bmt9a",
+    "name": "橙然能源股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責公司產品系統的環境搭建、開發與維護。"
+        },
+        {
+          "children": [],
+          "text": "具備軟體工程演算法的理解與應用。"
+        },
+        {
+          "children": [],
+          "text": "具備撰寫技術文件、維護程式碼品質。"
+        },
+        {
+          "children": [],
+          "text": "熟悉主流軟體開發語言 （C/C++、C#、Python 等）。"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料庫與應用（MongoDb、MariaDb、PostgreSql 等）。"
+        },
+        {
+          "children": [],
+          "text": "英文能力中上，能閱讀英文技術資料與國外期刊。"
+        },
+        {
+          "children": [],
+          "text": "具備主動創新設計產品的能力。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Design Pattern，UML。"
+        },
+        {
+          "children": [],
+          "text": "熟悉軟體相關架構與應用（No-Sql, RDBMS, RabbitMQ、 Kafka、Redis等）。"
+        },
+        {
+          "children": [],
+          "text": "了解軟體開發進程與管理（CI/CD、SCRUM）。"
+        }
+      ],
+      "text": "1. 負責公司產品系統的環境搭建、開發與維護。\n2. 具備軟體工程演算法的理解與應用。\n3. 具備撰寫技術文件、維護程式碼品質。\n4. 熟悉主流軟體開發語言 （C/C++、C#、Python 等）。\n5. 熟悉資料庫與應用（MongoDb、MariaDb、PostgreSql 等）。\n6. 英文能力中上，能閱讀英文技術資料與國外期刊。\nNice to Have:\n1. 具備主動創新設計產品的能力。\n2. 熟悉 Design Pattern，UML。\n3. 熟悉軟體相關架構與應用（No-Sql, RDBMS, RabbitMQ、 Kafka、Redis等）。\n4. 了解軟體開發進程與管理（CI/CD、SCRUM）。"
+    },
+    "employment_type_raw": "全職",
+    "title": "後端工程師 - 台中區"
+  },
+  "location": {
+    "address_raw": "台中市烏日區中山路一段229巷18號",
+    "raw": "台中市烏日區中山路一段229巷18號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C++",
+          "C#",
+          "Python",
+          "PostgreSQL",
+          "UML",
+          "Scrum",
+          "C"
+        ],
+        "label": "擅長工具",
+        "text": "C++、C#、Python、PostgreSQL、UML、Scrum、C"
+      },
+      {
+        "items": [
+          "資料庫系統管理維護",
+          "資料庫軟體應用",
+          "伺服器網站管理維護",
+          "資料庫程式設計",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "資料庫系統管理維護、資料庫軟體應用、伺服器網站管理維護、資料庫程式設計、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具備主動創新設計產品的能力\n2.熟悉 Design Pattern，UML\n3.熟悉軟體相關架構與應用（RabbitMQ、 Kafka、Redis等）\n4.了解軟體開發進程與管理（CI/CD、SCRUM）\n5.優先面試具有「環境部淨零綠領人才培育課程合格證明」之求職者greencollar。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.具備主動創新設計產品的能力\n2.熟悉 Design Pattern，UML\n3.熟悉軟體相關架構與應用（RabbitMQ、 Kafka、Redis等）\n4.了解軟體開發進程與管理（CI/CD、SCRUM）\n5.優先面試具有「環境部淨零綠領人才培育課程合格證明」之求職者greencollar。",
+    "skills": [
+      "資料庫系統管理維護",
+      "資料庫軟體應用",
+      "伺服器網站管理維護",
+      "資料庫程式設計",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、C#、Python、PostgreSQL、UML、Scrum、C\n工作技能：資料庫系統管理維護、資料庫軟體應用、伺服器網站管理維護、資料庫程式設計、軟體工程系統開發\n其他條件：1.具備主動創新設計產品的能力\n2.熟悉 Design Pattern，UML\n3.熟悉軟體相關架構與應用（RabbitMQ、 Kafka、Redis等）\n4.了解軟體開發進程與管理（CI/CD、SCRUM）\n5.優先面試具有「環境部淨零綠領人才培育課程合格證明」之求職者greencollar。",
+    "tools": [
+      "C++",
+      "C#",
+      "Python",
+      "PostgreSQL",
+      "UML",
+      "Scrum",
+      "C"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 89
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:01:03+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責公司產品系統的環境搭建、開發與維護。\n2. 具備軟體工程演算法的理解與應用。\n3. 具備撰寫技術文件、維護程式碼品質。\n4. 熟悉主流軟體開發語言 （C/C++、C#、Python 等）。\n5. 熟悉資料庫與應用（MongoDb、MariaDb、PostgreSql 等）。\n6. 英文能力中上，能閱讀英文技術資料與國外期刊。\nNice to Have:\n1. 具備主動創新設計產品的能力。\n2. 熟悉 Design Pattern，UML。\n3. 熟悉軟體相關架構與應用（No-Sql, RDBMS, RabbitMQ、 Kafka、Redis等）。\n4. 了解軟體開發進程與管理（CI/CD、SCRUM）。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市烏日區中山路一段229巷18號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責公司產品系統的環境搭建、開發與維護。\n2. 具備軟體工程演算法的理解與應用。\n3. 具備撰寫技術文件、維護程式碼品質。\n4. 熟悉主流軟體開發語言 （C/C++、C#、Python 等）。\n5. 熟悉資料庫與應用（MongoDb、MariaDb、PostgreSql 等）。\n6. 英文能力中上，能閱讀英文技術資料與國外期刊。\nNice to Have:\n1. 具備主動創新設計產品的能力。\n2. 熟悉 Design Pattern，UML。\n3. 熟悉軟體相關架構與應用（No-Sql, RDBMS, RabbitMQ、 Kafka、Redis等）。\n4. 了解軟體開發進程與管理（CI/CD、SCRUM）。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "C#",
+            "Python",
+            "PostgreSQL",
+            "UML",
+            "Scrum",
+            "C"
+          ],
+          "label": "擅長工具",
+          "text": "C++、C#、Python、PostgreSQL、UML、Scrum、C",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料庫系統管理維護",
+            "資料庫軟體應用",
+            "伺服器網站管理維護",
+            "資料庫程式設計",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "資料庫系統管理維護、資料庫軟體應用、伺服器網站管理維護、資料庫程式設計、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具備主動創新設計產品的能力\n2.熟悉 Design Pattern，UML\n3.熟悉軟體相關架構與應用（RabbitMQ、 Kafka、Redis等）\n4.了解軟體開發進程與管理（CI/CD、SCRUM）\n5.優先面試具有「環境部淨零綠領人才培育課程合格證明」之求職者greencollar。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、C#、Python、PostgreSQL、UML、Scrum、C\n工作技能：資料庫系統管理維護、資料庫軟體應用、伺服器網站管理維護、資料庫程式設計、軟體工程系統開發\n其他條件：1.具備主動創新設計產品的能力\n2.熟悉 Design Pattern，UML\n3.熟悉軟體相關架構與應用（RabbitMQ、 Kafka、Redis等）\n4.了解軟體開發進程與管理（CI/CD、SCRUM）\n5.優先面試具有「環境部淨零綠領人才培育課程合格證明」之求職者greencollar。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8xhu2",
+    "job_url": "https://www.104.com.tw/job/8xhu2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xhu2.json",
+    "raw_sha256": "29f6fc1a135bf21ee4c396124558633a8223c3d95bc79f4f13399fab5116f956",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xhu2"
+  }
+}

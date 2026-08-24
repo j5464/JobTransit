@@ -1,0 +1,267 @@
+{
+  "company": {
+    "id": "1a2x6bkxbm",
+    "name": "優式機器人股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "核心職責 (Key Responsibilities)"
+        },
+        {
+          "children": [],
+          "text": "管理平台開發： 使用 React/Vue 構建機器人監控後台與任務調度系統。"
+        },
+        {
+          "children": [],
+          "text": "數據視覺化： 實作機器人日誌、感測器狀態與資費數據的視覺化儀表板。"
+        },
+        {
+          "children": [],
+          "text": "即時通訊整合： 處理 WebRTC 影像與 Websocket 實時通訊，優化遠端控制的體驗。"
+        },
+        {
+          "children": [],
+          "text": "組件庫維護： 建立可複用的 UI 組件，提升跨專案（Gen3/EFS）的開發效率。"
+        },
+        {
+          "children": [],
+          "text": "必備技能與加分項 (我們期待的夥伴)"
+        },
+        {
+          "children": [],
+          "text": "精通 ES6+, CSS3 與 React/Vue，具備良好的工程化思維。"
+        },
+        {
+          "children": [],
+          "text": "有 RESTful API 與雲端服務 (GCP/Firebase) 串接經驗。"
+        },
+        {
+          "children": [],
+          "text": "加分項： 對 WebGL 或 Three.js 有經驗，能處理 3D 地圖顯示。"
+        },
+        {
+          "children": [],
+          "text": "為什麼加入我們？ (您將獲得的成長與回報)"
+        },
+        {
+          "children": [],
+          "text": "產品已落地： 我們的機器人已經賣到美國、歐洲、日本，你做的功能是真實被世界使用的。"
+        },
+        {
+          "children": [],
+          "text": "扁平且技術導向： 沒有層層請示，工程師直接對產品負責。"
+        },
+        {
+          "children": [],
+          "text": "跨領域成長： 在這裡你可以接觸到從算法、底層到雲端的完整架構。"
+        }
+      ],
+      "text": "我們需要一位能把複雜數據變成直覺操作的前端夥伴。機器人管理後台不只是給客戶看狀態，更是工程師排查問題的戰場。你的工作是讓雲端的監控、地圖視覺化與調度功能變得流暢且高效。\n- 核心職責 (Key Responsibilities)\n1. 管理平台開發： 使用 React/Vue 構建機器人監控後台與任務調度系統。\n2. 數據視覺化： 實作機器人日誌、感測器狀態與資費數據的視覺化儀表板。\n3. 即時通訊整合： 處理 WebRTC 影像與 Websocket 實時通訊，優化遠端控制的體驗。\n4. 組件庫維護： 建立可複用的 UI 組件，提升跨專案（Gen3/EFS）的開發效率。\n- 必備技能與加分項 (我們期待的夥伴)\n1. 精通 ES6+, CSS3 與 React/Vue，具備良好的工程化思維。\n2. 有 RESTful API 與雲端服務 (GCP/Firebase) 串接經驗。\n3. 加分項： 對 WebGL 或 Three.js 有經驗，能處理 3D 地圖顯示。\n- 為什麼加入我們？ (您將獲得的成長與回報)\n在這裡，您的專業能力將獲得最大化發揮，並獲得獨特的成長機會：\n1. 產品已落地： 我們的機器人已經賣到美國、歐洲、日本，你做的功能是真實被世界使用的。\n2. 扁平且技術導向： 沒有層層請示，工程師直接對產品負責。\n3. 跨領域成長： 在這裡你可以接觸到從算法、底層到雲端的完整架構。\n我們需要的是能獨立解決問題的工程師。如果你對人機互動介面有想法，且不喜歡寫那些無聊的重複頁面，歡迎來跟我們聊聊。"
+    },
+    "employment_type_raw": "全職",
+    "title": "前端開發工程師 Web Frontend Engineer"
+  },
+  "location": {
+    "address_raw": "台北市內湖區新湖1路151號5樓",
+    "raw": "台北市內湖區新湖1路151號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中、專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中、專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、略懂"
+      },
+      {
+        "items": [
+          "ReactJS",
+          "CSS",
+          "JavaScript",
+          "VueJS",
+          "AngularJS",
+          "Firebase",
+          "ReactNative"
+        ],
+        "label": "擅長工具",
+        "text": "ReactJS、CSS、JavaScript、VueJS、AngularJS、Firebase、ReactNative"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "模組化系統設計",
+          "軟體品質與保證",
+          "系統架構規劃",
+          "系統整合分析"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、模組化系統設計、軟體品質與保證、系統架構規劃、系統整合分析"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、略懂"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "模組化系統設計",
+      "軟體品質與保證",
+      "系統架構規劃",
+      "系統整合分析"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：高中、專科、大學、碩士\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：ReactJS、CSS、JavaScript、VueJS、AngularJS、Firebase、ReactNative\n工作技能：軟體程式設計、模組化系統設計、軟體品質與保證、系統架構規劃、系統整合分析",
+    "tools": [
+      "ReactJS",
+      "CSS",
+      "JavaScript",
+      "VueJS",
+      "AngularJS",
+      "Firebase",
+      "ReactNative"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 75
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:25:50+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們需要一位能把複雜數據變成直覺操作的前端夥伴。機器人管理後台不只是給客戶看狀態，更是工程師排查問題的戰場。你的工作是讓雲端的監控、地圖視覺化與調度功能變得流暢且高效。\n- 核心職責 (Key Responsibilities)\n1. 管理平台開發： 使用 React/Vue 構建機器人監控後台與任務調度系統。\n2. 數據視覺化： 實作機器人日誌、感測器狀態與資費數據的視覺化儀表板。\n3. 即時通訊整合： 處理 WebRTC 影像與 Websocket 實時通訊，優化遠端控制的體驗。\n4. 組件庫維護： 建立可複用的 UI 組件，提升跨專案（Gen3/EFS）的開發效率。\n- 必備技能與加分項 (我們期待的夥伴)\n1. 精通 ES6+, CSS3 與 React/Vue，具備良好的工程化思維。\n2. 有 RESTful API 與雲端服務 (GCP/Firebase) 串接經驗。\n3. 加分項： 對 WebGL 或 Three.js 有經驗，能處理 3D 地圖顯示。\n- 為什麼加入我們？ (您將獲得的成長與回報)\n在這裡，您的專業能力將獲得最大化發揮，並獲得獨特的成長機會：\n1. 產品已落地： 我們的機器人已經賣到美國、歐洲、日本，你做的功能是真實被世界使用的。\n2. 扁平且技術導向： 沒有層層請示，工程師直接對產品負責。\n3. 跨領域成長： 在這裡你可以接觸到從算法、底層到雲端的完整架構。\n我們需要的是能獨立解決問題的工程師。如果你對人機互動介面有想法，且不喜歡寫那些無聊的重複頁面，歡迎來跟我們聊聊。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區新湖1路151號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們需要一位能把複雜數據變成直覺操作的前端夥伴。機器人管理後台不只是給客戶看狀態，更是工程師排查問題的戰場。你的工作是讓雲端的監控、地圖視覺化與調度功能變得流暢且高效。\n- 核心職責 (Key Responsibilities)\n1. 管理平台開發： 使用 React/Vue 構建機器人監控後台與任務調度系統。\n2. 數據視覺化： 實作機器人日誌、感測器狀態與資費數據的視覺化儀表板。\n3. 即時通訊整合： 處理 WebRTC 影像與 Websocket 實時通訊，優化遠端控制的體驗。\n4. 組件庫維護： 建立可複用的 UI 組件，提升跨專案（Gen3/EFS）的開發效率。\n- 必備技能與加分項 (我們期待的夥伴)\n1. 精通 ES6+, CSS3 與 React/Vue，具備良好的工程化思維。\n2. 有 RESTful API 與雲端服務 (GCP/Firebase) 串接經驗。\n3. 加分項： 對 WebGL 或 Three.js 有經驗，能處理 3D 地圖顯示。\n- 為什麼加入我們？ (您將獲得的成長與回報)\n在這裡，您的專業能力將獲得最大化發揮，並獲得獨特的成長機會：\n1. 產品已落地： 我們的機器人已經賣到美國、歐洲、日本，你做的功能是真實被世界使用的。\n2. 扁平且技術導向： 沒有層層請示，工程師直接對產品負責。\n3. 跨領域成長： 在這裡你可以接觸到從算法、底層到雲端的完整架構。\n我們需要的是能獨立解決問題的工程師。如果你對人機互動介面有想法，且不喜歡寫那些無聊的重複頁面，歡迎來跟我們聊聊。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中、專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ReactJS",
+            "CSS",
+            "JavaScript",
+            "VueJS",
+            "AngularJS",
+            "Firebase",
+            "ReactNative"
+          ],
+          "label": "擅長工具",
+          "text": "ReactJS、CSS、JavaScript、VueJS、AngularJS、Firebase、ReactNative",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "模組化系統設計",
+            "軟體品質與保證",
+            "系統架構規劃",
+            "系統整合分析"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、模組化系統設計、軟體品質與保證、系統架構規劃、系統整合分析",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：高中、專科、大學、碩士\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：ReactJS、CSS、JavaScript、VueJS、AngularJS、Firebase、ReactNative\n工作技能：軟體程式設計、模組化系統設計、軟體品質與保證、系統架構規劃、系統整合分析"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8y89s",
+    "job_url": "https://www.104.com.tw/job/8y89s",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8y89s.json",
+    "raw_sha256": "ab6de8e48a0e7cc63e6595f6267fb3da072ff5377ecce9c055db25939150bbb9",
+    "requested_url": "https://www.104.com.tw/api/jobs/8y89s"
+  }
+}

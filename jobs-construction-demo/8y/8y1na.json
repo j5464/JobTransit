@@ -1,0 +1,220 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料工程師",
+      "數據分析師／資料分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "架構設計與開發：主導分散式儲存系統架構，涵蓋 Block、File 及 Object Storage 解決方案。"
+        },
+        {
+          "children": [],
+          "text": "性能調優 (Performance Tuning)：針對 NVMe SSD 特性進行底層優化，提升系統吞吐量 (Throughput) 並降低延遲 (Latency)。"
+        },
+        {
+          "children": [],
+          "text": "先進技術導入：評估並整合 SPDK、RDMA (RoCE/InfiniBand)、NVMe-oF 等前沿技術。"
+        },
+        {
+          "children": [],
+          "text": "混合雲/雲原生整合：研發與 Kubernetes (CSI)、OpenStack 等環境深度整合的儲存服務。"
+        },
+        {
+          "children": [],
+          "text": "競爭力分析：對標業界大廠 (如 NetApp ONTAP、WekaFS、Dell EMC PowerFlex) 進行技術分析與規格制定。"
+        }
+      ],
+      "text": "【工作內容】\n我們正在尋找具備深厚儲存技術背景的架構師，負責協助團隊設計與優化下一代高性能軟體定義儲存 (SDS) 解決方案。您將主導系統架構設計，挑戰極致的 I/O 性能與系統穩定性。\n1. 架構設計與開發：主導分散式儲存系統架構，涵蓋 Block、File 及 Object Storage 解決方案。\n2. 性能調優 (Performance Tuning)：針對 NVMe SSD 特性進行底層優化，提升系統吞吐量 (Throughput) 並降低延遲 (Latency)。\n3. 先進技術導入：評估並整合 SPDK、RDMA (RoCE/InfiniBand)、NVMe-oF 等前沿技術。\n4. 混合雲/雲原生整合：研發與 Kubernetes (CSI)、OpenStack 等環境深度整合的儲存服務。\n5. 競爭力分析：對標業界大廠 (如 NetApp ONTAP、WekaFS、Dell EMC PowerFlex) 進行技術分析與規格制定。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體定義儲存資深架構師"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "軟體架構設計, 數據架構設計, 資料倉儲設計, 資料湖設計, 資料流方案設計"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": "軟體架構設計, 數據架構設計, 資料倉儲設計, 資料湖設計, 資料流方案設計",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、數學及電算機科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python\n其他條件：軟體架構設計, 數據架構設計, 資料倉儲設計, 資料湖設計, 資料流方案設計",
+    "tools": [
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 54
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:35:12+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n我們正在尋找具備深厚儲存技術背景的架構師，負責協助團隊設計與優化下一代高性能軟體定義儲存 (SDS) 解決方案。您將主導系統架構設計，挑戰極致的 I/O 性能與系統穩定性。\n1. 架構設計與開發：主導分散式儲存系統架構，涵蓋 Block、File 及 Object Storage 解決方案。\n2. 性能調優 (Performance Tuning)：針對 NVMe SSD 特性進行底層優化，提升系統吞吐量 (Throughput) 並降低延遲 (Latency)。\n3. 先進技術導入：評估並整合 SPDK、RDMA (RoCE/InfiniBand)、NVMe-oF 等前沿技術。\n4. 混合雲/雲原生整合：研發與 Kubernetes (CSI)、OpenStack 等環境深度整合的儲存服務。\n5. 競爭力分析：對標業界大廠 (如 NetApp ONTAP、WekaFS、Dell EMC PowerFlex) 進行技術分析與規格制定。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料工程師",
+            "數據分析師／資料分析師"
+          ],
+          "label": "職務類別",
+          "text": "資料工程師、數據分析師／資料分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n我們正在尋找具備深厚儲存技術背景的架構師，負責協助團隊設計與優化下一代高性能軟體定義儲存 (SDS) 解決方案。您將主導系統架構設計，挑戰極致的 I/O 性能與系統穩定性。\n1. 架構設計與開發：主導分散式儲存系統架構，涵蓋 Block、File 及 Object Storage 解決方案。\n2. 性能調優 (Performance Tuning)：針對 NVMe SSD 特性進行底層優化，提升系統吞吐量 (Throughput) 並降低延遲 (Latency)。\n3. 先進技術導入：評估並整合 SPDK、RDMA (RoCE/InfiniBand)、NVMe-oF 等前沿技術。\n4. 混合雲/雲原生整合：研發與 Kubernetes (CSI)、OpenStack 等環境深度整合的儲存服務。\n5. 競爭力分析：對標業界大廠 (如 NetApp ONTAP、WekaFS、Dell EMC PowerFlex) 進行技術分析與規格制定。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "軟體架構設計, 數據架構設計, 資料倉儲設計, 資料湖設計, 資料流方案設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、數學及電算機科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python\n其他條件：軟體架構設計, 數據架構設計, 資料倉儲設計, 資料湖設計, 資料流方案設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8y1na",
+    "job_url": "https://www.104.com.tw/job/8y1na",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8y1na.json",
+    "raw_sha256": "b0052ebdf0da6d8417e1d133318094007e8035ef9d6988d84fa6dfda1d03e9d6",
+    "requested_url": "https://www.104.com.tw/api/jobs/8y1na"
+  }
+}

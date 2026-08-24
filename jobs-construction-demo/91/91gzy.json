@@ -1,0 +1,192 @@
+{
+  "company": {
+    "id": "daty0jk",
+    "name": "磁量生技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "FAE工程師",
+      "生產設備工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具使用Labview開發客製化軟體能力"
+        },
+        {
+          "children": [],
+          "text": "生產設備機台，並進行故障排除、異常分析與追蹤處理。"
+        },
+        {
+          "children": [],
+          "text": "進行設備實地安裝及客戶安裝場域場勘評估。"
+        },
+        {
+          "children": [],
+          "text": "提供客戶技術服務，必要時外勤至客戶端安裝、檢修儀器設備。"
+        },
+        {
+          "children": [],
+          "text": "可配合海外公費短期出差，未來經評估有機會前往各客戶國家進行裝機或維修作業。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項"
+        }
+      ],
+      "text": "1.具使用Labview開發客製化軟體能力\n2.生產設備機台，並進行故障排除、異常分析與追蹤處理。\n3.進行設備實地安裝及客戶安裝場域場勘評估。\n4.提供客戶技術服務，必要時外勤至客戶端安裝、檢修儀器設備。\n5.可配合海外公費短期出差，未來經評估有機會前往各客戶國家進行裝機或維修作業。\n6.其他主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "儀器工程師"
+  },
+  "location": {
+    "address_raw": "新北市新店區中正路538巷12號3樓",
+    "raw": "新北市新店區中正路538巷12號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "LabVIEW"
+        ],
+        "label": "擅長工具",
+        "text": "LabVIEW"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：LabVIEW",
+    "tools": [
+      "LabVIEW"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:58:06+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.具使用Labview開發客製化軟體能力\n2.生產設備機台，並進行故障排除、異常分析與追蹤處理。\n3.進行設備實地安裝及客戶安裝場域場勘評估。\n4.提供客戶技術服務，必要時外勤至客戶端安裝、檢修儀器設備。\n5.可配合海外公費短期出差，未來經評估有機會前往各客戶國家進行裝機或維修作業。\n6.其他主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "FAE工程師",
+            "生產設備工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、FAE工程師、生產設備工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區中正路538巷12號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.具使用Labview開發客製化軟體能力\n2.生產設備機台，並進行故障排除、異常分析與追蹤處理。\n3.進行設備實地安裝及客戶安裝場域場勘評估。\n4.提供客戶技術服務，必要時外勤至客戶端安裝、檢修儀器設備。\n5.可配合海外公費短期出差，未來經評估有機會前往各客戶國家進行裝機或維修作業。\n6.其他主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "LabVIEW"
+          ],
+          "label": "擅長工具",
+          "text": "LabVIEW",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：LabVIEW"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91gzy",
+    "job_url": "https://www.104.com.tw/job/91gzy",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91gzy.json",
+    "raw_sha256": "4ab9b3ffcac51ecf25605a8f56b0aa2f40347c3790ce44e4ecda18ae6accca78",
+    "requested_url": "https://www.104.com.tw/api/jobs/91gzy"
+  }
+}

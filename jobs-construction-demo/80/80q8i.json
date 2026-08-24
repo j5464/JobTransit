@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Formulate software CI/CD flow."
+        },
+        {
+          "children": [],
+          "text": "Formulate Backup Plan"
+        },
+        {
+          "children": [],
+          "text": "Build DevOps, include App-Building Automation, Deploy Automation, Monitoring Automation, etc."
+        },
+        {
+          "children": [],
+          "text": "Record history of operations."
+        },
+        {
+          "children": [],
+          "text": "Record root cause analysis (RCA), includes Root Cause, Improvement Plan"
+        },
+        {
+          "children": [],
+          "text": "Generate Daily Report which is recording the history of monitoring."
+        },
+        {
+          "children": [],
+          "text": "Assist operation of the systems."
+        },
+        {
+          "children": [],
+          "text": "Participate in project analysis, request the requirement of operations."
+        },
+        {
+          "children": [],
+          "text": "Greatly coordinate with App Develop Team, to stable services, and ensure a smooth flow of DevOps."
+        },
+        {
+          "children": [],
+          "text": "Program language: Shell Script / Golang"
+        },
+        {
+          "children": [],
+          "text": "Operation System: Linux"
+        },
+        {
+          "children": [],
+          "text": "Version Control: Git / GitLab"
+        },
+        {
+          "children": [],
+          "text": "Containerization: Docker / Containerd"
+        },
+        {
+          "children": [],
+          "text": "DevOps: Azure DevOps / GitLab CI/CD"
+        },
+        {
+          "children": [],
+          "text": "Containerization Orchestration: Docker Swarm / Kubernetes"
+        },
+        {
+          "children": [],
+          "text": "IaC Tool: Ansible / Terraform / Helm Chart"
+        },
+        {
+          "children": [],
+          "text": "Observability: Grafana / Prometheus / Grafna Loki / Grafana Tempo"
+        },
+        {
+          "children": [],
+          "text": "Database: Microsoft SQL Server / Oracle DB / MongoDB / Postgresql"
+        },
+        {
+          "children": [],
+          "text": "Backend Application Framework: Spring Boot / .NetCore / Python Flask, Django"
+        },
+        {
+          "children": [],
+          "text": "Frontend Application Framework: Angular / Vue.js / React / jQuery"
+        }
+      ],
+      "text": "Senior System Reliability Engineer | Delta Corp. IT\n【The Role】\nWe're currently seeking an experienced Senior System Reliability Engineer to join Manufacturing Support Team which belongs to Delta Corp. IT. The ideal Engineer would have a passion for improving smart operations and app-building automation.\n【Key Responsibilities】\n1. Formulate software CI/CD flow.\n2. Formulate Backup Plan\n3. Build DevOps, include App-Building Automation, Deploy Automation, Monitoring Automation, etc.\n4. Record history of operations.\n5. Record root cause analysis (RCA), includes Root Cause, Improvement Plan\n6. Generate Daily Report which is recording the history of monitoring.\n7. Assist operation of the systems.\n8. Participate in project analysis, request the requirement of operations.\n9. Greatly coordinate with App Develop Team, to stable services, and ensure a smooth flow of DevOps.\n【Tech Skill】\n<Must>\n1. Program language: Shell Script / Golang\n2. Operation System: Linux\n3. Version Control: Git / GitLab\n4. Containerization: Docker / Containerd\n<Optional>\n1. DevOps: Azure DevOps / GitLab CI/CD\n2. Containerization Orchestration: Docker Swarm / Kubernetes\n3. IaC Tool: Ansible / Terraform / Helm Chart\n4. Observability: Grafana / Prometheus / Grafna Loki / Grafana Tempo\n5. Database: Microsoft SQL Server / Oracle DB / MongoDB / Postgresql\n6. Backend Application Framework: Spring Boot / .NetCore / Python Flask, Django\n7. Frontend Application Framework: Angular / Vue.js / React / jQuery\n※職稱與職級會依背景與技術完整度核定。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Junior/Senior System Reliability Engineer_製造支援系統整合_資訊處(內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號(台北)",
+    "raw": "台北市內湖區瑞光路186號(台北)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 90
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:02:53+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Senior System Reliability Engineer | Delta Corp. IT\n【The Role】\nWe're currently seeking an experienced Senior System Reliability Engineer to join Manufacturing Support Team which belongs to Delta Corp. IT. The ideal Engineer would have a passion for improving smart operations and app-building automation.\n【Key Responsibilities】\n1. Formulate software CI/CD flow.\n2. Formulate Backup Plan\n3. Build DevOps, include App-Building Automation, Deploy Automation, Monitoring Automation, etc.\n4. Record history of operations.\n5. Record root cause analysis (RCA), includes Root Cause, Improvement Plan\n6. Generate Daily Report which is recording the history of monitoring.\n7. Assist operation of the systems.\n8. Participate in project analysis, request the requirement of operations.\n9. Greatly coordinate with App Develop Team, to stable services, and ensure a smooth flow of DevOps.\n【Tech Skill】\n<Must>\n1. Program language: Shell Script / Golang\n2. Operation System: Linux\n3. Version Control: Git / GitLab\n4. Containerization: Docker / Containerd\n<Optional>\n1. DevOps: Azure DevOps / GitLab CI/CD\n2. Containerization Orchestration: Docker Swarm / Kubernetes\n3. IaC Tool: Ansible / Terraform / Helm Chart\n4. Observability: Grafana / Prometheus / Grafna Loki / Grafana Tempo\n5. Database: Microsoft SQL Server / Oracle DB / MongoDB / Postgresql\n6. Backend Application Framework: Spring Boot / .NetCore / Python Flask, Django\n7. Frontend Application Framework: Angular / Vue.js / React / jQuery\n※職稱與職級會依背景與技術完整度核定。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號(台北)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Senior System Reliability Engineer | Delta Corp. IT\n【The Role】\nWe're currently seeking an experienced Senior System Reliability Engineer to join Manufacturing Support Team which belongs to Delta Corp. IT. The ideal Engineer would have a passion for improving smart operations and app-building automation.\n【Key Responsibilities】\n1. Formulate software CI/CD flow.\n2. Formulate Backup Plan\n3. Build DevOps, include App-Building Automation, Deploy Automation, Monitoring Automation, etc.\n4. Record history of operations.\n5. Record root cause analysis (RCA), includes Root Cause, Improvement Plan\n6. Generate Daily Report which is recording the history of monitoring.\n7. Assist operation of the systems.\n8. Participate in project analysis, request the requirement of operations.\n9. Greatly coordinate with App Develop Team, to stable services, and ensure a smooth flow of DevOps.\n【Tech Skill】\n<Must>\n1. Program language: Shell Script / Golang\n2. Operation System: Linux\n3. Version Control: Git / GitLab\n4. Containerization: Docker / Containerd\n<Optional>\n1. DevOps: Azure DevOps / GitLab CI/CD\n2. Containerization Orchestration: Docker Swarm / Kubernetes\n3. IaC Tool: Ansible / Terraform / Helm Chart\n4. Observability: Grafana / Prometheus / Grafna Loki / Grafana Tempo\n5. Database: Microsoft SQL Server / Oracle DB / MongoDB / Postgresql\n6. Backend Application Framework: Spring Boot / .NetCore / Python Flask, Django\n7. Frontend Application Framework: Angular / Vue.js / React / jQuery\n※職稱與職級會依背景與技術完整度核定。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "80q8i",
+    "job_url": "https://www.104.com.tw/job/80q8i",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/80q8i.json",
+    "raw_sha256": "64d4dd2d4cec2eb3862504630b74db95b29ff3e8aae4ce687797c589f3480bb8",
+    "requested_url": "https://www.104.com.tw/api/jobs/80q8i"
+  }
+}

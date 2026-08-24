@@ -1,0 +1,347 @@
+{
+  "company": {
+    "id": "1a2x6bkyit",
+    "name": "雙子數位科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "數據流水線工程： 使用 Qlik CDC、GCP Cloud Composer (Airflow) 及 Confluent Cloud Kafka，為多樣化數據源設計、開發並維護強健的數據流水線。"
+        },
+        {
+          "children": [],
+          "text": "數據轉換與建模： 開發高效的 SQL 數據轉換邏輯，並在 BigQuery（湖倉一體架構，Lakehouse）內建立數據模型，針對分析及 AI/ML 使用情境進行優化。"
+        },
+        {
+          "children": [],
+          "text": "數據管理與架構： 在 GCP 中實作數據存儲與處理方案，遵循數據湖倉原則及 BigQuery PII（個人識別資訊）最佳實踐。"
+        },
+        {
+          "children": [],
+          "text": "支援 AI/ML 倡議： 建置數據流水線以支援 AI/ML 模型開發，包括基礎的模型原型製作。"
+        },
+        {
+          "children": [],
+          "text": "數據治理與品質： 實施數據品質檢查，並在我們的數據治理框架內貢獻數據血緣（Data Lineage）分析。"
+        },
+        {
+          "children": [],
+          "text": "平台監控與自動化： 使用 GCP Monitoring、Logging 及 Cloud Composer 實作數據平台監控與告警機制。"
+        },
+        {
+          "children": [],
+          "text": "基礎設施即代碼 (IaC) 與 DevOps： 利用 Terraform 和 GitHub Actions 進行基礎設施部署與 CI/CD。"
+        },
+        {
+          "children": [],
+          "text": "安全數據處理： 實施安全的數據處理實踐，並根據需求應用客戶管理加密金鑰 (CMEK)。"
+        },
+        {
+          "children": [],
+          "text": "作與溝通： 與全球跨部門團隊合作，有效地溝通平台更新資訊。"
+        },
+        {
+          "children": [],
+          "text": "程式語言："
+        },
+        {
+          "children": [],
+          "text": "Python：精通 Python 以進行數據工程與自動化。"
+        },
+        {
+          "children": [],
+          "text": "SQL：SQL 專家，特別是針對 BigQuery 和數據倉儲的應用。"
+        },
+        {
+          "children": [],
+          "text": "雲端平台："
+        },
+        {
+          "children": [],
+          "text": "Google Cloud Platform (GCP)：具備 GCP 實務經驗，包含與地端數據中心（On-premises DC）的混合雲環境。"
+        },
+        {
+          "children": [],
+          "text": "運算與託管："
+        },
+        {
+          "children": [],
+          "text": "GKE & GCE (RedHat)：具備 Google Kubernetes Engine (GKE) 與 Google Compute Engine (GCE - RedHat) 的經驗。"
+        },
+        {
+          "children": [],
+          "text": "GCP Cloud Run & Cloud Functions：具備 GCP 無伺服器（Serverless）運算選項的經驗。"
+        },
+        {
+          "children": [],
+          "text": "數據工具："
+        },
+        {
+          "children": [],
+          "text": "GCP Cloud Composer (Airflow)：具備 GCP Cloud Composer 的實務經驗。"
+        },
+        {
+          "children": [],
+          "text": "BigQuery (Lakehouse)：具備 BigQuery 在數據倉儲與湖倉一體架構的豐富經驗。"
+        },
+        {
+          "children": [],
+          "text": "BigQuery PII：具備處理 PII 數據及使用 BigQuery PII 安全功能的經驗。"
+        },
+        {
+          "children": [],
+          "text": "Kafka 生態系統：對 Kafka 生態系統有紮實理解，包括 Confluent Cloud、Debezium 與 Qlik。"
+        },
+        {
+          "children": [],
+          "text": "DevOps / 基礎設施："
+        },
+        {
+          "children": [],
+          "text": "GCP 監控與日誌：精通 GCP Monitoring、Logging 及 Metrics 工具。"
+        },
+        {
+          "children": [],
+          "text": "GitHub Actions：具備使用 GitHub Actions 進行 CI/CD 的經驗。"
+        },
+        {
+          "children": [],
+          "text": "Terraform：精通 Terraform 以實作基礎設施即代碼。"
+        },
+        {
+          "children": [],
+          "text": "OpenTelemetry：熟悉 OpenTelemetry 以進行可觀測性（Observability）管理。"
+        },
+        {
+          "children": [],
+          "text": "VPC SC & Policy Tags：具備 VPC 服務控制與策略標籤的安全實作經驗。"
+        },
+        {
+          "children": [],
+          "text": "平台技術："
+        },
+        {
+          "children": [],
+          "text": "容器化：對容器技術（Containers）有深入理解。"
+        },
+        {
+          "children": [],
+          "text": "CMEK：具備實作客戶管理加密金鑰以保障數據安全的經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備 Collibra 等數據治理工具的經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備建置數據存取 API 的經驗。"
+        },
+        {
+          "children": [],
+          "text": "曾參與開源專案貢獻。"
+        },
+        {
+          "children": [],
+          "text": "具備 Agile (敏捷開發) 環境下的工作經驗。"
+        }
+      ],
+      "text": "嗨～～哈囉～\n你是本公司要找的數據工程師高手嗎?\n就是你！別懷疑！！徵的就是你～\n本公司需要有在統一數據平台實務上2-3年以上開發經驗的你唷～\n此職缺的職務內容:\n• 數據流水線工程： 使用 Qlik CDC、GCP Cloud Composer (Airflow) 及 Confluent Cloud Kafka，為多樣化數據源設計、開發並維護強健的數據流水線。\n• 數據轉換與建模： 開發高效的 SQL 數據轉換邏輯，並在 BigQuery（湖倉一體架構，Lakehouse）內建立數據模型，針對分析及 AI/ML 使用情境進行優化。\n• 數據管理與架構： 在 GCP 中實作數據存儲與處理方案，遵循數據湖倉原則及 BigQuery PII（個人識別資訊）最佳實踐。\n• 支援 AI/ML 倡議： 建置數據流水線以支援 AI/ML 模型開發，包括基礎的模型原型製作。\n• 數據治理與品質： 實施數據品質檢查，並在我們的數據治理框架內貢獻數據血緣（Data Lineage）分析。\n• 平台監控與自動化： 使用 GCP Monitoring、Logging 及 Cloud Composer 實作數據平台監控與告警機制。\n• 基礎設施即代碼 (IaC) 與 DevOps： 利用 Terraform 和 GitHub Actions 進行基礎設施部署與 CI/CD。\n• 安全數據處理： 實施安全的數據處理實踐，並根據需求應用客戶管理加密金鑰 (CMEK)。\n• 作與溝通： 與全球跨部門團隊合作，有效地溝通平台更新資訊。\n此職缺的必備技能：\n1. 程式語言：\n• Python：精通 Python 以進行數據工程與自動化。\n• SQL：SQL 專家，特別是針對 BigQuery 和數據倉儲的應用。\n2. 雲端平台：\n• Google Cloud Platform (GCP)：具備 GCP 實務經驗，包含與地端數據中心（On-premises DC）的混合雲環境。\n3. 運算與託管：\n• GKE & GCE (RedHat)：具備 Google Kubernetes Engine (GKE) 與 Google Compute Engine (GCE - RedHat) 的經驗。\n• GCP Cloud Run & Cloud Functions：具備 GCP 無伺服器（Serverless）運算選項的經驗。\n4. 數據工具：\n• GCP Cloud Composer (Airflow)：具備 GCP Cloud Composer 的實務經驗。\n• BigQuery (Lakehouse)：具備 BigQuery 在數據倉儲與湖倉一體架構的豐富經驗。\n• BigQuery PII：具備處理 PII 數據及使用 BigQuery PII 安全功能的經驗。\n• Kafka 生態系統：對 Kafka 生態系統有紮實理解，包括 Confluent Cloud、Debezium 與 Qlik。\n5. DevOps / 基礎設施：\n• GCP 監控與日誌：精通 GCP Monitoring、Logging 及 Metrics 工具。\n• GitHub Actions：具備使用 GitHub Actions 進行 CI/CD 的經驗。\n• Terraform：精通 Terraform 以實作基礎設施即代碼。\n• OpenTelemetry：熟悉 OpenTelemetry 以進行可觀測性（Observability）管理。\n• VPC SC & Policy Tags：具備 VPC 服務控制與策略標籤的安全實作經驗。\n6. 平台技術：\n• 容器化：對容器技術（Containers）有深入理解。\n• CMEK：具備實作客戶管理加密金鑰以保障數據安全的經驗。\n加分條件:\n• 具備 Collibra 等數據治理工具的經驗。\n• 具備建置數據存取 API 的經驗。\n• 曾參與開源專案貢獻。\n• 具備 Agile (敏捷開發) 環境下的工作經驗。\n有這麼好的工作機會，可別錯過囉！\n趕快動一動你的手指頭，按下我要應徵/我要回覆的按鈕吧！\n若還有相關的資訊想了解？歡迎來電或是來信，又或是由本公司的人資主動與你聯繫唷～～"
+    },
+    "employment_type_raw": "全職",
+    "title": "數據工程師"
+  },
+  "location": {
+    "address_raw": "台北市信義區",
+    "raw": "台北市信義區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python",
+          "MS SQL",
+          "Cloud",
+          "Scrum",
+          "Git",
+          "Google Cloud",
+          "Github"
+        ],
+        "label": "擅長工具",
+        "text": "Python、MS SQL、Cloud、Scrum、Git、Google Cloud、Github"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "數據分析"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、數據分析"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "數據分析"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、MS SQL、Cloud、Scrum、Git、Google Cloud、Github\n工作技能：軟體工程系統開發、軟體程式設計、數據分析",
+    "tools": [
+      "Python",
+      "MS SQL",
+      "Cloud",
+      "Scrum",
+      "Git",
+      "Google Cloud",
+      "Github"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 34
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:46:11+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "嗨～～哈囉～\n你是本公司要找的數據工程師高手嗎?\n就是你！別懷疑！！徵的就是你～\n本公司需要有在統一數據平台實務上2-3年以上開發經驗的你唷～\n此職缺的職務內容:\n• 數據流水線工程： 使用 Qlik CDC、GCP Cloud Composer (Airflow) 及 Confluent Cloud Kafka，為多樣化數據源設計、開發並維護強健的數據流水線。\n• 數據轉換與建模： 開發高效的 SQL 數據轉換邏輯，並在 BigQuery（湖倉一體架構，Lakehouse）內建立數據模型，針對分析及 AI/ML 使用情境進行優化。\n• 數據管理與架構： 在 GCP 中實作數據存儲與處理方案，遵循數據湖倉原則及 BigQuery PII（個人識別資訊）最佳實踐。\n• 支援 AI/ML 倡議： 建置數據流水線以支援 AI/ML 模型開發，包括基礎的模型原型製作。\n• 數據治理與品質： 實施數據品質檢查，並在我們的數據治理框架內貢獻數據血緣（Data Lineage）分析。\n• 平台監控與自動化： 使用 GCP Monitoring、Logging 及 Cloud Composer 實作數據平台監控與告警機制。\n• 基礎設施即代碼 (IaC) 與 DevOps： 利用 Terraform 和 GitHub Actions 進行基礎設施部署與 CI/CD。\n• 安全數據處理： 實施安全的數據處理實踐，並根據需求應用客戶管理加密金鑰 (CMEK)。\n• 作與溝通： 與全球跨部門團隊合作，有效地溝通平台更新資訊。\n此職缺的必備技能：\n1. 程式語言：\n• Python：精通 Python 以進行數據工程與自動化。\n• SQL：SQL 專家，特別是針對 BigQuery 和數據倉儲的應用。\n2. 雲端平台：\n• Google Cloud Platform (GCP)：具備 GCP 實務經驗，包含與地端數據中心（On-premises DC）的混合雲環境。\n3. 運算與託管：\n• GKE & GCE (RedHat)：具備 Google Kubernetes Engine (GKE) 與 Google Compute Engine (GCE - RedHat) 的經驗。\n• GCP Cloud Run & Cloud Functions：具備 GCP 無伺服器（Serverless）運算選項的經驗。\n4. 數據工具：\n• GCP Cloud Composer (Airflow)：具備 GCP Cloud Composer 的實務經驗。\n• BigQuery (Lakehouse)：具備 BigQuery 在數據倉儲與湖倉一體架構的豐富經驗。\n• BigQuery PII：具備處理 PII 數據及使用 BigQuery PII 安全功能的經驗。\n• Kafka 生態系統：對 Kafka 生態系統有紮實理解，包括 Confluent Cloud、Debezium 與 Qlik。\n5. DevOps / 基礎設施：\n• GCP 監控與日誌：精通 GCP Monitoring、Logging 及 Metrics 工具。\n• GitHub Actions：具備使用 GitHub Actions 進行 CI/CD 的經驗。\n• Terraform：精通 Terraform 以實作基礎設施即代碼。\n• OpenTelemetry：熟悉 OpenTelemetry 以進行可觀測性（Observability）管理。\n• VPC SC & Policy Tags：具備 VPC 服務控制與策略標籤的安全實作經驗。\n6. 平台技術：\n• 容器化：對容器技術（Containers）有深入理解。\n• CMEK：具備實作客戶管理加密金鑰以保障數據安全的經驗。\n加分條件:\n• 具備 Collibra 等數據治理工具的經驗。\n• 具備建置數據存取 API 的經驗。\n• 曾參與開源專案貢獻。\n• 具備 Agile (敏捷開發) 環境下的工作經驗。\n有這麼好的工作機會，可別錯過囉！\n趕快動一動你的手指頭，按下我要應徵/我要回覆的按鈕吧！\n若還有相關的資訊想了解？歡迎來電或是來信，又或是由本公司的人資主動與你聯繫唷～～",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "嗨～～哈囉～\n你是本公司要找的數據工程師高手嗎?\n就是你！別懷疑！！徵的就是你～\n本公司需要有在統一數據平台實務上2-3年以上開發經驗的你唷～\n此職缺的職務內容:\n• 數據流水線工程： 使用 Qlik CDC、GCP Cloud Composer (Airflow) 及 Confluent Cloud Kafka，為多樣化數據源設計、開發並維護強健的數據流水線。\n• 數據轉換與建模： 開發高效的 SQL 數據轉換邏輯，並在 BigQuery（湖倉一體架構，Lakehouse）內建立數據模型，針對分析及 AI/ML 使用情境進行優化。\n• 數據管理與架構： 在 GCP 中實作數據存儲與處理方案，遵循數據湖倉原則及 BigQuery PII（個人識別資訊）最佳實踐。\n• 支援 AI/ML 倡議： 建置數據流水線以支援 AI/ML 模型開發，包括基礎的模型原型製作。\n• 數據治理與品質： 實施數據品質檢查，並在我們的數據治理框架內貢獻數據血緣（Data Lineage）分析。\n• 平台監控與自動化： 使用 GCP Monitoring、Logging 及 Cloud Composer 實作數據平台監控與告警機制。\n• 基礎設施即代碼 (IaC) 與 DevOps： 利用 Terraform 和 GitHub Actions 進行基礎設施部署與 CI/CD。\n• 安全數據處理： 實施安全的數據處理實踐，並根據需求應用客戶管理加密金鑰 (CMEK)。\n• 作與溝通： 與全球跨部門團隊合作，有效地溝通平台更新資訊。\n此職缺的必備技能：\n1. 程式語言：\n• Python：精通 Python 以進行數據工程與自動化。\n• SQL：SQL 專家，特別是針對 BigQuery 和數據倉儲的應用。\n2. 雲端平台：\n• Google Cloud Platform (GCP)：具備 GCP 實務經驗，包含與地端數據中心（On-premises DC）的混合雲環境。\n3. 運算與託管：\n• GKE & GCE (RedHat)：具備 Google Kubernetes Engine (GKE) 與 Google Compute Engine (GCE - RedHat) 的經驗。\n• GCP Cloud Run & Cloud Functions：具備 GCP 無伺服器（Serverless）運算選項的經驗。\n4. 數據工具：\n• GCP Cloud Composer (Airflow)：具備 GCP Cloud Composer 的實務經驗。\n• BigQuery (Lakehouse)：具備 BigQuery 在數據倉儲與湖倉一體架構的豐富經驗。\n• BigQuery PII：具備處理 PII 數據及使用 BigQuery PII 安全功能的經驗。\n• Kafka 生態系統：對 Kafka 生態系統有紮實理解，包括 Confluent Cloud、Debezium 與 Qlik。\n5. DevOps / 基礎設施：\n• GCP 監控與日誌：精通 GCP Monitoring、Logging 及 Metrics 工具。\n• GitHub Actions：具備使用 GitHub Actions 進行 CI/CD 的經驗。\n• Terraform：精通 Terraform 以實作基礎設施即代碼。\n• OpenTelemetry：熟悉 OpenTelemetry 以進行可觀測性（Observability）管理。\n• VPC SC & Policy Tags：具備 VPC 服務控制與策略標籤的安全實作經驗。\n6. 平台技術：\n• 容器化：對容器技術（Containers）有深入理解。\n• CMEK：具備實作客戶管理加密金鑰以保障數據安全的經驗。\n加分條件:\n• 具備 Collibra 等數據治理工具的經驗。\n• 具備建置數據存取 API 的經驗。\n• 曾參與開源專案貢獻。\n• 具備 Agile (敏捷開發) 環境下的工作經驗。\n有這麼好的工作機會，可別錯過囉！\n趕快動一動你的手指頭，按下我要應徵/我要回覆的按鈕吧！\n若還有相關的資訊想了解？歡迎來電或是來信，又或是由本公司的人資主動與你聯繫唷～～"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "MS SQL",
+            "Cloud",
+            "Scrum",
+            "Git",
+            "Google Cloud",
+            "Github"
+          ],
+          "label": "擅長工具",
+          "text": "Python、MS SQL、Cloud、Scrum、Git、Google Cloud、Github",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "數據分析"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、數據分析",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、MS SQL、Cloud、Scrum、Git、Google Cloud、Github\n工作技能：軟體工程系統開發、軟體程式設計、數據分析"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "913g3",
+    "job_url": "https://www.104.com.tw/job/913g3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/913g3.json",
+    "raw_sha256": "db34a06762bf9c23b78a2e919b74dd9ef343b073665fee49b282b28056a3fcc6",
+    "requested_url": "https://www.104.com.tw/api/jobs/913g3"
+  }
+}

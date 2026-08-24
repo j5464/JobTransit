@@ -1,0 +1,229 @@
+{
+  "company": {
+    "id": "1a2x6bksif",
+    "name": "智鈦星平台服務有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟韌體測試工程師",
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "撰寫測試案例並執行功能與回歸測試，主要針對前後端、database進行測試。"
+        },
+        {
+          "children": [],
+          "text": "與開發團隊及產品負責人緊密合作，快速理解需求規格。"
+        },
+        {
+          "children": [],
+          "text": "準備測試結果與進度報告，並回饋日常工作內容，根據測試過程與結果，提供改善建議。"
+        },
+        {
+          "children": [],
+          "text": "Bug管理提交與追蹤修正進度、有效率使用工具分類 Bug 優先級。"
+        },
+        {
+          "children": [],
+          "text": "確保測試案例涵蓋正負向測試與壓力測試、使用者測試、探索性測試。"
+        }
+      ],
+      "text": "1. 撰寫測試案例並執行功能與回歸測試，主要針對前後端、database進行測試。\n2. 與開發團隊及產品負責人緊密合作，快速理解需求規格。\n3. 準備測試結果與進度報告，並回饋日常工作內容，根據測試過程與結果，提供改善建議。\n4. Bug管理提交與追蹤修正進度、有效率使用工具分類 Bug 優先級。\n5. 確保測試案例涵蓋正負向測試與壓力測試、使用者測試、探索性測試。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【軟體測試工程師/資深工程師】 Quality Assurance Engineer jr./sr."
+  },
+  "location": {
+    "address_raw": "台北市信義區市民大道六段288號8樓之8",
+    "raw": "台北市信義區市民大道六段288號8樓之8"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "iOS",
+          "Android"
+        ],
+        "label": "擅長工具",
+        "text": "iOS、Android"
+      },
+      {
+        "items": [
+          "功能測試(function test)",
+          "安全性測試(Security test)",
+          "使用者測試(Usability test)",
+          "問題追蹤處理(Bug tracking)",
+          "軟體整合測試",
+          "測試環境建置規劃",
+          "測試計劃及測試報告書撰寫",
+          "軟體程式設計",
+          "網頁語法撰寫",
+          "壓力測試(stress test)"
+        ],
+        "label": "工作技能",
+        "text": "功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、測試環境建置規劃、測試計劃及測試報告書撰寫、軟體程式設計、網頁語法撰寫、壓力測試(stress test)"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具備三年以上 Android/iOS/Web 測試經驗佳，具備交易類 App（如股票、外匯、加密貨幣）測試經驗者優先。\n2. 擅長撰寫測試計畫、測試案例與測試報告，能夠有效分析問題點與快速理解功能需求。\n3. 態度積極主動，具備良好的問題解決能力、能夠獨立作業、並有團隊合作精神。\n4. 資訊科學或相關科系的文憑（大專或以上學歷）。\n5. 熟練使用 Postman 進行 REST API 測試，包含環境變數設定與API自動化測試腳本撰寫。\n6. 熟悉使用封包工具 charles proxy，能夠理解並讀懂 response。\n7. 熟悉 Python 程式語言，用於自動化測試腳本撰寫與資料處理。\n8. 使用過 Apache JMeter 進行壓力測試，包括腳本撰寫與結果分析。\n★加分項目：\n使用過 Appium 和 Selenium 進行 mobile handset與網頁自動化測試，有獨立建置自動化流程者。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 具備三年以上 Android/iOS/Web 測試經驗佳，具備交易類 App（如股票、外匯、加密貨幣）測試經驗者優先。\n2. 擅長撰寫測試計畫、測試案例與測試報告，能夠有效分析問題點與快速理解功能需求。\n3. 態度積極主動，具備良好的問題解決能力、能夠獨立作業、並有團隊合作精神。\n4. 資訊科學或相關科系的文憑（大專或以上學歷）。\n5. 熟練使用 Postman 進行 REST API 測試，包含環境變數設定與API自動化測試腳本撰寫。\n6. 熟悉使用封包工具 charles proxy，能夠理解並讀懂 response。\n7. 熟悉 Python 程式語言，用於自動化測試腳本撰寫與資料處理。\n8. 使用過 Apache JMeter 進行壓力測試，包括腳本撰寫與結果分析。\n★加分項目：\n使用過 Appium 和 Selenium 進行 mobile handset與網頁自動化測試，有獨立建置自動化流程者。",
+    "skills": [
+      "功能測試(function test)",
+      "安全性測試(Security test)",
+      "使用者測試(Usability test)",
+      "問題追蹤處理(Bug tracking)",
+      "軟體整合測試",
+      "測試環境建置規劃",
+      "測試計劃及測試報告書撰寫",
+      "軟體程式設計",
+      "網頁語法撰寫",
+      "壓力測試(stress test)"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：iOS、Android\n工作技能：功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、測試環境建置規劃、測試計劃及測試報告書撰寫、軟體程式設計、網頁語法撰寫、壓力測試(stress test)\n其他條件：1. 具備三年以上 Android/iOS/Web 測試經驗佳，具備交易類 App（如股票、外匯、加密貨幣）測試經驗者優先。\n2. 擅長撰寫測試計畫、測試案例與測試報告，能夠有效分析問題點與快速理解功能需求。\n3. 態度積極主動，具備良好的問題解決能力、能夠獨立作業、並有團隊合作精神。\n4. 資訊科學或相關科系的文憑（大專或以上學歷）。\n5. 熟練使用 Postman 進行 REST API 測試，包含環境變數設定與API自動化測試腳本撰寫。\n6. 熟悉使用封包工具 charles proxy，能夠理解並讀懂 response。\n7. 熟悉 Python 程式語言，用於自動化測試腳本撰寫與資料處理。\n8. 使用過 Apache JMeter 進行壓力測試，包括腳本撰寫與結果分析。\n★加分項目：\n使用過 Appium 和 Selenium 進行 mobile handset與網頁自動化測試，有獨立建置自動化流程者。",
+    "tools": [
+      "iOS",
+      "Android"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 33
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:43:54+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000~80,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 撰寫測試案例並執行功能與回歸測試，主要針對前後端、database進行測試。\n2. 與開發團隊及產品負責人緊密合作，快速理解需求規格。\n3. 準備測試結果與進度報告，並回饋日常工作內容，根據測試過程與結果，提供改善建議。\n4. Bug管理提交與追蹤修正進度、有效率使用工具分類 Bug 優先級。\n5. 確保測試案例涵蓋正負向測試與壓力測試、使用者測試、探索性測試。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟韌體測試工程師",
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟韌體測試工程師、軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000~80,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區市民大道六段288號8樓之8",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 撰寫測試案例並執行功能與回歸測試，主要針對前後端、database進行測試。\n2. 與開發團隊及產品負責人緊密合作，快速理解需求規格。\n3. 準備測試結果與進度報告，並回饋日常工作內容，根據測試過程與結果，提供改善建議。\n4. Bug管理提交與追蹤修正進度、有效率使用工具分類 Bug 優先級。\n5. 確保測試案例涵蓋正負向測試與壓力測試、使用者測試、探索性測試。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "iOS",
+            "Android"
+          ],
+          "label": "擅長工具",
+          "text": "iOS、Android",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "功能測試(function test)",
+            "安全性測試(Security test)",
+            "使用者測試(Usability test)",
+            "問題追蹤處理(Bug tracking)",
+            "軟體整合測試",
+            "測試環境建置規劃",
+            "測試計劃及測試報告書撰寫",
+            "軟體程式設計",
+            "網頁語法撰寫",
+            "壓力測試(stress test)"
+          ],
+          "label": "工作技能",
+          "text": "功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、測試環境建置規劃、測試計劃及測試報告書撰寫、軟體程式設計、網頁語法撰寫、壓力測試(stress test)",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具備三年以上 Android/iOS/Web 測試經驗佳，具備交易類 App（如股票、外匯、加密貨幣）測試經驗者優先。\n2. 擅長撰寫測試計畫、測試案例與測試報告，能夠有效分析問題點與快速理解功能需求。\n3. 態度積極主動，具備良好的問題解決能力、能夠獨立作業、並有團隊合作精神。\n4. 資訊科學或相關科系的文憑（大專或以上學歷）。\n5. 熟練使用 Postman 進行 REST API 測試，包含環境變數設定與API自動化測試腳本撰寫。\n6. 熟悉使用封包工具 charles proxy，能夠理解並讀懂 response。\n7. 熟悉 Python 程式語言，用於自動化測試腳本撰寫與資料處理。\n8. 使用過 Apache JMeter 進行壓力測試，包括腳本撰寫與結果分析。\n★加分項目：\n使用過 Appium 和 Selenium 進行 mobile handset與網頁自動化測試，有獨立建置自動化流程者。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：iOS、Android\n工作技能：功能測試(function test)、安全性測試(Security test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、測試環境建置規劃、測試計劃及測試報告書撰寫、軟體程式設計、網頁語法撰寫、壓力測試(stress test)\n其他條件：1. 具備三年以上 Android/iOS/Web 測試經驗佳，具備交易類 App（如股票、外匯、加密貨幣）測試經驗者優先。\n2. 擅長撰寫測試計畫、測試案例與測試報告，能夠有效分析問題點與快速理解功能需求。\n3. 態度積極主動，具備良好的問題解決能力、能夠獨立作業、並有團隊合作精神。\n4. 資訊科學或相關科系的文憑（大專或以上學歷）。\n5. 熟練使用 Postman 進行 REST API 測試，包含環境變數設定與API自動化測試腳本撰寫。\n6. 熟悉使用封包工具 charles proxy，能夠理解並讀懂 response。\n7. 熟悉 Python 程式語言，用於自動化測試腳本撰寫與資料處理。\n8. 使用過 Apache JMeter 進行壓力測試，包括腳本撰寫與結果分析。\n★加分項目：\n使用過 Appium 和 Selenium 進行 mobile handset與網頁自動化測試，有獨立建置自動化流程者。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "72f7l",
+    "job_url": "https://www.104.com.tw/job/72f7l",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/72f7l.json",
+    "raw_sha256": "769b2931515c00898f1126591e78580906532bb96f0e664481c98b1d06a17947",
+    "requested_url": "https://www.104.com.tw/api/jobs/72f7l"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "company": {
+    "id": "1a2x6bnnuj",
+    "name": "睿思軟體有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "軟體工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "非遠端工作*"
+        },
+        {
+          "children": [],
+          "text": "負責伺服器端項目，商務邏輯開發。"
+        },
+        {
+          "children": [],
+          "text": "撰寫單元測試、性能壓力測試等。"
+        },
+        {
+          "children": [],
+          "text": "配合團隊專案開發時程完成任務。"
+        },
+        {
+          "children": [],
+          "text": "對現有設計提出改善意見。"
+        },
+        {
+          "children": [],
+          "text": "兩年以上軟體開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Java 程式語言開發、JUnit使用經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備基本SQL語法使用。"
+        },
+        {
+          "children": [],
+          "text": "熟悉多人線上遊戲引擎開發為佳，具備大型、高負載系統設計、優化的經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備Git使用經驗。"
+        },
+        {
+          "children": [],
+          "text": "有閱讀官方技術文件的能力。"
+        }
+      ],
+      "text": "*非遠端工作*\n1. 負責伺服器端項目，商務邏輯開發。\n2. 撰寫單元測試、性能壓力測試等。\n3. 配合團隊專案開發時程完成任務。\n4. 對現有設計提出改善意見。\n【必要條件】\n1. 兩年以上軟體開發經驗。\n2. 熟悉 Java 程式語言開發、JUnit使用經驗。\n3. 具備基本SQL語法使用。\n4. 熟悉多人線上遊戲引擎開發為佳，具備大型、高負載系統設計、優化的經驗。\n5. 具備Git使用經驗。\n6. 有閱讀官方技術文件的能力。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java後端工程師(R)"
+  },
+  "location": {
+    "address_raw": "台中市西屯區惠中路",
+    "raw": "台中市西屯區惠中路"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "Java",
+          "Git"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Git"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分條件】\n1. 熟悉Web based應用開發、Client-Server開發經驗，熟悉HTTP、Socket等連線方式，Backend API開發。\n2. 有MVC架構開發及其他Design Pattern應用經驗者佳。\n3. 有SmartFoxServer或其他遊戲伺服器開發經驗者佳。\n4. 熟悉 Docker經驗者佳。\n5. 熟悉 CI/CD 流程、Jenkins經驗者佳。\n6. 有MongoDB 開發經驗者佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "【加分條件】\n1. 熟悉Web based應用開發、Client-Server開發經驗，熟悉HTTP、Socket等連線方式，Backend API開發。\n2. 有MVC架構開發及其他Design Pattern應用經驗者佳。\n3. 有SmartFoxServer或其他遊戲伺服器開發經驗者佳。\n4. 熟悉 Docker經驗者佳。\n5. 熟悉 CI/CD 流程、Jenkins經驗者佳。\n6. 有MongoDB 開發經驗者佳。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：Java、Git\n其他條件：【加分條件】\n1. 熟悉Web based應用開發、Client-Server開發經驗，熟悉HTTP、Socket等連線方式，Backend API開發。\n2. 有MVC架構開發及其他Design Pattern應用經驗者佳。\n3. 有SmartFoxServer或其他遊戲伺服器開發經驗者佳。\n4. 熟悉 Docker經驗者佳。\n5. 熟悉 CI/CD 流程、Jenkins經驗者佳。\n6. 有MongoDB 開發經驗者佳。",
+    "tools": [
+      "Java",
+      "Git"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 80
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:39:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "*非遠端工作*\n1. 負責伺服器端項目，商務邏輯開發。\n2. 撰寫單元測試、性能壓力測試等。\n3. 配合團隊專案開發時程完成任務。\n4. 對現有設計提出改善意見。\n【必要條件】\n1. 兩年以上軟體開發經驗。\n2. 熟悉 Java 程式語言開發、JUnit使用經驗。\n3. 具備基本SQL語法使用。\n4. 熟悉多人線上遊戲引擎開發為佳，具備大型、高負載系統設計、優化的經驗。\n5. 具備Git使用經驗。\n6. 有閱讀官方技術文件的能力。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "軟體工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、軟體工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區惠中路",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "*非遠端工作*\n1. 負責伺服器端項目，商務邏輯開發。\n2. 撰寫單元測試、性能壓力測試等。\n3. 配合團隊專案開發時程完成任務。\n4. 對現有設計提出改善意見。\n【必要條件】\n1. 兩年以上軟體開發經驗。\n2. 熟悉 Java 程式語言開發、JUnit使用經驗。\n3. 具備基本SQL語法使用。\n4. 熟悉多人線上遊戲引擎開發為佳，具備大型、高負載系統設計、優化的經驗。\n5. 具備Git使用經驗。\n6. 有閱讀官方技術文件的能力。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Git"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Git",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分條件】\n1. 熟悉Web based應用開發、Client-Server開發經驗，熟悉HTTP、Socket等連線方式，Backend API開發。\n2. 有MVC架構開發及其他Design Pattern應用經驗者佳。\n3. 有SmartFoxServer或其他遊戲伺服器開發經驗者佳。\n4. 熟悉 Docker經驗者佳。\n5. 熟悉 CI/CD 流程、Jenkins經驗者佳。\n6. 有MongoDB 開發經驗者佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：Java、Git\n其他條件：【加分條件】\n1. 熟悉Web based應用開發、Client-Server開發經驗，熟悉HTTP、Socket等連線方式，Backend API開發。\n2. 有MVC架構開發及其他Design Pattern應用經驗者佳。\n3. 有SmartFoxServer或其他遊戲伺服器開發經驗者佳。\n4. 熟悉 Docker經驗者佳。\n5. 熟悉 CI/CD 流程、Jenkins經驗者佳。\n6. 有MongoDB 開發經驗者佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "90grg",
+    "job_url": "https://www.104.com.tw/job/90grg",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90grg.json",
+    "raw_sha256": "f32d99ec483c219722b5c6352872ac608bc6a8d1d953f7981d6e3b978c707a53",
+    "requested_url": "https://www.104.com.tw/api/jobs/90grg"
+  }
+}

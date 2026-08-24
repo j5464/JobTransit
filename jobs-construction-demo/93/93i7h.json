@@ -1,0 +1,325 @@
+{
+  "company": {
+    "id": "bjvssxk",
+    "name": "億力資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "後端工程師",
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責 Camstar MES 系統開發、維護與功能優化"
+        },
+        {
+          "children": [],
+          "text": "參與 Camstar 與 SAP ERP 系統整合專案"
+        },
+        {
+          "children": [],
+          "text": "開發及維護 C#.NET Web Application"
+        },
+        {
+          "children": [],
+          "text": "與製造、IT及全球團隊合作分析需求並提供解決方案"
+        },
+        {
+          "children": [],
+          "text": "建立及維護系統介接(API、Middleware、MQ等)"
+        },
+        {
+          "children": [],
+          "text": "協助設備資料整合及製造流程系統整合"
+        },
+        {
+          "children": [],
+          "text": "學習並導入 RedCandy 平台相關技術"
+        },
+        {
+          "children": [],
+          "text": "支援新廠 MES 建置及跨廠專案"
+        },
+        {
+          "children": [],
+          "text": "依專案需求配合至福州廠出差"
+        },
+        {
+          "children": [],
+          "text": "熟悉 MES系統開發經驗、流程與架構"
+        },
+        {
+          "children": [],
+          "text": "精通 C#.NET、ASP.NET / Web Application Framework"
+        },
+        {
+          "children": [],
+          "text": "熟悉 API 設計及系統串接"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Interface Integration 介面集成開發"
+        },
+        {
+          "children": [],
+          "text": "Camstar MES 專案經驗"
+        },
+        {
+          "children": [],
+          "text": "SAP ERP Integration 經驗"
+        },
+        {
+          "children": [],
+          "text": "Middleware Integration 中介軟體集成經驗:"
+        },
+        {
+          "children": [],
+          "text": "MQ"
+        },
+        {
+          "children": [],
+          "text": "ActiveMQ (AMQ)"
+        },
+        {
+          "children": [],
+          "text": "Message Queue"
+        },
+        {
+          "children": [],
+          "text": "設備資料整合(Data Integration)"
+        },
+        {
+          "children": [],
+          "text": "Equipment Control Integration"
+        },
+        {
+          "children": [],
+          "text": "MFC 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "TOEIC 600+ preferred"
+        },
+        {
+          "children": [],
+          "text": "可與海外團隊進行會議及技術溝通"
+        }
+      ],
+      "text": "主要做Camstar 系統跟SAP ERP串接專案。\n工作內容:\n1.負責 Camstar MES 系統開發、維護與功能優化\n2.參與 Camstar 與 SAP ERP 系統整合專案\n3.開發及維護 C#.NET Web Application\n4.與製造、IT及全球團隊合作分析需求並提供解決方案\n5.建立及維護系統介接(API、Middleware、MQ等)\n6.協助設備資料整合及製造流程系統整合\n7.學習並導入 RedCandy 平台相關技術\n8.支援新廠 MES 建置及跨廠專案\n9.依專案需求配合至福州廠出差\n(建廠後期才出差，做系統測試，1年1-2次，1次約2-6週不等，視專案排程)\n<必備能力>:\n1.熟悉 MES系統開發經驗、流程與架構\n2.精通 C#.NET、ASP.NET / Web Application Framework\n3.熟悉 API 設計及系統串接\n4.熟悉 Interface Integration 介面集成開發\n<加分能力>:\n1.Camstar MES 專案經驗\n2.SAP ERP Integration 經驗\n3.Middleware Integration 中介軟體集成經驗:\n*MQ\n*ActiveMQ (AMQ)\n*Message Queue\n4.設備資料整合(Data Integration)\n5.Equipment Control Integration\n6.MFC 開發經驗\nRedCandy 平台使用或願意學習\n<語言能力>:\n*TOEIC 600+ preferred\n*可與海外團隊進行會議及技術溝通"
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior MES 軟體工程師 (Camstar)_(外商:台中/台南)"
+  },
+  "location": {
+    "address_raw": "台中市西屯區",
+    "raw": "台中市西屯區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "MS SQL",
+          "MySQL",
+          "HTML",
+          "JavaScript",
+          "MES"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、MS SQL、MySQL、HTML、JavaScript、MES"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "MES工廠執行系統規劃管理",
+          "設計導入製造執行系統（MES）"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、MES工廠執行系統規劃管理、設計導入製造執行系統（MES）"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "<個人特質>:\n1.具高度責任感 ，可執行3-5年長期計劃專案\n2.主動積極且樂於學習新技術\n3.良好的跨部門溝通能力\n4.良好的團隊合作精神\n5.能適應快速變動之專案環境\n6.可接受海外短期出差(大陸福州)"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "<個人特質>:\n1.具高度責任感 ，可執行3-5年長期計劃專案\n2.主動積極且樂於學習新技術\n3.良好的跨部門溝通能力\n4.良好的團隊合作精神\n5.能適應快速變動之專案環境\n6.可接受海外短期出差(大陸福州)",
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "MES工廠執行系統規劃管理",
+      "設計導入製造執行系統（MES）"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、C#、MS SQL、MySQL、HTML、JavaScript、MES\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、MES工廠執行系統規劃管理、設計導入製造執行系統（MES）\n其他條件：<個人特質>:\n1.具高度責任感 ，可執行3-5年長期計劃專案\n2.主動積極且樂於學習新技術\n3.良好的跨部門溝通能力\n4.良好的團隊合作精神\n5.能適應快速變動之專案環境\n6.可接受海外短期出差(大陸福州)",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "MS SQL",
+      "MySQL",
+      "HTML",
+      "JavaScript",
+      "MES"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 83
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:45:59+08:00"
+  },
+  "salary": {
+    "raw": "月薪70,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "主要做Camstar 系統跟SAP ERP串接專案。\n工作內容:\n1.負責 Camstar MES 系統開發、維護與功能優化\n2.參與 Camstar 與 SAP ERP 系統整合專案\n3.開發及維護 C#.NET Web Application\n4.與製造、IT及全球團隊合作分析需求並提供解決方案\n5.建立及維護系統介接(API、Middleware、MQ等)\n6.協助設備資料整合及製造流程系統整合\n7.學習並導入 RedCandy 平台相關技術\n8.支援新廠 MES 建置及跨廠專案\n9.依專案需求配合至福州廠出差\n(建廠後期才出差，做系統測試，1年1-2次，1次約2-6週不等，視專案排程)\n<必備能力>:\n1.熟悉 MES系統開發經驗、流程與架構\n2.精通 C#.NET、ASP.NET / Web Application Framework\n3.熟悉 API 設計及系統串接\n4.熟悉 Interface Integration 介面集成開發\n<加分能力>:\n1.Camstar MES 專案經驗\n2.SAP ERP Integration 經驗\n3.Middleware Integration 中介軟體集成經驗:\n*MQ\n*ActiveMQ (AMQ)\n*Message Queue\n4.設備資料整合(Data Integration)\n5.Equipment Control Integration\n6.MFC 開發經驗\nRedCandy 平台使用或願意學習\n<語言能力>:\n*TOEIC 600+ preferred\n*可與海外團隊進行會議及技術溝通",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "後端工程師",
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、後端工程師、系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪70,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "主要做Camstar 系統跟SAP ERP串接專案。\n工作內容:\n1.負責 Camstar MES 系統開發、維護與功能優化\n2.參與 Camstar 與 SAP ERP 系統整合專案\n3.開發及維護 C#.NET Web Application\n4.與製造、IT及全球團隊合作分析需求並提供解決方案\n5.建立及維護系統介接(API、Middleware、MQ等)\n6.協助設備資料整合及製造流程系統整合\n7.學習並導入 RedCandy 平台相關技術\n8.支援新廠 MES 建置及跨廠專案\n9.依專案需求配合至福州廠出差\n(建廠後期才出差，做系統測試，1年1-2次，1次約2-6週不等，視專案排程)\n<必備能力>:\n1.熟悉 MES系統開發經驗、流程與架構\n2.精通 C#.NET、ASP.NET / Web Application Framework\n3.熟悉 API 設計及系統串接\n4.熟悉 Interface Integration 介面集成開發\n<加分能力>:\n1.Camstar MES 專案經驗\n2.SAP ERP Integration 經驗\n3.Middleware Integration 中介軟體集成經驗:\n*MQ\n*ActiveMQ (AMQ)\n*Message Queue\n4.設備資料整合(Data Integration)\n5.Equipment Control Integration\n6.MFC 開發經驗\nRedCandy 平台使用或願意學習\n<語言能力>:\n*TOEIC 600+ preferred\n*可與海外團隊進行會議及技術溝通"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "MS SQL",
+            "MySQL",
+            "HTML",
+            "JavaScript",
+            "MES"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、MS SQL、MySQL、HTML、JavaScript、MES",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "MES工廠執行系統規劃管理",
+            "設計導入製造執行系統（MES）"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、MES工廠執行系統規劃管理、設計導入製造執行系統（MES）",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "<個人特質>:\n1.具高度責任感 ，可執行3-5年長期計劃專案\n2.主動積極且樂於學習新技術\n3.良好的跨部門溝通能力\n4.良好的團隊合作精神\n5.能適應快速變動之專案環境\n6.可接受海外短期出差(大陸福州)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、C#、MS SQL、MySQL、HTML、JavaScript、MES\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、MES工廠執行系統規劃管理、設計導入製造執行系統（MES）\n其他條件：<個人特質>:\n1.具高度責任感 ，可執行3-5年長期計劃專案\n2.主動積極且樂於學習新技術\n3.良好的跨部門溝通能力\n4.良好的團隊合作精神\n5.能適應快速變動之專案環境\n6.可接受海外短期出差(大陸福州)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "93i7h",
+    "job_url": "https://www.104.com.tw/job/93i7h",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93i7h.json",
+    "raw_sha256": "668bf8ea648dc419db9b90f178704b3bc13a92cc4dcdeb73732bb61a0ebf520a",
+    "requested_url": "https://www.104.com.tw/api/jobs/93i7h"
+  }
+}

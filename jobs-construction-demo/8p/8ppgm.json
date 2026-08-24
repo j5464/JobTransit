@@ -1,0 +1,178 @@
+{
+  "company": {
+    "id": "13qu7sqo",
+    "name": "永豐商業銀行股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "統計精算人員",
+      "軟體工程師",
+      "資料庫管理人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "分析零售存款與放款業務需求，產出數據洞察並支持經營決策"
+        },
+        {
+          "children": [],
+          "text": "負責法定報表申報、資料維護等相關作業"
+        },
+        {
+          "children": [],
+          "text": "開發與管理即時決策平台專案（含零售產品策略規則與行銷應用）"
+        },
+        {
+          "children": [],
+          "text": "導入新興技術與數據工具，持續優化業務流程與分析效率"
+        }
+      ],
+      "text": "1.分析零售存款與放款業務需求，產出數據洞察並支持經營決策\n2.負責法定報表申報、資料維護等相關作業\n3.開發與管理即時決策平台專案（含零售產品策略規則與行銷應用）\n4.導入新興技術與數據工具，持續優化業務流程與分析效率"
+    },
+    "employment_type_raw": "全職",
+    "title": "零售金融處-零售企劃部-零售商業分析人員"
+  },
+  "location": {
+    "address_raw": "台北市中山區",
+    "raw": "台北市中山區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉Office工具（Excel、PowerPoint）\n2.具備SQL與Python程式能力（或SAS、R等相關經驗）\n3.曾使用過Claude Code等GAI工具尤佳\n4.良好邏輯思考與數據分析能力"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1.熟悉Office工具（Excel、PowerPoint）\n2.具備SQL與Python程式能力（或SAS、R等相關經驗）\n3.曾使用過Claude Code等GAI工具尤佳\n4.良好邏輯思考與數據分析能力",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學\n語文條件：英文：中等、中等、中等、中等\n其他條件：1.熟悉Office工具（Excel、PowerPoint）\n2.具備SQL與Python程式能力（或SAS、R等相關經驗）\n3.曾使用過Claude Code等GAI工具尤佳\n4.良好邏輯思考與數據分析能力",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 62
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:56:04+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.分析零售存款與放款業務需求，產出數據洞察並支持經營決策\n2.負責法定報表申報、資料維護等相關作業\n3.開發與管理即時決策平台專案（含零售產品策略規則與行銷應用）\n4.導入新興技術與數據工具，持續優化業務流程與分析效率",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "統計精算人員",
+            "軟體工程師",
+            "資料庫管理人員"
+          ],
+          "label": "職務類別",
+          "text": "統計精算人員、軟體工程師、資料庫管理人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.分析零售存款與放款業務需求，產出數據洞察並支持經營決策\n2.負責法定報表申報、資料維護等相關作業\n3.開發與管理即時決策平台專案（含零售產品策略規則與行銷應用）\n4.導入新興技術與數據工具，持續優化業務流程與分析效率"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉Office工具（Excel、PowerPoint）\n2.具備SQL與Python程式能力（或SAS、R等相關經驗）\n3.曾使用過Claude Code等GAI工具尤佳\n4.良好邏輯思考與數據分析能力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n語文條件：英文：中等、中等、中等、中等\n其他條件：1.熟悉Office工具（Excel、PowerPoint）\n2.具備SQL與Python程式能力（或SAS、R等相關經驗）\n3.曾使用過Claude Code等GAI工具尤佳\n4.良好邏輯思考與數據分析能力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ppgm",
+    "job_url": "https://www.104.com.tw/job/8ppgm",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ppgm.json",
+    "raw_sha256": "a6a877fae25ac7f65f72dd00b8a8db8429de0b7221a1ae22e06acfb9a543d53d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ppgm"
+  }
+}

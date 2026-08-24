@@ -1,0 +1,224 @@
+{
+  "company": {
+    "id": "18rkf108",
+    "name": "威強電工業電腦股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "分析產品需求與相關硬體／通訊規格（Datasheet、Protocol Spec），產出可實作之技術規格。"
+        },
+        {
+          "children": [],
+          "text": "依系統規格進行韌體架構設計與程式開發(周邊控制/通訊協定/控制邏輯)，確保功能正確與可維護性。"
+        },
+        {
+          "children": [],
+          "text": "使用除錯工具設備分析韌體與硬體整合之異常，進行問題修正。"
+        },
+        {
+          "children": [],
+          "text": "執行功能、穩定度與壓力測試，確保韌體品質要求。"
+        },
+        {
+          "children": [],
+          "text": "進行韌體版本管理、問題修復與功能優化，支援量產與長期產品維護。"
+        },
+        {
+          "children": [],
+          "text": "了解 MCU 架構、記憶體配置與常見周邊的運作原理。"
+        },
+        {
+          "children": [],
+          "text": "理解 IPC 中 MCU 與 power、sensor 之間的互動關係。"
+        },
+        {
+          "children": [],
+          "text": "能以 C 語言撰寫穩定的韌體模組，並依需求設計中斷、狀態機或循環任務。"
+        },
+        {
+          "children": [],
+          "text": "能使用 debugger、logic analyzer 或 oscilloscope 進行除錯。"
+        },
+        {
+          "children": [],
+          "text": "願意持續學習新 MCU、通訊技術與工業標準。"
+        },
+        {
+          "children": [],
+          "text": "對量產問題負責，能持續追蹤直到解決 root cause 。"
+        }
+      ],
+      "text": "歡迎樂於學習以及分享的夥伴加入～ 無經驗可！應屆畢業生可！在威強電開啟你的軟體工程師職涯~邀請你加入我們，與我們一起工作、成長~\n【Job description工作內容】\n1. 分析產品需求與相關硬體／通訊規格（Datasheet、Protocol Spec），產出可實作之技術規格。\n2. 依系統規格進行韌體架構設計與程式開發(周邊控制/通訊協定/控制邏輯)，確保功能正確與可維護性。\n3. 使用除錯工具設備分析韌體與硬體整合之異常，進行問題修正。\n4. 執行功能、穩定度與壓力測試，確保韌體品質要求。\n5. 進行韌體版本管理、問題修復與功能優化，支援量產與長期產品維護。\n【加分條件】\n1.了解 MCU 架構、記憶體配置與常見周邊的運作原理。\n2.理解 IPC 中 MCU 與 power、sensor 之間的互動關係。\n3.能以 C 語言撰寫穩定的韌體模組，並依需求設計中斷、狀態機或循環任務。\n4.能使用 debugger、logic analyzer 或 oscilloscope 進行除錯。\n5.願意持續學習新 MCU、通訊技術與工業標準。\n6.對量產問題負責，能持續追蹤直到解決 root cause 。"
+    },
+    "employment_type_raw": "全職",
+    "title": "嵌入式軟體工程師（MCU）"
+  },
+  "location": {
+    "address_raw": "新北市汐止區中興路29號",
+    "raw": "新北市汐止區中興路29號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "2026career"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "2026career",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：2026career",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 13
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:54:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "歡迎樂於學習以及分享的夥伴加入～ 無經驗可！應屆畢業生可！在威強電開啟你的軟體工程師職涯~邀請你加入我們，與我們一起工作、成長~\n【Job description工作內容】\n1. 分析產品需求與相關硬體／通訊規格（Datasheet、Protocol Spec），產出可實作之技術規格。\n2. 依系統規格進行韌體架構設計與程式開發(周邊控制/通訊協定/控制邏輯)，確保功能正確與可維護性。\n3. 使用除錯工具設備分析韌體與硬體整合之異常，進行問題修正。\n4. 執行功能、穩定度與壓力測試，確保韌體品質要求。\n5. 進行韌體版本管理、問題修復與功能優化，支援量產與長期產品維護。\n【加分條件】\n1.了解 MCU 架構、記憶體配置與常見周邊的運作原理。\n2.理解 IPC 中 MCU 與 power、sensor 之間的互動關係。\n3.能以 C 語言撰寫穩定的韌體模組，並依需求設計中斷、狀態機或循環任務。\n4.能使用 debugger、logic analyzer 或 oscilloscope 進行除錯。\n5.願意持續學習新 MCU、通訊技術與工業標準。\n6.對量產問題負責，能持續追蹤直到解決 root cause 。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市汐止區中興路29號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "歡迎樂於學習以及分享的夥伴加入～ 無經驗可！應屆畢業生可！在威強電開啟你的軟體工程師職涯~邀請你加入我們，與我們一起工作、成長~\n【Job description工作內容】\n1. 分析產品需求與相關硬體／通訊規格（Datasheet、Protocol Spec），產出可實作之技術規格。\n2. 依系統規格進行韌體架構設計與程式開發(周邊控制/通訊協定/控制邏輯)，確保功能正確與可維護性。\n3. 使用除錯工具設備分析韌體與硬體整合之異常，進行問題修正。\n4. 執行功能、穩定度與壓力測試，確保韌體品質要求。\n5. 進行韌體版本管理、問題修復與功能優化，支援量產與長期產品維護。\n【加分條件】\n1.了解 MCU 架構、記憶體配置與常見周邊的運作原理。\n2.理解 IPC 中 MCU 與 power、sensor 之間的互動關係。\n3.能以 C 語言撰寫穩定的韌體模組，並依需求設計中斷、狀態機或循環任務。\n4.能使用 debugger、logic analyzer 或 oscilloscope 進行除錯。\n5.願意持續學習新 MCU、通訊技術與工業標準。\n6.對量產問題負責，能持續追蹤直到解決 root cause 。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "2026career",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：2026career"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8xfjo",
+    "job_url": "https://www.104.com.tw/job/8xfjo",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xfjo.json",
+    "raw_sha256": "92a2818be3a2608ace5d89075c694ad193c47a3f335d8001334659e08fe34c99",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xfjo"
+  }
+}

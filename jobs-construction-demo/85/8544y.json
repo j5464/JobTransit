@@ -1,0 +1,173 @@
+{
+  "company": {
+    "id": "10z7cuiw",
+    "name": "HUNG YANG SOFTWARE TECH. CO., LTD._鴻揚科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "軟體專案主管"
+    ],
+    "description": {
+      "items": [],
+      "text": "【技術顧問，運用技術達成專案開發】\n掌握並運用流行前後端技術、資料庫操作進行0到1專案開發\n前端 - JavaScript / HTML / CSS (有Vue/React/Angular框架經驗者佳)\n後端 - Java + Spring / Spring Boot\n資料庫 - MSSQL / MySQL / Oracle 其中一種關聯式資料庫運用\n【從ME到WE，攜手團隊協作】\n根據SA分析後的需求文件及SD提供之架構與共用模組進行全端網頁開發\n搭配前後端分離架構、版控及單元測試等工作流程\n主動確認需求方向並產出符合客戶需求及效能要求的專案程式碼\n【擔任Mentor，創造個人影響力】\n提供新進人員技術上建議與協助，整理過往開發累積的專業知識\n透過分享經驗，幫助新人快速融入團隊，並協助Code Review，幫助新人技術提升\n【雙向溝通】\n清晰理解專案內容並透過圖像或文字整理對焦\n除了接收需求外，能提出對於需求不合理或是更好的修改建議進行討論\n【問題解決】\n在面對程式問題時，展現獨立處理能力\n透過網路搜尋、AI工具及專家討論，迅速找尋最佳解決方案，成為團隊的技術支柱"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java Software Programmer：Java軟體工程師 (板橋府中辦公室)"
+  },
+  "location": {
+    "address_raw": "新北市板橋區中山路一段10號",
+    "raw": "新北市板橋區中山路一段10號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、數學及電算機科學學科類\n語文條件：英文：略懂、略懂、略懂、略懂",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 80
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:38:45+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【技術顧問，運用技術達成專案開發】\n掌握並運用流行前後端技術、資料庫操作進行0到1專案開發\n前端 - JavaScript / HTML / CSS (有Vue/React/Angular框架經驗者佳)\n後端 - Java + Spring / Spring Boot\n資料庫 - MSSQL / MySQL / Oracle 其中一種關聯式資料庫運用\n【從ME到WE，攜手團隊協作】\n根據SA分析後的需求文件及SD提供之架構與共用模組進行全端網頁開發\n搭配前後端分離架構、版控及單元測試等工作流程\n主動確認需求方向並產出符合客戶需求及效能要求的專案程式碼\n【擔任Mentor，創造個人影響力】\n提供新進人員技術上建議與協助，整理過往開發累積的專業知識\n透過分享經驗，幫助新人快速融入團隊，並協助Code Review，幫助新人技術提升\n【雙向溝通】\n清晰理解專案內容並透過圖像或文字整理對焦\n除了接收需求外，能提出對於需求不合理或是更好的修改建議進行討論\n【問題解決】\n在面對程式問題時，展現獨立處理能力\n透過網路搜尋、AI工具及專家討論，迅速找尋最佳解決方案，成為團隊的技術支柱",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "軟體專案主管"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、軟體專案主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區中山路一段10號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【技術顧問，運用技術達成專案開發】\n掌握並運用流行前後端技術、資料庫操作進行0到1專案開發\n前端 - JavaScript / HTML / CSS (有Vue/React/Angular框架經驗者佳)\n後端 - Java + Spring / Spring Boot\n資料庫 - MSSQL / MySQL / Oracle 其中一種關聯式資料庫運用\n【從ME到WE，攜手團隊協作】\n根據SA分析後的需求文件及SD提供之架構與共用模組進行全端網頁開發\n搭配前後端分離架構、版控及單元測試等工作流程\n主動確認需求方向並產出符合客戶需求及效能要求的專案程式碼\n【擔任Mentor，創造個人影響力】\n提供新進人員技術上建議與協助，整理過往開發累積的專業知識\n透過分享經驗，幫助新人快速融入團隊，並協助Code Review，幫助新人技術提升\n【雙向溝通】\n清晰理解專案內容並透過圖像或文字整理對焦\n除了接收需求外，能提出對於需求不合理或是更好的修改建議進行討論\n【問題解決】\n在面對程式問題時，展現獨立處理能力\n透過網路搜尋、AI工具及專家討論，迅速找尋最佳解決方案，成為團隊的技術支柱"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、數學及電算機科學學科類\n語文條件：英文：略懂、略懂、略懂、略懂"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8544y",
+    "job_url": "https://www.104.com.tw/job/8544y",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8544y.json",
+    "raw_sha256": "288514778bbbe526536415b3c368d8bbbb69262b736cf11bd290e21dc51b623f",
+    "requested_url": "https://www.104.com.tw/api/jobs/8544y"
+  }
+}

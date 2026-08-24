@@ -1,0 +1,237 @@
+{
+  "company": {
+    "id": "1a2x6bkxbm",
+    "name": "優式機器人股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師",
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "核心職責 (Key Responsibilities)"
+        },
+        {
+          "children": [],
+          "text": "跨平台 App 開發： 負責機器人 App (iOS/Android) 的功能開發與後續維護。"
+        },
+        {
+          "children": [],
+          "text": "連線與通訊： 處理雲端訊息交換(Restful API)，優化連線成功率。"
+        },
+        {
+          "children": [],
+          "text": "操作體驗： 優化地圖操控與視訊串流的反應速度。"
+        },
+        {
+          "children": [],
+          "text": "上架維護： 處理雙平台 App Store 上架流程。"
+        },
+        {
+          "children": [],
+          "text": "必備技能與加分項 (我們期待的夥伴)"
+        },
+        {
+          "children": [],
+          "text": "具備 React Native 實務開發與上架經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉藍牙、Websocket 等連線協議。"
+        },
+        {
+          "children": [],
+          "text": "加分項： 懂一點原生 iOS (Swift) 或 Android (Kotlin) 開發，能寫 Native Bridge。"
+        },
+        {
+          "children": [],
+          "text": "為什麼加入我們？ (您將獲得的成長與回報)"
+        },
+        {
+          "children": [],
+          "text": "產品已落地： 我們的機器人已經賣到美國、歐洲、日本，你做的功能是真實被世界使用的。"
+        },
+        {
+          "children": [],
+          "text": "扁平且技術導向： 沒有層層請示，工程師直接對產品負責。"
+        },
+        {
+          "children": [],
+          "text": "跨領域成長： 在這裡你可以接觸到從算法、底層到雲端的完整架構。"
+        }
+      ],
+      "text": "我們正在找一位熟悉 React Native 開發的夥伴。\n機器人 App 的難點在於手機、雲端與硬體之間複雜的連線與通訊邏輯。如果你對 React Native 駕輕就熟，且有處理雲端通訊協議的經驗，你就是我們要的人。\n- 核心職責 (Key Responsibilities)\n1. 跨平台 App 開發： 負責機器人 App (iOS/Android) 的功能開發與後續維護。\n2. 連線與通訊： 處理雲端訊息交換(Restful API)，優化連線成功率。\n3. 操作體驗： 優化地圖操控與視訊串流的反應速度。\n4. 上架維護： 處理雙平台 App Store 上架流程。\n- 必備技能與加分項 (我們期待的夥伴)\n1. 具備 React Native 實務開發與上架經驗。\n2. 熟悉藍牙、Websocket 等連線協議。\n3. 加分項： 懂一點原生 iOS (Swift) 或 Android (Kotlin) 開發，能寫 Native Bridge。\n- 為什麼加入我們？ (您將獲得的成長與回報)\n在這裡，您的專業能力將獲得最大化發揮，並獲得獨特的成長機會：\n1. 產品已落地： 我們的機器人已經賣到美國、歐洲、日本，你做的功能是真實被世界使用的。\n2. 扁平且技術導向： 沒有層層請示，工程師直接對產品負責。\n3. 跨領域成長： 在這裡你可以接觸到從算法、底層到雲端的完整架構。\nApp 工程師是產品面對客戶的第一線。我們需要一位能穩定產出、並且對使用者體驗有堅持的夥伴。如果你想挑戰軟硬整合的 App 開發，這裡有很棒的揮灑空間。"
+    },
+    "employment_type_raw": "全職",
+    "title": "App 開發工程師 Mobile App Engineer - React Native"
+  },
+  "location": {
+    "address_raw": "台北市內湖區新湖1路151號5樓",
+    "raw": "台北市內湖區新湖1路151號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中、專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中、專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、略懂"
+      },
+      {
+        "items": [
+          "ReactNative"
+        ],
+        "label": "擅長工具",
+        "text": "ReactNative"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、略懂"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：高中、專科、大學、碩士\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：ReactNative\n工作技能：軟體程式設計",
+    "tools": [
+      "ReactNative"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 76
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:28:27+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們正在找一位熟悉 React Native 開發的夥伴。\n機器人 App 的難點在於手機、雲端與硬體之間複雜的連線與通訊邏輯。如果你對 React Native 駕輕就熟，且有處理雲端通訊協議的經驗，你就是我們要的人。\n- 核心職責 (Key Responsibilities)\n1. 跨平台 App 開發： 負責機器人 App (iOS/Android) 的功能開發與後續維護。\n2. 連線與通訊： 處理雲端訊息交換(Restful API)，優化連線成功率。\n3. 操作體驗： 優化地圖操控與視訊串流的反應速度。\n4. 上架維護： 處理雙平台 App Store 上架流程。\n- 必備技能與加分項 (我們期待的夥伴)\n1. 具備 React Native 實務開發與上架經驗。\n2. 熟悉藍牙、Websocket 等連線協議。\n3. 加分項： 懂一點原生 iOS (Swift) 或 Android (Kotlin) 開發，能寫 Native Bridge。\n- 為什麼加入我們？ (您將獲得的成長與回報)\n在這裡，您的專業能力將獲得最大化發揮，並獲得獨特的成長機會：\n1. 產品已落地： 我們的機器人已經賣到美國、歐洲、日本，你做的功能是真實被世界使用的。\n2. 扁平且技術導向： 沒有層層請示，工程師直接對產品負責。\n3. 跨領域成長： 在這裡你可以接觸到從算法、底層到雲端的完整架構。\nApp 工程師是產品面對客戶的第一線。我們需要一位能穩定產出、並且對使用者體驗有堅持的夥伴。如果你想挑戰軟硬整合的 App 開發，這裡有很棒的揮灑空間。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師",
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師、系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區新湖1路151號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們正在找一位熟悉 React Native 開發的夥伴。\n機器人 App 的難點在於手機、雲端與硬體之間複雜的連線與通訊邏輯。如果你對 React Native 駕輕就熟，且有處理雲端通訊協議的經驗，你就是我們要的人。\n- 核心職責 (Key Responsibilities)\n1. 跨平台 App 開發： 負責機器人 App (iOS/Android) 的功能開發與後續維護。\n2. 連線與通訊： 處理雲端訊息交換(Restful API)，優化連線成功率。\n3. 操作體驗： 優化地圖操控與視訊串流的反應速度。\n4. 上架維護： 處理雙平台 App Store 上架流程。\n- 必備技能與加分項 (我們期待的夥伴)\n1. 具備 React Native 實務開發與上架經驗。\n2. 熟悉藍牙、Websocket 等連線協議。\n3. 加分項： 懂一點原生 iOS (Swift) 或 Android (Kotlin) 開發，能寫 Native Bridge。\n- 為什麼加入我們？ (您將獲得的成長與回報)\n在這裡，您的專業能力將獲得最大化發揮，並獲得獨特的成長機會：\n1. 產品已落地： 我們的機器人已經賣到美國、歐洲、日本，你做的功能是真實被世界使用的。\n2. 扁平且技術導向： 沒有層層請示，工程師直接對產品負責。\n3. 跨領域成長： 在這裡你可以接觸到從算法、底層到雲端的完整架構。\nApp 工程師是產品面對客戶的第一線。我們需要一位能穩定產出、並且對使用者體驗有堅持的夥伴。如果你想挑戰軟硬整合的 App 開發，這裡有很棒的揮灑空間。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中、專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ReactNative"
+          ],
+          "label": "擅長工具",
+          "text": "ReactNative",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：高中、專科、大學、碩士\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：ReactNative\n工作技能：軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8y897",
+    "job_url": "https://www.104.com.tw/job/8y897",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8y897.json",
+    "raw_sha256": "25967a0c17e6f78d33afb58f75ca84c0f4a8632183f001dacc15a8affca78b81",
+    "requested_url": "https://www.104.com.tw/api/jobs/8y897"
+  }
+}

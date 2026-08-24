@@ -1,0 +1,182 @@
+{
+  "company": {
+    "id": "fagha6g",
+    "name": "華城電機股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "能源銷售與管理平台相關前後端系統建置、維護、優化"
+        },
+        {
+          "children": [],
+          "text": "網路架構以及資訊安全"
+        },
+        {
+          "children": [],
+          "text": "問題排除，獨立進行debug及解決問題"
+        },
+        {
+          "children": [],
+          "text": "技術文檔，撰寫和維護相關技術文檔，確保知識的有效傳遞和技術分享"
+        },
+        {
+          "children": [],
+          "text": "UI/UX設計及建置"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項"
+        }
+      ],
+      "text": "1. 能源銷售與管理平台相關前後端系統建置、維護、優化\n2. 網路架構以及資訊安全\n3. 問題排除，獨立進行debug及解決問題\n4. 技術文檔，撰寫和維護相關技術文檔，確保知識的有效傳遞和技術分享\n5. UI/UX設計及建置\n6. 主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "全端工程師(南港)"
+  },
+  "location": {
+    "address_raw": "台北市南港區三重路66號11樓",
+    "raw": "台北市南港區三重路66號11樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "擅長溝通協調\n活潑開朗,嚴謹,有創造力,具企圖心"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "擅長溝通協調\n活潑開朗,嚴謹,有創造力,具企圖心",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n其他條件：擅長溝通協調\n活潑開朗,嚴謹,有創造力,具企圖心",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 85
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:52:23+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 能源銷售與管理平台相關前後端系統建置、維護、優化\n2. 網路架構以及資訊安全\n3. 問題排除，獨立進行debug及解決問題\n4. 技術文檔，撰寫和維護相關技術文檔，確保知識的有效傳遞和技術分享\n5. UI/UX設計及建置\n6. 主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區三重路66號11樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 能源銷售與管理平台相關前後端系統建置、維護、優化\n2. 網路架構以及資訊安全\n3. 問題排除，獨立進行debug及解決問題\n4. 技術文檔，撰寫和維護相關技術文檔，確保知識的有效傳遞和技術分享\n5. UI/UX設計及建置\n6. 主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "擅長溝通協調\n活潑開朗,嚴謹,有創造力,具企圖心",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n其他條件：擅長溝通協調\n活潑開朗,嚴謹,有創造力,具企圖心"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8rkvj",
+    "job_url": "https://www.104.com.tw/job/8rkvj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8rkvj.json",
+    "raw_sha256": "ad839e690abfa3a5816306d5fd29a874766dd7f3c442f0e6844c91a1c4c254d7",
+    "requested_url": "https://www.104.com.tw/api/jobs/8rkvj"
+  }
+}

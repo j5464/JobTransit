@@ -1,0 +1,296 @@
+{
+  "company": {
+    "id": "18n3g2y8",
+    "name": "布魯克斯自動化股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師",
+      "自動控制工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "***Responsibilities****"
+        },
+        {
+          "children": [],
+          "text": "Adaptation and further development of image processing algorithms for inspection systems with camera technology (GigE Vision interface), sensors, optics, and lighting"
+        },
+        {
+          "children": [],
+          "text": "Determine required components for our clients` visual inspection systems (camera, lighting, lens)"
+        },
+        {
+          "children": [],
+          "text": "Integration, commissioning, and functional testing of the inspection systems"
+        },
+        {
+          "children": [],
+          "text": "Prepare feasibility analysis for new samples / requirements of the customer"
+        },
+        {
+          "children": [],
+          "text": "Development of image processing algorithms with Halcon for FOUP inspection systems"
+        },
+        {
+          "children": [],
+          "text": "Work at the tool for camera / illumination tests and adjustments, as well as work with the other teams, to be able to find appropriate solutions to solve tasks and problems."
+        },
+        {
+          "children": [],
+          "text": "Occasional trips to customer sites, for tools installation or onsite troubleshooting."
+        }
+      ],
+      "text": "****Responsibilities****\n• Adaptation and further development of image processing algorithms for inspection systems with camera technology (GigE Vision interface), sensors, optics, and lighting\n• Determine required components for our clients` visual inspection systems (camera, lighting, lens)\n• Integration, commissioning, and functional testing of the inspection systems\n• Prepare feasibility analysis for new samples / requirements of the customer\n• Development of image processing algorithms with Halcon for FOUP inspection systems\n• Work at the tool for camera / illumination tests and adjustments, as well as work with the other teams, to be able to find appropriate solutions to solve tasks and problems.\n• Occasional trips to customer sites, for tools installation or onsite troubleshooting."
+    },
+    "employment_type_raw": "全職",
+    "title": "R9427 Vision Algorithm Software Engineer (新竹)(Replacement)"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市台元街32號5樓之5",
+    "raw": "新竹縣竹北市台元街32號5樓之5"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、工程學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python",
+          "OpenCV",
+          "Visual Studio",
+          "PyTorch",
+          "Visual C#",
+          "C++",
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "Python、OpenCV、Visual Studio、PyTorch、Visual C#、C++、C#"
+      },
+      {
+        "items": [
+          "系統整合分析",
+          "軟體程式設計",
+          "模組化系統設計",
+          "流程圖軟體操作",
+          "Machine Learning",
+          "演算法設計",
+          "功能測試(function test)",
+          "軟體整合測試",
+          "問題追蹤處理(Bug tracking)",
+          "機器學習演算法",
+          "影像辨識"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析、軟體程式設計、模組化系統設計、流程圖軟體操作、Machine Learning、演算法設計、功能測試(function test)、軟體整合測試、問題追蹤處理(Bug tracking)、機器學習演算法、影像辨識"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "* Hands-on experience with HALCON development is required."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "數學及電算機科學學科類",
+      "工程學科類"
+    ],
+    "other_text": "* Hands-on experience with HALCON development is required.",
+    "skills": [
+      "系統整合分析",
+      "軟體程式設計",
+      "模組化系統設計",
+      "流程圖軟體操作",
+      "Machine Learning",
+      "演算法設計",
+      "功能測試(function test)",
+      "軟體整合測試",
+      "問題追蹤處理(Bug tracking)",
+      "機器學習演算法",
+      "影像辨識"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、工程學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、OpenCV、Visual Studio、PyTorch、Visual C#、C++、C#\n工作技能：系統整合分析、軟體程式設計、模組化系統設計、流程圖軟體操作、Machine Learning、演算法設計、功能測試(function test)、軟體整合測試、問題追蹤處理(Bug tracking)、機器學習演算法、影像辨識\n其他條件：* Hands-on experience with HALCON development is required.",
+    "tools": [
+      "Python",
+      "OpenCV",
+      "Visual Studio",
+      "PyTorch",
+      "Visual C#",
+      "C++",
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 49
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:22:07+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "****Responsibilities****\n• Adaptation and further development of image processing algorithms for inspection systems with camera technology (GigE Vision interface), sensors, optics, and lighting\n• Determine required components for our clients` visual inspection systems (camera, lighting, lens)\n• Integration, commissioning, and functional testing of the inspection systems\n• Prepare feasibility analysis for new samples / requirements of the customer\n• Development of image processing algorithms with Halcon for FOUP inspection systems\n• Work at the tool for camera / illumination tests and adjustments, as well as work with the other teams, to be able to find appropriate solutions to solve tasks and problems.\n• Occasional trips to customer sites, for tools installation or onsite troubleshooting.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師",
+            "自動控制工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師、自動控制工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市台元街32號5樓之5",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "****Responsibilities****\n• Adaptation and further development of image processing algorithms for inspection systems with camera technology (GigE Vision interface), sensors, optics, and lighting\n• Determine required components for our clients` visual inspection systems (camera, lighting, lens)\n• Integration, commissioning, and functional testing of the inspection systems\n• Prepare feasibility analysis for new samples / requirements of the customer\n• Development of image processing algorithms with Halcon for FOUP inspection systems\n• Work at the tool for camera / illumination tests and adjustments, as well as work with the other teams, to be able to find appropriate solutions to solve tasks and problems.\n• Occasional trips to customer sites, for tools installation or onsite troubleshooting."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "OpenCV",
+            "Visual Studio",
+            "PyTorch",
+            "Visual C#",
+            "C++",
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "Python、OpenCV、Visual Studio、PyTorch、Visual C#、C++、C#",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析",
+            "軟體程式設計",
+            "模組化系統設計",
+            "流程圖軟體操作",
+            "Machine Learning",
+            "演算法設計",
+            "功能測試(function test)",
+            "軟體整合測試",
+            "問題追蹤處理(Bug tracking)",
+            "機器學習演算法",
+            "影像辨識"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析、軟體程式設計、模組化系統設計、流程圖軟體操作、Machine Learning、演算法設計、功能測試(function test)、軟體整合測試、問題追蹤處理(Bug tracking)、機器學習演算法、影像辨識",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "* Hands-on experience with HALCON development is required.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、工程學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、OpenCV、Visual Studio、PyTorch、Visual C#、C++、C#\n工作技能：系統整合分析、軟體程式設計、模組化系統設計、流程圖軟體操作、Machine Learning、演算法設計、功能測試(function test)、軟體整合測試、問題追蹤處理(Bug tracking)、機器學習演算法、影像辨識\n其他條件：* Hands-on experience with HALCON development is required."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94id3",
+    "job_url": "https://www.104.com.tw/job/94id3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94id3.json",
+    "raw_sha256": "6f166793e8596c91282ad147cb3723e3a45210962226fff4985e8aa2e1ebd81d",
+    "requested_url": "https://www.104.com.tw/api/jobs/94id3"
+  }
+}

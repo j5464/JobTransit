@@ -1,0 +1,201 @@
+{
+  "company": {
+    "id": "13vfcb20",
+    "name": "廣聯科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "網路管理工程師",
+      "通訊軟體工程師",
+      "電信／通訊系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "網路技術Ethernet、TCP/IP、PoE支持、產品應用以及客戶服務。"
+        },
+        {
+          "children": [],
+          "text": "為客戶提供有關網路測試儀器的技術支持與應用指導。"
+        },
+        {
+          "children": [],
+          "text": "配合銷售團隊，向客戶進行產品功能演示與技術說明。"
+        },
+        {
+          "children": [],
+          "text": "協助客戶安裝、配置、測試和故障排除。"
+        }
+      ],
+      "text": "1. 網路技術Ethernet、TCP/IP、PoE支持、產品應用以及客戶服務。\n2. 為客戶提供有關網路測試儀器的技術支持與應用指導。\n3. 配合銷售團隊，向客戶進行產品功能演示與技術說明。\n4. 協助客戶安裝、配置、測試和故障排除。"
+    },
+    "employment_type_raw": "全職",
+    "title": "網路應用工程師"
+  },
+  "location": {
+    "address_raw": "新北市汐止區新台五路一段104號18樓(東方科學園區B棟)",
+    "raw": "新北市汐止區新台五路一段104號18樓(東方科學園區B棟)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "具TCP/ IP/ Networking或電子學或資訊安全概念佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "具TCP/ IP/ Networking或電子學或資訊安全概念佳",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、資訊管理相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：具TCP/ IP/ Networking或電子學或資訊安全概念佳",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 10
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:45:56+08:00"
+  },
+  "salary": {
+    "raw": "月薪32,000~55,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 網路技術Ethernet、TCP/IP、PoE支持、產品應用以及客戶服務。\n2. 為客戶提供有關網路測試儀器的技術支持與應用指導。\n3. 配合銷售團隊，向客戶進行產品功能演示與技術說明。\n4. 協助客戶安裝、配置、測試和故障排除。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "網路管理工程師",
+            "通訊軟體工程師",
+            "電信／通訊系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "網路管理工程師、通訊軟體工程師、電信／通訊系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪32,000~55,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市汐止區新台五路一段104號18樓(東方科學園區B棟)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 網路技術Ethernet、TCP/IP、PoE支持、產品應用以及客戶服務。\n2. 為客戶提供有關網路測試儀器的技術支持與應用指導。\n3. 配合銷售團隊，向客戶進行產品功能演示與技術說明。\n4. 協助客戶安裝、配置、測試和故障排除。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "具TCP/ IP/ Networking或電子學或資訊安全概念佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、資訊管理相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：具TCP/ IP/ Networking或電子學或資訊安全概念佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "rhsk",
+    "job_url": "https://www.104.com.tw/job/rhsk",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/rhsk.json",
+    "raw_sha256": "60012205d3ca8c4aac54585c9dbea5a6a751d434382af7e79cbef5b572799fb2",
+    "requested_url": "https://www.104.com.tw/api/jobs/rhsk"
+  }
+}

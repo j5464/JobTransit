@@ -1,0 +1,246 @@
+{
+  "company": {
+    "id": "1a2x6bnpb0",
+    "name": "立視科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "後台管理系統程式設計"
+        },
+        {
+          "children": [],
+          "text": "MySQL 資料庫相關程式設計"
+        },
+        {
+          "children": [],
+          "text": "API 介接與開發"
+        },
+        {
+          "children": [],
+          "text": "後台管理介面開發"
+        }
+      ],
+      "text": "1. 後台管理系統程式設計\n2. MySQL 資料庫相關程式設計\n3. API 介接與開發\n4. 後台管理介面開發\n主要程式語言：PHP（有 php framework 經驗如 Lavavel 者加分）\n次要程式語言：Javascript, JQuery, CSS3, Vue.js\n資料庫：MySQL（MariaDB）\nhtml 框架：Bootstrap"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師 (Software Engineer / PHP developer)"
+  },
+  "location": {
+    "address_raw": "台北市松山區八德路四段760號6樓",
+    "raw": "台北市松山區八德路四段760號6樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、略懂"
+      },
+      {
+        "items": [
+          "Linux",
+          "Git",
+          "PHP",
+          "MySQL",
+          "DHTML",
+          "HTML",
+          "JavaScript",
+          "HTTP"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Git、PHP、MySQL、DHTML、HTML、JavaScript、HTTP"
+      },
+      {
+        "items": [
+          "系統維護操作",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "韌體程式設計",
+          "資料庫程式設計",
+          "系統架構規劃與維護"
+        ],
+        "label": "工作技能",
+        "text": "系統維護操作、軟體工程系統開發、軟體程式設計、韌體程式設計、資料庫程式設計、系統架構規劃與維護"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "希望具備下列條件:\n1. 具備 PHP 語言開發能力\n2. 熟悉 JavaScript 及 CSS\n3. 懂關連式資料庫, 並可根據需求設計Schema和維護資料庫\n4. 熟悉前端模版 Bootstrap, Laravel framework 尤佳\n5. Linux 基本操作\n6. 有接觸過財物或報表相關系統尤佳\n7. 細心，積極樂觀的態度, 善於溝通, 團隊精神\n加分項目(非必需):\n1. 有廣告系統相關經驗\n2. NoSQL Database 相關經驗\n3. Google BigQuery 相關經驗\n4. vue.js 開發相關經驗\n5. 後台操作介面設計相關經驗\n6. 英文說寫中上"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、略懂"
+    ],
+    "majors": [],
+    "other_text": "希望具備下列條件:\n1. 具備 PHP 語言開發能力\n2. 熟悉 JavaScript 及 CSS\n3. 懂關連式資料庫, 並可根據需求設計Schema和維護資料庫\n4. 熟悉前端模版 Bootstrap, Laravel framework 尤佳\n5. Linux 基本操作\n6. 有接觸過財物或報表相關系統尤佳\n7. 細心，積極樂觀的態度, 善於溝通, 團隊精神\n加分項目(非必需):\n1. 有廣告系統相關經驗\n2. NoSQL Database 相關經驗\n3. Google BigQuery 相關經驗\n4. vue.js 開發相關經驗\n5. 後台操作介面設計相關經驗\n6. 英文說寫中上",
+    "skills": [
+      "系統維護操作",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "韌體程式設計",
+      "資料庫程式設計",
+      "系統架構規劃與維護"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：Linux、Git、PHP、MySQL、DHTML、HTML、JavaScript、HTTP\n工作技能：系統維護操作、軟體工程系統開發、軟體程式設計、韌體程式設計、資料庫程式設計、系統架構規劃與維護\n其他條件：希望具備下列條件:\n1. 具備 PHP 語言開發能力\n2. 熟悉 JavaScript 及 CSS\n3. 懂關連式資料庫, 並可根據需求設計Schema和維護資料庫\n4. 熟悉前端模版 Bootstrap, Laravel framework 尤佳\n5. Linux 基本操作\n6. 有接觸過財物或報表相關系統尤佳\n7. 細心，積極樂觀的態度, 善於溝通, 團隊精神\n加分項目(非必需):\n1. 有廣告系統相關經驗\n2. NoSQL Database 相關經驗\n3. Google BigQuery 相關經驗\n4. vue.js 開發相關經驗\n5. 後台操作介面設計相關經驗\n6. 英文說寫中上",
+    "tools": [
+      "Linux",
+      "Git",
+      "PHP",
+      "MySQL",
+      "DHTML",
+      "HTML",
+      "JavaScript",
+      "HTTP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 8
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:41:11+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000~80,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 後台管理系統程式設計\n2. MySQL 資料庫相關程式設計\n3. API 介接與開發\n4. 後台管理介面開發\n主要程式語言：PHP（有 php framework 經驗如 Lavavel 者加分）\n次要程式語言：Javascript, JQuery, CSS3, Vue.js\n資料庫：MySQL（MariaDB）\nhtml 框架：Bootstrap",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000~80,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區八德路四段760號6樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 後台管理系統程式設計\n2. MySQL 資料庫相關程式設計\n3. API 介接與開發\n4. 後台管理介面開發\n主要程式語言：PHP（有 php framework 經驗如 Lavavel 者加分）\n次要程式語言：Javascript, JQuery, CSS3, Vue.js\n資料庫：MySQL（MariaDB）\nhtml 框架：Bootstrap"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Git",
+            "PHP",
+            "MySQL",
+            "DHTML",
+            "HTML",
+            "JavaScript",
+            "HTTP"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Git、PHP、MySQL、DHTML、HTML、JavaScript、HTTP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統維護操作",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "韌體程式設計",
+            "資料庫程式設計",
+            "系統架構規劃與維護"
+          ],
+          "label": "工作技能",
+          "text": "系統維護操作、軟體工程系統開發、軟體程式設計、韌體程式設計、資料庫程式設計、系統架構規劃與維護",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "希望具備下列條件:\n1. 具備 PHP 語言開發能力\n2. 熟悉 JavaScript 及 CSS\n3. 懂關連式資料庫, 並可根據需求設計Schema和維護資料庫\n4. 熟悉前端模版 Bootstrap, Laravel framework 尤佳\n5. Linux 基本操作\n6. 有接觸過財物或報表相關系統尤佳\n7. 細心，積極樂觀的態度, 善於溝通, 團隊精神\n加分項目(非必需):\n1. 有廣告系統相關經驗\n2. NoSQL Database 相關經驗\n3. Google BigQuery 相關經驗\n4. vue.js 開發相關經驗\n5. 後台操作介面設計相關經驗\n6. 英文說寫中上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：Linux、Git、PHP、MySQL、DHTML、HTML、JavaScript、HTTP\n工作技能：系統維護操作、軟體工程系統開發、軟體程式設計、韌體程式設計、資料庫程式設計、系統架構規劃與維護\n其他條件：希望具備下列條件:\n1. 具備 PHP 語言開發能力\n2. 熟悉 JavaScript 及 CSS\n3. 懂關連式資料庫, 並可根據需求設計Schema和維護資料庫\n4. 熟悉前端模版 Bootstrap, Laravel framework 尤佳\n5. Linux 基本操作\n6. 有接觸過財物或報表相關系統尤佳\n7. 細心，積極樂觀的態度, 善於溝通, 團隊精神\n加分項目(非必需):\n1. 有廣告系統相關經驗\n2. NoSQL Database 相關經驗\n3. Google BigQuery 相關經驗\n4. vue.js 開發相關經驗\n5. 後台操作介面設計相關經驗\n6. 英文說寫中上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8zz6v",
+    "job_url": "https://www.104.com.tw/job/8zz6v",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8zz6v.json",
+    "raw_sha256": "328543a3c698cc1675f7badd7c6e06fd394b9924f261ef85e35700124f456915",
+    "requested_url": "https://www.104.com.tw/api/jobs/8zz6v"
+  }
+}

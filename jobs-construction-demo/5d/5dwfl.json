@@ -1,0 +1,206 @@
+{
+  "company": {
+    "id": "7e01nk0",
+    "name": "振曜科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉網頁版面規劃、套版、特效互動設計與平面設計"
+        },
+        {
+          "children": [],
+          "text": "與UI/UX Designers及後端工程師協作開發Web系統介面"
+        },
+        {
+          "children": [],
+          "text": "熟悉前端建置與佈署，WEB API開發或串接。"
+        },
+        {
+          "children": [],
+          "text": "負責網站前後端開發，優化用戶端功能設計。"
+        },
+        {
+          "children": [],
+          "text": "熟Python 。"
+        },
+        {
+          "children": [],
+          "text": "熟Mongo DB, MSSQL或MySQL。"
+        },
+        {
+          "children": [],
+          "text": "有手機/平板的 Web 開發經驗。"
+        }
+      ],
+      "text": "1. 熟悉網頁版面規劃、套版、特效互動設計與平面設計\n2. 與UI/UX Designers及後端工程師協作開發Web系統介面\n3. 熟悉前端建置與佈署，WEB API開發或串接。\n4. 負責網站前後端開發，優化用戶端功能設計。\n5. 熟Python 。\n6. 熟Mongo DB, MSSQL或MySQL。\n7. 有手機/平板的 Web 開發經驗。"
+    },
+    "employment_type_raw": "全職",
+    "title": "(新北)全端工程師"
+  },
+  "location": {
+    "address_raw": "新北市中和區板南路661號17樓",
+    "raw": "新北市中和區板南路661號17樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "- 熟悉 HTML5 / CSS / Javascript\n- 具備RWD (Responsive-Web-Design)、Mobile 網站開發能力\n- 具備 Git 版本控制使用經驗尤佳。\n- 具備Restful API 串接經驗者尤佳。\n- 具備前端框架 Vue尤佳。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "- 熟悉 HTML5 / CSS / Javascript\n- 具備RWD (Responsive-Web-Design)、Mobile 網站開發能力\n- 具備 Git 版本控制使用經驗尤佳。\n- 具備Restful API 串接經驗者尤佳。\n- 具備前端框架 Vue尤佳。",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：- 熟悉 HTML5 / CSS / Javascript\n- 具備RWD (Responsive-Web-Design)、Mobile 網站開發能力\n- 具備 Git 版本控制使用經驗尤佳。\n- 具備Restful API 串接經驗者尤佳。\n- 具備前端框架 Vue尤佳。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 26
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:27:13+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 熟悉網頁版面規劃、套版、特效互動設計與平面設計\n2. 與UI/UX Designers及後端工程師協作開發Web系統介面\n3. 熟悉前端建置與佈署，WEB API開發或串接。\n4. 負責網站前後端開發，優化用戶端功能設計。\n5. 熟Python 。\n6. 熟Mongo DB, MSSQL或MySQL。\n7. 有手機/平板的 Web 開發經驗。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區板南路661號17樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 熟悉網頁版面規劃、套版、特效互動設計與平面設計\n2. 與UI/UX Designers及後端工程師協作開發Web系統介面\n3. 熟悉前端建置與佈署，WEB API開發或串接。\n4. 負責網站前後端開發，優化用戶端功能設計。\n5. 熟Python 。\n6. 熟Mongo DB, MSSQL或MySQL。\n7. 有手機/平板的 Web 開發經驗。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "- 熟悉 HTML5 / CSS / Javascript\n- 具備RWD (Responsive-Web-Design)、Mobile 網站開發能力\n- 具備 Git 版本控制使用經驗尤佳。\n- 具備Restful API 串接經驗者尤佳。\n- 具備前端框架 Vue尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：- 熟悉 HTML5 / CSS / Javascript\n- 具備RWD (Responsive-Web-Design)、Mobile 網站開發能力\n- 具備 Git 版本控制使用經驗尤佳。\n- 具備Restful API 串接經驗者尤佳。\n- 具備前端框架 Vue尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "5dwfl",
+    "job_url": "https://www.104.com.tw/job/5dwfl",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/5dwfl.json",
+    "raw_sha256": "0d1cf4e49254293b9321aa92082d37d92a070b7f78fce99c52ba722201e77311",
+    "requested_url": "https://www.104.com.tw/api/jobs/5dwfl"
+  }
+}

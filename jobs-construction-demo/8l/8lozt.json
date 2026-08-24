@@ -1,0 +1,212 @@
+{
+  "company": {
+    "id": "1a2x6biutg",
+    "name": "宇辰系統科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "既有程式維護"
+        },
+        {
+          "children": [],
+          "text": "Linux平台功能開發"
+        },
+        {
+          "children": [],
+          "text": "Python程式開發，新協定與新功能開發"
+        },
+        {
+          "children": [],
+          "text": "進行程式除錯、效能優化及單元測試"
+        },
+        {
+          "children": [],
+          "text": "撰寫與維護技術文件與版本控制紀錄"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版本控制工具"
+        },
+        {
+          "children": [],
+          "text": "主管臨時交派任務"
+        }
+      ],
+      "text": "1. 既有程式維護\n2. Linux平台功能開發\n3. Python程式開發，新協定與新功能開發\n4. 進行程式除錯、效能優化及單元測試\n5. 撰寫與維護技術文件與版本控制紀錄\n6. 熟悉 Git 版本控制工具\n7. 主管臨時交派任務"
+    },
+    "employment_type_raw": "全職",
+    "title": "50.研發部四課-軟體工程師"
+  },
+  "location": {
+    "address_raw": "新竹市東美路91巷5號4樓",
+    "raw": "新竹市東美路91巷5號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Python"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Python\n工作技能：軟體程式設計",
+    "tools": [
+      "Linux",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 71
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:18:06+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~70,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 既有程式維護\n2. Linux平台功能開發\n3. Python程式開發，新協定與新功能開發\n4. 進行程式除錯、效能優化及單元測試\n5. 撰寫與維護技術文件與版本控制紀錄\n6. 熟悉 Git 版本控制工具\n7. 主管臨時交派任務",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~70,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東美路91巷5號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 既有程式維護\n2. Linux平台功能開發\n3. Python程式開發，新協定與新功能開發\n4. 進行程式除錯、效能優化及單元測試\n5. 撰寫與維護技術文件與版本控制紀錄\n6. 熟悉 Git 版本控制工具\n7. 主管臨時交派任務"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Python\n工作技能：軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8lozt",
+    "job_url": "https://www.104.com.tw/job/8lozt",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8lozt.json",
+    "raw_sha256": "9252769de41f081950fc55dacd7a8db1f1cc7ba1b45f157e695e06d955fdab3e",
+    "requested_url": "https://www.104.com.tw/api/jobs/8lozt"
+  }
+}

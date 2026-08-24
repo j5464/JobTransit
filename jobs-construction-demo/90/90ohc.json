@@ -1,0 +1,182 @@
+{
+  "company": {
+    "id": "1ksivpc",
+    "name": "凱基人壽保險股份有限公司(總公司)"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統分析師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責投資管理系統之開發與維護，涵蓋前台操作、後台管理及核心業務模組"
+        },
+        {
+          "children": [],
+          "text": "參與投資相關系統（如部位管理、交易管理、報表、風控、對帳等）之需求分析與系統設計"
+        },
+        {
+          "children": [],
+          "text": "使用 .NET 技術進行系統功能開發、效能優化與問題排除"
+        },
+        {
+          "children": [],
+          "text": "撰寫與維護相關技術文件，確保系統穩定性與可維護性"
+        },
+        {
+          "children": [],
+          "text": "參與系統測試、上線及後續版本優化與技術改善"
+        }
+      ],
+      "text": "1.負責投資管理系統之開發與維護，涵蓋前台操作、後台管理及核心業務模組\n2.參與投資相關系統（如部位管理、交易管理、報表、風控、對帳等）之需求分析與系統設計\n3.使用 .NET 技術進行系統功能開發、效能優化與問題排除\n4.撰寫與維護相關技術文件，確保系統穩定性與可維護性\n5.參與系統測試、上線及後續版本優化與技術改善"
+    },
+    "employment_type_raw": "全職",
+    "title": "JR105422 .NET（C#）系統開發工程師"
+  },
+  "location": {
+    "address_raw": "台北市松山區敦化北路135號",
+    "raw": "台北市松山區敦化北路135號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "Java"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具備 3年以上 .NET（C#）系統開發經驗尤佳\n2.熟悉 ASP.NET / ASP.NET MVC / ASP.NET Core 架構\n3.熟悉關聯式資料庫（SQL Server 為佳），並具備良好 SQL 撰寫與效能調校能力\n4.具備良好溝通技巧，能與團隊共同合作完成目標\n5.具投資或金融交易相關知識尤佳"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1.具備 3年以上 .NET（C#）系統開發經驗尤佳\n2.熟悉 ASP.NET / ASP.NET MVC / ASP.NET Core 架構\n3.熟悉關聯式資料庫（SQL Server 為佳），並具備良好 SQL 撰寫與效能調校能力\n4.具備良好溝通技巧，能與團隊共同合作完成目標\n5.具投資或金融交易相關知識尤佳",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：Java\n其他條件：1.具備 3年以上 .NET（C#）系統開發經驗尤佳\n2.熟悉 ASP.NET / ASP.NET MVC / ASP.NET Core 架構\n3.熟悉關聯式資料庫（SQL Server 為佳），並具備良好 SQL 撰寫與效能調校能力\n4.具備良好溝通技巧，能與團隊共同合作完成目標\n5.具投資或金融交易相關知識尤佳",
+    "tools": [
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 97
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:20:45+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責投資管理系統之開發與維護，涵蓋前台操作、後台管理及核心業務模組\n2.參與投資相關系統（如部位管理、交易管理、報表、風控、對帳等）之需求分析與系統設計\n3.使用 .NET 技術進行系統功能開發、效能優化與問題排除\n4.撰寫與維護相關技術文件，確保系統穩定性與可維護性\n5.參與系統測試、上線及後續版本優化與技術改善",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統分析師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統分析師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區敦化北路135號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責投資管理系統之開發與維護，涵蓋前台操作、後台管理及核心業務模組\n2.參與投資相關系統（如部位管理、交易管理、報表、風控、對帳等）之需求分析與系統設計\n3.使用 .NET 技術進行系統功能開發、效能優化與問題排除\n4.撰寫與維護相關技術文件，確保系統穩定性與可維護性\n5.參與系統測試、上線及後續版本優化與技術改善"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "Java",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具備 3年以上 .NET（C#）系統開發經驗尤佳\n2.熟悉 ASP.NET / ASP.NET MVC / ASP.NET Core 架構\n3.熟悉關聯式資料庫（SQL Server 為佳），並具備良好 SQL 撰寫與效能調校能力\n4.具備良好溝通技巧，能與團隊共同合作完成目標\n5.具投資或金融交易相關知識尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：Java\n其他條件：1.具備 3年以上 .NET（C#）系統開發經驗尤佳\n2.熟悉 ASP.NET / ASP.NET MVC / ASP.NET Core 架構\n3.熟悉關聯式資料庫（SQL Server 為佳），並具備良好 SQL 撰寫與效能調校能力\n4.具備良好溝通技巧，能與團隊共同合作完成目標\n5.具投資或金融交易相關知識尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "90ohc",
+    "job_url": "https://www.104.com.tw/job/90ohc",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90ohc.json",
+    "raw_sha256": "b03e88b4d59fd9d86a423d9148936b9346414499d2eeb55091182637fd1f4c27",
+    "requested_url": "https://www.104.com.tw/api/jobs/90ohc"
+  }
+}

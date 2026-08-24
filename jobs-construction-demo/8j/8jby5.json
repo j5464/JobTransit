@@ -1,0 +1,197 @@
+{
+  "company": {
+    "id": "1a2x6bm9z3",
+    "name": "ReMo瑞摩智能_肆時資訊設計有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "後端工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "GCP：具有使用 GCP 雲端平台的經驗。例如，曾在專案中使用 GCP 部署和管理應用，實現自動擴展和高可用性。"
+        },
+        {
+          "children": [],
+          "text": "測試經驗：具備 Unit test / E2E test 的經驗。例如，曾使用 Jest 和 Cypress 進行全面的單元測試和端到端測試，確保應用的高品質和穩定性。"
+        }
+      ],
+      "text": "■工作內容：\n・使用node.js Express進行開發與維護\n・研究新技術進行開發部署\n・後端開發，維護並優化各伺服器系統\n・協助處理主管交辦文書、事項，妥善撰寫相關專案文件需求\n■技能需求：\n・熟悉 HTML,CSS, Express 框架\n・熟悉 RESTful Web API 串接應用\n・至少1年以上 Express 開發經驗\n・具備良好溝通能力\n・具有獨立作業能力\n・熟悉 MongoDB、Firestore 等 NoSQL 資料庫串接經驗\n・授權方式：了解 OAuth、JWT 等常見的授權方式。例如，曾在一個多用戶系統中實現基於 OAuth 的安全授權流程，提升系統安全性。\n・熟悉Kubernates Docker開發部署方式\n# 加分條件\n1. GCP：具有使用 GCP 雲端平台的經驗。例如，曾在專案中使用 GCP 部署和管理應用，實現自動擴展和高可用性。\n2. 測試經驗：具備 Unit test / E2E test 的經驗。例如，曾使用 Jest 和 Cypress 進行全面的單元測試和端到端測試，確保應用的高品質和穩定性。\n※須附上相關作品案例\n※薪資NT45,000元起（可面議）\n■上班時間＆休假：\n09：00～18：00。(勤務時間8小時+休息時間1小時)\n依照國定假日出勤。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【ReMo】台中 - 後端工程師 Backend Engineer"
+  },
+  "location": {
+    "address_raw": "台中市西區台灣大道二段307號24樓",
+    "raw": "台中市西區台灣大道二段307號24樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Git",
+          "PHP",
+          "PostgreSQL",
+          "JavaScript",
+          "Node.js"
+        ],
+        "label": "擅長工具",
+        "text": "Git、PHP、PostgreSQL、JavaScript、Node.js"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體整合測試",
+          "軟體程式設計",
+          "網路程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體整合測試、軟體程式設計、網路程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體整合測試",
+      "軟體程式設計",
+      "網路程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：Git、PHP、PostgreSQL、JavaScript、Node.js\n工作技能：軟體工程系統開發、軟體整合測試、軟體程式設計、網路程式設計",
+    "tools": [
+      "Git",
+      "PHP",
+      "PostgreSQL",
+      "JavaScript",
+      "Node.js"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 46
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:15:28+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "■工作內容：\n・使用node.js Express進行開發與維護\n・研究新技術進行開發部署\n・後端開發，維護並優化各伺服器系統\n・協助處理主管交辦文書、事項，妥善撰寫相關專案文件需求\n■技能需求：\n・熟悉 HTML,CSS, Express 框架\n・熟悉 RESTful Web API 串接應用\n・至少1年以上 Express 開發經驗\n・具備良好溝通能力\n・具有獨立作業能力\n・熟悉 MongoDB、Firestore 等 NoSQL 資料庫串接經驗\n・授權方式：了解 OAuth、JWT 等常見的授權方式。例如，曾在一個多用戶系統中實現基於 OAuth 的安全授權流程，提升系統安全性。\n・熟悉Kubernates Docker開發部署方式\n# 加分條件\n1. GCP：具有使用 GCP 雲端平台的經驗。例如，曾在專案中使用 GCP 部署和管理應用，實現自動擴展和高可用性。\n2. 測試經驗：具備 Unit test / E2E test 的經驗。例如，曾使用 Jest 和 Cypress 進行全面的單元測試和端到端測試，確保應用的高品質和穩定性。\n※須附上相關作品案例\n※薪資NT45,000元起（可面議）\n■上班時間＆休假：\n09：00～18：00。(勤務時間8小時+休息時間1小時)\n依照國定假日出勤。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "後端工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、後端工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西區台灣大道二段307號24樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "■工作內容：\n・使用node.js Express進行開發與維護\n・研究新技術進行開發部署\n・後端開發，維護並優化各伺服器系統\n・協助處理主管交辦文書、事項，妥善撰寫相關專案文件需求\n■技能需求：\n・熟悉 HTML,CSS, Express 框架\n・熟悉 RESTful Web API 串接應用\n・至少1年以上 Express 開發經驗\n・具備良好溝通能力\n・具有獨立作業能力\n・熟悉 MongoDB、Firestore 等 NoSQL 資料庫串接經驗\n・授權方式：了解 OAuth、JWT 等常見的授權方式。例如，曾在一個多用戶系統中實現基於 OAuth 的安全授權流程，提升系統安全性。\n・熟悉Kubernates Docker開發部署方式\n# 加分條件\n1. GCP：具有使用 GCP 雲端平台的經驗。例如，曾在專案中使用 GCP 部署和管理應用，實現自動擴展和高可用性。\n2. 測試經驗：具備 Unit test / E2E test 的經驗。例如，曾使用 Jest 和 Cypress 進行全面的單元測試和端到端測試，確保應用的高品質和穩定性。\n※須附上相關作品案例\n※薪資NT45,000元起（可面議）\n■上班時間＆休假：\n09：00～18：00。(勤務時間8小時+休息時間1小時)\n依照國定假日出勤。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "PHP",
+            "PostgreSQL",
+            "JavaScript",
+            "Node.js"
+          ],
+          "label": "擅長工具",
+          "text": "Git、PHP、PostgreSQL、JavaScript、Node.js",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體整合測試",
+            "軟體程式設計",
+            "網路程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體整合測試、軟體程式設計、網路程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：Git、PHP、PostgreSQL、JavaScript、Node.js\n工作技能：軟體工程系統開發、軟體整合測試、軟體程式設計、網路程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8jby5",
+    "job_url": "https://www.104.com.tw/job/8jby5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8jby5.json",
+    "raw_sha256": "640e0425a5de60445b6780f7997d9f6a58202a4fd6f4163a6b0e7f44e2300019",
+    "requested_url": "https://www.104.com.tw/api/jobs/8jby5"
+  }
+}

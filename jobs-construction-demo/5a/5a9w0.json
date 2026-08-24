@@ -1,0 +1,205 @@
+{
+  "company": {
+    "id": "233rv1s",
+    "name": "鴻海精密工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發人形機器人之雙臂／雙足運動控制與任務決策模型"
+        },
+        {
+          "children": [],
+          "text": "設計 PD / Impedance / Model Predictive Control 等控制器"
+        },
+        {
+          "children": [],
+          "text": "訓練強化學習與模仿學習模型，實現決策與感知行為"
+        },
+        {
+          "children": [],
+          "text": "使用 Isaac Sim / Gazebo 等模擬平台驗證 Sim2Real 效果"
+        },
+        {
+          "children": [],
+          "text": "整合 AI 模型與控制模組，執行實體部署與系統測試"
+        }
+      ],
+      "text": "1. 開發人形機器人之雙臂／雙足運動控制與任務決策模型\n2. 設計 PD / Impedance / Model Predictive Control 等控制器\n3. 訓練強化學習與模仿學習模型，實現決策與感知行為\n4. 使用 Isaac Sim / Gazebo 等模擬平台驗證 Sim2Real 效果\n5. 整合 AI 模型與控制模組，執行實體部署與系統測試"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI 機器人軟體工程師(新竹)"
+  },
+  "location": {
+    "address_raw": "新竹市東區新安路5號5樓之一",
+    "raw": "新竹市東區新安路5號5樓之一"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟 C++ / Python\n2. 熟 ROS2 / MoveIt2\n3. 熟 TensorFlow / PyTorch、控制理論與機器人運算工具(如 Eigen / RBDL)\n4. 熟 Isaac Sim / Gazebo / MuJoCo 模擬平台\n5. 1~2 年機器學習/強化學習相關經驗\n6. 加分：具機器人領域國際期刊論文發表或實機應用經驗"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "機械工程相關"
+    ],
+    "other_text": "1. 熟 C++ / Python\n2. 熟 ROS2 / MoveIt2\n3. 熟 TensorFlow / PyTorch、控制理論與機器人運算工具(如 Eigen / RBDL)\n4. 熟 Isaac Sim / Gazebo / MuJoCo 模擬平台\n5. 1~2 年機器學習/強化學習相關經驗\n6. 加分：具機器人領域國際期刊論文發表或實機應用經驗",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n語文條件：英文：精通、精通、精通、精通\n其他條件：1. 熟 C++ / Python\n2. 熟 ROS2 / MoveIt2\n3. 熟 TensorFlow / PyTorch、控制理論與機器人運算工具(如 Eigen / RBDL)\n4. 熟 Isaac Sim / Gazebo / MuJoCo 模擬平台\n5. 1~2 年機器學習/強化學習相關經驗\n6. 加分：具機器人領域國際期刊論文發表或實機應用經驗",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 89
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:01:33+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 開發人形機器人之雙臂／雙足運動控制與任務決策模型\n2. 設計 PD / Impedance / Model Predictive Control 等控制器\n3. 訓練強化學習與模仿學習模型，實現決策與感知行為\n4. 使用 Isaac Sim / Gazebo 等模擬平台驗證 Sim2Real 效果\n5. 整合 AI 模型與控制模組，執行實體部署與系統測試",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東區新安路5號5樓之一",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 開發人形機器人之雙臂／雙足運動控制與任務決策模型\n2. 設計 PD / Impedance / Model Predictive Control 等控制器\n3. 訓練強化學習與模仿學習模型，實現決策與感知行為\n4. 使用 Isaac Sim / Gazebo 等模擬平台驗證 Sim2Real 效果\n5. 整合 AI 模型與控制模組，執行實體部署與系統測試"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟 C++ / Python\n2. 熟 ROS2 / MoveIt2\n3. 熟 TensorFlow / PyTorch、控制理論與機器人運算工具(如 Eigen / RBDL)\n4. 熟 Isaac Sim / Gazebo / MuJoCo 模擬平台\n5. 1~2 年機器學習/強化學習相關經驗\n6. 加分：具機器人領域國際期刊論文發表或實機應用經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n語文條件：英文：精通、精通、精通、精通\n其他條件：1. 熟 C++ / Python\n2. 熟 ROS2 / MoveIt2\n3. 熟 TensorFlow / PyTorch、控制理論與機器人運算工具(如 Eigen / RBDL)\n4. 熟 Isaac Sim / Gazebo / MuJoCo 模擬平台\n5. 1~2 年機器學習/強化學習相關經驗\n6. 加分：具機器人領域國際期刊論文發表或實機應用經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "5a9w0",
+    "job_url": "https://www.104.com.tw/job/5a9w0",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/5a9w0.json",
+    "raw_sha256": "a4ff5c9a627cbe75b255199f63fba462c366960e5501eff29284136747a18be8",
+    "requested_url": "https://www.104.com.tw/api/jobs/5a9w0"
+  }
+}

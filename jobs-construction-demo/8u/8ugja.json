@@ -1,0 +1,154 @@
+{
+  "company": {
+    "id": "9qt7nvk",
+    "name": "豪門彩色印刷事業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "其他資訊專業人員",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "企業內部網站功能開發與維護"
+        },
+        {
+          "children": [],
+          "text": "INFOR ERP平台開發與維護"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料庫(MS SQL,MySQL)"
+        },
+        {
+          "children": [],
+          "text": "熟悉 ASP.NET MVC，Javascript，CSS 與 HTML 相關知識"
+        },
+        {
+          "children": [],
+          "text": "具系統或網站管理經驗佳"
+        }
+      ],
+      "text": "1.企業內部網站功能開發與維護\n2.INFOR ERP平台開發與維護\n3.熟悉資料庫(MS SQL,MySQL)\n4.熟悉 ASP.NET MVC，Javascript，CSS 與 HTML 相關知識\n5.具系統或網站管理經驗佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣湖口鄉實踐路7號",
+    "raw": "新竹縣湖口鄉實踐路7號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：高中以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 85
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:51:18+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.企業內部網站功能開發與維護\n2.INFOR ERP平台開發與維護\n3.熟悉資料庫(MS SQL,MySQL)\n4.熟悉 ASP.NET MVC，Javascript，CSS 與 HTML 相關知識\n5.具系統或網站管理經驗佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "其他資訊專業人員",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、其他資訊專業人員、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣湖口鄉實踐路7號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.企業內部網站功能開發與維護\n2.INFOR ERP平台開發與維護\n3.熟悉資料庫(MS SQL,MySQL)\n4.熟悉 ASP.NET MVC，Javascript，CSS 與 HTML 相關知識\n5.具系統或網站管理經驗佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：高中以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8ugja",
+    "job_url": "https://www.104.com.tw/job/8ugja",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ugja.json",
+    "raw_sha256": "d92f89ea69e28cb5b2e51a3386c1e7beff5961060d56189a25f93cc31e1d407e",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ugja"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "統計學研究員",
+      "數學研究員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "基於演算法(多為平行運算)估算運算複雜度和空間使用量"
+        },
+        {
+          "children": [],
+          "text": "基於硬體配置，估算演算法在系統上的理論表現"
+        },
+        {
+          "children": [],
+          "text": "設計 DOE 實驗，驗證實際數據與理論數據的誤差"
+        },
+        {
+          "children": [],
+          "text": "基於實驗結果，找出演算法、軟體實作、系統、硬體的瓶頸"
+        },
+        {
+          "children": [],
+          "text": "實作優化算法，藉由實驗結果和理論分析證明其有效性"
+        },
+        {
+          "children": [],
+          "text": "撰寫技術文件，提供應用服務端作為實作參考。"
+        }
+      ],
+      "text": "負責分析AI算法在實際系統架構運行時的效能瓶頸。\nAI 應用成為近幾年的主流，軟體服務的效能依賴於幾個重點：系統架構設計、演算法的實作、硬體規格。\n過去為了提升協作開發效率，計算機領域主要朝著抽象化的方式，降低各層互相的耦合性。\n然而，這其中的權衡奠基在過去硬體隨著摩爾定律效能快速的成長，在大型系統中往往能藉由過剩的硬體效能彌補抽象化造成的損失。 然而，AI 時代迎來模型參數和運算需求指數成長的情況，這是少數已經具有商業價值需求的算法，超出現有硬體算力需求的狀況。 所以，以整體作為優化的研究，成為當前相當具有價值的工作。縱向的打破各層之間的抽象，找出不同實作之間能獲得最佳效能的搭配。\n1. 基於演算法(多為平行運算)估算運算複雜度和空間使用量\n2. 基於硬體配置，估算演算法在系統上的理論表現\n3. 設計 DOE 實驗，驗證實際數據與理論數據的誤差\n4. 基於實驗結果，找出演算法、軟體實作、系統、硬體的瓶頸\n5. 實作優化算法，藉由實驗結果和理論分析證明其有效性\n6. 撰寫技術文件，提供應用服務端作為實作參考。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI演算法工程師/AI Algorithm Engineer(竹南/台北)"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "數理統計相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、數理統計相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Python",
+          "PyTorch"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Python、PyTorch"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Basic:\n1. 具備3年以上程式或系統開發經驗者尤佳\n2. 英文程度需求:\n-能閱讀領域論文、技術部落格\n-能聽懂技術發表或演討會影音\n3. 熟悉以下程式語言能力：C/C++/Python\n4. 熟悉以下一種AI Framework：pytorch/tensorflow /ggml/numpy\n5. 熟悉以下一種AI相關演算法及模型：CNN/Transformer-based/others\n6. 熟悉費米估計、量綱分析或其他類似的估算技巧\n7. 了解至少三種AI 服務的運作流程：\n-Training: data parallelism, ZeRO, LoRA, GRPO,…\n-Inference: tensor parallelism, pipeline parallelism, kv cache reuse, speculative decoding…\n-Model quantization: GPTQ, AWQ, …\nNice to have:\n1. 熟悉 GPU Kernel語言(e.g. Triton-lang/CUDA/ROCM/SYCL/VULKAN)\n2. 熟悉 LLM 推理框架 (e.g. vLLM/SGLang/llama.cpp/ollama/ktransformer/TensorRT/Quantization, KV Cache, MLPerf, Nsight ....)\n3. 熟悉作業系統底層運作原理\n4. 其它相關技術 Vector search algorithms, Distributed file system, GPUDirect, RDMA, …"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "數理統計相關"
+    ],
+    "other_text": "Basic:\n1. 具備3年以上程式或系統開發經驗者尤佳\n2. 英文程度需求:\n-能閱讀領域論文、技術部落格\n-能聽懂技術發表或演討會影音\n3. 熟悉以下程式語言能力：C/C++/Python\n4. 熟悉以下一種AI Framework：pytorch/tensorflow /ggml/numpy\n5. 熟悉以下一種AI相關演算法及模型：CNN/Transformer-based/others\n6. 熟悉費米估計、量綱分析或其他類似的估算技巧\n7. 了解至少三種AI 服務的運作流程：\n-Training: data parallelism, ZeRO, LoRA, GRPO,…\n-Inference: tensor parallelism, pipeline parallelism, kv cache reuse, speculative decoding…\n-Model quantization: GPTQ, AWQ, …\nNice to have:\n1. 熟悉 GPU Kernel語言(e.g. Triton-lang/CUDA/ROCM/SYCL/VULKAN)\n2. 熟悉 LLM 推理框架 (e.g. vLLM/SGLang/llama.cpp/ollama/ktransformer/TensorRT/Quantization, KV Cache, MLPerf, Nsight ....)\n3. 熟悉作業系統底層運作原理\n4. 其它相關技術 Vector search algorithms, Distributed file system, GPUDirect, RDMA, …",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關、數理統計相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Python、PyTorch\n其他條件：Basic:\n1. 具備3年以上程式或系統開發經驗者尤佳\n2. 英文程度需求:\n-能閱讀領域論文、技術部落格\n-能聽懂技術發表或演討會影音\n3. 熟悉以下程式語言能力：C/C++/Python\n4. 熟悉以下一種AI Framework：pytorch/tensorflow /ggml/numpy\n5. 熟悉以下一種AI相關演算法及模型：CNN/Transformer-based/others\n6. 熟悉費米估計、量綱分析或其他類似的估算技巧\n7. 了解至少三種AI 服務的運作流程：\n-Training: data parallelism, ZeRO, LoRA, GRPO,…\n-Inference: tensor parallelism, pipeline parallelism, kv cache reuse, speculative decoding…\n-Model quantization: GPTQ, AWQ, …\nNice to have:\n1. 熟悉 GPU Kernel語言(e.g. Triton-lang/CUDA/ROCM/SYCL/VULKAN)\n2. 熟悉 LLM 推理框架 (e.g. vLLM/SGLang/llama.cpp/ollama/ktransformer/TensorRT/Quantization, KV Cache, MLPerf, Nsight ....)\n3. 熟悉作業系統底層運作原理\n4. 其它相關技術 Vector search algorithms, Distributed file system, GPUDirect, RDMA, …",
+    "tools": [
+      "C",
+      "C++",
+      "Python",
+      "PyTorch"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 7
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:39:14+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "負責分析AI算法在實際系統架構運行時的效能瓶頸。\nAI 應用成為近幾年的主流，軟體服務的效能依賴於幾個重點：系統架構設計、演算法的實作、硬體規格。\n過去為了提升協作開發效率，計算機領域主要朝著抽象化的方式，降低各層互相的耦合性。\n然而，這其中的權衡奠基在過去硬體隨著摩爾定律效能快速的成長，在大型系統中往往能藉由過剩的硬體效能彌補抽象化造成的損失。 然而，AI 時代迎來模型參數和運算需求指數成長的情況，這是少數已經具有商業價值需求的算法，超出現有硬體算力需求的狀況。 所以，以整體作為優化的研究，成為當前相當具有價值的工作。縱向的打破各層之間的抽象，找出不同實作之間能獲得最佳效能的搭配。\n1. 基於演算法(多為平行運算)估算運算複雜度和空間使用量\n2. 基於硬體配置，估算演算法在系統上的理論表現\n3. 設計 DOE 實驗，驗證實際數據與理論數據的誤差\n4. 基於實驗結果，找出演算法、軟體實作、系統、硬體的瓶頸\n5. 實作優化算法，藉由實驗結果和理論分析證明其有效性\n6. 撰寫技術文件，提供應用服務端作為實作參考。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "統計學研究員",
+            "數學研究員"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、統計學研究員、數學研究員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "負責分析AI算法在實際系統架構運行時的效能瓶頸。\nAI 應用成為近幾年的主流，軟體服務的效能依賴於幾個重點：系統架構設計、演算法的實作、硬體規格。\n過去為了提升協作開發效率，計算機領域主要朝著抽象化的方式，降低各層互相的耦合性。\n然而，這其中的權衡奠基在過去硬體隨著摩爾定律效能快速的成長，在大型系統中往往能藉由過剩的硬體效能彌補抽象化造成的損失。 然而，AI 時代迎來模型參數和運算需求指數成長的情況，這是少數已經具有商業價值需求的算法，超出現有硬體算力需求的狀況。 所以，以整體作為優化的研究，成為當前相當具有價值的工作。縱向的打破各層之間的抽象，找出不同實作之間能獲得最佳效能的搭配。\n1. 基於演算法(多為平行運算)估算運算複雜度和空間使用量\n2. 基於硬體配置，估算演算法在系統上的理論表現\n3. 設計 DOE 實驗，驗證實際數據與理論數據的誤差\n4. 基於實驗結果，找出演算法、軟體實作、系統、硬體的瓶頸\n5. 實作優化算法，藉由實驗結果和理論分析證明其有效性\n6. 撰寫技術文件，提供應用服務端作為實作參考。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "數理統計相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、數理統計相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Python",
+            "PyTorch"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Python、PyTorch",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Basic:\n1. 具備3年以上程式或系統開發經驗者尤佳\n2. 英文程度需求:\n-能閱讀領域論文、技術部落格\n-能聽懂技術發表或演討會影音\n3. 熟悉以下程式語言能力：C/C++/Python\n4. 熟悉以下一種AI Framework：pytorch/tensorflow /ggml/numpy\n5. 熟悉以下一種AI相關演算法及模型：CNN/Transformer-based/others\n6. 熟悉費米估計、量綱分析或其他類似的估算技巧\n7. 了解至少三種AI 服務的運作流程：\n-Training: data parallelism, ZeRO, LoRA, GRPO,…\n-Inference: tensor parallelism, pipeline parallelism, kv cache reuse, speculative decoding…\n-Model quantization: GPTQ, AWQ, …\nNice to have:\n1. 熟悉 GPU Kernel語言(e.g. Triton-lang/CUDA/ROCM/SYCL/VULKAN)\n2. 熟悉 LLM 推理框架 (e.g. vLLM/SGLang/llama.cpp/ollama/ktransformer/TensorRT/Quantization, KV Cache, MLPerf, Nsight ....)\n3. 熟悉作業系統底層運作原理\n4. 其它相關技術 Vector search algorithms, Distributed file system, GPUDirect, RDMA, …",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關、數理統計相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Python、PyTorch\n其他條件：Basic:\n1. 具備3年以上程式或系統開發經驗者尤佳\n2. 英文程度需求:\n-能閱讀領域論文、技術部落格\n-能聽懂技術發表或演討會影音\n3. 熟悉以下程式語言能力：C/C++/Python\n4. 熟悉以下一種AI Framework：pytorch/tensorflow /ggml/numpy\n5. 熟悉以下一種AI相關演算法及模型：CNN/Transformer-based/others\n6. 熟悉費米估計、量綱分析或其他類似的估算技巧\n7. 了解至少三種AI 服務的運作流程：\n-Training: data parallelism, ZeRO, LoRA, GRPO,…\n-Inference: tensor parallelism, pipeline parallelism, kv cache reuse, speculative decoding…\n-Model quantization: GPTQ, AWQ, …\nNice to have:\n1. 熟悉 GPU Kernel語言(e.g. Triton-lang/CUDA/ROCM/SYCL/VULKAN)\n2. 熟悉 LLM 推理框架 (e.g. vLLM/SGLang/llama.cpp/ollama/ktransformer/TensorRT/Quantization, KV Cache, MLPerf, Nsight ....)\n3. 熟悉作業系統底層運作原理\n4. 其它相關技術 Vector search algorithms, Distributed file system, GPUDirect, RDMA, …"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8t4pq",
+    "job_url": "https://www.104.com.tw/job/8t4pq",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8t4pq.json",
+    "raw_sha256": "77795517e09a5ffdf0307b16e215b83be9620b797471256124589ef227bbe186",
+    "requested_url": "https://www.104.com.tw/api/jobs/8t4pq"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "company": {
+    "id": "1a2x6bjtx4",
+    "name": "奕力科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "電子工程師",
+      "韌體工程師",
+      "電機技師／工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "軟/硬/韌體開發"
+        },
+        {
+          "children": [],
+          "text": "IC驗證與規格制定"
+        },
+        {
+          "children": [],
+          "text": "驗證平台建構與開發"
+        }
+      ],
+      "text": "【產品範疇】\nDDI/TDDI/AMOLED/Wearable display Driver\n【工作內容】\n1.軟/硬/韌體開發\n2.IC驗證與規格制定\n3.驗證平台建構與開發"
+    },
+    "employment_type_raw": "全職",
+    "title": "IC系統應用工程師(Mobile)"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市台元二街1號10樓",
+    "raw": "新竹縣竹北市台元二街1號10樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "光電工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、光電工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、精通、精通"
+      },
+      {
+        "items": [
+          "C++",
+          "Excel",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Excel、Word"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.有液晶面板設計經驗\n2.有液晶面板驅動IC相關工作經驗\n3.有高速介面經驗尤佳\n4.熟悉FPGA設計、C、C#、Verilog、Labview尤佳\n5.有OLED相關經驗"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、精通、精通"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "光電工程相關"
+    ],
+    "other_text": "1.有液晶面板設計經驗\n2.有液晶面板驅動IC相關工作經驗\n3.有高速介面經驗尤佳\n4.熟悉FPGA設計、C、C#、Verilog、Labview尤佳\n5.有OLED相關經驗",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、光電工程相關\n語文條件：英文：略懂、略懂、精通、精通\n擅長工具：C++、Excel、Word\n其他條件：1.有液晶面板設計經驗\n2.有液晶面板驅動IC相關工作經驗\n3.有高速介面經驗尤佳\n4.熟悉FPGA設計、C、C#、Verilog、Labview尤佳\n5.有OLED相關經驗",
+    "tools": [
+      "C++",
+      "Excel",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 38
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:55:37+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【產品範疇】\nDDI/TDDI/AMOLED/Wearable display Driver\n【工作內容】\n1.軟/硬/韌體開發\n2.IC驗證與規格制定\n3.驗證平台建構與開發",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "電子工程師",
+            "韌體工程師",
+            "電機技師／工程師"
+          ],
+          "label": "職務類別",
+          "text": "電子工程師、韌體工程師、電機技師／工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市台元二街1號10樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【產品範疇】\nDDI/TDDI/AMOLED/Wearable display Driver\n【工作內容】\n1.軟/硬/韌體開發\n2.IC驗證與規格制定\n3.驗證平台建構與開發"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "光電工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、光電工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Excel",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Excel、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.有液晶面板設計經驗\n2.有液晶面板驅動IC相關工作經驗\n3.有高速介面經驗尤佳\n4.熟悉FPGA設計、C、C#、Verilog、Labview尤佳\n5.有OLED相關經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、光電工程相關\n語文條件：英文：略懂、略懂、精通、精通\n擅長工具：C++、Excel、Word\n其他條件：1.有液晶面板設計經驗\n2.有液晶面板驅動IC相關工作經驗\n3.有高速介面經驗尤佳\n4.熟悉FPGA設計、C、C#、Verilog、Labview尤佳\n5.有OLED相關經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "72b7j",
+    "job_url": "https://www.104.com.tw/job/72b7j",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/72b7j.json",
+    "raw_sha256": "0ae96bc920ed4fdb34cf4f0b9c7980dc3f58935299eb004fb27a8e524ce35691",
+    "requested_url": "https://www.104.com.tw/api/jobs/72b7j"
+  }
+}

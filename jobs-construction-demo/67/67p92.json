@@ -1,0 +1,255 @@
+{
+  "company": {
+    "id": "d0i8ox4",
+    "name": "鋐泰汽車零件股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "資料庫管理人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "個人電腦軟硬體及週邊設備之安裝、設定、管理及維護"
+        },
+        {
+          "children": [],
+          "text": "防火牆、NAS、AD Server、Switch等資安相關軟硬體建置、管理及維護"
+        },
+        {
+          "children": [],
+          "text": "ERP系統維護及資料備份 (熟悉鉅茂ERP程式修改尤佳)"
+        },
+        {
+          "children": [],
+          "text": "協助制定公司資訊安全政策，建立備份機制及資料庫之管理"
+        },
+        {
+          "children": [],
+          "text": "協助電子商務工作"
+        },
+        {
+          "children": [],
+          "text": "支援其他部門及主管交辦事項"
+        }
+      ],
+      "text": "1.個人電腦軟硬體及週邊設備之安裝、設定、管理及維護\n2.防火牆、NAS、AD Server、Switch等資安相關軟硬體建置、管理及維護\n3.ERP系統維護及資料備份 (熟悉鉅茂ERP程式修改尤佳)\n4.協助制定公司資訊安全政策，建立備份機制及資料庫之管理\n5.協助電子商務工作\n6.支援其他部門及主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "MIS資訊網管人員"
+  },
+  "location": {
+    "address_raw": "桃園市蘆竹區富國路三段1118號",
+    "raw": "桃園市蘆竹區富國路三段1118號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "MySQL",
+          "鉅茂"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、MySQL、鉅茂"
+      },
+      {
+        "items": [
+          "伺服器網站管理維護",
+          "資訊設備操作檢修",
+          "資訊設備環境設定",
+          "資料庫系統管理維護",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "伺服器網站管理維護、資訊設備操作檢修、資訊設備環境設定、資料庫系統管理維護、資料庫程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件：\n1.具撰寫程式、網頁製作經驗，有MSSQL/MySQL資料庫管理經驗者佳\n2.熟悉Windows系統安裝，MS office（Outlook、Word、Excel、PPT)配置\n3.熟悉Windows Server作業系統及Active Directory操作\n4.具良好溝通能力、抗壓性強，負責且細心認真，團隊分工合作"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "加分條件：\n1.具撰寫程式、網頁製作經驗，有MSSQL/MySQL資料庫管理經驗者佳\n2.熟悉Windows系統安裝，MS office（Outlook、Word、Excel、PPT)配置\n3.熟悉Windows Server作業系統及Active Directory操作\n4.具良好溝通能力、抗壓性強，負責且細心認真，團隊分工合作",
+    "skills": [
+      "伺服器網站管理維護",
+      "資訊設備操作檢修",
+      "資訊設備環境設定",
+      "資料庫系統管理維護",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MS SQL、MySQL、鉅茂\n工作技能：伺服器網站管理維護、資訊設備操作檢修、資訊設備環境設定、資料庫系統管理維護、資料庫程式設計\n其他條件：加分條件：\n1.具撰寫程式、網頁製作經驗，有MSSQL/MySQL資料庫管理經驗者佳\n2.熟悉Windows系統安裝，MS office（Outlook、Word、Excel、PPT)配置\n3.熟悉Windows Server作業系統及Active Directory操作\n4.具良好溝通能力、抗壓性強，負責且細心認真，團隊分工合作",
+    "tools": [
+      "MS SQL",
+      "MySQL",
+      "鉅茂"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 57
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:43:21+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~48,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.個人電腦軟硬體及週邊設備之安裝、設定、管理及維護\n2.防火牆、NAS、AD Server、Switch等資安相關軟硬體建置、管理及維護\n3.ERP系統維護及資料備份 (熟悉鉅茂ERP程式修改尤佳)\n4.協助制定公司資訊安全政策，建立備份機制及資料庫之管理\n5.協助電子商務工作\n6.支援其他部門及主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "資料庫管理人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、資料庫管理人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~48,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市蘆竹區富國路三段1118號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.個人電腦軟硬體及週邊設備之安裝、設定、管理及維護\n2.防火牆、NAS、AD Server、Switch等資安相關軟硬體建置、管理及維護\n3.ERP系統維護及資料備份 (熟悉鉅茂ERP程式修改尤佳)\n4.協助制定公司資訊安全政策，建立備份機制及資料庫之管理\n5.協助電子商務工作\n6.支援其他部門及主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "MySQL",
+            "鉅茂"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、MySQL、鉅茂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "伺服器網站管理維護",
+            "資訊設備操作檢修",
+            "資訊設備環境設定",
+            "資料庫系統管理維護",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "伺服器網站管理維護、資訊設備操作檢修、資訊設備環境設定、資料庫系統管理維護、資料庫程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件：\n1.具撰寫程式、網頁製作經驗，有MSSQL/MySQL資料庫管理經驗者佳\n2.熟悉Windows系統安裝，MS office（Outlook、Word、Excel、PPT)配置\n3.熟悉Windows Server作業系統及Active Directory操作\n4.具良好溝通能力、抗壓性強，負責且細心認真，團隊分工合作",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MS SQL、MySQL、鉅茂\n工作技能：伺服器網站管理維護、資訊設備操作檢修、資訊設備環境設定、資料庫系統管理維護、資料庫程式設計\n其他條件：加分條件：\n1.具撰寫程式、網頁製作經驗，有MSSQL/MySQL資料庫管理經驗者佳\n2.熟悉Windows系統安裝，MS office（Outlook、Word、Excel、PPT)配置\n3.熟悉Windows Server作業系統及Active Directory操作\n4.具良好溝通能力、抗壓性強，負責且細心認真，團隊分工合作"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "67p92",
+    "job_url": "https://www.104.com.tw/job/67p92",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/67p92.json",
+    "raw_sha256": "bd8a249f6b79827e9ed479020edabee7348161f749683e734b735abb45782060",
+    "requested_url": "https://www.104.com.tw/api/jobs/67p92"
+  }
+}

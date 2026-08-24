@@ -1,0 +1,159 @@
+{
+  "company": {
+    "id": "1a2x6bkrky",
+    "name": "翰霖科技資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "【必要技能】\n☑️ 對於電文規格撰寫及閱讀有豐富的經驗\n☑️ .NET API程式開發及撰寫，前端使用 JavaScript、jQuery\n☑️ MSSQL Stored Procedure 撰寫\n☑️ 需要看懂ASP VB 語法\n☑️ 具備C# 5年以上資歷"
+    },
+    "employment_type_raw": "全職",
+    "title": "【專案駐點】資深.NET工程師"
+  },
+  "location": {
+    "address_raw": "台北市松山區",
+    "raw": "台北市松山區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "HTML",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、HTML、JavaScript"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：專科以上\n擅長工具：ASP.NET、C#、HTML、JavaScript",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 99
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:27:02+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【必要技能】\n☑️ 對於電文規格撰寫及閱讀有豐富的經驗\n☑️ .NET API程式開發及撰寫，前端使用 JavaScript、jQuery\n☑️ MSSQL Stored Procedure 撰寫\n☑️ 需要看懂ASP VB 語法\n☑️ 具備C# 5年以上資歷",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【必要技能】\n☑️ 對於電文規格撰寫及閱讀有豐富的經驗\n☑️ .NET API程式開發及撰寫，前端使用 JavaScript、jQuery\n☑️ MSSQL Stored Procedure 撰寫\n☑️ 需要看懂ASP VB 語法\n☑️ 具備C# 5年以上資歷"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "HTML",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、HTML、JavaScript",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：專科以上\n擅長工具：ASP.NET、C#、HTML、JavaScript"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7ayj2",
+    "job_url": "https://www.104.com.tw/job/7ayj2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7ayj2.json",
+    "raw_sha256": "0bb44906cfd22688d3b49b8e65bce29681b571a2fddf511198ce5b899de9fb68",
+    "requested_url": "https://www.104.com.tw/api/jobs/7ayj2"
+  }
+}

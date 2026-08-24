@@ -1,0 +1,321 @@
+{
+  "company": {
+    "id": "1a2x6blp4e",
+    "name": "基士德環科股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "演算法工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "程式語言-Python、SQL；"
+        },
+        {
+          "children": [],
+          "text": "AI Framework-PyTorch、TensorFlow、Scikit-learn、XGBoost、GBM；"
+        },
+        {
+          "children": [],
+          "text": "LLM-OpenAI API、Azure OpenAI、Claude、Gemini；"
+        },
+        {
+          "children": [],
+          "text": "AI Agent-LangChain、LangGraph、CrewAI、AutoGen、OpenAI Agent SDK、Semantic Kernel、 MCP（Model Context Protocol）"
+        },
+        {
+          "children": [],
+          "text": "Data-Pandas、NumPy、Spark"
+        },
+        {
+          "children": [],
+          "text": "Database-MySQL、PostgreSQL、MongoDB、TimescaleDB"
+        },
+        {
+          "children": [],
+          "text": "Cloud-Azure、AWS、Docker、Kubernetes"
+        },
+        {
+          "children": [],
+          "text": "Version Control-Git、GitHub"
+        },
+        {
+          "children": [],
+          "text": "Machine Learning"
+        },
+        {
+          "children": [],
+          "text": "Deep Learning"
+        },
+        {
+          "children": [],
+          "text": "AI Prediction"
+        },
+        {
+          "children": [],
+          "text": "AI開發1年以上"
+        },
+        {
+          "children": [],
+          "text": "Machine Learning"
+        },
+        {
+          "children": [],
+          "text": "Deep Learning"
+        },
+        {
+          "children": [],
+          "text": "LLM"
+        },
+        {
+          "children": [],
+          "text": "AI Agent"
+        },
+        {
+          "children": [],
+          "text": "Data Science"
+        },
+        {
+          "children": [],
+          "text": "MLOps"
+        },
+        {
+          "children": [],
+          "text": "Reinforcement Learning"
+        },
+        {
+          "children": [],
+          "text": "NLP"
+        },
+        {
+          "children": [],
+          "text": "Computer Vision"
+        },
+        {
+          "children": [],
+          "text": "AI Agent"
+        },
+        {
+          "children": [],
+          "text": "MLOps"
+        },
+        {
+          "children": [],
+          "text": "RESTful API"
+        },
+        {
+          "children": [],
+          "text": "Data Engineering"
+        },
+        {
+          "children": [],
+          "text": "Prompt Engineering"
+        },
+        {
+          "children": [],
+          "text": "AI Workflow"
+        },
+        {
+          "children": [],
+          "text": "Knowledge Graph"
+        },
+        {
+          "children": [],
+          "text": "Multi-Agent System"
+        }
+      ],
+      "text": "(1) AI模型開發\n(2) AI Agent開發\n(3) WaterOps智慧水務平台開發\n(4) LLM應用\n(5) AI專案執行\n擅長工具：\n• 程式語言-Python、SQL；\n• AI Framework-PyTorch、TensorFlow、Scikit-learn、XGBoost、GBM；\n• LLM-OpenAI API、Azure OpenAI、Claude、Gemini；\n• AI Agent-LangChain、LangGraph、CrewAI、AutoGen、OpenAI Agent SDK、Semantic Kernel、 MCP（Model Context Protocol）\n• Data-Pandas、NumPy、Spark\n• Database-MySQL、PostgreSQL、MongoDB、TimescaleDB\n• Cloud-Azure、AWS、Docker、Kubernetes\n• Version Control-Git、GitHub\n工作技能：\n• Machine Learning\n• Deep Learning\n• AI Prediction\n工作經驗：\n以下任一條件尤佳：\n• AI開發1年以上\n• Machine Learning\n• Deep Learning\n• LLM\n• AI Agent\n• Data Science\n• MLOps\n具智慧製造、智慧城市、智慧水務或IoT相關經驗者尤佳。\n• Reinforcement Learning\n• NLP\n• Computer Vision\n• AI Agent\n• MLOps\n• RESTful API\n• Data Engineering\n• Prompt Engineering\n• AI Workflow\n• Knowledge Graph\n• Multi-Agent System"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI 工程師"
+  },
+  "location": {
+    "address_raw": "屏東縣長治鄉神農路6號",
+    "raw": "屏東縣長治鄉神農路6號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python",
+          "tensorflow",
+          "scikit-learn"
+        ],
+        "label": "擅長工具",
+        "text": "Python、tensorflow、scikit-learn"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "其他條件：具有下列任一經驗者優先錄取：\n• AI 開發\n• LLM應用\n• MCP\n• CrewAI\n• AutoGen\n• OpenAI API\n• 數位孿生\n• SCADA\n• PLC\n• MQTT\n• OPC-UA\n• IoT\n• 時序資料分析\n• 水處理或智慧製造相關經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "其他條件：具有下列任一經驗者優先錄取：\n• AI 開發\n• LLM應用\n• MCP\n• CrewAI\n• AutoGen\n• OpenAI API\n• 數位孿生\n• SCADA\n• PLC\n• MQTT\n• OPC-UA\n• IoT\n• 時序資料分析\n• 水處理或智慧製造相關經驗",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、tensorflow、scikit-learn\n其他條件：其他條件：具有下列任一經驗者優先錄取：\n• AI 開發\n• LLM應用\n• MCP\n• CrewAI\n• AutoGen\n• OpenAI API\n• 數位孿生\n• SCADA\n• PLC\n• MQTT\n• OPC-UA\n• IoT\n• 時序資料分析\n• 水處理或智慧製造相關經驗",
+    "tools": [
+      "Python",
+      "tensorflow",
+      "scikit-learn"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 36
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:51:33+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "(1) AI模型開發\n(2) AI Agent開發\n(3) WaterOps智慧水務平台開發\n(4) LLM應用\n(5) AI專案執行\n擅長工具：\n• 程式語言-Python、SQL；\n• AI Framework-PyTorch、TensorFlow、Scikit-learn、XGBoost、GBM；\n• LLM-OpenAI API、Azure OpenAI、Claude、Gemini；\n• AI Agent-LangChain、LangGraph、CrewAI、AutoGen、OpenAI Agent SDK、Semantic Kernel、 MCP（Model Context Protocol）\n• Data-Pandas、NumPy、Spark\n• Database-MySQL、PostgreSQL、MongoDB、TimescaleDB\n• Cloud-Azure、AWS、Docker、Kubernetes\n• Version Control-Git、GitHub\n工作技能：\n• Machine Learning\n• Deep Learning\n• AI Prediction\n工作經驗：\n以下任一條件尤佳：\n• AI開發1年以上\n• Machine Learning\n• Deep Learning\n• LLM\n• AI Agent\n• Data Science\n• MLOps\n具智慧製造、智慧城市、智慧水務或IoT相關經驗者尤佳。\n• Reinforcement Learning\n• NLP\n• Computer Vision\n• AI Agent\n• MLOps\n• RESTful API\n• Data Engineering\n• Prompt Engineering\n• AI Workflow\n• Knowledge Graph\n• Multi-Agent System",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "演算法工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、演算法工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "屏東縣長治鄉神農路6號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "(1) AI模型開發\n(2) AI Agent開發\n(3) WaterOps智慧水務平台開發\n(4) LLM應用\n(5) AI專案執行\n擅長工具：\n• 程式語言-Python、SQL；\n• AI Framework-PyTorch、TensorFlow、Scikit-learn、XGBoost、GBM；\n• LLM-OpenAI API、Azure OpenAI、Claude、Gemini；\n• AI Agent-LangChain、LangGraph、CrewAI、AutoGen、OpenAI Agent SDK、Semantic Kernel、 MCP（Model Context Protocol）\n• Data-Pandas、NumPy、Spark\n• Database-MySQL、PostgreSQL、MongoDB、TimescaleDB\n• Cloud-Azure、AWS、Docker、Kubernetes\n• Version Control-Git、GitHub\n工作技能：\n• Machine Learning\n• Deep Learning\n• AI Prediction\n工作經驗：\n以下任一條件尤佳：\n• AI開發1年以上\n• Machine Learning\n• Deep Learning\n• LLM\n• AI Agent\n• Data Science\n• MLOps\n具智慧製造、智慧城市、智慧水務或IoT相關經驗者尤佳。\n• Reinforcement Learning\n• NLP\n• Computer Vision\n• AI Agent\n• MLOps\n• RESTful API\n• Data Engineering\n• Prompt Engineering\n• AI Workflow\n• Knowledge Graph\n• Multi-Agent System"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "tensorflow",
+            "scikit-learn"
+          ],
+          "label": "擅長工具",
+          "text": "Python、tensorflow、scikit-learn",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "其他條件：具有下列任一經驗者優先錄取：\n• AI 開發\n• LLM應用\n• MCP\n• CrewAI\n• AutoGen\n• OpenAI API\n• 數位孿生\n• SCADA\n• PLC\n• MQTT\n• OPC-UA\n• IoT\n• 時序資料分析\n• 水處理或智慧製造相關經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、tensorflow、scikit-learn\n其他條件：其他條件：具有下列任一經驗者優先錄取：\n• AI 開發\n• LLM應用\n• MCP\n• CrewAI\n• AutoGen\n• OpenAI API\n• 數位孿生\n• SCADA\n• PLC\n• MQTT\n• OPC-UA\n• IoT\n• 時序資料分析\n• 水處理或智慧製造相關經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7rax2",
+    "job_url": "https://www.104.com.tw/job/7rax2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7rax2.json",
+    "raw_sha256": "b657f45abecfb2214fedb8bdaf11eebeda772991bf35f7847fb63cacf1dc9b9f",
+    "requested_url": "https://www.104.com.tw/api/jobs/7rax2"
+  }
+}

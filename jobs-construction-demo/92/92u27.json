@@ -1,0 +1,213 @@
+{
+  "company": {
+    "id": "233rv1s",
+    "name": "鴻海精密工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "BIOS工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI PC UEFI BIOS 韌體開發、更新與維護。"
+        },
+        {
+          "children": [],
+          "text": "AI PC UEFI BIOS 韌體研發時程規劃與可行性評估。"
+        },
+        {
+          "children": [],
+          "text": "AI PC UEFI BIOS 規格 Review、功能分析與技術評估。"
+        },
+        {
+          "children": [],
+          "text": "專案執行及跨功能團隊合作與溝通。"
+        },
+        {
+          "children": [],
+          "text": "具備良好溝通協調能力。"
+        },
+        {
+          "children": [],
+          "text": "具備產品分析、除錯與問題解決能力。"
+        },
+        {
+          "children": [],
+          "text": "對 UEFI BIOS 開發工作具熱忱與責任感。"
+        },
+        {
+          "children": [],
+          "text": "具備良好邏輯思考能力及抗壓性。"
+        }
+      ],
+      "text": "1. AI PC UEFI BIOS 韌體開發、更新與維護。\n2. AI PC UEFI BIOS 韌體研發時程規劃與可行性評估。\n3. AI PC UEFI BIOS 規格 Review、功能分析與技術評估。\n4. 專案執行及跨功能團隊合作與溝通。\n5. 具備良好溝通協調能力。\n6. 具備產品分析、除錯與問題解決能力。\n7. 對 UEFI BIOS 開發工作具熱忱與責任感。\n8. 具備良好邏輯思考能力及抗壓性。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【AI PC】DPD/BIOS工程師 (土城)"
+  },
+  "location": {
+    "address_raw": "新北市土城區依公司指定地點分派",
+    "raw": "新北市土城區依公司指定地點分派"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "4年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "4年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "工程學科類",
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "工程學科類、資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 大學或碩士計算機/電子/程式語言相關科系畢業, 具備4年以上UEFI BIOS開發經驗\n2. 熟悉C/C++ 語言或學碩班畢業專題之相關研究\n3. 了解PC X86 架構,有相關的電子電路知識\n4. 邏輯概念和問題分析能力\n5. 有良好溝通協調能力\n6. 具英文讀寫能力也能看懂英文技術文件"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "工程學科類",
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "1. 大學或碩士計算機/電子/程式語言相關科系畢業, 具備4年以上UEFI BIOS開發經驗\n2. 熟悉C/C++ 語言或學碩班畢業專題之相關研究\n3. 了解PC X86 架構,有相關的電子電路知識\n4. 邏輯概念和問題分析能力\n5. 有良好溝通協調能力\n6. 具英文讀寫能力也能看懂英文技術文件",
+    "skills": [],
+    "text": "工作經歷：4年以上\n學歷要求：大學、碩士\n科系要求：工程學科類、資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 大學或碩士計算機/電子/程式語言相關科系畢業, 具備4年以上UEFI BIOS開發經驗\n2. 熟悉C/C++ 語言或學碩班畢業專題之相關研究\n3. 了解PC X86 架構,有相關的電子電路知識\n4. 邏輯概念和問題分析能力\n5. 有良好溝通協調能力\n6. 具英文讀寫能力也能看懂英文技術文件",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 57
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:42:09+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. AI PC UEFI BIOS 韌體開發、更新與維護。\n2. AI PC UEFI BIOS 韌體研發時程規劃與可行性評估。\n3. AI PC UEFI BIOS 規格 Review、功能分析與技術評估。\n4. 專案執行及跨功能團隊合作與溝通。\n5. 具備良好溝通協調能力。\n6. 具備產品分析、除錯與問題解決能力。\n7. 對 UEFI BIOS 開發工作具熱忱與責任感。\n8. 具備良好邏輯思考能力及抗壓性。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "BIOS工程師"
+          ],
+          "label": "職務類別",
+          "text": "BIOS工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市土城區依公司指定地點分派",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. AI PC UEFI BIOS 韌體開發、更新與維護。\n2. AI PC UEFI BIOS 韌體研發時程規劃與可行性評估。\n3. AI PC UEFI BIOS 規格 Review、功能分析與技術評估。\n4. 專案執行及跨功能團隊合作與溝通。\n5. 具備良好溝通協調能力。\n6. 具備產品分析、除錯與問題解決能力。\n7. 對 UEFI BIOS 開發工作具熱忱與責任感。\n8. 具備良好邏輯思考能力及抗壓性。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "4年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "工程學科類",
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "工程學科類、資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 大學或碩士計算機/電子/程式語言相關科系畢業, 具備4年以上UEFI BIOS開發經驗\n2. 熟悉C/C++ 語言或學碩班畢業專題之相關研究\n3. 了解PC X86 架構,有相關的電子電路知識\n4. 邏輯概念和問題分析能力\n5. 有良好溝通協調能力\n6. 具英文讀寫能力也能看懂英文技術文件",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：4年以上\n學歷要求：大學、碩士\n科系要求：工程學科類、資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 大學或碩士計算機/電子/程式語言相關科系畢業, 具備4年以上UEFI BIOS開發經驗\n2. 熟悉C/C++ 語言或學碩班畢業專題之相關研究\n3. 了解PC X86 架構,有相關的電子電路知識\n4. 邏輯概念和問題分析能力\n5. 有良好溝通協調能力\n6. 具英文讀寫能力也能看懂英文技術文件"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92u27",
+    "job_url": "https://www.104.com.tw/job/92u27",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92u27.json",
+    "raw_sha256": "d61fd5adf95ae0cd1d0e0c168ae460c6ce6a0c9be43073b9f17bac0bd4b2ab62",
+    "requested_url": "https://www.104.com.tw/api/jobs/92u27"
+  }
+}

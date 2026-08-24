@@ -1,0 +1,150 @@
+{
+  "company": {
+    "id": "1a2x6bjl0o",
+    "name": "安銳智慧股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "前端工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "Arisan Inc. is looking for PASSIONATE developers to help build enterprise IoT\nsoftware services and applications.\n安銳在找尋有熱情的程式設計師一起開發企業級的IoT軟體平台及服務。\nWe work as a team. Your efficiency and growing capabilities will directly impact\ncompany decisions. Join us to shape the future of the industry and bring great products\nto our clients.\n我們注重緊密的團隊合作。每個開發者的貢獻直接反映到公司及產品。\n加入我們一起改變產業的未來！\nWhat you will be doing UNDER GUIDANCE and SUPERVISION:\nResponsibilities are released incrementally. Once a developer has proven fluency in\none area then supervision is gradually lifted and more responsibilities may be assigned.\n透過工作上的訓練及引導，開發者會逐步接觸、學習並實作下列事項：\n‣ Web front end development in JavaScript/TypeScript/HTML/CSS/React.\n網路前端開發需要JavaScript/TypeScript/HTML/CSS/React。\n‣ Web back end development with JavaScript/TypeScript, Node.js, MongoDB, Redis,\nand cloud infrastructures like AWS/Azure/GCP.\n網路後端開發需要JavaScript/TypeScript, Node.js, MongoDB, Redis及各雲端平台\n如AWS/Azure/GCP。\n‣ Desktop/Mobile application with C++, Qt or React Native\n桌機手機應用程式，使用C++, Qt及React Native\n‣ DevOps with GitLab, Kubernetes, AWS/Azure/GCP, Android Market and iOS App\nStore.\nDevOps包含利用GitLab, Kubernetes, AWS/Azure/GCP及Android市場/iOS軟體商店，\n來達到自動部署、自動交付及自動化維運。\n‣ Development testing (unit tests, UI tests, integration tests, acceptance tests) and\ncollaboration with clients.\n開發測試包含單元測試、UI測試、整合測試、驗收測試及與客戶溝通。\n‣ Software application prototype design, concept proofs, selection of technologies,\nimplementation, and documentation.\n軟體架構設計及驗證。評選採用技術及文件說明紀錄。\nWhat you MUST have for this position:\n必要條件：\n‣ Strong COMMUNICATION skills\n超群溝通能力。能夠把複雜的技術細節簡潔表達。\n‣ TEAM-player mentality\n與團隊融洽相處。不能只靠單人埋頭苦幹。\n‣ PASSION for programming/problem solving\n熱愛程式設計及解決問題。\n‣ Willingness in LEARNING new tools all the time\n願意嘗試、吸收並使用新技術。\n‣ Experience in TypeScript or JavaScript\n撰寫TypeScript或JavaScript經驗。\nWhat are NICE to have:\n加分(不會也沒關係，我們都會教)：\n‣ Portfolio of open source projects or personal projects is a plus.\n過去的作品、自己開發的小產品或任何對開源軟體的貢獻。\n‣ Experience of version control with Git.\n利用Git來版本控制。\n‣ Knowledge of computer networking and experience with Unix/Linux operation\nsystem.\n熟網路架構及Unix/Linux作業系統。\nWhat we PROVIDE:\n我們有的：\n‣ Quarterly development bonus based on programming velocity.\n以開發效率提撥個人季開發獎金。\n‣ Small knitted friendly environment. Come see for yourself.\n溝通密集開發密集小人數的友善團隊，來看了就知道。\n‣ Work from home opportunity.\n有條件在家上班。\n‣ Clear path for promotion despite for small team.\n儘管是小團隊，還是有清楚的升遷制度。"
+    },
+    "employment_type_raw": "全職",
+    "title": "[FSE1] 全端軟體工程師 Full Stack Software Engineer 前端後端全端"
+  },
+  "location": {
+    "address_raw": "台北市大安區敦化南路一段205號7樓701室",
+    "raw": "台北市大安區敦化南路一段205號7樓701室"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中以上"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、精通、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、精通、中等"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、精通、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：高中以上\n語文條件：英文：略懂、略懂、精通、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 16
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:59:57+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Arisan Inc. is looking for PASSIONATE developers to help build enterprise IoT\nsoftware services and applications.\n安銳在找尋有熱情的程式設計師一起開發企業級的IoT軟體平台及服務。\nWe work as a team. Your efficiency and growing capabilities will directly impact\ncompany decisions. Join us to shape the future of the industry and bring great products\nto our clients.\n我們注重緊密的團隊合作。每個開發者的貢獻直接反映到公司及產品。\n加入我們一起改變產業的未來！\nWhat you will be doing UNDER GUIDANCE and SUPERVISION:\nResponsibilities are released incrementally. Once a developer has proven fluency in\none area then supervision is gradually lifted and more responsibilities may be assigned.\n透過工作上的訓練及引導，開發者會逐步接觸、學習並實作下列事項：\n‣ Web front end development in JavaScript/TypeScript/HTML/CSS/React.\n網路前端開發需要JavaScript/TypeScript/HTML/CSS/React。\n‣ Web back end development with JavaScript/TypeScript, Node.js, MongoDB, Redis,\nand cloud infrastructures like AWS/Azure/GCP.\n網路後端開發需要JavaScript/TypeScript, Node.js, MongoDB, Redis及各雲端平台\n如AWS/Azure/GCP。\n‣ Desktop/Mobile application with C++, Qt or React Native\n桌機手機應用程式，使用C++, Qt及React Native\n‣ DevOps with GitLab, Kubernetes, AWS/Azure/GCP, Android Market and iOS App\nStore.\nDevOps包含利用GitLab, Kubernetes, AWS/Azure/GCP及Android市場/iOS軟體商店，\n來達到自動部署、自動交付及自動化維運。\n‣ Development testing (unit tests, UI tests, integration tests, acceptance tests) and\ncollaboration with clients.\n開發測試包含單元測試、UI測試、整合測試、驗收測試及與客戶溝通。\n‣ Software application prototype design, concept proofs, selection of technologies,\nimplementation, and documentation.\n軟體架構設計及驗證。評選採用技術及文件說明紀錄。\nWhat you MUST have for this position:\n必要條件：\n‣ Strong COMMUNICATION skills\n超群溝通能力。能夠把複雜的技術細節簡潔表達。\n‣ TEAM-player mentality\n與團隊融洽相處。不能只靠單人埋頭苦幹。\n‣ PASSION for programming/problem solving\n熱愛程式設計及解決問題。\n‣ Willingness in LEARNING new tools all the time\n願意嘗試、吸收並使用新技術。\n‣ Experience in TypeScript or JavaScript\n撰寫TypeScript或JavaScript經驗。\nWhat are NICE to have:\n加分(不會也沒關係，我們都會教)：\n‣ Portfolio of open source projects or personal projects is a plus.\n過去的作品、自己開發的小產品或任何對開源軟體的貢獻。\n‣ Experience of version control with Git.\n利用Git來版本控制。\n‣ Knowledge of computer networking and experience with Unix/Linux operation\nsystem.\n熟網路架構及Unix/Linux作業系統。\nWhat we PROVIDE:\n我們有的：\n‣ Quarterly development bonus based on programming velocity.\n以開發效率提撥個人季開發獎金。\n‣ Small knitted friendly environment. Come see for yourself.\n溝通密集開發密集小人數的友善團隊，來看了就知道。\n‣ Work from home opportunity.\n有條件在家上班。\n‣ Clear path for promotion despite for small team.\n儘管是小團隊，還是有清楚的升遷制度。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "前端工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、前端工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區敦化南路一段205號7樓701室",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Arisan Inc. is looking for PASSIONATE developers to help build enterprise IoT\nsoftware services and applications.\n安銳在找尋有熱情的程式設計師一起開發企業級的IoT軟體平台及服務。\nWe work as a team. Your efficiency and growing capabilities will directly impact\ncompany decisions. Join us to shape the future of the industry and bring great products\nto our clients.\n我們注重緊密的團隊合作。每個開發者的貢獻直接反映到公司及產品。\n加入我們一起改變產業的未來！\nWhat you will be doing UNDER GUIDANCE and SUPERVISION:\nResponsibilities are released incrementally. Once a developer has proven fluency in\none area then supervision is gradually lifted and more responsibilities may be assigned.\n透過工作上的訓練及引導，開發者會逐步接觸、學習並實作下列事項：\n‣ Web front end development in JavaScript/TypeScript/HTML/CSS/React.\n網路前端開發需要JavaScript/TypeScript/HTML/CSS/React。\n‣ Web back end development with JavaScript/TypeScript, Node.js, MongoDB, Redis,\nand cloud infrastructures like AWS/Azure/GCP.\n網路後端開發需要JavaScript/TypeScript, Node.js, MongoDB, Redis及各雲端平台\n如AWS/Azure/GCP。\n‣ Desktop/Mobile application with C++, Qt or React Native\n桌機手機應用程式，使用C++, Qt及React Native\n‣ DevOps with GitLab, Kubernetes, AWS/Azure/GCP, Android Market and iOS App\nStore.\nDevOps包含利用GitLab, Kubernetes, AWS/Azure/GCP及Android市場/iOS軟體商店，\n來達到自動部署、自動交付及自動化維運。\n‣ Development testing (unit tests, UI tests, integration tests, acceptance tests) and\ncollaboration with clients.\n開發測試包含單元測試、UI測試、整合測試、驗收測試及與客戶溝通。\n‣ Software application prototype design, concept proofs, selection of technologies,\nimplementation, and documentation.\n軟體架構設計及驗證。評選採用技術及文件說明紀錄。\nWhat you MUST have for this position:\n必要條件：\n‣ Strong COMMUNICATION skills\n超群溝通能力。能夠把複雜的技術細節簡潔表達。\n‣ TEAM-player mentality\n與團隊融洽相處。不能只靠單人埋頭苦幹。\n‣ PASSION for programming/problem solving\n熱愛程式設計及解決問題。\n‣ Willingness in LEARNING new tools all the time\n願意嘗試、吸收並使用新技術。\n‣ Experience in TypeScript or JavaScript\n撰寫TypeScript或JavaScript經驗。\nWhat are NICE to have:\n加分(不會也沒關係，我們都會教)：\n‣ Portfolio of open source projects or personal projects is a plus.\n過去的作品、自己開發的小產品或任何對開源軟體的貢獻。\n‣ Experience of version control with Git.\n利用Git來版本控制。\n‣ Knowledge of computer networking and experience with Unix/Linux operation\nsystem.\n熟網路架構及Unix/Linux作業系統。\nWhat we PROVIDE:\n我們有的：\n‣ Quarterly development bonus based on programming velocity.\n以開發效率提撥個人季開發獎金。\n‣ Small knitted friendly environment. Come see for yourself.\n溝通密集開發密集小人數的友善團隊，來看了就知道。\n‣ Work from home opportunity.\n有條件在家上班。\n‣ Clear path for promotion despite for small team.\n儘管是小團隊，還是有清楚的升遷制度。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、精通、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、精通、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：高中以上\n語文條件：英文：略懂、略懂、精通、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8jila",
+    "job_url": "https://www.104.com.tw/job/8jila",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8jila.json",
+    "raw_sha256": "7242dd0a9a278ca0295a0c994b28c781935efe87898bf43adc7da93f71664a68",
+    "requested_url": "https://www.104.com.tw/api/jobs/8jila"
+  }
+}

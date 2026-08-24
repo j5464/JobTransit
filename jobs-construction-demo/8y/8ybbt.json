@@ -1,0 +1,280 @@
+{
+  "company": {
+    "id": "5z4kla0",
+    "name": "鴻佰科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師",
+      "資料庫管理人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "辦公流程自動化專案管理"
+        },
+        {
+          "children": [],
+          "text": "數據分析"
+        },
+        {
+          "children": [],
+          "text": "數據品質"
+        },
+        {
+          "children": [],
+          "text": "business intelligence"
+        }
+      ],
+      "text": "1.辦公流程自動化專案管理\n2.數據分析\n3.數據品質\n4.business intelligence"
+    },
+    "employment_type_raw": "全職",
+    "title": "DN-數據分析工程師 (工作地:新竹工業區_湖口)"
+  },
+  "location": {
+    "address_raw": "新竹縣湖口鄉",
+    "raw": "新竹縣湖口鄉"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "機械工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、機械工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "SMT",
+          "MES",
+          "PowerPoint",
+          "Excel",
+          "Python",
+          "C#",
+          "Linux"
+        ],
+        "label": "擅長工具",
+        "text": "SMT、MES、PowerPoint、Excel、Python、C#、Linux"
+      },
+      {
+        "items": [
+          "資料庫軟體應用",
+          "MES工廠執行系統規劃管理",
+          "系統架構規劃",
+          "資料庫程式設計",
+          "資料庫系統管理維護",
+          "韌體程式設計",
+          "軟體程式設計",
+          "韌體工程開發",
+          "軟體工程系統開發",
+          "系統整合分析"
+        ],
+        "label": "工作技能",
+        "text": "資料庫軟體應用、MES工廠執行系統規劃管理、系統架構規劃、資料庫程式設計、資料庫系統管理維護、韌體程式設計、軟體程式設計、韌體工程開發、軟體工程系統開發、系統整合分析"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "程式設計類：Python\n數據庫：MySQL、PostgreSQL、Oracle (加分項)\n數據分析工具：Tableau、Grafana、 (加分項)"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "機械工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "程式設計類：Python\n數據庫：MySQL、PostgreSQL、Oracle (加分項)\n數據分析工具：Tableau、Grafana、 (加分項)",
+    "skills": [
+      "資料庫軟體應用",
+      "MES工廠執行系統規劃管理",
+      "系統架構規劃",
+      "資料庫程式設計",
+      "資料庫系統管理維護",
+      "韌體程式設計",
+      "軟體程式設計",
+      "韌體工程開發",
+      "軟體工程系統開發",
+      "系統整合分析"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、機械工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：SMT、MES、PowerPoint、Excel、Python、C#、Linux\n工作技能：資料庫軟體應用、MES工廠執行系統規劃管理、系統架構規劃、資料庫程式設計、資料庫系統管理維護、韌體程式設計、軟體程式設計、韌體工程開發、軟體工程系統開發、系統整合分析\n其他條件：程式設計類：Python\n數據庫：MySQL、PostgreSQL、Oracle (加分項)\n數據分析工具：Tableau、Grafana、 (加分項)",
+    "tools": [
+      "SMT",
+      "MES",
+      "PowerPoint",
+      "Excel",
+      "Python",
+      "C#",
+      "Linux"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 79
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:35:43+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.辦公流程自動化專案管理\n2.數據分析\n3.數據品質\n4.business intelligence",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師",
+            "資料庫管理人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師、資料庫管理人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣湖口鄉",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.辦公流程自動化專案管理\n2.數據分析\n3.數據品質\n4.business intelligence"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "機械工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、機械工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "SMT",
+            "MES",
+            "PowerPoint",
+            "Excel",
+            "Python",
+            "C#",
+            "Linux"
+          ],
+          "label": "擅長工具",
+          "text": "SMT、MES、PowerPoint、Excel、Python、C#、Linux",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料庫軟體應用",
+            "MES工廠執行系統規劃管理",
+            "系統架構規劃",
+            "資料庫程式設計",
+            "資料庫系統管理維護",
+            "韌體程式設計",
+            "軟體程式設計",
+            "韌體工程開發",
+            "軟體工程系統開發",
+            "系統整合分析"
+          ],
+          "label": "工作技能",
+          "text": "資料庫軟體應用、MES工廠執行系統規劃管理、系統架構規劃、資料庫程式設計、資料庫系統管理維護、韌體程式設計、軟體程式設計、韌體工程開發、軟體工程系統開發、系統整合分析",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "程式設計類：Python\n數據庫：MySQL、PostgreSQL、Oracle (加分項)\n數據分析工具：Tableau、Grafana、 (加分項)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、機械工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：SMT、MES、PowerPoint、Excel、Python、C#、Linux\n工作技能：資料庫軟體應用、MES工廠執行系統規劃管理、系統架構規劃、資料庫程式設計、資料庫系統管理維護、韌體程式設計、軟體程式設計、韌體工程開發、軟體工程系統開發、系統整合分析\n其他條件：程式設計類：Python\n數據庫：MySQL、PostgreSQL、Oracle (加分項)\n數據分析工具：Tableau、Grafana、 (加分項)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8ybbt",
+    "job_url": "https://www.104.com.tw/job/8ybbt",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ybbt.json",
+    "raw_sha256": "9500686a108db9e31d9d110de246cc3cbb865bf46770f69a924f2628ca41949b",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ybbt"
+  }
+}

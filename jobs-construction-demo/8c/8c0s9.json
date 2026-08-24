@@ -1,0 +1,232 @@
+{
+  "company": {
+    "id": "w0qtznk",
+    "name": "璨揚企業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "系統分析師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "WEB全端程式系統開發。"
+        },
+        {
+          "children": [],
+          "text": "維運能源管理系統、試模管理系統、CPS機連網、協力廠資料交換系統、製造單位自動排程系統等。"
+        },
+        {
+          "children": [],
+          "text": "完成其他主管交辦事項。"
+        }
+      ],
+      "text": "1.WEB全端程式系統開發。\n2.維運能源管理系統、試模管理系統、CPS機連網、協力廠資料交換系統、製造單位自動排程系統等。\n3.完成其他主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "WEB工程師"
+  },
+  "location": {
+    "address_raw": "台南市安南區工業一路18號(709)",
+    "raw": "台南市安南區工業一路18號(709)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、MS SQL"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "資料庫系統管理維護",
+          "資料庫程式設計",
+          "系統架構規劃與維護"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、軟體工程系統開發、資料庫系統管理維護、資料庫程式設計、系統架構規劃與維護"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.精通C#(.NET / .NET Framework)程式撰寫，具備獨立開發與邏輯架構設計能力。\n2.熟悉Visual Studio 開發環境與專案管理。\n3.具備SQL語法撰寫、資料表設計與資料存取優化能力。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.精通C#(.NET / .NET Framework)程式撰寫，具備獨立開發與邏輯架構設計能力。\n2.熟悉Visual Studio 開發環境與專案管理。\n3.具備SQL語法撰寫、資料表設計與資料存取優化能力。",
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "資料庫系統管理維護",
+      "資料庫程式設計",
+      "系統架構規劃與維護"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：ASP.NET、C#、MS SQL\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、資料庫系統管理維護、資料庫程式設計、系統架構規劃與維護\n其他條件：1.精通C#(.NET / .NET Framework)程式撰寫，具備獨立開發與邏輯架構設計能力。\n2.熟悉Visual Studio 開發環境與專案管理。\n3.具備SQL語法撰寫、資料表設計與資料存取優化能力。",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 47
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:17:13+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.WEB全端程式系統開發。\n2.維運能源管理系統、試模管理系統、CPS機連網、協力廠資料交換系統、製造單位自動排程系統等。\n3.完成其他主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "系統分析師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、系統分析師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市安南區工業一路18號(709)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.WEB全端程式系統開發。\n2.維運能源管理系統、試模管理系統、CPS機連網、協力廠資料交換系統、製造單位自動排程系統等。\n3.完成其他主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "資料庫系統管理維護",
+            "資料庫程式設計",
+            "系統架構規劃與維護"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、軟體工程系統開發、資料庫系統管理維護、資料庫程式設計、系統架構規劃與維護",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.精通C#(.NET / .NET Framework)程式撰寫，具備獨立開發與邏輯架構設計能力。\n2.熟悉Visual Studio 開發環境與專案管理。\n3.具備SQL語法撰寫、資料表設計與資料存取優化能力。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：ASP.NET、C#、MS SQL\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、資料庫系統管理維護、資料庫程式設計、系統架構規劃與維護\n其他條件：1.精通C#(.NET / .NET Framework)程式撰寫，具備獨立開發與邏輯架構設計能力。\n2.熟悉Visual Studio 開發環境與專案管理。\n3.具備SQL語法撰寫、資料表設計與資料存取優化能力。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8c0s9",
+    "job_url": "https://www.104.com.tw/job/8c0s9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8c0s9.json",
+    "raw_sha256": "a09b0cc06c5b23a40138b8c7139b318681a38fa3b2dbea3189a399c71e07a8b3",
+    "requested_url": "https://www.104.com.tw/api/jobs/8c0s9"
+  }
+}

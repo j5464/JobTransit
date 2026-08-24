@@ -1,0 +1,186 @@
+{
+  "company": {
+    "id": "d8r7ccg",
+    "name": "微巨行動科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "UX設計師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依據官方Design Guideline進行Android/iOS應用程式介面設計"
+        },
+        {
+          "children": [],
+          "text": "Web介面設計，包含RWD"
+        },
+        {
+          "children": [],
+          "text": "製作宣傳品電子檔"
+        },
+        {
+          "children": [],
+          "text": "注重易用性，具有良好的美感表現力和邏輯思考能力。"
+        },
+        {
+          "children": [],
+          "text": "與業務/PM/開發密切合作，共同開發和優化產品解決方案"
+        }
+      ],
+      "text": "1. 依據官方Design Guideline進行Android/iOS應用程式介面設計\n2. Web介面設計，包含RWD\n3. 製作宣傳品電子檔\n4. 注重易用性，具有良好的美感表現力和邏輯思考能力。\n5. 與業務/PM/開發密切合作，共同開發和優化產品解決方案"
+    },
+    "employment_type_raw": "全職",
+    "title": "使用介面設計師"
+  },
+  "location": {
+    "address_raw": "台北市松山區光復北路82號5樓",
+    "raw": "台北市松山區光復北路82號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "CSS",
+          "Zeplin",
+          "Figma"
+        ],
+        "label": "擅長工具",
+        "text": "CSS、Zeplin、Figma"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "有一年以上Android/iOS應用程式介面設計尤佳"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "有一年以上Android/iOS應用程式介面設計尤佳",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n擅長工具：CSS、Zeplin、Figma\n其他條件：有一年以上Android/iOS應用程式介面設計尤佳",
+    "tools": [
+      "CSS",
+      "Zeplin",
+      "Figma"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 24
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:22:08+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 依據官方Design Guideline進行Android/iOS應用程式介面設計\n2. Web介面設計，包含RWD\n3. 製作宣傳品電子檔\n4. 注重易用性，具有良好的美感表現力和邏輯思考能力。\n5. 與業務/PM/開發密切合作，共同開發和優化產品解決方案",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "UX設計師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "UX設計師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區光復北路82號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 依據官方Design Guideline進行Android/iOS應用程式介面設計\n2. Web介面設計，包含RWD\n3. 製作宣傳品電子檔\n4. 注重易用性，具有良好的美感表現力和邏輯思考能力。\n5. 與業務/PM/開發密切合作，共同開發和優化產品解決方案"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "CSS",
+            "Zeplin",
+            "Figma"
+          ],
+          "label": "擅長工具",
+          "text": "CSS、Zeplin、Figma",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "有一年以上Android/iOS應用程式介面設計尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n擅長工具：CSS、Zeplin、Figma\n其他條件：有一年以上Android/iOS應用程式介面設計尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "88ww3",
+    "job_url": "https://www.104.com.tw/job/88ww3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/88ww3.json",
+    "raw_sha256": "e1e2022ad2088838b7b77ff970c9ba10f31bde686dcc84648e20da101fc9666b",
+    "requested_url": "https://www.104.com.tw/api/jobs/88ww3"
+  }
+}

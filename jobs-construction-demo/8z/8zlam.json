@@ -1,0 +1,262 @@
+{
+  "company": {
+    "id": "1a2x6bnd8p",
+    "name": "米奈娛樂有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "跨平台開發： 使用 Flutter 進行 iOS / Android 雙平台應用程式開發與功能更新。"
+        },
+        {
+          "children": [],
+          "text": "架構設計： 運用 GetX 框架進行狀態管理（State Management）、路由管理及相依性注入（Dependency Injection）的架構實作。"
+        },
+        {
+          "children": [],
+          "text": "團隊協作： 與後端工程團隊緊密配合，完成高效能 API 串接與複雜的資料互動邏輯。"
+        },
+        {
+          "children": [],
+          "text": "AI 功能整合： 負責 AI 核心功能的前端開發，包含即時通訊（IM）、智慧推薦、語音與影像互動等模組。"
+        },
+        {
+          "children": [],
+          "text": "效能調優： 持續監測並優化 App 效能，包含解決流暢度問題、記憶體優化及冷啟動（Cold Start）效能改善。"
+        },
+        {
+          "children": [],
+          "text": "品質維護： 參與 Code Review 流程，維護程式碼整潔度（Clean Code）並撰寫高品質的技術文件。"
+        },
+        {
+          "children": [],
+          "text": "核心技術： 2 年以上 Flutter 開發經驗，精通 Dart 語言特性與 Best Practices。"
+        },
+        {
+          "children": [],
+          "text": "框架運用： 熟練運用 GetX 框架，並具備實際大型專案的導入經驗。"
+        },
+        {
+          "children": [],
+          "text": "平台知識： 熟悉 iOS 與 Android 平台特性，具備基礎的原生開發（Native）能力。"
+        },
+        {
+          "children": [],
+          "text": "通訊協定： 瞭解常見即時通訊協定（如 WebSocket、MQTT 等）的運作原理與串接。"
+        },
+        {
+          "children": [],
+          "text": "UI/UX 堅持： 具備優秀的 UI 還原能力，對介面細節與動態互動體驗有高度要求。"
+        },
+        {
+          "children": [],
+          "text": "開發工具： 熟悉 Git 版本控制流程與 Gitflow 協作模式。"
+        },
+        {
+          "children": [],
+          "text": "個人特質： 具備良好的溝通協調能力、抗壓性，以及能獨立排查並解決問題的邏輯思考。"
+        }
+      ],
+      "text": "[主要工作內容]\n● 跨平台開發： 使用 Flutter 進行 iOS / Android 雙平台應用程式開發與功能更新。\n● 架構設計： 運用 GetX 框架進行狀態管理（State Management）、路由管理及相依性注入（Dependency Injection）的架構實作。\n● 團隊協作： 與後端工程團隊緊密配合，完成高效能 API 串接與複雜的資料互動邏輯。\n● AI 功能整合： 負責 AI 核心功能的前端開發，包含即時通訊（IM）、智慧推薦、語音與影像互動等模組。\n● 效能調優： 持續監測並優化 App 效能，包含解決流暢度問題、記憶體優化及冷啟動（Cold Start）效能改善。\n● 品質維護： 參與 Code Review 流程，維護程式碼整潔度（Clean Code）並撰寫高品質的技術文件。\n[主要技術要求]\n● 核心技術： 2 年以上 Flutter 開發經驗，精通 Dart 語言特性與 Best Practices。\n● 框架運用： 熟練運用 GetX 框架，並具備實際大型專案的導入經驗。\n● 平台知識： 熟悉 iOS 與 Android 平台特性，具備基礎的原生開發（Native）能力。\n● 通訊協定： 瞭解常見即時通訊協定（如 WebSocket、MQTT 等）的運作原理與串接。\n● UI/UX 堅持： 具備優秀的 UI 還原能力，對介面細節與動態互動體驗有高度要求。\n● 開發工具： 熟悉 Git 版本控制流程與 Gitflow 協作模式。\n● 個人特質： 具備良好的溝通協調能力、抗壓性，以及能獨立排查並解決問題的邏輯思考。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Flutter 前端工程師 （AI聊天App）"
+  },
+  "location": {
+    "address_raw": "台北市大安區敦化南路二段182號",
+    "raw": "台北市大安區敦化南路二段182號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Android",
+          "Git",
+          "Flutter",
+          "iOS"
+        ],
+        "label": "擅長工具",
+        "text": "Android、Git、Flutter、iOS"
+      },
+      {
+        "items": [
+          "AI",
+          "語言模型",
+          "生成式AI",
+          "Machine Learning"
+        ],
+        "label": "工作技能",
+        "text": "AI、語言模型、生成式AI、Machine Learning"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "● 具備 社交類型 或 即時通訊類 產品的開發與維護經驗。\n● 瞭解 AI 相關技術（如 LLM、TTS、ASR 等）在行動裝置端的應用場景。\n● 具備從開發到 App Store 及 Google Play 完整上架與審核 的實戰經驗。\n● 熟悉 CI/CD 流程與自動化建置工具（如 Fastlane、Codemagic 等）。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "● 具備 社交類型 或 即時通訊類 產品的開發與維護經驗。\n● 瞭解 AI 相關技術（如 LLM、TTS、ASR 等）在行動裝置端的應用場景。\n● 具備從開發到 App Store 及 Google Play 完整上架與審核 的實戰經驗。\n● 熟悉 CI/CD 流程與自動化建置工具（如 Fastlane、Codemagic 等）。",
+    "skills": [
+      "AI",
+      "語言模型",
+      "生成式AI",
+      "Machine Learning"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科、大學\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Android、Git、Flutter、iOS\n工作技能：AI、語言模型、生成式AI、Machine Learning\n其他條件：● 具備 社交類型 或 即時通訊類 產品的開發與維護經驗。\n● 瞭解 AI 相關技術（如 LLM、TTS、ASR 等）在行動裝置端的應用場景。\n● 具備從開發到 App Store 及 Google Play 完整上架與審核 的實戰經驗。\n● 熟悉 CI/CD 流程與自動化建置工具（如 Fastlane、Codemagic 等）。",
+    "tools": [
+      "Android",
+      "Git",
+      "Flutter",
+      "iOS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 95
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:16:58+08:00"
+  },
+  "salary": {
+    "raw": "月薪70,000~80,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "[主要工作內容]\n● 跨平台開發： 使用 Flutter 進行 iOS / Android 雙平台應用程式開發與功能更新。\n● 架構設計： 運用 GetX 框架進行狀態管理（State Management）、路由管理及相依性注入（Dependency Injection）的架構實作。\n● 團隊協作： 與後端工程團隊緊密配合，完成高效能 API 串接與複雜的資料互動邏輯。\n● AI 功能整合： 負責 AI 核心功能的前端開發，包含即時通訊（IM）、智慧推薦、語音與影像互動等模組。\n● 效能調優： 持續監測並優化 App 效能，包含解決流暢度問題、記憶體優化及冷啟動（Cold Start）效能改善。\n● 品質維護： 參與 Code Review 流程，維護程式碼整潔度（Clean Code）並撰寫高品質的技術文件。\n[主要技術要求]\n● 核心技術： 2 年以上 Flutter 開發經驗，精通 Dart 語言特性與 Best Practices。\n● 框架運用： 熟練運用 GetX 框架，並具備實際大型專案的導入經驗。\n● 平台知識： 熟悉 iOS 與 Android 平台特性，具備基礎的原生開發（Native）能力。\n● 通訊協定： 瞭解常見即時通訊協定（如 WebSocket、MQTT 等）的運作原理與串接。\n● UI/UX 堅持： 具備優秀的 UI 還原能力，對介面細節與動態互動體驗有高度要求。\n● 開發工具： 熟悉 Git 版本控制流程與 Gitflow 協作模式。\n● 個人特質： 具備良好的溝通協調能力、抗壓性，以及能獨立排查並解決問題的邏輯思考。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪70,000~80,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區敦化南路二段182號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "[主要工作內容]\n● 跨平台開發： 使用 Flutter 進行 iOS / Android 雙平台應用程式開發與功能更新。\n● 架構設計： 運用 GetX 框架進行狀態管理（State Management）、路由管理及相依性注入（Dependency Injection）的架構實作。\n● 團隊協作： 與後端工程團隊緊密配合，完成高效能 API 串接與複雜的資料互動邏輯。\n● AI 功能整合： 負責 AI 核心功能的前端開發，包含即時通訊（IM）、智慧推薦、語音與影像互動等模組。\n● 效能調優： 持續監測並優化 App 效能，包含解決流暢度問題、記憶體優化及冷啟動（Cold Start）效能改善。\n● 品質維護： 參與 Code Review 流程，維護程式碼整潔度（Clean Code）並撰寫高品質的技術文件。\n[主要技術要求]\n● 核心技術： 2 年以上 Flutter 開發經驗，精通 Dart 語言特性與 Best Practices。\n● 框架運用： 熟練運用 GetX 框架，並具備實際大型專案的導入經驗。\n● 平台知識： 熟悉 iOS 與 Android 平台特性，具備基礎的原生開發（Native）能力。\n● 通訊協定： 瞭解常見即時通訊協定（如 WebSocket、MQTT 等）的運作原理與串接。\n● UI/UX 堅持： 具備優秀的 UI 還原能力，對介面細節與動態互動體驗有高度要求。\n● 開發工具： 熟悉 Git 版本控制流程與 Gitflow 協作模式。\n● 個人特質： 具備良好的溝通協調能力、抗壓性，以及能獨立排查並解決問題的邏輯思考。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Android",
+            "Git",
+            "Flutter",
+            "iOS"
+          ],
+          "label": "擅長工具",
+          "text": "Android、Git、Flutter、iOS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "語言模型",
+            "生成式AI",
+            "Machine Learning"
+          ],
+          "label": "工作技能",
+          "text": "AI、語言模型、生成式AI、Machine Learning",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "● 具備 社交類型 或 即時通訊類 產品的開發與維護經驗。\n● 瞭解 AI 相關技術（如 LLM、TTS、ASR 等）在行動裝置端的應用場景。\n● 具備從開發到 App Store 及 Google Play 完整上架與審核 的實戰經驗。\n● 熟悉 CI/CD 流程與自動化建置工具（如 Fastlane、Codemagic 等）。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科、大學\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Android、Git、Flutter、iOS\n工作技能：AI、語言模型、生成式AI、Machine Learning\n其他條件：● 具備 社交類型 或 即時通訊類 產品的開發與維護經驗。\n● 瞭解 AI 相關技術（如 LLM、TTS、ASR 等）在行動裝置端的應用場景。\n● 具備從開發到 App Store 及 Google Play 完整上架與審核 的實戰經驗。\n● 熟悉 CI/CD 流程與自動化建置工具（如 Fastlane、Codemagic 等）。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8zlam",
+    "job_url": "https://www.104.com.tw/job/8zlam",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8zlam.json",
+    "raw_sha256": "7dce592770f2e9f00d50c1b0aaa79ffb27bb0a752203fd47591fd2834ee3f20f",
+    "requested_url": "https://www.104.com.tw/api/jobs/8zlam"
+  }
+}

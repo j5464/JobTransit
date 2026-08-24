@@ -1,0 +1,224 @@
+{
+  "company": {
+    "id": "1a2x6bk2zy",
+    "name": "台灣骨王生技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料科學家",
+      "AI工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "AI 應用工程師 AI Application Engineer\n部門 軟體研發部 AI 產品開發組\n職缺類型 全職\n工作地點 台中總公司\nDepartment Software Engineering AI Product Team\nEmployment Type Full time\nLocation Taichung Headquarters 100 percent on site No remote work\n職位目標\n身為 AI 應用工程師 您將是連結大語言模型與實際商業產品的核心橋樑 常駐台中總公司與研發團隊現場協作 負責設計 開發與維護基於生成式 AI 的軟體服務 透過 RAG 檢索增強生成與 Agent 智能體機制 將最新 AI 技術轉化為穩定 高效的用戶體驗\nAs an AI Application Engineer you will bridge advanced Large Language Models with real world commercial products Stationed full time at our Taichung Headquarters you will design build and maintain Generative AI powered software services using RAG and Agent architectures\n主要職責 Key Responsibilities\n一 使用 Python TypeScript Node.js 或 Go 開發並維護企業級 AI 應用系統與 API 整合 OpenAI Anthropic Claude 及 Llama 等開源模型\nDevelop and maintain enterprise AI applications and APIs using Python TypeScript Node.js or Go Integrate OpenAI Anthropic Claude and open source models like Llama\n二 設計並優化 RAG 架構 包含文件解析 Chunking 混合檢索與重排序 搭建與維護向量資料庫如 Pinecone Qdrant ChromaDB PGvector\nDesign and optimize RAG pipelines including document parsing chunking hybrid search and reranking Build and maintain vector databases such as Pinecone Qdrant ChromaDB PGvector\n三 利用 LangChain LlamaIndex LangGraph 或 MCP 等框架開發具工具呼叫與自主推理能力的 AI Agent 規劃思維鏈與提示詞工程邏輯\nBuild autonomous AI Agents with tool calling and reasoning using LangChain LlamaIndex LangGraph or MCP Design Chain of Thought prompting workflows\n四 建立模型輸出評測機制 監控並降低 AI 幻覺率與響應延遲 實施 API 快取與 Token 成本控制\nEstablish LLM evaluation pipelines to monitor and reduce hallucination rates and latency Implement API caching and token cost controls\n五 於台中總公司現場與 PM UI UX 及軟硬體團隊緊密協作 持續追蹤前沿 AI 技術推動產品迭代\nWork on site in Taichung with PMs UI UX designers and hardware teams Track emerging GenAI technology to drive product innovation\n任職資格 Requirements\n必要條件 Basic Qualifications\n全職 常駐台中總公司\nFull time and on site at Taichung HQ\n資訊工程 數據科學或相關理工科系學士以上學位 2 年以上軟體開發經驗 具 AI LLM 專案經驗者佳\nBachelor degree or higher in CS Data Science or related fields 2 plus years software experience LLM AI project experience preferred\n精通 Python 或 TypeScript Node.js 具 RESTful API GraphQL 開發能力\nProficient in Python or TypeScript Node.js with RESTful GraphQL API skills\n熟悉主流 LLM API 介接 具 LangChain LlamaIndex 等框架實務經驗\nFamiliar with major LLM APIs and hands on experience with LangChain or LlamaIndex\n熟悉 PostgreSQL MySQL 及至少一種向量資料庫 Pinecone Qdrant Milvus 或 PGvector\nProficient in PostgreSQL MySQL and at least one vector database Pinecone Qdrant Milvus or PGvector\n熟悉 Git Docker 及雲端平台 AWS GCP 或 Azure 基礎操作\nSolid knowledge of Git Docker and cloud platforms AWS GCP or Azure\n加分條件 Preferred Qualifications\n具開源模型微調 SFT LoRA PEFT 與本地部署 vLLM Ollama 經驗\nExperience with open source LLM fine tuning and local deployment vLLM Ollama\n熟悉 LangGraph AutoGen 或 MCP 等新一代 Agent 框架\nFamiliarity with LangGraph AutoGen or MCP frameworks\n具前端開發經驗 React Next.js 能獨立完成全棧 AI PoC\nFrontend experience React Next.js able to build full stack AI PoCs\n具 LLM 評測框架 Ragas TruLens LangSmith 使用經驗\nExperience with LLM evaluation frameworks Ragas TruLens LangSmith\n良好英文讀寫與溝通能力\nGood written and spoken English for cross border collaboration\n軟實力 Soft Skills\n能於現場與跨領域專家高效溝通 將複雜技術簡化表達\nCommunicate complex technical concepts clearly in an in person environment\n具強大自主學習能力 快速適應 AI 技術迭代\nStrong self driven learning ability to adapt to fast evolving AI technology\n能在非確定性模型輸出中找出問題根源並收斂\nAbility to diagnose and stabilize non deterministic LLM output behavior"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI 應用工程師（AI Application Engineer / GenAI Engineer）"
+  },
+  "location": {
+    "address_raw": "台中市大雅區科雅路41號2樓",
+    "raw": "台中市大雅區科雅路41號2樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、電機電子工程相關"
+      },
+      {
+        "items": [
+          "PyTorch",
+          "tensorflow",
+          "Copilot",
+          "MLOPs",
+          "LLM",
+          "Prompt",
+          "Claude",
+          "NLP",
+          "Cloud",
+          "Kubernetes",
+          "hadoop",
+          "ETL",
+          "AWS",
+          "scikit-learn",
+          "SDLC",
+          "Gemini",
+          "Keras",
+          "ChatGPT",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "PyTorch、tensorflow、Copilot、MLOPs、LLM、Prompt、Claude、NLP、Cloud、Kubernetes、hadoop、ETL、AWS、scikit-learn、SDLC、Gemini、Keras、ChatGPT、Python"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "數學及電算機科學學科類",
+      "電機電子工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：專科以上\n科系要求：數學及電算機科學學科類、電機電子工程相關\n擅長工具：PyTorch、tensorflow、Copilot、MLOPs、LLM、Prompt、Claude、NLP、Cloud、Kubernetes、hadoop、ETL、AWS、scikit-learn、SDLC、Gemini、Keras、ChatGPT、Python",
+    "tools": [
+      "PyTorch",
+      "tensorflow",
+      "Copilot",
+      "MLOPs",
+      "LLM",
+      "Prompt",
+      "Claude",
+      "NLP",
+      "Cloud",
+      "Kubernetes",
+      "hadoop",
+      "ETL",
+      "AWS",
+      "scikit-learn",
+      "SDLC",
+      "Gemini",
+      "Keras",
+      "ChatGPT",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 22
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:16:55+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "AI 應用工程師 AI Application Engineer\n部門 軟體研發部 AI 產品開發組\n職缺類型 全職\n工作地點 台中總公司\nDepartment Software Engineering AI Product Team\nEmployment Type Full time\nLocation Taichung Headquarters 100 percent on site No remote work\n職位目標\n身為 AI 應用工程師 您將是連結大語言模型與實際商業產品的核心橋樑 常駐台中總公司與研發團隊現場協作 負責設計 開發與維護基於生成式 AI 的軟體服務 透過 RAG 檢索增強生成與 Agent 智能體機制 將最新 AI 技術轉化為穩定 高效的用戶體驗\nAs an AI Application Engineer you will bridge advanced Large Language Models with real world commercial products Stationed full time at our Taichung Headquarters you will design build and maintain Generative AI powered software services using RAG and Agent architectures\n主要職責 Key Responsibilities\n一 使用 Python TypeScript Node.js 或 Go 開發並維護企業級 AI 應用系統與 API 整合 OpenAI Anthropic Claude 及 Llama 等開源模型\nDevelop and maintain enterprise AI applications and APIs using Python TypeScript Node.js or Go Integrate OpenAI Anthropic Claude and open source models like Llama\n二 設計並優化 RAG 架構 包含文件解析 Chunking 混合檢索與重排序 搭建與維護向量資料庫如 Pinecone Qdrant ChromaDB PGvector\nDesign and optimize RAG pipelines including document parsing chunking hybrid search and reranking Build and maintain vector databases such as Pinecone Qdrant ChromaDB PGvector\n三 利用 LangChain LlamaIndex LangGraph 或 MCP 等框架開發具工具呼叫與自主推理能力的 AI Agent 規劃思維鏈與提示詞工程邏輯\nBuild autonomous AI Agents with tool calling and reasoning using LangChain LlamaIndex LangGraph or MCP Design Chain of Thought prompting workflows\n四 建立模型輸出評測機制 監控並降低 AI 幻覺率與響應延遲 實施 API 快取與 Token 成本控制\nEstablish LLM evaluation pipelines to monitor and reduce hallucination rates and latency Implement API caching and token cost controls\n五 於台中總公司現場與 PM UI UX 及軟硬體團隊緊密協作 持續追蹤前沿 AI 技術推動產品迭代\nWork on site in Taichung with PMs UI UX designers and hardware teams Track emerging GenAI technology to drive product innovation\n任職資格 Requirements\n必要條件 Basic Qualifications\n全職 常駐台中總公司\nFull time and on site at Taichung HQ\n資訊工程 數據科學或相關理工科系學士以上學位 2 年以上軟體開發經驗 具 AI LLM 專案經驗者佳\nBachelor degree or higher in CS Data Science or related fields 2 plus years software experience LLM AI project experience preferred\n精通 Python 或 TypeScript Node.js 具 RESTful API GraphQL 開發能力\nProficient in Python or TypeScript Node.js with RESTful GraphQL API skills\n熟悉主流 LLM API 介接 具 LangChain LlamaIndex 等框架實務經驗\nFamiliar with major LLM APIs and hands on experience with LangChain or LlamaIndex\n熟悉 PostgreSQL MySQL 及至少一種向量資料庫 Pinecone Qdrant Milvus 或 PGvector\nProficient in PostgreSQL MySQL and at least one vector database Pinecone Qdrant Milvus or PGvector\n熟悉 Git Docker 及雲端平台 AWS GCP 或 Azure 基礎操作\nSolid knowledge of Git Docker and cloud platforms AWS GCP or Azure\n加分條件 Preferred Qualifications\n具開源模型微調 SFT LoRA PEFT 與本地部署 vLLM Ollama 經驗\nExperience with open source LLM fine tuning and local deployment vLLM Ollama\n熟悉 LangGraph AutoGen 或 MCP 等新一代 Agent 框架\nFamiliarity with LangGraph AutoGen or MCP frameworks\n具前端開發經驗 React Next.js 能獨立完成全棧 AI PoC\nFrontend experience React Next.js able to build full stack AI PoCs\n具 LLM 評測框架 Ragas TruLens LangSmith 使用經驗\nExperience with LLM evaluation frameworks Ragas TruLens LangSmith\n良好英文讀寫與溝通能力\nGood written and spoken English for cross border collaboration\n軟實力 Soft Skills\n能於現場與跨領域專家高效溝通 將複雜技術簡化表達\nCommunicate complex technical concepts clearly in an in person environment\n具強大自主學習能力 快速適應 AI 技術迭代\nStrong self driven learning ability to adapt to fast evolving AI technology\n能在非確定性模型輸出中找出問題根源並收斂\nAbility to diagnose and stabilize non deterministic LLM output behavior",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料科學家",
+            "AI工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料科學家、AI工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市大雅區科雅路41號2樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "AI 應用工程師 AI Application Engineer\n部門 軟體研發部 AI 產品開發組\n職缺類型 全職\n工作地點 台中總公司\nDepartment Software Engineering AI Product Team\nEmployment Type Full time\nLocation Taichung Headquarters 100 percent on site No remote work\n職位目標\n身為 AI 應用工程師 您將是連結大語言模型與實際商業產品的核心橋樑 常駐台中總公司與研發團隊現場協作 負責設計 開發與維護基於生成式 AI 的軟體服務 透過 RAG 檢索增強生成與 Agent 智能體機制 將最新 AI 技術轉化為穩定 高效的用戶體驗\nAs an AI Application Engineer you will bridge advanced Large Language Models with real world commercial products Stationed full time at our Taichung Headquarters you will design build and maintain Generative AI powered software services using RAG and Agent architectures\n主要職責 Key Responsibilities\n一 使用 Python TypeScript Node.js 或 Go 開發並維護企業級 AI 應用系統與 API 整合 OpenAI Anthropic Claude 及 Llama 等開源模型\nDevelop and maintain enterprise AI applications and APIs using Python TypeScript Node.js or Go Integrate OpenAI Anthropic Claude and open source models like Llama\n二 設計並優化 RAG 架構 包含文件解析 Chunking 混合檢索與重排序 搭建與維護向量資料庫如 Pinecone Qdrant ChromaDB PGvector\nDesign and optimize RAG pipelines including document parsing chunking hybrid search and reranking Build and maintain vector databases such as Pinecone Qdrant ChromaDB PGvector\n三 利用 LangChain LlamaIndex LangGraph 或 MCP 等框架開發具工具呼叫與自主推理能力的 AI Agent 規劃思維鏈與提示詞工程邏輯\nBuild autonomous AI Agents with tool calling and reasoning using LangChain LlamaIndex LangGraph or MCP Design Chain of Thought prompting workflows\n四 建立模型輸出評測機制 監控並降低 AI 幻覺率與響應延遲 實施 API 快取與 Token 成本控制\nEstablish LLM evaluation pipelines to monitor and reduce hallucination rates and latency Implement API caching and token cost controls\n五 於台中總公司現場與 PM UI UX 及軟硬體團隊緊密協作 持續追蹤前沿 AI 技術推動產品迭代\nWork on site in Taichung with PMs UI UX designers and hardware teams Track emerging GenAI technology to drive product innovation\n任職資格 Requirements\n必要條件 Basic Qualifications\n全職 常駐台中總公司\nFull time and on site at Taichung HQ\n資訊工程 數據科學或相關理工科系學士以上學位 2 年以上軟體開發經驗 具 AI LLM 專案經驗者佳\nBachelor degree or higher in CS Data Science or related fields 2 plus years software experience LLM AI project experience preferred\n精通 Python 或 TypeScript Node.js 具 RESTful API GraphQL 開發能力\nProficient in Python or TypeScript Node.js with RESTful GraphQL API skills\n熟悉主流 LLM API 介接 具 LangChain LlamaIndex 等框架實務經驗\nFamiliar with major LLM APIs and hands on experience with LangChain or LlamaIndex\n熟悉 PostgreSQL MySQL 及至少一種向量資料庫 Pinecone Qdrant Milvus 或 PGvector\nProficient in PostgreSQL MySQL and at least one vector database Pinecone Qdrant Milvus or PGvector\n熟悉 Git Docker 及雲端平台 AWS GCP 或 Azure 基礎操作\nSolid knowledge of Git Docker and cloud platforms AWS GCP or Azure\n加分條件 Preferred Qualifications\n具開源模型微調 SFT LoRA PEFT 與本地部署 vLLM Ollama 經驗\nExperience with open source LLM fine tuning and local deployment vLLM Ollama\n熟悉 LangGraph AutoGen 或 MCP 等新一代 Agent 框架\nFamiliarity with LangGraph AutoGen or MCP frameworks\n具前端開發經驗 React Next.js 能獨立完成全棧 AI PoC\nFrontend experience React Next.js able to build full stack AI PoCs\n具 LLM 評測框架 Ragas TruLens LangSmith 使用經驗\nExperience with LLM evaluation frameworks Ragas TruLens LangSmith\n良好英文讀寫與溝通能力\nGood written and spoken English for cross border collaboration\n軟實力 Soft Skills\n能於現場與跨領域專家高效溝通 將複雜技術簡化表達\nCommunicate complex technical concepts clearly in an in person environment\n具強大自主學習能力 快速適應 AI 技術迭代\nStrong self driven learning ability to adapt to fast evolving AI technology\n能在非確定性模型輸出中找出問題根源並收斂\nAbility to diagnose and stabilize non deterministic LLM output behavior"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PyTorch",
+            "tensorflow",
+            "Copilot",
+            "MLOPs",
+            "LLM",
+            "Prompt",
+            "Claude",
+            "NLP",
+            "Cloud",
+            "Kubernetes",
+            "hadoop",
+            "ETL",
+            "AWS",
+            "scikit-learn",
+            "SDLC",
+            "Gemini",
+            "Keras",
+            "ChatGPT",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "PyTorch、tensorflow、Copilot、MLOPs、LLM、Prompt、Claude、NLP、Cloud、Kubernetes、hadoop、ETL、AWS、scikit-learn、SDLC、Gemini、Keras、ChatGPT、Python",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科以上\n科系要求：數學及電算機科學學科類、電機電子工程相關\n擅長工具：PyTorch、tensorflow、Copilot、MLOPs、LLM、Prompt、Claude、NLP、Cloud、Kubernetes、hadoop、ETL、AWS、scikit-learn、SDLC、Gemini、Keras、ChatGPT、Python"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94heh",
+    "job_url": "https://www.104.com.tw/job/94heh",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94heh.json",
+    "raw_sha256": "0a48008fa04ff906307052c33969556189a85a6b6c3e24f553511c0405024211",
+    "requested_url": "https://www.104.com.tw/api/jobs/94heh"
+  }
+}

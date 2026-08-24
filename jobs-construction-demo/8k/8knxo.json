@@ -1,0 +1,212 @@
+{
+  "company": {
+    "id": "5ug8d2g",
+    "name": "上旗科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "軟體工程師",
+      "通訊軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟電腦通訊，略有P L C程式邏輯概念基礎"
+        },
+        {
+          "children": [],
+          "text": "負責公司軟硬體設備安裝、配置、升級與日常故障排除"
+        },
+        {
+          "children": [],
+          "text": "略有美工基礎"
+        },
+        {
+          "children": [],
+          "text": "具備套裝圖控軟體撰寫、測試與優化能力"
+        },
+        {
+          "children": [],
+          "text": "現場與客戶互動系統測試、修改及運轉"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項"
+        }
+      ],
+      "text": "1.熟電腦通訊，略有P L C程式邏輯概念基礎\n2.負責公司軟硬體設備安裝、配置、升級與日常故障排除\n3.略有美工基礎\n4.具備套裝圖控軟體撰寫、測試與優化能力\n5.現場與客戶互動系統測試、修改及運轉\n6.主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "圖控工程師"
+  },
+  "location": {
+    "address_raw": "彰化縣彰化市永安東街12號1-2樓",
+    "raw": "彰化縣彰化市永安東街12號1-2樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "PLC"
+        ],
+        "label": "擅長工具",
+        "text": "PLC"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "系統架構規劃",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：不拘\n科系要求：資訊工程相關\n擅長工具：PLC\n工作技能：系統架構規劃、軟體程式設計",
+    "tools": [
+      "PLC"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 65
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:02:06+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.熟電腦通訊，略有P L C程式邏輯概念基礎\n2.負責公司軟硬體設備安裝、配置、升級與日常故障排除\n3.略有美工基礎\n4.具備套裝圖控軟體撰寫、測試與優化能力\n5.現場與客戶互動系統測試、修改及運轉\n6.主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "軟體工程師",
+            "通訊軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、軟體工程師、通訊軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "彰化縣彰化市永安東街12號1-2樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.熟電腦通訊，略有P L C程式邏輯概念基礎\n2.負責公司軟硬體設備安裝、配置、升級與日常故障排除\n3.略有美工基礎\n4.具備套裝圖控軟體撰寫、測試與優化能力\n5.現場與客戶互動系統測試、修改及運轉\n6.主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PLC"
+          ],
+          "label": "擅長工具",
+          "text": "PLC",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：不拘\n科系要求：資訊工程相關\n擅長工具：PLC\n工作技能：系統架構規劃、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8knxo",
+    "job_url": "https://www.104.com.tw/job/8knxo",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8knxo.json",
+    "raw_sha256": "fc39a5de245e9301ac7650f06796a9a656664d3e531eb85cfa0c5b1e219d51f6",
+    "requested_url": "https://www.104.com.tw/api/jobs/8knxo"
+  }
+}

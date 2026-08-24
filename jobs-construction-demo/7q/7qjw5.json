@@ -1,0 +1,191 @@
+{
+  "company": {
+    "id": "9mfvobu",
+    "name": "輝創電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發車用毫米波雷達、車身控制器或其它車用產品的韌體與程式。"
+        },
+        {
+          "children": [],
+          "text": "晶片韌體控制之撰寫與維護、驅動程式開發/移植"
+        },
+        {
+          "children": [],
+          "text": "維護軟體平台架構與開發"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項"
+        }
+      ],
+      "text": "1.開發車用毫米波雷達、車身控制器或其它車用產品的韌體與程式。\n2.晶片韌體控制之撰寫與維護、驅動程式開發/移植\n4.維護軟體平台架構與開發\n5.主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "雷達韌體工程師-竹北"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市文興路一段136號3樓",
+    "raw": "新竹縣竹北市文興路一段136號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "工程學科類"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "具車廠與通訊背景尤佳相關經驗者尤佳"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "工程學科類"
+    ],
+    "other_text": "具車廠與通訊背景尤佳相關經驗者尤佳",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：碩士以上\n科系要求：工程學科類\n語文條件：英文：精通、精通、精通、精通\n其他條件：具車廠與通訊背景尤佳相關經驗者尤佳",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 52
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:29:54+08:00"
+  },
+  "salary": {
+    "raw": "月薪55,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.開發車用毫米波雷達、車身控制器或其它車用產品的韌體與程式。\n2.晶片韌體控制之撰寫與維護、驅動程式開發/移植\n4.維護軟體平台架構與開發\n5.主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪55,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市文興路一段136號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.開發車用毫米波雷達、車身控制器或其它車用產品的韌體與程式。\n2.晶片韌體控制之撰寫與維護、驅動程式開發/移植\n4.維護軟體平台架構與開發\n5.主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "具車廠與通訊背景尤佳相關經驗者尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：碩士以上\n科系要求：工程學科類\n語文條件：英文：精通、精通、精通、精通\n其他條件：具車廠與通訊背景尤佳相關經驗者尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7qjw5",
+    "job_url": "https://www.104.com.tw/job/7qjw5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7qjw5.json",
+    "raw_sha256": "77f63e0084e9f56bec2391551097a0860609d264c5b2579ea8971ff35fd89e13",
+    "requested_url": "https://www.104.com.tw/api/jobs/7qjw5"
+  }
+}

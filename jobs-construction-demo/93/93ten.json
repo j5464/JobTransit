@@ -1,0 +1,197 @@
+{
+  "company": {
+    "id": "axyilo0",
+    "name": "凌陽科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "電腦視覺與影像處理演算法之開發"
+        },
+        {
+          "children": [],
+          "text": "影像拼接與防震算法開發與效能優化"
+        },
+        {
+          "children": [],
+          "text": "影像AI技術研究"
+        },
+        {
+          "children": [],
+          "text": "相機與IMU校正工具開發"
+        },
+        {
+          "children": [],
+          "text": "系統端算法整合與功能驗證"
+        },
+        {
+          "children": [],
+          "text": "【MUST】2年以上影像處理相關背景及實務經驗"
+        },
+        {
+          "children": [],
+          "text": "【MUST】鏡頭校正，影像拼接相關知識與經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 C/C++，算法落地"
+        },
+        {
+          "children": [],
+          "text": "積極、熱誠、具有分析解決問題以團隊合作"
+        }
+      ],
+      "text": "【工作內容】\n1. 電腦視覺與影像處理演算法之開發\n2. 影像拼接與防震算法開發與效能優化\n3. 影像AI技術研究\n3. 相機與IMU校正工具開發\n4. 系統端算法整合與功能驗證\n【專業要求】\n1. 【MUST】2年以上影像處理相關背景及實務經驗\n2. 【MUST】鏡頭校正，影像拼接相關知識與經驗\n3. 熟悉 C/C++，算法落地\n5. 積極、熱誠、具有分析解決問題以團隊合作"
+    },
+    "employment_type_raw": "全職",
+    "title": "電腦視覺算法工程師(AG0010)"
+  },
+  "location": {
+    "address_raw": "新竹市創新一路19號(300)",
+    "raw": "新竹市創新一路19號(300)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、數學及電算機科學學科類"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 10頁內ppt，展示專案經歷與基礎簡報能力\n2. DSP開發/系統整合相關經驗\n3. 平台部署實作經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": "1. 10頁內ppt，展示專案經歷與基礎簡報能力\n2. DSP開發/系統整合相關經驗\n3. 平台部署實作經驗",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、數學及電算機科學學科類\n其他條件：1. 10頁內ppt，展示專案經歷與基礎簡報能力\n2. DSP開發/系統整合相關經驗\n3. 平台部署實作經驗",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 24
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:21:57+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 電腦視覺與影像處理演算法之開發\n2. 影像拼接與防震算法開發與效能優化\n3. 影像AI技術研究\n3. 相機與IMU校正工具開發\n4. 系統端算法整合與功能驗證\n【專業要求】\n1. 【MUST】2年以上影像處理相關背景及實務經驗\n2. 【MUST】鏡頭校正，影像拼接相關知識與經驗\n3. 熟悉 C/C++，算法落地\n5. 積極、熱誠、具有分析解決問題以團隊合作",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市創新一路19號(300)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 電腦視覺與影像處理演算法之開發\n2. 影像拼接與防震算法開發與效能優化\n3. 影像AI技術研究\n3. 相機與IMU校正工具開發\n4. 系統端算法整合與功能驗證\n【專業要求】\n1. 【MUST】2年以上影像處理相關背景及實務經驗\n2. 【MUST】鏡頭校正，影像拼接相關知識與經驗\n3. 熟悉 C/C++，算法落地\n5. 積極、熱誠、具有分析解決問題以團隊合作"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 10頁內ppt，展示專案經歷與基礎簡報能力\n2. DSP開發/系統整合相關經驗\n3. 平台部署實作經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、數學及電算機科學學科類\n其他條件：1. 10頁內ppt，展示專案經歷與基礎簡報能力\n2. DSP開發/系統整合相關經驗\n3. 平台部署實作經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93ten",
+    "job_url": "https://www.104.com.tw/job/93ten",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93ten.json",
+    "raw_sha256": "985aa814f0bfa7a48d329e606a1a2144a1a84c8faa677ad22579d18316870343",
+    "requested_url": "https://www.104.com.tw/api/jobs/93ten"
+  }
+}

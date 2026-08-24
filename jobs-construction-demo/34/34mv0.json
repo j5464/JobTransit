@@ -1,0 +1,198 @@
+{
+  "company": {
+    "id": "nydhr3s",
+    "name": "澄清綜合醫院"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "資訊專案管理與開發。"
+        },
+        {
+          "children": [],
+          "text": "醫療大數據專案開發。"
+        },
+        {
+          "children": [],
+          "text": "智慧醫療系統開發。"
+        },
+        {
+          "children": [],
+          "text": "系統分析與程式開發。"
+        },
+        {
+          "children": [],
+          "text": "提供具競爭力薪資，每月依績效發放績效獎金，每年依績效考核制度調薪。"
+        }
+      ],
+      "text": "1.資訊專案管理與開發。\n2.醫療大數據專案開發。\n3.智慧醫療系統開發。\n4.系統分析與程式開發。\n5.提供具競爭力薪資，每月依績效發放績效獎金，每年依績效考核制度調薪。"
+    },
+    "employment_type_raw": "全職",
+    "title": "擴編:資訊室-資深軟體工程師(中港院區)"
+  },
+  "location": {
+    "address_raw": "台中市西屯區台灣大道四段966號",
+    "raw": "台中市西屯區台灣大道四段966號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "C#",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "C#、MS SQL"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具備大型專案管理經驗者。\n2.具備Microsoft C#.Net及Web 應用系統實務開發經驗。\n3.具備MS SQL或Oracle運用經驗，熟悉SQL 語言撰寫。\n4.有資料採勘經驗、對數據分析有興趣者。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1.具備大型專案管理經驗者。\n2.具備Microsoft C#.Net及Web 應用系統實務開發經驗。\n3.具備MS SQL或Oracle運用經驗，熟悉SQL 語言撰寫。\n4.有資料採勘經驗、對數據分析有興趣者。",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊工程相關\n擅長工具：C#、MS SQL\n其他條件：1.具備大型專案管理經驗者。\n2.具備Microsoft C#.Net及Web 應用系統實務開發經驗。\n3.具備MS SQL或Oracle運用經驗，熟悉SQL 語言撰寫。\n4.有資料採勘經驗、對數據分析有興趣者。",
+    "tools": [
+      "C#",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 28
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:31:52+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.資訊專案管理與開發。\n2.醫療大數據專案開發。\n3.智慧醫療系統開發。\n4.系統分析與程式開發。\n5.提供具競爭力薪資，每月依績效發放績效獎金，每年依績效考核制度調薪。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區台灣大道四段966號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.資訊專案管理與開發。\n2.醫療大數據專案開發。\n3.智慧醫療系統開發。\n4.系統分析與程式開發。\n5.提供具競爭力薪資，每月依績效發放績效獎金，每年依績效考核制度調薪。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "C#、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具備大型專案管理經驗者。\n2.具備Microsoft C#.Net及Web 應用系統實務開發經驗。\n3.具備MS SQL或Oracle運用經驗，熟悉SQL 語言撰寫。\n4.有資料採勘經驗、對數據分析有興趣者。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊工程相關\n擅長工具：C#、MS SQL\n其他條件：1.具備大型專案管理經驗者。\n2.具備Microsoft C#.Net及Web 應用系統實務開發經驗。\n3.具備MS SQL或Oracle運用經驗，熟悉SQL 語言撰寫。\n4.有資料採勘經驗、對數據分析有興趣者。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "34mv0",
+    "job_url": "https://www.104.com.tw/job/34mv0",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/34mv0.json",
+    "raw_sha256": "6c21fef6d9e91057574ce6474dd2dc759b4f910a60390fc0f0b0dcd5100b34f0",
+    "requested_url": "https://www.104.com.tw/api/jobs/34mv0"
+  }
+}

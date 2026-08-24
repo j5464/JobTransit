@@ -1,0 +1,221 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "後端工程師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "提升組裝直通率：通過AI管理平台蒐集和分析工站影像資料，減少錯、漏、反造成品質不良的因素和降低重工率，提高生產效率。"
+        },
+        {
+          "children": [],
+          "text": "提高產品品質：在關鍵步驟應用AI電腦視覺技術，確保產品出貨後穩定可靠，增強競爭力。"
+        },
+        {
+          "children": [],
+          "text": "縮短新產品導入時間：利用AI技術，加快新產品導入流程，協助工廠提升競爭力。"
+        },
+        {
+          "children": [],
+          "text": "開發和維護網站的前後端系統，確保系統的穩定性和性能"
+        },
+        {
+          "children": [],
+          "text": "開發系統核心功能，理解並應用微服務架構，並能夠與AI模型進行高效串接"
+        },
+        {
+          "children": [],
+          "text": "維護和優化現有的網站和資料庫系統，確保系統運行的可靠性"
+        },
+        {
+          "children": [],
+          "text": "撰寫和維護系統的單元測試（Unit Test）"
+        },
+        {
+          "children": [],
+          "text": "熟悉Python、Flask、FastAPI框架及ORM框架經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉至少一種前端框架（如React、Vue.js、Angular）"
+        },
+        {
+          "children": [],
+          "text": "具備多執行緒（Multithread）和多進程（Multiprocess）開發設計經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉RESTful API設計和實作"
+        },
+        {
+          "children": [],
+          "text": "熟悉至少一種關聯式資料庫（如PostgreSQL、SQLite）及NoSQL（如MongoDB），並具備使用大數據分析工具（如Spark、Hadoop）的經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉Linux shell script，能夠在Linux環境中進行開發和系統管理"
+        },
+        {
+          "children": [],
+          "text": "具有影像串流處理的實作經驗（如RTSP、WebRTC、FFmpeg）"
+        },
+        {
+          "children": [],
+          "text": "熟悉專案建置Docker服務及Docker Compose經驗"
+        },
+        {
+          "children": [],
+          "text": "有使用Message Queue（如RabbitMQ、Kafka）的經驗"
+        }
+      ],
+      "text": "<部門簡介>\n先進工業電腦視覺解決方案新事業發展部(Advanced Industrial Computer Vision Solution BD, AICBD) 致力於解決製造業中的人工作業問題，提供全面且靈活的解決方案，幫助企業在市場競爭中脫穎而出。AICBD專注於利用人工智慧（AI）和深度學習技術，為製造業提供高效且精確的電腦視覺解決方案，旨在提升生產效率和產品品質。\n核心目標：\n1. 提升組裝直通率：通過AI管理平台蒐集和分析工站影像資料，減少錯、漏、反造成品質不良的因素和降低重工率，提高生產效率。\n2. 提高產品品質：在關鍵步驟應用AI電腦視覺技術，確保產品出貨後穩定可靠，增強競爭力。\n3. 縮短新產品導入時間：利用AI技術，加快新產品導入流程，協助工廠提升競爭力。\n主要職責 :\n1. 開發和維護網站的前後端系統，確保系統的穩定性和性能\n2. 開發系統核心功能，理解並應用微服務架構，並能夠與AI模型進行高效串接\n3. 維護和優化現有的網站和資料庫系統，確保系統運行的可靠性\n4. 撰寫和維護系統的單元測試（Unit Test）\n其他需求 :\n1. 熟悉Python、Flask、FastAPI框架及ORM框架經驗\n2. 熟悉至少一種前端框架（如React、Vue.js、Angular）\n3. 具備多執行緒（Multithread）和多進程（Multiprocess）開發設計經驗\n4. 熟悉RESTful API設計和實作\n5. 熟悉至少一種關聯式資料庫（如PostgreSQL、SQLite）及NoSQL（如MongoDB），並具備使用大數據分析工具（如Spark、Hadoop）的經驗\n6. 熟悉Linux shell script，能夠在Linux環境中進行開發和系統管理\n7. 具有影像串流處理的實作經驗（如RTSP、WebRTC、FFmpeg）\n8. 熟悉專案建置Docker服務及Docker Compose經驗\n9. 有使用Message Queue（如RabbitMQ、Kafka）的經驗"
+    },
+    "employment_type_raw": "全職",
+    "title": "資深全端工程師_先進工業電腦視覺解決方案新事業發展部(台北)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號",
+    "raw": "台北市內湖區瑞光路186號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "其他數學及電算機科學相關",
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "其他數學及電算機科學相關、電機電子工程相關、資訊工程相關"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "其他數學及電算機科學相關",
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：碩士以上\n科系要求：其他數學及電算機科學相關、電機電子工程相關、資訊工程相關",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 72
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:20:34+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "<部門簡介>\n先進工業電腦視覺解決方案新事業發展部(Advanced Industrial Computer Vision Solution BD, AICBD) 致力於解決製造業中的人工作業問題，提供全面且靈活的解決方案，幫助企業在市場競爭中脫穎而出。AICBD專注於利用人工智慧（AI）和深度學習技術，為製造業提供高效且精確的電腦視覺解決方案，旨在提升生產效率和產品品質。\n核心目標：\n1. 提升組裝直通率：通過AI管理平台蒐集和分析工站影像資料，減少錯、漏、反造成品質不良的因素和降低重工率，提高生產效率。\n2. 提高產品品質：在關鍵步驟應用AI電腦視覺技術，確保產品出貨後穩定可靠，增強競爭力。\n3. 縮短新產品導入時間：利用AI技術，加快新產品導入流程，協助工廠提升競爭力。\n主要職責 :\n1. 開發和維護網站的前後端系統，確保系統的穩定性和性能\n2. 開發系統核心功能，理解並應用微服務架構，並能夠與AI模型進行高效串接\n3. 維護和優化現有的網站和資料庫系統，確保系統運行的可靠性\n4. 撰寫和維護系統的單元測試（Unit Test）\n其他需求 :\n1. 熟悉Python、Flask、FastAPI框架及ORM框架經驗\n2. 熟悉至少一種前端框架（如React、Vue.js、Angular）\n3. 具備多執行緒（Multithread）和多進程（Multiprocess）開發設計經驗\n4. 熟悉RESTful API設計和實作\n5. 熟悉至少一種關聯式資料庫（如PostgreSQL、SQLite）及NoSQL（如MongoDB），並具備使用大數據分析工具（如Spark、Hadoop）的經驗\n6. 熟悉Linux shell script，能夠在Linux環境中進行開發和系統管理\n7. 具有影像串流處理的實作經驗（如RTSP、WebRTC、FFmpeg）\n8. 熟悉專案建置Docker服務及Docker Compose經驗\n9. 有使用Message Queue（如RabbitMQ、Kafka）的經驗",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "後端工程師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、後端工程師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "<部門簡介>\n先進工業電腦視覺解決方案新事業發展部(Advanced Industrial Computer Vision Solution BD, AICBD) 致力於解決製造業中的人工作業問題，提供全面且靈活的解決方案，幫助企業在市場競爭中脫穎而出。AICBD專注於利用人工智慧（AI）和深度學習技術，為製造業提供高效且精確的電腦視覺解決方案，旨在提升生產效率和產品品質。\n核心目標：\n1. 提升組裝直通率：通過AI管理平台蒐集和分析工站影像資料，減少錯、漏、反造成品質不良的因素和降低重工率，提高生產效率。\n2. 提高產品品質：在關鍵步驟應用AI電腦視覺技術，確保產品出貨後穩定可靠，增強競爭力。\n3. 縮短新產品導入時間：利用AI技術，加快新產品導入流程，協助工廠提升競爭力。\n主要職責 :\n1. 開發和維護網站的前後端系統，確保系統的穩定性和性能\n2. 開發系統核心功能，理解並應用微服務架構，並能夠與AI模型進行高效串接\n3. 維護和優化現有的網站和資料庫系統，確保系統運行的可靠性\n4. 撰寫和維護系統的單元測試（Unit Test）\n其他需求 :\n1. 熟悉Python、Flask、FastAPI框架及ORM框架經驗\n2. 熟悉至少一種前端框架（如React、Vue.js、Angular）\n3. 具備多執行緒（Multithread）和多進程（Multiprocess）開發設計經驗\n4. 熟悉RESTful API設計和實作\n5. 熟悉至少一種關聯式資料庫（如PostgreSQL、SQLite）及NoSQL（如MongoDB），並具備使用大數據分析工具（如Spark、Hadoop）的經驗\n6. 熟悉Linux shell script，能夠在Linux環境中進行開發和系統管理\n7. 具有影像串流處理的實作經驗（如RTSP、WebRTC、FFmpeg）\n8. 熟悉專案建置Docker服務及Docker Compose經驗\n9. 有使用Message Queue（如RabbitMQ、Kafka）的經驗"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "其他數學及電算機科學相關",
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "其他數學及電算機科學相關、電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：碩士以上\n科系要求：其他數學及電算機科學相關、電機電子工程相關、資訊工程相關"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8g4gd",
+    "job_url": "https://www.104.com.tw/job/8g4gd",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8g4gd.json",
+    "raw_sha256": "a95c116491c9744d3c7504f9704832ed49c6359df02d3054fe8711358300a88c",
+    "requested_url": "https://www.104.com.tw/api/jobs/8g4gd"
+  }
+}

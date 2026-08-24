@@ -1,0 +1,212 @@
+{
+  "company": {
+    "id": "1a2x6bmbku",
+    "name": "瑞盛數位科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "工作職責："
+        },
+        {
+          "children": [],
+          "text": "開發與部署 AI / ML 模型"
+        },
+        {
+          "children": [],
+          "text": "室內定位演算法開發與優化"
+        },
+        {
+          "children": [],
+          "text": "數據處理與特徵工程"
+        },
+        {
+          "children": [],
+          "text": "將模型整合至產品系統"
+        },
+        {
+          "children": [],
+          "text": "探索並導入新興 AI 技術"
+        },
+        {
+          "children": [],
+          "text": "模型訓練、評估與持續優化"
+        },
+        {
+          "children": [],
+          "text": "必備技能："
+        },
+        {
+          "children": [],
+          "text": "程式語言：精通 Python，具 PyTorch 或 TensorFlow 實務經驗"
+        },
+        {
+          "children": [],
+          "text": "ML 流程：熟悉模型訓練、評估、調參與部署的完整 pipeline"
+        },
+        {
+          "children": [],
+          "text": "數據處理：熟練資料清洗、特徵工程與相關工具（Pandas、NumPy、Polars 等）"
+        },
+        {
+          "children": [],
+          "text": "模型部署：有模型上線經驗（ONNX、TensorRT、Triton 或同類框架）"
+        },
+        {
+          "children": [],
+          "text": "邊緣推論：具備模型量化與邊緣裝置推論優化經驗"
+        },
+        {
+          "children": [],
+          "text": "加分條件："
+        },
+        {
+          "children": [],
+          "text": "室內定位、藍牙定位或相關領域經驗"
+        },
+        {
+          "children": [],
+          "text": "時序資料處理與訊號處理經驗"
+        },
+        {
+          "children": [],
+          "text": "邊緣裝置模型推論優化經驗"
+        },
+        {
+          "children": [],
+          "text": "MLOps 實務經驗（實驗追蹤、模型版本管理、自動化訓練 pipeline）"
+        },
+        {
+          "children": [],
+          "text": "2 年以上 ML 工程或相關研究經驗"
+        },
+        {
+          "children": [],
+          "text": "良好溝通與團隊合作，能適應快節奏環境"
+        }
+      ],
+      "text": "瑞盛數位科技Araizen是一家即將高速發展，並深具發展潛力的科技新創公司，誠摯邀請對AR擴增實境、數據化行銷應用 領域滿懷熱情的您加入我們，我們重視每一位員工，並且秉持著『自由發揮、不限制員工』的經營理念，歡迎優秀的朋友與Araizen一起來到未來，讓瑞盛與你的職涯一起成就不凡。\n*工作職責：\n1. 開發與部署 AI / ML 模型\n2. 室內定位演算法開發與優化\n3. 數據處理與特徵工程\n4. 將模型整合至產品系統\n5. 探索並導入新興 AI 技術\n6. 模型訓練、評估與持續優化\n*必備技能：\n1. 程式語言：精通 Python，具 PyTorch 或 TensorFlow 實務經驗\n2. ML 流程：熟悉模型訓練、評估、調參與部署的完整 pipeline\n3. 數據處理：熟練資料清洗、特徵工程與相關工具（Pandas、NumPy、Polars 等）\n4. 模型部署：有模型上線經驗（ONNX、TensorRT、Triton 或同類框架）\n5. 邊緣推論：具備模型量化與邊緣裝置推論優化經驗\n*加分條件：\n- 室內定位、藍牙定位或相關領域經驗\n- 時序資料處理與訊號處理經驗\n- 邊緣裝置模型推論優化經驗\n- MLOps 實務經驗（實驗追蹤、模型版本管理、自動化訓練 pipeline）\n- 2 年以上 ML 工程或相關研究經驗\n- 良好溝通與團隊合作，能適應快節奏環境"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI / ML 工程師（AI / ML Engineer）"
+  },
+  "location": {
+    "address_raw": "台北市松山區民生東路三段101號8樓",
+    "raw": "台北市松山區民生東路三段101號8樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 68
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:09:25+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "瑞盛數位科技Araizen是一家即將高速發展，並深具發展潛力的科技新創公司，誠摯邀請對AR擴增實境、數據化行銷應用 領域滿懷熱情的您加入我們，我們重視每一位員工，並且秉持著『自由發揮、不限制員工』的經營理念，歡迎優秀的朋友與Araizen一起來到未來，讓瑞盛與你的職涯一起成就不凡。\n*工作職責：\n1. 開發與部署 AI / ML 模型\n2. 室內定位演算法開發與優化\n3. 數據處理與特徵工程\n4. 將模型整合至產品系統\n5. 探索並導入新興 AI 技術\n6. 模型訓練、評估與持續優化\n*必備技能：\n1. 程式語言：精通 Python，具 PyTorch 或 TensorFlow 實務經驗\n2. ML 流程：熟悉模型訓練、評估、調參與部署的完整 pipeline\n3. 數據處理：熟練資料清洗、特徵工程與相關工具（Pandas、NumPy、Polars 等）\n4. 模型部署：有模型上線經驗（ONNX、TensorRT、Triton 或同類框架）\n5. 邊緣推論：具備模型量化與邊緣裝置推論優化經驗\n*加分條件：\n- 室內定位、藍牙定位或相關領域經驗\n- 時序資料處理與訊號處理經驗\n- 邊緣裝置模型推論優化經驗\n- MLOps 實務經驗（實驗追蹤、模型版本管理、自動化訓練 pipeline）\n- 2 年以上 ML 工程或相關研究經驗\n- 良好溝通與團隊合作，能適應快節奏環境",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區民生東路三段101號8樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "瑞盛數位科技Araizen是一家即將高速發展，並深具發展潛力的科技新創公司，誠摯邀請對AR擴增實境、數據化行銷應用 領域滿懷熱情的您加入我們，我們重視每一位員工，並且秉持著『自由發揮、不限制員工』的經營理念，歡迎優秀的朋友與Araizen一起來到未來，讓瑞盛與你的職涯一起成就不凡。\n*工作職責：\n1. 開發與部署 AI / ML 模型\n2. 室內定位演算法開發與優化\n3. 數據處理與特徵工程\n4. 將模型整合至產品系統\n5. 探索並導入新興 AI 技術\n6. 模型訓練、評估與持續優化\n*必備技能：\n1. 程式語言：精通 Python，具 PyTorch 或 TensorFlow 實務經驗\n2. ML 流程：熟悉模型訓練、評估、調參與部署的完整 pipeline\n3. 數據處理：熟練資料清洗、特徵工程與相關工具（Pandas、NumPy、Polars 等）\n4. 模型部署：有模型上線經驗（ONNX、TensorRT、Triton 或同類框架）\n5. 邊緣推論：具備模型量化與邊緣裝置推論優化經驗\n*加分條件：\n- 室內定位、藍牙定位或相關領域經驗\n- 時序資料處理與訊號處理經驗\n- 邊緣裝置模型推論優化經驗\n- MLOps 實務經驗（實驗追蹤、模型版本管理、自動化訓練 pipeline）\n- 2 年以上 ML 工程或相關研究經驗\n- 良好溝通與團隊合作，能適應快節奏環境"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "92itb",
+    "job_url": "https://www.104.com.tw/job/92itb",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92itb.json",
+    "raw_sha256": "6cd026130c99ef5d8d90ee8e444894a07c3d35ec95449bdd79263da891e90304",
+    "requested_url": "https://www.104.com.tw/api/jobs/92itb"
+  }
+}

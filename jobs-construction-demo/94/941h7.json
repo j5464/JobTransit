@@ -1,0 +1,150 @@
+{
+  "company": {
+    "id": "1303ngy0",
+    "name": "藝珂人事顧問股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "MIS／網管主管",
+      "其他資訊專業人員",
+      "資訊設備管制人員"
+    ],
+    "description": {
+      "items": [],
+      "text": "This vacancy is open for talent pool collection. We will contact you if we have proper vacancies that fit with your profile.\n✨Global Tech Solutions｜全球科技解決方案\n✨我們正在尋找一位具備 2 年以上 IT Support / Helpdesk / Desktop Support / IT Service Desk 經驗的 IT Support Engineer\n此職位將以使用者端 IT 支援為主，除了日常軟硬體故障排除，也會接觸帳號權限、IT 設備管理、網路與企業系統支援等工作。\n如果你目前從事 IT Support、MIS、Helpdesk、Desktop Support、Technical Support、IT Service Desk 等相關工作，並希望進一步進入外商或國際化企業環境，會非常適合\n【你將參與什麼？】\n✔ 負責公司內部使用者第一線 IT 技術支援與問題排除\n✔ 處理終端設備問題\n✔ 協助使用者處理日常應用問題\n✔ 執行使用者帳號建立、權限設定、密碼重置及基本管理\n✔ 負責 IT Hardware / Software 資產管理、設備安裝、設定與維護\n✔ 協助處理網路、Wi-Fi、VPN、Printer、Meeting Room 等基礎 IT 問題\n✔ 與 Regional / Global IT Team 合作，協助處理跨區域 IT 問題\n✔ 配合公司 IT 專案、系統導入及設備更新等相關工作\n【我們希望你具備】\n✔ 2 年以上 IT Support / Service Desk 相關工作經驗\n✔ 具備良好的問題分析與 Troubleshooting 能力\n✔ 具備基本英文閱讀與溝通能力\n✔ 能閱讀英文 IT 文件，並能以英文處理基本工作溝通\n✔ 能耐心面對不同使用者的 IT 問題\n✔ 願意在英文環境中與海外 IT Team 合作\n✔ 希望從單純 Helpdesk / MIS 工作，逐步往 IT Infrastructure / IT Operations / System Administration 發展\n【薪資待遇】\n年薪 NT$750,000～1,100,000\n實際薪資將依候選人之工作經驗、英文能力、技術能力及整體條件核薪\n另享：\n✔ 年終獎金\n✔ 績效獎金\n✔ 三節／節慶福利\n✔ 完整教育訓練\n✔ 員工福利制度\n✔ 技術進修及證照補助\n✔ 極佳的外商工作環境\n【地點】\n✔ 台北市信義區 (捷運市政府站步行約 5–10 分鐘)\n【職務類別】\nIT Support Engineer\nIT Support Specialist\nDesktop Support Engineer\nHelpdesk Engineer\nIT Service Desk\nMIS\nTechnical Support Engineer\nIT Infrastructure Support\n✨即使目前職稱不是 IT Support，只要實際工作內容包含 使用者支援、軟硬體維護、帳號權限、網路 troubleshooting、IT 設備管理 等經驗，也歡迎投遞^^\n▲ 不用擔心你的經驗是否足夠，我會協助你評估、找到最適合的機會！\n▲【歡迎寄送履歷至信箱】: [已遮罩電子郵件]\n▲【另有多項科技業職缺 歡迎私訊｜Line】: @964plmqq(記得加@唷)"
+    },
+    "employment_type_raw": "全職",
+    "title": "*️⃣正職【國際軟體巨頭 x IT Support】外商薪資與福利｜2年相關經驗+英文中上即可｜市府站 ★AMR_206"
+  },
+  "location": {
+    "address_raw": "台北市信義區",
+    "raw": "台北市信義區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 90
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:03:24+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "This vacancy is open for talent pool collection. We will contact you if we have proper vacancies that fit with your profile.\n✨Global Tech Solutions｜全球科技解決方案\n✨我們正在尋找一位具備 2 年以上 IT Support / Helpdesk / Desktop Support / IT Service Desk 經驗的 IT Support Engineer\n此職位將以使用者端 IT 支援為主，除了日常軟硬體故障排除，也會接觸帳號權限、IT 設備管理、網路與企業系統支援等工作。\n如果你目前從事 IT Support、MIS、Helpdesk、Desktop Support、Technical Support、IT Service Desk 等相關工作，並希望進一步進入外商或國際化企業環境，會非常適合\n【你將參與什麼？】\n✔ 負責公司內部使用者第一線 IT 技術支援與問題排除\n✔ 處理終端設備問題\n✔ 協助使用者處理日常應用問題\n✔ 執行使用者帳號建立、權限設定、密碼重置及基本管理\n✔ 負責 IT Hardware / Software 資產管理、設備安裝、設定與維護\n✔ 協助處理網路、Wi-Fi、VPN、Printer、Meeting Room 等基礎 IT 問題\n✔ 與 Regional / Global IT Team 合作，協助處理跨區域 IT 問題\n✔ 配合公司 IT 專案、系統導入及設備更新等相關工作\n【我們希望你具備】\n✔ 2 年以上 IT Support / Service Desk 相關工作經驗\n✔ 具備良好的問題分析與 Troubleshooting 能力\n✔ 具備基本英文閱讀與溝通能力\n✔ 能閱讀英文 IT 文件，並能以英文處理基本工作溝通\n✔ 能耐心面對不同使用者的 IT 問題\n✔ 願意在英文環境中與海外 IT Team 合作\n✔ 希望從單純 Helpdesk / MIS 工作，逐步往 IT Infrastructure / IT Operations / System Administration 發展\n【薪資待遇】\n年薪 NT$750,000～1,100,000\n實際薪資將依候選人之工作經驗、英文能力、技術能力及整體條件核薪\n另享：\n✔ 年終獎金\n✔ 績效獎金\n✔ 三節／節慶福利\n✔ 完整教育訓練\n✔ 員工福利制度\n✔ 技術進修及證照補助\n✔ 極佳的外商工作環境\n【地點】\n✔ 台北市信義區 (捷運市政府站步行約 5–10 分鐘)\n【職務類別】\nIT Support Engineer\nIT Support Specialist\nDesktop Support Engineer\nHelpdesk Engineer\nIT Service Desk\nMIS\nTechnical Support Engineer\nIT Infrastructure Support\n✨即使目前職稱不是 IT Support，只要實際工作內容包含 使用者支援、軟硬體維護、帳號權限、網路 troubleshooting、IT 設備管理 等經驗，也歡迎投遞^^\n▲ 不用擔心你的經驗是否足夠，我會協助你評估、找到最適合的機會！\n▲【歡迎寄送履歷至信箱】: [已遮罩電子郵件]\n▲【另有多項科技業職缺 歡迎私訊｜Line】: @964plmqq(記得加@唷)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MIS／網管主管",
+            "其他資訊專業人員",
+            "資訊設備管制人員"
+          ],
+          "label": "職務類別",
+          "text": "MIS／網管主管、其他資訊專業人員、資訊設備管制人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "This vacancy is open for talent pool collection. We will contact you if we have proper vacancies that fit with your profile.\n✨Global Tech Solutions｜全球科技解決方案\n✨我們正在尋找一位具備 2 年以上 IT Support / Helpdesk / Desktop Support / IT Service Desk 經驗的 IT Support Engineer\n此職位將以使用者端 IT 支援為主，除了日常軟硬體故障排除，也會接觸帳號權限、IT 設備管理、網路與企業系統支援等工作。\n如果你目前從事 IT Support、MIS、Helpdesk、Desktop Support、Technical Support、IT Service Desk 等相關工作，並希望進一步進入外商或國際化企業環境，會非常適合\n【你將參與什麼？】\n✔ 負責公司內部使用者第一線 IT 技術支援與問題排除\n✔ 處理終端設備問題\n✔ 協助使用者處理日常應用問題\n✔ 執行使用者帳號建立、權限設定、密碼重置及基本管理\n✔ 負責 IT Hardware / Software 資產管理、設備安裝、設定與維護\n✔ 協助處理網路、Wi-Fi、VPN、Printer、Meeting Room 等基礎 IT 問題\n✔ 與 Regional / Global IT Team 合作，協助處理跨區域 IT 問題\n✔ 配合公司 IT 專案、系統導入及設備更新等相關工作\n【我們希望你具備】\n✔ 2 年以上 IT Support / Service Desk 相關工作經驗\n✔ 具備良好的問題分析與 Troubleshooting 能力\n✔ 具備基本英文閱讀與溝通能力\n✔ 能閱讀英文 IT 文件，並能以英文處理基本工作溝通\n✔ 能耐心面對不同使用者的 IT 問題\n✔ 願意在英文環境中與海外 IT Team 合作\n✔ 希望從單純 Helpdesk / MIS 工作，逐步往 IT Infrastructure / IT Operations / System Administration 發展\n【薪資待遇】\n年薪 NT$750,000～1,100,000\n實際薪資將依候選人之工作經驗、英文能力、技術能力及整體條件核薪\n另享：\n✔ 年終獎金\n✔ 績效獎金\n✔ 三節／節慶福利\n✔ 完整教育訓練\n✔ 員工福利制度\n✔ 技術進修及證照補助\n✔ 極佳的外商工作環境\n【地點】\n✔ 台北市信義區 (捷運市政府站步行約 5–10 分鐘)\n【職務類別】\nIT Support Engineer\nIT Support Specialist\nDesktop Support Engineer\nHelpdesk Engineer\nIT Service Desk\nMIS\nTechnical Support Engineer\nIT Infrastructure Support\n✨即使目前職稱不是 IT Support，只要實際工作內容包含 使用者支援、軟硬體維護、帳號權限、網路 troubleshooting、IT 設備管理 等經驗，也歡迎投遞^^\n▲ 不用擔心你的經驗是否足夠，我會協助你評估、找到最適合的機會！\n▲【歡迎寄送履歷至信箱】: [已遮罩電子郵件]\n▲【另有多項科技業職缺 歡迎私訊｜Line】: @964plmqq(記得加@唷)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "941h7",
+    "job_url": "https://www.104.com.tw/job/941h7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/941h7.json",
+    "raw_sha256": "ff893871e6e1a7f649a24b52e9d943eced0586f8e06b883ff9586aa5a93032d4",
+    "requested_url": "https://www.104.com.tw/api/jobs/941h7"
+  }
+}

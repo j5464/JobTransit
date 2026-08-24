@@ -1,0 +1,164 @@
+{
+  "company": {
+    "id": "1a2x6bkbyd",
+    "name": "鴻海集團_英屬開曼群島商鴻騰精密科技股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "資料科學家",
+      "資料工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "AI Agent 架構設計與開發，開發並維護 MCP Server，將內部系統封裝為標準化工具與資源，供 Agent 調用。\n將數據分析能力封裝為 MCP 工具，供 Agent 執行任務時自動調用。\n建立 Agent 評估機制與自動化測試工具，持續監控任務完成率、回應品質與系統可靠度。\n追蹤 AI Agent 領域最新技術發展 (MCP 協議更新、新框架、新模型)，評估並引入適用技術。"
+    },
+    "employment_type_raw": "全職",
+    "title": "中央流程管理處數據賦能創新中心AI 應用開發工程師"
+  },
+  "location": {
+    "address_raw": "新北市土城區自由街2號",
+    "raw": "新北市土城區自由街2號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Python",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "Python、MS SQL"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "其他條件：\n• 具後端開發或資料處理實務經驗\n• 對 AI Agent 技術有高度興趣，有自學或 Side Project 經驗即可\n• 良好的溝通協調能力\n• Docker、Git、CI/CD 基礎\n加分條件：\n• Agent 框架實作經驗\n• RAG 架構設計與向量資料庫操作經驗\n• MCP Server/Client 開發經驗\n• Copilot Studio 或 Power Platform 開發經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "其他條件：\n• 具後端開發或資料處理實務經驗\n• 對 AI Agent 技術有高度興趣，有自學或 Side Project 經驗即可\n• 良好的溝通協調能力\n• Docker、Git、CI/CD 基礎\n加分條件：\n• Agent 框架實作經驗\n• RAG 架構設計與向量資料庫操作經驗\n• MCP Server/Client 開發經驗\n• Copilot Studio 或 Power Platform 開發經驗",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Python、MS SQL\n其他條件：其他條件：\n• 具後端開發或資料處理實務經驗\n• 對 AI Agent 技術有高度興趣，有自學或 Side Project 經驗即可\n• 良好的溝通協調能力\n• Docker、Git、CI/CD 基礎\n加分條件：\n• Agent 框架實作經驗\n• RAG 架構設計與向量資料庫操作經驗\n• MCP Server/Client 開發經驗\n• Copilot Studio 或 Power Platform 開發經驗",
+    "tools": [
+      "Python",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 92
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:09:48+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "AI Agent 架構設計與開發，開發並維護 MCP Server，將內部系統封裝為標準化工具與資源，供 Agent 調用。\n將數據分析能力封裝為 MCP 工具，供 Agent 執行任務時自動調用。\n建立 Agent 評估機制與自動化測試工具，持續監控任務完成率、回應品質與系統可靠度。\n追蹤 AI Agent 領域最新技術發展 (MCP 協議更新、新框架、新模型)，評估並引入適用技術。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料科學家",
+            "資料工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料科學家、資料工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市土城區自由街2號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "AI Agent 架構設計與開發，開發並維護 MCP Server，將內部系統封裝為標準化工具與資源，供 Agent 調用。\n將數據分析能力封裝為 MCP 工具，供 Agent 執行任務時自動調用。\n建立 Agent 評估機制與自動化測試工具，持續監控任務完成率、回應品質與系統可靠度。\n追蹤 AI Agent 領域最新技術發展 (MCP 協議更新、新框架、新模型)，評估並引入適用技術。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "Python、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "其他條件：\n• 具後端開發或資料處理實務經驗\n• 對 AI Agent 技術有高度興趣，有自學或 Side Project 經驗即可\n• 良好的溝通協調能力\n• Docker、Git、CI/CD 基礎\n加分條件：\n• Agent 框架實作經驗\n• RAG 架構設計與向量資料庫操作經驗\n• MCP Server/Client 開發經驗\n• Copilot Studio 或 Power Platform 開發經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Python、MS SQL\n其他條件：其他條件：\n• 具後端開發或資料處理實務經驗\n• 對 AI Agent 技術有高度興趣，有自學或 Side Project 經驗即可\n• 良好的溝通協調能力\n• Docker、Git、CI/CD 基礎\n加分條件：\n• Agent 框架實作經驗\n• RAG 架構設計與向量資料庫操作經驗\n• MCP Server/Client 開發經驗\n• Copilot Studio 或 Power Platform 開發經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "9378t",
+    "job_url": "https://www.104.com.tw/job/9378t",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9378t.json",
+    "raw_sha256": "f3ec8d4b627882d71dbb04b9341d879a1eb1e72dbeb19d7dc4a8dc770309dbe0",
+    "requested_url": "https://www.104.com.tw/api/jobs/9378t"
+  }
+}

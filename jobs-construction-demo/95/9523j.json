@@ -1,0 +1,173 @@
+{
+  "company": {
+    "id": "wempj5s",
+    "name": "中華網龍股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "串接 OpenAI、Anthropic、Google Gemini 等 LLM API，建立穩定的 AI 應用服務。"
+        },
+        {
+          "children": [],
+          "text": "設計 Prompt、Context Engineering、RAG、向量資料庫及多階段檢索流程。"
+        },
+        {
+          "children": [],
+          "text": "開發具備任務規劃、工具調用及自我修正能力的 AI Agent，整合 Function Calling、Tool Calling、MCP。"
+        },
+        {
+          "children": [],
+          "text": "建立非同步處理、錯誤重試、Fallback、Token 計算、成本控制及回應品質評估機制。"
+        },
+        {
+          "children": [],
+          "text": "參與 Stable Diffusion、FLUX、LoRA、ControlNet 及 ComfyUI 工作流，並開發 Custom Nodes 或 Python 腳本。"
+        },
+        {
+          "children": [],
+          "text": "將 AI 導入公司內部製程，例如需求整理、知識查詢、文件產出、測試及工作流程自動化。"
+        },
+        {
+          "children": [],
+          "text": "研究新模型與開源工具，進行 POC 實作，並撰寫技術文件及系統維護規範。"
+        }
+      ],
+      "text": "1.串接 OpenAI、Anthropic、Google Gemini 等 LLM API，建立穩定的 AI 應用服務。\n2.設計 Prompt、Context Engineering、RAG、向量資料庫及多階段檢索流程。\n3.開發具備任務規劃、工具調用及自我修正能力的 AI Agent，整合 Function Calling、Tool Calling、MCP。\n4.建立非同步處理、錯誤重試、Fallback、Token 計算、成本控制及回應品質評估機制。\n5.參與 Stable Diffusion、FLUX、LoRA、ControlNet 及 ComfyUI 工作流，並開發 Custom Nodes 或 Python 腳本。\n6.將 AI 導入公司內部製程，例如需求整理、知識查詢、文件產出、測試及工作流程自動化。\n7.研究新模型與開源工具，進行 POC 實作，並撰寫技術文件及系統維護規範。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI 應用研發工程師"
+  },
+  "location": {
+    "address_raw": "台北市南港區南港路三段47巷2號4樓",
+    "raw": "台北市南港區南港路三段47巷2號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "必要條件：\n1. 熟悉 Python、TypeScript 或其他後端程式語言，具備 REST API、JSON、非同步處理及服務整合能力。\n2. 具備 LLM、Agent、RAG 或生成式 AI 專案經驗，了解 Prompt Engineering 或 Context Engineering。\n3. 具備錯誤處理、測試、Log 及 Git 使用經驗，能將需求拆解成可驗證的技術方案。\n4. 願意持續追蹤 AI 模型、論文及開源工具發展。\n加分條件：\n1. 熟悉 OpenAI、Anthropic 或 Gemini API。\n2. 具備 RAG、Embedding、Vector DB、多階段檢索、MCP、Function Calling 或 Agent Framework 經驗。\n3. 具備 Token 成本分析、快取、模型分流、品質評估、Docker、雲端或 AI 推論服務部署經驗。\n4. 熟悉 ComfyUI、FLUX、Stable Diffusion、LoRA、ControlNet、Custom Nodes 或 Python 影像處理腳本。\n5. 具備模型微調或參數高效訓練經驗，例如 LoRA、QLoRA、PEFT、SFT。\n6. 具備 Stable Diffusion、SDXL、FLUX 等生成式影像模型的訓練、微調或風格化經驗。\n7. 了解訓練資料整理、資料集切分、超參數調整及模型評估方法。\n8. 熟悉 GPU、CUDA、混合精度、顯存優化或模型訓練效能調整。\n作品集：可提供 LLM／Agent、RAG、MCP／Tool Calling、ComfyUI／FLUX、模型微調或 AI 自動化作品，並說明問題、架構、模型工具、限制、成果與成本。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "必要條件：\n1. 熟悉 Python、TypeScript 或其他後端程式語言，具備 REST API、JSON、非同步處理及服務整合能力。\n2. 具備 LLM、Agent、RAG 或生成式 AI 專案經驗，了解 Prompt Engineering 或 Context Engineering。\n3. 具備錯誤處理、測試、Log 及 Git 使用經驗，能將需求拆解成可驗證的技術方案。\n4. 願意持續追蹤 AI 模型、論文及開源工具發展。\n加分條件：\n1. 熟悉 OpenAI、Anthropic 或 Gemini API。\n2. 具備 RAG、Embedding、Vector DB、多階段檢索、MCP、Function Calling 或 Agent Framework 經驗。\n3. 具備 Token 成本分析、快取、模型分流、品質評估、Docker、雲端或 AI 推論服務部署經驗。\n4. 熟悉 ComfyUI、FLUX、Stable Diffusion、LoRA、ControlNet、Custom Nodes 或 Python 影像處理腳本。\n5. 具備模型微調或參數高效訓練經驗，例如 LoRA、QLoRA、PEFT、SFT。\n6. 具備 Stable Diffusion、SDXL、FLUX 等生成式影像模型的訓練、微調或風格化經驗。\n7. 了解訓練資料整理、資料集切分、超參數調整及模型評估方法。\n8. 熟悉 GPU、CUDA、混合精度、顯存優化或模型訓練效能調整。\n作品集：可提供 LLM／Agent、RAG、MCP／Tool Calling、ComfyUI／FLUX、模型微調或 AI 自動化作品，並說明問題、架構、模型工具、限制、成果與成本。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：不拘\n其他條件：必要條件：\n1. 熟悉 Python、TypeScript 或其他後端程式語言，具備 REST API、JSON、非同步處理及服務整合能力。\n2. 具備 LLM、Agent、RAG 或生成式 AI 專案經驗，了解 Prompt Engineering 或 Context Engineering。\n3. 具備錯誤處理、測試、Log 及 Git 使用經驗，能將需求拆解成可驗證的技術方案。\n4. 願意持續追蹤 AI 模型、論文及開源工具發展。\n加分條件：\n1. 熟悉 OpenAI、Anthropic 或 Gemini API。\n2. 具備 RAG、Embedding、Vector DB、多階段檢索、MCP、Function Calling 或 Agent Framework 經驗。\n3. 具備 Token 成本分析、快取、模型分流、品質評估、Docker、雲端或 AI 推論服務部署經驗。\n4. 熟悉 ComfyUI、FLUX、Stable Diffusion、LoRA、ControlNet、Custom Nodes 或 Python 影像處理腳本。\n5. 具備模型微調或參數高效訓練經驗，例如 LoRA、QLoRA、PEFT、SFT。\n6. 具備 Stable Diffusion、SDXL、FLUX 等生成式影像模型的訓練、微調或風格化經驗。\n7. 了解訓練資料整理、資料集切分、超參數調整及模型評估方法。\n8. 熟悉 GPU、CUDA、混合精度、顯存優化或模型訓練效能調整。\n作品集：可提供 LLM／Agent、RAG、MCP／Tool Calling、ComfyUI／FLUX、模型微調或 AI 自動化作品，並說明問題、架構、模型工具、限制、成果與成本。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 48
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:19:53+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.串接 OpenAI、Anthropic、Google Gemini 等 LLM API，建立穩定的 AI 應用服務。\n2.設計 Prompt、Context Engineering、RAG、向量資料庫及多階段檢索流程。\n3.開發具備任務規劃、工具調用及自我修正能力的 AI Agent，整合 Function Calling、Tool Calling、MCP。\n4.建立非同步處理、錯誤重試、Fallback、Token 計算、成本控制及回應品質評估機制。\n5.參與 Stable Diffusion、FLUX、LoRA、ControlNet 及 ComfyUI 工作流，並開發 Custom Nodes 或 Python 腳本。\n6.將 AI 導入公司內部製程，例如需求整理、知識查詢、文件產出、測試及工作流程自動化。\n7.研究新模型與開源工具，進行 POC 實作，並撰寫技術文件及系統維護規範。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區南港路三段47巷2號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.串接 OpenAI、Anthropic、Google Gemini 等 LLM API，建立穩定的 AI 應用服務。\n2.設計 Prompt、Context Engineering、RAG、向量資料庫及多階段檢索流程。\n3.開發具備任務規劃、工具調用及自我修正能力的 AI Agent，整合 Function Calling、Tool Calling、MCP。\n4.建立非同步處理、錯誤重試、Fallback、Token 計算、成本控制及回應品質評估機制。\n5.參與 Stable Diffusion、FLUX、LoRA、ControlNet 及 ComfyUI 工作流，並開發 Custom Nodes 或 Python 腳本。\n6.將 AI 導入公司內部製程，例如需求整理、知識查詢、文件產出、測試及工作流程自動化。\n7.研究新模型與開源工具，進行 POC 實作，並撰寫技術文件及系統維護規範。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "必要條件：\n1. 熟悉 Python、TypeScript 或其他後端程式語言，具備 REST API、JSON、非同步處理及服務整合能力。\n2. 具備 LLM、Agent、RAG 或生成式 AI 專案經驗，了解 Prompt Engineering 或 Context Engineering。\n3. 具備錯誤處理、測試、Log 及 Git 使用經驗，能將需求拆解成可驗證的技術方案。\n4. 願意持續追蹤 AI 模型、論文及開源工具發展。\n加分條件：\n1. 熟悉 OpenAI、Anthropic 或 Gemini API。\n2. 具備 RAG、Embedding、Vector DB、多階段檢索、MCP、Function Calling 或 Agent Framework 經驗。\n3. 具備 Token 成本分析、快取、模型分流、品質評估、Docker、雲端或 AI 推論服務部署經驗。\n4. 熟悉 ComfyUI、FLUX、Stable Diffusion、LoRA、ControlNet、Custom Nodes 或 Python 影像處理腳本。\n5. 具備模型微調或參數高效訓練經驗，例如 LoRA、QLoRA、PEFT、SFT。\n6. 具備 Stable Diffusion、SDXL、FLUX 等生成式影像模型的訓練、微調或風格化經驗。\n7. 了解訓練資料整理、資料集切分、超參數調整及模型評估方法。\n8. 熟悉 GPU、CUDA、混合精度、顯存優化或模型訓練效能調整。\n作品集：可提供 LLM／Agent、RAG、MCP／Tool Calling、ComfyUI／FLUX、模型微調或 AI 自動化作品，並說明問題、架構、模型工具、限制、成果與成本。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘\n其他條件：必要條件：\n1. 熟悉 Python、TypeScript 或其他後端程式語言，具備 REST API、JSON、非同步處理及服務整合能力。\n2. 具備 LLM、Agent、RAG 或生成式 AI 專案經驗，了解 Prompt Engineering 或 Context Engineering。\n3. 具備錯誤處理、測試、Log 及 Git 使用經驗，能將需求拆解成可驗證的技術方案。\n4. 願意持續追蹤 AI 模型、論文及開源工具發展。\n加分條件：\n1. 熟悉 OpenAI、Anthropic 或 Gemini API。\n2. 具備 RAG、Embedding、Vector DB、多階段檢索、MCP、Function Calling 或 Agent Framework 經驗。\n3. 具備 Token 成本分析、快取、模型分流、品質評估、Docker、雲端或 AI 推論服務部署經驗。\n4. 熟悉 ComfyUI、FLUX、Stable Diffusion、LoRA、ControlNet、Custom Nodes 或 Python 影像處理腳本。\n5. 具備模型微調或參數高效訓練經驗，例如 LoRA、QLoRA、PEFT、SFT。\n6. 具備 Stable Diffusion、SDXL、FLUX 等生成式影像模型的訓練、微調或風格化經驗。\n7. 了解訓練資料整理、資料集切分、超參數調整及模型評估方法。\n8. 熟悉 GPU、CUDA、混合精度、顯存優化或模型訓練效能調整。\n作品集：可提供 LLM／Agent、RAG、MCP／Tool Calling、ComfyUI／FLUX、模型微調或 AI 自動化作品，並說明問題、架構、模型工具、限制、成果與成本。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "9523j",
+    "job_url": "https://www.104.com.tw/job/9523j",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9523j.json",
+    "raw_sha256": "80877551686c2aa6fc8fd10aceed102aeced66285103ca92071d83fd66066a77",
+    "requested_url": "https://www.104.com.tw/api/jobs/9523j"
+  }
+}

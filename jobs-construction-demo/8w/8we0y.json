@@ -1,0 +1,209 @@
+{
+  "company": {
+    "id": "233rv1s",
+    "name": "鴻海精密工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Android工程師",
+      "通訊軟體工程師",
+      "電信／通訊系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Android 原生開發：主導 Android (Kotlin/Java) App 的開發與維護，確保產品效能與穩定性。"
+        },
+        {
+          "children": [],
+          "text": "架構翻新與重構：主動針對 Legacy Projects 進行評估，推動架構重構與優化，將「義大利麵條程式碼」轉化為高內聚、低耦合的系統。"
+        },
+        {
+          "children": [],
+          "text": "規格驅動開發 (SDD)：落實規格驅動開發理念，投入更多精力於軟體設計，以降低重複性的人工編碼負擔。"
+        },
+        {
+          "children": [],
+          "text": "硬體與系統整合：串接外部硬體電路（如：人臉辨識平板、門禁感測設備），處理硬體溝通協定與底層資料傳輸。"
+        },
+        {
+          "children": [],
+          "text": "品質保障與維運：建立自動化測試（Unit Test 等）與 CI/CD 流程，負責版本除錯與上架維運。"
+        },
+        {
+          "children": [],
+          "text": "技術文件撰寫：詳實記錄技術決策手冊及使用者操作手冊，確保知識傳承。"
+        }
+      ],
+      "text": "1. Android 原生開發：主導 Android (Kotlin/Java) App 的開發與維護，確保產品效能與穩定性。\n2. 架構翻新與重構：主動針對 Legacy Projects 進行評估，推動架構重構與優化，將「義大利麵條程式碼」轉化為高內聚、低耦合的系統。\n3. 規格驅動開發 (SDD)：落實規格驅動開發理念，投入更多精力於軟體設計，以降低重複性的人工編碼負擔。\n4. 硬體與系統整合：串接外部硬體電路（如：人臉辨識平板、門禁感測設備），處理硬體溝通協定與底層資料傳輸。\n5. 品質保障與維運：建立自動化測試（Unit Test 等）與 CI/CD 流程，負責版本除錯與上架維運。\n6. 技術文件撰寫：詳實記錄技術決策手冊及使用者操作手冊，確保知識傳承。"
+    },
+    "employment_type_raw": "全職",
+    "title": "高雄軟體園區-Android應用開發工程師"
+  },
+  "location": {
+    "address_raw": "高雄市前鎮區成功二路25號",
+    "raw": "高雄市前鎮區成功二路25號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "* 必備條件\n1. Android 經驗：具備 Android 原生開發經驗，熟悉 Kotlin 或 Java。\n2. 測試與流程：具備撰寫單元測試 (Unit Testing) 經驗，並了解 CI/CD 自動化部署流程。\n3. 軟體工程底蘊：曾讀過以下任一經典：《Clean Code》、《Refactoring》、《Working Effectively with Legacy Code》、《Design Patterns》，或能證明您具備不寫出 \"shitcode\" 的能力。\n4. 計算機基礎：具備紮實的作業系統 (OS) 與網路基礎觀念 (OSI 七層架構)。\n5. 環境熟悉度：熟悉 Linux 與 Docker 基本操作。\n* 加分項目 (Nice to have)\n1. iOS 開發經驗：熟悉 Swift 或 Objective-C。\n2. 跨平台開發：具備 Flutter 框架開發經驗。\n3. 開源貢獻：提供您的 GitHub Public Repo 供參考。"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "* 必備條件\n1. Android 經驗：具備 Android 原生開發經驗，熟悉 Kotlin 或 Java。\n2. 測試與流程：具備撰寫單元測試 (Unit Testing) 經驗，並了解 CI/CD 自動化部署流程。\n3. 軟體工程底蘊：曾讀過以下任一經典：《Clean Code》、《Refactoring》、《Working Effectively with Legacy Code》、《Design Patterns》，或能證明您具備不寫出 \"shitcode\" 的能力。\n4. 計算機基礎：具備紮實的作業系統 (OS) 與網路基礎觀念 (OSI 七層架構)。\n5. 環境熟悉度：熟悉 Linux 與 Docker 基本操作。\n* 加分項目 (Nice to have)\n1. iOS 開發經驗：熟悉 Swift 或 Objective-C。\n2. 跨平台開發：具備 Flutter 框架開發經驗。\n3. 開源貢獻：提供您的 GitHub Public Repo 供參考。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：精通、精通、精通、精通\n其他條件：* 必備條件\n1. Android 經驗：具備 Android 原生開發經驗，熟悉 Kotlin 或 Java。\n2. 測試與流程：具備撰寫單元測試 (Unit Testing) 經驗，並了解 CI/CD 自動化部署流程。\n3. 軟體工程底蘊：曾讀過以下任一經典：《Clean Code》、《Refactoring》、《Working Effectively with Legacy Code》、《Design Patterns》，或能證明您具備不寫出 \"shitcode\" 的能力。\n4. 計算機基礎：具備紮實的作業系統 (OS) 與網路基礎觀念 (OSI 七層架構)。\n5. 環境熟悉度：熟悉 Linux 與 Docker 基本操作。\n* 加分項目 (Nice to have)\n1. iOS 開發經驗：熟悉 Swift 或 Objective-C。\n2. 跨平台開發：具備 Flutter 框架開發經驗。\n3. 開源貢獻：提供您的 GitHub Public Repo 供參考。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 99
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:25:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. Android 原生開發：主導 Android (Kotlin/Java) App 的開發與維護，確保產品效能與穩定性。\n2. 架構翻新與重構：主動針對 Legacy Projects 進行評估，推動架構重構與優化，將「義大利麵條程式碼」轉化為高內聚、低耦合的系統。\n3. 規格驅動開發 (SDD)：落實規格驅動開發理念，投入更多精力於軟體設計，以降低重複性的人工編碼負擔。\n4. 硬體與系統整合：串接外部硬體電路（如：人臉辨識平板、門禁感測設備），處理硬體溝通協定與底層資料傳輸。\n5. 品質保障與維運：建立自動化測試（Unit Test 等）與 CI/CD 流程，負責版本除錯與上架維運。\n6. 技術文件撰寫：詳實記錄技術決策手冊及使用者操作手冊，確保知識傳承。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Android工程師",
+            "通訊軟體工程師",
+            "電信／通訊系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "Android工程師、通訊軟體工程師、電信／通訊系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市前鎮區成功二路25號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. Android 原生開發：主導 Android (Kotlin/Java) App 的開發與維護，確保產品效能與穩定性。\n2. 架構翻新與重構：主動針對 Legacy Projects 進行評估，推動架構重構與優化，將「義大利麵條程式碼」轉化為高內聚、低耦合的系統。\n3. 規格驅動開發 (SDD)：落實規格驅動開發理念，投入更多精力於軟體設計，以降低重複性的人工編碼負擔。\n4. 硬體與系統整合：串接外部硬體電路（如：人臉辨識平板、門禁感測設備），處理硬體溝通協定與底層資料傳輸。\n5. 品質保障與維運：建立自動化測試（Unit Test 等）與 CI/CD 流程，負責版本除錯與上架維運。\n6. 技術文件撰寫：詳實記錄技術決策手冊及使用者操作手冊，確保知識傳承。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "* 必備條件\n1. Android 經驗：具備 Android 原生開發經驗，熟悉 Kotlin 或 Java。\n2. 測試與流程：具備撰寫單元測試 (Unit Testing) 經驗，並了解 CI/CD 自動化部署流程。\n3. 軟體工程底蘊：曾讀過以下任一經典：《Clean Code》、《Refactoring》、《Working Effectively with Legacy Code》、《Design Patterns》，或能證明您具備不寫出 \"shitcode\" 的能力。\n4. 計算機基礎：具備紮實的作業系統 (OS) 與網路基礎觀念 (OSI 七層架構)。\n5. 環境熟悉度：熟悉 Linux 與 Docker 基本操作。\n* 加分項目 (Nice to have)\n1. iOS 開發經驗：熟悉 Swift 或 Objective-C。\n2. 跨平台開發：具備 Flutter 框架開發經驗。\n3. 開源貢獻：提供您的 GitHub Public Repo 供參考。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：精通、精通、精通、精通\n其他條件：* 必備條件\n1. Android 經驗：具備 Android 原生開發經驗，熟悉 Kotlin 或 Java。\n2. 測試與流程：具備撰寫單元測試 (Unit Testing) 經驗，並了解 CI/CD 自動化部署流程。\n3. 軟體工程底蘊：曾讀過以下任一經典：《Clean Code》、《Refactoring》、《Working Effectively with Legacy Code》、《Design Patterns》，或能證明您具備不寫出 \"shitcode\" 的能力。\n4. 計算機基礎：具備紮實的作業系統 (OS) 與網路基礎觀念 (OSI 七層架構)。\n5. 環境熟悉度：熟悉 Linux 與 Docker 基本操作。\n* 加分項目 (Nice to have)\n1. iOS 開發經驗：熟悉 Swift 或 Objective-C。\n2. 跨平台開發：具備 Flutter 框架開發經驗。\n3. 開源貢獻：提供您的 GitHub Public Repo 供參考。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8we0y",
+    "job_url": "https://www.104.com.tw/job/8we0y",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8we0y.json",
+    "raw_sha256": "e52c2893a02820ed0dbd8efd627edc2af83c5c63744f1aa7ce30c1aac4995ef6",
+    "requested_url": "https://www.104.com.tw/api/jobs/8we0y"
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "company": {
+    "id": "7f39r7c",
+    "name": "宏燁資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "MIS程式設計師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "安裝建置與規劃 Ansible, Jenkins. 等自動化工具串連 CICD。"
+        },
+        {
+          "children": [],
+          "text": "Ansible playbook 自動化腳本開發。"
+        },
+        {
+          "children": [],
+          "text": "整合 VMWare Tanzu, RedHat OpenShift 等 Kubernetes 平台相關自動化流程。"
+        },
+        {
+          "children": [],
+          "text": "重視團隊合作。"
+        },
+        {
+          "children": [],
+          "text": "熟悉軟體前、後端開發及開發生命週期，開發自有產品。"
+        }
+      ],
+      "text": "1. 安裝建置與規劃 Ansible, Jenkins. 等自動化工具串連 CICD。\n2. Ansible playbook 自動化腳本開發。\n3. 整合 VMWare Tanzu, RedHat OpenShift 等 Kubernetes 平台相關自動化流程。\n4. 重視團隊合作。\n5. 熟悉軟體前、後端開發及開發生命週期，開發自有產品。"
+    },
+    "employment_type_raw": "全職",
+    "title": "CIS - 自動化技術工程師(CSS)"
+  },
+  "location": {
+    "address_raw": "台北市中正區北平東路30號7F",
+    "raw": "台北市中正區北平東路30號7F"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "Linux",
+          "Jenkins",
+          "AIX",
+          "Java",
+          "PostgreSQL",
+          "Git",
+          "Node.js",
+          "AngularJS",
+          "VueJS"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Jenkins、AIX、Java、PostgreSQL、Git、Node.js、AngularJS、VueJS"
+      },
+      {
+        "items": [
+          "作業系統基本操作",
+          "資訊設備環境設定",
+          "系統維護操作",
+          "問題追蹤處理(Bug tracking)",
+          "測試環境建置規劃",
+          "測試計劃及測試報告書撰寫",
+          "軟體工程系統開發",
+          "系統整合分析",
+          "軟體品質與保證",
+          "軟體程式設計",
+          "模組化系統設計"
+        ],
+        "label": "工作技能",
+        "text": "作業系統基本操作、資訊設備環境設定、系統維護操作、問題追蹤處理(Bug tracking)、測試環境建置規劃、測試計劃及測試報告書撰寫、軟體工程系統開發、系統整合分析、軟體品質與保證、軟體程式設計、模組化系統設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具備 Ansible playbook、Jenkins 等其他自動化工具腳本 撰寫經驗及其他軟體寫作經驗佳\n2. 具備前後端應用程式開發經驗佳\n3. 具備容器化、Kubernetes 等操作及基礎架構概念佳"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 具備 Ansible playbook、Jenkins 等其他自動化工具腳本 撰寫經驗及其他軟體寫作經驗佳\n2. 具備前後端應用程式開發經驗佳\n3. 具備容器化、Kubernetes 等操作及基礎架構概念佳",
+    "skills": [
+      "作業系統基本操作",
+      "資訊設備環境設定",
+      "系統維護操作",
+      "問題追蹤處理(Bug tracking)",
+      "測試環境建置規劃",
+      "測試計劃及測試報告書撰寫",
+      "軟體工程系統開發",
+      "系統整合分析",
+      "軟體品質與保證",
+      "軟體程式設計",
+      "模組化系統設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n擅長工具：Linux、Jenkins、AIX、Java、PostgreSQL、Git、Node.js、AngularJS、VueJS\n工作技能：作業系統基本操作、資訊設備環境設定、系統維護操作、問題追蹤處理(Bug tracking)、測試環境建置規劃、測試計劃及測試報告書撰寫、軟體工程系統開發、系統整合分析、軟體品質與保證、軟體程式設計、模組化系統設計\n其他條件：1. 具備 Ansible playbook、Jenkins 等其他自動化工具腳本 撰寫經驗及其他軟體寫作經驗佳\n2. 具備前後端應用程式開發經驗佳\n3. 具備容器化、Kubernetes 等操作及基礎架構概念佳",
+    "tools": [
+      "Linux",
+      "Jenkins",
+      "AIX",
+      "Java",
+      "PostgreSQL",
+      "Git",
+      "Node.js",
+      "AngularJS",
+      "VueJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 53
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:33:35+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 安裝建置與規劃 Ansible, Jenkins. 等自動化工具串連 CICD。\n2. Ansible playbook 自動化腳本開發。\n3. 整合 VMWare Tanzu, RedHat OpenShift 等 Kubernetes 平台相關自動化流程。\n4. 重視團隊合作。\n5. 熟悉軟體前、後端開發及開發生命週期，開發自有產品。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "MIS程式設計師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、MIS程式設計師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區北平東路30號7F",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 安裝建置與規劃 Ansible, Jenkins. 等自動化工具串連 CICD。\n2. Ansible playbook 自動化腳本開發。\n3. 整合 VMWare Tanzu, RedHat OpenShift 等 Kubernetes 平台相關自動化流程。\n4. 重視團隊合作。\n5. 熟悉軟體前、後端開發及開發生命週期，開發自有產品。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Jenkins",
+            "AIX",
+            "Java",
+            "PostgreSQL",
+            "Git",
+            "Node.js",
+            "AngularJS",
+            "VueJS"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Jenkins、AIX、Java、PostgreSQL、Git、Node.js、AngularJS、VueJS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "作業系統基本操作",
+            "資訊設備環境設定",
+            "系統維護操作",
+            "問題追蹤處理(Bug tracking)",
+            "測試環境建置規劃",
+            "測試計劃及測試報告書撰寫",
+            "軟體工程系統開發",
+            "系統整合分析",
+            "軟體品質與保證",
+            "軟體程式設計",
+            "模組化系統設計"
+          ],
+          "label": "工作技能",
+          "text": "作業系統基本操作、資訊設備環境設定、系統維護操作、問題追蹤處理(Bug tracking)、測試環境建置規劃、測試計劃及測試報告書撰寫、軟體工程系統開發、系統整合分析、軟體品質與保證、軟體程式設計、模組化系統設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具備 Ansible playbook、Jenkins 等其他自動化工具腳本 撰寫經驗及其他軟體寫作經驗佳\n2. 具備前後端應用程式開發經驗佳\n3. 具備容器化、Kubernetes 等操作及基礎架構概念佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n擅長工具：Linux、Jenkins、AIX、Java、PostgreSQL、Git、Node.js、AngularJS、VueJS\n工作技能：作業系統基本操作、資訊設備環境設定、系統維護操作、問題追蹤處理(Bug tracking)、測試環境建置規劃、測試計劃及測試報告書撰寫、軟體工程系統開發、系統整合分析、軟體品質與保證、軟體程式設計、模組化系統設計\n其他條件：1. 具備 Ansible playbook、Jenkins 等其他自動化工具腳本 撰寫經驗及其他軟體寫作經驗佳\n2. 具備前後端應用程式開發經驗佳\n3. 具備容器化、Kubernetes 等操作及基礎架構概念佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8eybx",
+    "job_url": "https://www.104.com.tw/job/8eybx",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8eybx.json",
+    "raw_sha256": "435b04296969491206d645653f9d737a0f9f06e04b27a23cc19f8f97bafd5f65",
+    "requested_url": "https://www.104.com.tw/api/jobs/8eybx"
+  }
+}

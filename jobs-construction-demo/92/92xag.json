@@ -1,0 +1,200 @@
+{
+  "company": {
+    "id": "14vzp3yw",
+    "name": "台灣博士電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師",
+      "資料庫管理人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "SAP 模組維運及相關功能程式開發，例如：ABAP。"
+        },
+        {
+          "children": [],
+          "text": "Bartender標籤條碼化系統設計開發與維護。"
+        },
+        {
+          "children": [],
+          "text": "資料庫設計開發與維護管理，例如：Microsoft Visual C#、Linux、Oracle等。"
+        },
+        {
+          "children": [],
+          "text": "防毒軟體等資安系統管理及網路管理。"
+        },
+        {
+          "children": [],
+          "text": "電腦設備等成本預算評估、控制支出並審核公司科技資訊設備相關購買。"
+        }
+      ],
+      "text": "1. SAP 模組維運及相關功能程式開發，例如：ABAP。\n2. Bartender標籤條碼化系統設計開發與維護。\n3. 資料庫設計開發與維護管理，例如：Microsoft Visual C#、Linux、Oracle等。\n4. 防毒軟體等資安系統管理及網路管理。\n5. 電腦設備等成本預算評估、控制支出並審核公司科技資訊設備相關購買。"
+    },
+    "employment_type_raw": "全職",
+    "title": "IT主管"
+  },
+  "location": {
+    "address_raw": "高雄市前鎮區中六路7號(前鎮科技產業園區)",
+    "raw": "高雄市前鎮區中六路7號(前鎮科技產業園區)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "SAP",
+          "Oracle",
+          "C#",
+          "C++.Net",
+          "ABAP"
+        ],
+        "label": "擅長工具",
+        "text": "SAP、Oracle、C#、C++.Net、ABAP"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n擅長工具：SAP、Oracle、C#、C++.Net、ABAP",
+    "tools": [
+      "SAP",
+      "Oracle",
+      "C#",
+      "C++.Net",
+      "ABAP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 50
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:25:33+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. SAP 模組維運及相關功能程式開發，例如：ABAP。\n2. Bartender標籤條碼化系統設計開發與維護。\n3. 資料庫設計開發與維護管理，例如：Microsoft Visual C#、Linux、Oracle等。\n4. 防毒軟體等資安系統管理及網路管理。\n5. 電腦設備等成本預算評估、控制支出並審核公司科技資訊設備相關購買。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師",
+            "資料庫管理人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師、資料庫管理人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市前鎮區中六路7號(前鎮科技產業園區)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. SAP 模組維運及相關功能程式開發，例如：ABAP。\n2. Bartender標籤條碼化系統設計開發與維護。\n3. 資料庫設計開發與維護管理，例如：Microsoft Visual C#、Linux、Oracle等。\n4. 防毒軟體等資安系統管理及網路管理。\n5. 電腦設備等成本預算評估、控制支出並審核公司科技資訊設備相關購買。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "SAP",
+            "Oracle",
+            "C#",
+            "C++.Net",
+            "ABAP"
+          ],
+          "label": "擅長工具",
+          "text": "SAP、Oracle、C#、C++.Net、ABAP",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n擅長工具：SAP、Oracle、C#、C++.Net、ABAP"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92xag",
+    "job_url": "https://www.104.com.tw/job/92xag",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92xag.json",
+    "raw_sha256": "220a22548f752bd27e8563dbc64e455ae920e2002dc27157185bec49e2da90e7",
+    "requested_url": "https://www.104.com.tw/api/jobs/92xag"
+  }
+}

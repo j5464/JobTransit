@@ -1,0 +1,229 @@
+{
+  "company": {
+    "id": "1a2x6blanp",
+    "name": "明瑞資通科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師",
+      "平面設計／美編"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具有React前端網頁開發實務經驗1年以上"
+        },
+        {
+          "children": [],
+          "text": "元件庫組件新增與維護"
+        },
+        {
+          "children": [],
+          "text": "注重團隊合作"
+        },
+        {
+          "children": [],
+          "text": "樂觀、積極學習的工作態度"
+        },
+        {
+          "children": [],
+          "text": "前端專案 CI/CD 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "接觸過 React hook"
+        },
+        {
+          "children": [],
+          "text": "具有作品集佳"
+        }
+      ],
+      "text": "專案使用技術：\n1. 具有React前端網頁開發實務經驗1年以上\n2. 元件庫組件新增與維護\n3. 注重團隊合作\n4. 樂觀、積極學習的工作態度\n加分項目：\n1. 前端專案 CI/CD 開發經驗\n2. 接觸過 React hook\n3. 具有作品集佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "React 前端工程師"
+  },
+  "location": {
+    "address_raw": "台北市中山區中山北路二段112號4樓之7",
+    "raw": "台北市中山區中山北路二段112號4樓之7"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Git",
+          "HTML",
+          "JavaScript",
+          "jQuery",
+          "CSS",
+          "Sass",
+          "ReactJS"
+        ],
+        "label": "擅長工具",
+        "text": "Git、HTML、JavaScript、jQuery、CSS、Sass、ReactJS"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "網路程式設計",
+          "視覺設計相關知識",
+          "使用者介面設計",
+          "網頁語法撰寫"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、網路程式設計、視覺設計相關知識、使用者介面設計、網頁語法撰寫"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "網路程式設計",
+      "視覺設計相關知識",
+      "使用者介面設計",
+      "網頁語法撰寫"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：Git、HTML、JavaScript、jQuery、CSS、Sass、ReactJS\n工作技能：軟體工程系統開發、軟體程式設計、網路程式設計、視覺設計相關知識、使用者介面設計、網頁語法撰寫",
+    "tools": [
+      "Git",
+      "HTML",
+      "JavaScript",
+      "jQuery",
+      "CSS",
+      "Sass",
+      "ReactJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 81
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:40:40+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "專案使用技術：\n1. 具有React前端網頁開發實務經驗1年以上\n2. 元件庫組件新增與維護\n3. 注重團隊合作\n4. 樂觀、積極學習的工作態度\n加分項目：\n1. 前端專案 CI/CD 開發經驗\n2. 接觸過 React hook\n3. 具有作品集佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師",
+            "平面設計／美編"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師、平面設計／美編",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區中山北路二段112號4樓之7",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "專案使用技術：\n1. 具有React前端網頁開發實務經驗1年以上\n2. 元件庫組件新增與維護\n3. 注重團隊合作\n4. 樂觀、積極學習的工作態度\n加分項目：\n1. 前端專案 CI/CD 開發經驗\n2. 接觸過 React hook\n3. 具有作品集佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "HTML",
+            "JavaScript",
+            "jQuery",
+            "CSS",
+            "Sass",
+            "ReactJS"
+          ],
+          "label": "擅長工具",
+          "text": "Git、HTML、JavaScript、jQuery、CSS、Sass、ReactJS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "網路程式設計",
+            "視覺設計相關知識",
+            "使用者介面設計",
+            "網頁語法撰寫"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、網路程式設計、視覺設計相關知識、使用者介面設計、網頁語法撰寫",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：Git、HTML、JavaScript、jQuery、CSS、Sass、ReactJS\n工作技能：軟體工程系統開發、軟體程式設計、網路程式設計、視覺設計相關知識、使用者介面設計、網頁語法撰寫"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7kdko",
+    "job_url": "https://www.104.com.tw/job/7kdko",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7kdko.json",
+    "raw_sha256": "5889d88cb6f0d001cb406ee41c151fd513245b872e6298cfae43bf1cf0cf72fc",
+    "requested_url": "https://www.104.com.tw/api/jobs/7kdko"
+  }
+}

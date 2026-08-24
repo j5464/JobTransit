@@ -1,0 +1,218 @@
+{
+  "company": {
+    "id": "edi3j94",
+    "name": "功得電子工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "程式開發設計與系統分析維護"
+        },
+        {
+          "children": [],
+          "text": "產線機台連線系統維護"
+        },
+        {
+          "children": [],
+          "text": "協助資訊系統之導入測試,維護"
+        },
+        {
+          "children": [],
+          "text": "公司內部系統程式開發與設計"
+        }
+      ],
+      "text": "1. 程式開發設計與系統分析維護\n2. 產線機台連線系統維護\n3. 協助資訊系統之導入測試,維護\n4. 公司內部系統程式開發與設計"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊部-資深工程師"
+  },
+  "location": {
+    "address_raw": "新北市五股區五權五路26號",
+    "raw": "新北市五股區五權五路26號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、JavaScript"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "具備JAVA認證或撰寫經驗、ASP.NET程式開發、手持式行動電腦(PDA)程式開發運用、MS SQL資料庫維護管理,…等上述一項以上尤佳。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "具備JAVA認證或撰寫經驗、ASP.NET程式開發、手持式行動電腦(PDA)程式開發運用、MS SQL資料庫維護管理,…等上述一項以上尤佳。",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：MS SQL、JavaScript\n其他條件：具備JAVA認證或撰寫經驗、ASP.NET程式開發、手持式行動電腦(PDA)程式開發運用、MS SQL資料庫維護管理,…等上述一項以上尤佳。",
+    "tools": [
+      "MS SQL",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 41
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:02:44+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 程式開發設計與系統分析維護\n2. 產線機台連線系統維護\n3. 協助資訊系統之導入測試,維護\n4. 公司內部系統程式開發與設計",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市五股區五權五路26號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 程式開發設計與系統分析維護\n2. 產線機台連線系統維護\n3. 協助資訊系統之導入測試,維護\n4. 公司內部系統程式開發與設計"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "具備JAVA認證或撰寫經驗、ASP.NET程式開發、手持式行動電腦(PDA)程式開發運用、MS SQL資料庫維護管理,…等上述一項以上尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：MS SQL、JavaScript\n其他條件：具備JAVA認證或撰寫經驗、ASP.NET程式開發、手持式行動電腦(PDA)程式開發運用、MS SQL資料庫維護管理,…等上述一項以上尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "87xm1",
+    "job_url": "https://www.104.com.tw/job/87xm1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/87xm1.json",
+    "raw_sha256": "c7208c3f26dfe443a0fd3c11a043acbccebdb4b715b217bb1dd50e049a292693",
+    "requested_url": "https://www.104.com.tw/api/jobs/87xm1"
+  }
+}

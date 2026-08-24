@@ -1,0 +1,222 @@
+{
+  "company": {
+    "id": "1134yk9s",
+    "name": "TutorABC_麥奇數位股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "後端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "站在 End customer 與教育領域使用者立場思考產品，透過開發 AI 應用持續推動產品演進。"
+        },
+        {
+          "children": [],
+          "text": "開發產品 AI 應用：負責設計與實作 AI 聊天功能、AI 虛擬人以及專屬 AI 助手等創新功能。"
+        },
+        {
+          "children": [],
+          "text": "實作內部 AI 工作流：開發與優化內部營運及教學流程，包含影音內容分析、學習口說能力分析，並導入 AI 協助教材自動化編輯與校正。"
+        },
+        {
+          "children": [],
+          "text": "架構與整合 AI 服務：串接各大雲端 AI API（如 OpenAI, Azure, GCP, AWS 等），並開發企業級知識管理與檢索流程（Knowledge Management / RAG）。"
+        },
+        {
+          "children": [],
+          "text": "私有模型與硬體管理：負責管理與佈署地端 GPU 伺服器，進行開源或私有模型（如 LLM、視覺模型等）的架設與效能調校。"
+        },
+        {
+          "children": [],
+          "text": "理解業務需求，進行系統分析與設計，提出具體可行的 AI 解決方案，並保障交付品質與系統高可用性。"
+        },
+        {
+          "children": [],
+          "text": "主動將 AI 工具整合至開發流程，涵蓋需求拆解、程式碼生成、Debug、Code Review 及技術文件撰寫，以提升個人與團隊整體效率。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的團隊協作與溝通能力，能獨立負責 TutorABC 相關 AI 產品線的開發與維護。"
+        },
+        {
+          "children": [],
+          "text": "3 年以上後端開發或 AI 應用落地實務經驗，熟悉 Python, Node.js 或 .NET/C# 等開發語言。"
+        },
+        {
+          "children": [],
+          "text": "具備串接主流雲端 AI API 實務經驗，並熟悉 Prompt Engineering 技巧。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RAG（Retrieval-Augmented Generation）架構與實作，具備 Vector Database（如 Pinecone, Elasticsearch, Qdrant）及知識庫開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備開源模型（如 Llama, Mistral, Whisper 等）架設與基本調校概念，熟悉 Hugging Face 生態系。"
+        },
+        {
+          "children": [],
+          "text": "具備 Linux 系統與地端 GPU 機器基礎管理、資源排程與佈署經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git Flow 開發流程與版本控管規範，熟悉敏捷開發流程（Agile / Scrum），具備快速迭代與自我管理能力。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的程式碼品質意識，重視可讀性、可測試性與可維護性，擅長 Log 分析與問題根因追蹤（Root Cause Analysis）。"
+        },
+        {
+          "children": [],
+          "text": "具備 Claude、Codex、Cursor 或同等級 AI 工具的實際開發使用經驗，能有效融入日常工作流，並對 AI 產出具備獨立判斷與審查能力。"
+        },
+        {
+          "children": [],
+          "text": "具備 LangChain, LlamaIndex, Semantic Kernel 等主流 AI 開發框架實務經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備 Docker、Kubernetes 等容器化技術應用經驗，特別是 GPU 資源分配（如 NVIDIA Device Plugin）之經驗尤佳。"
+        },
+        {
+          "children": [],
+          "text": "具備影音處理（如 FFmpeg, WebRTC）、語音辨識（ASR）或自然語言處理（NLP）實務開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備雲端服務平台（如：AWS、Azure、GCP）實務經驗與雲端架構設計能力。"
+        },
+        {
+          "children": [],
+          "text": "具備 MLOps 概念，或 CI/CD Pipeline 建置與自動化部署經驗（如：GitHub Actions、GitLab CI、Jenkins）。"
+        },
+        {
+          "children": [],
+          "text": "具備 Unit Testing、Integration Testing 實務經驗。"
+        }
+      ],
+      "text": "【Job Responsibilities】\n1. 站在 End customer 與教育領域使用者立場思考產品，透過開發 AI 應用持續推動產品演進。\n2. 開發產品 AI 應用：負責設計與實作 AI 聊天功能、AI 虛擬人以及專屬 AI 助手等創新功能。\n3. 實作內部 AI 工作流：開發與優化內部營運及教學流程，包含影音內容分析、學習口說能力分析，並導入 AI 協助教材自動化編輯與校正。\n4. 架構與整合 AI 服務：串接各大雲端 AI API（如 OpenAI, Azure, GCP, AWS 等），並開發企業級知識管理與檢索流程（Knowledge Management / RAG）。\n5. 私有模型與硬體管理：負責管理與佈署地端 GPU 伺服器，進行開源或私有模型（如 LLM、視覺模型等）的架設與效能調校。\n6. 理解業務需求，進行系統分析與設計，提出具體可行的 AI 解決方案，並保障交付品質與系統高可用性。\n7. 主動將 AI 工具整合至開發流程，涵蓋需求拆解、程式碼生成、Debug、Code Review 及技術文件撰寫，以提升個人與團隊整體效率。\n8. 具備良好的團隊協作與溝通能力，能獨立負責 TutorABC 相關 AI 產品線的開發與維護。\n【Job Requirements】\n1. 3 年以上後端開發或 AI 應用落地實務經驗，熟悉 Python, Node.js 或 .NET/C# 等開發語言。\n2. 具備串接主流雲端 AI API 實務經驗，並熟悉 Prompt Engineering 技巧。\n3. 熟悉 RAG（Retrieval-Augmented Generation）架構與實作，具備 Vector Database（如 Pinecone, Elasticsearch, Qdrant）及知識庫開發經驗。\n4. 具備開源模型（如 Llama, Mistral, Whisper 等）架設與基本調校概念，熟悉 Hugging Face 生態系。\n5. 具備 Linux 系統與地端 GPU 機器基礎管理、資源排程與佈署經驗。\n6. 熟悉 Git Flow 開發流程與版本控管規範，熟悉敏捷開發流程（Agile / Scrum），具備快速迭代與自我管理能力。\n7. 具備良好的程式碼品質意識，重視可讀性、可測試性與可維護性，擅長 Log 分析與問題根因追蹤（Root Cause Analysis）。\n8. 具備 Claude、Codex、Cursor 或同等級 AI 工具的實際開發使用經驗，能有效融入日常工作流，並對 AI 產出具備獨立判斷與審查能力。\n【Nice to have】\n1. 具備 LangChain, LlamaIndex, Semantic Kernel 等主流 AI 開發框架實務經驗。\n2. 具備 Docker、Kubernetes 等容器化技術應用經驗，特別是 GPU 資源分配（如 NVIDIA Device Plugin）之經驗尤佳。\n3. 具備影音處理（如 FFmpeg, WebRTC）、語音辨識（ASR）或自然語言處理（NLP）實務開發經驗。\n4. 具備雲端服務平台（如：AWS、Azure、GCP）實務經驗與雲端架構設計能力。\n5. 具備 MLOps 概念，或 CI/CD Pipeline 建置與自動化部署經驗（如：GitHub Actions、GitLab CI、Jenkins）。\n6. 具備 Unit Testing、Integration Testing 實務經驗。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior AI Application Engineer"
+  },
+  "location": {
+    "address_raw": "台北市中正區和平西路一段3號2樓（古亭8號出口）",
+    "raw": "台北市中正區和平西路一段3號2樓（古亭8號出口）"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 4
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:29:12+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【Job Responsibilities】\n1. 站在 End customer 與教育領域使用者立場思考產品，透過開發 AI 應用持續推動產品演進。\n2. 開發產品 AI 應用：負責設計與實作 AI 聊天功能、AI 虛擬人以及專屬 AI 助手等創新功能。\n3. 實作內部 AI 工作流：開發與優化內部營運及教學流程，包含影音內容分析、學習口說能力分析，並導入 AI 協助教材自動化編輯與校正。\n4. 架構與整合 AI 服務：串接各大雲端 AI API（如 OpenAI, Azure, GCP, AWS 等），並開發企業級知識管理與檢索流程（Knowledge Management / RAG）。\n5. 私有模型與硬體管理：負責管理與佈署地端 GPU 伺服器，進行開源或私有模型（如 LLM、視覺模型等）的架設與效能調校。\n6. 理解業務需求，進行系統分析與設計，提出具體可行的 AI 解決方案，並保障交付品質與系統高可用性。\n7. 主動將 AI 工具整合至開發流程，涵蓋需求拆解、程式碼生成、Debug、Code Review 及技術文件撰寫，以提升個人與團隊整體效率。\n8. 具備良好的團隊協作與溝通能力，能獨立負責 TutorABC 相關 AI 產品線的開發與維護。\n【Job Requirements】\n1. 3 年以上後端開發或 AI 應用落地實務經驗，熟悉 Python, Node.js 或 .NET/C# 等開發語言。\n2. 具備串接主流雲端 AI API 實務經驗，並熟悉 Prompt Engineering 技巧。\n3. 熟悉 RAG（Retrieval-Augmented Generation）架構與實作，具備 Vector Database（如 Pinecone, Elasticsearch, Qdrant）及知識庫開發經驗。\n4. 具備開源模型（如 Llama, Mistral, Whisper 等）架設與基本調校概念，熟悉 Hugging Face 生態系。\n5. 具備 Linux 系統與地端 GPU 機器基礎管理、資源排程與佈署經驗。\n6. 熟悉 Git Flow 開發流程與版本控管規範，熟悉敏捷開發流程（Agile / Scrum），具備快速迭代與自我管理能力。\n7. 具備良好的程式碼品質意識，重視可讀性、可測試性與可維護性，擅長 Log 分析與問題根因追蹤（Root Cause Analysis）。\n8. 具備 Claude、Codex、Cursor 或同等級 AI 工具的實際開發使用經驗，能有效融入日常工作流，並對 AI 產出具備獨立判斷與審查能力。\n【Nice to have】\n1. 具備 LangChain, LlamaIndex, Semantic Kernel 等主流 AI 開發框架實務經驗。\n2. 具備 Docker、Kubernetes 等容器化技術應用經驗，特別是 GPU 資源分配（如 NVIDIA Device Plugin）之經驗尤佳。\n3. 具備影音處理（如 FFmpeg, WebRTC）、語音辨識（ASR）或自然語言處理（NLP）實務開發經驗。\n4. 具備雲端服務平台（如：AWS、Azure、GCP）實務經驗與雲端架構設計能力。\n5. 具備 MLOps 概念，或 CI/CD Pipeline 建置與自動化部署經驗（如：GitHub Actions、GitLab CI、Jenkins）。\n6. 具備 Unit Testing、Integration Testing 實務經驗。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "後端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、後端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區和平西路一段3號2樓（古亭8號出口）",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【Job Responsibilities】\n1. 站在 End customer 與教育領域使用者立場思考產品，透過開發 AI 應用持續推動產品演進。\n2. 開發產品 AI 應用：負責設計與實作 AI 聊天功能、AI 虛擬人以及專屬 AI 助手等創新功能。\n3. 實作內部 AI 工作流：開發與優化內部營運及教學流程，包含影音內容分析、學習口說能力分析，並導入 AI 協助教材自動化編輯與校正。\n4. 架構與整合 AI 服務：串接各大雲端 AI API（如 OpenAI, Azure, GCP, AWS 等），並開發企業級知識管理與檢索流程（Knowledge Management / RAG）。\n5. 私有模型與硬體管理：負責管理與佈署地端 GPU 伺服器，進行開源或私有模型（如 LLM、視覺模型等）的架設與效能調校。\n6. 理解業務需求，進行系統分析與設計，提出具體可行的 AI 解決方案，並保障交付品質與系統高可用性。\n7. 主動將 AI 工具整合至開發流程，涵蓋需求拆解、程式碼生成、Debug、Code Review 及技術文件撰寫，以提升個人與團隊整體效率。\n8. 具備良好的團隊協作與溝通能力，能獨立負責 TutorABC 相關 AI 產品線的開發與維護。\n【Job Requirements】\n1. 3 年以上後端開發或 AI 應用落地實務經驗，熟悉 Python, Node.js 或 .NET/C# 等開發語言。\n2. 具備串接主流雲端 AI API 實務經驗，並熟悉 Prompt Engineering 技巧。\n3. 熟悉 RAG（Retrieval-Augmented Generation）架構與實作，具備 Vector Database（如 Pinecone, Elasticsearch, Qdrant）及知識庫開發經驗。\n4. 具備開源模型（如 Llama, Mistral, Whisper 等）架設與基本調校概念，熟悉 Hugging Face 生態系。\n5. 具備 Linux 系統與地端 GPU 機器基礎管理、資源排程與佈署經驗。\n6. 熟悉 Git Flow 開發流程與版本控管規範，熟悉敏捷開發流程（Agile / Scrum），具備快速迭代與自我管理能力。\n7. 具備良好的程式碼品質意識，重視可讀性、可測試性與可維護性，擅長 Log 分析與問題根因追蹤（Root Cause Analysis）。\n8. 具備 Claude、Codex、Cursor 或同等級 AI 工具的實際開發使用經驗，能有效融入日常工作流，並對 AI 產出具備獨立判斷與審查能力。\n【Nice to have】\n1. 具備 LangChain, LlamaIndex, Semantic Kernel 等主流 AI 開發框架實務經驗。\n2. 具備 Docker、Kubernetes 等容器化技術應用經驗，特別是 GPU 資源分配（如 NVIDIA Device Plugin）之經驗尤佳。\n3. 具備影音處理（如 FFmpeg, WebRTC）、語音辨識（ASR）或自然語言處理（NLP）實務開發經驗。\n4. 具備雲端服務平台（如：AWS、Azure、GCP）實務經驗與雲端架構設計能力。\n5. 具備 MLOps 概念，或 CI/CD Pipeline 建置與自動化部署經驗（如：GitHub Actions、GitLab CI、Jenkins）。\n6. 具備 Unit Testing、Integration Testing 實務經驗。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94uv9",
+    "job_url": "https://www.104.com.tw/job/94uv9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94uv9.json",
+    "raw_sha256": "9bc14f7ada34f5e3a076861955c5689fb7c6ca9e1946da3d1a7994eed798fc8b",
+    "requested_url": "https://www.104.com.tw/api/jobs/94uv9"
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "company": {
+    "id": "7r0qhmg",
+    "name": "穎佳企業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依據任務需求，開發或維護高效能、高安全性、使用者易用的韌體或應用程式。"
+        },
+        {
+          "children": [],
+          "text": "開發、改善所有的產品，並提供維護所需的所有必要專案文件。"
+        },
+        {
+          "children": [],
+          "text": "完成上級交辦事項"
+        }
+      ],
+      "text": "1.依據任務需求，開發或維護高效能、高安全性、使用者易用的韌體或應用程式。\n2.開發、改善所有的產品，並提供維護所需的所有必要專案文件。\n3.完成上級交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "Software Engineer (醫療產品/醫療專案)軟韌體工程師"
+  },
+  "location": {
+    "address_raw": "台南市仁德區民生路12號",
+    "raw": "台南市仁德區民生路12號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、中等"
+      },
+      {
+        "items": [
+          "MCU",
+          "C++",
+          "FPGA",
+          "RTL",
+          "Verilog",
+          "VHDL"
+        ],
+        "label": "擅長工具",
+        "text": "MCU、C++、FPGA、RTL、Verilog、VHDL"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "韌體工程開發",
+          "Machine Learning"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、韌體工程開發、Machine Learning"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "數位邏輯FPGA\n- 有數位邏輯設計並熟悉RTL Coding架構者佳。\n- 熟悉並使用Xilinx Vivado開發FPGA系統者佳。\n- 研發設計FPGA-based 應用IP。\n- 熟悉 VHDL、Verilog、C 等\n- 具I2C、SPI、UART通訊介面運作經驗者\n微處理器\n- 熟悉 MCU ( 如 : STM32等 ) 開發與偵錯\n- 有Embedded RTOS（如FreeRTOS)/driver development等相關經驗\n- 熟悉不同平台的cross compiler\n- I2C , SPI , UART , USB, Ethernet, Touch Monitor等開發經驗佳\n- 熟悉 C/C++程式語言能力\n其他\n-具演算法開發經驗者佳\n-有開發醫療產品經驗更佳\n-有Embedded Linux 相關經驗更佳\n- Need to understand Machine Learning (ML)"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "數位邏輯FPGA\n- 有數位邏輯設計並熟悉RTL Coding架構者佳。\n- 熟悉並使用Xilinx Vivado開發FPGA系統者佳。\n- 研發設計FPGA-based 應用IP。\n- 熟悉 VHDL、Verilog、C 等\n- 具I2C、SPI、UART通訊介面運作經驗者\n微處理器\n- 熟悉 MCU ( 如 : STM32等 ) 開發與偵錯\n- 有Embedded RTOS（如FreeRTOS)/driver development等相關經驗\n- 熟悉不同平台的cross compiler\n- I2C , SPI , UART , USB, Ethernet, Touch Monitor等開發經驗佳\n- 熟悉 C/C++程式語言能力\n其他\n-具演算法開發經驗者佳\n-有開發醫療產品經驗更佳\n-有Embedded Linux 相關經驗更佳\n- Need to understand Machine Learning (ML)",
+    "skills": [
+      "軟體工程系統開發",
+      "韌體工程開發",
+      "Machine Learning"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n語文條件：英文：略懂、略懂、中等、中等\n擅長工具：MCU、C++、FPGA、RTL、Verilog、VHDL\n工作技能：軟體工程系統開發、韌體工程開發、Machine Learning\n其他條件：數位邏輯FPGA\n- 有數位邏輯設計並熟悉RTL Coding架構者佳。\n- 熟悉並使用Xilinx Vivado開發FPGA系統者佳。\n- 研發設計FPGA-based 應用IP。\n- 熟悉 VHDL、Verilog、C 等\n- 具I2C、SPI、UART通訊介面運作經驗者\n微處理器\n- 熟悉 MCU ( 如 : STM32等 ) 開發與偵錯\n- 有Embedded RTOS（如FreeRTOS)/driver development等相關經驗\n- 熟悉不同平台的cross compiler\n- I2C , SPI , UART , USB, Ethernet, Touch Monitor等開發經驗佳\n- 熟悉 C/C++程式語言能力\n其他\n-具演算法開發經驗者佳\n-有開發醫療產品經驗更佳\n-有Embedded Linux 相關經驗更佳\n- Need to understand Machine Learning (ML)",
+    "tools": [
+      "MCU",
+      "C++",
+      "FPGA",
+      "RTL",
+      "Verilog",
+      "VHDL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 22
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:16:22+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.依據任務需求，開發或維護高效能、高安全性、使用者易用的韌體或應用程式。\n2.開發、改善所有的產品，並提供維護所需的所有必要專案文件。\n3.完成上級交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市仁德區民生路12號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.依據任務需求，開發或維護高效能、高安全性、使用者易用的韌體或應用程式。\n2.開發、改善所有的產品，並提供維護所需的所有必要專案文件。\n3.完成上級交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MCU",
+            "C++",
+            "FPGA",
+            "RTL",
+            "Verilog",
+            "VHDL"
+          ],
+          "label": "擅長工具",
+          "text": "MCU、C++、FPGA、RTL、Verilog、VHDL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "韌體工程開發",
+            "Machine Learning"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、韌體工程開發、Machine Learning",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "數位邏輯FPGA\n- 有數位邏輯設計並熟悉RTL Coding架構者佳。\n- 熟悉並使用Xilinx Vivado開發FPGA系統者佳。\n- 研發設計FPGA-based 應用IP。\n- 熟悉 VHDL、Verilog、C 等\n- 具I2C、SPI、UART通訊介面運作經驗者\n微處理器\n- 熟悉 MCU ( 如 : STM32等 ) 開發與偵錯\n- 有Embedded RTOS（如FreeRTOS)/driver development等相關經驗\n- 熟悉不同平台的cross compiler\n- I2C , SPI , UART , USB, Ethernet, Touch Monitor等開發經驗佳\n- 熟悉 C/C++程式語言能力\n其他\n-具演算法開發經驗者佳\n-有開發醫療產品經驗更佳\n-有Embedded Linux 相關經驗更佳\n- Need to understand Machine Learning (ML)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n語文條件：英文：略懂、略懂、中等、中等\n擅長工具：MCU、C++、FPGA、RTL、Verilog、VHDL\n工作技能：軟體工程系統開發、韌體工程開發、Machine Learning\n其他條件：數位邏輯FPGA\n- 有數位邏輯設計並熟悉RTL Coding架構者佳。\n- 熟悉並使用Xilinx Vivado開發FPGA系統者佳。\n- 研發設計FPGA-based 應用IP。\n- 熟悉 VHDL、Verilog、C 等\n- 具I2C、SPI、UART通訊介面運作經驗者\n微處理器\n- 熟悉 MCU ( 如 : STM32等 ) 開發與偵錯\n- 有Embedded RTOS（如FreeRTOS)/driver development等相關經驗\n- 熟悉不同平台的cross compiler\n- I2C , SPI , UART , USB, Ethernet, Touch Monitor等開發經驗佳\n- 熟悉 C/C++程式語言能力\n其他\n-具演算法開發經驗者佳\n-有開發醫療產品經驗更佳\n-有Embedded Linux 相關經驗更佳\n- Need to understand Machine Learning (ML)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "84afp",
+    "job_url": "https://www.104.com.tw/job/84afp",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/84afp.json",
+    "raw_sha256": "64873a8f6835daea670dd4adaf7261363df7e6ac5266098753633cea15c76325",
+    "requested_url": "https://www.104.com.tw/api/jobs/84afp"
+  }
+}

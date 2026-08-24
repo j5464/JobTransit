@@ -1,0 +1,297 @@
+{
+  "company": {
+    "id": "1a2x6bm5n0",
+    "name": "允和科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Unity"
+        },
+        {
+          "children": [],
+          "text": "C#"
+        },
+        {
+          "children": [],
+          "text": "Git"
+        },
+        {
+          "children": [],
+          "text": "Visual Studio (Code) / AI 工具"
+        },
+        {
+          "children": [],
+          "text": "RESTful API、WebSocket"
+        },
+        {
+          "children": [],
+          "text": "TCP / UDP"
+        },
+        {
+          "children": [],
+          "text": "負責 Unity軟體之功能、互動及模擬情境開發"
+        },
+        {
+          "children": [],
+          "text": "能依產品需求獨立進行系統分析、功能設計、開發及測試"
+        },
+        {
+          "children": [],
+          "text": "與企劃、美術團隊協作，完成場景、UI、互動及訓練流程需求"
+        },
+        {
+          "children": [],
+          "text": "與系統後台團隊協作，串接 API、即時通訊及訓練資料"
+        },
+        {
+          "children": [],
+          "text": "與硬體團隊協作，整合感測器、控制器及相關訓練設備"
+        },
+        {
+          "children": [],
+          "text": "維護及重構既有專案，持續改善程式架構、穩定性與執行效能"
+        },
+        {
+          "children": [],
+          "text": "能獨立分析及排除軟體、設備整合與系統運行相關問題"
+        },
+        {
+          "children": [],
+          "text": "C# 程式設計、Unity 3D 應用程式設計"
+        },
+        {
+          "children": [],
+          "text": "物件導向程式設計（OOP）"
+        },
+        {
+          "children": [],
+          "text": "軟體架構與設計模式"
+        },
+        {
+          "children": [],
+          "text": "非同步與多執行緒程式設計"
+        },
+        {
+          "children": [],
+          "text": "API (WebSocket/Socket)、網路通訊與系統整合"
+        },
+        {
+          "children": [],
+          "text": "Unity 效能分析與最佳化"
+        }
+      ],
+      "text": "【擅長工具】\n1、Unity\n2、C#\n3、Git\n4、Visual Studio (Code) / AI 工具\n5、RESTful API、WebSocket\n6、TCP / UDP\n【工作內容】\n1、負責 Unity軟體之功能、互動及模擬情境開發\n2、能依產品需求獨立進行系統分析、功能設計、開發及測試\n3、與企劃、美術團隊協作，完成場景、UI、互動及訓練流程需求\n4、與系統後台團隊協作，串接 API、即時通訊及訓練資料\n5、與硬體團隊協作，整合感測器、控制器及相關訓練設備\n6、維護及重構既有專案，持續改善程式架構、穩定性與執行效能\n7、能獨立分析及排除軟體、設備整合與系統運行相關問題\n【必要技能】\n1、C# 程式設計、Unity 3D 應用程式設計\n2、物件導向程式設計（OOP）\n3、軟體架構與設計模式\n4、非同步與多執行緒程式設計\n5、API (WebSocket/Socket)、網路通訊與系統整合\n6、Unity 效能分析與最佳化"
+    },
+    "employment_type_raw": "全職",
+    "title": "Unity資深研發工程師"
+  },
+  "location": {
+    "address_raw": "高雄市前鎮區建基街9號5樓",
+    "raw": "高雄市前鎮區建基街9號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "4年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "4年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Unity",
+          "Git",
+          "C#",
+          "Visual Studio",
+          "Visual Studio .net",
+          "TCP/IP",
+          "UDP"
+        ],
+        "label": "擅長工具",
+        "text": "Unity、Git、C#、Visual Studio、Visual Studio .net、TCP/IP、UDP"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "資料庫程式設計",
+          "軟體工程系統開發",
+          "軟體品質與保證"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、資料庫程式設計、軟體工程系統開發、軟體品質與保證"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1、具備多人連線遊戲開發經驗佳\n2、具備無人機訓練模擬、數位孿生或 3D 視覺化相關開發經驗佳\n3、具備 AI 輔助開發經驗（Claude Code、Cursor、GitHub Copilot）佳\n4、具備 VR / AR / XR 應用程式開發經驗佳\n5、具備 IoT、感測器、控制器或外部硬體設備串接經驗佳"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "1、具備多人連線遊戲開發經驗佳\n2、具備無人機訓練模擬、數位孿生或 3D 視覺化相關開發經驗佳\n3、具備 AI 輔助開發經驗（Claude Code、Cursor、GitHub Copilot）佳\n4、具備 VR / AR / XR 應用程式開發經驗佳\n5、具備 IoT、感測器、控制器或外部硬體設備串接經驗佳",
+    "skills": [
+      "軟體程式設計",
+      "資料庫程式設計",
+      "軟體工程系統開發",
+      "軟體品質與保證"
+    ],
+    "text": "工作經歷：4年以上\n學歷要求：大學以上\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Unity、Git、C#、Visual Studio、Visual Studio .net、TCP/IP、UDP\n工作技能：軟體程式設計、資料庫程式設計、軟體工程系統開發、軟體品質與保證\n其他條件：1、具備多人連線遊戲開發經驗佳\n2、具備無人機訓練模擬、數位孿生或 3D 視覺化相關開發經驗佳\n3、具備 AI 輔助開發經驗（Claude Code、Cursor、GitHub Copilot）佳\n4、具備 VR / AR / XR 應用程式開發經驗佳\n5、具備 IoT、感測器、控制器或外部硬體設備串接經驗佳",
+    "tools": [
+      "Unity",
+      "Git",
+      "C#",
+      "Visual Studio",
+      "Visual Studio .net",
+      "TCP/IP",
+      "UDP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 18
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:05:07+08:00"
+  },
+  "salary": {
+    "raw": "月薪55,000~70,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【擅長工具】\n1、Unity\n2、C#\n3、Git\n4、Visual Studio (Code) / AI 工具\n5、RESTful API、WebSocket\n6、TCP / UDP\n【工作內容】\n1、負責 Unity軟體之功能、互動及模擬情境開發\n2、能依產品需求獨立進行系統分析、功能設計、開發及測試\n3、與企劃、美術團隊協作，完成場景、UI、互動及訓練流程需求\n4、與系統後台團隊協作，串接 API、即時通訊及訓練資料\n5、與硬體團隊協作，整合感測器、控制器及相關訓練設備\n6、維護及重構既有專案，持續改善程式架構、穩定性與執行效能\n7、能獨立分析及排除軟體、設備整合與系統運行相關問題\n【必要技能】\n1、C# 程式設計、Unity 3D 應用程式設計\n2、物件導向程式設計（OOP）\n3、軟體架構與設計模式\n4、非同步與多執行緒程式設計\n5、API (WebSocket/Socket)、網路通訊與系統整合\n6、Unity 效能分析與最佳化",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪55,000~70,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市前鎮區建基街9號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【擅長工具】\n1、Unity\n2、C#\n3、Git\n4、Visual Studio (Code) / AI 工具\n5、RESTful API、WebSocket\n6、TCP / UDP\n【工作內容】\n1、負責 Unity軟體之功能、互動及模擬情境開發\n2、能依產品需求獨立進行系統分析、功能設計、開發及測試\n3、與企劃、美術團隊協作，完成場景、UI、互動及訓練流程需求\n4、與系統後台團隊協作，串接 API、即時通訊及訓練資料\n5、與硬體團隊協作，整合感測器、控制器及相關訓練設備\n6、維護及重構既有專案，持續改善程式架構、穩定性與執行效能\n7、能獨立分析及排除軟體、設備整合與系統運行相關問題\n【必要技能】\n1、C# 程式設計、Unity 3D 應用程式設計\n2、物件導向程式設計（OOP）\n3、軟體架構與設計模式\n4、非同步與多執行緒程式設計\n5、API (WebSocket/Socket)、網路通訊與系統整合\n6、Unity 效能分析與最佳化"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "4年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Unity",
+            "Git",
+            "C#",
+            "Visual Studio",
+            "Visual Studio .net",
+            "TCP/IP",
+            "UDP"
+          ],
+          "label": "擅長工具",
+          "text": "Unity、Git、C#、Visual Studio、Visual Studio .net、TCP/IP、UDP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "資料庫程式設計",
+            "軟體工程系統開發",
+            "軟體品質與保證"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、資料庫程式設計、軟體工程系統開發、軟體品質與保證",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1、具備多人連線遊戲開發經驗佳\n2、具備無人機訓練模擬、數位孿生或 3D 視覺化相關開發經驗佳\n3、具備 AI 輔助開發經驗（Claude Code、Cursor、GitHub Copilot）佳\n4、具備 VR / AR / XR 應用程式開發經驗佳\n5、具備 IoT、感測器、控制器或外部硬體設備串接經驗佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：4年以上\n學歷要求：大學以上\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Unity、Git、C#、Visual Studio、Visual Studio .net、TCP/IP、UDP\n工作技能：軟體程式設計、資料庫程式設計、軟體工程系統開發、軟體品質與保證\n其他條件：1、具備多人連線遊戲開發經驗佳\n2、具備無人機訓練模擬、數位孿生或 3D 視覺化相關開發經驗佳\n3、具備 AI 輔助開發經驗（Claude Code、Cursor、GitHub Copilot）佳\n4、具備 VR / AR / XR 應用程式開發經驗佳\n5、具備 IoT、感測器、控制器或外部硬體設備串接經驗佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94uig",
+    "job_url": "https://www.104.com.tw/job/94uig",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94uig.json",
+    "raw_sha256": "27ff555d33ee0e78434a03622df387e1b7edc8043f3139c20ced154cf4611a82",
+    "requested_url": "https://www.104.com.tw/api/jobs/94uig"
+  }
+}

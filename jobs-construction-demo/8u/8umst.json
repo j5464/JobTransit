@@ -1,0 +1,227 @@
+{
+  "company": {
+    "id": "7e16548",
+    "name": "群健有線電視股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "數據分析師／資料分析師",
+      "資料工程師",
+      "資料庫管理人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依照業務需求分析設計，製作報表"
+        },
+        {
+          "children": [],
+          "text": "資料庫規劃與資料結構設計，各項數據資料盤點與蒐集，並進行資料模型設計與管理"
+        },
+        {
+          "children": [],
+          "text": "支援各類型來源資料串接、資料轉檔，清洗整理，完善資料倉儲"
+        },
+        {
+          "children": [],
+          "text": "資料 ETL 流程自動化規劃、設計、開發，BI報表規劃及設計"
+        }
+      ],
+      "text": "1.依照業務需求分析設計，製作報表\n2.資料庫規劃與資料結構設計，各項數據資料盤點與蒐集，並進行資料模型設計與管理\n3.支援各類型來源資料串接、資料轉檔，清洗整理，完善資料倉儲\n4.資料 ETL 流程自動化規劃、設計、開發，BI報表規劃及設計"
+    },
+    "employment_type_raw": "全職",
+    "title": "數據工程師"
+  },
+  "location": {
+    "address_raw": "台中市西區五權五街151號12樓",
+    "raw": "台中市西區五權五街151號12樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "統計學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、統計學相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "ETL",
+          "MS SQL",
+          "PL/SQL",
+          "Oracle"
+        ],
+        "label": "擅長工具",
+        "text": "ETL、MS SQL、PL/SQL、Oracle"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉資料庫之SQL語法指令(T-SQL or PL/SQL)，有Stored Procedure實務經驗\n2.熟悉關聯式資料庫MSSQL server/Oracle並有實務管理及維運經驗\n3.具備ETL設計規劃與實做經驗以及建立、維護、整合資料倉儲的經驗\n4.具Visulalize BI經驗者佳(Power BI or Tableau)\n5.具MSSQL server(MTA ,MCSA)或Oracle DB (OCA/ OCP)證照尤佳"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "統計學相關"
+    ],
+    "other_text": "1.熟悉資料庫之SQL語法指令(T-SQL or PL/SQL)，有Stored Procedure實務經驗\n2.熟悉關聯式資料庫MSSQL server/Oracle並有實務管理及維運經驗\n3.具備ETL設計規劃與實做經驗以及建立、維護、整合資料倉儲的經驗\n4.具Visulalize BI經驗者佳(Power BI or Tableau)\n5.具MSSQL server(MTA ,MCSA)或Oracle DB (OCA/ OCP)證照尤佳",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、統計學相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：ETL、MS SQL、PL/SQL、Oracle\n其他條件：1.熟悉資料庫之SQL語法指令(T-SQL or PL/SQL)，有Stored Procedure實務經驗\n2.熟悉關聯式資料庫MSSQL server/Oracle並有實務管理及維運經驗\n3.具備ETL設計規劃與實做經驗以及建立、維護、整合資料倉儲的經驗\n4.具Visulalize BI經驗者佳(Power BI or Tableau)\n5.具MSSQL server(MTA ,MCSA)或Oracle DB (OCA/ OCP)證照尤佳",
+    "tools": [
+      "ETL",
+      "MS SQL",
+      "PL/SQL",
+      "Oracle"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 91
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:05:22+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000~55,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.依照業務需求分析設計，製作報表\n2.資料庫規劃與資料結構設計，各項數據資料盤點與蒐集，並進行資料模型設計與管理\n3.支援各類型來源資料串接、資料轉檔，清洗整理，完善資料倉儲\n4.資料 ETL 流程自動化規劃、設計、開發，BI報表規劃及設計",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "數據分析師／資料分析師",
+            "資料工程師",
+            "資料庫管理人員"
+          ],
+          "label": "職務類別",
+          "text": "數據分析師／資料分析師、資料工程師、資料庫管理人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000~55,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西區五權五街151號12樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.依照業務需求分析設計，製作報表\n2.資料庫規劃與資料結構設計，各項數據資料盤點與蒐集，並進行資料模型設計與管理\n3.支援各類型來源資料串接、資料轉檔，清洗整理，完善資料倉儲\n4.資料 ETL 流程自動化規劃、設計、開發，BI報表規劃及設計"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "統計學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、統計學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ETL",
+            "MS SQL",
+            "PL/SQL",
+            "Oracle"
+          ],
+          "label": "擅長工具",
+          "text": "ETL、MS SQL、PL/SQL、Oracle",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉資料庫之SQL語法指令(T-SQL or PL/SQL)，有Stored Procedure實務經驗\n2.熟悉關聯式資料庫MSSQL server/Oracle並有實務管理及維運經驗\n3.具備ETL設計規劃與實做經驗以及建立、維護、整合資料倉儲的經驗\n4.具Visulalize BI經驗者佳(Power BI or Tableau)\n5.具MSSQL server(MTA ,MCSA)或Oracle DB (OCA/ OCP)證照尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、統計學相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：ETL、MS SQL、PL/SQL、Oracle\n其他條件：1.熟悉資料庫之SQL語法指令(T-SQL or PL/SQL)，有Stored Procedure實務經驗\n2.熟悉關聯式資料庫MSSQL server/Oracle並有實務管理及維運經驗\n3.具備ETL設計規劃與實做經驗以及建立、維護、整合資料倉儲的經驗\n4.具Visulalize BI經驗者佳(Power BI or Tableau)\n5.具MSSQL server(MTA ,MCSA)或Oracle DB (OCA/ OCP)證照尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8umst",
+    "job_url": "https://www.104.com.tw/job/8umst",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8umst.json",
+    "raw_sha256": "d3ef8ad2d41d64005b46e3339e34fd90e5bc03f0fa47ec0675bf4881b4411097",
+    "requested_url": "https://www.104.com.tw/api/jobs/8umst"
+  }
+}

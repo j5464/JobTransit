@@ -1,0 +1,261 @@
+{
+  "company": {
+    "id": "1a2x6bl3ka",
+    "name": "駿隆科技平台股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "精準地實作 Figma 的元件，頁面，流程，及動畫"
+        },
+        {
+          "children": [],
+          "text": "兼顧程式碼交付排程與程式碼品質"
+        },
+        {
+          "children": [],
+          "text": "參與 SCRUM團隊的開發流程，參與工程討論，將需求簡化成精簡的任務"
+        },
+        {
+          "children": [],
+          "text": "參與 Code Review 以及 PR討論，修正 PR"
+        },
+        {
+          "children": [],
+          "text": "實作／維護 CI/CD"
+        },
+        {
+          "children": [],
+          "text": "參與後端工程師 API 設計及討論，實作API串接"
+        },
+        {
+          "children": [],
+          "text": "保持程式碼的健康 (型別安全，無 linter 錯誤等），找出須要 refactor 的程式碼，撰寫自動化測試"
+        },
+        {
+          "children": [],
+          "text": "融入團隊現有的流程以及程式碼文化/慣例，又能表達自己的想法並且與團隊商討"
+        },
+        {
+          "children": [],
+          "text": "積極導入 AI以改善工作效率"
+        }
+      ],
+      "text": "Interested in joining the FinTech revolution? We are building a disruptive platform in the area of Health and Wealth Management. You are invited to join us in this exciting journey.\nBased in Hong Kong, Gain Miles Technology Limited is a new startup in Taiwan is looking for high caliber individuals who are interest in software development. Please note seniority and compensation level will be determined on your actual experience.\n想要加入FinTech嶄新革命嗎？我們正在建立健康與財富管理領域的顛覆性平台。邀請您加入這個充滿樂趣的旅程。\nGain Miles Technology Limited總部位於香港，是一家在台灣成立的新創公司，正在尋找對軟件開發感興趣的頂尖軟體開發人才。\n以 TypeScript 為基礎使用 React 開發 SPA，使用 React Native 開發跨平台手機應用程式\n•精準地實作 Figma 的元件，頁面，流程，及動畫\n•兼顧程式碼交付排程與程式碼品質\n•參與 SCRUM團隊的開發流程，參與工程討論，將需求簡化成精簡的任務\n•參與 Code Review 以及 PR討論，修正 PR\n•實作／維護 CI/CD\n•參與後端工程師 API 設計及討論，實作API串接\n•保持程式碼的健康 (型別安全，無 linter 錯誤等），找出須要 refactor 的程式碼，撰寫自動化測試\n•融入團隊現有的流程以及程式碼文化/慣例，又能表達自己的想法並且與團隊商討\n•積極導入 AI以改善工作效率"
+    },
+    "employment_type_raw": "全職",
+    "title": "全端工程師(Full stack Developer)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區",
+    "raw": "台北市內湖區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、中等",
+          "中文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、中等\n中文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "JavaScript",
+          "ReactNative"
+        ],
+        "label": "擅長工具",
+        "text": "JavaScript、ReactNative"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "軟體程式設計",
+          "模組化系統設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、軟體程式設計、模組化系統設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "工程師的優良素養期待：\n對於程式碼的「壞味道」具備識別能力，提出改善的做法。\n利用工具輔助，提升工作流程的效率。\n優化目前開發流程，提升程式碼與產品的可靠度。\n使工具庫與框架保持最新版本，減少 Bug 的產生。\n除錯的技能\n對於錯誤可以快速分析並予以解決。\n具備錯誤的源頭打擊能力，不讓錯誤再次發生，或是產生其他的錯誤。\n具備正式環境錯誤解決能力。\n擅長工具：Figma (or equivalent), React, React Native, TypeScript, Jest, Copilot (or equivalent). Familiarity with AWS (or GCP/Azure), Github Action, python, C# is a bonus\nWe offer:\n•Highly competitive salary and annual bonus\n•MacBook Pro\n•Exciting career path\n•Flexible working hours"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、中等",
+      "中文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "數學及電算機科學學科類"
+    ],
+    "other_text": "工程師的優良素養期待：\n對於程式碼的「壞味道」具備識別能力，提出改善的做法。\n利用工具輔助，提升工作流程的效率。\n優化目前開發流程，提升程式碼與產品的可靠度。\n使工具庫與框架保持最新版本，減少 Bug 的產生。\n除錯的技能\n對於錯誤可以快速分析並予以解決。\n具備錯誤的源頭打擊能力，不讓錯誤再次發生，或是產生其他的錯誤。\n具備正式環境錯誤解決能力。\n擅長工具：Figma (or equivalent), React, React Native, TypeScript, Jest, Copilot (or equivalent). Familiarity with AWS (or GCP/Azure), Github Action, python, C# is a bonus\nWe offer:\n•Highly competitive salary and annual bonus\n•MacBook Pro\n•Exciting career path\n•Flexible working hours",
+    "skills": [
+      "系統架構規劃",
+      "軟體程式設計",
+      "模組化系統設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類\n語文條件：英文：略懂、略懂、中等、中等\n中文：精通、精通、精通、精通\n擅長工具：JavaScript、ReactNative\n工作技能：系統架構規劃、軟體程式設計、模組化系統設計\n其他條件：工程師的優良素養期待：\n對於程式碼的「壞味道」具備識別能力，提出改善的做法。\n利用工具輔助，提升工作流程的效率。\n優化目前開發流程，提升程式碼與產品的可靠度。\n使工具庫與框架保持最新版本，減少 Bug 的產生。\n除錯的技能\n對於錯誤可以快速分析並予以解決。\n具備錯誤的源頭打擊能力，不讓錯誤再次發生，或是產生其他的錯誤。\n具備正式環境錯誤解決能力。\n擅長工具：Figma (or equivalent), React, React Native, TypeScript, Jest, Copilot (or equivalent). Familiarity with AWS (or GCP/Azure), Github Action, python, C# is a bonus\nWe offer:\n•Highly competitive salary and annual bonus\n•MacBook Pro\n•Exciting career path\n•Flexible working hours",
+    "tools": [
+      "JavaScript",
+      "ReactNative"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 84
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:50:03+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Interested in joining the FinTech revolution? We are building a disruptive platform in the area of Health and Wealth Management. You are invited to join us in this exciting journey.\nBased in Hong Kong, Gain Miles Technology Limited is a new startup in Taiwan is looking for high caliber individuals who are interest in software development. Please note seniority and compensation level will be determined on your actual experience.\n想要加入FinTech嶄新革命嗎？我們正在建立健康與財富管理領域的顛覆性平台。邀請您加入這個充滿樂趣的旅程。\nGain Miles Technology Limited總部位於香港，是一家在台灣成立的新創公司，正在尋找對軟件開發感興趣的頂尖軟體開發人才。\n以 TypeScript 為基礎使用 React 開發 SPA，使用 React Native 開發跨平台手機應用程式\n•精準地實作 Figma 的元件，頁面，流程，及動畫\n•兼顧程式碼交付排程與程式碼品質\n•參與 SCRUM團隊的開發流程，參與工程討論，將需求簡化成精簡的任務\n•參與 Code Review 以及 PR討論，修正 PR\n•實作／維護 CI/CD\n•參與後端工程師 API 設計及討論，實作API串接\n•保持程式碼的健康 (型別安全，無 linter 錯誤等），找出須要 refactor 的程式碼，撰寫自動化測試\n•融入團隊現有的流程以及程式碼文化/慣例，又能表達自己的想法並且與團隊商討\n•積極導入 AI以改善工作效率",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Interested in joining the FinTech revolution? We are building a disruptive platform in the area of Health and Wealth Management. You are invited to join us in this exciting journey.\nBased in Hong Kong, Gain Miles Technology Limited is a new startup in Taiwan is looking for high caliber individuals who are interest in software development. Please note seniority and compensation level will be determined on your actual experience.\n想要加入FinTech嶄新革命嗎？我們正在建立健康與財富管理領域的顛覆性平台。邀請您加入這個充滿樂趣的旅程。\nGain Miles Technology Limited總部位於香港，是一家在台灣成立的新創公司，正在尋找對軟件開發感興趣的頂尖軟體開發人才。\n以 TypeScript 為基礎使用 React 開發 SPA，使用 React Native 開發跨平台手機應用程式\n•精準地實作 Figma 的元件，頁面，流程，及動畫\n•兼顧程式碼交付排程與程式碼品質\n•參與 SCRUM團隊的開發流程，參與工程討論，將需求簡化成精簡的任務\n•參與 Code Review 以及 PR討論，修正 PR\n•實作／維護 CI/CD\n•參與後端工程師 API 設計及討論，實作API串接\n•保持程式碼的健康 (型別安全，無 linter 錯誤等），找出須要 refactor 的程式碼，撰寫自動化測試\n•融入團隊現有的流程以及程式碼文化/慣例，又能表達自己的想法並且與團隊商討\n•積極導入 AI以改善工作效率"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、中等",
+            "中文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、中等\n中文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "JavaScript",
+            "ReactNative"
+          ],
+          "label": "擅長工具",
+          "text": "JavaScript、ReactNative",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "軟體程式設計",
+            "模組化系統設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、軟體程式設計、模組化系統設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "工程師的優良素養期待：\n對於程式碼的「壞味道」具備識別能力，提出改善的做法。\n利用工具輔助，提升工作流程的效率。\n優化目前開發流程，提升程式碼與產品的可靠度。\n使工具庫與框架保持最新版本，減少 Bug 的產生。\n除錯的技能\n對於錯誤可以快速分析並予以解決。\n具備錯誤的源頭打擊能力，不讓錯誤再次發生，或是產生其他的錯誤。\n具備正式環境錯誤解決能力。\n擅長工具：Figma (or equivalent), React, React Native, TypeScript, Jest, Copilot (or equivalent). Familiarity with AWS (or GCP/Azure), Github Action, python, C# is a bonus\nWe offer:\n•Highly competitive salary and annual bonus\n•MacBook Pro\n•Exciting career path\n•Flexible working hours",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類\n語文條件：英文：略懂、略懂、中等、中等\n中文：精通、精通、精通、精通\n擅長工具：JavaScript、ReactNative\n工作技能：系統架構規劃、軟體程式設計、模組化系統設計\n其他條件：工程師的優良素養期待：\n對於程式碼的「壞味道」具備識別能力，提出改善的做法。\n利用工具輔助，提升工作流程的效率。\n優化目前開發流程，提升程式碼與產品的可靠度。\n使工具庫與框架保持最新版本，減少 Bug 的產生。\n除錯的技能\n對於錯誤可以快速分析並予以解決。\n具備錯誤的源頭打擊能力，不讓錯誤再次發生，或是產生其他的錯誤。\n具備正式環境錯誤解決能力。\n擅長工具：Figma (or equivalent), React, React Native, TypeScript, Jest, Copilot (or equivalent). Familiarity with AWS (or GCP/Azure), Github Action, python, C# is a bonus\nWe offer:\n•Highly competitive salary and annual bonus\n•MacBook Pro\n•Exciting career path\n•Flexible working hours"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8vorn",
+    "job_url": "https://www.104.com.tw/job/8vorn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8vorn.json",
+    "raw_sha256": "dce8865c7b048526890c8f696015c697b3981e4c6d71294cf17ef0b8b841b359",
+    "requested_url": "https://www.104.com.tw/api/jobs/8vorn"
+  }
+}

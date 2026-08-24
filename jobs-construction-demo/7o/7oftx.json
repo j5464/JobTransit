@@ -1,0 +1,195 @@
+{
+  "company": {
+    "id": "aytu368",
+    "name": "立勇實業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資訊助理",
+      "資訊設備管制人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "採購事務執行(為主)"
+        },
+        {
+          "children": [],
+          "text": "負責一般性採購作業，包括詢價、議價、訂單建立與交期追蹤。"
+        },
+        {
+          "children": [],
+          "text": "協助處理採購異常回報、交貨及付款流程對應。"
+        },
+        {
+          "children": [],
+          "text": "配合各部門採購需求，整合資訊與執行採購任務。"
+        },
+        {
+          "children": [],
+          "text": "資訊系統支援與維護(為輔)"
+        },
+        {
+          "children": [],
+          "text": "協助公司內部電腦設備基本排錯與操作問題處理。"
+        },
+        {
+          "children": [],
+          "text": "維護公司IP分配及電腦帳號權限設定與異動。"
+        },
+        {
+          "children": [],
+          "text": "具有操作鼎新ERP系統模組經驗（包含 BI 報表、EASYFLOW 電子簽核、CRM 客戶關係、SFT 現場系統等）。"
+        },
+        {
+          "children": [],
+          "text": "管理 Microsoft 365 相關軟體應用（如 Outlook、Excel、Teams、OneDrive 等）。"
+        },
+        {
+          "children": [],
+          "text": "其他需求條件"
+        },
+        {
+          "children": [],
+          "text": "具備良好溝通與協調能力，能有效處理跨部門合作事宜。"
+        },
+        {
+          "children": [],
+          "text": "熟悉ERP系統操作，具資訊與資料分析能力尤佳。"
+        },
+        {
+          "children": [],
+          "text": "其它主管交辦事項。"
+        }
+      ],
+      "text": "1. 採購事務執行(為主)\n* 負責一般性採購作業，包括詢價、議價、訂單建立與交期追蹤。\n* 協助處理採購異常回報、交貨及付款流程對應。\n* 配合各部門採購需求，整合資訊與執行採購任務。\n2. 資訊系統支援與維護(為輔)\n* 協助公司內部電腦設備基本排錯與操作問題處理。\n* 維護公司IP分配及電腦帳號權限設定與異動。\n* 具有操作鼎新ERP系統模組經驗（包含 BI 報表、EASYFLOW 電子簽核、CRM 客戶關係、SFT 現場系統等）。\n* 管理 Microsoft 365 相關軟體應用（如 Outlook、Excel、Teams、OneDrive 等）。\n3.其他需求條件\n* 具備良好溝通與協調能力，能有效處理跨部門合作事宜。\n* 熟悉ERP系統操作，具資訊與資料分析能力尤佳。\n4.其它主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "採購事務員暨資訊助理"
+  },
+  "location": {
+    "address_raw": "雲林縣斗六市科加路2號",
+    "raw": "雲林縣斗六市科加路2號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.)擅長工具: 鼎新ERP，SQL數據庫操作，Excel， Word， outlook， power point。\n2.)人格特質: 樂觀， 正向， 堅毅。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1.)擅長工具: 鼎新ERP，SQL數據庫操作，Excel， Word， outlook， power point。\n2.)人格特質: 樂觀， 正向， 堅毅。",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n其他條件：1.)擅長工具: 鼎新ERP，SQL數據庫操作，Excel， Word， outlook， power point。\n2.)人格特質: 樂觀， 正向， 堅毅。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 47
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:18:11+08:00"
+  },
+  "salary": {
+    "raw": "月薪32,000~34,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 採購事務執行(為主)\n* 負責一般性採購作業，包括詢價、議價、訂單建立與交期追蹤。\n* 協助處理採購異常回報、交貨及付款流程對應。\n* 配合各部門採購需求，整合資訊與執行採購任務。\n2. 資訊系統支援與維護(為輔)\n* 協助公司內部電腦設備基本排錯與操作問題處理。\n* 維護公司IP分配及電腦帳號權限設定與異動。\n* 具有操作鼎新ERP系統模組經驗（包含 BI 報表、EASYFLOW 電子簽核、CRM 客戶關係、SFT 現場系統等）。\n* 管理 Microsoft 365 相關軟體應用（如 Outlook、Excel、Teams、OneDrive 等）。\n3.其他需求條件\n* 具備良好溝通與協調能力，能有效處理跨部門合作事宜。\n* 熟悉ERP系統操作，具資訊與資料分析能力尤佳。\n4.其它主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資訊助理",
+            "資訊設備管制人員"
+          ],
+          "label": "職務類別",
+          "text": "資訊助理、資訊設備管制人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪32,000~34,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "雲林縣斗六市科加路2號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 採購事務執行(為主)\n* 負責一般性採購作業，包括詢價、議價、訂單建立與交期追蹤。\n* 協助處理採購異常回報、交貨及付款流程對應。\n* 配合各部門採購需求，整合資訊與執行採購任務。\n2. 資訊系統支援與維護(為輔)\n* 協助公司內部電腦設備基本排錯與操作問題處理。\n* 維護公司IP分配及電腦帳號權限設定與異動。\n* 具有操作鼎新ERP系統模組經驗（包含 BI 報表、EASYFLOW 電子簽核、CRM 客戶關係、SFT 現場系統等）。\n* 管理 Microsoft 365 相關軟體應用（如 Outlook、Excel、Teams、OneDrive 等）。\n3.其他需求條件\n* 具備良好溝通與協調能力，能有效處理跨部門合作事宜。\n* 熟悉ERP系統操作，具資訊與資料分析能力尤佳。\n4.其它主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.)擅長工具: 鼎新ERP，SQL數據庫操作，Excel， Word， outlook， power point。\n2.)人格特質: 樂觀， 正向， 堅毅。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n其他條件：1.)擅長工具: 鼎新ERP，SQL數據庫操作，Excel， Word， outlook， power point。\n2.)人格特質: 樂觀， 正向， 堅毅。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7oftx",
+    "job_url": "https://www.104.com.tw/job/7oftx",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7oftx.json",
+    "raw_sha256": "1b6620a0dc484cce01907eae42427b00cac7608ad4b49f238bb231a8ed512edc",
+    "requested_url": "https://www.104.com.tw/api/jobs/7oftx"
+  }
+}

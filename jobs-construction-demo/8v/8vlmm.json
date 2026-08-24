@@ -1,0 +1,221 @@
+{
+  "company": {
+    "id": "1a2x6bjtx4",
+    "name": "奕力科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "電子工程師",
+      "韌體工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助RD進行IP function 驗證與問題排查"
+        },
+        {
+          "children": [],
+          "text": "驗證PCB平台設計"
+        },
+        {
+          "children": [],
+          "text": "配合客戶完成IC功能驗證與RA測試"
+        },
+        {
+          "children": [],
+          "text": "技術文件撰寫"
+        }
+      ],
+      "text": "【產品範疇】\n顯示器相關產品\n【工作內容】\n1.協助RD進行IP function 驗證與問題排查\n2.驗證PCB平台設計\n3.配合客戶完成IC功能驗證與RA測試\n4.技術文件撰寫"
+    },
+    "employment_type_raw": "全職",
+    "title": "IC系統工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市台元二街1號10樓",
+    "raw": "新竹縣竹北市台元二街1號10樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "光電工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、光電工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、精通、精通"
+      },
+      {
+        "items": [
+          "C++",
+          "Excel",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Excel、Word"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【需求條件】\n1.熟悉高速信號設計\n2.熟悉eDP信號流程\n3.熟悉面板驅動架構\n【其他條件】\n1.LCD、OLED系統驗證經驗\n2.熟悉示波器、電源供應器及常用儀器使用"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、精通、精通"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "光電工程相關"
+    ],
+    "other_text": "【需求條件】\n1.熟悉高速信號設計\n2.熟悉eDP信號流程\n3.熟悉面板驅動架構\n【其他條件】\n1.LCD、OLED系統驗證經驗\n2.熟悉示波器、電源供應器及常用儀器使用",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、光電工程相關\n語文條件：英文：略懂、略懂、精通、精通\n擅長工具：C++、Excel、Word\n其他條件：【需求條件】\n1.熟悉高速信號設計\n2.熟悉eDP信號流程\n3.熟悉面板驅動架構\n【其他條件】\n1.LCD、OLED系統驗證經驗\n2.熟悉示波器、電源供應器及常用儀器使用",
+    "tools": [
+      "C++",
+      "Excel",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:58:53+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【產品範疇】\n顯示器相關產品\n【工作內容】\n1.協助RD進行IP function 驗證與問題排查\n2.驗證PCB平台設計\n3.配合客戶完成IC功能驗證與RA測試\n4.技術文件撰寫",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "電子工程師",
+            "韌體工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "電子工程師、韌體工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市台元二街1號10樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【產品範疇】\n顯示器相關產品\n【工作內容】\n1.協助RD進行IP function 驗證與問題排查\n2.驗證PCB平台設計\n3.配合客戶完成IC功能驗證與RA測試\n4.技術文件撰寫"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "光電工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、光電工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Excel",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Excel、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【需求條件】\n1.熟悉高速信號設計\n2.熟悉eDP信號流程\n3.熟悉面板驅動架構\n【其他條件】\n1.LCD、OLED系統驗證經驗\n2.熟悉示波器、電源供應器及常用儀器使用",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、光電工程相關\n語文條件：英文：略懂、略懂、精通、精通\n擅長工具：C++、Excel、Word\n其他條件：【需求條件】\n1.熟悉高速信號設計\n2.熟悉eDP信號流程\n3.熟悉面板驅動架構\n【其他條件】\n1.LCD、OLED系統驗證經驗\n2.熟悉示波器、電源供應器及常用儀器使用"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8vlmm",
+    "job_url": "https://www.104.com.tw/job/8vlmm",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8vlmm.json",
+    "raw_sha256": "d6c0faf34dccbf6ca28df3dd1a71cea49345672a57ba51355f2e99fedebad741",
+    "requested_url": "https://www.104.com.tw/api/jobs/8vlmm"
+  }
+}

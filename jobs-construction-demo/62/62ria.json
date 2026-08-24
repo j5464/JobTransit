@@ -1,0 +1,228 @@
+{
+  "company": {
+    "id": "10wiapy0",
+    "name": "元大人壽保險股份有限公司(總公司)"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統分析師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "專案/需求進度及相關議題溝通協調(含相關人員)與追踪。"
+        },
+        {
+          "children": [],
+          "text": "資訊系統分析開發與需求訪談。"
+        },
+        {
+          "children": [],
+          "text": "新技術導入與評估。"
+        },
+        {
+          "children": [],
+          "text": "資訊系統日常惟運。"
+        },
+        {
+          "children": [],
+          "text": "主管臨時交辦事項。"
+        }
+      ],
+      "text": "1.專案/需求進度及相關議題溝通協調(含相關人員)與追踪。\n2.資訊系統分析開發與需求訪談。\n3.新技術導入與評估。\n4.資訊系統日常惟運。\n5.主管臨時交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "總公司【資訊系統開發部】JAVA系統分析開發工程師"
+  },
+  "location": {
+    "address_raw": "台北市松山區民生東路三段156號",
+    "raw": "台北市松山區民生東路三段156號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Java",
+          "Spring",
+          "AngularJS",
+          "jQuery"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Spring、AngularJS、jQuery"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.a.熟悉Java平台程式開發; b.熟悉 Spring Boot framework; c.熟悉前端網頁框架設計(如Vue.js, AngularJS, jQuery);d.熟悉 SQL 語法，並具備資料庫設計及調校能力。\n2.Java程式開發經驗2年以上。\n3.具相關應用程式平台(如電子商務/行動.遠距投保/官網/保戶園地等)系統分析及開發經驗佳。\n4.具備解決問題的能力、及良好團隊合作與溝通能力、正向思考特質及主動積極態度。\n5.具壽險業相關系統平台分析及開發經驗。\n6.具客戶及業務員屬對外服務應用加值服務等系統平台開發相關經驗尤佳。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "1.a.熟悉Java平台程式開發; b.熟悉 Spring Boot framework; c.熟悉前端網頁框架設計(如Vue.js, AngularJS, jQuery);d.熟悉 SQL 語法，並具備資料庫設計及調校能力。\n2.Java程式開發經驗2年以上。\n3.具相關應用程式平台(如電子商務/行動.遠距投保/官網/保戶園地等)系統分析及開發經驗佳。\n4.具備解決問題的能力、及良好團隊合作與溝通能力、正向思考特質及主動積極態度。\n5.具壽險業相關系統平台分析及開發經驗。\n6.具客戶及業務員屬對外服務應用加值服務等系統平台開發相關經驗尤佳。",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、Spring、AngularJS、jQuery\n其他條件：1.a.熟悉Java平台程式開發; b.熟悉 Spring Boot framework; c.熟悉前端網頁框架設計(如Vue.js, AngularJS, jQuery);d.熟悉 SQL 語法，並具備資料庫設計及調校能力。\n2.Java程式開發經驗2年以上。\n3.具相關應用程式平台(如電子商務/行動.遠距投保/官網/保戶園地等)系統分析及開發經驗佳。\n4.具備解決問題的能力、及良好團隊合作與溝通能力、正向思考特質及主動積極態度。\n5.具壽險業相關系統平台分析及開發經驗。\n6.具客戶及業務員屬對外服務應用加值服務等系統平台開發相關經驗尤佳。",
+    "tools": [
+      "Java",
+      "Spring",
+      "AngularJS",
+      "jQuery"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 80
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:39:51+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.專案/需求進度及相關議題溝通協調(含相關人員)與追踪。\n2.資訊系統分析開發與需求訪談。\n3.新技術導入與評估。\n4.資訊系統日常惟運。\n5.主管臨時交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統分析師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統分析師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區民生東路三段156號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.專案/需求進度及相關議題溝通協調(含相關人員)與追踪。\n2.資訊系統分析開發與需求訪談。\n3.新技術導入與評估。\n4.資訊系統日常惟運。\n5.主管臨時交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Spring",
+            "AngularJS",
+            "jQuery"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Spring、AngularJS、jQuery",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.a.熟悉Java平台程式開發; b.熟悉 Spring Boot framework; c.熟悉前端網頁框架設計(如Vue.js, AngularJS, jQuery);d.熟悉 SQL 語法，並具備資料庫設計及調校能力。\n2.Java程式開發經驗2年以上。\n3.具相關應用程式平台(如電子商務/行動.遠距投保/官網/保戶園地等)系統分析及開發經驗佳。\n4.具備解決問題的能力、及良好團隊合作與溝通能力、正向思考特質及主動積極態度。\n5.具壽險業相關系統平台分析及開發經驗。\n6.具客戶及業務員屬對外服務應用加值服務等系統平台開發相關經驗尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、Spring、AngularJS、jQuery\n其他條件：1.a.熟悉Java平台程式開發; b.熟悉 Spring Boot framework; c.熟悉前端網頁框架設計(如Vue.js, AngularJS, jQuery);d.熟悉 SQL 語法，並具備資料庫設計及調校能力。\n2.Java程式開發經驗2年以上。\n3.具相關應用程式平台(如電子商務/行動.遠距投保/官網/保戶園地等)系統分析及開發經驗佳。\n4.具備解決問題的能力、及良好團隊合作與溝通能力、正向思考特質及主動積極態度。\n5.具壽險業相關系統平台分析及開發經驗。\n6.具客戶及業務員屬對外服務應用加值服務等系統平台開發相關經驗尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "62ria",
+    "job_url": "https://www.104.com.tw/job/62ria",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/62ria.json",
+    "raw_sha256": "2be4482756971d22a7687c5305f20393b858e492f7127fc3bbf205aac36b1656",
+    "requested_url": "https://www.104.com.tw/api/jobs/62ria"
+  }
+}

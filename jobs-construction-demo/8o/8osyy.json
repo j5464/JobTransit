@@ -1,0 +1,212 @@
+{
+  "company": {
+    "id": "1a2x6bncwo",
+    "name": "創奕科技企業社"
+  },
+  "job": {
+    "categories": [
+      "網頁設計師",
+      "前端工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "前端熟悉Html, Css, Javascript, Jquery or React.js 開發PC端和移動端"
+        },
+        {
+          "children": [],
+          "text": "後端熟悉PHP, Mysql 做開發"
+        },
+        {
+          "children": [],
+          "text": "可專任前端或後端，可全端優"
+        },
+        {
+          "children": [],
+          "text": "能獨立開發並協助團隊解決技術問題"
+        },
+        {
+          "children": [],
+          "text": "良好的團隊合作與溝通能力"
+        }
+      ],
+      "text": "1. 前端熟悉Html, Css, Javascript, Jquery or React.js 開發PC端和移動端\n2. 後端熟悉PHP, Mysql 做開發\n3. 可專任前端或後端，可全端優\n4. 能獨立開發並協助團隊解決技術問題\n5. 良好的團隊合作與溝通能力"
+    },
+    "employment_type_raw": "全職",
+    "title": "網站工程師"
+  },
+  "location": {
+    "address_raw": "台南市東區東門路三段",
+    "raw": "台南市東區東門路三段"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "HTML",
+          "CSS",
+          "jQuery",
+          "JavaScript",
+          "ReactJS",
+          "PHP",
+          "MySQL"
+        ],
+        "label": "擅長工具",
+        "text": "HTML、CSS、jQuery、JavaScript、ReactJS、PHP、MySQL"
+      },
+      {
+        "items": [
+          "網頁語法撰寫",
+          "軟體程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "網頁語法撰寫、軟體程式設計、資料庫程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "網頁語法撰寫",
+      "軟體程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：不拘\n擅長工具：HTML、CSS、jQuery、JavaScript、ReactJS、PHP、MySQL\n工作技能：網頁語法撰寫、軟體程式設計、資料庫程式設計",
+    "tools": [
+      "HTML",
+      "CSS",
+      "jQuery",
+      "JavaScript",
+      "ReactJS",
+      "PHP",
+      "MySQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 80
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:38:08+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~100,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 前端熟悉Html, Css, Javascript, Jquery or React.js 開發PC端和移動端\n2. 後端熟悉PHP, Mysql 做開發\n3. 可專任前端或後端，可全端優\n4. 能獨立開發並協助團隊解決技術問題\n5. 良好的團隊合作與溝通能力",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "網頁設計師",
+            "前端工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "網頁設計師、前端工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~100,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市東區東門路三段",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 前端熟悉Html, Css, Javascript, Jquery or React.js 開發PC端和移動端\n2. 後端熟悉PHP, Mysql 做開發\n3. 可專任前端或後端，可全端優\n4. 能獨立開發並協助團隊解決技術問題\n5. 良好的團隊合作與溝通能力"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "HTML",
+            "CSS",
+            "jQuery",
+            "JavaScript",
+            "ReactJS",
+            "PHP",
+            "MySQL"
+          ],
+          "label": "擅長工具",
+          "text": "HTML、CSS、jQuery、JavaScript、ReactJS、PHP、MySQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "網頁語法撰寫",
+            "軟體程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "網頁語法撰寫、軟體程式設計、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘\n擅長工具：HTML、CSS、jQuery、JavaScript、ReactJS、PHP、MySQL\n工作技能：網頁語法撰寫、軟體程式設計、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8osyy",
+    "job_url": "https://www.104.com.tw/job/8osyy",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8osyy.json",
+    "raw_sha256": "8ad52bed79edf78e21d2c95315b4f404ecc3e160a89a8260467afb0f9165b402",
+    "requested_url": "https://www.104.com.tw/api/jobs/8osyy"
+  }
+}

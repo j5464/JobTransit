@@ -1,0 +1,213 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "架構設計與定義：收集客戶與韌體(FW)需求，定義晶片架構規格，軟硬體邊界，撰寫硬體／軟體規格文件，並與硬體IP與SoC團隊協作規劃具體實作方案。"
+        },
+        {
+          "children": [],
+          "text": "架構驗證與模擬：撰寫C Model或其他建模工具，以驗證系統架構功能，並與硬體IP團隊協作進行RTL模擬與性能分析優化。"
+        },
+        {
+          "children": [],
+          "text": "韌體開發實作與整合：負責設計開發中層軟件Middle Ware，並與FW團隊協作系統整合與問題定位。"
+        }
+      ],
+      "text": "1.架構設計與定義：收集客戶與韌體(FW)需求，定義晶片架構規格，軟硬體邊界，撰寫硬體／軟體規格文件，並與硬體IP與SoC團隊協作規劃具體實作方案。\n2.架構驗證與模擬：撰寫C Model或其他建模工具，以驗證系統架構功能，並與硬體IP團隊協作進行RTL模擬與性能分析優化。\n3.韌體開發實作與整合：負責設計開發中層軟件Middle Ware，並與FW團隊協作系統整合與問題定位。"
+    },
+    "employment_type_raw": "全職",
+    "title": "韌體架構設計開發工程師(板橋)"
+  },
+  "location": {
+    "address_raw": "新北市板橋區",
+    "raw": "新北市板橋區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "電機電子維護相關",
+          "資訊工程相關",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "電機電子維護相關、資訊工程相關、數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.懂C++語言或其他scripting相關語言尤佳\n2.認真、負責、配合度高"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子維護相關",
+      "資訊工程相關",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": "1.懂C++語言或其他scripting相關語言尤佳\n2.認真、負責、配合度高",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：電機電子維護相關、資訊工程相關、數學及電算機科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++\n其他條件：1.懂C++語言或其他scripting相關語言尤佳\n2.認真、負責、配合度高",
+    "tools": [
+      "C",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 26
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:25:48+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.架構設計與定義：收集客戶與韌體(FW)需求，定義晶片架構規格，軟硬體邊界，撰寫硬體／軟體規格文件，並與硬體IP與SoC團隊協作規劃具體實作方案。\n2.架構驗證與模擬：撰寫C Model或其他建模工具，以驗證系統架構功能，並與硬體IP團隊協作進行RTL模擬與性能分析優化。\n3.韌體開發實作與整合：負責設計開發中層軟件Middle Ware，並與FW團隊協作系統整合與問題定位。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.架構設計與定義：收集客戶與韌體(FW)需求，定義晶片架構規格，軟硬體邊界，撰寫硬體／軟體規格文件，並與硬體IP與SoC團隊協作規劃具體實作方案。\n2.架構驗證與模擬：撰寫C Model或其他建模工具，以驗證系統架構功能，並與硬體IP團隊協作進行RTL模擬與性能分析優化。\n3.韌體開發實作與整合：負責設計開發中層軟件Middle Ware，並與FW團隊協作系統整合與問題定位。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子維護相關",
+            "資訊工程相關",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "電機電子維護相關、資訊工程相關、數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.懂C++語言或其他scripting相關語言尤佳\n2.認真、負責、配合度高",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：電機電子維護相關、資訊工程相關、數學及電算機科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++\n其他條件：1.懂C++語言或其他scripting相關語言尤佳\n2.認真、負責、配合度高"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "85v5y",
+    "job_url": "https://www.104.com.tw/job/85v5y",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/85v5y.json",
+    "raw_sha256": "070a0cb6a8465a4ed6c47708726aafcbece09720fada1d5627302d44fce455bb",
+    "requested_url": "https://www.104.com.tw/api/jobs/85v5y"
+  }
+}

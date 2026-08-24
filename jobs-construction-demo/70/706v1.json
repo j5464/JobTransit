@@ -1,0 +1,267 @@
+{
+  "company": {
+    "id": "1a2x6bkcyc",
+    "name": "MyGo商學苑_平安房屋仲介股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉網頁版面規劃、套版、特效互動設計"
+        },
+        {
+          "children": [],
+          "text": "與UI/UX Designers及後端工程師協作開發Web系統介面"
+        },
+        {
+          "children": [],
+          "text": "熟悉前端建置與佈署，與後端 API 進行串接"
+        },
+        {
+          "children": [],
+          "text": "負責網站前端開發，優化用戶端功能設計"
+        },
+        {
+          "children": [],
+          "text": "對學習新技術具有熱情，具備良好的溝通及團隊合作能力"
+        },
+        {
+          "children": [],
+          "text": "有手機/平板的 Web 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "與視覺設計師、後端工程師合作，開發前端互動功能"
+        },
+        {
+          "children": [],
+          "text": "熟悉 ReactJS 相關 SPA 經驗"
+        },
+        {
+          "children": [],
+          "text": "良好的溝通、學習、Debug、邏輯思考能力"
+        },
+        {
+          "children": [],
+          "text": "熟悉 HTML5, CSS3, ES6+ Javascript"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Redux"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Linux 指令"
+        },
+        {
+          "children": [],
+          "text": "熟悉 NPM, Yarn 管理模組經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 NodeJS"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 開發管理專案"
+        },
+        {
+          "children": [],
+          "text": "程式語言自學經驗"
+        },
+        {
+          "children": [],
+          "text": "參與過資料視覺化相關專案開發"
+        },
+        {
+          "children": [],
+          "text": "參與過AI、機器學習相關專案開發"
+        },
+        {
+          "children": [],
+          "text": "參與過 GIS 相關專案開發"
+        },
+        {
+          "children": [],
+          "text": "參與過網路爬蟲相關專案開發"
+        },
+        {
+          "children": [],
+          "text": "參與過高營收產品開發"
+        },
+        {
+          "children": [],
+          "text": "開發過 API 系統"
+        },
+        {
+          "children": [],
+          "text": "使用 Python 及 Django 經驗"
+        },
+        {
+          "children": [],
+          "text": "使用 Solidity 開發區塊鏈智能合約"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Docker Compose 撰寫"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Docker 建立及管理專案"
+        },
+        {
+          "children": [],
+          "text": "使用 Azure 經驗"
+        },
+        {
+          "children": [],
+          "text": "使用 MySQL 或 MongoDB 經驗"
+        },
+        {
+          "children": [],
+          "text": "使用 Nginx / Apache web server 經驗"
+        },
+        {
+          "children": [],
+          "text": "使用 socket.io 經驗"
+        },
+        {
+          "children": [],
+          "text": "使用 crontab 經驗"
+        }
+      ],
+      "text": "我們是由一群具有熱誠、豐富產業經驗、有想法的夥伴，所共同組成的高戰鬥力不動產科技（Proptech）平台開發團隊，正在積極地找尋有熱情、有想法的專業人才。只要您是高手或好手，您~ 就是我們需要的合作夥伴，誠摯地邀請您的加入。\n【工作內容】\n1. 熟悉網頁版面規劃、套版、特效互動設計\n2. 與UI/UX Designers及後端工程師協作開發Web系統介面\n3. 熟悉前端建置與佈署，與後端 API 進行串接\n4. 負責網站前端開發，優化用戶端功能設計\n5. 對學習新技術具有熱情，具備良好的溝通及團隊合作能力\n6. 有手機/平板的 Web 開發經驗\n7. 與視覺設計師、後端工程師合作，開發前端互動功能\n【條件要求】\n1. 熟悉 ReactJS 相關 SPA 經驗\n2. 良好的溝通、學習、Debug、邏輯思考能力\n3. 熟悉 HTML5, CSS3, ES6+ Javascript\n4. 熟悉 Redux\n5. 熟悉 Linux 指令\n6. 熟悉 NPM, Yarn 管理模組經驗\n7. 熟悉 NodeJS\n8. 熟悉 Git 開發管理專案\n【加分項目】\n1. 程式語言自學經驗\n2. 參與過資料視覺化相關專案開發\n3. 參與過AI、機器學習相關專案開發\n4. 參與過 GIS 相關專案開發\n5. 參與過網路爬蟲相關專案開發\n6. 參與過高營收產品開發\n7. 開發過 API 系統\n8. 使用 Python 及 Django 經驗\n9. 使用 Solidity 開發區塊鏈智能合約\n10. 熟悉 Docker Compose 撰寫\n11. 熟悉 Docker 建立及管理專案\n12. 使用 Azure 經驗\n13. 使用 MySQL 或 MongoDB 經驗\n14. 使用 Nginx / Apache web server 經驗\n15. 使用 socket.io 經驗\n16. 使用 crontab 經驗"
+    },
+    "employment_type_raw": "全職",
+    "title": "【MyGo AI大數據】Proptech/Fintech網頁前端工程師"
+  },
+  "location": {
+    "address_raw": "台北市中山區長春路176號4樓",
+    "raw": "台北市中山區長春路176號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分項目：\n1. 程式語言自學經驗及相關作品(如個人Github、學習紀錄等)\n2. 參與過資料視覺化相關專案開發\n3. 參與過AI、機器學習相關專案開發\n4. 參與過 GIS 相關專案開發\n5. 參與過網路爬蟲相關專案開發\n6. 參與過高營收產品開發\n7. 開發過 API 系統\n8. 使用 Python 及 Django 經驗\n9. 使用 Solidity 開發區塊鏈智能合約\n10. 熟悉 Docker Compose 撰寫\n11. 熟悉 Docker 建立及管理專案\n12. 使用 Azure 經驗\n13. 使用 MySQL 或 MongoDB 經驗\n14. 使用 Nginx / Apache web server 經驗\n15. 使用 socket.io 經驗\n16. 使用 crontab 經驗\n持有經濟部能力鑑定(iPAS)證書者優先面試!IOTA"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "加分項目：\n1. 程式語言自學經驗及相關作品(如個人Github、學習紀錄等)\n2. 參與過資料視覺化相關專案開發\n3. 參與過AI、機器學習相關專案開發\n4. 參與過 GIS 相關專案開發\n5. 參與過網路爬蟲相關專案開發\n6. 參與過高營收產品開發\n7. 開發過 API 系統\n8. 使用 Python 及 Django 經驗\n9. 使用 Solidity 開發區塊鏈智能合約\n10. 熟悉 Docker Compose 撰寫\n11. 熟悉 Docker 建立及管理專案\n12. 使用 Azure 經驗\n13. 使用 MySQL 或 MongoDB 經驗\n14. 使用 Nginx / Apache web server 經驗\n15. 使用 socket.io 經驗\n16. 使用 crontab 經驗\n持有經濟部能力鑑定(iPAS)證書者優先面試!IOTA",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n其他條件：加分項目：\n1. 程式語言自學經驗及相關作品(如個人Github、學習紀錄等)\n2. 參與過資料視覺化相關專案開發\n3. 參與過AI、機器學習相關專案開發\n4. 參與過 GIS 相關專案開發\n5. 參與過網路爬蟲相關專案開發\n6. 參與過高營收產品開發\n7. 開發過 API 系統\n8. 使用 Python 及 Django 經驗\n9. 使用 Solidity 開發區塊鏈智能合約\n10. 熟悉 Docker Compose 撰寫\n11. 熟悉 Docker 建立及管理專案\n12. 使用 Azure 經驗\n13. 使用 MySQL 或 MongoDB 經驗\n14. 使用 Nginx / Apache web server 經驗\n15. 使用 socket.io 經驗\n16. 使用 crontab 經驗\n持有經濟部能力鑑定(iPAS)證書者優先面試!IOTA",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 74
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:24:05+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000~100,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們是由一群具有熱誠、豐富產業經驗、有想法的夥伴，所共同組成的高戰鬥力不動產科技（Proptech）平台開發團隊，正在積極地找尋有熱情、有想法的專業人才。只要您是高手或好手，您~ 就是我們需要的合作夥伴，誠摯地邀請您的加入。\n【工作內容】\n1. 熟悉網頁版面規劃、套版、特效互動設計\n2. 與UI/UX Designers及後端工程師協作開發Web系統介面\n3. 熟悉前端建置與佈署，與後端 API 進行串接\n4. 負責網站前端開發，優化用戶端功能設計\n5. 對學習新技術具有熱情，具備良好的溝通及團隊合作能力\n6. 有手機/平板的 Web 開發經驗\n7. 與視覺設計師、後端工程師合作，開發前端互動功能\n【條件要求】\n1. 熟悉 ReactJS 相關 SPA 經驗\n2. 良好的溝通、學習、Debug、邏輯思考能力\n3. 熟悉 HTML5, CSS3, ES6+ Javascript\n4. 熟悉 Redux\n5. 熟悉 Linux 指令\n6. 熟悉 NPM, Yarn 管理模組經驗\n7. 熟悉 NodeJS\n8. 熟悉 Git 開發管理專案\n【加分項目】\n1. 程式語言自學經驗\n2. 參與過資料視覺化相關專案開發\n3. 參與過AI、機器學習相關專案開發\n4. 參與過 GIS 相關專案開發\n5. 參與過網路爬蟲相關專案開發\n6. 參與過高營收產品開發\n7. 開發過 API 系統\n8. 使用 Python 及 Django 經驗\n9. 使用 Solidity 開發區塊鏈智能合約\n10. 熟悉 Docker Compose 撰寫\n11. 熟悉 Docker 建立及管理專案\n12. 使用 Azure 經驗\n13. 使用 MySQL 或 MongoDB 經驗\n14. 使用 Nginx / Apache web server 經驗\n15. 使用 socket.io 經驗\n16. 使用 crontab 經驗",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000~100,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區長春路176號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們是由一群具有熱誠、豐富產業經驗、有想法的夥伴，所共同組成的高戰鬥力不動產科技（Proptech）平台開發團隊，正在積極地找尋有熱情、有想法的專業人才。只要您是高手或好手，您~ 就是我們需要的合作夥伴，誠摯地邀請您的加入。\n【工作內容】\n1. 熟悉網頁版面規劃、套版、特效互動設計\n2. 與UI/UX Designers及後端工程師協作開發Web系統介面\n3. 熟悉前端建置與佈署，與後端 API 進行串接\n4. 負責網站前端開發，優化用戶端功能設計\n5. 對學習新技術具有熱情，具備良好的溝通及團隊合作能力\n6. 有手機/平板的 Web 開發經驗\n7. 與視覺設計師、後端工程師合作，開發前端互動功能\n【條件要求】\n1. 熟悉 ReactJS 相關 SPA 經驗\n2. 良好的溝通、學習、Debug、邏輯思考能力\n3. 熟悉 HTML5, CSS3, ES6+ Javascript\n4. 熟悉 Redux\n5. 熟悉 Linux 指令\n6. 熟悉 NPM, Yarn 管理模組經驗\n7. 熟悉 NodeJS\n8. 熟悉 Git 開發管理專案\n【加分項目】\n1. 程式語言自學經驗\n2. 參與過資料視覺化相關專案開發\n3. 參與過AI、機器學習相關專案開發\n4. 參與過 GIS 相關專案開發\n5. 參與過網路爬蟲相關專案開發\n6. 參與過高營收產品開發\n7. 開發過 API 系統\n8. 使用 Python 及 Django 經驗\n9. 使用 Solidity 開發區塊鏈智能合約\n10. 熟悉 Docker Compose 撰寫\n11. 熟悉 Docker 建立及管理專案\n12. 使用 Azure 經驗\n13. 使用 MySQL 或 MongoDB 經驗\n14. 使用 Nginx / Apache web server 經驗\n15. 使用 socket.io 經驗\n16. 使用 crontab 經驗"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分項目：\n1. 程式語言自學經驗及相關作品(如個人Github、學習紀錄等)\n2. 參與過資料視覺化相關專案開發\n3. 參與過AI、機器學習相關專案開發\n4. 參與過 GIS 相關專案開發\n5. 參與過網路爬蟲相關專案開發\n6. 參與過高營收產品開發\n7. 開發過 API 系統\n8. 使用 Python 及 Django 經驗\n9. 使用 Solidity 開發區塊鏈智能合約\n10. 熟悉 Docker Compose 撰寫\n11. 熟悉 Docker 建立及管理專案\n12. 使用 Azure 經驗\n13. 使用 MySQL 或 MongoDB 經驗\n14. 使用 Nginx / Apache web server 經驗\n15. 使用 socket.io 經驗\n16. 使用 crontab 經驗\n持有經濟部能力鑑定(iPAS)證書者優先面試!IOTA",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n其他條件：加分項目：\n1. 程式語言自學經驗及相關作品(如個人Github、學習紀錄等)\n2. 參與過資料視覺化相關專案開發\n3. 參與過AI、機器學習相關專案開發\n4. 參與過 GIS 相關專案開發\n5. 參與過網路爬蟲相關專案開發\n6. 參與過高營收產品開發\n7. 開發過 API 系統\n8. 使用 Python 及 Django 經驗\n9. 使用 Solidity 開發區塊鏈智能合約\n10. 熟悉 Docker Compose 撰寫\n11. 熟悉 Docker 建立及管理專案\n12. 使用 Azure 經驗\n13. 使用 MySQL 或 MongoDB 經驗\n14. 使用 Nginx / Apache web server 經驗\n15. 使用 socket.io 經驗\n16. 使用 crontab 經驗\n持有經濟部能力鑑定(iPAS)證書者優先面試!IOTA"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "706v1",
+    "job_url": "https://www.104.com.tw/job/706v1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/706v1.json",
+    "raw_sha256": "4b919a876976bc43d35ee05ed87b76f98da153b837f305439ee331e3f5f4cfb3",
+    "requested_url": "https://www.104.com.tw/api/jobs/706v1"
+  }
+}

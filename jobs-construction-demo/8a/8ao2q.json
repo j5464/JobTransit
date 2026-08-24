@@ -1,0 +1,207 @@
+{
+  "company": {
+    "id": "e6eifa8",
+    "name": "臻鼎科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體專案主管",
+      "MIS／網管主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "團隊領導與服務：領導與調度約 200 人的跨區域 IT 團隊（含 Infra、IT 服務台），建立高效的 ITIL 服務流程與使用者支援 SLA。"
+        },
+        {
+          "children": [],
+          "text": "新廠建置與擴展：負責規劃並執行海內外新廠房的 IT Infrastructure（基礎設施）建置專案，包含廠區機房、工業網路架構、弱電系統及核心設備之佈署與落地。"
+        },
+        {
+          "children": [],
+          "text": "7x24 廠區高可用維運：主導全球雲端/地端基礎架構、跨國網路與資料中心之日常維運，確保高階電子廠 7x24 小時不間斷穩定生產。"
+        },
+        {
+          "children": [],
+          "text": "Infra 實務維運：重大故障發生時，能親臨一線給予團隊具體技術指導與協助（Troubleshoot）。"
+        },
+        {
+          "children": [],
+          "text": "跨部門資安協作：配合獨立資安部門的政策，主導海內外廠區及集團 IT 端的資安防禦落地、修補程式佈署與異地備援（DR）演練。"
+        },
+        {
+          "children": [],
+          "text": "專案高效交付：控管大型基礎建設、新廠擴建與數位轉型計畫的時程、預算與交付品質。"
+        },
+        {
+          "children": [],
+          "text": "管理資歷：12 年以上 IT 產業經驗，具備大型組織/團隊的實際帶領與跨區域/跨國管理經驗。"
+        },
+        {
+          "children": [],
+          "text": "產業經驗：具備實際在 7days / 24hours 運作之高階電子廠 管理經驗，熟悉製造業不間斷生產的 IT 營運痛點與應變機制。"
+        },
+        {
+          "children": [],
+          "text": "Hands-on 實務力：技術工程師出身（如 System/Network/DBA），具備深入底層技術與架構審查的實作能力。"
+        },
+        {
+          "children": [],
+          "text": "核心技術硬實力："
+        },
+        {
+          "children": [],
+          "text": "工作風格：具備強大抗壓性與海外專案協調能力，秉持以身作則與務實的團隊協作精神。"
+        }
+      ],
+      "text": "職位概述\n全面負責集團 Infrastructure 與資訊服務（IT Services）的維運、優化與高效交付，並主導海內外新廠 IT 基礎設施建置。本職位需要一位技術背景扎實，具備 7x24 高階電子廠管理經驗 的實務型技術領袖，能與團隊並肩作戰並深入一線共同解決核心技術瓶頸。（註：資安由獨立專責部門負責，本職位主要與其進行技術協作與防禦落地）。\n核心職責 (Key Responsibilities)\n• 團隊領導與服務：領導與調度約 200 人的跨區域 IT 團隊（含 Infra、IT 服務台），建立高效的 ITIL 服務流程與使用者支援 SLA。\n• 新廠建置與擴展：負責規劃並執行海內外新廠房的 IT Infrastructure（基礎設施）建置專案，包含廠區機房、工業網路架構、弱電系統及核心設備之佈署與落地。\n• 7x24 廠區高可用維運：主導全球雲端/地端基礎架構、跨國網路與資料中心之日常維運，確保高階電子廠 7x24 小時不間斷穩定生產。\n• Infra 實務維運：重大故障發生時，能親臨一線給予團隊具體技術指導與協助（Troubleshoot）。\n• 跨部門資安協作：配合獨立資安部門的政策，主導海內外廠區及集團 IT 端的資安防禦落地、修補程式佈署與異地備援（DR）演練。\n• 專案高效交付：控管大型基礎建設、新廠擴建與數位轉型計畫的時程、預算與交付品質。\n職位要求 (Requirements)\n• 管理資歷：12 年以上 IT 產業經驗，具備大型組織/團隊的實際帶領與跨區域/跨國管理經驗。\n• 產業經驗：具備實際在 7days / 24hours 運作之高階電子廠 管理經驗，熟悉製造業不間斷生產的 IT 營運痛點與應變機制。\n• Hands-on 實務力：技術工程師出身（如 System/Network/DBA），具備深入底層技術與架構審查的實作能力。\n• 核心技術硬實力：\no Infra：精通大型跨國網路架構、伺服器、虛擬化及主流公有雲（AWS/Azure/GCP）。\no Database / Architecture：熟悉 Oracle 架構與運維管理，具備資料庫效能調校與高可用性架構規劃能力。\n• 工作風格：具備強大抗壓性與海外專案協調能力，秉持以身作則與務實的團隊協作精神。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊-IT Head / 資訊部門主管 (海外地區)"
+  },
+  "location": {
+    "address_raw": "桃園市大園區",
+    "raw": "桃園市大園區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "10年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "10年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、數學及電算機科學學科類"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件 (Preferred Qualifications)\n• 具備大型 SAP 系統維運（ECC/HANA）與模組整合經驗，具備審查技術提案（如 Basis 設定、ABAP 程式碼）之把關能力者大加分。\n• 具備大型基礎設施「地端轉雲端」或 SAP S/4HANA 升級實戰經驗。\n• 具備製造業工廠（Smart Factory / MES 整合）或大型海外建廠之 IT 基礎設施規劃與落地經驗。\n• 具備 Oracle 相關認證、SAP 認證、ITIL 或 PMP 專業證照。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": "加分條件 (Preferred Qualifications)\n• 具備大型 SAP 系統維運（ECC/HANA）與模組整合經驗，具備審查技術提案（如 Basis 設定、ABAP 程式碼）之把關能力者大加分。\n• 具備大型基礎設施「地端轉雲端」或 SAP S/4HANA 升級實戰經驗。\n• 具備製造業工廠（Smart Factory / MES 整合）或大型海外建廠之 IT 基礎設施規劃與落地經驗。\n• 具備 Oracle 相關認證、SAP 認證、ITIL 或 PMP 專業證照。",
+    "skills": [],
+    "text": "工作經歷：10年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、數學及電算機科學學科類\n其他條件：加分條件 (Preferred Qualifications)\n• 具備大型 SAP 系統維運（ECC/HANA）與模組整合經驗，具備審查技術提案（如 Basis 設定、ABAP 程式碼）之把關能力者大加分。\n• 具備大型基礎設施「地端轉雲端」或 SAP S/4HANA 升級實戰經驗。\n• 具備製造業工廠（Smart Factory / MES 整合）或大型海外建廠之 IT 基礎設施規劃與落地經驗。\n• 具備 Oracle 相關認證、SAP 認證、ITIL 或 PMP 專業證照。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 68
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:09:48+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "職位概述\n全面負責集團 Infrastructure 與資訊服務（IT Services）的維運、優化與高效交付，並主導海內外新廠 IT 基礎設施建置。本職位需要一位技術背景扎實，具備 7x24 高階電子廠管理經驗 的實務型技術領袖，能與團隊並肩作戰並深入一線共同解決核心技術瓶頸。（註：資安由獨立專責部門負責，本職位主要與其進行技術協作與防禦落地）。\n核心職責 (Key Responsibilities)\n• 團隊領導與服務：領導與調度約 200 人的跨區域 IT 團隊（含 Infra、IT 服務台），建立高效的 ITIL 服務流程與使用者支援 SLA。\n• 新廠建置與擴展：負責規劃並執行海內外新廠房的 IT Infrastructure（基礎設施）建置專案，包含廠區機房、工業網路架構、弱電系統及核心設備之佈署與落地。\n• 7x24 廠區高可用維運：主導全球雲端/地端基礎架構、跨國網路與資料中心之日常維運，確保高階電子廠 7x24 小時不間斷穩定生產。\n• Infra 實務維運：重大故障發生時，能親臨一線給予團隊具體技術指導與協助（Troubleshoot）。\n• 跨部門資安協作：配合獨立資安部門的政策，主導海內外廠區及集團 IT 端的資安防禦落地、修補程式佈署與異地備援（DR）演練。\n• 專案高效交付：控管大型基礎建設、新廠擴建與數位轉型計畫的時程、預算與交付品質。\n職位要求 (Requirements)\n• 管理資歷：12 年以上 IT 產業經驗，具備大型組織/團隊的實際帶領與跨區域/跨國管理經驗。\n• 產業經驗：具備實際在 7days / 24hours 運作之高階電子廠 管理經驗，熟悉製造業不間斷生產的 IT 營運痛點與應變機制。\n• Hands-on 實務力：技術工程師出身（如 System/Network/DBA），具備深入底層技術與架構審查的實作能力。\n• 核心技術硬實力：\no Infra：精通大型跨國網路架構、伺服器、虛擬化及主流公有雲（AWS/Azure/GCP）。\no Database / Architecture：熟悉 Oracle 架構與運維管理，具備資料庫效能調校與高可用性架構規劃能力。\n• 工作風格：具備強大抗壓性與海外專案協調能力，秉持以身作則與務實的團隊協作精神。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體專案主管",
+            "MIS／網管主管"
+          ],
+          "label": "職務類別",
+          "text": "軟體專案主管、MIS／網管主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市大園區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "職位概述\n全面負責集團 Infrastructure 與資訊服務（IT Services）的維運、優化與高效交付，並主導海內外新廠 IT 基礎設施建置。本職位需要一位技術背景扎實，具備 7x24 高階電子廠管理經驗 的實務型技術領袖，能與團隊並肩作戰並深入一線共同解決核心技術瓶頸。（註：資安由獨立專責部門負責，本職位主要與其進行技術協作與防禦落地）。\n核心職責 (Key Responsibilities)\n• 團隊領導與服務：領導與調度約 200 人的跨區域 IT 團隊（含 Infra、IT 服務台），建立高效的 ITIL 服務流程與使用者支援 SLA。\n• 新廠建置與擴展：負責規劃並執行海內外新廠房的 IT Infrastructure（基礎設施）建置專案，包含廠區機房、工業網路架構、弱電系統及核心設備之佈署與落地。\n• 7x24 廠區高可用維運：主導全球雲端/地端基礎架構、跨國網路與資料中心之日常維運，確保高階電子廠 7x24 小時不間斷穩定生產。\n• Infra 實務維運：重大故障發生時，能親臨一線給予團隊具體技術指導與協助（Troubleshoot）。\n• 跨部門資安協作：配合獨立資安部門的政策，主導海內外廠區及集團 IT 端的資安防禦落地、修補程式佈署與異地備援（DR）演練。\n• 專案高效交付：控管大型基礎建設、新廠擴建與數位轉型計畫的時程、預算與交付品質。\n職位要求 (Requirements)\n• 管理資歷：12 年以上 IT 產業經驗，具備大型組織/團隊的實際帶領與跨區域/跨國管理經驗。\n• 產業經驗：具備實際在 7days / 24hours 運作之高階電子廠 管理經驗，熟悉製造業不間斷生產的 IT 營運痛點與應變機制。\n• Hands-on 實務力：技術工程師出身（如 System/Network/DBA），具備深入底層技術與架構審查的實作能力。\n• 核心技術硬實力：\no Infra：精通大型跨國網路架構、伺服器、虛擬化及主流公有雲（AWS/Azure/GCP）。\no Database / Architecture：熟悉 Oracle 架構與運維管理，具備資料庫效能調校與高可用性架構規劃能力。\n• 工作風格：具備強大抗壓性與海外專案協調能力，秉持以身作則與務實的團隊協作精神。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "10年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件 (Preferred Qualifications)\n• 具備大型 SAP 系統維運（ECC/HANA）與模組整合經驗，具備審查技術提案（如 Basis 設定、ABAP 程式碼）之把關能力者大加分。\n• 具備大型基礎設施「地端轉雲端」或 SAP S/4HANA 升級實戰經驗。\n• 具備製造業工廠（Smart Factory / MES 整合）或大型海外建廠之 IT 基礎設施規劃與落地經驗。\n• 具備 Oracle 相關認證、SAP 認證、ITIL 或 PMP 專業證照。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：10年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、數學及電算機科學學科類\n其他條件：加分條件 (Preferred Qualifications)\n• 具備大型 SAP 系統維運（ECC/HANA）與模組整合經驗，具備審查技術提案（如 Basis 設定、ABAP 程式碼）之把關能力者大加分。\n• 具備大型基礎設施「地端轉雲端」或 SAP S/4HANA 升級實戰經驗。\n• 具備製造業工廠（Smart Factory / MES 整合）或大型海外建廠之 IT 基礎設施規劃與落地經驗。\n• 具備 Oracle 相關認證、SAP 認證、ITIL 或 PMP 專業證照。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8ao2q",
+    "job_url": "https://www.104.com.tw/job/8ao2q",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ao2q.json",
+    "raw_sha256": "235ef16b03032233cc2af29d689f1ae2a18c5ad61a3ea1192cf74d7e927454f5",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ao2q"
+  }
+}

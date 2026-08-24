@@ -1,0 +1,221 @@
+{
+  "company": {
+    "id": "ve7ojc8",
+    "name": "奇美食品股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "軟體工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "網頁程式設計開發。"
+        },
+        {
+          "children": [],
+          "text": "SAP ERP系統維運。"
+        },
+        {
+          "children": [],
+          "text": "參與企業流程規劃、整合與改善，系統專案管理與後續維護。"
+        },
+        {
+          "children": [],
+          "text": "協助使用者需求及異常問題處理"
+        }
+      ],
+      "text": "1.網頁程式設計開發。\n2.SAP ERP系統維運。\n3.參與企業流程規劃、整合與改善，系統專案管理與後續維護。\n4.協助使用者需求及異常問題處理"
+    },
+    "employment_type_raw": "全職",
+    "title": "CM_資訊系統/軟體工程師"
+  },
+  "location": {
+    "address_raw": "台南市仁德區仁愛里機場路1008號",
+    "raw": "台南市仁德區仁愛里機場路1008號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "C#",
+          "Python",
+          "PL/SQL"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Python、PL/SQL"
+      },
+      {
+        "items": [
+          "資料庫系統管理維護",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "資料庫系統管理維護、資料庫軟體應用"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉C#、.NET or Python程式語言與MVC架構。\n2.熟悉資料庫之SQL語法指令。\n3.有ERP系統維護經驗尤佳。\n4.具APP開發經驗尤佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1.熟悉C#、.NET or Python程式語言與MVC架構。\n2.熟悉資料庫之SQL語法指令。\n3.有ERP系統維護經驗尤佳。\n4.具APP開發經驗尤佳。",
+    "skills": [
+      "資料庫系統管理維護",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n擅長工具：C#、Python、PL/SQL\n工作技能：資料庫系統管理維護、資料庫軟體應用\n其他條件：1.熟悉C#、.NET or Python程式語言與MVC架構。\n2.熟悉資料庫之SQL語法指令。\n3.有ERP系統維護經驗尤佳。\n4.具APP開發經驗尤佳。",
+    "tools": [
+      "C#",
+      "Python",
+      "PL/SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:57:33+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.網頁程式設計開發。\n2.SAP ERP系統維運。\n3.參與企業流程規劃、整合與改善，系統專案管理與後續維護。\n4.協助使用者需求及異常問題處理",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "軟體工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、軟體工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市仁德區仁愛里機場路1008號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.網頁程式設計開發。\n2.SAP ERP系統維運。\n3.參與企業流程規劃、整合與改善，系統專案管理與後續維護。\n4.協助使用者需求及異常問題處理"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Python",
+            "PL/SQL"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Python、PL/SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料庫系統管理維護",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "資料庫系統管理維護、資料庫軟體應用",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉C#、.NET or Python程式語言與MVC架構。\n2.熟悉資料庫之SQL語法指令。\n3.有ERP系統維護經驗尤佳。\n4.具APP開發經驗尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n擅長工具：C#、Python、PL/SQL\n工作技能：資料庫系統管理維護、資料庫軟體應用\n其他條件：1.熟悉C#、.NET or Python程式語言與MVC架構。\n2.熟悉資料庫之SQL語法指令。\n3.有ERP系統維護經驗尤佳。\n4.具APP開發經驗尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "86oca",
+    "job_url": "https://www.104.com.tw/job/86oca",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/86oca.json",
+    "raw_sha256": "0f572f3bf8aefc81376408ee82bb8565dd13100c71454bed1ddf336f9dde48f3",
+    "requested_url": "https://www.104.com.tw/api/jobs/86oca"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "演算法工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "韌體程式設計與開發"
+        },
+        {
+          "children": [],
+          "text": "SSD and NAND flash演算法開發"
+        },
+        {
+          "children": [],
+          "text": "FPGA驗證"
+        }
+      ],
+      "text": "1. 韌體程式設計與開發\n2. SSD and NAND flash演算法開發\n3. FPGA驗證"
+    },
+    "employment_type_raw": "全職",
+    "title": "PCIe 4.0 SSD 韌體設計工程師06"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟C語言\n2.認真、負責、配合度高"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "1.熟C語言\n2.認真、負責、配合度高",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：資訊工程相關、電機電子工程相關\n其他條件：1.熟C語言\n2.認真、負責、配合度高",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 42
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:04:57+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 韌體程式設計與開發\n2. SSD and NAND flash演算法開發\n3. FPGA驗證",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "演算法工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、演算法工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 韌體程式設計與開發\n2. SSD and NAND flash演算法開發\n3. FPGA驗證"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟C語言\n2.認真、負責、配合度高",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：資訊工程相關、電機電子工程相關\n其他條件：1.熟C語言\n2.認真、負責、配合度高"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "3prfj",
+    "job_url": "https://www.104.com.tw/job/3prfj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/3prfj.json",
+    "raw_sha256": "ad7c368605b7cb32940ef6b2550f38ca26b7943b9ea378f7f1830f93c2e756bc",
+    "requested_url": "https://www.104.com.tw/api/jobs/3prfj"
+  }
+}

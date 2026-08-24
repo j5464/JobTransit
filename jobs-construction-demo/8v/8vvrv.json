@@ -1,0 +1,270 @@
+{
+  "company": {
+    "id": "dbj2z8w",
+    "name": "英屬維京群島商嘉碼科技有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "資料工程師",
+      "資料科學家",
+      "雲端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "BigQuery 資料建模(Data Modeling)，優化查詢效率"
+        },
+        {
+          "children": [],
+          "text": "開發、維護 ETL/ELT 資料管道"
+        },
+        {
+          "children": [],
+          "text": "與數據分析師合作，提供穩健的數據集"
+        },
+        {
+          "children": [],
+          "text": "開發、優化 BI 平台服務"
+        },
+        {
+          "children": [],
+          "text": "串接各種資料源 (SQL Server、API 等…)"
+        },
+        {
+          "children": [],
+          "text": "資料品質監控建置"
+        },
+        {
+          "children": [],
+          "text": "程式開發能力：SQL、Node.js、Python"
+        },
+        {
+          "children": [],
+          "text": "資料建模與架構：dbt(data build tool)、T-SQL，有分層架構概念(Raw/Stage/Mart)為佳"
+        },
+        {
+          "children": [],
+          "text": "資料管道建置與監控：Airflow/Prefect/Dagster"
+        },
+        {
+          "children": [],
+          "text": "版本控制：Git"
+        },
+        {
+          "children": [],
+          "text": "可獨立運用 AI 提升工作效率與產出品質"
+        },
+        {
+          "children": [],
+          "text": "GCP 相關雲端服務經驗"
+        },
+        {
+          "children": [],
+          "text": "Linux 系統操作經驗"
+        },
+        {
+          "children": [],
+          "text": "與數據分析師協作經驗"
+        },
+        {
+          "children": [],
+          "text": "資料探索與分析能力"
+        },
+        {
+          "children": [],
+          "text": "細心、持續學習、有實驗精神"
+        }
+      ],
+      "text": "我們正在尋找一位數據工程師，不僅具備扎實的技術底子，更擁有主動積極、樂於挑戰的特質。\n加入我們後，您將在這個充滿活力、尊重多元的環境中扮演關鍵角色，透過打造穩健的數據基礎與管道，協助團隊從資料中萃取價值、加速產品與業務的創新。\n如果您對資料領域充滿熱情、擅長跨團隊合作，並樂於打造能真正解決問題的技術方案，我們真誠期待您的加入。\n您將接收到的挑戰：\n1. BigQuery 資料建模(Data Modeling)，優化查詢效率\n2. 開發、維護 ETL/ELT 資料管道\n3. 與數據分析師合作，提供穩健的數據集\n4. 開發、優化 BI 平台服務\n5. 串接各種資料源 (SQL Server、API 等…)\n6. 資料品質監控建置\n您需要具備的技能：\n1. 程式開發能力：SQL、Node.js、Python\n2. 資料建模與架構：dbt(data build tool)、T-SQL，有分層架構概念(Raw/Stage/Mart)為佳\n3. 資料管道建置與監控：Airflow/Prefect/Dagster\n4. 版本控制：Git\n5.可獨立運用 AI 提升工作效率與產出品質\nNice to Have：\n1. GCP 相關雲端服務經驗\n2. Linux 系統操作經驗\n3. 與數據分析師協作經驗\n4. 資料探索與分析能力\n5. 細心、持續學習、有實驗精神\n經驗要求：\n1-3年相關經驗"
+    },
+    "employment_type_raw": "全職",
+    "title": "數據工程師"
+  },
+  "location": {
+    "address_raw": "台中市西屯區工業三十八路210號3樓之6",
+    "raw": "台中市西屯區工業三十八路210號3樓之6"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "Node.js",
+          "Python",
+          "Git",
+          "ETL",
+          "Linux",
+          "Data Modeling"
+        ],
+        "label": "擅長工具",
+        "text": "Node.js、Python、Git、ETL、Linux、Data Modeling"
+      },
+      {
+        "items": [
+          "資料庫程式設計",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "資料庫程式設計、軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "資料庫程式設計",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Node.js、Python、Git、ETL、Linux、Data Modeling\n工作技能：資料庫程式設計、軟體程式設計",
+    "tools": [
+      "Node.js",
+      "Python",
+      "Git",
+      "ETL",
+      "Linux",
+      "Data Modeling"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 31
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:38:30+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們正在尋找一位數據工程師，不僅具備扎實的技術底子，更擁有主動積極、樂於挑戰的特質。\n加入我們後，您將在這個充滿活力、尊重多元的環境中扮演關鍵角色，透過打造穩健的數據基礎與管道，協助團隊從資料中萃取價值、加速產品與業務的創新。\n如果您對資料領域充滿熱情、擅長跨團隊合作，並樂於打造能真正解決問題的技術方案，我們真誠期待您的加入。\n您將接收到的挑戰：\n1. BigQuery 資料建模(Data Modeling)，優化查詢效率\n2. 開發、維護 ETL/ELT 資料管道\n3. 與數據分析師合作，提供穩健的數據集\n4. 開發、優化 BI 平台服務\n5. 串接各種資料源 (SQL Server、API 等…)\n6. 資料品質監控建置\n您需要具備的技能：\n1. 程式開發能力：SQL、Node.js、Python\n2. 資料建模與架構：dbt(data build tool)、T-SQL，有分層架構概念(Raw/Stage/Mart)為佳\n3. 資料管道建置與監控：Airflow/Prefect/Dagster\n4. 版本控制：Git\n5.可獨立運用 AI 提升工作效率與產出品質\nNice to Have：\n1. GCP 相關雲端服務經驗\n2. Linux 系統操作經驗\n3. 與數據分析師協作經驗\n4. 資料探索與分析能力\n5. 細心、持續學習、有實驗精神\n經驗要求：\n1-3年相關經驗",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料工程師",
+            "資料科學家",
+            "雲端工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料工程師、資料科學家、雲端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區工業三十八路210號3樓之6",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們正在尋找一位數據工程師，不僅具備扎實的技術底子，更擁有主動積極、樂於挑戰的特質。\n加入我們後，您將在這個充滿活力、尊重多元的環境中扮演關鍵角色，透過打造穩健的數據基礎與管道，協助團隊從資料中萃取價值、加速產品與業務的創新。\n如果您對資料領域充滿熱情、擅長跨團隊合作，並樂於打造能真正解決問題的技術方案，我們真誠期待您的加入。\n您將接收到的挑戰：\n1. BigQuery 資料建模(Data Modeling)，優化查詢效率\n2. 開發、維護 ETL/ELT 資料管道\n3. 與數據分析師合作，提供穩健的數據集\n4. 開發、優化 BI 平台服務\n5. 串接各種資料源 (SQL Server、API 等…)\n6. 資料品質監控建置\n您需要具備的技能：\n1. 程式開發能力：SQL、Node.js、Python\n2. 資料建模與架構：dbt(data build tool)、T-SQL，有分層架構概念(Raw/Stage/Mart)為佳\n3. 資料管道建置與監控：Airflow/Prefect/Dagster\n4. 版本控制：Git\n5.可獨立運用 AI 提升工作效率與產出品質\nNice to Have：\n1. GCP 相關雲端服務經驗\n2. Linux 系統操作經驗\n3. 與數據分析師協作經驗\n4. 資料探索與分析能力\n5. 細心、持續學習、有實驗精神\n經驗要求：\n1-3年相關經驗"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Node.js",
+            "Python",
+            "Git",
+            "ETL",
+            "Linux",
+            "Data Modeling"
+          ],
+          "label": "擅長工具",
+          "text": "Node.js、Python、Git、ETL、Linux、Data Modeling",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料庫程式設計",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "資料庫程式設計、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Node.js、Python、Git、ETL、Linux、Data Modeling\n工作技能：資料庫程式設計、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8vvrv",
+    "job_url": "https://www.104.com.tw/job/8vvrv",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8vvrv.json",
+    "raw_sha256": "0231a7b48f8c8a2873ebe5e1d84771ec042b3ef87085d9cb2b5670b7e7bce8de",
+    "requested_url": "https://www.104.com.tw/api/jobs/8vvrv"
+  }
+}

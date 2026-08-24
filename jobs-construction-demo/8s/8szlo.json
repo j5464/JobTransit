@@ -1,0 +1,252 @@
+{
+  "company": {
+    "id": "1a2x6bl2jl",
+    "name": "明竑科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "其他資訊專業人員",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "PC Notebook Server Storage."
+        },
+        {
+          "children": [],
+          "text": "系統安裝建置及相關文件撰寫"
+        },
+        {
+          "children": [],
+          "text": "保固維護(系統定期保養)"
+        },
+        {
+          "children": [],
+          "text": "售後技術及客戶問題回覆"
+        },
+        {
+          "children": [],
+          "text": "過去工作經驗有SI 相關經驗者佳。"
+        },
+        {
+          "children": [],
+          "text": "具服務熱忱，喜歡與人互動、有活力及責任感者佳。"
+        },
+        {
+          "children": [],
+          "text": "邏輯清晰，善歸納與分析者佳。"
+        },
+        {
+          "children": [],
+          "text": "熱衷 IT 技術，喜歡學習新產品與技術，能自我學習成長者佳。"
+        }
+      ],
+      "text": "1. PC Notebook Server Storage.\n2. 系統安裝建置及相關文件撰寫\n3. 保固維護(系統定期保養)\n4. 售後技術及客戶問題回覆\n※需求個人特質及經驗\n1. 過去工作經驗有SI 相關經驗者佳。\n2. 具服務熱忱，喜歡與人互動、有活力及責任感者佳。\n3. 邏輯清晰，善歸納與分析者佳。\n4. 熱衷 IT 技術，喜歡學習新產品與技術，能自我學習成長者佳。"
+    },
+    "employment_type_raw": "全職",
+    "title": "硬體維護工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市復興二路229號13樓之9",
+    "raw": "新竹縣竹北市復興二路229號13樓之9"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "工程學科類",
+          "自然科學學科類",
+          "工業技藝及機械學科類"
+        ],
+        "label": "科系要求",
+        "text": "工程學科類、自然科學學科類、工業技藝及機械學科類"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Windows Server 2019",
+          "Vmware"
+        ],
+        "label": "擅長工具",
+        "text": "Windows Server 2019、Vmware"
+      },
+      {
+        "items": [
+          "資訊設備環境設定"
+        ],
+        "label": "工作技能",
+        "text": "資訊設備環境設定"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "有車者佳"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "工程學科類",
+      "自然科學學科類",
+      "工業技藝及機械學科類"
+    ],
+    "other_text": "有車者佳",
+    "skills": [
+      "資訊設備環境設定"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學\n科系要求：工程學科類、自然科學學科類、工業技藝及機械學科類\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Windows Server 2019、Vmware\n工作技能：資訊設備環境設定\n其他條件：有車者佳",
+    "tools": [
+      "Windows Server 2019",
+      "Vmware"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 99
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:26:58+08:00"
+  },
+  "salary": {
+    "raw": "月薪32,000~40,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. PC Notebook Server Storage.\n2. 系統安裝建置及相關文件撰寫\n3. 保固維護(系統定期保養)\n4. 售後技術及客戶問題回覆\n※需求個人特質及經驗\n1. 過去工作經驗有SI 相關經驗者佳。\n2. 具服務熱忱，喜歡與人互動、有活力及責任感者佳。\n3. 邏輯清晰，善歸納與分析者佳。\n4. 熱衷 IT 技術，喜歡學習新產品與技術，能自我學習成長者佳。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "其他資訊專業人員",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "其他資訊專業人員、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪32,000~40,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市復興二路229號13樓之9",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. PC Notebook Server Storage.\n2. 系統安裝建置及相關文件撰寫\n3. 保固維護(系統定期保養)\n4. 售後技術及客戶問題回覆\n※需求個人特質及經驗\n1. 過去工作經驗有SI 相關經驗者佳。\n2. 具服務熱忱，喜歡與人互動、有活力及責任感者佳。\n3. 邏輯清晰，善歸納與分析者佳。\n4. 熱衷 IT 技術，喜歡學習新產品與技術，能自我學習成長者佳。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "工程學科類",
+            "自然科學學科類",
+            "工業技藝及機械學科類"
+          ],
+          "label": "科系要求",
+          "text": "工程學科類、自然科學學科類、工業技藝及機械學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Windows Server 2019",
+            "Vmware"
+          ],
+          "label": "擅長工具",
+          "text": "Windows Server 2019、Vmware",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊設備環境設定"
+          ],
+          "label": "工作技能",
+          "text": "資訊設備環境設定",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "有車者佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學\n科系要求：工程學科類、自然科學學科類、工業技藝及機械學科類\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Windows Server 2019、Vmware\n工作技能：資訊設備環境設定\n其他條件：有車者佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8szlo",
+    "job_url": "https://www.104.com.tw/job/8szlo",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8szlo.json",
+    "raw_sha256": "04352d4eada7d1dcb842e0243f11368922d53c035da3d14a99280d5af46ba839",
+    "requested_url": "https://www.104.com.tw/api/jobs/8szlo"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "company": {
+    "id": "cs9k128",
+    "name": "台灣先藝科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "數據分析師／資料分析師",
+      "資料庫管理人員",
+      "資料科學家"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Duties and Tasks:"
+        },
+        {
+          "children": [],
+          "text": "Required Skills:"
+        },
+        {
+          "children": [],
+          "text": "Preferred Skills:"
+        }
+      ],
+      "text": "We are seeking a detail-oriented and highly organized Data Management Contractor to join our team. This role is ideal for someone with strong data management and Excel skills who enjoys working with large datasets and ensuring data accuracy. You will play a key role in data consolidation, cleansing, standardization, and preparation to support business reporting and system integration initiatives.\n• Duties and Tasks:\no Consolidate data from multiple sources and formats.\no Clean, validate, and standardize large datasets to ensure data quality and consistency.\no Develop and maintain standardized data templates and formatting guidelines.\no Prepare datasets for system import and reporting purposes.\no Support Power BI reporting initiatives by providing structured and reliable data sources.\no Identify data quality issues and work with stakeholders to resolve inconsistencies.\no Document data structures, business rules, and operational procedures.\no Continuously improve data processing efficiency and standardization practices.\n• Required Skills:\no Advanced Microsoft Excel skills, including:\n Pivot Tables\n XLOOKUP/VLOOKUP\n INDEX/MATCH\n Power Query\n Data Validation\n Conditional Formatting\no Experience handling and organizing large datasets.\no Strong attention to detail and data accuracy.\no Ability to work independently and manage multiple tasks.\no Good analytical and problem-solving skills.\no Strong written and verbal communication skills.\n• Preferred Skills:\no Experience with Power BI.\no Basic knowledge of SQL and database concepts.\no Experience in data cleansing, data governance, or master data management.\no Familiarity with process documentation and workflow standardization.\no Experience supporting reporting or business intelligence projects."
+    },
+    "employment_type_raw": "全職",
+    "title": "Data Management Contractor (約聘一年，有轉正機會)"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市復興三路二段168號20樓",
+    "raw": "新竹縣竹北市復興三路二段168號20樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 4
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:28:54+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are seeking a detail-oriented and highly organized Data Management Contractor to join our team. This role is ideal for someone with strong data management and Excel skills who enjoys working with large datasets and ensuring data accuracy. You will play a key role in data consolidation, cleansing, standardization, and preparation to support business reporting and system integration initiatives.\n• Duties and Tasks:\no Consolidate data from multiple sources and formats.\no Clean, validate, and standardize large datasets to ensure data quality and consistency.\no Develop and maintain standardized data templates and formatting guidelines.\no Prepare datasets for system import and reporting purposes.\no Support Power BI reporting initiatives by providing structured and reliable data sources.\no Identify data quality issues and work with stakeholders to resolve inconsistencies.\no Document data structures, business rules, and operational procedures.\no Continuously improve data processing efficiency and standardization practices.\n• Required Skills:\no Advanced Microsoft Excel skills, including:\n Pivot Tables\n XLOOKUP/VLOOKUP\n INDEX/MATCH\n Power Query\n Data Validation\n Conditional Formatting\no Experience handling and organizing large datasets.\no Strong attention to detail and data accuracy.\no Ability to work independently and manage multiple tasks.\no Good analytical and problem-solving skills.\no Strong written and verbal communication skills.\n• Preferred Skills:\no Experience with Power BI.\no Basic knowledge of SQL and database concepts.\no Experience in data cleansing, data governance, or master data management.\no Familiarity with process documentation and workflow standardization.\no Experience supporting reporting or business intelligence projects.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "數據分析師／資料分析師",
+            "資料庫管理人員",
+            "資料科學家"
+          ],
+          "label": "職務類別",
+          "text": "數據分析師／資料分析師、資料庫管理人員、資料科學家",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市復興三路二段168號20樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are seeking a detail-oriented and highly organized Data Management Contractor to join our team. This role is ideal for someone with strong data management and Excel skills who enjoys working with large datasets and ensuring data accuracy. You will play a key role in data consolidation, cleansing, standardization, and preparation to support business reporting and system integration initiatives.\n• Duties and Tasks:\no Consolidate data from multiple sources and formats.\no Clean, validate, and standardize large datasets to ensure data quality and consistency.\no Develop and maintain standardized data templates and formatting guidelines.\no Prepare datasets for system import and reporting purposes.\no Support Power BI reporting initiatives by providing structured and reliable data sources.\no Identify data quality issues and work with stakeholders to resolve inconsistencies.\no Document data structures, business rules, and operational procedures.\no Continuously improve data processing efficiency and standardization practices.\n• Required Skills:\no Advanced Microsoft Excel skills, including:\n Pivot Tables\n XLOOKUP/VLOOKUP\n INDEX/MATCH\n Power Query\n Data Validation\n Conditional Formatting\no Experience handling and organizing large datasets.\no Strong attention to detail and data accuracy.\no Ability to work independently and manage multiple tasks.\no Good analytical and problem-solving skills.\no Strong written and verbal communication skills.\n• Preferred Skills:\no Experience with Power BI.\no Basic knowledge of SQL and database concepts.\no Experience in data cleansing, data governance, or master data management.\no Familiarity with process documentation and workflow standardization.\no Experience supporting reporting or business intelligence projects."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94tey",
+    "job_url": "https://www.104.com.tw/job/94tey",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94tey.json",
+    "raw_sha256": "6ec9b091ef1b8603e503ad4300fbd5c5525ddec2ec38bb2f81905c64c1e8feb2",
+    "requested_url": "https://www.104.com.tw/api/jobs/94tey"
+  }
+}

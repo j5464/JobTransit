@@ -1,0 +1,273 @@
+{
+  "company": {
+    "id": "13ia78gw",
+    "name": "是方電訊股份有限公司(中華電信關係企業)"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統分析師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "資訊系統開發與維護。"
+        },
+        {
+          "children": [],
+          "text": "專案控管與追蹤。"
+        },
+        {
+          "children": [],
+          "text": "使用者需求訪談。"
+        }
+      ],
+      "text": "1. 資訊系統開發與維護。\n2. 專案控管與追蹤。\n3. 使用者需求訪談。"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統開發工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路68號2樓",
+    "raw": "台北市內湖區瑞光路68號2樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Java",
+          "JSP",
+          "MySQL",
+          "JavaScript",
+          "Python",
+          "Git",
+          "LLM",
+          "Linux",
+          "Oracle",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "Java、JSP、MySQL、JavaScript、Python、Git、LLM、Linux、Oracle、MS SQL"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "系統整合分析",
+          "系統架構規劃與維護",
+          "軟硬體設備預算與採買規劃",
+          "系統導入",
+          "資料庫軟體應用",
+          "資料庫系統管理維護"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、系統整合分析、系統架構規劃與維護、軟硬體設備預算與採買規劃、系統導入、資料庫軟體應用、資料庫系統管理維護"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.系統開發維護經驗(建議三年以上)\n2.必要技能：\n（1）熟悉Java 相關語言程式(ex: Java / JSP / JavaScript …)\n（2）關聯式資料庫設計(ex: Oracle / SQL Server / MySQL / MariaDB…)\n3.具備下列工具或領域經驗尤佳…\nPython、FastAPI、Docker、Git、LLM、RAG、Linux、生成式AI、人工智慧、語言模型、REST API設計"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "1.系統開發維護經驗(建議三年以上)\n2.必要技能：\n（1）熟悉Java 相關語言程式(ex: Java / JSP / JavaScript …)\n（2）關聯式資料庫設計(ex: Oracle / SQL Server / MySQL / MariaDB…)\n3.具備下列工具或領域經驗尤佳…\nPython、FastAPI、Docker、Git、LLM、RAG、Linux、生成式AI、人工智慧、語言模型、REST API設計",
+    "skills": [
+      "軟體程式設計",
+      "系統整合分析",
+      "系統架構規劃與維護",
+      "軟硬體設備預算與採買規劃",
+      "系統導入",
+      "資料庫軟體應用",
+      "資料庫系統管理維護"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Java、JSP、MySQL、JavaScript、Python、Git、LLM、Linux、Oracle、MS SQL\n工作技能：軟體程式設計、系統整合分析、系統架構規劃與維護、軟硬體設備預算與採買規劃、系統導入、資料庫軟體應用、資料庫系統管理維護\n其他條件：1.系統開發維護經驗(建議三年以上)\n2.必要技能：\n（1）熟悉Java 相關語言程式(ex: Java / JSP / JavaScript …)\n（2）關聯式資料庫設計(ex: Oracle / SQL Server / MySQL / MariaDB…)\n3.具備下列工具或領域經驗尤佳…\nPython、FastAPI、Docker、Git、LLM、RAG、Linux、生成式AI、人工智慧、語言模型、REST API設計",
+    "tools": [
+      "Java",
+      "JSP",
+      "MySQL",
+      "JavaScript",
+      "Python",
+      "Git",
+      "LLM",
+      "Linux",
+      "Oracle",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 11
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:48:59+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 資訊系統開發與維護。\n2. 專案控管與追蹤。\n3. 使用者需求訪談。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統分析師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統分析師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路68號2樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 資訊系統開發與維護。\n2. 專案控管與追蹤。\n3. 使用者需求訪談。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "JSP",
+            "MySQL",
+            "JavaScript",
+            "Python",
+            "Git",
+            "LLM",
+            "Linux",
+            "Oracle",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "Java、JSP、MySQL、JavaScript、Python、Git、LLM、Linux、Oracle、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "系統整合分析",
+            "系統架構規劃與維護",
+            "軟硬體設備預算與採買規劃",
+            "系統導入",
+            "資料庫軟體應用",
+            "資料庫系統管理維護"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、系統整合分析、系統架構規劃與維護、軟硬體設備預算與採買規劃、系統導入、資料庫軟體應用、資料庫系統管理維護",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.系統開發維護經驗(建議三年以上)\n2.必要技能：\n（1）熟悉Java 相關語言程式(ex: Java / JSP / JavaScript …)\n（2）關聯式資料庫設計(ex: Oracle / SQL Server / MySQL / MariaDB…)\n3.具備下列工具或領域經驗尤佳…\nPython、FastAPI、Docker、Git、LLM、RAG、Linux、生成式AI、人工智慧、語言模型、REST API設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Java、JSP、MySQL、JavaScript、Python、Git、LLM、Linux、Oracle、MS SQL\n工作技能：軟體程式設計、系統整合分析、系統架構規劃與維護、軟硬體設備預算與採買規劃、系統導入、資料庫軟體應用、資料庫系統管理維護\n其他條件：1.系統開發維護經驗(建議三年以上)\n2.必要技能：\n（1）熟悉Java 相關語言程式(ex: Java / JSP / JavaScript …)\n（2）關聯式資料庫設計(ex: Oracle / SQL Server / MySQL / MariaDB…)\n3.具備下列工具或領域經驗尤佳…\nPython、FastAPI、Docker、Git、LLM、RAG、Linux、生成式AI、人工智慧、語言模型、REST API設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94sfc",
+    "job_url": "https://www.104.com.tw/job/94sfc",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94sfc.json",
+    "raw_sha256": "94d9e433ef6fd2c723fa79b5c11adda3888d42ef4b8c939a652edad6250a93d0",
+    "requested_url": "https://www.104.com.tw/api/jobs/94sfc"
+  }
+}

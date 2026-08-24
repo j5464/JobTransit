@@ -1,0 +1,167 @@
+{
+  "company": {
+    "id": "a5habd4",
+    "name": "D-Link_友訊科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "資料工程師",
+      "DevOps 工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "[職位概述]\n您將負責 AIBOX 核心電腦視覺演算法的研發、訓練與邊緣端優化。從人體偵測、人臉特徵辨識，到特定服飾的分類，您所開發的模型將直接運行於邊緣 NPU 晶片上，為實體設備提供強大的即時分析能力。\n[主要職責]\n模型研發與訓練：\n開發與優化即時目標偵測與追蹤模型（如 YOLOv8/v11/v12, DEIMv2），針對人體、行人及特定物件進行高精度辨識。\n開發特徵分類模型，如特定人物過濾機制（ResNet/YOLO）、人群輪廓分析（年齡、性別屬性辨識）及 人臉辨識。\n邊緣端部署與量化：\n針對邊緣端推論硬體（如 Hailo, QCA 等 NPU）進行模型量化與優化（包含 PTQ 部署後量化與 QAT 量化感知訓練）。\n降低模型推理延遲，在硬體資源有限的情況下實現高吞吐量 (FPS)。\n資料清洗與 MLOps 流程：\n設計與維護資料預處理管線，處理難例收集、標註與清洗。\n透過資料增強（ColorJitter、RandomErasing 等）與類別權重加權優化，解決實務資料集不平衡與過擬合問題（例如去頭部裁切優化）。\n效能基準測試與評估：\n針對新演算法進行零樣本 (Zero-shot) 泛化能力評估。\n進行基準測試 (Benchmark)，產出包含 mAP、FPS、Latency 及 NPU 顯存峰值之分析報告。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AIBCRDD- 視覺 AI 演算法工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區新湖三路289號",
+    "raw": "台北市內湖區新湖三路289號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "數理統計相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、數理統計相關、電機電子工程相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "專業技能：\n精通 Python，熟練掌握 PyTorch 深度學習框架。\n熟練使用 OpenCV、Ultralytics 等工具，具備完整目標偵測與影像分類的專案落地經驗。\n熟悉模型壓縮與量化技術（PTQ/QAT），有將模型轉換為 ONNX、TensorRT 或 NPU 專用格式的經驗。\n加分條件：\n具備邊緣端硬體平台（如 NVIDIA Jetson, Hailo, QCA）實際部署與 Debug 經驗。\n熟悉 GStreamer 多媒體管道與硬體加速解碼的整合。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "數理統計相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "專業技能：\n精通 Python，熟練掌握 PyTorch 深度學習框架。\n熟練使用 OpenCV、Ultralytics 等工具，具備完整目標偵測與影像分類的專案落地經驗。\n熟悉模型壓縮與量化技術（PTQ/QAT），有將模型轉換為 ONNX、TensorRT 或 NPU 專用格式的經驗。\n加分條件：\n具備邊緣端硬體平台（如 NVIDIA Jetson, Hailo, QCA）實際部署與 Debug 經驗。\n熟悉 GStreamer 多媒體管道與硬體加速解碼的整合。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、數理統計相關、電機電子工程相關\n其他條件：專業技能：\n精通 Python，熟練掌握 PyTorch 深度學習框架。\n熟練使用 OpenCV、Ultralytics 等工具，具備完整目標偵測與影像分類的專案落地經驗。\n熟悉模型壓縮與量化技術（PTQ/QAT），有將模型轉換為 ONNX、TensorRT 或 NPU 專用格式的經驗。\n加分條件：\n具備邊緣端硬體平台（如 NVIDIA Jetson, Hailo, QCA）實際部署與 Debug 經驗。\n熟悉 GStreamer 多媒體管道與硬體加速解碼的整合。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 9
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:44:39+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "[職位概述]\n您將負責 AIBOX 核心電腦視覺演算法的研發、訓練與邊緣端優化。從人體偵測、人臉特徵辨識，到特定服飾的分類，您所開發的模型將直接運行於邊緣 NPU 晶片上，為實體設備提供強大的即時分析能力。\n[主要職責]\n模型研發與訓練：\n開發與優化即時目標偵測與追蹤模型（如 YOLOv8/v11/v12, DEIMv2），針對人體、行人及特定物件進行高精度辨識。\n開發特徵分類模型，如特定人物過濾機制（ResNet/YOLO）、人群輪廓分析（年齡、性別屬性辨識）及 人臉辨識。\n邊緣端部署與量化：\n針對邊緣端推論硬體（如 Hailo, QCA 等 NPU）進行模型量化與優化（包含 PTQ 部署後量化與 QAT 量化感知訓練）。\n降低模型推理延遲，在硬體資源有限的情況下實現高吞吐量 (FPS)。\n資料清洗與 MLOps 流程：\n設計與維護資料預處理管線，處理難例收集、標註與清洗。\n透過資料增強（ColorJitter、RandomErasing 等）與類別權重加權優化，解決實務資料集不平衡與過擬合問題（例如去頭部裁切優化）。\n效能基準測試與評估：\n針對新演算法進行零樣本 (Zero-shot) 泛化能力評估。\n進行基準測試 (Benchmark)，產出包含 mAP、FPS、Latency 及 NPU 顯存峰值之分析報告。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "資料工程師",
+            "DevOps 工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、資料工程師、DevOps 工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區新湖三路289號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "[職位概述]\n您將負責 AIBOX 核心電腦視覺演算法的研發、訓練與邊緣端優化。從人體偵測、人臉特徵辨識，到特定服飾的分類，您所開發的模型將直接運行於邊緣 NPU 晶片上，為實體設備提供強大的即時分析能力。\n[主要職責]\n模型研發與訓練：\n開發與優化即時目標偵測與追蹤模型（如 YOLOv8/v11/v12, DEIMv2），針對人體、行人及特定物件進行高精度辨識。\n開發特徵分類模型，如特定人物過濾機制（ResNet/YOLO）、人群輪廓分析（年齡、性別屬性辨識）及 人臉辨識。\n邊緣端部署與量化：\n針對邊緣端推論硬體（如 Hailo, QCA 等 NPU）進行模型量化與優化（包含 PTQ 部署後量化與 QAT 量化感知訓練）。\n降低模型推理延遲，在硬體資源有限的情況下實現高吞吐量 (FPS)。\n資料清洗與 MLOps 流程：\n設計與維護資料預處理管線，處理難例收集、標註與清洗。\n透過資料增強（ColorJitter、RandomErasing 等）與類別權重加權優化，解決實務資料集不平衡與過擬合問題（例如去頭部裁切優化）。\n效能基準測試與評估：\n針對新演算法進行零樣本 (Zero-shot) 泛化能力評估。\n進行基準測試 (Benchmark)，產出包含 mAP、FPS、Latency 及 NPU 顯存峰值之分析報告。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "數理統計相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、數理統計相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "專業技能：\n精通 Python，熟練掌握 PyTorch 深度學習框架。\n熟練使用 OpenCV、Ultralytics 等工具，具備完整目標偵測與影像分類的專案落地經驗。\n熟悉模型壓縮與量化技術（PTQ/QAT），有將模型轉換為 ONNX、TensorRT 或 NPU 專用格式的經驗。\n加分條件：\n具備邊緣端硬體平台（如 NVIDIA Jetson, Hailo, QCA）實際部署與 Debug 經驗。\n熟悉 GStreamer 多媒體管道與硬體加速解碼的整合。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、數理統計相關、電機電子工程相關\n其他條件：專業技能：\n精通 Python，熟練掌握 PyTorch 深度學習框架。\n熟練使用 OpenCV、Ultralytics 等工具，具備完整目標偵測與影像分類的專案落地經驗。\n熟悉模型壓縮與量化技術（PTQ/QAT），有將模型轉換為 ONNX、TensorRT 或 NPU 專用格式的經驗。\n加分條件：\n具備邊緣端硬體平台（如 NVIDIA Jetson, Hailo, QCA）實際部署與 Debug 經驗。\n熟悉 GStreamer 多媒體管道與硬體加速解碼的整合。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91059",
+    "job_url": "https://www.104.com.tw/job/91059",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91059.json",
+    "raw_sha256": "139a331bc5e1079055132e15c4afd7e44724b943764ccd7bbf2c7d73bf277d9f",
+    "requested_url": "https://www.104.com.tw/api/jobs/91059"
+  }
+}

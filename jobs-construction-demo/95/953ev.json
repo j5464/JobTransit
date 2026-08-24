@@ -1,0 +1,284 @@
+{
+  "company": {
+    "id": "12nopku0",
+    "name": "聯詠科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "軟體工程師",
+      "數位IC設計工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "車載LCD/OLED TCON & TCON embedded Driver IC"
+        },
+        {
+          "children": [],
+          "text": "車載LCD Local Dimming embedded TCON & DDIC"
+        },
+        {
+          "children": [],
+          "text": "車載TDDI (Touch and Display Driver Integration)"
+        },
+        {
+          "children": [],
+          "text": "演算法開發"
+        },
+        {
+          "children": [],
+          "text": "演算法FPGA & COB驗證"
+        },
+        {
+          "children": [],
+          "text": "演算法視覺調整調整"
+        },
+        {
+          "children": [],
+          "text": "專案開發及維護"
+        },
+        {
+          "children": [],
+          "text": "客戶design-in工程支援"
+        },
+        {
+          "children": [],
+          "text": "熟悉C、C++ and Matlab語言程式開發"
+        },
+        {
+          "children": [],
+          "text": "對於Local dimming背光模組開發有興趣或相關工作經驗"
+        },
+        {
+          "children": [],
+          "text": "對於平面顯示器驅動原理與相關技術有興趣或相關工作經驗"
+        },
+        {
+          "children": [],
+          "text": "具有基礎光學與色彩基礎"
+        },
+        {
+          "children": [],
+          "text": "具備創意 或 演算法開發經驗"
+        },
+        {
+          "children": [],
+          "text": "對工作有熱忱、負責任並具良好溝通技巧與客戶應對能力"
+        }
+      ],
+      "text": "【產品線描述】\n1. 車載LCD/OLED TCON & TCON embedded Driver IC\n2. 車載LCD Local Dimming embedded TCON & DDIC\n3. 車載TDDI (Touch and Display Driver Integration)\n【主要工作內容】\n LCD local dimming演算法開發\n LCD Image enhance演算法開發\n OLED IP演算法開發\n【工作說明】\n1. 演算法開發\n2. 演算法FPGA & COB驗證\n3. 演算法視覺調整調整\n4. 專案開發及維護\n5. 客戶design-in工程支援\n【必要條件】\n1. 熟悉C、C++ and Matlab語言程式開發\n2. 對於Local dimming背光模組開發有興趣或相關工作經驗\n3. 對於平面顯示器驅動原理與相關技術有興趣或相關工作經驗\n4. 具有基礎光學與色彩基礎\n5. 具備創意 或 演算法開發經驗\n6. 對工作有熱忱、負責任並具良好溝通技巧與客戶應對能力"
+    },
+    "employment_type_raw": "全職",
+    "title": "【台南】車載Local dimming演算法系統應用工程師"
+  },
+  "location": {
+    "address_raw": "台南市永康區中正南路30號",
+    "raw": "台南市永康區中正南路30號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "通信學類"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、通信學類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Matlab",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Matlab、Python"
+      },
+      {
+        "items": [
+          "演算法設計"
+        ],
+        "label": "工作技能",
+        "text": "演算法設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 有Local dimming演算法調適及開發經驗\n2. 有OLED IP演算法調適及開發經驗\n3. 有顯示器產業相關經驗\n4. 有TCON IC驗證經驗\n5. 熟悉儀器（示波器、邏輯分析儀 and so on）使用操作\n6. 客戶端support量產經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "通信學類"
+    ],
+    "other_text": "1. 有Local dimming演算法調適及開發經驗\n2. 有OLED IP演算法調適及開發經驗\n3. 有顯示器產業相關經驗\n4. 有TCON IC驗證經驗\n5. 熟悉儀器（示波器、邏輯分析儀 and so on）使用操作\n6. 客戶端support量產經驗",
+    "skills": [
+      "演算法設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關、通信學類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Matlab、Python\n工作技能：演算法設計\n其他條件：1. 有Local dimming演算法調適及開發經驗\n2. 有OLED IP演算法調適及開發經驗\n3. 有顯示器產業相關經驗\n4. 有TCON IC驗證經驗\n5. 熟悉儀器（示波器、邏輯分析儀 and so on）使用操作\n6. 客戶端support量產經驗",
+    "tools": [
+      "C",
+      "C++",
+      "Matlab",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 21
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:13:05+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【產品線描述】\n1. 車載LCD/OLED TCON & TCON embedded Driver IC\n2. 車載LCD Local Dimming embedded TCON & DDIC\n3. 車載TDDI (Touch and Display Driver Integration)\n【主要工作內容】\n LCD local dimming演算法開發\n LCD Image enhance演算法開發\n OLED IP演算法開發\n【工作說明】\n1. 演算法開發\n2. 演算法FPGA & COB驗證\n3. 演算法視覺調整調整\n4. 專案開發及維護\n5. 客戶design-in工程支援\n【必要條件】\n1. 熟悉C、C++ and Matlab語言程式開發\n2. 對於Local dimming背光模組開發有興趣或相關工作經驗\n3. 對於平面顯示器驅動原理與相關技術有興趣或相關工作經驗\n4. 具有基礎光學與色彩基礎\n5. 具備創意 或 演算法開發經驗\n6. 對工作有熱忱、負責任並具良好溝通技巧與客戶應對能力",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "軟體工程師",
+            "數位IC設計工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、軟體工程師、數位IC設計工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市永康區中正南路30號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【產品線描述】\n1. 車載LCD/OLED TCON & TCON embedded Driver IC\n2. 車載LCD Local Dimming embedded TCON & DDIC\n3. 車載TDDI (Touch and Display Driver Integration)\n【主要工作內容】\n LCD local dimming演算法開發\n LCD Image enhance演算法開發\n OLED IP演算法開發\n【工作說明】\n1. 演算法開發\n2. 演算法FPGA & COB驗證\n3. 演算法視覺調整調整\n4. 專案開發及維護\n5. 客戶design-in工程支援\n【必要條件】\n1. 熟悉C、C++ and Matlab語言程式開發\n2. 對於Local dimming背光模組開發有興趣或相關工作經驗\n3. 對於平面顯示器驅動原理與相關技術有興趣或相關工作經驗\n4. 具有基礎光學與色彩基礎\n5. 具備創意 或 演算法開發經驗\n6. 對工作有熱忱、負責任並具良好溝通技巧與客戶應對能力"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "通信學類"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、通信學類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Matlab",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Matlab、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "演算法設計"
+          ],
+          "label": "工作技能",
+          "text": "演算法設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 有Local dimming演算法調適及開發經驗\n2. 有OLED IP演算法調適及開發經驗\n3. 有顯示器產業相關經驗\n4. 有TCON IC驗證經驗\n5. 熟悉儀器（示波器、邏輯分析儀 and so on）使用操作\n6. 客戶端support量產經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關、通信學類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Matlab、Python\n工作技能：演算法設計\n其他條件：1. 有Local dimming演算法調適及開發經驗\n2. 有OLED IP演算法調適及開發經驗\n3. 有顯示器產業相關經驗\n4. 有TCON IC驗證經驗\n5. 熟悉儀器（示波器、邏輯分析儀 and so on）使用操作\n6. 客戶端support量產經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "953ev",
+    "job_url": "https://www.104.com.tw/job/953ev",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/953ev.json",
+    "raw_sha256": "f57fb3c0dc57ecf32f4f225bb680a5a7043fc60767bd6bed4b4a7a5cbfdb278b",
+    "requested_url": "https://www.104.com.tw/api/jobs/953ev"
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "company": {
+    "id": "dzcu1uo",
+    "name": "鴻霖航空貨運代理股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "API-First Backend: We build our high-performance backend APIs using Python and the Flask framework."
+        },
+        {
+          "children": [],
+          "text": "Modern Git Workflow: We use GitHub Enterprise for version control, adhering to a robust development flow that includes Feature Branches, Pull Requests, and Semantic Tagging."
+        },
+        {
+          "children": [],
+          "text": "Agile & Documentation: We rely on Jira for agile issue tracking and Confluence for comprehensive technical documentation."
+        },
+        {
+          "children": [],
+          "text": "Automated CI/CD: Our CI/CD pipelines are powered by Jenkins (CI) and Ansible (CD) to ensure seamless and automated deployments."
+        },
+        {
+          "children": [],
+          "text": "Cloud-Native Infrastructure: Our system architecture is fully hosted on AWS, leveraging various cloud-native services to build scalable platforms."
+        },
+        {
+          "children": [],
+          "text": "AI-Driven Development: AI-augmented development is deeply integrated into our daily routine; leveraging tools like Claude Code is second nature to us."
+        },
+        {
+          "children": [],
+          "text": "Knowledge-Sharing Culture: We actively foster an environment for sharing technical knowledge, best practices, and domain expertise."
+        },
+        {
+          "children": [],
+          "text": "Psychological Safety: We maintain an open-minded team culture where curiosity is rewarded, and no one should ever hesitate to ask questions."
+        },
+        {
+          "children": [],
+          "text": "Design system flow and mechanism to achieve module requirement and maintenance."
+        },
+        {
+          "children": [],
+          "text": "Optimize system flow and re-factor core module"
+        },
+        {
+          "children": [],
+          "text": "Conduct deep code reviews focused on architecture, performance, and maintainability."
+        },
+        {
+          "children": [],
+          "text": "Enforcing backend coding standards and maintaining clean architectural boundaries (separation of concerns)."
+        },
+        {
+          "children": [],
+          "text": "Investigating, debugging, and resolving backend-related production incidents efficiently."
+        },
+        {
+          "children": [],
+          "text": "Use AI coding tools (Claude Code) productively and judge output quality."
+        },
+        {
+          "children": [],
+          "text": "Design team workflows around AI: prompt templates, custom skills, workflow."
+        },
+        {
+          "children": [],
+          "text": "Share knowledge through reviews, tech talks, or written docs."
+        },
+        {
+          "children": [],
+          "text": "Collaborating cross-functionally with Frontend, DevOps, Data, and Product Management (PM) teams."
+        }
+      ],
+      "text": "The Senior Backend Engineer designs and builds our APIs with Python. Beyond shipping features, this role contributes to architectural decisions, maintains a high quality bar through reviews and standards, and drives AI-augmented development practices to scale team productivity.\nAbout Our Team:\n• API-First Backend: We build our high-performance backend APIs using Python and the Flask framework.\n• Modern Git Workflow: We use GitHub Enterprise for version control, adhering to a robust development flow that includes Feature Branches, Pull Requests, and Semantic Tagging.\n• Agile & Documentation: We rely on Jira for agile issue tracking and Confluence for comprehensive technical documentation.\n• Automated CI/CD: Our CI/CD pipelines are powered by Jenkins (CI) and Ansible (CD) to ensure seamless and automated deployments.\n• Cloud-Native Infrastructure: Our system architecture is fully hosted on AWS, leveraging various cloud-native services to build scalable platforms.\n• AI-Driven Development: AI-augmented development is deeply integrated into our daily routine; leveraging tools like Claude Code is second nature to us.\n• Knowledge-Sharing Culture: We actively foster an environment for sharing technical knowledge, best practices, and domain expertise.\n• Psychological Safety: We maintain an open-minded team culture where curiosity is rewarded, and no one should ever hesitate to ask questions.\nRole & Responsibilities:\nIn this position, we are looking for a team member who enjoys learning various languages and is open to taking on any development tasks. Your role will be responsible to:\n(50%) Design & Develop\n• Design system flow and mechanism to achieve module requirement and maintenance.\n• Optimize system flow and re-factor core module\n(20%) Code Quality & Engineering Discipline\n• Conduct deep code reviews focused on architecture, performance, and maintainability.\n• Enforcing backend coding standards and maintaining clean architectural boundaries (separation of concerns).\n• Investigating, debugging, and resolving backend-related production incidents efficiently.\n(20%) AI-Augmented Development\n• Use AI coding tools (Claude Code) productively and judge output quality.\n• Design team workflows around AI: prompt templates, custom skills, workflow.\n(10%) Knowledge Sharing & Collaboration\n• Share knowledge through reviews, tech talks, or written docs.\n• Collaborating cross-functionally with Frontend, DevOps, Data, and Product Management (PM) teams."
+    },
+    "employment_type_raw": "全職",
+    "title": "(HQ) (Sr.) Backend Engineer"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路360號7樓",
+    "raw": "台北市內湖區瑞光路360號7樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等",
+          "中文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等\n中文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "Python",
+          "MS SQL",
+          "Git",
+          "Github",
+          "Jenkins",
+          "Claude"
+        ],
+        "label": "擅長工具",
+        "text": "Python、MS SQL、Git、Github、Jenkins、Claude"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Education/Technical Skills\n▪ Bachelor's degree in Computer Science, Information Technology, or a related field. Equivalent work experience may be considered in place of a formal degree.\n▪ Expert in Python, SQL, and cloud-native infrastructure.\n▪ Hands-on experience with Git/GitHub (Pull Request Flow) and CI/CD pipelines (Jenkins, GitHub Actions, or similar).\n▪ Productive use of AI coding tools, with judgment to review and correct AI output.\nKnowledge/ Work Experience\n▪ 3+ years of backend development.\n▪ Proven experience shipping and maintaining production backend service at scale.\n▪ Track record of leading technical initiatives end-to-end.\n▪ Experience in code reviews, team collaboration, and great communication.\nKey Behavioral Competencies\n▪ Ownership — Takes problems from ambiguous to shipped.\n▪ Pragmatism — Balances correctness, speed, and maintainability.\n▪ AI-savvy judgment — Treats AI as force multiplier, not a crutch.\n▪ Collaborative communicator — Shares knowledge openly, gives and receives feedback well.\n▪ Continuous learning — Stays current with frontend ecosystem and AI tooling."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等",
+      "中文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "Education/Technical Skills\n▪ Bachelor's degree in Computer Science, Information Technology, or a related field. Equivalent work experience may be considered in place of a formal degree.\n▪ Expert in Python, SQL, and cloud-native infrastructure.\n▪ Hands-on experience with Git/GitHub (Pull Request Flow) and CI/CD pipelines (Jenkins, GitHub Actions, or similar).\n▪ Productive use of AI coding tools, with judgment to review and correct AI output.\nKnowledge/ Work Experience\n▪ 3+ years of backend development.\n▪ Proven experience shipping and maintaining production backend service at scale.\n▪ Track record of leading technical initiatives end-to-end.\n▪ Experience in code reviews, team collaboration, and great communication.\nKey Behavioral Competencies\n▪ Ownership — Takes problems from ambiguous to shipped.\n▪ Pragmatism — Balances correctness, speed, and maintainability.\n▪ AI-savvy judgment — Treats AI as force multiplier, not a crutch.\n▪ Collaborative communicator — Shares knowledge openly, gives and receives feedback well.\n▪ Continuous learning — Stays current with frontend ecosystem and AI tooling.",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n中文：精通、精通、精通、精通\n擅長工具：Python、MS SQL、Git、Github、Jenkins、Claude\n其他條件：Education/Technical Skills\n▪ Bachelor's degree in Computer Science, Information Technology, or a related field. Equivalent work experience may be considered in place of a formal degree.\n▪ Expert in Python, SQL, and cloud-native infrastructure.\n▪ Hands-on experience with Git/GitHub (Pull Request Flow) and CI/CD pipelines (Jenkins, GitHub Actions, or similar).\n▪ Productive use of AI coding tools, with judgment to review and correct AI output.\nKnowledge/ Work Experience\n▪ 3+ years of backend development.\n▪ Proven experience shipping and maintaining production backend service at scale.\n▪ Track record of leading technical initiatives end-to-end.\n▪ Experience in code reviews, team collaboration, and great communication.\nKey Behavioral Competencies\n▪ Ownership — Takes problems from ambiguous to shipped.\n▪ Pragmatism — Balances correctness, speed, and maintainability.\n▪ AI-savvy judgment — Treats AI as force multiplier, not a crutch.\n▪ Collaborative communicator — Shares knowledge openly, gives and receives feedback well.\n▪ Continuous learning — Stays current with frontend ecosystem and AI tooling.",
+    "tools": [
+      "Python",
+      "MS SQL",
+      "Git",
+      "Github",
+      "Jenkins",
+      "Claude"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 22
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:16:28+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "The Senior Backend Engineer designs and builds our APIs with Python. Beyond shipping features, this role contributes to architectural decisions, maintains a high quality bar through reviews and standards, and drives AI-augmented development practices to scale team productivity.\nAbout Our Team:\n• API-First Backend: We build our high-performance backend APIs using Python and the Flask framework.\n• Modern Git Workflow: We use GitHub Enterprise for version control, adhering to a robust development flow that includes Feature Branches, Pull Requests, and Semantic Tagging.\n• Agile & Documentation: We rely on Jira for agile issue tracking and Confluence for comprehensive technical documentation.\n• Automated CI/CD: Our CI/CD pipelines are powered by Jenkins (CI) and Ansible (CD) to ensure seamless and automated deployments.\n• Cloud-Native Infrastructure: Our system architecture is fully hosted on AWS, leveraging various cloud-native services to build scalable platforms.\n• AI-Driven Development: AI-augmented development is deeply integrated into our daily routine; leveraging tools like Claude Code is second nature to us.\n• Knowledge-Sharing Culture: We actively foster an environment for sharing technical knowledge, best practices, and domain expertise.\n• Psychological Safety: We maintain an open-minded team culture where curiosity is rewarded, and no one should ever hesitate to ask questions.\nRole & Responsibilities:\nIn this position, we are looking for a team member who enjoys learning various languages and is open to taking on any development tasks. Your role will be responsible to:\n(50%) Design & Develop\n• Design system flow and mechanism to achieve module requirement and maintenance.\n• Optimize system flow and re-factor core module\n(20%) Code Quality & Engineering Discipline\n• Conduct deep code reviews focused on architecture, performance, and maintainability.\n• Enforcing backend coding standards and maintaining clean architectural boundaries (separation of concerns).\n• Investigating, debugging, and resolving backend-related production incidents efficiently.\n(20%) AI-Augmented Development\n• Use AI coding tools (Claude Code) productively and judge output quality.\n• Design team workflows around AI: prompt templates, custom skills, workflow.\n(10%) Knowledge Sharing & Collaboration\n• Share knowledge through reviews, tech talks, or written docs.\n• Collaborating cross-functionally with Frontend, DevOps, Data, and Product Management (PM) teams.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路360號7樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "The Senior Backend Engineer designs and builds our APIs with Python. Beyond shipping features, this role contributes to architectural decisions, maintains a high quality bar through reviews and standards, and drives AI-augmented development practices to scale team productivity.\nAbout Our Team:\n• API-First Backend: We build our high-performance backend APIs using Python and the Flask framework.\n• Modern Git Workflow: We use GitHub Enterprise for version control, adhering to a robust development flow that includes Feature Branches, Pull Requests, and Semantic Tagging.\n• Agile & Documentation: We rely on Jira for agile issue tracking and Confluence for comprehensive technical documentation.\n• Automated CI/CD: Our CI/CD pipelines are powered by Jenkins (CI) and Ansible (CD) to ensure seamless and automated deployments.\n• Cloud-Native Infrastructure: Our system architecture is fully hosted on AWS, leveraging various cloud-native services to build scalable platforms.\n• AI-Driven Development: AI-augmented development is deeply integrated into our daily routine; leveraging tools like Claude Code is second nature to us.\n• Knowledge-Sharing Culture: We actively foster an environment for sharing technical knowledge, best practices, and domain expertise.\n• Psychological Safety: We maintain an open-minded team culture where curiosity is rewarded, and no one should ever hesitate to ask questions.\nRole & Responsibilities:\nIn this position, we are looking for a team member who enjoys learning various languages and is open to taking on any development tasks. Your role will be responsible to:\n(50%) Design & Develop\n• Design system flow and mechanism to achieve module requirement and maintenance.\n• Optimize system flow and re-factor core module\n(20%) Code Quality & Engineering Discipline\n• Conduct deep code reviews focused on architecture, performance, and maintainability.\n• Enforcing backend coding standards and maintaining clean architectural boundaries (separation of concerns).\n• Investigating, debugging, and resolving backend-related production incidents efficiently.\n(20%) AI-Augmented Development\n• Use AI coding tools (Claude Code) productively and judge output quality.\n• Design team workflows around AI: prompt templates, custom skills, workflow.\n(10%) Knowledge Sharing & Collaboration\n• Share knowledge through reviews, tech talks, or written docs.\n• Collaborating cross-functionally with Frontend, DevOps, Data, and Product Management (PM) teams."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等",
+            "中文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等\n中文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "MS SQL",
+            "Git",
+            "Github",
+            "Jenkins",
+            "Claude"
+          ],
+          "label": "擅長工具",
+          "text": "Python、MS SQL、Git、Github、Jenkins、Claude",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Education/Technical Skills\n▪ Bachelor's degree in Computer Science, Information Technology, or a related field. Equivalent work experience may be considered in place of a formal degree.\n▪ Expert in Python, SQL, and cloud-native infrastructure.\n▪ Hands-on experience with Git/GitHub (Pull Request Flow) and CI/CD pipelines (Jenkins, GitHub Actions, or similar).\n▪ Productive use of AI coding tools, with judgment to review and correct AI output.\nKnowledge/ Work Experience\n▪ 3+ years of backend development.\n▪ Proven experience shipping and maintaining production backend service at scale.\n▪ Track record of leading technical initiatives end-to-end.\n▪ Experience in code reviews, team collaboration, and great communication.\nKey Behavioral Competencies\n▪ Ownership — Takes problems from ambiguous to shipped.\n▪ Pragmatism — Balances correctness, speed, and maintainability.\n▪ AI-savvy judgment — Treats AI as force multiplier, not a crutch.\n▪ Collaborative communicator — Shares knowledge openly, gives and receives feedback well.\n▪ Continuous learning — Stays current with frontend ecosystem and AI tooling.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n中文：精通、精通、精通、精通\n擅長工具：Python、MS SQL、Git、Github、Jenkins、Claude\n其他條件：Education/Technical Skills\n▪ Bachelor's degree in Computer Science, Information Technology, or a related field. Equivalent work experience may be considered in place of a formal degree.\n▪ Expert in Python, SQL, and cloud-native infrastructure.\n▪ Hands-on experience with Git/GitHub (Pull Request Flow) and CI/CD pipelines (Jenkins, GitHub Actions, or similar).\n▪ Productive use of AI coding tools, with judgment to review and correct AI output.\nKnowledge/ Work Experience\n▪ 3+ years of backend development.\n▪ Proven experience shipping and maintaining production backend service at scale.\n▪ Track record of leading technical initiatives end-to-end.\n▪ Experience in code reviews, team collaboration, and great communication.\nKey Behavioral Competencies\n▪ Ownership — Takes problems from ambiguous to shipped.\n▪ Pragmatism — Balances correctness, speed, and maintainability.\n▪ AI-savvy judgment — Treats AI as force multiplier, not a crutch.\n▪ Collaborative communicator — Shares knowledge openly, gives and receives feedback well.\n▪ Continuous learning — Stays current with frontend ecosystem and AI tooling."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93usg",
+    "job_url": "https://www.104.com.tw/job/93usg",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93usg.json",
+    "raw_sha256": "f847867a7a10151c5dd42c91c7393500deb789690a31d1156dc94a1cacfb31a5",
+    "requested_url": "https://www.104.com.tw/api/jobs/93usg"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "company": {
+    "id": "13skipc8",
+    "name": "正河源股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資訊助理",
+      "MIS／網管主管",
+      "資訊設備管制人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "ERP、ERPII維護、客製、導入、權限控管"
+        },
+        {
+          "children": [],
+          "text": "資安管理管控及備援機制維護"
+        },
+        {
+          "children": [],
+          "text": "mail server管理管控維護"
+        },
+        {
+          "children": [],
+          "text": "機房主機運作管理管控"
+        },
+        {
+          "children": [],
+          "text": "官網維護、更新"
+        },
+        {
+          "children": [],
+          "text": "報表製作及發送管理"
+        },
+        {
+          "children": [],
+          "text": "軟、硬體維護及管理"
+        },
+        {
+          "children": [],
+          "text": "定期、不定期稽核"
+        },
+        {
+          "children": [],
+          "text": "專案工程"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項"
+        }
+      ],
+      "text": "1.ERP、ERPII維護、客製、導入、權限控管\n2.資安管理管控及備援機制維護\n3.mail server管理管控維護\n4.機房主機運作管理管控\n5.官網維護、更新\n6.報表製作及發送管理\n7.軟、硬體維護及管理\n8.定期、不定期稽核\n9.專案工程\n10.主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊專員"
+  },
+  "location": {
+    "address_raw": "台中市清水區五權路232號",
+    "raw": "台中市清水區五權路232號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具溝通表達能力，細心負責。\n2.懂SQL語言及其他基本程式語言。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1.具溝通表達能力，細心負責。\n2.懂SQL語言及其他基本程式語言。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關\n其他條件：1.具溝通表達能力，細心負責。\n2.懂SQL語言及其他基本程式語言。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 83
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:47:09+08:00"
+  },
+  "salary": {
+    "raw": "月薪32,000~37,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.ERP、ERPII維護、客製、導入、權限控管\n2.資安管理管控及備援機制維護\n3.mail server管理管控維護\n4.機房主機運作管理管控\n5.官網維護、更新\n6.報表製作及發送管理\n7.軟、硬體維護及管理\n8.定期、不定期稽核\n9.專案工程\n10.主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資訊助理",
+            "MIS／網管主管",
+            "資訊設備管制人員"
+          ],
+          "label": "職務類別",
+          "text": "資訊助理、MIS／網管主管、資訊設備管制人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪32,000~37,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市清水區五權路232號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.ERP、ERPII維護、客製、導入、權限控管\n2.資安管理管控及備援機制維護\n3.mail server管理管控維護\n4.機房主機運作管理管控\n5.官網維護、更新\n6.報表製作及發送管理\n7.軟、硬體維護及管理\n8.定期、不定期稽核\n9.專案工程\n10.主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具溝通表達能力，細心負責。\n2.懂SQL語言及其他基本程式語言。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關\n其他條件：1.具溝通表達能力，細心負責。\n2.懂SQL語言及其他基本程式語言。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8xht6",
+    "job_url": "https://www.104.com.tw/job/8xht6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xht6.json",
+    "raw_sha256": "e39470c00c1572cc49fbe73cbc245d49c92be14c6ccc8125dae0577ad0b6492d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xht6"
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "company": {
+    "id": "1a2x6blwe2",
+    "name": "方勛資訊有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "C#.Net - 使用 Visual Studio"
+        },
+        {
+          "children": [],
+          "text": "使用 C#.NET 開發 Winform （財務模組）"
+        },
+        {
+          "children": [],
+          "text": "「前端＋後端＋雲端＋資料庫」"
+        }
+      ],
+      "text": "所需專長(1~2點可展示作品優):\n1.C#.Net - 使用 Visual Studio\n.HttpWebRequest\n.JSON\nDataBase\n.Microsoft SQL Server\n.Access\nWinForm\nMSSQL\n系統整合分析\n2. 使用 C#.NET 開發 Winform （財務模組）\n發票管理\n票據管理\n固定資產管理\n零用金/總務費用管理\n傳票管理\n會計明細表：日記帳、分類帳、試算表\n財務報表：綜合資產負債表、綜合損益表、綜合損益表(二期)\n進行軟體之測試、修改與後續維護、 撰寫系統各模組之操作手冊\n3.「前端＋後端＋雲端＋資料庫」\n◆C#與.NET Framework\n◆.NET 物件導向程式開發\n◆ADO.NET\n◆.NET\n◆LINQ\n◆ASP.NET MVC\n◆ASP.NET Web Form\n◆Azure\n◆資料庫設計 RDB&NoSQL\n◆SQL Server\n◆Git 版本控制\n◆SVN\n◆Agile\n◆CSS\n◆JavaScript\n◆HTML5\n◆Ajax\n◆JQuery\n◆RWD\n◆Bootstrap\n需有實際(財務模組)相關1.2.項工作五年以上經驗者佳\n面試時請備專題(影片及簡報或實際可操作者)"
+    },
+    "employment_type_raw": "全職",
+    "title": "高級軟體工程師"
+  },
+  "location": {
+    "address_raw": "台中市北區",
+    "raw": "台中市北區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、略懂"
+      },
+      {
+        "items": [
+          "Android",
+          "ASP.NET",
+          "C#",
+          "Java",
+          "Visual Studio",
+          "WinForm",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "Android、ASP.NET、C#、Java、Visual Studio、WinForm、MS SQL"
+      },
+      {
+        "items": [
+          "資料備份與復原",
+          "資訊設備環境設定",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "資料庫系統管理維護",
+          "資料庫程式設計",
+          "資料庫軟體應用",
+          "系統架構規劃與維護"
+        ],
+        "label": "工作技能",
+        "text": "資料備份與復原、資訊設備環境設定、系統整合分析、軟體工程系統開發、軟體程式設計、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、系統架構規劃與維護"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、略懂"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "資料備份與復原",
+      "資訊設備環境設定",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "資料庫系統管理維護",
+      "資料庫程式設計",
+      "資料庫軟體應用",
+      "系統架構規劃與維護"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：專科以上\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：Android、ASP.NET、C#、Java、Visual Studio、WinForm、MS SQL\n工作技能：資料備份與復原、資訊設備環境設定、系統整合分析、軟體工程系統開發、軟體程式設計、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、系統架構規劃與維護",
+    "tools": [
+      "Android",
+      "ASP.NET",
+      "C#",
+      "Java",
+      "Visual Studio",
+      "WinForm",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 2
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:23:43+08:00"
+  },
+  "salary": {
+    "raw": "月薪60,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "所需專長(1~2點可展示作品優):\n1.C#.Net - 使用 Visual Studio\n.HttpWebRequest\n.JSON\nDataBase\n.Microsoft SQL Server\n.Access\nWinForm\nMSSQL\n系統整合分析\n2. 使用 C#.NET 開發 Winform （財務模組）\n發票管理\n票據管理\n固定資產管理\n零用金/總務費用管理\n傳票管理\n會計明細表：日記帳、分類帳、試算表\n財務報表：綜合資產負債表、綜合損益表、綜合損益表(二期)\n進行軟體之測試、修改與後續維護、 撰寫系統各模組之操作手冊\n3.「前端＋後端＋雲端＋資料庫」\n◆C#與.NET Framework\n◆.NET 物件導向程式開發\n◆ADO.NET\n◆.NET\n◆LINQ\n◆ASP.NET MVC\n◆ASP.NET Web Form\n◆Azure\n◆資料庫設計 RDB&NoSQL\n◆SQL Server\n◆Git 版本控制\n◆SVN\n◆Agile\n◆CSS\n◆JavaScript\n◆HTML5\n◆Ajax\n◆JQuery\n◆RWD\n◆Bootstrap\n需有實際(財務模組)相關1.2.項工作五年以上經驗者佳\n面試時請備專題(影片及簡報或實際可操作者)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪60,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市北區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "所需專長(1~2點可展示作品優):\n1.C#.Net - 使用 Visual Studio\n.HttpWebRequest\n.JSON\nDataBase\n.Microsoft SQL Server\n.Access\nWinForm\nMSSQL\n系統整合分析\n2. 使用 C#.NET 開發 Winform （財務模組）\n發票管理\n票據管理\n固定資產管理\n零用金/總務費用管理\n傳票管理\n會計明細表：日記帳、分類帳、試算表\n財務報表：綜合資產負債表、綜合損益表、綜合損益表(二期)\n進行軟體之測試、修改與後續維護、 撰寫系統各模組之操作手冊\n3.「前端＋後端＋雲端＋資料庫」\n◆C#與.NET Framework\n◆.NET 物件導向程式開發\n◆ADO.NET\n◆.NET\n◆LINQ\n◆ASP.NET MVC\n◆ASP.NET Web Form\n◆Azure\n◆資料庫設計 RDB&NoSQL\n◆SQL Server\n◆Git 版本控制\n◆SVN\n◆Agile\n◆CSS\n◆JavaScript\n◆HTML5\n◆Ajax\n◆JQuery\n◆RWD\n◆Bootstrap\n需有實際(財務模組)相關1.2.項工作五年以上經驗者佳\n面試時請備專題(影片及簡報或實際可操作者)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Android",
+            "ASP.NET",
+            "C#",
+            "Java",
+            "Visual Studio",
+            "WinForm",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "Android、ASP.NET、C#、Java、Visual Studio、WinForm、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料備份與復原",
+            "資訊設備環境設定",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "資料庫系統管理維護",
+            "資料庫程式設計",
+            "資料庫軟體應用",
+            "系統架構規劃與維護"
+          ],
+          "label": "工作技能",
+          "text": "資料備份與復原、資訊設備環境設定、系統整合分析、軟體工程系統開發、軟體程式設計、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、系統架構規劃與維護",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：專科以上\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：Android、ASP.NET、C#、Java、Visual Studio、WinForm、MS SQL\n工作技能：資料備份與復原、資訊設備環境設定、系統整合分析、軟體工程系統開發、軟體程式設計、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用、系統架構規劃與維護"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/22",
+    "html_sha256": null,
+    "job_id": "8rs9v",
+    "job_url": "https://www.104.com.tw/job/8rs9v",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8rs9v.json",
+    "raw_sha256": "8b32a548ff366000d56f5ed064e6ac6cd98e6a40645645ee21a8ef00b5098cfa",
+    "requested_url": "https://www.104.com.tw/api/jobs/8rs9v"
+  }
+}

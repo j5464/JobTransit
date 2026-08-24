@@ -1,0 +1,221 @@
+{
+  "company": {
+    "id": "1a2x6bibgg",
+    "name": "德商foodpanda台灣總部_富胖達股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "其他專案管理師",
+      "商業分析師",
+      "業務助理"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "我們期待你具備 -"
+        }
+      ],
+      "text": "我們正在尋找一位對流程改善、數據分析與 AI 工具有熱情的夥伴加入團隊。\n在這個職位中，你將與 Sales、Operations、Product、Tech 等跨部門團隊合作，透過數據分析、流程設計與自動化工具，找出營運問題、提升作業效率，並協助團隊建立更有效率且可持續的工作方式。\n【流程優化與專案推動】 分析現行作業流程以找出問題與瓶頸，規劃並推動流程改善專案，建立 SOP 與教育訓練，並持續追蹤進度、成效及相關 KPI。\n【分析與維護數據】 使用 Excel / Google Sheets 進行數據整理與分析，建立並維護營運 Dashboard 與追蹤報表，定期監控數據、主動發現異常並提出優化建議。\n【AI流程自動化】 善用 AI 工具（如 ChatGPT、Gemini、Copilot 等）及 Google Apps Script（GAS）、No-code / Low-code 工具，設計自動化流程以減少重複性作業、提升團隊整體工作效率。\n【跨部門溝通】 與 Sales、Operations、Product、Tech 等跨部門團隊密切合作，深入搜集業務需求、分析核心問題，並提出可落地的具體改善方案。\n- 我們期待你具備 -\n✔️1–3 年工作經驗，具營運、專案管理、流程改善或資料分析相關經驗者佳；優秀應屆畢業生亦歡迎應徵。\n✔️熟悉 Google Sheets 或 Microsoft Excel，具備良好的資料整理與分析能力。\n✔️熟悉 Pivot Table、XLOOKUP、INDEX/MATCH、QUERY、FILTER、ARRAYFORMULA、SUMIFS／COUNTIFS 等進階功能。\n✔️具備良好的邏輯思考、問題分析及解決能力。\n✔️樂於學習新技術，對 AI 應用、自動化及流程改善充滿熱忱。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior Specialist, Sales Admin Support"
+  },
+  "location": {
+    "address_raw": "台北市信義區忠孝東路四段555號14樓",
+    "raw": "台北市信義區忠孝東路四段555號14樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "Excel",
+          "Google Analytics",
+          "Power BI​",
+          "Looker studio",
+          "Tableau"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、Excel、Google Analytics、Power BI​、Looker studio、Tableau"
+      },
+      {
+        "items": [
+          "專案溝通╱整合管理",
+          "數據分析",
+          "流程自動化"
+        ],
+        "label": "工作技能",
+        "text": "專案溝通╱整合管理、數據分析、流程自動化"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "- 加分條件 -\n1.曾使用 ChatGPT、Gemini、Claude、Copilot 等 AI 工具提升工作效率或完成專案。\n具 Google Apps Script（GAS）開發或流程自動化經驗。\n2.熟悉 Looker Studio、Power BI 或 Tableau 等資料視覺化工具。\n3.具 Business Analyst、Project Management、Sales Operations 或 Process Improvement 相關經驗。\n4.熟悉 Salesforce 或其他 CRM 系統者佳。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "- 加分條件 -\n1.曾使用 ChatGPT、Gemini、Claude、Copilot 等 AI 工具提升工作效率或完成專案。\n具 Google Apps Script（GAS）開發或流程自動化經驗。\n2.熟悉 Looker Studio、Power BI 或 Tableau 等資料視覺化工具。\n3.具 Business Analyst、Project Management、Sales Operations 或 Process Improvement 相關經驗。\n4.熟悉 Salesforce 或其他 CRM 系統者佳。",
+    "skills": [
+      "專案溝通╱整合管理",
+      "數據分析",
+      "流程自動化"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MS SQL、Excel、Google Analytics、Power BI​、Looker studio、Tableau\n工作技能：專案溝通╱整合管理、數據分析、流程自動化\n其他條件：- 加分條件 -\n1.曾使用 ChatGPT、Gemini、Claude、Copilot 等 AI 工具提升工作效率或完成專案。\n具 Google Apps Script（GAS）開發或流程自動化經驗。\n2.熟悉 Looker Studio、Power BI 或 Tableau 等資料視覺化工具。\n3.具 Business Analyst、Project Management、Sales Operations 或 Process Improvement 相關經驗。\n4.熟悉 Salesforce 或其他 CRM 系統者佳。",
+    "tools": [
+      "MS SQL",
+      "Excel",
+      "Google Analytics",
+      "Power BI​",
+      "Looker studio",
+      "Tableau"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 65
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:02:39+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們正在尋找一位對流程改善、數據分析與 AI 工具有熱情的夥伴加入團隊。\n在這個職位中，你將與 Sales、Operations、Product、Tech 等跨部門團隊合作，透過數據分析、流程設計與自動化工具，找出營運問題、提升作業效率，並協助團隊建立更有效率且可持續的工作方式。\n【流程優化與專案推動】 分析現行作業流程以找出問題與瓶頸，規劃並推動流程改善專案，建立 SOP 與教育訓練，並持續追蹤進度、成效及相關 KPI。\n【分析與維護數據】 使用 Excel / Google Sheets 進行數據整理與分析，建立並維護營運 Dashboard 與追蹤報表，定期監控數據、主動發現異常並提出優化建議。\n【AI流程自動化】 善用 AI 工具（如 ChatGPT、Gemini、Copilot 等）及 Google Apps Script（GAS）、No-code / Low-code 工具，設計自動化流程以減少重複性作業、提升團隊整體工作效率。\n【跨部門溝通】 與 Sales、Operations、Product、Tech 等跨部門團隊密切合作，深入搜集業務需求、分析核心問題，並提出可落地的具體改善方案。\n- 我們期待你具備 -\n✔️1–3 年工作經驗，具營運、專案管理、流程改善或資料分析相關經驗者佳；優秀應屆畢業生亦歡迎應徵。\n✔️熟悉 Google Sheets 或 Microsoft Excel，具備良好的資料整理與分析能力。\n✔️熟悉 Pivot Table、XLOOKUP、INDEX/MATCH、QUERY、FILTER、ARRAYFORMULA、SUMIFS／COUNTIFS 等進階功能。\n✔️具備良好的邏輯思考、問題分析及解決能力。\n✔️樂於學習新技術，對 AI 應用、自動化及流程改善充滿熱忱。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "其他專案管理師",
+            "商業分析師",
+            "業務助理"
+          ],
+          "label": "職務類別",
+          "text": "其他專案管理師、商業分析師、業務助理",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區忠孝東路四段555號14樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們正在尋找一位對流程改善、數據分析與 AI 工具有熱情的夥伴加入團隊。\n在這個職位中，你將與 Sales、Operations、Product、Tech 等跨部門團隊合作，透過數據分析、流程設計與自動化工具，找出營運問題、提升作業效率，並協助團隊建立更有效率且可持續的工作方式。\n【流程優化與專案推動】 分析現行作業流程以找出問題與瓶頸，規劃並推動流程改善專案，建立 SOP 與教育訓練，並持續追蹤進度、成效及相關 KPI。\n【分析與維護數據】 使用 Excel / Google Sheets 進行數據整理與分析，建立並維護營運 Dashboard 與追蹤報表，定期監控數據、主動發現異常並提出優化建議。\n【AI流程自動化】 善用 AI 工具（如 ChatGPT、Gemini、Copilot 等）及 Google Apps Script（GAS）、No-code / Low-code 工具，設計自動化流程以減少重複性作業、提升團隊整體工作效率。\n【跨部門溝通】 與 Sales、Operations、Product、Tech 等跨部門團隊密切合作，深入搜集業務需求、分析核心問題，並提出可落地的具體改善方案。\n- 我們期待你具備 -\n✔️1–3 年工作經驗，具營運、專案管理、流程改善或資料分析相關經驗者佳；優秀應屆畢業生亦歡迎應徵。\n✔️熟悉 Google Sheets 或 Microsoft Excel，具備良好的資料整理與分析能力。\n✔️熟悉 Pivot Table、XLOOKUP、INDEX/MATCH、QUERY、FILTER、ARRAYFORMULA、SUMIFS／COUNTIFS 等進階功能。\n✔️具備良好的邏輯思考、問題分析及解決能力。\n✔️樂於學習新技術，對 AI 應用、自動化及流程改善充滿熱忱。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "Excel",
+            "Google Analytics",
+            "Power BI​",
+            "Looker studio",
+            "Tableau"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、Excel、Google Analytics、Power BI​、Looker studio、Tableau",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "專案溝通╱整合管理",
+            "數據分析",
+            "流程自動化"
+          ],
+          "label": "工作技能",
+          "text": "專案溝通╱整合管理、數據分析、流程自動化",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "- 加分條件 -\n1.曾使用 ChatGPT、Gemini、Claude、Copilot 等 AI 工具提升工作效率或完成專案。\n具 Google Apps Script（GAS）開發或流程自動化經驗。\n2.熟悉 Looker Studio、Power BI 或 Tableau 等資料視覺化工具。\n3.具 Business Analyst、Project Management、Sales Operations 或 Process Improvement 相關經驗。\n4.熟悉 Salesforce 或其他 CRM 系統者佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MS SQL、Excel、Google Analytics、Power BI​、Looker studio、Tableau\n工作技能：專案溝通╱整合管理、數據分析、流程自動化\n其他條件：- 加分條件 -\n1.曾使用 ChatGPT、Gemini、Claude、Copilot 等 AI 工具提升工作效率或完成專案。\n具 Google Apps Script（GAS）開發或流程自動化經驗。\n2.熟悉 Looker Studio、Power BI 或 Tableau 等資料視覺化工具。\n3.具 Business Analyst、Project Management、Sales Operations 或 Process Improvement 相關經驗。\n4.熟悉 Salesforce 或其他 CRM 系統者佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "94sou",
+    "job_url": "https://www.104.com.tw/job/94sou",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94sou.json",
+    "raw_sha256": "e33694c9debdf773ff8bafc8e8d79f6cb9b4bc70be7de7bf9f60b06849302649",
+    "requested_url": "https://www.104.com.tw/api/jobs/94sou"
+  }
+}

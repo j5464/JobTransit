@@ -1,0 +1,181 @@
+{
+  "company": {
+    "id": "crrrdsg",
+    "name": "TechNexion Ltd_彤晟科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統分析師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "Join our ARM team to lead and shape Board Support Package (BSP) development for next-generation NXP i.MX and NVIDIA Jetson platforms.\n【BSP Architecture & Infrastructure】\nDesign, enhance, and maintain Yocto Project meta-layers and automated CI/CD build environments.\nCollaborate with core architects to execute full BSP releases, establishing a deep understanding of upstream/downstream migration.\n(Senior candidates will have the opportunity to lead sub-projects and mentor junior members).\n【Smart & Efficient Culture】\nLeverage AI coding assistants (e.g., Copilot, LLMs) to bypass tedious code refactoring and focus on complex architectural problems.\nWe measure impact and engineering excellence, not the count of standard working hours."
+    },
+    "employment_type_raw": "全職",
+    "title": "Embedded Linux BSP Engineer (ARM team)"
+  },
+  "location": {
+    "address_raw": "新北市中和區中正路736號16樓(中和遠東科技園區A棟)",
+    "raw": "新北市中和區中正路736號16樓(中和遠東科技園區A棟)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "C"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、C"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Preferred Skills\n-Core: Proficiency in C/C++, Linux toolchain, and Git.\n-Debugging: Strong debugging skills across Linux kernel and user space.\n-Environment: Experience with Docker for reproducible build environments.\n-Modern Workflow: Familiarity with AI-assisted programming tools to optimize development efficiency."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "Preferred Skills\n-Core: Proficiency in C/C++, Linux toolchain, and Git.\n-Debugging: Strong debugging skills across Linux kernel and user space.\n-Environment: Experience with Docker for reproducible build environments.\n-Modern Workflow: Familiarity with AI-assisted programming tools to optimize development efficiency.",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C\n其他條件：Preferred Skills\n-Core: Proficiency in C/C++, Linux toolchain, and Git.\n-Debugging: Strong debugging skills across Linux kernel and user space.\n-Environment: Experience with Docker for reproducible build environments.\n-Modern Workflow: Familiarity with AI-assisted programming tools to optimize development efficiency.",
+    "tools": [
+      "Linux",
+      "C"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 11
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:48:47+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Join our ARM team to lead and shape Board Support Package (BSP) development for next-generation NXP i.MX and NVIDIA Jetson platforms.\n【BSP Architecture & Infrastructure】\nDesign, enhance, and maintain Yocto Project meta-layers and automated CI/CD build environments.\nCollaborate with core architects to execute full BSP releases, establishing a deep understanding of upstream/downstream migration.\n(Senior candidates will have the opportunity to lead sub-projects and mentor junior members).\n【Smart & Efficient Culture】\nLeverage AI coding assistants (e.g., Copilot, LLMs) to bypass tedious code refactoring and focus on complex architectural problems.\nWe measure impact and engineering excellence, not the count of standard working hours.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統分析師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統分析師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區中正路736號16樓(中和遠東科技園區A棟)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Join our ARM team to lead and shape Board Support Package (BSP) development for next-generation NXP i.MX and NVIDIA Jetson platforms.\n【BSP Architecture & Infrastructure】\nDesign, enhance, and maintain Yocto Project meta-layers and automated CI/CD build environments.\nCollaborate with core architects to execute full BSP releases, establishing a deep understanding of upstream/downstream migration.\n(Senior candidates will have the opportunity to lead sub-projects and mentor junior members).\n【Smart & Efficient Culture】\nLeverage AI coding assistants (e.g., Copilot, LLMs) to bypass tedious code refactoring and focus on complex architectural problems.\nWe measure impact and engineering excellence, not the count of standard working hours."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "C"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、C",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Preferred Skills\n-Core: Proficiency in C/C++, Linux toolchain, and Git.\n-Debugging: Strong debugging skills across Linux kernel and user space.\n-Environment: Experience with Docker for reproducible build environments.\n-Modern Workflow: Familiarity with AI-assisted programming tools to optimize development efficiency.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C\n其他條件：Preferred Skills\n-Core: Proficiency in C/C++, Linux toolchain, and Git.\n-Debugging: Strong debugging skills across Linux kernel and user space.\n-Environment: Experience with Docker for reproducible build environments.\n-Modern Workflow: Familiarity with AI-assisted programming tools to optimize development efficiency."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "3j11l",
+    "job_url": "https://www.104.com.tw/job/3j11l",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/3j11l.json",
+    "raw_sha256": "a9849c71314d5b7d849f7d2850fdf7bf270e018c82e219e96a3b34765cde58c4",
+    "requested_url": "https://www.104.com.tw/api/jobs/3j11l"
+  }
+}

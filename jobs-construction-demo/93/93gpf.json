@@ -1,0 +1,342 @@
+{
+  "company": {
+    "id": "1a2x6bn5zg",
+    "name": "美商耀德系統股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "軟體工程師",
+      "軟體助理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Proficiency in Object-Oriented Programming (OOP)"
+        },
+        {
+          "children": [],
+          "text": "Strong knowledge of data structures and algorithms"
+        },
+        {
+          "children": [],
+          "text": "Skilled in programming languages: C# and C++"
+        },
+        {
+          "children": [],
+          "text": "Excellent debugging skills"
+        },
+        {
+          "children": [],
+          "text": "Solid understanding of multithreading concepts"
+        },
+        {
+          "children": [],
+          "text": "Experience in GUI development using C#.NET"
+        },
+        {
+          "children": [],
+          "text": "Knowledge of WinForms and WPF"
+        },
+        {
+          "children": [],
+          "text": "Strong problem-solving skills"
+        },
+        {
+          "children": [],
+          "text": "Strong understanding of testing and unit testing principles."
+        },
+        {
+          "children": [],
+          "text": "Software/hardware interface experience."
+        },
+        {
+          "children": [],
+          "text": "Experience in the semiconductor domain is a plus"
+        },
+        {
+          "children": [],
+          "text": "Experience with version control systems such as GitHub, Azure Devops."
+        },
+        {
+          "children": [],
+          "text": "PLC programming and testing"
+        },
+        {
+          "children": [],
+          "text": "Ladder Logic and motion control"
+        },
+        {
+          "children": [],
+          "text": "Electrical motor commissioning"
+        },
+        {
+          "children": [],
+          "text": "Ability to read and interpret instruction manuals, electrical schematics, and P&IDs"
+        },
+        {
+          "children": [],
+          "text": "BS/MS in Computer Science or Computer Engineering"
+        },
+        {
+          "children": [],
+          "text": "8+ years of experience in software development"
+        },
+        {
+          "children": [],
+          "text": "Experience in semiconductor equipment, medical equipment, test equipment, or hardware control"
+        },
+        {
+          "children": [],
+          "text": "Good written and verbal communication skills in English"
+        }
+      ],
+      "text": "Job Title: Sr. Software Engineer\nLocation: Taiwan\nResponsibilities include but are not limited to:\nDesign, develop, test and integrate software for semiconductor equipment. Develop C++ DLL interface for external customer to control equipment. Design operator interface for Semiconductor Equipment with C# and C++. Develop real-time HW control with PLC. Develop HW control with serial interface and TCP/IP. Develop automated system control for Semiconductor Equipment. System testing and debugging. Provide software support and debugging for customers.\nRequirements:\n• Proficiency in Object-Oriented Programming (OOP)\n• Strong knowledge of data structures and algorithms\n• Skilled in programming languages: C# and C++\n• Excellent debugging skills\n• Solid understanding of multithreading concepts\n• Experience in GUI development using C#.NET\n• Knowledge of WinForms and WPF\n• Strong problem-solving skills\n• Strong understanding of testing and unit testing principles.\n• Software/hardware interface experience.\n• Experience in the semiconductor domain is a plus\n• Experience with version control systems such as GitHub, Azure Devops.\n• PLC programming and testing\n• Ladder Logic and motion control\n• Electrical motor commissioning\n• Ability to read and interpret instruction manuals, electrical schematics, and P&IDs\nQualifications:\n• BS/MS in Computer Science or Computer Engineering\n• 8+ years of experience in software development\n• Experience in semiconductor equipment, medical equipment, test equipment, or hardware control\n• Good written and verbal communication skills in English"
+    },
+    "employment_type_raw": "全職",
+    "title": "Sr. Software Engineer Taiwan"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市",
+    "raw": "新竹縣竹北市"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "8年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "8年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "工業工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、工業工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "C++",
+          "C#",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C++、C#、Python"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "資料庫程式設計",
+          "系統整合分析",
+          "結構化程式設計",
+          "軟體整合測試",
+          "系統架構規劃",
+          "測試計劃及測試報告書撰寫",
+          "功能測試(function test)",
+          "使用者測試(Usability test)",
+          "問題追蹤處理(Bug tracking)",
+          "測試環境建置規劃",
+          "安全性測試(Security test)",
+          "模組化系統設計",
+          "資料庫系統管理維護",
+          "資料備份與復原",
+          "伺服器網站管理維護"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發、資料庫程式設計、系統整合分析、結構化程式設計、軟體整合測試、系統架構規劃、測試計劃及測試報告書撰寫、功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、測試環境建置規劃、安全性測試(Security test)、模組化系統設計、資料庫系統管理維護、資料備份與復原、伺服器網站管理維護"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "工業工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "資料庫程式設計",
+      "系統整合分析",
+      "結構化程式設計",
+      "軟體整合測試",
+      "系統架構規劃",
+      "測試計劃及測試報告書撰寫",
+      "功能測試(function test)",
+      "使用者測試(Usability test)",
+      "問題追蹤處理(Bug tracking)",
+      "測試環境建置規劃",
+      "安全性測試(Security test)",
+      "模組化系統設計",
+      "資料庫系統管理維護",
+      "資料備份與復原",
+      "伺服器網站管理維護"
+    ],
+    "text": "工作經歷：8年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、工業工程相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C++、C#、Python\n工作技能：軟體程式設計、軟體工程系統開發、資料庫程式設計、系統整合分析、結構化程式設計、軟體整合測試、系統架構規劃、測試計劃及測試報告書撰寫、功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、測試環境建置規劃、安全性測試(Security test)、模組化系統設計、資料庫系統管理維護、資料備份與復原、伺服器網站管理維護",
+    "tools": [
+      "C++",
+      "C#",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 91
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:06:12+08:00"
+  },
+  "salary": {
+    "raw": "年薪1,000,000~1,500,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Job Title: Sr. Software Engineer\nLocation: Taiwan\nResponsibilities include but are not limited to:\nDesign, develop, test and integrate software for semiconductor equipment. Develop C++ DLL interface for external customer to control equipment. Design operator interface for Semiconductor Equipment with C# and C++. Develop real-time HW control with PLC. Develop HW control with serial interface and TCP/IP. Develop automated system control for Semiconductor Equipment. System testing and debugging. Provide software support and debugging for customers.\nRequirements:\n• Proficiency in Object-Oriented Programming (OOP)\n• Strong knowledge of data structures and algorithms\n• Skilled in programming languages: C# and C++\n• Excellent debugging skills\n• Solid understanding of multithreading concepts\n• Experience in GUI development using C#.NET\n• Knowledge of WinForms and WPF\n• Strong problem-solving skills\n• Strong understanding of testing and unit testing principles.\n• Software/hardware interface experience.\n• Experience in the semiconductor domain is a plus\n• Experience with version control systems such as GitHub, Azure Devops.\n• PLC programming and testing\n• Ladder Logic and motion control\n• Electrical motor commissioning\n• Ability to read and interpret instruction manuals, electrical schematics, and P&IDs\nQualifications:\n• BS/MS in Computer Science or Computer Engineering\n• 8+ years of experience in software development\n• Experience in semiconductor equipment, medical equipment, test equipment, or hardware control\n• Good written and verbal communication skills in English",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "軟體工程師",
+            "軟體助理工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、軟體工程師、軟體助理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪1,000,000~1,500,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Job Title: Sr. Software Engineer\nLocation: Taiwan\nResponsibilities include but are not limited to:\nDesign, develop, test and integrate software for semiconductor equipment. Develop C++ DLL interface for external customer to control equipment. Design operator interface for Semiconductor Equipment with C# and C++. Develop real-time HW control with PLC. Develop HW control with serial interface and TCP/IP. Develop automated system control for Semiconductor Equipment. System testing and debugging. Provide software support and debugging for customers.\nRequirements:\n• Proficiency in Object-Oriented Programming (OOP)\n• Strong knowledge of data structures and algorithms\n• Skilled in programming languages: C# and C++\n• Excellent debugging skills\n• Solid understanding of multithreading concepts\n• Experience in GUI development using C#.NET\n• Knowledge of WinForms and WPF\n• Strong problem-solving skills\n• Strong understanding of testing and unit testing principles.\n• Software/hardware interface experience.\n• Experience in the semiconductor domain is a plus\n• Experience with version control systems such as GitHub, Azure Devops.\n• PLC programming and testing\n• Ladder Logic and motion control\n• Electrical motor commissioning\n• Ability to read and interpret instruction manuals, electrical schematics, and P&IDs\nQualifications:\n• BS/MS in Computer Science or Computer Engineering\n• 8+ years of experience in software development\n• Experience in semiconductor equipment, medical equipment, test equipment, or hardware control\n• Good written and verbal communication skills in English"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "8年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "工業工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、工業工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "C#",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C++、C#、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "資料庫程式設計",
+            "系統整合分析",
+            "結構化程式設計",
+            "軟體整合測試",
+            "系統架構規劃",
+            "測試計劃及測試報告書撰寫",
+            "功能測試(function test)",
+            "使用者測試(Usability test)",
+            "問題追蹤處理(Bug tracking)",
+            "測試環境建置規劃",
+            "安全性測試(Security test)",
+            "模組化系統設計",
+            "資料庫系統管理維護",
+            "資料備份與復原",
+            "伺服器網站管理維護"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發、資料庫程式設計、系統整合分析、結構化程式設計、軟體整合測試、系統架構規劃、測試計劃及測試報告書撰寫、功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、測試環境建置規劃、安全性測試(Security test)、模組化系統設計、資料庫系統管理維護、資料備份與復原、伺服器網站管理維護",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：8年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、工業工程相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C++、C#、Python\n工作技能：軟體程式設計、軟體工程系統開發、資料庫程式設計、系統整合分析、結構化程式設計、軟體整合測試、系統架構規劃、測試計劃及測試報告書撰寫、功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、測試環境建置規劃、安全性測試(Security test)、模組化系統設計、資料庫系統管理維護、資料備份與復原、伺服器網站管理維護"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "93gpf",
+    "job_url": "https://www.104.com.tw/job/93gpf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93gpf.json",
+    "raw_sha256": "37c17ca207ee3a507973637e7f3684adeda26790613ea527c219a638d0835ab5",
+    "requested_url": "https://www.104.com.tw/api/jobs/93gpf"
+  }
+}

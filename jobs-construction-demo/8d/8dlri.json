@@ -1,0 +1,254 @@
+{
+  "company": {
+    "id": "1a2x6bmz26",
+    "name": "英屬維京群島商智車有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計和開發高性能的汽車金融系統後端服務"
+        },
+        {
+          "children": [],
+          "text": "運用Java和Spring Boot框架構建微服務架構"
+        },
+        {
+          "children": [],
+          "text": "優化現有系統，提升自動審核率和處理效能"
+        },
+        {
+          "children": [],
+          "text": "參與AI技術在金融系統中的應用開發"
+        },
+        {
+          "children": [],
+          "text": "開發RESTful API，支援前端及客戶端應用"
+        },
+        {
+          "children": [],
+          "text": "撰寫測試確保程式碼品質"
+        },
+        {
+          "children": [],
+          "text": "與產品和前端團隊協作，實現業務需求"
+        },
+        {
+          "children": [],
+          "text": "2年以上Java後端開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉Spring框架(Spring Boot、Spring Cloud、Spring MVC)"
+        },
+        {
+          "children": [],
+          "text": "擅長使用關聯式資料庫(MySQL/PostgreSQL)"
+        },
+        {
+          "children": [],
+          "text": "熟悉RESTful API設計和開發"
+        },
+        {
+          "children": [],
+          "text": "具備Git版本控制使用經驗"
+        },
+        {
+          "children": [],
+          "text": "良好的問題分析和解決能力"
+        },
+        {
+          "children": [],
+          "text": "團隊合作精神和溝通能力"
+        }
+      ],
+      "text": "【關於這個職位】\n我們是一群熱愛科技的年輕團隊，專注於汽車金融科技領域，正在尋找有活力的Java後端工程師加入我們！在這裡，你將有機會參與AI技術在汽車金融中的創新應用，一起打造高效智能的系統。\n【你將負責的工作】\n1. 設計和開發高性能的汽車金融系統後端服務\n2. 運用Java和Spring Boot框架構建微服務架構\n3. 優化現有系統，提升自動審核率和處理效能\n4. 參與AI技術在金融系統中的應用開發\n5. 開發RESTful API，支援前端及客戶端應用\n6. 撰寫測試確保程式碼品質\n7. 與產品和前端團隊協作，實現業務需求\n【我們期待你具備】\n1. 2年以上Java後端開發經驗\n2. 熟悉Spring框架(Spring Boot、Spring Cloud、Spring MVC)\n3. 擅長使用關聯式資料庫(MySQL/PostgreSQL)\n4. 熟悉RESTful API設計和開發\n5. 具備Git版本控制使用經驗\n6. 良好的問題分析和解決能力\n7. 團隊合作精神和溝通能力"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java後端工程師"
+  },
+  "location": {
+    "address_raw": "台北市信義區信義路四段460號19樓之1",
+    "raw": "台北市信義區信義路四段460號19樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Linux",
+          "Git",
+          "Java",
+          "Spring",
+          "MySQL"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Git、Java、Spring、MySQL"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件\n1. 金融科技相關系統開發經驗\n2. 微服務架構開發經驗\n3. 熟悉消息隊列系統(Kafka/RabbitMQ)\n4. 熟悉NoSQL資料庫(Redis/MongoDB)\n5. 了解容器技術(Docker/Kubernetes)\n6. 具備雲平台服務使用經驗(AWS/Azure/GCP)"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "加分條件\n1. 金融科技相關系統開發經驗\n2. 微服務架構開發經驗\n3. 熟悉消息隊列系統(Kafka/RabbitMQ)\n4. 熟悉NoSQL資料庫(Redis/MongoDB)\n5. 了解容器技術(Docker/Kubernetes)\n6. 具備雲平台服務使用經驗(AWS/Azure/GCP)",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：Linux、Git、Java、Spring、MySQL\n工作技能：軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計\n其他條件：加分條件\n1. 金融科技相關系統開發經驗\n2. 微服務架構開發經驗\n3. 熟悉消息隊列系統(Kafka/RabbitMQ)\n4. 熟悉NoSQL資料庫(Redis/MongoDB)\n5. 了解容器技術(Docker/Kubernetes)\n6. 具備雲平台服務使用經驗(AWS/Azure/GCP)",
+    "tools": [
+      "Linux",
+      "Git",
+      "Java",
+      "Spring",
+      "MySQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 79
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:37:37+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【關於這個職位】\n我們是一群熱愛科技的年輕團隊，專注於汽車金融科技領域，正在尋找有活力的Java後端工程師加入我們！在這裡，你將有機會參與AI技術在汽車金融中的創新應用，一起打造高效智能的系統。\n【你將負責的工作】\n1. 設計和開發高性能的汽車金融系統後端服務\n2. 運用Java和Spring Boot框架構建微服務架構\n3. 優化現有系統，提升自動審核率和處理效能\n4. 參與AI技術在金融系統中的應用開發\n5. 開發RESTful API，支援前端及客戶端應用\n6. 撰寫測試確保程式碼品質\n7. 與產品和前端團隊協作，實現業務需求\n【我們期待你具備】\n1. 2年以上Java後端開發經驗\n2. 熟悉Spring框架(Spring Boot、Spring Cloud、Spring MVC)\n3. 擅長使用關聯式資料庫(MySQL/PostgreSQL)\n4. 熟悉RESTful API設計和開發\n5. 具備Git版本控制使用經驗\n6. 良好的問題分析和解決能力\n7. 團隊合作精神和溝通能力",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區信義路四段460號19樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【關於這個職位】\n我們是一群熱愛科技的年輕團隊，專注於汽車金融科技領域，正在尋找有活力的Java後端工程師加入我們！在這裡，你將有機會參與AI技術在汽車金融中的創新應用，一起打造高效智能的系統。\n【你將負責的工作】\n1. 設計和開發高性能的汽車金融系統後端服務\n2. 運用Java和Spring Boot框架構建微服務架構\n3. 優化現有系統，提升自動審核率和處理效能\n4. 參與AI技術在金融系統中的應用開發\n5. 開發RESTful API，支援前端及客戶端應用\n6. 撰寫測試確保程式碼品質\n7. 與產品和前端團隊協作，實現業務需求\n【我們期待你具備】\n1. 2年以上Java後端開發經驗\n2. 熟悉Spring框架(Spring Boot、Spring Cloud、Spring MVC)\n3. 擅長使用關聯式資料庫(MySQL/PostgreSQL)\n4. 熟悉RESTful API設計和開發\n5. 具備Git版本控制使用經驗\n6. 良好的問題分析和解決能力\n7. 團隊合作精神和溝通能力"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Git",
+            "Java",
+            "Spring",
+            "MySQL"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Git、Java、Spring、MySQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件\n1. 金融科技相關系統開發經驗\n2. 微服務架構開發經驗\n3. 熟悉消息隊列系統(Kafka/RabbitMQ)\n4. 熟悉NoSQL資料庫(Redis/MongoDB)\n5. 了解容器技術(Docker/Kubernetes)\n6. 具備雲平台服務使用經驗(AWS/Azure/GCP)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：Linux、Git、Java、Spring、MySQL\n工作技能：軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計\n其他條件：加分條件\n1. 金融科技相關系統開發經驗\n2. 微服務架構開發經驗\n3. 熟悉消息隊列系統(Kafka/RabbitMQ)\n4. 熟悉NoSQL資料庫(Redis/MongoDB)\n5. 了解容器技術(Docker/Kubernetes)\n6. 具備雲平台服務使用經驗(AWS/Azure/GCP)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8dlri",
+    "job_url": "https://www.104.com.tw/job/8dlri",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8dlri.json",
+    "raw_sha256": "1147e4b708c6a462b28ed39d6f8e6060c2aa5e7906a1e82e5ba88420880ece25",
+    "requested_url": "https://www.104.com.tw/api/jobs/8dlri"
+  }
+}

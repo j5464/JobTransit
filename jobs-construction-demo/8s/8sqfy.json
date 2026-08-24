@@ -1,0 +1,178 @@
+{
+  "company": {
+    "id": "ctztka0",
+    "name": "富邦人壽保險股份有限公司(總公司)"
+  },
+  "job": {
+    "categories": [
+      "人力資源人員",
+      "其他專案管理師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責組織奬項參報撰稿與新聞廣宣提報。"
+        },
+        {
+          "children": [],
+          "text": "執行海外子公司督導業務。"
+        },
+        {
+          "children": [],
+          "text": "處內活動規劃與執行。"
+        },
+        {
+          "children": [],
+          "text": "廠商管理、合約管理。"
+        }
+      ],
+      "text": "1.負責組織奬項參報撰稿與新聞廣宣提報。\n2.執行海外子公司督導業務。\n3.處內活動規劃與執行。\n4.廠商管理、合約管理。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【資訊科技】資訊營運管理人員"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞湖街62號",
+    "raw": "台北市內湖區瑞湖街62號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.撰寫規劃能力\n2.專案規劃能力\n3.具溝通協調能力\n4.問題解決能力"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "1.撰寫規劃能力\n2.專案規劃能力\n3.具溝通協調能力\n4.問題解決能力",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學\n語文條件：英文：略懂、略懂、略懂、略懂\n其他條件：1.撰寫規劃能力\n2.專案規劃能力\n3.具溝通協調能力\n4.問題解決能力",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 53
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:33:05+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責組織奬項參報撰稿與新聞廣宣提報。\n2.執行海外子公司督導業務。\n3.處內活動規劃與執行。\n4.廠商管理、合約管理。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "人力資源人員",
+            "其他專案管理師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "人力資源人員、其他專案管理師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞湖街62號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責組織奬項參報撰稿與新聞廣宣提報。\n2.執行海外子公司督導業務。\n3.處內活動規劃與執行。\n4.廠商管理、合約管理。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.撰寫規劃能力\n2.專案規劃能力\n3.具溝通協調能力\n4.問題解決能力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學\n語文條件：英文：略懂、略懂、略懂、略懂\n其他條件：1.撰寫規劃能力\n2.專案規劃能力\n3.具溝通協調能力\n4.問題解決能力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8sqfy",
+    "job_url": "https://www.104.com.tw/job/8sqfy",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8sqfy.json",
+    "raw_sha256": "c3107fa69e0316b4977d698a2665a278c3e42044cde20bb6b9b27a200f0922b2",
+    "requested_url": "https://www.104.com.tw/api/jobs/8sqfy"
+  }
+}

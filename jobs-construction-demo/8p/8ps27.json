@@ -1,0 +1,164 @@
+{
+  "company": {
+    "id": "18jd6nv4",
+    "name": "葳橋資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉Java、J2EE、Web Service、AJAX、XML、HTML等開發工具及Unix/Linux/Windows作業環境，並具備相關應用開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備Object Oriented、Service-Oriented、Multi-layer Architecture 軟體研發概念。"
+        },
+        {
+          "children": [],
+          "text": "熟悉主流關連式資料庫軟體（例如MS_SQL、MySQL等）SQL開發技術。"
+        }
+      ],
+      "text": "1. 熟悉Java、J2EE、Web Service、AJAX、XML、HTML等開發工具及Unix/Linux/Windows作業環境，並具備相關應用開發經驗。\n2. 具備Object Oriented、Service-Oriented、Multi-layer Architecture 軟體研發概念。\n3. 熟悉主流關連式資料庫軟體（例如MS_SQL、MySQL等）SQL開發技術。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java程式設計師[台中]"
+  },
+  "location": {
+    "address_raw": "台中市南區忠明南路760號16樓",
+    "raw": "台中市南區忠明南路760號16樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n工作技能：軟體工程系統開發、軟體程式設計",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 23
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:18:44+08:00"
+  },
+  "salary": {
+    "raw": "月薪46,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 熟悉Java、J2EE、Web Service、AJAX、XML、HTML等開發工具及Unix/Linux/Windows作業環境，並具備相關應用開發經驗。\n2. 具備Object Oriented、Service-Oriented、Multi-layer Architecture 軟體研發概念。\n3. 熟悉主流關連式資料庫軟體（例如MS_SQL、MySQL等）SQL開發技術。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪46,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市南區忠明南路760號16樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 熟悉Java、J2EE、Web Service、AJAX、XML、HTML等開發工具及Unix/Linux/Windows作業環境，並具備相關應用開發經驗。\n2. 具備Object Oriented、Service-Oriented、Multi-layer Architecture 軟體研發概念。\n3. 熟悉主流關連式資料庫軟體（例如MS_SQL、MySQL等）SQL開發技術。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n工作技能：軟體工程系統開發、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ps27",
+    "job_url": "https://www.104.com.tw/job/8ps27",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ps27.json",
+    "raw_sha256": "c10fe570a5df5567faafb80edf843040c9329e8ccbe7d28cc0435583e7dc949b",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ps27"
+  }
+}

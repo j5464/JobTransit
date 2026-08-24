@@ -1,0 +1,244 @@
+{
+  "company": {
+    "id": "9jgwyk0",
+    "name": "系統電子工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "車用產品韌體開發：TPMS、ECU 等相關產品。"
+        },
+        {
+          "children": [],
+          "text": "RF（Sub-1G / BT / BLE）無線通訊、MEMS 及各類感測器相關韌體功能設計與開發。"
+        },
+        {
+          "children": [],
+          "text": "參與客戶需求分析、產品規劃及韌體架構、State Machine 設計，並撰寫相關設計文件。"
+        },
+        {
+          "children": [],
+          "text": "執行韌體測試、Debug、問題分析及產品整合。"
+        },
+        {
+          "children": [],
+          "text": "依循 ASPICE 等車用軟體開發流程進行產品開發。"
+        }
+      ],
+      "text": "1. 車用產品韌體開發：TPMS、ECU 等相關產品。\n2. RF（Sub-1G / BT / BLE）無線通訊、MEMS 及各類感測器相關韌體功能設計與開發。\n3. 參與客戶需求分析、產品規劃及韌體架構、State Machine 設計，並撰寫相關設計文件。\n4. 執行韌體測試、Debug、問題分析及產品整合。\n5. 依循 ASPICE 等車用軟體開發流程進行產品開發。\n對於車用產品的研發與新技術有興趣、並願意接受挑戰者，歡迎加入！"
+    },
+    "employment_type_raw": "全職",
+    "title": "韌體工程師/資深工程師【TPMS胎壓偵測器產品-OE】"
+  },
+  "location": {
+    "address_raw": "台北市內湖區堤頂大道1段1號六樓",
+    "raw": "台北市內湖區堤頂大道1段1號六樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Firmware"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Firmware"
+      },
+      {
+        "items": [
+          "韌體工程開發",
+          "軟體程式設計",
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "韌體工程開發、軟體程式設計、韌體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟悉 C 語言及 Embedded Firmware Development。\n2. 具 BLE / MEMS / MCU / Embedded System 開發經驗者佳。\n3. 具 ASPICE / AUTOSAR / CAN / UDS / OTA 等車用軟體開發經驗者佳。\n4. 具備良好溝通能力、問題分析能力及抗壓性。\n5. 英文能力佳，可閱讀英文技術文件並與客戶進行溝通。\n6. 可配合短期出差歐美，至客戶端進行產品整合與技術支援。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "1. 熟悉 C 語言及 Embedded Firmware Development。\n2. 具 BLE / MEMS / MCU / Embedded System 開發經驗者佳。\n3. 具 ASPICE / AUTOSAR / CAN / UDS / OTA 等車用軟體開發經驗者佳。\n4. 具備良好溝通能力、問題分析能力及抗壓性。\n5. 英文能力佳，可閱讀英文技術文件並與客戶進行溝通。\n6. 可配合短期出差歐美，至客戶端進行產品整合與技術支援。",
+    "skills": [
+      "韌體工程開發",
+      "軟體程式設計",
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Firmware\n工作技能：韌體工程開發、軟體程式設計、韌體程式設計\n其他條件：1. 熟悉 C 語言及 Embedded Firmware Development。\n2. 具 BLE / MEMS / MCU / Embedded System 開發經驗者佳。\n3. 具 ASPICE / AUTOSAR / CAN / UDS / OTA 等車用軟體開發經驗者佳。\n4. 具備良好溝通能力、問題分析能力及抗壓性。\n5. 英文能力佳，可閱讀英文技術文件並與客戶進行溝通。\n6. 可配合短期出差歐美，至客戶端進行產品整合與技術支援。",
+    "tools": [
+      "C",
+      "C++",
+      "Firmware"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 28
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:31:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 車用產品韌體開發：TPMS、ECU 等相關產品。\n2. RF（Sub-1G / BT / BLE）無線通訊、MEMS 及各類感測器相關韌體功能設計與開發。\n3. 參與客戶需求分析、產品規劃及韌體架構、State Machine 設計，並撰寫相關設計文件。\n4. 執行韌體測試、Debug、問題分析及產品整合。\n5. 依循 ASPICE 等車用軟體開發流程進行產品開發。\n對於車用產品的研發與新技術有興趣、並願意接受挑戰者，歡迎加入！",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區堤頂大道1段1號六樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 車用產品韌體開發：TPMS、ECU 等相關產品。\n2. RF（Sub-1G / BT / BLE）無線通訊、MEMS 及各類感測器相關韌體功能設計與開發。\n3. 參與客戶需求分析、產品規劃及韌體架構、State Machine 設計，並撰寫相關設計文件。\n4. 執行韌體測試、Debug、問題分析及產品整合。\n5. 依循 ASPICE 等車用軟體開發流程進行產品開發。\n對於車用產品的研發與新技術有興趣、並願意接受挑戰者，歡迎加入！"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Firmware"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Firmware",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "韌體工程開發",
+            "軟體程式設計",
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "韌體工程開發、軟體程式設計、韌體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟悉 C 語言及 Embedded Firmware Development。\n2. 具 BLE / MEMS / MCU / Embedded System 開發經驗者佳。\n3. 具 ASPICE / AUTOSAR / CAN / UDS / OTA 等車用軟體開發經驗者佳。\n4. 具備良好溝通能力、問題分析能力及抗壓性。\n5. 英文能力佳，可閱讀英文技術文件並與客戶進行溝通。\n6. 可配合短期出差歐美，至客戶端進行產品整合與技術支援。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Firmware\n工作技能：韌體工程開發、軟體程式設計、韌體程式設計\n其他條件：1. 熟悉 C 語言及 Embedded Firmware Development。\n2. 具 BLE / MEMS / MCU / Embedded System 開發經驗者佳。\n3. 具 ASPICE / AUTOSAR / CAN / UDS / OTA 等車用軟體開發經驗者佳。\n4. 具備良好溝通能力、問題分析能力及抗壓性。\n5. 英文能力佳，可閱讀英文技術文件並與客戶進行溝通。\n6. 可配合短期出差歐美，至客戶端進行產品整合與技術支援。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "5ccjq",
+    "job_url": "https://www.104.com.tw/job/5ccjq",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/5ccjq.json",
+    "raw_sha256": "9361c00f8fd850cabaff5424c4f056419835882ff476b1738879a2e26a2f643f",
+    "requested_url": "https://www.104.com.tw/api/jobs/5ccjq"
+  }
+}

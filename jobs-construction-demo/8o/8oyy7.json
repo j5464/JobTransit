@@ -1,0 +1,237 @@
+{
+  "company": {
+    "id": "1a2x6bn9s8",
+    "name": "迅晟科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "全端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "*技術需求**"
+        },
+        {
+          "children": [],
+          "text": "具備至少五年以上 Java 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Spring boot"
+        },
+        {
+          "children": [],
+          "text": "熟悉AI使用工具尤佳"
+        },
+        {
+          "children": [],
+          "text": "具備良好的團隊合作精神與溝通協調能力"
+        },
+        {
+          "children": [],
+          "text": "*此召募為駐點外派**"
+        },
+        {
+          "children": [],
+          "text": "駐點地址 : 民權西路捷運站-玉山銀行(客戶端為DXC-易思科技)"
+        },
+        {
+          "children": [],
+          "text": "若有興趣請提供CV至下列Mail，或下方電話聯繫。"
+        }
+      ],
+      "text": "**技術需求**\n1. 具備至少五年以上 Java 開發經驗\n2. 熟悉 Spring boot\n3. 熟悉AI使用工具尤佳\n4.具備良好的團隊合作精神與溝通協調能力\n**此召募為駐點外派**\n1.駐點地址 : 民權西路捷運站-玉山銀行(客戶端為DXC-易思科技)\n2.若有興趣請提供CV至下列Mail，或下方電話聯繫。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java後端開發工程師"
+  },
+  "location": {
+    "address_raw": "台北市中山區",
+    "raw": "台北市中山區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Java",
+          "Spring"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Spring"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "系統架構規劃與維護"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、系統架構規劃與維護"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.良好的團隊合作精神, 能有效與團隊成員協作。\n2.優秀溝通能力與問題解決能力。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "1.良好的團隊合作精神, 能有效與團隊成員協作。\n2.優秀溝通能力與問題解決能力。",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "系統架構規劃與維護"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Java、Spring\n工作技能：軟體工程系統開發、軟體程式設計、系統架構規劃與維護\n其他條件：1.良好的團隊合作精神, 能有效與團隊成員協作。\n2.優秀溝通能力與問題解決能力。",
+    "tools": [
+      "Java",
+      "Spring"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 85
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:51:10+08:00"
+  },
+  "salary": {
+    "raw": "月薪60,000~90,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "**技術需求**\n1. 具備至少五年以上 Java 開發經驗\n2. 熟悉 Spring boot\n3. 熟悉AI使用工具尤佳\n4.具備良好的團隊合作精神與溝通協調能力\n**此召募為駐點外派**\n1.駐點地址 : 民權西路捷運站-玉山銀行(客戶端為DXC-易思科技)\n2.若有興趣請提供CV至下列Mail，或下方電話聯繫。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "全端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、全端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪60,000~90,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "**技術需求**\n1. 具備至少五年以上 Java 開發經驗\n2. 熟悉 Spring boot\n3. 熟悉AI使用工具尤佳\n4.具備良好的團隊合作精神與溝通協調能力\n**此召募為駐點外派**\n1.駐點地址 : 民權西路捷運站-玉山銀行(客戶端為DXC-易思科技)\n2.若有興趣請提供CV至下列Mail，或下方電話聯繫。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Spring"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Spring",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "系統架構規劃與維護"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、系統架構規劃與維護",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.良好的團隊合作精神, 能有效與團隊成員協作。\n2.優秀溝通能力與問題解決能力。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Java、Spring\n工作技能：軟體工程系統開發、軟體程式設計、系統架構規劃與維護\n其他條件：1.良好的團隊合作精神, 能有效與團隊成員協作。\n2.優秀溝通能力與問題解決能力。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8oyy7",
+    "job_url": "https://www.104.com.tw/job/8oyy7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8oyy7.json",
+    "raw_sha256": "304ab5d811a76d498204146cf6a0214d6680b0f84950220cf4df400298eafab7",
+    "requested_url": "https://www.104.com.tw/api/jobs/8oyy7"
+  }
+}

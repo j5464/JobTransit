@@ -1,0 +1,214 @@
+{
+  "company": {
+    "id": "1a2x6bm7ae",
+    "name": "芫鉅科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "自動化系統程式設計"
+        },
+        {
+          "children": [],
+          "text": "自動化軟體模組化設計"
+        },
+        {
+          "children": [],
+          "text": "視覺AOI 演算法開發"
+        },
+        {
+          "children": [],
+          "text": "視覺AI 演算法開發"
+        },
+        {
+          "children": [],
+          "text": "協助主管做為對外(客戶)及對內(各單位)在各項事情溝通協調之窗口"
+        }
+      ],
+      "text": "1. 自動化系統程式設計\n2. 自動化軟體模組化設計\n3. 視覺AOI 演算法開發\n4. 視覺AI 演算法開發\n5. 協助主管做為對外(客戶)及對內(各單位)在各項事情溝通協調之窗口"
+    },
+    "employment_type_raw": "全職",
+    "title": "自動化軟體設計工程師"
+  },
+  "location": {
+    "address_raw": "台中市西屯區工業區四十一路30號6樓",
+    "raw": "台中市西屯區工業區四十一路30號6樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關、工程學科類"
+      },
+      {
+        "items": [
+          "MFC",
+          "Visual C#",
+          "Visual C++",
+          "WinForm"
+        ],
+        "label": "擅長工具",
+        "text": "MFC、Visual C#、Visual C++、WinForm"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 無經驗可，歡迎對機電軟體整合、機器視覺演算法開發有高度熱忱的人員加入\n2. 具備資訊工程、電機、電子、光電、自動化相關科系/領域背景者\n3. 主動性高、勇於嘗試、邏輯清晰"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關",
+      "工程學科類"
+    ],
+    "other_text": "1. 無經驗可，歡迎對機電軟體整合、機器視覺演算法開發有高度熱忱的人員加入\n2. 具備資訊工程、電機、電子、光電、自動化相關科系/領域背景者\n3. 主動性高、勇於嘗試、邏輯清晰",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關、工程學科類\n擅長工具：MFC、Visual C#、Visual C++、WinForm\n其他條件：1. 無經驗可，歡迎對機電軟體整合、機器視覺演算法開發有高度熱忱的人員加入\n2. 具備資訊工程、電機、電子、光電、自動化相關科系/領域背景者\n3. 主動性高、勇於嘗試、邏輯清晰",
+    "tools": [
+      "MFC",
+      "Visual C#",
+      "Visual C++",
+      "WinForm"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 97
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:20:09+08:00"
+  },
+  "salary": {
+    "raw": "月薪36,000~67,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 自動化系統程式設計\n2. 自動化軟體模組化設計\n3. 視覺AOI 演算法開發\n4. 視覺AI 演算法開發\n5. 協助主管做為對外(客戶)及對內(各單位)在各項事情溝通協調之窗口",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪36,000~67,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區工業區四十一路30號6樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 自動化系統程式設計\n2. 自動化軟體模組化設計\n3. 視覺AOI 演算法開發\n4. 視覺AI 演算法開發\n5. 協助主管做為對外(客戶)及對內(各單位)在各項事情溝通協調之窗口"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MFC",
+            "Visual C#",
+            "Visual C++",
+            "WinForm"
+          ],
+          "label": "擅長工具",
+          "text": "MFC、Visual C#、Visual C++、WinForm",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 無經驗可，歡迎對機電軟體整合、機器視覺演算法開發有高度熱忱的人員加入\n2. 具備資訊工程、電機、電子、光電、自動化相關科系/領域背景者\n3. 主動性高、勇於嘗試、邏輯清晰",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關、工程學科類\n擅長工具：MFC、Visual C#、Visual C++、WinForm\n其他條件：1. 無經驗可，歡迎對機電軟體整合、機器視覺演算法開發有高度熱忱的人員加入\n2. 具備資訊工程、電機、電子、光電、自動化相關科系/領域背景者\n3. 主動性高、勇於嘗試、邏輯清晰"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7qm9w",
+    "job_url": "https://www.104.com.tw/job/7qm9w",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7qm9w.json",
+    "raw_sha256": "e958407c02d33093e869de3c2fbbf80b6f024ccd10a5d835b180ededf6707bd9",
+    "requested_url": "https://www.104.com.tw/api/jobs/7qm9w"
+  }
+}

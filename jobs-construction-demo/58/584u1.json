@@ -1,0 +1,192 @@
+{
+  "company": {
+    "id": "wjklbfc",
+    "name": "NET服裝_主富服裝股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "MIS程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "程式設計、修改與維護"
+        },
+        {
+          "children": [],
+          "text": "ERP系統及需求溝通"
+        },
+        {
+          "children": [],
+          "text": "面談後依能力及工作經驗給薪"
+        }
+      ],
+      "text": "1.程式設計、修改與維護\n2.ERP系統及需求溝通\n3.面談後依能力及工作經驗給薪"
+    },
+    "employment_type_raw": "全職",
+    "title": "MIS程式設計師"
+  },
+  "location": {
+    "address_raw": "台北市松山區八德路三段20號2樓",
+    "raw": "台北市松山區八德路三段20號2樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1、擅長 C#.NET、MS SQL\n2、熟悉Windows系統、Office操作\n3、有基本網路概念"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1、擅長 C#.NET、MS SQL\n2、熟悉Windows系統、Office操作\n3、有基本網路概念",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：MS SQL\n其他條件：1、擅長 C#.NET、MS SQL\n2、熟悉Windows系統、Office操作\n3、有基本網路概念",
+    "tools": [
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 63
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:57:40+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.程式設計、修改與維護\n2.ERP系統及需求溝通\n3.面談後依能力及工作經驗給薪",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "MIS程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、MIS程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區八德路三段20號2樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.程式設計、修改與維護\n2.ERP系統及需求溝通\n3.面談後依能力及工作經驗給薪"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1、擅長 C#.NET、MS SQL\n2、熟悉Windows系統、Office操作\n3、有基本網路概念",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：MS SQL\n其他條件：1、擅長 C#.NET、MS SQL\n2、熟悉Windows系統、Office操作\n3、有基本網路概念"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "584u1",
+    "job_url": "https://www.104.com.tw/job/584u1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/584u1.json",
+    "raw_sha256": "fd259e305281a3e6ea8031a65c9605413c780142b25ce6dd105f10538eefb701",
+    "requested_url": "https://www.104.com.tw/api/jobs/584u1"
+  }
+}

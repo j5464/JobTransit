@@ -1,0 +1,251 @@
+{
+  "company": {
+    "id": "5nyiafk",
+    "name": "閎泰科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟韌體測試工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "我們的使命是用 AI 重新定義人們的日常生活。"
+        },
+        {
+          "children": [],
+          "text": "Demo / 測試程式開發"
+        },
+        {
+          "children": [],
+          "text": "自動測試腳本與測資回放"
+        },
+        {
+          "children": [],
+          "text": "Debug 與測試報告整理"
+        }
+      ],
+      "text": "●我們的使命是用 AI 重新定義人們的日常生活。\n我們不只在開發產品，更在創造前所未有的智慧生活體驗。如果你對 AI 懷抱熱情，並渴望親手用技術和謀略創造真實的影響力，我們正在尋找的就是你！●\n【工作內容】\n1. Demo / 測試程式開發\n2. 自動測試腳本與測資回放\n3. Debug 與測試報告整理"
+    },
+    "employment_type_raw": "全職",
+    "title": "【新事業部】應用韌體與測試工程師"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶橋路235巷167號",
+    "raw": "新北市新店區寶橋路235巷167號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word",
+          "中文打字20~50",
+          "英文打字20~50",
+          "Python",
+          "C",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Outlook、PowerPoint、Word、中文打字20~50、英文打字20~50、Python、C、C++"
+      },
+      {
+        "items": [
+          "功能測試(function test)"
+        ],
+        "label": "工作技能",
+        "text": "功能測試(function test)"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "- Python / C 基礎\n- 熟悉測試儀器（示波器、邏輯分析儀等）\n- 具系統測試經驗\n- 能進行初步的電子電路分析"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關"
+    ],
+    "other_text": "- Python / C 基礎\n- 熟悉測試儀器（示波器、邏輯分析儀等）\n- 具系統測試經驗\n- 能進行初步的電子電路分析",
+    "skills": [
+      "功能測試(function test)"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word、中文打字20~50、英文打字20~50、Python、C、C++\n工作技能：功能測試(function test)\n其他條件：- Python / C 基礎\n- 熟悉測試儀器（示波器、邏輯分析儀等）\n- 具系統測試經驗\n- 能進行初步的電子電路分析",
+    "tools": [
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word",
+      "中文打字20~50",
+      "英文打字20~50",
+      "Python",
+      "C",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 8
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:42:03+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "●我們的使命是用 AI 重新定義人們的日常生活。\n我們不只在開發產品，更在創造前所未有的智慧生活體驗。如果你對 AI 懷抱熱情，並渴望親手用技術和謀略創造真實的影響力，我們正在尋找的就是你！●\n【工作內容】\n1. Demo / 測試程式開發\n2. 自動測試腳本與測資回放\n3. Debug 與測試報告整理",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟韌體測試工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟韌體測試工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶橋路235巷167號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "●我們的使命是用 AI 重新定義人們的日常生活。\n我們不只在開發產品，更在創造前所未有的智慧生活體驗。如果你對 AI 懷抱熱情，並渴望親手用技術和謀略創造真實的影響力，我們正在尋找的就是你！●\n【工作內容】\n1. Demo / 測試程式開發\n2. 自動測試腳本與測資回放\n3. Debug 與測試報告整理"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word",
+            "中文打字20~50",
+            "英文打字20~50",
+            "Python",
+            "C",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Outlook、PowerPoint、Word、中文打字20~50、英文打字20~50、Python、C、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "功能測試(function test)"
+          ],
+          "label": "工作技能",
+          "text": "功能測試(function test)",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "- Python / C 基礎\n- 熟悉測試儀器（示波器、邏輯分析儀等）\n- 具系統測試經驗\n- 能進行初步的電子電路分析",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word、中文打字20~50、英文打字20~50、Python、C、C++\n工作技能：功能測試(function test)\n其他條件：- Python / C 基礎\n- 熟悉測試儀器（示波器、邏輯分析儀等）\n- 具系統測試經驗\n- 能進行初步的電子電路分析"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8xd0f",
+    "job_url": "https://www.104.com.tw/job/8xd0f",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xd0f.json",
+    "raw_sha256": "09e6e27138281303d8421697e42aaf9d3fc560b87a1fc2997422e53e38d2248d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xd0f"
+  }
+}

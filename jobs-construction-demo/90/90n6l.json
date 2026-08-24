@@ -1,0 +1,208 @@
+{
+  "company": {
+    "id": "10qdozxs",
+    "name": "閎康科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "MES工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助導入 Vibe Coding 與 Coding Agent 工具，提升軟體開發效率。"
+        },
+        {
+          "children": [],
+          "text": "運用生成式 AI 輔助需求分析、開發、測試、審查及文件產出。"
+        },
+        {
+          "children": [],
+          "text": "規劃與建置 AI Agent、RAG 知識問答及流程自動化應用。"
+        },
+        {
+          "children": [],
+          "text": "開發 C# .NET 或 Java Spring Boot Web API，整合 LLM、資料庫及內外部系統。"
+        },
+        {
+          "children": [],
+          "text": "運用 n8n、Power Automate 整合 Microsoft 365、Graph API 與 LLM 工作流程。"
+        },
+        {
+          "children": [],
+          "text": "規劃系統架構、API、資料流及權限機制，確保安全性與擴充性。"
+        },
+        {
+          "children": [],
+          "text": "撰寫 API 規格、系統設計、操作維運文件及 SOP。"
+        }
+      ],
+      "text": "1.協助導入 Vibe Coding 與 Coding Agent 工具，提升軟體開發效率。\n2.運用生成式 AI 輔助需求分析、開發、測試、審查及文件產出。\n3.規劃與建置 AI Agent、RAG 知識問答及流程自動化應用。\n4.開發 C# .NET 或 Java Spring Boot Web API，整合 LLM、資料庫及內外部系統。\n5.運用 n8n、Power Automate 整合 Microsoft 365、Graph API 與 LLM 工作流程。\n6.規劃系統架構、API、資料流及權限機制，確保安全性與擴充性。\n7.撰寫 API 規格、系統設計、操作維運文件及 SOP。"
+    },
+    "employment_type_raw": "全職",
+    "title": "MES AI 系統整合工程師"
+  },
+  "location": {
+    "address_raw": "新竹市新竹科學園區力行一路1號",
+    "raw": "新竹市新竹科學園區力行一路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "C#",
+          "Java",
+          "HTML",
+          "JavaScript",
+          "HTTP",
+          "LLM",
+          "Prompt"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Java、HTML、JavaScript、HTTP、LLM、Prompt"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【工作技能】\n1.具備 C# .NET 或 Java Spring Boot Web API 開發與 RESTful API 串接經驗。\n2.熟悉 JSON、HTTP／HTTPS、OAuth 2.0 及 API 權限安全機制。\n3.具備 SQL Server 查詢、操作及資料處理能力。\n4.了解 LLM、Prompt、RAG、AI Agent 及自動化流程概念。\n5.具備需求分析、問題解決、獨立作業及跨部門溝通能力。\n6.重視程式碼品質、資訊安全、權限控管及機敏資料保護。\n7.具備跨系統、跨平台整合與問題排除能力。\n【加分條件】\n1.具備 Vibe Coding 或 Coding Agent 開發實務經驗。\n2.熟悉 Antigravity、Claude Code、Codex、GitHub Copilot 等 AI 開發工具。\n3.具備 LLM API、Prompt、Agent Workflow 及 Tool Calling 設計經驗。\n4.熟悉 Microsoft Entra ID 驗證授權及 Microsoft 365 服務整合。\n5.具備系統架構、API 規格、專案管理或跨部門協作經驗。\n6.熟悉 Docker、Linux、Git、CI/CD 與容器化部署。\n7.了解生成式 AI 的資安、隱私、權限及模型風險管理。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "【工作技能】\n1.具備 C# .NET 或 Java Spring Boot Web API 開發與 RESTful API 串接經驗。\n2.熟悉 JSON、HTTP／HTTPS、OAuth 2.0 及 API 權限安全機制。\n3.具備 SQL Server 查詢、操作及資料處理能力。\n4.了解 LLM、Prompt、RAG、AI Agent 及自動化流程概念。\n5.具備需求分析、問題解決、獨立作業及跨部門溝通能力。\n6.重視程式碼品質、資訊安全、權限控管及機敏資料保護。\n7.具備跨系統、跨平台整合與問題排除能力。\n【加分條件】\n1.具備 Vibe Coding 或 Coding Agent 開發實務經驗。\n2.熟悉 Antigravity、Claude Code、Codex、GitHub Copilot 等 AI 開發工具。\n3.具備 LLM API、Prompt、Agent Workflow 及 Tool Calling 設計經驗。\n4.熟悉 Microsoft Entra ID 驗證授權及 Microsoft 365 服務整合。\n5.具備系統架構、API 規格、專案管理或跨部門協作經驗。\n6.熟悉 Docker、Linux、Git、CI/CD 與容器化部署。\n7.了解生成式 AI 的資安、隱私、權限及模型風險管理。",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n擅長工具：C#、Java、HTML、JavaScript、HTTP、LLM、Prompt\n其他條件：【工作技能】\n1.具備 C# .NET 或 Java Spring Boot Web API 開發與 RESTful API 串接經驗。\n2.熟悉 JSON、HTTP／HTTPS、OAuth 2.0 及 API 權限安全機制。\n3.具備 SQL Server 查詢、操作及資料處理能力。\n4.了解 LLM、Prompt、RAG、AI Agent 及自動化流程概念。\n5.具備需求分析、問題解決、獨立作業及跨部門溝通能力。\n6.重視程式碼品質、資訊安全、權限控管及機敏資料保護。\n7.具備跨系統、跨平台整合與問題排除能力。\n【加分條件】\n1.具備 Vibe Coding 或 Coding Agent 開發實務經驗。\n2.熟悉 Antigravity、Claude Code、Codex、GitHub Copilot 等 AI 開發工具。\n3.具備 LLM API、Prompt、Agent Workflow 及 Tool Calling 設計經驗。\n4.熟悉 Microsoft Entra ID 驗證授權及 Microsoft 365 服務整合。\n5.具備系統架構、API 規格、專案管理或跨部門協作經驗。\n6.熟悉 Docker、Linux、Git、CI/CD 與容器化部署。\n7.了解生成式 AI 的資安、隱私、權限及模型風險管理。",
+    "tools": [
+      "C#",
+      "Java",
+      "HTML",
+      "JavaScript",
+      "HTTP",
+      "LLM",
+      "Prompt"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 93
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:11:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.協助導入 Vibe Coding 與 Coding Agent 工具，提升軟體開發效率。\n2.運用生成式 AI 輔助需求分析、開發、測試、審查及文件產出。\n3.規劃與建置 AI Agent、RAG 知識問答及流程自動化應用。\n4.開發 C# .NET 或 Java Spring Boot Web API，整合 LLM、資料庫及內外部系統。\n5.運用 n8n、Power Automate 整合 Microsoft 365、Graph API 與 LLM 工作流程。\n6.規劃系統架構、API、資料流及權限機制，確保安全性與擴充性。\n7.撰寫 API 規格、系統設計、操作維運文件及 SOP。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "MES工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、MES工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市新竹科學園區力行一路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.協助導入 Vibe Coding 與 Coding Agent 工具，提升軟體開發效率。\n2.運用生成式 AI 輔助需求分析、開發、測試、審查及文件產出。\n3.規劃與建置 AI Agent、RAG 知識問答及流程自動化應用。\n4.開發 C# .NET 或 Java Spring Boot Web API，整合 LLM、資料庫及內外部系統。\n5.運用 n8n、Power Automate 整合 Microsoft 365、Graph API 與 LLM 工作流程。\n6.規劃系統架構、API、資料流及權限機制，確保安全性與擴充性。\n7.撰寫 API 規格、系統設計、操作維運文件及 SOP。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Java",
+            "HTML",
+            "JavaScript",
+            "HTTP",
+            "LLM",
+            "Prompt"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Java、HTML、JavaScript、HTTP、LLM、Prompt",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【工作技能】\n1.具備 C# .NET 或 Java Spring Boot Web API 開發與 RESTful API 串接經驗。\n2.熟悉 JSON、HTTP／HTTPS、OAuth 2.0 及 API 權限安全機制。\n3.具備 SQL Server 查詢、操作及資料處理能力。\n4.了解 LLM、Prompt、RAG、AI Agent 及自動化流程概念。\n5.具備需求分析、問題解決、獨立作業及跨部門溝通能力。\n6.重視程式碼品質、資訊安全、權限控管及機敏資料保護。\n7.具備跨系統、跨平台整合與問題排除能力。\n【加分條件】\n1.具備 Vibe Coding 或 Coding Agent 開發實務經驗。\n2.熟悉 Antigravity、Claude Code、Codex、GitHub Copilot 等 AI 開發工具。\n3.具備 LLM API、Prompt、Agent Workflow 及 Tool Calling 設計經驗。\n4.熟悉 Microsoft Entra ID 驗證授權及 Microsoft 365 服務整合。\n5.具備系統架構、API 規格、專案管理或跨部門協作經驗。\n6.熟悉 Docker、Linux、Git、CI/CD 與容器化部署。\n7.了解生成式 AI 的資安、隱私、權限及模型風險管理。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n擅長工具：C#、Java、HTML、JavaScript、HTTP、LLM、Prompt\n其他條件：【工作技能】\n1.具備 C# .NET 或 Java Spring Boot Web API 開發與 RESTful API 串接經驗。\n2.熟悉 JSON、HTTP／HTTPS、OAuth 2.0 及 API 權限安全機制。\n3.具備 SQL Server 查詢、操作及資料處理能力。\n4.了解 LLM、Prompt、RAG、AI Agent 及自動化流程概念。\n5.具備需求分析、問題解決、獨立作業及跨部門溝通能力。\n6.重視程式碼品質、資訊安全、權限控管及機敏資料保護。\n7.具備跨系統、跨平台整合與問題排除能力。\n【加分條件】\n1.具備 Vibe Coding 或 Coding Agent 開發實務經驗。\n2.熟悉 Antigravity、Claude Code、Codex、GitHub Copilot 等 AI 開發工具。\n3.具備 LLM API、Prompt、Agent Workflow 及 Tool Calling 設計經驗。\n4.熟悉 Microsoft Entra ID 驗證授權及 Microsoft 365 服務整合。\n5.具備系統架構、API 規格、專案管理或跨部門協作經驗。\n6.熟悉 Docker、Linux、Git、CI/CD 與容器化部署。\n7.了解生成式 AI 的資安、隱私、權限及模型風險管理。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "90n6l",
+    "job_url": "https://www.104.com.tw/job/90n6l",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90n6l.json",
+    "raw_sha256": "533eaca086661aff4b99975033b0a0d8efc55efe0f2e5edb56c474064724c1b9",
+    "requested_url": "https://www.104.com.tw/api/jobs/90n6l"
+  }
+}

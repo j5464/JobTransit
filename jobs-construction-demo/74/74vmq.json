@@ -1,0 +1,159 @@
+{
+  "company": {
+    "id": "1a2x6blfiq",
+    "name": "小熊科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "與設計團隊共同合作開發大型網站平台"
+        },
+        {
+          "children": [],
+          "text": "創造給客戶更好的UI/UX體驗"
+        },
+        {
+          "children": [],
+          "text": "設計，開發網頁介面"
+        },
+        {
+          "children": [],
+          "text": "採用Scrum開發流程"
+        }
+      ],
+      "text": "1. 與設計團隊共同合作開發大型網站平台\n2. 創造給客戶更好的UI/UX體驗\n3. 設計，開發網頁介面\n4. 採用Scrum開發流程"
+    },
+    "employment_type_raw": "全職",
+    "title": "後端工程師（Junior）**月薪40,000~65,000**"
+  },
+  "location": {
+    "address_raw": "新北市板橋區(可遠端工作)",
+    "raw": "新北市板橋區(可遠端工作)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "後端工程師能力需求\n* JavaScript\n* Node.JS\n* 熟悉MongoDB / MySQL\n有以下經驗加分（尤佳）\n* 開發RESTFul API經驗\n* git\n* 有看過clean code\n* 熟悉設計模式* 前端開發經驗\n* 有Github, Medium等作品\n* 開發潛能反覆縝密思考，找出最好的解決方案"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "後端工程師能力需求\n* JavaScript\n* Node.JS\n* 熟悉MongoDB / MySQL\n有以下經驗加分（尤佳）\n* 開發RESTFul API經驗\n* git\n* 有看過clean code\n* 熟悉設計模式* 前端開發經驗\n* 有Github, Medium等作品\n* 開發潛能反覆縝密思考，找出最好的解決方案",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：不拘\n其他條件：後端工程師能力需求\n* JavaScript\n* Node.JS\n* 熟悉MongoDB / MySQL\n有以下經驗加分（尤佳）\n* 開發RESTFul API經驗\n* git\n* 有看過clean code\n* 熟悉設計模式* 前端開發經驗\n* 有Github, Medium等作品\n* 開發潛能反覆縝密思考，找出最好的解決方案",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 3
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:27:55+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~65,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 與設計團隊共同合作開發大型網站平台\n2. 創造給客戶更好的UI/UX體驗\n3. 設計，開發網頁介面\n4. 採用Scrum開發流程",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~65,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區(可遠端工作)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 與設計團隊共同合作開發大型網站平台\n2. 創造給客戶更好的UI/UX體驗\n3. 設計，開發網頁介面\n4. 採用Scrum開發流程"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "後端工程師能力需求\n* JavaScript\n* Node.JS\n* 熟悉MongoDB / MySQL\n有以下經驗加分（尤佳）\n* 開發RESTFul API經驗\n* git\n* 有看過clean code\n* 熟悉設計模式* 前端開發經驗\n* 有Github, Medium等作品\n* 開發潛能反覆縝密思考，找出最好的解決方案",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘\n其他條件：後端工程師能力需求\n* JavaScript\n* Node.JS\n* 熟悉MongoDB / MySQL\n有以下經驗加分（尤佳）\n* 開發RESTFul API經驗\n* git\n* 有看過clean code\n* 熟悉設計模式* 前端開發經驗\n* 有Github, Medium等作品\n* 開發潛能反覆縝密思考，找出最好的解決方案"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "74vmq",
+    "job_url": "https://www.104.com.tw/job/74vmq",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/74vmq.json",
+    "raw_sha256": "1468173c767c136677c57c1a62a9b32fadb563ade6d4f8361e3cbab0f548f78f",
+    "requested_url": "https://www.104.com.tw/api/jobs/74vmq"
+  }
+}

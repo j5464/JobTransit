@@ -1,0 +1,205 @@
+{
+  "company": {
+    "id": "ykgocp4",
+    "name": "東方美企業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "MIS程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "C#.net 程式開發(Window Form、Console、Web)。"
+        },
+        {
+          "children": [],
+          "text": "熟HTML、.NET、PHP、JavaScript、jQuery等網頁程式開發。"
+        },
+        {
+          "children": [],
+          "text": "微軟SQL Server Reporting Services報表設計。"
+        },
+        {
+          "children": [],
+          "text": "MS-SQL資料庫設計。"
+        }
+      ],
+      "text": "1.C#.net 程式開發(Window Form、Console、Web)。\n2.熟HTML、.NET、PHP、JavaScript、jQuery等網頁程式開發。\n3.微軟SQL Server Reporting Services報表設計。\n4.MS-SQL資料庫設計。"
+    },
+    "employment_type_raw": "全職",
+    "title": "程式設計工程師"
+  },
+  "location": {
+    "address_raw": "台北市松山區南京東路三段285號11樓",
+    "raw": "台北市松山區南京東路三段285號11樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "MS SQL",
+          "HTML",
+          "JavaScript",
+          "jQuery"
+        ],
+        "label": "擅長工具",
+        "text": "C#、MS SQL、HTML、JavaScript、jQuery"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熱愛程式開發與團隊溝通協調合作\n2.能夠獨立思考及提供不同的思維\n3.具商業網站或軟體開發經驗者佳。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1.熱愛程式開發與團隊溝通協調合作\n2.能夠獨立思考及提供不同的思維\n3.具商業網站或軟體開發經驗者佳。",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、MS SQL、HTML、JavaScript、jQuery\n其他條件：1.熱愛程式開發與團隊溝通協調合作\n2.能夠獨立思考及提供不同的思維\n3.具商業網站或軟體開發經驗者佳。",
+    "tools": [
+      "C#",
+      "MS SQL",
+      "HTML",
+      "JavaScript",
+      "jQuery"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 50
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:24:15+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.C#.net 程式開發(Window Form、Console、Web)。\n2.熟HTML、.NET、PHP、JavaScript、jQuery等網頁程式開發。\n3.微軟SQL Server Reporting Services報表設計。\n4.MS-SQL資料庫設計。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "MIS程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、MIS程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區南京東路三段285號11樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.C#.net 程式開發(Window Form、Console、Web)。\n2.熟HTML、.NET、PHP、JavaScript、jQuery等網頁程式開發。\n3.微軟SQL Server Reporting Services報表設計。\n4.MS-SQL資料庫設計。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "MS SQL",
+            "HTML",
+            "JavaScript",
+            "jQuery"
+          ],
+          "label": "擅長工具",
+          "text": "C#、MS SQL、HTML、JavaScript、jQuery",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熱愛程式開發與團隊溝通協調合作\n2.能夠獨立思考及提供不同的思維\n3.具商業網站或軟體開發經驗者佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、MS SQL、HTML、JavaScript、jQuery\n其他條件：1.熱愛程式開發與團隊溝通協調合作\n2.能夠獨立思考及提供不同的思維\n3.具商業網站或軟體開發經驗者佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6zhq7",
+    "job_url": "https://www.104.com.tw/job/6zhq7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6zhq7.json",
+    "raw_sha256": "a5b1608961ea0ebff2fe67eb8664f72ec2683c49aa4ee6be551e716912293567",
+    "requested_url": "https://www.104.com.tw/api/jobs/6zhq7"
+  }
+}

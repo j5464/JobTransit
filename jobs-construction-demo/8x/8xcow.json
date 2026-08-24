@@ -1,0 +1,195 @@
+{
+  "company": {
+    "id": "233rv1s",
+    "name": "鴻海精密工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "跨部門協調及協助客戶解決問題"
+        },
+        {
+          "children": [],
+          "text": "規格書撰寫及流程規劃"
+        },
+        {
+          "children": [],
+          "text": "BMC 開發及測試"
+        }
+      ],
+      "text": "1.跨部門協調及協助客戶解決問題\n2.規格書撰寫及流程規劃\n3.BMC 開發及測試"
+    },
+    "employment_type_raw": "全職",
+    "title": "BMC Engineer(桃園)"
+  },
+  "location": {
+    "address_raw": "桃園市蘆竹區",
+    "raw": "桃園市蘆竹區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "其他條件\n1. C / C++ language\n2. 數位電路"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "其他條件\n1. C / C++ language\n2. 數位電路",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：其他條件\n1. C / C++ language\n2. 數位電路",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 82
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:44:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.跨部門協調及協助客戶解決問題\n2.規格書撰寫及流程規劃\n3.BMC 開發及測試",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市蘆竹區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.跨部門協調及協助客戶解決問題\n2.規格書撰寫及流程規劃\n3.BMC 開發及測試"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "其他條件\n1. C / C++ language\n2. 數位電路",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：其他條件\n1. C / C++ language\n2. 數位電路"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8xcow",
+    "job_url": "https://www.104.com.tw/job/8xcow",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xcow.json",
+    "raw_sha256": "0db28c30d058f567f0fa44ff47bc4f34d5c88dd0f9e1278992ad0e028ac54508",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xcow"
+  }
+}

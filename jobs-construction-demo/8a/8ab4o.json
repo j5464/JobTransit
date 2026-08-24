@@ -1,0 +1,185 @@
+{
+  "company": {
+    "id": "13kmziew",
+    "name": "聯成電腦股份有限公司(聯成電腦/聯成外語)"
+  },
+  "job": {
+    "categories": [
+      "資訊助理",
+      "其他客服人員",
+      "補習班導師／管理人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "電腦教室軟硬體設備維護."
+        },
+        {
+          "children": [],
+          "text": "與講師溝通協調及排課."
+        },
+        {
+          "children": [],
+          "text": "學員課後問題協助及輔導."
+        },
+        {
+          "children": [],
+          "text": "需配合資訊展活動支援."
+        }
+      ],
+      "text": "【工作內容】\n1.電腦教室軟硬體設備維護.\n2.與講師溝通協調及排課.\n3.學員課後問題協助及輔導.\n4.需配合資訊展活動支援."
+    },
+    "employment_type_raw": "全職",
+    "title": "【台南】資訊行政客服-福利多/完善培訓"
+  },
+  "location": {
+    "address_raw": "台南市中西區成功路57號",
+    "raw": "台南市中西區成功路57號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Windows 2000",
+          "Windows NT",
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word",
+          "中文打字20~50"
+        ],
+        "label": "擅長工具",
+        "text": "Windows 2000、Windows NT、Excel、Outlook、PowerPoint、Word、中文打字20~50"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：Windows 2000、Windows NT、Excel、Outlook、PowerPoint、Word、中文打字20~50",
+    "tools": [
+      "Windows 2000",
+      "Windows NT",
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word",
+      "中文打字20~50"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 51
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:26:32+08:00"
+  },
+  "salary": {
+    "raw": "月薪32,000~40,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1.電腦教室軟硬體設備維護.\n2.與講師溝通協調及排課.\n3.學員課後問題協助及輔導.\n4.需配合資訊展活動支援.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資訊助理",
+            "其他客服人員",
+            "補習班導師／管理人員"
+          ],
+          "label": "職務類別",
+          "text": "資訊助理、其他客服人員、補習班導師／管理人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪32,000~40,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市中西區成功路57號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1.電腦教室軟硬體設備維護.\n2.與講師溝通協調及排課.\n3.學員課後問題協助及輔導.\n4.需配合資訊展活動支援."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Windows 2000",
+            "Windows NT",
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word",
+            "中文打字20~50"
+          ],
+          "label": "擅長工具",
+          "text": "Windows 2000、Windows NT、Excel、Outlook、PowerPoint、Word、中文打字20~50",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：Windows 2000、Windows NT、Excel、Outlook、PowerPoint、Word、中文打字20~50"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ab4o",
+    "job_url": "https://www.104.com.tw/job/8ab4o",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ab4o.json",
+    "raw_sha256": "b853460284ac7afad150d0d75491c061a645c4a5269ff8270bc00f00fd905db7",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ab4o"
+  }
+}

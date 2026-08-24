@@ -1,0 +1,209 @@
+{
+  "company": {
+    "id": "13u156q8",
+    "name": "由田新技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助開發檢測邏輯"
+        },
+        {
+          "children": [],
+          "text": "機台軟體程式維護與開發"
+        }
+      ],
+      "text": "1.協助開發檢測邏輯\n2.機台軟體程式維護與開發\n【年薪14個月以上! 】"
+    },
+    "employment_type_raw": "全職",
+    "title": "影像處理應用工程師(視訊面試)"
+  },
+  "location": {
+    "address_raw": "新北市中和區連城路268號10樓之1 (另在台中/台南/高雄設有辦公室)",
+    "raw": "新北市中和區連城路268號10樓之1 (另在台中/台南/高雄設有辦公室)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、工程學科類"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "C",
+          "C#",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "C、C#、C++"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 程式語言強。\n2. 邏輯觀念佳。\n3. 具影像處理經驗。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "數學及電算機科學學科類",
+      "工程學科類"
+    ],
+    "other_text": "1. 程式語言強。\n2. 邏輯觀念佳。\n3. 具影像處理經驗。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：數學及電算機科學學科類、工程學科類\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C、C#、C++\n其他條件：1. 程式語言強。\n2. 邏輯觀念佳。\n3. 具影像處理經驗。",
+    "tools": [
+      "C",
+      "C#",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 1
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:20:44+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.協助開發檢測邏輯\n2.機台軟體程式維護與開發\n【年薪14個月以上! 】",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區連城路268號10樓之1 (另在台中/台南/高雄設有辦公室)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.協助開發檢測邏輯\n2.機台軟體程式維護與開發\n【年薪14個月以上! 】"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C#",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "C、C#、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 程式語言強。\n2. 邏輯觀念佳。\n3. 具影像處理經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：數學及電算機科學學科類、工程學科類\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C、C#、C++\n其他條件：1. 程式語言強。\n2. 邏輯觀念佳。\n3. 具影像處理經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/22",
+    "html_sha256": null,
+    "job_id": "34azr",
+    "job_url": "https://www.104.com.tw/job/34azr",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/34azr.json",
+    "raw_sha256": "7183247b306af3595d833a5ccff4c234eaca5023e7ab50afa68a93746d969946",
+    "requested_url": "https://www.104.com.tw/api/jobs/34azr"
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "company": {
+    "id": "1a2x6bkgth",
+    "name": "能鉅科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "自動控制工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "工業4.0 WEB化之製造系統開發與維運"
+        },
+        {
+          "children": [],
+          "text": "負責機台機聯網系統，整合PLC/OPC/Sensor"
+        },
+        {
+          "children": [],
+          "text": "自動化警報系統，了解PLC，人機介面與圖控通訊設計規劃"
+        },
+        {
+          "children": [],
+          "text": "產品履歷追蹤系統"
+        },
+        {
+          "children": [],
+          "text": "電腦程式設計概念(VB, C,C#, DB)"
+        }
+      ],
+      "text": "1. 工業4.0 WEB化之製造系統開發與維運\n2. 負責機台機聯網系統，整合PLC/OPC/Sensor\n3. 自動化警報系統，了解PLC，人機介面與圖控通訊設計規劃\n4. 產品履歷追蹤系統\n5. 電腦程式設計概念(VB, C,C#, DB)\n本職缺依學經歷、工作經驗、實務能力酌適調整薪資\n本公司備有公務車"
+    },
+    "employment_type_raw": "全職",
+    "title": "工業4.0開發工程師"
+  },
+  "location": {
+    "address_raw": "台中市北區中清路一段370號8樓之2",
+    "raw": "台中市北區中清路一段370號8樓之2"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "PLC",
+          "Database Management"
+        ],
+        "label": "擅長工具",
+        "text": "PLC、Database Management"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "系統架構規劃",
+          "自動化系統設計整合"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、系統架構規劃、自動化系統設計整合"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.了解RS485、modbus、sensor、PLC、MQTT、JSON\n2.具有工業4.0熱忱及興趣者"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "1.了解RS485、modbus、sensor、PLC、MQTT、JSON\n2.具有工業4.0熱忱及興趣者",
+    "skills": [
+      "軟體程式設計",
+      "系統架構規劃",
+      "自動化系統設計整合"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學\n科系要求：資訊管理相關、電機電子工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：PLC、Database Management\n工作技能：軟體程式設計、系統架構規劃、自動化系統設計整合\n其他條件：1.了解RS485、modbus、sensor、PLC、MQTT、JSON\n2.具有工業4.0熱忱及興趣者",
+    "tools": [
+      "PLC",
+      "Database Management"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 77
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:31:54+08:00"
+  },
+  "salary": {
+    "raw": "月薪38,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 工業4.0 WEB化之製造系統開發與維運\n2. 負責機台機聯網系統，整合PLC/OPC/Sensor\n3. 自動化警報系統，了解PLC，人機介面與圖控通訊設計規劃\n4. 產品履歷追蹤系統\n5. 電腦程式設計概念(VB, C,C#, DB)\n本職缺依學經歷、工作經驗、實務能力酌適調整薪資\n本公司備有公務車",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "自動控制工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "自動控制工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪38,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市北區中清路一段370號8樓之2",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 工業4.0 WEB化之製造系統開發與維運\n2. 負責機台機聯網系統，整合PLC/OPC/Sensor\n3. 自動化警報系統，了解PLC，人機介面與圖控通訊設計規劃\n4. 產品履歷追蹤系統\n5. 電腦程式設計概念(VB, C,C#, DB)\n本職缺依學經歷、工作經驗、實務能力酌適調整薪資\n本公司備有公務車"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PLC",
+            "Database Management"
+          ],
+          "label": "擅長工具",
+          "text": "PLC、Database Management",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "系統架構規劃",
+            "自動化系統設計整合"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、系統架構規劃、自動化系統設計整合",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.了解RS485、modbus、sensor、PLC、MQTT、JSON\n2.具有工業4.0熱忱及興趣者",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學\n科系要求：資訊管理相關、電機電子工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：PLC、Database Management\n工作技能：軟體程式設計、系統架構規劃、自動化系統設計整合\n其他條件：1.了解RS485、modbus、sensor、PLC、MQTT、JSON\n2.具有工業4.0熱忱及興趣者"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8yggo",
+    "job_url": "https://www.104.com.tw/job/8yggo",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8yggo.json",
+    "raw_sha256": "f33a5bbd03c66cf10092370d8e452f6d08b3f425a5f553fde663e77e4cdacac7",
+    "requested_url": "https://www.104.com.tw/api/jobs/8yggo"
+  }
+}

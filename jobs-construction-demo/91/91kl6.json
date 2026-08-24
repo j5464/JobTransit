@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "1a2x6blhdy",
+    "name": "大陸商星宸科技股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI image model for software: NR, HDR, WDR, 3A"
+        },
+        {
+          "children": [],
+          "text": "Familiar with camera image processing flow"
+        },
+        {
+          "children": [],
+          "text": "Familiar with AI framework: TF, Pytorch"
+        },
+        {
+          "children": [],
+          "text": "Familiar with C++, python and Matlab coding"
+        }
+      ],
+      "text": "1. AI image model for software: NR, HDR, WDR, 3A\n2. Familiar with camera image processing flow\n3. Familiar with AI framework: TF, Pytorch\n4. Familiar with C++, python and Matlab coding"
+    },
+    "employment_type_raw": "全職",
+    "title": "Image processing software engineer II"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市台元二街1號",
+    "raw": "新竹縣竹北市台元二街1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Python",
+          "Matlab",
+          "Linux"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Python、Matlab、Linux"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "TF, Pytorch, Image processing algorithm"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "TF, Pytorch, Image processing algorithm",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Python、Matlab、Linux\n其他條件：TF, Pytorch, Image processing algorithm",
+    "tools": [
+      "C",
+      "C++",
+      "Python",
+      "Matlab",
+      "Linux"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 18
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:06:38+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. AI image model for software: NR, HDR, WDR, 3A\n2. Familiar with camera image processing flow\n3. Familiar with AI framework: TF, Pytorch\n4. Familiar with C++, python and Matlab coding",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市台元二街1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. AI image model for software: NR, HDR, WDR, 3A\n2. Familiar with camera image processing flow\n3. Familiar with AI framework: TF, Pytorch\n4. Familiar with C++, python and Matlab coding"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Python",
+            "Matlab",
+            "Linux"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Python、Matlab、Linux",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "TF, Pytorch, Image processing algorithm",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Python、Matlab、Linux\n其他條件：TF, Pytorch, Image processing algorithm"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91kl6",
+    "job_url": "https://www.104.com.tw/job/91kl6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91kl6.json",
+    "raw_sha256": "bc7f8804668392609a7850ff725201e812d69ed970487427312746f19fdc738d",
+    "requested_url": "https://www.104.com.tw/api/jobs/91kl6"
+  }
+}

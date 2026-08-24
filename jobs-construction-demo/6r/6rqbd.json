@@ -1,0 +1,223 @@
+{
+  "company": {
+    "id": "ztk22pc",
+    "name": "PMC_財團法人精密機械研究發展中心"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI 演算法開發和應用：機器學習、深度學習"
+        },
+        {
+          "children": [],
+          "text": "工具機智慧化應用軟體開發"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Python Python 或 C# 語法"
+        },
+        {
+          "children": [],
+          "text": "熟悉常用機器學習算法（如回歸、決策樹、集成學習、神經網絡等）"
+        },
+        {
+          "children": [],
+          "text": "電腦能力：熟 MS Office"
+        }
+      ],
+      "text": "【工作內容】\n1. AI 演算法開發和應用：機器學習、深度學習\n2. 工具機智慧化應用軟體開發\n【必要技能】\n1. 熟悉 Python Python 或 C# 語法\n2. 熟悉常用機器學習算法（如回歸、決策樹、集成學習、神經網絡等）\n3. 電腦能力：熟 MS Office"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI演算法工程師-T"
+  },
+  "location": {
+    "address_raw": "台中市西屯區工業區三十七路27號",
+    "raw": "台中市西屯區工業區三十七路27號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具備 AI 演算法、機器學習深度專業知識\n2. 具 AP I通訊相關 經驗者佳\n3. 具政府計畫執行經驗者、簡報製作專案管理能力\n4. 有工作熱忱、善於溝通 ，喜愛研究、討論分享與學習新技 術\n5. 碩博士尤佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "機械工程相關"
+    ],
+    "other_text": "1. 具備 AI 演算法、機器學習深度專業知識\n2. 具 AP I通訊相關 經驗者佳\n3. 具政府計畫執行經驗者、簡報製作專案管理能力\n4. 有工作熱忱、善於溝通 ，喜愛研究、討論分享與學習新技 術\n5. 碩博士尤佳",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Python\n其他條件：1. 具備 AI 演算法、機器學習深度專業知識\n2. 具 AP I通訊相關 經驗者佳\n3. 具政府計畫執行經驗者、簡報製作專案管理能力\n4. 有工作熱忱、善於溝通 ，喜愛研究、討論分享與學習新技 術\n5. 碩博士尤佳",
+    "tools": [
+      "C#",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 25
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:23:04+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. AI 演算法開發和應用：機器學習、深度學習\n2. 工具機智慧化應用軟體開發\n【必要技能】\n1. 熟悉 Python Python 或 C# 語法\n2. 熟悉常用機器學習算法（如回歸、決策樹、集成學習、神經網絡等）\n3. 電腦能力：熟 MS Office",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區工業區三十七路27號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. AI 演算法開發和應用：機器學習、深度學習\n2. 工具機智慧化應用軟體開發\n【必要技能】\n1. 熟悉 Python Python 或 C# 語法\n2. 熟悉常用機器學習算法（如回歸、決策樹、集成學習、神經網絡等）\n3. 電腦能力：熟 MS Office"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具備 AI 演算法、機器學習深度專業知識\n2. 具 AP I通訊相關 經驗者佳\n3. 具政府計畫執行經驗者、簡報製作專案管理能力\n4. 有工作熱忱、善於溝通 ，喜愛研究、討論分享與學習新技 術\n5. 碩博士尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Python\n其他條件：1. 具備 AI 演算法、機器學習深度專業知識\n2. 具 AP I通訊相關 經驗者佳\n3. 具政府計畫執行經驗者、簡報製作專案管理能力\n4. 有工作熱忱、善於溝通 ，喜愛研究、討論分享與學習新技 術\n5. 碩博士尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6rqbd",
+    "job_url": "https://www.104.com.tw/job/6rqbd",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6rqbd.json",
+    "raw_sha256": "eac0a7d6e700a923a350cd8acfe19da798aec57e60ff621337a6628342ad4322",
+    "requested_url": "https://www.104.com.tw/api/jobs/6rqbd"
+  }
+}

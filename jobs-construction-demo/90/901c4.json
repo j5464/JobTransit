@@ -1,0 +1,252 @@
+{
+  "company": {
+    "id": "oe22du0",
+    "name": "LILEE SYSTEMS_理立系統股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "通訊軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Understand Customer Requirements: Collaborate directly with customers, system integrators, and partners to understand their unique PTC deployment needs, networking topologies, and interoperability requirements (such as cross-railroad boundary testing and trackage rights). Translate operational goals into system configurations, ATCS addressing schemes, and secure routing setups."
+        },
+        {
+          "children": [],
+          "text": "Figure Out the Root Cause of Reported Bugs: Act as the ultimate technical escalation point for complex integration issues. Utilize internal tools like the QT-based Test Manager, Log Viewer, and CMU Server to trace message flows (e.g., Temporary Speed Restrictions and Interlocking Status Requests) across the entire network path. Parse through ATCS message packets, STFP logs, and database records (MySQL/SQLite) to pinpoint network, hardware, or software failures."
+        },
+        {
+          "children": [],
+          "text": "Standalone Work Out Solutions: Take independent ownership of technical challenges from start to finish. This includes designing and implementing software patches, writing automation scripts, adjusting vital network configurations (such as IP/ATCS routing and firewall policies), and managing cryptographic keys via the Key Management System (KMS) to ensure secure locomotive-to-wayside handovers."
+        },
+        {
+          "children": [],
+          "text": "Backend & Web Development: Strong programming experience in Python. Familiarity with the PHP/CGI web framework as these power our CMU Maintenance Server."
+        },
+        {
+          "children": [],
+          "text": "Systems Programming: Experience with C/C++ in a Linux/CentOS environment, which is utilized for our core packet routing and communication simulator components."
+        },
+        {
+          "children": [],
+          "text": "Networking Expertise: Deep understanding of TCP/IP, UDP, routing, and switching. Ability to troubleshoot complex network environments and understand proprietary protocol encapsulation (e.g., ATCS packets wrapped in STFP or EMP protocols)."
+        },
+        {
+          "children": [],
+          "text": "Security & PKI: Familiarity with Public Key Infrastructure (PKI), X.509 certificates, SSH tunneling, and symmetric/asymmetric encryption. You will regularly work with our Key Management System (KMS) to provision Asset Management Keys (AMK) to field radios."
+        },
+        {
+          "children": [],
+          "text": "Database Management: Experience with database management and migrations using MySQL, SQLite, and PostgreSQL."
+        },
+        {
+          "children": [],
+          "text": "Autonomy & Communication: Proven ability to work in a standalone capacity within a fast-paced integration lab or field environment. Must be capable of translating complex logs and packet transactions into clear, actionable explanations for both internal teams and external customers."
+        },
+        {
+          "children": [],
+          "text": "Prior experience in the rail, transit, or transportation industry, particularly with Positive Train Control (PTC), Advanced Train Control System (ATCS) Specification 200, or ACSES systems."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with RF communication systems and 220 MHz/900 MHz data radios (such as the GE TD2200)."
+        },
+        {
+          "children": [],
+          "text": "Good English-speaking communication skill."
+        }
+      ],
+      "text": "About the Team:\nYou will be joining the Professional Services team responsible for the deployment, integration, and maintenance of our Communication Management Unit (CMU) product family. Our systems provide the critical, secure communication backbone for Positive Train Control (PTC) and Advanced Civil Speed Enforcement System (ACSES) networks used by major North American transit agencies and railroads (such as New Jersey Transit and Amtrak). You will work closely with our customers and integration partners (e.g., Parsons, Hitachi, Wabtec) to ensure safe, interoperable train communications from the onboard locomotive to the back-office Safety Servers.\nRole Overview: We are seeking a highly autonomous Senior Software Engineer who can directly interface with customers to capture complex operational requirements, dive deep into system logs to diagnose the root cause of field and lab issues, and independently engineer robust solutions.\nKey Responsibilities:\n• Understand Customer Requirements: Collaborate directly with customers, system integrators, and partners to understand their unique PTC deployment needs, networking topologies, and interoperability requirements (such as cross-railroad boundary testing and trackage rights). Translate operational goals into system configurations, ATCS addressing schemes, and secure routing setups.\n• Figure Out the Root Cause of Reported Bugs: Act as the ultimate technical escalation point for complex integration issues. Utilize internal tools like the QT-based Test Manager, Log Viewer, and CMU Server to trace message flows (e.g., Temporary Speed Restrictions and Interlocking Status Requests) across the entire network path. Parse through ATCS message packets, STFP logs, and database records (MySQL/SQLite) to pinpoint network, hardware, or software failures.\n• Standalone Work Out Solutions: Take independent ownership of technical challenges from start to finish. This includes designing and implementing software patches, writing automation scripts, adjusting vital network configurations (such as IP/ATCS routing and firewall policies), and managing cryptographic keys via the Key Management System (KMS) to ensure secure locomotive-to-wayside handovers.\nTechnical Skills & Qualifications:\n• Backend & Web Development: Strong programming experience in Python. Familiarity with the PHP/CGI web framework as these power our CMU Maintenance Server.\n• Systems Programming: Experience with C/C++ in a Linux/CentOS environment, which is utilized for our core packet routing and communication simulator components.\n• Networking Expertise: Deep understanding of TCP/IP, UDP, routing, and switching. Ability to troubleshoot complex network environments and understand proprietary protocol encapsulation (e.g., ATCS packets wrapped in STFP or EMP protocols).\n• Security & PKI: Familiarity with Public Key Infrastructure (PKI), X.509 certificates, SSH tunneling, and symmetric/asymmetric encryption. You will regularly work with our Key Management System (KMS) to provision Asset Management Keys (AMK) to field radios.\n• Database Management: Experience with database management and migrations using MySQL, SQLite, and PostgreSQL.\n• Autonomy & Communication: Proven ability to work in a standalone capacity within a fast-paced integration lab or field environment. Must be capable of translating complex logs and packet transactions into clear, actionable explanations for both internal teams and external customers.\nPreferred Qualifications:\n• Prior experience in the rail, transit, or transportation industry, particularly with Positive Train Control (PTC), Advanced Train Control System (ATCS) Specification 200, or ACSES systems.\n• Familiarity with RF communication systems and 220 MHz/900 MHz data radios (such as the GE TD2200).\n• Good English-speaking communication skill."
+    },
+    "employment_type_raw": "全職",
+    "title": "[PS Team]-Senior Software Engineer"
+  },
+  "location": {
+    "address_raw": "新北市板橋區新站路16之1號24樓 (近板橋車站)",
+    "raw": "新北市板橋區新站路16之1號24樓 (近板橋車站)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "4年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "4年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、精通、精通"
+      },
+      {
+        "items": [
+          "TCP/IP",
+          "Linux",
+          "PHP",
+          "MySQL",
+          "C",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "TCP/IP、Linux、PHP、MySQL、C、C++、Python"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、精通、精通"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：4年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、精通、精通\n擅長工具：TCP/IP、Linux、PHP、MySQL、C、C++、Python\n工作技能：軟體程式設計、軟體工程系統開發",
+    "tools": [
+      "TCP/IP",
+      "Linux",
+      "PHP",
+      "MySQL",
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 25
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:23:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "About the Team:\nYou will be joining the Professional Services team responsible for the deployment, integration, and maintenance of our Communication Management Unit (CMU) product family. Our systems provide the critical, secure communication backbone for Positive Train Control (PTC) and Advanced Civil Speed Enforcement System (ACSES) networks used by major North American transit agencies and railroads (such as New Jersey Transit and Amtrak). You will work closely with our customers and integration partners (e.g., Parsons, Hitachi, Wabtec) to ensure safe, interoperable train communications from the onboard locomotive to the back-office Safety Servers.\nRole Overview: We are seeking a highly autonomous Senior Software Engineer who can directly interface with customers to capture complex operational requirements, dive deep into system logs to diagnose the root cause of field and lab issues, and independently engineer robust solutions.\nKey Responsibilities:\n• Understand Customer Requirements: Collaborate directly with customers, system integrators, and partners to understand their unique PTC deployment needs, networking topologies, and interoperability requirements (such as cross-railroad boundary testing and trackage rights). Translate operational goals into system configurations, ATCS addressing schemes, and secure routing setups.\n• Figure Out the Root Cause of Reported Bugs: Act as the ultimate technical escalation point for complex integration issues. Utilize internal tools like the QT-based Test Manager, Log Viewer, and CMU Server to trace message flows (e.g., Temporary Speed Restrictions and Interlocking Status Requests) across the entire network path. Parse through ATCS message packets, STFP logs, and database records (MySQL/SQLite) to pinpoint network, hardware, or software failures.\n• Standalone Work Out Solutions: Take independent ownership of technical challenges from start to finish. This includes designing and implementing software patches, writing automation scripts, adjusting vital network configurations (such as IP/ATCS routing and firewall policies), and managing cryptographic keys via the Key Management System (KMS) to ensure secure locomotive-to-wayside handovers.\nTechnical Skills & Qualifications:\n• Backend & Web Development: Strong programming experience in Python. Familiarity with the PHP/CGI web framework as these power our CMU Maintenance Server.\n• Systems Programming: Experience with C/C++ in a Linux/CentOS environment, which is utilized for our core packet routing and communication simulator components.\n• Networking Expertise: Deep understanding of TCP/IP, UDP, routing, and switching. Ability to troubleshoot complex network environments and understand proprietary protocol encapsulation (e.g., ATCS packets wrapped in STFP or EMP protocols).\n• Security & PKI: Familiarity with Public Key Infrastructure (PKI), X.509 certificates, SSH tunneling, and symmetric/asymmetric encryption. You will regularly work with our Key Management System (KMS) to provision Asset Management Keys (AMK) to field radios.\n• Database Management: Experience with database management and migrations using MySQL, SQLite, and PostgreSQL.\n• Autonomy & Communication: Proven ability to work in a standalone capacity within a fast-paced integration lab or field environment. Must be capable of translating complex logs and packet transactions into clear, actionable explanations for both internal teams and external customers.\nPreferred Qualifications:\n• Prior experience in the rail, transit, or transportation industry, particularly with Positive Train Control (PTC), Advanced Train Control System (ATCS) Specification 200, or ACSES systems.\n• Familiarity with RF communication systems and 220 MHz/900 MHz data radios (such as the GE TD2200).\n• Good English-speaking communication skill.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "通訊軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、通訊軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區新站路16之1號24樓 (近板橋車站)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "About the Team:\nYou will be joining the Professional Services team responsible for the deployment, integration, and maintenance of our Communication Management Unit (CMU) product family. Our systems provide the critical, secure communication backbone for Positive Train Control (PTC) and Advanced Civil Speed Enforcement System (ACSES) networks used by major North American transit agencies and railroads (such as New Jersey Transit and Amtrak). You will work closely with our customers and integration partners (e.g., Parsons, Hitachi, Wabtec) to ensure safe, interoperable train communications from the onboard locomotive to the back-office Safety Servers.\nRole Overview: We are seeking a highly autonomous Senior Software Engineer who can directly interface with customers to capture complex operational requirements, dive deep into system logs to diagnose the root cause of field and lab issues, and independently engineer robust solutions.\nKey Responsibilities:\n• Understand Customer Requirements: Collaborate directly with customers, system integrators, and partners to understand their unique PTC deployment needs, networking topologies, and interoperability requirements (such as cross-railroad boundary testing and trackage rights). Translate operational goals into system configurations, ATCS addressing schemes, and secure routing setups.\n• Figure Out the Root Cause of Reported Bugs: Act as the ultimate technical escalation point for complex integration issues. Utilize internal tools like the QT-based Test Manager, Log Viewer, and CMU Server to trace message flows (e.g., Temporary Speed Restrictions and Interlocking Status Requests) across the entire network path. Parse through ATCS message packets, STFP logs, and database records (MySQL/SQLite) to pinpoint network, hardware, or software failures.\n• Standalone Work Out Solutions: Take independent ownership of technical challenges from start to finish. This includes designing and implementing software patches, writing automation scripts, adjusting vital network configurations (such as IP/ATCS routing and firewall policies), and managing cryptographic keys via the Key Management System (KMS) to ensure secure locomotive-to-wayside handovers.\nTechnical Skills & Qualifications:\n• Backend & Web Development: Strong programming experience in Python. Familiarity with the PHP/CGI web framework as these power our CMU Maintenance Server.\n• Systems Programming: Experience with C/C++ in a Linux/CentOS environment, which is utilized for our core packet routing and communication simulator components.\n• Networking Expertise: Deep understanding of TCP/IP, UDP, routing, and switching. Ability to troubleshoot complex network environments and understand proprietary protocol encapsulation (e.g., ATCS packets wrapped in STFP or EMP protocols).\n• Security & PKI: Familiarity with Public Key Infrastructure (PKI), X.509 certificates, SSH tunneling, and symmetric/asymmetric encryption. You will regularly work with our Key Management System (KMS) to provision Asset Management Keys (AMK) to field radios.\n• Database Management: Experience with database management and migrations using MySQL, SQLite, and PostgreSQL.\n• Autonomy & Communication: Proven ability to work in a standalone capacity within a fast-paced integration lab or field environment. Must be capable of translating complex logs and packet transactions into clear, actionable explanations for both internal teams and external customers.\nPreferred Qualifications:\n• Prior experience in the rail, transit, or transportation industry, particularly with Positive Train Control (PTC), Advanced Train Control System (ATCS) Specification 200, or ACSES systems.\n• Familiarity with RF communication systems and 220 MHz/900 MHz data radios (such as the GE TD2200).\n• Good English-speaking communication skill."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "4年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "TCP/IP",
+            "Linux",
+            "PHP",
+            "MySQL",
+            "C",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "TCP/IP、Linux、PHP、MySQL、C、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：4年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、精通、精通\n擅長工具：TCP/IP、Linux、PHP、MySQL、C、C++、Python\n工作技能：軟體程式設計、軟體工程系統開發"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "901c4",
+    "job_url": "https://www.104.com.tw/job/901c4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/901c4.json",
+    "raw_sha256": "5de82ec5df8188e64950f936ed0ed01c7a666ffdaea874173bb8133c5667da4b",
+    "requested_url": "https://www.104.com.tw/api/jobs/901c4"
+  }
+}

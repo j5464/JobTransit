@@ -1,0 +1,219 @@
+{
+  "company": {
+    "id": "1a2x6bm2ys",
+    "name": "TUV NORD Taiwan_台灣德國北德技術監護顧問股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "其他專案管理師",
+      "軟體工程師",
+      "軟體專案主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "檢查並協助客戶通過各項網路安全認證"
+        },
+        {
+          "children": [],
+          "text": "協助客戶整合各項標準(見下方：其他條件說明)，取得證照為佳"
+        },
+        {
+          "children": [],
+          "text": "國際網路功能趨勢與標準宣導"
+        },
+        {
+          "children": [],
+          "text": "檢驗前後測分析"
+        },
+        {
+          "children": [],
+          "text": "客戶提問解答"
+        }
+      ],
+      "text": "1. 檢查並協助客戶通過各項網路安全認證\n2. 協助客戶整合各項標準(見下方：其他條件說明)，取得證照為佳\n3. 國際網路功能趨勢與標準宣導\n4. 檢驗前後測分析\n5. 客戶提問解答\n此職務到職後，前期將會由Mentor帶領，從時程安排、了解客戶需求，到陪同客戶端服務，Mentorship後會接受各項專業規範培訓。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Cybersecurity Tech Manager"
+  },
+  "location": {
+    "address_raw": "台北市大安區敦化南路二段333號9樓A1室",
+    "raw": "台北市大安區敦化南路二段333號9樓A1室"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "IATF16949"
+        ],
+        "label": "擅長工具",
+        "text": "IATF16949"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具有CISSP,CISA,等網路安全國際認證或是網路安全相關法規如 NIST , ISO 21434 , IEC 62443 者佳\n2. 具有 IATF-16949、APQP、 ISO 26262 , IEC 61508 等國際認證佳\n3. 具車載電子產品開發、R&D經驗佳\n4. TOEIC 650分以上\n5. 會寫程式\n6. 會畫線路圖"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1. 具有CISSP,CISA,等網路安全國際認證或是網路安全相關法規如 NIST , ISO 21434 , IEC 62443 者佳\n2. 具有 IATF-16949、APQP、 ISO 26262 , IEC 61508 等國際認證佳\n3. 具車載電子產品開發、R&D經驗佳\n4. TOEIC 650分以上\n5. 會寫程式\n6. 會畫線路圖",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：IATF16949\n其他條件：1. 具有CISSP,CISA,等網路安全國際認證或是網路安全相關法規如 NIST , ISO 21434 , IEC 62443 者佳\n2. 具有 IATF-16949、APQP、 ISO 26262 , IEC 61508 等國際認證佳\n3. 具車載電子產品開發、R&D經驗佳\n4. TOEIC 650分以上\n5. 會寫程式\n6. 會畫線路圖",
+    "tools": [
+      "IATF16949"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 78
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:33:55+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 檢查並協助客戶通過各項網路安全認證\n2. 協助客戶整合各項標準(見下方：其他條件說明)，取得證照為佳\n3. 國際網路功能趨勢與標準宣導\n4. 檢驗前後測分析\n5. 客戶提問解答\n此職務到職後，前期將會由Mentor帶領，從時程安排、了解客戶需求，到陪同客戶端服務，Mentorship後會接受各項專業規範培訓。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "其他專案管理師",
+            "軟體工程師",
+            "軟體專案主管"
+          ],
+          "label": "職務類別",
+          "text": "其他專案管理師、軟體工程師、軟體專案主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區敦化南路二段333號9樓A1室",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 檢查並協助客戶通過各項網路安全認證\n2. 協助客戶整合各項標準(見下方：其他條件說明)，取得證照為佳\n3. 國際網路功能趨勢與標準宣導\n4. 檢驗前後測分析\n5. 客戶提問解答\n此職務到職後，前期將會由Mentor帶領，從時程安排、了解客戶需求，到陪同客戶端服務，Mentorship後會接受各項專業規範培訓。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "IATF16949"
+          ],
+          "label": "擅長工具",
+          "text": "IATF16949",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具有CISSP,CISA,等網路安全國際認證或是網路安全相關法規如 NIST , ISO 21434 , IEC 62443 者佳\n2. 具有 IATF-16949、APQP、 ISO 26262 , IEC 61508 等國際認證佳\n3. 具車載電子產品開發、R&D經驗佳\n4. TOEIC 650分以上\n5. 會寫程式\n6. 會畫線路圖",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：IATF16949\n其他條件：1. 具有CISSP,CISA,等網路安全國際認證或是網路安全相關法規如 NIST , ISO 21434 , IEC 62443 者佳\n2. 具有 IATF-16949、APQP、 ISO 26262 , IEC 61508 等國際認證佳\n3. 具車載電子產品開發、R&D經驗佳\n4. TOEIC 650分以上\n5. 會寫程式\n6. 會畫線路圖"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8dx0o",
+    "job_url": "https://www.104.com.tw/job/8dx0o",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8dx0o.json",
+    "raw_sha256": "de1555db804337251fd3714bb31b7cba184551a571546ded12d2b416c4de6862",
+    "requested_url": "https://www.104.com.tw/api/jobs/8dx0o"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "company": {
+    "id": "qxxv3p4",
+    "name": "台灣山二股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具備 3年以上PHP、Javascript、Vue的程式開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉My SQL資料庫"
+        },
+        {
+          "children": [],
+          "text": "良好的編寫文檔能力，責任心，良好的團隊合作意識"
+        },
+        {
+          "children": [],
+          "text": "工作積極主動，能夠主動獲取新知識。"
+        },
+        {
+          "children": [],
+          "text": "負責現有公司系統維護。"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項。"
+        }
+      ],
+      "text": "1. 具備 3年以上PHP、Javascript、Vue的程式開發經驗\n2. 熟悉My SQL資料庫\n3. 良好的編寫文檔能力，責任心，良好的團隊合作意識\n4. 工作積極主動，能夠主動獲取新知識。\n5. 負責現有公司系統維護。\n6. 主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【總部】軟體工程師"
+  },
+  "location": {
+    "address_raw": "台中市西屯區市政路386號24樓",
+    "raw": "台中市西屯區市政路386號24樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "工業管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、工業管理相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "PHP",
+          "AWS",
+          "JavaScript",
+          "VueJS",
+          "Angular"
+        ],
+        "label": "擅長工具",
+        "text": "PHP、AWS、JavaScript、VueJS、Angular"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟悉 AWS 或 Google Cloud 其中一種雲端平台。\n2. 熟悉至少一種前端框架如Angular、Vue、React等。\n3. 至少3年Web開發相關工作經驗。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "工業管理相關"
+    ],
+    "other_text": "1. 熟悉 AWS 或 Google Cloud 其中一種雲端平台。\n2. 熟悉至少一種前端框架如Angular、Vue、React等。\n3. 至少3年Web開發相關工作經驗。",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、工業管理相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：PHP、AWS、JavaScript、VueJS、Angular\n其他條件：1. 熟悉 AWS 或 Google Cloud 其中一種雲端平台。\n2. 熟悉至少一種前端框架如Angular、Vue、React等。\n3. 至少3年Web開發相關工作經驗。",
+    "tools": [
+      "PHP",
+      "AWS",
+      "JavaScript",
+      "VueJS",
+      "Angular"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 11
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:47:42+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 具備 3年以上PHP、Javascript、Vue的程式開發經驗\n2. 熟悉My SQL資料庫\n3. 良好的編寫文檔能力，責任心，良好的團隊合作意識\n4. 工作積極主動，能夠主動獲取新知識。\n5. 負責現有公司系統維護。\n6. 主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區市政路386號24樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 具備 3年以上PHP、Javascript、Vue的程式開發經驗\n2. 熟悉My SQL資料庫\n3. 良好的編寫文檔能力，責任心，良好的團隊合作意識\n4. 工作積極主動，能夠主動獲取新知識。\n5. 負責現有公司系統維護。\n6. 主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "工業管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、工業管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PHP",
+            "AWS",
+            "JavaScript",
+            "VueJS",
+            "Angular"
+          ],
+          "label": "擅長工具",
+          "text": "PHP、AWS、JavaScript、VueJS、Angular",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟悉 AWS 或 Google Cloud 其中一種雲端平台。\n2. 熟悉至少一種前端框架如Angular、Vue、React等。\n3. 至少3年Web開發相關工作經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、工業管理相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：PHP、AWS、JavaScript、VueJS、Angular\n其他條件：1. 熟悉 AWS 或 Google Cloud 其中一種雲端平台。\n2. 熟悉至少一種前端框架如Angular、Vue、React等。\n3. 至少3年Web開發相關工作經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8aa5l",
+    "job_url": "https://www.104.com.tw/job/8aa5l",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8aa5l.json",
+    "raw_sha256": "90c503f39e96e99da127a82b865424f6f6b5916719312762312a4a5a4adec823",
+    "requested_url": "https://www.104.com.tw/api/jobs/8aa5l"
+  }
+}

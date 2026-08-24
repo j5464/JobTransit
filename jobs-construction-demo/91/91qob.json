@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "1a2x6bn8xb",
+    "name": "彼特思方舟股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料科學家",
+      "資料工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Build dashboards"
+        },
+        {
+          "children": [],
+          "text": "Build, iterate on, and maintain dashboards."
+        },
+        {
+          "children": [],
+          "text": "Take dashboards through the full lifecycle: requirements gathering, prototyping, build, review, deployment, and ongoing maintenance."
+        },
+        {
+          "children": [],
+          "text": "Learn the data"
+        },
+        {
+          "children": [],
+          "text": "Develop a solid working knowledge of the underlying datasets that power the business — what is in them, how they connect, where the pitfalls are."
+        },
+        {
+          "children": [],
+          "text": "Write clean, well-documented SQL and Python to extract, transform, and analyse data."
+        },
+        {
+          "children": [],
+          "text": "Ask good questions: about the data, about the business, about whether a metric is actually measuring what it claims to measure."
+        },
+        {
+          "children": [],
+          "text": "Support the team"
+        },
+        {
+          "children": [],
+          "text": "Pick up smaller analyses, ad-hoc requests, and follow-up work to keep the team moving."
+        },
+        {
+          "children": [],
+          "text": "Document your work clearly so others can build on it."
+        },
+        {
+          "children": [],
+          "text": "Grow into more complex projects over time as your skills develop."
+        },
+        {
+          "children": [],
+          "text": "You are proficient in Python and SQL"
+        },
+        {
+          "children": [],
+          "text": "Solid working SQL — joins, aggregations, CTEs, window functions; able to write queries that other people can read and trust."
+        },
+        {
+          "children": [],
+          "text": "Comfortable in Python for data work — pandas at minimum, with willingness to learn PySpark and the broader stack."
+        },
+        {
+          "children": [],
+          "text": "Some exposure to modern data tools (Databricks, dbt, Tableau, Looker, or similar) is a plus — but more important is the willingness to learn."
+        },
+        {
+          "children": [],
+          "text": "You have a good feel for data"
+        },
+        {
+          "children": [],
+          "text": "Some experience working with real datasets — through internships, projects, coursework, or a previous role."
+        },
+        {
+          "children": [],
+          "text": "You enjoy digging into data to understand what is going on; you are not satisfied with a query that runs but produces a number you cannot explain."
+        },
+        {
+          "children": [],
+          "text": "Basic instincts for data quality — you notice when something looks off."
+        }
+      ],
+      "text": "About the Role:\nWe are hiring a Junior Data Scientist / Analytics Engineer to join the BI team. This is the role for someone early in their career who wants to learn the craft of analytics in a high-velocity, data-rich environment — and who genuinely enjoys the work of turning numbers into decisions.\nMost of your day will be spent building dashboards and working with seniors or business stakeholders to understand what they need. You will be expected to develop a strong working knowledge of the underlying datasets — what they contain, what they mean, and how the business uses them. You will be supported by more senior people on the team, but the expectation is that you grow quickly and start owning your work end-to-end.\nThis is the role where you learn the business through the data — and learn the data through the business.\nResponsibilities:\n1. Build dashboards\n-Build, iterate on, and maintain dashboards.\n-Take dashboards through the full lifecycle: requirements gathering, prototyping, build, review, deployment, and ongoing maintenance.\n2. Learn the data\n-Develop a solid working knowledge of the underlying datasets that power the business — what is in them, how they connect, where the pitfalls are.\n-Write clean, well-documented SQL and Python to extract, transform, and analyse data.\n-Ask good questions: about the data, about the business, about whether a metric is actually measuring what it claims to measure.\n3. Support the team\n-Pick up smaller analyses, ad-hoc requests, and follow-up work to keep the team moving.\n-Document your work clearly so others can build on it.\n-Grow into more complex projects over time as your skills develop.\nQualifications:\n1. You are proficient in Python and SQL\n-Solid working SQL — joins, aggregations, CTEs, window functions; able to write queries that other people can read and trust.\n-Comfortable in Python for data work — pandas at minimum, with willingness to learn PySpark and the broader stack.\n-Some exposure to modern data tools (Databricks, dbt, Tableau, Looker, or similar) is a plus — but more important is the willingness to learn.\n2. You have a good feel for data\n-Some experience working with real datasets — through internships, projects, coursework, or a previous role.\n-You enjoy digging into data to understand what is going on; you are not satisfied with a query that runs but produces a number you cannot explain.\n-Basic instincts for data quality — you notice when something looks off."
+    },
+    "employment_type_raw": "全職",
+    "title": "Data Scientist/Analytics Engineer"
+  },
+  "location": {
+    "address_raw": "台北市信義區松仁路32號",
+    "raw": "台北市信義區松仁路32號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "ETL",
+          "Tableau"
+        ],
+        "label": "擅長工具",
+        "text": "ETL、Tableau"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：ETL、Tableau",
+    "tools": [
+      "ETL",
+      "Tableau"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 87
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:56:45+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "About the Role:\nWe are hiring a Junior Data Scientist / Analytics Engineer to join the BI team. This is the role for someone early in their career who wants to learn the craft of analytics in a high-velocity, data-rich environment — and who genuinely enjoys the work of turning numbers into decisions.\nMost of your day will be spent building dashboards and working with seniors or business stakeholders to understand what they need. You will be expected to develop a strong working knowledge of the underlying datasets — what they contain, what they mean, and how the business uses them. You will be supported by more senior people on the team, but the expectation is that you grow quickly and start owning your work end-to-end.\nThis is the role where you learn the business through the data — and learn the data through the business.\nResponsibilities:\n1. Build dashboards\n-Build, iterate on, and maintain dashboards.\n-Take dashboards through the full lifecycle: requirements gathering, prototyping, build, review, deployment, and ongoing maintenance.\n2. Learn the data\n-Develop a solid working knowledge of the underlying datasets that power the business — what is in them, how they connect, where the pitfalls are.\n-Write clean, well-documented SQL and Python to extract, transform, and analyse data.\n-Ask good questions: about the data, about the business, about whether a metric is actually measuring what it claims to measure.\n3. Support the team\n-Pick up smaller analyses, ad-hoc requests, and follow-up work to keep the team moving.\n-Document your work clearly so others can build on it.\n-Grow into more complex projects over time as your skills develop.\nQualifications:\n1. You are proficient in Python and SQL\n-Solid working SQL — joins, aggregations, CTEs, window functions; able to write queries that other people can read and trust.\n-Comfortable in Python for data work — pandas at minimum, with willingness to learn PySpark and the broader stack.\n-Some exposure to modern data tools (Databricks, dbt, Tableau, Looker, or similar) is a plus — but more important is the willingness to learn.\n2. You have a good feel for data\n-Some experience working with real datasets — through internships, projects, coursework, or a previous role.\n-You enjoy digging into data to understand what is going on; you are not satisfied with a query that runs but produces a number you cannot explain.\n-Basic instincts for data quality — you notice when something looks off.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料科學家",
+            "資料工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料科學家、資料工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區松仁路32號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "About the Role:\nWe are hiring a Junior Data Scientist / Analytics Engineer to join the BI team. This is the role for someone early in their career who wants to learn the craft of analytics in a high-velocity, data-rich environment — and who genuinely enjoys the work of turning numbers into decisions.\nMost of your day will be spent building dashboards and working with seniors or business stakeholders to understand what they need. You will be expected to develop a strong working knowledge of the underlying datasets — what they contain, what they mean, and how the business uses them. You will be supported by more senior people on the team, but the expectation is that you grow quickly and start owning your work end-to-end.\nThis is the role where you learn the business through the data — and learn the data through the business.\nResponsibilities:\n1. Build dashboards\n-Build, iterate on, and maintain dashboards.\n-Take dashboards through the full lifecycle: requirements gathering, prototyping, build, review, deployment, and ongoing maintenance.\n2. Learn the data\n-Develop a solid working knowledge of the underlying datasets that power the business — what is in them, how they connect, where the pitfalls are.\n-Write clean, well-documented SQL and Python to extract, transform, and analyse data.\n-Ask good questions: about the data, about the business, about whether a metric is actually measuring what it claims to measure.\n3. Support the team\n-Pick up smaller analyses, ad-hoc requests, and follow-up work to keep the team moving.\n-Document your work clearly so others can build on it.\n-Grow into more complex projects over time as your skills develop.\nQualifications:\n1. You are proficient in Python and SQL\n-Solid working SQL — joins, aggregations, CTEs, window functions; able to write queries that other people can read and trust.\n-Comfortable in Python for data work — pandas at minimum, with willingness to learn PySpark and the broader stack.\n-Some exposure to modern data tools (Databricks, dbt, Tableau, Looker, or similar) is a plus — but more important is the willingness to learn.\n2. You have a good feel for data\n-Some experience working with real datasets — through internships, projects, coursework, or a previous role.\n-You enjoy digging into data to understand what is going on; you are not satisfied with a query that runs but produces a number you cannot explain.\n-Basic instincts for data quality — you notice when something looks off."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ETL",
+            "Tableau"
+          ],
+          "label": "擅長工具",
+          "text": "ETL、Tableau",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：ETL、Tableau"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "91qob",
+    "job_url": "https://www.104.com.tw/job/91qob",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91qob.json",
+    "raw_sha256": "38198a5f0a0a09398e05d5d9bf98eb94cfa6213716eaae8831aefc1b36153633",
+    "requested_url": "https://www.104.com.tw/api/jobs/91qob"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "company": {
+    "id": "7mfclcg",
+    "name": "楓橡科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "軟體專案主管",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "需求訪談、系統分析"
+        },
+        {
+          "children": [],
+          "text": "撰寫系統規格、分析設計等相關文件"
+        },
+        {
+          "children": [],
+          "text": "模組系統功能開發整合驗證等"
+        }
+      ],
+      "text": "1.需求訪談、系統分析\n2.撰寫系統規格、分析設計等相關文件\n3.模組系統功能開發整合驗證等"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統分析師"
+  },
+  "location": {
+    "address_raw": "台北市南港區昆陽街16號10樓",
+    "raw": "台北市南港區昆陽街16號10樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "MS SQL",
+          "Linux",
+          "JSP"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、MS SQL、Linux、JSP"
+      },
+      {
+        "items": [
+          "系統整合分析",
+          "軟體工程系統開發",
+          "模組化系統設計"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析、軟體工程系統開發、模組化系統設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟悉軟體開發流程\n2. 具備資料庫操作及設計能力\n3. 熟悉Microsoft SQL Server、ASP.NET 或JSP等相關技術\n4. 具備良好的溝通協調能力\n5. 具有問題解決能力及團隊合作精神"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 熟悉軟體開發流程\n2. 具備資料庫操作及設計能力\n3. 熟悉Microsoft SQL Server、ASP.NET 或JSP等相關技術\n4. 具備良好的溝通協調能力\n5. 具有問題解決能力及團隊合作精神",
+    "skills": [
+      "系統整合分析",
+      "軟體工程系統開發",
+      "模組化系統設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：ASP.NET、C#、MS SQL、Linux、JSP\n工作技能：系統整合分析、軟體工程系統開發、模組化系統設計\n其他條件：1. 熟悉軟體開發流程\n2. 具備資料庫操作及設計能力\n3. 熟悉Microsoft SQL Server、ASP.NET 或JSP等相關技術\n4. 具備良好的溝通協調能力\n5. 具有問題解決能力及團隊合作精神",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "MS SQL",
+      "Linux",
+      "JSP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 48
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:19:21+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.需求訪談、系統分析\n2.撰寫系統規格、分析設計等相關文件\n3.模組系統功能開發整合驗證等",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "軟體專案主管",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、軟體專案主管、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區昆陽街16號10樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.需求訪談、系統分析\n2.撰寫系統規格、分析設計等相關文件\n3.模組系統功能開發整合驗證等"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "MS SQL",
+            "Linux",
+            "JSP"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、MS SQL、Linux、JSP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析",
+            "軟體工程系統開發",
+            "模組化系統設計"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析、軟體工程系統開發、模組化系統設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟悉軟體開發流程\n2. 具備資料庫操作及設計能力\n3. 熟悉Microsoft SQL Server、ASP.NET 或JSP等相關技術\n4. 具備良好的溝通協調能力\n5. 具有問題解決能力及團隊合作精神",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：ASP.NET、C#、MS SQL、Linux、JSP\n工作技能：系統整合分析、軟體工程系統開發、模組化系統設計\n其他條件：1. 熟悉軟體開發流程\n2. 具備資料庫操作及設計能力\n3. 熟悉Microsoft SQL Server、ASP.NET 或JSP等相關技術\n4. 具備良好的溝通協調能力\n5. 具有問題解決能力及團隊合作精神"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8m7ua",
+    "job_url": "https://www.104.com.tw/job/8m7ua",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8m7ua.json",
+    "raw_sha256": "056b1b47aa87e37a7565f270433bdad65cffc212faf2611d7a934bc99d14c38b",
+    "requested_url": "https://www.104.com.tw/api/jobs/8m7ua"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "company": {
+    "id": "1a2x6bjce8",
+    "name": "緯豆集團_點點心股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具備 Linux/Unix 與 Windows Server 環境之維運、資安管理、備份還原與問題排查能力。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Oracle、MSSQL、MySQL 等關聯式資料庫，具資料庫設計、效能調校、備援規劃與資料安全控管經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備基本系統架構概念，能理解前後端、資料庫、API、權限控管、部署流程與系統整合方式。"
+        },
+        {
+          "children": [],
+          "text": "具備 APP 開發經驗，熟悉 iOS/Android 開發流程；有 React Native / Expo 專案管理、SDK 升級、打包上架經驗尤佳。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 AI 輔助開發工具或工作流程，例如 ChatGPT、Claude、GitHub Copilot、Cursor 等，能運用 AI 協助需求拆解、程式開發、除錯、重構、測試與文件產出。"
+        },
+        {
+          "children": [],
+          "text": "具備自主學習與獨立解決問題能力，能面對新技術快速研究、評估可行方案並落地執行。"
+        },
+        {
+          "children": [],
+          "text": "具良好專案管理、跨部門溝通與團隊協作能力，能帶領或協助團隊持續優化資訊流程、系統穩定性與開發效率。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版本控管、CI/CD、系統監控、日誌分析或自動化維運流程者佳。"
+        }
+      ],
+      "text": "1. 具備 Linux/Unix 與 Windows Server 環境之維運、資安管理、備份還原與問題排查能力。\n2. 熟悉 Oracle、MSSQL、MySQL 等關聯式資料庫，具資料庫設計、效能調校、備援規劃與資料安全控管經驗。\n3. 具備基本系統架構概念，能理解前後端、資料庫、API、權限控管、部署流程與系統整合方式。\n4. 具備 APP 開發經驗，熟悉 iOS/Android 開發流程；有 React Native / Expo 專案管理、SDK 升級、打包上架經驗尤佳。\n5. 熟悉 AI 輔助開發工具或工作流程，例如 ChatGPT、Claude、GitHub Copilot、Cursor 等，能運用 AI 協助需求拆解、程式開發、除錯、重構、測試與文件產出。\n6. 具備自主學習與獨立解決問題能力，能面對新技術快速研究、評估可行方案並落地執行。\n7. 具良好專案管理、跨部門溝通與團隊協作能力，能帶領或協助團隊持續優化資訊流程、系統穩定性與開發效率。\n8. 熟悉 Git 版本控管、CI/CD、系統監控、日誌分析或自動化維運流程者佳。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【緯豆集團 資訊部】副理"
+  },
+  "location": {
+    "address_raw": "台北市信義區忠孝東路五段510號",
+    "raw": "台北市信義區忠孝東路五段510號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件\n1. 有 AI API 串接經驗，例如 OpenAI API、Azure OpenAI、Gemini、Claude API 等。\n2. 了解 RAG、向量資料庫、內部知識庫、客服機器人或企業 AI 工具導入經驗。\n3. 有雲端平台經驗，例如 AWS、Azure、GCP。\n4. 有 Docker、容器化部署、Nginx、IIS、反向代理或高可用架構經驗。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "加分條件\n1. 有 AI API 串接經驗，例如 OpenAI API、Azure OpenAI、Gemini、Claude API 等。\n2. 了解 RAG、向量資料庫、內部知識庫、客服機器人或企業 AI 工具導入經驗。\n3. 有雲端平台經驗，例如 AWS、Azure、GCP。\n4. 有 Docker、容器化部署、Nginx、IIS、反向代理或高可用架構經驗。",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：專科以上\n其他條件：加分條件\n1. 有 AI API 串接經驗，例如 OpenAI API、Azure OpenAI、Gemini、Claude API 等。\n2. 了解 RAG、向量資料庫、內部知識庫、客服機器人或企業 AI 工具導入經驗。\n3. 有雲端平台經驗，例如 AWS、Azure、GCP。\n4. 有 Docker、容器化部署、Nginx、IIS、反向代理或高可用架構經驗。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 40
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:00:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 具備 Linux/Unix 與 Windows Server 環境之維運、資安管理、備份還原與問題排查能力。\n2. 熟悉 Oracle、MSSQL、MySQL 等關聯式資料庫，具資料庫設計、效能調校、備援規劃與資料安全控管經驗。\n3. 具備基本系統架構概念，能理解前後端、資料庫、API、權限控管、部署流程與系統整合方式。\n4. 具備 APP 開發經驗，熟悉 iOS/Android 開發流程；有 React Native / Expo 專案管理、SDK 升級、打包上架經驗尤佳。\n5. 熟悉 AI 輔助開發工具或工作流程，例如 ChatGPT、Claude、GitHub Copilot、Cursor 等，能運用 AI 協助需求拆解、程式開發、除錯、重構、測試與文件產出。\n6. 具備自主學習與獨立解決問題能力，能面對新技術快速研究、評估可行方案並落地執行。\n7. 具良好專案管理、跨部門溝通與團隊協作能力，能帶領或協助團隊持續優化資訊流程、系統穩定性與開發效率。\n8. 熟悉 Git 版本控管、CI/CD、系統監控、日誌分析或自動化維運流程者佳。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區忠孝東路五段510號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 具備 Linux/Unix 與 Windows Server 環境之維運、資安管理、備份還原與問題排查能力。\n2. 熟悉 Oracle、MSSQL、MySQL 等關聯式資料庫，具資料庫設計、效能調校、備援規劃與資料安全控管經驗。\n3. 具備基本系統架構概念，能理解前後端、資料庫、API、權限控管、部署流程與系統整合方式。\n4. 具備 APP 開發經驗，熟悉 iOS/Android 開發流程；有 React Native / Expo 專案管理、SDK 升級、打包上架經驗尤佳。\n5. 熟悉 AI 輔助開發工具或工作流程，例如 ChatGPT、Claude、GitHub Copilot、Cursor 等，能運用 AI 協助需求拆解、程式開發、除錯、重構、測試與文件產出。\n6. 具備自主學習與獨立解決問題能力，能面對新技術快速研究、評估可行方案並落地執行。\n7. 具良好專案管理、跨部門溝通與團隊協作能力，能帶領或協助團隊持續優化資訊流程、系統穩定性與開發效率。\n8. 熟悉 Git 版本控管、CI/CD、系統監控、日誌分析或自動化維運流程者佳。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件\n1. 有 AI API 串接經驗，例如 OpenAI API、Azure OpenAI、Gemini、Claude API 等。\n2. 了解 RAG、向量資料庫、內部知識庫、客服機器人或企業 AI 工具導入經驗。\n3. 有雲端平台經驗，例如 AWS、Azure、GCP。\n4. 有 Docker、容器化部署、Nginx、IIS、反向代理或高可用架構經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：專科以上\n其他條件：加分條件\n1. 有 AI API 串接經驗，例如 OpenAI API、Azure OpenAI、Gemini、Claude API 等。\n2. 了解 RAG、向量資料庫、內部知識庫、客服機器人或企業 AI 工具導入經驗。\n3. 有雲端平台經驗，例如 AWS、Azure、GCP。\n4. 有 Docker、容器化部署、Nginx、IIS、反向代理或高可用架構經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8umbw",
+    "job_url": "https://www.104.com.tw/job/8umbw",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8umbw.json",
+    "raw_sha256": "8da2b6347df8aeb91bcb9239383cee607d839578b57de44e72058d1ae32154a9",
+    "requested_url": "https://www.104.com.tw/api/jobs/8umbw"
+  }
+}

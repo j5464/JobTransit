@@ -1,0 +1,369 @@
+{
+  "company": {
+    "id": "b0ac1r4",
+    "name": "久泰精業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "資料工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "處理資料並建立模型。"
+        },
+        {
+          "children": [],
+          "text": "研究並開發 AI 技術。"
+        },
+        {
+          "children": [],
+          "text": "優化和調整現有的 AI 模型和系統。"
+        },
+        {
+          "children": [],
+          "text": "與其他團隊成員合作，開發 AI 專案。"
+        },
+        {
+          "children": [],
+          "text": "撰寫技術文件和報告。"
+        },
+        {
+          "children": [],
+          "text": "根據需求，進行其他相關工作。"
+        }
+      ],
+      "text": "1. 處理資料並建立模型。\n2. 研究並開發 AI 技術。\n3. 優化和調整現有的 AI 模型和系統。\n4. 與其他團隊成員合作，開發 AI 專案。\n5. 撰寫技術文件和報告。\n6. 根據需求，進行其他相關工作。\nAI 技術正變得越來越普及，從設計到製造和品質檢測，都需要 AI 工程師的專業知識和技能。此職位在行業中有著良好的職業前景和發展機會。\n如果您符合以上要求，並對這個職位感興趣，請盡快申請。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI 落地師 (AI Implementation Specialist)"
+  },
+  "location": {
+    "address_raw": "雲林縣斗六市榴中里民有街36號",
+    "raw": "雲林縣斗六市榴中里民有街36號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Windows 10",
+          "Windows Server 2019",
+          "C#",
+          "Java",
+          "PHP",
+          "Python",
+          "Visual C#",
+          "Visual C++",
+          "MySQL",
+          "MS SQL",
+          "HTML",
+          "JavaScript",
+          "CSS",
+          "jQuery",
+          "ActiveX",
+          "HTTP",
+          "LAN",
+          "TCP/IP",
+          "Adobe Acrobat",
+          "Excel",
+          "PowerPoint",
+          "Word",
+          "Power BI​"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Windows 10、Windows Server 2019、C#、Java、PHP、Python、Visual C#、Visual C++、MySQL、MS SQL、HTML、JavaScript、CSS、jQuery、ActiveX、HTTP、LAN、TCP/IP、Adobe Acrobat、Excel、PowerPoint、Word、Power BI​"
+      },
+      {
+        "items": [
+          "伺服器網站管理維護",
+          "資料備份與復原",
+          "作業系統基本操作",
+          "資訊設備環境設定",
+          "系統架構規劃",
+          "系統維護操作",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "資料庫系統管理維護",
+          "資料庫程式設計",
+          "MES工廠執行系統規劃管理",
+          "系統架構規劃與維護",
+          "系統導入",
+          "報表開發",
+          "設計網路安全系統",
+          "網路安全架構分析與設計",
+          "網路系統配置",
+          "文書處理軟體操作",
+          "專案管理軟體操作"
+        ],
+        "label": "工作技能",
+        "text": "伺服器網站管理維護、資料備份與復原、作業系統基本操作、資訊設備環境設定、系統架構規劃、系統維護操作、系統整合分析、軟體工程系統開發、軟體程式設計、資料庫系統管理維護、資料庫程式設計、MES工廠執行系統規劃管理、系統架構規劃與維護、系統導入、報表開發、設計網路安全系統、網路安全架構分析與設計、網路系統配置、文書處理軟體操作、專案管理軟體操作"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "具備 Vibe Coding 實戰思維，能精準描述邏輯引導 AI 生成穩定程式碼。\n• 擁有至少 2 年以上的資料庫語法撰寫與架構維護經驗。\n• 理解 API 串接邏輯（Restful API / JSON 處理）。\n【加分條件】\n• 有 RAG (檢索增強生成) 或向量資料庫 (Vector Database) 實作經驗。\n• 對新技術有高度敏感度，能自主探索並測試最新的 AI 開發工具。\n• 具備將複雜業務邏輯轉化為技術規格的溝通能力。\n• 如有攜帶作品可加分"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "具備 Vibe Coding 實戰思維，能精準描述邏輯引導 AI 生成穩定程式碼。\n• 擁有至少 2 年以上的資料庫語法撰寫與架構維護經驗。\n• 理解 API 串接邏輯（Restful API / JSON 處理）。\n【加分條件】\n• 有 RAG (檢索增強生成) 或向量資料庫 (Vector Database) 實作經驗。\n• 對新技術有高度敏感度，能自主探索並測試最新的 AI 開發工具。\n• 具備將複雜業務邏輯轉化為技術規格的溝通能力。\n• 如有攜帶作品可加分",
+    "skills": [
+      "伺服器網站管理維護",
+      "資料備份與復原",
+      "作業系統基本操作",
+      "資訊設備環境設定",
+      "系統架構規劃",
+      "系統維護操作",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "資料庫系統管理維護",
+      "資料庫程式設計",
+      "MES工廠執行系統規劃管理",
+      "系統架構規劃與維護",
+      "系統導入",
+      "報表開發",
+      "設計網路安全系統",
+      "網路安全架構分析與設計",
+      "網路系統配置",
+      "文書處理軟體操作",
+      "專案管理軟體操作"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Windows 10、Windows Server 2019、C#、Java、PHP、Python、Visual C#、Visual C++、MySQL、MS SQL、HTML、JavaScript、CSS、jQuery、ActiveX、HTTP、LAN、TCP/IP、Adobe Acrobat、Excel、PowerPoint、Word、Power BI​\n工作技能：伺服器網站管理維護、資料備份與復原、作業系統基本操作、資訊設備環境設定、系統架構規劃、系統維護操作、系統整合分析、軟體工程系統開發、軟體程式設計、資料庫系統管理維護、資料庫程式設計、MES工廠執行系統規劃管理、系統架構規劃與維護、系統導入、報表開發、設計網路安全系統、網路安全架構分析與設計、網路系統配置、文書處理軟體操作、專案管理軟體操作\n其他條件：具備 Vibe Coding 實戰思維，能精準描述邏輯引導 AI 生成穩定程式碼。\n• 擁有至少 2 年以上的資料庫語法撰寫與架構維護經驗。\n• 理解 API 串接邏輯（Restful API / JSON 處理）。\n【加分條件】\n• 有 RAG (檢索增強生成) 或向量資料庫 (Vector Database) 實作經驗。\n• 對新技術有高度敏感度，能自主探索並測試最新的 AI 開發工具。\n• 具備將複雜業務邏輯轉化為技術規格的溝通能力。\n• 如有攜帶作品可加分",
+    "tools": [
+      "Linux",
+      "Windows 10",
+      "Windows Server 2019",
+      "C#",
+      "Java",
+      "PHP",
+      "Python",
+      "Visual C#",
+      "Visual C++",
+      "MySQL",
+      "MS SQL",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "jQuery",
+      "ActiveX",
+      "HTTP",
+      "LAN",
+      "TCP/IP",
+      "Adobe Acrobat",
+      "Excel",
+      "PowerPoint",
+      "Word",
+      "Power BI​"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 38
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:56:06+08:00"
+  },
+  "salary": {
+    "raw": "月薪42,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 處理資料並建立模型。\n2. 研究並開發 AI 技術。\n3. 優化和調整現有的 AI 模型和系統。\n4. 與其他團隊成員合作，開發 AI 專案。\n5. 撰寫技術文件和報告。\n6. 根據需求，進行其他相關工作。\nAI 技術正變得越來越普及，從設計到製造和品質檢測，都需要 AI 工程師的專業知識和技能。此職位在行業中有著良好的職業前景和發展機會。\n如果您符合以上要求，並對這個職位感興趣，請盡快申請。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "資料工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、資料工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪42,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "雲林縣斗六市榴中里民有街36號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 處理資料並建立模型。\n2. 研究並開發 AI 技術。\n3. 優化和調整現有的 AI 模型和系統。\n4. 與其他團隊成員合作，開發 AI 專案。\n5. 撰寫技術文件和報告。\n6. 根據需求，進行其他相關工作。\nAI 技術正變得越來越普及，從設計到製造和品質檢測，都需要 AI 工程師的專業知識和技能。此職位在行業中有著良好的職業前景和發展機會。\n如果您符合以上要求，並對這個職位感興趣，請盡快申請。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Windows 10",
+            "Windows Server 2019",
+            "C#",
+            "Java",
+            "PHP",
+            "Python",
+            "Visual C#",
+            "Visual C++",
+            "MySQL",
+            "MS SQL",
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "jQuery",
+            "ActiveX",
+            "HTTP",
+            "LAN",
+            "TCP/IP",
+            "Adobe Acrobat",
+            "Excel",
+            "PowerPoint",
+            "Word",
+            "Power BI​"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Windows 10、Windows Server 2019、C#、Java、PHP、Python、Visual C#、Visual C++、MySQL、MS SQL、HTML、JavaScript、CSS、jQuery、ActiveX、HTTP、LAN、TCP/IP、Adobe Acrobat、Excel、PowerPoint、Word、Power BI​",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "伺服器網站管理維護",
+            "資料備份與復原",
+            "作業系統基本操作",
+            "資訊設備環境設定",
+            "系統架構規劃",
+            "系統維護操作",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "資料庫系統管理維護",
+            "資料庫程式設計",
+            "MES工廠執行系統規劃管理",
+            "系統架構規劃與維護",
+            "系統導入",
+            "報表開發",
+            "設計網路安全系統",
+            "網路安全架構分析與設計",
+            "網路系統配置",
+            "文書處理軟體操作",
+            "專案管理軟體操作"
+          ],
+          "label": "工作技能",
+          "text": "伺服器網站管理維護、資料備份與復原、作業系統基本操作、資訊設備環境設定、系統架構規劃、系統維護操作、系統整合分析、軟體工程系統開發、軟體程式設計、資料庫系統管理維護、資料庫程式設計、MES工廠執行系統規劃管理、系統架構規劃與維護、系統導入、報表開發、設計網路安全系統、網路安全架構分析與設計、網路系統配置、文書處理軟體操作、專案管理軟體操作",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "具備 Vibe Coding 實戰思維，能精準描述邏輯引導 AI 生成穩定程式碼。\n• 擁有至少 2 年以上的資料庫語法撰寫與架構維護經驗。\n• 理解 API 串接邏輯（Restful API / JSON 處理）。\n【加分條件】\n• 有 RAG (檢索增強生成) 或向量資料庫 (Vector Database) 實作經驗。\n• 對新技術有高度敏感度，能自主探索並測試最新的 AI 開發工具。\n• 具備將複雜業務邏輯轉化為技術規格的溝通能力。\n• 如有攜帶作品可加分",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Windows 10、Windows Server 2019、C#、Java、PHP、Python、Visual C#、Visual C++、MySQL、MS SQL、HTML、JavaScript、CSS、jQuery、ActiveX、HTTP、LAN、TCP/IP、Adobe Acrobat、Excel、PowerPoint、Word、Power BI​\n工作技能：伺服器網站管理維護、資料備份與復原、作業系統基本操作、資訊設備環境設定、系統架構規劃、系統維護操作、系統整合分析、軟體工程系統開發、軟體程式設計、資料庫系統管理維護、資料庫程式設計、MES工廠執行系統規劃管理、系統架構規劃與維護、系統導入、報表開發、設計網路安全系統、網路安全架構分析與設計、網路系統配置、文書處理軟體操作、專案管理軟體操作\n其他條件：具備 Vibe Coding 實戰思維，能精準描述邏輯引導 AI 生成穩定程式碼。\n• 擁有至少 2 年以上的資料庫語法撰寫與架構維護經驗。\n• 理解 API 串接邏輯（Restful API / JSON 處理）。\n【加分條件】\n• 有 RAG (檢索增強生成) 或向量資料庫 (Vector Database) 實作經驗。\n• 對新技術有高度敏感度，能自主探索並測試最新的 AI 開發工具。\n• 具備將複雜業務邏輯轉化為技術規格的溝通能力。\n• 如有攜帶作品可加分"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8wfqn",
+    "job_url": "https://www.104.com.tw/job/8wfqn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8wfqn.json",
+    "raw_sha256": "1d1c6da5cb3decbd2a75001faa56525f2f54886fbb545421b1b3fa4eb61f6d07",
+    "requested_url": "https://www.104.com.tw/api/jobs/8wfqn"
+  }
+}

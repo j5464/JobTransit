@@ -1,0 +1,212 @@
+{
+  "company": {
+    "id": "1a2x6bn8f6",
+    "name": "積木媒體行銷股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "網頁設計師",
+      "Internet程式設計師",
+      "平面設計／美編"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "使用技術及流程："
+        },
+        {
+          "children": [],
+          "text": "熟悉HTML, CSS"
+        },
+        {
+          "children": [],
+          "text": "熟悉頁面切版"
+        },
+        {
+          "children": [],
+          "text": "熟悉JavaScript"
+        },
+        {
+          "children": [],
+          "text": "熟悉Ai、Ps"
+        },
+        {
+          "children": [],
+          "text": "熟悉Sketch、Figma更佳"
+        },
+        {
+          "children": [],
+          "text": "有串接API經驗"
+        },
+        {
+          "children": [],
+          "text": "福利制度："
+        }
+      ],
+      "text": "網站UI&UX、RWD網頁設計、App設計\n客戶溝通設計方向、頁面設計、與前端工程師合作\n【基本技術】\n熟悉HTML5，CSS3，JavaScript基本能力\n熟悉RWD、瀏覽器兼容性調整\n懂得SEO配置\n需提供個人網站或線上作品集\n2.使用技術及流程：\n- 熟悉HTML, CSS\n- 熟悉頁面切版\n- 熟悉JavaScript\n- 熟悉Ai、Ps\n- 熟悉Sketch、Figma更佳\n- 有串接API經驗\n3.福利制度：\n週休二日、勞保、健保、勞退\n三節獎金、績效獎金、年終獎金、不定期員工旅遊\n定期聚餐、慶生會\n零食飲品、年輕氣氛"
+    },
+    "employment_type_raw": "全職",
+    "title": "◎視覺設計師 / 網頁設計"
+  },
+  "location": {
+    "address_raw": "台北市信義區(依照公司規定分派)",
+    "raw": "台北市信義區(依照公司規定分派)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "HTML",
+          "JavaScript",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "HTML、JavaScript、CSS"
+      },
+      {
+        "items": [
+          "網路程式設計",
+          "電腦排版設計",
+          "電腦繪圖軟體操作"
+        ],
+        "label": "工作技能",
+        "text": "網路程式設計、電腦排版設計、電腦繪圖軟體操作"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "網路程式設計",
+      "電腦排版設計",
+      "電腦繪圖軟體操作"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科以上\n擅長工具：HTML、JavaScript、CSS\n工作技能：網路程式設計、電腦排版設計、電腦繪圖軟體操作",
+    "tools": [
+      "HTML",
+      "JavaScript",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 53
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:31:36+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "網站UI&UX、RWD網頁設計、App設計\n客戶溝通設計方向、頁面設計、與前端工程師合作\n【基本技術】\n熟悉HTML5，CSS3，JavaScript基本能力\n熟悉RWD、瀏覽器兼容性調整\n懂得SEO配置\n需提供個人網站或線上作品集\n2.使用技術及流程：\n- 熟悉HTML, CSS\n- 熟悉頁面切版\n- 熟悉JavaScript\n- 熟悉Ai、Ps\n- 熟悉Sketch、Figma更佳\n- 有串接API經驗\n3.福利制度：\n週休二日、勞保、健保、勞退\n三節獎金、績效獎金、年終獎金、不定期員工旅遊\n定期聚餐、慶生會\n零食飲品、年輕氣氛",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "網頁設計師",
+            "Internet程式設計師",
+            "平面設計／美編"
+          ],
+          "label": "職務類別",
+          "text": "網頁設計師、Internet程式設計師、平面設計／美編",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區(依照公司規定分派)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "網站UI&UX、RWD網頁設計、App設計\n客戶溝通設計方向、頁面設計、與前端工程師合作\n【基本技術】\n熟悉HTML5，CSS3，JavaScript基本能力\n熟悉RWD、瀏覽器兼容性調整\n懂得SEO配置\n需提供個人網站或線上作品集\n2.使用技術及流程：\n- 熟悉HTML, CSS\n- 熟悉頁面切版\n- 熟悉JavaScript\n- 熟悉Ai、Ps\n- 熟悉Sketch、Figma更佳\n- 有串接API經驗\n3.福利制度：\n週休二日、勞保、健保、勞退\n三節獎金、績效獎金、年終獎金、不定期員工旅遊\n定期聚餐、慶生會\n零食飲品、年輕氣氛"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "HTML",
+            "JavaScript",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "HTML、JavaScript、CSS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "網路程式設計",
+            "電腦排版設計",
+            "電腦繪圖軟體操作"
+          ],
+          "label": "工作技能",
+          "text": "網路程式設計、電腦排版設計、電腦繪圖軟體操作",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科以上\n擅長工具：HTML、JavaScript、CSS\n工作技能：網路程式設計、電腦排版設計、電腦繪圖軟體操作"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8kvr2",
+    "job_url": "https://www.104.com.tw/job/8kvr2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8kvr2.json",
+    "raw_sha256": "ef07393e57a2b409f5eebc3cf991307bcc240e5b3c529cd943573f3e0cd1fcba",
+    "requested_url": "https://www.104.com.tw/api/jobs/8kvr2"
+  }
+}

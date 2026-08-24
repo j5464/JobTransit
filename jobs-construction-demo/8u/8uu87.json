@@ -1,0 +1,253 @@
+{
+  "company": {
+    "id": "7e01nk0",
+    "name": "振曜科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Android工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "E-Ink 顯示色彩演算法調校：優化顯示品質與對比度，提升畫面呈現效果。"
+        },
+        {
+          "children": [],
+          "text": "E-Ink 顯示系統反應速度調校：改善系統刷新延遲、提昇畫面切換流暢度。"
+        },
+        {
+          "children": [],
+          "text": "E-Ink 顯示系統省電調校：針對電源管理架構進行最佳化，降低耗電量。"
+        },
+        {
+          "children": [],
+          "text": "系統模組 Porting 與整合：負責 Wi-Fi、Bluetooth、4G/5G、NFC、Speaker、Mic、Digitizer、Touch 等功能模組在 eBook 或 eSignage 系統上的整合與相容性調校。"
+        },
+        {
+          "children": [],
+          "text": "系統 Bug 修正與穩定度提升，進行問題分析、除錯與系統穩定性優化。"
+        },
+        {
+          "children": [],
+          "text": "OTA（Over-The-Air）升級機制客製化開發，並維護自動更新流程及相關功能模組。"
+        }
+      ],
+      "text": "本職缺主要負責 Android BSP（Board Support Package）層相關開發與優化，特別針對 E-Ink 電子紙顯示裝置（如 eBook Reader、eSignage）進行系統調校與功能整合。\n■ 研發工作內容基本如下 :\n1. E-Ink 顯示色彩演算法調校：優化顯示品質與對比度，提升畫面呈現效果。\n2. E-Ink 顯示系統反應速度調校：改善系統刷新延遲、提昇畫面切換流暢度。\n3. E-Ink 顯示系統省電調校：針對電源管理架構進行最佳化，降低耗電量。\n4. 系統模組 Porting 與整合：負責 Wi-Fi、Bluetooth、4G/5G、NFC、Speaker、Mic、Digitizer、Touch 等功能模組在 eBook 或 eSignage 系統上的整合與相容性調校。\n5. 系統 Bug 修正與穩定度提升，進行問題分析、除錯與系統穩定性優化。\n6. OTA（Over-The-Air）升級機制客製化開發，並維護自動更新流程及相關功能模組。"
+    },
+    "employment_type_raw": "全職",
+    "title": "(新竹) Android BSP 軟體工程師 (韌體整合)"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市博愛街945號",
+    "raw": "新竹縣竹北市博愛街945號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Android",
+          "C++",
+          "Java",
+          "Git",
+          "C"
+        ],
+        "label": "擅長工具",
+        "text": "Android、C++、Java、Git、C"
+      },
+      {
+        "items": [
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "· 熟悉 Android BSP / HAL / Kernel 開發流程、 Linux 驅動開發與系統調校\n· 具備 SoC 平台開發經驗（如 Qualcomm、MTK、Rockchip、Allwinner 等）\n· 具備 E-Ink Display 或其他特殊顯示技術經驗者佳\n· 具備 C/C++、Java、Shell Script 程式能力\n· 具備系統效能分析與電源管理經驗者尤佳"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "· 熟悉 Android BSP / HAL / Kernel 開發流程、 Linux 驅動開發與系統調校\n· 具備 SoC 平台開發經驗（如 Qualcomm、MTK、Rockchip、Allwinner 等）\n· 具備 E-Ink Display 或其他特殊顯示技術經驗者佳\n· 具備 C/C++、Java、Shell Script 程式能力\n· 具備系統效能分析與電源管理經驗者尤佳",
+    "skills": [
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：電機電子工程相關、資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Android、C++、Java、Git、C\n工作技能：軟體工程系統開發\n其他條件：· 熟悉 Android BSP / HAL / Kernel 開發流程、 Linux 驅動開發與系統調校\n· 具備 SoC 平台開發經驗（如 Qualcomm、MTK、Rockchip、Allwinner 等）\n· 具備 E-Ink Display 或其他特殊顯示技術經驗者佳\n· 具備 C/C++、Java、Shell Script 程式能力\n· 具備系統效能分析與電源管理經驗者尤佳",
+    "tools": [
+      "Android",
+      "C++",
+      "Java",
+      "Git",
+      "C"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 44
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:11:10+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "本職缺主要負責 Android BSP（Board Support Package）層相關開發與優化，特別針對 E-Ink 電子紙顯示裝置（如 eBook Reader、eSignage）進行系統調校與功能整合。\n■ 研發工作內容基本如下 :\n1. E-Ink 顯示色彩演算法調校：優化顯示品質與對比度，提升畫面呈現效果。\n2. E-Ink 顯示系統反應速度調校：改善系統刷新延遲、提昇畫面切換流暢度。\n3. E-Ink 顯示系統省電調校：針對電源管理架構進行最佳化，降低耗電量。\n4. 系統模組 Porting 與整合：負責 Wi-Fi、Bluetooth、4G/5G、NFC、Speaker、Mic、Digitizer、Touch 等功能模組在 eBook 或 eSignage 系統上的整合與相容性調校。\n5. 系統 Bug 修正與穩定度提升，進行問題分析、除錯與系統穩定性優化。\n6. OTA（Over-The-Air）升級機制客製化開發，並維護自動更新流程及相關功能模組。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Android工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Android工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市博愛街945號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "本職缺主要負責 Android BSP（Board Support Package）層相關開發與優化，特別針對 E-Ink 電子紙顯示裝置（如 eBook Reader、eSignage）進行系統調校與功能整合。\n■ 研發工作內容基本如下 :\n1. E-Ink 顯示色彩演算法調校：優化顯示品質與對比度，提升畫面呈現效果。\n2. E-Ink 顯示系統反應速度調校：改善系統刷新延遲、提昇畫面切換流暢度。\n3. E-Ink 顯示系統省電調校：針對電源管理架構進行最佳化，降低耗電量。\n4. 系統模組 Porting 與整合：負責 Wi-Fi、Bluetooth、4G/5G、NFC、Speaker、Mic、Digitizer、Touch 等功能模組在 eBook 或 eSignage 系統上的整合與相容性調校。\n5. 系統 Bug 修正與穩定度提升，進行問題分析、除錯與系統穩定性優化。\n6. OTA（Over-The-Air）升級機制客製化開發，並維護自動更新流程及相關功能模組。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Android",
+            "C++",
+            "Java",
+            "Git",
+            "C"
+          ],
+          "label": "擅長工具",
+          "text": "Android、C++、Java、Git、C",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "· 熟悉 Android BSP / HAL / Kernel 開發流程、 Linux 驅動開發與系統調校\n· 具備 SoC 平台開發經驗（如 Qualcomm、MTK、Rockchip、Allwinner 等）\n· 具備 E-Ink Display 或其他特殊顯示技術經驗者佳\n· 具備 C/C++、Java、Shell Script 程式能力\n· 具備系統效能分析與電源管理經驗者尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：電機電子工程相關、資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Android、C++、Java、Git、C\n工作技能：軟體工程系統開發\n其他條件：· 熟悉 Android BSP / HAL / Kernel 開發流程、 Linux 驅動開發與系統調校\n· 具備 SoC 平台開發經驗（如 Qualcomm、MTK、Rockchip、Allwinner 等）\n· 具備 E-Ink Display 或其他特殊顯示技術經驗者佳\n· 具備 C/C++、Java、Shell Script 程式能力\n· 具備系統效能分析與電源管理經驗者尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8uu87",
+    "job_url": "https://www.104.com.tw/job/8uu87",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8uu87.json",
+    "raw_sha256": "39b7a348b2e07f56f4bb75feff89507af3e3e4b76875fabe700473d4a8369c7b",
+    "requested_url": "https://www.104.com.tw/api/jobs/8uu87"
+  }
+}

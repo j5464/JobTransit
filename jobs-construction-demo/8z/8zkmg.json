@@ -1,0 +1,268 @@
+{
+  "company": {
+    "id": "aq54cmg",
+    "name": "博敦電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "數據分析師／資料分析師",
+      "資料工程師",
+      "資料科學家"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "使用 Python 與 SQL（BigQuery） 進行資料收集、清洗、轉換與分析。"
+        },
+        {
+          "children": [],
+          "text": "協助建立與維護 資料倉儲（Data Warehouse），包含 Star Schema / Fact Table / Dimension Table。"
+        },
+        {
+          "children": [],
+          "text": "分析玩家行為與營運數據（如 DAU、Revenue、Retention、ARPU 等 KPI）。"
+        },
+        {
+          "children": [],
+          "text": "進行 Exploratory Data Analysis (EDA) 與 Data Mining，發掘玩家行為模式與營運洞察。"
+        },
+        {
+          "children": [],
+          "text": "分析 玩家行為資料（Event Log / Player Behavior Data），建立玩家生命周期與行為指標。"
+        },
+        {
+          "children": [],
+          "text": "建立與維護營運分析報表與數據服務。"
+        },
+        {
+          "children": [],
+          "text": "與產品、營運、行銷及工程團隊合作，理解業務需求並提供數據分析支持。"
+        },
+        {
+          "children": [],
+          "text": "協助建立 資料品質監控（Data Quality Monitoring）與資料治理機制。"
+        },
+        {
+          "children": [],
+          "text": "推動 Data as a Product 與 Data-Driven Decision Making。"
+        }
+      ],
+      "text": "1. 使用 Python 與 SQL（BigQuery） 進行資料收集、清洗、轉換與分析。\n2. 協助建立與維護 資料倉儲（Data Warehouse），包含 Star Schema / Fact Table / Dimension Table。\n3. 分析玩家行為與營運數據（如 DAU、Revenue、Retention、ARPU 等 KPI）。\n4. 進行 Exploratory Data Analysis (EDA) 與 Data Mining，發掘玩家行為模式與營運洞察。\n5. 分析 玩家行為資料（Event Log / Player Behavior Data），建立玩家生命周期與行為指標。\n6. 建立與維護營運分析報表與數據服務。\n7. 與產品、營運、行銷及工程團隊合作，理解業務需求並提供數據分析支持。\n8. 協助建立 資料品質監控（Data Quality Monitoring）與資料治理機制。\n9. 推動 Data as a Product 與 Data-Driven Decision Making。"
+    },
+    "employment_type_raw": "全職",
+    "title": "數據分析師"
+  },
+  "location": {
+    "address_raw": "高雄市三民區灣興街55巷2號",
+    "raw": "高雄市三民區灣興街55巷2號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "統計學相關",
+          "資訊工程相關",
+          "應用數學相關"
+        ],
+        "label": "科系要求",
+        "text": "統計學相關、資訊工程相關、應用數學相關"
+      },
+      {
+        "items": [
+          "Python",
+          "ANSI SQL"
+        ],
+        "label": "擅長工具",
+        "text": "Python、ANSI SQL"
+      },
+      {
+        "items": [
+          "數據分析",
+          "軟體程式設計",
+          "報表開發",
+          "系統整合分析",
+          "商業智慧",
+          "AI",
+          "結構化程式設計",
+          "資料備份與復原",
+          "資料庫軟體應用",
+          "系統架構規劃"
+        ],
+        "label": "工作技能",
+        "text": "數據分析、軟體程式設計、報表開發、系統整合分析、商業智慧、AI、結構化程式設計、資料備份與復原、資料庫軟體應用、系統架構規劃"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【基本條件】（具備基礎觀念即可）\n1. 熟悉 Python 或 R 其中一種資料分析語言。\n2. 具備 SQL 基礎能力。\n3. 了解 資料分析流程（資料清洗、EDA、資料視覺化）。\n4. 具備 統計或資料分析基本概念。\n5. 對資料分析與數據驅動決策（Data-Driven Decision） 有興趣。\n【加分項目】\n1. 程式與數據開發： 熟練使用 Python (Pandas / Numpy) 進行資料分析，並具備 SQL 處理大型資料集之能力。\n2. 資料架構與倉儲： 熟悉 BigQuery 操作，並了解資料建模（Star Schema、Fact / Dimension Table）概念。\n3. 統計與實驗設計： 熟悉 A/B Testing 設計與分析，以及 Hypothesis Testing、迴歸分析等統計方法。\n4. 視覺化與自動化： 具備 Redash 等 BI 工具經驗，並熟悉 Google Sheets 資料整理、自動化或 API 整合。\n5. 產業與數據管理： 具備 iGaming / 遊戲玩家行為分析經驗，並了解 Metadata 管理或 Data Catalog 工具。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "統計學相關",
+      "資訊工程相關",
+      "應用數學相關"
+    ],
+    "other_text": "【基本條件】（具備基礎觀念即可）\n1. 熟悉 Python 或 R 其中一種資料分析語言。\n2. 具備 SQL 基礎能力。\n3. 了解 資料分析流程（資料清洗、EDA、資料視覺化）。\n4. 具備 統計或資料分析基本概念。\n5. 對資料分析與數據驅動決策（Data-Driven Decision） 有興趣。\n【加分項目】\n1. 程式與數據開發： 熟練使用 Python (Pandas / Numpy) 進行資料分析，並具備 SQL 處理大型資料集之能力。\n2. 資料架構與倉儲： 熟悉 BigQuery 操作，並了解資料建模（Star Schema、Fact / Dimension Table）概念。\n3. 統計與實驗設計： 熟悉 A/B Testing 設計與分析，以及 Hypothesis Testing、迴歸分析等統計方法。\n4. 視覺化與自動化： 具備 Redash 等 BI 工具經驗，並熟悉 Google Sheets 資料整理、自動化或 API 整合。\n5. 產業與數據管理： 具備 iGaming / 遊戲玩家行為分析經驗，並了解 Metadata 管理或 Data Catalog 工具。",
+    "skills": [
+      "數據分析",
+      "軟體程式設計",
+      "報表開發",
+      "系統整合分析",
+      "商業智慧",
+      "AI",
+      "結構化程式設計",
+      "資料備份與復原",
+      "資料庫軟體應用",
+      "系統架構規劃"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：統計學相關、資訊工程相關、應用數學相關\n擅長工具：Python、ANSI SQL\n工作技能：數據分析、軟體程式設計、報表開發、系統整合分析、商業智慧、AI、結構化程式設計、資料備份與復原、資料庫軟體應用、系統架構規劃\n其他條件：【基本條件】（具備基礎觀念即可）\n1. 熟悉 Python 或 R 其中一種資料分析語言。\n2. 具備 SQL 基礎能力。\n3. 了解 資料分析流程（資料清洗、EDA、資料視覺化）。\n4. 具備 統計或資料分析基本概念。\n5. 對資料分析與數據驅動決策（Data-Driven Decision） 有興趣。\n【加分項目】\n1. 程式與數據開發： 熟練使用 Python (Pandas / Numpy) 進行資料分析，並具備 SQL 處理大型資料集之能力。\n2. 資料架構與倉儲： 熟悉 BigQuery 操作，並了解資料建模（Star Schema、Fact / Dimension Table）概念。\n3. 統計與實驗設計： 熟悉 A/B Testing 設計與分析，以及 Hypothesis Testing、迴歸分析等統計方法。\n4. 視覺化與自動化： 具備 Redash 等 BI 工具經驗，並熟悉 Google Sheets 資料整理、自動化或 API 整合。\n5. 產業與數據管理： 具備 iGaming / 遊戲玩家行為分析經驗，並了解 Metadata 管理或 Data Catalog 工具。",
+    "tools": [
+      "Python",
+      "ANSI SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 25
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:22:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 使用 Python 與 SQL（BigQuery） 進行資料收集、清洗、轉換與分析。\n2. 協助建立與維護 資料倉儲（Data Warehouse），包含 Star Schema / Fact Table / Dimension Table。\n3. 分析玩家行為與營運數據（如 DAU、Revenue、Retention、ARPU 等 KPI）。\n4. 進行 Exploratory Data Analysis (EDA) 與 Data Mining，發掘玩家行為模式與營運洞察。\n5. 分析 玩家行為資料（Event Log / Player Behavior Data），建立玩家生命周期與行為指標。\n6. 建立與維護營運分析報表與數據服務。\n7. 與產品、營運、行銷及工程團隊合作，理解業務需求並提供數據分析支持。\n8. 協助建立 資料品質監控（Data Quality Monitoring）與資料治理機制。\n9. 推動 Data as a Product 與 Data-Driven Decision Making。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "數據分析師／資料分析師",
+            "資料工程師",
+            "資料科學家"
+          ],
+          "label": "職務類別",
+          "text": "數據分析師／資料分析師、資料工程師、資料科學家",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市三民區灣興街55巷2號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 使用 Python 與 SQL（BigQuery） 進行資料收集、清洗、轉換與分析。\n2. 協助建立與維護 資料倉儲（Data Warehouse），包含 Star Schema / Fact Table / Dimension Table。\n3. 分析玩家行為與營運數據（如 DAU、Revenue、Retention、ARPU 等 KPI）。\n4. 進行 Exploratory Data Analysis (EDA) 與 Data Mining，發掘玩家行為模式與營運洞察。\n5. 分析 玩家行為資料（Event Log / Player Behavior Data），建立玩家生命周期與行為指標。\n6. 建立與維護營運分析報表與數據服務。\n7. 與產品、營運、行銷及工程團隊合作，理解業務需求並提供數據分析支持。\n8. 協助建立 資料品質監控（Data Quality Monitoring）與資料治理機制。\n9. 推動 Data as a Product 與 Data-Driven Decision Making。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "統計學相關",
+            "資訊工程相關",
+            "應用數學相關"
+          ],
+          "label": "科系要求",
+          "text": "統計學相關、資訊工程相關、應用數學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "ANSI SQL"
+          ],
+          "label": "擅長工具",
+          "text": "Python、ANSI SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數據分析",
+            "軟體程式設計",
+            "報表開發",
+            "系統整合分析",
+            "商業智慧",
+            "AI",
+            "結構化程式設計",
+            "資料備份與復原",
+            "資料庫軟體應用",
+            "系統架構規劃"
+          ],
+          "label": "工作技能",
+          "text": "數據分析、軟體程式設計、報表開發、系統整合分析、商業智慧、AI、結構化程式設計、資料備份與復原、資料庫軟體應用、系統架構規劃",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【基本條件】（具備基礎觀念即可）\n1. 熟悉 Python 或 R 其中一種資料分析語言。\n2. 具備 SQL 基礎能力。\n3. 了解 資料分析流程（資料清洗、EDA、資料視覺化）。\n4. 具備 統計或資料分析基本概念。\n5. 對資料分析與數據驅動決策（Data-Driven Decision） 有興趣。\n【加分項目】\n1. 程式與數據開發： 熟練使用 Python (Pandas / Numpy) 進行資料分析，並具備 SQL 處理大型資料集之能力。\n2. 資料架構與倉儲： 熟悉 BigQuery 操作，並了解資料建模（Star Schema、Fact / Dimension Table）概念。\n3. 統計與實驗設計： 熟悉 A/B Testing 設計與分析，以及 Hypothesis Testing、迴歸分析等統計方法。\n4. 視覺化與自動化： 具備 Redash 等 BI 工具經驗，並熟悉 Google Sheets 資料整理、自動化或 API 整合。\n5. 產業與數據管理： 具備 iGaming / 遊戲玩家行為分析經驗，並了解 Metadata 管理或 Data Catalog 工具。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：統計學相關、資訊工程相關、應用數學相關\n擅長工具：Python、ANSI SQL\n工作技能：數據分析、軟體程式設計、報表開發、系統整合分析、商業智慧、AI、結構化程式設計、資料備份與復原、資料庫軟體應用、系統架構規劃\n其他條件：【基本條件】（具備基礎觀念即可）\n1. 熟悉 Python 或 R 其中一種資料分析語言。\n2. 具備 SQL 基礎能力。\n3. 了解 資料分析流程（資料清洗、EDA、資料視覺化）。\n4. 具備 統計或資料分析基本概念。\n5. 對資料分析與數據驅動決策（Data-Driven Decision） 有興趣。\n【加分項目】\n1. 程式與數據開發： 熟練使用 Python (Pandas / Numpy) 進行資料分析，並具備 SQL 處理大型資料集之能力。\n2. 資料架構與倉儲： 熟悉 BigQuery 操作，並了解資料建模（Star Schema、Fact / Dimension Table）概念。\n3. 統計與實驗設計： 熟悉 A/B Testing 設計與分析，以及 Hypothesis Testing、迴歸分析等統計方法。\n4. 視覺化與自動化： 具備 Redash 等 BI 工具經驗，並熟悉 Google Sheets 資料整理、自動化或 API 整合。\n5. 產業與數據管理： 具備 iGaming / 遊戲玩家行為分析經驗，並了解 Metadata 管理或 Data Catalog 工具。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8zkmg",
+    "job_url": "https://www.104.com.tw/job/8zkmg",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8zkmg.json",
+    "raw_sha256": "ca1d82fac7c2fb10c210977e03b88d16f0fc76ae55135e61129b3587fb8e0daf",
+    "requested_url": "https://www.104.com.tw/api/jobs/8zkmg"
+  }
+}

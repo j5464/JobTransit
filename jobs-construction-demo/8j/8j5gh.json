@@ -1,0 +1,330 @@
+{
+  "company": {
+    "id": "7hqkeah",
+    "name": "眾匯智能健康股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發高效能、高安全性、使用者易用的網站應用程式。"
+        },
+        {
+          "children": [],
+          "text": "前後端的資料串接。"
+        },
+        {
+          "children": [],
+          "text": "設計及實作後端的需求。"
+        },
+        {
+          "children": [],
+          "text": "功能測試及效能監控。"
+        },
+        {
+          "children": [],
+          "text": "資料庫資料的新增、查詢、修改、刪除。"
+        },
+        {
+          "children": [],
+          "text": "CI/CD 自動化整合與部署。"
+        },
+        {
+          "children": [],
+          "text": "協助客戶解決系統問題。"
+        },
+        {
+          "children": [],
+          "text": "開發、改善所有軟體產品，並提供維護所需的所有必要文件。"
+        }
+      ],
+      "text": "1. 開發高效能、高安全性、使用者易用的網站應用程式。\n2. 前後端的資料串接。\n3. 設計及實作後端的需求。\n4. 功能測試及效能監控。\n5. 資料庫資料的新增、查詢、修改、刪除。\n6. CI/CD 自動化整合與部署。\n7. 協助客戶解決系統問題。\n8. 開發、改善所有軟體產品，並提供維護所需的所有必要文件。\n這是一個重要的職位，因為軟體工程師在公司的產品開發中扮演著關鍵角色。此職位擁有良好的發展前景，因為科技行業正在快速發展和擴大。此外，該職位將與其他部門和團隊合作，從而獲得更廣泛的經驗和知識。如果您有相關的經驗和技能，請即刻申請此職位。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師"
+  },
+  "location": {
+    "address_raw": "台北市南港區三重路19-13號E棟5樓",
+    "raw": "台北市南港區三重路19-13號E棟5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "應用數學相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、應用數學相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "PostgreSQL",
+          "Angular",
+          "Redux",
+          "VueJS",
+          "ReactJS",
+          "Node.js",
+          "Sass",
+          "CSS",
+          "jQuery",
+          "JavaScript",
+          "J2EE",
+          "HTML",
+          "RDBMS",
+          "PL/SQL",
+          "MySQL",
+          "Java",
+          "C++.Net",
+          "C++",
+          "C#",
+          "ASP.NET",
+          "AJAX",
+          "Git",
+          "Python",
+          "Go"
+        ],
+        "label": "擅長工具",
+        "text": "PostgreSQL、Angular、Redux、VueJS、ReactJS、Node.js、Sass、CSS、jQuery、JavaScript、J2EE、HTML、RDBMS、PL/SQL、MySQL、Java、C++.Net、C++、C#、ASP.NET、AJAX、Git、Python、Go"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "資料庫軟體應用",
+          "資料庫程式設計",
+          "軟體程式設計",
+          "AI",
+          "資料庫系統管理維護",
+          "軟體品質與保證",
+          "伺服器網站管理維護",
+          "資訊設備環境設定",
+          "資料備份與復原"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、資料庫軟體應用、資料庫程式設計、軟體程式設計、AI、資料庫系統管理維護、軟體品質與保證、伺服器網站管理維護、資訊設備環境設定、資料備份與復原"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "具備上方【擅長工具】2-3項可。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "應用數學相關",
+      "資訊管理相關"
+    ],
+    "other_text": "具備上方【擅長工具】2-3項可。",
+    "skills": [
+      "軟體工程系統開發",
+      "資料庫軟體應用",
+      "資料庫程式設計",
+      "軟體程式設計",
+      "AI",
+      "資料庫系統管理維護",
+      "軟體品質與保證",
+      "伺服器網站管理維護",
+      "資訊設備環境設定",
+      "資料備份與復原"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、應用數學相關、資訊管理相關\n擅長工具：PostgreSQL、Angular、Redux、VueJS、ReactJS、Node.js、Sass、CSS、jQuery、JavaScript、J2EE、HTML、RDBMS、PL/SQL、MySQL、Java、C++.Net、C++、C#、ASP.NET、AJAX、Git、Python、Go\n工作技能：軟體工程系統開發、資料庫軟體應用、資料庫程式設計、軟體程式設計、AI、資料庫系統管理維護、軟體品質與保證、伺服器網站管理維護、資訊設備環境設定、資料備份與復原\n其他條件：具備上方【擅長工具】2-3項可。",
+    "tools": [
+      "PostgreSQL",
+      "Angular",
+      "Redux",
+      "VueJS",
+      "ReactJS",
+      "Node.js",
+      "Sass",
+      "CSS",
+      "jQuery",
+      "JavaScript",
+      "J2EE",
+      "HTML",
+      "RDBMS",
+      "PL/SQL",
+      "MySQL",
+      "Java",
+      "C++.Net",
+      "C++",
+      "C#",
+      "ASP.NET",
+      "AJAX",
+      "Git",
+      "Python",
+      "Go"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 72
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:19:27+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 開發高效能、高安全性、使用者易用的網站應用程式。\n2. 前後端的資料串接。\n3. 設計及實作後端的需求。\n4. 功能測試及效能監控。\n5. 資料庫資料的新增、查詢、修改、刪除。\n6. CI/CD 自動化整合與部署。\n7. 協助客戶解決系統問題。\n8. 開發、改善所有軟體產品，並提供維護所需的所有必要文件。\n這是一個重要的職位，因為軟體工程師在公司的產品開發中扮演著關鍵角色。此職位擁有良好的發展前景，因為科技行業正在快速發展和擴大。此外，該職位將與其他部門和團隊合作，從而獲得更廣泛的經驗和知識。如果您有相關的經驗和技能，請即刻申請此職位。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區三重路19-13號E棟5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 開發高效能、高安全性、使用者易用的網站應用程式。\n2. 前後端的資料串接。\n3. 設計及實作後端的需求。\n4. 功能測試及效能監控。\n5. 資料庫資料的新增、查詢、修改、刪除。\n6. CI/CD 自動化整合與部署。\n7. 協助客戶解決系統問題。\n8. 開發、改善所有軟體產品，並提供維護所需的所有必要文件。\n這是一個重要的職位，因為軟體工程師在公司的產品開發中扮演著關鍵角色。此職位擁有良好的發展前景，因為科技行業正在快速發展和擴大。此外，該職位將與其他部門和團隊合作，從而獲得更廣泛的經驗和知識。如果您有相關的經驗和技能，請即刻申請此職位。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "應用數學相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、應用數學相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PostgreSQL",
+            "Angular",
+            "Redux",
+            "VueJS",
+            "ReactJS",
+            "Node.js",
+            "Sass",
+            "CSS",
+            "jQuery",
+            "JavaScript",
+            "J2EE",
+            "HTML",
+            "RDBMS",
+            "PL/SQL",
+            "MySQL",
+            "Java",
+            "C++.Net",
+            "C++",
+            "C#",
+            "ASP.NET",
+            "AJAX",
+            "Git",
+            "Python",
+            "Go"
+          ],
+          "label": "擅長工具",
+          "text": "PostgreSQL、Angular、Redux、VueJS、ReactJS、Node.js、Sass、CSS、jQuery、JavaScript、J2EE、HTML、RDBMS、PL/SQL、MySQL、Java、C++.Net、C++、C#、ASP.NET、AJAX、Git、Python、Go",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "資料庫軟體應用",
+            "資料庫程式設計",
+            "軟體程式設計",
+            "AI",
+            "資料庫系統管理維護",
+            "軟體品質與保證",
+            "伺服器網站管理維護",
+            "資訊設備環境設定",
+            "資料備份與復原"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、資料庫軟體應用、資料庫程式設計、軟體程式設計、AI、資料庫系統管理維護、軟體品質與保證、伺服器網站管理維護、資訊設備環境設定、資料備份與復原",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "具備上方【擅長工具】2-3項可。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、應用數學相關、資訊管理相關\n擅長工具：PostgreSQL、Angular、Redux、VueJS、ReactJS、Node.js、Sass、CSS、jQuery、JavaScript、J2EE、HTML、RDBMS、PL/SQL、MySQL、Java、C++.Net、C++、C#、ASP.NET、AJAX、Git、Python、Go\n工作技能：軟體工程系統開發、資料庫軟體應用、資料庫程式設計、軟體程式設計、AI、資料庫系統管理維護、軟體品質與保證、伺服器網站管理維護、資訊設備環境設定、資料備份與復原\n其他條件：具備上方【擅長工具】2-3項可。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8j5gh",
+    "job_url": "https://www.104.com.tw/job/8j5gh",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8j5gh.json",
+    "raw_sha256": "f8e3db6626f25240563331bb908e89c7161f2b5eabcc0e00aaacb75b78433db0",
+    "requested_url": "https://www.104.com.tw/api/jobs/8j5gh"
+  }
+}

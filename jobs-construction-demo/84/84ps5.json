@@ -1,0 +1,197 @@
+{
+  "company": {
+    "id": "wc6ug0o",
+    "name": "台灣寬頻通訊顧問股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體專案主管",
+      "電子商務技術主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "技術團隊管理，管控開發品質，專案如期交付及並優化軟體工程流程與自動化"
+        },
+        {
+          "children": [],
+          "text": "負責公司資訊專案規劃執行，負責核心資訊系統架構規劃設計"
+        },
+        {
+          "children": [],
+          "text": "與維運團隊合作各項系統監控指標以及告警工具實做，符合資安架構要求"
+        },
+        {
+          "children": [],
+          "text": "了解系統架構，軟體工程，程式設計，Design Pattern經驗技術"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項"
+        }
+      ],
+      "text": "1.技術團隊管理，管控開發品質，專案如期交付及並優化軟體工程流程與自動化\n2.負責公司資訊專案規劃執行，負責核心資訊系統架構規劃設計\n3.與維運團隊合作各項系統監控指標以及告警工具實做，符合資安架構要求\n4.了解系統架構，軟體工程，程式設計，Design Pattern經驗技術\n熟悉業務需求，新技術及產品導入評估與落地\n5.其他主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊技術經理(集團擴編)"
+  },
+  "location": {
+    "address_raw": "新北市土城區",
+    "raw": "新北市土城區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "10年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "10年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Visual C#"
+        ],
+        "label": "擅長工具",
+        "text": "Visual C#"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.管理五人以上團隊三年經驗\n2.十年以上軟體開發實務\n3.具資料庫規劃、資料移轉經驗\n4.具Data Migration、ERP或電信經驗者尤佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1.管理五人以上團隊三年經驗\n2.十年以上軟體開發實務\n3.具資料庫規劃、資料移轉經驗\n4.具Data Migration、ERP或電信經驗者尤佳",
+    "skills": [],
+    "text": "工作經歷：10年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Visual C#\n其他條件：1.管理五人以上團隊三年經驗\n2.十年以上軟體開發實務\n3.具資料庫規劃、資料移轉經驗\n4.具Data Migration、ERP或電信經驗者尤佳",
+    "tools": [
+      "Visual C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 81
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:41:40+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.技術團隊管理，管控開發品質，專案如期交付及並優化軟體工程流程與自動化\n2.負責公司資訊專案規劃執行，負責核心資訊系統架構規劃設計\n3.與維運團隊合作各項系統監控指標以及告警工具實做，符合資安架構要求\n4.了解系統架構，軟體工程，程式設計，Design Pattern經驗技術\n熟悉業務需求，新技術及產品導入評估與落地\n5.其他主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體專案主管",
+            "電子商務技術主管"
+          ],
+          "label": "職務類別",
+          "text": "軟體專案主管、電子商務技術主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市土城區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.技術團隊管理，管控開發品質，專案如期交付及並優化軟體工程流程與自動化\n2.負責公司資訊專案規劃執行，負責核心資訊系統架構規劃設計\n3.與維運團隊合作各項系統監控指標以及告警工具實做，符合資安架構要求\n4.了解系統架構，軟體工程，程式設計，Design Pattern經驗技術\n熟悉業務需求，新技術及產品導入評估與落地\n5.其他主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "10年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Visual C#"
+          ],
+          "label": "擅長工具",
+          "text": "Visual C#",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.管理五人以上團隊三年經驗\n2.十年以上軟體開發實務\n3.具資料庫規劃、資料移轉經驗\n4.具Data Migration、ERP或電信經驗者尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：10年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Visual C#\n其他條件：1.管理五人以上團隊三年經驗\n2.十年以上軟體開發實務\n3.具資料庫規劃、資料移轉經驗\n4.具Data Migration、ERP或電信經驗者尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "84ps5",
+    "job_url": "https://www.104.com.tw/job/84ps5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/84ps5.json",
+    "raw_sha256": "1a3d673a608e0452d43a1c576bd0f1d9116474af962bd23062277d93b8b72f18",
+    "requested_url": "https://www.104.com.tw/api/jobs/84ps5"
+  }
+}

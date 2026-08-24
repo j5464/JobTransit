@@ -1,0 +1,267 @@
+{
+  "company": {
+    "id": "1a2x6bjgsz",
+    "name": "瑞保網路科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "電子商務技術主管",
+      "軟體專案主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發PHP Laravel Vue 網站新功能及既有功能維護"
+        },
+        {
+          "children": [],
+          "text": "Python爬蟲資料蒐集處理"
+        },
+        {
+          "children": [],
+          "text": "設計金融帳務演算法，資料庫MySql優化"
+        },
+        {
+          "children": [],
+          "text": "有帶領團隊經驗佳"
+        },
+        {
+          "children": [],
+          "text": "有電商經驗或金流串接經驗佳"
+        }
+      ],
+      "text": "1. 開發PHP Laravel Vue 網站新功能及既有功能維護\n2. Python爬蟲資料蒐集處理\n3. 設計金融帳務演算法，資料庫MySql優化\n4. 有帶領團隊經驗佳\n5. 有電商經驗或金流串接經驗佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "資深後端工程師"
+  },
+  "location": {
+    "address_raw": "台北市松山區南京東路三段287號5樓之一",
+    "raw": "台北市松山區南京東路三段287號5樓之一"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "Linux",
+          "Git",
+          "PHP",
+          "Python",
+          "MySQL",
+          "PostgreSQL",
+          "HTML",
+          "JavaScript",
+          "jQuery",
+          "VueJS"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Git、PHP、Python、MySQL、PostgreSQL、HTML、JavaScript、jQuery、VueJS"
+      },
+      {
+        "items": [
+          "專案時間╱進度控管",
+          "專案規劃執行╱範圍管理",
+          "專案溝通╱整合管理",
+          "系統架構規劃",
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "專案時間╱進度控管、專案規劃執行╱範圍管理、專案溝通╱整合管理、系統架構規劃、軟體程式設計、網路程式設計、資料庫程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "3年以上工作經驗\n熟悉PHP，並使用Laravel Framework開發API\n串接第三方服務金流,Google,Facebook,Line等API\n程式碼自動化CI/CD整合 (Gitlab CI/CD)\n熟悉爬蟲或自動化測試工具(例如：Selenium)\n熟悉AWS或GCP雲端服務\n熟悉docker或k8s等容器化服務\n熟悉Linux作業系統\n擁有資訊安全認知及基本防護意識\n其他領域專業知識(例如會計、法律、金融等)"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "3年以上工作經驗\n熟悉PHP，並使用Laravel Framework開發API\n串接第三方服務金流,Google,Facebook,Line等API\n程式碼自動化CI/CD整合 (Gitlab CI/CD)\n熟悉爬蟲或自動化測試工具(例如：Selenium)\n熟悉AWS或GCP雲端服務\n熟悉docker或k8s等容器化服務\n熟悉Linux作業系統\n擁有資訊安全認知及基本防護意識\n其他領域專業知識(例如會計、法律、金融等)",
+    "skills": [
+      "專案時間╱進度控管",
+      "專案規劃執行╱範圍管理",
+      "專案溝通╱整合管理",
+      "系統架構規劃",
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n擅長工具：Linux、Git、PHP、Python、MySQL、PostgreSQL、HTML、JavaScript、jQuery、VueJS\n工作技能：專案時間╱進度控管、專案規劃執行╱範圍管理、專案溝通╱整合管理、系統架構規劃、軟體程式設計、網路程式設計、資料庫程式設計\n其他條件：3年以上工作經驗\n熟悉PHP，並使用Laravel Framework開發API\n串接第三方服務金流,Google,Facebook,Line等API\n程式碼自動化CI/CD整合 (Gitlab CI/CD)\n熟悉爬蟲或自動化測試工具(例如：Selenium)\n熟悉AWS或GCP雲端服務\n熟悉docker或k8s等容器化服務\n熟悉Linux作業系統\n擁有資訊安全認知及基本防護意識\n其他領域專業知識(例如會計、法律、金融等)",
+    "tools": [
+      "Linux",
+      "Git",
+      "PHP",
+      "Python",
+      "MySQL",
+      "PostgreSQL",
+      "HTML",
+      "JavaScript",
+      "jQuery",
+      "VueJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 58
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:45:50+08:00"
+  },
+  "salary": {
+    "raw": "月薪60,000~90,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 開發PHP Laravel Vue 網站新功能及既有功能維護\n2. Python爬蟲資料蒐集處理\n3. 設計金融帳務演算法，資料庫MySql優化\n4. 有帶領團隊經驗佳\n5. 有電商經驗或金流串接經驗佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "電子商務技術主管",
+            "軟體專案主管"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、電子商務技術主管、軟體專案主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪60,000~90,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區南京東路三段287號5樓之一",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 開發PHP Laravel Vue 網站新功能及既有功能維護\n2. Python爬蟲資料蒐集處理\n3. 設計金融帳務演算法，資料庫MySql優化\n4. 有帶領團隊經驗佳\n5. 有電商經驗或金流串接經驗佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Git",
+            "PHP",
+            "Python",
+            "MySQL",
+            "PostgreSQL",
+            "HTML",
+            "JavaScript",
+            "jQuery",
+            "VueJS"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Git、PHP、Python、MySQL、PostgreSQL、HTML、JavaScript、jQuery、VueJS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "專案時間╱進度控管",
+            "專案規劃執行╱範圍管理",
+            "專案溝通╱整合管理",
+            "系統架構規劃",
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "專案時間╱進度控管、專案規劃執行╱範圍管理、專案溝通╱整合管理、系統架構規劃、軟體程式設計、網路程式設計、資料庫程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "3年以上工作經驗\n熟悉PHP，並使用Laravel Framework開發API\n串接第三方服務金流,Google,Facebook,Line等API\n程式碼自動化CI/CD整合 (Gitlab CI/CD)\n熟悉爬蟲或自動化測試工具(例如：Selenium)\n熟悉AWS或GCP雲端服務\n熟悉docker或k8s等容器化服務\n熟悉Linux作業系統\n擁有資訊安全認知及基本防護意識\n其他領域專業知識(例如會計、法律、金融等)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n擅長工具：Linux、Git、PHP、Python、MySQL、PostgreSQL、HTML、JavaScript、jQuery、VueJS\n工作技能：專案時間╱進度控管、專案規劃執行╱範圍管理、專案溝通╱整合管理、系統架構規劃、軟體程式設計、網路程式設計、資料庫程式設計\n其他條件：3年以上工作經驗\n熟悉PHP，並使用Laravel Framework開發API\n串接第三方服務金流,Google,Facebook,Line等API\n程式碼自動化CI/CD整合 (Gitlab CI/CD)\n熟悉爬蟲或自動化測試工具(例如：Selenium)\n熟悉AWS或GCP雲端服務\n熟悉docker或k8s等容器化服務\n熟悉Linux作業系統\n擁有資訊安全認知及基本防護意識\n其他領域專業知識(例如會計、法律、金融等)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7yzyo",
+    "job_url": "https://www.104.com.tw/job/7yzyo",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7yzyo.json",
+    "raw_sha256": "9bf57cbd4769b4d5f271a818bbfb2bfa16365595ce01856389f76977e7115e23",
+    "requested_url": "https://www.104.com.tw/api/jobs/7yzyo"
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "company": {
+    "id": "2d2e7fc",
+    "name": "勤誠興業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依據需求規格與系統架構設計，負責專案中小型功能模組之開發與實作"
+        },
+        {
+          "children": [],
+          "text": "確保負責模組之開發進度與程式品質，準時完成系統交付"
+        },
+        {
+          "children": [],
+          "text": "參與既有系統維運與功能優化，處理並改善一般性系統問題"
+        },
+        {
+          "children": [],
+          "text": "依公司開發規範進行程式佈署與版本上線作業"
+        },
+        {
+          "children": [],
+          "text": "配合 Code Review，依建議優化程式品質與架構設計"
+        },
+        {
+          "children": [],
+          "text": "與團隊成員協作，確保系統穩定運行與持續改善"
+        }
+      ],
+      "text": "1.依據需求規格與系統架構設計，負責專案中小型功能模組之開發與實作\n2.確保負責模組之開發進度與程式品質，準時完成系統交付\n3.參與既有系統維運與功能優化，處理並改善一般性系統問題\n4.依公司開發規範進行程式佈署與版本上線作業\n5.配合 Code Review，依建議優化程式品質與架構設計\n6.與團隊成員協作，確保系統穩定運行與持續改善"
+    },
+    "employment_type_raw": "全職",
+    "title": "【新莊總部】軟體開發工程師"
+  },
+  "location": {
+    "address_raw": "新北市新莊區中原路558號19F",
+    "raw": "新北市新莊區中原路558號19F"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "Angular",
+          "MS SQL",
+          "PL/SQL",
+          "Git",
+          "Node.js"
+        ],
+        "label": "擅長工具",
+        "text": "C#、JavaScript、CSS、HTML、Angular、MS SQL、PL/SQL、Git、Node.js"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.精通HTML5、CSS3和JavaScript，具有良好的網站結構設計和排版能力。\n2.使用前端框架Angular及React經驗\n3.使用C#及Node.JS開發後端邏輯經驗\n4.熟悉使用關聯型資料庫，如MSSQL、PLSQL等。\n5.能夠使用RESTful API與其他應用程式進行數據交互。\n6.熟悉GitLab版本控制工具"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1.精通HTML5、CSS3和JavaScript，具有良好的網站結構設計和排版能力。\n2.使用前端框架Angular及React經驗\n3.使用C#及Node.JS開發後端邏輯經驗\n4.熟悉使用關聯型資料庫，如MSSQL、PLSQL等。\n5.能夠使用RESTful API與其他應用程式進行數據交互。\n6.熟悉GitLab版本控制工具",
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、JavaScript、CSS、HTML、Angular、MS SQL、PL/SQL、Git、Node.js\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：1.精通HTML5、CSS3和JavaScript，具有良好的網站結構設計和排版能力。\n2.使用前端框架Angular及React經驗\n3.使用C#及Node.JS開發後端邏輯經驗\n4.熟悉使用關聯型資料庫，如MSSQL、PLSQL等。\n5.能夠使用RESTful API與其他應用程式進行數據交互。\n6.熟悉GitLab版本控制工具",
+    "tools": [
+      "C#",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Angular",
+      "MS SQL",
+      "PL/SQL",
+      "Git",
+      "Node.js"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 29
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:33:15+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.依據需求規格與系統架構設計，負責專案中小型功能模組之開發與實作\n2.確保負責模組之開發進度與程式品質，準時完成系統交付\n3.參與既有系統維運與功能優化，處理並改善一般性系統問題\n4.依公司開發規範進行程式佈署與版本上線作業\n5.配合 Code Review，依建議優化程式品質與架構設計\n6.與團隊成員協作，確保系統穩定運行與持續改善",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新莊區中原路558號19F",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.依據需求規格與系統架構設計，負責專案中小型功能模組之開發與實作\n2.確保負責模組之開發進度與程式品質，準時完成系統交付\n3.參與既有系統維運與功能優化，處理並改善一般性系統問題\n4.依公司開發規範進行程式佈署與版本上線作業\n5.配合 Code Review，依建議優化程式品質與架構設計\n6.與團隊成員協作，確保系統穩定運行與持續改善"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "Angular",
+            "MS SQL",
+            "PL/SQL",
+            "Git",
+            "Node.js"
+          ],
+          "label": "擅長工具",
+          "text": "C#、JavaScript、CSS、HTML、Angular、MS SQL、PL/SQL、Git、Node.js",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.精通HTML5、CSS3和JavaScript，具有良好的網站結構設計和排版能力。\n2.使用前端框架Angular及React經驗\n3.使用C#及Node.JS開發後端邏輯經驗\n4.熟悉使用關聯型資料庫，如MSSQL、PLSQL等。\n5.能夠使用RESTful API與其他應用程式進行數據交互。\n6.熟悉GitLab版本控制工具",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、JavaScript、CSS、HTML、Angular、MS SQL、PL/SQL、Git、Node.js\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：1.精通HTML5、CSS3和JavaScript，具有良好的網站結構設計和排版能力。\n2.使用前端框架Angular及React經驗\n3.使用C#及Node.JS開發後端邏輯經驗\n4.熟悉使用關聯型資料庫，如MSSQL、PLSQL等。\n5.能夠使用RESTful API與其他應用程式進行數據交互。\n6.熟悉GitLab版本控制工具"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ym8w",
+    "job_url": "https://www.104.com.tw/job/8ym8w",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ym8w.json",
+    "raw_sha256": "89da9298e214f22e38e7b845a344816110d9a26a1cc293cb1b3b449311c7d1aa",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ym8w"
+  }
+}

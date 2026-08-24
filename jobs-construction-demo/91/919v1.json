@@ -1,0 +1,251 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "演算法工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助 Firmwar 驗証 (SSD/USB)"
+        },
+        {
+          "children": [],
+          "text": "統整測試結果, Debug 資訊分析"
+        },
+        {
+          "children": [],
+          "text": "Debug 工具開發及維護"
+        },
+        {
+          "children": [],
+          "text": "AI 應用工具開發及維護"
+        },
+        {
+          "children": [],
+          "text": "Debug 相關FW 開發"
+        }
+      ],
+      "text": "1.協助 Firmwar 驗証 (SSD/USB)\n2.統整測試結果, Debug 資訊分析\n3.Debug 工具開發及維護\n4.AI 應用工具開發及維護\n5.Debug 相關FW 開發"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟韌體工程師0515-台北辦公室"
+  },
+  "location": {
+    "address_raw": "新北市板橋區新北市板橋區民生路一段3號 正隆廣場辦公大樓",
+    "raw": "新北市板橋區新北市板橋區民生路一段3號 正隆廣場辦公大樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、工程學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Python"
+      },
+      {
+        "items": [
+          "系統整合分析",
+          "韌體工程開發",
+          "軟體程式設計",
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析、韌體工程開發、軟體程式設計、韌體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉 C/C++, Python"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "工程學科類"
+    ],
+    "other_text": "熟悉 C/C++, Python",
+    "skills": [
+      "系統整合分析",
+      "韌體工程開發",
+      "軟體程式設計",
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：資訊工程相關、工程學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Python\n工作技能：系統整合分析、韌體工程開發、軟體程式設計、韌體程式設計\n其他條件：熟悉 C/C++, Python",
+    "tools": [
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 4
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:30:18+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.協助 Firmwar 驗証 (SSD/USB)\n2.統整測試結果, Debug 資訊分析\n3.Debug 工具開發及維護\n4.AI 應用工具開發及維護\n5.Debug 相關FW 開發",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "演算法工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、演算法工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區新北市板橋區民生路一段3號 正隆廣場辦公大樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.協助 Firmwar 驗証 (SSD/USB)\n2.統整測試結果, Debug 資訊分析\n3.Debug 工具開發及維護\n4.AI 應用工具開發及維護\n5.Debug 相關FW 開發"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析",
+            "韌體工程開發",
+            "軟體程式設計",
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析、韌體工程開發、軟體程式設計、韌體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉 C/C++, Python",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：資訊工程相關、工程學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Python\n工作技能：系統整合分析、韌體工程開發、軟體程式設計、韌體程式設計\n其他條件：熟悉 C/C++, Python"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "919v1",
+    "job_url": "https://www.104.com.tw/job/919v1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/919v1.json",
+    "raw_sha256": "a6d9f27126a902e1fee31176e414f6d1746361dc8f30c8ce6cba93a192422bef",
+    "requested_url": "https://www.104.com.tw/api/jobs/919v1"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "company": {
+    "id": "1a2x6blqb0",
+    "name": "全通路科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "產品管理師",
+      "軟體專案管理師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "Omnichat (原Easychat）創辦於 2017年，是來自香港的新創企業，專注於發展全通路對話式商務 (Omnichannel Chat Commerce)。涉及技術和產品包括串接官網對話及整合不同社群通訊軟體， 跨渠道用戶數據追蹤，全通路線上線下 OMO 導購銷售，Live Chat、Chatbot、自動化跨渠道再行銷，快速讓客戶營收成長及提升銷售轉換。LINE/Meta官方認證技術夥伴\n【Responsibility】\n・規劃產品線策略與發展藍圖，深入分析使用者需求，設計產品功能與流程（包含資料架構、Wireframe、Flow Chart），並與產品設計師協作產出 UI Flow、Prototype、Mockup，同時負責產品規格文件（Spec）撰寫與需求定義\n・基於公司策略方向，制定產品開發計畫，並排序優先順序與階段目標。\n・與設計師、工程師以及其他部門合作，確保產品功能解決客戶問題。\n・了解客戶在 CRM 和 CDP 資料整合方面的需求並提供解決方案。\n・能夠以 Data-driven 與 User-centric 的量化與質化能力做持續對產品進行疊代。\n・具備市場與競品分析能力，能作為產品策略與功能規劃參考。\n【Must have】\n・擁有 5 年以上的 B2B 軟體產品開發經驗。\n・熟悉 Agile/Scrum 等產品開發管理技巧。\n・具備良好的中英文的文字與口語溝通能力，並能扼要闡明脈絡\n・對 CRM 和 CDP 或其他企業系統，有系統功能整合的經驗。\n・具備領導和團隊合作能力，能夠協調跨部門資源。\n・具備市場研究和競品分析能力，並能根據數據做出策略性決策。\n・具備客戶關係管理能力，能夠理解並滿足 B2B 客戶的特定需求，規劃出可行的解決方案或是開發計畫。\n【Nice to have】\n・具有技術背景或深入的技術知識，以支援產品的整合和開發。\n・熟悉 Facebook、Instagram、LINE、WhatsApp 等社群平台的 API 和功能。\n・有參與過 MarTech, Chatbot, Retail, E-commerce 的產品開發經驗。\n・有參與過 ChatGPT 等相關 AI 應用經驗。\n・有領導團隊整合第三方服務或與技術夥伴進行技術整合的經驗。\n・有數據分析相關的經驗，熟悉 Mixpanel, Amplitude, Google Analytics。\n・有程式技術背景加分。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資深產品經理 | Senior Product Manager"
+  },
+  "location": {
+    "address_raw": "台北市中山區中山北路二段96號14樓",
+    "raw": "台北市中山區中山北路二段96號14樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "Google Analytics",
+          "e-commerce",
+          "Mockup",
+          "Prototype",
+          "Scrum",
+          "Wireframe",
+          "ChatGPT"
+        ],
+        "label": "擅長工具",
+        "text": "Google Analytics、e-commerce、Mockup、Prototype、Scrum、Wireframe、ChatGPT"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "資料庫程式設計",
+          "網路程式設計",
+          "軟體程式設計",
+          "專案成本╱品質╱風險管理",
+          "系統整合分析",
+          "系統架構規劃",
+          "提案與簡報技巧",
+          "專案管理架構及專案說明",
+          "專案溝通╱整合管理",
+          "專案規劃執行╱範圍管理",
+          "專案時間╱進度控管"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、資料庫程式設計、網路程式設計、軟體程式設計、專案成本╱品質╱風險管理、系統整合分析、系統架構規劃、提案與簡報技巧、專案管理架構及專案說明、專案溝通╱整合管理、專案規劃執行╱範圍管理、專案時間╱進度控管"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "資料庫程式設計",
+      "網路程式設計",
+      "軟體程式設計",
+      "專案成本╱品質╱風險管理",
+      "系統整合分析",
+      "系統架構規劃",
+      "提案與簡報技巧",
+      "專案管理架構及專案說明",
+      "專案溝通╱整合管理",
+      "專案規劃執行╱範圍管理",
+      "專案時間╱進度控管"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n擅長工具：Google Analytics、e-commerce、Mockup、Prototype、Scrum、Wireframe、ChatGPT\n工作技能：軟體工程系統開發、資料庫程式設計、網路程式設計、軟體程式設計、專案成本╱品質╱風險管理、系統整合分析、系統架構規劃、提案與簡報技巧、專案管理架構及專案說明、專案溝通╱整合管理、專案規劃執行╱範圍管理、專案時間╱進度控管",
+    "tools": [
+      "Google Analytics",
+      "e-commerce",
+      "Mockup",
+      "Prototype",
+      "Scrum",
+      "Wireframe",
+      "ChatGPT"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 73
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:21:33+08:00"
+  },
+  "salary": {
+    "raw": "年薪1,000,000~1,500,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Omnichat (原Easychat）創辦於 2017年，是來自香港的新創企業，專注於發展全通路對話式商務 (Omnichannel Chat Commerce)。涉及技術和產品包括串接官網對話及整合不同社群通訊軟體， 跨渠道用戶數據追蹤，全通路線上線下 OMO 導購銷售，Live Chat、Chatbot、自動化跨渠道再行銷，快速讓客戶營收成長及提升銷售轉換。LINE/Meta官方認證技術夥伴\n【Responsibility】\n・規劃產品線策略與發展藍圖，深入分析使用者需求，設計產品功能與流程（包含資料架構、Wireframe、Flow Chart），並與產品設計師協作產出 UI Flow、Prototype、Mockup，同時負責產品規格文件（Spec）撰寫與需求定義\n・基於公司策略方向，制定產品開發計畫，並排序優先順序與階段目標。\n・與設計師、工程師以及其他部門合作，確保產品功能解決客戶問題。\n・了解客戶在 CRM 和 CDP 資料整合方面的需求並提供解決方案。\n・能夠以 Data-driven 與 User-centric 的量化與質化能力做持續對產品進行疊代。\n・具備市場與競品分析能力，能作為產品策略與功能規劃參考。\n【Must have】\n・擁有 5 年以上的 B2B 軟體產品開發經驗。\n・熟悉 Agile/Scrum 等產品開發管理技巧。\n・具備良好的中英文的文字與口語溝通能力，並能扼要闡明脈絡\n・對 CRM 和 CDP 或其他企業系統，有系統功能整合的經驗。\n・具備領導和團隊合作能力，能夠協調跨部門資源。\n・具備市場研究和競品分析能力，並能根據數據做出策略性決策。\n・具備客戶關係管理能力，能夠理解並滿足 B2B 客戶的特定需求，規劃出可行的解決方案或是開發計畫。\n【Nice to have】\n・具有技術背景或深入的技術知識，以支援產品的整合和開發。\n・熟悉 Facebook、Instagram、LINE、WhatsApp 等社群平台的 API 和功能。\n・有參與過 MarTech, Chatbot, Retail, E-commerce 的產品開發經驗。\n・有參與過 ChatGPT 等相關 AI 應用經驗。\n・有領導團隊整合第三方服務或與技術夥伴進行技術整合的經驗。\n・有數據分析相關的經驗，熟悉 Mixpanel, Amplitude, Google Analytics。\n・有程式技術背景加分。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "產品管理師",
+            "軟體專案管理師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "產品管理師、軟體專案管理師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪1,000,000~1,500,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區中山北路二段96號14樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Omnichat (原Easychat）創辦於 2017年，是來自香港的新創企業，專注於發展全通路對話式商務 (Omnichannel Chat Commerce)。涉及技術和產品包括串接官網對話及整合不同社群通訊軟體， 跨渠道用戶數據追蹤，全通路線上線下 OMO 導購銷售，Live Chat、Chatbot、自動化跨渠道再行銷，快速讓客戶營收成長及提升銷售轉換。LINE/Meta官方認證技術夥伴\n【Responsibility】\n・規劃產品線策略與發展藍圖，深入分析使用者需求，設計產品功能與流程（包含資料架構、Wireframe、Flow Chart），並與產品設計師協作產出 UI Flow、Prototype、Mockup，同時負責產品規格文件（Spec）撰寫與需求定義\n・基於公司策略方向，制定產品開發計畫，並排序優先順序與階段目標。\n・與設計師、工程師以及其他部門合作，確保產品功能解決客戶問題。\n・了解客戶在 CRM 和 CDP 資料整合方面的需求並提供解決方案。\n・能夠以 Data-driven 與 User-centric 的量化與質化能力做持續對產品進行疊代。\n・具備市場與競品分析能力，能作為產品策略與功能規劃參考。\n【Must have】\n・擁有 5 年以上的 B2B 軟體產品開發經驗。\n・熟悉 Agile/Scrum 等產品開發管理技巧。\n・具備良好的中英文的文字與口語溝通能力，並能扼要闡明脈絡\n・對 CRM 和 CDP 或其他企業系統，有系統功能整合的經驗。\n・具備領導和團隊合作能力，能夠協調跨部門資源。\n・具備市場研究和競品分析能力，並能根據數據做出策略性決策。\n・具備客戶關係管理能力，能夠理解並滿足 B2B 客戶的特定需求，規劃出可行的解決方案或是開發計畫。\n【Nice to have】\n・具有技術背景或深入的技術知識，以支援產品的整合和開發。\n・熟悉 Facebook、Instagram、LINE、WhatsApp 等社群平台的 API 和功能。\n・有參與過 MarTech, Chatbot, Retail, E-commerce 的產品開發經驗。\n・有參與過 ChatGPT 等相關 AI 應用經驗。\n・有領導團隊整合第三方服務或與技術夥伴進行技術整合的經驗。\n・有數據分析相關的經驗，熟悉 Mixpanel, Amplitude, Google Analytics。\n・有程式技術背景加分。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Google Analytics",
+            "e-commerce",
+            "Mockup",
+            "Prototype",
+            "Scrum",
+            "Wireframe",
+            "ChatGPT"
+          ],
+          "label": "擅長工具",
+          "text": "Google Analytics、e-commerce、Mockup、Prototype、Scrum、Wireframe、ChatGPT",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "資料庫程式設計",
+            "網路程式設計",
+            "軟體程式設計",
+            "專案成本╱品質╱風險管理",
+            "系統整合分析",
+            "系統架構規劃",
+            "提案與簡報技巧",
+            "專案管理架構及專案說明",
+            "專案溝通╱整合管理",
+            "專案規劃執行╱範圍管理",
+            "專案時間╱進度控管"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、資料庫程式設計、網路程式設計、軟體程式設計、專案成本╱品質╱風險管理、系統整合分析、系統架構規劃、提案與簡報技巧、專案管理架構及專案說明、專案溝通╱整合管理、專案規劃執行╱範圍管理、專案時間╱進度控管",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n擅長工具：Google Analytics、e-commerce、Mockup、Prototype、Scrum、Wireframe、ChatGPT\n工作技能：軟體工程系統開發、資料庫程式設計、網路程式設計、軟體程式設計、專案成本╱品質╱風險管理、系統整合分析、系統架構規劃、提案與簡報技巧、專案管理架構及專案說明、專案溝通╱整合管理、專案規劃執行╱範圍管理、專案時間╱進度控管"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7y2u6",
+    "job_url": "https://www.104.com.tw/job/7y2u6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7y2u6.json",
+    "raw_sha256": "f98a4f0e5715a93004d284bdc84605b379cc116d100f8bbe6aefdeb3997b19d9",
+    "requested_url": "https://www.104.com.tw/api/jobs/7y2u6"
+  }
+}

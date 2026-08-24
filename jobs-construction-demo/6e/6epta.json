@@ -1,0 +1,216 @@
+{
+  "company": {
+    "id": "a6fk8ns",
+    "name": "精益科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具備C語言程式開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備嵌入式即時作業系統 (Embedded RTOS, FreeRTOS) 軟體開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 ARM 平台。"
+        },
+        {
+          "children": [],
+          "text": "具備週邊硬體驅動程式開發經驗 (GPIO,SPI,I2C,UART等)"
+        },
+        {
+          "children": [],
+          "text": "熟網路通訊架構與協定 (e.g., TCP/UDP, IP)"
+        },
+        {
+          "children": [],
+          "text": "具獨立作業能力，並能參與硬體開發除錯"
+        }
+      ],
+      "text": "1. 具備C語言程式開發經驗。\n2. 具備嵌入式即時作業系統 (Embedded RTOS, FreeRTOS) 軟體開發經驗\n3. 熟悉 ARM 平台。\n4. 具備週邊硬體驅動程式開發經驗 (GPIO,SPI,I2C,UART等)\n5. 熟網路通訊架構與協定 (e.g., TCP/UDP, IP)\n6. 具獨立作業能力，並能參與硬體開發除錯"
+    },
+    "employment_type_raw": "全職",
+    "title": "驅動程式開發工程師"
+  },
+  "location": {
+    "address_raw": "台北市南港區",
+    "raw": "台北市南港區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子維護相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子維護相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "C",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++"
+      },
+      {
+        "items": [
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "韌體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "電機電子維護相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、電機電子維護相關、其他數學及電算機科學相關\n擅長工具：C、C++\n工作技能：韌體程式設計",
+    "tools": [
+      "C",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 54
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:35:37+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 具備C語言程式開發經驗。\n2. 具備嵌入式即時作業系統 (Embedded RTOS, FreeRTOS) 軟體開發經驗\n3. 熟悉 ARM 平台。\n4. 具備週邊硬體驅動程式開發經驗 (GPIO,SPI,I2C,UART等)\n5. 熟網路通訊架構與協定 (e.g., TCP/UDP, IP)\n6. 具獨立作業能力，並能參與硬體開發除錯",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 具備C語言程式開發經驗。\n2. 具備嵌入式即時作業系統 (Embedded RTOS, FreeRTOS) 軟體開發經驗\n3. 熟悉 ARM 平台。\n4. 具備週邊硬體驅動程式開發經驗 (GPIO,SPI,I2C,UART等)\n5. 熟網路通訊架構與協定 (e.g., TCP/UDP, IP)\n6. 具獨立作業能力，並能參與硬體開發除錯"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子維護相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子維護相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "韌體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、電機電子維護相關、其他數學及電算機科學相關\n擅長工具：C、C++\n工作技能：韌體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6epta",
+    "job_url": "https://www.104.com.tw/job/6epta",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6epta.json",
+    "raw_sha256": "bff2e1ba5c7dd0b66cc646975509548dc72cdb4935ae6dfb79d4bf63047e74fb",
+    "requested_url": "https://www.104.com.tw/api/jobs/6epta"
+  }
+}

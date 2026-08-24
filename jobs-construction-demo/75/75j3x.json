@@ -1,0 +1,227 @@
+{
+  "company": {
+    "id": "cl8kv1c",
+    "name": "佳陞科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "自動控制工程師",
+      "助理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟工業配線規劃,具實際設備配線施工經驗者尤佳"
+        },
+        {
+          "children": [],
+          "text": "協助工程師設備開發機線路規劃、元件選用、機台電控相關除錯"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項"
+        }
+      ],
+      "text": "1. 熟工業配線規劃,具實際設備配線施工經驗者尤佳\n2. 協助工程師設備開發機線路規劃、元件選用、機台電控相關除錯\n3. 其他主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "電控助理工程師"
+  },
+  "location": {
+    "address_raw": "台中市南屯區益文三街65號",
+    "raw": "台中市南屯區益文三街65號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word",
+          "AutoCAD"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Outlook、PowerPoint、Word、AutoCAD"
+      },
+      {
+        "items": [
+          "電力工程裝修與控制",
+          "電工圖識圖與繪圖",
+          "電工儀表裝置使用",
+          "電動機及電氣相關知識",
+          "配電裝修維護",
+          "導線槽裝置及配線",
+          "電機設備保養修護"
+        ],
+        "label": "工作技能",
+        "text": "電力工程裝修與控制、電工圖識圖與繪圖、電工儀表裝置使用、電動機及電氣相關知識、配電裝修維護、導線槽裝置及配線、電機設備保養修護"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "電力工程裝修與控制",
+      "電工圖識圖與繪圖",
+      "電工儀表裝置使用",
+      "電動機及電氣相關知識",
+      "配電裝修維護",
+      "導線槽裝置及配線",
+      "電機設備保養修護"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Excel、Outlook、PowerPoint、Word、AutoCAD\n工作技能：電力工程裝修與控制、電工圖識圖與繪圖、電工儀表裝置使用、電動機及電氣相關知識、配電裝修維護、導線槽裝置及配線、電機設備保養修護",
+    "tools": [
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word",
+      "AutoCAD"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 34
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:44:52+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 熟工業配線規劃,具實際設備配線施工經驗者尤佳\n2. 協助工程師設備開發機線路規劃、元件選用、機台電控相關除錯\n3. 其他主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "自動控制工程師",
+            "助理工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、自動控制工程師、助理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市南屯區益文三街65號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 熟工業配線規劃,具實際設備配線施工經驗者尤佳\n2. 協助工程師設備開發機線路規劃、元件選用、機台電控相關除錯\n3. 其他主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word",
+            "AutoCAD"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Outlook、PowerPoint、Word、AutoCAD",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電力工程裝修與控制",
+            "電工圖識圖與繪圖",
+            "電工儀表裝置使用",
+            "電動機及電氣相關知識",
+            "配電裝修維護",
+            "導線槽裝置及配線",
+            "電機設備保養修護"
+          ],
+          "label": "工作技能",
+          "text": "電力工程裝修與控制、電工圖識圖與繪圖、電工儀表裝置使用、電動機及電氣相關知識、配電裝修維護、導線槽裝置及配線、電機設備保養修護",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Excel、Outlook、PowerPoint、Word、AutoCAD\n工作技能：電力工程裝修與控制、電工圖識圖與繪圖、電工儀表裝置使用、電動機及電氣相關知識、配電裝修維護、導線槽裝置及配線、電機設備保養修護"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "75j3x",
+    "job_url": "https://www.104.com.tw/job/75j3x",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/75j3x.json",
+    "raw_sha256": "b5ee019189c180a2d1d1d7e7dc1cadb6841405b3abaa5e604ba0c7588b37a654",
+    "requested_url": "https://www.104.com.tw/api/jobs/75j3x"
+  }
+}

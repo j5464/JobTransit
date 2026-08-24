@@ -1,0 +1,253 @@
+{
+  "company": {
+    "id": "cifpbp4",
+    "name": "國泰綜合證券股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計與開發ASP.NET Core Web API（.NET 6/7/8）"
+        },
+        {
+          "children": [],
+          "text": "建立並維護分層式架構Controller / Service / RepositoryDTO 與 Domain Model 分離"
+        },
+        {
+          "children": [],
+          "text": "設計與實作API 基礎建設Middleware（例：Logging、Exception Handling、Auth） API Versioning（/v1、/v2）Swagger / OpenAPI 文件"
+        },
+        {
+          "children": [],
+          "text": "API 安全與身分驗證JWT、OAuth2、OpenID Connect"
+        },
+        {
+          "children": [],
+          "text": "撰寫單元與整合測試xUnit / Nunit"
+        },
+        {
+          "children": [],
+          "text": "維護測試 Coverage"
+        },
+        {
+          "children": [],
+          "text": "參與 CI/CD 與品質控管SonarQube、SCA 掃描Pipeline Gate、部署驗證"
+        },
+        {
+          "children": [],
+          "text": "與 SA、Frontend、DevOps 合作，參與系統分析、設計與文件化"
+        },
+        {
+          "children": [],
+          "text": "線上服務的維運，針對線上問題進行釐清與修正"
+        },
+        {
+          "children": [],
+          "text": "具備NET Web Service與 Web API開發經驗"
+        },
+        {
+          "children": [],
+          "text": "具備C#、MS SQL、多工處理、TCP/IP等專案開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟Git版控及CI/CD相關工具流程"
+        },
+        {
+          "children": [],
+          "text": "良好的表達能力，例: 具備獨立負責和跟進項目的經驗"
+        },
+        {
+          "children": [],
+          "text": "基於工作性質，需要具備學習能力和自我驅動意識，"
+        },
+        {
+          "children": [],
+          "text": "具備金融商品交易專案開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉NET Core開發技術"
+        },
+        {
+          "children": [],
+          "text": "有敏捷團隊的經驗，了解敏捷開發的運作思維和流程"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Vibe Coding"
+        }
+      ],
+      "text": "【工作內容】\n1. 設計與開發ASP.NET Core Web API（.NET 6/7/8）\n2. 建立並維護分層式架構Controller / Service / RepositoryDTO 與 Domain Model 分離\n3. 設計與實作API 基礎建設Middleware（例：Logging、Exception Handling、Auth） API Versioning（/v1、/v2）Swagger / OpenAPI 文件\n4. API 安全與身分驗證JWT、OAuth2、OpenID Connect\n5. 撰寫單元與整合測試xUnit / Nunit\n-維護測試 Coverage\n-參與 CI/CD 與品質控管SonarQube、SCA 掃描Pipeline Gate、部署驗證\n6. 與 SA、Frontend、DevOps 合作，參與系統分析、設計與文件化\n7. 線上服務的維運，針對線上問題進行釐清與修正\n【需求條件】\n1. 具備NET Web Service與 Web API開發經驗\n2. 具備C#、MS SQL、多工處理、TCP/IP等專案開發經驗\n3. 熟Git版控及CI/CD相關工具流程\n4. 良好的表達能力，例: 具備獨立負責和跟進項目的經驗\n5. 基於工作性質，需要具備學習能力和自我驅動意識，\n能夠發現問題並解決問題\n【加分條件】\n1. 具備金融商品交易專案開發經驗\n2. 熟悉NET Core開發技術\n3. 有敏捷團隊的經驗，了解敏捷開發的運作思維和流程\n4. 熟悉 Vibe Coding\n【你將收穫】\n你將會在一個具有開放文化、敏捷思維的工作環境中揮灑你的能力與創造力，除了將與一群熱情與專業的夥伴共事之外，你也將會汲取投資、數位金融知識、參與新產品孵化從無到有的過程，並在諸多專案當中貢獻、精進與成長。國證數位金融團隊，就是你的創業舞台 ! 期待你來大放異彩。\n※為擴大招攬數位菁英人才，面試流程如下：\nstep1、請先投遞104人力銀行上之此職缺\nstep2、符合資格者，將邀請您至【國泰證券招募官網https://recruit.cathayholdings.com/】登錄履歷"
+    },
+    "employment_type_raw": "全職",
+    "title": "後端程式開發人員(數位開發部)"
+  },
+  "location": {
+    "address_raw": "台北市大安區敦化南路二段335號22樓",
+    "raw": "台北市大安區敦化南路二段335號22樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、略懂"
+      },
+      {
+        "items": [
+          "C#",
+          "Visual C#",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Visual C#、MS SQL"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【本職缺歡迎身心障礙者投遞履歷】"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、略懂"
+    ],
+    "majors": [],
+    "other_text": "【本職缺歡迎身心障礙者投遞履歷】",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：C#、Visual C#、MS SQL\n其他條件：【本職缺歡迎身心障礙者投遞履歷】",
+    "tools": [
+      "C#",
+      "Visual C#",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 8
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:42:07+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 設計與開發ASP.NET Core Web API（.NET 6/7/8）\n2. 建立並維護分層式架構Controller / Service / RepositoryDTO 與 Domain Model 分離\n3. 設計與實作API 基礎建設Middleware（例：Logging、Exception Handling、Auth） API Versioning（/v1、/v2）Swagger / OpenAPI 文件\n4. API 安全與身分驗證JWT、OAuth2、OpenID Connect\n5. 撰寫單元與整合測試xUnit / Nunit\n-維護測試 Coverage\n-參與 CI/CD 與品質控管SonarQube、SCA 掃描Pipeline Gate、部署驗證\n6. 與 SA、Frontend、DevOps 合作，參與系統分析、設計與文件化\n7. 線上服務的維運，針對線上問題進行釐清與修正\n【需求條件】\n1. 具備NET Web Service與 Web API開發經驗\n2. 具備C#、MS SQL、多工處理、TCP/IP等專案開發經驗\n3. 熟Git版控及CI/CD相關工具流程\n4. 良好的表達能力，例: 具備獨立負責和跟進項目的經驗\n5. 基於工作性質，需要具備學習能力和自我驅動意識，\n能夠發現問題並解決問題\n【加分條件】\n1. 具備金融商品交易專案開發經驗\n2. 熟悉NET Core開發技術\n3. 有敏捷團隊的經驗，了解敏捷開發的運作思維和流程\n4. 熟悉 Vibe Coding\n【你將收穫】\n你將會在一個具有開放文化、敏捷思維的工作環境中揮灑你的能力與創造力，除了將與一群熱情與專業的夥伴共事之外，你也將會汲取投資、數位金融知識、參與新產品孵化從無到有的過程，並在諸多專案當中貢獻、精進與成長。國證數位金融團隊，就是你的創業舞台 ! 期待你來大放異彩。\n※為擴大招攬數位菁英人才，面試流程如下：\nstep1、請先投遞104人力銀行上之此職缺\nstep2、符合資格者，將邀請您至【國泰證券招募官網https://recruit.cathayholdings.com/】登錄履歷",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區敦化南路二段335號22樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 設計與開發ASP.NET Core Web API（.NET 6/7/8）\n2. 建立並維護分層式架構Controller / Service / RepositoryDTO 與 Domain Model 分離\n3. 設計與實作API 基礎建設Middleware（例：Logging、Exception Handling、Auth） API Versioning（/v1、/v2）Swagger / OpenAPI 文件\n4. API 安全與身分驗證JWT、OAuth2、OpenID Connect\n5. 撰寫單元與整合測試xUnit / Nunit\n-維護測試 Coverage\n-參與 CI/CD 與品質控管SonarQube、SCA 掃描Pipeline Gate、部署驗證\n6. 與 SA、Frontend、DevOps 合作，參與系統分析、設計與文件化\n7. 線上服務的維運，針對線上問題進行釐清與修正\n【需求條件】\n1. 具備NET Web Service與 Web API開發經驗\n2. 具備C#、MS SQL、多工處理、TCP/IP等專案開發經驗\n3. 熟Git版控及CI/CD相關工具流程\n4. 良好的表達能力，例: 具備獨立負責和跟進項目的經驗\n5. 基於工作性質，需要具備學習能力和自我驅動意識，\n能夠發現問題並解決問題\n【加分條件】\n1. 具備金融商品交易專案開發經驗\n2. 熟悉NET Core開發技術\n3. 有敏捷團隊的經驗，了解敏捷開發的運作思維和流程\n4. 熟悉 Vibe Coding\n【你將收穫】\n你將會在一個具有開放文化、敏捷思維的工作環境中揮灑你的能力與創造力，除了將與一群熱情與專業的夥伴共事之外，你也將會汲取投資、數位金融知識、參與新產品孵化從無到有的過程，並在諸多專案當中貢獻、精進與成長。國證數位金融團隊，就是你的創業舞台 ! 期待你來大放異彩。\n※為擴大招攬數位菁英人才，面試流程如下：\nstep1、請先投遞104人力銀行上之此職缺\nstep2、符合資格者，將邀請您至【國泰證券招募官網https://recruit.cathayholdings.com/】登錄履歷"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Visual C#",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Visual C#、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【本職缺歡迎身心障礙者投遞履歷】",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：C#、Visual C#、MS SQL\n其他條件：【本職缺歡迎身心障礙者投遞履歷】"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6ut8m",
+    "job_url": "https://www.104.com.tw/job/6ut8m",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6ut8m.json",
+    "raw_sha256": "867a4aff4c8a986866e1a6b427c057ae3dd19686e22136c85f27c4101fe3debe",
+    "requested_url": "https://www.104.com.tw/api/jobs/6ut8m"
+  }
+}

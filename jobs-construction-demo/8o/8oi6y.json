@@ -1,0 +1,190 @@
+{
+  "company": {
+    "id": "233rv1s",
+    "name": "鴻海精密工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "規劃及執行 AI Server or NB/Compute Node/GPU 等之系統整合測試。內容包含硬體/軟韌體/相容性/效能/産品功能等。"
+        },
+        {
+          "children": [],
+          "text": "產品品質問題追蹤、分析及改善。"
+        },
+        {
+          "children": [],
+          "text": "依照專案任務需求和客戶開會報告。"
+        }
+      ],
+      "text": "1. 規劃及執行 AI Server or NB/Compute Node/GPU 等之系統整合測試。內容包含硬體/軟韌體/相容性/效能/産品功能等。\n2. 產品品質問題追蹤、分析及改善。\n3. 依照專案任務需求和客戶開會報告。"
+    },
+    "employment_type_raw": "全職",
+    "title": "RD-系統整合測試工程師(土城)-E事業群"
+  },
+  "location": {
+    "address_raw": "新北市土城區依指定工作地點分派",
+    "raw": "新北市土城區依指定工作地點分派"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 兩年以上PC/NB/Server/Storage/IPC類別產品之軟韌硬體功能測試，熟悉電腦組裝及問題分析佳。\n2. 熟悉Windows / Linux 等作業系統安裝及指令操作\n3. 熟悉IB/Ethernet的架構,測試和除錯\n4. 熟悉NetQ/BCM/Slurm/NMX/K8S佳\n5. 有執行HPC的benchmark及MLperf的經驗\n6. 具NVCP Infiniband尤佳\n7. 具有測試自動化之撰寫或規劃經驗，或QualityPM/TestPM 之測試規劃管理經驗者佳\n8. 英文能力：TOEIC > 500 or 同等能力以上"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1. 兩年以上PC/NB/Server/Storage/IPC類別產品之軟韌硬體功能測試，熟悉電腦組裝及問題分析佳。\n2. 熟悉Windows / Linux 等作業系統安裝及指令操作\n3. 熟悉IB/Ethernet的架構,測試和除錯\n4. 熟悉NetQ/BCM/Slurm/NMX/K8S佳\n5. 有執行HPC的benchmark及MLperf的經驗\n6. 具NVCP Infiniband尤佳\n7. 具有測試自動化之撰寫或規劃經驗，或QualityPM/TestPM 之測試規劃管理經驗者佳\n8. 英文能力：TOEIC > 500 or 同等能力以上",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 兩年以上PC/NB/Server/Storage/IPC類別產品之軟韌硬體功能測試，熟悉電腦組裝及問題分析佳。\n2. 熟悉Windows / Linux 等作業系統安裝及指令操作\n3. 熟悉IB/Ethernet的架構,測試和除錯\n4. 熟悉NetQ/BCM/Slurm/NMX/K8S佳\n5. 有執行HPC的benchmark及MLperf的經驗\n6. 具NVCP Infiniband尤佳\n7. 具有測試自動化之撰寫或規劃經驗，或QualityPM/TestPM 之測試規劃管理經驗者佳\n8. 英文能力：TOEIC > 500 or 同等能力以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 51
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:28:35+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 規劃及執行 AI Server or NB/Compute Node/GPU 等之系統整合測試。內容包含硬體/軟韌體/相容性/效能/産品功能等。\n2. 產品品質問題追蹤、分析及改善。\n3. 依照專案任務需求和客戶開會報告。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市土城區依指定工作地點分派",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 規劃及執行 AI Server or NB/Compute Node/GPU 等之系統整合測試。內容包含硬體/軟韌體/相容性/效能/産品功能等。\n2. 產品品質問題追蹤、分析及改善。\n3. 依照專案任務需求和客戶開會報告。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 兩年以上PC/NB/Server/Storage/IPC類別產品之軟韌硬體功能測試，熟悉電腦組裝及問題分析佳。\n2. 熟悉Windows / Linux 等作業系統安裝及指令操作\n3. 熟悉IB/Ethernet的架構,測試和除錯\n4. 熟悉NetQ/BCM/Slurm/NMX/K8S佳\n5. 有執行HPC的benchmark及MLperf的經驗\n6. 具NVCP Infiniband尤佳\n7. 具有測試自動化之撰寫或規劃經驗，或QualityPM/TestPM 之測試規劃管理經驗者佳\n8. 英文能力：TOEIC > 500 or 同等能力以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 兩年以上PC/NB/Server/Storage/IPC類別產品之軟韌硬體功能測試，熟悉電腦組裝及問題分析佳。\n2. 熟悉Windows / Linux 等作業系統安裝及指令操作\n3. 熟悉IB/Ethernet的架構,測試和除錯\n4. 熟悉NetQ/BCM/Slurm/NMX/K8S佳\n5. 有執行HPC的benchmark及MLperf的經驗\n6. 具NVCP Infiniband尤佳\n7. 具有測試自動化之撰寫或規劃經驗，或QualityPM/TestPM 之測試規劃管理經驗者佳\n8. 英文能力：TOEIC > 500 or 同等能力以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8oi6y",
+    "job_url": "https://www.104.com.tw/job/8oi6y",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8oi6y.json",
+    "raw_sha256": "f269bc98408c3e96cca439f83b038253a1cc6c3eb6862c441e940b5f2b01898a",
+    "requested_url": "https://www.104.com.tw/api/jobs/8oi6y"
+  }
+}

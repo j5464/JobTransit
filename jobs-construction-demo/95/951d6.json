@@ -1,0 +1,133 @@
+{
+  "company": {
+    "id": "1a2x6bluex",
+    "name": "拓美諮詢有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "MIS／網管主管",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [],
+      "text": "職位概述\n負責公司整體 IT 基礎架構、系統轉型及中長期資訊策略規劃。\n此職位不僅負責既有 IT Infrastructure 與機房環境的穩定營運，更重要的任務是因應公司未來系統架構與業務發展需求，制定並推動 系統轉型、Infrastructure Modernization 及 Technology Roadmap。\n我們期待此主管具備大型金融機構的資訊基礎架構管理經驗，並曾實際參與或主導大型系統轉型，能從策略規劃、目標架構、基礎設施規劃一路推進至 Migration、Go-live 與後續優化。\n主要工作職責\n一、IT 策略與轉型規劃\n依據公司業務與科技發展方向，制定中長期 IT Infrastructure Strategy 及 Technology Roadmap。\n評估現有系統與基礎架構環境，規劃未來 Target Architecture 及轉型方向。\n主導大型 系統轉型、系統現代化及基礎架構升級計畫。\n規劃轉型優先順序、投資方向、資源配置及相關風險管理。\n協助組織從傳統維運導向，逐步轉型為具策略規劃與技術創新能力的 IT Infrastructure 團隊。\n二、系統轉型與現代化\n主導或參與大型 System Transformation / System Modernization / System Migration。\n因應核心系統及重要業務系統轉換，規劃相對應的 Infrastructure Architecture。\n負責大型系統轉換過程中的 Migration Strategy、Cutover Planning、Risk Management 及 Go-live。\n推動 Legacy System / Legacy Infrastructure 現代化及整合。\n與 Application、Architecture、Information Security 及 Business Team 合作，確保系統與基礎架構轉型方向一致。\n三、Infrastructure Transformation\n負責企業級 IT Infrastructure，包括 Data Center、Server、Storage、Network、Virtualization、Operating System、Private / Hybrid Cloud 等相關環境。\n規劃並推動 Data Center Transformation、Infrastructure Migration、Technology / Hardware Refresh 等大型專案。\n建立 Infrastructure Lifecycle Management、Capacity Planning 及技術升級機制。\n規劃 Disaster Recovery、Business Continuity、High Availability 及 Infrastructure Resilience。\n評估新興 Infrastructure Technology，並制定導入與轉型策略。\n四、團隊與組織管理\n制定組織目標、人才發展及團隊能力建設計畫。\n提升團隊從 BAU / Maintenance 導向至 Strategy / Transformation / Modernization 的能力。\n跨部門協調資訊、資安、應用系統及業務單位，推動大型轉型計畫。\n五、預算與供應商管理\n規劃年度 Infrastructure 投資及相關 CAPEX / OPEX。\n管理大型 Infrastructure Vendor、Technology Partner 及 Service Provider。\n負責技術方案評估、Vendor Selection 及重大專案資源規劃。\n確保科技投資符合公司長期 IT Strategy 及 Transformation Roadmap。\n任職條件\n具實際大型系統轉型經驗為必要條件。\n曾主導或深度參與 Infrastructure Transformation / Modernization。\n能從 Strategy、Architecture、Roadmap 到 Execution 完整推動大型轉型計畫。\n熟悉 Data Center、Server、Storage、Network、Virtualization、Cloud 等企業級基礎架構環境。\n具 System Migration、Infrastructure Migration、Technology Refresh 或 Data Center Transformation 經驗。\n具大型團隊管理經驗，並有管理 Team Leader / Manager 的經驗。\n具良好的跨部門溝通、高階 Stakeholder Management 及 Vendor Management 能力。\n銀行、證券或大型金融機構相關經驗優先。"
+    },
+    "employment_type_raw": "全職",
+    "title": "知名金融產業資訊主管"
+  },
+  "location": {
+    "address_raw": "台北市中正區",
+    "raw": "台北市中正區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "6年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "6年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：6年以上\n學歷要求：不拘",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 71
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:17:03+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "職位概述\n負責公司整體 IT 基礎架構、系統轉型及中長期資訊策略規劃。\n此職位不僅負責既有 IT Infrastructure 與機房環境的穩定營運，更重要的任務是因應公司未來系統架構與業務發展需求，制定並推動 系統轉型、Infrastructure Modernization 及 Technology Roadmap。\n我們期待此主管具備大型金融機構的資訊基礎架構管理經驗，並曾實際參與或主導大型系統轉型，能從策略規劃、目標架構、基礎設施規劃一路推進至 Migration、Go-live 與後續優化。\n主要工作職責\n一、IT 策略與轉型規劃\n依據公司業務與科技發展方向，制定中長期 IT Infrastructure Strategy 及 Technology Roadmap。\n評估現有系統與基礎架構環境，規劃未來 Target Architecture 及轉型方向。\n主導大型 系統轉型、系統現代化及基礎架構升級計畫。\n規劃轉型優先順序、投資方向、資源配置及相關風險管理。\n協助組織從傳統維運導向，逐步轉型為具策略規劃與技術創新能力的 IT Infrastructure 團隊。\n二、系統轉型與現代化\n主導或參與大型 System Transformation / System Modernization / System Migration。\n因應核心系統及重要業務系統轉換，規劃相對應的 Infrastructure Architecture。\n負責大型系統轉換過程中的 Migration Strategy、Cutover Planning、Risk Management 及 Go-live。\n推動 Legacy System / Legacy Infrastructure 現代化及整合。\n與 Application、Architecture、Information Security 及 Business Team 合作，確保系統與基礎架構轉型方向一致。\n三、Infrastructure Transformation\n負責企業級 IT Infrastructure，包括 Data Center、Server、Storage、Network、Virtualization、Operating System、Private / Hybrid Cloud 等相關環境。\n規劃並推動 Data Center Transformation、Infrastructure Migration、Technology / Hardware Refresh 等大型專案。\n建立 Infrastructure Lifecycle Management、Capacity Planning 及技術升級機制。\n規劃 Disaster Recovery、Business Continuity、High Availability 及 Infrastructure Resilience。\n評估新興 Infrastructure Technology，並制定導入與轉型策略。\n四、團隊與組織管理\n制定組織目標、人才發展及團隊能力建設計畫。\n提升團隊從 BAU / Maintenance 導向至 Strategy / Transformation / Modernization 的能力。\n跨部門協調資訊、資安、應用系統及業務單位，推動大型轉型計畫。\n五、預算與供應商管理\n規劃年度 Infrastructure 投資及相關 CAPEX / OPEX。\n管理大型 Infrastructure Vendor、Technology Partner 及 Service Provider。\n負責技術方案評估、Vendor Selection 及重大專案資源規劃。\n確保科技投資符合公司長期 IT Strategy 及 Transformation Roadmap。\n任職條件\n具實際大型系統轉型經驗為必要條件。\n曾主導或深度參與 Infrastructure Transformation / Modernization。\n能從 Strategy、Architecture、Roadmap 到 Execution 完整推動大型轉型計畫。\n熟悉 Data Center、Server、Storage、Network、Virtualization、Cloud 等企業級基礎架構環境。\n具 System Migration、Infrastructure Migration、Technology Refresh 或 Data Center Transformation 經驗。\n具大型團隊管理經驗，並有管理 Team Leader / Manager 的經驗。\n具良好的跨部門溝通、高階 Stakeholder Management 及 Vendor Management 能力。\n銀行、證券或大型金融機構相關經驗優先。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "MIS／網管主管",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、MIS／網管主管、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "職位概述\n負責公司整體 IT 基礎架構、系統轉型及中長期資訊策略規劃。\n此職位不僅負責既有 IT Infrastructure 與機房環境的穩定營運，更重要的任務是因應公司未來系統架構與業務發展需求，制定並推動 系統轉型、Infrastructure Modernization 及 Technology Roadmap。\n我們期待此主管具備大型金融機構的資訊基礎架構管理經驗，並曾實際參與或主導大型系統轉型，能從策略規劃、目標架構、基礎設施規劃一路推進至 Migration、Go-live 與後續優化。\n主要工作職責\n一、IT 策略與轉型規劃\n依據公司業務與科技發展方向，制定中長期 IT Infrastructure Strategy 及 Technology Roadmap。\n評估現有系統與基礎架構環境，規劃未來 Target Architecture 及轉型方向。\n主導大型 系統轉型、系統現代化及基礎架構升級計畫。\n規劃轉型優先順序、投資方向、資源配置及相關風險管理。\n協助組織從傳統維運導向，逐步轉型為具策略規劃與技術創新能力的 IT Infrastructure 團隊。\n二、系統轉型與現代化\n主導或參與大型 System Transformation / System Modernization / System Migration。\n因應核心系統及重要業務系統轉換，規劃相對應的 Infrastructure Architecture。\n負責大型系統轉換過程中的 Migration Strategy、Cutover Planning、Risk Management 及 Go-live。\n推動 Legacy System / Legacy Infrastructure 現代化及整合。\n與 Application、Architecture、Information Security 及 Business Team 合作，確保系統與基礎架構轉型方向一致。\n三、Infrastructure Transformation\n負責企業級 IT Infrastructure，包括 Data Center、Server、Storage、Network、Virtualization、Operating System、Private / Hybrid Cloud 等相關環境。\n規劃並推動 Data Center Transformation、Infrastructure Migration、Technology / Hardware Refresh 等大型專案。\n建立 Infrastructure Lifecycle Management、Capacity Planning 及技術升級機制。\n規劃 Disaster Recovery、Business Continuity、High Availability 及 Infrastructure Resilience。\n評估新興 Infrastructure Technology，並制定導入與轉型策略。\n四、團隊與組織管理\n制定組織目標、人才發展及團隊能力建設計畫。\n提升團隊從 BAU / Maintenance 導向至 Strategy / Transformation / Modernization 的能力。\n跨部門協調資訊、資安、應用系統及業務單位，推動大型轉型計畫。\n五、預算與供應商管理\n規劃年度 Infrastructure 投資及相關 CAPEX / OPEX。\n管理大型 Infrastructure Vendor、Technology Partner 及 Service Provider。\n負責技術方案評估、Vendor Selection 及重大專案資源規劃。\n確保科技投資符合公司長期 IT Strategy 及 Transformation Roadmap。\n任職條件\n具實際大型系統轉型經驗為必要條件。\n曾主導或深度參與 Infrastructure Transformation / Modernization。\n能從 Strategy、Architecture、Roadmap 到 Execution 完整推動大型轉型計畫。\n熟悉 Data Center、Server、Storage、Network、Virtualization、Cloud 等企業級基礎架構環境。\n具 System Migration、Infrastructure Migration、Technology Refresh 或 Data Center Transformation 經驗。\n具大型團隊管理經驗，並有管理 Team Leader / Manager 的經驗。\n具良好的跨部門溝通、高階 Stakeholder Management 及 Vendor Management 能力。\n銀行、證券或大型金融機構相關經驗優先。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "6年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：6年以上\n學歷要求：不拘"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "951d6",
+    "job_url": "https://www.104.com.tw/job/951d6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/951d6.json",
+    "raw_sha256": "1353830ccc557d7b692e299536b6f03202538e8f52950ea15c1db21f40603fb8",
+    "requested_url": "https://www.104.com.tw/api/jobs/951d6"
+  }
+}

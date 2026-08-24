@@ -1,0 +1,320 @@
+{
+  "company": {
+    "id": "1a2x6bkcjn",
+    "name": "國立成功大學_創新數位內容研究中心"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "後端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "後端系統開發"
+        },
+        {
+          "children": [],
+          "text": "參與專案團隊協作開發後端系統，完成系統需求與功能實作。"
+        },
+        {
+          "children": [],
+          "text": "開發與維護 Web 系統與後端服務。"
+        },
+        {
+          "children": [],
+          "text": "設計與開發 RESTful API，支援前後端分離架構。"
+        },
+        {
+          "children": [],
+          "text": "系統架構與資料設計"
+        },
+        {
+          "children": [],
+          "text": "參與系統流程規劃、資料庫架構設計與 Schema 規劃。"
+        },
+        {
+          "children": [],
+          "text": "撰寫後端程式邏輯並優化系統效能。"
+        },
+        {
+          "children": [],
+          "text": "維護既有系統並持續優化程式架構。"
+        },
+        {
+          "children": [],
+          "text": "系統整合與平台開發"
+        },
+        {
+          "children": [],
+          "text": "與 PM、UI/UX、前端工程師等團隊合作完成系統開發。"
+        },
+        {
+          "children": [],
+          "text": "進行跨系統 API 串接與資料整合。"
+        },
+        {
+          "children": [],
+          "text": "參與 DevOps 開發流程，如 Docker 容器化部署與 CI/CD 自動化流程。"
+        },
+        {
+          "children": [],
+          "text": "技術研究與應用"
+        },
+        {
+          "children": [],
+          "text": "在既有系統架構下持續優化與應用相關技術，例如："
+        },
+        {
+          "children": [],
+          "text": "與團隊分享技術經驗並提升整體開發效率。"
+        },
+        {
+          "children": [],
+          "text": "在既有 AI 輔助開發環境 中進行系統開發與程式優化。"
+        },
+        {
+          "children": [],
+          "text": "運用 AI 工具協助程式撰寫、除錯與技術研究，並將工程重心放在 系統設計與架構品質。"
+        },
+        {
+          "children": [],
+          "text": "系統品質與安全"
+        },
+        {
+          "children": [],
+          "text": "與 QA 與資安人員合作，提升系統穩定性與安全性。"
+        },
+        {
+          "children": [],
+          "text": "修復系統問題並優化程式碼品質。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項。"
+        },
+        {
+          "children": [],
+          "text": "自到職日起算3個月為試用期間，試用期滿考核合格者，續予僱用。"
+        }
+      ],
+      "text": "【我們正在打造的工程環境】\n我們是一個專注於 平台系統開發與軟體工程品質 的工程團隊，系統涵蓋 Web 平台、API 服務、APP 與智慧設備整合應用。\n目前團隊已建立 Docker 容器化、CI/CD 持續整合與自動化測試流程，並在日常開發與測試流程中使用 AI 輔助工具（AI-assisted development / testing）提升開發效率與產品品質。\n我們希望加入的工程師或 QA，能在這樣的工程環境中，專注於 系統設計、品質工程與複雜問題解決，而不只是完成單一功能開發。\n【我們正在尋找這樣的工程師】\n如果你對 後端系統架構、API 設計與資料處理 有興趣，並希望參與 長期運作的平台系統開發，歡迎加入我們的工程團隊。\n在既有 Docker、Redis、CI/CD 與 AI 輔助開發環境 中，你將參與平台後端服務與系統架構的持續優化與擴展。\n【工作內容】\n● 後端系統開發\n1. 參與專案團隊協作開發後端系統，完成系統需求與功能實作。\n2. 開發與維護 Web 系統與後端服務。\n3. 設計與開發 RESTful API，支援前後端分離架構。\n● 系統架構與資料設計\n4. 參與系統流程規劃、資料庫架構設計與 Schema 規劃。\n5. 撰寫後端程式邏輯並優化系統效能。\n6. 維護既有系統並持續優化程式架構。\n● 系統整合與平台開發\n7. 與 PM、UI/UX、前端工程師等團隊合作完成系統開發。\n8. 進行跨系統 API 串接與資料整合。\n9. 參與 DevOps 開發流程，如 Docker 容器化部署與 CI/CD 自動化流程。\n● 技術研究與應用\n10. 在既有系統架構下持續優化與應用相關技術，例如：\n· Docker 容器化環境之服務部署與系統維運優化\n· Redis 快取機制與系統效能提升\n· AI / LLM API 整合應用\n· 雲端架構與系統擴展能力\n11. 與團隊分享技術經驗並提升整體開發效率。\n12. 在既有 AI 輔助開發環境 中進行系統開發與程式優化。\n13. 運用 AI 工具協助程式撰寫、除錯與技術研究，並將工程重心放在 系統設計與架構品質。\n● 系統品質與安全\n14. 與 QA 與資安人員合作，提升系統穩定性與安全性。\n15. 修復系統問題並優化程式碼品質。\n● 其他主管交辦事項。\n●自到職日起算3個月為試用期間，試用期滿考核合格者，續予僱用。"
+    },
+    "employment_type_raw": "全職",
+    "title": "後端工程師"
+  },
+  "location": {
+    "address_raw": "台南市東區大學路1號 (國立成功大學 成功校區)",
+    "raw": "台南市東區大學路1號 (國立成功大學 成功校區)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "PHP",
+          "Python",
+          "MS SQL",
+          "MySQL",
+          "PostgreSQL",
+          "Linux",
+          "Git",
+          "LLM",
+          "Tomcat",
+          "Java",
+          "Apache SOAP",
+          "Spring"
+        ],
+        "label": "擅長工具",
+        "text": "PHP、Python、MS SQL、MySQL、PostgreSQL、Linux、Git、LLM、Tomcat、Java、Apache SOAP、Spring"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "一、擅長工具：\nBackend\n· PHP\n· Python\nFramework\n· Laravel\nDatabase\n· MySQL\n· MS SQL\n· PostgreSQL\nCache / Data\n· Redis\nDevOps / Container\n· Docker\n· CI/CD\nDevelopment Tools\n· Git\n· GitLab / GitHub\n· Postman\nServer / Environment\n· Linux\n· Apache / Tomcat / Nginx\nAI / Data（加分）\n· OpenAI API / LLM API\n· Python Data Processing\n· AI Coding Assistant（如 ChatGPT / Copilot / Cursor 等）\n· Prompt Engineering（AI 輔助開發）\n二、工作技能：\n● RESTful API 設計與開發\n● Web 後端系統開發\n● 系統架構規劃與設計\n● API 串接與系統整合\n● Database Schema 設計\n● SQL 撰寫與效能優化\n● Redis 快取應用\n● Git 版本控制與團隊協作\n● Web 系統安全設計（SQL Injection / XSS / CSRF）\n● 系統效能調校與問題排除\n三、加分技能\n● Docker 容器化開發與部署\n● CI/CD 自動化部署\n● AI / Machine Learning API 整合\n● Python 資料處理與服務開發\n● Testing / 自動化測試\n● 使用 AI 工具提升程式開發效率與問題排除能力\n● 在 AI 輔助開發環境中維持程式品質與架構設計能力\n四、其他條件：\n【專業能力】\n1. 熟悉 PHP 開發，具備 PHP 7 以上語法經驗。\n2. 具備 OOP、MVC 開發觀念。\n3. 熟練使用 Laravel 8 以上版本。\n4. 熟悉 Composer 套件管理工具。\n5. 具備 RESTful API 架構設計與開發經驗。\n6. 熟悉任一關聯式資料庫：\n● MySQL\n● MSSQL\n● PostgreSQL\n並具備 Database Schema 設計能力。\n7. 熟悉 Git 版本控制流程，具 GitHub 或 GitLab 經驗。\n8. 熟悉 API 測試工具（Postman）。\n9. 具備基本 Web 資安概念，例如：\n● SQL Injection\n● Command Injection\n● XSS\n● CSRF\n10. 了解 Redis 快取技術與基本應用。\n11. 具備以下經驗尤佳：\n● Docker 容器化開發\n● CI/CD 自動化流程\n● Python / .NET 等其他程式語言\n● AI / LLM API 整合應用\n● Testing / 單元測試或自動化測試\n● 熟悉 AI 開發工具（如 ChatGPT、Copilot 等）並能應用於日常開發流程\n【人格特質】\n1. 主動溝通並能與團隊合作解決問題。\n2. 具備分析問題與提出解決方案的能力。\n3. 能在 AI 輔助開發環境下持續精進技術並保持學習熱情。\n4. 具備良好的溝通能力與表達能力。\n5. 情緒管理良好，能在團隊環境中穩定合作。\n6. 樂於挑戰並持續精進技術能力。\n7. 能在 AI 工具輔助下保持工程判斷力，專注於系統設計與問題解決。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "一、擅長工具：\nBackend\n· PHP\n· Python\nFramework\n· Laravel\nDatabase\n· MySQL\n· MS SQL\n· PostgreSQL\nCache / Data\n· Redis\nDevOps / Container\n· Docker\n· CI/CD\nDevelopment Tools\n· Git\n· GitLab / GitHub\n· Postman\nServer / Environment\n· Linux\n· Apache / Tomcat / Nginx\nAI / Data（加分）\n· OpenAI API / LLM API\n· Python Data Processing\n· AI Coding Assistant（如 ChatGPT / Copilot / Cursor 等）\n· Prompt Engineering（AI 輔助開發）\n二、工作技能：\n● RESTful API 設計與開發\n● Web 後端系統開發\n● 系統架構規劃與設計\n● API 串接與系統整合\n● Database Schema 設計\n● SQL 撰寫與效能優化\n● Redis 快取應用\n● Git 版本控制與團隊協作\n● Web 系統安全設計（SQL Injection / XSS / CSRF）\n● 系統效能調校與問題排除\n三、加分技能\n● Docker 容器化開發與部署\n● CI/CD 自動化部署\n● AI / Machine Learning API 整合\n● Python 資料處理與服務開發\n● Testing / 自動化測試\n● 使用 AI 工具提升程式開發效率與問題排除能力\n● 在 AI 輔助開發環境中維持程式品質與架構設計能力\n四、其他條件：\n【專業能力】\n1. 熟悉 PHP 開發，具備 PHP 7 以上語法經驗。\n2. 具備 OOP、MVC 開發觀念。\n3. 熟練使用 Laravel 8 以上版本。\n4. 熟悉 Composer 套件管理工具。\n5. 具備 RESTful API 架構設計與開發經驗。\n6. 熟悉任一關聯式資料庫：\n● MySQL\n● MSSQL\n● PostgreSQL\n並具備 Database Schema 設計能力。\n7. 熟悉 Git 版本控制流程，具 GitHub 或 GitLab 經驗。\n8. 熟悉 API 測試工具（Postman）。\n9. 具備基本 Web 資安概念，例如：\n● SQL Injection\n● Command Injection\n● XSS\n● CSRF\n10. 了解 Redis 快取技術與基本應用。\n11. 具備以下經驗尤佳：\n● Docker 容器化開發\n● CI/CD 自動化流程\n● Python / .NET 等其他程式語言\n● AI / LLM API 整合應用\n● Testing / 單元測試或自動化測試\n● 熟悉 AI 開發工具（如 ChatGPT、Copilot 等）並能應用於日常開發流程\n【人格特質】\n1. 主動溝通並能與團隊合作解決問題。\n2. 具備分析問題與提出解決方案的能力。\n3. 能在 AI 輔助開發環境下持續精進技術並保持學習熱情。\n4. 具備良好的溝通能力與表達能力。\n5. 情緒管理良好，能在團隊環境中穩定合作。\n6. 樂於挑戰並持續精進技術能力。\n7. 能在 AI 工具輔助下保持工程判斷力，專注於系統設計與問題解決。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：PHP、Python、MS SQL、MySQL、PostgreSQL、Linux、Git、LLM、Tomcat、Java、Apache SOAP、Spring\n其他條件：一、擅長工具：\nBackend\n· PHP\n· Python\nFramework\n· Laravel\nDatabase\n· MySQL\n· MS SQL\n· PostgreSQL\nCache / Data\n· Redis\nDevOps / Container\n· Docker\n· CI/CD\nDevelopment Tools\n· Git\n· GitLab / GitHub\n· Postman\nServer / Environment\n· Linux\n· Apache / Tomcat / Nginx\nAI / Data（加分）\n· OpenAI API / LLM API\n· Python Data Processing\n· AI Coding Assistant（如 ChatGPT / Copilot / Cursor 等）\n· Prompt Engineering（AI 輔助開發）\n二、工作技能：\n● RESTful API 設計與開發\n● Web 後端系統開發\n● 系統架構規劃與設計\n● API 串接與系統整合\n● Database Schema 設計\n● SQL 撰寫與效能優化\n● Redis 快取應用\n● Git 版本控制與團隊協作\n● Web 系統安全設計（SQL Injection / XSS / CSRF）\n● 系統效能調校與問題排除\n三、加分技能\n● Docker 容器化開發與部署\n● CI/CD 自動化部署\n● AI / Machine Learning API 整合\n● Python 資料處理與服務開發\n● Testing / 自動化測試\n● 使用 AI 工具提升程式開發效率與問題排除能力\n● 在 AI 輔助開發環境中維持程式品質與架構設計能力\n四、其他條件：\n【專業能力】\n1. 熟悉 PHP 開發，具備 PHP 7 以上語法經驗。\n2. 具備 OOP、MVC 開發觀念。\n3. 熟練使用 Laravel 8 以上版本。\n4. 熟悉 Composer 套件管理工具。\n5. 具備 RESTful API 架構設計與開發經驗。\n6. 熟悉任一關聯式資料庫：\n● MySQL\n● MSSQL\n● PostgreSQL\n並具備 Database Schema 設計能力。\n7. 熟悉 Git 版本控制流程，具 GitHub 或 GitLab 經驗。\n8. 熟悉 API 測試工具（Postman）。\n9. 具備基本 Web 資安概念，例如：\n● SQL Injection\n● Command Injection\n● XSS\n● CSRF\n10. 了解 Redis 快取技術與基本應用。\n11. 具備以下經驗尤佳：\n● Docker 容器化開發\n● CI/CD 自動化流程\n● Python / .NET 等其他程式語言\n● AI / LLM API 整合應用\n● Testing / 單元測試或自動化測試\n● 熟悉 AI 開發工具（如 ChatGPT、Copilot 等）並能應用於日常開發流程\n【人格特質】\n1. 主動溝通並能與團隊合作解決問題。\n2. 具備分析問題與提出解決方案的能力。\n3. 能在 AI 輔助開發環境下持續精進技術並保持學習熱情。\n4. 具備良好的溝通能力與表達能力。\n5. 情緒管理良好，能在團隊環境中穩定合作。\n6. 樂於挑戰並持續精進技術能力。\n7. 能在 AI 工具輔助下保持工程判斷力，專注於系統設計與問題解決。",
+    "tools": [
+      "PHP",
+      "Python",
+      "MS SQL",
+      "MySQL",
+      "PostgreSQL",
+      "Linux",
+      "Git",
+      "LLM",
+      "Tomcat",
+      "Java",
+      "Apache SOAP",
+      "Spring"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 80
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:39:29+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【我們正在打造的工程環境】\n我們是一個專注於 平台系統開發與軟體工程品質 的工程團隊，系統涵蓋 Web 平台、API 服務、APP 與智慧設備整合應用。\n目前團隊已建立 Docker 容器化、CI/CD 持續整合與自動化測試流程，並在日常開發與測試流程中使用 AI 輔助工具（AI-assisted development / testing）提升開發效率與產品品質。\n我們希望加入的工程師或 QA，能在這樣的工程環境中，專注於 系統設計、品質工程與複雜問題解決，而不只是完成單一功能開發。\n【我們正在尋找這樣的工程師】\n如果你對 後端系統架構、API 設計與資料處理 有興趣，並希望參與 長期運作的平台系統開發，歡迎加入我們的工程團隊。\n在既有 Docker、Redis、CI/CD 與 AI 輔助開發環境 中，你將參與平台後端服務與系統架構的持續優化與擴展。\n【工作內容】\n● 後端系統開發\n1. 參與專案團隊協作開發後端系統，完成系統需求與功能實作。\n2. 開發與維護 Web 系統與後端服務。\n3. 設計與開發 RESTful API，支援前後端分離架構。\n● 系統架構與資料設計\n4. 參與系統流程規劃、資料庫架構設計與 Schema 規劃。\n5. 撰寫後端程式邏輯並優化系統效能。\n6. 維護既有系統並持續優化程式架構。\n● 系統整合與平台開發\n7. 與 PM、UI/UX、前端工程師等團隊合作完成系統開發。\n8. 進行跨系統 API 串接與資料整合。\n9. 參與 DevOps 開發流程，如 Docker 容器化部署與 CI/CD 自動化流程。\n● 技術研究與應用\n10. 在既有系統架構下持續優化與應用相關技術，例如：\n· Docker 容器化環境之服務部署與系統維運優化\n· Redis 快取機制與系統效能提升\n· AI / LLM API 整合應用\n· 雲端架構與系統擴展能力\n11. 與團隊分享技術經驗並提升整體開發效率。\n12. 在既有 AI 輔助開發環境 中進行系統開發與程式優化。\n13. 運用 AI 工具協助程式撰寫、除錯與技術研究，並將工程重心放在 系統設計與架構品質。\n● 系統品質與安全\n14. 與 QA 與資安人員合作，提升系統穩定性與安全性。\n15. 修復系統問題並優化程式碼品質。\n● 其他主管交辦事項。\n●自到職日起算3個月為試用期間，試用期滿考核合格者，續予僱用。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "後端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、後端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市東區大學路1號 (國立成功大學 成功校區)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【我們正在打造的工程環境】\n我們是一個專注於 平台系統開發與軟體工程品質 的工程團隊，系統涵蓋 Web 平台、API 服務、APP 與智慧設備整合應用。\n目前團隊已建立 Docker 容器化、CI/CD 持續整合與自動化測試流程，並在日常開發與測試流程中使用 AI 輔助工具（AI-assisted development / testing）提升開發效率與產品品質。\n我們希望加入的工程師或 QA，能在這樣的工程環境中，專注於 系統設計、品質工程與複雜問題解決，而不只是完成單一功能開發。\n【我們正在尋找這樣的工程師】\n如果你對 後端系統架構、API 設計與資料處理 有興趣，並希望參與 長期運作的平台系統開發，歡迎加入我們的工程團隊。\n在既有 Docker、Redis、CI/CD 與 AI 輔助開發環境 中，你將參與平台後端服務與系統架構的持續優化與擴展。\n【工作內容】\n● 後端系統開發\n1. 參與專案團隊協作開發後端系統，完成系統需求與功能實作。\n2. 開發與維護 Web 系統與後端服務。\n3. 設計與開發 RESTful API，支援前後端分離架構。\n● 系統架構與資料設計\n4. 參與系統流程規劃、資料庫架構設計與 Schema 規劃。\n5. 撰寫後端程式邏輯並優化系統效能。\n6. 維護既有系統並持續優化程式架構。\n● 系統整合與平台開發\n7. 與 PM、UI/UX、前端工程師等團隊合作完成系統開發。\n8. 進行跨系統 API 串接與資料整合。\n9. 參與 DevOps 開發流程，如 Docker 容器化部署與 CI/CD 自動化流程。\n● 技術研究與應用\n10. 在既有系統架構下持續優化與應用相關技術，例如：\n· Docker 容器化環境之服務部署與系統維運優化\n· Redis 快取機制與系統效能提升\n· AI / LLM API 整合應用\n· 雲端架構與系統擴展能力\n11. 與團隊分享技術經驗並提升整體開發效率。\n12. 在既有 AI 輔助開發環境 中進行系統開發與程式優化。\n13. 運用 AI 工具協助程式撰寫、除錯與技術研究，並將工程重心放在 系統設計與架構品質。\n● 系統品質與安全\n14. 與 QA 與資安人員合作，提升系統穩定性與安全性。\n15. 修復系統問題並優化程式碼品質。\n● 其他主管交辦事項。\n●自到職日起算3個月為試用期間，試用期滿考核合格者，續予僱用。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PHP",
+            "Python",
+            "MS SQL",
+            "MySQL",
+            "PostgreSQL",
+            "Linux",
+            "Git",
+            "LLM",
+            "Tomcat",
+            "Java",
+            "Apache SOAP",
+            "Spring"
+          ],
+          "label": "擅長工具",
+          "text": "PHP、Python、MS SQL、MySQL、PostgreSQL、Linux、Git、LLM、Tomcat、Java、Apache SOAP、Spring",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "一、擅長工具：\nBackend\n· PHP\n· Python\nFramework\n· Laravel\nDatabase\n· MySQL\n· MS SQL\n· PostgreSQL\nCache / Data\n· Redis\nDevOps / Container\n· Docker\n· CI/CD\nDevelopment Tools\n· Git\n· GitLab / GitHub\n· Postman\nServer / Environment\n· Linux\n· Apache / Tomcat / Nginx\nAI / Data（加分）\n· OpenAI API / LLM API\n· Python Data Processing\n· AI Coding Assistant（如 ChatGPT / Copilot / Cursor 等）\n· Prompt Engineering（AI 輔助開發）\n二、工作技能：\n● RESTful API 設計與開發\n● Web 後端系統開發\n● 系統架構規劃與設計\n● API 串接與系統整合\n● Database Schema 設計\n● SQL 撰寫與效能優化\n● Redis 快取應用\n● Git 版本控制與團隊協作\n● Web 系統安全設計（SQL Injection / XSS / CSRF）\n● 系統效能調校與問題排除\n三、加分技能\n● Docker 容器化開發與部署\n● CI/CD 自動化部署\n● AI / Machine Learning API 整合\n● Python 資料處理與服務開發\n● Testing / 自動化測試\n● 使用 AI 工具提升程式開發效率與問題排除能力\n● 在 AI 輔助開發環境中維持程式品質與架構設計能力\n四、其他條件：\n【專業能力】\n1. 熟悉 PHP 開發，具備 PHP 7 以上語法經驗。\n2. 具備 OOP、MVC 開發觀念。\n3. 熟練使用 Laravel 8 以上版本。\n4. 熟悉 Composer 套件管理工具。\n5. 具備 RESTful API 架構設計與開發經驗。\n6. 熟悉任一關聯式資料庫：\n● MySQL\n● MSSQL\n● PostgreSQL\n並具備 Database Schema 設計能力。\n7. 熟悉 Git 版本控制流程，具 GitHub 或 GitLab 經驗。\n8. 熟悉 API 測試工具（Postman）。\n9. 具備基本 Web 資安概念，例如：\n● SQL Injection\n● Command Injection\n● XSS\n● CSRF\n10. 了解 Redis 快取技術與基本應用。\n11. 具備以下經驗尤佳：\n● Docker 容器化開發\n● CI/CD 自動化流程\n● Python / .NET 等其他程式語言\n● AI / LLM API 整合應用\n● Testing / 單元測試或自動化測試\n● 熟悉 AI 開發工具（如 ChatGPT、Copilot 等）並能應用於日常開發流程\n【人格特質】\n1. 主動溝通並能與團隊合作解決問題。\n2. 具備分析問題與提出解決方案的能力。\n3. 能在 AI 輔助開發環境下持續精進技術並保持學習熱情。\n4. 具備良好的溝通能力與表達能力。\n5. 情緒管理良好，能在團隊環境中穩定合作。\n6. 樂於挑戰並持續精進技術能力。\n7. 能在 AI 工具輔助下保持工程判斷力，專注於系統設計與問題解決。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：PHP、Python、MS SQL、MySQL、PostgreSQL、Linux、Git、LLM、Tomcat、Java、Apache SOAP、Spring\n其他條件：一、擅長工具：\nBackend\n· PHP\n· Python\nFramework\n· Laravel\nDatabase\n· MySQL\n· MS SQL\n· PostgreSQL\nCache / Data\n· Redis\nDevOps / Container\n· Docker\n· CI/CD\nDevelopment Tools\n· Git\n· GitLab / GitHub\n· Postman\nServer / Environment\n· Linux\n· Apache / Tomcat / Nginx\nAI / Data（加分）\n· OpenAI API / LLM API\n· Python Data Processing\n· AI Coding Assistant（如 ChatGPT / Copilot / Cursor 等）\n· Prompt Engineering（AI 輔助開發）\n二、工作技能：\n● RESTful API 設計與開發\n● Web 後端系統開發\n● 系統架構規劃與設計\n● API 串接與系統整合\n● Database Schema 設計\n● SQL 撰寫與效能優化\n● Redis 快取應用\n● Git 版本控制與團隊協作\n● Web 系統安全設計（SQL Injection / XSS / CSRF）\n● 系統效能調校與問題排除\n三、加分技能\n● Docker 容器化開發與部署\n● CI/CD 自動化部署\n● AI / Machine Learning API 整合\n● Python 資料處理與服務開發\n● Testing / 自動化測試\n● 使用 AI 工具提升程式開發效率與問題排除能力\n● 在 AI 輔助開發環境中維持程式品質與架構設計能力\n四、其他條件：\n【專業能力】\n1. 熟悉 PHP 開發，具備 PHP 7 以上語法經驗。\n2. 具備 OOP、MVC 開發觀念。\n3. 熟練使用 Laravel 8 以上版本。\n4. 熟悉 Composer 套件管理工具。\n5. 具備 RESTful API 架構設計與開發經驗。\n6. 熟悉任一關聯式資料庫：\n● MySQL\n● MSSQL\n● PostgreSQL\n並具備 Database Schema 設計能力。\n7. 熟悉 Git 版本控制流程，具 GitHub 或 GitLab 經驗。\n8. 熟悉 API 測試工具（Postman）。\n9. 具備基本 Web 資安概念，例如：\n● SQL Injection\n● Command Injection\n● XSS\n● CSRF\n10. 了解 Redis 快取技術與基本應用。\n11. 具備以下經驗尤佳：\n● Docker 容器化開發\n● CI/CD 自動化流程\n● Python / .NET 等其他程式語言\n● AI / LLM API 整合應用\n● Testing / 單元測試或自動化測試\n● 熟悉 AI 開發工具（如 ChatGPT、Copilot 等）並能應用於日常開發流程\n【人格特質】\n1. 主動溝通並能與團隊合作解決問題。\n2. 具備分析問題與提出解決方案的能力。\n3. 能在 AI 輔助開發環境下持續精進技術並保持學習熱情。\n4. 具備良好的溝通能力與表達能力。\n5. 情緒管理良好，能在團隊環境中穩定合作。\n6. 樂於挑戰並持續精進技術能力。\n7. 能在 AI 工具輔助下保持工程判斷力，專注於系統設計與問題解決。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7tilc",
+    "job_url": "https://www.104.com.tw/job/7tilc",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7tilc.json",
+    "raw_sha256": "79f940ff58f0ab7438444707cba57f16094183aab25a11d8b938895490f9d543",
+    "requested_url": "https://www.104.com.tw/api/jobs/7tilc"
+  }
+}

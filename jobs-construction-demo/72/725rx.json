@@ -1,0 +1,214 @@
+{
+  "company": {
+    "id": "1a2x6bjtx4",
+    "name": "奕力科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "數位IC設計工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉c, c#, matlab or python"
+        },
+        {
+          "children": [],
+          "text": "影像處理相關背景知識"
+        }
+      ],
+      "text": "【產品範疇】\nLCD/AMOLED驅動晶片開發\n【工作內容】\n開發Driver IC之影像顯示相關的演算法，包含模擬評估及驗證，以及後續應用的教學\n【需求條件】\n1.熟悉c, c#, matlab or python\n2.影像處理相關背景知識"
+    },
+    "employment_type_raw": "全職",
+    "title": "演算法工程師(AMOLED)"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市台元二街1號10樓",
+    "raw": "新竹縣竹北市台元二街1號10樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "數學及電算機科學學科類",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、數學及電算機科學學科類、機械工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、精通、精通"
+      },
+      {
+        "items": [
+          "C++",
+          "C",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C++、C、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 有面板驅動IC設計經驗\n2. 有影像處理，影像壓縮等相關設計經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、精通、精通"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "數學及電算機科學學科類",
+      "機械工程相關"
+    ],
+    "other_text": "1. 有面板驅動IC設計經驗\n2. 有影像處理，影像壓縮等相關設計經驗",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、數學及電算機科學學科類、機械工程相關\n語文條件：英文：中等、中等、精通、精通\n擅長工具：C++、C、Python\n其他條件：1. 有面板驅動IC設計經驗\n2. 有影像處理，影像壓縮等相關設計經驗",
+    "tools": [
+      "C++",
+      "C",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 41
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:03:55+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【產品範疇】\nLCD/AMOLED驅動晶片開發\n【工作內容】\n開發Driver IC之影像顯示相關的演算法，包含模擬評估及驗證，以及後續應用的教學\n【需求條件】\n1.熟悉c, c#, matlab or python\n2.影像處理相關背景知識",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "數位IC設計工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "數位IC設計工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市台元二街1號10樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【產品範疇】\nLCD/AMOLED驅動晶片開發\n【工作內容】\n開發Driver IC之影像顯示相關的演算法，包含模擬評估及驗證，以及後續應用的教學\n【需求條件】\n1.熟悉c, c#, matlab or python\n2.影像處理相關背景知識"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "數學及電算機科學學科類",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、數學及電算機科學學科類、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "C",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C++、C、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 有面板驅動IC設計經驗\n2. 有影像處理，影像壓縮等相關設計經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、數學及電算機科學學科類、機械工程相關\n語文條件：英文：中等、中等、精通、精通\n擅長工具：C++、C、Python\n其他條件：1. 有面板驅動IC設計經驗\n2. 有影像處理，影像壓縮等相關設計經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "725rx",
+    "job_url": "https://www.104.com.tw/job/725rx",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/725rx.json",
+    "raw_sha256": "21fe7057221f8b961222b71e65edb5684fc9404ef5ea326acf297bad9ed4fbea",
+    "requested_url": "https://www.104.com.tw/api/jobs/725rx"
+  }
+}

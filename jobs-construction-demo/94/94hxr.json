@@ -1,0 +1,155 @@
+{
+  "company": {
+    "id": "10w9qbbk",
+    "name": "智禾科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "通訊軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "廠內新增機台軟體建置維運。"
+        },
+        {
+          "children": [],
+          "text": "廠內圖控系統維運。"
+        },
+        {
+          "children": [],
+          "text": "具Deltav、5G通訊經驗優先錄用。"
+        }
+      ],
+      "text": "1.廠內新增機台軟體建置維運。\n2.廠內圖控系統維運。\n3.具Deltav、5G通訊經驗優先錄用。\n通訊經驗優先錄用。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體助理工程師(高雄)"
+  },
+  "location": {
+    "address_raw": "高雄市楠梓區宏毅二路南四巷一二號",
+    "raw": "高雄市楠梓區宏毅二路南四巷一二號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "軟體工程系統操作\n圖控系統操作"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "軟體工程系統操作\n圖控系統操作",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學\n其他條件：軟體工程系統操作\n圖控系統操作",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 85
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:50:30+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000~45,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.廠內新增機台軟體建置維運。\n2.廠內圖控系統維運。\n3.具Deltav、5G通訊經驗優先錄用。\n通訊經驗優先錄用。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "通訊軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、通訊軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000~45,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市楠梓區宏毅二路南四巷一二號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.廠內新增機台軟體建置維運。\n2.廠內圖控系統維運。\n3.具Deltav、5G通訊經驗優先錄用。\n通訊經驗優先錄用。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "軟體工程系統操作\n圖控系統操作",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n其他條件：軟體工程系統操作\n圖控系統操作"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "94hxr",
+    "job_url": "https://www.104.com.tw/job/94hxr",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94hxr.json",
+    "raw_sha256": "e0d9a882ed81e511cc5fa4b2de9ba2a2d714bcfad7053e04f3ad505708329ecc",
+    "requested_url": "https://www.104.com.tw/api/jobs/94hxr"
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "company": {
+    "id": "12nokxe8",
+    "name": "友達光電股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI Agent 與數位員工架構設計"
+        },
+        {
+          "children": [],
+          "text": "製造系統與 AI 整合"
+        },
+        {
+          "children": [],
+          "text": "AI 專案推動與落地"
+        },
+        {
+          "children": [],
+          "text": "工廠生產系統運營優化與維護，建構智慧製造 AI 生態系，整合 MES、設備、資料平台與 AI 模型建立資料流與決策流架構（Data + AI Pipeline)"
+        },
+        {
+          "children": [],
+          "text": "推動 AI 專案落地 分析製程／系統痛點並制定 AI 解決方案跨部門協作（IT / 製程 / 設備）推動導入與優化"
+        },
+        {
+          "children": [],
+          "text": "熟悉 AI Agent Framework（LangChain / CrewAI / AutoGen 等）"
+        },
+        {
+          "children": [],
+          "text": "具備 API 串接與微服務架構經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料平台（Databricks / ETL / Kafka 等）"
+        },
+        {
+          "children": [],
+          "text": "具製造業 AI 應用經驗（預測、排程、自動決策、數位員工）"
+        }
+      ],
+      "text": "【工作內容】\n1.AI Agent 與數位員工架構設計\n2.製造系統與 AI 整合\n3. AI 專案推動與落地\n4. 工廠生產系統運營優化與維護，建構智慧製造 AI 生態系，整合 MES、設備、資料平台與 AI 模型建立資料流與決策流架構（Data + AI Pipeline)\n5. 推動 AI 專案落地 分析製程／系統痛點並制定 AI 解決方案跨部門協作（IT / 製程 / 設備）推動導入與優化\n【工作條件】\n1.熟悉 AI Agent Framework（LangChain / CrewAI / AutoGen 等）\n2. 具備 API 串接與微服務架構經驗\n3. 熟悉資料平台（Databricks / ETL / Kafka 等）\n4.具製造業 AI 應用經驗（預測、排程、自動決策、數位員工）"
+    },
+    "employment_type_raw": "全職",
+    "title": "【數位技術】AI Solutions Engineer(智慧製造)-台中廠-R08"
+  },
+  "location": {
+    "address_raw": "台中市西屯區中科路1號",
+    "raw": "台中市西屯區中科路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "C++",
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "C#、C++、Java"
+      },
+      {
+        "items": [
+          "專案規劃執行╱範圍管理",
+          "系統維護操作",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "專案規劃執行╱範圍管理、系統維護操作、軟體工程系統開發"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "專案規劃執行╱範圍管理",
+      "系統維護操作",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、C++、Java\n工作技能：專案規劃執行╱範圍管理、系統維護操作、軟體工程系統開發",
+    "tools": [
+      "C#",
+      "C++",
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 87
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:57:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1.AI Agent 與數位員工架構設計\n2.製造系統與 AI 整合\n3. AI 專案推動與落地\n4. 工廠生產系統運營優化與維護，建構智慧製造 AI 生態系，整合 MES、設備、資料平台與 AI 模型建立資料流與決策流架構（Data + AI Pipeline)\n5. 推動 AI 專案落地 分析製程／系統痛點並制定 AI 解決方案跨部門協作（IT / 製程 / 設備）推動導入與優化\n【工作條件】\n1.熟悉 AI Agent Framework（LangChain / CrewAI / AutoGen 等）\n2. 具備 API 串接與微服務架構經驗\n3. 熟悉資料平台（Databricks / ETL / Kafka 等）\n4.具製造業 AI 應用經驗（預測、排程、自動決策、數位員工）",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區中科路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1.AI Agent 與數位員工架構設計\n2.製造系統與 AI 整合\n3. AI 專案推動與落地\n4. 工廠生產系統運營優化與維護，建構智慧製造 AI 生態系，整合 MES、設備、資料平台與 AI 模型建立資料流與決策流架構（Data + AI Pipeline)\n5. 推動 AI 專案落地 分析製程／系統痛點並制定 AI 解決方案跨部門協作（IT / 製程 / 設備）推動導入與優化\n【工作條件】\n1.熟悉 AI Agent Framework（LangChain / CrewAI / AutoGen 等）\n2. 具備 API 串接與微服務架構經驗\n3. 熟悉資料平台（Databricks / ETL / Kafka 等）\n4.具製造業 AI 應用經驗（預測、排程、自動決策、數位員工）"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "C++",
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "C#、C++、Java",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "專案規劃執行╱範圍管理",
+            "系統維護操作",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "專案規劃執行╱範圍管理、系統維護操作、軟體工程系統開發",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、C++、Java\n工作技能：專案規劃執行╱範圍管理、系統維護操作、軟體工程系統開發"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "922v9",
+    "job_url": "https://www.104.com.tw/job/922v9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/922v9.json",
+    "raw_sha256": "0a7b2de7941ccbc3bfbce2042558f9aa4129f8ed1a43e5be1809ce51191d448c",
+    "requested_url": "https://www.104.com.tw/api/jobs/922v9"
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "company": {
+    "id": "oct97rc",
+    "name": "星展(台灣)商業銀行股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop applications following best practices of accessibility and test-driven development."
+        },
+        {
+          "children": [],
+          "text": "Create reusable, testable, organized, efficient, and self-documenting code/components."
+        },
+        {
+          "children": [],
+          "text": "Partner closely with design and product teams to craft product experiences while providing technical guidance and solutions"
+        },
+        {
+          "children": [],
+          "text": "Deliver code in a DevOps environment."
+        },
+        {
+          "children": [],
+          "text": "Encourage code craftsmanship across team."
+        },
+        {
+          "children": [],
+          "text": "Deliver code in an agile team environment."
+        },
+        {
+          "children": [],
+          "text": "Experience leading development teams in building maintainable software"
+        },
+        {
+          "children": [],
+          "text": "Knowledge of Java, Spring Boot, Spring Framework, OOP"
+        },
+        {
+          "children": [],
+          "text": "Strong experience building RESTful APIs"
+        },
+        {
+          "children": [],
+          "text": "Prior experience with data structure libraries"
+        },
+        {
+          "children": [],
+          "text": "Experience with cloud computation, microservices, CICD pipelines"
+        },
+        {
+          "children": [],
+          "text": "Familiarity with modern Back-end build pipelines and tools"
+        },
+        {
+          "children": [],
+          "text": "Experience with common Back-end development tools such as Git, Jenkins and Maven, etc."
+        },
+        {
+          "children": [],
+          "text": "Ability to understand business requirements and translate them into technical requirements"
+        },
+        {
+          "children": [],
+          "text": "A knack for benchmarking and optimization"
+        },
+        {
+          "children": [],
+          "text": "Testing experience, ideally JUnit, Selenium, Serenity, Mockito"
+        }
+      ],
+      "text": "【Job Description】\nDBS Consumer Banking and Group Technology is looking for passionate Backend Engineers to work on our digital platforms for crafting and assembling our next generation consumer experiences\nIf you are the kind of engineer who is passionate about bringing great experiences to life and love working in a collaborative environment with your product and experiences, then we want to talk to you.\n【Responsibilities】\n• Develop applications following best practices of accessibility and test-driven development.\n• Create reusable, testable, organized, efficient, and self-documenting code/components.\n• Partner closely with design and product teams to craft product experiences while providing technical guidance and solutions\n• Deliver code in a DevOps environment.\n• Encourage code craftsmanship across team.\n• Deliver code in an agile team environment.\n【Requirements】\n• Experience leading development teams in building maintainable software\n• Knowledge of Java, Spring Boot, Spring Framework, OOP\n• Strong experience building RESTful APIs\n• Prior experience with data structure libraries\n• Experience with cloud computation, microservices, CICD pipelines\n• Familiarity with modern Back-end build pipelines and tools\n• Experience with common Back-end development tools such as Git, Jenkins and Maven, etc.\n• Ability to understand business requirements and translate them into technical requirements\n• A knack for benchmarking and optimization\n• Testing experience, ideally JUnit, Selenium, Serenity, Mockito"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java後端工程師｜Java Backend Developer"
+  },
+  "location": {
+    "address_raw": "台北市內湖區",
+    "raw": "台北市內湖區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等",
+          "中文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等\n中文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "Java"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Required Experience\n• Fluent with coding in at least one programming language (C / Java/ Python/ mobile app etc.)\n• Experience in SQL and database concepts\n• Proven ability and experience in data transformation and integration\n• Highly organized and structured thinking and ability to understand and synthesize unstructured information.\n• Inquisitive to learn new technologies and Bank/FinTech domain knowledge\n• Open-minded, curious and willing to learn\n• Good communication skills, fluent in English, both written and oral."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等",
+      "中文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "Required Experience\n• Fluent with coding in at least one programming language (C / Java/ Python/ mobile app etc.)\n• Experience in SQL and database concepts\n• Proven ability and experience in data transformation and integration\n• Highly organized and structured thinking and ability to understand and synthesize unstructured information.\n• Inquisitive to learn new technologies and Bank/FinTech domain knowledge\n• Open-minded, curious and willing to learn\n• Good communication skills, fluent in English, both written and oral.",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n中文：精通、精通、精通、精通\n擅長工具：Java\n其他條件：Required Experience\n• Fluent with coding in at least one programming language (C / Java/ Python/ mobile app etc.)\n• Experience in SQL and database concepts\n• Proven ability and experience in data transformation and integration\n• Highly organized and structured thinking and ability to understand and synthesize unstructured information.\n• Inquisitive to learn new technologies and Bank/FinTech domain knowledge\n• Open-minded, curious and willing to learn\n• Good communication skills, fluent in English, both written and oral.",
+    "tools": [
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 73
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:21:44+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【Job Description】\nDBS Consumer Banking and Group Technology is looking for passionate Backend Engineers to work on our digital platforms for crafting and assembling our next generation consumer experiences\nIf you are the kind of engineer who is passionate about bringing great experiences to life and love working in a collaborative environment with your product and experiences, then we want to talk to you.\n【Responsibilities】\n• Develop applications following best practices of accessibility and test-driven development.\n• Create reusable, testable, organized, efficient, and self-documenting code/components.\n• Partner closely with design and product teams to craft product experiences while providing technical guidance and solutions\n• Deliver code in a DevOps environment.\n• Encourage code craftsmanship across team.\n• Deliver code in an agile team environment.\n【Requirements】\n• Experience leading development teams in building maintainable software\n• Knowledge of Java, Spring Boot, Spring Framework, OOP\n• Strong experience building RESTful APIs\n• Prior experience with data structure libraries\n• Experience with cloud computation, microservices, CICD pipelines\n• Familiarity with modern Back-end build pipelines and tools\n• Experience with common Back-end development tools such as Git, Jenkins and Maven, etc.\n• Ability to understand business requirements and translate them into technical requirements\n• A knack for benchmarking and optimization\n• Testing experience, ideally JUnit, Selenium, Serenity, Mockito",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【Job Description】\nDBS Consumer Banking and Group Technology is looking for passionate Backend Engineers to work on our digital platforms for crafting and assembling our next generation consumer experiences\nIf you are the kind of engineer who is passionate about bringing great experiences to life and love working in a collaborative environment with your product and experiences, then we want to talk to you.\n【Responsibilities】\n• Develop applications following best practices of accessibility and test-driven development.\n• Create reusable, testable, organized, efficient, and self-documenting code/components.\n• Partner closely with design and product teams to craft product experiences while providing technical guidance and solutions\n• Deliver code in a DevOps environment.\n• Encourage code craftsmanship across team.\n• Deliver code in an agile team environment.\n【Requirements】\n• Experience leading development teams in building maintainable software\n• Knowledge of Java, Spring Boot, Spring Framework, OOP\n• Strong experience building RESTful APIs\n• Prior experience with data structure libraries\n• Experience with cloud computation, microservices, CICD pipelines\n• Familiarity with modern Back-end build pipelines and tools\n• Experience with common Back-end development tools such as Git, Jenkins and Maven, etc.\n• Ability to understand business requirements and translate them into technical requirements\n• A knack for benchmarking and optimization\n• Testing experience, ideally JUnit, Selenium, Serenity, Mockito"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等",
+            "中文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等\n中文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "Java",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Required Experience\n• Fluent with coding in at least one programming language (C / Java/ Python/ mobile app etc.)\n• Experience in SQL and database concepts\n• Proven ability and experience in data transformation and integration\n• Highly organized and structured thinking and ability to understand and synthesize unstructured information.\n• Inquisitive to learn new technologies and Bank/FinTech domain knowledge\n• Open-minded, curious and willing to learn\n• Good communication skills, fluent in English, both written and oral.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n中文：精通、精通、精通、精通\n擅長工具：Java\n其他條件：Required Experience\n• Fluent with coding in at least one programming language (C / Java/ Python/ mobile app etc.)\n• Experience in SQL and database concepts\n• Proven ability and experience in data transformation and integration\n• Highly organized and structured thinking and ability to understand and synthesize unstructured information.\n• Inquisitive to learn new technologies and Bank/FinTech domain knowledge\n• Open-minded, curious and willing to learn\n• Good communication skills, fluent in English, both written and oral."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "75bmg",
+    "job_url": "https://www.104.com.tw/job/75bmg",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/75bmg.json",
+    "raw_sha256": "559b1272d511c3124c7584e331b9f41cf732f6c0e771b5973b032ae6fd446968",
+    "requested_url": "https://www.104.com.tw/api/jobs/75bmg"
+  }
+}

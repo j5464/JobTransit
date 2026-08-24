@@ -1,0 +1,232 @@
+{
+  "company": {
+    "id": "7e01nk0",
+    "name": "振曜科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "Android工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責 eReader/EPD signage Linux/Android kernel driver , user space linux app 除錯/移植/設計/撰寫/維護 。"
+        },
+        {
+          "children": [],
+          "text": "規劃、執行與維護量產的產品。"
+        },
+        {
+          "children": [],
+          "text": "協助研發軟體新技術與新工具與合作廠商溝通配合實作於產品上。"
+        }
+      ],
+      "text": "■ 本部門主要負責 E-ink(電子紙) 技術相關應用之代工與客製化服務，客戶遍及歐美加日韓。\n■ 研發工作內容基本如下 :\n1.負責 eReader/EPD signage Linux/Android kernel driver , user space linux app 除錯/移植/設計/撰寫/維護 。\n2.規劃、執行與維護量產的產品。\n3.協助研發軟體新技術與新工具與合作廠商溝通配合實作於產品上。"
+    },
+    "employment_type_raw": "全職",
+    "title": "(中和)Linux Kernel/BSP 軟體工程師"
+  },
+  "location": {
+    "address_raw": "新北市中和區板南路661號17樓",
+    "raw": "新北市中和區板南路661號17樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、精通、精通",
+          "中文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、精通、精通\n中文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "Linux",
+          "Android",
+          "C++",
+          "C",
+          "Shell",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Android、C++、C、Shell、Python"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "韌體工程開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發、韌體工程開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "需熟C/C++, Shell script, Linux Kernel / Driver , Linux app\n熟python , Java, android framework 佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、精通、精通",
+      "中文：精通、精通、精通、精通"
+    ],
+    "majors": [],
+    "other_text": "需熟C/C++, Shell script, Linux Kernel / Driver , Linux app\n熟python , Java, android framework 佳",
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "韌體工程開發"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、精通、精通\n中文：精通、精通、精通、精通\n擅長工具：Linux、Android、C++、C、Shell、Python\n工作技能：軟體程式設計、軟體工程系統開發、韌體工程開發\n其他條件：需熟C/C++, Shell script, Linux Kernel / Driver , Linux app\n熟python , Java, android framework 佳",
+    "tools": [
+      "Linux",
+      "Android",
+      "C++",
+      "C",
+      "Shell",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:57:51+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "■ 本部門主要負責 E-ink(電子紙) 技術相關應用之代工與客製化服務，客戶遍及歐美加日韓。\n■ 研發工作內容基本如下 :\n1.負責 eReader/EPD signage Linux/Android kernel driver , user space linux app 除錯/移植/設計/撰寫/維護 。\n2.規劃、執行與維護量產的產品。\n3.協助研發軟體新技術與新工具與合作廠商溝通配合實作於產品上。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "Android工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、Android工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區板南路661號17樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "■ 本部門主要負責 E-ink(電子紙) 技術相關應用之代工與客製化服務，客戶遍及歐美加日韓。\n■ 研發工作內容基本如下 :\n1.負責 eReader/EPD signage Linux/Android kernel driver , user space linux app 除錯/移植/設計/撰寫/維護 。\n2.規劃、執行與維護量產的產品。\n3.協助研發軟體新技術與新工具與合作廠商溝通配合實作於產品上。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、精通、精通",
+            "中文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、精通、精通\n中文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Android",
+            "C++",
+            "C",
+            "Shell",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Android、C++、C、Shell、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "韌體工程開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發、韌體工程開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "需熟C/C++, Shell script, Linux Kernel / Driver , Linux app\n熟python , Java, android framework 佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、精通、精通\n中文：精通、精通、精通、精通\n擅長工具：Linux、Android、C++、C、Shell、Python\n工作技能：軟體程式設計、軟體工程系統開發、韌體工程開發\n其他條件：需熟C/C++, Shell script, Linux Kernel / Driver , Linux app\n熟python , Java, android framework 佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8rpwn",
+    "job_url": "https://www.104.com.tw/job/8rpwn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8rpwn.json",
+    "raw_sha256": "ef5786185d699dbbdeda24db73ccee81c389de912e03ff7467474189780b0fde",
+    "requested_url": "https://www.104.com.tw/api/jobs/8rpwn"
+  }
+}

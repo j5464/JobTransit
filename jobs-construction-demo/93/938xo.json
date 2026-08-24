@@ -1,0 +1,225 @@
+{
+  "company": {
+    "id": "5tharx4",
+    "name": "華騰國際科技股份有限公司(ATP Electronics Taiwan Inc.)"
+  },
+  "job": {
+    "categories": [
+      "MES工程師",
+      "MIS程式設計師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "MES系統程式介面程式開及維護。"
+        },
+        {
+          "children": [],
+          "text": "MES與線上自動化設備整合管理。"
+        },
+        {
+          "children": [],
+          "text": "MES與ERP系統串接整合開發。"
+        },
+        {
+          "children": [],
+          "text": "依照軟體設計規格書進行相關應用程式技術開發、元件和測試。"
+        },
+        {
+          "children": [],
+          "text": "系統異常問題處理與流程優化。"
+        },
+        {
+          "children": [],
+          "text": "支援及配合新系統專案導入及建置。"
+        },
+        {
+          "children": [],
+          "text": "其它主管交辦事項。"
+        }
+      ],
+      "text": "1.MES系統程式介面程式開及維護。\n2.MES與線上自動化設備整合管理。\n3.MES與ERP系統串接整合開發。\n4.依照軟體設計規格書進行相關應用程式技術開發、元件和測試。\n5.系統異常問題處理與流程優化。\n6.支援及配合新系統專案導入及建置。\n7.其它主管交辦事項。\n本職缺須於正常班(彈性工時)受訓2個月，並在中班(15:50~23:05)實作1個月(核給中班津貼)，考核通過後調整為夜班，受訓期間將視個人專業與表現動態得提前或延後。\n【夜班津貼另計，工時7小時40分】"
+    },
+    "employment_type_raw": "全職",
+    "title": "夜班-MES軟體維護專員-高雄【樂活假+返鄉假+新人即享5天特休+生日假+給薪家庭照顧假】"
+  },
+  "location": {
+    "address_raw": "高雄市燕巢區橋科五路16號",
+    "raw": "高雄市燕巢區橋科五路16號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "C#",
+          "Visual Studio",
+          "WinForm",
+          "Github",
+          "Git"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Visual Studio、WinForm、Github、Git"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【個人經歷】\n1.具MES程式設計實務開發經驗(5年以上)。\n2.具備以下通訊開發經驗:Web API(Soap、RESTful)，另外具備TCP Socket、MQTT相關經驗者尤佳。\n3.具電子廠資訊部門工作經驗。\n【專業知識與技能】\n1.熟練以下開發工具VS Code、C#、.Net Windows Form、(熟Vue.js者佳)。\n2. 資料庫 MSSQL開發及效能維護。\n3. 熟悉 VS Code 、 Visual Studio 、Git版控等相關工具。\n4. 熟悉電子製造業生產流程。\n【個人特質】\n1.負責、注重細節。\n2.可於夜班時獨立作業。\n3. 問題解決能力。\n4. 團隊溝通及合作。\n*橋頭捷運站1號出口有接駁車服務，依營運班表行駛。\n*本公司為橋頭科學園區第一家營運廠商，為同仁提供嶄新且舒適工作與用餐休息環境。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "【個人經歷】\n1.具MES程式設計實務開發經驗(5年以上)。\n2.具備以下通訊開發經驗:Web API(Soap、RESTful)，另外具備TCP Socket、MQTT相關經驗者尤佳。\n3.具電子廠資訊部門工作經驗。\n【專業知識與技能】\n1.熟練以下開發工具VS Code、C#、.Net Windows Form、(熟Vue.js者佳)。\n2. 資料庫 MSSQL開發及效能維護。\n3. 熟悉 VS Code 、 Visual Studio 、Git版控等相關工具。\n4. 熟悉電子製造業生產流程。\n【個人特質】\n1.負責、注重細節。\n2.可於夜班時獨立作業。\n3. 問題解決能力。\n4. 團隊溝通及合作。\n*橋頭捷運站1號出口有接駁車服務，依營運班表行駛。\n*本公司為橋頭科學園區第一家營運廠商，為同仁提供嶄新且舒適工作與用餐休息環境。",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n擅長工具：C#、Visual Studio、WinForm、Github、Git\n其他條件：【個人經歷】\n1.具MES程式設計實務開發經驗(5年以上)。\n2.具備以下通訊開發經驗:Web API(Soap、RESTful)，另外具備TCP Socket、MQTT相關經驗者尤佳。\n3.具電子廠資訊部門工作經驗。\n【專業知識與技能】\n1.熟練以下開發工具VS Code、C#、.Net Windows Form、(熟Vue.js者佳)。\n2. 資料庫 MSSQL開發及效能維護。\n3. 熟悉 VS Code 、 Visual Studio 、Git版控等相關工具。\n4. 熟悉電子製造業生產流程。\n【個人特質】\n1.負責、注重細節。\n2.可於夜班時獨立作業。\n3. 問題解決能力。\n4. 團隊溝通及合作。\n*橋頭捷運站1號出口有接駁車服務，依營運班表行駛。\n*本公司為橋頭科學園區第一家營運廠商，為同仁提供嶄新且舒適工作與用餐休息環境。",
+    "tools": [
+      "C#",
+      "Visual Studio",
+      "WinForm",
+      "Github",
+      "Git"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 97
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:22:26+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.MES系統程式介面程式開及維護。\n2.MES與線上自動化設備整合管理。\n3.MES與ERP系統串接整合開發。\n4.依照軟體設計規格書進行相關應用程式技術開發、元件和測試。\n5.系統異常問題處理與流程優化。\n6.支援及配合新系統專案導入及建置。\n7.其它主管交辦事項。\n本職缺須於正常班(彈性工時)受訓2個月，並在中班(15:50~23:05)實作1個月(核給中班津貼)，考核通過後調整為夜班，受訓期間將視個人專業與表現動態得提前或延後。\n【夜班津貼另計，工時7小時40分】",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MES工程師",
+            "MIS程式設計師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "MES工程師、MIS程式設計師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市燕巢區橋科五路16號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.MES系統程式介面程式開及維護。\n2.MES與線上自動化設備整合管理。\n3.MES與ERP系統串接整合開發。\n4.依照軟體設計規格書進行相關應用程式技術開發、元件和測試。\n5.系統異常問題處理與流程優化。\n6.支援及配合新系統專案導入及建置。\n7.其它主管交辦事項。\n本職缺須於正常班(彈性工時)受訓2個月，並在中班(15:50~23:05)實作1個月(核給中班津貼)，考核通過後調整為夜班，受訓期間將視個人專業與表現動態得提前或延後。\n【夜班津貼另計，工時7小時40分】"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Visual Studio",
+            "WinForm",
+            "Github",
+            "Git"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Visual Studio、WinForm、Github、Git",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【個人經歷】\n1.具MES程式設計實務開發經驗(5年以上)。\n2.具備以下通訊開發經驗:Web API(Soap、RESTful)，另外具備TCP Socket、MQTT相關經驗者尤佳。\n3.具電子廠資訊部門工作經驗。\n【專業知識與技能】\n1.熟練以下開發工具VS Code、C#、.Net Windows Form、(熟Vue.js者佳)。\n2. 資料庫 MSSQL開發及效能維護。\n3. 熟悉 VS Code 、 Visual Studio 、Git版控等相關工具。\n4. 熟悉電子製造業生產流程。\n【個人特質】\n1.負責、注重細節。\n2.可於夜班時獨立作業。\n3. 問題解決能力。\n4. 團隊溝通及合作。\n*橋頭捷運站1號出口有接駁車服務，依營運班表行駛。\n*本公司為橋頭科學園區第一家營運廠商，為同仁提供嶄新且舒適工作與用餐休息環境。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n擅長工具：C#、Visual Studio、WinForm、Github、Git\n其他條件：【個人經歷】\n1.具MES程式設計實務開發經驗(5年以上)。\n2.具備以下通訊開發經驗:Web API(Soap、RESTful)，另外具備TCP Socket、MQTT相關經驗者尤佳。\n3.具電子廠資訊部門工作經驗。\n【專業知識與技能】\n1.熟練以下開發工具VS Code、C#、.Net Windows Form、(熟Vue.js者佳)。\n2. 資料庫 MSSQL開發及效能維護。\n3. 熟悉 VS Code 、 Visual Studio 、Git版控等相關工具。\n4. 熟悉電子製造業生產流程。\n【個人特質】\n1.負責、注重細節。\n2.可於夜班時獨立作業。\n3. 問題解決能力。\n4. 團隊溝通及合作。\n*橋頭捷運站1號出口有接駁車服務，依營運班表行駛。\n*本公司為橋頭科學園區第一家營運廠商，為同仁提供嶄新且舒適工作與用餐休息環境。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "938xo",
+    "job_url": "https://www.104.com.tw/job/938xo",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/938xo.json",
+    "raw_sha256": "548de43ee6b9ade9e20211b5ba6fa474d435cc8876316067a4c2324a6c74358f",
+    "requested_url": "https://www.104.com.tw/api/jobs/938xo"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "company": {
+    "id": "a4obks8",
+    "name": "普誠科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "MIS程式設計師",
+      "資料庫管理人員",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責公司內部資訊系統（ERP、CRM、Portal）功能開發、維護及優化。"
+        },
+        {
+          "children": [],
+          "text": "負責 Web 系統（ASP.NET／ASP.NET Core、Web API）開發、測試及部署。"
+        },
+        {
+          "children": [],
+          "text": "公司網站（DNN）功能開發、維護及問題排除。"
+        },
+        {
+          "children": [],
+          "text": "規劃及開發電子表單、簽核流程及系統整合功能。"
+        },
+        {
+          "children": [],
+          "text": "資料庫設計、SQL 撰寫、效能調校及資料整合。"
+        },
+        {
+          "children": [],
+          "text": "參與需求訪談、系統分析、功能設計及技術評估。"
+        },
+        {
+          "children": [],
+          "text": "協助系統異常分析、問題排除及持續優化。"
+        },
+        {
+          "children": [],
+          "text": "使用 Redmine、Jira 進行需求管理及專案協作。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項。"
+        }
+      ],
+      "text": "1. 負責公司內部資訊系統（ERP、CRM、Portal）功能開發、維護及優化。\n2. 負責 Web 系統（ASP.NET／ASP.NET Core、Web API）開發、測試及部署。\n3. 公司網站（DNN）功能開發、維護及問題排除。\n4. 規劃及開發電子表單、簽核流程及系統整合功能。\n5. 資料庫設計、SQL 撰寫、效能調校及資料整合。\n6. 參與需求訪談、系統分析、功能設計及技術評估。\n7. 協助系統異常分析、問題排除及持續優化。\n8. 使用 Redmine、Jira 進行需求管理及專案協作。\n9. 其他主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統開發工程師(C#/.NET) (台北-I03)"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶橋路233之1號2樓",
+    "raw": "新北市新店區寶橋路233之1號2樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "必要條件\n1. 具 2 年以上 C#／.NET Framework 或 .NET Core 系統開發經驗。\n2. 熟悉 ASP.NET MVC、Web API 或 ASP.NET Core 開發。\n3. 熟悉 MS SQL 或其他關聯式資料庫，具 SQL 撰寫能力。\n4. 具系統分析、程式設計及問題分析能力。\n5. 具良好溝通能力，能與使用單位及跨部門協作。\n加分條件（具備其一即可）\no 熟悉 JavaScript、jQuery、HTML5。\no 具 ERP 系統開發或維護經驗。\no 具 DNN（DotNetNuke）網站建置或維護經驗。\no 熟悉 Oracle、Informix 等資料庫。\no 具 4GL 開發經驗。\no 熟悉 IIS、Git 或 CI/CD 部署流程。\n具企業內部資訊系統（ERP、CRM、Portal）開發經驗者佳；未接觸過 DNN、ERP 或 Informix 者，如具 .NET 開發能力，公司可提供教育訓練。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "必要條件\n1. 具 2 年以上 C#／.NET Framework 或 .NET Core 系統開發經驗。\n2. 熟悉 ASP.NET MVC、Web API 或 ASP.NET Core 開發。\n3. 熟悉 MS SQL 或其他關聯式資料庫，具 SQL 撰寫能力。\n4. 具系統分析、程式設計及問題分析能力。\n5. 具良好溝通能力，能與使用單位及跨部門協作。\n加分條件（具備其一即可）\no 熟悉 JavaScript、jQuery、HTML5。\no 具 ERP 系統開發或維護經驗。\no 具 DNN（DotNetNuke）網站建置或維護經驗。\no 熟悉 Oracle、Informix 等資料庫。\no 具 4GL 開發經驗。\no 熟悉 IIS、Git 或 CI/CD 部署流程。\n具企業內部資訊系統（ERP、CRM、Portal）開發經驗者佳；未接觸過 DNN、ERP 或 Informix 者，如具 .NET 開發能力，公司可提供教育訓練。",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：必要條件\n1. 具 2 年以上 C#／.NET Framework 或 .NET Core 系統開發經驗。\n2. 熟悉 ASP.NET MVC、Web API 或 ASP.NET Core 開發。\n3. 熟悉 MS SQL 或其他關聯式資料庫，具 SQL 撰寫能力。\n4. 具系統分析、程式設計及問題分析能力。\n5. 具良好溝通能力，能與使用單位及跨部門協作。\n加分條件（具備其一即可）\no 熟悉 JavaScript、jQuery、HTML5。\no 具 ERP 系統開發或維護經驗。\no 具 DNN（DotNetNuke）網站建置或維護經驗。\no 熟悉 Oracle、Informix 等資料庫。\no 具 4GL 開發經驗。\no 熟悉 IIS、Git 或 CI/CD 部署流程。\n具企業內部資訊系統（ERP、CRM、Portal）開發經驗者佳；未接觸過 DNN、ERP 或 Informix 者，如具 .NET 開發能力，公司可提供教育訓練。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 10
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:45:35+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責公司內部資訊系統（ERP、CRM、Portal）功能開發、維護及優化。\n2. 負責 Web 系統（ASP.NET／ASP.NET Core、Web API）開發、測試及部署。\n3. 公司網站（DNN）功能開發、維護及問題排除。\n4. 規劃及開發電子表單、簽核流程及系統整合功能。\n5. 資料庫設計、SQL 撰寫、效能調校及資料整合。\n6. 參與需求訪談、系統分析、功能設計及技術評估。\n7. 協助系統異常分析、問題排除及持續優化。\n8. 使用 Redmine、Jira 進行需求管理及專案協作。\n9. 其他主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MIS程式設計師",
+            "資料庫管理人員",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "MIS程式設計師、資料庫管理人員、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶橋路233之1號2樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責公司內部資訊系統（ERP、CRM、Portal）功能開發、維護及優化。\n2. 負責 Web 系統（ASP.NET／ASP.NET Core、Web API）開發、測試及部署。\n3. 公司網站（DNN）功能開發、維護及問題排除。\n4. 規劃及開發電子表單、簽核流程及系統整合功能。\n5. 資料庫設計、SQL 撰寫、效能調校及資料整合。\n6. 參與需求訪談、系統分析、功能設計及技術評估。\n7. 協助系統異常分析、問題排除及持續優化。\n8. 使用 Redmine、Jira 進行需求管理及專案協作。\n9. 其他主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "必要條件\n1. 具 2 年以上 C#／.NET Framework 或 .NET Core 系統開發經驗。\n2. 熟悉 ASP.NET MVC、Web API 或 ASP.NET Core 開發。\n3. 熟悉 MS SQL 或其他關聯式資料庫，具 SQL 撰寫能力。\n4. 具系統分析、程式設計及問題分析能力。\n5. 具良好溝通能力，能與使用單位及跨部門協作。\n加分條件（具備其一即可）\no 熟悉 JavaScript、jQuery、HTML5。\no 具 ERP 系統開發或維護經驗。\no 具 DNN（DotNetNuke）網站建置或維護經驗。\no 熟悉 Oracle、Informix 等資料庫。\no 具 4GL 開發經驗。\no 熟悉 IIS、Git 或 CI/CD 部署流程。\n具企業內部資訊系統（ERP、CRM、Portal）開發經驗者佳；未接觸過 DNN、ERP 或 Informix 者，如具 .NET 開發能力，公司可提供教育訓練。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：必要條件\n1. 具 2 年以上 C#／.NET Framework 或 .NET Core 系統開發經驗。\n2. 熟悉 ASP.NET MVC、Web API 或 ASP.NET Core 開發。\n3. 熟悉 MS SQL 或其他關聯式資料庫，具 SQL 撰寫能力。\n4. 具系統分析、程式設計及問題分析能力。\n5. 具良好溝通能力，能與使用單位及跨部門協作。\n加分條件（具備其一即可）\no 熟悉 JavaScript、jQuery、HTML5。\no 具 ERP 系統開發或維護經驗。\no 具 DNN（DotNetNuke）網站建置或維護經驗。\no 熟悉 Oracle、Informix 等資料庫。\no 具 4GL 開發經驗。\no 熟悉 IIS、Git 或 CI/CD 部署流程。\n具企業內部資訊系統（ERP、CRM、Portal）開發經驗者佳；未接觸過 DNN、ERP 或 Informix 者，如具 .NET 開發能力，公司可提供教育訓練。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8x1mk",
+    "job_url": "https://www.104.com.tw/job/8x1mk",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8x1mk.json",
+    "raw_sha256": "17386dbef17f1e648573c03f0f76a8373c45c131eca1e2c89e0c81c0f9164ce6",
+    "requested_url": "https://www.104.com.tw/api/jobs/8x1mk"
+  }
+}

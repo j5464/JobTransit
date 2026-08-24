@@ -1,0 +1,198 @@
+{
+  "company": {
+    "id": "26b3kgw",
+    "name": "固緯電子實業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "數位IC設計工程師",
+      "韌體工程師",
+      "硬體研發工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "電源設備系統開發。\n包含數位電路設計(FPGA與周邊電路設計與維護)，顯示裝置，各式通訊介面。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【電源研發】FPGA/SoC 韌體工程師"
+  },
+  "location": {
+    "address_raw": "新北市土城區中興路7之1號1樓",
+    "raw": "新北市土城區中興路7之1號1樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "FPGA",
+          "Verilog"
+        ],
+        "label": "擅長工具",
+        "text": "FPGA、Verilog"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.使用SystemVerilog/Verilog設計與驗證。\n2.熟悉AMD(Xilinx)/Altera/Lattice之一開發工具與流程。\n3.數位電路除錯與修復經驗(熟悉示波器，電源，電表，洛鐵/熱風槍等工具)。\n4.熟悉UART/SPI/I2C/CAN bus為佳。\n5.會使用軟體驗證周邊電路優先錄取。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關"
+    ],
+    "other_text": "1.使用SystemVerilog/Verilog設計與驗證。\n2.熟悉AMD(Xilinx)/Altera/Lattice之一開發工具與流程。\n3.數位電路除錯與修復經驗(熟悉示波器，電源，電表，洛鐵/熱風槍等工具)。\n4.熟悉UART/SPI/I2C/CAN bus為佳。\n5.會使用軟體驗證周邊電路優先錄取。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：FPGA、Verilog\n其他條件：1.使用SystemVerilog/Verilog設計與驗證。\n2.熟悉AMD(Xilinx)/Altera/Lattice之一開發工具與流程。\n3.數位電路除錯與修復經驗(熟悉示波器，電源，電表，洛鐵/熱風槍等工具)。\n4.熟悉UART/SPI/I2C/CAN bus為佳。\n5.會使用軟體驗證周邊電路優先錄取。",
+    "tools": [
+      "FPGA",
+      "Verilog"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 96
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:18:32+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "電源設備系統開發。\n包含數位電路設計(FPGA與周邊電路設計與維護)，顯示裝置，各式通訊介面。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "數位IC設計工程師",
+            "韌體工程師",
+            "硬體研發工程師"
+          ],
+          "label": "職務類別",
+          "text": "數位IC設計工程師、韌體工程師、硬體研發工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市土城區中興路7之1號1樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "電源設備系統開發。\n包含數位電路設計(FPGA與周邊電路設計與維護)，顯示裝置，各式通訊介面。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "FPGA",
+            "Verilog"
+          ],
+          "label": "擅長工具",
+          "text": "FPGA、Verilog",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.使用SystemVerilog/Verilog設計與驗證。\n2.熟悉AMD(Xilinx)/Altera/Lattice之一開發工具與流程。\n3.數位電路除錯與修復經驗(熟悉示波器，電源，電表，洛鐵/熱風槍等工具)。\n4.熟悉UART/SPI/I2C/CAN bus為佳。\n5.會使用軟體驗證周邊電路優先錄取。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：FPGA、Verilog\n其他條件：1.使用SystemVerilog/Verilog設計與驗證。\n2.熟悉AMD(Xilinx)/Altera/Lattice之一開發工具與流程。\n3.數位電路除錯與修復經驗(熟悉示波器，電源，電表，洛鐵/熱風槍等工具)。\n4.熟悉UART/SPI/I2C/CAN bus為佳。\n5.會使用軟體驗證周邊電路優先錄取。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "93sub",
+    "job_url": "https://www.104.com.tw/job/93sub",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93sub.json",
+    "raw_sha256": "897f707316296b60efba71c0da1e2174f9f600e0e4655f757bf8540cd47a1030",
+    "requested_url": "https://www.104.com.tw/api/jobs/93sub"
+  }
+}

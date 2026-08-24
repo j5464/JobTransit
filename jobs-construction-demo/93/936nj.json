@@ -1,0 +1,426 @@
+{
+  "company": {
+    "id": "2d9ntmw",
+    "name": "Advantech_研華股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料科學家",
+      "雲端工程師",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "企業級 AI 解決方案架構設計"
+        },
+        {
+          "children": [],
+          "text": "Generative AI / RAG / AI Agent 應用架構"
+        },
+        {
+          "children": [],
+          "text": "Multi-Agent Workflow 與 Agent Orchestration"
+        },
+        {
+          "children": [],
+          "text": "OpenClaw / Hermes Agent / NemoClaw 平台整合"
+        },
+        {
+          "children": [],
+          "text": "企業內部 Copilot / Chatbot / AI Assistant"
+        },
+        {
+          "children": [],
+          "text": "AI Server 與 Edge AI 應用架構"
+        },
+        {
+          "children": [],
+          "text": "雲端與地端混合式 AI 架構"
+        },
+        {
+          "children": [],
+          "text": "多租戶 AI 平台與權限治理"
+        },
+        {
+          "children": [],
+          "text": "AI API Gateway、模型服務與企業系統整合"
+        },
+        {
+          "children": [],
+          "text": "AI Agent 與企業流程自動化"
+        },
+        {
+          "children": [],
+          "text": "Hermes Agent Skill / Tool / Workflow 設計"
+        },
+        {
+          "children": [],
+          "text": "OpenClaw Browser Agent / Computer Use 應用"
+        },
+        {
+          "children": [],
+          "text": "AI Agent 與企業系統串接，例如 SAP、PLM、CRM、HR、Salesforce、Data Lake"
+        },
+        {
+          "children": [],
+          "text": "自動化文件處理、資料查詢、報表產生與決策輔助"
+        },
+        {
+          "children": [],
+          "text": "Human-in-the-loop / Agent-in-the-loop 機制設計"
+        },
+        {
+          "children": [],
+          "text": "Looping Engineering，用於多輪推理、任務修正、工具調用與自我改善"
+        },
+        {
+          "children": [],
+          "text": "Harness Engineering，用於建立可重複驗證的任務測試、Agent 評估與效能追蹤框架"
+        },
+        {
+          "children": [],
+          "text": "LLM / VLM 模型服務與推論平台整合"
+        },
+        {
+          "children": [],
+          "text": "vLLM、SGLang、TensorRT-LLM、Triton Inference Server"
+        },
+        {
+          "children": [],
+          "text": "NVIDIA AI 生態系，例如 NVIDIA NIM、NeMo、TensorRT、Triton、CUDA、GPU Operator"
+        },
+        {
+          "children": [],
+          "text": "Azure AI 生態系，例如 Azure OpenAI、Azure AI Foundry、Azure AI Search、Azure Machine Learning、Azure Kubernetes Service"
+        },
+        {
+          "children": [],
+          "text": "OpenAI-compatible API 服務設計"
+        },
+        {
+          "children": [],
+          "text": "多模型路由、模型選型、成本控管與效能優化"
+        },
+        {
+          "children": [],
+          "text": "LLM / VLM Serving、Batch Inference、Online Inference"
+        },
+        {
+          "children": [],
+          "text": "GPU 資源配置、KV Cache、Concurrency、Throughput、Latency、TTFT 監控與調校"
+        },
+        {
+          "children": [],
+          "text": "Edge AI 與 AI Server 解決方案落地"
+        },
+        {
+          "children": [],
+          "text": "Edge AI 應用架構規劃"
+        },
+        {
+          "children": [],
+          "text": "地端 GPU Server AI 平台部署"
+        },
+        {
+          "children": [],
+          "text": "AI Server 上的 LLM / VLM / Agent 應用服務"
+        },
+        {
+          "children": [],
+          "text": "工業場景中的文件理解、影像理解、設備監控、異常偵測與知識問答"
+        },
+        {
+          "children": [],
+          "text": "Edge-to-Cloud AI 架構設計"
+        },
+        {
+          "children": [],
+          "text": "與研華硬體、工業電腦、邊緣運算平台整合"
+        },
+        {
+          "children": [],
+          "text": "協助內部與外部場域形成可展示、可複製的 AI 解決方案範本"
+        },
+        {
+          "children": [],
+          "text": "AIOps 與 AI 平台維運治理"
+        },
+        {
+          "children": [],
+          "text": "AI 服務監控、Token 使用量、API 呼叫量與成本追蹤"
+        },
+        {
+          "children": [],
+          "text": "GPU 使用率、模型效能、服務延遲與錯誤率監控"
+        },
+        {
+          "children": [],
+          "text": "Agent 任務成功率、工具調用品質與回覆品質評估"
+        },
+        {
+          "children": [],
+          "text": "AIOps 應用於異常偵測、事件分析、Root Cause Analysis 與自動化處置"
+        },
+        {
+          "children": [],
+          "text": "權限控管、API Key 管理、白名單與安全治理"
+        },
+        {
+          "children": [],
+          "text": "SLA、故障復原、備援與升級流程規劃"
+        },
+        {
+          "children": [],
+          "text": "AI Center 平台營運報表與效益追蹤"
+        },
+        {
+          "children": [],
+          "text": "跨部門需求訪談與方案導入"
+        },
+        {
+          "children": [],
+          "text": "需求訪談與痛點分析"
+        },
+        {
+          "children": [],
+          "text": "AI 可行性評估與資料來源盤點"
+        },
+        {
+          "children": [],
+          "text": "PoC / Pilot / Production 導入規劃"
+        },
+        {
+          "children": [],
+          "text": "Solution Architecture Diagram 與 Technical Proposal 撰寫"
+        },
+        {
+          "children": [],
+          "text": "ROI、節省工時、流程效率、品質改善與使用者採用率分析"
+        },
+        {
+          "children": [],
+          "text": "協助各事業群建立可複製的 AI Use Case 與 Best Practice"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Python 開發，具備 API 串接、資料處理或 AI 應用開發經驗"
+        },
+        {
+          "children": [],
+          "text": "理解 REST API、JSON、HTTP、OAuth、SSO 或企業系統整合概念"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Generative AI、LLM、RAG、Embedding、Vector Database、Prompt Engineering 基本原理"
+        },
+        {
+          "children": [],
+          "text": "具備 AI Agent、Workflow Automation 或 Tool Calling 相關經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉至少一種雲端 AI 平台，例如 Azure OpenAI、Azure AI Foundry、Google Vertex AI、AWS Bedrock"
+        },
+        {
+          "children": [],
+          "text": "理解 Docker、Kubernetes 或容器化部署基礎"
+        },
+        {
+          "children": [],
+          "text": "能閱讀英文技術文件，並快速掌握新框架、新模型與新工具"
+        },
+        {
+          "children": [],
+          "text": "具備良好溝通能力，能與非技術單位釐清需求並轉化為技術方案"
+        },
+        {
+          "children": [],
+          "text": "具備企業級落地思維，能考慮資安、權限、維運、成本、效能與使用者體驗"
+        },
+        {
+          "children": [],
+          "text": "使用過 OpenClaw、Hermes Agent、NemoClaw 或類似 Agent 平台"
+        },
+        {
+          "children": [],
+          "text": "熟悉 LangChain、LangGraph、LlamaIndex、Semantic Kernel、AutoGen、CrewAI 等 Agent / RAG 框架"
+        },
+        {
+          "children": [],
+          "text": "使用過 vLLM、SGLang、TensorRT-LLM、Triton、NVIDIA NIM 或其他 LLM Serving 技術"
+        },
+        {
+          "children": [],
+          "text": "熟悉 NVIDIA AI 生態系，例如 CUDA、TensorRT、Triton、NeMo、NIM、GPU Operator、NVIDIA AI Enterprise"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Azure AI 生態系，例如 Azure OpenAI、Azure AI Foundry、Azure AI Search、Azure ML、AKS、Private Endpoint"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Edge AI、AI Server、GPU Server、Industrial AI 或 Edge Computing 場景"
+        },
+        {
+          "children": [],
+          "text": "有 AIOps、Observability、Monitoring、Logging、Tracing 或 Incident Response 經驗"
+        },
+        {
+          "children": [],
+          "text": "使用過向量資料庫，例如 Milvus、Qdrant、FAISS、Pinecone、Azure AI Search、Weaviate"
+        },
+        {
+          "children": [],
+          "text": "對 AI、Agent、Edge AI 與企業級 AI 平台有高度熱情"
+        },
+        {
+          "children": [],
+          "text": "能在新技術快速變動下主動學習與驗證"
+        },
+        {
+          "children": [],
+          "text": "不只關注模型效果，也重視架構穩定性、維運性與可治理性"
+        },
+        {
+          "children": [],
+          "text": "能把模糊需求拆解成可執行的方案與階段性目標"
+        },
+        {
+          "children": [],
+          "text": "能與研發、IT、資安、Infra、業務單位與高階主管有效溝通"
+        },
+        {
+          "children": [],
+          "text": "具備系統性思維，能兼顧平台、資料、模型、流程與商業價值"
+        },
+        {
+          "children": [],
+          "text": "重視實際落地成果，而不只是技術展示或 PoC Demo"
+        },
+        {
+          "children": [],
+          "text": "是技術展示或 PoC Demo"
+        }
+      ],
+      "text": "職務介紹\n研華科技 AI Center 正在招募一位 AI Solution Architect，負責規劃、設計與落地企業級 AI 解決方案，協助研華各事業群與功能單位導入 Generative AI、AI Agent、RAG、LLM / VLM、Edge AI、AI Server、AIOps 與雲地混合 AI 平台。\n此職位將參與研華內部 AI 平台與 AI Agent 生態系的建置，包含 OpenClaw、Hermes Agent、NemoClaw、多租戶 AI 平台、地端 GPU AI Server、雲端 AI 服務、Edge AI 應用與企業資料整合。你將與 AI Center、Domain IT、Infra、資安、資料團隊、研發、製造、供應鏈、財務、人資與業務單位合作，將 AI 技術從 PoC 推進到可維運、可治理、可擴充的正式服務。\n我們期待你不只是熟悉模型或工具，更能理解企業流程、資料限制、系統架構、資安治理、成本控管與使用者體驗，協助研華打造可長期演進的 AI 解決方案架構。\n主要工作內容\n1. 企業級 AI 解決方案架構設計\n負責規劃與設計研華內部 AI 應用與平台架構，包含：\n- Generative AI / RAG / AI Agent 應用架構\n- Multi-Agent Workflow 與 Agent Orchestration\n- OpenClaw / Hermes Agent / NemoClaw 平台整合\n- 企業內部 Copilot / Chatbot / AI Assistant\n- AI Server 與 Edge AI 應用架構\n- 雲端與地端混合式 AI 架構\n- 多租戶 AI 平台與權限治理\n- AI API Gateway、模型服務與企業系統整合\n2. AI Agent 與企業流程自動化\n設計並落地可支援企業流程的 AI Agent，包含：\n- Hermes Agent Skill / Tool / Workflow 設計\n- OpenClaw Browser Agent / Computer Use 應用\n- AI Agent 與企業系統串接，例如 SAP、PLM、CRM、HR、Salesforce、Data Lake\n- 自動化文件處理、資料查詢、報表產生與決策輔助\n- Human-in-the-loop / Agent-in-the-loop 機制設計\n- Looping Engineering，用於多輪推理、任務修正、工具調用與自我改善\n- Harness Engineering，用於建立可重複驗證的任務測試、Agent 評估與效能追蹤框架\n3. LLM / VLM 模型服務與推論平台整合\n參與地端與雲端模型服務平台建置，包含：\n- vLLM、SGLang、TensorRT-LLM、Triton Inference Server\n- NVIDIA AI 生態系，例如 NVIDIA NIM、NeMo、TensorRT、Triton、CUDA、GPU Operator\n- Azure AI 生態系，例如 Azure OpenAI、Azure AI Foundry、Azure AI Search、Azure Machine Learning、Azure Kubernetes Service\n- OpenAI-compatible API 服務設計\n- 多模型路由、模型選型、成本控管與效能優化\n- LLM / VLM Serving、Batch Inference、Online Inference\n- GPU 資源配置、KV Cache、Concurrency、Throughput、Latency、TTFT 監控與調校\n4. Edge AI 與 AI Server 解決方案落地\n協助研華將 AI 能力導入 Edge Computing 與 AI Server 場景，包含：\n- Edge AI 應用架構規劃\n- 地端 GPU Server AI 平台部署\n- AI Server 上的 LLM / VLM / Agent 應用服務\n- 工業場景中的文件理解、影像理解、設備監控、異常偵測與知識問答\n- Edge-to-Cloud AI 架構設計\n- 與研華硬體、工業電腦、邊緣運算平台整合\n- 協助內部與外部場域形成可展示、可複製的 AI 解決方案範本\n5. AIOps 與 AI 平台維運治理\n協助建立 AI 平台的可觀測性、維運與治理機制，包含：\n- AI 服務監控、Token 使用量、API 呼叫量與成本追蹤\n- GPU 使用率、模型效能、服務延遲與錯誤率監控\n- Agent 任務成功率、工具調用品質與回覆品質評估\n- AIOps 應用於異常偵測、事件分析、Root Cause Analysis 與自動化處置\n- 權限控管、API Key 管理、白名單與安全治理\n- SLA、故障復原、備援與升級流程規劃\n- AI Center 平台營運報表與效益追蹤\n6. 跨部門需求訪談與方案導入\n與研華內部各單位合作，將業務需求轉化為可落地的 AI 解決方案：\n- 需求訪談與痛點分析\n- AI 可行性評估與資料來源盤點\n- PoC / Pilot / Production 導入規劃\n- Solution Architecture Diagram 與 Technical Proposal 撰寫\n- ROI、節省工時、流程效率、品質改善與使用者採用率分析\n- 協助各事業群建立可複製的 AI Use Case 與 Best Practice\n必要條件\n- 熟悉 Python 開發，具備 API 串接、資料處理或 AI 應用開發經驗\n- 理解 REST API、JSON、HTTP、OAuth、SSO 或企業系統整合概念\n- 熟悉 Generative AI、LLM、RAG、Embedding、Vector Database、Prompt Engineering 基本原理\n- 具備 AI Agent、Workflow Automation 或 Tool Calling 相關經驗\n- 熟悉至少一種雲端 AI 平台，例如 Azure OpenAI、Azure AI Foundry、Google Vertex AI、AWS Bedrock\n- 理解 Docker、Kubernetes 或容器化部署基礎\n- 能閱讀英文技術文件，並快速掌握新框架、新模型與新工具\n- 具備良好溝通能力，能與非技術單位釐清需求並轉化為技術方案\n- 具備企業級落地思維，能考慮資安、權限、維運、成本、效能與使用者體驗\n加分條件\n具備以下任一經驗者佳：\n- 使用過 OpenClaw、Hermes Agent、NemoClaw 或類似 Agent 平台\n- 熟悉 LangChain、LangGraph、LlamaIndex、Semantic Kernel、AutoGen、CrewAI 等 Agent / RAG 框架\n- 使用過 vLLM、SGLang、TensorRT-LLM、Triton、NVIDIA NIM 或其他 LLM Serving 技術\n- 熟悉 NVIDIA AI 生態系，例如 CUDA、TensorRT、Triton、NeMo、NIM、GPU Operator、NVIDIA AI Enterprise\n- 熟悉 Azure AI 生態系，例如 Azure OpenAI、Azure AI Foundry、Azure AI Search、Azure ML、AKS、Private Endpoint\n- 熟悉 Edge AI、AI Server、GPU Server、Industrial AI 或 Edge Computing 場景\n- 有 AIOps、Observability、Monitoring、Logging、Tracing 或 Incident Response 經驗\n- 使用過向量資料庫，例如 Milvus、Qdrant、FAISS、Pinecone、Azure AI Search、Weaviate\n有 VLM、OCR、文件解析、表格擷取、PDF 理解或多模態 AI 應用經驗\n有 SAP、PLM、CRM、Salesforce、HR、ERP、Data Lake、Denodo 等企業系統整合經驗\n有製造業、工業電腦、供應鏈、研發流程、硬體研發或 Edge AI 專案經驗\n熟悉模型效能測試、Benchmark、Evaluation Harness、Prompt Evaluation 或 Agent Evaluation\n有 GPU 佈署、模型量化、KV Cache、Concurrency、Latency、Throughput 調校經驗\n適合的人格特質\n- 對 AI、Agent、Edge AI 與企業級 AI 平台有高度熱情\n- 能在新技術快速變動下主動學習與驗證\n- 不只關注模型效果，也重視架構穩定性、維運性與可治理性\n- 能把模糊需求拆解成可執行的方案與階段性目標\n- 能與研發、IT、資安、Infra、業務單位與高階主管有效溝通\n- 具備系統性思維，能兼顧平台、資料、模型、流程與商業價值\n- 重視實際落地成果，而不只是技術展示或 PoC Demo\n- 是技術展示或 PoC Demo"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI Solution Architect, AI 解決方案架構師 (內湖瑞光)_JR202606088"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路26巷20弄1號",
+    "raw": "台北市內湖區瑞光路26巷20弄1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 6
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:35:52+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "職務介紹\n研華科技 AI Center 正在招募一位 AI Solution Architect，負責規劃、設計與落地企業級 AI 解決方案，協助研華各事業群與功能單位導入 Generative AI、AI Agent、RAG、LLM / VLM、Edge AI、AI Server、AIOps 與雲地混合 AI 平台。\n此職位將參與研華內部 AI 平台與 AI Agent 生態系的建置，包含 OpenClaw、Hermes Agent、NemoClaw、多租戶 AI 平台、地端 GPU AI Server、雲端 AI 服務、Edge AI 應用與企業資料整合。你將與 AI Center、Domain IT、Infra、資安、資料團隊、研發、製造、供應鏈、財務、人資與業務單位合作，將 AI 技術從 PoC 推進到可維運、可治理、可擴充的正式服務。\n我們期待你不只是熟悉模型或工具，更能理解企業流程、資料限制、系統架構、資安治理、成本控管與使用者體驗，協助研華打造可長期演進的 AI 解決方案架構。\n主要工作內容\n1. 企業級 AI 解決方案架構設計\n負責規劃與設計研華內部 AI 應用與平台架構，包含：\n- Generative AI / RAG / AI Agent 應用架構\n- Multi-Agent Workflow 與 Agent Orchestration\n- OpenClaw / Hermes Agent / NemoClaw 平台整合\n- 企業內部 Copilot / Chatbot / AI Assistant\n- AI Server 與 Edge AI 應用架構\n- 雲端與地端混合式 AI 架構\n- 多租戶 AI 平台與權限治理\n- AI API Gateway、模型服務與企業系統整合\n2. AI Agent 與企業流程自動化\n設計並落地可支援企業流程的 AI Agent，包含：\n- Hermes Agent Skill / Tool / Workflow 設計\n- OpenClaw Browser Agent / Computer Use 應用\n- AI Agent 與企業系統串接，例如 SAP、PLM、CRM、HR、Salesforce、Data Lake\n- 自動化文件處理、資料查詢、報表產生與決策輔助\n- Human-in-the-loop / Agent-in-the-loop 機制設計\n- Looping Engineering，用於多輪推理、任務修正、工具調用與自我改善\n- Harness Engineering，用於建立可重複驗證的任務測試、Agent 評估與效能追蹤框架\n3. LLM / VLM 模型服務與推論平台整合\n參與地端與雲端模型服務平台建置，包含：\n- vLLM、SGLang、TensorRT-LLM、Triton Inference Server\n- NVIDIA AI 生態系，例如 NVIDIA NIM、NeMo、TensorRT、Triton、CUDA、GPU Operator\n- Azure AI 生態系，例如 Azure OpenAI、Azure AI Foundry、Azure AI Search、Azure Machine Learning、Azure Kubernetes Service\n- OpenAI-compatible API 服務設計\n- 多模型路由、模型選型、成本控管與效能優化\n- LLM / VLM Serving、Batch Inference、Online Inference\n- GPU 資源配置、KV Cache、Concurrency、Throughput、Latency、TTFT 監控與調校\n4. Edge AI 與 AI Server 解決方案落地\n協助研華將 AI 能力導入 Edge Computing 與 AI Server 場景，包含：\n- Edge AI 應用架構規劃\n- 地端 GPU Server AI 平台部署\n- AI Server 上的 LLM / VLM / Agent 應用服務\n- 工業場景中的文件理解、影像理解、設備監控、異常偵測與知識問答\n- Edge-to-Cloud AI 架構設計\n- 與研華硬體、工業電腦、邊緣運算平台整合\n- 協助內部與外部場域形成可展示、可複製的 AI 解決方案範本\n5. AIOps 與 AI 平台維運治理\n協助建立 AI 平台的可觀測性、維運與治理機制，包含：\n- AI 服務監控、Token 使用量、API 呼叫量與成本追蹤\n- GPU 使用率、模型效能、服務延遲與錯誤率監控\n- Agent 任務成功率、工具調用品質與回覆品質評估\n- AIOps 應用於異常偵測、事件分析、Root Cause Analysis 與自動化處置\n- 權限控管、API Key 管理、白名單與安全治理\n- SLA、故障復原、備援與升級流程規劃\n- AI Center 平台營運報表與效益追蹤\n6. 跨部門需求訪談與方案導入\n與研華內部各單位合作，將業務需求轉化為可落地的 AI 解決方案：\n- 需求訪談與痛點分析\n- AI 可行性評估與資料來源盤點\n- PoC / Pilot / Production 導入規劃\n- Solution Architecture Diagram 與 Technical Proposal 撰寫\n- ROI、節省工時、流程效率、品質改善與使用者採用率分析\n- 協助各事業群建立可複製的 AI Use Case 與 Best Practice\n必要條件\n- 熟悉 Python 開發，具備 API 串接、資料處理或 AI 應用開發經驗\n- 理解 REST API、JSON、HTTP、OAuth、SSO 或企業系統整合概念\n- 熟悉 Generative AI、LLM、RAG、Embedding、Vector Database、Prompt Engineering 基本原理\n- 具備 AI Agent、Workflow Automation 或 Tool Calling 相關經驗\n- 熟悉至少一種雲端 AI 平台，例如 Azure OpenAI、Azure AI Foundry、Google Vertex AI、AWS Bedrock\n- 理解 Docker、Kubernetes 或容器化部署基礎\n- 能閱讀英文技術文件，並快速掌握新框架、新模型與新工具\n- 具備良好溝通能力，能與非技術單位釐清需求並轉化為技術方案\n- 具備企業級落地思維，能考慮資安、權限、維運、成本、效能與使用者體驗\n加分條件\n具備以下任一經驗者佳：\n- 使用過 OpenClaw、Hermes Agent、NemoClaw 或類似 Agent 平台\n- 熟悉 LangChain、LangGraph、LlamaIndex、Semantic Kernel、AutoGen、CrewAI 等 Agent / RAG 框架\n- 使用過 vLLM、SGLang、TensorRT-LLM、Triton、NVIDIA NIM 或其他 LLM Serving 技術\n- 熟悉 NVIDIA AI 生態系，例如 CUDA、TensorRT、Triton、NeMo、NIM、GPU Operator、NVIDIA AI Enterprise\n- 熟悉 Azure AI 生態系，例如 Azure OpenAI、Azure AI Foundry、Azure AI Search、Azure ML、AKS、Private Endpoint\n- 熟悉 Edge AI、AI Server、GPU Server、Industrial AI 或 Edge Computing 場景\n- 有 AIOps、Observability、Monitoring、Logging、Tracing 或 Incident Response 經驗\n- 使用過向量資料庫，例如 Milvus、Qdrant、FAISS、Pinecone、Azure AI Search、Weaviate\n有 VLM、OCR、文件解析、表格擷取、PDF 理解或多模態 AI 應用經驗\n有 SAP、PLM、CRM、Salesforce、HR、ERP、Data Lake、Denodo 等企業系統整合經驗\n有製造業、工業電腦、供應鏈、研發流程、硬體研發或 Edge AI 專案經驗\n熟悉模型效能測試、Benchmark、Evaluation Harness、Prompt Evaluation 或 Agent Evaluation\n有 GPU 佈署、模型量化、KV Cache、Concurrency、Latency、Throughput 調校經驗\n適合的人格特質\n- 對 AI、Agent、Edge AI 與企業級 AI 平台有高度熱情\n- 能在新技術快速變動下主動學習與驗證\n- 不只關注模型效果，也重視架構穩定性、維運性與可治理性\n- 能把模糊需求拆解成可執行的方案與階段性目標\n- 能與研發、IT、資安、Infra、業務單位與高階主管有效溝通\n- 具備系統性思維，能兼顧平台、資料、模型、流程與商業價值\n- 重視實際落地成果，而不只是技術展示或 PoC Demo\n- 是技術展示或 PoC Demo",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料科學家",
+            "雲端工程師",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料科學家、雲端工程師、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路26巷20弄1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "職務介紹\n研華科技 AI Center 正在招募一位 AI Solution Architect，負責規劃、設計與落地企業級 AI 解決方案，協助研華各事業群與功能單位導入 Generative AI、AI Agent、RAG、LLM / VLM、Edge AI、AI Server、AIOps 與雲地混合 AI 平台。\n此職位將參與研華內部 AI 平台與 AI Agent 生態系的建置，包含 OpenClaw、Hermes Agent、NemoClaw、多租戶 AI 平台、地端 GPU AI Server、雲端 AI 服務、Edge AI 應用與企業資料整合。你將與 AI Center、Domain IT、Infra、資安、資料團隊、研發、製造、供應鏈、財務、人資與業務單位合作，將 AI 技術從 PoC 推進到可維運、可治理、可擴充的正式服務。\n我們期待你不只是熟悉模型或工具，更能理解企業流程、資料限制、系統架構、資安治理、成本控管與使用者體驗，協助研華打造可長期演進的 AI 解決方案架構。\n主要工作內容\n1. 企業級 AI 解決方案架構設計\n負責規劃與設計研華內部 AI 應用與平台架構，包含：\n- Generative AI / RAG / AI Agent 應用架構\n- Multi-Agent Workflow 與 Agent Orchestration\n- OpenClaw / Hermes Agent / NemoClaw 平台整合\n- 企業內部 Copilot / Chatbot / AI Assistant\n- AI Server 與 Edge AI 應用架構\n- 雲端與地端混合式 AI 架構\n- 多租戶 AI 平台與權限治理\n- AI API Gateway、模型服務與企業系統整合\n2. AI Agent 與企業流程自動化\n設計並落地可支援企業流程的 AI Agent，包含：\n- Hermes Agent Skill / Tool / Workflow 設計\n- OpenClaw Browser Agent / Computer Use 應用\n- AI Agent 與企業系統串接，例如 SAP、PLM、CRM、HR、Salesforce、Data Lake\n- 自動化文件處理、資料查詢、報表產生與決策輔助\n- Human-in-the-loop / Agent-in-the-loop 機制設計\n- Looping Engineering，用於多輪推理、任務修正、工具調用與自我改善\n- Harness Engineering，用於建立可重複驗證的任務測試、Agent 評估與效能追蹤框架\n3. LLM / VLM 模型服務與推論平台整合\n參與地端與雲端模型服務平台建置，包含：\n- vLLM、SGLang、TensorRT-LLM、Triton Inference Server\n- NVIDIA AI 生態系，例如 NVIDIA NIM、NeMo、TensorRT、Triton、CUDA、GPU Operator\n- Azure AI 生態系，例如 Azure OpenAI、Azure AI Foundry、Azure AI Search、Azure Machine Learning、Azure Kubernetes Service\n- OpenAI-compatible API 服務設計\n- 多模型路由、模型選型、成本控管與效能優化\n- LLM / VLM Serving、Batch Inference、Online Inference\n- GPU 資源配置、KV Cache、Concurrency、Throughput、Latency、TTFT 監控與調校\n4. Edge AI 與 AI Server 解決方案落地\n協助研華將 AI 能力導入 Edge Computing 與 AI Server 場景，包含：\n- Edge AI 應用架構規劃\n- 地端 GPU Server AI 平台部署\n- AI Server 上的 LLM / VLM / Agent 應用服務\n- 工業場景中的文件理解、影像理解、設備監控、異常偵測與知識問答\n- Edge-to-Cloud AI 架構設計\n- 與研華硬體、工業電腦、邊緣運算平台整合\n- 協助內部與外部場域形成可展示、可複製的 AI 解決方案範本\n5. AIOps 與 AI 平台維運治理\n協助建立 AI 平台的可觀測性、維運與治理機制，包含：\n- AI 服務監控、Token 使用量、API 呼叫量與成本追蹤\n- GPU 使用率、模型效能、服務延遲與錯誤率監控\n- Agent 任務成功率、工具調用品質與回覆品質評估\n- AIOps 應用於異常偵測、事件分析、Root Cause Analysis 與自動化處置\n- 權限控管、API Key 管理、白名單與安全治理\n- SLA、故障復原、備援與升級流程規劃\n- AI Center 平台營運報表與效益追蹤\n6. 跨部門需求訪談與方案導入\n與研華內部各單位合作，將業務需求轉化為可落地的 AI 解決方案：\n- 需求訪談與痛點分析\n- AI 可行性評估與資料來源盤點\n- PoC / Pilot / Production 導入規劃\n- Solution Architecture Diagram 與 Technical Proposal 撰寫\n- ROI、節省工時、流程效率、品質改善與使用者採用率分析\n- 協助各事業群建立可複製的 AI Use Case 與 Best Practice\n必要條件\n- 熟悉 Python 開發，具備 API 串接、資料處理或 AI 應用開發經驗\n- 理解 REST API、JSON、HTTP、OAuth、SSO 或企業系統整合概念\n- 熟悉 Generative AI、LLM、RAG、Embedding、Vector Database、Prompt Engineering 基本原理\n- 具備 AI Agent、Workflow Automation 或 Tool Calling 相關經驗\n- 熟悉至少一種雲端 AI 平台，例如 Azure OpenAI、Azure AI Foundry、Google Vertex AI、AWS Bedrock\n- 理解 Docker、Kubernetes 或容器化部署基礎\n- 能閱讀英文技術文件，並快速掌握新框架、新模型與新工具\n- 具備良好溝通能力，能與非技術單位釐清需求並轉化為技術方案\n- 具備企業級落地思維，能考慮資安、權限、維運、成本、效能與使用者體驗\n加分條件\n具備以下任一經驗者佳：\n- 使用過 OpenClaw、Hermes Agent、NemoClaw 或類似 Agent 平台\n- 熟悉 LangChain、LangGraph、LlamaIndex、Semantic Kernel、AutoGen、CrewAI 等 Agent / RAG 框架\n- 使用過 vLLM、SGLang、TensorRT-LLM、Triton、NVIDIA NIM 或其他 LLM Serving 技術\n- 熟悉 NVIDIA AI 生態系，例如 CUDA、TensorRT、Triton、NeMo、NIM、GPU Operator、NVIDIA AI Enterprise\n- 熟悉 Azure AI 生態系，例如 Azure OpenAI、Azure AI Foundry、Azure AI Search、Azure ML、AKS、Private Endpoint\n- 熟悉 Edge AI、AI Server、GPU Server、Industrial AI 或 Edge Computing 場景\n- 有 AIOps、Observability、Monitoring、Logging、Tracing 或 Incident Response 經驗\n- 使用過向量資料庫，例如 Milvus、Qdrant、FAISS、Pinecone、Azure AI Search、Weaviate\n有 VLM、OCR、文件解析、表格擷取、PDF 理解或多模態 AI 應用經驗\n有 SAP、PLM、CRM、Salesforce、HR、ERP、Data Lake、Denodo 等企業系統整合經驗\n有製造業、工業電腦、供應鏈、研發流程、硬體研發或 Edge AI 專案經驗\n熟悉模型效能測試、Benchmark、Evaluation Harness、Prompt Evaluation 或 Agent Evaluation\n有 GPU 佈署、模型量化、KV Cache、Concurrency、Latency、Throughput 調校經驗\n適合的人格特質\n- 對 AI、Agent、Edge AI 與企業級 AI 平台有高度熱情\n- 能在新技術快速變動下主動學習與驗證\n- 不只關注模型效果，也重視架構穩定性、維運性與可治理性\n- 能把模糊需求拆解成可執行的方案與階段性目標\n- 能與研發、IT、資安、Infra、業務單位與高階主管有效溝通\n- 具備系統性思維，能兼顧平台、資料、模型、流程與商業價值\n- 重視實際落地成果，而不只是技術展示或 PoC Demo\n- 是技術展示或 PoC Demo"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "936nj",
+    "job_url": "https://www.104.com.tw/job/936nj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/936nj.json",
+    "raw_sha256": "bba3fb01c0c69191929c760010378766b8709e636f6c2c971ceee908d169c383",
+    "requested_url": "https://www.104.com.tw/api/jobs/936nj"
+  }
+}

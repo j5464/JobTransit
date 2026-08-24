@@ -1,0 +1,251 @@
+{
+  "company": {
+    "id": "cii6g14",
+    "name": "Yahoo_香港商雅虎資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "雲端工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "------------------------"
+        },
+        {
+          "children": [],
+          "text": "------------------------"
+        }
+      ],
+      "text": "[A Lot About You]\n此職位聚焦於電商平台後端服務的設計、開發與維護，需與產品、前端、資料及 AI 團隊密切合作，打造可擴展且穩定的系統能力。\nThis role focuses on designing, building, and maintaining scalable backend services for an e-commerce platform, with close collaboration across product, frontend, data, and AI functions.\n-------------------------\n[Your Day]\n・設計、開發與維護電商核心領域的可擴展後端服務，包括商品目錄、搜尋、推薦、定價與訂單處理。\n・建置與維護 RESTful API，提供內部平台、前端應用與合作夥伴整合使用。\n・持續改善系統效能、可靠性、可觀測性與可維護性。\n・參與系統架構設計、技術規劃、程式碼審查與工程決策。\n・與前端、產品、資料及 AI 團隊合作，交付高品質功能與平台能力。\n・參與 CI/CD 流程、測試實務、版本發布與營運穩定性優化。\n・使用 GitHub 進行原始碼管理，包括 branch 策略、pull request 流程與 code review 協作。\n・維護與管理制品庫（如 JFrog Artifactory），管理建置產物、相依套件與版本發佈流程。\n・探索並導入實用的 AI 輔助開發工作流程，以提升工程生產力、程式碼品質與交付效率。\n・Design, develop, and maintain scalable backend services for core e-commerce domains such as product catalog, search, recommendation, pricing, and order processing.\n・Build and maintain RESTful APIs for internal platforms, frontend applications, and partner integrations.\n・Improve system performance, reliability, observability, and maintainability across services and environments.\n・Participate in system architecture design, technical planning, code reviews, and engineering decision-making.\n・Collaborate with frontend, product, data, and AI teams to deliver high-quality features and platform capabilities.\n・Contribute to CI/CD pipelines, testing practices, release processes, and operational excellence.\n・Manage source code using GitHub, including branching strategies, pull request workflows, and code review practices.\n・Maintain and manage artifact repositories such as JFrog Artifactory for build artifacts, dependencies, and release versioning across services.\n・Explore and adopt practical AI-assisted development workflows to improve engineering productivity, code quality, and delivery speed.\n-------------------------\n[Required Qualifications and Skills]\n・資訊工程、資訊科學或相關科系學士或碩士學歷。\n・熟悉 GitHUB, JFrog Artifactory artifact management system。\n・3 年以上後端軟體開發經驗。\n・熟悉 Java 或 PHP，具備實際開發 production-grade 後端系統經驗。\n・具備 RESTful API 與 service-based architecture 開發經驗。\n・熟悉 Linux 開發與部署環境。\n・具備 Shell、Python 或其他腳本語言的基本能力。\n・具備使用 GitHub 或其他版本控制平台進行團隊協作開發的經驗。\n・具備良好的分析、除錯與問題解決能力。\n・扎實的資料結構、演算法與軟體工程基礎。\n・主動積極，具持續學習與成長意願。\n・Bachelor's or Master's degree in Computer Science or a related field.\n・Familiarity with artifact management systems such as JFrog Artifactory , GitHUB.\n・3+ years of experience in backend software development.\n・Proficient in Java or PHP, with hands-on experience building production-grade backend applications.\n・Experience developing RESTful APIs and service-based architectures.\n・Familiar with Linux-based development and deployment environments.\n・Basic scripting ability in Shell, Python, or similar languages.\n・Experience using GitHub or similar version control platforms for collaborative software development.\n・Strong analytical, troubleshooting, and problem-solving skills.\n・Solid understanding of data structures, algorithms, and software engineering fundamentals.\n・Self-motivated and committed to continuous learning and professional growth."
+    },
+    "employment_type_raw": "全職",
+    "title": "[R75] Backend Software Engineer (Java / PHP)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區石潭路157號2樓",
+    "raw": "台北市內湖區石潭路157號2樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Github",
+          "Java",
+          "PHP",
+          "Linux",
+          "Shell",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Github、Java、PHP、Linux、Shell、Python"
+      },
+      {
+        "items": [
+          "資料庫程式設計",
+          "資料庫系統管理維護",
+          "CI/CD",
+          "系統架構規劃與維護"
+        ],
+        "label": "工作技能",
+        "text": "資料庫程式設計、資料庫系統管理維護、CI/CD、系統架構規劃與維護"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "[Preferred Qualifications]\n・熟悉 Spring Boot、Laravel 等現代後端框架。\n・具備 microservices 架構經驗，熟悉 service-to-service communication、API gateway pattern 與 Kafka、RabbitMQ 等非同步訊息機制。\n・具備 MySQL、Oracle 等關聯式資料庫實務經驗；熟悉 Redis 更佳\n・熟悉資料安全最佳實務、安全開發原則與常見安全協定。\n・具備電商、Marketplace 或高流量交易型系統建置或維護經驗。\n・熟悉 AWS 或 Google Cloud 等雲端平台。\n・具備 Docker、Kubernetes 容器化開發與部署經驗。\n・熟悉 Agile / Scrum 與 CI/CD 實務，並使用 GitHub Actions、GitLab CI 或 Jenkins 等工具。\n・了解軟體開發生命週期，包括設計、開發、測試、發布與品質保證。\n・具備大型分散式系統設計經驗，熟悉 design patterns 與 object-oriented design principles。\n・具備使用 Claude、Cursor、GitHub Copilot 等 AI 輔助開發工具的經驗。\n・熟悉 prompt-based development 與 AI-driven coding workflow 者佳。\n・Experience with modern backend frameworks such as Spring Boot or Laravel.\n・Experience with microservices architecture, including service-to-service communication, API gateway patterns, and asynchronous messaging systems such as Kafka or RabbitMQ.\n・Hands-on experience with relational databases such as MySQL or Oracle; familiarity with caching systems such as Redis is a plus.\n・Familiarity with data security best practices, secure development principles, and common security protocols.\n・Experience building or maintaining e-commerce, marketplace, or high-traffic transactional systems.\n・Familiarity with cloud platforms such as AWS or Google Cloud.\n・Experience with containerized development and deployment using Docker and Kubernetes.\n・Familiarity with Agile/Scrum processes and CI/CD practices using tools such as GitHub Actions, GitLab CI, or Jenkins.\n・Good understanding of the software development lifecycle, including design, development, testing, release, and quality assurance.\n・Experience designing large-scale distributed applications using software design patterns and object-oriented design principles.\n・Experience using AI-assisted development tools such as Claude, Cursor, or GitHub Copilot to improve development productivity and coding efficiency.\n・Familiarity with prompt-based development and AI-driven coding workflows is a plus."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "[Preferred Qualifications]\n・熟悉 Spring Boot、Laravel 等現代後端框架。\n・具備 microservices 架構經驗，熟悉 service-to-service communication、API gateway pattern 與 Kafka、RabbitMQ 等非同步訊息機制。\n・具備 MySQL、Oracle 等關聯式資料庫實務經驗；熟悉 Redis 更佳\n・熟悉資料安全最佳實務、安全開發原則與常見安全協定。\n・具備電商、Marketplace 或高流量交易型系統建置或維護經驗。\n・熟悉 AWS 或 Google Cloud 等雲端平台。\n・具備 Docker、Kubernetes 容器化開發與部署經驗。\n・熟悉 Agile / Scrum 與 CI/CD 實務，並使用 GitHub Actions、GitLab CI 或 Jenkins 等工具。\n・了解軟體開發生命週期，包括設計、開發、測試、發布與品質保證。\n・具備大型分散式系統設計經驗，熟悉 design patterns 與 object-oriented design principles。\n・具備使用 Claude、Cursor、GitHub Copilot 等 AI 輔助開發工具的經驗。\n・熟悉 prompt-based development 與 AI-driven coding workflow 者佳。\n・Experience with modern backend frameworks such as Spring Boot or Laravel.\n・Experience with microservices architecture, including service-to-service communication, API gateway patterns, and asynchronous messaging systems such as Kafka or RabbitMQ.\n・Hands-on experience with relational databases such as MySQL or Oracle; familiarity with caching systems such as Redis is a plus.\n・Familiarity with data security best practices, secure development principles, and common security protocols.\n・Experience building or maintaining e-commerce, marketplace, or high-traffic transactional systems.\n・Familiarity with cloud platforms such as AWS or Google Cloud.\n・Experience with containerized development and deployment using Docker and Kubernetes.\n・Familiarity with Agile/Scrum processes and CI/CD practices using tools such as GitHub Actions, GitLab CI, or Jenkins.\n・Good understanding of the software development lifecycle, including design, development, testing, release, and quality assurance.\n・Experience designing large-scale distributed applications using software design patterns and object-oriented design principles.\n・Experience using AI-assisted development tools such as Claude, Cursor, or GitHub Copilot to improve development productivity and coding efficiency.\n・Familiarity with prompt-based development and AI-driven coding workflows is a plus.",
+    "skills": [
+      "資料庫程式設計",
+      "資料庫系統管理維護",
+      "CI/CD",
+      "系統架構規劃與維護"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Github、Java、PHP、Linux、Shell、Python\n工作技能：資料庫程式設計、資料庫系統管理維護、CI/CD、系統架構規劃與維護\n其他條件：[Preferred Qualifications]\n・熟悉 Spring Boot、Laravel 等現代後端框架。\n・具備 microservices 架構經驗，熟悉 service-to-service communication、API gateway pattern 與 Kafka、RabbitMQ 等非同步訊息機制。\n・具備 MySQL、Oracle 等關聯式資料庫實務經驗；熟悉 Redis 更佳\n・熟悉資料安全最佳實務、安全開發原則與常見安全協定。\n・具備電商、Marketplace 或高流量交易型系統建置或維護經驗。\n・熟悉 AWS 或 Google Cloud 等雲端平台。\n・具備 Docker、Kubernetes 容器化開發與部署經驗。\n・熟悉 Agile / Scrum 與 CI/CD 實務，並使用 GitHub Actions、GitLab CI 或 Jenkins 等工具。\n・了解軟體開發生命週期，包括設計、開發、測試、發布與品質保證。\n・具備大型分散式系統設計經驗，熟悉 design patterns 與 object-oriented design principles。\n・具備使用 Claude、Cursor、GitHub Copilot 等 AI 輔助開發工具的經驗。\n・熟悉 prompt-based development 與 AI-driven coding workflow 者佳。\n・Experience with modern backend frameworks such as Spring Boot or Laravel.\n・Experience with microservices architecture, including service-to-service communication, API gateway patterns, and asynchronous messaging systems such as Kafka or RabbitMQ.\n・Hands-on experience with relational databases such as MySQL or Oracle; familiarity with caching systems such as Redis is a plus.\n・Familiarity with data security best practices, secure development principles, and common security protocols.\n・Experience building or maintaining e-commerce, marketplace, or high-traffic transactional systems.\n・Familiarity with cloud platforms such as AWS or Google Cloud.\n・Experience with containerized development and deployment using Docker and Kubernetes.\n・Familiarity with Agile/Scrum processes and CI/CD practices using tools such as GitHub Actions, GitLab CI, or Jenkins.\n・Good understanding of the software development lifecycle, including design, development, testing, release, and quality assurance.\n・Experience designing large-scale distributed applications using software design patterns and object-oriented design principles.\n・Experience using AI-assisted development tools such as Claude, Cursor, or GitHub Copilot to improve development productivity and coding efficiency.\n・Familiarity with prompt-based development and AI-driven coding workflows is a plus.",
+    "tools": [
+      "Github",
+      "Java",
+      "PHP",
+      "Linux",
+      "Shell",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 3
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:26:11+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "[A Lot About You]\n此職位聚焦於電商平台後端服務的設計、開發與維護，需與產品、前端、資料及 AI 團隊密切合作，打造可擴展且穩定的系統能力。\nThis role focuses on designing, building, and maintaining scalable backend services for an e-commerce platform, with close collaboration across product, frontend, data, and AI functions.\n-------------------------\n[Your Day]\n・設計、開發與維護電商核心領域的可擴展後端服務，包括商品目錄、搜尋、推薦、定價與訂單處理。\n・建置與維護 RESTful API，提供內部平台、前端應用與合作夥伴整合使用。\n・持續改善系統效能、可靠性、可觀測性與可維護性。\n・參與系統架構設計、技術規劃、程式碼審查與工程決策。\n・與前端、產品、資料及 AI 團隊合作，交付高品質功能與平台能力。\n・參與 CI/CD 流程、測試實務、版本發布與營運穩定性優化。\n・使用 GitHub 進行原始碼管理，包括 branch 策略、pull request 流程與 code review 協作。\n・維護與管理制品庫（如 JFrog Artifactory），管理建置產物、相依套件與版本發佈流程。\n・探索並導入實用的 AI 輔助開發工作流程，以提升工程生產力、程式碼品質與交付效率。\n・Design, develop, and maintain scalable backend services for core e-commerce domains such as product catalog, search, recommendation, pricing, and order processing.\n・Build and maintain RESTful APIs for internal platforms, frontend applications, and partner integrations.\n・Improve system performance, reliability, observability, and maintainability across services and environments.\n・Participate in system architecture design, technical planning, code reviews, and engineering decision-making.\n・Collaborate with frontend, product, data, and AI teams to deliver high-quality features and platform capabilities.\n・Contribute to CI/CD pipelines, testing practices, release processes, and operational excellence.\n・Manage source code using GitHub, including branching strategies, pull request workflows, and code review practices.\n・Maintain and manage artifact repositories such as JFrog Artifactory for build artifacts, dependencies, and release versioning across services.\n・Explore and adopt practical AI-assisted development workflows to improve engineering productivity, code quality, and delivery speed.\n-------------------------\n[Required Qualifications and Skills]\n・資訊工程、資訊科學或相關科系學士或碩士學歷。\n・熟悉 GitHUB, JFrog Artifactory artifact management system。\n・3 年以上後端軟體開發經驗。\n・熟悉 Java 或 PHP，具備實際開發 production-grade 後端系統經驗。\n・具備 RESTful API 與 service-based architecture 開發經驗。\n・熟悉 Linux 開發與部署環境。\n・具備 Shell、Python 或其他腳本語言的基本能力。\n・具備使用 GitHub 或其他版本控制平台進行團隊協作開發的經驗。\n・具備良好的分析、除錯與問題解決能力。\n・扎實的資料結構、演算法與軟體工程基礎。\n・主動積極，具持續學習與成長意願。\n・Bachelor's or Master's degree in Computer Science or a related field.\n・Familiarity with artifact management systems such as JFrog Artifactory , GitHUB.\n・3+ years of experience in backend software development.\n・Proficient in Java or PHP, with hands-on experience building production-grade backend applications.\n・Experience developing RESTful APIs and service-based architectures.\n・Familiar with Linux-based development and deployment environments.\n・Basic scripting ability in Shell, Python, or similar languages.\n・Experience using GitHub or similar version control platforms for collaborative software development.\n・Strong analytical, troubleshooting, and problem-solving skills.\n・Solid understanding of data structures, algorithms, and software engineering fundamentals.\n・Self-motivated and committed to continuous learning and professional growth.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "雲端工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、雲端工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區石潭路157號2樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "[A Lot About You]\n此職位聚焦於電商平台後端服務的設計、開發與維護，需與產品、前端、資料及 AI 團隊密切合作，打造可擴展且穩定的系統能力。\nThis role focuses on designing, building, and maintaining scalable backend services for an e-commerce platform, with close collaboration across product, frontend, data, and AI functions.\n-------------------------\n[Your Day]\n・設計、開發與維護電商核心領域的可擴展後端服務，包括商品目錄、搜尋、推薦、定價與訂單處理。\n・建置與維護 RESTful API，提供內部平台、前端應用與合作夥伴整合使用。\n・持續改善系統效能、可靠性、可觀測性與可維護性。\n・參與系統架構設計、技術規劃、程式碼審查與工程決策。\n・與前端、產品、資料及 AI 團隊合作，交付高品質功能與平台能力。\n・參與 CI/CD 流程、測試實務、版本發布與營運穩定性優化。\n・使用 GitHub 進行原始碼管理，包括 branch 策略、pull request 流程與 code review 協作。\n・維護與管理制品庫（如 JFrog Artifactory），管理建置產物、相依套件與版本發佈流程。\n・探索並導入實用的 AI 輔助開發工作流程，以提升工程生產力、程式碼品質與交付效率。\n・Design, develop, and maintain scalable backend services for core e-commerce domains such as product catalog, search, recommendation, pricing, and order processing.\n・Build and maintain RESTful APIs for internal platforms, frontend applications, and partner integrations.\n・Improve system performance, reliability, observability, and maintainability across services and environments.\n・Participate in system architecture design, technical planning, code reviews, and engineering decision-making.\n・Collaborate with frontend, product, data, and AI teams to deliver high-quality features and platform capabilities.\n・Contribute to CI/CD pipelines, testing practices, release processes, and operational excellence.\n・Manage source code using GitHub, including branching strategies, pull request workflows, and code review practices.\n・Maintain and manage artifact repositories such as JFrog Artifactory for build artifacts, dependencies, and release versioning across services.\n・Explore and adopt practical AI-assisted development workflows to improve engineering productivity, code quality, and delivery speed.\n-------------------------\n[Required Qualifications and Skills]\n・資訊工程、資訊科學或相關科系學士或碩士學歷。\n・熟悉 GitHUB, JFrog Artifactory artifact management system。\n・3 年以上後端軟體開發經驗。\n・熟悉 Java 或 PHP，具備實際開發 production-grade 後端系統經驗。\n・具備 RESTful API 與 service-based architecture 開發經驗。\n・熟悉 Linux 開發與部署環境。\n・具備 Shell、Python 或其他腳本語言的基本能力。\n・具備使用 GitHub 或其他版本控制平台進行團隊協作開發的經驗。\n・具備良好的分析、除錯與問題解決能力。\n・扎實的資料結構、演算法與軟體工程基礎。\n・主動積極，具持續學習與成長意願。\n・Bachelor's or Master's degree in Computer Science or a related field.\n・Familiarity with artifact management systems such as JFrog Artifactory , GitHUB.\n・3+ years of experience in backend software development.\n・Proficient in Java or PHP, with hands-on experience building production-grade backend applications.\n・Experience developing RESTful APIs and service-based architectures.\n・Familiar with Linux-based development and deployment environments.\n・Basic scripting ability in Shell, Python, or similar languages.\n・Experience using GitHub or similar version control platforms for collaborative software development.\n・Strong analytical, troubleshooting, and problem-solving skills.\n・Solid understanding of data structures, algorithms, and software engineering fundamentals.\n・Self-motivated and committed to continuous learning and professional growth."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Github",
+            "Java",
+            "PHP",
+            "Linux",
+            "Shell",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Github、Java、PHP、Linux、Shell、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料庫程式設計",
+            "資料庫系統管理維護",
+            "CI/CD",
+            "系統架構規劃與維護"
+          ],
+          "label": "工作技能",
+          "text": "資料庫程式設計、資料庫系統管理維護、CI/CD、系統架構規劃與維護",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "[Preferred Qualifications]\n・熟悉 Spring Boot、Laravel 等現代後端框架。\n・具備 microservices 架構經驗，熟悉 service-to-service communication、API gateway pattern 與 Kafka、RabbitMQ 等非同步訊息機制。\n・具備 MySQL、Oracle 等關聯式資料庫實務經驗；熟悉 Redis 更佳\n・熟悉資料安全最佳實務、安全開發原則與常見安全協定。\n・具備電商、Marketplace 或高流量交易型系統建置或維護經驗。\n・熟悉 AWS 或 Google Cloud 等雲端平台。\n・具備 Docker、Kubernetes 容器化開發與部署經驗。\n・熟悉 Agile / Scrum 與 CI/CD 實務，並使用 GitHub Actions、GitLab CI 或 Jenkins 等工具。\n・了解軟體開發生命週期，包括設計、開發、測試、發布與品質保證。\n・具備大型分散式系統設計經驗，熟悉 design patterns 與 object-oriented design principles。\n・具備使用 Claude、Cursor、GitHub Copilot 等 AI 輔助開發工具的經驗。\n・熟悉 prompt-based development 與 AI-driven coding workflow 者佳。\n・Experience with modern backend frameworks such as Spring Boot or Laravel.\n・Experience with microservices architecture, including service-to-service communication, API gateway patterns, and asynchronous messaging systems such as Kafka or RabbitMQ.\n・Hands-on experience with relational databases such as MySQL or Oracle; familiarity with caching systems such as Redis is a plus.\n・Familiarity with data security best practices, secure development principles, and common security protocols.\n・Experience building or maintaining e-commerce, marketplace, or high-traffic transactional systems.\n・Familiarity with cloud platforms such as AWS or Google Cloud.\n・Experience with containerized development and deployment using Docker and Kubernetes.\n・Familiarity with Agile/Scrum processes and CI/CD practices using tools such as GitHub Actions, GitLab CI, or Jenkins.\n・Good understanding of the software development lifecycle, including design, development, testing, release, and quality assurance.\n・Experience designing large-scale distributed applications using software design patterns and object-oriented design principles.\n・Experience using AI-assisted development tools such as Claude, Cursor, or GitHub Copilot to improve development productivity and coding efficiency.\n・Familiarity with prompt-based development and AI-driven coding workflows is a plus.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Github、Java、PHP、Linux、Shell、Python\n工作技能：資料庫程式設計、資料庫系統管理維護、CI/CD、系統架構規劃與維護\n其他條件：[Preferred Qualifications]\n・熟悉 Spring Boot、Laravel 等現代後端框架。\n・具備 microservices 架構經驗，熟悉 service-to-service communication、API gateway pattern 與 Kafka、RabbitMQ 等非同步訊息機制。\n・具備 MySQL、Oracle 等關聯式資料庫實務經驗；熟悉 Redis 更佳\n・熟悉資料安全最佳實務、安全開發原則與常見安全協定。\n・具備電商、Marketplace 或高流量交易型系統建置或維護經驗。\n・熟悉 AWS 或 Google Cloud 等雲端平台。\n・具備 Docker、Kubernetes 容器化開發與部署經驗。\n・熟悉 Agile / Scrum 與 CI/CD 實務，並使用 GitHub Actions、GitLab CI 或 Jenkins 等工具。\n・了解軟體開發生命週期，包括設計、開發、測試、發布與品質保證。\n・具備大型分散式系統設計經驗，熟悉 design patterns 與 object-oriented design principles。\n・具備使用 Claude、Cursor、GitHub Copilot 等 AI 輔助開發工具的經驗。\n・熟悉 prompt-based development 與 AI-driven coding workflow 者佳。\n・Experience with modern backend frameworks such as Spring Boot or Laravel.\n・Experience with microservices architecture, including service-to-service communication, API gateway patterns, and asynchronous messaging systems such as Kafka or RabbitMQ.\n・Hands-on experience with relational databases such as MySQL or Oracle; familiarity with caching systems such as Redis is a plus.\n・Familiarity with data security best practices, secure development principles, and common security protocols.\n・Experience building or maintaining e-commerce, marketplace, or high-traffic transactional systems.\n・Familiarity with cloud platforms such as AWS or Google Cloud.\n・Experience with containerized development and deployment using Docker and Kubernetes.\n・Familiarity with Agile/Scrum processes and CI/CD practices using tools such as GitHub Actions, GitLab CI, or Jenkins.\n・Good understanding of the software development lifecycle, including design, development, testing, release, and quality assurance.\n・Experience designing large-scale distributed applications using software design patterns and object-oriented design principles.\n・Experience using AI-assisted development tools such as Claude, Cursor, or GitHub Copilot to improve development productivity and coding efficiency.\n・Familiarity with prompt-based development and AI-driven coding workflows is a plus."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94kzb",
+    "job_url": "https://www.104.com.tw/job/94kzb",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94kzb.json",
+    "raw_sha256": "291bdeb4ddb03717ac882bc0cc1976237d659a57e1017bd1aef9d4362e59f4be",
+    "requested_url": "https://www.104.com.tw/api/jobs/94kzb"
+  }
+}

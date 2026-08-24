@@ -1,0 +1,255 @@
+{
+  "company": {
+    "id": "1a2x6bkizd",
+    "name": "九鴻管理顧問有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "遊戲工程師",
+      "軟體專案主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉HTML、CSS、Javascript、PHP、Wordpress，建立網站優化操作。"
+        },
+        {
+          "children": [],
+          "text": "負責網站的SEO優化，包含：關鍵字部署規劃、內部連結調整、頁面結構、外鏈建設等。"
+        },
+        {
+          "children": [],
+          "text": "製定SEO優化方案，定位關鍵字的難易度及操作排名所需時間，組織實施優化方案。"
+        },
+        {
+          "children": [],
+          "text": "熟悉Google Analytics，能對網站流量進行數據分析，追蹤及分析頁面流量轉化數據，且能針對用戶行為提出改善建議。"
+        },
+        {
+          "children": [],
+          "text": "熟悉白帽SEO操作流程，為網站整體運營目標提供流量支援。"
+        },
+        {
+          "children": [],
+          "text": "擁有良好的溝通能力、執行力、積極的態度，並具備團隊合作能力者。"
+        },
+        {
+          "children": [],
+          "text": "年終獎金"
+        },
+        {
+          "children": [],
+          "text": "三節獎金"
+        },
+        {
+          "children": [],
+          "text": "勞保"
+        },
+        {
+          "children": [],
+          "text": "健保"
+        },
+        {
+          "children": [],
+          "text": "員工團保"
+        },
+        {
+          "children": [],
+          "text": "國內外旅遊"
+        },
+        {
+          "children": [],
+          "text": "特休/年假"
+        },
+        {
+          "children": [],
+          "text": "旅遊假"
+        },
+        {
+          "children": [],
+          "text": "結婚禮金"
+        },
+        {
+          "children": [],
+          "text": "旅遊補助"
+        }
+      ],
+      "text": "1.熟悉HTML、CSS、Javascript、PHP、Wordpress，建立網站優化操作。\n2.負責網站的SEO優化，包含：關鍵字部署規劃、內部連結調整、頁面結構、外鏈建設等。\n3.製定SEO優化方案，定位關鍵字的難易度及操作排名所需時間，組織實施優化方案。\n4.熟悉Google Analytics，能對網站流量進行數據分析，追蹤及分析頁面流量轉化數據，且能針對用戶行為提出改善建議。\n5.熟悉白帽SEO操作流程，為網站整體運營目標提供流量支援。\n6.擁有良好的溝通能力、執行力、積極的態度，並具備團隊合作能力者。\n公司制度：勞保、健保、加班費、良好升遷制度、週休二日\n福利與制度：\n◆ 獎金/禮品類\n1.年終獎金\n2.三節獎金\n◆ 保險類\n1.勞保\n2.健保\n3.員工團保\n◆ 休閒類\n1.國內外旅遊\n◆ 請 / 休假制度\n1.特休/年假\n2.旅遊假\n◆ 補助類\n1.結婚禮金\n2.旅遊補助"
+    },
+    "employment_type_raw": "全職",
+    "title": "SEO 工程師"
+  },
+  "location": {
+    "address_raw": "台中市西屯區文心路三段219號",
+    "raw": "台中市西屯區文心路三段219號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "PHP",
+          "HTML",
+          "JavaScript",
+          "jQuery",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "PHP、HTML、JavaScript、jQuery、CSS"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具備符合SEO架構的網站企劃與開發能力\n2. 熟悉爬蟲工具，透過爬蟲定期挖關鍵字做為SEO與ASO的材料\n3. 熟悉GA與google search console等網站相關分析"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 具備符合SEO架構的網站企劃與開發能力\n2. 熟悉爬蟲工具，透過爬蟲定期挖關鍵字做為SEO與ASO的材料\n3. 熟悉GA與google search console等網站相關分析",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：不拘\n擅長工具：PHP、HTML、JavaScript、jQuery、CSS\n工作技能：軟體程式設計\n其他條件：1. 具備符合SEO架構的網站企劃與開發能力\n2. 熟悉爬蟲工具，透過爬蟲定期挖關鍵字做為SEO與ASO的材料\n3. 熟悉GA與google search console等網站相關分析",
+    "tools": [
+      "PHP",
+      "HTML",
+      "JavaScript",
+      "jQuery",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 52
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:30:19+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000~62,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.熟悉HTML、CSS、Javascript、PHP、Wordpress，建立網站優化操作。\n2.負責網站的SEO優化，包含：關鍵字部署規劃、內部連結調整、頁面結構、外鏈建設等。\n3.製定SEO優化方案，定位關鍵字的難易度及操作排名所需時間，組織實施優化方案。\n4.熟悉Google Analytics，能對網站流量進行數據分析，追蹤及分析頁面流量轉化數據，且能針對用戶行為提出改善建議。\n5.熟悉白帽SEO操作流程，為網站整體運營目標提供流量支援。\n6.擁有良好的溝通能力、執行力、積極的態度，並具備團隊合作能力者。\n公司制度：勞保、健保、加班費、良好升遷制度、週休二日\n福利與制度：\n◆ 獎金/禮品類\n1.年終獎金\n2.三節獎金\n◆ 保險類\n1.勞保\n2.健保\n3.員工團保\n◆ 休閒類\n1.國內外旅遊\n◆ 請 / 休假制度\n1.特休/年假\n2.旅遊假\n◆ 補助類\n1.結婚禮金\n2.旅遊補助",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "遊戲工程師",
+            "軟體專案主管"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、遊戲工程師、軟體專案主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000~62,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區文心路三段219號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.熟悉HTML、CSS、Javascript、PHP、Wordpress，建立網站優化操作。\n2.負責網站的SEO優化，包含：關鍵字部署規劃、內部連結調整、頁面結構、外鏈建設等。\n3.製定SEO優化方案，定位關鍵字的難易度及操作排名所需時間，組織實施優化方案。\n4.熟悉Google Analytics，能對網站流量進行數據分析，追蹤及分析頁面流量轉化數據，且能針對用戶行為提出改善建議。\n5.熟悉白帽SEO操作流程，為網站整體運營目標提供流量支援。\n6.擁有良好的溝通能力、執行力、積極的態度，並具備團隊合作能力者。\n公司制度：勞保、健保、加班費、良好升遷制度、週休二日\n福利與制度：\n◆ 獎金/禮品類\n1.年終獎金\n2.三節獎金\n◆ 保險類\n1.勞保\n2.健保\n3.員工團保\n◆ 休閒類\n1.國內外旅遊\n◆ 請 / 休假制度\n1.特休/年假\n2.旅遊假\n◆ 補助類\n1.結婚禮金\n2.旅遊補助"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PHP",
+            "HTML",
+            "JavaScript",
+            "jQuery",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "PHP、HTML、JavaScript、jQuery、CSS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具備符合SEO架構的網站企劃與開發能力\n2. 熟悉爬蟲工具，透過爬蟲定期挖關鍵字做為SEO與ASO的材料\n3. 熟悉GA與google search console等網站相關分析",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘\n擅長工具：PHP、HTML、JavaScript、jQuery、CSS\n工作技能：軟體程式設計\n其他條件：1. 具備符合SEO架構的網站企劃與開發能力\n2. 熟悉爬蟲工具，透過爬蟲定期挖關鍵字做為SEO與ASO的材料\n3. 熟悉GA與google search console等網站相關分析"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "73e0u",
+    "job_url": "https://www.104.com.tw/job/73e0u",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/73e0u.json",
+    "raw_sha256": "b251d173356c31923f565c84c9e4e402abd026f82679f6155f7f80e76ffd61a9",
+    "requested_url": "https://www.104.com.tw/api/jobs/73e0u"
+  }
+}

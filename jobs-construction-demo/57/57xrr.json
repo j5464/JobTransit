@@ -1,0 +1,207 @@
+{
+  "company": {
+    "id": "1a2x6bin60",
+    "name": "新加坡商鈦坦科技股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "作為資深工程師，我們希望你對四大核心技術領域都有一定程度的了解以及實戰經驗"
+        },
+        {
+          "children": [],
+          "text": "提升團隊整體的技術能力和專業素養並且帶領團隊中的 Junior 成為 Senior"
+        },
+        {
+          "children": [],
+          "text": "在與客戶和內部團隊的技術溝通中扮演主導角色，提出創新的解決方案以應對複雜挑戰"
+        },
+        {
+          "children": [],
+          "text": "提供高效能的技術策略和解決方案，驅動公司產品和技術的進步"
+        },
+        {
+          "children": [],
+          "text": "可配合 24x7 的技術支援輪班，協助客戶排除系統問題"
+        },
+        {
+          "children": [],
+          "text": "在四大核心技術領域中至少其中的兩個領域擁有深厚的技術背景"
+        },
+        {
+          "children": [],
+          "text": "帶領過五人以上團隊解決複雜問題"
+        },
+        {
+          "children": [],
+          "text": "能夠清晰地向非技術人員解釋技術概念"
+        },
+        {
+          "children": [],
+          "text": "承擔有效決策和執行解決方案的能力"
+        },
+        {
+          "children": [],
+          "text": "具備大型項目或高負載系統的開發和維護經驗"
+        },
+        {
+          "children": [],
+          "text": "曾領導過跨功能團隊或大型技術項目"
+        }
+      ],
+      "text": "在鈦坦科技，我們將工程師視為「產品開發者」（PD, Product Developer）。這不僅是關於編寫【程式】，還包括全面考慮產品的效能、安全、使用性、維護成本及所需資源和時間。我們致力於開發但不只是完成功能，更在意創造出能讓客戶滿意的產品。對於敏捷開發，我們重視其真正的含義，而不是快速交付或空洞的術語。如果你具有熱忱、追求極致和樂於團隊合作的特質，歡迎你加入我們。在這裡，你將在專業顧問的指導下深入學習敏捷開發的精髓，與團隊共創卓越產品。我們相信，追求的不僅是最好，而是不斷進步。\n我們在日常開發使用到的[四大核心技術領域]有以下幾項\n軟體開發和版本控制：ASP.NET Core, Vue.js, Microsoft SQL Server, GitLab, etc.\n自動化測試： NUnit, Vitest, K6, etc.\n容器化和分散式系統: docker, K8s, Redis, Kafka, etc.\n監控和日誌系統：ELK, Grafana, Prometheus, etc.\n我們也非常歡迎使用 AI 工具輔助開發\n如: Cursor, Windsurf, ChatGPT, Claude … 等\n【工作職責】\n• 作為資深工程師，我們希望你對四大核心技術領域都有一定程度的了解以及實戰經驗\n• 提升團隊整體的技術能力和專業素養並且帶領團隊中的 Junior 成為 Senior\n• 在與客戶和內部團隊的技術溝通中扮演主導角色，提出創新的解決方案以應對複雜挑戰\n• 提供高效能的技術策略和解決方案，驅動公司產品和技術的進步\n• 可配合 24x7 的技術支援輪班，協助客戶排除系統問題\n【工作規範】\n基本要求\n• 在四大核心技術領域中至少其中的兩個領域擁有深厚的技術背景\n• 帶領過五人以上團隊解決複雜問題\n• 能夠清晰地向非技術人員解釋技術概念\n• 承擔有效決策和執行解決方案的能力\n【加分項目】\n• 具備大型項目或高負載系統的開發和維護經驗\n• 曾領導過跨功能團隊或大型技術項目"
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior Software Engineer / Programmer 資深軟體工程師(台北)"
+  },
+  "location": {
+    "address_raw": "台北市南港區園區街3之1號11樓之1（南港軟體園區G棟）",
+    "raw": "台北市南港區園區街3之1號11樓之1（南港軟體園區G棟）"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "MS SQL",
+          "JavaScript",
+          "jQuery"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、MS SQL、JavaScript、jQuery"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：不拘\n擅長工具：ASP.NET、C#、MS SQL、JavaScript、jQuery",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "MS SQL",
+      "JavaScript",
+      "jQuery"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 3
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:27:12+08:00"
+  },
+  "salary": {
+    "raw": "月薪104,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "在鈦坦科技，我們將工程師視為「產品開發者」（PD, Product Developer）。這不僅是關於編寫【程式】，還包括全面考慮產品的效能、安全、使用性、維護成本及所需資源和時間。我們致力於開發但不只是完成功能，更在意創造出能讓客戶滿意的產品。對於敏捷開發，我們重視其真正的含義，而不是快速交付或空洞的術語。如果你具有熱忱、追求極致和樂於團隊合作的特質，歡迎你加入我們。在這裡，你將在專業顧問的指導下深入學習敏捷開發的精髓，與團隊共創卓越產品。我們相信，追求的不僅是最好，而是不斷進步。\n我們在日常開發使用到的[四大核心技術領域]有以下幾項\n軟體開發和版本控制：ASP.NET Core, Vue.js, Microsoft SQL Server, GitLab, etc.\n自動化測試： NUnit, Vitest, K6, etc.\n容器化和分散式系統: docker, K8s, Redis, Kafka, etc.\n監控和日誌系統：ELK, Grafana, Prometheus, etc.\n我們也非常歡迎使用 AI 工具輔助開發\n如: Cursor, Windsurf, ChatGPT, Claude … 等\n【工作職責】\n• 作為資深工程師，我們希望你對四大核心技術領域都有一定程度的了解以及實戰經驗\n• 提升團隊整體的技術能力和專業素養並且帶領團隊中的 Junior 成為 Senior\n• 在與客戶和內部團隊的技術溝通中扮演主導角色，提出創新的解決方案以應對複雜挑戰\n• 提供高效能的技術策略和解決方案，驅動公司產品和技術的進步\n• 可配合 24x7 的技術支援輪班，協助客戶排除系統問題\n【工作規範】\n基本要求\n• 在四大核心技術領域中至少其中的兩個領域擁有深厚的技術背景\n• 帶領過五人以上團隊解決複雜問題\n• 能夠清晰地向非技術人員解釋技術概念\n• 承擔有效決策和執行解決方案的能力\n【加分項目】\n• 具備大型項目或高負載系統的開發和維護經驗\n• 曾領導過跨功能團隊或大型技術項目",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪104,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區園區街3之1號11樓之1（南港軟體園區G棟）",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "在鈦坦科技，我們將工程師視為「產品開發者」（PD, Product Developer）。這不僅是關於編寫【程式】，還包括全面考慮產品的效能、安全、使用性、維護成本及所需資源和時間。我們致力於開發但不只是完成功能，更在意創造出能讓客戶滿意的產品。對於敏捷開發，我們重視其真正的含義，而不是快速交付或空洞的術語。如果你具有熱忱、追求極致和樂於團隊合作的特質，歡迎你加入我們。在這裡，你將在專業顧問的指導下深入學習敏捷開發的精髓，與團隊共創卓越產品。我們相信，追求的不僅是最好，而是不斷進步。\n我們在日常開發使用到的[四大核心技術領域]有以下幾項\n軟體開發和版本控制：ASP.NET Core, Vue.js, Microsoft SQL Server, GitLab, etc.\n自動化測試： NUnit, Vitest, K6, etc.\n容器化和分散式系統: docker, K8s, Redis, Kafka, etc.\n監控和日誌系統：ELK, Grafana, Prometheus, etc.\n我們也非常歡迎使用 AI 工具輔助開發\n如: Cursor, Windsurf, ChatGPT, Claude … 等\n【工作職責】\n• 作為資深工程師，我們希望你對四大核心技術領域都有一定程度的了解以及實戰經驗\n• 提升團隊整體的技術能力和專業素養並且帶領團隊中的 Junior 成為 Senior\n• 在與客戶和內部團隊的技術溝通中扮演主導角色，提出創新的解決方案以應對複雜挑戰\n• 提供高效能的技術策略和解決方案，驅動公司產品和技術的進步\n• 可配合 24x7 的技術支援輪班，協助客戶排除系統問題\n【工作規範】\n基本要求\n• 在四大核心技術領域中至少其中的兩個領域擁有深厚的技術背景\n• 帶領過五人以上團隊解決複雜問題\n• 能夠清晰地向非技術人員解釋技術概念\n• 承擔有效決策和執行解決方案的能力\n【加分項目】\n• 具備大型項目或高負載系統的開發和維護經驗\n• 曾領導過跨功能團隊或大型技術項目"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "MS SQL",
+            "JavaScript",
+            "jQuery"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、MS SQL、JavaScript、jQuery",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：不拘\n擅長工具：ASP.NET、C#、MS SQL、JavaScript、jQuery"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "57xrr",
+    "job_url": "https://www.104.com.tw/job/57xrr",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/57xrr.json",
+    "raw_sha256": "3a7778b069d6ce454843b69da07923dbe77d89b3cdacdd0668bc0e860ddda0e9",
+    "requested_url": "https://www.104.com.tw/api/jobs/57xrr"
+  }
+}

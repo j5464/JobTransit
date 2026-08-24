@@ -1,0 +1,252 @@
+{
+  "company": {
+    "id": "cl8kv1c",
+    "name": "佳陞科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "軟體專案管理師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "軟體模組撰寫"
+        },
+        {
+          "children": [],
+          "text": "與客戶端通訊測試"
+        },
+        {
+          "children": [],
+          "text": "優化設備動作"
+        },
+        {
+          "children": [],
+          "text": "異常問題Debug"
+        }
+      ],
+      "text": "1.軟體模組撰寫\n2.與客戶端通訊測試\n3.優化設備動作\n4.異常問題Debug"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師"
+  },
+  "location": {
+    "address_raw": "台中市南屯區益文三街65號",
+    "raw": "台中市南屯區益文三街65號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Github",
+          "C#",
+          "Visual Studio",
+          "WinForm",
+          "MS SQL",
+          "MySQL",
+          "AutoCad 2D",
+          "EPLAN",
+          "CIM",
+          "PLC"
+        ],
+        "label": "擅長工具",
+        "text": "Github、C#、Visual Studio、WinForm、MS SQL、MySQL、AutoCad 2D、EPLAN、CIM、PLC"
+      },
+      {
+        "items": [
+          "軟體整合測試",
+          "自動化系統設計整合",
+          "設計導入製造執行系統（MES）",
+          "設計機台設備自動化",
+          "電機設備測試",
+          "自動化設備／系統介面之維護改善"
+        ],
+        "label": "工作技能",
+        "text": "軟體整合測試、自動化系統設計整合、設計導入製造執行系統（MES）、設計機台設備自動化、電機設備測試、自動化設備／系統介面之維護改善"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.擅軟體工程系統開發尤佳\n2.擅軟體整合測試技能尤佳\n3.具備自動化軟體程式設計能力尤佳\n4.具備SECS/GEM技能尤佳"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "1.擅軟體工程系統開發尤佳\n2.擅軟體整合測試技能尤佳\n3.具備自動化軟體程式設計能力尤佳\n4.具備SECS/GEM技能尤佳",
+    "skills": [
+      "軟體整合測試",
+      "自動化系統設計整合",
+      "設計導入製造執行系統（MES）",
+      "設計機台設備自動化",
+      "電機設備測試",
+      "自動化設備／系統介面之維護改善"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Github、C#、Visual Studio、WinForm、MS SQL、MySQL、AutoCad 2D、EPLAN、CIM、PLC\n工作技能：軟體整合測試、自動化系統設計整合、設計導入製造執行系統（MES）、設計機台設備自動化、電機設備測試、自動化設備／系統介面之維護改善\n其他條件：1.擅軟體工程系統開發尤佳\n2.擅軟體整合測試技能尤佳\n3.具備自動化軟體程式設計能力尤佳\n4.具備SECS/GEM技能尤佳",
+    "tools": [
+      "Github",
+      "C#",
+      "Visual Studio",
+      "WinForm",
+      "MS SQL",
+      "MySQL",
+      "AutoCad 2D",
+      "EPLAN",
+      "CIM",
+      "PLC"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 25
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:24:48+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.軟體模組撰寫\n2.與客戶端通訊測試\n3.優化設備動作\n4.異常問題Debug",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "軟體專案管理師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、軟體專案管理師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市南屯區益文三街65號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.軟體模組撰寫\n2.與客戶端通訊測試\n3.優化設備動作\n4.異常問題Debug"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Github",
+            "C#",
+            "Visual Studio",
+            "WinForm",
+            "MS SQL",
+            "MySQL",
+            "AutoCad 2D",
+            "EPLAN",
+            "CIM",
+            "PLC"
+          ],
+          "label": "擅長工具",
+          "text": "Github、C#、Visual Studio、WinForm、MS SQL、MySQL、AutoCad 2D、EPLAN、CIM、PLC",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體整合測試",
+            "自動化系統設計整合",
+            "設計導入製造執行系統（MES）",
+            "設計機台設備自動化",
+            "電機設備測試",
+            "自動化設備／系統介面之維護改善"
+          ],
+          "label": "工作技能",
+          "text": "軟體整合測試、自動化系統設計整合、設計導入製造執行系統（MES）、設計機台設備自動化、電機設備測試、自動化設備／系統介面之維護改善",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.擅軟體工程系統開發尤佳\n2.擅軟體整合測試技能尤佳\n3.具備自動化軟體程式設計能力尤佳\n4.具備SECS/GEM技能尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Github、C#、Visual Studio、WinForm、MS SQL、MySQL、AutoCad 2D、EPLAN、CIM、PLC\n工作技能：軟體整合測試、自動化系統設計整合、設計導入製造執行系統（MES）、設計機台設備自動化、電機設備測試、自動化設備／系統介面之維護改善\n其他條件：1.擅軟體工程系統開發尤佳\n2.擅軟體整合測試技能尤佳\n3.具備自動化軟體程式設計能力尤佳\n4.具備SECS/GEM技能尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92m37",
+    "job_url": "https://www.104.com.tw/job/92m37",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92m37.json",
+    "raw_sha256": "6ddc6e80b60f67a503dd5ef0a680b53140fb492345121faaa45c6d2d211ec920",
+    "requested_url": "https://www.104.com.tw/api/jobs/92m37"
+  }
+}

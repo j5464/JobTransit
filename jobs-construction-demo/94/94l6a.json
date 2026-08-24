@@ -1,0 +1,206 @@
+{
+  "company": {
+    "id": "ahnw48g",
+    "name": "五福旅行社股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉 HTML, CSS, Javascript 網頁語法"
+        },
+        {
+          "children": [],
+          "text": "會使用 SASS/SCSS, tailwindcss 或曾使用過 bootstrap"
+        },
+        {
+          "children": [],
+          "text": "能夠使用 React 或 Vue.js 以及 jQuery 等方式撈取 JSON 資料，建構互動性網頁"
+        },
+        {
+          "children": [],
+          "text": "屬於資訊部前端團隊，與 UI/UX 設計師、及後端工程師團隊合作"
+        }
+      ],
+      "text": "1. 熟悉 HTML, CSS, Javascript 網頁語法\n2. 會使用 SASS/SCSS, tailwindcss 或曾使用過 bootstrap\n3. 能夠使用 React 或 Vue.js 以及 jQuery 等方式撈取 JSON 資料，建構互動性網頁\n4. 屬於資訊部前端團隊，與 UI/UX 設計師、及後端工程師團隊合作\n※設計開發五福旅遊網站與相關專案網頁，可獨立切版製作網頁※"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊部-前端工程師(台北)"
+  },
+  "location": {
+    "address_raw": "台北市松山區南京東路三段287號7樓",
+    "raw": "台北市松山區南京東路三段287號7樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "HTML",
+          "JavaScript",
+          "jQuery",
+          "CSS",
+          "Sass",
+          "Figma"
+        ],
+        "label": "擅長工具",
+        "text": "HTML、JavaScript、jQuery、CSS、Sass、Figma"
+      },
+      {
+        "items": [
+          "網頁語法撰寫"
+        ],
+        "label": "工作技能",
+        "text": "網頁語法撰寫"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 請附上前端程式、網頁相關專案作品檔案或連結\n2. 有旅遊業工作經驗者尤佳"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 請附上前端程式、網頁相關專案作品檔案或連結\n2. 有旅遊業工作經驗者尤佳",
+    "skills": [
+      "網頁語法撰寫"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：HTML、JavaScript、jQuery、CSS、Sass、Figma\n工作技能：網頁語法撰寫\n其他條件：1. 請附上前端程式、網頁相關專案作品檔案或連結\n2. 有旅遊業工作經驗者尤佳",
+    "tools": [
+      "HTML",
+      "JavaScript",
+      "jQuery",
+      "CSS",
+      "Sass",
+      "Figma"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 4
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:30:32+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 熟悉 HTML, CSS, Javascript 網頁語法\n2. 會使用 SASS/SCSS, tailwindcss 或曾使用過 bootstrap\n3. 能夠使用 React 或 Vue.js 以及 jQuery 等方式撈取 JSON 資料，建構互動性網頁\n4. 屬於資訊部前端團隊，與 UI/UX 設計師、及後端工程師團隊合作\n※設計開發五福旅遊網站與相關專案網頁，可獨立切版製作網頁※",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區南京東路三段287號7樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 熟悉 HTML, CSS, Javascript 網頁語法\n2. 會使用 SASS/SCSS, tailwindcss 或曾使用過 bootstrap\n3. 能夠使用 React 或 Vue.js 以及 jQuery 等方式撈取 JSON 資料，建構互動性網頁\n4. 屬於資訊部前端團隊，與 UI/UX 設計師、及後端工程師團隊合作\n※設計開發五福旅遊網站與相關專案網頁，可獨立切版製作網頁※"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "HTML",
+            "JavaScript",
+            "jQuery",
+            "CSS",
+            "Sass",
+            "Figma"
+          ],
+          "label": "擅長工具",
+          "text": "HTML、JavaScript、jQuery、CSS、Sass、Figma",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "網頁語法撰寫"
+          ],
+          "label": "工作技能",
+          "text": "網頁語法撰寫",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 請附上前端程式、網頁相關專案作品檔案或連結\n2. 有旅遊業工作經驗者尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：HTML、JavaScript、jQuery、CSS、Sass、Figma\n工作技能：網頁語法撰寫\n其他條件：1. 請附上前端程式、網頁相關專案作品檔案或連結\n2. 有旅遊業工作經驗者尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94l6a",
+    "job_url": "https://www.104.com.tw/job/94l6a",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94l6a.json",
+    "raw_sha256": "3104256d9a2baf01cefa6f2cde3f8c99c6c22903814640e81182d92117d29446",
+    "requested_url": "https://www.104.com.tw/api/jobs/94l6a"
+  }
+}

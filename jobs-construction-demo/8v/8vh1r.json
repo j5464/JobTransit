@@ -1,0 +1,268 @@
+{
+  "company": {
+    "id": "ojonwyo",
+    "name": "Gogoro Taiwan Limited_睿能創意股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "願意擁抱合作、產出高品質的工作，對團隊承諾並用行動來支持團隊目標。"
+        },
+        {
+          "children": [],
+          "text": "富有想像與好奇心，能夠以嶄新的眼光探索商業邏輯，並運用軟體開發來實踐想法。"
+        },
+        {
+          "children": [],
+          "text": "使用技術解決實際問題，並願意深入研究並快速完成任務。"
+        },
+        {
+          "children": [],
+          "text": "具有建構已成功交付給客戶的複雜軟體系統經驗。"
+        },
+        {
+          "children": [],
+          "text": "創建具備使用資訊的完整性，安全性與隱私性的軟體平台系統。"
+        },
+        {
+          "children": [],
+          "text": "創建穩定、可持續性的 Data Pipeline。"
+        },
+        {
+          "children": [],
+          "text": "在參與軟體系統服務工作的同時，掌握商業邏輯與功能需求、提案架構設計、軟體開發、測試發布與使用者回饋整體流程。"
+        },
+        {
+          "children": [],
+          "text": "主動與軟體專案管理人員、跨團隊軟體工程師、軟體測試工程師展開深度的合作關係，以成熟穏重的思維共同創建高品質的軟體系統。"
+        },
+        {
+          "children": [],
+          "text": "對於後端系統所發生的問題，在解決問題的過程中能避免經驗陷阱，尋求並建置長久的解決方案，降低或預防客戶與使用者的負面體驗，不中斷商業運營與服務。"
+        },
+        {
+          "children": [],
+          "text": "具備 Python 與 Java 應用程式語言開發能力。"
+        },
+        {
+          "children": [],
+          "text": "必須具備良好的物件導向觀念, 熟悉設計模式以及抽像化設計。"
+        },
+        {
+          "children": [],
+          "text": "必須具有 J2EE（Java，Spring，Spring Boot），傳輸協議（HTTPS, SFTP）和 Web 服務/ API（REST和SOAP）的開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉專案管理建置工具 (Maven, Gradle)。"
+        },
+        {
+          "children": [],
+          "text": "基於 Web 的應用程序和後端環境（Unix，Windows）和關聯式資料庫（PostgreSQL , SQL Server）中的技術開發專業知識。"
+        },
+        {
+          "children": [],
+          "text": "資料工程相關實務經驗，具備 Tableau, Starrocks, Flink CDC, or Hadoop 規劃與建置實務經驗尤佳。"
+        },
+        {
+          "children": [],
+          "text": "AWS 相關工作實務經驗，具備 EC2、ECS、RDS 之規劃、建置、備份備援、維運經驗以及雲端系統架構操作、管理與備援、及資訊安全管理等規劃與建置實務經驗尤佳。"
+        }
+      ],
+      "text": "Position Impact：\n• 願意擁抱合作、產出高品質的工作，對團隊承諾並用行動來支持團隊目標。\n• 富有想像與好奇心，能夠以嶄新的眼光探索商業邏輯，並運用軟體開發來實踐想法。\n• 使用技術解決實際問題，並願意深入研究並快速完成任務。\n• 具有建構已成功交付給客戶的複雜軟體系統經驗。\nResponsibilities：\n• 創建具備使用資訊的完整性，安全性與隱私性的軟體平台系統。\n• 創建穩定、可持續性的 Data Pipeline。\n• 在參與軟體系統服務工作的同時，掌握商業邏輯與功能需求、提案架構設計、軟體開發、測試發布與使用者回饋整體流程。\n• 主動與軟體專案管理人員、跨團隊軟體工程師、軟體測試工程師展開深度的合作關係，以成熟穏重的思維共同創建高品質的軟體系統。\n• 對於後端系統所發生的問題，在解決問題的過程中能避免經驗陷阱，尋求並建置長久的解決方案，降低或預防客戶與使用者的負面體驗，不中斷商業運營與服務。\nRequirement：\n• 具備 Python 與 Java 應用程式語言開發能力。\n• 必須具備良好的物件導向觀念, 熟悉設計模式以及抽像化設計。\n• 必須具有 J2EE（Java，Spring，Spring Boot），傳輸協議（HTTPS, SFTP）和 Web 服務/ API（REST和SOAP）的開發經驗。\n• 熟悉專案管理建置工具 (Maven, Gradle)。\n• 基於 Web 的應用程序和後端環境（Unix，Windows）和關聯式資料庫（PostgreSQL , SQL Server）中的技術開發專業知識。\n• 資料工程相關實務經驗，具備 Tableau, Starrocks, Flink CDC, or Hadoop 規劃與建置實務經驗尤佳。\n• AWS 相關工作實務經驗，具備 EC2、ECS、RDS 之規劃、建置、備份備援、維運經驗以及雲端系統架構操作、管理與備援、及資訊安全管理等規劃與建置實務經驗尤佳。"
+    },
+    "employment_type_raw": "全職",
+    "title": "SWRD_Backend Engineer (Python/Java) 後端工程師"
+  },
+  "location": {
+    "address_raw": "台北市松山區長安東路二段225號",
+    "raw": "台北市松山區長安東路二段225號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python",
+          "Java",
+          "Tableau",
+          "MySQL",
+          "J2EE",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "label": "擅長工具",
+        "text": "Python、Java、Tableau、MySQL、J2EE、AWS、PostgreSQL"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Java、Tableau、MySQL、J2EE、AWS、PostgreSQL",
+    "tools": [
+      "Python",
+      "Java",
+      "Tableau",
+      "MySQL",
+      "J2EE",
+      "AWS",
+      "PostgreSQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 86
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:54:49+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Position Impact：\n• 願意擁抱合作、產出高品質的工作，對團隊承諾並用行動來支持團隊目標。\n• 富有想像與好奇心，能夠以嶄新的眼光探索商業邏輯，並運用軟體開發來實踐想法。\n• 使用技術解決實際問題，並願意深入研究並快速完成任務。\n• 具有建構已成功交付給客戶的複雜軟體系統經驗。\nResponsibilities：\n• 創建具備使用資訊的完整性，安全性與隱私性的軟體平台系統。\n• 創建穩定、可持續性的 Data Pipeline。\n• 在參與軟體系統服務工作的同時，掌握商業邏輯與功能需求、提案架構設計、軟體開發、測試發布與使用者回饋整體流程。\n• 主動與軟體專案管理人員、跨團隊軟體工程師、軟體測試工程師展開深度的合作關係，以成熟穏重的思維共同創建高品質的軟體系統。\n• 對於後端系統所發生的問題，在解決問題的過程中能避免經驗陷阱，尋求並建置長久的解決方案，降低或預防客戶與使用者的負面體驗，不中斷商業運營與服務。\nRequirement：\n• 具備 Python 與 Java 應用程式語言開發能力。\n• 必須具備良好的物件導向觀念, 熟悉設計模式以及抽像化設計。\n• 必須具有 J2EE（Java，Spring，Spring Boot），傳輸協議（HTTPS, SFTP）和 Web 服務/ API（REST和SOAP）的開發經驗。\n• 熟悉專案管理建置工具 (Maven, Gradle)。\n• 基於 Web 的應用程序和後端環境（Unix，Windows）和關聯式資料庫（PostgreSQL , SQL Server）中的技術開發專業知識。\n• 資料工程相關實務經驗，具備 Tableau, Starrocks, Flink CDC, or Hadoop 規劃與建置實務經驗尤佳。\n• AWS 相關工作實務經驗，具備 EC2、ECS、RDS 之規劃、建置、備份備援、維運經驗以及雲端系統架構操作、管理與備援、及資訊安全管理等規劃與建置實務經驗尤佳。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區長安東路二段225號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Position Impact：\n• 願意擁抱合作、產出高品質的工作，對團隊承諾並用行動來支持團隊目標。\n• 富有想像與好奇心，能夠以嶄新的眼光探索商業邏輯，並運用軟體開發來實踐想法。\n• 使用技術解決實際問題，並願意深入研究並快速完成任務。\n• 具有建構已成功交付給客戶的複雜軟體系統經驗。\nResponsibilities：\n• 創建具備使用資訊的完整性，安全性與隱私性的軟體平台系統。\n• 創建穩定、可持續性的 Data Pipeline。\n• 在參與軟體系統服務工作的同時，掌握商業邏輯與功能需求、提案架構設計、軟體開發、測試發布與使用者回饋整體流程。\n• 主動與軟體專案管理人員、跨團隊軟體工程師、軟體測試工程師展開深度的合作關係，以成熟穏重的思維共同創建高品質的軟體系統。\n• 對於後端系統所發生的問題，在解決問題的過程中能避免經驗陷阱，尋求並建置長久的解決方案，降低或預防客戶與使用者的負面體驗，不中斷商業運營與服務。\nRequirement：\n• 具備 Python 與 Java 應用程式語言開發能力。\n• 必須具備良好的物件導向觀念, 熟悉設計模式以及抽像化設計。\n• 必須具有 J2EE（Java，Spring，Spring Boot），傳輸協議（HTTPS, SFTP）和 Web 服務/ API（REST和SOAP）的開發經驗。\n• 熟悉專案管理建置工具 (Maven, Gradle)。\n• 基於 Web 的應用程序和後端環境（Unix，Windows）和關聯式資料庫（PostgreSQL , SQL Server）中的技術開發專業知識。\n• 資料工程相關實務經驗，具備 Tableau, Starrocks, Flink CDC, or Hadoop 規劃與建置實務經驗尤佳。\n• AWS 相關工作實務經驗，具備 EC2、ECS、RDS 之規劃、建置、備份備援、維運經驗以及雲端系統架構操作、管理與備援、及資訊安全管理等規劃與建置實務經驗尤佳。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "Java",
+            "Tableau",
+            "MySQL",
+            "J2EE",
+            "AWS",
+            "PostgreSQL"
+          ],
+          "label": "擅長工具",
+          "text": "Python、Java、Tableau、MySQL、J2EE、AWS、PostgreSQL",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Java、Tableau、MySQL、J2EE、AWS、PostgreSQL"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8vh1r",
+    "job_url": "https://www.104.com.tw/job/8vh1r",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8vh1r.json",
+    "raw_sha256": "9276eb97c13362022378d6c520cd4ea8c969b6428c006351ac2bd22534ae8adb",
+    "requested_url": "https://www.104.com.tw/api/jobs/8vh1r"
+  }
+}

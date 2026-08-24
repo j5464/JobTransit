@@ -1,0 +1,194 @@
+{
+  "company": {
+    "id": "kjjo15c",
+    "name": "美商HYPERION MATERIALS & TECHNOLOGIES (TAIWAN) LTD. _臺灣合銳材料科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "網路管理工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Responsible for the end-user IT requests in Aisa regions via ticketing system"
+        },
+        {
+          "children": [],
+          "text": "Performing remote troubleshooting of hardware & software issues by connecting to end-users' devices in Asia region"
+        },
+        {
+          "children": [],
+          "text": "Be able to use English communication for supporting Asia users in resolving IT technical issues"
+        },
+        {
+          "children": [],
+          "text": "On-site troubleshooting of hardware issues including desktops, laptops and printers in Taiwan factory"
+        },
+        {
+          "children": [],
+          "text": "Being familiar with network configuration in Taiwan factory and be able to promptly report network issues to the global network management team"
+        },
+        {
+          "children": [],
+          "text": "In charge of Installation & configuration of hardware including desktops, laptops and printers"
+        },
+        {
+          "children": [],
+          "text": "Identify and address users' technical issues, perform follow-up with users to guide and implement recommended solutions"
+        },
+        {
+          "children": [],
+          "text": "Perform other duties as assigned"
+        }
+      ],
+      "text": "Operating within the core values and operating principals of the organization, provides real-time technical support and analysis for internal and external business users.\nResponsible for receiving end-user support requests via phone or email based ticketing system, performing initial troubleshooting and root cause analysis, and accurately communicating as necessary to resolve issues in a global user community.\n1.Responsible for the end-user IT requests in Aisa regions via ticketing system\n2.Performing remote troubleshooting of hardware & software issues by connecting to end-users' devices in Asia region\n3.Be able to use English communication for supporting Asia users in resolving IT technical issues\n4.On-site troubleshooting of hardware issues including desktops, laptops and printers in Taiwan factory\n5.Being familiar with network configuration in Taiwan factory and be able to promptly report network issues to the global network management team\n6.In charge of Installation & configuration of hardware including desktops, laptops and printers\n7.Identify and address users' technical issues, perform follow-up with users to guide and implement recommended solutions\n8.Perform other duties as assigned"
+    },
+    "employment_type_raw": "全職",
+    "title": "美商-IT Systems Engineer *[年薪14個月，獎金另計]"
+  },
+  "location": {
+    "address_raw": "桃園市中壢區自強一路1號",
+    "raw": "桃園市中壢區自強一路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "-Good knowledge of Operating, maintaining, troubleshooting and administrating hardware and software on servers and workstations.\n-Good communication skills in English, while skills in speaking and writing and listening.\n-Personality characterized by strong analytical and organizational skills and the ability to work with multiple tasks towards an agreed target."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "-Good knowledge of Operating, maintaining, troubleshooting and administrating hardware and software on servers and workstations.\n-Good communication skills in English, while skills in speaking and writing and listening.\n-Personality characterized by strong analytical and organizational skills and the ability to work with multiple tasks towards an agreed target.",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n其他條件：-Good knowledge of Operating, maintaining, troubleshooting and administrating hardware and software on servers and workstations.\n-Good communication skills in English, while skills in speaking and writing and listening.\n-Personality characterized by strong analytical and organizational skills and the ability to work with multiple tasks towards an agreed target.",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 41
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:03:17+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Operating within the core values and operating principals of the organization, provides real-time technical support and analysis for internal and external business users.\nResponsible for receiving end-user support requests via phone or email based ticketing system, performing initial troubleshooting and root cause analysis, and accurately communicating as necessary to resolve issues in a global user community.\n1.Responsible for the end-user IT requests in Aisa regions via ticketing system\n2.Performing remote troubleshooting of hardware & software issues by connecting to end-users' devices in Asia region\n3.Be able to use English communication for supporting Asia users in resolving IT technical issues\n4.On-site troubleshooting of hardware issues including desktops, laptops and printers in Taiwan factory\n5.Being familiar with network configuration in Taiwan factory and be able to promptly report network issues to the global network management team\n6.In charge of Installation & configuration of hardware including desktops, laptops and printers\n7.Identify and address users' technical issues, perform follow-up with users to guide and implement recommended solutions\n8.Perform other duties as assigned",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "網路管理工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、網路管理工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市中壢區自強一路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Operating within the core values and operating principals of the organization, provides real-time technical support and analysis for internal and external business users.\nResponsible for receiving end-user support requests via phone or email based ticketing system, performing initial troubleshooting and root cause analysis, and accurately communicating as necessary to resolve issues in a global user community.\n1.Responsible for the end-user IT requests in Aisa regions via ticketing system\n2.Performing remote troubleshooting of hardware & software issues by connecting to end-users' devices in Asia region\n3.Be able to use English communication for supporting Asia users in resolving IT technical issues\n4.On-site troubleshooting of hardware issues including desktops, laptops and printers in Taiwan factory\n5.Being familiar with network configuration in Taiwan factory and be able to promptly report network issues to the global network management team\n6.In charge of Installation & configuration of hardware including desktops, laptops and printers\n7.Identify and address users' technical issues, perform follow-up with users to guide and implement recommended solutions\n8.Perform other duties as assigned"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "-Good knowledge of Operating, maintaining, troubleshooting and administrating hardware and software on servers and workstations.\n-Good communication skills in English, while skills in speaking and writing and listening.\n-Personality characterized by strong analytical and organizational skills and the ability to work with multiple tasks towards an agreed target.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n其他條件：-Good knowledge of Operating, maintaining, troubleshooting and administrating hardware and software on servers and workstations.\n-Good communication skills in English, while skills in speaking and writing and listening.\n-Personality characterized by strong analytical and organizational skills and the ability to work with multiple tasks towards an agreed target."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ypyj",
+    "job_url": "https://www.104.com.tw/job/8ypyj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ypyj.json",
+    "raw_sha256": "28b7e1ae4b07c32f268e9e12fe7557d555c687cc66e8bed5c30920ebb244836a",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ypyj"
+  }
+}

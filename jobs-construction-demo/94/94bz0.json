@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "1a2x6bkppi",
+    "name": "恆豐國際電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "BIOS工程師",
+      "材料研發人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責相機模組通訊介面控制（UART / I2C）。"
+        },
+        {
+          "children": [],
+          "text": "開發PC端影像擷取與相機控制應用程式。"
+        },
+        {
+          "children": [],
+          "text": "嵌入式平台之相機驅動程式（Driver）與 Device Tree (DTS) 開發。"
+        },
+        {
+          "children": [],
+          "text": "有FPGA晶片開發相關經驗或介面訊號除錯經驗者尤佳。"
+        }
+      ],
+      "text": "1.負責相機模組通訊介面控制（UART / I2C）。\n2.開發PC端影像擷取與相機控制應用程式。\n加分條件\n- 嵌入式平台之相機驅動程式（Driver）與 Device Tree (DTS) 開發。\n- 有FPGA晶片開發相關經驗或介面訊號除錯經驗者尤佳。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟韌體研發工程師"
+  },
+  "location": {
+    "address_raw": "台中市西屯區工業區38路210號6樓之6之7",
+    "raw": "台中市西屯區工業區38路210號6樓之6之7"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "機械工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、機械工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "C",
+          "C#",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C、C#、Python"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "韌體程式設計",
+          "數位通訊技術訊號處理"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、韌體程式設計、數位通訊技術訊號處理"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "必要條件\n- 具備基礎C語言開發能力\n- 具備GUI軟體開發能力(Python或C#...等等)\n- 具備 UART / I2C 通訊介面操作經驗，能進行軟硬體指令交握。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "機械工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "必要條件\n- 具備基礎C語言開發能力\n- 具備GUI軟體開發能力(Python或C#...等等)\n- 具備 UART / I2C 通訊介面操作經驗，能進行軟硬體指令交握。",
+    "skills": [
+      "軟體程式設計",
+      "韌體程式設計",
+      "數位通訊技術訊號處理"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊工程相關、機械工程相關、電機電子工程相關\n擅長工具：C、C#、Python\n工作技能：軟體程式設計、韌體程式設計、數位通訊技術訊號處理\n其他條件：必要條件\n- 具備基礎C語言開發能力\n- 具備GUI軟體開發能力(Python或C#...等等)\n- 具備 UART / I2C 通訊介面操作經驗，能進行軟硬體指令交握。",
+    "tools": [
+      "C",
+      "C#",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 17
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:02:53+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責相機模組通訊介面控制（UART / I2C）。\n2.開發PC端影像擷取與相機控制應用程式。\n加分條件\n- 嵌入式平台之相機驅動程式（Driver）與 Device Tree (DTS) 開發。\n- 有FPGA晶片開發相關經驗或介面訊號除錯經驗者尤佳。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "BIOS工程師",
+            "材料研發人員"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、BIOS工程師、材料研發人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區工業區38路210號6樓之6之7",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責相機模組通訊介面控制（UART / I2C）。\n2.開發PC端影像擷取與相機控制應用程式。\n加分條件\n- 嵌入式平台之相機驅動程式（Driver）與 Device Tree (DTS) 開發。\n- 有FPGA晶片開發相關經驗或介面訊號除錯經驗者尤佳。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "機械工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、機械工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C#",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C、C#、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "韌體程式設計",
+            "數位通訊技術訊號處理"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、韌體程式設計、數位通訊技術訊號處理",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "必要條件\n- 具備基礎C語言開發能力\n- 具備GUI軟體開發能力(Python或C#...等等)\n- 具備 UART / I2C 通訊介面操作經驗，能進行軟硬體指令交握。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊工程相關、機械工程相關、電機電子工程相關\n擅長工具：C、C#、Python\n工作技能：軟體程式設計、韌體程式設計、數位通訊技術訊號處理\n其他條件：必要條件\n- 具備基礎C語言開發能力\n- 具備GUI軟體開發能力(Python或C#...等等)\n- 具備 UART / I2C 通訊介面操作經驗，能進行軟硬體指令交握。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94bz0",
+    "job_url": "https://www.104.com.tw/job/94bz0",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94bz0.json",
+    "raw_sha256": "5a8a15031292aab2788efa2d98a7c23efff83f5b06d0c5d3d31633ab334665e4",
+    "requested_url": "https://www.104.com.tw/api/jobs/94bz0"
+  }
+}

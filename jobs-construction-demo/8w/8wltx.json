@@ -1,0 +1,215 @@
+{
+  "company": {
+    "id": "1a2x6bku0v",
+    "name": "奕科有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依系統分析師提供之需求與規格，開發與維護政府機關應用系統相關之 Java Web 應用程式。"
+        },
+        {
+          "children": [],
+          "text": "使用 Java + Spring MVC（如 Spring Framework / Spring Boot MVC）實作後端業務邏輯、Controller、Service、DAO 等分層程式。"
+        },
+        {
+          "children": [],
+          "text": "開發與維護畫面／API 功能，如：申請、資格查詢、審核流程、試算、歷史紀錄查詢等。"
+        },
+        {
+          "children": [],
+          "text": "撰寫並維護與資料庫存取相關之程式碼，撰寫 SQL，配合同組資料庫工程師進行效能調整。"
+        },
+        {
+          "children": [],
+          "text": "配合系統整合測試與使用者驗收測試（UAT），進行問題分析、除錯與修正。"
+        },
+        {
+          "children": [],
+          "text": "撰寫必要技術文件，例如程式設計說明、介面說明及操作說明。"
+        },
+        {
+          "children": [],
+          "text": "依專案時程，配合同組成員（SA、前後端工程師、測試人員）完成指定任務。"
+        }
+      ],
+      "text": "1. 依系統分析師提供之需求與規格，開發與維護政府機關應用系統相關之 Java Web 應用程式。\n2. 使用 Java + Spring MVC（如 Spring Framework / Spring Boot MVC）實作後端業務邏輯、Controller、Service、DAO 等分層程式。\n3. 開發與維護畫面／API 功能，如：申請、資格查詢、審核流程、試算、歷史紀錄查詢等。\n4. 撰寫並維護與資料庫存取相關之程式碼，撰寫 SQL，配合同組資料庫工程師進行效能調整。\n5. 配合系統整合測試與使用者驗收測試（UAT），進行問題分析、除錯與修正。\n6. 撰寫必要技術文件，例如程式設計說明、介面說明及操作說明。\n7. 依專案時程，配合同組成員（SA、前後端工程師、測試人員）完成指定任務。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java資深程式設計師"
+  },
+  "location": {
+    "address_raw": "台北市中正區(近中正紀念堂捷運站)",
+    "raw": "台北市中正區(近中正紀念堂捷運站)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "6年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "6年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "Java",
+          "Spring",
+          "Oracle"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Spring、Oracle"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發、資料庫程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【任職資格】\n1. 資訊相關科系大專以上畢業，或具同等實務經驗。\n2. 具 5 年以上 Java Web 後端開發經驗。\n3. 熟悉 Spring MVC 架構（Spring Framework 或 Spring Boot MVC），具實際專案經驗。\n4. 熟悉 MVC 分層概念，能正確區分 Controller / Service / DAO 職責。\n5. 具 RESTful API 或傳統 Web 應用程式開發經驗，了解參數驗證、錯誤處理與 Log 設計。\n6. 具 SQL 撰寫能力，熟悉任一關聯式資料庫（使用 Oracle 者尤佳）。\n7. 具良好程式設計習慣，重視程式碼可讀性、維護性與團隊協作。\n________________________________________\n【加分條件】\n1. 曾參與政府機關或金融帳務相關系統專案。\n2. 具批次處理、金額計算、申請／審核流程等業務邏輯開發經驗。\n3. 熟悉版本控管工具（如 Git）與基本開發流程（Agile / Scrum 或 SDLC）。\n4. 具單元測試（JUnit）或自動化測試經驗者佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "【任職資格】\n1. 資訊相關科系大專以上畢業，或具同等實務經驗。\n2. 具 5 年以上 Java Web 後端開發經驗。\n3. 熟悉 Spring MVC 架構（Spring Framework 或 Spring Boot MVC），具實際專案經驗。\n4. 熟悉 MVC 分層概念，能正確區分 Controller / Service / DAO 職責。\n5. 具 RESTful API 或傳統 Web 應用程式開發經驗，了解參數驗證、錯誤處理與 Log 設計。\n6. 具 SQL 撰寫能力，熟悉任一關聯式資料庫（使用 Oracle 者尤佳）。\n7. 具良好程式設計習慣，重視程式碼可讀性、維護性與團隊協作。\n________________________________________\n【加分條件】\n1. 曾參與政府機關或金融帳務相關系統專案。\n2. 具批次處理、金額計算、申請／審核流程等業務邏輯開發經驗。\n3. 熟悉版本控管工具（如 Git）與基本開發流程（Agile / Scrum 或 SDLC）。\n4. 具單元測試（JUnit）或自動化測試經驗者佳。",
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：6年以上\n學歷要求：專科、大學、碩士\n擅長工具：Java、Spring、Oracle\n工作技能：軟體程式設計、軟體工程系統開發、資料庫程式設計\n其他條件：【任職資格】\n1. 資訊相關科系大專以上畢業，或具同等實務經驗。\n2. 具 5 年以上 Java Web 後端開發經驗。\n3. 熟悉 Spring MVC 架構（Spring Framework 或 Spring Boot MVC），具實際專案經驗。\n4. 熟悉 MVC 分層概念，能正確區分 Controller / Service / DAO 職責。\n5. 具 RESTful API 或傳統 Web 應用程式開發經驗，了解參數驗證、錯誤處理與 Log 設計。\n6. 具 SQL 撰寫能力，熟悉任一關聯式資料庫（使用 Oracle 者尤佳）。\n7. 具良好程式設計習慣，重視程式碼可讀性、維護性與團隊協作。\n________________________________________\n【加分條件】\n1. 曾參與政府機關或金融帳務相關系統專案。\n2. 具批次處理、金額計算、申請／審核流程等業務邏輯開發經驗。\n3. 熟悉版本控管工具（如 Git）與基本開發流程（Agile / Scrum 或 SDLC）。\n4. 具單元測試（JUnit）或自動化測試經驗者佳。",
+    "tools": [
+      "Java",
+      "Spring",
+      "Oracle"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 28
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:31:29+08:00"
+  },
+  "salary": {
+    "raw": "月薪55,000~85,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 依系統分析師提供之需求與規格，開發與維護政府機關應用系統相關之 Java Web 應用程式。\n2. 使用 Java + Spring MVC（如 Spring Framework / Spring Boot MVC）實作後端業務邏輯、Controller、Service、DAO 等分層程式。\n3. 開發與維護畫面／API 功能，如：申請、資格查詢、審核流程、試算、歷史紀錄查詢等。\n4. 撰寫並維護與資料庫存取相關之程式碼，撰寫 SQL，配合同組資料庫工程師進行效能調整。\n5. 配合系統整合測試與使用者驗收測試（UAT），進行問題分析、除錯與修正。\n6. 撰寫必要技術文件，例如程式設計說明、介面說明及操作說明。\n7. 依專案時程，配合同組成員（SA、前後端工程師、測試人員）完成指定任務。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪55,000~85,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區(近中正紀念堂捷運站)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 依系統分析師提供之需求與規格，開發與維護政府機關應用系統相關之 Java Web 應用程式。\n2. 使用 Java + Spring MVC（如 Spring Framework / Spring Boot MVC）實作後端業務邏輯、Controller、Service、DAO 等分層程式。\n3. 開發與維護畫面／API 功能，如：申請、資格查詢、審核流程、試算、歷史紀錄查詢等。\n4. 撰寫並維護與資料庫存取相關之程式碼，撰寫 SQL，配合同組資料庫工程師進行效能調整。\n5. 配合系統整合測試與使用者驗收測試（UAT），進行問題分析、除錯與修正。\n6. 撰寫必要技術文件，例如程式設計說明、介面說明及操作說明。\n7. 依專案時程，配合同組成員（SA、前後端工程師、測試人員）完成指定任務。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "6年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Spring",
+            "Oracle"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Spring、Oracle",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發、資料庫程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【任職資格】\n1. 資訊相關科系大專以上畢業，或具同等實務經驗。\n2. 具 5 年以上 Java Web 後端開發經驗。\n3. 熟悉 Spring MVC 架構（Spring Framework 或 Spring Boot MVC），具實際專案經驗。\n4. 熟悉 MVC 分層概念，能正確區分 Controller / Service / DAO 職責。\n5. 具 RESTful API 或傳統 Web 應用程式開發經驗，了解參數驗證、錯誤處理與 Log 設計。\n6. 具 SQL 撰寫能力，熟悉任一關聯式資料庫（使用 Oracle 者尤佳）。\n7. 具良好程式設計習慣，重視程式碼可讀性、維護性與團隊協作。\n________________________________________\n【加分條件】\n1. 曾參與政府機關或金融帳務相關系統專案。\n2. 具批次處理、金額計算、申請／審核流程等業務邏輯開發經驗。\n3. 熟悉版本控管工具（如 Git）與基本開發流程（Agile / Scrum 或 SDLC）。\n4. 具單元測試（JUnit）或自動化測試經驗者佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：6年以上\n學歷要求：專科、大學、碩士\n擅長工具：Java、Spring、Oracle\n工作技能：軟體程式設計、軟體工程系統開發、資料庫程式設計\n其他條件：【任職資格】\n1. 資訊相關科系大專以上畢業，或具同等實務經驗。\n2. 具 5 年以上 Java Web 後端開發經驗。\n3. 熟悉 Spring MVC 架構（Spring Framework 或 Spring Boot MVC），具實際專案經驗。\n4. 熟悉 MVC 分層概念，能正確區分 Controller / Service / DAO 職責。\n5. 具 RESTful API 或傳統 Web 應用程式開發經驗，了解參數驗證、錯誤處理與 Log 設計。\n6. 具 SQL 撰寫能力，熟悉任一關聯式資料庫（使用 Oracle 者尤佳）。\n7. 具良好程式設計習慣，重視程式碼可讀性、維護性與團隊協作。\n________________________________________\n【加分條件】\n1. 曾參與政府機關或金融帳務相關系統專案。\n2. 具批次處理、金額計算、申請／審核流程等業務邏輯開發經驗。\n3. 熟悉版本控管工具（如 Git）與基本開發流程（Agile / Scrum 或 SDLC）。\n4. 具單元測試（JUnit）或自動化測試經驗者佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8wltx",
+    "job_url": "https://www.104.com.tw/job/8wltx",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8wltx.json",
+    "raw_sha256": "af67fd462ff7ef9af4dbf7d1d1976f38979e2ca6b2c6785e851d27564817ddae",
+    "requested_url": "https://www.104.com.tw/api/jobs/8wltx"
+  }
+}

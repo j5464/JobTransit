@@ -1,0 +1,188 @@
+{
+  "company": {
+    "id": "1a2x6bkbyd",
+    "name": "鴻海集團_英屬開曼群島商鴻騰精密科技股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "資料工程師",
+      "資料科學家"
+    ],
+    "description": {
+      "items": [],
+      "text": "設計、開發、維護視覺化 BI Dashboard，賦能企業營運活動，規劃並執行 ETL，確保報表資料之正確性與時效性。\n建立標準化資料模型與 KPI 指標體系，確保跨部門報表定義一致性與數據可信度。\n負責 BI 平台之日常維運，包含權限管控、異常排除，並製作操作手冊。\n建立並維護資料流程文件、欄位定義與資料字典，確保資料資產可追溯。\n於報表開發基礎上，主動識別數據趨勢與異常訊號，提出具業務價值之觀察與建議，以數據為基礎，支持管理層進行營運決策之量化論證。"
+    },
+    "employment_type_raw": "全職",
+    "title": "中央流程管理處數據賦能創新中心 BI工程師 / 資料分析師"
+  },
+  "location": {
+    "address_raw": "新北市土城區自由街2號",
+    "raw": "新北市土城區自由街2號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Tableau",
+          "Power BI​",
+          "Python",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "Tableau、Power BI​、Python、MS SQL"
+      },
+      {
+        "items": [
+          "資料庫軟體應用",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "資料庫軟體應用、資料庫程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "其他條件：\n• BI 工具專案實作經驗 (Power BI, Tableau 等)\n• 熟悉建構資料模型與 ETL 流程\n• 具備數據治理或資料管家相關經驗尤佳\n• 良好的溝通協調能力\n加分條件：\n• 具 Python 資料處理或自動化排程開發經驗\n• 具數據治理、Data Catalog 或 Data Quality 工具之導入或操作經驗\n• 具 Git 版本控管協作經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "其他條件：\n• BI 工具專案實作經驗 (Power BI, Tableau 等)\n• 熟悉建構資料模型與 ETL 流程\n• 具備數據治理或資料管家相關經驗尤佳\n• 良好的溝通協調能力\n加分條件：\n• 具 Python 資料處理或自動化排程開發經驗\n• 具數據治理、Data Catalog 或 Data Quality 工具之導入或操作經驗\n• 具 Git 版本控管協作經驗",
+    "skills": [
+      "資料庫軟體應用",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Tableau、Power BI​、Python、MS SQL\n工作技能：資料庫軟體應用、資料庫程式設計\n其他條件：其他條件：\n• BI 工具專案實作經驗 (Power BI, Tableau 等)\n• 熟悉建構資料模型與 ETL 流程\n• 具備數據治理或資料管家相關經驗尤佳\n• 良好的溝通協調能力\n加分條件：\n• 具 Python 資料處理或自動化排程開發經驗\n• 具數據治理、Data Catalog 或 Data Quality 工具之導入或操作經驗\n• 具 Git 版本控管協作經驗",
+    "tools": [
+      "Tableau",
+      "Power BI​",
+      "Python",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 87
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:56:57+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "設計、開發、維護視覺化 BI Dashboard，賦能企業營運活動，規劃並執行 ETL，確保報表資料之正確性與時效性。\n建立標準化資料模型與 KPI 指標體系，確保跨部門報表定義一致性與數據可信度。\n負責 BI 平台之日常維運，包含權限管控、異常排除，並製作操作手冊。\n建立並維護資料流程文件、欄位定義與資料字典，確保資料資產可追溯。\n於報表開發基礎上，主動識別數據趨勢與異常訊號，提出具業務價值之觀察與建議，以數據為基礎，支持管理層進行營運決策之量化論證。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料工程師",
+            "資料科學家"
+          ],
+          "label": "職務類別",
+          "text": "資料工程師、資料科學家",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市土城區自由街2號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "設計、開發、維護視覺化 BI Dashboard，賦能企業營運活動，規劃並執行 ETL，確保報表資料之正確性與時效性。\n建立標準化資料模型與 KPI 指標體系，確保跨部門報表定義一致性與數據可信度。\n負責 BI 平台之日常維運，包含權限管控、異常排除，並製作操作手冊。\n建立並維護資料流程文件、欄位定義與資料字典，確保資料資產可追溯。\n於報表開發基礎上，主動識別數據趨勢與異常訊號，提出具業務價值之觀察與建議，以數據為基礎，支持管理層進行營運決策之量化論證。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Tableau",
+            "Power BI​",
+            "Python",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "Tableau、Power BI​、Python、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料庫軟體應用",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "資料庫軟體應用、資料庫程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "其他條件：\n• BI 工具專案實作經驗 (Power BI, Tableau 等)\n• 熟悉建構資料模型與 ETL 流程\n• 具備數據治理或資料管家相關經驗尤佳\n• 良好的溝通協調能力\n加分條件：\n• 具 Python 資料處理或自動化排程開發經驗\n• 具數據治理、Data Catalog 或 Data Quality 工具之導入或操作經驗\n• 具 Git 版本控管協作經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Tableau、Power BI​、Python、MS SQL\n工作技能：資料庫軟體應用、資料庫程式設計\n其他條件：其他條件：\n• BI 工具專案實作經驗 (Power BI, Tableau 等)\n• 熟悉建構資料模型與 ETL 流程\n• 具備數據治理或資料管家相關經驗尤佳\n• 良好的溝通協調能力\n加分條件：\n• 具 Python 資料處理或自動化排程開發經驗\n• 具數據治理、Data Catalog 或 Data Quality 工具之導入或操作經驗\n• 具 Git 版本控管協作經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "937a6",
+    "job_url": "https://www.104.com.tw/job/937a6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/937a6.json",
+    "raw_sha256": "814a3d9212b0335a409ad2aeb5bc42f9b7fe30db2c60cfaee27480280347dc58",
+    "requested_url": "https://www.104.com.tw/api/jobs/937a6"
+  }
+}

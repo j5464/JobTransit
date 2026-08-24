@@ -1,0 +1,177 @@
+{
+  "company": {
+    "id": "1a2x6bkzm8",
+    "name": "和心電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "Office coding engineer。\n人格特質：誠實樂觀，積極進取，身心健康，溝通良好\n使用工具：C / C#\n工作內容 :\n半導體量測機台軟體維護、修改，書面資料作成，會議確認\n1．理解原Source code\n２．Coding前設計\n３．Coding後測試\n４．遵守Coding rule\n常日班：\n不需出差、不需進Fab、不需On call、不需輪班、見紅休。\n供應午餐。\n工作地點 : 台南科學園區 (軟體部)\n面試地點 : 台南科學園區 (軟體部)"
+    },
+    "employment_type_raw": "全職",
+    "title": "台南科學園區Software Engineer (C / C#)"
+  },
+  "location": {
+    "address_raw": "台南市新市區(南科駐廠人員)",
+    "raw": "台南市新市區(南科駐廠人員)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "C",
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "C、C#"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "本科系且剛畢業或是有相關程式工作經驗者佳"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "本科系且剛畢業或是有相關程式工作經驗者佳",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：C、C#\n工作技能：軟體程式設計\n其他條件：本科系且剛畢業或是有相關程式工作經驗者佳",
+    "tools": [
+      "C",
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 34
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:44:56+08:00"
+  },
+  "salary": {
+    "raw": "月薪30,000~45,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Office coding engineer。\n人格特質：誠實樂觀，積極進取，身心健康，溝通良好\n使用工具：C / C#\n工作內容 :\n半導體量測機台軟體維護、修改，書面資料作成，會議確認\n1．理解原Source code\n２．Coding前設計\n３．Coding後測試\n４．遵守Coding rule\n常日班：\n不需出差、不需進Fab、不需On call、不需輪班、見紅休。\n供應午餐。\n工作地點 : 台南科學園區 (軟體部)\n面試地點 : 台南科學園區 (軟體部)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪30,000~45,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市新市區(南科駐廠人員)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Office coding engineer。\n人格特質：誠實樂觀，積極進取，身心健康，溝通良好\n使用工具：C / C#\n工作內容 :\n半導體量測機台軟體維護、修改，書面資料作成，會議確認\n1．理解原Source code\n２．Coding前設計\n３．Coding後測試\n４．遵守Coding rule\n常日班：\n不需出差、不需進Fab、不需On call、不需輪班、見紅休。\n供應午餐。\n工作地點 : 台南科學園區 (軟體部)\n面試地點 : 台南科學園區 (軟體部)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "C、C#",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "本科系且剛畢業或是有相關程式工作經驗者佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：C、C#\n工作技能：軟體程式設計\n其他條件：本科系且剛畢業或是有相關程式工作經驗者佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8xbx2",
+    "job_url": "https://www.104.com.tw/job/8xbx2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xbx2.json",
+    "raw_sha256": "3fce9bc10f76adddbc5cc76eb7a873921b0900672272c4b44c67819902292a6b",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xbx2"
+  }
+}

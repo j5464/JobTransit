@@ -1,0 +1,227 @@
+{
+  "company": {
+    "id": "1a2x6bl8ni",
+    "name": "睿擎科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "行政助理",
+      "電話客服",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "公司產品(系統軟體)功能測試、問題紀錄及追蹤。"
+        },
+        {
+          "children": [],
+          "text": "協助接聽客戶電話，解決操作問題。"
+        },
+        {
+          "children": [],
+          "text": "協助專案文書資料處理。"
+        },
+        {
+          "children": [],
+          "text": "負責外出物品信件郵寄。"
+        },
+        {
+          "children": [],
+          "text": "負責接待訪客、準備會議室及茶水。"
+        },
+        {
+          "children": [],
+          "text": "協助主管完成其他專案工作及臨時性任務。"
+        }
+      ],
+      "text": "[主要職務內容]\n1. 公司產品(系統軟體)功能測試、問題紀錄及追蹤。\n2. 協助接聽客戶電話，解決操作問題。\n3. 協助專案文書資料處理。\n[其他臨時工作(比重較少)]\n1. 負責外出物品信件郵寄。\n2. 負責接待訪客、準備會議室及茶水。\n3. 協助主管完成其他專案工作及臨時性任務。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊助理"
+  },
+  "location": {
+    "address_raw": "高雄市左營區明誠二路332號8樓之1",
+    "raw": "高雄市左營區明誠二路332號8樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "Word",
+          "Excel",
+          "Outlook",
+          "PowerPoint"
+        ],
+        "label": "擅長工具",
+        "text": "Word、Excel、Outlook、PowerPoint"
+      },
+      {
+        "items": [
+          "行政事務處理",
+          "文書處理╱排版能力",
+          "文件檔案資料處理、轉換及整合工作",
+          "電話接聽與人員接待事項",
+          "問題追蹤處理(Bug tracking)",
+          "軟體整合測試"
+        ],
+        "label": "工作技能",
+        "text": "行政事務處理、文書處理╱排版能力、文件檔案資料處理、轉換及整合工作、電話接聽與人員接待事項、問題追蹤處理(Bug tracking)、軟體整合測試"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "公司產品為客製化系統，需學習使用各項公司產品，\n熟悉電腦操作、手機平板，有系統客服經驗者尤佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "公司產品為客製化系統，需學習使用各項公司產品，\n熟悉電腦操作、手機平板，有系統客服經驗者尤佳。",
+    "skills": [
+      "行政事務處理",
+      "文書處理╱排版能力",
+      "文件檔案資料處理、轉換及整合工作",
+      "電話接聽與人員接待事項",
+      "問題追蹤處理(Bug tracking)",
+      "軟體整合測試"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學\n擅長工具：Word、Excel、Outlook、PowerPoint\n工作技能：行政事務處理、文書處理╱排版能力、文件檔案資料處理、轉換及整合工作、電話接聽與人員接待事項、問題追蹤處理(Bug tracking)、軟體整合測試\n其他條件：公司產品為客製化系統，需學習使用各項公司產品，\n熟悉電腦操作、手機平板，有系統客服經驗者尤佳。",
+    "tools": [
+      "Word",
+      "Excel",
+      "Outlook",
+      "PowerPoint"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 31
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:37:41+08:00"
+  },
+  "salary": {
+    "raw": "月薪31,000~35,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "[主要職務內容]\n1. 公司產品(系統軟體)功能測試、問題紀錄及追蹤。\n2. 協助接聽客戶電話，解決操作問題。\n3. 協助專案文書資料處理。\n[其他臨時工作(比重較少)]\n1. 負責外出物品信件郵寄。\n2. 負責接待訪客、準備會議室及茶水。\n3. 協助主管完成其他專案工作及臨時性任務。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "行政助理",
+            "電話客服",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "行政助理、電話客服、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪31,000~35,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市左營區明誠二路332號8樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "[主要職務內容]\n1. 公司產品(系統軟體)功能測試、問題紀錄及追蹤。\n2. 協助接聽客戶電話，解決操作問題。\n3. 協助專案文書資料處理。\n[其他臨時工作(比重較少)]\n1. 負責外出物品信件郵寄。\n2. 負責接待訪客、準備會議室及茶水。\n3. 協助主管完成其他專案工作及臨時性任務。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Word",
+            "Excel",
+            "Outlook",
+            "PowerPoint"
+          ],
+          "label": "擅長工具",
+          "text": "Word、Excel、Outlook、PowerPoint",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "行政事務處理",
+            "文書處理╱排版能力",
+            "文件檔案資料處理、轉換及整合工作",
+            "電話接聽與人員接待事項",
+            "問題追蹤處理(Bug tracking)",
+            "軟體整合測試"
+          ],
+          "label": "工作技能",
+          "text": "行政事務處理、文書處理╱排版能力、文件檔案資料處理、轉換及整合工作、電話接聽與人員接待事項、問題追蹤處理(Bug tracking)、軟體整合測試",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "公司產品為客製化系統，需學習使用各項公司產品，\n熟悉電腦操作、手機平板，有系統客服經驗者尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學\n擅長工具：Word、Excel、Outlook、PowerPoint\n工作技能：行政事務處理、文書處理╱排版能力、文件檔案資料處理、轉換及整合工作、電話接聽與人員接待事項、問題追蹤處理(Bug tracking)、軟體整合測試\n其他條件：公司產品為客製化系統，需學習使用各項公司產品，\n熟悉電腦操作、手機平板，有系統客服經驗者尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8lrr6",
+    "job_url": "https://www.104.com.tw/job/8lrr6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8lrr6.json",
+    "raw_sha256": "198e00a8021cebcc32c177b73150e49dfeb9cb8d238d208ec0c54bd699df45cc",
+    "requested_url": "https://www.104.com.tw/api/jobs/8lrr6"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "company": {
+    "id": "1a2x6bktmd",
+    "name": "曼塔睿科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "網路管理工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "‧ 討論專案需求、系統平台的規劃\n‧ 文件撰寫\n‧ 資料庫設計及規劃(熟悉MySQL、MSSQL等 )\n‧ 後端應用程式開發及設計(需熟悉Laravel，使用過Golang、Python等尤佳)\n‧ 熟悉基本前端HTML、CSS、JavaScript(熟悉ReactJS尤佳)\n‧ 了解Linux操作(Ubuntu等)\n‧ 熟悉版本控制(Git & Git Flow等)\n備註: 非全遠端職缺；若無工作經驗投履歷，會參酌評估，但起薪會下調。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師(Laravel)"
+  },
+  "location": {
+    "address_raw": "台南市東區台南市東區大學路1號 成功大學自強校區科技大樓1樓 A01室 (新創加速中心培育廠商曼塔睿)",
+    "raw": "台南市東區台南市東區大學路1號 成功大學自強校區科技大樓1樓 A01室 (新創加速中心培育廠商曼塔睿)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "中文：中等、中等、中等、中等",
+          "英文：略懂、略懂、中等、略懂"
+        ],
+        "label": "語文條件",
+        "text": "中文：中等、中等、中等、中等\n英文：略懂、略懂、中等、略懂"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "Word",
+          "PowerPoint",
+          "Excel",
+          "CSS",
+          "JavaScript",
+          "HTML",
+          "MySQL",
+          "PHP",
+          "Git",
+          "Linux",
+          "ReactJS"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、Word、PowerPoint、Excel、CSS、JavaScript、HTML、MySQL、PHP、Git、Linux、ReactJS"
+      },
+      {
+        "items": [
+          "伺服器網站管理維護",
+          "網路系統配置",
+          "網路程式設計",
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "系統架構規劃",
+          "資料庫程式設計",
+          "系統整合分析"
+        ],
+        "label": "工作技能",
+        "text": "伺服器網站管理維護、網路系統配置、網路程式設計、軟體程式設計、軟體工程系統開發、系統架構規劃、資料庫程式設計、系統整合分析"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 有提供作品集者佳\n2. 有資訊安全相關證照或實務經驗者佳\n3. 了解GCP等雲端相關服務，能獨立建置平台者佳\n4. 了解部屬Laravel於Ubuntu系統中者佳\n5. 具備AI相關工具輔佐開發者佳"
+      }
+    ],
+    "languages": [
+      "中文：中等、中等、中等、中等",
+      "英文：略懂、略懂、中等、略懂"
+    ],
+    "majors": [],
+    "other_text": "1. 有提供作品集者佳\n2. 有資訊安全相關證照或實務經驗者佳\n3. 了解GCP等雲端相關服務，能獨立建置平台者佳\n4. 了解部屬Laravel於Ubuntu系統中者佳\n5. 具備AI相關工具輔佐開發者佳",
+    "skills": [
+      "伺服器網站管理維護",
+      "網路系統配置",
+      "網路程式設計",
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "系統架構規劃",
+      "資料庫程式設計",
+      "系統整合分析"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n語文條件：中文：中等、中等、中等、中等\n英文：略懂、略懂、中等、略懂\n擅長工具：MS SQL、Word、PowerPoint、Excel、CSS、JavaScript、HTML、MySQL、PHP、Git、Linux、ReactJS\n工作技能：伺服器網站管理維護、網路系統配置、網路程式設計、軟體程式設計、軟體工程系統開發、系統架構規劃、資料庫程式設計、系統整合分析\n其他條件：1. 有提供作品集者佳\n2. 有資訊安全相關證照或實務經驗者佳\n3. 了解GCP等雲端相關服務，能獨立建置平台者佳\n4. 了解部屬Laravel於Ubuntu系統中者佳\n5. 具備AI相關工具輔佐開發者佳",
+    "tools": [
+      "MS SQL",
+      "Word",
+      "PowerPoint",
+      "Excel",
+      "CSS",
+      "JavaScript",
+      "HTML",
+      "MySQL",
+      "PHP",
+      "Git",
+      "Linux",
+      "ReactJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 34
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:46:23+08:00"
+  },
+  "salary": {
+    "raw": "月薪35,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "‧ 討論專案需求、系統平台的規劃\n‧ 文件撰寫\n‧ 資料庫設計及規劃(熟悉MySQL、MSSQL等 )\n‧ 後端應用程式開發及設計(需熟悉Laravel，使用過Golang、Python等尤佳)\n‧ 熟悉基本前端HTML、CSS、JavaScript(熟悉ReactJS尤佳)\n‧ 了解Linux操作(Ubuntu等)\n‧ 熟悉版本控制(Git & Git Flow等)\n備註: 非全遠端職缺；若無工作經驗投履歷，會參酌評估，但起薪會下調。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "網路管理工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、網路管理工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪35,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市東區台南市東區大學路1號 成功大學自強校區科技大樓1樓 A01室 (新創加速中心培育廠商曼塔睿)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "‧ 討論專案需求、系統平台的規劃\n‧ 文件撰寫\n‧ 資料庫設計及規劃(熟悉MySQL、MSSQL等 )\n‧ 後端應用程式開發及設計(需熟悉Laravel，使用過Golang、Python等尤佳)\n‧ 熟悉基本前端HTML、CSS、JavaScript(熟悉ReactJS尤佳)\n‧ 了解Linux操作(Ubuntu等)\n‧ 熟悉版本控制(Git & Git Flow等)\n備註: 非全遠端職缺；若無工作經驗投履歷，會參酌評估，但起薪會下調。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "中文：中等、中等、中等、中等",
+            "英文：略懂、略懂、中等、略懂"
+          ],
+          "label": "語文條件",
+          "text": "中文：中等、中等、中等、中等\n英文：略懂、略懂、中等、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "Word",
+            "PowerPoint",
+            "Excel",
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "MySQL",
+            "PHP",
+            "Git",
+            "Linux",
+            "ReactJS"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、Word、PowerPoint、Excel、CSS、JavaScript、HTML、MySQL、PHP、Git、Linux、ReactJS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "伺服器網站管理維護",
+            "網路系統配置",
+            "網路程式設計",
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "系統架構規劃",
+            "資料庫程式設計",
+            "系統整合分析"
+          ],
+          "label": "工作技能",
+          "text": "伺服器網站管理維護、網路系統配置、網路程式設計、軟體程式設計、軟體工程系統開發、系統架構規劃、資料庫程式設計、系統整合分析",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 有提供作品集者佳\n2. 有資訊安全相關證照或實務經驗者佳\n3. 了解GCP等雲端相關服務，能獨立建置平台者佳\n4. 了解部屬Laravel於Ubuntu系統中者佳\n5. 具備AI相關工具輔佐開發者佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n語文條件：中文：中等、中等、中等、中等\n英文：略懂、略懂、中等、略懂\n擅長工具：MS SQL、Word、PowerPoint、Excel、CSS、JavaScript、HTML、MySQL、PHP、Git、Linux、ReactJS\n工作技能：伺服器網站管理維護、網路系統配置、網路程式設計、軟體程式設計、軟體工程系統開發、系統架構規劃、資料庫程式設計、系統整合分析\n其他條件：1. 有提供作品集者佳\n2. 有資訊安全相關證照或實務經驗者佳\n3. 了解GCP等雲端相關服務，能獨立建置平台者佳\n4. 了解部屬Laravel於Ubuntu系統中者佳\n5. 具備AI相關工具輔佐開發者佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6kpwg",
+    "job_url": "https://www.104.com.tw/job/6kpwg",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6kpwg.json",
+    "raw_sha256": "2fa29ee3d034761220c783748a781f8d8cfd595a69cae5a705011a9489b6e759",
+    "requested_url": "https://www.104.com.tw/api/jobs/6kpwg"
+  }
+}

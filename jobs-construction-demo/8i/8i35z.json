@@ -1,0 +1,215 @@
+{
+  "company": {
+    "id": "1a2x6ble2t",
+    "name": "瞬聯科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "雲端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Workload Management: Deploy, manage, and monitor cloud-based deep learning and LLM training workloads, ensuring high availability and optimal resource utilization."
+        },
+        {
+          "children": [],
+          "text": "Operations & Automation: Maintain daily cloud operations, write scripts to automate repetitive tasks, and manage infrastructure as code."
+        },
+        {
+          "children": [],
+          "text": "Resource Optimization: Monitor and optimize cloud resources (compute, storage, networking) for performance and cost-efficiency during heavy training cycles."
+        },
+        {
+          "children": [],
+          "text": "Security & Compliance: Implement cloud security best practices and ensure data and infrastructure compliance."
+        },
+        {
+          "children": [],
+          "text": "Cross-Functional Collaboration: Collaborate closely with ML engineers, project managers, and cross-functional teams to deliver high-quality cloud solutions."
+        },
+        {
+          "children": [],
+          "text": "Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent practical experience)."
+        },
+        {
+          "children": [],
+          "text": "Proven hands-on experience with Google Cloud Platform (GCP) services (e.g., Compute Engine, Google Kubernetes Engine (GKE), Cloud Storage)."
+        },
+        {
+          "children": [],
+          "text": "Solid grasp of core cloud concepts including networking, virtualization, and containerization (Docker/Kubernetes)."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in Python scripting for automation and operational tasks (expert-level software engineering not required)."
+        },
+        {
+          "children": [],
+          "text": "Excellent communication and collaboration skills in English."
+        }
+      ],
+      "text": "We are seeking a talented Cloud DevOps Engineer to join our team.\nIn this role, you will focus on daily operational tasks, automation scripting, and managing cloud infrastructure (GCP) specifically optimized for running deep learning and LLM training workloads.\nIf you are passionate about cloud operations and want to work at the intersection of DevOps and AI, we want to hear from you!\nResponsibilities:\n- Workload Management: Deploy, manage, and monitor cloud-based deep learning and LLM training workloads, ensuring high availability and optimal resource utilization.\n- Operations & Automation: Maintain daily cloud operations, write scripts to automate repetitive tasks, and manage infrastructure as code.\n- Resource Optimization: Monitor and optimize cloud resources (compute, storage, networking) for performance and cost-efficiency during heavy training cycles.\n- Security & Compliance: Implement cloud security best practices and ensure data and infrastructure compliance.\n- Cross-Functional Collaboration: Collaborate closely with ML engineers, project managers, and cross-functional teams to deliver high-quality cloud solutions.\nQualifications:\n- Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent practical experience).\n- Proven hands-on experience with Google Cloud Platform (GCP) services (e.g., Compute Engine, Google Kubernetes Engine (GKE), Cloud Storage).\n- Solid grasp of core cloud concepts including networking, virtualization, and containerization (Docker/Kubernetes).\n- Proficiency in Python scripting for automation and operational tasks (expert-level software engineering not required).\n- Excellent communication and collaboration skills in English."
+    },
+    "employment_type_raw": "全職",
+    "title": "Cloud DevOps Engineer"
+  },
+  "location": {
+    "address_raw": "台北市大安區和平東路二段339號11樓",
+    "raw": "台北市大安區和平東路二段339號11樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Java",
+          "Python",
+          "Go",
+          "Cloud",
+          "Microsoft Azure",
+          "AWS"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Python、Go、Cloud、Microsoft Azure、AWS"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Preferred Qualifications:\n- Familiarity with LLM training in the cloud environments (multi-node, accelerator) is a major plus.\n- Conceptual understanding of deep learning workflows and infrastructure requirements (e.g., GPU/TPU, distributed training) is also a major plus.\n- Experience with GCP Cluster Toolkit or HPC cluster management.\n- Experience with Terraform for managing cloud infrastructure."
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "Preferred Qualifications:\n- Familiarity with LLM training in the cloud environments (multi-node, accelerator) is a major plus.\n- Conceptual understanding of deep learning workflows and infrastructure requirements (e.g., GPU/TPU, distributed training) is also a major plus.\n- Experience with GCP Cluster Toolkit or HPC cluster management.\n- Experience with Terraform for managing cloud infrastructure.",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：Java、Python、Go、Cloud、Microsoft Azure、AWS\n其他條件：Preferred Qualifications:\n- Familiarity with LLM training in the cloud environments (multi-node, accelerator) is a major plus.\n- Conceptual understanding of deep learning workflows and infrastructure requirements (e.g., GPU/TPU, distributed training) is also a major plus.\n- Experience with GCP Cluster Toolkit or HPC cluster management.\n- Experience with Terraform for managing cloud infrastructure.",
+    "tools": [
+      "Java",
+      "Python",
+      "Go",
+      "Cloud",
+      "Microsoft Azure",
+      "AWS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 80
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:38:12+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are seeking a talented Cloud DevOps Engineer to join our team.\nIn this role, you will focus on daily operational tasks, automation scripting, and managing cloud infrastructure (GCP) specifically optimized for running deep learning and LLM training workloads.\nIf you are passionate about cloud operations and want to work at the intersection of DevOps and AI, we want to hear from you!\nResponsibilities:\n- Workload Management: Deploy, manage, and monitor cloud-based deep learning and LLM training workloads, ensuring high availability and optimal resource utilization.\n- Operations & Automation: Maintain daily cloud operations, write scripts to automate repetitive tasks, and manage infrastructure as code.\n- Resource Optimization: Monitor and optimize cloud resources (compute, storage, networking) for performance and cost-efficiency during heavy training cycles.\n- Security & Compliance: Implement cloud security best practices and ensure data and infrastructure compliance.\n- Cross-Functional Collaboration: Collaborate closely with ML engineers, project managers, and cross-functional teams to deliver high-quality cloud solutions.\nQualifications:\n- Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent practical experience).\n- Proven hands-on experience with Google Cloud Platform (GCP) services (e.g., Compute Engine, Google Kubernetes Engine (GKE), Cloud Storage).\n- Solid grasp of core cloud concepts including networking, virtualization, and containerization (Docker/Kubernetes).\n- Proficiency in Python scripting for automation and operational tasks (expert-level software engineering not required).\n- Excellent communication and collaboration skills in English.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "雲端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、雲端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區和平東路二段339號11樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are seeking a talented Cloud DevOps Engineer to join our team.\nIn this role, you will focus on daily operational tasks, automation scripting, and managing cloud infrastructure (GCP) specifically optimized for running deep learning and LLM training workloads.\nIf you are passionate about cloud operations and want to work at the intersection of DevOps and AI, we want to hear from you!\nResponsibilities:\n- Workload Management: Deploy, manage, and monitor cloud-based deep learning and LLM training workloads, ensuring high availability and optimal resource utilization.\n- Operations & Automation: Maintain daily cloud operations, write scripts to automate repetitive tasks, and manage infrastructure as code.\n- Resource Optimization: Monitor and optimize cloud resources (compute, storage, networking) for performance and cost-efficiency during heavy training cycles.\n- Security & Compliance: Implement cloud security best practices and ensure data and infrastructure compliance.\n- Cross-Functional Collaboration: Collaborate closely with ML engineers, project managers, and cross-functional teams to deliver high-quality cloud solutions.\nQualifications:\n- Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent practical experience).\n- Proven hands-on experience with Google Cloud Platform (GCP) services (e.g., Compute Engine, Google Kubernetes Engine (GKE), Cloud Storage).\n- Solid grasp of core cloud concepts including networking, virtualization, and containerization (Docker/Kubernetes).\n- Proficiency in Python scripting for automation and operational tasks (expert-level software engineering not required).\n- Excellent communication and collaboration skills in English."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Python",
+            "Go",
+            "Cloud",
+            "Microsoft Azure",
+            "AWS"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Python、Go、Cloud、Microsoft Azure、AWS",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Preferred Qualifications:\n- Familiarity with LLM training in the cloud environments (multi-node, accelerator) is a major plus.\n- Conceptual understanding of deep learning workflows and infrastructure requirements (e.g., GPU/TPU, distributed training) is also a major plus.\n- Experience with GCP Cluster Toolkit or HPC cluster management.\n- Experience with Terraform for managing cloud infrastructure.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：Java、Python、Go、Cloud、Microsoft Azure、AWS\n其他條件：Preferred Qualifications:\n- Familiarity with LLM training in the cloud environments (multi-node, accelerator) is a major plus.\n- Conceptual understanding of deep learning workflows and infrastructure requirements (e.g., GPU/TPU, distributed training) is also a major plus.\n- Experience with GCP Cluster Toolkit or HPC cluster management.\n- Experience with Terraform for managing cloud infrastructure."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8i35z",
+    "job_url": "https://www.104.com.tw/job/8i35z",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8i35z.json",
+    "raw_sha256": "f5702b609217406655101abe3cec004dab4d784783c11d3bf6b41a894986cf3d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8i35z"
+  }
+}

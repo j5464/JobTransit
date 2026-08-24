@@ -1,0 +1,142 @@
+{
+  "company": {
+    "id": "1a2x6bk7iw",
+    "name": "美克資訊有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [],
+      "text": "協助或獨立開發Java專案"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java軟體工程師"
+  },
+  "location": {
+    "address_raw": "台北市信義區忠孝東路五段508號11樓之2",
+    "raw": "台北市信義區忠孝東路五段508號11樓之2"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "基本具備：\n- 對於軟體開發有學習熱誠與興趣\n- 工作認真、負責、可團隊合作\n- 熟悉Java\n加分項目:\n- 熟悉Framework(SpringBoot、Struts、Spring、Hibernate)\n- 熟悉Linux操作\n- 熟悉HTML、CSS、JavaScript、jQuery\n- 熟悉 Oracle\n- 熟悉其它程式語言開發(C#、Android、iOS)"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "基本具備：\n- 對於軟體開發有學習熱誠與興趣\n- 工作認真、負責、可團隊合作\n- 熟悉Java\n加分項目:\n- 熟悉Framework(SpringBoot、Struts、Spring、Hibernate)\n- 熟悉Linux操作\n- 熟悉HTML、CSS、JavaScript、jQuery\n- 熟悉 Oracle\n- 熟悉其它程式語言開發(C#、Android、iOS)",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n其他條件：基本具備：\n- 對於軟體開發有學習熱誠與興趣\n- 工作認真、負責、可團隊合作\n- 熟悉Java\n加分項目:\n- 熟悉Framework(SpringBoot、Struts、Spring、Hibernate)\n- 熟悉Linux操作\n- 熟悉HTML、CSS、JavaScript、jQuery\n- 熟悉 Oracle\n- 熟悉其它程式語言開發(C#、Android、iOS)",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 22
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:16:02+08:00"
+  },
+  "salary": {
+    "raw": "月薪42,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "協助或獨立開發Java專案",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪42,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區忠孝東路五段508號11樓之2",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "協助或獨立開發Java專案"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "基本具備：\n- 對於軟體開發有學習熱誠與興趣\n- 工作認真、負責、可團隊合作\n- 熟悉Java\n加分項目:\n- 熟悉Framework(SpringBoot、Struts、Spring、Hibernate)\n- 熟悉Linux操作\n- 熟悉HTML、CSS、JavaScript、jQuery\n- 熟悉 Oracle\n- 熟悉其它程式語言開發(C#、Android、iOS)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n其他條件：基本具備：\n- 對於軟體開發有學習熱誠與興趣\n- 工作認真、負責、可團隊合作\n- 熟悉Java\n加分項目:\n- 熟悉Framework(SpringBoot、Struts、Spring、Hibernate)\n- 熟悉Linux操作\n- 熟悉HTML、CSS、JavaScript、jQuery\n- 熟悉 Oracle\n- 熟悉其它程式語言開發(C#、Android、iOS)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "5pn70",
+    "job_url": "https://www.104.com.tw/job/5pn70",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/5pn70.json",
+    "raw_sha256": "486db79a59f2adabf522743d8a905866e3439d294f0f2b96b30eb19ef326d60d",
+    "requested_url": "https://www.104.com.tw/api/jobs/5pn70"
+  }
+}

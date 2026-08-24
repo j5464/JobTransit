@@ -1,0 +1,234 @@
+{
+  "company": {
+    "id": "18nkzols",
+    "name": "弘如企業有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "前端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "B2B 客戶協同入口： 開發提供給海外客戶的「自助報價與 3D 視覺化註記」雲端 Web Portal。"
+        },
+        {
+          "children": [],
+          "text": "數位孿生與 MaaS 系統： 開發掃描 QR Code 即可連線的「模具專屬戰情室」與「一鍵耗材購物車」系統。"
+        },
+        {
+          "children": [],
+          "text": "現場無紙化 App/Web： 開發直連 MES 系統的現場平板介面 (Tablet UI)，包含數位工單、SOP 檢視與即時報修。"
+        },
+        {
+          "children": [],
+          "text": "前端體驗極致化： 負責所有使用者介面的 UI/UX 設計，確保操作流暢、視覺具備國際科技大廠水準。"
+        },
+        {
+          "children": [],
+          "text": "其他本司現有IT任務"
+        }
+      ],
+      "text": "你是弘如的門面。你要負責開發讓海外大客戶讚嘆的「3D 數位孿生視覺化協作平台」，以及讓現場師傅覺得超好用的「無紙化平板派工 UI」。我們不缺寫後端邏輯的人，我們缺的是能把「生硬的工業參數」轉化為「極致防呆 UI/UX 體驗」的全端狂人！\n【你的戰場 (Key Responsibilities)】\n1. B2B 客戶協同入口： 開發提供給海外客戶的「自助報價與 3D 視覺化註記」雲端 Web Portal。\n2. 數位孿生與 MaaS 系統： 開發掃描 QR Code 即可連線的「模具專屬戰情室」與「一鍵耗材購物車」系統。\n3. 現場無紙化 App/Web： 開發直連 MES 系統的現場平板介面 (Tablet UI)，包含數位工單、SOP 檢視與即時報修。\n4. 前端體驗極致化： 負責所有使用者介面的 UI/UX 設計，確保操作流暢、視覺具備國際科技大廠水準。\n5. 其他本司現有IT任務"
+    },
+    "employment_type_raw": "全職",
+    "title": "【EVP直屬】資深全端開發工程師 / B2B 平台開發 (Full-Stack Developer)"
+  },
+  "location": {
+    "address_raw": "新北市樹林區東豐街49巷42之2號",
+    "raw": "新北市樹林區東豐街49巷42之2號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他商業及管理相關",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他商業及管理相關、工程學科類"
+      },
+      {
+        "items": [
+          "鼎新",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "鼎新、MS SQL"
+      },
+      {
+        "items": [
+          "系統整合分析",
+          "系統導入",
+          "資料庫軟體應用",
+          "資料庫系統管理維護"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析、系統導入、資料庫軟體應用、資料庫系統管理維護"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【我們希望你具備 (Requirements)】\n• 3 年以上全端開發經驗。精通現代前端化框架 (React.js 或 Vue.js) 與響應式網頁設計 (Tailwind CSS)。\n• 熟悉 Node.js / C# / Python 等後端 API 開發，能與內部 ERP 架構師協同作戰。\n• 對 UI/UX 有極高要求，有開發過 SaaS 平台、B2B 後台或電商購物車經驗者佳。\n• (加分) 具備 Three.js 或 WebGL 等網頁 3D 渲染技術經驗者，我們將強烈優先錄取！"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "其他商業及管理相關",
+      "工程學科類"
+    ],
+    "other_text": "【我們希望你具備 (Requirements)】\n• 3 年以上全端開發經驗。精通現代前端化框架 (React.js 或 Vue.js) 與響應式網頁設計 (Tailwind CSS)。\n• 熟悉 Node.js / C# / Python 等後端 API 開發，能與內部 ERP 架構師協同作戰。\n• 對 UI/UX 有極高要求，有開發過 SaaS 平台、B2B 後台或電商購物車經驗者佳。\n• (加分) 具備 Three.js 或 WebGL 等網頁 3D 渲染技術經驗者，我們將強烈優先錄取！",
+    "skills": [
+      "系統整合分析",
+      "系統導入",
+      "資料庫軟體應用",
+      "資料庫系統管理維護"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他商業及管理相關、工程學科類\n擅長工具：鼎新、MS SQL\n工作技能：系統整合分析、系統導入、資料庫軟體應用、資料庫系統管理維護\n其他條件：【我們希望你具備 (Requirements)】\n• 3 年以上全端開發經驗。精通現代前端化框架 (React.js 或 Vue.js) 與響應式網頁設計 (Tailwind CSS)。\n• 熟悉 Node.js / C# / Python 等後端 API 開發，能與內部 ERP 架構師協同作戰。\n• 對 UI/UX 有極高要求，有開發過 SaaS 平台、B2B 後台或電商購物車經驗者佳。\n• (加分) 具備 Three.js 或 WebGL 等網頁 3D 渲染技術經驗者，我們將強烈優先錄取！",
+    "tools": [
+      "鼎新",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 47
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:17:50+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "你是弘如的門面。你要負責開發讓海外大客戶讚嘆的「3D 數位孿生視覺化協作平台」，以及讓現場師傅覺得超好用的「無紙化平板派工 UI」。我們不缺寫後端邏輯的人，我們缺的是能把「生硬的工業參數」轉化為「極致防呆 UI/UX 體驗」的全端狂人！\n【你的戰場 (Key Responsibilities)】\n1. B2B 客戶協同入口： 開發提供給海外客戶的「自助報價與 3D 視覺化註記」雲端 Web Portal。\n2. 數位孿生與 MaaS 系統： 開發掃描 QR Code 即可連線的「模具專屬戰情室」與「一鍵耗材購物車」系統。\n3. 現場無紙化 App/Web： 開發直連 MES 系統的現場平板介面 (Tablet UI)，包含數位工單、SOP 檢視與即時報修。\n4. 前端體驗極致化： 負責所有使用者介面的 UI/UX 設計，確保操作流暢、視覺具備國際科技大廠水準。\n5. 其他本司現有IT任務",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "前端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、前端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市樹林區東豐街49巷42之2號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "你是弘如的門面。你要負責開發讓海外大客戶讚嘆的「3D 數位孿生視覺化協作平台」，以及讓現場師傅覺得超好用的「無紙化平板派工 UI」。我們不缺寫後端邏輯的人，我們缺的是能把「生硬的工業參數」轉化為「極致防呆 UI/UX 體驗」的全端狂人！\n【你的戰場 (Key Responsibilities)】\n1. B2B 客戶協同入口： 開發提供給海外客戶的「自助報價與 3D 視覺化註記」雲端 Web Portal。\n2. 數位孿生與 MaaS 系統： 開發掃描 QR Code 即可連線的「模具專屬戰情室」與「一鍵耗材購物車」系統。\n3. 現場無紙化 App/Web： 開發直連 MES 系統的現場平板介面 (Tablet UI)，包含數位工單、SOP 檢視與即時報修。\n4. 前端體驗極致化： 負責所有使用者介面的 UI/UX 設計，確保操作流暢、視覺具備國際科技大廠水準。\n5. 其他本司現有IT任務"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他商業及管理相關",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他商業及管理相關、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "鼎新",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "鼎新、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析",
+            "系統導入",
+            "資料庫軟體應用",
+            "資料庫系統管理維護"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析、系統導入、資料庫軟體應用、資料庫系統管理維護",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【我們希望你具備 (Requirements)】\n• 3 年以上全端開發經驗。精通現代前端化框架 (React.js 或 Vue.js) 與響應式網頁設計 (Tailwind CSS)。\n• 熟悉 Node.js / C# / Python 等後端 API 開發，能與內部 ERP 架構師協同作戰。\n• 對 UI/UX 有極高要求，有開發過 SaaS 平台、B2B 後台或電商購物車經驗者佳。\n• (加分) 具備 Three.js 或 WebGL 等網頁 3D 渲染技術經驗者，我們將強烈優先錄取！",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他商業及管理相關、工程學科類\n擅長工具：鼎新、MS SQL\n工作技能：系統整合分析、系統導入、資料庫軟體應用、資料庫系統管理維護\n其他條件：【我們希望你具備 (Requirements)】\n• 3 年以上全端開發經驗。精通現代前端化框架 (React.js 或 Vue.js) 與響應式網頁設計 (Tailwind CSS)。\n• 熟悉 Node.js / C# / Python 等後端 API 開發，能與內部 ERP 架構師協同作戰。\n• 對 UI/UX 有極高要求，有開發過 SaaS 平台、B2B 後台或電商購物車經驗者佳。\n• (加分) 具備 Three.js 或 WebGL 等網頁 3D 渲染技術經驗者，我們將強烈優先錄取！"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "900k2",
+    "job_url": "https://www.104.com.tw/job/900k2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/900k2.json",
+    "raw_sha256": "7105e0b8e6659bae3d90ce176b9d50f14fc3c9ca543d8999e65741e6e9515aff",
+    "requested_url": "https://www.104.com.tw/api/jobs/900k2"
+  }
+}

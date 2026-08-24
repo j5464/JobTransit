@@ -1,0 +1,214 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "design & develop FW testbench"
+        },
+        {
+          "children": [],
+          "text": "SSD FW performnace optimization"
+        },
+        {
+          "children": [],
+          "text": "Issue analysis & debug (customer & internal)"
+        },
+        {
+          "children": [],
+          "text": "FW development & testing"
+        }
+      ],
+      "text": "1. design & develop FW testbench\n2. SSD FW performnace optimization\n3. Issue analysis & debug (customer & internal)\n4. FW development & testing"
+    },
+    "employment_type_raw": "全職",
+    "title": "Enterprise SSD FW engineer / 企業級SSD韌體工程師 1005 (竹南/台北)"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "中文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "中文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.C語言 2.ubuntu操作 3.善於溝通 4.工作態度積極 5.注重團隊合作 5.勇於接受挑戰"
+      }
+    ],
+    "languages": [
+      "中文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.C語言 2.ubuntu操作 3.善於溝通 4.工作態度積極 5.注重團隊合作 5.勇於接受挑戰",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：中文：中等、中等、中等、中等\n擅長工具：C、C++\n其他條件：1.C語言 2.ubuntu操作 3.善於溝通 4.工作態度積極 5.注重團隊合作 5.勇於接受挑戰",
+    "tools": [
+      "C",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 14
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:56:27+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. design & develop FW testbench\n2. SSD FW performnace optimization\n3. Issue analysis & debug (customer & internal)\n4. FW development & testing",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. design & develop FW testbench\n2. SSD FW performnace optimization\n3. Issue analysis & debug (customer & internal)\n4. FW development & testing"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "中文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "中文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.C語言 2.ubuntu操作 3.善於溝通 4.工作態度積極 5.注重團隊合作 5.勇於接受挑戰",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：中文：中等、中等、中等、中等\n擅長工具：C、C++\n其他條件：1.C語言 2.ubuntu操作 3.善於溝通 4.工作態度積極 5.注重團隊合作 5.勇於接受挑戰"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92cd3",
+    "job_url": "https://www.104.com.tw/job/92cd3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92cd3.json",
+    "raw_sha256": "28d42f1cf30eec078a5220683b1af1c0ad10dc41f9eda539aac49ad4dcee9ec3",
+    "requested_url": "https://www.104.com.tw/api/jobs/92cd3"
+  }
+}

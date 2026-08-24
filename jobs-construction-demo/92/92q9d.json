@@ -1,0 +1,271 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計與開發PCIe/NVMe驗證工具或應用軟體架構與核心library"
+        },
+        {
+          "children": [],
+          "text": "設計與開發PCIe/NVMe SSD相關應用程式"
+        },
+        {
+          "children": [],
+          "text": "根據產品硬體與韌體架構資料設計對應的效能、功耗、演算法驗證軟體與驗證計畫"
+        },
+        {
+          "children": [],
+          "text": "於大型專案中擔任系統、驅動、軟體相關研發技術窗口。"
+        },
+        {
+          "children": [],
+          "text": "研究架設datacenter SSD驗證環境。"
+        },
+        {
+          "children": [],
+          "text": "熟linux底層行為分析bfptrace, blktrace, ftrace、block device driver架構佳"
+        }
+      ],
+      "text": "*設計與開發PCIe/NVMe驗證工具或應用軟體架構與核心library\n*設計與開發PCIe/NVMe SSD相關應用程式\n*根據產品硬體與韌體架構資料設計對應的效能、功耗、演算法驗證軟體與驗證計畫\n*於大型專案中擔任系統、驅動、軟體相關研發技術窗口。\n*研究架設datacenter SSD驗證環境。\n*熟linux底層行為分析bfptrace, blktrace, ftrace、block device driver架構佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體開發工程師/設計驗證工程師 0608B"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "數學及電算機科學學科類",
+          "自然科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、數學及電算機科學學科類、自然科學學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C#",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C、C#、C++、Python"
+      },
+      {
+        "items": [
+          "BIOS程式研發",
+          "軟體工程系統開發",
+          "軟體品質與保證",
+          "韌體工程開發",
+          "軟體程式設計",
+          "韌體程式設計",
+          "微電腦軟體設計",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "BIOS程式研發、軟體工程系統開發、軟體品質與保證、韌體工程開發、軟體程式設計、韌體程式設計、微電腦軟體設計、資料庫軟體應用"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具備C級(筆試項目) 以下任一程式語言開發經驗C++, C# Winform WPF, Python, Shell script2.熟悉OOP程式設計概念者佳3.熟悉NVME/PCIe Protocol者佳4.具備資料科學與相關應用工具知識背景佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "數學及電算機科學學科類",
+      "自然科學學科類"
+    ],
+    "other_text": "1.具備C級(筆試項目) 以下任一程式語言開發經驗C++, C# Winform WPF, Python, Shell script2.熟悉OOP程式設計概念者佳3.熟悉NVME/PCIe Protocol者佳4.具備資料科學與相關應用工具知識背景佳",
+    "skills": [
+      "BIOS程式研發",
+      "軟體工程系統開發",
+      "軟體品質與保證",
+      "韌體工程開發",
+      "軟體程式設計",
+      "韌體程式設計",
+      "微電腦軟體設計",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、數學及電算機科學學科類、自然科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C#、C++、Python\n工作技能：BIOS程式研發、軟體工程系統開發、軟體品質與保證、韌體工程開發、軟體程式設計、韌體程式設計、微電腦軟體設計、資料庫軟體應用\n其他條件：1.具備C級(筆試項目) 以下任一程式語言開發經驗C++, C# Winform WPF, Python, Shell script2.熟悉OOP程式設計概念者佳3.熟悉NVME/PCIe Protocol者佳4.具備資料科學與相關應用工具知識背景佳",
+    "tools": [
+      "C",
+      "C#",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:57:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "*設計與開發PCIe/NVMe驗證工具或應用軟體架構與核心library\n*設計與開發PCIe/NVMe SSD相關應用程式\n*根據產品硬體與韌體架構資料設計對應的效能、功耗、演算法驗證軟體與驗證計畫\n*於大型專案中擔任系統、驅動、軟體相關研發技術窗口。\n*研究架設datacenter SSD驗證環境。\n*熟linux底層行為分析bfptrace, blktrace, ftrace、block device driver架構佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "*設計與開發PCIe/NVMe驗證工具或應用軟體架構與核心library\n*設計與開發PCIe/NVMe SSD相關應用程式\n*根據產品硬體與韌體架構資料設計對應的效能、功耗、演算法驗證軟體與驗證計畫\n*於大型專案中擔任系統、驅動、軟體相關研發技術窗口。\n*研究架設datacenter SSD驗證環境。\n*熟linux底層行為分析bfptrace, blktrace, ftrace、block device driver架構佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "數學及電算機科學學科類",
+            "自然科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、數學及電算機科學學科類、自然科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C#",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C、C#、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "BIOS程式研發",
+            "軟體工程系統開發",
+            "軟體品質與保證",
+            "韌體工程開發",
+            "軟體程式設計",
+            "韌體程式設計",
+            "微電腦軟體設計",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "BIOS程式研發、軟體工程系統開發、軟體品質與保證、韌體工程開發、軟體程式設計、韌體程式設計、微電腦軟體設計、資料庫軟體應用",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具備C級(筆試項目) 以下任一程式語言開發經驗C++, C# Winform WPF, Python, Shell script2.熟悉OOP程式設計概念者佳3.熟悉NVME/PCIe Protocol者佳4.具備資料科學與相關應用工具知識背景佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、數學及電算機科學學科類、自然科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C#、C++、Python\n工作技能：BIOS程式研發、軟體工程系統開發、軟體品質與保證、韌體工程開發、軟體程式設計、韌體程式設計、微電腦軟體設計、資料庫軟體應用\n其他條件：1.具備C級(筆試項目) 以下任一程式語言開發經驗C++, C# Winform WPF, Python, Shell script2.熟悉OOP程式設計概念者佳3.熟悉NVME/PCIe Protocol者佳4.具備資料科學與相關應用工具知識背景佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92q9d",
+    "job_url": "https://www.104.com.tw/job/92q9d",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92q9d.json",
+    "raw_sha256": "1086626fcda7b9f828c483df457196f1d0f300b3e370266cb8fc84810282ba70",
+    "requested_url": "https://www.104.com.tw/api/jobs/92q9d"
+  }
+}

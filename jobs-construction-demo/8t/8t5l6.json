@@ -1,0 +1,167 @@
+{
+  "company": {
+    "id": "2d9ntmw",
+    "name": "Advantech_研華股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助開發 PCB Layout 自動化流程，以程式自動化方式取代繁瑣冗長的人工檢查及出圖作業，提升設計效率與品質，加速研發流程。"
+        },
+        {
+          "children": [],
+          "text": "使用 Cadence EDA Tool 進行開發 以 SKILL 語言開發自動化流程 透過 AI 技術建立自動程式編輯架構 使用 PHP 開發及維護 Layout 管理系統。"
+        },
+        {
+          "children": [],
+          "text": "提升 PCB Layout 設計效率與品質。"
+        },
+        {
+          "children": [],
+          "text": "縮短產品研發時程。"
+        },
+        {
+          "children": [],
+          "text": "建立自動化流程以支援團隊創新。"
+        }
+      ],
+      "text": "職務內容:\n- 協助開發 PCB Layout 自動化流程，以程式自動化方式取代繁瑣冗長的人工檢查及出圖作業，提升設計效率與品質，加速研發流程。\n- 使用 Cadence EDA Tool 進行開發 以 SKILL 語言開發自動化流程 透過 AI 技術建立自動程式編輯架構 使用 PHP 開發及維護 Layout 管理系統。\n職務價值:\n- 提升 PCB Layout 設計效率與品質。\n- 縮短產品研發時程。\n- 建立自動化流程以支援團隊創新。\n任職條件:\n大專以上（含大專）資訊、電子、電機等相關科系畢業。\n具基本程式概念，並對程式開發有高度興趣。\n加分條件:\n具 PCB Layout 或製程相關經驗（含工讀經驗）。"
+    },
+    "employment_type_raw": "全職",
+    "title": "CAE電腦輔助自動化軟體工程師 (林口園區)_JR202508063"
+  },
+  "location": {
+    "address_raw": "新北市林口區",
+    "raw": "新北市林口區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "工程學科類"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "工程學科類"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：工程學科類",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 16
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:01:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "職務內容:\n- 協助開發 PCB Layout 自動化流程，以程式自動化方式取代繁瑣冗長的人工檢查及出圖作業，提升設計效率與品質，加速研發流程。\n- 使用 Cadence EDA Tool 進行開發 以 SKILL 語言開發自動化流程 透過 AI 技術建立自動程式編輯架構 使用 PHP 開發及維護 Layout 管理系統。\n職務價值:\n- 提升 PCB Layout 設計效率與品質。\n- 縮短產品研發時程。\n- 建立自動化流程以支援團隊創新。\n任職條件:\n大專以上（含大專）資訊、電子、電機等相關科系畢業。\n具基本程式概念，並對程式開發有高度興趣。\n加分條件:\n具 PCB Layout 或製程相關經驗（含工讀經驗）。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市林口區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "職務內容:\n- 協助開發 PCB Layout 自動化流程，以程式自動化方式取代繁瑣冗長的人工檢查及出圖作業，提升設計效率與品質，加速研發流程。\n- 使用 Cadence EDA Tool 進行開發 以 SKILL 語言開發自動化流程 透過 AI 技術建立自動程式編輯架構 使用 PHP 開發及維護 Layout 管理系統。\n職務價值:\n- 提升 PCB Layout 設計效率與品質。\n- 縮短產品研發時程。\n- 建立自動化流程以支援團隊創新。\n任職條件:\n大專以上（含大專）資訊、電子、電機等相關科系畢業。\n具基本程式概念，並對程式開發有高度興趣。\n加分條件:\n具 PCB Layout 或製程相關經驗（含工讀經驗）。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "工程學科類",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：工程學科類"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8t5l6",
+    "job_url": "https://www.104.com.tw/job/8t5l6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8t5l6.json",
+    "raw_sha256": "df277dde3ae82cff5faaec10a64ada1c44b3b49b3e68ff3d299238715b2aa6fa",
+    "requested_url": "https://www.104.com.tw/api/jobs/8t5l6"
+  }
+}

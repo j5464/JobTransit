@@ -1,0 +1,174 @@
+{
+  "company": {
+    "id": "1a2x6bk905",
+    "name": "巨創策略股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "業務支援工程師",
+      "AI工程師",
+      "商業分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助公司 AI 工具導入改善現有作業流程。"
+        },
+        {
+          "children": [],
+          "text": "負責研究各 AI 工具並進行公司 AI 工具使用上的內部教育訓練及推廣。"
+        },
+        {
+          "children": [],
+          "text": "協助現有各部門人員進行 AI 模型訓練。"
+        },
+        {
+          "children": [],
+          "text": "無經驗可，對 AI 工具有強烈的學習熱忱者。"
+        },
+        {
+          "children": [],
+          "text": "熟悉了解軟體專案開發流程者佳。"
+        }
+      ],
+      "text": "1. 協助公司 AI 工具導入改善現有作業流程。\n2. 負責研究各 AI 工具並進行公司 AI 工具使用上的內部教育訓練及推廣。\n3. 協助現有各部門人員進行 AI 模型訓練。\n4. 無經驗可，對 AI 工具有強烈的學習熱忱者。\n5. 熟悉了解軟體專案開發流程者佳。\n在這 AI 的浪潮中，我們需求一位將組織 AI 落地的關鍵基礎建設角色，陪同公司一起成長進到 AI 世界，由於我們是網頁軟體開發公司 ，所以希望您能對網頁設計及系統開發有基礎的專業及了解。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI 應用工程師 / AI 訓練工程師"
+  },
+  "location": {
+    "address_raw": "新北市新店區北新路三段217號13樓",
+    "raw": "新北市新店區北新路三段217號13樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "AI",
+          "生成式AI"
+        ],
+        "label": "工作技能",
+        "text": "AI、生成式AI"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "AI",
+      "生成式AI"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n工作技能：AI、生成式AI",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 71
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:17:50+08:00"
+  },
+  "salary": {
+    "raw": "月薪32,000~40,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 協助公司 AI 工具導入改善現有作業流程。\n2. 負責研究各 AI 工具並進行公司 AI 工具使用上的內部教育訓練及推廣。\n3. 協助現有各部門人員進行 AI 模型訓練。\n4. 無經驗可，對 AI 工具有強烈的學習熱忱者。\n5. 熟悉了解軟體專案開發流程者佳。\n在這 AI 的浪潮中，我們需求一位將組織 AI 落地的關鍵基礎建設角色，陪同公司一起成長進到 AI 世界，由於我們是網頁軟體開發公司 ，所以希望您能對網頁設計及系統開發有基礎的專業及了解。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "業務支援工程師",
+            "AI工程師",
+            "商業分析師"
+          ],
+          "label": "職務類別",
+          "text": "業務支援工程師、AI工程師、商業分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪32,000~40,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區北新路三段217號13樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 協助公司 AI 工具導入改善現有作業流程。\n2. 負責研究各 AI 工具並進行公司 AI 工具使用上的內部教育訓練及推廣。\n3. 協助現有各部門人員進行 AI 模型訓練。\n4. 無經驗可，對 AI 工具有強烈的學習熱忱者。\n5. 熟悉了解軟體專案開發流程者佳。\n在這 AI 的浪潮中，我們需求一位將組織 AI 落地的關鍵基礎建設角色，陪同公司一起成長進到 AI 世界，由於我們是網頁軟體開發公司 ，所以希望您能對網頁設計及系統開發有基礎的專業及了解。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "生成式AI"
+          ],
+          "label": "工作技能",
+          "text": "AI、生成式AI",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n工作技能：AI、生成式AI"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "920cu",
+    "job_url": "https://www.104.com.tw/job/920cu",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/920cu.json",
+    "raw_sha256": "7de8f16de00da578f0a2b19c0e3e8e366a9bbad5d760a3c87c5da4df88da0c4e",
+    "requested_url": "https://www.104.com.tw/api/jobs/920cu"
+  }
+}

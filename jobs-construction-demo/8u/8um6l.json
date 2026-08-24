@@ -1,0 +1,166 @@
+{
+  "company": {
+    "id": "1a2x6bnga7",
+    "name": "樂碼軟體有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "■ 工作內容\n□ 負責核心後端系統的設計、開發與最佳化。\n□ 與產品、前端、架構及 DevOps 團隊緊密合作，開發高效能、可擴充且高穩定的分散式系統。\n□ 高併發系統設計與微服務架構，確保資料一致性與系統穩定性\n□ 參與code Review，推動團隊技術品質提升\n□ 自動化部署與維護\n□ 對現有設計提出改善意見\n■ 必要條件\n□ 3 年以上 .NET 後端開發經驗\n□ 熟悉 C#、.NET Core / .NET 6+、非同步程式設計 (async/await)\n□ 熟悉 高併發／高可用系統設計 概念與實作經驗\n□ 熟悉 PostgreSQL / SQL Server 資料庫設計與效能調校\n□ 熟悉 Entity Framework Core 或 Dapper 等 ORM 工具\n□ 熟悉 RESTful API 設計原則與 HTTP Protocol\n□ 熟悉 Redis 應用於快取機制、佇列與交易控制\n□ 能撰寫乾淨、可維護、具單元測試覆蓋的程式碼\n□ 具備系統設計與除錯能力，能獨立完成從需求到上線的全流程"
+    },
+    "employment_type_raw": "全職",
+    "title": "資深後端工程師"
+  },
+  "location": {
+    "address_raw": "台中市西屯區市政北七路186號",
+    "raw": "台中市西屯區市政北七路186號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中以上"
+      },
+      {
+        "items": [
+          "C#",
+          "PostgreSQL",
+          "HTTP",
+          "ASP.NET"
+        ],
+        "label": "擅長工具",
+        "text": "C#、PostgreSQL、HTTP、ASP.NET"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分項目\n□ 具備 Git / CI/CD pipeline (GitLab) 實務經驗，並熟悉自動化部署與系統監控\n□ 具備 Kafka / RabbitMQ / gRPC 實務經驗\n□ 熟悉 單元測試框架（xUnit、NUnit、MSTest） 並能撰寫可維護測試\n□ 具備 GCP / Kubernetes 經驗，熟悉容器化與雲端部署\n□ 有金融、遊戲、電商或大型交易系統經驗者尤佳"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "加分項目\n□ 具備 Git / CI/CD pipeline (GitLab) 實務經驗，並熟悉自動化部署與系統監控\n□ 具備 Kafka / RabbitMQ / gRPC 實務經驗\n□ 熟悉 單元測試框架（xUnit、NUnit、MSTest） 並能撰寫可維護測試\n□ 具備 GCP / Kubernetes 經驗，熟悉容器化與雲端部署\n□ 有金融、遊戲、電商或大型交易系統經驗者尤佳",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：高中以上\n擅長工具：C#、PostgreSQL、HTTP、ASP.NET\n其他條件：加分項目\n□ 具備 Git / CI/CD pipeline (GitLab) 實務經驗，並熟悉自動化部署與系統監控\n□ 具備 Kafka / RabbitMQ / gRPC 實務經驗\n□ 熟悉 單元測試框架（xUnit、NUnit、MSTest） 並能撰寫可維護測試\n□ 具備 GCP / Kubernetes 經驗，熟悉容器化與雲端部署\n□ 有金融、遊戲、電商或大型交易系統經驗者尤佳",
+    "tools": [
+      "C#",
+      "PostgreSQL",
+      "HTTP",
+      "ASP.NET"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 47
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:18:38+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "■ 工作內容\n□ 負責核心後端系統的設計、開發與最佳化。\n□ 與產品、前端、架構及 DevOps 團隊緊密合作，開發高效能、可擴充且高穩定的分散式系統。\n□ 高併發系統設計與微服務架構，確保資料一致性與系統穩定性\n□ 參與code Review，推動團隊技術品質提升\n□ 自動化部署與維護\n□ 對現有設計提出改善意見\n■ 必要條件\n□ 3 年以上 .NET 後端開發經驗\n□ 熟悉 C#、.NET Core / .NET 6+、非同步程式設計 (async/await)\n□ 熟悉 高併發／高可用系統設計 概念與實作經驗\n□ 熟悉 PostgreSQL / SQL Server 資料庫設計與效能調校\n□ 熟悉 Entity Framework Core 或 Dapper 等 ORM 工具\n□ 熟悉 RESTful API 設計原則與 HTTP Protocol\n□ 熟悉 Redis 應用於快取機制、佇列與交易控制\n□ 能撰寫乾淨、可維護、具單元測試覆蓋的程式碼\n□ 具備系統設計與除錯能力，能獨立完成從需求到上線的全流程",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區市政北七路186號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "■ 工作內容\n□ 負責核心後端系統的設計、開發與最佳化。\n□ 與產品、前端、架構及 DevOps 團隊緊密合作，開發高效能、可擴充且高穩定的分散式系統。\n□ 高併發系統設計與微服務架構，確保資料一致性與系統穩定性\n□ 參與code Review，推動團隊技術品質提升\n□ 自動化部署與維護\n□ 對現有設計提出改善意見\n■ 必要條件\n□ 3 年以上 .NET 後端開發經驗\n□ 熟悉 C#、.NET Core / .NET 6+、非同步程式設計 (async/await)\n□ 熟悉 高併發／高可用系統設計 概念與實作經驗\n□ 熟悉 PostgreSQL / SQL Server 資料庫設計與效能調校\n□ 熟悉 Entity Framework Core 或 Dapper 等 ORM 工具\n□ 熟悉 RESTful API 設計原則與 HTTP Protocol\n□ 熟悉 Redis 應用於快取機制、佇列與交易控制\n□ 能撰寫乾淨、可維護、具單元測試覆蓋的程式碼\n□ 具備系統設計與除錯能力，能獨立完成從需求到上線的全流程"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "PostgreSQL",
+            "HTTP",
+            "ASP.NET"
+          ],
+          "label": "擅長工具",
+          "text": "C#、PostgreSQL、HTTP、ASP.NET",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分項目\n□ 具備 Git / CI/CD pipeline (GitLab) 實務經驗，並熟悉自動化部署與系統監控\n□ 具備 Kafka / RabbitMQ / gRPC 實務經驗\n□ 熟悉 單元測試框架（xUnit、NUnit、MSTest） 並能撰寫可維護測試\n□ 具備 GCP / Kubernetes 經驗，熟悉容器化與雲端部署\n□ 有金融、遊戲、電商或大型交易系統經驗者尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：高中以上\n擅長工具：C#、PostgreSQL、HTTP、ASP.NET\n其他條件：加分項目\n□ 具備 Git / CI/CD pipeline (GitLab) 實務經驗，並熟悉自動化部署與系統監控\n□ 具備 Kafka / RabbitMQ / gRPC 實務經驗\n□ 熟悉 單元測試框架（xUnit、NUnit、MSTest） 並能撰寫可維護測試\n□ 具備 GCP / Kubernetes 經驗，熟悉容器化與雲端部署\n□ 有金融、遊戲、電商或大型交易系統經驗者尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8um6l",
+    "job_url": "https://www.104.com.tw/job/8um6l",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8um6l.json",
+    "raw_sha256": "7ed417702a2e9a76f9252a8b1b0977c57b9bab430efcee40f91d9cb8ca201055",
+    "requested_url": "https://www.104.com.tw/api/jobs/8um6l"
+  }
+}

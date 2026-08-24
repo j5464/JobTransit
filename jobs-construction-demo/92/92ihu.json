@@ -1,0 +1,254 @@
+{
+  "company": {
+    "id": "olmlwc8",
+    "name": "行動貝果有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責 AI 基礎應用整合（如 LLM API、向量資料庫、RAG 檢索增強生成）"
+        },
+        {
+          "children": [],
+          "text": "使用 FastAPI / Flask 建構高效能、可擴展的微服務"
+        },
+        {
+          "children": [],
+          "text": "針對 PostgreSQL 進行數據建模與 API 資料存取優化"
+        },
+        {
+          "children": [],
+          "text": "實現 AI 應用與技術整合"
+        },
+        {
+          "children": [],
+          "text": "建構高效能微服務架構"
+        },
+        {
+          "children": [],
+          "text": "優化數據儲存與存取效能"
+        },
+        {
+          "children": [],
+          "text": "3-5 年以上 Python 開發經驗，精通 FastAPI 、 Flask或Django"
+        },
+        {
+          "children": [],
+          "text": "具備 AI 應用開發經驗（了解 OpenAI SDK、LangChain 或 Hugging Face 尤佳）"
+        },
+        {
+          "children": [],
+          "text": "熟悉 PostgreSQL 的應用與 JSONB 等非關係型資料處理"
+        },
+        {
+          "children": [],
+          "text": "了解容器化技術 (Docker / K8s) 優先考慮"
+        },
+        {
+          "children": [],
+          "text": "良好溝通能力、可獨立排查問題並提出改善方案"
+        },
+        {
+          "children": [],
+          "text": "可配合出差（頻率依專案而定）"
+        },
+        {
+          "children": [],
+          "text": "熟悉 React、React Native"
+        },
+        {
+          "children": [],
+          "text": "具備深厚的 SA 系統分析經驗，能處理複雜的業務邏輯"
+        },
+        {
+          "children": [],
+          "text": "熟悉 L2/L3 網路基礎知識（VLAN 規劃、負載平衡）"
+        },
+        {
+          "children": [],
+          "text": "具備地端或雲端 HA 叢集建置經驗"
+        },
+        {
+          "children": [],
+          "text": "視錄取後主管安排或專案需求，於台北辦公室或台中辦公室辦公。"
+        }
+      ],
+      "text": "Job Function\n- 負責 AI 基礎應用整合（如 LLM API、向量資料庫、RAG 檢索增強生成）\n- 使用 FastAPI / Flask 建構高效能、可擴展的微服務\n- 針對 PostgreSQL 進行數據建模與 API 資料存取優化\nYour Impact\n- 實現 AI 應用與技術整合\n- 建構高效能微服務架構\n- 優化數據儲存與存取效能\nQualifications\n- 3-5 年以上 Python 開發經驗，精通 FastAPI 、 Flask或Django\n- 具備 AI 應用開發經驗（了解 OpenAI SDK、LangChain 或 Hugging Face 尤佳）\n- 熟悉 PostgreSQL 的應用與 JSONB 等非關係型資料處理\n- 了解容器化技術 (Docker / K8s) 優先考慮\n- 良好溝通能力、可獨立排查問題並提出改善方案\n- 可配合出差（頻率依專案而定）\nPreferred Qualifications\n- 熟悉 React、React Native\n- 具備深厚的 SA 系統分析經驗，能處理複雜的業務邏輯\n- 熟悉 L2/L3 網路基礎知識（VLAN 規劃、負載平衡）\n- 具備地端或雲端 HA 叢集建置經驗\nLocation\n- 視錄取後主管安排或專案需求，於台北辦公室或台中辦公室辦公。\nJoin Us\nAt MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and be part of a dynamic and fast-paced startup environment."
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior AI Application Engineer 資深 AI 應用開發工程師 (Python / FastAPI / Flask / Django)"
+  },
+  "location": {
+    "address_raw": "台北市信義區東興路51號4樓",
+    "raw": "台北市信義區東興路51號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "PostgreSQL",
+          "Python",
+          "Django"
+        ],
+        "label": "擅長工具",
+        "text": "PostgreSQL、Python、Django"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "另有台中辦公，將依情況安排決定最終出勤地點"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "另有台中辦公，將依情況安排決定最終出勤地點",
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：PostgreSQL、Python、Django\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：另有台中辦公，將依情況安排決定最終出勤地點",
+    "tools": [
+      "PostgreSQL",
+      "Python",
+      "Django"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 36
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:51:42+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Job Function\n- 負責 AI 基礎應用整合（如 LLM API、向量資料庫、RAG 檢索增強生成）\n- 使用 FastAPI / Flask 建構高效能、可擴展的微服務\n- 針對 PostgreSQL 進行數據建模與 API 資料存取優化\nYour Impact\n- 實現 AI 應用與技術整合\n- 建構高效能微服務架構\n- 優化數據儲存與存取效能\nQualifications\n- 3-5 年以上 Python 開發經驗，精通 FastAPI 、 Flask或Django\n- 具備 AI 應用開發經驗（了解 OpenAI SDK、LangChain 或 Hugging Face 尤佳）\n- 熟悉 PostgreSQL 的應用與 JSONB 等非關係型資料處理\n- 了解容器化技術 (Docker / K8s) 優先考慮\n- 良好溝通能力、可獨立排查問題並提出改善方案\n- 可配合出差（頻率依專案而定）\nPreferred Qualifications\n- 熟悉 React、React Native\n- 具備深厚的 SA 系統分析經驗，能處理複雜的業務邏輯\n- 熟悉 L2/L3 網路基礎知識（VLAN 規劃、負載平衡）\n- 具備地端或雲端 HA 叢集建置經驗\nLocation\n- 視錄取後主管安排或專案需求，於台北辦公室或台中辦公室辦公。\nJoin Us\nAt MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and be part of a dynamic and fast-paced startup environment.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區東興路51號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Job Function\n- 負責 AI 基礎應用整合（如 LLM API、向量資料庫、RAG 檢索增強生成）\n- 使用 FastAPI / Flask 建構高效能、可擴展的微服務\n- 針對 PostgreSQL 進行數據建模與 API 資料存取優化\nYour Impact\n- 實現 AI 應用與技術整合\n- 建構高效能微服務架構\n- 優化數據儲存與存取效能\nQualifications\n- 3-5 年以上 Python 開發經驗，精通 FastAPI 、 Flask或Django\n- 具備 AI 應用開發經驗（了解 OpenAI SDK、LangChain 或 Hugging Face 尤佳）\n- 熟悉 PostgreSQL 的應用與 JSONB 等非關係型資料處理\n- 了解容器化技術 (Docker / K8s) 優先考慮\n- 良好溝通能力、可獨立排查問題並提出改善方案\n- 可配合出差（頻率依專案而定）\nPreferred Qualifications\n- 熟悉 React、React Native\n- 具備深厚的 SA 系統分析經驗，能處理複雜的業務邏輯\n- 熟悉 L2/L3 網路基礎知識（VLAN 規劃、負載平衡）\n- 具備地端或雲端 HA 叢集建置經驗\nLocation\n- 視錄取後主管安排或專案需求，於台北辦公室或台中辦公室辦公。\nJoin Us\nAt MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and be part of a dynamic and fast-paced startup environment."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PostgreSQL",
+            "Python",
+            "Django"
+          ],
+          "label": "擅長工具",
+          "text": "PostgreSQL、Python、Django",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "另有台中辦公，將依情況安排決定最終出勤地點",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：PostgreSQL、Python、Django\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：另有台中辦公，將依情況安排決定最終出勤地點"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92ihu",
+    "job_url": "https://www.104.com.tw/job/92ihu",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92ihu.json",
+    "raw_sha256": "37f79c2fe00b9b49479478abf3c4c49aa66a839b0378072e85c2f53e85a93004",
+    "requested_url": "https://www.104.com.tw/api/jobs/92ihu"
+  }
+}

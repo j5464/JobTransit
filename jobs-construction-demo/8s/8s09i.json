@@ -1,0 +1,253 @@
+{
+  "company": {
+    "id": "6h2mo68",
+    "name": "商合行股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "硬體研發工程師",
+      "軟韌體測試工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "規劃及執行產品程式開發。"
+        },
+        {
+          "children": [],
+          "text": "維護量產產品，技術問題處理。"
+        },
+        {
+          "children": [],
+          "text": "執行、協助或配合韌體新技術之研發、導入。"
+        },
+        {
+          "children": [],
+          "text": "執行產品韌體測試。"
+        },
+        {
+          "children": [],
+          "text": "量產技術轉移、產品文件編寫。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項"
+        }
+      ],
+      "text": "【工作內容】\n1.規劃及執行產品程式開發。\n2.維護量產產品，技術問題處理。\n3.執行、協助或配合韌體新技術之研發、導入。\n4.執行產品韌體測試。\n5.量產技術轉移、產品文件編寫。\n6.其他主管交辦事項\n【技能需求】\n. Cortex-M系列 MCU 程式編寫(KeilC)\n. 有FreeRTOS經驗佳\n. 有新唐產品系列開發經驗佳\n. 設計類 Assembly、Firmware\n. 應用interface: ATA/IDE、SCSI、USB MassStorage、UART、I2C、SPI...\n. 須具備基礎硬體線路圖閱讀、烙鐵操作之能力\n. 會 Git 版本管理佳 (非必須)"
+    },
+    "employment_type_raw": "全職",
+    "title": "韌體工程師CM (台北)"
+  },
+  "location": {
+    "address_raw": "新北市三重區興德路111-8號12樓",
+    "raw": "新北市三重區興德路111-8號12樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "MCU",
+          "Git",
+          "C",
+          "C++",
+          "Assembly",
+          "Firmware",
+          "USB技術"
+        ],
+        "label": "擅長工具",
+        "text": "MCU、Git、C、C++、Assembly、Firmware、USB技術"
+      },
+      {
+        "items": [
+          "韌體工程開發",
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "韌體工程開發、韌體程式設計"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "韌體工程開發",
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：高中以上\n科系要求：資訊管理相關、資訊工程相關、電機電子工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：MCU、Git、C、C++、Assembly、Firmware、USB技術\n工作技能：韌體工程開發、韌體程式設計",
+    "tools": [
+      "MCU",
+      "Git",
+      "C",
+      "C++",
+      "Assembly",
+      "Firmware",
+      "USB技術"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 7
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:39:31+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1.規劃及執行產品程式開發。\n2.維護量產產品，技術問題處理。\n3.執行、協助或配合韌體新技術之研發、導入。\n4.執行產品韌體測試。\n5.量產技術轉移、產品文件編寫。\n6.其他主管交辦事項\n【技能需求】\n. Cortex-M系列 MCU 程式編寫(KeilC)\n. 有FreeRTOS經驗佳\n. 有新唐產品系列開發經驗佳\n. 設計類 Assembly、Firmware\n. 應用interface: ATA/IDE、SCSI、USB MassStorage、UART、I2C、SPI...\n. 須具備基礎硬體線路圖閱讀、烙鐵操作之能力\n. 會 Git 版本管理佳 (非必須)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "硬體研發工程師",
+            "軟韌體測試工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、硬體研發工程師、軟韌體測試工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市三重區興德路111-8號12樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1.規劃及執行產品程式開發。\n2.維護量產產品，技術問題處理。\n3.執行、協助或配合韌體新技術之研發、導入。\n4.執行產品韌體測試。\n5.量產技術轉移、產品文件編寫。\n6.其他主管交辦事項\n【技能需求】\n. Cortex-M系列 MCU 程式編寫(KeilC)\n. 有FreeRTOS經驗佳\n. 有新唐產品系列開發經驗佳\n. 設計類 Assembly、Firmware\n. 應用interface: ATA/IDE、SCSI、USB MassStorage、UART、I2C、SPI...\n. 須具備基礎硬體線路圖閱讀、烙鐵操作之能力\n. 會 Git 版本管理佳 (非必須)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MCU",
+            "Git",
+            "C",
+            "C++",
+            "Assembly",
+            "Firmware",
+            "USB技術"
+          ],
+          "label": "擅長工具",
+          "text": "MCU、Git、C、C++、Assembly、Firmware、USB技術",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "韌體工程開發",
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "韌體工程開發、韌體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：高中以上\n科系要求：資訊管理相關、資訊工程相關、電機電子工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：MCU、Git、C、C++、Assembly、Firmware、USB技術\n工作技能：韌體工程開發、韌體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8s09i",
+    "job_url": "https://www.104.com.tw/job/8s09i",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8s09i.json",
+    "raw_sha256": "4b3b228bfddc05ec70ffac53c17872b34fbc2ac63ee340a351a967e45fc5a5e6",
+    "requested_url": "https://www.104.com.tw/api/jobs/8s09i"
+  }
+}

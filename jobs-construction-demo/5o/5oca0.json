@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "1a2x6bk6fu",
+    "name": "干城數碼有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責C#相關程式設計、撰寫、修改。"
+        },
+        {
+          "children": [],
+          "text": "規劃執行軟體架構及模組之設計。"
+        },
+        {
+          "children": [],
+          "text": "進行軟體之測試與修改。"
+        },
+        {
+          "children": [],
+          "text": "協助研發軟體新技術與解決方案。"
+        }
+      ],
+      "text": "1.負責C#相關程式設計、撰寫、修改。\n2.規劃執行軟體架構及模組之設計。\n3.進行軟體之測試與修改。\n4.協助研發軟體新技術與解決方案。"
+    },
+    "employment_type_raw": "全職",
+    "title": "C# .Net 程式設計師"
+  },
+  "location": {
+    "address_raw": "台北市中山區",
+    "raw": "台北市中山區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "AJAX",
+          "ASP.NET",
+          "Visual C#",
+          "Visual Studio .net",
+          "MS SQL",
+          "Oracle",
+          "HTML",
+          "JavaScript",
+          "jQuery"
+        ],
+        "label": "擅長工具",
+        "text": "AJAX、ASP.NET、Visual C#、Visual Studio .net、MS SQL、Oracle、HTML、JavaScript、jQuery"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "功能測試(function test)",
+          "壓力測試(stress test)",
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、功能測試(function test)、壓力測試(stress test)、軟體程式設計、網路程式設計、資料庫程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉或修習過下列技術者尤佳\n1. C#、ASP.net 、MVC、 .NET Core\n2. Web Service\n3. Entity framework"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "熟悉或修習過下列技術者尤佳\n1. C#、ASP.net 、MVC、 .NET Core\n2. Web Service\n3. Entity framework",
+    "skills": [
+      "系統架構規劃",
+      "功能測試(function test)",
+      "壓力測試(stress test)",
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n擅長工具：AJAX、ASP.NET、Visual C#、Visual Studio .net、MS SQL、Oracle、HTML、JavaScript、jQuery\n工作技能：系統架構規劃、功能測試(function test)、壓力測試(stress test)、軟體程式設計、網路程式設計、資料庫程式設計\n其他條件：熟悉或修習過下列技術者尤佳\n1. C#、ASP.net 、MVC、 .NET Core\n2. Web Service\n3. Entity framework",
+    "tools": [
+      "AJAX",
+      "ASP.NET",
+      "Visual C#",
+      "Visual Studio .net",
+      "MS SQL",
+      "Oracle",
+      "HTML",
+      "JavaScript",
+      "jQuery"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 68
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:09:33+08:00"
+  },
+  "salary": {
+    "raw": "月薪30,000~70,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責C#相關程式設計、撰寫、修改。\n2.規劃執行軟體架構及模組之設計。\n3.進行軟體之測試與修改。\n4.協助研發軟體新技術與解決方案。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪30,000~70,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責C#相關程式設計、撰寫、修改。\n2.規劃執行軟體架構及模組之設計。\n3.進行軟體之測試與修改。\n4.協助研發軟體新技術與解決方案。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AJAX",
+            "ASP.NET",
+            "Visual C#",
+            "Visual Studio .net",
+            "MS SQL",
+            "Oracle",
+            "HTML",
+            "JavaScript",
+            "jQuery"
+          ],
+          "label": "擅長工具",
+          "text": "AJAX、ASP.NET、Visual C#、Visual Studio .net、MS SQL、Oracle、HTML、JavaScript、jQuery",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "功能測試(function test)",
+            "壓力測試(stress test)",
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、功能測試(function test)、壓力測試(stress test)、軟體程式設計、網路程式設計、資料庫程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉或修習過下列技術者尤佳\n1. C#、ASP.net 、MVC、 .NET Core\n2. Web Service\n3. Entity framework",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n擅長工具：AJAX、ASP.NET、Visual C#、Visual Studio .net、MS SQL、Oracle、HTML、JavaScript、jQuery\n工作技能：系統架構規劃、功能測試(function test)、壓力測試(stress test)、軟體程式設計、網路程式設計、資料庫程式設計\n其他條件：熟悉或修習過下列技術者尤佳\n1. C#、ASP.net 、MVC、 .NET Core\n2. Web Service\n3. Entity framework"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "5oca0",
+    "job_url": "https://www.104.com.tw/job/5oca0",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/5oca0.json",
+    "raw_sha256": "92d19b4e98c103994acde9e0b2ee5c774b1f36955cadfd7245829dd869c40650",
+    "requested_url": "https://www.104.com.tw/api/jobs/5oca0"
+  }
+}

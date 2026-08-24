@@ -1,0 +1,216 @@
+{
+  "company": {
+    "id": "1a2x6bjz7o",
+    "name": "艾貝科思有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "軟體專案主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "1+ years of professional full-stack application development"
+        },
+        {
+          "children": [],
+          "text": "1+ years of professional framework development (public or private)"
+        },
+        {
+          "children": [],
+          "text": "1+ years of experience supporting code you authored"
+        },
+        {
+          "children": [],
+          "text": "Experience working across teams to understand problem domains and design of appropriate solutions"
+        },
+        {
+          "children": [],
+          "text": "Experience working across teams to reduce design complexity and improve domain logic"
+        },
+        {
+          "children": [],
+          "text": "Experience finding solutions to problems on your own through independent effort"
+        },
+        {
+          "children": [],
+          "text": "A general yet all-consuming passion for learning new technologies, languages and/or domains in and out of work"
+        }
+      ],
+      "text": "• 1+ years of professional full-stack application development\n• 1+ years of professional framework development (public or private)\n• 1+ years of experience supporting code you authored\n• Experience working across teams to understand problem domains and design of appropriate solutions\n• Experience working across teams to reduce design complexity and improve domain logic\n• Experience finding solutions to problems on your own through independent effort\n• A general yet all-consuming passion for learning new technologies, languages and/or domains in and out of work"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI軟體工程師 #美商 #重視Work-Life Balance #Full-Stack"
+  },
+  "location": {
+    "address_raw": "台北市南港區近南港軟體園區",
+    "raw": "台北市南港區近南港軟體園區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Java",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "Java、JavaScript"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "模組化系統設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發、模組化系統設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Other Relevant/Helpful Skills:\n• Experience with Python and FastAPI\n• Experience leveraging AI coding assistants (e.g., Claude Code, Codex, Cursor, GitHub Copilot, etc.) to accelerate development\n• Personal projects built with AI assistance\n• Familiarity with using AI tools to assist with research, learning, and problem-solving\n• Proficiency in at least two programming language of choice\n• Proficiency in at least one unit testing framework (JUnit, RSpec, your own?)\n• Authorship of, or commits to, a public or private code framework (super bonus!)\n• Experience with SQL and relational databases (Oracle, Postgres)\n• Experience with JavaScript/TypeScript\n• Java and JVM experience or C/C++ and compiler experience\n• Experience with HTML/CSS/SASS\n• Formal performance analysis and benchmarking\n• Knowledge of statistical methods, modeling, and/or discrete mathematics"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "Other Relevant/Helpful Skills:\n• Experience with Python and FastAPI\n• Experience leveraging AI coding assistants (e.g., Claude Code, Codex, Cursor, GitHub Copilot, etc.) to accelerate development\n• Personal projects built with AI assistance\n• Familiarity with using AI tools to assist with research, learning, and problem-solving\n• Proficiency in at least two programming language of choice\n• Proficiency in at least one unit testing framework (JUnit, RSpec, your own?)\n• Authorship of, or commits to, a public or private code framework (super bonus!)\n• Experience with SQL and relational databases (Oracle, Postgres)\n• Experience with JavaScript/TypeScript\n• Java and JVM experience or C/C++ and compiler experience\n• Experience with HTML/CSS/SASS\n• Formal performance analysis and benchmarking\n• Knowledge of statistical methods, modeling, and/or discrete mathematics",
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "模組化系統設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Java、JavaScript\n工作技能：軟體程式設計、軟體工程系統開發、模組化系統設計\n其他條件：Other Relevant/Helpful Skills:\n• Experience with Python and FastAPI\n• Experience leveraging AI coding assistants (e.g., Claude Code, Codex, Cursor, GitHub Copilot, etc.) to accelerate development\n• Personal projects built with AI assistance\n• Familiarity with using AI tools to assist with research, learning, and problem-solving\n• Proficiency in at least two programming language of choice\n• Proficiency in at least one unit testing framework (JUnit, RSpec, your own?)\n• Authorship of, or commits to, a public or private code framework (super bonus!)\n• Experience with SQL and relational databases (Oracle, Postgres)\n• Experience with JavaScript/TypeScript\n• Java and JVM experience or C/C++ and compiler experience\n• Experience with HTML/CSS/SASS\n• Formal performance analysis and benchmarking\n• Knowledge of statistical methods, modeling, and/or discrete mathematics",
+    "tools": [
+      "Java",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 3
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:27:17+08:00"
+  },
+  "salary": {
+    "raw": "月薪55,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "• 1+ years of professional full-stack application development\n• 1+ years of professional framework development (public or private)\n• 1+ years of experience supporting code you authored\n• Experience working across teams to understand problem domains and design of appropriate solutions\n• Experience working across teams to reduce design complexity and improve domain logic\n• Experience finding solutions to problems on your own through independent effort\n• A general yet all-consuming passion for learning new technologies, languages and/or domains in and out of work",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "軟體專案主管"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、軟體專案主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪55,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區近南港軟體園區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "• 1+ years of professional full-stack application development\n• 1+ years of professional framework development (public or private)\n• 1+ years of experience supporting code you authored\n• Experience working across teams to understand problem domains and design of appropriate solutions\n• Experience working across teams to reduce design complexity and improve domain logic\n• Experience finding solutions to problems on your own through independent effort\n• A general yet all-consuming passion for learning new technologies, languages and/or domains in and out of work"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "Java、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "模組化系統設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發、模組化系統設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Other Relevant/Helpful Skills:\n• Experience with Python and FastAPI\n• Experience leveraging AI coding assistants (e.g., Claude Code, Codex, Cursor, GitHub Copilot, etc.) to accelerate development\n• Personal projects built with AI assistance\n• Familiarity with using AI tools to assist with research, learning, and problem-solving\n• Proficiency in at least two programming language of choice\n• Proficiency in at least one unit testing framework (JUnit, RSpec, your own?)\n• Authorship of, or commits to, a public or private code framework (super bonus!)\n• Experience with SQL and relational databases (Oracle, Postgres)\n• Experience with JavaScript/TypeScript\n• Java and JVM experience or C/C++ and compiler experience\n• Experience with HTML/CSS/SASS\n• Formal performance analysis and benchmarking\n• Knowledge of statistical methods, modeling, and/or discrete mathematics",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Java、JavaScript\n工作技能：軟體程式設計、軟體工程系統開發、模組化系統設計\n其他條件：Other Relevant/Helpful Skills:\n• Experience with Python and FastAPI\n• Experience leveraging AI coding assistants (e.g., Claude Code, Codex, Cursor, GitHub Copilot, etc.) to accelerate development\n• Personal projects built with AI assistance\n• Familiarity with using AI tools to assist with research, learning, and problem-solving\n• Proficiency in at least two programming language of choice\n• Proficiency in at least one unit testing framework (JUnit, RSpec, your own?)\n• Authorship of, or commits to, a public or private code framework (super bonus!)\n• Experience with SQL and relational databases (Oracle, Postgres)\n• Experience with JavaScript/TypeScript\n• Java and JVM experience or C/C++ and compiler experience\n• Experience with HTML/CSS/SASS\n• Formal performance analysis and benchmarking\n• Knowledge of statistical methods, modeling, and/or discrete mathematics"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "5ddwm",
+    "job_url": "https://www.104.com.tw/job/5ddwm",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/5ddwm.json",
+    "raw_sha256": "bf1c9f3c58bd09cfecbd1d5a02ee062d87f72f3d9c749c0a8f59fab354619cd2",
+    "requested_url": "https://www.104.com.tw/api/jobs/5ddwm"
+  }
+}

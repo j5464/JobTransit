@@ -1,0 +1,185 @@
+{
+  "company": {
+    "id": "1a2x6bjww1",
+    "name": "小金井科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "電子產品系統工程師",
+      "電子工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "人臉辨識及其他電控元件尋找、評估。"
+        },
+        {
+          "children": [],
+          "text": "人臉辨識及其他電控元件之應用規劃、測試，包含環境建立。"
+        },
+        {
+          "children": [],
+          "text": "人臉辨識及其他電控元件之應用問題解決。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 C/C++、Python 等程式語言。"
+        },
+        {
+          "children": [],
+          "text": "具備 AI 深度學習、影像處理（OpenCV）或邊緣運算技術經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Linux 系統開發或嵌入式系統（Embedded System）"
+        }
+      ],
+      "text": "1. 人臉辨識及其他電控元件尋找、評估。\n2. 人臉辨識及其他電控元件之應用規劃、測試，包含環境建立。\n3. 人臉辨識及其他電控元件之應用問題解決。\n4. 其他主管交辦事項。\n5. 熟悉 C/C++、Python 等程式語言。\n6. 具備 AI 深度學習、影像處理（OpenCV）或邊緣運算技術經驗。\n7. 熟悉 Linux 系統開發或嵌入式系統（Embedded System）"
+    },
+    "employment_type_raw": "全職",
+    "title": "(彰化)韌體工程師"
+  },
+  "location": {
+    "address_raw": "彰化縣彰化市彰秀路54巷5號",
+    "raw": "彰化縣彰化市彰秀路54巷5號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "其他工程相關",
+          "工業工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "其他工程相關、工業工程相關、電機電子工程相關"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "其他工程相關",
+      "工業工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：其他工程相關、工業工程相關、電機電子工程相關",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 32
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:41:13+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 人臉辨識及其他電控元件尋找、評估。\n2. 人臉辨識及其他電控元件之應用規劃、測試，包含環境建立。\n3. 人臉辨識及其他電控元件之應用問題解決。\n4. 其他主管交辦事項。\n5. 熟悉 C/C++、Python 等程式語言。\n6. 具備 AI 深度學習、影像處理（OpenCV）或邊緣運算技術經驗。\n7. 熟悉 Linux 系統開發或嵌入式系統（Embedded System）",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "電子產品系統工程師",
+            "電子工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "電子產品系統工程師、電子工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "彰化縣彰化市彰秀路54巷5號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 人臉辨識及其他電控元件尋找、評估。\n2. 人臉辨識及其他電控元件之應用規劃、測試，包含環境建立。\n3. 人臉辨識及其他電控元件之應用問題解決。\n4. 其他主管交辦事項。\n5. 熟悉 C/C++、Python 等程式語言。\n6. 具備 AI 深度學習、影像處理（OpenCV）或邊緣運算技術經驗。\n7. 熟悉 Linux 系統開發或嵌入式系統（Embedded System）"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "其他工程相關",
+            "工業工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "其他工程相關、工業工程相關、電機電子工程相關",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：其他工程相關、工業工程相關、電機電子工程相關"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8u8dq",
+    "job_url": "https://www.104.com.tw/job/8u8dq",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8u8dq.json",
+    "raw_sha256": "1029352f50ed895a74d58a34f3d10782a56be26a54adb32d9f5818c4ee5ae9f6",
+    "requested_url": "https://www.104.com.tw/api/jobs/8u8dq"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "company": {
+    "id": "wcvhu08",
+    "name": "倍力資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "顧問",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "APM應用程式監控軟體維護、客製與顧問服務提供"
+        },
+        {
+          "children": [],
+          "text": "資料庫監控軟體維護、客製與顧問服務提供"
+        },
+        {
+          "children": [],
+          "text": "Middleware維護與顧問服務提供"
+        },
+        {
+          "children": [],
+          "text": "其他因公司業務需求而需要服務的軟體"
+        }
+      ],
+      "text": "我們不只是在維護軟體，我們也身兼是企業IT效能的診斷顧問。可以從應用系統進一步深入Oracle、SQL Server等多元資料庫核心，並利用 AppDynamics、Foglight 等頂尖工具，協助客戶在複雜的架構中快速定位效能瓶頸。\n公司積極探索AI驅動的自動化監控。有機會參與MCP (Model Context Protocol) 伺服器開發，將AI助手與監控數據深度整合。\n1. APM應用程式監控軟體維護、客製與顧問服務提供\n2. 資料庫監控軟體維護、客製與顧問服務提供\n3. Middleware維護與顧問服務提供\n4. 其他因公司業務需求而需要服務的軟體"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統工程師/系統顧問"
+  },
+  "location": {
+    "address_raw": "台北市松山區南京東路四段16號12樓",
+    "raw": "台北市松山區南京東路四段16號12樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Oracle",
+          "MySQL",
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "Oracle、MySQL、Java"
+      },
+      {
+        "items": [
+          "資料庫系統管理維護",
+          "資料庫軟體應用",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "資料庫系統管理維護、資料庫軟體應用、資料庫程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 有兩年以上java程式(或.Net程式)撰寫經驗加分。\n2. 有SQL Server(或者Oracle DB)管理或者維護經驗者兩年以上，想轉換工作型態為應用程式監控與資料庫監控軟體顧問者。\n3. 具備同質性應用程式監控與資料庫監控軟體顧問或者維護經驗兩年以上。\n4. 需有自主學習能力，對於新舊技術均不排斥。\n5. 具配工作熱誠，具備一定與客戶溝通互動的能力，口語表達能力佳加分。\n擅長工具：\n1. APM工具(AppDynamics、NewRelic、Dynatrace等等)\n2. 資料庫監控工具(Foglight、Solarwinds、MaxGauge、DBmarlin等)資料庫開發工具(Quest Toad、SQL server management studio等)\n工作技能：\n1. Java EE程式開發(或.Net程式開發)經驗，有此經驗對於之後有產品客製需求的腳本撰寫有幫助，與客戶溝通與需求討論很有幫助。\n2. SQL server或者Oracle DB管理或基本使用經驗，對於公司代理產品的熟悉有加速的效果。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊管理相關"
+    ],
+    "other_text": "1. 有兩年以上java程式(或.Net程式)撰寫經驗加分。\n2. 有SQL Server(或者Oracle DB)管理或者維護經驗者兩年以上，想轉換工作型態為應用程式監控與資料庫監控軟體顧問者。\n3. 具備同質性應用程式監控與資料庫監控軟體顧問或者維護經驗兩年以上。\n4. 需有自主學習能力，對於新舊技術均不排斥。\n5. 具配工作熱誠，具備一定與客戶溝通互動的能力，口語表達能力佳加分。\n擅長工具：\n1. APM工具(AppDynamics、NewRelic、Dynatrace等等)\n2. 資料庫監控工具(Foglight、Solarwinds、MaxGauge、DBmarlin等)資料庫開發工具(Quest Toad、SQL server management studio等)\n工作技能：\n1. Java EE程式開發(或.Net程式開發)經驗，有此經驗對於之後有產品客製需求的腳本撰寫有幫助，與客戶溝通與需求討論很有幫助。\n2. SQL server或者Oracle DB管理或基本使用經驗，對於公司代理產品的熟悉有加速的效果。",
+    "skills": [
+      "資料庫系統管理維護",
+      "資料庫軟體應用",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學\n科系要求：資訊管理相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Oracle、MySQL、Java\n工作技能：資料庫系統管理維護、資料庫軟體應用、資料庫程式設計\n其他條件：1. 有兩年以上java程式(或.Net程式)撰寫經驗加分。\n2. 有SQL Server(或者Oracle DB)管理或者維護經驗者兩年以上，想轉換工作型態為應用程式監控與資料庫監控軟體顧問者。\n3. 具備同質性應用程式監控與資料庫監控軟體顧問或者維護經驗兩年以上。\n4. 需有自主學習能力，對於新舊技術均不排斥。\n5. 具配工作熱誠，具備一定與客戶溝通互動的能力，口語表達能力佳加分。\n擅長工具：\n1. APM工具(AppDynamics、NewRelic、Dynatrace等等)\n2. 資料庫監控工具(Foglight、Solarwinds、MaxGauge、DBmarlin等)資料庫開發工具(Quest Toad、SQL server management studio等)\n工作技能：\n1. Java EE程式開發(或.Net程式開發)經驗，有此經驗對於之後有產品客製需求的腳本撰寫有幫助，與客戶溝通與需求討論很有幫助。\n2. SQL server或者Oracle DB管理或基本使用經驗，對於公司代理產品的熟悉有加速的效果。",
+    "tools": [
+      "Oracle",
+      "MySQL",
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 48
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:20:05+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們不只是在維護軟體，我們也身兼是企業IT效能的診斷顧問。可以從應用系統進一步深入Oracle、SQL Server等多元資料庫核心，並利用 AppDynamics、Foglight 等頂尖工具，協助客戶在複雜的架構中快速定位效能瓶頸。\n公司積極探索AI驅動的自動化監控。有機會參與MCP (Model Context Protocol) 伺服器開發，將AI助手與監控數據深度整合。\n1. APM應用程式監控軟體維護、客製與顧問服務提供\n2. 資料庫監控軟體維護、客製與顧問服務提供\n3. Middleware維護與顧問服務提供\n4. 其他因公司業務需求而需要服務的軟體",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "顧問",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、顧問、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區南京東路四段16號12樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們不只是在維護軟體，我們也身兼是企業IT效能的診斷顧問。可以從應用系統進一步深入Oracle、SQL Server等多元資料庫核心，並利用 AppDynamics、Foglight 等頂尖工具，協助客戶在複雜的架構中快速定位效能瓶頸。\n公司積極探索AI驅動的自動化監控。有機會參與MCP (Model Context Protocol) 伺服器開發，將AI助手與監控數據深度整合。\n1. APM應用程式監控軟體維護、客製與顧問服務提供\n2. 資料庫監控軟體維護、客製與顧問服務提供\n3. Middleware維護與顧問服務提供\n4. 其他因公司業務需求而需要服務的軟體"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Oracle",
+            "MySQL",
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "Oracle、MySQL、Java",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料庫系統管理維護",
+            "資料庫軟體應用",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "資料庫系統管理維護、資料庫軟體應用、資料庫程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 有兩年以上java程式(或.Net程式)撰寫經驗加分。\n2. 有SQL Server(或者Oracle DB)管理或者維護經驗者兩年以上，想轉換工作型態為應用程式監控與資料庫監控軟體顧問者。\n3. 具備同質性應用程式監控與資料庫監控軟體顧問或者維護經驗兩年以上。\n4. 需有自主學習能力，對於新舊技術均不排斥。\n5. 具配工作熱誠，具備一定與客戶溝通互動的能力，口語表達能力佳加分。\n擅長工具：\n1. APM工具(AppDynamics、NewRelic、Dynatrace等等)\n2. 資料庫監控工具(Foglight、Solarwinds、MaxGauge、DBmarlin等)資料庫開發工具(Quest Toad、SQL server management studio等)\n工作技能：\n1. Java EE程式開發(或.Net程式開發)經驗，有此經驗對於之後有產品客製需求的腳本撰寫有幫助，與客戶溝通與需求討論很有幫助。\n2. SQL server或者Oracle DB管理或基本使用經驗，對於公司代理產品的熟悉有加速的效果。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學\n科系要求：資訊管理相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Oracle、MySQL、Java\n工作技能：資料庫系統管理維護、資料庫軟體應用、資料庫程式設計\n其他條件：1. 有兩年以上java程式(或.Net程式)撰寫經驗加分。\n2. 有SQL Server(或者Oracle DB)管理或者維護經驗者兩年以上，想轉換工作型態為應用程式監控與資料庫監控軟體顧問者。\n3. 具備同質性應用程式監控與資料庫監控軟體顧問或者維護經驗兩年以上。\n4. 需有自主學習能力，對於新舊技術均不排斥。\n5. 具配工作熱誠，具備一定與客戶溝通互動的能力，口語表達能力佳加分。\n擅長工具：\n1. APM工具(AppDynamics、NewRelic、Dynatrace等等)\n2. 資料庫監控工具(Foglight、Solarwinds、MaxGauge、DBmarlin等)資料庫開發工具(Quest Toad、SQL server management studio等)\n工作技能：\n1. Java EE程式開發(或.Net程式開發)經驗，有此經驗對於之後有產品客製需求的腳本撰寫有幫助，與客戶溝通與需求討論很有幫助。\n2. SQL server或者Oracle DB管理或基本使用經驗，對於公司代理產品的熟悉有加速的效果。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91678",
+    "job_url": "https://www.104.com.tw/job/91678",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91678.json",
+    "raw_sha256": "5524f7d053ac8204c1a9a686d0bec21241890f95fc5f5ee478e3ec8786753cd1",
+    "requested_url": "https://www.104.com.tw/api/jobs/91678"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "company": {
+    "id": "205wa88",
+    "name": "志伸股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計、開發、維護 AI 辨識整合應用軟體"
+        },
+        {
+          "children": [],
+          "text": "軟體系統設計、開發、測試"
+        },
+        {
+          "children": [],
+          "text": "路口執法設備軟體部屬、維護、問題排除"
+        },
+        {
+          "children": [],
+          "text": "撰寫設計文件"
+        },
+        {
+          "children": [],
+          "text": "具 Python 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料庫架構，有 RDBMS 相關經驗"
+        },
+        {
+          "children": [],
+          "text": "具版本控管經驗(Git)"
+        },
+        {
+          "children": [],
+          "text": "有 OpenCV、YOLO、TensorRT 開發經驗者佳"
+        },
+        {
+          "children": [],
+          "text": "有 C# TCP/UDP、FTP、圖像處理與 RESTful API 開發經驗者佳"
+        },
+        {
+          "children": [],
+          "text": "有 Ubuntu 作業系統操作經驗者佳"
+        },
+        {
+          "children": [],
+          "text": "有軟體專案整合經驗者佳"
+        }
+      ],
+      "text": "工作內容:\n- 設計、開發、維護 AI 辨識整合應用軟體\n- 軟體系統設計、開發、測試\n- 路口執法設備軟體部屬、維護、問題排除\n- 撰寫設計文件\n工作技能:\n- 具 Python 開發經驗\n- 熟悉資料庫架構，有 RDBMS 相關經驗\n- 具版本控管經驗(Git)\n其他:\n- 有 OpenCV、YOLO、TensorRT 開發經驗者佳\n- 有 C# TCP/UDP、FTP、圖像處理與 RESTful API 開發經驗者佳\n- 有 Ubuntu 作業系統操作經驗者佳\n- 有軟體專案整合經驗者佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "後端軟體設計工程師(高雄)"
+  },
+  "location": {
+    "address_raw": "高雄市苓雅區四維三路6號6樓",
+    "raw": "高雄市苓雅區四維三路6號6樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "Python",
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "Python、C#"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "網路程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、網路程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "-影像辨識處理工作有興趣者尤佳"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "-影像辨識處理工作有興趣者尤佳",
+    "skills": [
+      "軟體程式設計",
+      "網路程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Python、C#\n工作技能：軟體程式設計、網路程式設計\n其他條件：-影像辨識處理工作有興趣者尤佳",
+    "tools": [
+      "Python",
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 82
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:43:27+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作內容:\n- 設計、開發、維護 AI 辨識整合應用軟體\n- 軟體系統設計、開發、測試\n- 路口執法設備軟體部屬、維護、問題排除\n- 撰寫設計文件\n工作技能:\n- 具 Python 開發經驗\n- 熟悉資料庫架構，有 RDBMS 相關經驗\n- 具版本控管經驗(Git)\n其他:\n- 有 OpenCV、YOLO、TensorRT 開發經驗者佳\n- 有 C# TCP/UDP、FTP、圖像處理與 RESTful API 開發經驗者佳\n- 有 Ubuntu 作業系統操作經驗者佳\n- 有軟體專案整合經驗者佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市苓雅區四維三路6號6樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作內容:\n- 設計、開發、維護 AI 辨識整合應用軟體\n- 軟體系統設計、開發、測試\n- 路口執法設備軟體部屬、維護、問題排除\n- 撰寫設計文件\n工作技能:\n- 具 Python 開發經驗\n- 熟悉資料庫架構，有 RDBMS 相關經驗\n- 具版本控管經驗(Git)\n其他:\n- 有 OpenCV、YOLO、TensorRT 開發經驗者佳\n- 有 C# TCP/UDP、FTP、圖像處理與 RESTful API 開發經驗者佳\n- 有 Ubuntu 作業系統操作經驗者佳\n- 有軟體專案整合經驗者佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "Python、C#",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "網路程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、網路程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "-影像辨識處理工作有興趣者尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Python、C#\n工作技能：軟體程式設計、網路程式設計\n其他條件：-影像辨識處理工作有興趣者尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "894dt",
+    "job_url": "https://www.104.com.tw/job/894dt",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/894dt.json",
+    "raw_sha256": "cca5bb070579b34ff64a99fda55cfc939edfd34d5d953f735f483870a3b2aeb6",
+    "requested_url": "https://www.104.com.tw/api/jobs/894dt"
+  }
+}

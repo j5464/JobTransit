@@ -1,0 +1,234 @@
+{
+  "company": {
+    "id": "1a2x6bmlnl",
+    "name": "資康科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "系統開發與資料庫結構設計"
+        },
+        {
+          "children": [],
+          "text": "與前端工程師一起合作"
+        },
+        {
+          "children": [],
+          "text": "執行系統測試與除錯"
+        },
+        {
+          "children": [],
+          "text": "發展並維護技術文件"
+        },
+        {
+          "children": [],
+          "text": "研究並導入新的軟體技術"
+        },
+        {
+          "children": [],
+          "text": "熟悉PHP與SQL語法與資料庫正規化"
+        },
+        {
+          "children": [],
+          "text": "熟悉任一語言的物件導向,了解 SOLID 原則與Design Pattern"
+        },
+        {
+          "children": [],
+          "text": "GIT 基本操作"
+        },
+        {
+          "children": [],
+          "text": "具備基礎英文讀寫與英文文件閱讀能力"
+        },
+        {
+          "children": [],
+          "text": "具備良好的團隊合作精神和學習能力，喜歡在技術領域內鑽研"
+        },
+        {
+          "children": [],
+          "text": "了解如何使用套件管理工具(例如composer, npm, yarn)"
+        },
+        {
+          "children": [],
+          "text": "使用過任一主流Framework"
+        },
+        {
+          "children": [],
+          "text": "熟悉HTTP protocol"
+        },
+        {
+          "children": [],
+          "text": "熟悉Linux, Docker與HTTP Server部建"
+        }
+      ],
+      "text": "【產品Team現況】\n主要負責醫療問診平台產品的開發，團隊目前朝向 TDD 的方式開發，並會接觸到一些 Vue.js， NodeJS 以及 Swoole 。\n產品Team在程式流程、架構及資料結構開發時遵循 SOLID 原則，持續重構，增加程式可讀性，使系統架構層次分明。\n開發過程中也會接觸到許多國外的第三方服務，如熟知的 Google, Apple, AWS S3以及 Video(Tokbox)與金流(Stripe)等的API，\n佈署的部分目前以微服務的概念，透過容器化在AWS上運行，並導入CI/CD，自建Docker Registry方便佈署，未來考慮使用K8S。\n【工作內容】\n- 系統開發與資料庫結構設計\n- 與前端工程師一起合作\n- 執行系統測試與除錯\n- 發展並維護技術文件\n- 研究並導入新的軟體技術\n【待遇保障】\n年薪保障至少13個月\n【基本條件】\n- 熟悉PHP與SQL語法與資料庫正規化\n- 熟悉任一語言的物件導向,了解 SOLID 原則與Design Pattern\n- GIT 基本操作\n- 具備基礎英文讀寫與英文文件閱讀能力\n- 具備良好的團隊合作精神和學習能力，喜歡在技術領域內鑽研\n- 了解如何使用套件管理工具(例如composer, npm, yarn)\n【加分條件】\n- 使用過任一主流Framework\n- 熟悉HTTP protocol\n- 熟悉Linux, Docker與HTTP Server部建"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師 / Software Engineer (年薪620,000起~)"
+  },
+  "location": {
+    "address_raw": "台北市中山區林森北路50號5樓之5",
+    "raw": "台北市中山區林森北路50號5樓之5"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Git",
+          "PHP",
+          "JavaScript",
+          "jQuery",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "Git、PHP、JavaScript、jQuery、CSS"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n擅長工具：Git、PHP、JavaScript、jQuery、CSS\n工作技能：軟體程式設計",
+    "tools": [
+      "Git",
+      "PHP",
+      "JavaScript",
+      "jQuery",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 74
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:24:24+08:00"
+  },
+  "salary": {
+    "raw": "月薪48,000~65,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【產品Team現況】\n主要負責醫療問診平台產品的開發，團隊目前朝向 TDD 的方式開發，並會接觸到一些 Vue.js， NodeJS 以及 Swoole 。\n產品Team在程式流程、架構及資料結構開發時遵循 SOLID 原則，持續重構，增加程式可讀性，使系統架構層次分明。\n開發過程中也會接觸到許多國外的第三方服務，如熟知的 Google, Apple, AWS S3以及 Video(Tokbox)與金流(Stripe)等的API，\n佈署的部分目前以微服務的概念，透過容器化在AWS上運行，並導入CI/CD，自建Docker Registry方便佈署，未來考慮使用K8S。\n【工作內容】\n- 系統開發與資料庫結構設計\n- 與前端工程師一起合作\n- 執行系統測試與除錯\n- 發展並維護技術文件\n- 研究並導入新的軟體技術\n【待遇保障】\n年薪保障至少13個月\n【基本條件】\n- 熟悉PHP與SQL語法與資料庫正規化\n- 熟悉任一語言的物件導向,了解 SOLID 原則與Design Pattern\n- GIT 基本操作\n- 具備基礎英文讀寫與英文文件閱讀能力\n- 具備良好的團隊合作精神和學習能力，喜歡在技術領域內鑽研\n- 了解如何使用套件管理工具(例如composer, npm, yarn)\n【加分條件】\n- 使用過任一主流Framework\n- 熟悉HTTP protocol\n- 熟悉Linux, Docker與HTTP Server部建",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪48,000~65,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區林森北路50號5樓之5",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【產品Team現況】\n主要負責醫療問診平台產品的開發，團隊目前朝向 TDD 的方式開發，並會接觸到一些 Vue.js， NodeJS 以及 Swoole 。\n產品Team在程式流程、架構及資料結構開發時遵循 SOLID 原則，持續重構，增加程式可讀性，使系統架構層次分明。\n開發過程中也會接觸到許多國外的第三方服務，如熟知的 Google, Apple, AWS S3以及 Video(Tokbox)與金流(Stripe)等的API，\n佈署的部分目前以微服務的概念，透過容器化在AWS上運行，並導入CI/CD，自建Docker Registry方便佈署，未來考慮使用K8S。\n【工作內容】\n- 系統開發與資料庫結構設計\n- 與前端工程師一起合作\n- 執行系統測試與除錯\n- 發展並維護技術文件\n- 研究並導入新的軟體技術\n【待遇保障】\n年薪保障至少13個月\n【基本條件】\n- 熟悉PHP與SQL語法與資料庫正規化\n- 熟悉任一語言的物件導向,了解 SOLID 原則與Design Pattern\n- GIT 基本操作\n- 具備基礎英文讀寫與英文文件閱讀能力\n- 具備良好的團隊合作精神和學習能力，喜歡在技術領域內鑽研\n- 了解如何使用套件管理工具(例如composer, npm, yarn)\n【加分條件】\n- 使用過任一主流Framework\n- 熟悉HTTP protocol\n- 熟悉Linux, Docker與HTTP Server部建"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "PHP",
+            "JavaScript",
+            "jQuery",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "Git、PHP、JavaScript、jQuery、CSS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n擅長工具：Git、PHP、JavaScript、jQuery、CSS\n工作技能：軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8240y",
+    "job_url": "https://www.104.com.tw/job/8240y",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8240y.json",
+    "raw_sha256": "8d5b7247eb53cb90dc39c61ae755cfc6af23104dcafddc6e5c19d1d7fb8bc720",
+    "requested_url": "https://www.104.com.tw/api/jobs/8240y"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "company": {
+    "id": "1a2x6bl05i",
+    "name": "大碩智能科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "MIS程式設計師",
+      "MES工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "ASP.NET C#程式開發。"
+        },
+        {
+          "children": [],
+          "text": "MSSQL資料庫程式設計。"
+        },
+        {
+          "children": [],
+          "text": "維護web技術相關功能(Java script、JQuery、HTML 5、CSS)。"
+        }
+      ],
+      "text": "1. ASP.NET C#程式開發。\n2. MSSQL資料庫程式設計。\n3. 維護web技術相關功能(Java script、JQuery、HTML 5、CSS)。"
+    },
+    "employment_type_raw": "全職",
+    "title": "C#程式設計師(退伍應屆畢業生，桃園)"
+  },
+  "location": {
+    "address_raw": "桃園市中壢區中園路200-2號11樓(憶聲智匯科技園區)",
+    "raw": "桃園市中壢區中園路200-2號11樓(憶聲智匯科技園區)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "AJAX",
+          "C#",
+          "MS SQL",
+          "HTML",
+          "jQuery",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "AJAX、C#、MS SQL、HTML、jQuery、CSS"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫程式設計",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計、資料庫軟體應用"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟悉 C#程式語言者佳。\n2. 熟悉 資料庫程式SQL語言者佳。\n3. 資訊工程或資訊管理相關之本科系在學生為優。\n4. 居住地鄰近大碩智能(桃園)為佳"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關",
+      "資訊管理相關"
+    ],
+    "other_text": "1. 熟悉 C#程式語言者佳。\n2. 熟悉 資料庫程式SQL語言者佳。\n3. 資訊工程或資訊管理相關之本科系在學生為優。\n4. 居住地鄰近大碩智能(桃園)為佳",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫程式設計",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、資訊管理相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：AJAX、C#、MS SQL、HTML、jQuery、CSS\n工作技能：軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計、資料庫軟體應用\n其他條件：1. 熟悉 C#程式語言者佳。\n2. 熟悉 資料庫程式SQL語言者佳。\n3. 資訊工程或資訊管理相關之本科系在學生為優。\n4. 居住地鄰近大碩智能(桃園)為佳",
+    "tools": [
+      "AJAX",
+      "C#",
+      "MS SQL",
+      "HTML",
+      "jQuery",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 96
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:17:55+08:00"
+  },
+  "salary": {
+    "raw": "月薪33,000~39,999元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. ASP.NET C#程式開發。\n2. MSSQL資料庫程式設計。\n3. 維護web技術相關功能(Java script、JQuery、HTML 5、CSS)。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MIS程式設計師",
+            "MES工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "MIS程式設計師、MES工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪33,000~39,999元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市中壢區中園路200-2號11樓(憶聲智匯科技園區)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. ASP.NET C#程式開發。\n2. MSSQL資料庫程式設計。\n3. 維護web技術相關功能(Java script、JQuery、HTML 5、CSS)。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AJAX",
+            "C#",
+            "MS SQL",
+            "HTML",
+            "jQuery",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "AJAX、C#、MS SQL、HTML、jQuery、CSS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫程式設計",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計、資料庫軟體應用",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟悉 C#程式語言者佳。\n2. 熟悉 資料庫程式SQL語言者佳。\n3. 資訊工程或資訊管理相關之本科系在學生為優。\n4. 居住地鄰近大碩智能(桃園)為佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、資訊管理相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：AJAX、C#、MS SQL、HTML、jQuery、CSS\n工作技能：軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計、資料庫軟體應用\n其他條件：1. 熟悉 C#程式語言者佳。\n2. 熟悉 資料庫程式SQL語言者佳。\n3. 資訊工程或資訊管理相關之本科系在學生為優。\n4. 居住地鄰近大碩智能(桃園)為佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7nku3",
+    "job_url": "https://www.104.com.tw/job/7nku3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7nku3.json",
+    "raw_sha256": "4ea7e3f0ec2413964bab8d7a3440c27580400d91365c88a39de9dd592cddb63f",
+    "requested_url": "https://www.104.com.tw/api/jobs/7nku3"
+  }
+}

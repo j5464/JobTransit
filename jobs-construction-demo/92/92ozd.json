@@ -1,0 +1,252 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "資料庫管理人員",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "資料庫架構設計與優化"
+        },
+        {
+          "children": [],
+          "text": "規劃並設計企業級資料庫架構，確保高可用性（HA）、高擴充性與高效能。"
+        },
+        {
+          "children": [],
+          "text": "負責 Oracle / PostgreSQL / Microsoft SQL Server資料庫之安裝、部署與環境建置。"
+        },
+        {
+          "children": [],
+          "text": "訂定資料庫管理標準與作業規範，包含命名規則、備份政策與資安要求。"
+        },
+        {
+          "children": [],
+          "text": "效能調校與維運"
+        },
+        {
+          "children": [],
+          "text": "監控與分析資料庫效能，進行 SQL 調校、索引優化與 Execution Plan 分析。"
+        },
+        {
+          "children": [],
+          "text": "規劃並執行備份與還原機制（Backup / Restore / Recovery），包含 Commvault 工具操作。"
+        },
+        {
+          "children": [],
+          "text": "維護資料庫高可用性與備援機制，確保系統穩定與服務不中斷。"
+        },
+        {
+          "children": [],
+          "text": "負責資料庫安全管理，包含帳號權限控管、稽核與安全設定。"
+        },
+        {
+          "children": [],
+          "text": "專案支援與跨部門協作"
+        },
+        {
+          "children": [],
+          "text": "參與或支援資料庫相關專案（如系統建置、升級與架構優化、異地備援）。"
+        },
+        {
+          "children": [],
+          "text": "協助應用系統團隊進行資料庫相關問題分析與效能優化建議。"
+        },
+        {
+          "children": [],
+          "text": "與基礎架構及相關團隊合作，確保系統符合 SLA 與營運需求。"
+        },
+        {
+          "children": [],
+          "text": "深入了解並具備實務管理經驗：Oracle、PostgreSQL、Microsoft SQL Server。"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料庫效能調校（SQL tuning、Execution Plan 分析）。"
+        },
+        {
+          "children": [],
+          "text": "具備備份與還原工具使用經驗（如 Commvault）。"
+        },
+        {
+          "children": [],
+          "text": "了解高可用性架構（如 RAC、Replication 等）。"
+        },
+        {
+          "children": [],
+          "text": "曾接觸 SAP Basis 者佳。"
+        }
+      ],
+      "text": "《Responsibilities》\n• 資料庫架構設計與優化\n1.規劃並設計企業級資料庫架構，確保高可用性（HA）、高擴充性與高效能。\n2.負責 Oracle / PostgreSQL / Microsoft SQL Server資料庫之安裝、部署與環境建置。\n3.訂定資料庫管理標準與作業規範，包含命名規則、備份政策與資安要求。\n• 效能調校與維運\n1.監控與分析資料庫效能，進行 SQL 調校、索引優化與 Execution Plan 分析。\n2.規劃並執行備份與還原機制（Backup / Restore / Recovery），包含 Commvault 工具操作。\n3.維護資料庫高可用性與備援機制，確保系統穩定與服務不中斷。\n4.負責資料庫安全管理，包含帳號權限控管、稽核與安全設定。\n• 專案支援與跨部門協作\n1.參與或支援資料庫相關專案（如系統建置、升級與架構優化、異地備援）。\n2.協助應用系統團隊進行資料庫相關問題分析與效能優化建議。\n3.與基礎架構及相關團隊合作，確保系統符合 SLA 與營運需求。\n《Qualification》\n1.深入了解並具備實務管理經驗：Oracle、PostgreSQL、Microsoft SQL Server。\n2.熟悉資料庫效能調校（SQL tuning、Execution Plan 分析）。\n3.具備備份與還原工具使用經驗（如 Commvault）。\n4.了解高可用性架構（如 RAC、Replication 等）。\n5.曾接觸 SAP Basis 者佳。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資料庫管理資深工程師DBA_全球基礎設備發展暨維護_資訊處(內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號",
+    "raw": "台北市內湖區瑞光路186號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具備服務熱忱和責任心，善於溝通以及好的執行力。\n2. 熟悉 Database 運作原理、體系架構與指令操作。\n3. 5 年以上 DBA 相關工作經驗（具備 Oracle 或 MSSQL 認證者佳）\n4. 熟悉 Linux 作業系統操作與 Shell Scripting"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1. 具備服務熱忱和責任心，善於溝通以及好的執行力。\n2. 熟悉 Database 運作原理、體系架構與指令操作。\n3. 5 年以上 DBA 相關工作經驗（具備 Oracle 或 MSSQL 認證者佳）\n4. 熟悉 Linux 作業系統操作與 Shell Scripting",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 具備服務熱忱和責任心，善於溝通以及好的執行力。\n2. 熟悉 Database 運作原理、體系架構與指令操作。\n3. 5 年以上 DBA 相關工作經驗（具備 Oracle 或 MSSQL 認證者佳）\n4. 熟悉 Linux 作業系統操作與 Shell Scripting",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 32
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:41:29+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "《Responsibilities》\n• 資料庫架構設計與優化\n1.規劃並設計企業級資料庫架構，確保高可用性（HA）、高擴充性與高效能。\n2.負責 Oracle / PostgreSQL / Microsoft SQL Server資料庫之安裝、部署與環境建置。\n3.訂定資料庫管理標準與作業規範，包含命名規則、備份政策與資安要求。\n• 效能調校與維運\n1.監控與分析資料庫效能，進行 SQL 調校、索引優化與 Execution Plan 分析。\n2.規劃並執行備份與還原機制（Backup / Restore / Recovery），包含 Commvault 工具操作。\n3.維護資料庫高可用性與備援機制，確保系統穩定與服務不中斷。\n4.負責資料庫安全管理，包含帳號權限控管、稽核與安全設定。\n• 專案支援與跨部門協作\n1.參與或支援資料庫相關專案（如系統建置、升級與架構優化、異地備援）。\n2.協助應用系統團隊進行資料庫相關問題分析與效能優化建議。\n3.與基礎架構及相關團隊合作，確保系統符合 SLA 與營運需求。\n《Qualification》\n1.深入了解並具備實務管理經驗：Oracle、PostgreSQL、Microsoft SQL Server。\n2.熟悉資料庫效能調校（SQL tuning、Execution Plan 分析）。\n3.具備備份與還原工具使用經驗（如 Commvault）。\n4.了解高可用性架構（如 RAC、Replication 等）。\n5.曾接觸 SAP Basis 者佳。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料庫管理人員",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料庫管理人員、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "《Responsibilities》\n• 資料庫架構設計與優化\n1.規劃並設計企業級資料庫架構，確保高可用性（HA）、高擴充性與高效能。\n2.負責 Oracle / PostgreSQL / Microsoft SQL Server資料庫之安裝、部署與環境建置。\n3.訂定資料庫管理標準與作業規範，包含命名規則、備份政策與資安要求。\n• 效能調校與維運\n1.監控與分析資料庫效能，進行 SQL 調校、索引優化與 Execution Plan 分析。\n2.規劃並執行備份與還原機制（Backup / Restore / Recovery），包含 Commvault 工具操作。\n3.維護資料庫高可用性與備援機制，確保系統穩定與服務不中斷。\n4.負責資料庫安全管理，包含帳號權限控管、稽核與安全設定。\n• 專案支援與跨部門協作\n1.參與或支援資料庫相關專案（如系統建置、升級與架構優化、異地備援）。\n2.協助應用系統團隊進行資料庫相關問題分析與效能優化建議。\n3.與基礎架構及相關團隊合作，確保系統符合 SLA 與營運需求。\n《Qualification》\n1.深入了解並具備實務管理經驗：Oracle、PostgreSQL、Microsoft SQL Server。\n2.熟悉資料庫效能調校（SQL tuning、Execution Plan 分析）。\n3.具備備份與還原工具使用經驗（如 Commvault）。\n4.了解高可用性架構（如 RAC、Replication 等）。\n5.曾接觸 SAP Basis 者佳。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具備服務熱忱和責任心，善於溝通以及好的執行力。\n2. 熟悉 Database 運作原理、體系架構與指令操作。\n3. 5 年以上 DBA 相關工作經驗（具備 Oracle 或 MSSQL 認證者佳）\n4. 熟悉 Linux 作業系統操作與 Shell Scripting",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 具備服務熱忱和責任心，善於溝通以及好的執行力。\n2. 熟悉 Database 運作原理、體系架構與指令操作。\n3. 5 年以上 DBA 相關工作經驗（具備 Oracle 或 MSSQL 認證者佳）\n4. 熟悉 Linux 作業系統操作與 Shell Scripting"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92ozd",
+    "job_url": "https://www.104.com.tw/job/92ozd",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92ozd.json",
+    "raw_sha256": "1029f35ed42a5060aacecb956bdf76841b63a0a828b67a4304af559b4670d76c",
+    "requested_url": "https://www.104.com.tw/api/jobs/92ozd"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "company": {
+    "id": "ckkyqvc",
+    "name": "富邦媒體科技股份有限公司(富邦momo)"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責全方位金流系統相關專案，包括分析、設計、開發和維運，依個人能力合理分配專案。"
+        },
+        {
+          "children": [],
+          "text": "開發 API、排程、報表產出。進階工作負責需求分析、架構規劃，以及 DB schema 設計。"
+        },
+        {
+          "children": [],
+          "text": "參與金流支付平台專案，包括 mo幣、Line pay、街口支付、ATM、IBON、悠遊付、信用卡、第三方支付等。"
+        },
+        {
+          "children": [],
+          "text": "後端佔比 70%，熟練使用 Spring Boot；前端佔比 30%，使用 reactJS，具備 hook 經驗佳（熟悉 Angular 或 Vue 等前端框架，想增加reactJS技能）。"
+        },
+        {
+          "children": [],
+          "text": "持續進行程式碼和系統性能優化。"
+        },
+        {
+          "children": [],
+          "text": "使用的技術： Oracle、PostgreSQL、REDIS、MONGODB、Rabbit MQ、Linux、Docker。"
+        },
+        {
+          "children": [],
+          "text": "本職位結合金流整合開發與數據分析，同時注重風險控管。"
+        },
+        {
+          "children": [],
+          "text": "*資深者可再另議薪資**"
+        }
+      ],
+      "text": "1. 負責全方位金流系統相關專案，包括分析、設計、開發和維運，依個人能力合理分配專案。\n2. 開發 API、排程、報表產出。進階工作負責需求分析、架構規劃，以及 DB schema 設計。\n3. 參與金流支付平台專案，包括 mo幣、Line pay、街口支付、ATM、IBON、悠遊付、信用卡、第三方支付等。\n4. 後端佔比 70%，熟練使用 Spring Boot；前端佔比 30%，使用 reactJS，具備 hook 經驗佳（熟悉 Angular 或 Vue 等前端框架，想增加reactJS技能）。\n5. 持續進行程式碼和系統性能優化。\n6. 使用的技術： Oracle、PostgreSQL、REDIS、MONGODB、Rabbit MQ、Linux、Docker。\n7. 本職位結合金流整合開發與數據分析，同時注重風險控管。\n歡迎具備相應技能且充滿熱情的 Java 工程師加入我們的團隊，一同打造卓越的電商金流體驗！\n**資深者可再另議薪資**"
+    },
+    "employment_type_raw": "全職",
+    "title": "D4000 Java軟體開發工程師(金流)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區",
+    "raw": "台北市內湖區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Linux",
+          "OOAD",
+          "Git",
+          "Java",
+          "Spring",
+          "Oracle",
+          "PL/SQL",
+          "PostgreSQL",
+          "Tomcat",
+          "jQuery",
+          "ReactJS"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、OOAD、Git、Java、Spring、Oracle、PL/SQL、PostgreSQL、Tomcat、jQuery、ReactJS"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟SQL語法。\n2. 熟Java開發架構與Spring Boot。\n3. 具專案開發與管理經驗者佳。\n4. 了解網路技術架構及應用，能執行整體解決方案者佳。\n5. 懂資料庫應用相關者佳。\n6. 具訂購、財務系統開發運維經驗者佳。\n* 如經面試錄取後，報到時須繳交「體格檢查表(一般)」，請於報到前自行至醫療機構辦理體檢 *\n2024Career"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 熟SQL語法。\n2. 熟Java開發架構與Spring Boot。\n3. 具專案開發與管理經驗者佳。\n4. 了解網路技術架構及應用，能執行整體解決方案者佳。\n5. 懂資料庫應用相關者佳。\n6. 具訂購、財務系統開發運維經驗者佳。\n* 如經面試錄取後，報到時須繳交「體格檢查表(一般)」，請於報到前自行至醫療機構辦理體檢 *\n2024Career",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：Linux、OOAD、Git、Java、Spring、Oracle、PL/SQL、PostgreSQL、Tomcat、jQuery、ReactJS\n工作技能：軟體程式設計\n其他條件：1. 熟SQL語法。\n2. 熟Java開發架構與Spring Boot。\n3. 具專案開發與管理經驗者佳。\n4. 了解網路技術架構及應用，能執行整體解決方案者佳。\n5. 懂資料庫應用相關者佳。\n6. 具訂購、財務系統開發運維經驗者佳。\n* 如經面試錄取後，報到時須繳交「體格檢查表(一般)」，請於報到前自行至醫療機構辦理體檢 *\n2024Career",
+    "tools": [
+      "Linux",
+      "OOAD",
+      "Git",
+      "Java",
+      "Spring",
+      "Oracle",
+      "PL/SQL",
+      "PostgreSQL",
+      "Tomcat",
+      "jQuery",
+      "ReactJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 89
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:01:49+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責全方位金流系統相關專案，包括分析、設計、開發和維運，依個人能力合理分配專案。\n2. 開發 API、排程、報表產出。進階工作負責需求分析、架構規劃，以及 DB schema 設計。\n3. 參與金流支付平台專案，包括 mo幣、Line pay、街口支付、ATM、IBON、悠遊付、信用卡、第三方支付等。\n4. 後端佔比 70%，熟練使用 Spring Boot；前端佔比 30%，使用 reactJS，具備 hook 經驗佳（熟悉 Angular 或 Vue 等前端框架，想增加reactJS技能）。\n5. 持續進行程式碼和系統性能優化。\n6. 使用的技術： Oracle、PostgreSQL、REDIS、MONGODB、Rabbit MQ、Linux、Docker。\n7. 本職位結合金流整合開發與數據分析，同時注重風險控管。\n歡迎具備相應技能且充滿熱情的 Java 工程師加入我們的團隊，一同打造卓越的電商金流體驗！\n**資深者可再另議薪資**",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責全方位金流系統相關專案，包括分析、設計、開發和維運，依個人能力合理分配專案。\n2. 開發 API、排程、報表產出。進階工作負責需求分析、架構規劃，以及 DB schema 設計。\n3. 參與金流支付平台專案，包括 mo幣、Line pay、街口支付、ATM、IBON、悠遊付、信用卡、第三方支付等。\n4. 後端佔比 70%，熟練使用 Spring Boot；前端佔比 30%，使用 reactJS，具備 hook 經驗佳（熟悉 Angular 或 Vue 等前端框架，想增加reactJS技能）。\n5. 持續進行程式碼和系統性能優化。\n6. 使用的技術： Oracle、PostgreSQL、REDIS、MONGODB、Rabbit MQ、Linux、Docker。\n7. 本職位結合金流整合開發與數據分析，同時注重風險控管。\n歡迎具備相應技能且充滿熱情的 Java 工程師加入我們的團隊，一同打造卓越的電商金流體驗！\n**資深者可再另議薪資**"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "OOAD",
+            "Git",
+            "Java",
+            "Spring",
+            "Oracle",
+            "PL/SQL",
+            "PostgreSQL",
+            "Tomcat",
+            "jQuery",
+            "ReactJS"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、OOAD、Git、Java、Spring、Oracle、PL/SQL、PostgreSQL、Tomcat、jQuery、ReactJS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟SQL語法。\n2. 熟Java開發架構與Spring Boot。\n3. 具專案開發與管理經驗者佳。\n4. 了解網路技術架構及應用，能執行整體解決方案者佳。\n5. 懂資料庫應用相關者佳。\n6. 具訂購、財務系統開發運維經驗者佳。\n* 如經面試錄取後，報到時須繳交「體格檢查表(一般)」，請於報到前自行至醫療機構辦理體檢 *\n2024Career",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：Linux、OOAD、Git、Java、Spring、Oracle、PL/SQL、PostgreSQL、Tomcat、jQuery、ReactJS\n工作技能：軟體程式設計\n其他條件：1. 熟SQL語法。\n2. 熟Java開發架構與Spring Boot。\n3. 具專案開發與管理經驗者佳。\n4. 了解網路技術架構及應用，能執行整體解決方案者佳。\n5. 懂資料庫應用相關者佳。\n6. 具訂購、財務系統開發運維經驗者佳。\n* 如經面試錄取後，報到時須繳交「體格檢查表(一般)」，請於報到前自行至醫療機構辦理體檢 *\n2024Career"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7cewn",
+    "job_url": "https://www.104.com.tw/job/7cewn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7cewn.json",
+    "raw_sha256": "4318e70715660b16a8f580da30189f4d91b330aeced7e495bdbdaf8f5c70a305",
+    "requested_url": "https://www.104.com.tw/api/jobs/7cewn"
+  }
+}

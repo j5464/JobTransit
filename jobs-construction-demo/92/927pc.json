@@ -1,0 +1,218 @@
+{
+  "company": {
+    "id": "nsyv2d4",
+    "name": "台中精機廠股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "IoT 物聯網技術開發"
+        },
+        {
+          "children": [],
+          "text": "UI人機介面設計"
+        },
+        {
+          "children": [],
+          "text": "工具機產線APP開發（工具機智動化技術開發及應用）"
+        },
+        {
+          "children": [],
+          "text": "CNC技術與ICT技術整合"
+        },
+        {
+          "children": [],
+          "text": "熟悉 .NET C# 開發，具 Windows Form GUI 或 WPF 應用程式開發"
+        },
+        {
+          "children": [],
+          "text": "了解物件導向（封裝、繼承、多型…）"
+        },
+        {
+          "children": [],
+          "text": "具 Multi-Thread 開發經驗（Thread、Task、Lock 等）"
+        },
+        {
+          "children": [],
+          "text": "熟悉 XML、INI、JSON 等資料交換格式"
+        },
+        {
+          "children": [],
+          "text": "曾參資訊專案或需求功能開發，包含系統設計、程式開發等"
+        },
+        {
+          "children": [],
+          "text": "具後端 API 開發或系統整合經驗"
+        },
+        {
+          "children": [],
+          "text": "技術研究、專案概念性驗證"
+        },
+        {
+          "children": [],
+          "text": "具 MSSQL 資料庫設計、SQL 語法撰寫及效能優化經驗"
+        }
+      ],
+      "text": "工作內容：工具機智慧機械軟體開發\n1. IoT 物聯網技術開發\n2. UI人機介面設計\n3. 工具機產線APP開發（工具機智動化技術開發及應用）\n4. CNC技術與ICT技術整合\n工作條件：\n1. 熟悉 .NET C# 開發，具 Windows Form GUI 或 WPF 應用程式開發\n加分條件：\n1. 了解物件導向（封裝、繼承、多型…）\n2. 具 Multi-Thread 開發經驗（Thread、Task、Lock 等）\n3. 熟悉 XML、INI、JSON 等資料交換格式\n4. 曾參資訊專案或需求功能開發，包含系統設計、程式開發等\n5. 具後端 API 開發或系統整合經驗\n6. 技術研究、專案概念性驗證\n7. 具 MSSQL 資料庫設計、SQL 語法撰寫及效能優化經驗\n※請檢附成績單及專題資料"
+    },
+    "employment_type_raw": "全職",
+    "title": "智慧機械軟體開發人員﹝營運總部﹞"
+  },
+  "location": {
+    "address_raw": "台中市南屯區精科中二路1號",
+    "raw": "台中市南屯區精科中二路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "Excel",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、PowerPoint、Word"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關\n擅長工具：Excel、PowerPoint、Word",
+    "tools": [
+      "Excel",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 38
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:56:18+08:00"
+  },
+  "salary": {
+    "raw": "月薪38,000~45,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作內容：工具機智慧機械軟體開發\n1. IoT 物聯網技術開發\n2. UI人機介面設計\n3. 工具機產線APP開發（工具機智動化技術開發及應用）\n4. CNC技術與ICT技術整合\n工作條件：\n1. 熟悉 .NET C# 開發，具 Windows Form GUI 或 WPF 應用程式開發\n加分條件：\n1. 了解物件導向（封裝、繼承、多型…）\n2. 具 Multi-Thread 開發經驗（Thread、Task、Lock 等）\n3. 熟悉 XML、INI、JSON 等資料交換格式\n4. 曾參資訊專案或需求功能開發，包含系統設計、程式開發等\n5. 具後端 API 開發或系統整合經驗\n6. 技術研究、專案概念性驗證\n7. 具 MSSQL 資料庫設計、SQL 語法撰寫及效能優化經驗\n※請檢附成績單及專題資料",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪38,000~45,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市南屯區精科中二路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作內容：工具機智慧機械軟體開發\n1. IoT 物聯網技術開發\n2. UI人機介面設計\n3. 工具機產線APP開發（工具機智動化技術開發及應用）\n4. CNC技術與ICT技術整合\n工作條件：\n1. 熟悉 .NET C# 開發，具 Windows Form GUI 或 WPF 應用程式開發\n加分條件：\n1. 了解物件導向（封裝、繼承、多型…）\n2. 具 Multi-Thread 開發經驗（Thread、Task、Lock 等）\n3. 熟悉 XML、INI、JSON 等資料交換格式\n4. 曾參資訊專案或需求功能開發，包含系統設計、程式開發等\n5. 具後端 API 開發或系統整合經驗\n6. 技術研究、專案概念性驗證\n7. 具 MSSQL 資料庫設計、SQL 語法撰寫及效能優化經驗\n※請檢附成績單及專題資料"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、PowerPoint、Word",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關\n擅長工具：Excel、PowerPoint、Word"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "927pc",
+    "job_url": "https://www.104.com.tw/job/927pc",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/927pc.json",
+    "raw_sha256": "09fa6bfe24b6eb4fbd7fa4def673aa27ff3b83d2c9bca9204108e0918d65d858",
+    "requested_url": "https://www.104.com.tw/api/jobs/927pc"
+  }
+}

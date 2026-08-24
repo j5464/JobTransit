@@ -1,0 +1,227 @@
+{
+  "company": {
+    "id": "fagha6g",
+    "name": "華城電機股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "MIS程式設計師",
+      "軟體工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "ERP系統導入及維運、測試、文件編寫"
+        },
+        {
+          "children": [],
+          "text": "公司內資訊系統日常運作維護、需求溝通、異常處理"
+        },
+        {
+          "children": [],
+          "text": "系統程式開發"
+        },
+        {
+          "children": [],
+          "text": "主管交辦、部門內行政業務、公司各項活動"
+        }
+      ],
+      "text": "1.ERP系統導入及維運、測試、文件編寫\n2.公司內資訊系統日常運作維護、需求溝通、異常處理\n3.系統程式開發\n4.主管交辦、部門內行政業務、公司各項活動"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊人員(軟體工程師)"
+  },
+  "location": {
+    "address_raw": "桃園市中壢區吉林路10號",
+    "raw": "桃園市中壢區吉林路10號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "MS SQL",
+          "Oracle",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、MS SQL、Oracle、JavaScript"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.有開發建置、系統整合(ERP, BPM, MES)或FineReport經驗尤佳\n2.主動積極、認真負責，與團隊有良好的溝通及合作精神"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "1.有開發建置、系統整合(ERP, BPM, MES)或FineReport經驗尤佳\n2.主動積極、認真負責，與團隊有良好的溝通及合作精神",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：ASP.NET、C#、MS SQL、Oracle、JavaScript\n其他條件：1.有開發建置、系統整合(ERP, BPM, MES)或FineReport經驗尤佳\n2.主動積極、認真負責，與團隊有良好的溝通及合作精神",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "MS SQL",
+      "Oracle",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 89
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:00:58+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.ERP系統導入及維運、測試、文件編寫\n2.公司內資訊系統日常運作維護、需求溝通、異常處理\n3.系統程式開發\n4.主管交辦、部門內行政業務、公司各項活動",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MIS程式設計師",
+            "軟體工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "MIS程式設計師、軟體工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市中壢區吉林路10號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.ERP系統導入及維運、測試、文件編寫\n2.公司內資訊系統日常運作維護、需求溝通、異常處理\n3.系統程式開發\n4.主管交辦、部門內行政業務、公司各項活動"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "MS SQL",
+            "Oracle",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、MS SQL、Oracle、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.有開發建置、系統整合(ERP, BPM, MES)或FineReport經驗尤佳\n2.主動積極、認真負責，與團隊有良好的溝通及合作精神",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：ASP.NET、C#、MS SQL、Oracle、JavaScript\n其他條件：1.有開發建置、系統整合(ERP, BPM, MES)或FineReport經驗尤佳\n2.主動積極、認真負責，與團隊有良好的溝通及合作精神"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7i27h",
+    "job_url": "https://www.104.com.tw/job/7i27h",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7i27h.json",
+    "raw_sha256": "b2c79231ed6460252ca5dd88a19e82489ee6767f2fa8070ffea0ee5dec6bc5b4",
+    "requested_url": "https://www.104.com.tw/api/jobs/7i27h"
+  }
+}

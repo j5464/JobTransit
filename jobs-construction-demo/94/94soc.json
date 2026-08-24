@@ -1,0 +1,258 @@
+{
+  "company": {
+    "id": "1a2x6bnsr5",
+    "name": "星堡有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "後端工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉 Claude / Codex 等任一 AI 工具輔助開發工具，且具備實際使用經驗"
+        },
+        {
+          "children": [],
+          "text": "Vibe Coding：能用自然語言驅動 AI 完成開發任務"
+        },
+        {
+          "children": [],
+          "text": "Context 管理：懂得組織上下文資訊，讓 AI 在複雜任務中維持高品質產出"
+        },
+        {
+          "children": [],
+          "text": "Prompt Engineering：能撰寫結構化 Prompt，有效驅動 AI 產出高可用程式碼"
+        },
+        {
+          "children": [],
+          "text": "AI Workflow 設計：能規劃「人 + AI」協作流程 ( HITL：Human-in-the-loop )"
+        },
+        {
+          "children": [],
+          "text": "MCP 串接概念：了解 Model Context Protocol，能將 AI 連接外部工具與資料集"
+        },
+        {
+          "children": [],
+          "text": "AI Code Review：用 AI 審查程式碼品質、安全性與效能"
+        },
+        {
+          "children": [],
+          "text": "AI Testing：用 AI 自動生成單元測試與整合測試"
+        },
+        {
+          "children": [],
+          "text": "Multi-Agent 協作：理解多 Agent 架構，能設計 Agent 分工與串接流程"
+        },
+        {
+          "children": [],
+          "text": "AI Debug：用 AI 快速定位問題根因，縮短排查時間"
+        },
+        {
+          "children": [],
+          "text": "交易與鎖：跨表寫入 rollback、併發扣額度不超賣 ← 最關鍵"
+        },
+        {
+          "children": [],
+          "text": "NestJS：模組、DI、Controller/Service 分層"
+        },
+        {
+          "children": [],
+          "text": "Fastify：非 Express，中介層與 body 限制寫法不同"
+        },
+        {
+          "children": [],
+          "text": "TypeORM：Entity、關聯、Migration、Active Record"
+        },
+        {
+          "children": [],
+          "text": "Mysql / PostgreSQL：關聯設計、索引、DECIMAL 精度"
+        },
+        {
+          "children": [],
+          "text": "JWT + 角色權限：Guard、資料範圍過濾（只看自己的）"
+        },
+        {
+          "children": [],
+          "text": "DTO 驗證：class-validator、統一回應格式、統一錯誤處理"
+        },
+        {
+          "children": [],
+          "text": "Redis：快取、登入態"
+        },
+        {
+          "children": [],
+          "text": "狀態機：狀態流轉檢核、歷程紀錄"
+        },
+        {
+          "children": [],
+          "text": "具備網頁遊戲開發經驗尤佳！"
+        },
+        {
+          "children": [],
+          "text": "-----"
+        },
+        {
+          "children": [],
+          "text": "月薪 60,000 元起（依經驗與專業能力面議）"
+        },
+        {
+          "children": [],
+          "text": "三節獎金"
+        },
+        {
+          "children": [],
+          "text": "定期聚餐"
+        },
+        {
+          "children": [],
+          "text": "年度健康檢查"
+        },
+        {
+          "children": [],
+          "text": "零食、飲料、咖啡無限供應"
+        }
+      ],
+      "text": "資深後端工程師\n【 AI 能力 】\n1. 熟悉 Claude / Codex 等任一 AI 工具輔助開發工具，且具備實際使用經驗\n2. Vibe Coding：能用自然語言驅動 AI 完成開發任務\n3. Context 管理：懂得組織上下文資訊，讓 AI 在複雜任務中維持高品質產出\n4. Prompt Engineering：能撰寫結構化 Prompt，有效驅動 AI 產出高可用程式碼\n5. AI Workflow 設計：能規劃「人 + AI」協作流程 ( HITL：Human-in-the-loop )\n6. MCP 串接概念：了解 Model Context Protocol，能將 AI 連接外部工具與資料集\n7. AI Code Review：用 AI 審查程式碼品質、安全性與效能\n8. AI Testing：用 AI 自動生成單元測試與整合測試\n9. Multi-Agent 協作：理解多 Agent 架構，能設計 Agent 分工與串接流程\n10. AI Debug：用 AI 快速定位問題根因，縮短排查時間\n【 後端能力 】\n1. 交易與鎖：跨表寫入 rollback、併發扣額度不超賣 ← 最關鍵\n2. NestJS：模組、DI、Controller/Service 分層\n3. Fastify：非 Express，中介層與 body 限制寫法不同\n4. TypeORM：Entity、關聯、Migration、Active Record\n5. Mysql / PostgreSQL：關聯設計、索引、DECIMAL 精度\n6. JWT + 角色權限：Guard、資料範圍過濾（只看自己的）\n7. DTO 驗證：class-validator、統一回應格式、統一錯誤處理\n8. Redis：快取、登入態\n9. 狀態機：狀態流轉檢核、歷程紀錄\n【 更多能力 / 加分項 】\n1. 具備網頁遊戲開發經驗尤佳！\n------\n【 薪資待遇 】\n- 月薪 60,000 元起（依經驗與專業能力面議）\n我們重視實際技術能力與 AI 開發經驗，薪資將依專業背景、專案經驗與技術深度進行評估。\n【 公司福利 】\n- 三節獎金\n端午節、中秋節、年終獎金，與團隊一起分享努力成果。\n- 定期聚餐\n不定期舉辦聚餐，促進團隊交流，讓工作不只是埋頭寫程式。\n- 年度健康檢查\n提供每年健康檢查，重視夥伴的身心健康。\n- 零食、飲料、咖啡無限供應\n辦公室常備零食、飲料與咖啡，隨時補充能量，讓靈感不中斷。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資深後端工程師"
+  },
+  "location": {
+    "address_raw": "台中市西屯區大鵬里文心路三段301號1樓",
+    "raw": "台中市西屯區大鵬里文心路三段301號1樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n工作技能：軟體程式設計、軟體工程系統開發",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 10
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:46:37+08:00"
+  },
+  "salary": {
+    "raw": "月薪60,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "資深後端工程師\n【 AI 能力 】\n1. 熟悉 Claude / Codex 等任一 AI 工具輔助開發工具，且具備實際使用經驗\n2. Vibe Coding：能用自然語言驅動 AI 完成開發任務\n3. Context 管理：懂得組織上下文資訊，讓 AI 在複雜任務中維持高品質產出\n4. Prompt Engineering：能撰寫結構化 Prompt，有效驅動 AI 產出高可用程式碼\n5. AI Workflow 設計：能規劃「人 + AI」協作流程 ( HITL：Human-in-the-loop )\n6. MCP 串接概念：了解 Model Context Protocol，能將 AI 連接外部工具與資料集\n7. AI Code Review：用 AI 審查程式碼品質、安全性與效能\n8. AI Testing：用 AI 自動生成單元測試與整合測試\n9. Multi-Agent 協作：理解多 Agent 架構，能設計 Agent 分工與串接流程\n10. AI Debug：用 AI 快速定位問題根因，縮短排查時間\n【 後端能力 】\n1. 交易與鎖：跨表寫入 rollback、併發扣額度不超賣 ← 最關鍵\n2. NestJS：模組、DI、Controller/Service 分層\n3. Fastify：非 Express，中介層與 body 限制寫法不同\n4. TypeORM：Entity、關聯、Migration、Active Record\n5. Mysql / PostgreSQL：關聯設計、索引、DECIMAL 精度\n6. JWT + 角色權限：Guard、資料範圍過濾（只看自己的）\n7. DTO 驗證：class-validator、統一回應格式、統一錯誤處理\n8. Redis：快取、登入態\n9. 狀態機：狀態流轉檢核、歷程紀錄\n【 更多能力 / 加分項 】\n1. 具備網頁遊戲開發經驗尤佳！\n------\n【 薪資待遇 】\n- 月薪 60,000 元起（依經驗與專業能力面議）\n我們重視實際技術能力與 AI 開發經驗，薪資將依專業背景、專案經驗與技術深度進行評估。\n【 公司福利 】\n- 三節獎金\n端午節、中秋節、年終獎金，與團隊一起分享努力成果。\n- 定期聚餐\n不定期舉辦聚餐，促進團隊交流，讓工作不只是埋頭寫程式。\n- 年度健康檢查\n提供每年健康檢查，重視夥伴的身心健康。\n- 零食、飲料、咖啡無限供應\n辦公室常備零食、飲料與咖啡，隨時補充能量，讓靈感不中斷。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "後端工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、後端工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪60,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區大鵬里文心路三段301號1樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "資深後端工程師\n【 AI 能力 】\n1. 熟悉 Claude / Codex 等任一 AI 工具輔助開發工具，且具備實際使用經驗\n2. Vibe Coding：能用自然語言驅動 AI 完成開發任務\n3. Context 管理：懂得組織上下文資訊，讓 AI 在複雜任務中維持高品質產出\n4. Prompt Engineering：能撰寫結構化 Prompt，有效驅動 AI 產出高可用程式碼\n5. AI Workflow 設計：能規劃「人 + AI」協作流程 ( HITL：Human-in-the-loop )\n6. MCP 串接概念：了解 Model Context Protocol，能將 AI 連接外部工具與資料集\n7. AI Code Review：用 AI 審查程式碼品質、安全性與效能\n8. AI Testing：用 AI 自動生成單元測試與整合測試\n9. Multi-Agent 協作：理解多 Agent 架構，能設計 Agent 分工與串接流程\n10. AI Debug：用 AI 快速定位問題根因，縮短排查時間\n【 後端能力 】\n1. 交易與鎖：跨表寫入 rollback、併發扣額度不超賣 ← 最關鍵\n2. NestJS：模組、DI、Controller/Service 分層\n3. Fastify：非 Express，中介層與 body 限制寫法不同\n4. TypeORM：Entity、關聯、Migration、Active Record\n5. Mysql / PostgreSQL：關聯設計、索引、DECIMAL 精度\n6. JWT + 角色權限：Guard、資料範圍過濾（只看自己的）\n7. DTO 驗證：class-validator、統一回應格式、統一錯誤處理\n8. Redis：快取、登入態\n9. 狀態機：狀態流轉檢核、歷程紀錄\n【 更多能力 / 加分項 】\n1. 具備網頁遊戲開發經驗尤佳！\n------\n【 薪資待遇 】\n- 月薪 60,000 元起（依經驗與專業能力面議）\n我們重視實際技術能力與 AI 開發經驗，薪資將依專業背景、專案經驗與技術深度進行評估。\n【 公司福利 】\n- 三節獎金\n端午節、中秋節、年終獎金，與團隊一起分享努力成果。\n- 定期聚餐\n不定期舉辦聚餐，促進團隊交流，讓工作不只是埋頭寫程式。\n- 年度健康檢查\n提供每年健康檢查，重視夥伴的身心健康。\n- 零食、飲料、咖啡無限供應\n辦公室常備零食、飲料與咖啡，隨時補充能量，讓靈感不中斷。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n工作技能：軟體程式設計、軟體工程系統開發"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94soc",
+    "job_url": "https://www.104.com.tw/job/94soc",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94soc.json",
+    "raw_sha256": "272ba7784dea123b05ad26b6847bd370502f908a74704c6b2b90c072685a1c37",
+    "requested_url": "https://www.104.com.tw/api/jobs/94soc"
+  }
+}

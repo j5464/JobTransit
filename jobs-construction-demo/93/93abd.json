@@ -1,0 +1,161 @@
+{
+  "company": {
+    "id": "1hrmizk",
+    "name": "和泰汽車股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "其他專案管理師",
+      "行銷企劃",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "有意願至和泰汽車任職，還未確定適合職缺者"
+        },
+        {
+          "children": [],
+          "text": "履歷投遞後，將建檔於和泰汽車人才資料庫中，有適合的職缺時，我們會主動聯繫您參加甄試"
+        },
+        {
+          "children": [],
+          "text": "最高學歷畢業時間介於2025年1月1日至2026年7月31日者"
+        },
+        {
+          "children": [],
+          "text": "學經歷、背景、科系不限"
+        }
+      ],
+      "text": "【新鮮人招募專區說明】\n1. 有意願至和泰汽車任職，還未確定適合職缺者\n2. 履歷投遞後，將建檔於和泰汽車人才資料庫中，有適合的職缺時，我們會主動聯繫您參加甄試\n【投遞資格】\n1. 最高學歷畢業時間介於2025年1月1日至2026年7月31日者\n2. 學經歷、背景、科系不限"
+    },
+    "employment_type_raw": "全職",
+    "title": "和泰汽車2026新鮮人招募專區"
+  },
+  "location": {
+    "address_raw": "台北市中山區",
+    "raw": "台北市中山區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "多益TOEIC成績650分以上或具同等英語能力者佳"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "多益TOEIC成績650分以上或具同等英語能力者佳",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n其他條件：多益TOEIC成績650分以上或具同等英語能力者佳",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:05:35+08:00"
+  },
+  "salary": {
+    "raw": "月薪44,000~76,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【新鮮人招募專區說明】\n1. 有意願至和泰汽車任職，還未確定適合職缺者\n2. 履歷投遞後，將建檔於和泰汽車人才資料庫中，有適合的職缺時，我們會主動聯繫您參加甄試\n【投遞資格】\n1. 最高學歷畢業時間介於2025年1月1日至2026年7月31日者\n2. 學經歷、背景、科系不限",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "其他專案管理師",
+            "行銷企劃",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "其他專案管理師、行銷企劃、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪44,000~76,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【新鮮人招募專區說明】\n1. 有意願至和泰汽車任職，還未確定適合職缺者\n2. 履歷投遞後，將建檔於和泰汽車人才資料庫中，有適合的職缺時，我們會主動聯繫您參加甄試\n【投遞資格】\n1. 最高學歷畢業時間介於2025年1月1日至2026年7月31日者\n2. 學經歷、背景、科系不限"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "多益TOEIC成績650分以上或具同等英語能力者佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n其他條件：多益TOEIC成績650分以上或具同等英語能力者佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "93abd",
+    "job_url": "https://www.104.com.tw/job/93abd",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93abd.json",
+    "raw_sha256": "4cd4d3bbc025ba49b9fbc532268c9cbe5a6a9e708c1261bd80add62461f776d4",
+    "requested_url": "https://www.104.com.tw/api/jobs/93abd"
+  }
+}

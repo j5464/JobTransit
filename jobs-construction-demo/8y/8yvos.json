@@ -1,0 +1,267 @@
+{
+  "company": {
+    "id": "1a2x6bkdyp",
+    "name": "邦鉑科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "全端工程師",
+      "DevOps 工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計與規劃 Senzfor 平台與 Sage 系統的底層架構"
+        },
+        {
+          "children": [],
+          "text": "引導 Sage 平台的深度客製化與系統整合架構"
+        },
+        {
+          "children": [],
+          "text": "持續改善平台架構與開發體驗"
+        },
+        {
+          "children": [],
+          "text": "技術研究與知識分享"
+        },
+        {
+          "children": [],
+          "text": "3+ 年軟體開發經驗，具備獨立負責大型分散式系統的設計與交付能力"
+        },
+        {
+          "children": [],
+          "text": "熟悉以下技術："
+        },
+        {
+          "children": [],
+          "text": "曾負責過 Omnichannel 客服系統或大型 CRM 平台底層架構"
+        },
+        {
+          "children": [],
+          "text": "理解 MCP (Model Context Protocol) 架構與運作原理"
+        },
+        {
+          "children": [],
+          "text": "了解 LLM 應用架構 (如 LangChain, LlamaIndex 等 Agentic Framework)"
+        },
+        {
+          "children": [],
+          "text": "具備 SaaS 多租戶架構 (Multi-tenant) 開發與維護經驗"
+        },
+        {
+          "children": [],
+          "text": "具備 Infrastructure-as-Code (Terraform, Pulumi) 專案經驗"
+        }
+      ],
+      "text": "【關於Bombus AI事業發展部】\n我們正在擴建 AI 事業發展部！我們的核心產品線包含兩大版圖：自主研發的 Agentic AI 平台 『Sage』，以及由其深度賦能的企業級應用 『Senzfor』。\n我們致力於將複雜的 Agent 協作架構封裝成流暢的 SaaS 體驗，讓 AI 技術真正落地於企業客戶的日常營運中。\n為了達成這個目標，我們需要 AI System Architect 加入我們，負責 Senzfor 與 Sage 雙引擎的架構設計、異質系統整合與底層技術規劃。你將專注於打造高可用、可擴展的 AI 基礎設施，為企業客戶提供強大的技術支撐。\n【你將在團隊參與...】\n我們正在尋找一位能將商業需求轉化為穩健技術架構的系統架構師。\n1. 設計與規劃 Senzfor 平台與 Sage 系統的底層架構\n設計具備高可用性 (HA) 與容錯機制的 SaaS 架構\n規劃多租戶 (Multi-tenant) 系統以支援多領域客戶\n確保系統能承受高流量併發，解決跨渠道訊息傳遞的一致性問題\n2. 引導 Sage 平台的深度客製化與系統整合架構\n規劃 Sage 與企業異質系統（如醫療 HIS 系統、ERP、WMS） API Gateway 與整合架構\n參與技術方案討論，根據時程、成本、技術可行性提出建議\n將企業客戶的落地需求轉化為清晰的技術架構與實作\n3. 持續改善平台架構與開發體驗\n全面瞭解整體系統架構，識別並優化效能瓶頸\n建立可復用的技術元件與最佳實踐\n改善 CI/CD、監控、部署流程\n4. 技術研究與知識分享\n持續學習 Agent 相關知識與架構設計（如 MCP、AI Workflow）\n在團隊內部進行技術分享與文件撰寫\n【我們期待看到一個優秀的 AI System Architect 具備以下能力】\n1. 3+ 年軟體開發經驗，具備獨立負責大型分散式系統的設計與交付能力\n2. 熟悉以下技術：\n精通至少一種主流後端語言 (如 Node.js / TypeScript, Python, Go 等)\n分散式系統與高併發架構設計\nMessage Queue (如 Kafka, RabbitMQ) 與即時通訊 (WebSockets) 架構\nREST / gRPC API 設計與微服務架構\n關聯式與非關聯式資料庫 (PostgreSQL / MySQL / Redis)\nCloud-Native & Container (Kubernetes, Docker, AWS/GCP 雲端架構)\n理解 Networking 基礎 (DNS, TCP/IP, Load Balancing)\n【如果你擁有以下能力，那就更棒了！】\n1. 曾負責過 Omnichannel 客服系統或大型 CRM 平台底層架構\n2. 理解 MCP (Model Context Protocol) 架構與運作原理\n3. 了解 LLM 應用架構 (如 LangChain, LlamaIndex 等 Agentic Framework)\n4. 具備 SaaS 多租戶架構 (Multi-tenant) 開發與維護經驗\n5. 具備 Infrastructure-as-Code (Terraform, Pulumi) 專案經驗\n【文化契合度 Culture Fit】\n對 AI 產品充滿熱情，渴望從「玩模型」進化到「做產品」\n在快速演進的 AI 領域，擁抱實驗與持續學習\n每個人都參與開發與測試——品質是建構出來的，而不僅僅是測試出來的\n具備主動溝通能力，能在跨部門環境中高效協作\n認同邦鉑「無界文化」——在傳統框架中突破，強調自由與責任、個人與團隊協作的無邊界可能性"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI系統架構師 AI System Architect（AI事業發展部）"
+  },
+  "location": {
+    "address_raw": "台北市內湖區新明路159號6樓",
+    "raw": "台北市內湖區新明路159號6樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "AWS",
+          "Jenkins",
+          "Node.js",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "AWS、Jenkins、Node.js、JavaScript"
+      },
+      {
+        "items": [
+          "AI",
+          "模組化系統設計",
+          "系統架構規劃",
+          "結構化程式設計",
+          "資料庫程式設計",
+          "軟體品質與保證",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "AI、模組化系統設計、系統架構規劃、結構化程式設計、資料庫程式設計、軟體品質與保證、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【我們期待看到一個優秀的 AI System Architect 具備以下能力】\n1. 3+ 年軟體開發經驗，具備獨立負責大型分散式系統的設計與交付能力\n2. 熟悉以下技術：\n精通至少一種主流後端語言 (如 Node.js / TypeScript, Python, Go 等)\n分散式系統與高併發架構設計\nMessage Queue (如 Kafka, RabbitMQ) 與即時通訊 (WebSockets) 架構\nREST / gRPC API 設計與微服務架構\n關聯式與非關聯式資料庫 (PostgreSQL / MySQL / Redis)\nCloud-Native & Container (Kubernetes, Docker, AWS/GCP 雲端架構)\n理解 Networking 基礎 (DNS, TCP/IP, Load Balancing)\n【如果你擁有以下能力，那就更棒了！】\n1. 曾負責過 Omnichannel 客服系統或大型 CRM 平台底層架構\n2. 理解 MCP (Model Context Protocol) 架構與運作原理\n3. 了解 LLM 應用架構 (如 LangChain, LlamaIndex 等 Agentic Framework)\n4. 具備 SaaS 多租戶架構 (Multi-tenant) 開發與維護經驗\n5. 具備 Infrastructure-as-Code (Terraform, Pulumi) 專案經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "【我們期待看到一個優秀的 AI System Architect 具備以下能力】\n1. 3+ 年軟體開發經驗，具備獨立負責大型分散式系統的設計與交付能力\n2. 熟悉以下技術：\n精通至少一種主流後端語言 (如 Node.js / TypeScript, Python, Go 等)\n分散式系統與高併發架構設計\nMessage Queue (如 Kafka, RabbitMQ) 與即時通訊 (WebSockets) 架構\nREST / gRPC API 設計與微服務架構\n關聯式與非關聯式資料庫 (PostgreSQL / MySQL / Redis)\nCloud-Native & Container (Kubernetes, Docker, AWS/GCP 雲端架構)\n理解 Networking 基礎 (DNS, TCP/IP, Load Balancing)\n【如果你擁有以下能力，那就更棒了！】\n1. 曾負責過 Omnichannel 客服系統或大型 CRM 平台底層架構\n2. 理解 MCP (Model Context Protocol) 架構與運作原理\n3. 了解 LLM 應用架構 (如 LangChain, LlamaIndex 等 Agentic Framework)\n4. 具備 SaaS 多租戶架構 (Multi-tenant) 開發與維護經驗\n5. 具備 Infrastructure-as-Code (Terraform, Pulumi) 專案經驗",
+    "skills": [
+      "AI",
+      "模組化系統設計",
+      "系統架構規劃",
+      "結構化程式設計",
+      "資料庫程式設計",
+      "軟體品質與保證",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：AWS、Jenkins、Node.js、JavaScript\n工作技能：AI、模組化系統設計、系統架構規劃、結構化程式設計、資料庫程式設計、軟體品質與保證、軟體工程系統開發\n其他條件：【我們期待看到一個優秀的 AI System Architect 具備以下能力】\n1. 3+ 年軟體開發經驗，具備獨立負責大型分散式系統的設計與交付能力\n2. 熟悉以下技術：\n精通至少一種主流後端語言 (如 Node.js / TypeScript, Python, Go 等)\n分散式系統與高併發架構設計\nMessage Queue (如 Kafka, RabbitMQ) 與即時通訊 (WebSockets) 架構\nREST / gRPC API 設計與微服務架構\n關聯式與非關聯式資料庫 (PostgreSQL / MySQL / Redis)\nCloud-Native & Container (Kubernetes, Docker, AWS/GCP 雲端架構)\n理解 Networking 基礎 (DNS, TCP/IP, Load Balancing)\n【如果你擁有以下能力，那就更棒了！】\n1. 曾負責過 Omnichannel 客服系統或大型 CRM 平台底層架構\n2. 理解 MCP (Model Context Protocol) 架構與運作原理\n3. 了解 LLM 應用架構 (如 LangChain, LlamaIndex 等 Agentic Framework)\n4. 具備 SaaS 多租戶架構 (Multi-tenant) 開發與維護經驗\n5. 具備 Infrastructure-as-Code (Terraform, Pulumi) 專案經驗",
+    "tools": [
+      "AWS",
+      "Jenkins",
+      "Node.js",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 76
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:28:49+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【關於Bombus AI事業發展部】\n我們正在擴建 AI 事業發展部！我們的核心產品線包含兩大版圖：自主研發的 Agentic AI 平台 『Sage』，以及由其深度賦能的企業級應用 『Senzfor』。\n我們致力於將複雜的 Agent 協作架構封裝成流暢的 SaaS 體驗，讓 AI 技術真正落地於企業客戶的日常營運中。\n為了達成這個目標，我們需要 AI System Architect 加入我們，負責 Senzfor 與 Sage 雙引擎的架構設計、異質系統整合與底層技術規劃。你將專注於打造高可用、可擴展的 AI 基礎設施，為企業客戶提供強大的技術支撐。\n【你將在團隊參與...】\n我們正在尋找一位能將商業需求轉化為穩健技術架構的系統架構師。\n1. 設計與規劃 Senzfor 平台與 Sage 系統的底層架構\n設計具備高可用性 (HA) 與容錯機制的 SaaS 架構\n規劃多租戶 (Multi-tenant) 系統以支援多領域客戶\n確保系統能承受高流量併發，解決跨渠道訊息傳遞的一致性問題\n2. 引導 Sage 平台的深度客製化與系統整合架構\n規劃 Sage 與企業異質系統（如醫療 HIS 系統、ERP、WMS） API Gateway 與整合架構\n參與技術方案討論，根據時程、成本、技術可行性提出建議\n將企業客戶的落地需求轉化為清晰的技術架構與實作\n3. 持續改善平台架構與開發體驗\n全面瞭解整體系統架構，識別並優化效能瓶頸\n建立可復用的技術元件與最佳實踐\n改善 CI/CD、監控、部署流程\n4. 技術研究與知識分享\n持續學習 Agent 相關知識與架構設計（如 MCP、AI Workflow）\n在團隊內部進行技術分享與文件撰寫\n【我們期待看到一個優秀的 AI System Architect 具備以下能力】\n1. 3+ 年軟體開發經驗，具備獨立負責大型分散式系統的設計與交付能力\n2. 熟悉以下技術：\n精通至少一種主流後端語言 (如 Node.js / TypeScript, Python, Go 等)\n分散式系統與高併發架構設計\nMessage Queue (如 Kafka, RabbitMQ) 與即時通訊 (WebSockets) 架構\nREST / gRPC API 設計與微服務架構\n關聯式與非關聯式資料庫 (PostgreSQL / MySQL / Redis)\nCloud-Native & Container (Kubernetes, Docker, AWS/GCP 雲端架構)\n理解 Networking 基礎 (DNS, TCP/IP, Load Balancing)\n【如果你擁有以下能力，那就更棒了！】\n1. 曾負責過 Omnichannel 客服系統或大型 CRM 平台底層架構\n2. 理解 MCP (Model Context Protocol) 架構與運作原理\n3. 了解 LLM 應用架構 (如 LangChain, LlamaIndex 等 Agentic Framework)\n4. 具備 SaaS 多租戶架構 (Multi-tenant) 開發與維護經驗\n5. 具備 Infrastructure-as-Code (Terraform, Pulumi) 專案經驗\n【文化契合度 Culture Fit】\n對 AI 產品充滿熱情，渴望從「玩模型」進化到「做產品」\n在快速演進的 AI 領域，擁抱實驗與持續學習\n每個人都參與開發與測試——品質是建構出來的，而不僅僅是測試出來的\n具備主動溝通能力，能在跨部門環境中高效協作\n認同邦鉑「無界文化」——在傳統框架中突破，強調自由與責任、個人與團隊協作的無邊界可能性",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "全端工程師",
+            "DevOps 工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、全端工程師、DevOps 工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區新明路159號6樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【關於Bombus AI事業發展部】\n我們正在擴建 AI 事業發展部！我們的核心產品線包含兩大版圖：自主研發的 Agentic AI 平台 『Sage』，以及由其深度賦能的企業級應用 『Senzfor』。\n我們致力於將複雜的 Agent 協作架構封裝成流暢的 SaaS 體驗，讓 AI 技術真正落地於企業客戶的日常營運中。\n為了達成這個目標，我們需要 AI System Architect 加入我們，負責 Senzfor 與 Sage 雙引擎的架構設計、異質系統整合與底層技術規劃。你將專注於打造高可用、可擴展的 AI 基礎設施，為企業客戶提供強大的技術支撐。\n【你將在團隊參與...】\n我們正在尋找一位能將商業需求轉化為穩健技術架構的系統架構師。\n1. 設計與規劃 Senzfor 平台與 Sage 系統的底層架構\n設計具備高可用性 (HA) 與容錯機制的 SaaS 架構\n規劃多租戶 (Multi-tenant) 系統以支援多領域客戶\n確保系統能承受高流量併發，解決跨渠道訊息傳遞的一致性問題\n2. 引導 Sage 平台的深度客製化與系統整合架構\n規劃 Sage 與企業異質系統（如醫療 HIS 系統、ERP、WMS） API Gateway 與整合架構\n參與技術方案討論，根據時程、成本、技術可行性提出建議\n將企業客戶的落地需求轉化為清晰的技術架構與實作\n3. 持續改善平台架構與開發體驗\n全面瞭解整體系統架構，識別並優化效能瓶頸\n建立可復用的技術元件與最佳實踐\n改善 CI/CD、監控、部署流程\n4. 技術研究與知識分享\n持續學習 Agent 相關知識與架構設計（如 MCP、AI Workflow）\n在團隊內部進行技術分享與文件撰寫\n【我們期待看到一個優秀的 AI System Architect 具備以下能力】\n1. 3+ 年軟體開發經驗，具備獨立負責大型分散式系統的設計與交付能力\n2. 熟悉以下技術：\n精通至少一種主流後端語言 (如 Node.js / TypeScript, Python, Go 等)\n分散式系統與高併發架構設計\nMessage Queue (如 Kafka, RabbitMQ) 與即時通訊 (WebSockets) 架構\nREST / gRPC API 設計與微服務架構\n關聯式與非關聯式資料庫 (PostgreSQL / MySQL / Redis)\nCloud-Native & Container (Kubernetes, Docker, AWS/GCP 雲端架構)\n理解 Networking 基礎 (DNS, TCP/IP, Load Balancing)\n【如果你擁有以下能力，那就更棒了！】\n1. 曾負責過 Omnichannel 客服系統或大型 CRM 平台底層架構\n2. 理解 MCP (Model Context Protocol) 架構與運作原理\n3. 了解 LLM 應用架構 (如 LangChain, LlamaIndex 等 Agentic Framework)\n4. 具備 SaaS 多租戶架構 (Multi-tenant) 開發與維護經驗\n5. 具備 Infrastructure-as-Code (Terraform, Pulumi) 專案經驗\n【文化契合度 Culture Fit】\n對 AI 產品充滿熱情，渴望從「玩模型」進化到「做產品」\n在快速演進的 AI 領域，擁抱實驗與持續學習\n每個人都參與開發與測試——品質是建構出來的，而不僅僅是測試出來的\n具備主動溝通能力，能在跨部門環境中高效協作\n認同邦鉑「無界文化」——在傳統框架中突破，強調自由與責任、個人與團隊協作的無邊界可能性"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AWS",
+            "Jenkins",
+            "Node.js",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "AWS、Jenkins、Node.js、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "模組化系統設計",
+            "系統架構規劃",
+            "結構化程式設計",
+            "資料庫程式設計",
+            "軟體品質與保證",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "AI、模組化系統設計、系統架構規劃、結構化程式設計、資料庫程式設計、軟體品質與保證、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【我們期待看到一個優秀的 AI System Architect 具備以下能力】\n1. 3+ 年軟體開發經驗，具備獨立負責大型分散式系統的設計與交付能力\n2. 熟悉以下技術：\n精通至少一種主流後端語言 (如 Node.js / TypeScript, Python, Go 等)\n分散式系統與高併發架構設計\nMessage Queue (如 Kafka, RabbitMQ) 與即時通訊 (WebSockets) 架構\nREST / gRPC API 設計與微服務架構\n關聯式與非關聯式資料庫 (PostgreSQL / MySQL / Redis)\nCloud-Native & Container (Kubernetes, Docker, AWS/GCP 雲端架構)\n理解 Networking 基礎 (DNS, TCP/IP, Load Balancing)\n【如果你擁有以下能力，那就更棒了！】\n1. 曾負責過 Omnichannel 客服系統或大型 CRM 平台底層架構\n2. 理解 MCP (Model Context Protocol) 架構與運作原理\n3. 了解 LLM 應用架構 (如 LangChain, LlamaIndex 等 Agentic Framework)\n4. 具備 SaaS 多租戶架構 (Multi-tenant) 開發與維護經驗\n5. 具備 Infrastructure-as-Code (Terraform, Pulumi) 專案經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：AWS、Jenkins、Node.js、JavaScript\n工作技能：AI、模組化系統設計、系統架構規劃、結構化程式設計、資料庫程式設計、軟體品質與保證、軟體工程系統開發\n其他條件：【我們期待看到一個優秀的 AI System Architect 具備以下能力】\n1. 3+ 年軟體開發經驗，具備獨立負責大型分散式系統的設計與交付能力\n2. 熟悉以下技術：\n精通至少一種主流後端語言 (如 Node.js / TypeScript, Python, Go 等)\n分散式系統與高併發架構設計\nMessage Queue (如 Kafka, RabbitMQ) 與即時通訊 (WebSockets) 架構\nREST / gRPC API 設計與微服務架構\n關聯式與非關聯式資料庫 (PostgreSQL / MySQL / Redis)\nCloud-Native & Container (Kubernetes, Docker, AWS/GCP 雲端架構)\n理解 Networking 基礎 (DNS, TCP/IP, Load Balancing)\n【如果你擁有以下能力，那就更棒了！】\n1. 曾負責過 Omnichannel 客服系統或大型 CRM 平台底層架構\n2. 理解 MCP (Model Context Protocol) 架構與運作原理\n3. 了解 LLM 應用架構 (如 LangChain, LlamaIndex 等 Agentic Framework)\n4. 具備 SaaS 多租戶架構 (Multi-tenant) 開發與維護經驗\n5. 具備 Infrastructure-as-Code (Terraform, Pulumi) 專案經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8yvos",
+    "job_url": "https://www.104.com.tw/job/8yvos",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8yvos.json",
+    "raw_sha256": "5daaa7b28d56844d264b2d240494de9ab40682cffc5a42b0b1c76396d5034e51",
+    "requested_url": "https://www.104.com.tw/api/jobs/8yvos"
+  }
+}

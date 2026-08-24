@@ -1,0 +1,285 @@
+{
+  "company": {
+    "id": "1a2x6bi756",
+    "name": "雷技資訊科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "前端工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發與維護 SaaS 平台大型產品專案，專注 Angular 前端領域"
+        },
+        {
+          "children": [],
+          "text": "撰寫高品質與可維護性的前端程式碼"
+        },
+        {
+          "children": [],
+          "text": "與團隊成員討論產品規劃、提供技術建議，完成產品功能需求"
+        },
+        {
+          "children": [],
+          "text": "撰寫技術文件"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項"
+        },
+        {
+          "children": [],
+          "text": "熟悉任一前端框架（React、Vue、Angular ）且持有 1 年以上開發經驗"
+        },
+        {
+          "children": [],
+          "text": "精通 HTML、CSS、ES6+，並具備基本 UI/UX 概念"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RESTful API 串接與後端討論 API 規格及資料結構"
+        },
+        {
+          "children": [],
+          "text": "熟悉任一 UI 元件庫（如 Material-UI、Ant Design、Element UI 等）"
+        },
+        {
+          "children": [],
+          "text": "具備英文文件閱讀能力"
+        },
+        {
+          "children": [],
+          "text": "主動學習新技術，樂於分享"
+        },
+        {
+          "children": [],
+          "text": "熟悉瀏覽器開發者工具除錯技巧"
+        },
+        {
+          "children": [],
+          "text": "具備 TypeScript 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "了解前端效能優化技巧（如元件渲染效能、Bundle 優化、程式碼分割等）"
+        },
+        {
+          "children": [],
+          "text": "接觸過 CSS 模組化開發經驗，熟悉 BEM 等組織方法"
+        },
+        {
+          "children": [],
+          "text": "具備任一種後端程式語言及資料庫處理概念"
+        },
+        {
+          "children": [],
+          "text": "具備大型專案架構與設計經驗（如目錄結構規劃、模組化設計、CSS 作用域管理等）或個人作品集"
+        }
+      ],
+      "text": "我們是一支專注於用戶體驗、技術創新與團隊合作的開發團隊。這裡不只是寫程式，而是一起思考、一起解決問題，開發人性化的系統架構。\n【工作內容】\n1. 開發與維護 SaaS 平台大型產品專案，專注 Angular 前端領域\n2. 撰寫高品質與可維護性的前端程式碼\n3. 與團隊成員討論產品規劃、提供技術建議，完成產品功能需求\n4. 撰寫技術文件\n5. 其他主管交辦事項\n【必要條件】\n1. 熟悉任一前端框架（React、Vue、Angular ）且持有 1 年以上開發經驗\n2. 精通 HTML、CSS、ES6+，並具備基本 UI/UX 概念\n3. 熟悉 RESTful API 串接與後端討論 API 規格及資料結構\n4. 熟悉任一 UI 元件庫（如 Material-UI、Ant Design、Element UI 等）\n5. 具備英文文件閱讀能力\n6. 主動學習新技術，樂於分享\n【加分條件】\n1. 熟悉瀏覽器開發者工具除錯技巧\n2. 具備 TypeScript 開發經驗\n3. 了解前端效能優化技巧（如元件渲染效能、Bundle 優化、程式碼分割等）\n4. 接觸過 CSS 模組化開發經驗，熟悉 BEM 等組織方法\n5. 具備任一種後端程式語言及資料庫處理概念\n6. 具備大型專案架構與設計經驗（如目錄結構規劃、模組化設計、CSS 作用域管理等）或個人作品集"
+    },
+    "employment_type_raw": "全職",
+    "title": "前端工程師"
+  },
+  "location": {
+    "address_raw": "台北市南港區",
+    "raw": "台北市南港區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "HTML",
+          "JavaScript",
+          "CSS",
+          "Angular"
+        ],
+        "label": "擅長工具",
+        "text": "HTML、JavaScript、CSS、Angular"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：HTML、JavaScript、CSS、Angular\n工作技能：軟體工程系統開發、軟體程式設計",
+    "tools": [
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "Angular"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 78
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:34:42+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們是一支專注於用戶體驗、技術創新與團隊合作的開發團隊。這裡不只是寫程式，而是一起思考、一起解決問題，開發人性化的系統架構。\n【工作內容】\n1. 開發與維護 SaaS 平台大型產品專案，專注 Angular 前端領域\n2. 撰寫高品質與可維護性的前端程式碼\n3. 與團隊成員討論產品規劃、提供技術建議，完成產品功能需求\n4. 撰寫技術文件\n5. 其他主管交辦事項\n【必要條件】\n1. 熟悉任一前端框架（React、Vue、Angular ）且持有 1 年以上開發經驗\n2. 精通 HTML、CSS、ES6+，並具備基本 UI/UX 概念\n3. 熟悉 RESTful API 串接與後端討論 API 規格及資料結構\n4. 熟悉任一 UI 元件庫（如 Material-UI、Ant Design、Element UI 等）\n5. 具備英文文件閱讀能力\n6. 主動學習新技術，樂於分享\n【加分條件】\n1. 熟悉瀏覽器開發者工具除錯技巧\n2. 具備 TypeScript 開發經驗\n3. 了解前端效能優化技巧（如元件渲染效能、Bundle 優化、程式碼分割等）\n4. 接觸過 CSS 模組化開發經驗，熟悉 BEM 等組織方法\n5. 具備任一種後端程式語言及資料庫處理概念\n6. 具備大型專案架構與設計經驗（如目錄結構規劃、模組化設計、CSS 作用域管理等）或個人作品集",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "前端工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、前端工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們是一支專注於用戶體驗、技術創新與團隊合作的開發團隊。這裡不只是寫程式，而是一起思考、一起解決問題，開發人性化的系統架構。\n【工作內容】\n1. 開發與維護 SaaS 平台大型產品專案，專注 Angular 前端領域\n2. 撰寫高品質與可維護性的前端程式碼\n3. 與團隊成員討論產品規劃、提供技術建議，完成產品功能需求\n4. 撰寫技術文件\n5. 其他主管交辦事項\n【必要條件】\n1. 熟悉任一前端框架（React、Vue、Angular ）且持有 1 年以上開發經驗\n2. 精通 HTML、CSS、ES6+，並具備基本 UI/UX 概念\n3. 熟悉 RESTful API 串接與後端討論 API 規格及資料結構\n4. 熟悉任一 UI 元件庫（如 Material-UI、Ant Design、Element UI 等）\n5. 具備英文文件閱讀能力\n6. 主動學習新技術，樂於分享\n【加分條件】\n1. 熟悉瀏覽器開發者工具除錯技巧\n2. 具備 TypeScript 開發經驗\n3. 了解前端效能優化技巧（如元件渲染效能、Bundle 優化、程式碼分割等）\n4. 接觸過 CSS 模組化開發經驗，熟悉 BEM 等組織方法\n5. 具備任一種後端程式語言及資料庫處理概念\n6. 具備大型專案架構與設計經驗（如目錄結構規劃、模組化設計、CSS 作用域管理等）或個人作品集"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "Angular"
+          ],
+          "label": "擅長工具",
+          "text": "HTML、JavaScript、CSS、Angular",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：HTML、JavaScript、CSS、Angular\n工作技能：軟體工程系統開發、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "3qh6c",
+    "job_url": "https://www.104.com.tw/job/3qh6c",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/3qh6c.json",
+    "raw_sha256": "205f090aa7a8ce436b7202306c14ebd71fb980fd705a4849616967f4a76708c7",
+    "requested_url": "https://www.104.com.tw/api/jobs/3qh6c"
+  }
+}

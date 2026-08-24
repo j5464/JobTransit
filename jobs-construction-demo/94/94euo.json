@@ -1,0 +1,191 @@
+{
+  "company": {
+    "id": "7ozuzmw",
+    "name": "愛爾蘭商益華科技股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "CAD／CAM工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "The primary mission is to lead a team that ensures semiconductor designs meet TSMC’s stringent reliability standards before they are manufactured. This involves managing the deployment and optimization of PERC (Programmable Electrical Rule Checking) flows to detect complex electrical failures like Electrostatic Discharge (ESD) and Latch-up"
+    },
+    "employment_type_raw": "全職",
+    "title": "Solutions Manager ( Pegasus PERC)"
+  },
+  "location": {
+    "address_raw": "新竹市力行六路二號",
+    "raw": "新竹市力行六路二號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "8年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "8年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "Perl",
+          "TCL",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Perl、TCL、Python"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：8年以上\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Perl、TCL、Python",
+    "tools": [
+      "Perl",
+      "TCL",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 63
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:58:13+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "The primary mission is to lead a team that ensures semiconductor designs meet TSMC’s stringent reliability standards before they are manufactured. This involves managing the deployment and optimization of PERC (Programmable Electrical Rule Checking) flows to detect complex electrical failures like Electrostatic Discharge (ESD) and Latch-up",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "CAD／CAM工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "CAD／CAM工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市力行六路二號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "The primary mission is to lead a team that ensures semiconductor designs meet TSMC’s stringent reliability standards before they are manufactured. This involves managing the deployment and optimization of PERC (Programmable Electrical Rule Checking) flows to detect complex electrical failures like Electrostatic Discharge (ESD) and Latch-up"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "8年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Perl",
+            "TCL",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Perl、TCL、Python",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：8年以上\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Perl、TCL、Python"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94euo",
+    "job_url": "https://www.104.com.tw/job/94euo",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94euo.json",
+    "raw_sha256": "fedf6083e03d4bc1db459d2c6c175a3d777ec1308928568b8b71bd43ec4840e5",
+    "requested_url": "https://www.104.com.tw/api/jobs/94euo"
+  }
+}

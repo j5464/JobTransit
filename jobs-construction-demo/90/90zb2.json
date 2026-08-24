@@ -1,0 +1,232 @@
+{
+  "company": {
+    "id": "19hojm3k",
+    "name": "財團法人電信技術中心"
+  },
+  "job": {
+    "categories": [
+      "MIS程式設計師",
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "系統開發與維護：負責前後台系統、商業邏輯之功能分析、設計、程式碼撰寫與單元測試。"
+        },
+        {
+          "children": [],
+          "text": "API 設計與整合：負責Web API 的設計、串接與第三方服務整合。"
+        },
+        {
+          "children": [],
+          "text": "資料庫管理：設計與維護 MS SQL 資料庫架構，並進行 SQL 查詢優化、索引調校與預存程序（Stored Procedure）編寫。"
+        },
+        {
+          "children": [],
+          "text": "優化與除錯：維護並改善現有系統架構，負責問題分析、Bug 追蹤與系統效能調校。"
+        },
+        {
+          "children": [],
+          "text": "文件撰寫：產出並維護系統架構、規格設計（SA/SD）、API 規格及操作說明等技術文件。"
+        }
+      ],
+      "text": "1. 系統開發與維護：負責前後台系統、商業邏輯之功能分析、設計、程式碼撰寫與單元測試。\n2. API 設計與整合：負責Web API 的設計、串接與第三方服務整合。\n3. 資料庫管理：設計與維護 MS SQL 資料庫架構，並進行 SQL 查詢優化、索引調校與預存程序（Stored Procedure）編寫。\n4. 優化與除錯：維護並改善現有系統架構，負責問題分析、Bug 追蹤與系統效能調校。\n5. 文件撰寫：產出並維護系統架構、規格設計（SA/SD）、API 規格及操作說明等技術文件。\n後端技術：\n熟練掌握 C#、.NET Framework / .NET Core、ASP.NET MVC。\n具備 Web API / RESTful API 的實際開發與設計經驗。\n熟悉 Microsoft SQL Server 運作，具備 Stored Procedure 撰寫及基礎語法優化（T-SQL、Index 調校）能力。\n前端技術：\n熟悉前端基礎（HTML5、CSS3、JavaScript、AJAX）。\n熟悉前端框架（Vue / React / Angular）實際開發經驗。\n熟悉 Git / SVN 版本控制。"
+    },
+    "employment_type_raw": "全職",
+    "title": "應用服務組-助理工程師/副工程師(資訊) (115013)"
+  },
+  "location": {
+    "address_raw": "新北市板橋區",
+    "raw": "新北市板橋區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "JavaScript",
+          "MS SQL",
+          "HTML",
+          "Angular",
+          "jQuery",
+          "AJAX",
+          "Git"
+        ],
+        "label": "擅長工具",
+        "text": "C#、JavaScript、MS SQL、HTML、Angular、jQuery、AJAX、Git"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學\n科系要求：資訊管理相關、資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、JavaScript、MS SQL、HTML、Angular、jQuery、AJAX、Git",
+    "tools": [
+      "C#",
+      "JavaScript",
+      "MS SQL",
+      "HTML",
+      "Angular",
+      "jQuery",
+      "AJAX",
+      "Git"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 10
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:45:48+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 系統開發與維護：負責前後台系統、商業邏輯之功能分析、設計、程式碼撰寫與單元測試。\n2. API 設計與整合：負責Web API 的設計、串接與第三方服務整合。\n3. 資料庫管理：設計與維護 MS SQL 資料庫架構，並進行 SQL 查詢優化、索引調校與預存程序（Stored Procedure）編寫。\n4. 優化與除錯：維護並改善現有系統架構，負責問題分析、Bug 追蹤與系統效能調校。\n5. 文件撰寫：產出並維護系統架構、規格設計（SA/SD）、API 規格及操作說明等技術文件。\n後端技術：\n熟練掌握 C#、.NET Framework / .NET Core、ASP.NET MVC。\n具備 Web API / RESTful API 的實際開發與設計經驗。\n熟悉 Microsoft SQL Server 運作，具備 Stored Procedure 撰寫及基礎語法優化（T-SQL、Index 調校）能力。\n前端技術：\n熟悉前端基礎（HTML5、CSS3、JavaScript、AJAX）。\n熟悉前端框架（Vue / React / Angular）實際開發經驗。\n熟悉 Git / SVN 版本控制。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MIS程式設計師",
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "MIS程式設計師、軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 系統開發與維護：負責前後台系統、商業邏輯之功能分析、設計、程式碼撰寫與單元測試。\n2. API 設計與整合：負責Web API 的設計、串接與第三方服務整合。\n3. 資料庫管理：設計與維護 MS SQL 資料庫架構，並進行 SQL 查詢優化、索引調校與預存程序（Stored Procedure）編寫。\n4. 優化與除錯：維護並改善現有系統架構，負責問題分析、Bug 追蹤與系統效能調校。\n5. 文件撰寫：產出並維護系統架構、規格設計（SA/SD）、API 規格及操作說明等技術文件。\n後端技術：\n熟練掌握 C#、.NET Framework / .NET Core、ASP.NET MVC。\n具備 Web API / RESTful API 的實際開發與設計經驗。\n熟悉 Microsoft SQL Server 運作，具備 Stored Procedure 撰寫及基礎語法優化（T-SQL、Index 調校）能力。\n前端技術：\n熟悉前端基礎（HTML5、CSS3、JavaScript、AJAX）。\n熟悉前端框架（Vue / React / Angular）實際開發經驗。\n熟悉 Git / SVN 版本控制。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "JavaScript",
+            "MS SQL",
+            "HTML",
+            "Angular",
+            "jQuery",
+            "AJAX",
+            "Git"
+          ],
+          "label": "擅長工具",
+          "text": "C#、JavaScript、MS SQL、HTML、Angular、jQuery、AJAX、Git",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學\n科系要求：資訊管理相關、資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、JavaScript、MS SQL、HTML、Angular、jQuery、AJAX、Git"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "90zb2",
+    "job_url": "https://www.104.com.tw/job/90zb2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90zb2.json",
+    "raw_sha256": "2b0f7cef89ced4e9d035d5a9f6f90e8564c4b9c0806c11f00d0e51536446d01a",
+    "requested_url": "https://www.104.com.tw/api/jobs/90zb2"
+  }
+}

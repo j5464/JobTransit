@@ -1,0 +1,189 @@
+{
+  "company": {
+    "id": "12q975sw",
+    "name": "TVBS_聯利媒體股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "產品經理",
+      "數據分析師／資料分析師",
+      "數位行銷"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "CDP (Customer Data Platform) 客戶數據平台"
+        },
+        {
+          "children": [],
+          "text": "讀者數據整合與歸一化： 規劃全通路（Web / iOS App / Android App / Newsletter / 第三方平台）讀者行為數據的收集、清洗與帳戶歸一化（Identity Resolution），建立 360 度讀者圖像。"
+        },
+        {
+          "children": [],
+          "text": "興趣標籤與動態分群： 打造彈性且高效的讀者標籤體系（如：熱門話題偏好、閱讀頻率、付費意願指標）與動態圈選（Audience Segmentation）引擎。"
+        },
+        {
+          "children": [],
+          "text": "行銷自動化系統 (Marketing Automation System)"
+        },
+        {
+          "children": [],
+          "text": "自動化旅程引擎： 設計視覺化/模組化的自動化流程工具（Triggers, Actions, Conditions），支援多管道（App Push, LINE, EDM, SMS, Web Notification）觸發式訊息與內容投遞。"
+        },
+        {
+          "children": [],
+          "text": "媒體營運邏輯產品化： 將常態性讀者營運流程產品化為可重複套用的自動化模組，包含："
+        },
+        {
+          "children": [],
+          "text": "數據閉環產品藍圖： 制定 CDP、行銷自動化的中長期 Roadmap，平衡技術架構優化（如 Data Pipeline 效能、高併發推播能力）與業務發展需求。"
+        },
+        {
+          "children": [],
+          "text": "產品中心橫向協作： 與產品中心其他 PM（如 Web/App 產品經理）對齊埋點規格（Tracking/Event Specs）、轉化觸發條件與 API 對接，確保數據與功能順暢串接。"
+        },
+        {
+          "children": [],
+          "text": "跨部門需求梳理與優先級排序： 作為工程團隊與商業團隊（行銷、編輯部、訂閱營運、C-Level）的單一對接窗口，將商業需求轉化為清晰的技術規格（PRD / User Stories）。"
+        },
+        {
+          "children": [],
+          "text": "數據架構產品化： 將重複性的數據處理與行銷自動化需求模組化，提升系統擴充性與開發團隊的研發效率（Velocity）。"
+        },
+        {
+          "children": [],
+          "text": "數據成效追蹤： 定義系統核心指標（如數據處理延遲度、自動化訊息開啟/點擊率、內部數據工具使用率等），持續優化平台運作效能。"
+        }
+      ],
+      "text": "【關於這個角色 / Role Overview】\n作為 Data & MarTech Product Manager，您將是公司「數據資產」與「媒體營運科技」的核心推手。您將負責建構並維運貫穿全公司商業運營的「數據閉環系統」——從底層 CDP（客戶數據平台） 的讀者數據整合，到中遊 行銷自動化引擎（Marketing Automation） 的自動化內容與訊息觸達，最後延伸至上遊 企業數據決策中心（Data & Business Intelligence Hub） 的流量與商業洞察。\n在敏捷開發架構下，您將與數據工程師、後端工程師緊密協作，並作為橫向樞紐，與產品中心的其他 PM（如 App/Web 產品經理）以及商業團隊（編輯、行銷、營運）合作。把巨量讀者行為數據轉化為「媒體自動化營運武器」與「高層決策依據」，透過數據驅動（Data-driven）提升讀者黏著度、付費訂閱轉化率與長期留存率。\n【核心產品線 / Core Product Focus Area】\n這個角色將主導（Product Ownership）以下三大核心模組的產品規劃與推進：\n1. CDP (Customer Data Platform) 客戶數據平台\n•讀者數據整合與歸一化： 規劃全通路（Web / iOS App / Android App / Newsletter / 第三方平台）讀者行為數據的收集、清洗與帳戶歸一化（Identity Resolution），建立 360 度讀者圖像。\n•興趣標籤與動態分群： 打造彈性且高效的讀者標籤體系（如：熱門話題偏好、閱讀頻率、付費意願指標）與動態圈選（Audience Segmentation）引擎。\n2. 行銷自動化系統 (Marketing Automation System)\n• 自動化旅程引擎： 設計視覺化/模組化的自動化流程工具（Triggers, Actions, Conditions），支援多管道（App Push, LINE, EDM, SMS, Web Notification）觸發式訊息與內容投遞。\n• 媒體營運邏輯產品化： 將常態性讀者營運流程產品化為可重複套用的自動化模組，包含：\no 讀者激活（Onboarding）： 新註冊會員的興趣偏好引導與系列迎賓內容發送。\no 轉化與挽回（Conversion & Recovery）： 觸發重要事件卻未完成之追蹤與挽回。\no 留存與續約（Retention & Renewal）：低活躍讀者預警/召回機制。\no 內容精準推播（Engagement）： 結合讀者興趣標籤的個人化熱門專題推薦與突發新聞（Breaking News）自動化觸達。\n【主要職責 / Key Responsibilities】\n• 數據閉環產品藍圖： 制定 CDP、行銷自動化的中長期 Roadmap，平衡技術架構優化（如 Data Pipeline 效能、高併發推播能力）與業務發展需求。\n• 產品中心橫向協作： 與產品中心其他 PM（如 Web/App 產品經理）對齊埋點規格（Tracking/Event Specs）、轉化觸發條件與 API 對接，確保數據與功能順暢串接。\n• 跨部門需求梳理與優先級排序： 作為工程團隊與商業團隊（行銷、編輯部、訂閱營運、C-Level）的單一對接窗口，將商業需求轉化為清晰的技術規格（PRD / User Stories）。\n• 數據架構產品化： 將重複性的數據處理與行銷自動化需求模組化，提升系統擴充性與開發團隊的研發效率（Velocity）。\n• 數據成效追蹤： 定義系統核心指標（如數據處理延遲度、自動化訊息開啟/點擊率、內部數據工具使用率等），持續優化平台運作效能。"
+    },
+    "employment_type_raw": "全職",
+    "title": "數據與行銷科技產品經理 Data & MarTech Product Manager(數位事業部/廣告變現中心)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路451號",
+    "raw": "台北市內湖區瑞光路451號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "必須條件（Basic Qualifications）：\n• 3 年以上 軟體產品經理（PM）經驗，且具備 CDP、MarTech、CRM、行銷自動化或數據產品（Data Product） 的完整研發經驗。\n• 數據思維與技術理解能力： 熟知數據處理流程（ETL/ELT、Data Warehouse、Data Pipeline）、理解數據庫架構與數據建模，並具備基本 SQL 查詢能力。\n• 行銷與內容科技知識： 理解現代行銷自動化運作原理、多渠道觸達（Omnichannel）、Tracking/Event 埋點設計與 API 整合機制。\n• 具備敏捷開發（Agile / Scrum）運作經驗，能撰寫結構嚴謹的 PRD（包含數據流圖 Data Flow Diagram、邏輯邊界、Acceptance Criteria）。\n• 優秀的橫向溝通與團隊協作能力，能與產品中心其他 PM 及技術、商業團隊順暢對接。\n加分條件（Preferred Qualifications）：\n• 具備數位媒體、內容平台、SaaS 訂閱制產品相關研發經驗者優先。\n• 具備知名 CDP/MarTech 系統（如 Segment, Salesforce Marketing Cloud, Braze, Insider, Amplitude 等）使用或競品分析經驗。\n• 曾經擔任過 Data Analyst、Data Engineer 或 Software Engineer 背景者優先考慮。\n• 具備數據隱私法規（如 GDPR, CCPA, 個人資料保護法）與 Third-party Cookies 退場因應策略相關知識。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "必須條件（Basic Qualifications）：\n• 3 年以上 軟體產品經理（PM）經驗，且具備 CDP、MarTech、CRM、行銷自動化或數據產品（Data Product） 的完整研發經驗。\n• 數據思維與技術理解能力： 熟知數據處理流程（ETL/ELT、Data Warehouse、Data Pipeline）、理解數據庫架構與數據建模，並具備基本 SQL 查詢能力。\n• 行銷與內容科技知識： 理解現代行銷自動化運作原理、多渠道觸達（Omnichannel）、Tracking/Event 埋點設計與 API 整合機制。\n• 具備敏捷開發（Agile / Scrum）運作經驗，能撰寫結構嚴謹的 PRD（包含數據流圖 Data Flow Diagram、邏輯邊界、Acceptance Criteria）。\n• 優秀的橫向溝通與團隊協作能力，能與產品中心其他 PM 及技術、商業團隊順暢對接。\n加分條件（Preferred Qualifications）：\n• 具備數位媒體、內容平台、SaaS 訂閱制產品相關研發經驗者優先。\n• 具備知名 CDP/MarTech 系統（如 Segment, Salesforce Marketing Cloud, Braze, Insider, Amplitude 等）使用或競品分析經驗。\n• 曾經擔任過 Data Analyst、Data Engineer 或 Software Engineer 背景者優先考慮。\n• 具備數據隱私法規（如 GDPR, CCPA, 個人資料保護法）與 Third-party Cookies 退場因應策略相關知識。",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n其他條件：必須條件（Basic Qualifications）：\n• 3 年以上 軟體產品經理（PM）經驗，且具備 CDP、MarTech、CRM、行銷自動化或數據產品（Data Product） 的完整研發經驗。\n• 數據思維與技術理解能力： 熟知數據處理流程（ETL/ELT、Data Warehouse、Data Pipeline）、理解數據庫架構與數據建模，並具備基本 SQL 查詢能力。\n• 行銷與內容科技知識： 理解現代行銷自動化運作原理、多渠道觸達（Omnichannel）、Tracking/Event 埋點設計與 API 整合機制。\n• 具備敏捷開發（Agile / Scrum）運作經驗，能撰寫結構嚴謹的 PRD（包含數據流圖 Data Flow Diagram、邏輯邊界、Acceptance Criteria）。\n• 優秀的橫向溝通與團隊協作能力，能與產品中心其他 PM 及技術、商業團隊順暢對接。\n加分條件（Preferred Qualifications）：\n• 具備數位媒體、內容平台、SaaS 訂閱制產品相關研發經驗者優先。\n• 具備知名 CDP/MarTech 系統（如 Segment, Salesforce Marketing Cloud, Braze, Insider, Amplitude 等）使用或競品分析經驗。\n• 曾經擔任過 Data Analyst、Data Engineer 或 Software Engineer 背景者優先考慮。\n• 具備數據隱私法規（如 GDPR, CCPA, 個人資料保護法）與 Third-party Cookies 退場因應策略相關知識。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 53
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:32:47+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【關於這個角色 / Role Overview】\n作為 Data & MarTech Product Manager，您將是公司「數據資產」與「媒體營運科技」的核心推手。您將負責建構並維運貫穿全公司商業運營的「數據閉環系統」——從底層 CDP（客戶數據平台） 的讀者數據整合，到中遊 行銷自動化引擎（Marketing Automation） 的自動化內容與訊息觸達，最後延伸至上遊 企業數據決策中心（Data & Business Intelligence Hub） 的流量與商業洞察。\n在敏捷開發架構下，您將與數據工程師、後端工程師緊密協作，並作為橫向樞紐，與產品中心的其他 PM（如 App/Web 產品經理）以及商業團隊（編輯、行銷、營運）合作。把巨量讀者行為數據轉化為「媒體自動化營運武器」與「高層決策依據」，透過數據驅動（Data-driven）提升讀者黏著度、付費訂閱轉化率與長期留存率。\n【核心產品線 / Core Product Focus Area】\n這個角色將主導（Product Ownership）以下三大核心模組的產品規劃與推進：\n1. CDP (Customer Data Platform) 客戶數據平台\n•讀者數據整合與歸一化： 規劃全通路（Web / iOS App / Android App / Newsletter / 第三方平台）讀者行為數據的收集、清洗與帳戶歸一化（Identity Resolution），建立 360 度讀者圖像。\n•興趣標籤與動態分群： 打造彈性且高效的讀者標籤體系（如：熱門話題偏好、閱讀頻率、付費意願指標）與動態圈選（Audience Segmentation）引擎。\n2. 行銷自動化系統 (Marketing Automation System)\n• 自動化旅程引擎： 設計視覺化/模組化的自動化流程工具（Triggers, Actions, Conditions），支援多管道（App Push, LINE, EDM, SMS, Web Notification）觸發式訊息與內容投遞。\n• 媒體營運邏輯產品化： 將常態性讀者營運流程產品化為可重複套用的自動化模組，包含：\no 讀者激活（Onboarding）： 新註冊會員的興趣偏好引導與系列迎賓內容發送。\no 轉化與挽回（Conversion & Recovery）： 觸發重要事件卻未完成之追蹤與挽回。\no 留存與續約（Retention & Renewal）：低活躍讀者預警/召回機制。\no 內容精準推播（Engagement）： 結合讀者興趣標籤的個人化熱門專題推薦與突發新聞（Breaking News）自動化觸達。\n【主要職責 / Key Responsibilities】\n• 數據閉環產品藍圖： 制定 CDP、行銷自動化的中長期 Roadmap，平衡技術架構優化（如 Data Pipeline 效能、高併發推播能力）與業務發展需求。\n• 產品中心橫向協作： 與產品中心其他 PM（如 Web/App 產品經理）對齊埋點規格（Tracking/Event Specs）、轉化觸發條件與 API 對接，確保數據與功能順暢串接。\n• 跨部門需求梳理與優先級排序： 作為工程團隊與商業團隊（行銷、編輯部、訂閱營運、C-Level）的單一對接窗口，將商業需求轉化為清晰的技術規格（PRD / User Stories）。\n• 數據架構產品化： 將重複性的數據處理與行銷自動化需求模組化，提升系統擴充性與開發團隊的研發效率（Velocity）。\n• 數據成效追蹤： 定義系統核心指標（如數據處理延遲度、自動化訊息開啟/點擊率、內部數據工具使用率等），持續優化平台運作效能。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "產品經理",
+            "數據分析師／資料分析師",
+            "數位行銷"
+          ],
+          "label": "職務類別",
+          "text": "產品經理、數據分析師／資料分析師、數位行銷",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路451號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【關於這個角色 / Role Overview】\n作為 Data & MarTech Product Manager，您將是公司「數據資產」與「媒體營運科技」的核心推手。您將負責建構並維運貫穿全公司商業運營的「數據閉環系統」——從底層 CDP（客戶數據平台） 的讀者數據整合，到中遊 行銷自動化引擎（Marketing Automation） 的自動化內容與訊息觸達，最後延伸至上遊 企業數據決策中心（Data & Business Intelligence Hub） 的流量與商業洞察。\n在敏捷開發架構下，您將與數據工程師、後端工程師緊密協作，並作為橫向樞紐，與產品中心的其他 PM（如 App/Web 產品經理）以及商業團隊（編輯、行銷、營運）合作。把巨量讀者行為數據轉化為「媒體自動化營運武器」與「高層決策依據」，透過數據驅動（Data-driven）提升讀者黏著度、付費訂閱轉化率與長期留存率。\n【核心產品線 / Core Product Focus Area】\n這個角色將主導（Product Ownership）以下三大核心模組的產品規劃與推進：\n1. CDP (Customer Data Platform) 客戶數據平台\n•讀者數據整合與歸一化： 規劃全通路（Web / iOS App / Android App / Newsletter / 第三方平台）讀者行為數據的收集、清洗與帳戶歸一化（Identity Resolution），建立 360 度讀者圖像。\n•興趣標籤與動態分群： 打造彈性且高效的讀者標籤體系（如：熱門話題偏好、閱讀頻率、付費意願指標）與動態圈選（Audience Segmentation）引擎。\n2. 行銷自動化系統 (Marketing Automation System)\n• 自動化旅程引擎： 設計視覺化/模組化的自動化流程工具（Triggers, Actions, Conditions），支援多管道（App Push, LINE, EDM, SMS, Web Notification）觸發式訊息與內容投遞。\n• 媒體營運邏輯產品化： 將常態性讀者營運流程產品化為可重複套用的自動化模組，包含：\no 讀者激活（Onboarding）： 新註冊會員的興趣偏好引導與系列迎賓內容發送。\no 轉化與挽回（Conversion & Recovery）： 觸發重要事件卻未完成之追蹤與挽回。\no 留存與續約（Retention & Renewal）：低活躍讀者預警/召回機制。\no 內容精準推播（Engagement）： 結合讀者興趣標籤的個人化熱門專題推薦與突發新聞（Breaking News）自動化觸達。\n【主要職責 / Key Responsibilities】\n• 數據閉環產品藍圖： 制定 CDP、行銷自動化的中長期 Roadmap，平衡技術架構優化（如 Data Pipeline 效能、高併發推播能力）與業務發展需求。\n• 產品中心橫向協作： 與產品中心其他 PM（如 Web/App 產品經理）對齊埋點規格（Tracking/Event Specs）、轉化觸發條件與 API 對接，確保數據與功能順暢串接。\n• 跨部門需求梳理與優先級排序： 作為工程團隊與商業團隊（行銷、編輯部、訂閱營運、C-Level）的單一對接窗口，將商業需求轉化為清晰的技術規格（PRD / User Stories）。\n• 數據架構產品化： 將重複性的數據處理與行銷自動化需求模組化，提升系統擴充性與開發團隊的研發效率（Velocity）。\n• 數據成效追蹤： 定義系統核心指標（如數據處理延遲度、自動化訊息開啟/點擊率、內部數據工具使用率等），持續優化平台運作效能。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "必須條件（Basic Qualifications）：\n• 3 年以上 軟體產品經理（PM）經驗，且具備 CDP、MarTech、CRM、行銷自動化或數據產品（Data Product） 的完整研發經驗。\n• 數據思維與技術理解能力： 熟知數據處理流程（ETL/ELT、Data Warehouse、Data Pipeline）、理解數據庫架構與數據建模，並具備基本 SQL 查詢能力。\n• 行銷與內容科技知識： 理解現代行銷自動化運作原理、多渠道觸達（Omnichannel）、Tracking/Event 埋點設計與 API 整合機制。\n• 具備敏捷開發（Agile / Scrum）運作經驗，能撰寫結構嚴謹的 PRD（包含數據流圖 Data Flow Diagram、邏輯邊界、Acceptance Criteria）。\n• 優秀的橫向溝通與團隊協作能力，能與產品中心其他 PM 及技術、商業團隊順暢對接。\n加分條件（Preferred Qualifications）：\n• 具備數位媒體、內容平台、SaaS 訂閱制產品相關研發經驗者優先。\n• 具備知名 CDP/MarTech 系統（如 Segment, Salesforce Marketing Cloud, Braze, Insider, Amplitude 等）使用或競品分析經驗。\n• 曾經擔任過 Data Analyst、Data Engineer 或 Software Engineer 背景者優先考慮。\n• 具備數據隱私法規（如 GDPR, CCPA, 個人資料保護法）與 Third-party Cookies 退場因應策略相關知識。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n其他條件：必須條件（Basic Qualifications）：\n• 3 年以上 軟體產品經理（PM）經驗，且具備 CDP、MarTech、CRM、行銷自動化或數據產品（Data Product） 的完整研發經驗。\n• 數據思維與技術理解能力： 熟知數據處理流程（ETL/ELT、Data Warehouse、Data Pipeline）、理解數據庫架構與數據建模，並具備基本 SQL 查詢能力。\n• 行銷與內容科技知識： 理解現代行銷自動化運作原理、多渠道觸達（Omnichannel）、Tracking/Event 埋點設計與 API 整合機制。\n• 具備敏捷開發（Agile / Scrum）運作經驗，能撰寫結構嚴謹的 PRD（包含數據流圖 Data Flow Diagram、邏輯邊界、Acceptance Criteria）。\n• 優秀的橫向溝通與團隊協作能力，能與產品中心其他 PM 及技術、商業團隊順暢對接。\n加分條件（Preferred Qualifications）：\n• 具備數位媒體、內容平台、SaaS 訂閱制產品相關研發經驗者優先。\n• 具備知名 CDP/MarTech 系統（如 Segment, Salesforce Marketing Cloud, Braze, Insider, Amplitude 等）使用或競品分析經驗。\n• 曾經擔任過 Data Analyst、Data Engineer 或 Software Engineer 背景者優先考慮。\n• 具備數據隱私法規（如 GDPR, CCPA, 個人資料保護法）與 Third-party Cookies 退場因應策略相關知識。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "944hg",
+    "job_url": "https://www.104.com.tw/job/944hg",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/944hg.json",
+    "raw_sha256": "f5d7745c760de4c303d981af2c1a719467176db933d9f93739c4408a4f275827",
+    "requested_url": "https://www.104.com.tw/api/jobs/944hg"
+  }
+}

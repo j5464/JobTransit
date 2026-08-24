@@ -1,0 +1,146 @@
+{
+  "company": {
+    "id": "10yx4j9k",
+    "name": "總盈汽車股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "通訊軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉Matlab、simulink、ECU或嵌入式經驗等。"
+        },
+        {
+          "children": [],
+          "text": "執行軟體架構設計、程式設計、測試、除錯及功能驗証。"
+        },
+        {
+          "children": [],
+          "text": "上級主管交辦任務。"
+        }
+      ],
+      "text": "1. 熟悉Matlab、simulink、ECU或嵌入式經驗等。\n2. 執行軟體架構設計、程式設計、測試、除錯及功能驗証。\n3.上級主管交辦任務。"
+    },
+    "employment_type_raw": "全職",
+    "title": "車用軟體工程師"
+  },
+  "location": {
+    "address_raw": "台南市永康區三民里和平東路52號",
+    "raw": "台南市永康區三民里和平東路52號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：不拘",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 62
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:54:31+08:00"
+  },
+  "salary": {
+    "raw": "月薪36,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 熟悉Matlab、simulink、ECU或嵌入式經驗等。\n2. 執行軟體架構設計、程式設計、測試、除錯及功能驗証。\n3.上級主管交辦任務。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "通訊軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、通訊軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪36,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市永康區三民里和平東路52號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 熟悉Matlab、simulink、ECU或嵌入式經驗等。\n2. 執行軟體架構設計、程式設計、測試、除錯及功能驗証。\n3.上級主管交辦任務。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8m9up",
+    "job_url": "https://www.104.com.tw/job/8m9up",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8m9up.json",
+    "raw_sha256": "f0bba4424e379be842319039511fe0a0556e02c6be88c80af8f5533ec8cc7563",
+    "requested_url": "https://www.104.com.tw/api/jobs/8m9up"
+  }
+}

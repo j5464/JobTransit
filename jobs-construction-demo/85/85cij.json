@@ -1,0 +1,238 @@
+{
+  "company": {
+    "id": "1a2x6bmngn",
+    "name": "敦謙快線股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "後端工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "aeroride Web 與 App 的產品體驗"
+        },
+        {
+          "children": [],
+          "text": "即時行程追蹤、航班資訊同步與智慧通知等核心功能"
+        },
+        {
+          "children": [],
+          "text": "流暢且一致的跨裝置使用體驗"
+        },
+        {
+          "children": [],
+          "text": "高品質、可維護且可持續演進的前端架構"
+        },
+        {
+          "children": [],
+          "text": "每天服務真實旅客的智慧出行平台"
+        },
+        {
+          "children": [],
+          "text": "使用 HTML、CSS、JavaScript 及前端框架開發產品功能"
+        },
+        {
+          "children": [],
+          "text": "與 UI/UX Designer 合作，將設計稿轉化為高品質的使用者介面"
+        },
+        {
+          "children": [],
+          "text": "與 Backend Engineer 串接 API，完成前後端整合"
+        },
+        {
+          "children": [],
+          "text": "持續優化產品效能、互動細節與使用體驗"
+        },
+        {
+          "children": [],
+          "text": "確保產品在不同裝置、不同瀏覽器皆能穩定運作"
+        },
+        {
+          "children": [],
+          "text": "維護既有程式碼，提升可讀性、可維護性與整體品質"
+        },
+        {
+          "children": [],
+          "text": "參與產品需求討論，共同打造更好的產品體驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 HTML5、CSS3、JavaScript 及現代 Web 開發技術"
+        },
+        {
+          "children": [],
+          "text": "熟悉 React、Vue 或 Angular 等至少一種主流前端框架"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Responsive Web Design（RWD）開發"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RESTful API 串接及 JSON 資料處理"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版本控制流程"
+        },
+        {
+          "children": [],
+          "text": "重視程式品質、使用者體驗與產品細節"
+        },
+        {
+          "children": [],
+          "text": "具備良好的團隊合作與跨部門溝通能力"
+        },
+        {
+          "children": [],
+          "text": "具備 React 實務開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 TypeScript、Next.js 或其他現代前端技術"
+        },
+        {
+          "children": [],
+          "text": "熟悉 API 串接及前後端協作流程"
+        },
+        {
+          "children": [],
+          "text": "具備 UI / UX 設計概念或相關經驗"
+        },
+        {
+          "children": [],
+          "text": "對動畫效果、互動設計或微互動有經驗"
+        },
+        {
+          "children": [],
+          "text": "曾參與 SaaS、Travel Tech、Mobility 或大型產品開發"
+        },
+        {
+          "children": [],
+          "text": "樂於學習新技術，持續提升產品品質"
+        }
+      ],
+      "text": "Every journey begins with an interaction.\n每一次點擊、每一次滑動、每一個畫面，\n都是旅人對產品的第一印象。\n在 aeroride，我們相信，優秀的前端，不只是讓畫面正常顯示，而是讓每一次互動都自然、流暢且值得信任。\n如果你相信，好的產品體驗來自每一個細節，我們期待與你一起打造下一代智慧出行平台。\n⸻\nAbout This Role\n這不是一個只負責切版或完成畫面的 Frontend Engineer 職位。\n在 aeroride，你將參與產品從需求討論、介面實作到持續優化的完整開發流程，打造每天都被真實旅客使用的產品體驗。\n你將與 Product Manager、UI/UX Designer、Backend Engineer 密切合作，把產品需求與設計理念，轉化為流暢、直覺且可維護的前端介面。\n你需要思考的不只是畫面如何呈現，更要確保產品在不同裝置、不同瀏覽器與不同使用情境下，都能提供一致且穩定的體驗。\n如果你期待的是只完成指定功能的工作，這個職位可能不適合你。\n但如果你希望打造真正被使用者每天依賴的產品，並透過技術持續改善人們的移動體驗，我們很期待認識你。\n⸻\nWhat You’ll Build\n• aeroride Web 與 App 的產品體驗\n• 即時行程追蹤、航班資訊同步與智慧通知等核心功能\n• 流暢且一致的跨裝置使用體驗\n• 高品質、可維護且可持續演進的前端架構\n• 每天服務真實旅客的智慧出行平台\n⸻\nYour Role\n你將參與產品前端的開發與持續優化，包括：\n• 使用 HTML、CSS、JavaScript 及前端框架開發產品功能\n• 與 UI/UX Designer 合作，將設計稿轉化為高品質的使用者介面\n• 與 Backend Engineer 串接 API，完成前後端整合\n• 持續優化產品效能、互動細節與使用體驗\n• 確保產品在不同裝置、不同瀏覽器皆能穩定運作\n• 維護既有程式碼，提升可讀性、可維護性與整體品質\n• 參與產品需求討論，共同打造更好的產品體驗\n⸻\nRequirements\n• 熟悉 HTML5、CSS3、JavaScript 及現代 Web 開發技術\n• 熟悉 React、Vue 或 Angular 等至少一種主流前端框架\n• 熟悉 Responsive Web Design（RWD）開發\n• 熟悉 RESTful API 串接及 JSON 資料處理\n• 熟悉 Git 版本控制流程\n• 重視程式品質、使用者體驗與產品細節\n• 具備良好的團隊合作與跨部門溝通能力\n⸻\nBonus Points\n• 具備 React 實務開發經驗\n• 熟悉 TypeScript、Next.js 或其他現代前端技術\n• 熟悉 API 串接及前後端協作流程\n• 具備 UI / UX 設計概念或相關經驗\n• 對動畫效果、互動設計或微互動有經驗\n• 曾參與 SaaS、Travel Tech、Mobility 或大型產品開發\n• 樂於學習新技術，持續提升產品品質\n⸻\nWhy aeroride\n我們打造的不只是網站或 App，而是一個串連交通、旅遊、支付與即時資訊的智慧出行平台。\n在這裡，你所完成的每一個畫面、每一次互動，都會真實影響旅人的每一次出發。\n從預約、接送、航班追蹤，到旅程分享，每一次操作的背後，都代表著使用者對產品的信任。\n我們相信，優秀的前端，不只是讓畫面更漂亮，而是讓科技真正變得自然、直覺且值得依賴。\n⸻\nGreat products begin with great interactions.\n每一次點擊，\n都可能讓一段旅程更加順暢。\n每一個細節，\n都可能成為使用者再次選擇我們的理由。\n如果你相信，優秀的前端能讓科技更貼近人，\n歡迎加入 aeroride，\n一起重新定義每一次出發。"
+    },
+    "employment_type_raw": "全職",
+    "title": "前端工程師 ● Frontend Engineer"
+  },
+  "location": {
+    "address_raw": "台北市信義區光復南路495號4樓",
+    "raw": "台北市信義區光復南路495號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:05:20+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Every journey begins with an interaction.\n每一次點擊、每一次滑動、每一個畫面，\n都是旅人對產品的第一印象。\n在 aeroride，我們相信，優秀的前端，不只是讓畫面正常顯示，而是讓每一次互動都自然、流暢且值得信任。\n如果你相信，好的產品體驗來自每一個細節，我們期待與你一起打造下一代智慧出行平台。\n⸻\nAbout This Role\n這不是一個只負責切版或完成畫面的 Frontend Engineer 職位。\n在 aeroride，你將參與產品從需求討論、介面實作到持續優化的完整開發流程，打造每天都被真實旅客使用的產品體驗。\n你將與 Product Manager、UI/UX Designer、Backend Engineer 密切合作，把產品需求與設計理念，轉化為流暢、直覺且可維護的前端介面。\n你需要思考的不只是畫面如何呈現，更要確保產品在不同裝置、不同瀏覽器與不同使用情境下，都能提供一致且穩定的體驗。\n如果你期待的是只完成指定功能的工作，這個職位可能不適合你。\n但如果你希望打造真正被使用者每天依賴的產品，並透過技術持續改善人們的移動體驗，我們很期待認識你。\n⸻\nWhat You’ll Build\n• aeroride Web 與 App 的產品體驗\n• 即時行程追蹤、航班資訊同步與智慧通知等核心功能\n• 流暢且一致的跨裝置使用體驗\n• 高品質、可維護且可持續演進的前端架構\n• 每天服務真實旅客的智慧出行平台\n⸻\nYour Role\n你將參與產品前端的開發與持續優化，包括：\n• 使用 HTML、CSS、JavaScript 及前端框架開發產品功能\n• 與 UI/UX Designer 合作，將設計稿轉化為高品質的使用者介面\n• 與 Backend Engineer 串接 API，完成前後端整合\n• 持續優化產品效能、互動細節與使用體驗\n• 確保產品在不同裝置、不同瀏覽器皆能穩定運作\n• 維護既有程式碼，提升可讀性、可維護性與整體品質\n• 參與產品需求討論，共同打造更好的產品體驗\n⸻\nRequirements\n• 熟悉 HTML5、CSS3、JavaScript 及現代 Web 開發技術\n• 熟悉 React、Vue 或 Angular 等至少一種主流前端框架\n• 熟悉 Responsive Web Design（RWD）開發\n• 熟悉 RESTful API 串接及 JSON 資料處理\n• 熟悉 Git 版本控制流程\n• 重視程式品質、使用者體驗與產品細節\n• 具備良好的團隊合作與跨部門溝通能力\n⸻\nBonus Points\n• 具備 React 實務開發經驗\n• 熟悉 TypeScript、Next.js 或其他現代前端技術\n• 熟悉 API 串接及前後端協作流程\n• 具備 UI / UX 設計概念或相關經驗\n• 對動畫效果、互動設計或微互動有經驗\n• 曾參與 SaaS、Travel Tech、Mobility 或大型產品開發\n• 樂於學習新技術，持續提升產品品質\n⸻\nWhy aeroride\n我們打造的不只是網站或 App，而是一個串連交通、旅遊、支付與即時資訊的智慧出行平台。\n在這裡，你所完成的每一個畫面、每一次互動，都會真實影響旅人的每一次出發。\n從預約、接送、航班追蹤，到旅程分享，每一次操作的背後，都代表著使用者對產品的信任。\n我們相信，優秀的前端，不只是讓畫面更漂亮，而是讓科技真正變得自然、直覺且值得依賴。\n⸻\nGreat products begin with great interactions.\n每一次點擊，\n都可能讓一段旅程更加順暢。\n每一個細節，\n都可能成為使用者再次選擇我們的理由。\n如果你相信，優秀的前端能讓科技更貼近人，\n歡迎加入 aeroride，\n一起重新定義每一次出發。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "後端工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、後端工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區光復南路495號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Every journey begins with an interaction.\n每一次點擊、每一次滑動、每一個畫面，\n都是旅人對產品的第一印象。\n在 aeroride，我們相信，優秀的前端，不只是讓畫面正常顯示，而是讓每一次互動都自然、流暢且值得信任。\n如果你相信，好的產品體驗來自每一個細節，我們期待與你一起打造下一代智慧出行平台。\n⸻\nAbout This Role\n這不是一個只負責切版或完成畫面的 Frontend Engineer 職位。\n在 aeroride，你將參與產品從需求討論、介面實作到持續優化的完整開發流程，打造每天都被真實旅客使用的產品體驗。\n你將與 Product Manager、UI/UX Designer、Backend Engineer 密切合作，把產品需求與設計理念，轉化為流暢、直覺且可維護的前端介面。\n你需要思考的不只是畫面如何呈現，更要確保產品在不同裝置、不同瀏覽器與不同使用情境下，都能提供一致且穩定的體驗。\n如果你期待的是只完成指定功能的工作，這個職位可能不適合你。\n但如果你希望打造真正被使用者每天依賴的產品，並透過技術持續改善人們的移動體驗，我們很期待認識你。\n⸻\nWhat You’ll Build\n• aeroride Web 與 App 的產品體驗\n• 即時行程追蹤、航班資訊同步與智慧通知等核心功能\n• 流暢且一致的跨裝置使用體驗\n• 高品質、可維護且可持續演進的前端架構\n• 每天服務真實旅客的智慧出行平台\n⸻\nYour Role\n你將參與產品前端的開發與持續優化，包括：\n• 使用 HTML、CSS、JavaScript 及前端框架開發產品功能\n• 與 UI/UX Designer 合作，將設計稿轉化為高品質的使用者介面\n• 與 Backend Engineer 串接 API，完成前後端整合\n• 持續優化產品效能、互動細節與使用體驗\n• 確保產品在不同裝置、不同瀏覽器皆能穩定運作\n• 維護既有程式碼，提升可讀性、可維護性與整體品質\n• 參與產品需求討論，共同打造更好的產品體驗\n⸻\nRequirements\n• 熟悉 HTML5、CSS3、JavaScript 及現代 Web 開發技術\n• 熟悉 React、Vue 或 Angular 等至少一種主流前端框架\n• 熟悉 Responsive Web Design（RWD）開發\n• 熟悉 RESTful API 串接及 JSON 資料處理\n• 熟悉 Git 版本控制流程\n• 重視程式品質、使用者體驗與產品細節\n• 具備良好的團隊合作與跨部門溝通能力\n⸻\nBonus Points\n• 具備 React 實務開發經驗\n• 熟悉 TypeScript、Next.js 或其他現代前端技術\n• 熟悉 API 串接及前後端協作流程\n• 具備 UI / UX 設計概念或相關經驗\n• 對動畫效果、互動設計或微互動有經驗\n• 曾參與 SaaS、Travel Tech、Mobility 或大型產品開發\n• 樂於學習新技術，持續提升產品品質\n⸻\nWhy aeroride\n我們打造的不只是網站或 App，而是一個串連交通、旅遊、支付與即時資訊的智慧出行平台。\n在這裡，你所完成的每一個畫面、每一次互動，都會真實影響旅人的每一次出發。\n從預約、接送、航班追蹤，到旅程分享，每一次操作的背後，都代表著使用者對產品的信任。\n我們相信，優秀的前端，不只是讓畫面更漂亮，而是讓科技真正變得自然、直覺且值得依賴。\n⸻\nGreat products begin with great interactions.\n每一次點擊，\n都可能讓一段旅程更加順暢。\n每一個細節，\n都可能成為使用者再次選擇我們的理由。\n如果你相信，優秀的前端能讓科技更貼近人，\n歡迎加入 aeroride，\n一起重新定義每一次出發。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "85cij",
+    "job_url": "https://www.104.com.tw/job/85cij",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/85cij.json",
+    "raw_sha256": "cc329307763a306b5b22559c0b0769e9308b23a44367378a8d72ba4a0e3fe7ce",
+    "requested_url": "https://www.104.com.tw/api/jobs/85cij"
+  }
+}

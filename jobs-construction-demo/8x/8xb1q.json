@@ -1,0 +1,235 @@
+{
+  "company": {
+    "id": "1a2x6bjcmo",
+    "name": "櫻花電梯股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "AI工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具 ASP.NET／.NET Framework／C# 開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "具網站開發、維護或系統開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "具基本 SQL 資料庫操作能力。"
+        },
+        {
+          "children": [],
+          "text": "具問題分析及程式除錯能力。"
+        },
+        {
+          "children": [],
+          "text": "願意使用 AI 工具協助開發及提升工作效率。"
+        },
+        {
+          "children": [],
+          "text": "加分條件"
+        },
+        {
+          "children": [],
+          "text": "具 AWS EC2 部署或維護經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉網站部署及伺服器環境。"
+        },
+        {
+          "children": [],
+          "text": "具前端 HTML、CSS、JavaScript 基礎。"
+        },
+        {
+          "children": [],
+          "text": "具 API 串接或第三方服務整合經驗。"
+        },
+        {
+          "children": [],
+          "text": "有實際使用AI 開發工具經驗。"
+        }
+      ],
+      "text": "1.具 ASP.NET／.NET Framework／C# 開發經驗。\n2.具網站開發、維護或系統開發經驗。\n3.具基本 SQL 資料庫操作能力。\n4.具問題分析及程式除錯能力。\n5.願意使用 AI 工具協助開發及提升工作效率。\n●加分條件\n1.具 AWS EC2 部署或維護經驗。\n2.熟悉網站部署及伺服器環境。\n3.具前端 HTML、CSS、JavaScript 基礎。\n4.具 API 串接或第三方服務整合經驗。\n5.有實際使用AI 開發工具經驗。"
+    },
+    "employment_type_raw": "全職",
+    "title": "網站工程師"
+  },
+  "location": {
+    "address_raw": "桃園市觀音區崙坪里忠愛路二段198-215號",
+    "raw": "桃園市觀音區崙坪里忠愛路二段198-215號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "C#",
+          "ASP.NET",
+          "AWS"
+        ],
+        "label": "擅長工具",
+        "text": "C#、ASP.NET、AWS"
+      },
+      {
+        "items": [
+          "網路活動規劃與執行",
+          "廣告企劃案╱文案撰寫",
+          "品牌行銷管理"
+        ],
+        "label": "工作技能",
+        "text": "網路活動規劃與執行、廣告企劃案╱文案撰寫、品牌行銷管理"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.主動積極"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1.主動積極",
+    "skills": [
+      "網路活動規劃與執行",
+      "廣告企劃案╱文案撰寫",
+      "品牌行銷管理"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n擅長工具：C#、ASP.NET、AWS\n工作技能：網路活動規劃與執行、廣告企劃案╱文案撰寫、品牌行銷管理\n其他條件：1.主動積極",
+    "tools": [
+      "C#",
+      "ASP.NET",
+      "AWS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 58
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:44:33+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.具 ASP.NET／.NET Framework／C# 開發經驗。\n2.具網站開發、維護或系統開發經驗。\n3.具基本 SQL 資料庫操作能力。\n4.具問題分析及程式除錯能力。\n5.願意使用 AI 工具協助開發及提升工作效率。\n●加分條件\n1.具 AWS EC2 部署或維護經驗。\n2.熟悉網站部署及伺服器環境。\n3.具前端 HTML、CSS、JavaScript 基礎。\n4.具 API 串接或第三方服務整合經驗。\n5.有實際使用AI 開發工具經驗。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "AI工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、AI工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市觀音區崙坪里忠愛路二段198-215號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.具 ASP.NET／.NET Framework／C# 開發經驗。\n2.具網站開發、維護或系統開發經驗。\n3.具基本 SQL 資料庫操作能力。\n4.具問題分析及程式除錯能力。\n5.願意使用 AI 工具協助開發及提升工作效率。\n●加分條件\n1.具 AWS EC2 部署或維護經驗。\n2.熟悉網站部署及伺服器環境。\n3.具前端 HTML、CSS、JavaScript 基礎。\n4.具 API 串接或第三方服務整合經驗。\n5.有實際使用AI 開發工具經驗。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "ASP.NET",
+            "AWS"
+          ],
+          "label": "擅長工具",
+          "text": "C#、ASP.NET、AWS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "網路活動規劃與執行",
+            "廣告企劃案╱文案撰寫",
+            "品牌行銷管理"
+          ],
+          "label": "工作技能",
+          "text": "網路活動規劃與執行、廣告企劃案╱文案撰寫、品牌行銷管理",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.主動積極",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n擅長工具：C#、ASP.NET、AWS\n工作技能：網路活動規劃與執行、廣告企劃案╱文案撰寫、品牌行銷管理\n其他條件：1.主動積極"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8xb1q",
+    "job_url": "https://www.104.com.tw/job/8xb1q",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xb1q.json",
+    "raw_sha256": "b4f2877b31b9634f4d4003308df2b42fe4aad6468ae937a454d087f0f82ea10f",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xb1q"
+  }
+}

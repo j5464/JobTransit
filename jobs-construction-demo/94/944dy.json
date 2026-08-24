@@ -1,0 +1,269 @@
+{
+  "company": {
+    "id": "o1q9m94",
+    "name": "喬山健康科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "軟體工程師",
+      "軟體專案管理師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "人資系統分析與設計"
+        },
+        {
+          "children": [],
+          "text": "程式開發"
+        },
+        {
+          "children": [],
+          "text": "系統模組維運管理"
+        },
+        {
+          "children": [],
+          "text": "人資系統資料庫管理及問題排除"
+        },
+        {
+          "children": [],
+          "text": "資料與工具應用"
+        },
+        {
+          "children": [],
+          "text": "人資系統APP設計、維護及管理"
+        },
+        {
+          "children": [],
+          "text": "微軟.Net Framework."
+        },
+        {
+          "children": [],
+          "text": "C#程式語言"
+        },
+        {
+          "children": [],
+          "text": "MVC架構"
+        },
+        {
+          "children": [],
+          "text": "MS SQL及T-SQL語言"
+        },
+        {
+          "children": [],
+          "text": "ORM(LINQ、Entity Framework)"
+        },
+        {
+          "children": [],
+          "text": "前台技術(HTML5、CSS、JavaScript)"
+        },
+        {
+          "children": [],
+          "text": "前台框架(jQuery、Bootstrap、Vue)"
+        },
+        {
+          "children": [],
+          "text": "APP開發(iOS、Android)"
+        },
+        {
+          "children": [],
+          "text": "生成式AI應用(智能客服)"
+        }
+      ],
+      "text": "1. 人資系統分析與設計\n2. 程式開發\n3. 系統模組維運管理\n4. 人資系統資料庫管理及問題排除\n5. 資料與工具應用\n6. 人資系統APP設計、維護及管理\n【工作技能】\n1. 微軟.Net Framework.\n2. C#程式語言\n3. MVC架構\n4. MS SQL及T-SQL語言\n5. ORM(LINQ、Entity Framework)\n6. 前台技術(HTML5、CSS、JavaScript)\n7. 前台框架(jQuery、Bootstrap、Vue)\n8. APP開發(iOS、Android)\n9. 生成式AI應用(智能客服)"
+    },
+    "employment_type_raw": "全職",
+    "title": "總部管理部-數位人資-人事系統工程師"
+  },
+  "location": {
+    "address_raw": "台中市大雅區東大路二段999號",
+    "raw": "台中市大雅區東大路二段999號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "C#",
+          "ASP.NET",
+          "MS SQL",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "jQuery",
+          "VueJS"
+        ],
+        "label": "擅長工具",
+        "text": "C#、ASP.NET、MS SQL、JavaScript、CSS、HTML、jQuery、VueJS"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C#、ASP.NET、MS SQL、JavaScript、CSS、HTML、jQuery、VueJS",
+    "tools": [
+      "C#",
+      "ASP.NET",
+      "MS SQL",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "jQuery",
+      "VueJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 40
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:59:36+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 人資系統分析與設計\n2. 程式開發\n3. 系統模組維運管理\n4. 人資系統資料庫管理及問題排除\n5. 資料與工具應用\n6. 人資系統APP設計、維護及管理\n【工作技能】\n1. 微軟.Net Framework.\n2. C#程式語言\n3. MVC架構\n4. MS SQL及T-SQL語言\n5. ORM(LINQ、Entity Framework)\n6. 前台技術(HTML5、CSS、JavaScript)\n7. 前台框架(jQuery、Bootstrap、Vue)\n8. APP開發(iOS、Android)\n9. 生成式AI應用(智能客服)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "軟體工程師",
+            "軟體專案管理師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、軟體工程師、軟體專案管理師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市大雅區東大路二段999號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 人資系統分析與設計\n2. 程式開發\n3. 系統模組維運管理\n4. 人資系統資料庫管理及問題排除\n5. 資料與工具應用\n6. 人資系統APP設計、維護及管理\n【工作技能】\n1. 微軟.Net Framework.\n2. C#程式語言\n3. MVC架構\n4. MS SQL及T-SQL語言\n5. ORM(LINQ、Entity Framework)\n6. 前台技術(HTML5、CSS、JavaScript)\n7. 前台框架(jQuery、Bootstrap、Vue)\n8. APP開發(iOS、Android)\n9. 生成式AI應用(智能客服)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "ASP.NET",
+            "MS SQL",
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "jQuery",
+            "VueJS"
+          ],
+          "label": "擅長工具",
+          "text": "C#、ASP.NET、MS SQL、JavaScript、CSS、HTML、jQuery、VueJS",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C#、ASP.NET、MS SQL、JavaScript、CSS、HTML、jQuery、VueJS"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "944dy",
+    "job_url": "https://www.104.com.tw/job/944dy",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/944dy.json",
+    "raw_sha256": "3be51a4f5b24dc31e455779a32799e094344b1e53bcb26bb35a8ef830da1135a",
+    "requested_url": "https://www.104.com.tw/api/jobs/944dy"
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "company": {
+    "id": "1a2x6bn900",
+    "name": "磐石智慧科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "助理工程師",
+      "AI工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "主要職責"
+        },
+        {
+          "children": [],
+          "text": "所需技能"
+        }
+      ],
+      "text": "1. 主要職責\n(1) 設計、開發和測試影像處理演算法，包括圖像增強、邊緣偵測、物件辨識等。\n(2) 針對IP實作進行演算法（自研影像演算法或現有軟體演算法，如：OpenCV / MATLAB）調整、分析、模擬和最佳化（如：根據FPGA器件使用率、延遲及時脈估算，以符合產品需求）。\n(3) 撰寫 RTL（Verilog / VHDL）或HLS邏輯設計，實現影像處理IP。\n(4) 整合IP核心（如 MIPI CSI、GigE Vision 介面），進行系統級架構設計。\n(5) 建立FPGA模擬驗證環境，包含test bench、設計測試資料。\n(6) 與其他工程師（IP / 軟體 / 韌體）合作，將IP整合部署到FPGA產品中。\n(7) 研究新技術，並撰寫技術報告或專利提案。\n(8) 完成其他主管交辦事項\n2. 所需技能\n(1) 熟練RTL（Verilog / VHDL）或HLS。\n(2) 熟練 C、C++及Python。\n(3) 熟悉Linux系統應用開發。\n(4) 數位影像處理基礎知識（濾波、轉換、壓縮等）。\n(5) 演算法設計與最佳化經驗。\n(6) 熟悉 Xilinx FPGA 開發工具使用（Vivado, ModelSim, Vitis, Vitis_HLS等），進行IP設計、系統模擬與合成繞線。\n(7) 良好的問題解決能力、團隊合作精神。"
+    },
+    "employment_type_raw": "全職",
+    "title": "影像處理FPGA IP工程師"
+  },
+  "location": {
+    "address_raw": "桃園市中壢區領航南路三段315號4樓",
+    "raw": "桃園市中壢區領航南路三段315號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C++",
+          "Linux",
+          "PyTorch",
+          "Python",
+          "tensorflow",
+          "Git",
+          "FPGA",
+          "Verilog",
+          "RTL",
+          "C",
+          "Computer Vision"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Linux、PyTorch、Python、tensorflow、Git、FPGA、Verilog、RTL、C、Computer Vision"
+      },
+      {
+        "items": [
+          "電腦視覺",
+          "演算法設計",
+          "機器學習",
+          "深度學習",
+          "AI"
+        ],
+        "label": "工作技能",
+        "text": "電腦視覺、演算法設計、機器學習、深度學習、AI"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件\n(1) 擁有相關專案經驗（如：影像辨識IP開發）。\n(2) FPGA IP開發產品（POC可）經驗。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "加分條件\n(1) 擁有相關專案經驗（如：影像辨識IP開發）。\n(2) FPGA IP開發產品（POC可）經驗。",
+    "skills": [
+      "電腦視覺",
+      "演算法設計",
+      "機器學習",
+      "深度學習",
+      "AI"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Linux、PyTorch、Python、tensorflow、Git、FPGA、Verilog、RTL、C、Computer Vision\n工作技能：電腦視覺、演算法設計、機器學習、深度學習、AI\n其他條件：加分條件\n(1) 擁有相關專案經驗（如：影像辨識IP開發）。\n(2) FPGA IP開發產品（POC可）經驗。",
+    "tools": [
+      "C++",
+      "Linux",
+      "PyTorch",
+      "Python",
+      "tensorflow",
+      "Git",
+      "FPGA",
+      "Verilog",
+      "RTL",
+      "C",
+      "Computer Vision"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 31
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:37:45+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 主要職責\n(1) 設計、開發和測試影像處理演算法，包括圖像增強、邊緣偵測、物件辨識等。\n(2) 針對IP實作進行演算法（自研影像演算法或現有軟體演算法，如：OpenCV / MATLAB）調整、分析、模擬和最佳化（如：根據FPGA器件使用率、延遲及時脈估算，以符合產品需求）。\n(3) 撰寫 RTL（Verilog / VHDL）或HLS邏輯設計，實現影像處理IP。\n(4) 整合IP核心（如 MIPI CSI、GigE Vision 介面），進行系統級架構設計。\n(5) 建立FPGA模擬驗證環境，包含test bench、設計測試資料。\n(6) 與其他工程師（IP / 軟體 / 韌體）合作，將IP整合部署到FPGA產品中。\n(7) 研究新技術，並撰寫技術報告或專利提案。\n(8) 完成其他主管交辦事項\n2. 所需技能\n(1) 熟練RTL（Verilog / VHDL）或HLS。\n(2) 熟練 C、C++及Python。\n(3) 熟悉Linux系統應用開發。\n(4) 數位影像處理基礎知識（濾波、轉換、壓縮等）。\n(5) 演算法設計與最佳化經驗。\n(6) 熟悉 Xilinx FPGA 開發工具使用（Vivado, ModelSim, Vitis, Vitis_HLS等），進行IP設計、系統模擬與合成繞線。\n(7) 良好的問題解決能力、團隊合作精神。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "助理工程師",
+            "AI工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "助理工程師、AI工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市中壢區領航南路三段315號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 主要職責\n(1) 設計、開發和測試影像處理演算法，包括圖像增強、邊緣偵測、物件辨識等。\n(2) 針對IP實作進行演算法（自研影像演算法或現有軟體演算法，如：OpenCV / MATLAB）調整、分析、模擬和最佳化（如：根據FPGA器件使用率、延遲及時脈估算，以符合產品需求）。\n(3) 撰寫 RTL（Verilog / VHDL）或HLS邏輯設計，實現影像處理IP。\n(4) 整合IP核心（如 MIPI CSI、GigE Vision 介面），進行系統級架構設計。\n(5) 建立FPGA模擬驗證環境，包含test bench、設計測試資料。\n(6) 與其他工程師（IP / 軟體 / 韌體）合作，將IP整合部署到FPGA產品中。\n(7) 研究新技術，並撰寫技術報告或專利提案。\n(8) 完成其他主管交辦事項\n2. 所需技能\n(1) 熟練RTL（Verilog / VHDL）或HLS。\n(2) 熟練 C、C++及Python。\n(3) 熟悉Linux系統應用開發。\n(4) 數位影像處理基礎知識（濾波、轉換、壓縮等）。\n(5) 演算法設計與最佳化經驗。\n(6) 熟悉 Xilinx FPGA 開發工具使用（Vivado, ModelSim, Vitis, Vitis_HLS等），進行IP設計、系統模擬與合成繞線。\n(7) 良好的問題解決能力、團隊合作精神。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Linux",
+            "PyTorch",
+            "Python",
+            "tensorflow",
+            "Git",
+            "FPGA",
+            "Verilog",
+            "RTL",
+            "C",
+            "Computer Vision"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Linux、PyTorch、Python、tensorflow、Git、FPGA、Verilog、RTL、C、Computer Vision",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電腦視覺",
+            "演算法設計",
+            "機器學習",
+            "深度學習",
+            "AI"
+          ],
+          "label": "工作技能",
+          "text": "電腦視覺、演算法設計、機器學習、深度學習、AI",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件\n(1) 擁有相關專案經驗（如：影像辨識IP開發）。\n(2) FPGA IP開發產品（POC可）經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Linux、PyTorch、Python、tensorflow、Git、FPGA、Verilog、RTL、C、Computer Vision\n工作技能：電腦視覺、演算法設計、機器學習、深度學習、AI\n其他條件：加分條件\n(1) 擁有相關專案經驗（如：影像辨識IP開發）。\n(2) FPGA IP開發產品（POC可）經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8zhk0",
+    "job_url": "https://www.104.com.tw/job/8zhk0",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8zhk0.json",
+    "raw_sha256": "ed6faaf7f15a451cb7317c0079825e7ebf4183da655f736c22663d1d5f6713e1",
+    "requested_url": "https://www.104.com.tw/api/jobs/8zhk0"
+  }
+}

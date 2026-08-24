@@ -1,0 +1,218 @@
+{
+  "company": {
+    "id": "ahfsoq0",
+    "name": "廣達電腦股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "BIOS工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "BIOS系統韌體研發"
+        },
+        {
+          "children": [],
+          "text": "與客戶與內部研發單位溝通協調設計規格"
+        },
+        {
+          "children": [],
+          "text": "跨單位合作解決產品開發之軟硬體問題並提供專業技術建議"
+        }
+      ],
+      "text": "1.BIOS系統韌體研發\n2.與客戶與內部研發單位溝通協調設計規格\n3.跨單位合作解決產品開發之軟硬體問題並提供專業技術建議\n【產品】AI解決方案、5G、雲端運算Server/Storage/Switch、NB/AIO、VR/AR、智慧家庭、智慧醫療、智慧製造、智慧交通、智慧穿戴、物聯網…等"
+    },
+    "employment_type_raw": "全職",
+    "title": "新鮮人-軟體-BIOS韌體研發 - J1356"
+  },
+  "location": {
+    "address_raw": "桃園市龜山區文化二路211號",
+    "raw": "桃園市龜山區文化二路211號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "工程學科類",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、工程學科類、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Assembly"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Assembly"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具ASSEMBLY及C/C++語言基礎\n2.熟悉計算機結構，資料結構與演算法開發經驗者佳\n3.熟悉作業系統概念，架構及其操作與應用經驗者佳\n4.具中等英文說寫讀能力\n5.可接受支援海外出差\n6.優先面試數位發展部數位產業署DIGI⁺ Talent計畫之結訓研習生(IOT)(SC)\nfreshlink highpay\nfreshlink skillup\n2026career"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "工程學科類",
+      "資訊管理相關"
+    ],
+    "other_text": "1.具ASSEMBLY及C/C++語言基礎\n2.熟悉計算機結構，資料結構與演算法開發經驗者佳\n3.熟悉作業系統概念，架構及其操作與應用經驗者佳\n4.具中等英文說寫讀能力\n5.可接受支援海外出差\n6.優先面試數位發展部數位產業署DIGI⁺ Talent計畫之結訓研習生(IOT)(SC)\nfreshlink highpay\nfreshlink skillup\n2026career",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、工程學科類、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Assembly\n其他條件：1.具ASSEMBLY及C/C++語言基礎\n2.熟悉計算機結構，資料結構與演算法開發經驗者佳\n3.熟悉作業系統概念，架構及其操作與應用經驗者佳\n4.具中等英文說寫讀能力\n5.可接受支援海外出差\n6.優先面試數位發展部數位產業署DIGI⁺ Talent計畫之結訓研習生(IOT)(SC)\nfreshlink highpay\nfreshlink skillup\n2026career",
+    "tools": [
+      "C",
+      "C++",
+      "Assembly"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 19
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:08:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.BIOS系統韌體研發\n2.與客戶與內部研發單位溝通協調設計規格\n3.跨單位合作解決產品開發之軟硬體問題並提供專業技術建議\n【產品】AI解決方案、5G、雲端運算Server/Storage/Switch、NB/AIO、VR/AR、智慧家庭、智慧醫療、智慧製造、智慧交通、智慧穿戴、物聯網…等",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "BIOS工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、BIOS工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市龜山區文化二路211號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.BIOS系統韌體研發\n2.與客戶與內部研發單位溝通協調設計規格\n3.跨單位合作解決產品開發之軟硬體問題並提供專業技術建議\n【產品】AI解決方案、5G、雲端運算Server/Storage/Switch、NB/AIO、VR/AR、智慧家庭、智慧醫療、智慧製造、智慧交通、智慧穿戴、物聯網…等"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "工程學科類",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、工程學科類、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Assembly"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Assembly",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具ASSEMBLY及C/C++語言基礎\n2.熟悉計算機結構，資料結構與演算法開發經驗者佳\n3.熟悉作業系統概念，架構及其操作與應用經驗者佳\n4.具中等英文說寫讀能力\n5.可接受支援海外出差\n6.優先面試數位發展部數位產業署DIGI⁺ Talent計畫之結訓研習生(IOT)(SC)\nfreshlink highpay\nfreshlink skillup\n2026career",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、工程學科類、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Assembly\n其他條件：1.具ASSEMBLY及C/C++語言基礎\n2.熟悉計算機結構，資料結構與演算法開發經驗者佳\n3.熟悉作業系統概念，架構及其操作與應用經驗者佳\n4.具中等英文說寫讀能力\n5.可接受支援海外出差\n6.優先面試數位發展部數位產業署DIGI⁺ Talent計畫之結訓研習生(IOT)(SC)\nfreshlink highpay\nfreshlink skillup\n2026career"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "5jaj6",
+    "job_url": "https://www.104.com.tw/job/5jaj6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/5jaj6.json",
+    "raw_sha256": "2dd9b6542854d2ac203303d5181672576f5c86fc77db09de036a20d8c634f78d",
+    "requested_url": "https://www.104.com.tw/api/jobs/5jaj6"
+  }
+}

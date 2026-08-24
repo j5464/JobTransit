@@ -1,0 +1,215 @@
+{
+  "company": {
+    "id": "20kl6co",
+    "name": "台灣康寧顯示玻璃股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "自動控制工程師",
+      "AI工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Use of control system and control theory fundamental for achieving the desired target of process attributes."
+        },
+        {
+          "children": [],
+          "text": "Understand the objective of project requirements, analyze the problems on the basis of classical or modern control theory, and propose appropriate solutions."
+        },
+        {
+          "children": [],
+          "text": "Work with different COE team members in projects to achieve project objectives."
+        },
+        {
+          "children": [],
+          "text": "Hardware related work like machine assembly, installation and cable wirings; Software related work like program on control kernels, UI, system models, simulations, AI related implementations."
+        },
+        {
+          "children": [],
+          "text": "Participate in all stages of manufacturing processes."
+        },
+        {
+          "children": [],
+          "text": "Transfer of technology to manufacturing operation with full implementation of training and documentation systems (SOP, SOS and Training)."
+        },
+        {
+          "children": [],
+          "text": "Possess a basic understanding of the hardware and software of control systems. With experience of system integration & design is a plus."
+        },
+        {
+          "children": [],
+          "text": "Fundamental understanding of system modeling and simulation."
+        },
+        {
+          "children": [],
+          "text": "Fundamental understanding of classical control and modern control theory."
+        },
+        {
+          "children": [],
+          "text": "Basic understanding and experience of control system/algorithm design and implementation by control development tools (e.g. MATLAB, Python, C++…etc.)"
+        },
+        {
+          "children": [],
+          "text": "Familiar with PC based programming (C++, C#, Python…etc.) and/or PLC programming skills (Rockwell, Mitsubishi, Siemens etc.)"
+        },
+        {
+          "children": [],
+          "text": "Understanding of Electrical standard, safety and code compliance."
+        },
+        {
+          "children": [],
+          "text": "Image signal processing and vision system design experience."
+        },
+        {
+          "children": [],
+          "text": "CNC control, Robot control, AGV control experience."
+        },
+        {
+          "children": [],
+          "text": "Fundamental understanding of industrial communication protocol. (RS232/RS48, DeviceNet, ControlNet, Profibus, CAN, Modbus, CC-Link, EtherNet/IP, Profinet, TCP/IP etc.)"
+        },
+        {
+          "children": [],
+          "text": "Fundamental understanding of AI technologies in the field of control engineering."
+        }
+      ],
+      "text": "Day to Day Responsibilities:\n• Use of control system and control theory fundamental for achieving the desired target of process attributes.\n• Understand the objective of project requirements, analyze the problems on the basis of classical or modern control theory, and propose appropriate solutions.\n• Work with different COE team members in projects to achieve project objectives.\n• Hardware related work like machine assembly, installation and cable wirings; Software related work like program on control kernels, UI, system models, simulations, AI related implementations.\n• Participate in all stages of manufacturing processes.\n• Transfer of technology to manufacturing operation with full implementation of training and documentation systems (SOP, SOS and Training).\nRequired Skills:\n• Possess a basic understanding of the hardware and software of control systems. With experience of system integration & design is a plus.\n• Fundamental understanding of system modeling and simulation.\n• Fundamental understanding of classical control and modern control theory.\n• Basic understanding and experience of control system/algorithm design and implementation by control development tools (e.g. MATLAB, Python, C++…etc.)\n• Familiar with PC based programming (C++, C#, Python…etc.) and/or PLC programming skills (Rockwell, Mitsubishi, Siemens etc.)\nDesired Skills:\n• Understanding of Electrical standard, safety and code compliance.\n• Image signal processing and vision system design experience.\n• CNC control, Robot control, AGV control experience.\n• Fundamental understanding of industrial communication protocol. (RS232/RS48, DeviceNet, ControlNet, Profibus, CAN, Modbus, CC-Link, EtherNet/IP, Profinet, TCP/IP etc.)\n• Fundamental understanding of AI technologies in the field of control engineering."
+    },
+    "employment_type_raw": "全職",
+    "title": "(Sr) Control Systems Engineer_Advanced and Precision Control (Taichung)"
+  },
+  "location": {
+    "address_raw": "台中市西屯區中部科學園區科園路1號",
+    "raw": "台中市西屯區中部科學園區科園路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 83
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:47:27+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Day to Day Responsibilities:\n• Use of control system and control theory fundamental for achieving the desired target of process attributes.\n• Understand the objective of project requirements, analyze the problems on the basis of classical or modern control theory, and propose appropriate solutions.\n• Work with different COE team members in projects to achieve project objectives.\n• Hardware related work like machine assembly, installation and cable wirings; Software related work like program on control kernels, UI, system models, simulations, AI related implementations.\n• Participate in all stages of manufacturing processes.\n• Transfer of technology to manufacturing operation with full implementation of training and documentation systems (SOP, SOS and Training).\nRequired Skills:\n• Possess a basic understanding of the hardware and software of control systems. With experience of system integration & design is a plus.\n• Fundamental understanding of system modeling and simulation.\n• Fundamental understanding of classical control and modern control theory.\n• Basic understanding and experience of control system/algorithm design and implementation by control development tools (e.g. MATLAB, Python, C++…etc.)\n• Familiar with PC based programming (C++, C#, Python…etc.) and/or PLC programming skills (Rockwell, Mitsubishi, Siemens etc.)\nDesired Skills:\n• Understanding of Electrical standard, safety and code compliance.\n• Image signal processing and vision system design experience.\n• CNC control, Robot control, AGV control experience.\n• Fundamental understanding of industrial communication protocol. (RS232/RS48, DeviceNet, ControlNet, Profibus, CAN, Modbus, CC-Link, EtherNet/IP, Profinet, TCP/IP etc.)\n• Fundamental understanding of AI technologies in the field of control engineering.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "自動控制工程師",
+            "AI工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "自動控制工程師、AI工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區中部科學園區科園路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Day to Day Responsibilities:\n• Use of control system and control theory fundamental for achieving the desired target of process attributes.\n• Understand the objective of project requirements, analyze the problems on the basis of classical or modern control theory, and propose appropriate solutions.\n• Work with different COE team members in projects to achieve project objectives.\n• Hardware related work like machine assembly, installation and cable wirings; Software related work like program on control kernels, UI, system models, simulations, AI related implementations.\n• Participate in all stages of manufacturing processes.\n• Transfer of technology to manufacturing operation with full implementation of training and documentation systems (SOP, SOS and Training).\nRequired Skills:\n• Possess a basic understanding of the hardware and software of control systems. With experience of system integration & design is a plus.\n• Fundamental understanding of system modeling and simulation.\n• Fundamental understanding of classical control and modern control theory.\n• Basic understanding and experience of control system/algorithm design and implementation by control development tools (e.g. MATLAB, Python, C++…etc.)\n• Familiar with PC based programming (C++, C#, Python…etc.) and/or PLC programming skills (Rockwell, Mitsubishi, Siemens etc.)\nDesired Skills:\n• Understanding of Electrical standard, safety and code compliance.\n• Image signal processing and vision system design experience.\n• CNC control, Robot control, AGV control experience.\n• Fundamental understanding of industrial communication protocol. (RS232/RS48, DeviceNet, ControlNet, Profibus, CAN, Modbus, CC-Link, EtherNet/IP, Profinet, TCP/IP etc.)\n• Fundamental understanding of AI technologies in the field of control engineering."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8ztsp",
+    "job_url": "https://www.104.com.tw/job/8ztsp",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ztsp.json",
+    "raw_sha256": "d3ca0e26c5b0a44d60f673a2a50250092c1f0ca45530f2a122d1e60721a1bb83",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ztsp"
+  }
+}

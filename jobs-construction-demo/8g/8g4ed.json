@@ -1,0 +1,211 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "提升組裝直通率：通過AI管理平台蒐集和分析工站影像資料，減少錯、漏、反造成品質不良的因素和降低重工率，提高生產效率。"
+        },
+        {
+          "children": [],
+          "text": "提高產品品質：在關鍵步驟應用AI電腦視覺技術，確保產品出貨後穩定可靠，增強競爭力。"
+        },
+        {
+          "children": [],
+          "text": "縮短新產品導入時間：利用AI技術，加快新產品導入流程，協助工廠提升競爭力。"
+        },
+        {
+          "children": [],
+          "text": "負責設計與開發AI電腦視覺/大型語言模型之機器學習技術"
+        },
+        {
+          "children": [],
+          "text": "協同開發、佈建和測試解決方案於應用場域"
+        },
+        {
+          "children": [],
+          "text": "依專案需求研讀機器學習技術於電腦視覺/大語言模型相關應用議題"
+        },
+        {
+          "children": [],
+          "text": "熟悉PyTorch、TensorFlow等深度學習Framework"
+        },
+        {
+          "children": [],
+          "text": "熟悉以下任一語言：Java, C/C++"
+        },
+        {
+          "children": [],
+          "text": "熟悉以下任一模型部署框架: OpenVINO、TensorRT、ONNXRUNTIME"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 與相關版控流程"
+        },
+        {
+          "children": [],
+          "text": "熟悉Linux維運、開發和分析類型産品佈署者佳"
+        },
+        {
+          "children": [],
+          "text": "相關AI頂尖會議發表如CVPR, ICCV, NeurIPS, AAAI, ICML, ICLR者佳"
+        },
+        {
+          "children": [],
+          "text": "串接LLM API經驗者佳"
+        },
+        {
+          "children": [],
+          "text": "具備良好溝通能力，主動積極學習"
+        }
+      ],
+      "text": "<部門簡介>\n先進工業電腦視覺解決方案新事業發展部(Advanced Industrial Computer Vision Solution BD, AICBD) 致力於解決製造業中的人工作業問題，提供全面且靈活的解決方案，幫助企業在市場競爭中脫穎而出。AICBD專注於利用人工智慧（AI）和深度學習技術，為製造業提供高效且精確的電腦視覺解決方案，旨在提升生產效率和產品品質。\n核心目標：\n1. 提升組裝直通率：通過AI管理平台蒐集和分析工站影像資料，減少錯、漏、反造成品質不良的因素和降低重工率，提高生產效率。\n2. 提高產品品質：在關鍵步驟應用AI電腦視覺技術，確保產品出貨後穩定可靠，增強競爭力。\n3. 縮短新產品導入時間：利用AI技術，加快新產品導入流程，協助工廠提升競爭力。\n主要職責 :\n1. 負責設計與開發AI電腦視覺/大型語言模型之機器學習技術\n2. 協同開發、佈建和測試解決方案於應用場域\n3. 依專案需求研讀機器學習技術於電腦視覺/大語言模型相關應用議題\n其他需求 :\n1. 熟悉PyTorch、TensorFlow等深度學習Framework\n2. 熟悉以下任一語言：Java, C/C++\n3. 熟悉以下任一模型部署框架: OpenVINO、TensorRT、ONNXRUNTIME\n4. 熟悉 Git 與相關版控流程\n5. 熟悉Linux維運、開發和分析類型産品佈署者佳\n6. 相關AI頂尖會議發表如CVPR, ICCV, NeurIPS, AAAI, ICML, ICLR者佳\n7. 串接LLM API經驗者佳\n8. 具備良好溝通能力，主動積極學習"
+    },
+    "employment_type_raw": "全職",
+    "title": "機器學習工程師AI / ML Engineer_先進工業電腦視覺解決方案新事業發展部(台北)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號",
+    "raw": "台北市內湖區瑞光路186號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "其他數學及電算機科學相關",
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "其他數學及電算機科學相關、電機電子工程相關、資訊工程相關"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "其他數學及電算機科學相關",
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：碩士以上\n科系要求：其他數學及電算機科學相關、電機電子工程相關、資訊工程相關",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:05:07+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "<部門簡介>\n先進工業電腦視覺解決方案新事業發展部(Advanced Industrial Computer Vision Solution BD, AICBD) 致力於解決製造業中的人工作業問題，提供全面且靈活的解決方案，幫助企業在市場競爭中脫穎而出。AICBD專注於利用人工智慧（AI）和深度學習技術，為製造業提供高效且精確的電腦視覺解決方案，旨在提升生產效率和產品品質。\n核心目標：\n1. 提升組裝直通率：通過AI管理平台蒐集和分析工站影像資料，減少錯、漏、反造成品質不良的因素和降低重工率，提高生產效率。\n2. 提高產品品質：在關鍵步驟應用AI電腦視覺技術，確保產品出貨後穩定可靠，增強競爭力。\n3. 縮短新產品導入時間：利用AI技術，加快新產品導入流程，協助工廠提升競爭力。\n主要職責 :\n1. 負責設計與開發AI電腦視覺/大型語言模型之機器學習技術\n2. 協同開發、佈建和測試解決方案於應用場域\n3. 依專案需求研讀機器學習技術於電腦視覺/大語言模型相關應用議題\n其他需求 :\n1. 熟悉PyTorch、TensorFlow等深度學習Framework\n2. 熟悉以下任一語言：Java, C/C++\n3. 熟悉以下任一模型部署框架: OpenVINO、TensorRT、ONNXRUNTIME\n4. 熟悉 Git 與相關版控流程\n5. 熟悉Linux維運、開發和分析類型産品佈署者佳\n6. 相關AI頂尖會議發表如CVPR, ICCV, NeurIPS, AAAI, ICML, ICLR者佳\n7. 串接LLM API經驗者佳\n8. 具備良好溝通能力，主動積極學習",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "<部門簡介>\n先進工業電腦視覺解決方案新事業發展部(Advanced Industrial Computer Vision Solution BD, AICBD) 致力於解決製造業中的人工作業問題，提供全面且靈活的解決方案，幫助企業在市場競爭中脫穎而出。AICBD專注於利用人工智慧（AI）和深度學習技術，為製造業提供高效且精確的電腦視覺解決方案，旨在提升生產效率和產品品質。\n核心目標：\n1. 提升組裝直通率：通過AI管理平台蒐集和分析工站影像資料，減少錯、漏、反造成品質不良的因素和降低重工率，提高生產效率。\n2. 提高產品品質：在關鍵步驟應用AI電腦視覺技術，確保產品出貨後穩定可靠，增強競爭力。\n3. 縮短新產品導入時間：利用AI技術，加快新產品導入流程，協助工廠提升競爭力。\n主要職責 :\n1. 負責設計與開發AI電腦視覺/大型語言模型之機器學習技術\n2. 協同開發、佈建和測試解決方案於應用場域\n3. 依專案需求研讀機器學習技術於電腦視覺/大語言模型相關應用議題\n其他需求 :\n1. 熟悉PyTorch、TensorFlow等深度學習Framework\n2. 熟悉以下任一語言：Java, C/C++\n3. 熟悉以下任一模型部署框架: OpenVINO、TensorRT、ONNXRUNTIME\n4. 熟悉 Git 與相關版控流程\n5. 熟悉Linux維運、開發和分析類型産品佈署者佳\n6. 相關AI頂尖會議發表如CVPR, ICCV, NeurIPS, AAAI, ICML, ICLR者佳\n7. 串接LLM API經驗者佳\n8. 具備良好溝通能力，主動積極學習"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "其他數學及電算機科學相關",
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "其他數學及電算機科學相關、電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：碩士以上\n科系要求：其他數學及電算機科學相關、電機電子工程相關、資訊工程相關"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8g4ed",
+    "job_url": "https://www.104.com.tw/job/8g4ed",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8g4ed.json",
+    "raw_sha256": "33f65c61332e211e5d2d9323b5349a2115e51c74b07f95eff4de2e717d9fd4f1",
+    "requested_url": "https://www.104.com.tw/api/jobs/8g4ed"
+  }
+}

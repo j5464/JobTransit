@@ -1,0 +1,212 @@
+{
+  "company": {
+    "id": "d6coi34",
+    "name": "鼎新數智股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "前端工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI Agent 系統開發"
+        },
+        {
+          "children": [],
+          "text": "系統整合與功能開發"
+        },
+        {
+          "children": [],
+          "text": "AI 應用品質優化"
+        },
+        {
+          "children": [],
+          "text": "雲端部署與系統維運"
+        },
+        {
+          "children": [],
+          "text": "團隊協作"
+        },
+        {
+          "children": [],
+          "text": "職涯發展"
+        }
+      ],
+      "text": "1. AI Agent 系統開發\n參與 AI Agent 系統設計、開發與維運，建構具備推理、決策及任務執行能力的智慧代理系統。\n開發 AI Agent 與大型語言模型（LLM）的整合功能，提升企業流程自動化與智慧化能力。\n2. 系統整合與功能開發\n開發 AI Agent 與企業內外部系統（API、資料庫、第三方服務等）之整合功能，讓 Agent 能執行實際業務流程。\n協助建置 AI 應用相關服務與模組，提升系統可維護性與擴充性。\n3. AI 應用品質優化\n協助優化 AI Agent 回應品質、執行效率及系統穩定性。\n參與 AI 應用測試、除錯及效能調校，持續提升產品品質與使用體驗。\n4. 雲端部署與系統維運\n協助 AI 應用部署、維運及監控，建立穩定且具擴充性的服務架構。\n撰寫技術文件、系統設計文件及開發文件。\n5. 團隊協作\n與產品、前端、後端、測試等團隊合作，共同完成產品開發與功能交付。\n持續研究 AI Agent、LLM 與生成式 AI 技術，並將新技術導入產品開發。\n6. 職涯發展\n視個人能力與發展規劃，將逐步參與需求分析、系統設計、解決方案規劃及客戶需求訪談，培養成為具備產品思維與技術能力的系統分析師（SA）。\n台中:台中市大里區東湖里中興路一段161號\n桃園:桃園市桃園區中正路1351號16樓"
+    },
+    "employment_type_raw": "全職",
+    "title": "C-AI Agent 工程師(台中/桃園)"
+  },
+  "location": {
+    "address_raw": "台中市大里區東湖里中興路一段161號",
+    "raw": "台中市大里區東湖里中興路一段161號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Java",
+          "Python",
+          "MS SQL",
+          "PostgreSQL"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Python、MS SQL、PostgreSQL"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【具備以下經驗尤佳】\nAI Agent／LLM\n具備 LangChain、LangGraph、Google Agent ADK、CrewAI、Semantic Kernel 等 Agent Framework 使用經驗。\n熟悉 Prompt Engineering、Tool Calling、Function Calling 等 LLM 應用技術。\n了解 RAG（Retrieval-Augmented Generation）架構及相關應用。\n了解 Multi-Agent、ReAct、Plan-and-Execute 等 Agent 設計模式。\n具備 OpenAI、Gemini、Claude 或 Vertex AI 等大型語言模型整合經驗。\n雲端與平台\n熟悉 Docker、GCP 或其他雲端平台部署經驗。\n具備 CI/CD、自動化部署或容器化開發經驗。\n資料處理\n熟悉 Vector Database（Milvus、Pinecone、Weaviate、Vertex AI Vector Search）應用。\n具備 Neo4j 或其他 Graph Database 使用經驗。\n軟體工程\n熟悉 FastAPI、AsyncIO 或 Python 非同步開發。\n具備 AI 應用測試、效能調校或 LLMOps 經驗。\n了解 Vue、React 等前端框架，具備跨團隊協作經驗。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "【具備以下經驗尤佳】\nAI Agent／LLM\n具備 LangChain、LangGraph、Google Agent ADK、CrewAI、Semantic Kernel 等 Agent Framework 使用經驗。\n熟悉 Prompt Engineering、Tool Calling、Function Calling 等 LLM 應用技術。\n了解 RAG（Retrieval-Augmented Generation）架構及相關應用。\n了解 Multi-Agent、ReAct、Plan-and-Execute 等 Agent 設計模式。\n具備 OpenAI、Gemini、Claude 或 Vertex AI 等大型語言模型整合經驗。\n雲端與平台\n熟悉 Docker、GCP 或其他雲端平台部署經驗。\n具備 CI/CD、自動化部署或容器化開發經驗。\n資料處理\n熟悉 Vector Database（Milvus、Pinecone、Weaviate、Vertex AI Vector Search）應用。\n具備 Neo4j 或其他 Graph Database 使用經驗。\n軟體工程\n熟悉 FastAPI、AsyncIO 或 Python 非同步開發。\n具備 AI 應用測試、效能調校或 LLMOps 經驗。\n了解 Vue、React 等前端框架，具備跨團隊協作經驗。",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、Python、MS SQL、PostgreSQL\n其他條件：【具備以下經驗尤佳】\nAI Agent／LLM\n具備 LangChain、LangGraph、Google Agent ADK、CrewAI、Semantic Kernel 等 Agent Framework 使用經驗。\n熟悉 Prompt Engineering、Tool Calling、Function Calling 等 LLM 應用技術。\n了解 RAG（Retrieval-Augmented Generation）架構及相關應用。\n了解 Multi-Agent、ReAct、Plan-and-Execute 等 Agent 設計模式。\n具備 OpenAI、Gemini、Claude 或 Vertex AI 等大型語言模型整合經驗。\n雲端與平台\n熟悉 Docker、GCP 或其他雲端平台部署經驗。\n具備 CI/CD、自動化部署或容器化開發經驗。\n資料處理\n熟悉 Vector Database（Milvus、Pinecone、Weaviate、Vertex AI Vector Search）應用。\n具備 Neo4j 或其他 Graph Database 使用經驗。\n軟體工程\n熟悉 FastAPI、AsyncIO 或 Python 非同步開發。\n具備 AI 應用測試、效能調校或 LLMOps 經驗。\n了解 Vue、React 等前端框架，具備跨團隊協作經驗。",
+    "tools": [
+      "Java",
+      "Python",
+      "MS SQL",
+      "PostgreSQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 15
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:59:22+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. AI Agent 系統開發\n參與 AI Agent 系統設計、開發與維運，建構具備推理、決策及任務執行能力的智慧代理系統。\n開發 AI Agent 與大型語言模型（LLM）的整合功能，提升企業流程自動化與智慧化能力。\n2. 系統整合與功能開發\n開發 AI Agent 與企業內外部系統（API、資料庫、第三方服務等）之整合功能，讓 Agent 能執行實際業務流程。\n協助建置 AI 應用相關服務與模組，提升系統可維護性與擴充性。\n3. AI 應用品質優化\n協助優化 AI Agent 回應品質、執行效率及系統穩定性。\n參與 AI 應用測試、除錯及效能調校，持續提升產品品質與使用體驗。\n4. 雲端部署與系統維運\n協助 AI 應用部署、維運及監控，建立穩定且具擴充性的服務架構。\n撰寫技術文件、系統設計文件及開發文件。\n5. 團隊協作\n與產品、前端、後端、測試等團隊合作，共同完成產品開發與功能交付。\n持續研究 AI Agent、LLM 與生成式 AI 技術，並將新技術導入產品開發。\n6. 職涯發展\n視個人能力與發展規劃，將逐步參與需求分析、系統設計、解決方案規劃及客戶需求訪談，培養成為具備產品思維與技術能力的系統分析師（SA）。\n台中:台中市大里區東湖里中興路一段161號\n桃園:桃園市桃園區中正路1351號16樓",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "前端工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、前端工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市大里區東湖里中興路一段161號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. AI Agent 系統開發\n參與 AI Agent 系統設計、開發與維運，建構具備推理、決策及任務執行能力的智慧代理系統。\n開發 AI Agent 與大型語言模型（LLM）的整合功能，提升企業流程自動化與智慧化能力。\n2. 系統整合與功能開發\n開發 AI Agent 與企業內外部系統（API、資料庫、第三方服務等）之整合功能，讓 Agent 能執行實際業務流程。\n協助建置 AI 應用相關服務與模組，提升系統可維護性與擴充性。\n3. AI 應用品質優化\n協助優化 AI Agent 回應品質、執行效率及系統穩定性。\n參與 AI 應用測試、除錯及效能調校，持續提升產品品質與使用體驗。\n4. 雲端部署與系統維運\n協助 AI 應用部署、維運及監控，建立穩定且具擴充性的服務架構。\n撰寫技術文件、系統設計文件及開發文件。\n5. 團隊協作\n與產品、前端、後端、測試等團隊合作，共同完成產品開發與功能交付。\n持續研究 AI Agent、LLM 與生成式 AI 技術，並將新技術導入產品開發。\n6. 職涯發展\n視個人能力與發展規劃，將逐步參與需求分析、系統設計、解決方案規劃及客戶需求訪談，培養成為具備產品思維與技術能力的系統分析師（SA）。\n台中:台中市大里區東湖里中興路一段161號\n桃園:桃園市桃園區中正路1351號16樓"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Python",
+            "MS SQL",
+            "PostgreSQL"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Python、MS SQL、PostgreSQL",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【具備以下經驗尤佳】\nAI Agent／LLM\n具備 LangChain、LangGraph、Google Agent ADK、CrewAI、Semantic Kernel 等 Agent Framework 使用經驗。\n熟悉 Prompt Engineering、Tool Calling、Function Calling 等 LLM 應用技術。\n了解 RAG（Retrieval-Augmented Generation）架構及相關應用。\n了解 Multi-Agent、ReAct、Plan-and-Execute 等 Agent 設計模式。\n具備 OpenAI、Gemini、Claude 或 Vertex AI 等大型語言模型整合經驗。\n雲端與平台\n熟悉 Docker、GCP 或其他雲端平台部署經驗。\n具備 CI/CD、自動化部署或容器化開發經驗。\n資料處理\n熟悉 Vector Database（Milvus、Pinecone、Weaviate、Vertex AI Vector Search）應用。\n具備 Neo4j 或其他 Graph Database 使用經驗。\n軟體工程\n熟悉 FastAPI、AsyncIO 或 Python 非同步開發。\n具備 AI 應用測試、效能調校或 LLMOps 經驗。\n了解 Vue、React 等前端框架，具備跨團隊協作經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、Python、MS SQL、PostgreSQL\n其他條件：【具備以下經驗尤佳】\nAI Agent／LLM\n具備 LangChain、LangGraph、Google Agent ADK、CrewAI、Semantic Kernel 等 Agent Framework 使用經驗。\n熟悉 Prompt Engineering、Tool Calling、Function Calling 等 LLM 應用技術。\n了解 RAG（Retrieval-Augmented Generation）架構及相關應用。\n了解 Multi-Agent、ReAct、Plan-and-Execute 等 Agent 設計模式。\n具備 OpenAI、Gemini、Claude 或 Vertex AI 等大型語言模型整合經驗。\n雲端與平台\n熟悉 Docker、GCP 或其他雲端平台部署經驗。\n具備 CI/CD、自動化部署或容器化開發經驗。\n資料處理\n熟悉 Vector Database（Milvus、Pinecone、Weaviate、Vertex AI Vector Search）應用。\n具備 Neo4j 或其他 Graph Database 使用經驗。\n軟體工程\n熟悉 FastAPI、AsyncIO 或 Python 非同步開發。\n具備 AI 應用測試、效能調校或 LLMOps 經驗。\n了解 Vue、React 等前端框架，具備跨團隊協作經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93kk1",
+    "job_url": "https://www.104.com.tw/job/93kk1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93kk1.json",
+    "raw_sha256": "aeaac1959db5d7bd399d9a41824f33108e1955d25878c4a5a9095f2b81f0369d",
+    "requested_url": "https://www.104.com.tw/api/jobs/93kk1"
+  }
+}

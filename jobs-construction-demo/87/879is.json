@@ -1,0 +1,208 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Performance comparisons of various CPU architectures to identify optimal solutions for specific applications."
+        },
+        {
+          "children": [],
+          "text": "Design an interrupt mechanism for specific IP."
+        },
+        {
+          "children": [],
+          "text": "Design an customized-MMU for specific application."
+        },
+        {
+          "children": [],
+          "text": "System architecture exploration"
+        },
+        {
+          "children": [],
+          "text": "Investigate and evaluate new technologies and methodologies that can be incorporated into system architecture design."
+        }
+      ],
+      "text": "1. Performance comparisons of various CPU architectures to identify optimal solutions for specific applications.\n2. Design an interrupt mechanism for specific IP.\n3. Design an customized-MMU for specific application.\n4. System architecture exploration\n5. Investigate and evaluate new technologies and methodologies that can be incorporated into system architecture design."
+    },
+    "employment_type_raw": "全職",
+    "title": "CPU與IP微架構設計工程師8100 / Machine Learning Computing Architecture Engineer"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Nice to Have:\n1. Experience with system-level modeling, profiling, and analysis.Proficiency in SystemC and Verilog languages.\n2. Knowledge of Computer Architectures, including CPU, GPU, DRAM, SSD, and other hardware components.\n3. Understanding of Linux kernel development."
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "Nice to Have:\n1. Experience with system-level modeling, profiling, and analysis.Proficiency in SystemC and Verilog languages.\n2. Knowledge of Computer Architectures, including CPU, GPU, DRAM, SSD, and other hardware components.\n3. Understanding of Linux kernel development.",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子工程相關、資訊工程相關\n擅長工具：C、C++、Python\n其他條件：Nice to Have:\n1. Experience with system-level modeling, profiling, and analysis.Proficiency in SystemC and Verilog languages.\n2. Knowledge of Computer Architectures, including CPU, GPU, DRAM, SSD, and other hardware components.\n3. Understanding of Linux kernel development.",
+    "tools": [
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 37
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:52:18+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. Performance comparisons of various CPU architectures to identify optimal solutions for specific applications.\n2. Design an interrupt mechanism for specific IP.\n3. Design an customized-MMU for specific application.\n4. System architecture exploration\n5. Investigate and evaluate new technologies and methodologies that can be incorporated into system architecture design.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. Performance comparisons of various CPU architectures to identify optimal solutions for specific applications.\n2. Design an interrupt mechanism for specific IP.\n3. Design an customized-MMU for specific application.\n4. System architecture exploration\n5. Investigate and evaluate new technologies and methodologies that can be incorporated into system architecture design."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Nice to Have:\n1. Experience with system-level modeling, profiling, and analysis.Proficiency in SystemC and Verilog languages.\n2. Knowledge of Computer Architectures, including CPU, GPU, DRAM, SSD, and other hardware components.\n3. Understanding of Linux kernel development.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子工程相關、資訊工程相關\n擅長工具：C、C++、Python\n其他條件：Nice to Have:\n1. Experience with system-level modeling, profiling, and analysis.Proficiency in SystemC and Verilog languages.\n2. Knowledge of Computer Architectures, including CPU, GPU, DRAM, SSD, and other hardware components.\n3. Understanding of Linux kernel development."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "879is",
+    "job_url": "https://www.104.com.tw/job/879is",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/879is.json",
+    "raw_sha256": "49727b3fa0be777edc1e0054381f0ed8473e68dc711855ed76438b29c398f020",
+    "requested_url": "https://www.104.com.tw/api/jobs/879is"
+  }
+}

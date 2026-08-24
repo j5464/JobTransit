@@ -1,0 +1,234 @@
+{
+  "company": {
+    "id": "a3xwdq8",
+    "name": "影像電腦股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助進行專案之需求訪談，彙整系統需求進行規劃分析"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料庫設計及規劃分析，具備資料庫系統開發經驗尤佳。"
+        },
+        {
+          "children": [],
+          "text": "熟悉前後端程式語言，有程式開發經驗者佳。"
+        },
+        {
+          "children": [],
+          "text": "規劃並撰寫系統需求書，系統分析設計書。"
+        },
+        {
+          "children": [],
+          "text": "在專案執行過程中進行軟體開發之溝通與協調的工作。"
+        }
+      ],
+      "text": "1.協助進行專案之需求訪談，彙整系統需求進行規劃分析\n2.熟悉資料庫設計及規劃分析，具備資料庫系統開發經驗尤佳。\n3.熟悉前後端程式語言，有程式開發經驗者佳。\n4.規劃並撰寫系統需求書，系統分析設計書。\n5.在專案執行過程中進行軟體開發之溝通與協調的工作。"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統分析師"
+  },
+  "location": {
+    "address_raw": "台北市中正區衡陽路36號13樓",
+    "raw": "台北市中正區衡陽路36號13樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "Java",
+          "Visual C#",
+          "MS SQL",
+          "JavaScript",
+          "CSS",
+          "VueJS",
+          "PowerPoint",
+          "Visio",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Visual C#、MS SQL、JavaScript、CSS、VueJS、PowerPoint、Visio、Word"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、資料庫程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Java、Visual C#、MS SQL、JavaScript、CSS、VueJS、PowerPoint、Visio、Word\n工作技能：系統架構規劃、系統整合分析、資料庫程式設計",
+    "tools": [
+      "Java",
+      "Visual C#",
+      "MS SQL",
+      "JavaScript",
+      "CSS",
+      "VueJS",
+      "PowerPoint",
+      "Visio",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 98
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:24:10+08:00"
+  },
+  "salary": {
+    "raw": "月薪55,000~65,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.協助進行專案之需求訪談，彙整系統需求進行規劃分析\n2.熟悉資料庫設計及規劃分析，具備資料庫系統開發經驗尤佳。\n3.熟悉前後端程式語言，有程式開發經驗者佳。\n4.規劃並撰寫系統需求書，系統分析設計書。\n5.在專案執行過程中進行軟體開發之溝通與協調的工作。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪55,000~65,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區衡陽路36號13樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.協助進行專案之需求訪談，彙整系統需求進行規劃分析\n2.熟悉資料庫設計及規劃分析，具備資料庫系統開發經驗尤佳。\n3.熟悉前後端程式語言，有程式開發經驗者佳。\n4.規劃並撰寫系統需求書，系統分析設計書。\n5.在專案執行過程中進行軟體開發之溝通與協調的工作。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Visual C#",
+            "MS SQL",
+            "JavaScript",
+            "CSS",
+            "VueJS",
+            "PowerPoint",
+            "Visio",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Visual C#、MS SQL、JavaScript、CSS、VueJS、PowerPoint、Visio、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Java、Visual C#、MS SQL、JavaScript、CSS、VueJS、PowerPoint、Visio、Word\n工作技能：系統架構規劃、系統整合分析、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "84zfs",
+    "job_url": "https://www.104.com.tw/job/84zfs",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/84zfs.json",
+    "raw_sha256": "fb4816354841e5792c9e9d7ce797b3fdbd6f7f294a31c334e7ff1d1808625b71",
+    "requested_url": "https://www.104.com.tw/api/jobs/84zfs"
+  }
+}

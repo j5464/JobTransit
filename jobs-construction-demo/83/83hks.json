@@ -1,0 +1,251 @@
+{
+  "company": {
+    "id": "1a2x6bmngn",
+    "name": "敦謙快線股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "支撐 aeroride 核心產品的後端架構"
+        },
+        {
+          "children": [],
+          "text": "高穩定性的 API 與訂單管理系統"
+        },
+        {
+          "children": [],
+          "text": "支付、航班資訊及第三方平台整合"
+        },
+        {
+          "children": [],
+          "text": "能持續成長與擴充的系統架構"
+        },
+        {
+          "children": [],
+          "text": "每天服務真實使用者的產品平台"
+        },
+        {
+          "children": [],
+          "text": "使用 PHP（Laravel 等 MVC Framework）開發與維護 RESTful API"
+        },
+        {
+          "children": [],
+          "text": "開發訂單系統、內部管理平台及相關營運工具"
+        },
+        {
+          "children": [],
+          "text": "串接第三方支付、境內外金流及其他外部服務"
+        },
+        {
+          "children": [],
+          "text": "規劃並持續優化系統架構，提升穩定性與擴充能力"
+        },
+        {
+          "children": [],
+          "text": "管理 Git 版本控制流程，維持程式品質"
+        },
+        {
+          "children": [],
+          "text": "開發與維護各項 Web Service，支援跨平台整合需求"
+        },
+        {
+          "children": [],
+          "text": "主動分析並解決系統問題，持續改善產品品質與效能"
+        },
+        {
+          "children": [],
+          "text": "熟悉 PHP 開發，並具備 Laravel 或其他 MVC Framework 實務經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RESTful API 設計與開發"
+        },
+        {
+          "children": [],
+          "text": "熟悉 SQL 與資料庫 Schema 設計"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版本控制流程"
+        },
+        {
+          "children": [],
+          "text": "了解 HTML、CSS、JavaScript、AJAX、JSON 等 Web 技術"
+        },
+        {
+          "children": [],
+          "text": "具備獨立分析問題與解決問題的能力"
+        },
+        {
+          "children": [],
+          "text": "對系統穩定性、程式品質與可維護性具有高度要求"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Redis、Memcache 或其他快取機制"
+        },
+        {
+          "children": [],
+          "text": "具備 AWS、GCP 或 Azure 雲端服務開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Linux Server 維護與部署"
+        },
+        {
+          "children": [],
+          "text": "曾參與大型產品或高流量系統開發"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Microservices Architecture"
+        },
+        {
+          "children": [],
+          "text": "理解前端開發流程，能與 Frontend Engineer 良好協作"
+        },
+        {
+          "children": [],
+          "text": "曾參與支付、SaaS、Travel Tech、Mobility 或相關產品開發"
+        }
+      ],
+      "text": "What you build is the system people rely on — even when they don’t see it.\n不是所有重要的設計，都看得見。\n每一次成功的付款、每一次即時派車、每一次航班同步，\n背後都有一套穩定運作的系統默默支撐。\n在 aeroride，我們相信，\n真正優秀的後端，不只是讓功能可以使用，\n而是讓整個產品在成長的過程中，依然可靠、安全且值得信任。\n如果你享受解決複雜問題，也相信好的架構能讓產品走得更遠，\n我們期待與你一起打造下一代智慧出行平台。\n⸻\nAbout This Role\n這不是一個只負責撰寫 API 的 Backend Engineer 職位。\n在 aeroride，你將參與產品核心系統的設計、開發與持續優化，包含 API、支付系統、訂單流程、第三方服務串接，以及支撐真實營運的後端架構。\n你將與 Product Manager、Frontend Engineer 及其他跨部門團隊密切合作，共同思考產品如何運作，而不只是功能如何完成。\n你需要思考的不只是程式碼，更是系統的穩定性、可擴充性、安全性與長期維護。\n如果你希望打造真正被使用者每天依賴的產品，而不是一次性的專案，我們很期待認識你。\n⸻\nWhat You’ll Build\n• 支撐 aeroride 核心產品的後端架構\n• 高穩定性的 API 與訂單管理系統\n• 支付、航班資訊及第三方平台整合\n• 能持續成長與擴充的系統架構\n• 每天服務真實使用者的產品平台\n⸻\nYour Role\n你將參與產品核心系統的開發與維護，包括：\n• 使用 PHP（Laravel 等 MVC Framework）開發與維護 RESTful API\n• 開發訂單系統、內部管理平台及相關營運工具\n• 串接第三方支付、境內外金流及其他外部服務\n• 規劃並持續優化系統架構，提升穩定性與擴充能力\n• 管理 Git 版本控制流程，維持程式品質\n• 開發與維護各項 Web Service，支援跨平台整合需求\n• 主動分析並解決系統問題，持續改善產品品質與效能\n⸻\nRequirements\n• 熟悉 PHP 開發，並具備 Laravel 或其他 MVC Framework 實務經驗\n• 熟悉 RESTful API 設計與開發\n• 熟悉 SQL 與資料庫 Schema 設計\n• 熟悉 Git 版本控制流程\n• 了解 HTML、CSS、JavaScript、AJAX、JSON 等 Web 技術\n• 具備獨立分析問題與解決問題的能力\n• 對系統穩定性、程式品質與可維護性具有高度要求\n⸻\nBonus Points\n• 熟悉 Redis、Memcache 或其他快取機制\n• 具備 AWS、GCP 或 Azure 雲端服務開發經驗\n• 熟悉 Linux Server 維護與部署\n• 曾參與大型產品或高流量系統開發\n• 熟悉 Microservices Architecture\n• 理解前端開發流程，能與 Frontend Engineer 良好協作\n• 曾參與支付、SaaS、Travel Tech、Mobility 或相關產品開發\n⸻\nWhy aeroride\n我們正在打造的不只是機場接送平台，而是一個結合交通、支付、旅遊與即時資訊的智慧出行產品。\n在這裡，你所開發的每一個 API、每一次架構調整，都會真實影響每天使用服務的旅客，以及整個產品未來的發展方向。\n我們相信，優秀的後端工程，不只是讓系統正常運作，更是產品能持續成長的重要基礎。\n⸻\nGreat products are built on invisible foundations.\n真正偉大的產品，\n往往建立在使用者看不見的地方。\n如果你相信，穩定、安全與可維護的系統，\n才是一個產品真正的競爭力，\n歡迎加入 aeroride，\n一起打造下一代智慧出行平台。"
+    },
+    "employment_type_raw": "全職",
+    "title": "後端工程師 ● PHP Developer"
+  },
+  "location": {
+    "address_raw": "台北市信義區光復南路495號4樓",
+    "raw": "台北市信義區光復南路495號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "PHP"
+        ],
+        "label": "擅長工具",
+        "text": "PHP"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：PHP",
+    "tools": [
+      "PHP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 72
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:18:53+08:00"
+  },
+  "salary": {
+    "raw": "月薪55,000~65,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "What you build is the system people rely on — even when they don’t see it.\n不是所有重要的設計，都看得見。\n每一次成功的付款、每一次即時派車、每一次航班同步，\n背後都有一套穩定運作的系統默默支撐。\n在 aeroride，我們相信，\n真正優秀的後端，不只是讓功能可以使用，\n而是讓整個產品在成長的過程中，依然可靠、安全且值得信任。\n如果你享受解決複雜問題，也相信好的架構能讓產品走得更遠，\n我們期待與你一起打造下一代智慧出行平台。\n⸻\nAbout This Role\n這不是一個只負責撰寫 API 的 Backend Engineer 職位。\n在 aeroride，你將參與產品核心系統的設計、開發與持續優化，包含 API、支付系統、訂單流程、第三方服務串接，以及支撐真實營運的後端架構。\n你將與 Product Manager、Frontend Engineer 及其他跨部門團隊密切合作，共同思考產品如何運作，而不只是功能如何完成。\n你需要思考的不只是程式碼，更是系統的穩定性、可擴充性、安全性與長期維護。\n如果你希望打造真正被使用者每天依賴的產品，而不是一次性的專案，我們很期待認識你。\n⸻\nWhat You’ll Build\n• 支撐 aeroride 核心產品的後端架構\n• 高穩定性的 API 與訂單管理系統\n• 支付、航班資訊及第三方平台整合\n• 能持續成長與擴充的系統架構\n• 每天服務真實使用者的產品平台\n⸻\nYour Role\n你將參與產品核心系統的開發與維護，包括：\n• 使用 PHP（Laravel 等 MVC Framework）開發與維護 RESTful API\n• 開發訂單系統、內部管理平台及相關營運工具\n• 串接第三方支付、境內外金流及其他外部服務\n• 規劃並持續優化系統架構，提升穩定性與擴充能力\n• 管理 Git 版本控制流程，維持程式品質\n• 開發與維護各項 Web Service，支援跨平台整合需求\n• 主動分析並解決系統問題，持續改善產品品質與效能\n⸻\nRequirements\n• 熟悉 PHP 開發，並具備 Laravel 或其他 MVC Framework 實務經驗\n• 熟悉 RESTful API 設計與開發\n• 熟悉 SQL 與資料庫 Schema 設計\n• 熟悉 Git 版本控制流程\n• 了解 HTML、CSS、JavaScript、AJAX、JSON 等 Web 技術\n• 具備獨立分析問題與解決問題的能力\n• 對系統穩定性、程式品質與可維護性具有高度要求\n⸻\nBonus Points\n• 熟悉 Redis、Memcache 或其他快取機制\n• 具備 AWS、GCP 或 Azure 雲端服務開發經驗\n• 熟悉 Linux Server 維護與部署\n• 曾參與大型產品或高流量系統開發\n• 熟悉 Microservices Architecture\n• 理解前端開發流程，能與 Frontend Engineer 良好協作\n• 曾參與支付、SaaS、Travel Tech、Mobility 或相關產品開發\n⸻\nWhy aeroride\n我們正在打造的不只是機場接送平台，而是一個結合交通、支付、旅遊與即時資訊的智慧出行產品。\n在這裡，你所開發的每一個 API、每一次架構調整，都會真實影響每天使用服務的旅客，以及整個產品未來的發展方向。\n我們相信，優秀的後端工程，不只是讓系統正常運作，更是產品能持續成長的重要基礎。\n⸻\nGreat products are built on invisible foundations.\n真正偉大的產品，\n往往建立在使用者看不見的地方。\n如果你相信，穩定、安全與可維護的系統，\n才是一個產品真正的競爭力，\n歡迎加入 aeroride，\n一起打造下一代智慧出行平台。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪55,000~65,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區光復南路495號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "What you build is the system people rely on — even when they don’t see it.\n不是所有重要的設計，都看得見。\n每一次成功的付款、每一次即時派車、每一次航班同步，\n背後都有一套穩定運作的系統默默支撐。\n在 aeroride，我們相信，\n真正優秀的後端，不只是讓功能可以使用，\n而是讓整個產品在成長的過程中，依然可靠、安全且值得信任。\n如果你享受解決複雜問題，也相信好的架構能讓產品走得更遠，\n我們期待與你一起打造下一代智慧出行平台。\n⸻\nAbout This Role\n這不是一個只負責撰寫 API 的 Backend Engineer 職位。\n在 aeroride，你將參與產品核心系統的設計、開發與持續優化，包含 API、支付系統、訂單流程、第三方服務串接，以及支撐真實營運的後端架構。\n你將與 Product Manager、Frontend Engineer 及其他跨部門團隊密切合作，共同思考產品如何運作，而不只是功能如何完成。\n你需要思考的不只是程式碼，更是系統的穩定性、可擴充性、安全性與長期維護。\n如果你希望打造真正被使用者每天依賴的產品，而不是一次性的專案，我們很期待認識你。\n⸻\nWhat You’ll Build\n• 支撐 aeroride 核心產品的後端架構\n• 高穩定性的 API 與訂單管理系統\n• 支付、航班資訊及第三方平台整合\n• 能持續成長與擴充的系統架構\n• 每天服務真實使用者的產品平台\n⸻\nYour Role\n你將參與產品核心系統的開發與維護，包括：\n• 使用 PHP（Laravel 等 MVC Framework）開發與維護 RESTful API\n• 開發訂單系統、內部管理平台及相關營運工具\n• 串接第三方支付、境內外金流及其他外部服務\n• 規劃並持續優化系統架構，提升穩定性與擴充能力\n• 管理 Git 版本控制流程，維持程式品質\n• 開發與維護各項 Web Service，支援跨平台整合需求\n• 主動分析並解決系統問題，持續改善產品品質與效能\n⸻\nRequirements\n• 熟悉 PHP 開發，並具備 Laravel 或其他 MVC Framework 實務經驗\n• 熟悉 RESTful API 設計與開發\n• 熟悉 SQL 與資料庫 Schema 設計\n• 熟悉 Git 版本控制流程\n• 了解 HTML、CSS、JavaScript、AJAX、JSON 等 Web 技術\n• 具備獨立分析問題與解決問題的能力\n• 對系統穩定性、程式品質與可維護性具有高度要求\n⸻\nBonus Points\n• 熟悉 Redis、Memcache 或其他快取機制\n• 具備 AWS、GCP 或 Azure 雲端服務開發經驗\n• 熟悉 Linux Server 維護與部署\n• 曾參與大型產品或高流量系統開發\n• 熟悉 Microservices Architecture\n• 理解前端開發流程，能與 Frontend Engineer 良好協作\n• 曾參與支付、SaaS、Travel Tech、Mobility 或相關產品開發\n⸻\nWhy aeroride\n我們正在打造的不只是機場接送平台，而是一個結合交通、支付、旅遊與即時資訊的智慧出行產品。\n在這裡，你所開發的每一個 API、每一次架構調整，都會真實影響每天使用服務的旅客，以及整個產品未來的發展方向。\n我們相信，優秀的後端工程，不只是讓系統正常運作，更是產品能持續成長的重要基礎。\n⸻\nGreat products are built on invisible foundations.\n真正偉大的產品，\n往往建立在使用者看不見的地方。\n如果你相信，穩定、安全與可維護的系統，\n才是一個產品真正的競爭力，\n歡迎加入 aeroride，\n一起打造下一代智慧出行平台。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PHP"
+          ],
+          "label": "擅長工具",
+          "text": "PHP",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：PHP"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "83hks",
+    "job_url": "https://www.104.com.tw/job/83hks",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/83hks.json",
+    "raw_sha256": "73d75cdc7f30bbc132e4f4a5e0f48d3f0a6057d120320276b37e27ab2cb393ec",
+    "requested_url": "https://www.104.com.tw/api/jobs/83hks"
+  }
+}

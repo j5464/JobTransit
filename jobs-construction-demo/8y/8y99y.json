@@ -1,0 +1,292 @@
+{
+  "company": {
+    "id": "oe22du0",
+    "name": "LILEE SYSTEMS_理立系統股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Management and Monitoring Server (MMS): Real-time visualization and control of wayside signals and vehicle operations. This is the primary interface for control center operators to monitor and manage the entire transit system."
+        },
+        {
+          "children": [],
+          "text": "Journey Planning System (JPS): Generates schedules based on capacity requirements, detects potential conflicts between trips, and supports real-time schedule adjustments. This involves complex algorithmic work for scheduling and conflict analysis."
+        },
+        {
+          "children": [],
+          "text": "Safety Server (SS): Orchestrates autonomous vehicles to execute passenger missions, dynamically controls wayside signals based on vehicle positions, and monitors system health across JPS, signals, and vehicles — triggering fallback procedures when anomalies occur."
+        },
+        {
+          "children": [],
+          "text": "Backend Development: Design and develop backend services with Python, FastAPI, and GraphQL, using PostgreSQL as the primary database. Own features from requirements analysis through implementation and deployment."
+        },
+        {
+          "children": [],
+          "text": "IoT Integration & Communication: Integrate with IoT devices via MQTT for real-time status collection and remote control. Implement service-to-service communication using WebSocket and RESTful APIs."
+        },
+        {
+          "children": [],
+          "text": "Testing & Quality Assurance: Write and maintain comprehensive automated tests including backend unit tests (pytest). Ensure test coverage and reliability across services."
+        },
+        {
+          "children": [],
+          "text": "Containerization & Deployment: Containerize all services with Docker and publish images to private registries. Provide stable, reproducible environments for cross-team testing and integration."
+        },
+        {
+          "children": [],
+          "text": "CI/CD & Release: Maintain CI/CD pipelines in Jenkins with Gerrit/Git workflows. Automate the full cycle from code commit through testing, image building, and publishing to registry."
+        },
+        {
+          "children": [],
+          "text": "Observability & Monitoring: Implement and maintain application monitoring using Grafana, Prometheus, and TimescaleDB. Configure webhook alerts for anomaly detection and support incident investigation."
+        },
+        {
+          "children": [],
+          "text": "Development Environment: Work in Linux environments on VMware VMs for development, testing, and debugging. Troubleshoot environment and connectivity issues across distributed services."
+        },
+        {
+          "children": [],
+          "text": "Collaboration: Work closely with team members to execute and deliver features. Track progress and communicate status effectively."
+        },
+        {
+          "children": [],
+          "text": "3+ years of experience in backend software development."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in Python and backend frameworks such as FastAPI."
+        },
+        {
+          "children": [],
+          "text": "Solid experience with relational databases (PostgreSQL preferred)."
+        },
+        {
+          "children": [],
+          "text": "Strong understanding of RESTful APIs and GraphQL."
+        },
+        {
+          "children": [],
+          "text": "Experience with WebSocket for real-time communication."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in Linux environments and command-line tools."
+        },
+        {
+          "children": [],
+          "text": "Hands-on experience with Docker and containerization."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with Git-based version control workflows (Gerrit experience is a plus)."
+        },
+        {
+          "children": [],
+          "text": "Strong background in unit testing."
+        }
+      ],
+      "text": "About the Role:\nWe are building software systems for autonomous vehicles. You will work on safety-critical applications including:\n•Management and Monitoring Server (MMS): Real-time visualization and control of wayside signals and vehicle operations. This is the primary interface for control center operators to monitor and manage the entire transit system.\n•Journey Planning System (JPS): Generates schedules based on capacity requirements, detects potential conflicts between trips, and supports real-time schedule adjustments. This involves complex algorithmic work for scheduling and conflict analysis.\n•Safety Server (SS): Orchestrates autonomous vehicles to execute passenger missions, dynamically controls wayside signals based on vehicle positions, and monitors system health across JPS, signals, and vehicles — triggering fallback procedures when anomalies occur.\nThis role offers the opportunity to work on technology that directly impacts public transportation safety and efficiency.\nResponsibilities:\n•Backend Development: Design and develop backend services with Python, FastAPI, and GraphQL, using PostgreSQL as the primary database. Own features from requirements analysis through implementation and deployment.\n•IoT Integration & Communication: Integrate with IoT devices via MQTT for real-time status collection and remote control. Implement service-to-service communication using WebSocket and RESTful APIs.\n•Testing & Quality Assurance: Write and maintain comprehensive automated tests including backend unit tests (pytest). Ensure test coverage and reliability across services.\n•Containerization & Deployment: Containerize all services with Docker and publish images to private registries. Provide stable, reproducible environments for cross-team testing and integration.\n•CI/CD & Release: Maintain CI/CD pipelines in Jenkins with Gerrit/Git workflows. Automate the full cycle from code commit through testing, image building, and publishing to registry.\n•Observability & Monitoring: Implement and maintain application monitoring using Grafana, Prometheus, and TimescaleDB. Configure webhook alerts for anomaly detection and support incident investigation.\n•Development Environment: Work in Linux environments on VMware VMs for development, testing, and debugging. Troubleshoot environment and connectivity issues across distributed services.\n•Collaboration: Work closely with team members to execute and deliver features. Track progress and communicate status effectively.\nRequirements:\n•3+ years of experience in backend software development.\n•Proficiency in Python and backend frameworks such as FastAPI.\n•Solid experience with relational databases (PostgreSQL preferred).\n•Strong understanding of RESTful APIs and GraphQL.\n•Experience with WebSocket for real-time communication.\n•Proficiency in Linux environments and command-line tools.\n•Hands-on experience with Docker and containerization.\n•Familiarity with Git-based version control workflows (Gerrit experience is a plus).\n•Strong background in unit testing."
+    },
+    "employment_type_raw": "全職",
+    "title": "Backend Engineer"
+  },
+  "location": {
+    "address_raw": "新北市板橋區新站路16之1號24樓(近板橋車站)",
+    "raw": "新北市板橋區新站路16之1號24樓(近板橋車站)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、精通、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、精通、中等"
+      },
+      {
+        "items": [
+          "Python",
+          "DNS",
+          "VMS",
+          "PostgreSQL",
+          "TCP/IP",
+          "Linux"
+        ],
+        "label": "擅長工具",
+        "text": "Python、DNS、VMS、PostgreSQL、TCP/IP、Linux"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Nice to Have:\n•Experience with MQTT and message queues for IoT device integration.\n•Familiarity with CI/CD pipelines and Jenkins.\n•Experience with monitoring stacks (Grafana, Prometheus) and time-series databases (TimescaleDB).\n•Understanding of networking concepts for cross-VM service integration, including TCP/IP, DNS, firewall/port configuration, and troubleshooting connectivity issues.\n•Experience working in VMware virtualized environments.\n•Experience leading system design and architecture decisions.\n•Track record of mentoring engineers or conducting code reviews.\n•Ability to independently break down requirements into actionable tasks.\nPlus:\n•Experience in railway, transit, or transportation industries.\n•Experience with IoT systems and protocols beyond MQTT.\n•Experience owning end-to-end project delivery and cross-team coordination."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、精通、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "Nice to Have:\n•Experience with MQTT and message queues for IoT device integration.\n•Familiarity with CI/CD pipelines and Jenkins.\n•Experience with monitoring stacks (Grafana, Prometheus) and time-series databases (TimescaleDB).\n•Understanding of networking concepts for cross-VM service integration, including TCP/IP, DNS, firewall/port configuration, and troubleshooting connectivity issues.\n•Experience working in VMware virtualized environments.\n•Experience leading system design and architecture decisions.\n•Track record of mentoring engineers or conducting code reviews.\n•Ability to independently break down requirements into actionable tasks.\nPlus:\n•Experience in railway, transit, or transportation industries.\n•Experience with IoT systems and protocols beyond MQTT.\n•Experience owning end-to-end project delivery and cross-team coordination.",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、精通、中等\n擅長工具：Python、DNS、VMS、PostgreSQL、TCP/IP、Linux\n其他條件：Nice to Have:\n•Experience with MQTT and message queues for IoT device integration.\n•Familiarity with CI/CD pipelines and Jenkins.\n•Experience with monitoring stacks (Grafana, Prometheus) and time-series databases (TimescaleDB).\n•Understanding of networking concepts for cross-VM service integration, including TCP/IP, DNS, firewall/port configuration, and troubleshooting connectivity issues.\n•Experience working in VMware virtualized environments.\n•Experience leading system design and architecture decisions.\n•Track record of mentoring engineers or conducting code reviews.\n•Ability to independently break down requirements into actionable tasks.\nPlus:\n•Experience in railway, transit, or transportation industries.\n•Experience with IoT systems and protocols beyond MQTT.\n•Experience owning end-to-end project delivery and cross-team coordination.",
+    "tools": [
+      "Python",
+      "DNS",
+      "VMS",
+      "PostgreSQL",
+      "TCP/IP",
+      "Linux"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 30
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:36:05+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "About the Role:\nWe are building software systems for autonomous vehicles. You will work on safety-critical applications including:\n•Management and Monitoring Server (MMS): Real-time visualization and control of wayside signals and vehicle operations. This is the primary interface for control center operators to monitor and manage the entire transit system.\n•Journey Planning System (JPS): Generates schedules based on capacity requirements, detects potential conflicts between trips, and supports real-time schedule adjustments. This involves complex algorithmic work for scheduling and conflict analysis.\n•Safety Server (SS): Orchestrates autonomous vehicles to execute passenger missions, dynamically controls wayside signals based on vehicle positions, and monitors system health across JPS, signals, and vehicles — triggering fallback procedures when anomalies occur.\nThis role offers the opportunity to work on technology that directly impacts public transportation safety and efficiency.\nResponsibilities:\n•Backend Development: Design and develop backend services with Python, FastAPI, and GraphQL, using PostgreSQL as the primary database. Own features from requirements analysis through implementation and deployment.\n•IoT Integration & Communication: Integrate with IoT devices via MQTT for real-time status collection and remote control. Implement service-to-service communication using WebSocket and RESTful APIs.\n•Testing & Quality Assurance: Write and maintain comprehensive automated tests including backend unit tests (pytest). Ensure test coverage and reliability across services.\n•Containerization & Deployment: Containerize all services with Docker and publish images to private registries. Provide stable, reproducible environments for cross-team testing and integration.\n•CI/CD & Release: Maintain CI/CD pipelines in Jenkins with Gerrit/Git workflows. Automate the full cycle from code commit through testing, image building, and publishing to registry.\n•Observability & Monitoring: Implement and maintain application monitoring using Grafana, Prometheus, and TimescaleDB. Configure webhook alerts for anomaly detection and support incident investigation.\n•Development Environment: Work in Linux environments on VMware VMs for development, testing, and debugging. Troubleshoot environment and connectivity issues across distributed services.\n•Collaboration: Work closely with team members to execute and deliver features. Track progress and communicate status effectively.\nRequirements:\n•3+ years of experience in backend software development.\n•Proficiency in Python and backend frameworks such as FastAPI.\n•Solid experience with relational databases (PostgreSQL preferred).\n•Strong understanding of RESTful APIs and GraphQL.\n•Experience with WebSocket for real-time communication.\n•Proficiency in Linux environments and command-line tools.\n•Hands-on experience with Docker and containerization.\n•Familiarity with Git-based version control workflows (Gerrit experience is a plus).\n•Strong background in unit testing.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區新站路16之1號24樓(近板橋車站)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "About the Role:\nWe are building software systems for autonomous vehicles. You will work on safety-critical applications including:\n•Management and Monitoring Server (MMS): Real-time visualization and control of wayside signals and vehicle operations. This is the primary interface for control center operators to monitor and manage the entire transit system.\n•Journey Planning System (JPS): Generates schedules based on capacity requirements, detects potential conflicts between trips, and supports real-time schedule adjustments. This involves complex algorithmic work for scheduling and conflict analysis.\n•Safety Server (SS): Orchestrates autonomous vehicles to execute passenger missions, dynamically controls wayside signals based on vehicle positions, and monitors system health across JPS, signals, and vehicles — triggering fallback procedures when anomalies occur.\nThis role offers the opportunity to work on technology that directly impacts public transportation safety and efficiency.\nResponsibilities:\n•Backend Development: Design and develop backend services with Python, FastAPI, and GraphQL, using PostgreSQL as the primary database. Own features from requirements analysis through implementation and deployment.\n•IoT Integration & Communication: Integrate with IoT devices via MQTT for real-time status collection and remote control. Implement service-to-service communication using WebSocket and RESTful APIs.\n•Testing & Quality Assurance: Write and maintain comprehensive automated tests including backend unit tests (pytest). Ensure test coverage and reliability across services.\n•Containerization & Deployment: Containerize all services with Docker and publish images to private registries. Provide stable, reproducible environments for cross-team testing and integration.\n•CI/CD & Release: Maintain CI/CD pipelines in Jenkins with Gerrit/Git workflows. Automate the full cycle from code commit through testing, image building, and publishing to registry.\n•Observability & Monitoring: Implement and maintain application monitoring using Grafana, Prometheus, and TimescaleDB. Configure webhook alerts for anomaly detection and support incident investigation.\n•Development Environment: Work in Linux environments on VMware VMs for development, testing, and debugging. Troubleshoot environment and connectivity issues across distributed services.\n•Collaboration: Work closely with team members to execute and deliver features. Track progress and communicate status effectively.\nRequirements:\n•3+ years of experience in backend software development.\n•Proficiency in Python and backend frameworks such as FastAPI.\n•Solid experience with relational databases (PostgreSQL preferred).\n•Strong understanding of RESTful APIs and GraphQL.\n•Experience with WebSocket for real-time communication.\n•Proficiency in Linux environments and command-line tools.\n•Hands-on experience with Docker and containerization.\n•Familiarity with Git-based version control workflows (Gerrit experience is a plus).\n•Strong background in unit testing."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、精通、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、精通、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "DNS",
+            "VMS",
+            "PostgreSQL",
+            "TCP/IP",
+            "Linux"
+          ],
+          "label": "擅長工具",
+          "text": "Python、DNS、VMS、PostgreSQL、TCP/IP、Linux",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Nice to Have:\n•Experience with MQTT and message queues for IoT device integration.\n•Familiarity with CI/CD pipelines and Jenkins.\n•Experience with monitoring stacks (Grafana, Prometheus) and time-series databases (TimescaleDB).\n•Understanding of networking concepts for cross-VM service integration, including TCP/IP, DNS, firewall/port configuration, and troubleshooting connectivity issues.\n•Experience working in VMware virtualized environments.\n•Experience leading system design and architecture decisions.\n•Track record of mentoring engineers or conducting code reviews.\n•Ability to independently break down requirements into actionable tasks.\nPlus:\n•Experience in railway, transit, or transportation industries.\n•Experience with IoT systems and protocols beyond MQTT.\n•Experience owning end-to-end project delivery and cross-team coordination.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、精通、中等\n擅長工具：Python、DNS、VMS、PostgreSQL、TCP/IP、Linux\n其他條件：Nice to Have:\n•Experience with MQTT and message queues for IoT device integration.\n•Familiarity with CI/CD pipelines and Jenkins.\n•Experience with monitoring stacks (Grafana, Prometheus) and time-series databases (TimescaleDB).\n•Understanding of networking concepts for cross-VM service integration, including TCP/IP, DNS, firewall/port configuration, and troubleshooting connectivity issues.\n•Experience working in VMware virtualized environments.\n•Experience leading system design and architecture decisions.\n•Track record of mentoring engineers or conducting code reviews.\n•Ability to independently break down requirements into actionable tasks.\nPlus:\n•Experience in railway, transit, or transportation industries.\n•Experience with IoT systems and protocols beyond MQTT.\n•Experience owning end-to-end project delivery and cross-team coordination."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8y99y",
+    "job_url": "https://www.104.com.tw/job/8y99y",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8y99y.json",
+    "raw_sha256": "e5c65f9a4112ca3209f01057cabfb51eff49be556f64fe08e9d29428126fe56e",
+    "requested_url": "https://www.104.com.tw/api/jobs/8y99y"
+  }
+}

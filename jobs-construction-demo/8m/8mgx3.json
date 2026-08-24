@@ -1,0 +1,188 @@
+{
+  "company": {
+    "id": "d6coi34",
+    "name": "鼎新數智股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "軟體工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助智慧製造方案、技術評估與建置。"
+        },
+        {
+          "children": [],
+          "text": "IIoT平台開發與維護。"
+        },
+        {
+          "children": [],
+          "text": "自動化設備串聯、設備通訊開發與生產資訊擷取。"
+        },
+        {
+          "children": [],
+          "text": "連結現場機台設備資訊進行數據建模、邊緣計算達到可視化、數智化。"
+        },
+        {
+          "children": [],
+          "text": "使用者問題排除。"
+        }
+      ],
+      "text": "【工作內容】\n1. 協助智慧製造方案、技術評估與建置。\n2. IIoT平台開發與維護。\n3. 自動化設備串聯、設備通訊開發與生產資訊擷取。\n4. 連結現場機台設備資訊進行數據建模、邊緣計算達到可視化、數智化。\n5. 使用者問題排除。"
+    },
+    "employment_type_raw": "全職",
+    "title": "C-物聯網研發工程師 (台中)"
+  },
+  "location": {
+    "address_raw": "台中市大里區中興路一段161號",
+    "raw": "台中市大里區中興路一段161號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "工業管理相關",
+          "企業管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、工業管理相關、企業管理相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【技術條件】\n1. 具資訊系統開發經驗3年以上。\n2. 熟悉Golang、InfluxDB開發。或俱備C++、C#等開發經驗尤佳。\n3. 具備CNC、注塑機、PLC等控制系統通訊協議開發，例如Modbus、OPC UA、MQTT...等經驗尤佳。\n4. 新技術研發熱忱、主動積極、認真負責，良好的溝通能力。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "工業管理相關",
+      "企業管理相關"
+    ],
+    "other_text": "【技術條件】\n1. 具資訊系統開發經驗3年以上。\n2. 熟悉Golang、InfluxDB開發。或俱備C++、C#等開發經驗尤佳。\n3. 具備CNC、注塑機、PLC等控制系統通訊協議開發，例如Modbus、OPC UA、MQTT...等經驗尤佳。\n4. 新技術研發熱忱、主動積極、認真負責，良好的溝通能力。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、工業管理相關、企業管理相關\n其他條件：【技術條件】\n1. 具資訊系統開發經驗3年以上。\n2. 熟悉Golang、InfluxDB開發。或俱備C++、C#等開發經驗尤佳。\n3. 具備CNC、注塑機、PLC等控制系統通訊協議開發，例如Modbus、OPC UA、MQTT...等經驗尤佳。\n4. 新技術研發熱忱、主動積極、認真負責，良好的溝通能力。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 14
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:56:23+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 協助智慧製造方案、技術評估與建置。\n2. IIoT平台開發與維護。\n3. 自動化設備串聯、設備通訊開發與生產資訊擷取。\n4. 連結現場機台設備資訊進行數據建模、邊緣計算達到可視化、數智化。\n5. 使用者問題排除。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "軟體工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、軟體工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市大里區中興路一段161號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 協助智慧製造方案、技術評估與建置。\n2. IIoT平台開發與維護。\n3. 自動化設備串聯、設備通訊開發與生產資訊擷取。\n4. 連結現場機台設備資訊進行數據建模、邊緣計算達到可視化、數智化。\n5. 使用者問題排除。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "工業管理相關",
+            "企業管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、工業管理相關、企業管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【技術條件】\n1. 具資訊系統開發經驗3年以上。\n2. 熟悉Golang、InfluxDB開發。或俱備C++、C#等開發經驗尤佳。\n3. 具備CNC、注塑機、PLC等控制系統通訊協議開發，例如Modbus、OPC UA、MQTT...等經驗尤佳。\n4. 新技術研發熱忱、主動積極、認真負責，良好的溝通能力。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、工業管理相關、企業管理相關\n其他條件：【技術條件】\n1. 具資訊系統開發經驗3年以上。\n2. 熟悉Golang、InfluxDB開發。或俱備C++、C#等開發經驗尤佳。\n3. 具備CNC、注塑機、PLC等控制系統通訊協議開發，例如Modbus、OPC UA、MQTT...等經驗尤佳。\n4. 新技術研發熱忱、主動積極、認真負責，良好的溝通能力。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8mgx3",
+    "job_url": "https://www.104.com.tw/job/8mgx3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8mgx3.json",
+    "raw_sha256": "6a09eed314207fb37209aeac0f81e6ccbf6975bb56f7351d2b68d51d2c768856",
+    "requested_url": "https://www.104.com.tw/api/jobs/8mgx3"
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "company": {
+    "id": "1a2x6bn4et",
+    "name": "智合天下科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "專案開發：依據專案任務進行物流中心需要的軟體系統開發與調整，如倉儲管理系統(WMS、LMS)、電子標籤輔助揀貨系統(CAPS)、轉檔程式(與上位系統或硬體設備串接)、WCS程式、車機程式、手持裝置系統..等。"
+        },
+        {
+          "children": [],
+          "text": "客戶系統維護：專案轉維護案後依據客戶維護系統需求進行系統功能開發或維護工作。"
+        },
+        {
+          "children": [],
+          "text": "物流作業與管理相關應用軟體等開發歷練也能瞭解各種硬體設備(例如輸送設備、箱式立庫、棧板立庫、AGV設備…等)在物流中心的應用方法，並可依據興趣於不同部門發展，例如專案部門、維護部門、WCS部門、研發部門等。"
+        },
+        {
+          "children": [],
+          "text": "擔任專案技術經理，帶領工程師團隊進行專案開發作業，進行任務安排、客戶溝通、專案時程安排等工作。"
+        },
+        {
+          "children": [],
+          "text": "熟悉各行業物流特性與物流領域知識，未來往系統分析師(SA／SD)發展。"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料庫的操作與管理，未來往資料庫管理師(DBA)發展。"
+        }
+      ],
+      "text": "1.專案開發：依據專案任務進行物流中心需要的軟體系統開發與調整，如倉儲管理系統(WMS、LMS)、電子標籤輔助揀貨系統(CAPS)、轉檔程式(與上位系統或硬體設備串接)、WCS程式、車機程式、手持裝置系統..等。\n2. 客戶系統維護：專案轉維護案後依據客戶維護系統需求進行系統功能開發或維護工作。\n※ ※ 職位發展 ※ ※\n1. 物流作業與管理相關應用軟體等開發歷練也能瞭解各種硬體設備(例如輸送設備、箱式立庫、棧板立庫、AGV設備…等)在物流中心的應用方法，並可依據興趣於不同部門發展，例如專案部門、維護部門、WCS部門、研發部門等。\n2. 擔任專案技術經理，帶領工程師團隊進行專案開發作業，進行任務安排、客戶溝通、專案時程安排等工作。\n3. 熟悉各行業物流特性與物流領域知識，未來往系統分析師(SA／SD)發展。\n4. 熟悉資料庫的操作與管理，未來往資料庫管理師(DBA)發展。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師"
+  },
+  "location": {
+    "address_raw": "桃園市桃園區經國路11號16F-1(阿波羅大廈)",
+    "raw": "桃園市桃園區經國路11號16F-1(阿波羅大廈)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "Android",
+          "ASP.NET",
+          "C#",
+          "MS SQL",
+          "Oracle",
+          "HTML",
+          "XML",
+          "XML Web services",
+          "jQuery"
+        ],
+        "label": "擅長工具",
+        "text": "Android、ASP.NET、C#、MS SQL、Oracle、HTML、XML、XML Web services、jQuery"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.工作技能\nVB .NET、C# .NET、ASP .NET\nMicrosoft SQL Server、T-SQL\nOracle、PL/SQL\nHTML5、XML、Web Service、MVC架構\n2. 有責任心能配合出差。\n3. 程式邏輯能力強，對撰寫程式有高度熱情。\n4. 具溝通能力者佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "1.工作技能\nVB .NET、C# .NET、ASP .NET\nMicrosoft SQL Server、T-SQL\nOracle、PL/SQL\nHTML5、XML、Web Service、MVC架構\n2. 有責任心能配合出差。\n3. 程式邏輯能力強，對撰寫程式有高度熱情。\n4. 具溝通能力者佳。",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、電機電子工程相關\n擅長工具：Android、ASP.NET、C#、MS SQL、Oracle、HTML、XML、XML Web services、jQuery\n其他條件：1.工作技能\nVB .NET、C# .NET、ASP .NET\nMicrosoft SQL Server、T-SQL\nOracle、PL/SQL\nHTML5、XML、Web Service、MVC架構\n2. 有責任心能配合出差。\n3. 程式邏輯能力強，對撰寫程式有高度熱情。\n4. 具溝通能力者佳。",
+    "tools": [
+      "Android",
+      "ASP.NET",
+      "C#",
+      "MS SQL",
+      "Oracle",
+      "HTML",
+      "XML",
+      "XML Web services",
+      "jQuery"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 7
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:39:35+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.專案開發：依據專案任務進行物流中心需要的軟體系統開發與調整，如倉儲管理系統(WMS、LMS)、電子標籤輔助揀貨系統(CAPS)、轉檔程式(與上位系統或硬體設備串接)、WCS程式、車機程式、手持裝置系統..等。\n2. 客戶系統維護：專案轉維護案後依據客戶維護系統需求進行系統功能開發或維護工作。\n※ ※ 職位發展 ※ ※\n1. 物流作業與管理相關應用軟體等開發歷練也能瞭解各種硬體設備(例如輸送設備、箱式立庫、棧板立庫、AGV設備…等)在物流中心的應用方法，並可依據興趣於不同部門發展，例如專案部門、維護部門、WCS部門、研發部門等。\n2. 擔任專案技術經理，帶領工程師團隊進行專案開發作業，進行任務安排、客戶溝通、專案時程安排等工作。\n3. 熟悉各行業物流特性與物流領域知識，未來往系統分析師(SA／SD)發展。\n4. 熟悉資料庫的操作與管理，未來往資料庫管理師(DBA)發展。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市桃園區經國路11號16F-1(阿波羅大廈)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.專案開發：依據專案任務進行物流中心需要的軟體系統開發與調整，如倉儲管理系統(WMS、LMS)、電子標籤輔助揀貨系統(CAPS)、轉檔程式(與上位系統或硬體設備串接)、WCS程式、車機程式、手持裝置系統..等。\n2. 客戶系統維護：專案轉維護案後依據客戶維護系統需求進行系統功能開發或維護工作。\n※ ※ 職位發展 ※ ※\n1. 物流作業與管理相關應用軟體等開發歷練也能瞭解各種硬體設備(例如輸送設備、箱式立庫、棧板立庫、AGV設備…等)在物流中心的應用方法，並可依據興趣於不同部門發展，例如專案部門、維護部門、WCS部門、研發部門等。\n2. 擔任專案技術經理，帶領工程師團隊進行專案開發作業，進行任務安排、客戶溝通、專案時程安排等工作。\n3. 熟悉各行業物流特性與物流領域知識，未來往系統分析師(SA／SD)發展。\n4. 熟悉資料庫的操作與管理，未來往資料庫管理師(DBA)發展。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Android",
+            "ASP.NET",
+            "C#",
+            "MS SQL",
+            "Oracle",
+            "HTML",
+            "XML",
+            "XML Web services",
+            "jQuery"
+          ],
+          "label": "擅長工具",
+          "text": "Android、ASP.NET、C#、MS SQL、Oracle、HTML、XML、XML Web services、jQuery",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.工作技能\nVB .NET、C# .NET、ASP .NET\nMicrosoft SQL Server、T-SQL\nOracle、PL/SQL\nHTML5、XML、Web Service、MVC架構\n2. 有責任心能配合出差。\n3. 程式邏輯能力強，對撰寫程式有高度熱情。\n4. 具溝通能力者佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、電機電子工程相關\n擅長工具：Android、ASP.NET、C#、MS SQL、Oracle、HTML、XML、XML Web services、jQuery\n其他條件：1.工作技能\nVB .NET、C# .NET、ASP .NET\nMicrosoft SQL Server、T-SQL\nOracle、PL/SQL\nHTML5、XML、Web Service、MVC架構\n2. 有責任心能配合出差。\n3. 程式邏輯能力強，對撰寫程式有高度熱情。\n4. 具溝通能力者佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8hjbn",
+    "job_url": "https://www.104.com.tw/job/8hjbn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8hjbn.json",
+    "raw_sha256": "04e1ecca1e4265b7e62480ce84fed9d9fa3163a74b92a9d71118c663838a3d63",
+    "requested_url": "https://www.104.com.tw/api/jobs/8hjbn"
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "company": {
+    "id": "akdqjc0",
+    "name": "慶達科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "軟體工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助管理部推動新系統開發、內部工具建置、AI應用導入與數位轉型相關技術任務。"
+        },
+        {
+          "children": [],
+          "text": "協助會議紀錄系統、地端AI、子公司CRM、管理者儀表板及其他內部系統專案之原型開發、測試與文件整理。"
+        },
+        {
+          "children": [],
+          "text": "協助撰寫 Python、JavaScript、HTML、SQL 或其他基礎程式工具，用於資料整理、流程自動化、文字處理、報表整理或系統測試。"
+        },
+        {
+          "children": [],
+          "text": "協助研究與測試 Open WebUI、Ollama、Whisper / Faster-Whisper、RAG、知識庫、API 串接等 AI 與內部系統應用技術。"
+        },
+        {
+          "children": [],
+          "text": "協助整理系統測試紀錄、安裝筆記、錯誤紀錄、技術文件、README 與開發流程文件。"
+        },
+        {
+          "children": [],
+          "text": "協助將 PM 助理或使用單位整理之需求，轉換為可測試、可開發、可追蹤的小型技術任務。"
+        },
+        {
+          "children": [],
+          "text": "協助製作系統原型、Demo、假資料測試環境與使用者測試版本。"
+        },
+        {
+          "children": [],
+          "text": "依專案負責人指示，協助數位轉型相關技術研究、工具測試及其他開發支援事項。"
+        },
+        {
+          "children": [],
+          "text": "加保勞健保、團保。"
+        },
+        {
+          "children": [],
+          "text": "按勞基法加班給付加班費或補休。"
+        },
+        {
+          "children": [],
+          "text": "專業職能培訓課程。"
+        },
+        {
+          "children": [],
+          "text": "表現優異者，畢業後優先轉正。"
+        }
+      ],
+      "text": "還在思考畢業後的方向嗎？\n想提早累積實務經驗，培養職場競爭力嗎？\n我們正在尋找具潛力、願意學習的你，加入實習生計畫！\n在這裡，你將有機會：\n✔ 體驗企業工作模式與團隊合作\n✔ 參與實際專案，累積實戰經驗\n✔ 學習專業技能與職場溝通能力\n✔ 提前探索未來職涯方向\n如果你對未來有想法、願意挑戰自己，\n歡迎加入我們，一起開啟你的職涯第一步！\n1. 協助管理部推動新系統開發、內部工具建置、AI應用導入與數位轉型相關技術任務。\n2. 協助會議紀錄系統、地端AI、子公司CRM、管理者儀表板及其他內部系統專案之原型開發、測試與文件整理。\n3. 協助撰寫 Python、JavaScript、HTML、SQL 或其他基礎程式工具，用於資料整理、流程自動化、文字處理、報表整理或系統測試。\n4. 協助研究與測試 Open WebUI、Ollama、Whisper / Faster-Whisper、RAG、知識庫、API 串接等 AI 與內部系統應用技術。\n5. 協助整理系統測試紀錄、安裝筆記、錯誤紀錄、技術文件、README 與開發流程文件。\n6. 協助將 PM 助理或使用單位整理之需求，轉換為可測試、可開發、可追蹤的小型技術任務。\n7. 協助製作系統原型、Demo、假資料測試環境與使用者測試版本。\n8. 依專案負責人指示，協助數位轉型相關技術研究、工具測試及其他開發支援事項。\n【保障與福利】\n1.加保勞健保、團保。\n2.按勞基法加班給付加班費或補休。\n3.專業職能培訓課程。\n4.表現優異者，畢業後優先轉正。"
+    },
+    "employment_type_raw": "全職",
+    "title": "2026年學年實習生招募-新系統開發助理工程師"
+  },
+  "location": {
+    "address_raw": "高雄市前鎮區二聖一路290號6樓之1",
+    "raw": "高雄市前鎮區二聖一路290號6樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科"
+      },
+      {
+        "items": [
+          "Python",
+          "Windows 10",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "PL/SQL",
+          "Git",
+          "Linux"
+        ],
+        "label": "擅長工具",
+        "text": "Python、Windows 10、JavaScript、HTML、CSS、PL/SQL、Git、Linux"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "系統整合分析",
+          "系統架構規劃"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發、系統整合分析、系統架構規劃"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.使用過 ChatGPT、Claude、Gemini、Copilot、Cursor、Codex、Ollama、Open\nWebUI、Whisper 等工具尤佳\n2.不限正式工作經驗；具課堂專案、個人作品、自學程式、GitHub、AI工具使用或系統開發\n經驗尤佳"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1.使用過 ChatGPT、Claude、Gemini、Copilot、Cursor、Codex、Ollama、Open\nWebUI、Whisper 等工具尤佳\n2.不限正式工作經驗；具課堂專案、個人作品、自學程式、GitHub、AI工具使用或系統開發\n經驗尤佳",
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "系統整合分析",
+      "系統架構規劃"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科\n擅長工具：Python、Windows 10、JavaScript、HTML、CSS、PL/SQL、Git、Linux\n工作技能：軟體程式設計、軟體工程系統開發、系統整合分析、系統架構規劃\n其他條件：1.使用過 ChatGPT、Claude、Gemini、Copilot、Cursor、Codex、Ollama、Open\nWebUI、Whisper 等工具尤佳\n2.不限正式工作經驗；具課堂專案、個人作品、自學程式、GitHub、AI工具使用或系統開發\n經驗尤佳",
+    "tools": [
+      "Python",
+      "Windows 10",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "PL/SQL",
+      "Git",
+      "Linux"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 40
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:00:37+08:00"
+  },
+  "salary": {
+    "raw": "月薪32,000~35,999元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "還在思考畢業後的方向嗎？\n想提早累積實務經驗，培養職場競爭力嗎？\n我們正在尋找具潛力、願意學習的你，加入實習生計畫！\n在這裡，你將有機會：\n✔ 體驗企業工作模式與團隊合作\n✔ 參與實際專案，累積實戰經驗\n✔ 學習專業技能與職場溝通能力\n✔ 提前探索未來職涯方向\n如果你對未來有想法、願意挑戰自己，\n歡迎加入我們，一起開啟你的職涯第一步！\n1. 協助管理部推動新系統開發、內部工具建置、AI應用導入與數位轉型相關技術任務。\n2. 協助會議紀錄系統、地端AI、子公司CRM、管理者儀表板及其他內部系統專案之原型開發、測試與文件整理。\n3. 協助撰寫 Python、JavaScript、HTML、SQL 或其他基礎程式工具，用於資料整理、流程自動化、文字處理、報表整理或系統測試。\n4. 協助研究與測試 Open WebUI、Ollama、Whisper / Faster-Whisper、RAG、知識庫、API 串接等 AI 與內部系統應用技術。\n5. 協助整理系統測試紀錄、安裝筆記、錯誤紀錄、技術文件、README 與開發流程文件。\n6. 協助將 PM 助理或使用單位整理之需求，轉換為可測試、可開發、可追蹤的小型技術任務。\n7. 協助製作系統原型、Demo、假資料測試環境與使用者測試版本。\n8. 依專案負責人指示，協助數位轉型相關技術研究、工具測試及其他開發支援事項。\n【保障與福利】\n1.加保勞健保、團保。\n2.按勞基法加班給付加班費或補休。\n3.專業職能培訓課程。\n4.表現優異者，畢業後優先轉正。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "軟體工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、軟體工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪32,000~35,999元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市前鎮區二聖一路290號6樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "還在思考畢業後的方向嗎？\n想提早累積實務經驗，培養職場競爭力嗎？\n我們正在尋找具潛力、願意學習的你，加入實習生計畫！\n在這裡，你將有機會：\n✔ 體驗企業工作模式與團隊合作\n✔ 參與實際專案，累積實戰經驗\n✔ 學習專業技能與職場溝通能力\n✔ 提前探索未來職涯方向\n如果你對未來有想法、願意挑戰自己，\n歡迎加入我們，一起開啟你的職涯第一步！\n1. 協助管理部推動新系統開發、內部工具建置、AI應用導入與數位轉型相關技術任務。\n2. 協助會議紀錄系統、地端AI、子公司CRM、管理者儀表板及其他內部系統專案之原型開發、測試與文件整理。\n3. 協助撰寫 Python、JavaScript、HTML、SQL 或其他基礎程式工具，用於資料整理、流程自動化、文字處理、報表整理或系統測試。\n4. 協助研究與測試 Open WebUI、Ollama、Whisper / Faster-Whisper、RAG、知識庫、API 串接等 AI 與內部系統應用技術。\n5. 協助整理系統測試紀錄、安裝筆記、錯誤紀錄、技術文件、README 與開發流程文件。\n6. 協助將 PM 助理或使用單位整理之需求，轉換為可測試、可開發、可追蹤的小型技術任務。\n7. 協助製作系統原型、Demo、假資料測試環境與使用者測試版本。\n8. 依專案負責人指示，協助數位轉型相關技術研究、工具測試及其他開發支援事項。\n【保障與福利】\n1.加保勞健保、團保。\n2.按勞基法加班給付加班費或補休。\n3.專業職能培訓課程。\n4.表現優異者，畢業後優先轉正。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "Windows 10",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "PL/SQL",
+            "Git",
+            "Linux"
+          ],
+          "label": "擅長工具",
+          "text": "Python、Windows 10、JavaScript、HTML、CSS、PL/SQL、Git、Linux",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "系統整合分析",
+            "系統架構規劃"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發、系統整合分析、系統架構規劃",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.使用過 ChatGPT、Claude、Gemini、Copilot、Cursor、Codex、Ollama、Open\nWebUI、Whisper 等工具尤佳\n2.不限正式工作經驗；具課堂專案、個人作品、自學程式、GitHub、AI工具使用或系統開發\n經驗尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科\n擅長工具：Python、Windows 10、JavaScript、HTML、CSS、PL/SQL、Git、Linux\n工作技能：軟體程式設計、軟體工程系統開發、系統整合分析、系統架構規劃\n其他條件：1.使用過 ChatGPT、Claude、Gemini、Copilot、Cursor、Codex、Ollama、Open\nWebUI、Whisper 等工具尤佳\n2.不限正式工作經驗；具課堂專案、個人作品、自學程式、GitHub、AI工具使用或系統開發\n經驗尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93ah3",
+    "job_url": "https://www.104.com.tw/job/93ah3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93ah3.json",
+    "raw_sha256": "7d9119a4c6a143a28f67536e74f17b27fd2e099c73e0fbe05294b5b07b7877d2",
+    "requested_url": "https://www.104.com.tw/api/jobs/93ah3"
+  }
+}

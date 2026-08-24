@@ -1,0 +1,219 @@
+{
+  "company": {
+    "id": "ckkyqvc",
+    "name": "富邦媒體科技股份有限公司(富邦momo)"
+  },
+  "job": {
+    "categories": [
+      "財務分析／財務人員",
+      "數據分析師／資料分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "經營指標與財務邏輯對齊"
+        },
+        {
+          "children": [],
+          "text": "自動化報表與儀表板開發"
+        },
+        {
+          "children": [],
+          "text": "內外部關聯數據建模"
+        },
+        {
+          "children": [],
+          "text": "跨部門協作支援"
+        }
+      ],
+      "text": "加入經營分析團隊，你將有機會在實務中將「數據應用」與「財務邏輯」深度結合，建立跨領域專業能力。在這裡，你開發的儀表板與分析報告不只是靜態資訊，而是能真正對接公司損益、輔助經營決策的關鍵工具，對於希望在電商產業深耕數據分析的人來說，這將是累積實戰的理想環境。\n1.經營指標與財務邏輯對齊\n2.自動化報表與儀表板開發\n3.內外部關聯數據建模\n4.跨部門協作支援"
+    },
+    "employment_type_raw": "全職",
+    "title": "N4000【財會經分】數據分析師*資深者另議"
+  },
+  "location": {
+    "address_raw": "台北市內湖區洲子街96號4樓",
+    "raw": "台北市內湖區洲子街96號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Excel",
+          "PowerPoint",
+          "Word",
+          "Power BI​"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、PowerPoint、Word、Power BI​"
+      },
+      {
+        "items": [
+          "數據分析"
+        ],
+        "label": "工作技能",
+        "text": "數據分析"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具會計三表基本概念\n2.具數據工具能力\n3.數據敏銳度及獨立思考能力\n4.有跨部門推進專案落地實績尤佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1.具會計三表基本概念\n2.具數據工具能力\n3.數據敏銳度及獨立思考能力\n4.有跨部門推進專案落地實績尤佳",
+    "skills": [
+      "數據分析"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、PowerPoint、Word、Power BI​\n工作技能：數據分析\n其他條件：1.具會計三表基本概念\n2.具數據工具能力\n3.數據敏銳度及獨立思考能力\n4.有跨部門推進專案落地實績尤佳",
+    "tools": [
+      "Excel",
+      "PowerPoint",
+      "Word",
+      "Power BI​"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 76
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:29:52+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "加入經營分析團隊，你將有機會在實務中將「數據應用」與「財務邏輯」深度結合，建立跨領域專業能力。在這裡，你開發的儀表板與分析報告不只是靜態資訊，而是能真正對接公司損益、輔助經營決策的關鍵工具，對於希望在電商產業深耕數據分析的人來說，這將是累積實戰的理想環境。\n1.經營指標與財務邏輯對齊\n2.自動化報表與儀表板開發\n3.內外部關聯數據建模\n4.跨部門協作支援",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "財務分析／財務人員",
+            "數據分析師／資料分析師"
+          ],
+          "label": "職務類別",
+          "text": "財務分析／財務人員、數據分析師／資料分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區洲子街96號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "加入經營分析團隊，你將有機會在實務中將「數據應用」與「財務邏輯」深度結合，建立跨領域專業能力。在這裡，你開發的儀表板與分析報告不只是靜態資訊，而是能真正對接公司損益、輔助經營決策的關鍵工具，對於希望在電商產業深耕數據分析的人來說，這將是累積實戰的理想環境。\n1.經營指標與財務邏輯對齊\n2.自動化報表與儀表板開發\n3.內外部關聯數據建模\n4.跨部門協作支援"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "PowerPoint",
+            "Word",
+            "Power BI​"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、PowerPoint、Word、Power BI​",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數據分析"
+          ],
+          "label": "工作技能",
+          "text": "數據分析",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具會計三表基本概念\n2.具數據工具能力\n3.數據敏銳度及獨立思考能力\n4.有跨部門推進專案落地實績尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、PowerPoint、Word、Power BI​\n工作技能：數據分析\n其他條件：1.具會計三表基本概念\n2.具數據工具能力\n3.數據敏銳度及獨立思考能力\n4.有跨部門推進專案落地實績尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "91040",
+    "job_url": "https://www.104.com.tw/job/91040",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91040.json",
+    "raw_sha256": "dcbaf91b6128fe21992c0fef6a7d58455f4f2da99243059eb06baf0d23078d7c",
+    "requested_url": "https://www.104.com.tw/api/jobs/91040"
+  }
+}

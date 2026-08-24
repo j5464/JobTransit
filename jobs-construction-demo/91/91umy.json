@@ -1,0 +1,263 @@
+{
+  "company": {
+    "id": "1a2x6bnr3h",
+    "name": "竹覓科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "電子產品系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "系統應用開發(偏軟體 )之種子人員"
+        },
+        {
+          "children": [],
+          "text": "生物分子檢測系統之感測器驅動程式、終端應用程式、雲端應用程式與人機介面開發，探針設計與資料分析演算法。"
+        },
+        {
+          "children": [],
+          "text": "生產端資料庫與應用端資料庫之建立與數據挖礦、雲端連結與AI連結。"
+        },
+        {
+          "children": [],
+          "text": "開發與優化感測器驅動程式，開發自動化測試與校正工具，以應對 Bio-FET 晶片的個體差異。"
+        },
+        {
+          "children": [],
+          "text": "數據分析演算，優化訊號雜訊比(S/N)，將電訊號轉化為生物檢測指標（如濃度、pH 值等）"
+        },
+        {
+          "children": [],
+          "text": "開發應用程式，整合人機操作介面、測試程序、機台/卡匣診斷，以及智慧周邊連結。"
+        },
+        {
+          "children": [],
+          "text": "資料庫設計與雲端應用程式，開發跨平台數據監測軟體（Windows/Linux 或 Web 端 GUI）。"
+        },
+        {
+          "children": [],
+          "text": "探針設計演算法、資料挖礦演算法、運用AI 輔助程式開發。"
+        },
+        {
+          "children": [],
+          "text": "其他交辦任務。"
+        }
+      ],
+      "text": "工作概要：\n1. 系統應用開發(偏軟體 )之種子人員\n2. 生物分子檢測系統之感測器驅動程式、終端應用程式、雲端應用程式與人機介面開發，探針設計與資料分析演算法。\n3. 生產端資料庫與應用端資料庫之建立與數據挖礦、雲端連結與AI連結。\n工作詳述：\n1. 開發與優化感測器驅動程式，開發自動化測試與校正工具，以應對 Bio-FET 晶片的個體差異。\n2. 數據分析演算，優化訊號雜訊比(S/N)，將電訊號轉化為生物檢測指標（如濃度、pH 值等）\n3. 開發應用程式，整合人機操作介面、測試程序、機台/卡匣診斷，以及智慧周邊連結。\n4. 資料庫設計與雲端應用程式，開發跨平台數據監測軟體（Windows/Linux 或 Web 端 GUI）。\n5. 探針設計演算法、資料挖礦演算法、運用AI 輔助程式開發。\n6. 其他交辦任務。"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統應用工程師(偏軟體)"
+  },
+  "location": {
+    "address_raw": "新竹市東區博愛街75號(賢齊館1002室)",
+    "raw": "新竹市東區博愛街75號(賢齊館1002室)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "醫藥工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、醫藥工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "C++",
+          "C",
+          "Python",
+          "UNIX",
+          "Excel",
+          "PowerPoint",
+          "Word",
+          "LibreOffice Writer",
+          "Calc"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、C++、C、Python、UNIX、Excel、PowerPoint、Word、LibreOffice Writer、Calc"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉軟體、韌體、演算法、統計工具，\n利用AI工具輔助程式設計。\n熟悉如C/C++、Python、等電腦語言，以及8bit/32bit CPU控制。\n具備數據可視化經驗（Matplotlib, Qt, 或 Web 圖表）、演算法、資料庫、跨領域學習。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "醫藥工程相關"
+    ],
+    "other_text": "熟悉軟體、韌體、演算法、統計工具，\n利用AI工具輔助程式設計。\n熟悉如C/C++、Python、等電腦語言，以及8bit/32bit CPU控制。\n具備數據可視化經驗（Matplotlib, Qt, 或 Web 圖表）、演算法、資料庫、跨領域學習。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、醫藥工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C++、C、Python、UNIX、Excel、PowerPoint、Word、LibreOffice Writer、Calc\n其他條件：熟悉軟體、韌體、演算法、統計工具，\n利用AI工具輔助程式設計。\n熟悉如C/C++、Python、等電腦語言，以及8bit/32bit CPU控制。\n具備數據可視化經驗（Matplotlib, Qt, 或 Web 圖表）、演算法、資料庫、跨領域學習。",
+    "tools": [
+      "Linux",
+      "C++",
+      "C",
+      "Python",
+      "UNIX",
+      "Excel",
+      "PowerPoint",
+      "Word",
+      "LibreOffice Writer",
+      "Calc"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 17
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:03:19+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作概要：\n1. 系統應用開發(偏軟體 )之種子人員\n2. 生物分子檢測系統之感測器驅動程式、終端應用程式、雲端應用程式與人機介面開發，探針設計與資料分析演算法。\n3. 生產端資料庫與應用端資料庫之建立與數據挖礦、雲端連結與AI連結。\n工作詳述：\n1. 開發與優化感測器驅動程式，開發自動化測試與校正工具，以應對 Bio-FET 晶片的個體差異。\n2. 數據分析演算，優化訊號雜訊比(S/N)，將電訊號轉化為生物檢測指標（如濃度、pH 值等）\n3. 開發應用程式，整合人機操作介面、測試程序、機台/卡匣診斷，以及智慧周邊連結。\n4. 資料庫設計與雲端應用程式，開發跨平台數據監測軟體（Windows/Linux 或 Web 端 GUI）。\n5. 探針設計演算法、資料挖礦演算法、運用AI 輔助程式開發。\n6. 其他交辦任務。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "電子產品系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、電子產品系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東區博愛街75號(賢齊館1002室)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作概要：\n1. 系統應用開發(偏軟體 )之種子人員\n2. 生物分子檢測系統之感測器驅動程式、終端應用程式、雲端應用程式與人機介面開發，探針設計與資料分析演算法。\n3. 生產端資料庫與應用端資料庫之建立與數據挖礦、雲端連結與AI連結。\n工作詳述：\n1. 開發與優化感測器驅動程式，開發自動化測試與校正工具，以應對 Bio-FET 晶片的個體差異。\n2. 數據分析演算，優化訊號雜訊比(S/N)，將電訊號轉化為生物檢測指標（如濃度、pH 值等）\n3. 開發應用程式，整合人機操作介面、測試程序、機台/卡匣診斷，以及智慧周邊連結。\n4. 資料庫設計與雲端應用程式，開發跨平台數據監測軟體（Windows/Linux 或 Web 端 GUI）。\n5. 探針設計演算法、資料挖礦演算法、運用AI 輔助程式開發。\n6. 其他交辦任務。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "醫藥工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、醫藥工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "C++",
+            "C",
+            "Python",
+            "UNIX",
+            "Excel",
+            "PowerPoint",
+            "Word",
+            "LibreOffice Writer",
+            "Calc"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、C++、C、Python、UNIX、Excel、PowerPoint、Word、LibreOffice Writer、Calc",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉軟體、韌體、演算法、統計工具，\n利用AI工具輔助程式設計。\n熟悉如C/C++、Python、等電腦語言，以及8bit/32bit CPU控制。\n具備數據可視化經驗（Matplotlib, Qt, 或 Web 圖表）、演算法、資料庫、跨領域學習。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、醫藥工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C++、C、Python、UNIX、Excel、PowerPoint、Word、LibreOffice Writer、Calc\n其他條件：熟悉軟體、韌體、演算法、統計工具，\n利用AI工具輔助程式設計。\n熟悉如C/C++、Python、等電腦語言，以及8bit/32bit CPU控制。\n具備數據可視化經驗（Matplotlib, Qt, 或 Web 圖表）、演算法、資料庫、跨領域學習。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91umy",
+    "job_url": "https://www.104.com.tw/job/91umy",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91umy.json",
+    "raw_sha256": "1e5e4e35f20748b7702ea15e7cee58a92cd24dc60c90d2c00153ea1fdfd3256c",
+    "requested_url": "https://www.104.com.tw/api/jobs/91umy"
+  }
+}

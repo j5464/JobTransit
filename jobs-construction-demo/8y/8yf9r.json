@@ -1,0 +1,214 @@
+{
+  "company": {
+    "id": "13ltizwg",
+    "name": "弓銓企業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "數據分析師／資料分析師",
+      "資料科學家",
+      "水利技師/工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "建立水力模型(EPANET)；"
+        },
+        {
+          "children": [],
+          "text": "計劃執行與專利文件撰寫；"
+        },
+        {
+          "children": [],
+          "text": "使用Python或R進行資料處理與分析。"
+        }
+      ],
+      "text": "1. 建立水力模型(EPANET)；\n2. 計劃執行與專利文件撰寫；\n3. 使用Python或R進行資料處理與分析。\n數據分析師在公司的運作中扮演著重要的角色，能夠透過數據分析為企業提供有效的決策和戰略方案。未來，隨著大數據時代的到來，數據分析師的發展前景非常廣闊。\n如果您對此職位感興趣，請盡快申請並表達您的興趣。我們期待著與您共事！"
+    },
+    "employment_type_raw": "全職",
+    "title": "水利數據分析工程師"
+  },
+  "location": {
+    "address_raw": "台南市善化區大利三路8號",
+    "raw": "台南市善化區大利三路8號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、Python"
+      },
+      {
+        "items": [
+          "數據分析",
+          "專案溝通╱整合管理"
+        ],
+        "label": "工作技能",
+        "text": "數據分析、專案溝通╱整合管理"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟圖資及水力分析.\n2.具EPANET或其他水力模型工具尤佳."
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "1.熟圖資及水力分析.\n2.具EPANET或其他水力模型工具尤佳.",
+    "skills": [
+      "數據分析",
+      "專案溝通╱整合管理"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：MS SQL、Python\n工作技能：數據分析、專案溝通╱整合管理\n其他條件：1.熟圖資及水力分析.\n2.具EPANET或其他水力模型工具尤佳.",
+    "tools": [
+      "MS SQL",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 60
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:50:46+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 建立水力模型(EPANET)；\n2. 計劃執行與專利文件撰寫；\n3. 使用Python或R進行資料處理與分析。\n數據分析師在公司的運作中扮演著重要的角色，能夠透過數據分析為企業提供有效的決策和戰略方案。未來，隨著大數據時代的到來，數據分析師的發展前景非常廣闊。\n如果您對此職位感興趣，請盡快申請並表達您的興趣。我們期待著與您共事！",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "數據分析師／資料分析師",
+            "資料科學家",
+            "水利技師/工程師"
+          ],
+          "label": "職務類別",
+          "text": "數據分析師／資料分析師、資料科學家、水利技師/工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市善化區大利三路8號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 建立水力模型(EPANET)；\n2. 計劃執行與專利文件撰寫；\n3. 使用Python或R進行資料處理與分析。\n數據分析師在公司的運作中扮演著重要的角色，能夠透過數據分析為企業提供有效的決策和戰略方案。未來，隨著大數據時代的到來，數據分析師的發展前景非常廣闊。\n如果您對此職位感興趣，請盡快申請並表達您的興趣。我們期待著與您共事！"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數據分析",
+            "專案溝通╱整合管理"
+          ],
+          "label": "工作技能",
+          "text": "數據分析、專案溝通╱整合管理",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟圖資及水力分析.\n2.具EPANET或其他水力模型工具尤佳.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：MS SQL、Python\n工作技能：數據分析、專案溝通╱整合管理\n其他條件：1.熟圖資及水力分析.\n2.具EPANET或其他水力模型工具尤佳."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8yf9r",
+    "job_url": "https://www.104.com.tw/job/8yf9r",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8yf9r.json",
+    "raw_sha256": "c2142dc17e4978b3aa6cae7c798100465cd9f368b3f2e68de1b568ec07db47e6",
+    "requested_url": "https://www.104.com.tw/api/jobs/8yf9r"
+  }
+}

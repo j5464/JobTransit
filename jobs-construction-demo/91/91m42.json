@@ -1,0 +1,318 @@
+{
+  "company": {
+    "id": "7ozuzmw",
+    "name": "愛爾蘭商益華科技股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "電子工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Java (primary; JDK 11 to JDK 25)"
+        },
+        {
+          "children": [],
+          "text": "Tcl scripting"
+        },
+        {
+          "children": [],
+          "text": "Linux shell scripting"
+        },
+        {
+          "children": [],
+          "text": "C++ (minor)"
+        },
+        {
+          "children": [],
+          "text": "Doctor's degree in computer science or electrical engineering, or a related field."
+        },
+        {
+          "children": [],
+          "text": "Master's degree in computer science or electrical engineering, or a related field with 2+ years of relevant software development experience."
+        },
+        {
+          "children": [],
+          "text": "Strong background of computer science fundamentals (data structures, algorithms, computational geometry, database theorem, parallel programming, information theory, compiler, etc.)."
+        },
+        {
+          "children": [],
+          "text": "Experience in EDA tools and CAD tools."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with early-stage physical design flows, prior to place-and-route."
+        },
+        {
+          "children": [],
+          "text": "Experience with software performance optimization, software capacity, and usability design."
+        },
+        {
+          "children": [],
+          "text": "Exposure to or experience with forward-deployed AI in engineering workflows is a plus."
+        },
+        {
+          "children": [],
+          "text": "Collaborate on key architecture and design decisions."
+        },
+        {
+          "children": [],
+          "text": "Experiences in desktop applications handling large-scale datasets."
+        },
+        {
+          "children": [],
+          "text": "Passionate to learn and explore new technologies and demonstrates good analysis and problem-solving skills."
+        },
+        {
+          "children": [],
+          "text": "Self-driven in learning unfamiliar technologies through technical documentation, online communities, and internal knowledge sharing platforms."
+        },
+        {
+          "children": [],
+          "text": "Ability to debug program with large legacy codebase."
+        },
+        {
+          "children": [],
+          "text": "Strong background of object-oriented programming language, data structures and algorithms."
+        },
+        {
+          "children": [],
+          "text": "Knowledgeable of UNIX/Linux environments; familiarity with Windows is also beneficial."
+        },
+        {
+          "children": [],
+          "text": "Excellent organization, analytical and presentation skills."
+        },
+        {
+          "children": [],
+          "text": "Capability to assess task value, requirements, risks, and trade-offs for effective assignment and execution."
+        },
+        {
+          "children": [],
+          "text": "Ability to interact professionally across teams."
+        },
+        {
+          "children": [],
+          "text": "Ability to communicate in English."
+        },
+        {
+          "children": [],
+          "text": "Ability to work individually without face-to-face working model."
+        },
+        {
+          "children": [],
+          "text": "Software Architect for large-scale data and software infrastructure."
+        },
+        {
+          "children": [],
+          "text": "Software Architect in design automation for System-level PPA, design ECO, and early-stage optimization flows."
+        }
+      ],
+      "text": "Job Description:\nThis position focus on developing digital central solutions for 3D-IC application. The role works closely with customers to understand design/advanced node requirements and collaborates with foundry partners to translate those requirements into advanced software solutions.\nThe primary responsibility is the development of early-stage physical design flows, specifically pre-place-and-route (pre PnR) methodology, rather than implementation tools or sign-off tools.\nProgramming Languages & Tools:\n- Java (primary; JDK 11 to JDK 25)\n- Tcl scripting\n- Linux shell scripting\n- C++ (minor)\nPreferred Qualifications:\n- Doctor's degree in computer science or electrical engineering, or a related field.\n- Master's degree in computer science or electrical engineering, or a related field with 2+ years of relevant software development experience.\n- Strong background of computer science fundamentals (data structures, algorithms, computational geometry, database theorem, parallel programming, information theory, compiler, etc.).\n- Experience in EDA tools and CAD tools.\n- Familiarity with early-stage physical design flows, prior to place-and-route.\n- Experience with software performance optimization, software capacity, and usability design.\n- Exposure to or experience with forward-deployed AI in engineering workflows is a plus.\nPosition Requirements:\n- Collaborate on key architecture and design decisions.\n- Experiences in desktop applications handling large-scale datasets.\n- Passionate to learn and explore new technologies and demonstrates good analysis and problem-solving skills.\n- Self-driven in learning unfamiliar technologies through technical documentation, online communities, and internal knowledge sharing platforms.\n- Ability to debug program with large legacy codebase.\n- Strong background of object-oriented programming language, data structures and algorithms.\n- Knowledgeable of UNIX/Linux environments; familiarity with Windows is also beneficial.\n- Excellent organization, analytical and presentation skills.\n- Capability to assess task value, requirements, risks, and trade-offs for effective assignment and execution.\n- Ability to interact professionally across teams.\n- Ability to communicate in English.\n- Ability to work individually without face-to-face working model.\nCareer Position:\n- Software Architect for large-scale data and software infrastructure.\n- Software Architect in design automation for System-level PPA, design ECO, and early-stage optimization flows."
+    },
+    "employment_type_raw": "全職",
+    "title": "Software Engineer (Integrity 3D-IC Infra)"
+  },
+  "location": {
+    "address_raw": "新竹市力行六路二號",
+    "raw": "新竹市力行六路二號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Java",
+          "TCL",
+          "Linux",
+          "C++",
+          "EDA"
+        ],
+        "label": "擅長工具",
+        "text": "Java、TCL、Linux、C++、EDA"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、TCL、Linux、C++、EDA\n工作技能：軟體工程系統開發、軟體程式設計",
+    "tools": [
+      "Java",
+      "TCL",
+      "Linux",
+      "C++",
+      "EDA"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 19
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:07:48+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Job Description:\nThis position focus on developing digital central solutions for 3D-IC application. The role works closely with customers to understand design/advanced node requirements and collaborates with foundry partners to translate those requirements into advanced software solutions.\nThe primary responsibility is the development of early-stage physical design flows, specifically pre-place-and-route (pre PnR) methodology, rather than implementation tools or sign-off tools.\nProgramming Languages & Tools:\n- Java (primary; JDK 11 to JDK 25)\n- Tcl scripting\n- Linux shell scripting\n- C++ (minor)\nPreferred Qualifications:\n- Doctor's degree in computer science or electrical engineering, or a related field.\n- Master's degree in computer science or electrical engineering, or a related field with 2+ years of relevant software development experience.\n- Strong background of computer science fundamentals (data structures, algorithms, computational geometry, database theorem, parallel programming, information theory, compiler, etc.).\n- Experience in EDA tools and CAD tools.\n- Familiarity with early-stage physical design flows, prior to place-and-route.\n- Experience with software performance optimization, software capacity, and usability design.\n- Exposure to or experience with forward-deployed AI in engineering workflows is a plus.\nPosition Requirements:\n- Collaborate on key architecture and design decisions.\n- Experiences in desktop applications handling large-scale datasets.\n- Passionate to learn and explore new technologies and demonstrates good analysis and problem-solving skills.\n- Self-driven in learning unfamiliar technologies through technical documentation, online communities, and internal knowledge sharing platforms.\n- Ability to debug program with large legacy codebase.\n- Strong background of object-oriented programming language, data structures and algorithms.\n- Knowledgeable of UNIX/Linux environments; familiarity with Windows is also beneficial.\n- Excellent organization, analytical and presentation skills.\n- Capability to assess task value, requirements, risks, and trade-offs for effective assignment and execution.\n- Ability to interact professionally across teams.\n- Ability to communicate in English.\n- Ability to work individually without face-to-face working model.\nCareer Position:\n- Software Architect for large-scale data and software infrastructure.\n- Software Architect in design automation for System-level PPA, design ECO, and early-stage optimization flows.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "電子工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "電子工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市力行六路二號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Job Description:\nThis position focus on developing digital central solutions for 3D-IC application. The role works closely with customers to understand design/advanced node requirements and collaborates with foundry partners to translate those requirements into advanced software solutions.\nThe primary responsibility is the development of early-stage physical design flows, specifically pre-place-and-route (pre PnR) methodology, rather than implementation tools or sign-off tools.\nProgramming Languages & Tools:\n- Java (primary; JDK 11 to JDK 25)\n- Tcl scripting\n- Linux shell scripting\n- C++ (minor)\nPreferred Qualifications:\n- Doctor's degree in computer science or electrical engineering, or a related field.\n- Master's degree in computer science or electrical engineering, or a related field with 2+ years of relevant software development experience.\n- Strong background of computer science fundamentals (data structures, algorithms, computational geometry, database theorem, parallel programming, information theory, compiler, etc.).\n- Experience in EDA tools and CAD tools.\n- Familiarity with early-stage physical design flows, prior to place-and-route.\n- Experience with software performance optimization, software capacity, and usability design.\n- Exposure to or experience with forward-deployed AI in engineering workflows is a plus.\nPosition Requirements:\n- Collaborate on key architecture and design decisions.\n- Experiences in desktop applications handling large-scale datasets.\n- Passionate to learn and explore new technologies and demonstrates good analysis and problem-solving skills.\n- Self-driven in learning unfamiliar technologies through technical documentation, online communities, and internal knowledge sharing platforms.\n- Ability to debug program with large legacy codebase.\n- Strong background of object-oriented programming language, data structures and algorithms.\n- Knowledgeable of UNIX/Linux environments; familiarity with Windows is also beneficial.\n- Excellent organization, analytical and presentation skills.\n- Capability to assess task value, requirements, risks, and trade-offs for effective assignment and execution.\n- Ability to interact professionally across teams.\n- Ability to communicate in English.\n- Ability to work individually without face-to-face working model.\nCareer Position:\n- Software Architect for large-scale data and software infrastructure.\n- Software Architect in design automation for System-level PPA, design ECO, and early-stage optimization flows."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "TCL",
+            "Linux",
+            "C++",
+            "EDA"
+          ],
+          "label": "擅長工具",
+          "text": "Java、TCL、Linux、C++、EDA",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、TCL、Linux、C++、EDA\n工作技能：軟體工程系統開發、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91m42",
+    "job_url": "https://www.104.com.tw/job/91m42",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91m42.json",
+    "raw_sha256": "95c9951f7182de2ed96af75d34752c42be169c685340a5d938c7a5eb83a5c379",
+    "requested_url": "https://www.104.com.tw/api/jobs/91m42"
+  }
+}

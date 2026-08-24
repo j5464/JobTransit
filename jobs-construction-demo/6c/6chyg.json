@@ -1,0 +1,208 @@
+{
+  "company": {
+    "id": "absj6xs",
+    "name": "大立光電股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "數位IC設計工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "(1) 自動化設備運動控制晶片研發\n(2) 熟悉FPGA系統開發、Altera Quartus II\n(3) 協助驗證控制晶片週邊電路(Schematic)\n(4) 具備基礎工業控制知識者佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "運動控制晶片研發工程師"
+  },
+  "location": {
+    "address_raw": "台中市南屯區精科路11號",
+    "raw": "台中市南屯區精科路11號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python",
+          "Visual Studio",
+          "FPGA",
+          "Verilog"
+        ],
+        "label": "擅長工具",
+        "text": "Python、Visual Studio、FPGA、Verilog"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.需無色盲色弱\n2.需配合加班"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "機械工程相關"
+    ],
+    "other_text": "1.需無色盲色弱\n2.需配合加班",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關、機械工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Visual Studio、FPGA、Verilog\n其他條件：1.需無色盲色弱\n2.需配合加班",
+    "tools": [
+      "Python",
+      "Visual Studio",
+      "FPGA",
+      "Verilog"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 77
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:31:06+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "(1) 自動化設備運動控制晶片研發\n(2) 熟悉FPGA系統開發、Altera Quartus II\n(3) 協助驗證控制晶片週邊電路(Schematic)\n(4) 具備基礎工業控制知識者佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "數位IC設計工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、數位IC設計工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市南屯區精科路11號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "(1) 自動化設備運動控制晶片研發\n(2) 熟悉FPGA系統開發、Altera Quartus II\n(3) 協助驗證控制晶片週邊電路(Schematic)\n(4) 具備基礎工業控制知識者佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "Visual Studio",
+            "FPGA",
+            "Verilog"
+          ],
+          "label": "擅長工具",
+          "text": "Python、Visual Studio、FPGA、Verilog",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.需無色盲色弱\n2.需配合加班",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關、機械工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Visual Studio、FPGA、Verilog\n其他條件：1.需無色盲色弱\n2.需配合加班"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "6chyg",
+    "job_url": "https://www.104.com.tw/job/6chyg",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6chyg.json",
+    "raw_sha256": "14fcf1c0bc0d5eda401ff61c304892abf6020af8f322cfe6d96d3beb516c2695",
+    "requested_url": "https://www.104.com.tw/api/jobs/6chyg"
+  }
+}

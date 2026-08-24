@@ -1,0 +1,181 @@
+{
+  "company": {
+    "id": "a5horfc",
+    "name": "星通資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "通訊軟體工程師",
+      "軟體專案主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Embedded C Programming job"
+        },
+        {
+          "children": [],
+          "text": "L2/L3 ethernet switch"
+        },
+        {
+          "children": [],
+          "text": "Modbus, DNP3, IEC61850 protocol gateway"
+        },
+        {
+          "children": [],
+          "text": "OS experience: Linux or FreeRTOS"
+        },
+        {
+          "children": [],
+          "text": "Xilinx SoC platform"
+        },
+        {
+          "children": [],
+          "text": "WEB design"
+        }
+      ],
+      "text": "1. Embedded C Programming job\n2. L2/L3 ethernet switch\n3. Modbus, DNP3, IEC61850 protocol gateway\n4. OS experience: Linux or FreeRTOS\n5. Xilinx SoC platform\n6. WEB design"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師/軟體經理(工作地點：台南市)"
+  },
+  "location": {
+    "address_raw": "台南市中西區",
+    "raw": "台南市中西區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "光電工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、光電工程相關"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "光電工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、光電工程相關",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 98
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:24:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. Embedded C Programming job\n2. L2/L3 ethernet switch\n3. Modbus, DNP3, IEC61850 protocol gateway\n4. OS experience: Linux or FreeRTOS\n5. Xilinx SoC platform\n6. WEB design",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "通訊軟體工程師",
+            "軟體專案主管"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、通訊軟體工程師、軟體專案主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市中西區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. Embedded C Programming job\n2. L2/L3 ethernet switch\n3. Modbus, DNP3, IEC61850 protocol gateway\n4. OS experience: Linux or FreeRTOS\n5. Xilinx SoC platform\n6. WEB design"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "光電工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、光電工程相關",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、光電工程相關"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "3uh9d",
+    "job_url": "https://www.104.com.tw/job/3uh9d",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/3uh9d.json",
+    "raw_sha256": "2a39327a49496d9aa32b159bfea021f003fb659f4e8a51aa93a11951a2adc0fa",
+    "requested_url": "https://www.104.com.tw/api/jobs/3uh9d"
+  }
+}

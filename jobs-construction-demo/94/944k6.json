@@ -1,0 +1,268 @@
+{
+  "company": {
+    "id": "cugb5vk",
+    "name": "乒乓話網股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "通訊軟體工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "使用 Codex 開發 AI Agent、Skills 與相關自動化能力。"
+        },
+        {
+          "children": [],
+          "text": "開發 Web、API、資料串接與自動化流程。"
+        },
+        {
+          "children": [],
+          "text": "撰寫、測試、除錯並持續優化程式碼與技術文件。"
+        },
+        {
+          "children": [],
+          "text": "與團隊協作，將 AI 應用需求轉化為可落地的解決方案。"
+        }
+      ],
+      "text": "用 Codex 創造 AI 應用自動化解決方案。你將參與 AI 應用的設計、開發與優化，將想法快速落地為可使用的產品與流程。\n1. 使用 Codex 開發 AI Agent、Skills 與相關自動化能力。\n2. 開發 Web、API、資料串接與自動化流程。\n3. 撰寫、測試、除錯並持續優化程式碼與技術文件。\n4. 與團隊協作，將 AI 應用需求轉化為可落地的解決方案。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Codex AI 應用工程師"
+  },
+  "location": {
+    "address_raw": "台北市信義區信義路五段5號6D-07",
+    "raw": "台北市信義區信義路五段5號6D-07"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Github",
+          "C++",
+          "Python",
+          "Node.js",
+          "NLP"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Github、C++、Python、Node.js、NLP"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "結構化程式設計",
+          "模組化系統設計",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、結構化程式設計、模組化系統設計、資料庫軟體應用"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟悉 Python、JavaScript 等程式語言，能進行 Web 或後端開發。\n2. 具備 API、Web、資料庫或第三方服務串接經驗。\n3. 熟悉 Git 與基本測試、除錯、效能優化流程；有 AI Agent、LLM、Prompt Engineering 或自動化開發經驗者佳。\n4. 對 AI 應用開發充滿熱情，願意持續學習並將新技術實際落地。\n5. 具良好溝通能力、跨域協作能力與團隊合作精神。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "1. 熟悉 Python、JavaScript 等程式語言，能進行 Web 或後端開發。\n2. 具備 API、Web、資料庫或第三方服務串接經驗。\n3. 熟悉 Git 與基本測試、除錯、效能優化流程；有 AI Agent、LLM、Prompt Engineering 或自動化開發經驗者佳。\n4. 對 AI 應用開發充滿熱情，願意持續學習並將新技術實際落地。\n5. 具良好溝通能力、跨域協作能力與團隊合作精神。",
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "結構化程式設計",
+      "模組化系統設計",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、資訊管理相關\n語文條件：英文：略懂、略懂、中等、中等\n擅長工具：Linux、Github、C++、Python、Node.js、NLP\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、結構化程式設計、模組化系統設計、資料庫軟體應用\n其他條件：1. 熟悉 Python、JavaScript 等程式語言，能進行 Web 或後端開發。\n2. 具備 API、Web、資料庫或第三方服務串接經驗。\n3. 熟悉 Git 與基本測試、除錯、效能優化流程；有 AI Agent、LLM、Prompt Engineering 或自動化開發經驗者佳。\n4. 對 AI 應用開發充滿熱情，願意持續學習並將新技術實際落地。\n5. 具良好溝通能力、跨域協作能力與團隊合作精神。",
+    "tools": [
+      "Linux",
+      "Github",
+      "C++",
+      "Python",
+      "Node.js",
+      "NLP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 3
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:26:29+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000~70,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "用 Codex 創造 AI 應用自動化解決方案。你將參與 AI 應用的設計、開發與優化，將想法快速落地為可使用的產品與流程。\n1. 使用 Codex 開發 AI Agent、Skills 與相關自動化能力。\n2. 開發 Web、API、資料串接與自動化流程。\n3. 撰寫、測試、除錯並持續優化程式碼與技術文件。\n4. 與團隊協作，將 AI 應用需求轉化為可落地的解決方案。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "通訊軟體工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、通訊軟體工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000~70,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區信義路五段5號6D-07",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "用 Codex 創造 AI 應用自動化解決方案。你將參與 AI 應用的設計、開發與優化，將想法快速落地為可使用的產品與流程。\n1. 使用 Codex 開發 AI Agent、Skills 與相關自動化能力。\n2. 開發 Web、API、資料串接與自動化流程。\n3. 撰寫、測試、除錯並持續優化程式碼與技術文件。\n4. 與團隊協作，將 AI 應用需求轉化為可落地的解決方案。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Github",
+            "C++",
+            "Python",
+            "Node.js",
+            "NLP"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Github、C++、Python、Node.js、NLP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "結構化程式設計",
+            "模組化系統設計",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、結構化程式設計、模組化系統設計、資料庫軟體應用",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟悉 Python、JavaScript 等程式語言，能進行 Web 或後端開發。\n2. 具備 API、Web、資料庫或第三方服務串接經驗。\n3. 熟悉 Git 與基本測試、除錯、效能優化流程；有 AI Agent、LLM、Prompt Engineering 或自動化開發經驗者佳。\n4. 對 AI 應用開發充滿熱情，願意持續學習並將新技術實際落地。\n5. 具良好溝通能力、跨域協作能力與團隊合作精神。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、資訊管理相關\n語文條件：英文：略懂、略懂、中等、中等\n擅長工具：Linux、Github、C++、Python、Node.js、NLP\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、結構化程式設計、模組化系統設計、資料庫軟體應用\n其他條件：1. 熟悉 Python、JavaScript 等程式語言，能進行 Web 或後端開發。\n2. 具備 API、Web、資料庫或第三方服務串接經驗。\n3. 熟悉 Git 與基本測試、除錯、效能優化流程；有 AI Agent、LLM、Prompt Engineering 或自動化開發經驗者佳。\n4. 對 AI 應用開發充滿熱情，願意持續學習並將新技術實際落地。\n5. 具良好溝通能力、跨域協作能力與團隊合作精神。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "944k6",
+    "job_url": "https://www.104.com.tw/job/944k6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/944k6.json",
+    "raw_sha256": "618182a2267b41c0173d28decf92eb076d3c9516db569a1645abd41cd816da63",
+    "requested_url": "https://www.104.com.tw/api/jobs/944k6"
+  }
+}

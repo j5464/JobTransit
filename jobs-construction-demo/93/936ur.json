@@ -1,0 +1,181 @@
+{
+  "company": {
+    "id": "ajnai6o",
+    "name": "大展證券股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "其他資訊專業人員",
+      "資訊設備管制人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "VM虛擬機及Storage維運"
+        },
+        {
+          "children": [],
+          "text": "日常機房系統維運"
+        },
+        {
+          "children": [],
+          "text": "一般使用者電腦系統問題排除"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項"
+        }
+      ],
+      "text": "1.VM虛擬機及Storage維運\n2.日常機房系統維運\n3.一般使用者電腦系統問題排除\n4.其他主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "【系統維運工程師】 (有學習資安的機會)"
+  },
+  "location": {
+    "address_raw": "台北市大同區承德路一段17號17樓",
+    "raw": "台北市大同區承德路一段17號17樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "資訊相關科系畢 熱愛資訊 態度正面積極 遇問題主動思考解決方法者 優先安排面試\n【備註】薪資將視工作(專案)經驗、相關工作年資、具備證照資格等差異化核定。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "資訊相關科系畢 熱愛資訊 態度正面積極 遇問題主動思考解決方法者 優先安排面試\n【備註】薪資將視工作(專案)經驗、相關工作年資、具備證照資格等差異化核定。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n其他條件：資訊相關科系畢 熱愛資訊 態度正面積極 遇問題主動思考解決方法者 優先安排面試\n【備註】薪資將視工作(專案)經驗、相關工作年資、具備證照資格等差異化核定。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 65
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:03:24+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.VM虛擬機及Storage維運\n2.日常機房系統維運\n3.一般使用者電腦系統問題排除\n4.其他主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "其他資訊專業人員",
+            "資訊設備管制人員"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、其他資訊專業人員、資訊設備管制人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大同區承德路一段17號17樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.VM虛擬機及Storage維運\n2.日常機房系統維運\n3.一般使用者電腦系統問題排除\n4.其他主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "資訊相關科系畢 熱愛資訊 態度正面積極 遇問題主動思考解決方法者 優先安排面試\n【備註】薪資將視工作(專案)經驗、相關工作年資、具備證照資格等差異化核定。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n其他條件：資訊相關科系畢 熱愛資訊 態度正面積極 遇問題主動思考解決方法者 優先安排面試\n【備註】薪資將視工作(專案)經驗、相關工作年資、具備證照資格等差異化核定。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "936ur",
+    "job_url": "https://www.104.com.tw/job/936ur",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/936ur.json",
+    "raw_sha256": "5b56e96f6451c98f8a5a40a7192d9487a6ec35c1c63000baf214da8716b4494b",
+    "requested_url": "https://www.104.com.tw/api/jobs/936ur"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "company": {
+    "id": "18jd6nv4",
+    "name": "葳橋資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責軟體設計，程式撰寫，測試，撰寫安裝及設定說明。"
+        },
+        {
+          "children": [],
+          "text": "具備PHP程式撰寫及資料庫設計實務經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備javascript,CSS 3,HTML 5程式撰寫為佳。"
+        }
+      ],
+      "text": "1.負責軟體設計，程式撰寫，測試，撰寫安裝及設定說明。\n2.具備PHP程式撰寫及資料庫設計實務經驗。\n3.具備javascript,CSS 3,HTML 5程式撰寫為佳。"
+    },
+    "employment_type_raw": "全職",
+    "title": "PHP程式設計師[台中]"
+  },
+  "location": {
+    "address_raw": "台中市南區忠明南路760號16F(大安國際商業大樓)",
+    "raw": "台中市南區忠明南路760號16F(大安國際商業大樓)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "C#",
+          "PHP",
+          "HTML",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "C#、PHP、HTML、JavaScript"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、網路程式設計、資料庫軟體應用"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、其他數學及電算機科學相關\n擅長工具：C#、PHP、HTML、JavaScript\n工作技能：軟體工程系統開發、軟體程式設計、網路程式設計、資料庫軟體應用",
+    "tools": [
+      "C#",
+      "PHP",
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 26
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:27:08+08:00"
+  },
+  "salary": {
+    "raw": "月薪43,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責軟體設計，程式撰寫，測試，撰寫安裝及設定說明。\n2.具備PHP程式撰寫及資料庫設計實務經驗。\n3.具備javascript,CSS 3,HTML 5程式撰寫為佳。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪43,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市南區忠明南路760號16F(大安國際商業大樓)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責軟體設計，程式撰寫，測試，撰寫安裝及設定說明。\n2.具備PHP程式撰寫及資料庫設計實務經驗。\n3.具備javascript,CSS 3,HTML 5程式撰寫為佳。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "PHP",
+            "HTML",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "C#、PHP、HTML、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、網路程式設計、資料庫軟體應用",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、其他數學及電算機科學相關\n擅長工具：C#、PHP、HTML、JavaScript\n工作技能：軟體工程系統開發、軟體程式設計、網路程式設計、資料庫軟體應用"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "k7y9",
+    "job_url": "https://www.104.com.tw/job/k7y9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/k7y9.json",
+    "raw_sha256": "2a8c13b52321efbc10b0433193ceed7e40c418283e2360009705033edbc4d316",
+    "requested_url": "https://www.104.com.tw/api/jobs/k7y9"
+  }
+}

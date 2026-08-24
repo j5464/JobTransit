@@ -1,0 +1,274 @@
+{
+  "company": {
+    "id": "1a2x6bn4ks",
+    "name": "百仕聯股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料科學家",
+      "資料工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "使用由 LLM 驅動的 AI 結對程式開發方式，探索、清理並分析大型資料集。"
+        },
+        {
+          "children": [],
+          "text": "應用 AI Agent 架構，自動生成並評估策略。"
+        },
+        {
+          "children": [],
+          "text": "建構、微調並評估 AI 或 LLM 模型，從資料中識別關鍵特徵，並產出分析報告。"
+        },
+        {
+          "children": [],
+          "text": "與研究員及工程師合作，將模型或洞察整合至內部系統，並監控其表現。"
+        },
+        {
+          "children": [],
+          "text": "數學、物理或統計相關碩士以上學歷"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Python，並能使用 Pandas、NumPy 等資料處理套件。"
+        },
+        {
+          "children": [],
+          "text": "具備至少一種深度學習框架的實作經驗，如 PyTorch 或 TensorFlow。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git / GitHub 工作流程，並能使用 LLM 進行 AI 結對程式開發。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的 Prompt Engineering 能力，能引導 LLM 產出程式碼與洞察。"
+        },
+        {
+          "children": [],
+          "text": "具備機器學習、自然語言處理、深度學習、語言模型、演算法設計、資料庫程式設計、金融市場分析與資料蒐集等相關能力。"
+        },
+        {
+          "children": [],
+          "text": "專長：LLM、NLP、Python、MS SQL、PL/SQL、R、C++。"
+        },
+        {
+          "children": [],
+          "text": "具金融相關經驗，如市場預測、事件抽取、情緒分析、因子建模或投資組合"
+        },
+        {
+          "children": [],
+          "text": "參與過競賽（Kaggle、AI Challenger 等）或為開源專案活躍貢獻者"
+        },
+        {
+          "children": [],
+          "text": "曾於頂級學術會議或技術場合發表論文或演講（如 NeurIPS、ICML、"
+        }
+      ],
+      "text": "【工作內容】\n• 使用由 LLM 驅動的 AI 結對程式開發方式，探索、清理並分析大型資料集。\n• 應用 AI Agent 架構，自動生成並評估策略。\n• 建構、微調並評估 AI 或 LLM 模型，從資料中識別關鍵特徵，並產出分析報告。\n• 與研究員及工程師合作，將模型或洞察整合至內部系統，並監控其表現。\n【職務需求】\n• 數學、物理或統計相關碩士以上學歷\n• 熟悉 Python，並能使用 Pandas、NumPy 等資料處理套件。\n• 具備至少一種深度學習框架的實作經驗，如 PyTorch 或 TensorFlow。\n• 熟悉 Git / GitHub 工作流程，並能使用 LLM 進行 AI 結對程式開發。\n• 具備良好的 Prompt Engineering 能力，能引導 LLM 產出程式碼與洞察。\n• 具備機器學習、自然語言處理、深度學習、語言模型、演算法設計、資料庫程式設計、金融市場分析與資料蒐集等相關能力。\n• 專長：LLM、NLP、Python、MS SQL、PL/SQL、R、C++。\n【加分條件】\n1. 具金融相關經驗，如市場預測、事件抽取、情緒分析、因子建模或投資組合\n最佳化\n2. 參與過競賽（Kaggle、AI Challenger 等）或為開源專案活躍貢獻者\n3. 曾於頂級學術會議或技術場合發表論文或演講（如 NeurIPS、ICML、\nICLR、CVPR）"
+    },
+    "employment_type_raw": "全職",
+    "title": "【新創私募基金】Data Scientist 資料科學家"
+  },
+  "location": {
+    "address_raw": "台北市中正區",
+    "raw": "台北市中正區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "應用數學相關",
+          "數理統計相關",
+          "一般數學相關"
+        ],
+        "label": "科系要求",
+        "text": "應用數學相關、數理統計相關、一般數學相關"
+      },
+      {
+        "items": [
+          "LLM",
+          "PyTorch",
+          "Python",
+          "Github",
+          "PL/SQL",
+          "Git",
+          "Prompt"
+        ],
+        "label": "擅長工具",
+        "text": "LLM、PyTorch、Python、Github、PL/SQL、Git、Prompt"
+      },
+      {
+        "items": [
+          "AI",
+          "人工智慧",
+          "語言模型",
+          "生成式AI"
+        ],
+        "label": "工作技能",
+        "text": "AI、人工智慧、語言模型、生成式AI"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "應用數學相關",
+      "數理統計相關",
+      "一般數學相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "AI",
+      "人工智慧",
+      "語言模型",
+      "生成式AI"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：應用數學相關、數理統計相關、一般數學相關\n擅長工具：LLM、PyTorch、Python、Github、PL/SQL、Git、Prompt\n工作技能：AI、人工智慧、語言模型、生成式AI",
+    "tools": [
+      "LLM",
+      "PyTorch",
+      "Python",
+      "Github",
+      "PL/SQL",
+      "Git",
+      "Prompt"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 7
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:36:08+08:00"
+  },
+  "salary": {
+    "raw": "年薪1,500,000~2,500,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n• 使用由 LLM 驅動的 AI 結對程式開發方式，探索、清理並分析大型資料集。\n• 應用 AI Agent 架構，自動生成並評估策略。\n• 建構、微調並評估 AI 或 LLM 模型，從資料中識別關鍵特徵，並產出分析報告。\n• 與研究員及工程師合作，將模型或洞察整合至內部系統，並監控其表現。\n【職務需求】\n• 數學、物理或統計相關碩士以上學歷\n• 熟悉 Python，並能使用 Pandas、NumPy 等資料處理套件。\n• 具備至少一種深度學習框架的實作經驗，如 PyTorch 或 TensorFlow。\n• 熟悉 Git / GitHub 工作流程，並能使用 LLM 進行 AI 結對程式開發。\n• 具備良好的 Prompt Engineering 能力，能引導 LLM 產出程式碼與洞察。\n• 具備機器學習、自然語言處理、深度學習、語言模型、演算法設計、資料庫程式設計、金融市場分析與資料蒐集等相關能力。\n• 專長：LLM、NLP、Python、MS SQL、PL/SQL、R、C++。\n【加分條件】\n1. 具金融相關經驗，如市場預測、事件抽取、情緒分析、因子建模或投資組合\n最佳化\n2. 參與過競賽（Kaggle、AI Challenger 等）或為開源專案活躍貢獻者\n3. 曾於頂級學術會議或技術場合發表論文或演講（如 NeurIPS、ICML、\nICLR、CVPR）",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料科學家",
+            "資料工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料科學家、資料工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪1,500,000~2,500,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n• 使用由 LLM 驅動的 AI 結對程式開發方式，探索、清理並分析大型資料集。\n• 應用 AI Agent 架構，自動生成並評估策略。\n• 建構、微調並評估 AI 或 LLM 模型，從資料中識別關鍵特徵，並產出分析報告。\n• 與研究員及工程師合作，將模型或洞察整合至內部系統，並監控其表現。\n【職務需求】\n• 數學、物理或統計相關碩士以上學歷\n• 熟悉 Python，並能使用 Pandas、NumPy 等資料處理套件。\n• 具備至少一種深度學習框架的實作經驗，如 PyTorch 或 TensorFlow。\n• 熟悉 Git / GitHub 工作流程，並能使用 LLM 進行 AI 結對程式開發。\n• 具備良好的 Prompt Engineering 能力，能引導 LLM 產出程式碼與洞察。\n• 具備機器學習、自然語言處理、深度學習、語言模型、演算法設計、資料庫程式設計、金融市場分析與資料蒐集等相關能力。\n• 專長：LLM、NLP、Python、MS SQL、PL/SQL、R、C++。\n【加分條件】\n1. 具金融相關經驗，如市場預測、事件抽取、情緒分析、因子建模或投資組合\n最佳化\n2. 參與過競賽（Kaggle、AI Challenger 等）或為開源專案活躍貢獻者\n3. 曾於頂級學術會議或技術場合發表論文或演講（如 NeurIPS、ICML、\nICLR、CVPR）"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "應用數學相關",
+            "數理統計相關",
+            "一般數學相關"
+          ],
+          "label": "科系要求",
+          "text": "應用數學相關、數理統計相關、一般數學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "LLM",
+            "PyTorch",
+            "Python",
+            "Github",
+            "PL/SQL",
+            "Git",
+            "Prompt"
+          ],
+          "label": "擅長工具",
+          "text": "LLM、PyTorch、Python、Github、PL/SQL、Git、Prompt",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "人工智慧",
+            "語言模型",
+            "生成式AI"
+          ],
+          "label": "工作技能",
+          "text": "AI、人工智慧、語言模型、生成式AI",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：應用數學相關、數理統計相關、一般數學相關\n擅長工具：LLM、PyTorch、Python、Github、PL/SQL、Git、Prompt\n工作技能：AI、人工智慧、語言模型、生成式AI"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91eeq",
+    "job_url": "https://www.104.com.tw/job/91eeq",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91eeq.json",
+    "raw_sha256": "6aa04cc19e61f810359b0847a4792e846fd24ba01240be477932f57d25d18bf1",
+    "requested_url": "https://www.104.com.tw/api/jobs/91eeq"
+  }
+}

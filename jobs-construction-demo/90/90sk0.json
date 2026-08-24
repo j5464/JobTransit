@@ -1,0 +1,178 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "硬體研發工程師",
+      "韌體工程師",
+      "類比IC設計工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "工作內容: 高運算多核心可拓展性微架構\n參與 SoC 平台評估 暸解電子電路設計及高速訊號分析測試.\n與韌體及系統團隊跨部門合作解決問題，配合韌體工程師進行系統驗證：啟動過程量測、介面時序確認、硬體參數調整與問題定位"
+    },
+    "employment_type_raw": "全職",
+    "title": "硬體/微架構 工程師 (竹南) 0901"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉verilog、EDA工具\n懂計算機結構，資料結構、演算法，具嵌入式硬體開發經驗\n熟悉至少一種 ARM based SoC 或 MCU 平台\n熟悉下列至少數項介面與匯流排：AXI / AHB / PCIE / DDR／NAND／eMMC／SD、Ethernet、USB、UART、RS 485、CAN、I²C、SPI、GPIO"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關"
+    ],
+    "other_text": "熟悉verilog、EDA工具\n懂計算機結構，資料結構、演算法，具嵌入式硬體開發經驗\n熟悉至少一種 ARM based SoC 或 MCU 平台\n熟悉下列至少數項介面與匯流排：AXI / AHB / PCIE / DDR／NAND／eMMC／SD、Ethernet、USB、UART、RS 485、CAN、I²C、SPI、GPIO",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：熟悉verilog、EDA工具\n懂計算機結構，資料結構、演算法，具嵌入式硬體開發經驗\n熟悉至少一種 ARM based SoC 或 MCU 平台\n熟悉下列至少數項介面與匯流排：AXI / AHB / PCIE / DDR／NAND／eMMC／SD、Ethernet、USB、UART、RS 485、CAN、I²C、SPI、GPIO",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 27
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:28:36+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作內容: 高運算多核心可拓展性微架構\n參與 SoC 平台評估 暸解電子電路設計及高速訊號分析測試.\n與韌體及系統團隊跨部門合作解決問題，配合韌體工程師進行系統驗證：啟動過程量測、介面時序確認、硬體參數調整與問題定位",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "硬體研發工程師",
+            "韌體工程師",
+            "類比IC設計工程師"
+          ],
+          "label": "職務類別",
+          "text": "硬體研發工程師、韌體工程師、類比IC設計工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作內容: 高運算多核心可拓展性微架構\n參與 SoC 平台評估 暸解電子電路設計及高速訊號分析測試.\n與韌體及系統團隊跨部門合作解決問題，配合韌體工程師進行系統驗證：啟動過程量測、介面時序確認、硬體參數調整與問題定位"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉verilog、EDA工具\n懂計算機結構，資料結構、演算法，具嵌入式硬體開發經驗\n熟悉至少一種 ARM based SoC 或 MCU 平台\n熟悉下列至少數項介面與匯流排：AXI / AHB / PCIE / DDR／NAND／eMMC／SD、Ethernet、USB、UART、RS 485、CAN、I²C、SPI、GPIO",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：熟悉verilog、EDA工具\n懂計算機結構，資料結構、演算法，具嵌入式硬體開發經驗\n熟悉至少一種 ARM based SoC 或 MCU 平台\n熟悉下列至少數項介面與匯流排：AXI / AHB / PCIE / DDR／NAND／eMMC／SD、Ethernet、USB、UART、RS 485、CAN、I²C、SPI、GPIO"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "90sk0",
+    "job_url": "https://www.104.com.tw/job/90sk0",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90sk0.json",
+    "raw_sha256": "7592bb44b170c5f340eb92780179467e6f60934988f88ac8c4d96df1fb50682d",
+    "requested_url": "https://www.104.com.tw/api/jobs/90sk0"
+  }
+}

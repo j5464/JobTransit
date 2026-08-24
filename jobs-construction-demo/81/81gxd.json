@@ -1,0 +1,233 @@
+{
+  "company": {
+    "id": "12uovylc",
+    "name": "僑威科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "助理工程師",
+      "電子工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉C/C++語言撰寫"
+        },
+        {
+          "children": [],
+          "text": "協助工程師做程式成果確認，製作實驗數據報告"
+        },
+        {
+          "children": [],
+          "text": "協助工程師分析/追蹤韌體應用於硬體的狀況"
+        },
+        {
+          "children": [],
+          "text": "協助工程師分派/製作量產用程式給工廠"
+        },
+        {
+          "children": [],
+          "text": "協助製作計算書並歸納整理於其他硬體工程師參考"
+        },
+        {
+          "children": [],
+          "text": "應新的產品需求將MCU導入前的規劃與布局"
+        },
+        {
+          "children": [],
+          "text": "等主管交辦事項"
+        }
+      ],
+      "text": "1. 熟悉C/C++語言撰寫\n2. 協助工程師做程式成果確認，製作實驗數據報告\n3. 協助工程師分析/追蹤韌體應用於硬體的狀況\n4. 協助工程師分派/製作量產用程式給工廠\n5. 協助製作計算書並歸納整理於其他硬體工程師參考\n6. 應新的產品需求將MCU導入前的規劃與布局\n7. 等主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "研發韌體助理工程師"
+  },
+  "location": {
+    "address_raw": "桃園市桃園區幸福路208號13樓",
+    "raw": "桃園市桃園區幸福路208號13樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Git",
+          "C",
+          "C++",
+          "Math"
+        ],
+        "label": "擅長工具",
+        "text": "Git、C、C++、Math"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "多益500分以上\n1. 對電子.韌體.程式等有興趣者\n2. 對ATX power 有興趣者"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "電機電子工程相關"
+    ],
+    "other_text": "多益500分以上\n1. 對電子.韌體.程式等有興趣者\n2. 對ATX power 有興趣者",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Git、C、C++、Math\n其他條件：多益500分以上\n1. 對電子.韌體.程式等有興趣者\n2. 對ATX power 有興趣者",
+    "tools": [
+      "Git",
+      "C",
+      "C++",
+      "Math"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 2
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:23:31+08:00"
+  },
+  "salary": {
+    "raw": "月薪36,000~45,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 熟悉C/C++語言撰寫\n2. 協助工程師做程式成果確認，製作實驗數據報告\n3. 協助工程師分析/追蹤韌體應用於硬體的狀況\n4. 協助工程師分派/製作量產用程式給工廠\n5. 協助製作計算書並歸納整理於其他硬體工程師參考\n6. 應新的產品需求將MCU導入前的規劃與布局\n7. 等主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "助理工程師",
+            "電子工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、助理工程師、電子工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪36,000~45,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市桃園區幸福路208號13樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 熟悉C/C++語言撰寫\n2. 協助工程師做程式成果確認，製作實驗數據報告\n3. 協助工程師分析/追蹤韌體應用於硬體的狀況\n4. 協助工程師分派/製作量產用程式給工廠\n5. 協助製作計算書並歸納整理於其他硬體工程師參考\n6. 應新的產品需求將MCU導入前的規劃與布局\n7. 等主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "C",
+            "C++",
+            "Math"
+          ],
+          "label": "擅長工具",
+          "text": "Git、C、C++、Math",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "多益500分以上\n1. 對電子.韌體.程式等有興趣者\n2. 對ATX power 有興趣者",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Git、C、C++、Math\n其他條件：多益500分以上\n1. 對電子.韌體.程式等有興趣者\n2. 對ATX power 有興趣者"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/22",
+    "html_sha256": null,
+    "job_id": "81gxd",
+    "job_url": "https://www.104.com.tw/job/81gxd",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/81gxd.json",
+    "raw_sha256": "345e7c0d3b6914b990044596e059d708040c32eb51ba9f85223f8fee7d16e509",
+    "requested_url": "https://www.104.com.tw/api/jobs/81gxd"
+  }
+}

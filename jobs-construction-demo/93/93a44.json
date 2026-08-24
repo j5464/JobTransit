@@ -1,0 +1,234 @@
+{
+  "company": {
+    "id": "2d9ntmw",
+    "name": "Advantech_研華股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發和維護基於 Qualcomm 平台的 Embedded Linux BSP。"
+        },
+        {
+          "children": [],
+          "text": "客製化和優化標準品的 Linux 核心和設備驅動。"
+        },
+        {
+          "children": [],
+          "text": "整合、測試和除錯 I2C、SPI、UART 和 MIPI 等硬體介面。"
+        },
+        {
+          "children": [],
+          "text": "與硬體團隊合作，啟動新的嵌入式平台。"
+        },
+        {
+          "children": [],
+          "text": "優化嵌入式應用的即時效能。"
+        },
+        {
+          "children": [],
+          "text": "確保符合 IEC 62443 等產業標準的安全性要求。"
+        },
+        {
+          "children": [],
+          "text": "使用 Yocto、Buildroot 或 OpenEmbedded 來建立客製化 Linux 發行版。"
+        },
+        {
+          "children": [],
+          "text": "為內部團隊和客戶提供技術支持與文件。"
+        },
+        {
+          "children": [],
+          "text": "計算機科學、電機工程或相關領域的學士或更高學位。"
+        },
+        {
+          "children": [],
+          "text": "2 年以上 Embedded Linux 開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "精通 Linux 核心、設備驅動和 BSP 開發，特別是 Arm 架構。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 C/C++ 及 Python 或 Bash 等腳本語言。"
+        },
+        {
+          "children": [],
+          "text": "具備 Yocto、Buildroot 或 OpenEmbedded 等建置系統的經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉硬體除錯工具（示波器、邏輯分析儀、JTAG）。"
+        },
+        {
+          "children": [],
+          "text": "具備安全框架、安全啟動和可信執行環境的實作經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備中等以上英語能力，能與非中文母語人士以英語溝通。"
+        },
+        {
+          "children": [],
+          "text": "有 NXP i.MX或 NVIDIA Jetson 平台開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "了解 TSN、IEEE 1588 和 Ethernet AVB 等時間同步網路技術。"
+        },
+        {
+          "children": [],
+          "text": "具備嵌入式平台上的 AI 或多媒體加速框架開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 ROS（機器人作業系統）應用。"
+        },
+        {
+          "children": [],
+          "text": "具備標準品開發經驗，包括法規符合性與認證流程。"
+        }
+      ],
+      "text": "【職務概要】\n嵌入式軟體開發團隊在公司中扮演著關鍵角色，負責推動基於 Arm 平台的 Embedded Linux 解決方案，並致力於標準品的創新與最佳化。該團隊不僅支援現有產品的開發與維護，更在新技術研發、系統優化與驅動整合方面發揮核心作用。未來，我們將持續深化在 AIoT、邊緣運算與工業應用領域的技術佈局，提升產品競爭力。\n此職位將直接影響產品性能與穩定性，透過優化 Linux 核心、設備驅動和系統架構，確保標準品能夠符合市場需求與國際標準。此外，該職位需與硬體、軟體及業務團隊緊密合作，確保產品開發順利進行，並提升公司在嵌入式領域的技術實力。\n【主要工作內容】\n1. 開發和維護基於 Qualcomm 平台的 Embedded Linux BSP。\n2. 客製化和優化標準品的 Linux 核心和設備驅動。\n3. 整合、測試和除錯 I2C、SPI、UART 和 MIPI 等硬體介面。\n4. 與硬體團隊合作，啟動新的嵌入式平台。\n5. 優化嵌入式應用的即時效能。\n6. 確保符合 IEC 62443 等產業標準的安全性要求。\n7. 使用 Yocto、Buildroot 或 OpenEmbedded 來建立客製化 Linux 發行版。\n8. 為內部團隊和客戶提供技術支持與文件。\n【必要條件】\n1. 計算機科學、電機工程或相關領域的學士或更高學位。\n2. 2 年以上 Embedded Linux 開發經驗。\n3. 精通 Linux 核心、設備驅動和 BSP 開發，特別是 Arm 架構。\n4. 熟悉 C/C++ 及 Python 或 Bash 等腳本語言。\n5. 具備 Yocto、Buildroot 或 OpenEmbedded 等建置系統的經驗。\n6. 熟悉硬體除錯工具（示波器、邏輯分析儀、JTAG）。\n7. 具備安全框架、安全啟動和可信執行環境的實作經驗。\n8. 具備中等以上英語能力，能與非中文母語人士以英語溝通。\n【加分條件】\n1. 有 NXP i.MX或 NVIDIA Jetson 平台開發經驗。\n2. 了解 TSN、IEEE 1588 和 Ethernet AVB 等時間同步網路技術。\n3. 具備嵌入式平台上的 AI 或多媒體加速框架開發經驗。\n4. 熟悉 ROS（機器人作業系統）應用。\n5. 具備標準品開發經驗，包括法規符合性與認證流程。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Software Engineering - RISC(Embedded/林口園區)_JR202604061"
+  },
+  "location": {
+    "address_raw": "桃園市龜山區文德路27號",
+    "raw": "桃園市龜山區文德路27號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "C++",
+          "ARM"
+        ],
+        "label": "擅長工具",
+        "text": "C++、ARM"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：C++、ARM",
+    "tools": [
+      "C++",
+      "ARM"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 23
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:17:31+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職務概要】\n嵌入式軟體開發團隊在公司中扮演著關鍵角色，負責推動基於 Arm 平台的 Embedded Linux 解決方案，並致力於標準品的創新與最佳化。該團隊不僅支援現有產品的開發與維護，更在新技術研發、系統優化與驅動整合方面發揮核心作用。未來，我們將持續深化在 AIoT、邊緣運算與工業應用領域的技術佈局，提升產品競爭力。\n此職位將直接影響產品性能與穩定性，透過優化 Linux 核心、設備驅動和系統架構，確保標準品能夠符合市場需求與國際標準。此外，該職位需與硬體、軟體及業務團隊緊密合作，確保產品開發順利進行，並提升公司在嵌入式領域的技術實力。\n【主要工作內容】\n1. 開發和維護基於 Qualcomm 平台的 Embedded Linux BSP。\n2. 客製化和優化標準品的 Linux 核心和設備驅動。\n3. 整合、測試和除錯 I2C、SPI、UART 和 MIPI 等硬體介面。\n4. 與硬體團隊合作，啟動新的嵌入式平台。\n5. 優化嵌入式應用的即時效能。\n6. 確保符合 IEC 62443 等產業標準的安全性要求。\n7. 使用 Yocto、Buildroot 或 OpenEmbedded 來建立客製化 Linux 發行版。\n8. 為內部團隊和客戶提供技術支持與文件。\n【必要條件】\n1. 計算機科學、電機工程或相關領域的學士或更高學位。\n2. 2 年以上 Embedded Linux 開發經驗。\n3. 精通 Linux 核心、設備驅動和 BSP 開發，特別是 Arm 架構。\n4. 熟悉 C/C++ 及 Python 或 Bash 等腳本語言。\n5. 具備 Yocto、Buildroot 或 OpenEmbedded 等建置系統的經驗。\n6. 熟悉硬體除錯工具（示波器、邏輯分析儀、JTAG）。\n7. 具備安全框架、安全啟動和可信執行環境的實作經驗。\n8. 具備中等以上英語能力，能與非中文母語人士以英語溝通。\n【加分條件】\n1. 有 NXP i.MX或 NVIDIA Jetson 平台開發經驗。\n2. 了解 TSN、IEEE 1588 和 Ethernet AVB 等時間同步網路技術。\n3. 具備嵌入式平台上的 AI 或多媒體加速框架開發經驗。\n4. 熟悉 ROS（機器人作業系統）應用。\n5. 具備標準品開發經驗，包括法規符合性與認證流程。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市龜山區文德路27號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職務概要】\n嵌入式軟體開發團隊在公司中扮演著關鍵角色，負責推動基於 Arm 平台的 Embedded Linux 解決方案，並致力於標準品的創新與最佳化。該團隊不僅支援現有產品的開發與維護，更在新技術研發、系統優化與驅動整合方面發揮核心作用。未來，我們將持續深化在 AIoT、邊緣運算與工業應用領域的技術佈局，提升產品競爭力。\n此職位將直接影響產品性能與穩定性，透過優化 Linux 核心、設備驅動和系統架構，確保標準品能夠符合市場需求與國際標準。此外，該職位需與硬體、軟體及業務團隊緊密合作，確保產品開發順利進行，並提升公司在嵌入式領域的技術實力。\n【主要工作內容】\n1. 開發和維護基於 Qualcomm 平台的 Embedded Linux BSP。\n2. 客製化和優化標準品的 Linux 核心和設備驅動。\n3. 整合、測試和除錯 I2C、SPI、UART 和 MIPI 等硬體介面。\n4. 與硬體團隊合作，啟動新的嵌入式平台。\n5. 優化嵌入式應用的即時效能。\n6. 確保符合 IEC 62443 等產業標準的安全性要求。\n7. 使用 Yocto、Buildroot 或 OpenEmbedded 來建立客製化 Linux 發行版。\n8. 為內部團隊和客戶提供技術支持與文件。\n【必要條件】\n1. 計算機科學、電機工程或相關領域的學士或更高學位。\n2. 2 年以上 Embedded Linux 開發經驗。\n3. 精通 Linux 核心、設備驅動和 BSP 開發，特別是 Arm 架構。\n4. 熟悉 C/C++ 及 Python 或 Bash 等腳本語言。\n5. 具備 Yocto、Buildroot 或 OpenEmbedded 等建置系統的經驗。\n6. 熟悉硬體除錯工具（示波器、邏輯分析儀、JTAG）。\n7. 具備安全框架、安全啟動和可信執行環境的實作經驗。\n8. 具備中等以上英語能力，能與非中文母語人士以英語溝通。\n【加分條件】\n1. 有 NXP i.MX或 NVIDIA Jetson 平台開發經驗。\n2. 了解 TSN、IEEE 1588 和 Ethernet AVB 等時間同步網路技術。\n3. 具備嵌入式平台上的 AI 或多媒體加速框架開發經驗。\n4. 熟悉 ROS（機器人作業系統）應用。\n5. 具備標準品開發經驗，包括法規符合性與認證流程。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "ARM"
+          ],
+          "label": "擅長工具",
+          "text": "C++、ARM",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n擅長工具：C++、ARM"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93a44",
+    "job_url": "https://www.104.com.tw/job/93a44",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93a44.json",
+    "raw_sha256": "585e12ae0716f26f221e64ef6a6463b7b8b6b30f250dc1ff16fc8614bff68863",
+    "requested_url": "https://www.104.com.tw/api/jobs/93a44"
+  }
+}

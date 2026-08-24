@@ -1,0 +1,266 @@
+{
+  "company": {
+    "id": "w39picg",
+    "name": "連虹股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "電子工程師",
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "與研發團隊合作，設計、開發、維護並優化行動應用程式（Android / iOS / 跨平台）。"
+        },
+        {
+          "children": [],
+          "text": "主導或協助應用程式架構設計與實作。"
+        },
+        {
+          "children": [],
+          "text": "參與公司軟體與韌體產品的開發。"
+        },
+        {
+          "children": [],
+          "text": "協助定義產品或技術開發目標，並轉為具體的執行計劃。"
+        },
+        {
+          "children": [],
+          "text": "規劃專案時程，分配任務，追蹤進度以確保如期交付。"
+        },
+        {
+          "children": [],
+          "text": "完成主管交辦事項。"
+        },
+        {
+          "children": [],
+          "text": "軟體工程、資訊工程學系畢業（具備軟體能力之電機/電資相關科系亦可）。"
+        },
+        {
+          "children": [],
+          "text": "熟悉APP程式開發與軟體架構設計（Android、iOS 或跨平台）"
+        },
+        {
+          "children": [],
+          "text": "具備後端系統、雲端服務與資料庫整合經驗"
+        },
+        {
+          "children": [],
+          "text": "具備產品開發流程基本理解能力。"
+        },
+        {
+          "children": [],
+          "text": "擁有創新思維與問題解決能力。"
+        },
+        {
+          "children": [],
+          "text": "能獨立作業，並具備良好的對內、對外溝通能力（含客戶與供應商）。"
+        },
+        {
+          "children": [],
+          "text": "具備中等英文能力。"
+        }
+      ],
+      "text": "1. 與研發團隊合作，設計、開發、維護並優化行動應用程式（Android / iOS / 跨平台）。\n2. 主導或協助應用程式架構設計與實作。\n3. 參與公司軟體與韌體產品的開發。\n4. 協助定義產品或技術開發目標，並轉為具體的執行計劃。\n5. 規劃專案時程，分配任務，追蹤進度以確保如期交付。\n6. 完成主管交辦事項。\n【應徵條件】\n1. 軟體工程、資訊工程學系畢業（具備軟體能力之電機/電資相關科系亦可）。\n2. 熟悉APP程式開發與軟體架構設計（Android、iOS 或跨平台）\n3. 具備後端系統、雲端服務與資料庫整合經驗\n【加分項目】\n1. 具備產品開發流程基本理解能力。\n2. 擁有創新思維與問題解決能力。\n3. 能獨立作業，並具備良好的對內、對外溝通能力（含客戶與供應商）。\n4. 具備中等英文能力。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師"
+  },
+  "location": {
+    "address_raw": "台南市仁德區新田里勝利一街3號",
+    "raw": "台南市仁德區新田里勝利一街3號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "SWIFT",
+          "Flutter",
+          "Kotlin",
+          "PHP",
+          "MS SQL",
+          "AWS"
+        ],
+        "label": "擅長工具",
+        "text": "SWIFT、Flutter、Kotlin、PHP、MS SQL、AWS"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具以下技術經驗尤佳：\n– APP端：Kotlin、Swift、Flutter\n– 資料庫：MongoDB、MSSQL\n– 後端開發：Node.js、PHP、AWS\n– 熟悉AWS 的實際操作經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.具以下技術經驗尤佳：\n– APP端：Kotlin、Swift、Flutter\n– 資料庫：MongoDB、MSSQL\n– 後端開發：Node.js、PHP、AWS\n– 熟悉AWS 的實際操作經驗",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：SWIFT、Flutter、Kotlin、PHP、MS SQL、AWS\n其他條件：1.具以下技術經驗尤佳：\n– APP端：Kotlin、Swift、Flutter\n– 資料庫：MongoDB、MSSQL\n– 後端開發：Node.js、PHP、AWS\n– 熟悉AWS 的實際操作經驗",
+    "tools": [
+      "SWIFT",
+      "Flutter",
+      "Kotlin",
+      "PHP",
+      "MS SQL",
+      "AWS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 50
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:23:59+08:00"
+  },
+  "salary": {
+    "raw": "月薪36,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 與研發團隊合作，設計、開發、維護並優化行動應用程式（Android / iOS / 跨平台）。\n2. 主導或協助應用程式架構設計與實作。\n3. 參與公司軟體與韌體產品的開發。\n4. 協助定義產品或技術開發目標，並轉為具體的執行計劃。\n5. 規劃專案時程，分配任務，追蹤進度以確保如期交付。\n6. 完成主管交辦事項。\n【應徵條件】\n1. 軟體工程、資訊工程學系畢業（具備軟體能力之電機/電資相關科系亦可）。\n2. 熟悉APP程式開發與軟體架構設計（Android、iOS 或跨平台）\n3. 具備後端系統、雲端服務與資料庫整合經驗\n【加分項目】\n1. 具備產品開發流程基本理解能力。\n2. 擁有創新思維與問題解決能力。\n3. 能獨立作業，並具備良好的對內、對外溝通能力（含客戶與供應商）。\n4. 具備中等英文能力。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "電子工程師",
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "電子工程師、軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪36,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市仁德區新田里勝利一街3號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 與研發團隊合作，設計、開發、維護並優化行動應用程式（Android / iOS / 跨平台）。\n2. 主導或協助應用程式架構設計與實作。\n3. 參與公司軟體與韌體產品的開發。\n4. 協助定義產品或技術開發目標，並轉為具體的執行計劃。\n5. 規劃專案時程，分配任務，追蹤進度以確保如期交付。\n6. 完成主管交辦事項。\n【應徵條件】\n1. 軟體工程、資訊工程學系畢業（具備軟體能力之電機/電資相關科系亦可）。\n2. 熟悉APP程式開發與軟體架構設計（Android、iOS 或跨平台）\n3. 具備後端系統、雲端服務與資料庫整合經驗\n【加分項目】\n1. 具備產品開發流程基本理解能力。\n2. 擁有創新思維與問題解決能力。\n3. 能獨立作業，並具備良好的對內、對外溝通能力（含客戶與供應商）。\n4. 具備中等英文能力。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "SWIFT",
+            "Flutter",
+            "Kotlin",
+            "PHP",
+            "MS SQL",
+            "AWS"
+          ],
+          "label": "擅長工具",
+          "text": "SWIFT、Flutter、Kotlin、PHP、MS SQL、AWS",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具以下技術經驗尤佳：\n– APP端：Kotlin、Swift、Flutter\n– 資料庫：MongoDB、MSSQL\n– 後端開發：Node.js、PHP、AWS\n– 熟悉AWS 的實際操作經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：SWIFT、Flutter、Kotlin、PHP、MS SQL、AWS\n其他條件：1.具以下技術經驗尤佳：\n– APP端：Kotlin、Swift、Flutter\n– 資料庫：MongoDB、MSSQL\n– 後端開發：Node.js、PHP、AWS\n– 熟悉AWS 的實際操作經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8q4ax",
+    "job_url": "https://www.104.com.tw/job/8q4ax",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8q4ax.json",
+    "raw_sha256": "5927e52799ceef94ed7462569a1fb4a03c80c8b9a8632017d8bc6c727fe394a0",
+    "requested_url": "https://www.104.com.tw/api/jobs/8q4ax"
+  }
+}

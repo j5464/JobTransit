@@ -1,0 +1,184 @@
+{
+  "company": {
+    "id": "1a2x6bm59u",
+    "name": "科爾迪股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [],
+      "text": "・協助研發軟體新技術與新工具\n・金融系統開發\n・負責軟體之分析、設計以及程式撰寫\n・進行軟體之測試與修改"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師(中階以上)"
+  },
+  "location": {
+    "address_raw": "台北市中山區松江路318號8樓",
+    "raw": "台北市中山區松江路318號8樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "中文：精通、精通、精通、精通",
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "中文：精通、精通、精通、精通\n英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Java"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "MUST\n・JAVA或C#開發經驗 (5年以上)\nBETTER\n・曾開發過金融業專案 (銀行、證券、保險業等等)\n・具備英語或日語溝通能力\n★外籍人士請說明是否具備簽證"
+      }
+    ],
+    "languages": [
+      "中文：精通、精通、精通、精通",
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "MUST\n・JAVA或C#開發經驗 (5年以上)\nBETTER\n・曾開發過金融業專案 (銀行、證券、保險業等等)\n・具備英語或日語溝通能力\n★外籍人士請說明是否具備簽證",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n語文條件：中文：精通、精通、精通、精通\n英文：中等、中等、中等、中等\n擅長工具：C#、Java\n其他條件：MUST\n・JAVA或C#開發經驗 (5年以上)\nBETTER\n・曾開發過金融業專案 (銀行、證券、保險業等等)\n・具備英語或日語溝通能力\n★外籍人士請說明是否具備簽證",
+    "tools": [
+      "C#",
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 5
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:32:42+08:00"
+  },
+  "salary": {
+    "raw": "月薪70,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "・協助研發軟體新技術與新工具\n・金融系統開發\n・負責軟體之分析、設計以及程式撰寫\n・進行軟體之測試與修改",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪70,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區松江路318號8樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "・協助研發軟體新技術與新工具\n・金融系統開發\n・負責軟體之分析、設計以及程式撰寫\n・進行軟體之測試與修改"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "中文：精通、精通、精通、精通",
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "中文：精通、精通、精通、精通\n英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Java",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "MUST\n・JAVA或C#開發經驗 (5年以上)\nBETTER\n・曾開發過金融業專案 (銀行、證券、保險業等等)\n・具備英語或日語溝通能力\n★外籍人士請說明是否具備簽證",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n語文條件：中文：精通、精通、精通、精通\n英文：中等、中等、中等、中等\n擅長工具：C#、Java\n其他條件：MUST\n・JAVA或C#開發經驗 (5年以上)\nBETTER\n・曾開發過金融業專案 (銀行、證券、保險業等等)\n・具備英語或日語溝通能力\n★外籍人士請說明是否具備簽證"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7p2s1",
+    "job_url": "https://www.104.com.tw/job/7p2s1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7p2s1.json",
+    "raw_sha256": "2058dc00861b90c16d897122d683623acd2cc599bf6fd2b05467b8bab8438b60",
+    "requested_url": "https://www.104.com.tw/api/jobs/7p2s1"
+  }
+}

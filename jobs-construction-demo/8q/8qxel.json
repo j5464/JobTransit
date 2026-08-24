@@ -1,0 +1,146 @@
+{
+  "company": {
+    "id": "2d9ntmw",
+    "name": "Advantech_研華股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "【職務摘要】\n本職位常駐於台灣，支援美國總部的 NetSuite 系統開發、整合與維運。負責公司 NetSuite 與整合第三方系統的功能強化、日常操作、客製化與維護，並處理內部 IT 技術支援需求。此職位也將參與其他企業應用程式（如 Office 365）與 NetSuite 的整合作業。\n【主要工作內容】\n負責 NetSuite 系統的日常管理與維護\n根據需求開發與強化 NetSuite 功能以優化業務流程\n熟悉 NetSuite API（REST API、SuiteTalk、RESTlet），負責系統間資料整合\n開發與整合 NetSuite 與其他第三方平台（如 CRM、電商、財務系統）\n撰寫與部署 SuiteScript（Client, User Event, Scheduled, Suitelets, RESTlets）\n撰寫 Saved Searches、客製報表與儀表板\n管理與更新 NetSuite Custom Records、Forms、Fields、Roles\n設計與維護自動化流程與外部 Web 表單\n撰寫清晰的技術文件與流程圖\n常有出差需求, 與和美國夜間concall 討論需求\n【必要條件】\n熟悉 JavaScript、HTML、CSS，具前端開發經驗\n熟悉 jQuery、JSON、AJAX、XML 等前端資料傳輸技術\n具備 NetSuite API 整合開發經驗（REST API、SuiteTalk、RESTlet）\n優秀的英文溝通與文件撰寫能力\n【加分條件】\n熟悉 SuiteScript 1.0 / 2.0 / 2.1\n熟悉 NetSuite SuiteBuilder 與系統管理\n有 .NET（VB.NET / C#）開發經驗者佳\n具備 ERP 系統整合與跨平台資料對接實務經驗\n【學歷與經歷】\n資訊工程、軟體相關學系學士以上，或具同等工作經驗\n具 3–6 年以上 NetSuite 開發實務經驗, 能獨立開發Netsuite\nPosition Title: NetSuite Developer\nDepartment: IT Department\nEmployment Type: Full-Time\nWork Location: Based in Taiwan HQ office, supporting NetSuite development and operations for the U.S. subsidiary\n[Job Summary]\nThis position is based in Taiwan and supports the U.S. team in developing, integrating, and maintaining the NetSuite system. The role is responsible for customizing, enhancing, operating, and maintaining NetSuite and its third-party integrations, as well as resolving IT support tickets. The position will also contribute to integration efforts with other enterprise tools such as Office 365.\n[Key Responsibilities]\nPerform daily administration and maintenance of NetSuite\nDevelop and enhance NetSuite features to streamline business processes\nWork with NetSuite APIs (REST API, SuiteTalk, RESTlet) to build system integrations\nIntegrate NetSuite with third-party platforms such as CRM, eCommerce, or accounting systems\nDevelop and deploy SuiteScript (Client, User Event, Scheduled, Suitelets, RESTlets)\nBuild and maintain Saved Searches, custom reports, and dashboards\nManage custom records, fields, forms, and user roles within NetSuite\nDesign and maintain email automation and external-facing web forms\nWrite technical documentation and process flow diagrams\nConduct QA and User Acceptance Testing (UAT)\n[Required Qualifications]\nProficient in JavaScript, HTML, CSS with front-end development experience\nFamiliar with jQuery, JSON, AJAX, XML and data transfer technologies\nExperience with NetSuite integration technologies: REST API, SuiteTalk, RESTlet\nStrong English communication and documentation skills\n[Preferred Skills]\nExperience with SuiteScript 1.0 / 2.0 / 2.1\nFamiliarity with NetSuite SuiteBuilder and system administration\nBackground in .NET development (VB.NET or C#) is a plus\nHands-on experience in ERP and cross-platform integrations\n[Education & Experience]\nBachelor’s degree in Computer Science, Software Engineering, or equivalent work experience\n3–6 years of hands-on NetSuite development experience preferred"
+    },
+    "employment_type_raw": "全職",
+    "title": "NetSuite 開發工程師 (NetSuite Developer) - 內湖_JR202510038"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路26巷20弄1號",
+    "raw": "台北市內湖區瑞光路26巷20弄1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 42
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:05:13+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職務摘要】\n本職位常駐於台灣，支援美國總部的 NetSuite 系統開發、整合與維運。負責公司 NetSuite 與整合第三方系統的功能強化、日常操作、客製化與維護，並處理內部 IT 技術支援需求。此職位也將參與其他企業應用程式（如 Office 365）與 NetSuite 的整合作業。\n【主要工作內容】\n負責 NetSuite 系統的日常管理與維護\n根據需求開發與強化 NetSuite 功能以優化業務流程\n熟悉 NetSuite API（REST API、SuiteTalk、RESTlet），負責系統間資料整合\n開發與整合 NetSuite 與其他第三方平台（如 CRM、電商、財務系統）\n撰寫與部署 SuiteScript（Client, User Event, Scheduled, Suitelets, RESTlets）\n撰寫 Saved Searches、客製報表與儀表板\n管理與更新 NetSuite Custom Records、Forms、Fields、Roles\n設計與維護自動化流程與外部 Web 表單\n撰寫清晰的技術文件與流程圖\n常有出差需求, 與和美國夜間concall 討論需求\n【必要條件】\n熟悉 JavaScript、HTML、CSS，具前端開發經驗\n熟悉 jQuery、JSON、AJAX、XML 等前端資料傳輸技術\n具備 NetSuite API 整合開發經驗（REST API、SuiteTalk、RESTlet）\n優秀的英文溝通與文件撰寫能力\n【加分條件】\n熟悉 SuiteScript 1.0 / 2.0 / 2.1\n熟悉 NetSuite SuiteBuilder 與系統管理\n有 .NET（VB.NET / C#）開發經驗者佳\n具備 ERP 系統整合與跨平台資料對接實務經驗\n【學歷與經歷】\n資訊工程、軟體相關學系學士以上，或具同等工作經驗\n具 3–6 年以上 NetSuite 開發實務經驗, 能獨立開發Netsuite\nPosition Title: NetSuite Developer\nDepartment: IT Department\nEmployment Type: Full-Time\nWork Location: Based in Taiwan HQ office, supporting NetSuite development and operations for the U.S. subsidiary\n[Job Summary]\nThis position is based in Taiwan and supports the U.S. team in developing, integrating, and maintaining the NetSuite system. The role is responsible for customizing, enhancing, operating, and maintaining NetSuite and its third-party integrations, as well as resolving IT support tickets. The position will also contribute to integration efforts with other enterprise tools such as Office 365.\n[Key Responsibilities]\nPerform daily administration and maintenance of NetSuite\nDevelop and enhance NetSuite features to streamline business processes\nWork with NetSuite APIs (REST API, SuiteTalk, RESTlet) to build system integrations\nIntegrate NetSuite with third-party platforms such as CRM, eCommerce, or accounting systems\nDevelop and deploy SuiteScript (Client, User Event, Scheduled, Suitelets, RESTlets)\nBuild and maintain Saved Searches, custom reports, and dashboards\nManage custom records, fields, forms, and user roles within NetSuite\nDesign and maintain email automation and external-facing web forms\nWrite technical documentation and process flow diagrams\nConduct QA and User Acceptance Testing (UAT)\n[Required Qualifications]\nProficient in JavaScript, HTML, CSS with front-end development experience\nFamiliar with jQuery, JSON, AJAX, XML and data transfer technologies\nExperience with NetSuite integration technologies: REST API, SuiteTalk, RESTlet\nStrong English communication and documentation skills\n[Preferred Skills]\nExperience with SuiteScript 1.0 / 2.0 / 2.1\nFamiliarity with NetSuite SuiteBuilder and system administration\nBackground in .NET development (VB.NET or C#) is a plus\nHands-on experience in ERP and cross-platform integrations\n[Education & Experience]\nBachelor’s degree in Computer Science, Software Engineering, or equivalent work experience\n3–6 years of hands-on NetSuite development experience preferred",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路26巷20弄1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職務摘要】\n本職位常駐於台灣，支援美國總部的 NetSuite 系統開發、整合與維運。負責公司 NetSuite 與整合第三方系統的功能強化、日常操作、客製化與維護，並處理內部 IT 技術支援需求。此職位也將參與其他企業應用程式（如 Office 365）與 NetSuite 的整合作業。\n【主要工作內容】\n負責 NetSuite 系統的日常管理與維護\n根據需求開發與強化 NetSuite 功能以優化業務流程\n熟悉 NetSuite API（REST API、SuiteTalk、RESTlet），負責系統間資料整合\n開發與整合 NetSuite 與其他第三方平台（如 CRM、電商、財務系統）\n撰寫與部署 SuiteScript（Client, User Event, Scheduled, Suitelets, RESTlets）\n撰寫 Saved Searches、客製報表與儀表板\n管理與更新 NetSuite Custom Records、Forms、Fields、Roles\n設計與維護自動化流程與外部 Web 表單\n撰寫清晰的技術文件與流程圖\n常有出差需求, 與和美國夜間concall 討論需求\n【必要條件】\n熟悉 JavaScript、HTML、CSS，具前端開發經驗\n熟悉 jQuery、JSON、AJAX、XML 等前端資料傳輸技術\n具備 NetSuite API 整合開發經驗（REST API、SuiteTalk、RESTlet）\n優秀的英文溝通與文件撰寫能力\n【加分條件】\n熟悉 SuiteScript 1.0 / 2.0 / 2.1\n熟悉 NetSuite SuiteBuilder 與系統管理\n有 .NET（VB.NET / C#）開發經驗者佳\n具備 ERP 系統整合與跨平台資料對接實務經驗\n【學歷與經歷】\n資訊工程、軟體相關學系學士以上，或具同等工作經驗\n具 3–6 年以上 NetSuite 開發實務經驗, 能獨立開發Netsuite\nPosition Title: NetSuite Developer\nDepartment: IT Department\nEmployment Type: Full-Time\nWork Location: Based in Taiwan HQ office, supporting NetSuite development and operations for the U.S. subsidiary\n[Job Summary]\nThis position is based in Taiwan and supports the U.S. team in developing, integrating, and maintaining the NetSuite system. The role is responsible for customizing, enhancing, operating, and maintaining NetSuite and its third-party integrations, as well as resolving IT support tickets. The position will also contribute to integration efforts with other enterprise tools such as Office 365.\n[Key Responsibilities]\nPerform daily administration and maintenance of NetSuite\nDevelop and enhance NetSuite features to streamline business processes\nWork with NetSuite APIs (REST API, SuiteTalk, RESTlet) to build system integrations\nIntegrate NetSuite with third-party platforms such as CRM, eCommerce, or accounting systems\nDevelop and deploy SuiteScript (Client, User Event, Scheduled, Suitelets, RESTlets)\nBuild and maintain Saved Searches, custom reports, and dashboards\nManage custom records, fields, forms, and user roles within NetSuite\nDesign and maintain email automation and external-facing web forms\nWrite technical documentation and process flow diagrams\nConduct QA and User Acceptance Testing (UAT)\n[Required Qualifications]\nProficient in JavaScript, HTML, CSS with front-end development experience\nFamiliar with jQuery, JSON, AJAX, XML and data transfer technologies\nExperience with NetSuite integration technologies: REST API, SuiteTalk, RESTlet\nStrong English communication and documentation skills\n[Preferred Skills]\nExperience with SuiteScript 1.0 / 2.0 / 2.1\nFamiliarity with NetSuite SuiteBuilder and system administration\nBackground in .NET development (VB.NET or C#) is a plus\nHands-on experience in ERP and cross-platform integrations\n[Education & Experience]\nBachelor’s degree in Computer Science, Software Engineering, or equivalent work experience\n3–6 years of hands-on NetSuite development experience preferred"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8qxel",
+    "job_url": "https://www.104.com.tw/job/8qxel",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8qxel.json",
+    "raw_sha256": "046b3f57f9f234ab6f3d55df7937cad099d8e1ca97e9bbf2fc3a70171551f0c0",
+    "requested_url": "https://www.104.com.tw/api/jobs/8qxel"
+  }
+}

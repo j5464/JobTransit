@@ -1,0 +1,148 @@
+{
+  "company": {
+    "id": "pjy3aao",
+    "name": "菱生精密工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "MIS程式設計師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "從事電腦軟體的程式設計、修改、安裝、測試及維護"
+        },
+        {
+          "children": [],
+          "text": "從事相關系統程式開發、管理與維護"
+        },
+        {
+          "children": [],
+          "text": "熟悉C#、VB、Information-4GL者佳"
+        },
+        {
+          "children": [],
+          "text": "具備三年以上工作經驗"
+        }
+      ],
+      "text": "1.從事電腦軟體的程式設計、修改、安裝、測試及維護\n2.從事相關系統程式開發、管理與維護\n3.熟悉C#、VB、Information-4GL者佳\n4.具備三年以上工作經驗"
+    },
+    "employment_type_raw": "全職",
+    "title": "資深資訊工程師(軟體)"
+  },
+  "location": {
+    "address_raw": "台中市潭子區南二路22-1號",
+    "raw": "台中市潭子區南二路22-1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 13
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:52:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.從事電腦軟體的程式設計、修改、安裝、測試及維護\n2.從事相關系統程式開發、管理與維護\n3.熟悉C#、VB、Information-4GL者佳\n4.具備三年以上工作經驗",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MIS程式設計師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "MIS程式設計師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市潭子區南二路22-1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.從事電腦軟體的程式設計、修改、安裝、測試及維護\n2.從事相關系統程式開發、管理與維護\n3.熟悉C#、VB、Information-4GL者佳\n4.具備三年以上工作經驗"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92bo7",
+    "job_url": "https://www.104.com.tw/job/92bo7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92bo7.json",
+    "raw_sha256": "c7eefd92e87bceb8359694c0b75e8827a95beffd44a4691265c873499543d054",
+    "requested_url": "https://www.104.com.tw/api/jobs/92bo7"
+  }
+}

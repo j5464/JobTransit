@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "1a2x6blghh",
+    "name": "鴻華先進科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟韌體測試工程師",
+      "測試人員",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop and maintain automated test scripts for web applications"
+        },
+        {
+          "children": [],
+          "text": "Execute automation and regression tests"
+        },
+        {
+          "children": [],
+          "text": "Assist in maintaining existing automation testing frameworks"
+        },
+        {
+          "children": [],
+          "text": "Collaborate with developers to identify and report defects"
+        },
+        {
+          "children": [],
+          "text": "Improve automation scripts to increase test stability"
+        },
+        {
+          "children": [],
+          "text": "Participate in test case design and testing activities"
+        },
+        {
+          "children": [],
+          "text": "0–2 years experience in software testing or automation testing"
+        },
+        {
+          "children": [],
+          "text": "Familiar with web automation tools such as Selenium or Playwright"
+        },
+        {
+          "children": [],
+          "text": "Programming experience in Python"
+        },
+        {
+          "children": [],
+          "text": "Understanding of software testing methodologies"
+        },
+        {
+          "children": [],
+          "text": "Experience with API testing"
+        },
+        {
+          "children": [],
+          "text": "Experience with pytest"
+        },
+        {
+          "children": [],
+          "text": "Experience with Git"
+        },
+        {
+          "children": [],
+          "text": "Basic knowledge of HTML / CSS / DOM"
+        }
+      ],
+      "text": "Job Description\n- Develop and maintain automated test scripts for web applications\n- Execute automation and regression tests\n- Assist in maintaining existing automation testing frameworks\n- Collaborate with developers to identify and report defects\n- Improve automation scripts to increase test stability\n- Participate in test case design and testing activities\nRequirements\n- 0–2 years experience in software testing or automation testing\n- Familiar with web automation tools such as Selenium or Playwright\n- Programming experience in Python\n- Understanding of software testing methodologies\nNice to Have\n- Experience with API testing\n- Experience with pytest\n- Experience with Git\n- Basic knowledge of HTML / CSS / DOM"
+    },
+    "employment_type_raw": "全職",
+    "title": "Web Automation Test Engineer-F69"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶高路26號",
+    "raw": "新北市新店區寶高路26號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "工程學科類",
+          "運輸通信學科類"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、工程學科類、運輸通信學科類"
+      },
+      {
+        "items": [
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Python"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "數學及電算機科學學科類",
+      "工程學科類",
+      "運輸通信學科類"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、工程學科類、運輸通信學科類\n擅長工具：Python",
+    "tools": [
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 10
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:46:59+08:00"
+  },
+  "salary": {
+    "raw": "月薪55,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Job Description\n- Develop and maintain automated test scripts for web applications\n- Execute automation and regression tests\n- Assist in maintaining existing automation testing frameworks\n- Collaborate with developers to identify and report defects\n- Improve automation scripts to increase test stability\n- Participate in test case design and testing activities\nRequirements\n- 0–2 years experience in software testing or automation testing\n- Familiar with web automation tools such as Selenium or Playwright\n- Programming experience in Python\n- Understanding of software testing methodologies\nNice to Have\n- Experience with API testing\n- Experience with pytest\n- Experience with Git\n- Basic knowledge of HTML / CSS / DOM",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟韌體測試工程師",
+            "測試人員",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟韌體測試工程師、測試人員、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪55,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶高路26號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Job Description\n- Develop and maintain automated test scripts for web applications\n- Execute automation and regression tests\n- Assist in maintaining existing automation testing frameworks\n- Collaborate with developers to identify and report defects\n- Improve automation scripts to increase test stability\n- Participate in test case design and testing activities\nRequirements\n- 0–2 years experience in software testing or automation testing\n- Familiar with web automation tools such as Selenium or Playwright\n- Programming experience in Python\n- Understanding of software testing methodologies\nNice to Have\n- Experience with API testing\n- Experience with pytest\n- Experience with Git\n- Basic knowledge of HTML / CSS / DOM"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "工程學科類",
+            "運輸通信學科類"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、工程學科類、運輸通信學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Python",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、工程學科類、運輸通信學科類\n擅長工具：Python"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8z8x8",
+    "job_url": "https://www.104.com.tw/job/8z8x8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8z8x8.json",
+    "raw_sha256": "6cdcf57ad156e0b325fbe3c9dc5b025a3b90b2a6a92c05fae3ce6dd561941fb2",
+    "requested_url": "https://www.104.com.tw/api/jobs/8z8x8"
+  }
+}

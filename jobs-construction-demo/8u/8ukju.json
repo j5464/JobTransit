@@ -1,0 +1,200 @@
+{
+  "company": {
+    "id": "1a2x6bnjpl",
+    "name": "大象數位科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料庫管理人員",
+      "資料工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "MySQL日常維護管理 (規劃、建置、維護、監控、備援及回覆計畫)。"
+        },
+        {
+          "children": [],
+          "text": "資料庫開發 (撰寫 SQL、Stored Routines、Shell指令碼)。"
+        },
+        {
+          "children": [],
+          "text": "資料庫架構規劃、效能測試與優化。"
+        },
+        {
+          "children": [],
+          "text": "資料庫故障問題分析及解決。"
+        },
+        {
+          "children": [],
+          "text": "為開發及辦公環境中涉及資料庫的問題提供技術支持。"
+        }
+      ],
+      "text": "1.MySQL日常維護管理 (規劃、建置、維護、監控、備援及回覆計畫)。\n2.資料庫開發 (撰寫 SQL、Stored Routines、Shell指令碼)。\n3.資料庫架構規劃、效能測試與優化。\n4.資料庫故障問題分析及解決。\n5.為開發及辦公環境中涉及資料庫的問題提供技術支持。"
+    },
+    "employment_type_raw": "全職",
+    "title": "DBA資料庫工程師"
+  },
+  "location": {
+    "address_raw": "台中市西屯區",
+    "raw": "台中市西屯區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Linux",
+          "Shell",
+          "MySQL"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Shell、MySQL"
+      },
+      {
+        "items": [
+          "資料備份與復原",
+          "資料庫系統管理維護",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "資料備份與復原、資料庫系統管理維護、資料庫軟體應用"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "資料備份與復原",
+      "資料庫系統管理維護",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n擅長工具：Linux、Shell、MySQL\n工作技能：資料備份與復原、資料庫系統管理維護、資料庫軟體應用",
+    "tools": [
+      "Linux",
+      "Shell",
+      "MySQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 60
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:50:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.MySQL日常維護管理 (規劃、建置、維護、監控、備援及回覆計畫)。\n2.資料庫開發 (撰寫 SQL、Stored Routines、Shell指令碼)。\n3.資料庫架構規劃、效能測試與優化。\n4.資料庫故障問題分析及解決。\n5.為開發及辦公環境中涉及資料庫的問題提供技術支持。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料庫管理人員",
+            "資料工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料庫管理人員、資料工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.MySQL日常維護管理 (規劃、建置、維護、監控、備援及回覆計畫)。\n2.資料庫開發 (撰寫 SQL、Stored Routines、Shell指令碼)。\n3.資料庫架構規劃、效能測試與優化。\n4.資料庫故障問題分析及解決。\n5.為開發及辦公環境中涉及資料庫的問題提供技術支持。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Shell",
+            "MySQL"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Shell、MySQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料備份與復原",
+            "資料庫系統管理維護",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "資料備份與復原、資料庫系統管理維護、資料庫軟體應用",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n擅長工具：Linux、Shell、MySQL\n工作技能：資料備份與復原、資料庫系統管理維護、資料庫軟體應用"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ukju",
+    "job_url": "https://www.104.com.tw/job/8ukju",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ukju.json",
+    "raw_sha256": "ffa127bb25bc3324e6995685a2dee065329d91aef0d7b903db4b30ed790d8028",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ukju"
+  }
+}

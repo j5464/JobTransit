@@ -1,0 +1,252 @@
+{
+  "company": {
+    "id": "12nopku0",
+    "name": "聯詠科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟韌體測試工程師",
+      "軟體工程師",
+      "電子產品系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "網頁前端/後端開發"
+        },
+        {
+          "children": [],
+          "text": "參與開發自動化測試系統與使用者介面工具開發"
+        },
+        {
+          "children": [],
+          "text": "Autobuild 導入與維護、系統源碼分析系統"
+        },
+        {
+          "children": [],
+          "text": "兩年以上軟體開發經驗"
+        },
+        {
+          "children": [],
+          "text": "良好的溝通能力和動手能力，認真負責的工作態度"
+        },
+        {
+          "children": [],
+          "text": "至少寫過一種語言(C/C++、Python、Borland C++、Java Script…等)"
+        }
+      ],
+      "text": "【產品線描述】\n專注於提供高效能高品質的IC解決方案，涵蓋TV SoC及ASIC領域，並透過深厚的軟體技術優勢，確保產品的市場競爭力。\n■ TV SoC 軟體解決方案：\n智慧電視系統整合、影像與音訊處理優化、AI 影像增強、多媒體與串流服務支援\n■ ASIC 軟體解決方案：\n高效能低功耗設計、相機與影像處理技術、深度學習推理引擎、高效能計算架構、開發工具鏈\n【工作說明】\n數位電視/智能電視/軟體工程數位電視/智能電視/軟體工程：\n1. 網頁前端/後端開發\n2. 參與開發自動化測試系統與使用者介面工具開發\n3. Autobuild 導入與維護、系統源碼分析系統\n【必要條件】\n1. 兩年以上軟體開發經驗\n2. 良好的溝通能力和動手能力，認真負責的工作態度\n3. 至少寫過一種語言(C/C++、Python、Borland C++、Java Script…等)"
+    },
+    "employment_type_raw": "全職",
+    "title": "測試軟體開發工程師(S4)"
+  },
+  "location": {
+    "address_raw": "新竹市創新一路1-2號",
+    "raw": "新竹市創新一路1-2號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Python",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Python、JavaScript"
+      },
+      {
+        "items": [
+          "軟體整合測試",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體整合測試、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 有Git、Jenkins等CI/CD的建立與使用經驗\n2. 有Django、Grafana、Database…等網站架設與應用經驗\n3. 具自動化測試開發經驗者優先\n4. 良好的英語聽說讀寫能力"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "1. 有Git、Jenkins等CI/CD的建立與使用經驗\n2. 有Django、Grafana、Database…等網站架設與應用經驗\n3. 具自動化測試開發經驗者優先\n4. 良好的英語聽說讀寫能力",
+    "skills": [
+      "軟體整合測試",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Python、JavaScript\n工作技能：軟體整合測試、軟體程式設計\n其他條件：1. 有Git、Jenkins等CI/CD的建立與使用經驗\n2. 有Django、Grafana、Database…等網站架設與應用經驗\n3. 具自動化測試開發經驗者優先\n4. 良好的英語聽說讀寫能力",
+    "tools": [
+      "C",
+      "C++",
+      "Python",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 36
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:49:49+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【產品線描述】\n專注於提供高效能高品質的IC解決方案，涵蓋TV SoC及ASIC領域，並透過深厚的軟體技術優勢，確保產品的市場競爭力。\n■ TV SoC 軟體解決方案：\n智慧電視系統整合、影像與音訊處理優化、AI 影像增強、多媒體與串流服務支援\n■ ASIC 軟體解決方案：\n高效能低功耗設計、相機與影像處理技術、深度學習推理引擎、高效能計算架構、開發工具鏈\n【工作說明】\n數位電視/智能電視/軟體工程數位電視/智能電視/軟體工程：\n1. 網頁前端/後端開發\n2. 參與開發自動化測試系統與使用者介面工具開發\n3. Autobuild 導入與維護、系統源碼分析系統\n【必要條件】\n1. 兩年以上軟體開發經驗\n2. 良好的溝通能力和動手能力，認真負責的工作態度\n3. 至少寫過一種語言(C/C++、Python、Borland C++、Java Script…等)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟韌體測試工程師",
+            "軟體工程師",
+            "電子產品系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟韌體測試工程師、軟體工程師、電子產品系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市創新一路1-2號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【產品線描述】\n專注於提供高效能高品質的IC解決方案，涵蓋TV SoC及ASIC領域，並透過深厚的軟體技術優勢，確保產品的市場競爭力。\n■ TV SoC 軟體解決方案：\n智慧電視系統整合、影像與音訊處理優化、AI 影像增強、多媒體與串流服務支援\n■ ASIC 軟體解決方案：\n高效能低功耗設計、相機與影像處理技術、深度學習推理引擎、高效能計算架構、開發工具鏈\n【工作說明】\n數位電視/智能電視/軟體工程數位電視/智能電視/軟體工程：\n1. 網頁前端/後端開發\n2. 參與開發自動化測試系統與使用者介面工具開發\n3. Autobuild 導入與維護、系統源碼分析系統\n【必要條件】\n1. 兩年以上軟體開發經驗\n2. 良好的溝通能力和動手能力，認真負責的工作態度\n3. 至少寫過一種語言(C/C++、Python、Borland C++、Java Script…等)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Python",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Python、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體整合測試",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體整合測試、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 有Git、Jenkins等CI/CD的建立與使用經驗\n2. 有Django、Grafana、Database…等網站架設與應用經驗\n3. 具自動化測試開發經驗者優先\n4. 良好的英語聽說讀寫能力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、Python、JavaScript\n工作技能：軟體整合測試、軟體程式設計\n其他條件：1. 有Git、Jenkins等CI/CD的建立與使用經驗\n2. 有Django、Grafana、Database…等網站架設與應用經驗\n3. 具自動化測試開發經驗者優先\n4. 良好的英語聽說讀寫能力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "3whs3",
+    "job_url": "https://www.104.com.tw/job/3whs3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/3whs3.json",
+    "raw_sha256": "02a38cb323d1ea0e3ef448f677ee54c6f99f99f524cfae04d7cc233e6b620aa3",
+    "requested_url": "https://www.104.com.tw/api/jobs/3whs3"
+  }
+}

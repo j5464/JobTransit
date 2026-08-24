@@ -1,0 +1,240 @@
+{
+  "company": {
+    "id": "q1k5b6g",
+    "name": "旭東機械工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具下列AI模型開發實際經驗之一："
+        },
+        {
+          "children": [],
+          "text": "十分熟悉AI模型原理，並能清楚表達給非AI背景的理工科系同仁理解。"
+        },
+        {
+          "children": [],
+          "text": "需5年以上相關經驗，碩士或學士畢業"
+        }
+      ],
+      "text": "1. 具下列AI模型開發實際經驗之一：\n(1) 晶圓或面板製程圖片的自動缺陷分類。\n2. 十分熟悉AI模型原理，並能清楚表達給非AI背景的理工科系同仁理解。\n3. 需5年以上相關經驗，碩士或學士畢業"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI資深工程師-后科廠"
+  },
+  "location": {
+    "address_raw": "台中市后里區后科南路30號",
+    "raw": "台中市后里區后科南路30號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "應用數學相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "應用數學相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C++",
+          "Python",
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Python、C#"
+      },
+      {
+        "items": [
+          "AI",
+          "演算法設計",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "AI、演算法設計、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "*3個月期滿調整薪資"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "應用數學相關",
+      "資訊工程相關"
+    ],
+    "other_text": "*3個月期滿調整薪資",
+    "skills": [
+      "AI",
+      "演算法設計",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：應用數學相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Python、C#\n工作技能：AI、演算法設計、軟體程式設計\n其他條件：*3個月期滿調整薪資",
+    "tools": [
+      "C++",
+      "Python",
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 45
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:12:42+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 具下列AI模型開發實際經驗之一：\n(1) 晶圓或面板製程圖片的自動缺陷分類。\n2. 十分熟悉AI模型原理，並能清楚表達給非AI背景的理工科系同仁理解。\n3. 需5年以上相關經驗，碩士或學士畢業",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市后里區后科南路30號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 具下列AI模型開發實際經驗之一：\n(1) 晶圓或面板製程圖片的自動缺陷分類。\n2. 十分熟悉AI模型原理，並能清楚表達給非AI背景的理工科系同仁理解。\n3. 需5年以上相關經驗，碩士或學士畢業"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "應用數學相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "應用數學相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Python",
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Python、C#",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "演算法設計",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "AI、演算法設計、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "*3個月期滿調整薪資",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：應用數學相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Python、C#\n工作技能：AI、演算法設計、軟體程式設計\n其他條件：*3個月期滿調整薪資"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8u3zf",
+    "job_url": "https://www.104.com.tw/job/8u3zf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8u3zf.json",
+    "raw_sha256": "90d1ff1758118c02a403969d1b80ffb7010923a2a95c457f35db1cd06da0a22e",
+    "requested_url": "https://www.104.com.tw/api/jobs/8u3zf"
+  }
+}

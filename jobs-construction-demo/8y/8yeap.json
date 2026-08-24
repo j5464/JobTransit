@@ -1,0 +1,199 @@
+{
+  "company": {
+    "id": "d6coi34",
+    "name": "鼎新數智股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "前端工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "將業務需求轉化為可執行之 AI 功能，整合至既有系統架構，以提升營運效率與銷售成效。"
+        },
+        {
+          "children": [],
+          "text": "需與產品經理及各技術團隊密切協作，確保技術方案符合整體規劃並兼顧穩定與擴充性，適合具備良好溝通能力與跨部門協作經驗者。"
+        }
+      ],
+      "text": "配合公司 AI 發展與數智營銷專案，聚焦 B2B 業務與銷售流程優化，負責開發任務導向之 AI Agent，並推動其於實際業務場景中的應用與落地。\n【工作內容】\n1.將業務需求轉化為可執行之 AI 功能，整合至既有系統架構，以提升營運效率與銷售成效。\n2.需與產品經理及各技術團隊密切協作，確保技術方案符合整體規劃並兼顧穩定與擴充性，適合具備良好溝通能力與跨部門協作經驗者。"
+    },
+    "employment_type_raw": "全職",
+    "title": "C-AI工程師_應用開發與系統整合"
+  },
+  "location": {
+    "address_raw": "新北市新店區中興路一段222號",
+    "raw": "新北市新店區中興路一段222號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "Java",
+          "HTML",
+          "JavaScript",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、Java、HTML、JavaScript、CSS"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【專業條件】\n• AI Agent 與應用開發能力\n具備設計與實作任務導向 AI Agent 之經驗，能應用於 B2B 業務與銷售流程場景。\n• Python 後端開發能力\n具備紮實 Python 開發經驗，熟悉 Asyncio 非同步程式設計與後端架構實務。\n• FastAPI 實務經驗\n熟悉使用 FastAPI 建構 RESTful API，包含 Pydantic 資料驗證與 API 文件（Swagger/OpenAPI）規劃。\n• LLM 應用與整合經驗\n具備主流 LLM（如 OpenAI、Gemini 等）串接經驗，理解 Prompt Engineering 概念，並熟悉 LangChain、LlamaIndex 等框架應用者尤佳。\n【加分條件】\n• 業務需求轉化能力\n能理解 B2B 商業流程，並將需求拆解為具體可實作的 AI 解決方案。\n• 系統部署與自動化\n熟悉 Docker 容器化，具備 CI/CD 或服務部署經驗。\n• 企業系統整合經驗\n具備 C#/.NET 基礎，能協助 Python 與既有 .NET 系統進行整合。\n• 前後端協作經驗\n了解 Vue.js 或前端串接 AI 介面的基本流程。\n• 工程實踐能力\n熟悉 Git 版本控制，具備單元測試習慣，並有 SQL Server 使用或查詢優化經驗。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "【專業條件】\n• AI Agent 與應用開發能力\n具備設計與實作任務導向 AI Agent 之經驗，能應用於 B2B 業務與銷售流程場景。\n• Python 後端開發能力\n具備紮實 Python 開發經驗，熟悉 Asyncio 非同步程式設計與後端架構實務。\n• FastAPI 實務經驗\n熟悉使用 FastAPI 建構 RESTful API，包含 Pydantic 資料驗證與 API 文件（Swagger/OpenAPI）規劃。\n• LLM 應用與整合經驗\n具備主流 LLM（如 OpenAI、Gemini 等）串接經驗，理解 Prompt Engineering 概念，並熟悉 LangChain、LlamaIndex 等框架應用者尤佳。\n【加分條件】\n• 業務需求轉化能力\n能理解 B2B 商業流程，並將需求拆解為具體可實作的 AI 解決方案。\n• 系統部署與自動化\n熟悉 Docker 容器化，具備 CI/CD 或服務部署經驗。\n• 企業系統整合經驗\n具備 C#/.NET 基礎，能協助 Python 與既有 .NET 系統進行整合。\n• 前後端協作經驗\n了解 Vue.js 或前端串接 AI 介面的基本流程。\n• 工程實踐能力\n熟悉 Git 版本控制，具備單元測試習慣，並有 SQL Server 使用或查詢優化經驗。",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、Java、HTML、JavaScript、CSS\n其他條件：【專業條件】\n• AI Agent 與應用開發能力\n具備設計與實作任務導向 AI Agent 之經驗，能應用於 B2B 業務與銷售流程場景。\n• Python 後端開發能力\n具備紮實 Python 開發經驗，熟悉 Asyncio 非同步程式設計與後端架構實務。\n• FastAPI 實務經驗\n熟悉使用 FastAPI 建構 RESTful API，包含 Pydantic 資料驗證與 API 文件（Swagger/OpenAPI）規劃。\n• LLM 應用與整合經驗\n具備主流 LLM（如 OpenAI、Gemini 等）串接經驗，理解 Prompt Engineering 概念，並熟悉 LangChain、LlamaIndex 等框架應用者尤佳。\n【加分條件】\n• 業務需求轉化能力\n能理解 B2B 商業流程，並將需求拆解為具體可實作的 AI 解決方案。\n• 系統部署與自動化\n熟悉 Docker 容器化，具備 CI/CD 或服務部署經驗。\n• 企業系統整合經驗\n具備 C#/.NET 基礎，能協助 Python 與既有 .NET 系統進行整合。\n• 前後端協作經驗\n了解 Vue.js 或前端串接 AI 介面的基本流程。\n• 工程實踐能力\n熟悉 Git 版本控制，具備單元測試習慣，並有 SQL Server 使用或查詢優化經驗。",
+    "tools": [
+      "ASP.NET",
+      "Java",
+      "HTML",
+      "JavaScript",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:05:16+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "配合公司 AI 發展與數智營銷專案，聚焦 B2B 業務與銷售流程優化，負責開發任務導向之 AI Agent，並推動其於實際業務場景中的應用與落地。\n【工作內容】\n1.將業務需求轉化為可執行之 AI 功能，整合至既有系統架構，以提升營運效率與銷售成效。\n2.需與產品經理及各技術團隊密切協作，確保技術方案符合整體規劃並兼顧穩定與擴充性，適合具備良好溝通能力與跨部門協作經驗者。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "前端工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、前端工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區中興路一段222號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "配合公司 AI 發展與數智營銷專案，聚焦 B2B 業務與銷售流程優化，負責開發任務導向之 AI Agent，並推動其於實際業務場景中的應用與落地。\n【工作內容】\n1.將業務需求轉化為可執行之 AI 功能，整合至既有系統架構，以提升營運效率與銷售成效。\n2.需與產品經理及各技術團隊密切協作，確保技術方案符合整體規劃並兼顧穩定與擴充性，適合具備良好溝通能力與跨部門協作經驗者。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "Java",
+            "HTML",
+            "JavaScript",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、Java、HTML、JavaScript、CSS",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【專業條件】\n• AI Agent 與應用開發能力\n具備設計與實作任務導向 AI Agent 之經驗，能應用於 B2B 業務與銷售流程場景。\n• Python 後端開發能力\n具備紮實 Python 開發經驗，熟悉 Asyncio 非同步程式設計與後端架構實務。\n• FastAPI 實務經驗\n熟悉使用 FastAPI 建構 RESTful API，包含 Pydantic 資料驗證與 API 文件（Swagger/OpenAPI）規劃。\n• LLM 應用與整合經驗\n具備主流 LLM（如 OpenAI、Gemini 等）串接經驗，理解 Prompt Engineering 概念，並熟悉 LangChain、LlamaIndex 等框架應用者尤佳。\n【加分條件】\n• 業務需求轉化能力\n能理解 B2B 商業流程，並將需求拆解為具體可實作的 AI 解決方案。\n• 系統部署與自動化\n熟悉 Docker 容器化，具備 CI/CD 或服務部署經驗。\n• 企業系統整合經驗\n具備 C#/.NET 基礎，能協助 Python 與既有 .NET 系統進行整合。\n• 前後端協作經驗\n了解 Vue.js 或前端串接 AI 介面的基本流程。\n• 工程實踐能力\n熟悉 Git 版本控制，具備單元測試習慣，並有 SQL Server 使用或查詢優化經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、Java、HTML、JavaScript、CSS\n其他條件：【專業條件】\n• AI Agent 與應用開發能力\n具備設計與實作任務導向 AI Agent 之經驗，能應用於 B2B 業務與銷售流程場景。\n• Python 後端開發能力\n具備紮實 Python 開發經驗，熟悉 Asyncio 非同步程式設計與後端架構實務。\n• FastAPI 實務經驗\n熟悉使用 FastAPI 建構 RESTful API，包含 Pydantic 資料驗證與 API 文件（Swagger/OpenAPI）規劃。\n• LLM 應用與整合經驗\n具備主流 LLM（如 OpenAI、Gemini 等）串接經驗，理解 Prompt Engineering 概念，並熟悉 LangChain、LlamaIndex 等框架應用者尤佳。\n【加分條件】\n• 業務需求轉化能力\n能理解 B2B 商業流程，並將需求拆解為具體可實作的 AI 解決方案。\n• 系統部署與自動化\n熟悉 Docker 容器化，具備 CI/CD 或服務部署經驗。\n• 企業系統整合經驗\n具備 C#/.NET 基礎，能協助 Python 與既有 .NET 系統進行整合。\n• 前後端協作經驗\n了解 Vue.js 或前端串接 AI 介面的基本流程。\n• 工程實踐能力\n熟悉 Git 版本控制，具備單元測試習慣，並有 SQL Server 使用或查詢優化經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8yeap",
+    "job_url": "https://www.104.com.tw/job/8yeap",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8yeap.json",
+    "raw_sha256": "e72d36a208c9ba204cf0e884a494df60115e5f845e8512cffacbca26d0a65d48",
+    "requested_url": "https://www.104.com.tw/api/jobs/8yeap"
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "company": {
+    "id": "1a2x6bjtt5",
+    "name": "咸軏智能科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop innovative algorithms to convert raw sensor signals into actionable data, including but not limited to data cleaning, fusion, detection, identification, and quantitation."
+        },
+        {
+          "children": [],
+          "text": "Researches fundamental problems and implements algorithm solutions for wearable and human interface devices using motion sensors (e.g. accelerometers, gyroscopes, magnetometers), environmental sensors, and positioning sensors."
+        },
+        {
+          "children": [],
+          "text": "Collects data and statistics from multiple sources and generates statistical analysis."
+        },
+        {
+          "children": [],
+          "text": "Design, develop, test, deploy, maintain, and improve current solutions."
+        },
+        {
+          "children": [],
+          "text": "Prototype customer-desired functions for wearable devices, translate sensor data into gesture, user intent, and motion effectiveness."
+        },
+        {
+          "children": [],
+          "text": "Incorporate feedback on proposed architectural solutions, and make final modification decisions."
+        },
+        {
+          "children": [],
+          "text": "Interaction with cross-functional team members, including hardware, FAE, QA and PM."
+        },
+        {
+          "children": [],
+          "text": "Participate in product and application definition activities including feature analysis and system tradeoffs."
+        },
+        {
+          "children": [],
+          "text": "Leads software engineers for a complex software development project."
+        },
+        {
+          "children": [],
+          "text": "Mentors and supervises to less experienced team members."
+        },
+        {
+          "children": [],
+          "text": "Offers peer technical assessments in areas of expertise, new technologies and software designs."
+        },
+        {
+          "children": [],
+          "text": "Designs and reviews architected modules and software systems."
+        },
+        {
+          "children": [],
+          "text": "Integrate externally developed deliverables into project."
+        }
+      ],
+      "text": "Software Engineer\nResponsibilities:\n*Develop innovative algorithms to convert raw sensor signals into actionable data, including but not limited to data cleaning, fusion, detection, identification, and quantitation.\n*Researches fundamental problems and implements algorithm solutions for wearable and human interface devices using motion sensors (e.g. accelerometers, gyroscopes, magnetometers), environmental sensors, and positioning sensors.\n*Collects data and statistics from multiple sources and generates statistical analysis.\n*Design, develop, test, deploy, maintain, and improve current solutions.\nSenior Software Engineer\nSame as Software Engineer, but also...\nResponsibilities:\n*Prototype customer-desired functions for wearable devices, translate sensor data into gesture, user intent, and motion effectiveness.\n*Incorporate feedback on proposed architectural solutions, and make final modification decisions.\n*Interaction with cross-functional team members, including hardware, FAE, QA and PM.\n*Participate in product and application definition activities including feature analysis and system tradeoffs.\nStaff Software Engineer\nSame as Senior Software Engineer, but also...\nResponsibilities:\n*Leads software engineers for a complex software development project.\n*Mentors and supervises to less experienced team members.\n*Offers peer technical assessments in areas of expertise, new technologies and software designs.\n*Designs and reviews architected modules and software systems.\n*Integrate externally developed deliverables into project."
+    },
+    "employment_type_raw": "全職",
+    "title": "Software Engineer – Motion Sensor"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路335號10樓",
+    "raw": "台北市內湖區瑞光路335號10樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "Android",
+          "C",
+          "C++",
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "Android、C、C++、Java"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Software Engineer\nMinimum qualifications:\n*BS degree in Computer Science, Engineering, Physics, Mathematics or equivalent practical experience.\n*Solid algorithms and math fundamentals, such as signal processing, statics, pattern or gesture recognition, or adaptive filters.\n*Experience with scripting languages (e.g Python) and software development languages (e.g C, C++).\n*Must demonstrate competence with researching fundamental problems and implementing appropriate algorithmic solutions.\nPreferred qualifications:\n*Ability to use a wide variety of open source technologies.\n*Task-oriented with the ability to set goals and complete deliverables.\n*Previous work or internship experience in consumer products development.\n*Experience with motion capture systems.\nSenior Software Engineer\nMinimum qualifications:\n*6 years of work experience in software development, or 3 years of experience in software development with an advanced degree.\n*Experience with the implementation of sensor data processing and industrial coding for portable or wearable device.\n*Proficient in developing algorithms in either C/C++.\n*Understands software design, memory management and instruction usages.\n*Previous experience working in a team environment.\nPreferred qualifications:\n*Experience in sensor fusion with multiple sensor modalities.\n*Experience in human activity recognition and behavior understanding.\n*Excellent communication and collaboration skills.\n*Experience with motion capture systems.\nStaff Software Engineer\nMinimum qualifications:\n*10 years of work experience in software development, or 6 years of experience in software development with an advanced degree.\n*Demonstrates proficiency with designing well architectured software systems and modules that support new technology or improve capability/performance of existing functionality.\n*Must possess the ability to decompose functional requirements into well defined tasks while balancing quality, quantity and complexity in work output.\n*Accurately estimate time to complete projects, allocate team-members to maximise output and deliver on those estimates.\nPreferred qualifications:\n*Experience working with chipset vendors and/or contract manufacturers.\n*Experience with one or more of the following: microcontrollers, SoC, DSP, device drivers, firmware, ARM processors, performance optimization or hardware/software integration.\n*Performance analysis and optimization experience in the domains of embedded systems or machine learning.\n*Experience with motion capture systems."
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "機械工程相關"
+    ],
+    "other_text": "Software Engineer\nMinimum qualifications:\n*BS degree in Computer Science, Engineering, Physics, Mathematics or equivalent practical experience.\n*Solid algorithms and math fundamentals, such as signal processing, statics, pattern or gesture recognition, or adaptive filters.\n*Experience with scripting languages (e.g Python) and software development languages (e.g C, C++).\n*Must demonstrate competence with researching fundamental problems and implementing appropriate algorithmic solutions.\nPreferred qualifications:\n*Ability to use a wide variety of open source technologies.\n*Task-oriented with the ability to set goals and complete deliverables.\n*Previous work or internship experience in consumer products development.\n*Experience with motion capture systems.\nSenior Software Engineer\nMinimum qualifications:\n*6 years of work experience in software development, or 3 years of experience in software development with an advanced degree.\n*Experience with the implementation of sensor data processing and industrial coding for portable or wearable device.\n*Proficient in developing algorithms in either C/C++.\n*Understands software design, memory management and instruction usages.\n*Previous experience working in a team environment.\nPreferred qualifications:\n*Experience in sensor fusion with multiple sensor modalities.\n*Experience in human activity recognition and behavior understanding.\n*Excellent communication and collaboration skills.\n*Experience with motion capture systems.\nStaff Software Engineer\nMinimum qualifications:\n*10 years of work experience in software development, or 6 years of experience in software development with an advanced degree.\n*Demonstrates proficiency with designing well architectured software systems and modules that support new technology or improve capability/performance of existing functionality.\n*Must possess the ability to decompose functional requirements into well defined tasks while balancing quality, quantity and complexity in work output.\n*Accurately estimate time to complete projects, allocate team-members to maximise output and deliver on those estimates.\nPreferred qualifications:\n*Experience working with chipset vendors and/or contract manufacturers.\n*Experience with one or more of the following: microcontrollers, SoC, DSP, device drivers, firmware, ARM processors, performance optimization or hardware/software integration.\n*Performance analysis and optimization experience in the domains of embedded systems or machine learning.\n*Experience with motion capture systems.",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n擅長工具：Android、C、C++、Java\n工作技能：軟體程式設計\n其他條件：Software Engineer\nMinimum qualifications:\n*BS degree in Computer Science, Engineering, Physics, Mathematics or equivalent practical experience.\n*Solid algorithms and math fundamentals, such as signal processing, statics, pattern or gesture recognition, or adaptive filters.\n*Experience with scripting languages (e.g Python) and software development languages (e.g C, C++).\n*Must demonstrate competence with researching fundamental problems and implementing appropriate algorithmic solutions.\nPreferred qualifications:\n*Ability to use a wide variety of open source technologies.\n*Task-oriented with the ability to set goals and complete deliverables.\n*Previous work or internship experience in consumer products development.\n*Experience with motion capture systems.\nSenior Software Engineer\nMinimum qualifications:\n*6 years of work experience in software development, or 3 years of experience in software development with an advanced degree.\n*Experience with the implementation of sensor data processing and industrial coding for portable or wearable device.\n*Proficient in developing algorithms in either C/C++.\n*Understands software design, memory management and instruction usages.\n*Previous experience working in a team environment.\nPreferred qualifications:\n*Experience in sensor fusion with multiple sensor modalities.\n*Experience in human activity recognition and behavior understanding.\n*Excellent communication and collaboration skills.\n*Experience with motion capture systems.\nStaff Software Engineer\nMinimum qualifications:\n*10 years of work experience in software development, or 6 years of experience in software development with an advanced degree.\n*Demonstrates proficiency with designing well architectured software systems and modules that support new technology or improve capability/performance of existing functionality.\n*Must possess the ability to decompose functional requirements into well defined tasks while balancing quality, quantity and complexity in work output.\n*Accurately estimate time to complete projects, allocate team-members to maximise output and deliver on those estimates.\nPreferred qualifications:\n*Experience working with chipset vendors and/or contract manufacturers.\n*Experience with one or more of the following: microcontrollers, SoC, DSP, device drivers, firmware, ARM processors, performance optimization or hardware/software integration.\n*Performance analysis and optimization experience in the domains of embedded systems or machine learning.\n*Experience with motion capture systems.",
+    "tools": [
+      "Android",
+      "C",
+      "C++",
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 29
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:32:59+08:00"
+  },
+  "salary": {
+    "raw": "年薪500,000~2,000,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Software Engineer\nResponsibilities:\n*Develop innovative algorithms to convert raw sensor signals into actionable data, including but not limited to data cleaning, fusion, detection, identification, and quantitation.\n*Researches fundamental problems and implements algorithm solutions for wearable and human interface devices using motion sensors (e.g. accelerometers, gyroscopes, magnetometers), environmental sensors, and positioning sensors.\n*Collects data and statistics from multiple sources and generates statistical analysis.\n*Design, develop, test, deploy, maintain, and improve current solutions.\nSenior Software Engineer\nSame as Software Engineer, but also...\nResponsibilities:\n*Prototype customer-desired functions for wearable devices, translate sensor data into gesture, user intent, and motion effectiveness.\n*Incorporate feedback on proposed architectural solutions, and make final modification decisions.\n*Interaction with cross-functional team members, including hardware, FAE, QA and PM.\n*Participate in product and application definition activities including feature analysis and system tradeoffs.\nStaff Software Engineer\nSame as Senior Software Engineer, but also...\nResponsibilities:\n*Leads software engineers for a complex software development project.\n*Mentors and supervises to less experienced team members.\n*Offers peer technical assessments in areas of expertise, new technologies and software designs.\n*Designs and reviews architected modules and software systems.\n*Integrate externally developed deliverables into project.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪500,000~2,000,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路335號10樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Software Engineer\nResponsibilities:\n*Develop innovative algorithms to convert raw sensor signals into actionable data, including but not limited to data cleaning, fusion, detection, identification, and quantitation.\n*Researches fundamental problems and implements algorithm solutions for wearable and human interface devices using motion sensors (e.g. accelerometers, gyroscopes, magnetometers), environmental sensors, and positioning sensors.\n*Collects data and statistics from multiple sources and generates statistical analysis.\n*Design, develop, test, deploy, maintain, and improve current solutions.\nSenior Software Engineer\nSame as Software Engineer, but also...\nResponsibilities:\n*Prototype customer-desired functions for wearable devices, translate sensor data into gesture, user intent, and motion effectiveness.\n*Incorporate feedback on proposed architectural solutions, and make final modification decisions.\n*Interaction with cross-functional team members, including hardware, FAE, QA and PM.\n*Participate in product and application definition activities including feature analysis and system tradeoffs.\nStaff Software Engineer\nSame as Senior Software Engineer, but also...\nResponsibilities:\n*Leads software engineers for a complex software development project.\n*Mentors and supervises to less experienced team members.\n*Offers peer technical assessments in areas of expertise, new technologies and software designs.\n*Designs and reviews architected modules and software systems.\n*Integrate externally developed deliverables into project."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Android",
+            "C",
+            "C++",
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "Android、C、C++、Java",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Software Engineer\nMinimum qualifications:\n*BS degree in Computer Science, Engineering, Physics, Mathematics or equivalent practical experience.\n*Solid algorithms and math fundamentals, such as signal processing, statics, pattern or gesture recognition, or adaptive filters.\n*Experience with scripting languages (e.g Python) and software development languages (e.g C, C++).\n*Must demonstrate competence with researching fundamental problems and implementing appropriate algorithmic solutions.\nPreferred qualifications:\n*Ability to use a wide variety of open source technologies.\n*Task-oriented with the ability to set goals and complete deliverables.\n*Previous work or internship experience in consumer products development.\n*Experience with motion capture systems.\nSenior Software Engineer\nMinimum qualifications:\n*6 years of work experience in software development, or 3 years of experience in software development with an advanced degree.\n*Experience with the implementation of sensor data processing and industrial coding for portable or wearable device.\n*Proficient in developing algorithms in either C/C++.\n*Understands software design, memory management and instruction usages.\n*Previous experience working in a team environment.\nPreferred qualifications:\n*Experience in sensor fusion with multiple sensor modalities.\n*Experience in human activity recognition and behavior understanding.\n*Excellent communication and collaboration skills.\n*Experience with motion capture systems.\nStaff Software Engineer\nMinimum qualifications:\n*10 years of work experience in software development, or 6 years of experience in software development with an advanced degree.\n*Demonstrates proficiency with designing well architectured software systems and modules that support new technology or improve capability/performance of existing functionality.\n*Must possess the ability to decompose functional requirements into well defined tasks while balancing quality, quantity and complexity in work output.\n*Accurately estimate time to complete projects, allocate team-members to maximise output and deliver on those estimates.\nPreferred qualifications:\n*Experience working with chipset vendors and/or contract manufacturers.\n*Experience with one or more of the following: microcontrollers, SoC, DSP, device drivers, firmware, ARM processors, performance optimization or hardware/software integration.\n*Performance analysis and optimization experience in the domains of embedded systems or machine learning.\n*Experience with motion capture systems.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n擅長工具：Android、C、C++、Java\n工作技能：軟體程式設計\n其他條件：Software Engineer\nMinimum qualifications:\n*BS degree in Computer Science, Engineering, Physics, Mathematics or equivalent practical experience.\n*Solid algorithms and math fundamentals, such as signal processing, statics, pattern or gesture recognition, or adaptive filters.\n*Experience with scripting languages (e.g Python) and software development languages (e.g C, C++).\n*Must demonstrate competence with researching fundamental problems and implementing appropriate algorithmic solutions.\nPreferred qualifications:\n*Ability to use a wide variety of open source technologies.\n*Task-oriented with the ability to set goals and complete deliverables.\n*Previous work or internship experience in consumer products development.\n*Experience with motion capture systems.\nSenior Software Engineer\nMinimum qualifications:\n*6 years of work experience in software development, or 3 years of experience in software development with an advanced degree.\n*Experience with the implementation of sensor data processing and industrial coding for portable or wearable device.\n*Proficient in developing algorithms in either C/C++.\n*Understands software design, memory management and instruction usages.\n*Previous experience working in a team environment.\nPreferred qualifications:\n*Experience in sensor fusion with multiple sensor modalities.\n*Experience in human activity recognition and behavior understanding.\n*Excellent communication and collaboration skills.\n*Experience with motion capture systems.\nStaff Software Engineer\nMinimum qualifications:\n*10 years of work experience in software development, or 6 years of experience in software development with an advanced degree.\n*Demonstrates proficiency with designing well architectured software systems and modules that support new technology or improve capability/performance of existing functionality.\n*Must possess the ability to decompose functional requirements into well defined tasks while balancing quality, quantity and complexity in work output.\n*Accurately estimate time to complete projects, allocate team-members to maximise output and deliver on those estimates.\nPreferred qualifications:\n*Experience working with chipset vendors and/or contract manufacturers.\n*Experience with one or more of the following: microcontrollers, SoC, DSP, device drivers, firmware, ARM processors, performance optimization or hardware/software integration.\n*Performance analysis and optimization experience in the domains of embedded systems or machine learning.\n*Experience with motion capture systems."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "5v1d7",
+    "job_url": "https://www.104.com.tw/job/5v1d7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/5v1d7.json",
+    "raw_sha256": "81734158137f5365cc6a22710d985db70bfef1ecd3d783e252212b15a833e6d3",
+    "requested_url": "https://www.104.com.tw/api/jobs/5v1d7"
+  }
+}

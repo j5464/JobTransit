@@ -1,0 +1,248 @@
+{
+  "company": {
+    "id": "1a2x6blpeu",
+    "name": "英屬開曼群島商繹勝科技有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "金融交易員",
+      "金融研究員",
+      "資料科學家"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Familiar with/interest in financial microstructure data analysis."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in Python or similar programming languages."
+        },
+        {
+          "children": [],
+          "text": "Past experiences in quantitative/numeric research in Mathematics, Statistics, Computer Science, Physics, or a related STEM field, Master's degree or above is preferred."
+        },
+        {
+          "children": [],
+          "text": "Experience with machine learning model development and deployment."
+        },
+        {
+          "children": [],
+          "text": "Familiar with C++ on Linux or Unix-like platforms and Object-Oriented programming/ design patterns."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of database/SQL and version control tools."
+        },
+        {
+          "children": [],
+          "text": "Conduct alpha research by generating hypotheses, identifying market signals, and developing models that inform trading strategies."
+        },
+        {
+          "children": [],
+          "text": "Develop new or improve existing trading models using in-house platforms."
+        },
+        {
+          "children": [],
+          "text": "Use advanced mathematical techniques to model and predict market movements."
+        },
+        {
+          "children": [],
+          "text": "Analyse large financial datasets to identify trading opportunities."
+        },
+        {
+          "children": [],
+          "text": "Provide real-time analytical support to experienced traders or researchers."
+        }
+      ],
+      "text": "Qualifications:\n- Familiar with/interest in financial microstructure data analysis.\n- Proficiency in Python or similar programming languages.\n- Past experiences in quantitative/numeric research in Mathematics, Statistics, Computer Science, Physics, or a related STEM field, Master's degree or above is preferred.\nPlus:\n- Experience with machine learning model development and deployment.\n- Familiar with C++ on Linux or Unix-like platforms and Object-Oriented programming/ design patterns.\n- Knowledge of database/SQL and version control tools.\nResponsibility:\n- Conduct alpha research by generating hypotheses, identifying market signals, and developing models that inform trading strategies.\n- Develop new or improve existing trading models using in-house platforms.\n- Use advanced mathematical techniques to model and predict market movements.\n- Analyse large financial datasets to identify trading opportunities.\n- Provide real-time analytical support to experienced traders or researchers."
+    },
+    "employment_type_raw": "全職",
+    "title": "High Frequency Trading Research 量化交易研究員"
+  },
+  "location": {
+    "address_raw": "台北市松山區敦化北路207號9樓之2",
+    "raw": "台北市松山區敦化北路207號9樓之2"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Linux",
+          "OOP",
+          "Git",
+          "C++",
+          "Python",
+          "PostgreSQL",
+          "Socket"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、OOP、Git、C++、Python、PostgreSQL、Socket"
+      },
+      {
+        "items": [
+          "作業系統基本操作",
+          "系統架構規劃",
+          "軟體工程系統開發",
+          "通訊工程技術開發",
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "作業系統基本操作、系統架構規劃、軟體工程系統開發、通訊工程技術開發、軟體程式設計、網路程式設計、資料庫軟體應用"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "作業系統基本操作",
+      "系統架構規劃",
+      "軟體工程系統開發",
+      "通訊工程技術開發",
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Linux、OOP、Git、C++、Python、PostgreSQL、Socket\n工作技能：作業系統基本操作、系統架構規劃、軟體工程系統開發、通訊工程技術開發、軟體程式設計、網路程式設計、資料庫軟體應用",
+    "tools": [
+      "Linux",
+      "OOP",
+      "Git",
+      "C++",
+      "Python",
+      "PostgreSQL",
+      "Socket"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 76
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:30:10+08:00"
+  },
+  "salary": {
+    "raw": "月薪65,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Qualifications:\n- Familiar with/interest in financial microstructure data analysis.\n- Proficiency in Python or similar programming languages.\n- Past experiences in quantitative/numeric research in Mathematics, Statistics, Computer Science, Physics, or a related STEM field, Master's degree or above is preferred.\nPlus:\n- Experience with machine learning model development and deployment.\n- Familiar with C++ on Linux or Unix-like platforms and Object-Oriented programming/ design patterns.\n- Knowledge of database/SQL and version control tools.\nResponsibility:\n- Conduct alpha research by generating hypotheses, identifying market signals, and developing models that inform trading strategies.\n- Develop new or improve existing trading models using in-house platforms.\n- Use advanced mathematical techniques to model and predict market movements.\n- Analyse large financial datasets to identify trading opportunities.\n- Provide real-time analytical support to experienced traders or researchers.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "金融交易員",
+            "金融研究員",
+            "資料科學家"
+          ],
+          "label": "職務類別",
+          "text": "金融交易員、金融研究員、資料科學家",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪65,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區敦化北路207號9樓之2",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Qualifications:\n- Familiar with/interest in financial microstructure data analysis.\n- Proficiency in Python or similar programming languages.\n- Past experiences in quantitative/numeric research in Mathematics, Statistics, Computer Science, Physics, or a related STEM field, Master's degree or above is preferred.\nPlus:\n- Experience with machine learning model development and deployment.\n- Familiar with C++ on Linux or Unix-like platforms and Object-Oriented programming/ design patterns.\n- Knowledge of database/SQL and version control tools.\nResponsibility:\n- Conduct alpha research by generating hypotheses, identifying market signals, and developing models that inform trading strategies.\n- Develop new or improve existing trading models using in-house platforms.\n- Use advanced mathematical techniques to model and predict market movements.\n- Analyse large financial datasets to identify trading opportunities.\n- Provide real-time analytical support to experienced traders or researchers."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "OOP",
+            "Git",
+            "C++",
+            "Python",
+            "PostgreSQL",
+            "Socket"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、OOP、Git、C++、Python、PostgreSQL、Socket",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "作業系統基本操作",
+            "系統架構規劃",
+            "軟體工程系統開發",
+            "通訊工程技術開發",
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "作業系統基本操作、系統架構規劃、軟體工程系統開發、通訊工程技術開發、軟體程式設計、網路程式設計、資料庫軟體應用",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Linux、OOP、Git、C++、Python、PostgreSQL、Socket\n工作技能：作業系統基本操作、系統架構規劃、軟體工程系統開發、通訊工程技術開發、軟體程式設計、網路程式設計、資料庫軟體應用"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "80zho",
+    "job_url": "https://www.104.com.tw/job/80zho",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/80zho.json",
+    "raw_sha256": "8fa9c50d4c6d350efc12cbd3acf4c8afb58d9c46f004df4b3242bf52de579075",
+    "requested_url": "https://www.104.com.tw/api/jobs/80zho"
+  }
+}

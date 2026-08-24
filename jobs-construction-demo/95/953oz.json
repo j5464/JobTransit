@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "a5hgyk8",
+    "name": "偉詮電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "FAE工程師",
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責軟體分析、設計以及程式撰寫。"
+        },
+        {
+          "children": [],
+          "text": "規劃執行軟體架構及模組之設計。"
+        },
+        {
+          "children": [],
+          "text": "協助開發IC所需應用於Notebook EC 程式碼。"
+        },
+        {
+          "children": [],
+          "text": "工作內容需要與EC、硬體、電源工程師合作。"
+        },
+        {
+          "children": [],
+          "text": "C/C++ 程式撰寫，熟Assembly 尤佳。"
+        },
+        {
+          "children": [],
+          "text": "8 bits/32 bits MCU 軟韌體程式開發，系統架構分析。"
+        },
+        {
+          "children": [],
+          "text": "具備基本電路能力。"
+        }
+      ],
+      "text": "1. 負責軟體分析、設計以及程式撰寫。\n2. 規劃執行軟體架構及模組之設計。\n3. 協助開發IC所需應用於Notebook EC 程式碼。\n4. 工作內容需要與EC、硬體、電源工程師合作。\n專長\n1.C/C++ 程式撰寫，熟Assembly 尤佳。\n2. 8 bits/32 bits MCU 軟韌體程式開發，系統架構分析。\n3. 具備基本電路能力。"
+    },
+    "employment_type_raw": "全職",
+    "title": "應用工程師 FAE Engineer (高雄 Kaohsiung)"
+  },
+  "location": {
+    "address_raw": "高雄市前金區中正四路211號13樓",
+    "raw": "高雄市前金區中正四路211號13樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C++",
+          "Assembly"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Assembly"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具備電腦週邊產品設計開發相關經驗\n2.具備系統設計開發相關經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.具備電腦週邊產品設計開發相關經驗\n2.具備系統設計開發相關經驗",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：不拘\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Assembly\n其他條件：1.具備電腦週邊產品設計開發相關經驗\n2.具備系統設計開發相關經驗",
+    "tools": [
+      "C++",
+      "Assembly"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 20
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:11:07+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責軟體分析、設計以及程式撰寫。\n2. 規劃執行軟體架構及模組之設計。\n3. 協助開發IC所需應用於Notebook EC 程式碼。\n4. 工作內容需要與EC、硬體、電源工程師合作。\n專長\n1.C/C++ 程式撰寫，熟Assembly 尤佳。\n2. 8 bits/32 bits MCU 軟韌體程式開發，系統架構分析。\n3. 具備基本電路能力。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "FAE工程師",
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "FAE工程師、軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市前金區中正四路211號13樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責軟體分析、設計以及程式撰寫。\n2. 規劃執行軟體架構及模組之設計。\n3. 協助開發IC所需應用於Notebook EC 程式碼。\n4. 工作內容需要與EC、硬體、電源工程師合作。\n專長\n1.C/C++ 程式撰寫，熟Assembly 尤佳。\n2. 8 bits/32 bits MCU 軟韌體程式開發，系統架構分析。\n3. 具備基本電路能力。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Assembly"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Assembly",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具備電腦週邊產品設計開發相關經驗\n2.具備系統設計開發相關經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：不拘\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Assembly\n其他條件：1.具備電腦週邊產品設計開發相關經驗\n2.具備系統設計開發相關經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "953oz",
+    "job_url": "https://www.104.com.tw/job/953oz",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/953oz.json",
+    "raw_sha256": "494588d56f9826f093734cde3117adfc035e2e88f53932977452e061d4e88cdc",
+    "requested_url": "https://www.104.com.tw/api/jobs/953oz"
+  }
+}

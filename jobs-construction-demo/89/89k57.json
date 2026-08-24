@@ -1,0 +1,156 @@
+{
+  "company": {
+    "id": "5oljm54",
+    "name": "采盟股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資訊助理",
+      "美編助理"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "維護更新系統圖、SOP文件製作與修改、系統文件建檔、PC一般維護"
+        },
+        {
+          "children": [],
+          "text": "繪製網路圖(Drow.io、Canva、PPT、Wondershare)、維護網路設備清單、操作網路基本設定"
+        },
+        {
+          "children": [],
+          "text": "協助報表開發及測試，POS、ERP"
+        },
+        {
+          "children": [],
+          "text": "編輯手冊影片、修改PPT報告"
+        },
+        {
+          "children": [],
+          "text": "更新ISO文件與部門行政文件"
+        },
+        {
+          "children": [],
+          "text": "會議記錄文件、手稿電子化"
+        }
+      ],
+      "text": "1. 維護更新系統圖、SOP文件製作與修改、系統文件建檔、PC一般維護\n2. 繪製網路圖(Drow.io、Canva、PPT、Wondershare)、維護網路設備清單、操作網路基本設定\n3. 協助報表開發及測試，POS、ERP\n4. 編輯手冊影片、修改PPT報告\n5. 更新ISO文件與部門行政文件\n6. 會議記錄文件、手稿電子化\n◎ 請先了解POS相關知識(銷售、促銷模組等)、PPT 、Drow.io操作工具及AI各項相關工具\n◎ 上班地點:台北總公司(主要)、桃園國際機場\n◎ 視情況支援安排輪/值班\n◎ 面試時需上機測驗/口試"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊助理"
+  },
+  "location": {
+    "address_raw": "台北市松山區復興北路57號3樓之1",
+    "raw": "台北市松山區復興北路57號3樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：不拘",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 50
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:24:04+08:00"
+  },
+  "salary": {
+    "raw": "月薪30,000~35,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 維護更新系統圖、SOP文件製作與修改、系統文件建檔、PC一般維護\n2. 繪製網路圖(Drow.io、Canva、PPT、Wondershare)、維護網路設備清單、操作網路基本設定\n3. 協助報表開發及測試，POS、ERP\n4. 編輯手冊影片、修改PPT報告\n5. 更新ISO文件與部門行政文件\n6. 會議記錄文件、手稿電子化\n◎ 請先了解POS相關知識(銷售、促銷模組等)、PPT 、Drow.io操作工具及AI各項相關工具\n◎ 上班地點:台北總公司(主要)、桃園國際機場\n◎ 視情況支援安排輪/值班\n◎ 面試時需上機測驗/口試",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資訊助理",
+            "美編助理"
+          ],
+          "label": "職務類別",
+          "text": "資訊助理、美編助理",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪30,000~35,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區復興北路57號3樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 維護更新系統圖、SOP文件製作與修改、系統文件建檔、PC一般維護\n2. 繪製網路圖(Drow.io、Canva、PPT、Wondershare)、維護網路設備清單、操作網路基本設定\n3. 協助報表開發及測試，POS、ERP\n4. 編輯手冊影片、修改PPT報告\n5. 更新ISO文件與部門行政文件\n6. 會議記錄文件、手稿電子化\n◎ 請先了解POS相關知識(銷售、促銷模組等)、PPT 、Drow.io操作工具及AI各項相關工具\n◎ 上班地點:台北總公司(主要)、桃園國際機場\n◎ 視情況支援安排輪/值班\n◎ 面試時需上機測驗/口試"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "89k57",
+    "job_url": "https://www.104.com.tw/job/89k57",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/89k57.json",
+    "raw_sha256": "266b222c5ad9e2e1152e0b9a5ac0135b1cdb7d4c6b2e1a2ae204c4f554208ef0",
+    "requested_url": "https://www.104.com.tw/api/jobs/89k57"
+  }
+}

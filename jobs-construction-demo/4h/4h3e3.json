@@ -1,0 +1,218 @@
+{
+  "company": {
+    "id": "1a2x6bj87f",
+    "name": "日月光半導體製造股份有限公司中壢分公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "資料庫管理人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具備企業管理流程知識者佳(如: MM/PP/SD/FI/CO)"
+        },
+        {
+          "children": [],
+          "text": "有 ABAP Dialog 程式開發及相關 SAP 開發工具經驗者佳"
+        },
+        {
+          "children": [],
+          "text": "有 ASP. NET or C# WinForm or Java 開發經驗者佳"
+        }
+      ],
+      "text": "1. 具備企業管理流程知識者佳(如: MM/PP/SD/FI/CO)\n2. 有 ABAP Dialog 程式開發及相關 SAP 開發工具經驗者佳\n3. 有 ASP. NET or C# WinForm or Java 開發經驗者佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "【IT】ERP系統工程師 (Java、C#)"
+  },
+  "location": {
+    "address_raw": "桃園市中壢區中華路一段550號",
+    "raw": "桃園市中壢區中華路一段550號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "Java",
+          "SAP",
+          "ABAP"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Java、SAP、ABAP"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 有半導體產業經驗為佳。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1. 有半導體產業經驗為佳。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Java、SAP、ABAP\n其他條件：1. 有半導體產業經驗為佳。",
+    "tools": [
+      "C#",
+      "Java",
+      "SAP",
+      "ABAP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 19
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:08:22+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 具備企業管理流程知識者佳(如: MM/PP/SD/FI/CO)\n2. 有 ABAP Dialog 程式開發及相關 SAP 開發工具經驗者佳\n3. 有 ASP. NET or C# WinForm or Java 開發經驗者佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "資料庫管理人員"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、資料庫管理人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市中壢區中華路一段550號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 具備企業管理流程知識者佳(如: MM/PP/SD/FI/CO)\n2. 有 ABAP Dialog 程式開發及相關 SAP 開發工具經驗者佳\n3. 有 ASP. NET or C# WinForm or Java 開發經驗者佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Java",
+            "SAP",
+            "ABAP"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Java、SAP、ABAP",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 有半導體產業經驗為佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Java、SAP、ABAP\n其他條件：1. 有半導體產業經驗為佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "4h3e3",
+    "job_url": "https://www.104.com.tw/job/4h3e3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/4h3e3.json",
+    "raw_sha256": "4066cc45ae37fa0f04c2b9aad73e404ccb36d4fa65880f313b465b857ef77af0",
+    "requested_url": "https://www.104.com.tw/api/jobs/4h3e3"
+  }
+}

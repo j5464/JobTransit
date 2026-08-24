@@ -1,0 +1,223 @@
+{
+  "company": {
+    "id": "wic70ug",
+    "name": "悠遊卡股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "系統SA/SD分析設計規格。"
+        },
+        {
+          "children": [],
+          "text": "系統規格文件維護與管理。"
+        },
+        {
+          "children": [],
+          "text": "委外人力工作分派與協調。"
+        },
+        {
+          "children": [],
+          "text": "應用系統規劃開發與維護。"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項。"
+        }
+      ],
+      "text": "1. 系統SA/SD分析設計規格。\n2. 系統規格文件維護與管理。\n3. 委外人力工作分派與協調。\n4. 應用系統規劃開發與維護。\n5. 主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Oracle ERP 程式設計師"
+  },
+  "location": {
+    "address_raw": "台北市南港區園區街3之1號13樓",
+    "raw": "台北市南港區園區街3之1號13樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "PowerPoint",
+          "Excel",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "PowerPoint、Excel、Word"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉Oracle EBS R12系統架構與流程。\n2.熟悉Oracle ERP開發工具。\n3.熟悉資料庫SQL server/Oracle開發應用。\n4.具Java、.Net等開發經驗佳。\n5.具良好的邏輯思維與溝通協調能力，能與合作夥伴有效溝通。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.熟悉Oracle EBS R12系統架構與流程。\n2.熟悉Oracle ERP開發工具。\n3.熟悉資料庫SQL server/Oracle開發應用。\n4.具Java、.Net等開發經驗佳。\n5.具良好的邏輯思維與溝通協調能力，能與合作夥伴有效溝通。",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：PowerPoint、Excel、Word\n其他條件：1.熟悉Oracle EBS R12系統架構與流程。\n2.熟悉Oracle ERP開發工具。\n3.熟悉資料庫SQL server/Oracle開發應用。\n4.具Java、.Net等開發經驗佳。\n5.具良好的邏輯思維與溝通協調能力，能與合作夥伴有效溝通。",
+    "tools": [
+      "PowerPoint",
+      "Excel",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 82
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:43:58+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 系統SA/SD分析設計規格。\n2. 系統規格文件維護與管理。\n3. 委外人力工作分派與協調。\n4. 應用系統規劃開發與維護。\n5. 主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區園區街3之1號13樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 系統SA/SD分析設計規格。\n2. 系統規格文件維護與管理。\n3. 委外人力工作分派與協調。\n4. 應用系統規劃開發與維護。\n5. 主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PowerPoint",
+            "Excel",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "PowerPoint、Excel、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉Oracle EBS R12系統架構與流程。\n2.熟悉Oracle ERP開發工具。\n3.熟悉資料庫SQL server/Oracle開發應用。\n4.具Java、.Net等開發經驗佳。\n5.具良好的邏輯思維與溝通協調能力，能與合作夥伴有效溝通。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：PowerPoint、Excel、Word\n其他條件：1.熟悉Oracle EBS R12系統架構與流程。\n2.熟悉Oracle ERP開發工具。\n3.熟悉資料庫SQL server/Oracle開發應用。\n4.具Java、.Net等開發經驗佳。\n5.具良好的邏輯思維與溝通協調能力，能與合作夥伴有效溝通。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8zjqy",
+    "job_url": "https://www.104.com.tw/job/8zjqy",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8zjqy.json",
+    "raw_sha256": "7015fe250fffd3d7eebffb6f207c9b482af8c7ae7a98fbb548959015f3b75f68",
+    "requested_url": "https://www.104.com.tw/api/jobs/8zjqy"
+  }
+}

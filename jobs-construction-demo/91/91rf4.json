@@ -1,0 +1,303 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Design, develop, and maintain web applications using Next.js, React, and TypeScript across the team’s product portfolio."
+        },
+        {
+          "children": [],
+          "text": "Develop reusable UI components with Storybook, contributing to a shared design system."
+        },
+        {
+          "children": [],
+          "text": "Implement i18n / l10n for multi-region deployment and optimize web performance (Core Web Vitals, SSR/ISR strategies)."
+        },
+        {
+          "children": [],
+          "text": "Read and review Java/Spring backend code to debug cross-stack issues; design and consume RESTful APIs."
+        },
+        {
+          "children": [],
+          "text": "Implement frontend authentication flows (JWT, OAuth, SSO)."
+        },
+        {
+          "children": [],
+          "text": "(Optional, Welcomed) Actively develop Java/Spring backend code with AI assistance — open to engineers with capability and interest."
+        },
+        {
+          "children": [],
+          "text": "Deploy services on Kubernetes; support GitLab CI/CD pipelines and Docker-based workflows."
+        },
+        {
+          "children": [],
+          "text": "Participate in production incident response — read logs, triage issues across frontend, backend, and infrastructure."
+        },
+        {
+          "children": [],
+          "text": "Participate in code reviews; collaborate with QA, designers, and PMs; mentor junior team members as you grow."
+        },
+        {
+          "children": [],
+          "text": "Frontend: 3+ years professional experience with React; production experience with Next.js — familiarity with both App Router and Pages Router, plus SSR/ISR strategies."
+        },
+        {
+          "children": [],
+          "text": "TypeScript: Strong proficiency — generics, utility types, modeling complex domain logic."
+        },
+        {
+          "children": [],
+          "text": "Backend Foundation: Has built at least one backend service in any language (Node.js, Python, Go, Java, etc.) and can discuss the design decisions. Comfortable with RESTful API design and at least one relational database."
+        },
+        {
+          "children": [],
+          "text": "Version Control: Proficient in Git for collaborative development and branching workflows."
+        },
+        {
+          "children": [],
+          "text": "Containers & Orchestration: Working knowledge of Docker (writing Dockerfiles, debugging containers) and basic Kubernetes (reading yaml, running kubectl)."
+        },
+        {
+          "children": [],
+          "text": "Linux: Comfortable on the command line for development and troubleshooting."
+        },
+        {
+          "children": [],
+          "text": "AI Fluency: Daily use of AI tooling (e.g., Claude, Copilot, Cursor) as a force multiplier — including for developing in unfamiliar languages and exploring unfamiliar codebases."
+        },
+        {
+          "children": [],
+          "text": "Communication: Clear in Traditional Chinese for daily work; functional English for documentation and async collaboration with global team members."
+        }
+      ],
+      "text": "Frontend-focused full-stack engineer for Delta’s global digital platforms (corporate website, employee learning — all serving Delta’s global users). Primary stack: Next.js + TypeScript. Backend is Java/Spring — reading and reviewing is part of the job; AI-assisted development is optional and welcomed.\n【Key Responsibilities】\n1. Design, develop, and maintain web applications using Next.js, React, and TypeScript across the team’s product portfolio.\n2. Develop reusable UI components with Storybook, contributing to a shared design system.\n3. Implement i18n / l10n for multi-region deployment and optimize web performance (Core Web Vitals, SSR/ISR strategies).\n4. Read and review Java/Spring backend code to debug cross-stack issues; design and consume RESTful APIs.\n5. Implement frontend authentication flows (JWT, OAuth, SSO).\n6. (Optional, Welcomed) Actively develop Java/Spring backend code with AI assistance — open to engineers with capability and interest.\n7. Deploy services on Kubernetes; support GitLab CI/CD pipelines and Docker-based workflows.\n8. Participate in production incident response — read logs, triage issues across frontend, backend, and infrastructure.\n9. Participate in code reviews; collaborate with QA, designers, and PMs; mentor junior team members as you grow.\n【Must-Have Skills】\n1. Frontend: 3+ years professional experience with React; production experience with Next.js — familiarity with both App Router and Pages Router, plus SSR/ISR strategies.\n2. TypeScript: Strong proficiency — generics, utility types, modeling complex domain logic.\n3. Backend Foundation: Has built at least one backend service in any language (Node.js, Python, Go, Java, etc.) and can discuss the design decisions. Comfortable with RESTful API design and at least one relational database.\n4. Version Control: Proficient in Git for collaborative development and branching workflows.\n5. Containers & Orchestration: Working knowledge of Docker (writing Dockerfiles, debugging containers) and basic Kubernetes (reading yaml, running kubectl).\n6. Linux: Comfortable on the command line for development and troubleshooting.\n7. AI Fluency: Daily use of AI tooling (e.g., Claude, Copilot, Cursor) as a force multiplier — including for developing in unfamiliar languages and exploring unfamiliar codebases.\n8. Communication: Clear in Traditional Chinese for daily work; functional English for documentation and async collaboration with global team members."
+    },
+    "employment_type_raw": "全職",
+    "title": "前端軟體開發工程師_解決方案創新賦能中心_資訊處(內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號(內湖)",
+    "raw": "台北市內湖區瑞光路186號(內湖)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Python",
+          "Java",
+          "Node.js",
+          "JIRA",
+          "AWS",
+          "Cloud"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Python、Java、Node.js、JIRA、AWS、Cloud"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【Nice-to-Have Skills】\nItems in parentheses are examples — familiarity with any one is sufficient.\n1. Deep Next.js expertise: Server Components, edge runtime, advanced caching strategies.\n2. Node.js backend experience with any framework (e.g., Express, NestJS, Koa) — particularly relevant for cross-stack collaboration.\n3. Java/Spring willingness or interest — prior professional experience not required.\n4. Database experience: PostgreSQL or MongoDB — schema design and query tuning.\n5. CI/CD or production Kubernetes experience (e.g., GitLab CI/CD pipeline building, Helm, ingress, secrets).\n6. i18n / multi-region project experience.\n7. CMS experience (e.g., Strapi, Contentful, Sanity, or custom).\n8. Design System experience (e.g., Storybook).\n9. Cloud platform exposure (AWS or Azure).\n【Preferred Attributes Across Levels】\n1. Strong problem-solving mindset and ownership of code quality.\n2. Willingness to learn new technologies and best practices.\n3. Effective communication and collaboration in agile teams.\n4. Attention to security, scalability, and maintainability in all development activities.\n【Tech Stack & Tooling】\n• Frontend: Next.js, React, TypeScript, Tailwind CSS, Storybook\n• Backend: Java + Spring Boot, PostgreSQL, MongoDB\n• Infrastructure: Kubernetes, Docker, nginx, GitLab CI/CD, Rancher, Harbor\n• Cloud: AWS, Azure (hybrid)\n• AI Tooling: Internal AI model access provided for company use; external tools (Claude, Cursor, Copilot, etc.) permitted within confidentiality guidelines.\n• Collaboration: JIRA, Confluence, Microsoft Teams"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "【Nice-to-Have Skills】\nItems in parentheses are examples — familiarity with any one is sufficient.\n1. Deep Next.js expertise: Server Components, edge runtime, advanced caching strategies.\n2. Node.js backend experience with any framework (e.g., Express, NestJS, Koa) — particularly relevant for cross-stack collaboration.\n3. Java/Spring willingness or interest — prior professional experience not required.\n4. Database experience: PostgreSQL or MongoDB — schema design and query tuning.\n5. CI/CD or production Kubernetes experience (e.g., GitLab CI/CD pipeline building, Helm, ingress, secrets).\n6. i18n / multi-region project experience.\n7. CMS experience (e.g., Strapi, Contentful, Sanity, or custom).\n8. Design System experience (e.g., Storybook).\n9. Cloud platform exposure (AWS or Azure).\n【Preferred Attributes Across Levels】\n1. Strong problem-solving mindset and ownership of code quality.\n2. Willingness to learn new technologies and best practices.\n3. Effective communication and collaboration in agile teams.\n4. Attention to security, scalability, and maintainability in all development activities.\n【Tech Stack & Tooling】\n• Frontend: Next.js, React, TypeScript, Tailwind CSS, Storybook\n• Backend: Java + Spring Boot, PostgreSQL, MongoDB\n• Infrastructure: Kubernetes, Docker, nginx, GitLab CI/CD, Rancher, Harbor\n• Cloud: AWS, Azure (hybrid)\n• AI Tooling: Internal AI model access provided for company use; external tools (Claude, Cursor, Copilot, etc.) permitted within confidentiality guidelines.\n• Collaboration: JIRA, Confluence, Microsoft Teams",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Python、Java、Node.js、JIRA、AWS、Cloud\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：【Nice-to-Have Skills】\nItems in parentheses are examples — familiarity with any one is sufficient.\n1. Deep Next.js expertise: Server Components, edge runtime, advanced caching strategies.\n2. Node.js backend experience with any framework (e.g., Express, NestJS, Koa) — particularly relevant for cross-stack collaboration.\n3. Java/Spring willingness or interest — prior professional experience not required.\n4. Database experience: PostgreSQL or MongoDB — schema design and query tuning.\n5. CI/CD or production Kubernetes experience (e.g., GitLab CI/CD pipeline building, Helm, ingress, secrets).\n6. i18n / multi-region project experience.\n7. CMS experience (e.g., Strapi, Contentful, Sanity, or custom).\n8. Design System experience (e.g., Storybook).\n9. Cloud platform exposure (AWS or Azure).\n【Preferred Attributes Across Levels】\n1. Strong problem-solving mindset and ownership of code quality.\n2. Willingness to learn new technologies and best practices.\n3. Effective communication and collaboration in agile teams.\n4. Attention to security, scalability, and maintainability in all development activities.\n【Tech Stack & Tooling】\n• Frontend: Next.js, React, TypeScript, Tailwind CSS, Storybook\n• Backend: Java + Spring Boot, PostgreSQL, MongoDB\n• Infrastructure: Kubernetes, Docker, nginx, GitLab CI/CD, Rancher, Harbor\n• Cloud: AWS, Azure (hybrid)\n• AI Tooling: Internal AI model access provided for company use; external tools (Claude, Cursor, Copilot, etc.) permitted within confidentiality guidelines.\n• Collaboration: JIRA, Confluence, Microsoft Teams",
+    "tools": [
+      "Linux",
+      "Python",
+      "Java",
+      "Node.js",
+      "JIRA",
+      "AWS",
+      "Cloud"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 80
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:40:09+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Frontend-focused full-stack engineer for Delta’s global digital platforms (corporate website, employee learning — all serving Delta’s global users). Primary stack: Next.js + TypeScript. Backend is Java/Spring — reading and reviewing is part of the job; AI-assisted development is optional and welcomed.\n【Key Responsibilities】\n1. Design, develop, and maintain web applications using Next.js, React, and TypeScript across the team’s product portfolio.\n2. Develop reusable UI components with Storybook, contributing to a shared design system.\n3. Implement i18n / l10n for multi-region deployment and optimize web performance (Core Web Vitals, SSR/ISR strategies).\n4. Read and review Java/Spring backend code to debug cross-stack issues; design and consume RESTful APIs.\n5. Implement frontend authentication flows (JWT, OAuth, SSO).\n6. (Optional, Welcomed) Actively develop Java/Spring backend code with AI assistance — open to engineers with capability and interest.\n7. Deploy services on Kubernetes; support GitLab CI/CD pipelines and Docker-based workflows.\n8. Participate in production incident response — read logs, triage issues across frontend, backend, and infrastructure.\n9. Participate in code reviews; collaborate with QA, designers, and PMs; mentor junior team members as you grow.\n【Must-Have Skills】\n1. Frontend: 3+ years professional experience with React; production experience with Next.js — familiarity with both App Router and Pages Router, plus SSR/ISR strategies.\n2. TypeScript: Strong proficiency — generics, utility types, modeling complex domain logic.\n3. Backend Foundation: Has built at least one backend service in any language (Node.js, Python, Go, Java, etc.) and can discuss the design decisions. Comfortable with RESTful API design and at least one relational database.\n4. Version Control: Proficient in Git for collaborative development and branching workflows.\n5. Containers & Orchestration: Working knowledge of Docker (writing Dockerfiles, debugging containers) and basic Kubernetes (reading yaml, running kubectl).\n6. Linux: Comfortable on the command line for development and troubleshooting.\n7. AI Fluency: Daily use of AI tooling (e.g., Claude, Copilot, Cursor) as a force multiplier — including for developing in unfamiliar languages and exploring unfamiliar codebases.\n8. Communication: Clear in Traditional Chinese for daily work; functional English for documentation and async collaboration with global team members.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號(內湖)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Frontend-focused full-stack engineer for Delta’s global digital platforms (corporate website, employee learning — all serving Delta’s global users). Primary stack: Next.js + TypeScript. Backend is Java/Spring — reading and reviewing is part of the job; AI-assisted development is optional and welcomed.\n【Key Responsibilities】\n1. Design, develop, and maintain web applications using Next.js, React, and TypeScript across the team’s product portfolio.\n2. Develop reusable UI components with Storybook, contributing to a shared design system.\n3. Implement i18n / l10n for multi-region deployment and optimize web performance (Core Web Vitals, SSR/ISR strategies).\n4. Read and review Java/Spring backend code to debug cross-stack issues; design and consume RESTful APIs.\n5. Implement frontend authentication flows (JWT, OAuth, SSO).\n6. (Optional, Welcomed) Actively develop Java/Spring backend code with AI assistance — open to engineers with capability and interest.\n7. Deploy services on Kubernetes; support GitLab CI/CD pipelines and Docker-based workflows.\n8. Participate in production incident response — read logs, triage issues across frontend, backend, and infrastructure.\n9. Participate in code reviews; collaborate with QA, designers, and PMs; mentor junior team members as you grow.\n【Must-Have Skills】\n1. Frontend: 3+ years professional experience with React; production experience with Next.js — familiarity with both App Router and Pages Router, plus SSR/ISR strategies.\n2. TypeScript: Strong proficiency — generics, utility types, modeling complex domain logic.\n3. Backend Foundation: Has built at least one backend service in any language (Node.js, Python, Go, Java, etc.) and can discuss the design decisions. Comfortable with RESTful API design and at least one relational database.\n4. Version Control: Proficient in Git for collaborative development and branching workflows.\n5. Containers & Orchestration: Working knowledge of Docker (writing Dockerfiles, debugging containers) and basic Kubernetes (reading yaml, running kubectl).\n6. Linux: Comfortable on the command line for development and troubleshooting.\n7. AI Fluency: Daily use of AI tooling (e.g., Claude, Copilot, Cursor) as a force multiplier — including for developing in unfamiliar languages and exploring unfamiliar codebases.\n8. Communication: Clear in Traditional Chinese for daily work; functional English for documentation and async collaboration with global team members."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Python",
+            "Java",
+            "Node.js",
+            "JIRA",
+            "AWS",
+            "Cloud"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Python、Java、Node.js、JIRA、AWS、Cloud",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【Nice-to-Have Skills】\nItems in parentheses are examples — familiarity with any one is sufficient.\n1. Deep Next.js expertise: Server Components, edge runtime, advanced caching strategies.\n2. Node.js backend experience with any framework (e.g., Express, NestJS, Koa) — particularly relevant for cross-stack collaboration.\n3. Java/Spring willingness or interest — prior professional experience not required.\n4. Database experience: PostgreSQL or MongoDB — schema design and query tuning.\n5. CI/CD or production Kubernetes experience (e.g., GitLab CI/CD pipeline building, Helm, ingress, secrets).\n6. i18n / multi-region project experience.\n7. CMS experience (e.g., Strapi, Contentful, Sanity, or custom).\n8. Design System experience (e.g., Storybook).\n9. Cloud platform exposure (AWS or Azure).\n【Preferred Attributes Across Levels】\n1. Strong problem-solving mindset and ownership of code quality.\n2. Willingness to learn new technologies and best practices.\n3. Effective communication and collaboration in agile teams.\n4. Attention to security, scalability, and maintainability in all development activities.\n【Tech Stack & Tooling】\n• Frontend: Next.js, React, TypeScript, Tailwind CSS, Storybook\n• Backend: Java + Spring Boot, PostgreSQL, MongoDB\n• Infrastructure: Kubernetes, Docker, nginx, GitLab CI/CD, Rancher, Harbor\n• Cloud: AWS, Azure (hybrid)\n• AI Tooling: Internal AI model access provided for company use; external tools (Claude, Cursor, Copilot, etc.) permitted within confidentiality guidelines.\n• Collaboration: JIRA, Confluence, Microsoft Teams",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Python、Java、Node.js、JIRA、AWS、Cloud\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：【Nice-to-Have Skills】\nItems in parentheses are examples — familiarity with any one is sufficient.\n1. Deep Next.js expertise: Server Components, edge runtime, advanced caching strategies.\n2. Node.js backend experience with any framework (e.g., Express, NestJS, Koa) — particularly relevant for cross-stack collaboration.\n3. Java/Spring willingness or interest — prior professional experience not required.\n4. Database experience: PostgreSQL or MongoDB — schema design and query tuning.\n5. CI/CD or production Kubernetes experience (e.g., GitLab CI/CD pipeline building, Helm, ingress, secrets).\n6. i18n / multi-region project experience.\n7. CMS experience (e.g., Strapi, Contentful, Sanity, or custom).\n8. Design System experience (e.g., Storybook).\n9. Cloud platform exposure (AWS or Azure).\n【Preferred Attributes Across Levels】\n1. Strong problem-solving mindset and ownership of code quality.\n2. Willingness to learn new technologies and best practices.\n3. Effective communication and collaboration in agile teams.\n4. Attention to security, scalability, and maintainability in all development activities.\n【Tech Stack & Tooling】\n• Frontend: Next.js, React, TypeScript, Tailwind CSS, Storybook\n• Backend: Java + Spring Boot, PostgreSQL, MongoDB\n• Infrastructure: Kubernetes, Docker, nginx, GitLab CI/CD, Rancher, Harbor\n• Cloud: AWS, Azure (hybrid)\n• AI Tooling: Internal AI model access provided for company use; external tools (Claude, Cursor, Copilot, etc.) permitted within confidentiality guidelines.\n• Collaboration: JIRA, Confluence, Microsoft Teams"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "91rf4",
+    "job_url": "https://www.104.com.tw/job/91rf4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91rf4.json",
+    "raw_sha256": "92d2f4d0f1ab0a608470bc231bc4943746607eb42ef24a50bc7047cd81fca693",
+    "requested_url": "https://www.104.com.tw/api/jobs/91rf4"
+  }
+}

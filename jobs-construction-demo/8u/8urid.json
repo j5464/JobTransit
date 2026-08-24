@@ -1,0 +1,171 @@
+{
+  "company": {
+    "id": "5m5be08",
+    "name": "豪勉科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料工程師",
+      "系統分析師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責 Splunk 平台的基礎安裝、設定與日常維運，無經驗可，公司會提供 Splunk 基礎教育訓練。"
+        },
+        {
+          "children": [],
+          "text": "對數據平台、系統維運有高度的學習熱忱。"
+        },
+        {
+          "children": [],
+          "text": "具備基礎的 IT 邏輯與系統概念，如作業系統或網路概念。"
+        },
+        {
+          "children": [],
+          "text": "不害怕看官方文件，具備主動解決問題的態度。"
+        },
+        {
+          "children": [],
+          "text": "有前、後端開發經驗者尤佳。"
+        }
+      ],
+      "text": "1. 負責 Splunk 平台的基礎安裝、設定與日常維運，無經驗可，公司會提供 Splunk 基礎教育訓練。\n2. 對數據平台、系統維運有高度的學習熱忱。\n3. 具備基礎的 IT 邏輯與系統概念，如作業系統或網路概念。\n4. 不害怕看官方文件，具備主動解決問題的態度。\n5. 有前、後端開發經驗者尤佳。\n歡迎願意挑戰與成長的新鮮人加入！"
+    },
+    "employment_type_raw": "全職",
+    "title": "NWSE06 資訊網路 數據分析工程師(台北)"
+  },
+  "location": {
+    "address_raw": "台北市大同區承德路一段70號3樓",
+    "raw": "台北市大同區承德路一段70號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 14
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:55:55+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責 Splunk 平台的基礎安裝、設定與日常維運，無經驗可，公司會提供 Splunk 基礎教育訓練。\n2. 對數據平台、系統維運有高度的學習熱忱。\n3. 具備基礎的 IT 邏輯與系統概念，如作業系統或網路概念。\n4. 不害怕看官方文件，具備主動解決問題的態度。\n5. 有前、後端開發經驗者尤佳。\n歡迎願意挑戰與成長的新鮮人加入！",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料工程師",
+            "系統分析師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料工程師、系統分析師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大同區承德路一段70號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責 Splunk 平台的基礎安裝、設定與日常維運，無經驗可，公司會提供 Splunk 基礎教育訓練。\n2. 對數據平台、系統維運有高度的學習熱忱。\n3. 具備基礎的 IT 邏輯與系統概念，如作業系統或網路概念。\n4. 不害怕看官方文件，具備主動解決問題的態度。\n5. 有前、後端開發經驗者尤佳。\n歡迎願意挑戰與成長的新鮮人加入！"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8urid",
+    "job_url": "https://www.104.com.tw/job/8urid",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8urid.json",
+    "raw_sha256": "59d51661f5e2e4bf7268f3968c96e2d1da927a624c81b4ada1a995ff633dc4e8",
+    "requested_url": "https://www.104.com.tw/api/jobs/8urid"
+  }
+}

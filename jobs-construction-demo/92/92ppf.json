@@ -1,0 +1,290 @@
+{
+  "company": {
+    "id": "awt21ew",
+    "name": "岱宇國際股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發無人載具AI自主系統"
+        },
+        {
+          "children": [],
+          "text": "建立目標辨識、目標追蹤及行為分析模型"
+        },
+        {
+          "children": [],
+          "text": "開發自主導航及智慧決策系統"
+        },
+        {
+          "children": [],
+          "text": "整合 Computer Vision、Deep Learning 及 Sensor Fusion 技術"
+        },
+        {
+          "children": [],
+          "text": "優化 Edge AI 推論效能"
+        },
+        {
+          "children": [],
+          "text": "建立 AI 模型訓練及部署流程"
+        },
+        {
+          "children": [],
+          "text": "與飛控及系統團隊合作開發自主化功能"
+        },
+        {
+          "children": [],
+          "text": "參與實地測試及模型優化"
+        },
+        {
+          "children": [],
+          "text": "資工、電機、AI相關科系"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Python"
+        },
+        {
+          "children": [],
+          "text": "熟悉 PyTorch 或 TensorFlow"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Computer Vision 技術"
+        },
+        {
+          "children": [],
+          "text": "具 AI 模型開發及部署經驗"
+        },
+        {
+          "children": [],
+          "text": "無人機AI開發經驗"
+        },
+        {
+          "children": [],
+          "text": "ROS / ROS2經驗"
+        },
+        {
+          "children": [],
+          "text": "NVIDIA Jetson開發經驗"
+        },
+        {
+          "children": [],
+          "text": "SLAM、自主導航開發經驗"
+        },
+        {
+          "children": [],
+          "text": "邊緣運算(Edge AI)部署經驗"
+        },
+        {
+          "children": [],
+          "text": "對無人載具、機器人、航太或國防科技產業具有高度熱忱"
+        },
+        {
+          "children": [],
+          "text": "具備跨領域整合與問題解決能力"
+        },
+        {
+          "children": [],
+          "text": "願意參與原型開發、實地測試及快速迭代"
+        },
+        {
+          "children": [],
+          "text": "能適應新創環境與高速成長團隊文化"
+        },
+        {
+          "children": [],
+          "text": "樂於與國際夥伴及客戶合作"
+        }
+      ],
+      "text": "工作內容\n* 開發無人載具AI自主系統\n* 建立目標辨識、目標追蹤及行為分析模型\n* 開發自主導航及智慧決策系統\n* 整合 Computer Vision、Deep Learning 及 Sensor Fusion 技術\n* 優化 Edge AI 推論效能\n* 建立 AI 模型訓練及部署流程\n* 與飛控及系統團隊合作開發自主化功能\n* 參與實地測試及模型優化\n條件要求\n* 資工、電機、AI相關科系\n* 熟悉 Python\n* 熟悉 PyTorch 或 TensorFlow\n* 熟悉 Computer Vision 技術\n* 具 AI 模型開發及部署經驗\n加分條件\n* 無人機AI開發經驗\n* ROS / ROS2經驗\n* NVIDIA Jetson開發經驗\n* SLAM、自主導航開發經驗\n* 邊緣運算(Edge AI)部署經驗\n我們希望找到的人\n* 對無人載具、機器人、航太或國防科技產業具有高度熱忱\n* 具備跨領域整合與問題解決能力\n* 願意參與原型開發、實地測試及快速迭代\n* 能適應新創環境與高速成長團隊文化\n* 樂於與國際夥伴及客戶合作"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI軟體研發工程師 (AI Software Engineer)【關係企業】"
+  },
+  "location": {
+    "address_raw": "台北市中山區松江路111號",
+    "raw": "台北市中山區松江路111號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "航太工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、航太工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "Python",
+          "PyTorch",
+          "tensorflow",
+          "Computer Vision"
+        ],
+        "label": "擅長工具",
+        "text": "Python、PyTorch、tensorflow、Computer Vision"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "航太工程相關",
+      "機械工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學\n科系要求：電機電子工程相關、航太工程相關、機械工程相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Python、PyTorch、tensorflow、Computer Vision",
+    "tools": [
+      "Python",
+      "PyTorch",
+      "tensorflow",
+      "Computer Vision"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 22
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:17:07+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作內容\n* 開發無人載具AI自主系統\n* 建立目標辨識、目標追蹤及行為分析模型\n* 開發自主導航及智慧決策系統\n* 整合 Computer Vision、Deep Learning 及 Sensor Fusion 技術\n* 優化 Edge AI 推論效能\n* 建立 AI 模型訓練及部署流程\n* 與飛控及系統團隊合作開發自主化功能\n* 參與實地測試及模型優化\n條件要求\n* 資工、電機、AI相關科系\n* 熟悉 Python\n* 熟悉 PyTorch 或 TensorFlow\n* 熟悉 Computer Vision 技術\n* 具 AI 模型開發及部署經驗\n加分條件\n* 無人機AI開發經驗\n* ROS / ROS2經驗\n* NVIDIA Jetson開發經驗\n* SLAM、自主導航開發經驗\n* 邊緣運算(Edge AI)部署經驗\n我們希望找到的人\n* 對無人載具、機器人、航太或國防科技產業具有高度熱忱\n* 具備跨領域整合與問題解決能力\n* 願意參與原型開發、實地測試及快速迭代\n* 能適應新創環境與高速成長團隊文化\n* 樂於與國際夥伴及客戶合作",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區松江路111號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作內容\n* 開發無人載具AI自主系統\n* 建立目標辨識、目標追蹤及行為分析模型\n* 開發自主導航及智慧決策系統\n* 整合 Computer Vision、Deep Learning 及 Sensor Fusion 技術\n* 優化 Edge AI 推論效能\n* 建立 AI 模型訓練及部署流程\n* 與飛控及系統團隊合作開發自主化功能\n* 參與實地測試及模型優化\n條件要求\n* 資工、電機、AI相關科系\n* 熟悉 Python\n* 熟悉 PyTorch 或 TensorFlow\n* 熟悉 Computer Vision 技術\n* 具 AI 模型開發及部署經驗\n加分條件\n* 無人機AI開發經驗\n* ROS / ROS2經驗\n* NVIDIA Jetson開發經驗\n* SLAM、自主導航開發經驗\n* 邊緣運算(Edge AI)部署經驗\n我們希望找到的人\n* 對無人載具、機器人、航太或國防科技產業具有高度熱忱\n* 具備跨領域整合與問題解決能力\n* 願意參與原型開發、實地測試及快速迭代\n* 能適應新創環境與高速成長團隊文化\n* 樂於與國際夥伴及客戶合作"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "航太工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、航太工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "PyTorch",
+            "tensorflow",
+            "Computer Vision"
+          ],
+          "label": "擅長工具",
+          "text": "Python、PyTorch、tensorflow、Computer Vision",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學\n科系要求：電機電子工程相關、航太工程相關、機械工程相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Python、PyTorch、tensorflow、Computer Vision"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92ppf",
+    "job_url": "https://www.104.com.tw/job/92ppf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92ppf.json",
+    "raw_sha256": "4053230481943cdda3210b9c3914d1a750aa2a7a47c02e8c45531c770649cfff",
+    "requested_url": "https://www.104.com.tw/api/jobs/92ppf"
+  }
+}

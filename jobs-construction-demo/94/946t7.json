@@ -1,0 +1,264 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "資料科學家",
+      "材料工程師",
+      "材料研發人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop, train, fine-tune, benchmark, and deploy MLIP models for inorganic and functional materials using frameworks such as MatterSim, MACE, CHGNet, M3GNet, SevenNet, NequIP, Allegro, or related models."
+        },
+        {
+          "children": [],
+          "text": "Analyze and modify open-source MLIP architectures, training pipelines, loss functions, data interfaces, and inference modules to support customized industrial applications."
+        },
+        {
+          "children": [],
+          "text": "Develop customized or multi-task AI models that extend beyond conventional predictions of energy, atomic forces, stress, and structural relaxation. Explore the feasibility of incorporating additional prediction heads or coupled surrogate models for target properties such as saturation magnetization (Ms / Bs), electrical resistivity, magnetic anisotropy, Curie temperature, bandgap, and other application-relevant properties."
+        },
+        {
+          "children": [],
+          "text": "Construct and curate high-quality atomistic datasets from public databases, internal DFT calculations, experimental data, and generated crystal structures."
+        },
+        {
+          "children": [],
+          "text": "Evaluate model accuracy, transferability, uncertainty, out-of-distribution risks, and physical consistency across different compositions, crystal structures, and material systems."
+        },
+        {
+          "children": [],
+          "text": "Develop active-learning, reinforcement-learning, or iterative DFT–MLIP workflows to select informative structures, optimize material candidates, and continuously improve model performance."
+        },
+        {
+          "children": [],
+          "text": "Deploy MLIPs for high-throughput structural relaxation, stability screening, molecular dynamics, defect analysis, and finite-temperature atomistic simulations."
+        },
+        {
+          "children": [],
+          "text": "Integrate generative or inverse-design models, rule-based filters, MLIP screening, high-fidelity DFT validation, and experimental feedback into an end-to-end AI-assisted materials discovery workflow."
+        },
+        {
+          "children": [],
+          "text": "Perform and interpret first-principles calculations involving structural stability, formation energy, electronic structure, magnetic ordering, defects, diffusion, phonons, and other intrinsic material properties."
+        },
+        {
+          "children": [],
+          "text": "Generate reliable DFT reference data for MLIP training, fine-tuning, validation, and model improvement."
+        },
+        {
+          "children": [],
+          "text": "Apply AI and computational materials methods to magnetic materials, particularly soft magnetic materials and ferrites for high-frequency applications."
+        },
+        {
+          "children": [],
+          "text": "Analyze relationships among composition, crystal structure, magnetic ordering, electronic structure, defects, microstructure, and magnetic performance."
+        },
+        {
+          "children": [],
+          "text": "Support the evaluation of material properties and descriptors including Ms / Bs, magnetocrystalline anisotropy, coercivity-related factors, magnetostriction, Curie temperature, electrical resistivity, bandgap, exchange interactions, thermodynamic stability, and core-loss-related characteristics."
+        },
+        {
+          "children": [],
+          "text": "Work closely with AI scientists, computational materials researchers, magnetic material experts, software engineers, and experimental teams to translate industrial requirements into executable computational research projects."
+        }
+      ],
+      "text": "<About the Role>\nWe are seeking an AI for Science Materials Scientist to develop AI-driven computational workflows for next-generation functional materials, with an initial focus on soft magnetic materials for high-frequency power electronics applications.\nThis role prioritizes strong expertise in AI model development and Machine Learning Interatomic Potentials (MLIPs / MLFFs). The successful candidate will not only apply pretrained models, but also understand, modify, fine-tune, and extend open-source MLIP frameworks to meet specific industrial materials R&D requirements.\nYou will integrate MLIP, density functional theory (DFT), generative AI, high-throughput screening, and magnetic material knowledge to accelerate candidate discovery and validation. Candidates with experience in MLIP development, atomistic graph neural networks, computational materials science, or magnetic materials are strongly encouraged to apply.\n<Key Responsibilities>\n• Develop, train, fine-tune, benchmark, and deploy MLIP models for inorganic and functional materials using frameworks such as MatterSim, MACE, CHGNet, M3GNet, SevenNet, NequIP, Allegro, or related models.\n• Analyze and modify open-source MLIP architectures, training pipelines, loss functions, data interfaces, and inference modules to support customized industrial applications.\n• Develop customized or multi-task AI models that extend beyond conventional predictions of energy, atomic forces, stress, and structural relaxation. Explore the feasibility of incorporating additional prediction heads or coupled surrogate models for target properties such as saturation magnetization (Ms / Bs), electrical resistivity, magnetic anisotropy, Curie temperature, bandgap, and other application-relevant properties.\n• Construct and curate high-quality atomistic datasets from public databases, internal DFT calculations, experimental data, and generated crystal structures.\n• Evaluate model accuracy, transferability, uncertainty, out-of-distribution risks, and physical consistency across different compositions, crystal structures, and material systems.\n• Develop active-learning, reinforcement-learning, or iterative DFT–MLIP workflows to select informative structures, optimize material candidates, and continuously improve model performance.\n• Deploy MLIPs for high-throughput structural relaxation, stability screening, molecular dynamics, defect analysis, and finite-temperature atomistic simulations.\n• Integrate generative or inverse-design models, rule-based filters, MLIP screening, high-fidelity DFT validation, and experimental feedback into an end-to-end AI-assisted materials discovery workflow.\n• Perform and interpret first-principles calculations involving structural stability, formation energy, electronic structure, magnetic ordering, defects, diffusion, phonons, and other intrinsic material properties.\n• Generate reliable DFT reference data for MLIP training, fine-tuning, validation, and model improvement.\n• Apply AI and computational materials methods to magnetic materials, particularly soft magnetic materials and ferrites for high-frequency applications.\n• Analyze relationships among composition, crystal structure, magnetic ordering, electronic structure, defects, microstructure, and magnetic performance.\n• Support the evaluation of material properties and descriptors including Ms / Bs, magnetocrystalline anisotropy, coercivity-related factors, magnetostriction, Curie temperature, electrical resistivity, bandgap, exchange interactions, thermodynamic stability, and core-loss-related characteristics.\n• Work closely with AI scientists, computational materials researchers, magnetic material experts, software engineers, and experimental teams to translate industrial requirements into executable computational research projects."
+    },
+    "employment_type_raw": "全職",
+    "title": "AI for Science Materials Scientist – MLIP & Magnetic Materials_CTO Office (Taipei)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號",
+    "raw": "台北市內湖區瑞光路186號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "材料工程相關",
+          "物理學相關",
+          "化學工程相關"
+        ],
+        "label": "科系要求",
+        "text": "材料工程相關、物理學相關、化學工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python",
+          "Linux",
+          "Git"
+        ],
+        "label": "擅長工具",
+        "text": "Python、Linux、Git"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【Required Qualifications】\n• Master's or Ph.D. degree in Materials Science, Computational Materials Science, Physics, Chemistry, Chemical Engineering, Computer Science, or a related field.\n• Strong AI model development experience with PyTorch, JAX, TensorFlow, or similar deep-learning frameworks.\n• Hands-on experience developing, training, fine-tuning, or modifying MLIPs, MLFFs, atomistic GNNs, or geometric deep-learning models.\n• Ability to understand and modify open-source model architectures, source code, training workflows, loss functions, and prediction modules, beyond using pretrained models.\n• Strong background in computational materials science, atomistic simulation, solid-state physics, or materials chemistry.\n• Experience with DFT and at least one electronic-structure package (e.g., Quantum ESPRESSO, VASP, Wien2k, OpenMX, ABINIT, GPAW, or CASTEP).\n• Familiarity with Pymatgen, ASE, or equivalent materials informatics tools.\n• Ability to build scientific datasets and evaluate model accuracy, transferability, uncertainty, and physical consistency.\n• Experience working in Linux environments with strong scientific programming, problem-solving, and communication skills.\n【Preferred Qualifications】\n• Experience developing or fine-tuning MatterSim, MACE, CHGNet, M3GNet, SevenNet, NequIP, Allegro, DeePMD, GAP, or related MLIP frameworks.\n• Experience with equivariant neural networks, geometric deep learning, multi-task learning, active learning, reinforcement learning, uncertainty quantification, or out-of-distribution detection.\n• Experience extending MLIP architectures or coupling MLIPs with surrogate models to predict functional material properties beyond energy, forces, and stress.\n• Experience with high-throughput DFT, automated simulation workflows, molecular dynamics, phonons, defects, diffusion, or finite-temperature simulations.\n• Familiarity with HPC clusters, GPU computing, Slurm/PBS, Docker, Conda, AiiDA, FireWorks, Atomate, or Jobflow.\n• Research experience in magnetic materials, particularly ferrites, magnetic oxides, magnetic alloys, or soft magnetic materials.\n• Knowledge of magnetic properties such as Ms / Bs, coercivity, magnetic anisotropy, magnetostriction, Curie temperature, electrical resistivity, and core loss.\n• Experience connecting computational predictions with experimental synthesis and characterization is highly valued.\n【Characteristics We Value】\n• Strong interest in applying advanced AI models to real-world materials discovery and industrial R&D challenges.\n• Ability to work across artificial intelligence, materials science, physics, software engineering, and experimental research.\n• Willingness to investigate and improve model architecture, data quality, physical consistency, and prediction limitations.\n• Self-motivated, collaborative, and capable of independently advancing research and model-development tasks."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "材料工程相關",
+      "物理學相關",
+      "化學工程相關"
+    ],
+    "other_text": "【Required Qualifications】\n• Master's or Ph.D. degree in Materials Science, Computational Materials Science, Physics, Chemistry, Chemical Engineering, Computer Science, or a related field.\n• Strong AI model development experience with PyTorch, JAX, TensorFlow, or similar deep-learning frameworks.\n• Hands-on experience developing, training, fine-tuning, or modifying MLIPs, MLFFs, atomistic GNNs, or geometric deep-learning models.\n• Ability to understand and modify open-source model architectures, source code, training workflows, loss functions, and prediction modules, beyond using pretrained models.\n• Strong background in computational materials science, atomistic simulation, solid-state physics, or materials chemistry.\n• Experience with DFT and at least one electronic-structure package (e.g., Quantum ESPRESSO, VASP, Wien2k, OpenMX, ABINIT, GPAW, or CASTEP).\n• Familiarity with Pymatgen, ASE, or equivalent materials informatics tools.\n• Ability to build scientific datasets and evaluate model accuracy, transferability, uncertainty, and physical consistency.\n• Experience working in Linux environments with strong scientific programming, problem-solving, and communication skills.\n【Preferred Qualifications】\n• Experience developing or fine-tuning MatterSim, MACE, CHGNet, M3GNet, SevenNet, NequIP, Allegro, DeePMD, GAP, or related MLIP frameworks.\n• Experience with equivariant neural networks, geometric deep learning, multi-task learning, active learning, reinforcement learning, uncertainty quantification, or out-of-distribution detection.\n• Experience extending MLIP architectures or coupling MLIPs with surrogate models to predict functional material properties beyond energy, forces, and stress.\n• Experience with high-throughput DFT, automated simulation workflows, molecular dynamics, phonons, defects, diffusion, or finite-temperature simulations.\n• Familiarity with HPC clusters, GPU computing, Slurm/PBS, Docker, Conda, AiiDA, FireWorks, Atomate, or Jobflow.\n• Research experience in magnetic materials, particularly ferrites, magnetic oxides, magnetic alloys, or soft magnetic materials.\n• Knowledge of magnetic properties such as Ms / Bs, coercivity, magnetic anisotropy, magnetostriction, Curie temperature, electrical resistivity, and core loss.\n• Experience connecting computational predictions with experimental synthesis and characterization is highly valued.\n【Characteristics We Value】\n• Strong interest in applying advanced AI models to real-world materials discovery and industrial R&D challenges.\n• Ability to work across artificial intelligence, materials science, physics, software engineering, and experimental research.\n• Willingness to investigate and improve model architecture, data quality, physical consistency, and prediction limitations.\n• Self-motivated, collaborative, and capable of independently advancing research and model-development tasks.",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：材料工程相關、物理學相關、化學工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Linux、Git\n其他條件：【Required Qualifications】\n• Master's or Ph.D. degree in Materials Science, Computational Materials Science, Physics, Chemistry, Chemical Engineering, Computer Science, or a related field.\n• Strong AI model development experience with PyTorch, JAX, TensorFlow, or similar deep-learning frameworks.\n• Hands-on experience developing, training, fine-tuning, or modifying MLIPs, MLFFs, atomistic GNNs, or geometric deep-learning models.\n• Ability to understand and modify open-source model architectures, source code, training workflows, loss functions, and prediction modules, beyond using pretrained models.\n• Strong background in computational materials science, atomistic simulation, solid-state physics, or materials chemistry.\n• Experience with DFT and at least one electronic-structure package (e.g., Quantum ESPRESSO, VASP, Wien2k, OpenMX, ABINIT, GPAW, or CASTEP).\n• Familiarity with Pymatgen, ASE, or equivalent materials informatics tools.\n• Ability to build scientific datasets and evaluate model accuracy, transferability, uncertainty, and physical consistency.\n• Experience working in Linux environments with strong scientific programming, problem-solving, and communication skills.\n【Preferred Qualifications】\n• Experience developing or fine-tuning MatterSim, MACE, CHGNet, M3GNet, SevenNet, NequIP, Allegro, DeePMD, GAP, or related MLIP frameworks.\n• Experience with equivariant neural networks, geometric deep learning, multi-task learning, active learning, reinforcement learning, uncertainty quantification, or out-of-distribution detection.\n• Experience extending MLIP architectures or coupling MLIPs with surrogate models to predict functional material properties beyond energy, forces, and stress.\n• Experience with high-throughput DFT, automated simulation workflows, molecular dynamics, phonons, defects, diffusion, or finite-temperature simulations.\n• Familiarity with HPC clusters, GPU computing, Slurm/PBS, Docker, Conda, AiiDA, FireWorks, Atomate, or Jobflow.\n• Research experience in magnetic materials, particularly ferrites, magnetic oxides, magnetic alloys, or soft magnetic materials.\n• Knowledge of magnetic properties such as Ms / Bs, coercivity, magnetic anisotropy, magnetostriction, Curie temperature, electrical resistivity, and core loss.\n• Experience connecting computational predictions with experimental synthesis and characterization is highly valued.\n【Characteristics We Value】\n• Strong interest in applying advanced AI models to real-world materials discovery and industrial R&D challenges.\n• Ability to work across artificial intelligence, materials science, physics, software engineering, and experimental research.\n• Willingness to investigate and improve model architecture, data quality, physical consistency, and prediction limitations.\n• Self-motivated, collaborative, and capable of independently advancing research and model-development tasks.",
+    "tools": [
+      "Python",
+      "Linux",
+      "Git"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 74
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:24:16+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "<About the Role>\nWe are seeking an AI for Science Materials Scientist to develop AI-driven computational workflows for next-generation functional materials, with an initial focus on soft magnetic materials for high-frequency power electronics applications.\nThis role prioritizes strong expertise in AI model development and Machine Learning Interatomic Potentials (MLIPs / MLFFs). The successful candidate will not only apply pretrained models, but also understand, modify, fine-tune, and extend open-source MLIP frameworks to meet specific industrial materials R&D requirements.\nYou will integrate MLIP, density functional theory (DFT), generative AI, high-throughput screening, and magnetic material knowledge to accelerate candidate discovery and validation. Candidates with experience in MLIP development, atomistic graph neural networks, computational materials science, or magnetic materials are strongly encouraged to apply.\n<Key Responsibilities>\n• Develop, train, fine-tune, benchmark, and deploy MLIP models for inorganic and functional materials using frameworks such as MatterSim, MACE, CHGNet, M3GNet, SevenNet, NequIP, Allegro, or related models.\n• Analyze and modify open-source MLIP architectures, training pipelines, loss functions, data interfaces, and inference modules to support customized industrial applications.\n• Develop customized or multi-task AI models that extend beyond conventional predictions of energy, atomic forces, stress, and structural relaxation. Explore the feasibility of incorporating additional prediction heads or coupled surrogate models for target properties such as saturation magnetization (Ms / Bs), electrical resistivity, magnetic anisotropy, Curie temperature, bandgap, and other application-relevant properties.\n• Construct and curate high-quality atomistic datasets from public databases, internal DFT calculations, experimental data, and generated crystal structures.\n• Evaluate model accuracy, transferability, uncertainty, out-of-distribution risks, and physical consistency across different compositions, crystal structures, and material systems.\n• Develop active-learning, reinforcement-learning, or iterative DFT–MLIP workflows to select informative structures, optimize material candidates, and continuously improve model performance.\n• Deploy MLIPs for high-throughput structural relaxation, stability screening, molecular dynamics, defect analysis, and finite-temperature atomistic simulations.\n• Integrate generative or inverse-design models, rule-based filters, MLIP screening, high-fidelity DFT validation, and experimental feedback into an end-to-end AI-assisted materials discovery workflow.\n• Perform and interpret first-principles calculations involving structural stability, formation energy, electronic structure, magnetic ordering, defects, diffusion, phonons, and other intrinsic material properties.\n• Generate reliable DFT reference data for MLIP training, fine-tuning, validation, and model improvement.\n• Apply AI and computational materials methods to magnetic materials, particularly soft magnetic materials and ferrites for high-frequency applications.\n• Analyze relationships among composition, crystal structure, magnetic ordering, electronic structure, defects, microstructure, and magnetic performance.\n• Support the evaluation of material properties and descriptors including Ms / Bs, magnetocrystalline anisotropy, coercivity-related factors, magnetostriction, Curie temperature, electrical resistivity, bandgap, exchange interactions, thermodynamic stability, and core-loss-related characteristics.\n• Work closely with AI scientists, computational materials researchers, magnetic material experts, software engineers, and experimental teams to translate industrial requirements into executable computational research projects.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料科學家",
+            "材料工程師",
+            "材料研發人員"
+          ],
+          "label": "職務類別",
+          "text": "資料科學家、材料工程師、材料研發人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "<About the Role>\nWe are seeking an AI for Science Materials Scientist to develop AI-driven computational workflows for next-generation functional materials, with an initial focus on soft magnetic materials for high-frequency power electronics applications.\nThis role prioritizes strong expertise in AI model development and Machine Learning Interatomic Potentials (MLIPs / MLFFs). The successful candidate will not only apply pretrained models, but also understand, modify, fine-tune, and extend open-source MLIP frameworks to meet specific industrial materials R&D requirements.\nYou will integrate MLIP, density functional theory (DFT), generative AI, high-throughput screening, and magnetic material knowledge to accelerate candidate discovery and validation. Candidates with experience in MLIP development, atomistic graph neural networks, computational materials science, or magnetic materials are strongly encouraged to apply.\n<Key Responsibilities>\n• Develop, train, fine-tune, benchmark, and deploy MLIP models for inorganic and functional materials using frameworks such as MatterSim, MACE, CHGNet, M3GNet, SevenNet, NequIP, Allegro, or related models.\n• Analyze and modify open-source MLIP architectures, training pipelines, loss functions, data interfaces, and inference modules to support customized industrial applications.\n• Develop customized or multi-task AI models that extend beyond conventional predictions of energy, atomic forces, stress, and structural relaxation. Explore the feasibility of incorporating additional prediction heads or coupled surrogate models for target properties such as saturation magnetization (Ms / Bs), electrical resistivity, magnetic anisotropy, Curie temperature, bandgap, and other application-relevant properties.\n• Construct and curate high-quality atomistic datasets from public databases, internal DFT calculations, experimental data, and generated crystal structures.\n• Evaluate model accuracy, transferability, uncertainty, out-of-distribution risks, and physical consistency across different compositions, crystal structures, and material systems.\n• Develop active-learning, reinforcement-learning, or iterative DFT–MLIP workflows to select informative structures, optimize material candidates, and continuously improve model performance.\n• Deploy MLIPs for high-throughput structural relaxation, stability screening, molecular dynamics, defect analysis, and finite-temperature atomistic simulations.\n• Integrate generative or inverse-design models, rule-based filters, MLIP screening, high-fidelity DFT validation, and experimental feedback into an end-to-end AI-assisted materials discovery workflow.\n• Perform and interpret first-principles calculations involving structural stability, formation energy, electronic structure, magnetic ordering, defects, diffusion, phonons, and other intrinsic material properties.\n• Generate reliable DFT reference data for MLIP training, fine-tuning, validation, and model improvement.\n• Apply AI and computational materials methods to magnetic materials, particularly soft magnetic materials and ferrites for high-frequency applications.\n• Analyze relationships among composition, crystal structure, magnetic ordering, electronic structure, defects, microstructure, and magnetic performance.\n• Support the evaluation of material properties and descriptors including Ms / Bs, magnetocrystalline anisotropy, coercivity-related factors, magnetostriction, Curie temperature, electrical resistivity, bandgap, exchange interactions, thermodynamic stability, and core-loss-related characteristics.\n• Work closely with AI scientists, computational materials researchers, magnetic material experts, software engineers, and experimental teams to translate industrial requirements into executable computational research projects."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "材料工程相關",
+            "物理學相關",
+            "化學工程相關"
+          ],
+          "label": "科系要求",
+          "text": "材料工程相關、物理學相關、化學工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "Linux",
+            "Git"
+          ],
+          "label": "擅長工具",
+          "text": "Python、Linux、Git",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【Required Qualifications】\n• Master's or Ph.D. degree in Materials Science, Computational Materials Science, Physics, Chemistry, Chemical Engineering, Computer Science, or a related field.\n• Strong AI model development experience with PyTorch, JAX, TensorFlow, or similar deep-learning frameworks.\n• Hands-on experience developing, training, fine-tuning, or modifying MLIPs, MLFFs, atomistic GNNs, or geometric deep-learning models.\n• Ability to understand and modify open-source model architectures, source code, training workflows, loss functions, and prediction modules, beyond using pretrained models.\n• Strong background in computational materials science, atomistic simulation, solid-state physics, or materials chemistry.\n• Experience with DFT and at least one electronic-structure package (e.g., Quantum ESPRESSO, VASP, Wien2k, OpenMX, ABINIT, GPAW, or CASTEP).\n• Familiarity with Pymatgen, ASE, or equivalent materials informatics tools.\n• Ability to build scientific datasets and evaluate model accuracy, transferability, uncertainty, and physical consistency.\n• Experience working in Linux environments with strong scientific programming, problem-solving, and communication skills.\n【Preferred Qualifications】\n• Experience developing or fine-tuning MatterSim, MACE, CHGNet, M3GNet, SevenNet, NequIP, Allegro, DeePMD, GAP, or related MLIP frameworks.\n• Experience with equivariant neural networks, geometric deep learning, multi-task learning, active learning, reinforcement learning, uncertainty quantification, or out-of-distribution detection.\n• Experience extending MLIP architectures or coupling MLIPs with surrogate models to predict functional material properties beyond energy, forces, and stress.\n• Experience with high-throughput DFT, automated simulation workflows, molecular dynamics, phonons, defects, diffusion, or finite-temperature simulations.\n• Familiarity with HPC clusters, GPU computing, Slurm/PBS, Docker, Conda, AiiDA, FireWorks, Atomate, or Jobflow.\n• Research experience in magnetic materials, particularly ferrites, magnetic oxides, magnetic alloys, or soft magnetic materials.\n• Knowledge of magnetic properties such as Ms / Bs, coercivity, magnetic anisotropy, magnetostriction, Curie temperature, electrical resistivity, and core loss.\n• Experience connecting computational predictions with experimental synthesis and characterization is highly valued.\n【Characteristics We Value】\n• Strong interest in applying advanced AI models to real-world materials discovery and industrial R&D challenges.\n• Ability to work across artificial intelligence, materials science, physics, software engineering, and experimental research.\n• Willingness to investigate and improve model architecture, data quality, physical consistency, and prediction limitations.\n• Self-motivated, collaborative, and capable of independently advancing research and model-development tasks.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：材料工程相關、物理學相關、化學工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Linux、Git\n其他條件：【Required Qualifications】\n• Master's or Ph.D. degree in Materials Science, Computational Materials Science, Physics, Chemistry, Chemical Engineering, Computer Science, or a related field.\n• Strong AI model development experience with PyTorch, JAX, TensorFlow, or similar deep-learning frameworks.\n• Hands-on experience developing, training, fine-tuning, or modifying MLIPs, MLFFs, atomistic GNNs, or geometric deep-learning models.\n• Ability to understand and modify open-source model architectures, source code, training workflows, loss functions, and prediction modules, beyond using pretrained models.\n• Strong background in computational materials science, atomistic simulation, solid-state physics, or materials chemistry.\n• Experience with DFT and at least one electronic-structure package (e.g., Quantum ESPRESSO, VASP, Wien2k, OpenMX, ABINIT, GPAW, or CASTEP).\n• Familiarity with Pymatgen, ASE, or equivalent materials informatics tools.\n• Ability to build scientific datasets and evaluate model accuracy, transferability, uncertainty, and physical consistency.\n• Experience working in Linux environments with strong scientific programming, problem-solving, and communication skills.\n【Preferred Qualifications】\n• Experience developing or fine-tuning MatterSim, MACE, CHGNet, M3GNet, SevenNet, NequIP, Allegro, DeePMD, GAP, or related MLIP frameworks.\n• Experience with equivariant neural networks, geometric deep learning, multi-task learning, active learning, reinforcement learning, uncertainty quantification, or out-of-distribution detection.\n• Experience extending MLIP architectures or coupling MLIPs with surrogate models to predict functional material properties beyond energy, forces, and stress.\n• Experience with high-throughput DFT, automated simulation workflows, molecular dynamics, phonons, defects, diffusion, or finite-temperature simulations.\n• Familiarity with HPC clusters, GPU computing, Slurm/PBS, Docker, Conda, AiiDA, FireWorks, Atomate, or Jobflow.\n• Research experience in magnetic materials, particularly ferrites, magnetic oxides, magnetic alloys, or soft magnetic materials.\n• Knowledge of magnetic properties such as Ms / Bs, coercivity, magnetic anisotropy, magnetostriction, Curie temperature, electrical resistivity, and core loss.\n• Experience connecting computational predictions with experimental synthesis and characterization is highly valued.\n【Characteristics We Value】\n• Strong interest in applying advanced AI models to real-world materials discovery and industrial R&D challenges.\n• Ability to work across artificial intelligence, materials science, physics, software engineering, and experimental research.\n• Willingness to investigate and improve model architecture, data quality, physical consistency, and prediction limitations.\n• Self-motivated, collaborative, and capable of independently advancing research and model-development tasks."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "946t7",
+    "job_url": "https://www.104.com.tw/job/946t7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/946t7.json",
+    "raw_sha256": "7e0731ad37044aec4c4976d321accdace0c498ea81e0d0a5676f30b37136400f",
+    "requested_url": "https://www.104.com.tw/api/jobs/946t7"
+  }
+}

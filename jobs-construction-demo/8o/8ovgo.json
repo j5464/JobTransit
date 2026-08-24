@@ -1,0 +1,263 @@
+{
+  "company": {
+    "id": "pf64mvc",
+    "name": "台灣佳能股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "網路管理工程師",
+      "資訊設備管制人員",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設定、維護網路環境。"
+        },
+        {
+          "children": [],
+          "text": "依照企業需求，規劃、架設及管理各種伺服器。"
+        },
+        {
+          "children": [],
+          "text": "維修與更新電腦應用軟體及電腦操作系統。"
+        },
+        {
+          "children": [],
+          "text": "安裝電腦及執行電腦硬體診斷。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦之業務。"
+        }
+      ],
+      "text": "【上班時間】7:55~17:00\n【工作地點】台中潭子\n【休假方式】週休2日；須能配合加班，加班費依勞基法規定。\n【工作內容】\n1.設定、維護網路環境。\n2.依照企業需求，規劃、架設及管理各種伺服器。\n3.維修與更新電腦應用軟體及電腦操作系統。\n4.安裝電腦及執行電腦硬體診斷。\n5.其他主管交辦之業務。"
+    },
+    "employment_type_raw": "全職",
+    "title": "網路管理工程師-台中"
+  },
+  "location": {
+    "address_raw": "台中市潭子區建國路18號",
+    "raw": "台中市潭子區建國路18號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "日文：略懂、略懂、略懂、略懂",
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "日文：略懂、略懂、略懂、略懂\n英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Excel",
+          "PowerPoint",
+          "Word",
+          "Outlook"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、PowerPoint、Word、Outlook"
+      },
+      {
+        "items": [
+          "伺服器網站管理維護",
+          "電腦設備裝配",
+          "網路設備設定安裝",
+          "網路系統配置",
+          "資訊設備環境設定",
+          "資訊設備操作檢修"
+        ],
+        "label": "工作技能",
+        "text": "伺服器網站管理維護、電腦設備裝配、網路設備設定安裝、網路系統配置、資訊設備環境設定、資訊設備操作檢修"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具備網路設備（Switch、Router、Firewall、Wireless AP）管理與設定經驗尤佳。\n2.熟悉 TCP/IP、VLAN、VPN、DNS、DHCP 等網路技術尤佳。\n3.具備 Windows Server、Linux Server 維運管理經驗者尤佳。\n4.具備問題分析與故障排除能力，能獨立處理網路及系統異常。\n5.歡迎認真負責、充滿工作熱忱並有團隊合作精神者加入本公司行列。"
+      }
+    ],
+    "languages": [
+      "日文：略懂、略懂、略懂、略懂",
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.具備網路設備（Switch、Router、Firewall、Wireless AP）管理與設定經驗尤佳。\n2.熟悉 TCP/IP、VLAN、VPN、DNS、DHCP 等網路技術尤佳。\n3.具備 Windows Server、Linux Server 維運管理經驗者尤佳。\n4.具備問題分析與故障排除能力，能獨立處理網路及系統異常。\n5.歡迎認真負責、充滿工作熱忱並有團隊合作精神者加入本公司行列。",
+    "skills": [
+      "伺服器網站管理維護",
+      "電腦設備裝配",
+      "網路設備設定安裝",
+      "網路系統配置",
+      "資訊設備環境設定",
+      "資訊設備操作檢修"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：資訊管理相關、資訊工程相關\n語文條件：日文：略懂、略懂、略懂、略懂\n英文：略懂、略懂、略懂、略懂\n擅長工具：Excel、PowerPoint、Word、Outlook\n工作技能：伺服器網站管理維護、電腦設備裝配、網路設備設定安裝、網路系統配置、資訊設備環境設定、資訊設備操作檢修\n其他條件：1.具備網路設備（Switch、Router、Firewall、Wireless AP）管理與設定經驗尤佳。\n2.熟悉 TCP/IP、VLAN、VPN、DNS、DHCP 等網路技術尤佳。\n3.具備 Windows Server、Linux Server 維運管理經驗者尤佳。\n4.具備問題分析與故障排除能力，能獨立處理網路及系統異常。\n5.歡迎認真負責、充滿工作熱忱並有團隊合作精神者加入本公司行列。",
+    "tools": [
+      "Excel",
+      "PowerPoint",
+      "Word",
+      "Outlook"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 9
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:42:37+08:00"
+  },
+  "salary": {
+    "raw": "月薪36,000~38,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【上班時間】7:55~17:00\n【工作地點】台中潭子\n【休假方式】週休2日；須能配合加班，加班費依勞基法規定。\n【工作內容】\n1.設定、維護網路環境。\n2.依照企業需求，規劃、架設及管理各種伺服器。\n3.維修與更新電腦應用軟體及電腦操作系統。\n4.安裝電腦及執行電腦硬體診斷。\n5.其他主管交辦之業務。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "網路管理工程師",
+            "資訊設備管制人員",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "網路管理工程師、資訊設備管制人員、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪36,000~38,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市潭子區建國路18號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【上班時間】7:55~17:00\n【工作地點】台中潭子\n【休假方式】週休2日；須能配合加班，加班費依勞基法規定。\n【工作內容】\n1.設定、維護網路環境。\n2.依照企業需求，規劃、架設及管理各種伺服器。\n3.維修與更新電腦應用軟體及電腦操作系統。\n4.安裝電腦及執行電腦硬體診斷。\n5.其他主管交辦之業務。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "日文：略懂、略懂、略懂、略懂",
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "日文：略懂、略懂、略懂、略懂\n英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "PowerPoint",
+            "Word",
+            "Outlook"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、PowerPoint、Word、Outlook",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "伺服器網站管理維護",
+            "電腦設備裝配",
+            "網路設備設定安裝",
+            "網路系統配置",
+            "資訊設備環境設定",
+            "資訊設備操作檢修"
+          ],
+          "label": "工作技能",
+          "text": "伺服器網站管理維護、電腦設備裝配、網路設備設定安裝、網路系統配置、資訊設備環境設定、資訊設備操作檢修",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具備網路設備（Switch、Router、Firewall、Wireless AP）管理與設定經驗尤佳。\n2.熟悉 TCP/IP、VLAN、VPN、DNS、DHCP 等網路技術尤佳。\n3.具備 Windows Server、Linux Server 維運管理經驗者尤佳。\n4.具備問題分析與故障排除能力，能獨立處理網路及系統異常。\n5.歡迎認真負責、充滿工作熱忱並有團隊合作精神者加入本公司行列。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：資訊管理相關、資訊工程相關\n語文條件：日文：略懂、略懂、略懂、略懂\n英文：略懂、略懂、略懂、略懂\n擅長工具：Excel、PowerPoint、Word、Outlook\n工作技能：伺服器網站管理維護、電腦設備裝配、網路設備設定安裝、網路系統配置、資訊設備環境設定、資訊設備操作檢修\n其他條件：1.具備網路設備（Switch、Router、Firewall、Wireless AP）管理與設定經驗尤佳。\n2.熟悉 TCP/IP、VLAN、VPN、DNS、DHCP 等網路技術尤佳。\n3.具備 Windows Server、Linux Server 維運管理經驗者尤佳。\n4.具備問題分析與故障排除能力，能獨立處理網路及系統異常。\n5.歡迎認真負責、充滿工作熱忱並有團隊合作精神者加入本公司行列。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ovgo",
+    "job_url": "https://www.104.com.tw/job/8ovgo",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ovgo.json",
+    "raw_sha256": "36f5b88f63556ce6ddd8e094bdce2ed7c76879ecf9f1707a4bb66dc9d51ff424",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ovgo"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "company": {
+    "id": "1a2x6bm2vb",
+    "name": "宏韃資訊顧問有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "帶領前端團隊，制定技術路線圖與開發規範，確保交付品質與效率"
+        },
+        {
+          "children": [],
+          "text": "主導前端架構設計，評估並導入新技術並持續優化技術選型"
+        },
+        {
+          "children": [],
+          "text": "推動元件庫（Design System）建置與維護，確保跨產品線UI的一致性"
+        },
+        {
+          "children": [],
+          "text": "制定 Code Review 標準，建立健全的開發流程"
+        },
+        {
+          "children": [],
+          "text": "與產品經理、UI/UX 設計師緊密協作，將設計稿轉化為高品質互動介面"
+        },
+        {
+          "children": [],
+          "text": "監控前端效能指標（Core Web Vitals），主動提出並實施優化方案"
+        },
+        {
+          "children": [],
+          "text": "參與前端人才招募、新人培訓及工程師職涯發展規劃"
+        },
+        {
+          "children": [],
+          "text": "定期向技術主管彙報前端技術進展與風險"
+        },
+        {
+          "children": [],
+          "text": "5 年以上前端開發經驗，並具有至少2年帶領三人以上前端團隊經歷"
+        },
+        {
+          "children": [],
+          "text": "精通 TypeScript，熟悉 Vue 3、React Native"
+        },
+        {
+          "children": [],
+          "text": "深入理解瀏覽器運作機制、CSS 佈局模型與效能優化"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RESTful API 整合，具備良好前後端協作能力"
+        },
+        {
+          "children": [],
+          "text": "有 Monorepo 管理（Turborepo、Nx）或 Micro-frontend 架構設計經驗2、熟悉 CI/CD 流程（GitHub Actions、GitLab CI）"
+        },
+        {
+          "children": [],
+          "text": "具備 AI 輔助開發經驗（如 AI Coding Assistant），能有效運用 AI 工具提升開發效率與程式碼品質"
+        },
+        {
+          "children": [],
+          "text": "有開源專案貢獻或技術社群分享紀錄（文章、演講）"
+        },
+        {
+          "children": [],
+          "text": "具備跨國或遠端團隊管理經驗"
+        },
+        {
+          "children": [],
+          "text": "具備敏捷開發（Agile / Scrum）流程經驗"
+        }
+      ],
+      "text": "【主要職責】\n1、帶領前端團隊，制定技術路線圖與開發規範，確保交付品質與效率\n2、主導前端架構設計，評估並導入新技術並持續優化技術選型\n3、推動元件庫（Design System）建置與維護，確保跨產品線UI的一致性\n4、制定 Code Review 標準，建立健全的開發流程\n5、與產品經理、UI/UX 設計師緊密協作，將設計稿轉化為高品質互動介面\n6、監控前端效能指標（Core Web Vitals），主動提出並實施優化方案\n7、參與前端人才招募、新人培訓及工程師職涯發展規劃\n8、定期向技術主管彙報前端技術進展與風險\n【技術要求】熟悉以下技術內容\nVue 3 / Nuxt.js、React / Next.js / React Native、TypeScript、Pinia / Vuex、Tailwind CSS、Vite / Webpack、Jest / Vitest、Playwright / Cypress、Docker、REST / GraphQL\n【必要條件】\n1、5 年以上前端開發經驗，並具有至少2年帶領三人以上前端團隊經歷\n2、精通 TypeScript，熟悉 Vue 3、React Native\n3、深入理解瀏覽器運作機制、CSS 佈局模型與效能優化\n4、熟悉 RESTful API 整合，具備良好前後端協作能力\n【加分項目】\n1、有 Monorepo 管理（Turborepo、Nx）或 Micro-frontend 架構設計經驗2、熟悉 CI/CD 流程（GitHub Actions、GitLab CI）\n3、具備 AI 輔助開發經驗（如 AI Coding Assistant），能有效運用 AI 工具提升開發效率與程式碼品質\n4、有開源專案貢獻或技術社群分享紀錄（文章、演講）\n5、具備跨國或遠端團隊管理經驗\n6、具備敏捷開發（Agile / Scrum）流程經驗"
+    },
+    "employment_type_raw": "全職",
+    "title": "資深前端工程師"
+  },
+  "location": {
+    "address_raw": "台北市信義區",
+    "raw": "台北市信義區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "有一定的組織協調能力，工作積極、認真、負責，能夠承受一定的工作壓力。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "有一定的組織協調能力，工作積極、認真、負責，能夠承受一定的工作壓力。",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：專科、大學、碩士\n其他條件：有一定的組織協調能力，工作積極、認真、負責，能夠承受一定的工作壓力。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 86
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:54:43+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【主要職責】\n1、帶領前端團隊，制定技術路線圖與開發規範，確保交付品質與效率\n2、主導前端架構設計，評估並導入新技術並持續優化技術選型\n3、推動元件庫（Design System）建置與維護，確保跨產品線UI的一致性\n4、制定 Code Review 標準，建立健全的開發流程\n5、與產品經理、UI/UX 設計師緊密協作，將設計稿轉化為高品質互動介面\n6、監控前端效能指標（Core Web Vitals），主動提出並實施優化方案\n7、參與前端人才招募、新人培訓及工程師職涯發展規劃\n8、定期向技術主管彙報前端技術進展與風險\n【技術要求】熟悉以下技術內容\nVue 3 / Nuxt.js、React / Next.js / React Native、TypeScript、Pinia / Vuex、Tailwind CSS、Vite / Webpack、Jest / Vitest、Playwright / Cypress、Docker、REST / GraphQL\n【必要條件】\n1、5 年以上前端開發經驗，並具有至少2年帶領三人以上前端團隊經歷\n2、精通 TypeScript，熟悉 Vue 3、React Native\n3、深入理解瀏覽器運作機制、CSS 佈局模型與效能優化\n4、熟悉 RESTful API 整合，具備良好前後端協作能力\n【加分項目】\n1、有 Monorepo 管理（Turborepo、Nx）或 Micro-frontend 架構設計經驗2、熟悉 CI/CD 流程（GitHub Actions、GitLab CI）\n3、具備 AI 輔助開發經驗（如 AI Coding Assistant），能有效運用 AI 工具提升開發效率與程式碼品質\n4、有開源專案貢獻或技術社群分享紀錄（文章、演講）\n5、具備跨國或遠端團隊管理經驗\n6、具備敏捷開發（Agile / Scrum）流程經驗",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【主要職責】\n1、帶領前端團隊，制定技術路線圖與開發規範，確保交付品質與效率\n2、主導前端架構設計，評估並導入新技術並持續優化技術選型\n3、推動元件庫（Design System）建置與維護，確保跨產品線UI的一致性\n4、制定 Code Review 標準，建立健全的開發流程\n5、與產品經理、UI/UX 設計師緊密協作，將設計稿轉化為高品質互動介面\n6、監控前端效能指標（Core Web Vitals），主動提出並實施優化方案\n7、參與前端人才招募、新人培訓及工程師職涯發展規劃\n8、定期向技術主管彙報前端技術進展與風險\n【技術要求】熟悉以下技術內容\nVue 3 / Nuxt.js、React / Next.js / React Native、TypeScript、Pinia / Vuex、Tailwind CSS、Vite / Webpack、Jest / Vitest、Playwright / Cypress、Docker、REST / GraphQL\n【必要條件】\n1、5 年以上前端開發經驗，並具有至少2年帶領三人以上前端團隊經歷\n2、精通 TypeScript，熟悉 Vue 3、React Native\n3、深入理解瀏覽器運作機制、CSS 佈局模型與效能優化\n4、熟悉 RESTful API 整合，具備良好前後端協作能力\n【加分項目】\n1、有 Monorepo 管理（Turborepo、Nx）或 Micro-frontend 架構設計經驗2、熟悉 CI/CD 流程（GitHub Actions、GitLab CI）\n3、具備 AI 輔助開發經驗（如 AI Coding Assistant），能有效運用 AI 工具提升開發效率與程式碼品質\n4、有開源專案貢獻或技術社群分享紀錄（文章、演講）\n5、具備跨國或遠端團隊管理經驗\n6、具備敏捷開發（Agile / Scrum）流程經驗"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "有一定的組織協調能力，工作積極、認真、負責，能夠承受一定的工作壓力。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：專科、大學、碩士\n其他條件：有一定的組織協調能力，工作積極、認真、負責，能夠承受一定的工作壓力。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8yigr",
+    "job_url": "https://www.104.com.tw/job/8yigr",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8yigr.json",
+    "raw_sha256": "5990389fa79cb5f806595cba4090a6fe1e466edc76d59ee29fd0db006a41b012",
+    "requested_url": "https://www.104.com.tw/api/jobs/8yigr"
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發與維護 Jira / Kubernetes微服務的工作流程 / 業務流程、可程式化插件，以及跨系統 RESTful API 整合。"
+        },
+        {
+          "children": [],
+          "text": "管理 Jira / OpenProject 服務設定與配置，進行問題排除，並為全球使用者提供技術支援。"
+        },
+        {
+          "children": [],
+          "text": "跨部門合作，支援業務需求並提供技術解決方案。"
+        },
+        {
+          "children": [],
+          "text": "撰寫技術文件 (如 API 文件、模組說明)，確保系統實作的一致性。"
+        },
+        {
+          "children": [],
+          "text": "精通物件導向程式設計 (OOP) 原則，具備良好的程式撰寫習慣、測試與除錯能力。"
+        },
+        {
+          "children": [],
+          "text": "4 年以上 Java 開發經驗，熟悉主流框架 (Spring Framework / Spring Boot、MyBatis、JUnit 等) 與最佳實踐。"
+        },
+        {
+          "children": [],
+          "text": "具備系統整合經驗，熟悉 RESTful API 設計原則、API Gateway/Server 概念，以及至少一種訊息佇列技術（如 Kafka、RabbitMQ）。"
+        },
+        {
+          "children": [],
+          "text": "具備快速學習新技術的能力，邏輯清晰、思維敏捷。"
+        },
+        {
+          "children": [],
+          "text": "擁有良好的協作能力，能清楚表達並與團隊緊密合作。"
+        }
+      ],
+      "text": "工作職責 (Responsibilities)\n•開發與維護 Jira / Kubernetes微服務的工作流程 / 業務流程、可程式化插件，以及跨系統 RESTful API 整合。\n•管理 Jira / OpenProject 服務設定與配置，進行問題排除，並為全球使用者提供技術支援。\n•跨部門合作，支援業務需求並提供技術解決方案。\n•撰寫技術文件 (如 API 文件、模組說明)，確保系統實作的一致性。\n資格條件 (Qualifications)\n•精通物件導向程式設計 (OOP) 原則，具備良好的程式撰寫習慣、測試與除錯能力。\n•4 年以上 Java 開發經驗，熟悉主流框架 (Spring Framework / Spring Boot、MyBatis、JUnit 等) 與最佳實踐。\n•具備系統整合經驗，熟悉 RESTful API 設計原則、API Gateway/Server 概念，以及至少一種訊息佇列技術（如 Kafka、RabbitMQ）。\n•具備快速學習新技術的能力，邏輯清晰、思維敏捷。\n•擁有良好的協作能力，能清楚表達並與團隊緊密合作。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體設計資深工程師(DevOps)_資訊處_研發支援系統整合(內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號(內湖)",
+    "raw": "台北市內湖區瑞光路186號(內湖)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "4年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "4年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "JIRA",
+          "OOP",
+          "Java",
+          "Spring"
+        ],
+        "label": "擅長工具",
+        "text": "JIRA、OOP、Java、Spring"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "系統架構規劃"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、系統架構規劃"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "•具備 Full Stack 前後端開發能力。\n•曾參與大型開源專案或全自研專案的開發與維護。\n•有設計或維運過大型、高可用性 (HA) 系統的經驗。\n•熟悉 Docker / Kubernetes、ELK Stack、Jenkins / GitLab CI或其他相關的任一領域。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "•具備 Full Stack 前後端開發能力。\n•曾參與大型開源專案或全自研專案的開發與維護。\n•有設計或維運過大型、高可用性 (HA) 系統的經驗。\n•熟悉 Docker / Kubernetes、ELK Stack、Jenkins / GitLab CI或其他相關的任一領域。",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "系統架構規劃"
+    ],
+    "text": "工作經歷：4年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：JIRA、OOP、Java、Spring\n工作技能：軟體工程系統開發、軟體程式設計、系統架構規劃\n其他條件：•具備 Full Stack 前後端開發能力。\n•曾參與大型開源專案或全自研專案的開發與維護。\n•有設計或維運過大型、高可用性 (HA) 系統的經驗。\n•熟悉 Docker / Kubernetes、ELK Stack、Jenkins / GitLab CI或其他相關的任一領域。",
+    "tools": [
+      "JIRA",
+      "OOP",
+      "Java",
+      "Spring"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 32
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:42:00+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作職責 (Responsibilities)\n•開發與維護 Jira / Kubernetes微服務的工作流程 / 業務流程、可程式化插件，以及跨系統 RESTful API 整合。\n•管理 Jira / OpenProject 服務設定與配置，進行問題排除，並為全球使用者提供技術支援。\n•跨部門合作，支援業務需求並提供技術解決方案。\n•撰寫技術文件 (如 API 文件、模組說明)，確保系統實作的一致性。\n資格條件 (Qualifications)\n•精通物件導向程式設計 (OOP) 原則，具備良好的程式撰寫習慣、測試與除錯能力。\n•4 年以上 Java 開發經驗，熟悉主流框架 (Spring Framework / Spring Boot、MyBatis、JUnit 等) 與最佳實踐。\n•具備系統整合經驗，熟悉 RESTful API 設計原則、API Gateway/Server 概念，以及至少一種訊息佇列技術（如 Kafka、RabbitMQ）。\n•具備快速學習新技術的能力，邏輯清晰、思維敏捷。\n•擁有良好的協作能力，能清楚表達並與團隊緊密合作。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號(內湖)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作職責 (Responsibilities)\n•開發與維護 Jira / Kubernetes微服務的工作流程 / 業務流程、可程式化插件，以及跨系統 RESTful API 整合。\n•管理 Jira / OpenProject 服務設定與配置，進行問題排除，並為全球使用者提供技術支援。\n•跨部門合作，支援業務需求並提供技術解決方案。\n•撰寫技術文件 (如 API 文件、模組說明)，確保系統實作的一致性。\n資格條件 (Qualifications)\n•精通物件導向程式設計 (OOP) 原則，具備良好的程式撰寫習慣、測試與除錯能力。\n•4 年以上 Java 開發經驗，熟悉主流框架 (Spring Framework / Spring Boot、MyBatis、JUnit 等) 與最佳實踐。\n•具備系統整合經驗，熟悉 RESTful API 設計原則、API Gateway/Server 概念，以及至少一種訊息佇列技術（如 Kafka、RabbitMQ）。\n•具備快速學習新技術的能力，邏輯清晰、思維敏捷。\n•擁有良好的協作能力，能清楚表達並與團隊緊密合作。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "4年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "JIRA",
+            "OOP",
+            "Java",
+            "Spring"
+          ],
+          "label": "擅長工具",
+          "text": "JIRA、OOP、Java、Spring",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "系統架構規劃"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、系統架構規劃",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "•具備 Full Stack 前後端開發能力。\n•曾參與大型開源專案或全自研專案的開發與維護。\n•有設計或維運過大型、高可用性 (HA) 系統的經驗。\n•熟悉 Docker / Kubernetes、ELK Stack、Jenkins / GitLab CI或其他相關的任一領域。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：4年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：JIRA、OOP、Java、Spring\n工作技能：軟體工程系統開發、軟體程式設計、系統架構規劃\n其他條件：•具備 Full Stack 前後端開發能力。\n•曾參與大型開源專案或全自研專案的開發與維護。\n•有設計或維運過大型、高可用性 (HA) 系統的經驗。\n•熟悉 Docker / Kubernetes、ELK Stack、Jenkins / GitLab CI或其他相關的任一領域。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8nr6m",
+    "job_url": "https://www.104.com.tw/job/8nr6m",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8nr6m.json",
+    "raw_sha256": "8698a84102171bd456af7a96a21c51551cdcd352a5920ce0e39bff39d3fea6db",
+    "requested_url": "https://www.104.com.tw/api/jobs/8nr6m"
+  }
+}

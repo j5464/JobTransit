@@ -1,0 +1,179 @@
+{
+  "company": {
+    "id": "5xvoi9k",
+    "name": "凌群資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "通訊軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "至少1-2年C#開發經驗，熟悉WinForms和WebForms。\n熟悉ASP.NET Core MVC或Blazor的經驗者優先。\n理解LINQ、非同步程式設計（async/await）和泛型。\n具備Entity Framework Core或SQL資料庫操作經驗。\n熟悉Git或其他版本控制工具。\n了解單元測試框架（如xUnit、NUnit）者佳。\n良好的問題解決能力和邏輯思維。\n能獨立工作並具備團隊合作精神。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師(C#)_台北"
+  },
+  "location": {
+    "address_raw": "台北市萬華區峨眉街115號3樓之1",
+    "raw": "台北市萬華區峨眉街115號3樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "C#",
+          "WinForm",
+          "ASP.NET"
+        ],
+        "label": "擅長工具",
+        "text": "C#、WinForm、ASP.NET"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "資料庫程式設計",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、資料庫程式設計、軟體工程系統開發"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "資料庫程式設計",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n擅長工具：C#、WinForm、ASP.NET\n工作技能：軟體程式設計、資料庫程式設計、軟體工程系統開發",
+    "tools": [
+      "C#",
+      "WinForm",
+      "ASP.NET"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 92
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:09:14+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "至少1-2年C#開發經驗，熟悉WinForms和WebForms。\n熟悉ASP.NET Core MVC或Blazor的經驗者優先。\n理解LINQ、非同步程式設計（async/await）和泛型。\n具備Entity Framework Core或SQL資料庫操作經驗。\n熟悉Git或其他版本控制工具。\n了解單元測試框架（如xUnit、NUnit）者佳。\n良好的問題解決能力和邏輯思維。\n能獨立工作並具備團隊合作精神。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "通訊軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、通訊軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市萬華區峨眉街115號3樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "至少1-2年C#開發經驗，熟悉WinForms和WebForms。\n熟悉ASP.NET Core MVC或Blazor的經驗者優先。\n理解LINQ、非同步程式設計（async/await）和泛型。\n具備Entity Framework Core或SQL資料庫操作經驗。\n熟悉Git或其他版本控制工具。\n了解單元測試框架（如xUnit、NUnit）者佳。\n良好的問題解決能力和邏輯思維。\n能獨立工作並具備團隊合作精神。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "WinForm",
+            "ASP.NET"
+          ],
+          "label": "擅長工具",
+          "text": "C#、WinForm、ASP.NET",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "資料庫程式設計",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、資料庫程式設計、軟體工程系統開發",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n擅長工具：C#、WinForm、ASP.NET\n工作技能：軟體程式設計、資料庫程式設計、軟體工程系統開發"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8nere",
+    "job_url": "https://www.104.com.tw/job/8nere",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8nere.json",
+    "raw_sha256": "510fe02cdf2944d631e77d7507cdf1b9313f28b641e6d84743a93adf256439fc",
+    "requested_url": "https://www.104.com.tw/api/jobs/8nere"
+  }
+}

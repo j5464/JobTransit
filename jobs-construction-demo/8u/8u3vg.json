@@ -1,0 +1,259 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "工作內容:"
+        },
+        {
+          "children": [],
+          "text": "負責機器人馬達驅動器（Motor Driver）之韌體架構設計與開發。"
+        },
+        {
+          "children": [],
+          "text": "使用 C/C++ 語言進行 MCU/DSP 韌體撰寫，並實作馬達控制演算法（如 FOC、PID 參數調適）。"
+        },
+        {
+          "children": [],
+          "text": "開發與驗證馬達驅控之功能安全（Functional Safety）機制。"
+        },
+        {
+          "children": [],
+          "text": "負責產品性能測試、硬體周邊訊號量測，並開發測試流程之自動化程式。"
+        },
+        {
+          "children": [],
+          "text": "配合客戶專案需求，於 On-site 進行系統整合測試與即時問題排除。"
+        },
+        {
+          "children": [],
+          "text": "撰寫工程規格、測試計畫等技術文件，並執行工程樣品製作與設計變更（ECO/DCO）評估。"
+        },
+        {
+          "children": [],
+          "text": "工作條件技能 :"
+        },
+        {
+          "children": [],
+          "text": "電機、電子、機械、資工或相關工程科系學士（含）以上學歷。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 C 語言程式設計，具備良好的編碼規範與模組化設計概念。"
+        },
+        {
+          "children": [],
+          "text": "具備 DSP / MCU 韌體開發實務經驗（Microchip、TI 或 ST 微控制器皆可）。"
+        },
+        {
+          "children": [],
+          "text": "具備馬達驅動控制器（Motor Controller）相關開發經驗，熟悉閉迴路控制。"
+        },
+        {
+          "children": [],
+          "text": "熟悉基本電子儀器操作（如示波器、邏輯分析儀、萬用電表等）以進行電路板訊號量測與除錯。"
+        },
+        {
+          "children": [],
+          "text": "熟悉常見硬體通訊介面（如 RS232, RS485, I2C, SPI 等）。"
+        }
+      ],
+      "text": "電源產品\n• 工作內容:\n• 負責機器人馬達驅動器（Motor Driver）之韌體架構設計與開發。\n• 使用 C/C++ 語言進行 MCU/DSP 韌體撰寫，並實作馬達控制演算法（如 FOC、PID 參數調適）。\n• 開發與驗證馬達驅控之功能安全（Functional Safety）機制。\n• 負責產品性能測試、硬體周邊訊號量測，並開發測試流程之自動化程式。\n• 配合客戶專案需求，於 On-site 進行系統整合測試與即時問題排除。\n• 撰寫工程規格、測試計畫等技術文件，並執行工程樣品製作與設計變更（ECO/DCO）評估。\n• 工作條件技能 :\n1. 電機、電子、機械、資工或相關工程科系學士（含）以上學歷。\n2. 熟悉 C 語言程式設計，具備良好的編碼規範與模組化設計概念。\n3. 具備 DSP / MCU 韌體開發實務經驗（Microchip、TI 或 ST 微控制器皆可）。\n4. 具備馬達驅動控制器（Motor Controller）相關開發經驗，熟悉閉迴路控制。\n5. 熟悉基本電子儀器操作（如示波器、邏輯分析儀、萬用電表等）以進行電路板訊號量測與除錯。\n6. 熟悉常見硬體通訊介面（如 RS232, RS485, I2C, SPI 等）。"
+    },
+    "employment_type_raw": "全職",
+    "title": "機器人系統韌體設計工程師_輕型動力電源解決方案產品發展部(中壢)"
+  },
+  "location": {
+    "address_raw": "桃園市中壢區東園路16號",
+    "raw": "桃園市中壢區東園路16號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關"
+      },
+      {
+        "items": [
+          "MCU",
+          "C"
+        ],
+        "label": "擅長工具",
+        "text": "MCU、C"
+      },
+      {
+        "items": [
+          "韌體工程開發",
+          "軟體程式設計",
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "韌體工程開發、軟體程式設計、韌體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具備 功能安全規範（如 IEC 61508 SIL 或 ISO 13849 PL） 開發與驗證經驗者尤佳。\n2. 熟悉高階工業通訊協定，特別是 EtherCAT、CAN / CANopen 或 Modbus。\n3. 具備量產導入與自動化測試設備（ATE）對接經驗。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關"
+    ],
+    "other_text": "1. 具備 功能安全規範（如 IEC 61508 SIL 或 ISO 13849 PL） 開發與驗證經驗者尤佳。\n2. 熟悉高階工業通訊協定，特別是 EtherCAT、CAN / CANopen 或 Modbus。\n3. 具備量產導入與自動化測試設備（ATE）對接經驗。",
+    "skills": [
+      "韌體工程開發",
+      "軟體程式設計",
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：碩士\n科系要求：電機電子工程相關\n擅長工具：MCU、C\n工作技能：韌體工程開發、軟體程式設計、韌體程式設計\n其他條件：1. 具備 功能安全規範（如 IEC 61508 SIL 或 ISO 13849 PL） 開發與驗證經驗者尤佳。\n2. 熟悉高階工業通訊協定，特別是 EtherCAT、CAN / CANopen 或 Modbus。\n3. 具備量產導入與自動化測試設備（ATE）對接經驗。",
+    "tools": [
+      "MCU",
+      "C"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 85
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:51:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "電源產品\n• 工作內容:\n• 負責機器人馬達驅動器（Motor Driver）之韌體架構設計與開發。\n• 使用 C/C++ 語言進行 MCU/DSP 韌體撰寫，並實作馬達控制演算法（如 FOC、PID 參數調適）。\n• 開發與驗證馬達驅控之功能安全（Functional Safety）機制。\n• 負責產品性能測試、硬體周邊訊號量測，並開發測試流程之自動化程式。\n• 配合客戶專案需求，於 On-site 進行系統整合測試與即時問題排除。\n• 撰寫工程規格、測試計畫等技術文件，並執行工程樣品製作與設計變更（ECO/DCO）評估。\n• 工作條件技能 :\n1. 電機、電子、機械、資工或相關工程科系學士（含）以上學歷。\n2. 熟悉 C 語言程式設計，具備良好的編碼規範與模組化設計概念。\n3. 具備 DSP / MCU 韌體開發實務經驗（Microchip、TI 或 ST 微控制器皆可）。\n4. 具備馬達驅動控制器（Motor Controller）相關開發經驗，熟悉閉迴路控制。\n5. 熟悉基本電子儀器操作（如示波器、邏輯分析儀、萬用電表等）以進行電路板訊號量測與除錯。\n6. 熟悉常見硬體通訊介面（如 RS232, RS485, I2C, SPI 等）。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市中壢區東園路16號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "電源產品\n• 工作內容:\n• 負責機器人馬達驅動器（Motor Driver）之韌體架構設計與開發。\n• 使用 C/C++ 語言進行 MCU/DSP 韌體撰寫，並實作馬達控制演算法（如 FOC、PID 參數調適）。\n• 開發與驗證馬達驅控之功能安全（Functional Safety）機制。\n• 負責產品性能測試、硬體周邊訊號量測，並開發測試流程之自動化程式。\n• 配合客戶專案需求，於 On-site 進行系統整合測試與即時問題排除。\n• 撰寫工程規格、測試計畫等技術文件，並執行工程樣品製作與設計變更（ECO/DCO）評估。\n• 工作條件技能 :\n1. 電機、電子、機械、資工或相關工程科系學士（含）以上學歷。\n2. 熟悉 C 語言程式設計，具備良好的編碼規範與模組化設計概念。\n3. 具備 DSP / MCU 韌體開發實務經驗（Microchip、TI 或 ST 微控制器皆可）。\n4. 具備馬達驅動控制器（Motor Controller）相關開發經驗，熟悉閉迴路控制。\n5. 熟悉基本電子儀器操作（如示波器、邏輯分析儀、萬用電表等）以進行電路板訊號量測與除錯。\n6. 熟悉常見硬體通訊介面（如 RS232, RS485, I2C, SPI 等）。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MCU",
+            "C"
+          ],
+          "label": "擅長工具",
+          "text": "MCU、C",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "韌體工程開發",
+            "軟體程式設計",
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "韌體工程開發、軟體程式設計、韌體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具備 功能安全規範（如 IEC 61508 SIL 或 ISO 13849 PL） 開發與驗證經驗者尤佳。\n2. 熟悉高階工業通訊協定，特別是 EtherCAT、CAN / CANopen 或 Modbus。\n3. 具備量產導入與自動化測試設備（ATE）對接經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：碩士\n科系要求：電機電子工程相關\n擅長工具：MCU、C\n工作技能：韌體工程開發、軟體程式設計、韌體程式設計\n其他條件：1. 具備 功能安全規範（如 IEC 61508 SIL 或 ISO 13849 PL） 開發與驗證經驗者尤佳。\n2. 熟悉高階工業通訊協定，特別是 EtherCAT、CAN / CANopen 或 Modbus。\n3. 具備量產導入與自動化測試設備（ATE）對接經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8u3vg",
+    "job_url": "https://www.104.com.tw/job/8u3vg",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8u3vg.json",
+    "raw_sha256": "f3751d725b31457bc7578278440146c2d0ecba14a6cd40bfaa8ae7ce69be8111",
+    "requested_url": "https://www.104.com.tw/api/jobs/8u3vg"
+  }
+}

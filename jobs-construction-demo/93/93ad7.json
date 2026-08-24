@@ -1,0 +1,198 @@
+{
+  "company": {
+    "id": "at7ooag",
+    "name": "天剛資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "軟體工程師",
+      "MIS／網管主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責公司資訊設備（PC、Notebook、印表機及周邊設備）之安裝、設定、維護與故障排除，更新及管理。"
+        },
+        {
+          "children": [],
+          "text": "維護公司網路架構與相關設備。"
+        },
+        {
+          "children": [],
+          "text": "管理公司帳號及權限。"
+        },
+        {
+          "children": [],
+          "text": "維護 Windows Server、Hyper-V 虛擬化環境及相關基礎服務。"
+        },
+        {
+          "children": [],
+          "text": "維護 Azure 雲端服務及 Microsoft 365 相關管理作業。"
+        },
+        {
+          "children": [],
+          "text": "維護電子發票 Turnkey 系統，包含日常監控、異常排除、憑證管理及與財政部平台相關作業。"
+        },
+        {
+          "children": [],
+          "text": "負責資訊設備採購、資產管理、定期盤點及生命週期管理。"
+        },
+        {
+          "children": [],
+          "text": "建立並落實資訊管理制度、備份機制、資訊安全規範及災難復原流程，降低資訊安全與營運風險。"
+        },
+        {
+          "children": [],
+          "text": "處理各類資訊系統、網路及使用者問題，提供即時技術支援，確保公司資訊環境穩定運作。"
+        }
+      ],
+      "text": "1.負責公司資訊設備（PC、Notebook、印表機及周邊設備）之安裝、設定、維護與故障排除，更新及管理。\n2.維護公司網路架構與相關設備。\n3.管理公司帳號及權限。\n4.維護 Windows Server、Hyper-V 虛擬化環境及相關基礎服務。\n5.維護 Azure 雲端服務及 Microsoft 365 相關管理作業。\n6.維護電子發票 Turnkey 系統，包含日常監控、異常排除、憑證管理及與財政部平台相關作業。\n7.負責資訊設備採購、資產管理、定期盤點及生命週期管理。\n8.建立並落實資訊管理制度、備份機制、資訊安全規範及災難復原流程，降低資訊安全與營運風險。\n9.處理各類資訊系統、網路及使用者問題，提供即時技術支援，確保公司資訊環境穩定運作。"
+    },
+    "employment_type_raw": "全職",
+    "title": "MIS/系統工程師"
+  },
+  "location": {
+    "address_raw": "台北市大同區承德路二段81號8樓之2",
+    "raw": "台北市大同區承德路二段81號8樓之2"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "需具備以下一項以上實務經驗：\n1.Windows Server 管理與維護\n2.Hyper-V 虛擬化環境管理\n3.Microsoft 365／Azure 管理\n4.Firewall、Switch、Router 等網路設備設定與維護\n5.電腦設備安裝、維護及故障排除\n6.網路架構規劃與管理\n7.資料備份、還原及災難復原規劃\n8.資訊設備採購、資產管理及盤點\n9.電子發票 Turnkey 系統維護與管理\n【加分條件】\n具備以下任一項經驗者尤佳：\n1.PHP、MySQL 系統開發或維護經驗\n2.VB6 維護經驗（公司既有系統）\n3.Microsoft Azure 雲端平台管理經驗\n4.Microsoft 365 管理經驗\n5.Hyper-V 建置及維護經驗\n6.FortiGate 或其他企業級 Firewall 管理經驗\n7.電子發票 Turnkey、電子發票交換或財政部介接系統相關經驗\n8.PowerShell 自動化管理或批次腳本撰寫能力"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "需具備以下一項以上實務經驗：\n1.Windows Server 管理與維護\n2.Hyper-V 虛擬化環境管理\n3.Microsoft 365／Azure 管理\n4.Firewall、Switch、Router 等網路設備設定與維護\n5.電腦設備安裝、維護及故障排除\n6.網路架構規劃與管理\n7.資料備份、還原及災難復原規劃\n8.資訊設備採購、資產管理及盤點\n9.電子發票 Turnkey 系統維護與管理\n【加分條件】\n具備以下任一項經驗者尤佳：\n1.PHP、MySQL 系統開發或維護經驗\n2.VB6 維護經驗（公司既有系統）\n3.Microsoft Azure 雲端平台管理經驗\n4.Microsoft 365 管理經驗\n5.Hyper-V 建置及維護經驗\n6.FortiGate 或其他企業級 Firewall 管理經驗\n7.電子發票 Turnkey、電子發票交換或財政部介接系統相關經驗\n8.PowerShell 自動化管理或批次腳本撰寫能力",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關\n其他條件：需具備以下一項以上實務經驗：\n1.Windows Server 管理與維護\n2.Hyper-V 虛擬化環境管理\n3.Microsoft 365／Azure 管理\n4.Firewall、Switch、Router 等網路設備設定與維護\n5.電腦設備安裝、維護及故障排除\n6.網路架構規劃與管理\n7.資料備份、還原及災難復原規劃\n8.資訊設備採購、資產管理及盤點\n9.電子發票 Turnkey 系統維護與管理\n【加分條件】\n具備以下任一項經驗者尤佳：\n1.PHP、MySQL 系統開發或維護經驗\n2.VB6 維護經驗（公司既有系統）\n3.Microsoft Azure 雲端平台管理經驗\n4.Microsoft 365 管理經驗\n5.Hyper-V 建置及維護經驗\n6.FortiGate 或其他企業級 Firewall 管理經驗\n7.電子發票 Turnkey、電子發票交換或財政部介接系統相關經驗\n8.PowerShell 自動化管理或批次腳本撰寫能力",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:56:55+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責公司資訊設備（PC、Notebook、印表機及周邊設備）之安裝、設定、維護與故障排除，更新及管理。\n2.維護公司網路架構與相關設備。\n3.管理公司帳號及權限。\n4.維護 Windows Server、Hyper-V 虛擬化環境及相關基礎服務。\n5.維護 Azure 雲端服務及 Microsoft 365 相關管理作業。\n6.維護電子發票 Turnkey 系統，包含日常監控、異常排除、憑證管理及與財政部平台相關作業。\n7.負責資訊設備採購、資產管理、定期盤點及生命週期管理。\n8.建立並落實資訊管理制度、備份機制、資訊安全規範及災難復原流程，降低資訊安全與營運風險。\n9.處理各類資訊系統、網路及使用者問題，提供即時技術支援，確保公司資訊環境穩定運作。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "軟體工程師",
+            "MIS／網管主管"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、軟體工程師、MIS／網管主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大同區承德路二段81號8樓之2",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責公司資訊設備（PC、Notebook、印表機及周邊設備）之安裝、設定、維護與故障排除，更新及管理。\n2.維護公司網路架構與相關設備。\n3.管理公司帳號及權限。\n4.維護 Windows Server、Hyper-V 虛擬化環境及相關基礎服務。\n5.維護 Azure 雲端服務及 Microsoft 365 相關管理作業。\n6.維護電子發票 Turnkey 系統，包含日常監控、異常排除、憑證管理及與財政部平台相關作業。\n7.負責資訊設備採購、資產管理、定期盤點及生命週期管理。\n8.建立並落實資訊管理制度、備份機制、資訊安全規範及災難復原流程，降低資訊安全與營運風險。\n9.處理各類資訊系統、網路及使用者問題，提供即時技術支援，確保公司資訊環境穩定運作。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "需具備以下一項以上實務經驗：\n1.Windows Server 管理與維護\n2.Hyper-V 虛擬化環境管理\n3.Microsoft 365／Azure 管理\n4.Firewall、Switch、Router 等網路設備設定與維護\n5.電腦設備安裝、維護及故障排除\n6.網路架構規劃與管理\n7.資料備份、還原及災難復原規劃\n8.資訊設備採購、資產管理及盤點\n9.電子發票 Turnkey 系統維護與管理\n【加分條件】\n具備以下任一項經驗者尤佳：\n1.PHP、MySQL 系統開發或維護經驗\n2.VB6 維護經驗（公司既有系統）\n3.Microsoft Azure 雲端平台管理經驗\n4.Microsoft 365 管理經驗\n5.Hyper-V 建置及維護經驗\n6.FortiGate 或其他企業級 Firewall 管理經驗\n7.電子發票 Turnkey、電子發票交換或財政部介接系統相關經驗\n8.PowerShell 自動化管理或批次腳本撰寫能力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關\n其他條件：需具備以下一項以上實務經驗：\n1.Windows Server 管理與維護\n2.Hyper-V 虛擬化環境管理\n3.Microsoft 365／Azure 管理\n4.Firewall、Switch、Router 等網路設備設定與維護\n5.電腦設備安裝、維護及故障排除\n6.網路架構規劃與管理\n7.資料備份、還原及災難復原規劃\n8.資訊設備採購、資產管理及盤點\n9.電子發票 Turnkey 系統維護與管理\n【加分條件】\n具備以下任一項經驗者尤佳：\n1.PHP、MySQL 系統開發或維護經驗\n2.VB6 維護經驗（公司既有系統）\n3.Microsoft Azure 雲端平台管理經驗\n4.Microsoft 365 管理經驗\n5.Hyper-V 建置及維護經驗\n6.FortiGate 或其他企業級 Firewall 管理經驗\n7.電子發票 Turnkey、電子發票交換或財政部介接系統相關經驗\n8.PowerShell 自動化管理或批次腳本撰寫能力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93ad7",
+    "job_url": "https://www.104.com.tw/job/93ad7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93ad7.json",
+    "raw_sha256": "661e5f62f5288f8b782e7dd867520a0ae9914666969f77d97b68ef27f3f246e3",
+    "requested_url": "https://www.104.com.tw/api/jobs/93ad7"
+  }
+}

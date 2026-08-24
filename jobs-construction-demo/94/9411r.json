@@ -1,0 +1,254 @@
+{
+  "company": {
+    "id": "1a2x6bjx02",
+    "name": "瓦雷科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "AI工程師",
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI 推理系統與 CXL 架構整合：將主流 AI 推理框架（如 vLLM, TensorRT-LLM, SGLang"
+        },
+        {
+          "children": [],
+          "text": "KV Cache 管理與策略優化：設計與實作基於 CXL / PCIe 介面的高效能 KV Cache"
+        },
+        {
+          "children": [],
+          "text": "系統效能分析與瓶頸突破：使用 Profiling 工具深入分析 CXL 頻寬、延遲（Latency）、"
+        },
+        {
+          "children": [],
+          "text": "高效能 I/O 與記憶體堆疊開發：結合高效能記憶體管理與 User-space 技術（如 SPDK、"
+        },
+        {
+          "children": [],
+          "text": "PoC 展示與技術驗證：建立端到端的 Performance Benchmark 流程與 Monitoring"
+        }
+      ],
+      "text": "我們正在尋找對 AI 系統架構 與 下一代記憶體加速技術 充滿熱情的 AI 系統工程師！\n在這份工作中，你將站在 AI 算力架構的最前線，負責將大語言模型（LLM）與 Agentic AI 推理（Inference）系統，深度整合至公司自研的 CXL Memory Device（CXL記憶體裝置） 系統中。你將透過軟硬體協同設計（HW/SW Co-design），突破當前 GPU 記憶體牆（Memory Wall）的瓶頸，重新定義大規模 AI 推理的效能上限與成本結構。\n1.AI 推理系統與 CXL 架構整合：將主流 AI 推理框架（如 vLLM, TensorRT-LLM, SGLang\n等）與 CXL 記憶體層級（Memory Tiering）進行深度整合與效能調優。\n2.KV Cache 管理與策略優化：設計與實作基於 CXL / PCIe 介面的高效能 KV Cache\nOffloading/Tiering 機制，擴大 Context Window 並提升 Long-Context 推理吞吐量。\n3.系統效能分析與瓶頸突破：使用 Profiling 工具深入分析 CXL 頻寬、延遲（Latency）、\nPCIe 通道負載以及 GPU-Host 間的 Data Path，持續尋找並解決 Bottleneck。\n4.高效能 I/O 與記憶體堆疊開發：結合高效能記憶體管理與 User-space 技術（如 SPDK、\nZero-copy 傳輸機制），極致化數據讀寫與搬移效率。\n5.PoC 展示與技術驗證：建立端到端的 Performance Benchmark 流程與 Monitoring\nDashboard（如 Grafana/Prometheus），展示 CXL Memory 在 AI Inference 場景下的\n卓越效能。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI Systems Engineer"
+  },
+  "location": {
+    "address_raw": "新竹市東區科研路八號4樓之3 (竹科X軟體園區)",
+    "raw": "新竹市東區科研路八號4樓之3 (竹科X軟體園區)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Shell",
+          "Python",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Shell、Python、C++"
+      },
+      {
+        "items": [
+          "AI",
+          "語言模型",
+          "軟體程式設計",
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "AI、語言模型、軟體程式設計、韌體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉至少一種主流 LLM 推理框架（vLLM, SGLang, TensorRT-LLM 等）的內部運作機制與架構。\n•系統底層知識：理解 Linux 記憶體管理（NUMA, Virtual Memory, Page Fault, DMA）\n與 PCIe/NVMe 數據傳輸機制。\n•Profiling 能力：熟練使用效能分析工具（如 perf, NVIDIA Nsight, Linux tracing tools）\n來診斷 CPU/GPU/Memory 系統瓶頸。\n•程式語言：精通 C/C++ 與 Python，具備優良的系統程式設計（Systems\nProgramming）能力與程式碼架構思維。\n【加分條件】\n1.CXL / 記憶體層級經驗：了解 CXL (Compute Express Link) 規範（特別是 CXL 2.0/3.0\nType 3 Memory Devices）或 CXL Memory Tiering 機制。\n2.User-Space Storage / I/O：具備 SPDK, DPDK 或 User-space Memory Ring Buffer 開\n發經驗者佳。\n3.KV Cache 系統研發：曾研究或開發過 disaggregated inference、LMCache、\nChunked Prefill 或先進 KV Cache 管理演算法。\n4.GPU 異質運算：理解 CUDA 記憶體模型（Host/Device Memory, Unified Memory）與\nGPU-to-Host 傳輸優化。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "熟悉至少一種主流 LLM 推理框架（vLLM, SGLang, TensorRT-LLM 等）的內部運作機制與架構。\n•系統底層知識：理解 Linux 記憶體管理（NUMA, Virtual Memory, Page Fault, DMA）\n與 PCIe/NVMe 數據傳輸機制。\n•Profiling 能力：熟練使用效能分析工具（如 perf, NVIDIA Nsight, Linux tracing tools）\n來診斷 CPU/GPU/Memory 系統瓶頸。\n•程式語言：精通 C/C++ 與 Python，具備優良的系統程式設計（Systems\nProgramming）能力與程式碼架構思維。\n【加分條件】\n1.CXL / 記憶體層級經驗：了解 CXL (Compute Express Link) 規範（特別是 CXL 2.0/3.0\nType 3 Memory Devices）或 CXL Memory Tiering 機制。\n2.User-Space Storage / I/O：具備 SPDK, DPDK 或 User-space Memory Ring Buffer 開\n發經驗者佳。\n3.KV Cache 系統研發：曾研究或開發過 disaggregated inference、LMCache、\nChunked Prefill 或先進 KV Cache 管理演算法。\n4.GPU 異質運算：理解 CUDA 記憶體模型（Host/Device Memory, Unified Memory）與\nGPU-to-Host 傳輸優化。",
+    "skills": [
+      "AI",
+      "語言模型",
+      "軟體程式設計",
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Shell、Python、C++\n工作技能：AI、語言模型、軟體程式設計、韌體程式設計\n其他條件：熟悉至少一種主流 LLM 推理框架（vLLM, SGLang, TensorRT-LLM 等）的內部運作機制與架構。\n•系統底層知識：理解 Linux 記憶體管理（NUMA, Virtual Memory, Page Fault, DMA）\n與 PCIe/NVMe 數據傳輸機制。\n•Profiling 能力：熟練使用效能分析工具（如 perf, NVIDIA Nsight, Linux tracing tools）\n來診斷 CPU/GPU/Memory 系統瓶頸。\n•程式語言：精通 C/C++ 與 Python，具備優良的系統程式設計（Systems\nProgramming）能力與程式碼架構思維。\n【加分條件】\n1.CXL / 記憶體層級經驗：了解 CXL (Compute Express Link) 規範（特別是 CXL 2.0/3.0\nType 3 Memory Devices）或 CXL Memory Tiering 機制。\n2.User-Space Storage / I/O：具備 SPDK, DPDK 或 User-space Memory Ring Buffer 開\n發經驗者佳。\n3.KV Cache 系統研發：曾研究或開發過 disaggregated inference、LMCache、\nChunked Prefill 或先進 KV Cache 管理演算法。\n4.GPU 異質運算：理解 CUDA 記憶體模型（Host/Device Memory, Unified Memory）與\nGPU-to-Host 傳輸優化。",
+    "tools": [
+      "Linux",
+      "Shell",
+      "Python",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 70
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:14:13+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們正在尋找對 AI 系統架構 與 下一代記憶體加速技術 充滿熱情的 AI 系統工程師！\n在這份工作中，你將站在 AI 算力架構的最前線，負責將大語言模型（LLM）與 Agentic AI 推理（Inference）系統，深度整合至公司自研的 CXL Memory Device（CXL記憶體裝置） 系統中。你將透過軟硬體協同設計（HW/SW Co-design），突破當前 GPU 記憶體牆（Memory Wall）的瓶頸，重新定義大規模 AI 推理的效能上限與成本結構。\n1.AI 推理系統與 CXL 架構整合：將主流 AI 推理框架（如 vLLM, TensorRT-LLM, SGLang\n等）與 CXL 記憶體層級（Memory Tiering）進行深度整合與效能調優。\n2.KV Cache 管理與策略優化：設計與實作基於 CXL / PCIe 介面的高效能 KV Cache\nOffloading/Tiering 機制，擴大 Context Window 並提升 Long-Context 推理吞吐量。\n3.系統效能分析與瓶頸突破：使用 Profiling 工具深入分析 CXL 頻寬、延遲（Latency）、\nPCIe 通道負載以及 GPU-Host 間的 Data Path，持續尋找並解決 Bottleneck。\n4.高效能 I/O 與記憶體堆疊開發：結合高效能記憶體管理與 User-space 技術（如 SPDK、\nZero-copy 傳輸機制），極致化數據讀寫與搬移效率。\n5.PoC 展示與技術驗證：建立端到端的 Performance Benchmark 流程與 Monitoring\nDashboard（如 Grafana/Prometheus），展示 CXL Memory 在 AI Inference 場景下的\n卓越效能。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "AI工程師",
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、AI工程師、系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東區科研路八號4樓之3 (竹科X軟體園區)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們正在尋找對 AI 系統架構 與 下一代記憶體加速技術 充滿熱情的 AI 系統工程師！\n在這份工作中，你將站在 AI 算力架構的最前線，負責將大語言模型（LLM）與 Agentic AI 推理（Inference）系統，深度整合至公司自研的 CXL Memory Device（CXL記憶體裝置） 系統中。你將透過軟硬體協同設計（HW/SW Co-design），突破當前 GPU 記憶體牆（Memory Wall）的瓶頸，重新定義大規模 AI 推理的效能上限與成本結構。\n1.AI 推理系統與 CXL 架構整合：將主流 AI 推理框架（如 vLLM, TensorRT-LLM, SGLang\n等）與 CXL 記憶體層級（Memory Tiering）進行深度整合與效能調優。\n2.KV Cache 管理與策略優化：設計與實作基於 CXL / PCIe 介面的高效能 KV Cache\nOffloading/Tiering 機制，擴大 Context Window 並提升 Long-Context 推理吞吐量。\n3.系統效能分析與瓶頸突破：使用 Profiling 工具深入分析 CXL 頻寬、延遲（Latency）、\nPCIe 通道負載以及 GPU-Host 間的 Data Path，持續尋找並解決 Bottleneck。\n4.高效能 I/O 與記憶體堆疊開發：結合高效能記憶體管理與 User-space 技術（如 SPDK、\nZero-copy 傳輸機制），極致化數據讀寫與搬移效率。\n5.PoC 展示與技術驗證：建立端到端的 Performance Benchmark 流程與 Monitoring\nDashboard（如 Grafana/Prometheus），展示 CXL Memory 在 AI Inference 場景下的\n卓越效能。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Shell",
+            "Python",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Shell、Python、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "語言模型",
+            "軟體程式設計",
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "AI、語言模型、軟體程式設計、韌體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉至少一種主流 LLM 推理框架（vLLM, SGLang, TensorRT-LLM 等）的內部運作機制與架構。\n•系統底層知識：理解 Linux 記憶體管理（NUMA, Virtual Memory, Page Fault, DMA）\n與 PCIe/NVMe 數據傳輸機制。\n•Profiling 能力：熟練使用效能分析工具（如 perf, NVIDIA Nsight, Linux tracing tools）\n來診斷 CPU/GPU/Memory 系統瓶頸。\n•程式語言：精通 C/C++ 與 Python，具備優良的系統程式設計（Systems\nProgramming）能力與程式碼架構思維。\n【加分條件】\n1.CXL / 記憶體層級經驗：了解 CXL (Compute Express Link) 規範（特別是 CXL 2.0/3.0\nType 3 Memory Devices）或 CXL Memory Tiering 機制。\n2.User-Space Storage / I/O：具備 SPDK, DPDK 或 User-space Memory Ring Buffer 開\n發經驗者佳。\n3.KV Cache 系統研發：曾研究或開發過 disaggregated inference、LMCache、\nChunked Prefill 或先進 KV Cache 管理演算法。\n4.GPU 異質運算：理解 CUDA 記憶體模型（Host/Device Memory, Unified Memory）與\nGPU-to-Host 傳輸優化。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Shell、Python、C++\n工作技能：AI、語言模型、軟體程式設計、韌體程式設計\n其他條件：熟悉至少一種主流 LLM 推理框架（vLLM, SGLang, TensorRT-LLM 等）的內部運作機制與架構。\n•系統底層知識：理解 Linux 記憶體管理（NUMA, Virtual Memory, Page Fault, DMA）\n與 PCIe/NVMe 數據傳輸機制。\n•Profiling 能力：熟練使用效能分析工具（如 perf, NVIDIA Nsight, Linux tracing tools）\n來診斷 CPU/GPU/Memory 系統瓶頸。\n•程式語言：精通 C/C++ 與 Python，具備優良的系統程式設計（Systems\nProgramming）能力與程式碼架構思維。\n【加分條件】\n1.CXL / 記憶體層級經驗：了解 CXL (Compute Express Link) 規範（特別是 CXL 2.0/3.0\nType 3 Memory Devices）或 CXL Memory Tiering 機制。\n2.User-Space Storage / I/O：具備 SPDK, DPDK 或 User-space Memory Ring Buffer 開\n發經驗者佳。\n3.KV Cache 系統研發：曾研究或開發過 disaggregated inference、LMCache、\nChunked Prefill 或先進 KV Cache 管理演算法。\n4.GPU 異質運算：理解 CUDA 記憶體模型（Host/Device Memory, Unified Memory）與\nGPU-to-Host 傳輸優化。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "9411r",
+    "job_url": "https://www.104.com.tw/job/9411r",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9411r.json",
+    "raw_sha256": "83276e65d291d39742e542e9efc617ef82d6e858881bd88d28a2207e80f80b6e",
+    "requested_url": "https://www.104.com.tw/api/jobs/9411r"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "company": {
+    "id": "1a2x6bk4qc",
+    "name": "財團法人法鼓山佛教基金會"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統工程師",
+      "軟體助理工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "負責系統各項設定作業\n協助解決使用者使用系統的問題，並提出改善與優化建議\n向外包廠商報修及協助問題排除\n測試系統並製作操作手冊\n協助資訊專案之執行與追蹤"
+    },
+    "employment_type_raw": "全職",
+    "title": "【資訊處】軟體部專員"
+  },
+  "location": {
+    "address_raw": "台北市北投區公館路186號(雲來寺)",
+    "raw": "台北市北投區公館路186號(雲來寺)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.略懂SQL語法\n2.熟BPM或ERP者尤佳\n3.具備團隊合作精神及解決問題的能力\n4.有主動幫助他人的熱忱、細心處理資料的個性"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "1.略懂SQL語法\n2.熟BPM或ERP者尤佳\n3.具備團隊合作精神及解決問題的能力\n4.有主動幫助他人的熱忱、細心處理資料的個性",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科\n科系要求：資訊工程相關、資訊管理相關\n其他條件：1.略懂SQL語法\n2.熟BPM或ERP者尤佳\n3.具備團隊合作精神及解決問題的能力\n4.有主動幫助他人的熱忱、細心處理資料的個性",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 46
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:14:13+08:00"
+  },
+  "salary": {
+    "raw": "月薪32,000~43,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "負責系統各項設定作業\n協助解決使用者使用系統的問題，並提出改善與優化建議\n向外包廠商報修及協助問題排除\n測試系統並製作操作手冊\n協助資訊專案之執行與追蹤",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統工程師",
+            "軟體助理工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統工程師、軟體助理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪32,000~43,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市北投區公館路186號(雲來寺)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "負責系統各項設定作業\n協助解決使用者使用系統的問題，並提出改善與優化建議\n向外包廠商報修及協助問題排除\n測試系統並製作操作手冊\n協助資訊專案之執行與追蹤"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.略懂SQL語法\n2.熟BPM或ERP者尤佳\n3.具備團隊合作精神及解決問題的能力\n4.有主動幫助他人的熱忱、細心處理資料的個性",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科\n科系要求：資訊工程相關、資訊管理相關\n其他條件：1.略懂SQL語法\n2.熟BPM或ERP者尤佳\n3.具備團隊合作精神及解決問題的能力\n4.有主動幫助他人的熱忱、細心處理資料的個性"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8iz51",
+    "job_url": "https://www.104.com.tw/job/8iz51",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8iz51.json",
+    "raw_sha256": "e3bd71de847875792b05aaaa418f391f1024e5a3b6d55ec1fbebe0cbcb869785",
+    "requested_url": "https://www.104.com.tw/api/jobs/8iz51"
+  }
+}

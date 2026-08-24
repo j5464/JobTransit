@@ -1,0 +1,169 @@
+{
+  "company": {
+    "id": "abdz5yx",
+    "name": "東森購物_電視購物_東森得易購股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責 Android App 開發與維護，以 Kotlin 為主要語言"
+        },
+        {
+          "children": [],
+          "text": "熟悉 MVVM架構, Android Jetpack Compose, Android Jetpack, Kotlin Coroutines / Flow, Room, Retrofit, Coil, Google Analyze 相關套件"
+        },
+        {
+          "children": [],
+          "text": "有Git等相關版控經驗"
+        },
+        {
+          "children": [],
+          "text": "跨團隊協作： 具備與 PM、設計師 (UI/UX)、後端工程師有效溝通及協同合作的能力。"
+        },
+        {
+          "children": [],
+          "text": "架構設計能力：具備重構 (Refactoring) 舊有程式碼以提升品質的經驗。"
+        }
+      ],
+      "text": "1. 負責 Android App 開發與維護，以 Kotlin 為主要語言\n2. 熟悉 MVVM架構, Android Jetpack Compose, Android Jetpack, Kotlin Coroutines / Flow, Room, Retrofit, Coil, Google Analyze 相關套件\n3. 有Git等相關版控經驗\n4. 跨團隊協作： 具備與 PM、設計師 (UI/UX)、後端工程師有效溝通及協同合作的能力。\n5. 架構設計能力：具備重構 (Refactoring) 舊有程式碼以提升品質的經驗。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資深行動應用開發工程師(資訊研發部)"
+  },
+  "location": {
+    "address_raw": "新北市中和區景平路258號1樓(恕不接受郵寄)",
+    "raw": "新北市中和區景平路258號1樓(恕不接受郵寄)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：略懂、略懂、略懂、略懂",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 39
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:58:33+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責 Android App 開發與維護，以 Kotlin 為主要語言\n2. 熟悉 MVVM架構, Android Jetpack Compose, Android Jetpack, Kotlin Coroutines / Flow, Room, Retrofit, Coil, Google Analyze 相關套件\n3. 有Git等相關版控經驗\n4. 跨團隊協作： 具備與 PM、設計師 (UI/UX)、後端工程師有效溝通及協同合作的能力。\n5. 架構設計能力：具備重構 (Refactoring) 舊有程式碼以提升品質的經驗。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區景平路258號1樓(恕不接受郵寄)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責 Android App 開發與維護，以 Kotlin 為主要語言\n2. 熟悉 MVVM架構, Android Jetpack Compose, Android Jetpack, Kotlin Coroutines / Flow, Room, Retrofit, Coil, Google Analyze 相關套件\n3. 有Git等相關版控經驗\n4. 跨團隊協作： 具備與 PM、設計師 (UI/UX)、後端工程師有效溝通及協同合作的能力。\n5. 架構設計能力：具備重構 (Refactoring) 舊有程式碼以提升品質的經驗。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：略懂、略懂、略懂、略懂"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8zi87",
+    "job_url": "https://www.104.com.tw/job/8zi87",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8zi87.json",
+    "raw_sha256": "23ec9bed64351d31d58eebc072352ff7da424521084e951a3d0df25054958b63",
+    "requested_url": "https://www.104.com.tw/api/jobs/8zi87"
+  }
+}

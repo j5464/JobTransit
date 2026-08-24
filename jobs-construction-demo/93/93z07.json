@@ -1,0 +1,281 @@
+{
+  "company": {
+    "id": "a5habd4",
+    "name": "D-Link_友訊科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "演算法工程師",
+      "機器學習工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "模型開發與實作： 協助研發與實作用於情緒感知、對話關懷與風險預警之 LLM / VLM 模型與 Prompt 工程。"
+        },
+        {
+          "children": [],
+          "text": "多模態與對話鏈建置： 參與 RAG（檢索增強生成）、Agent 流程建置及多模態（語音/視覺/文字）數據串接與測試。"
+        },
+        {
+          "children": [],
+          "text": "模型微調與測試： 執行模型微調（Fine-tuning）、量化部署測試與性能評估（Evaluation）。"
+        },
+        {
+          "children": [],
+          "text": "API 串接與協作： 與團隊主管及平台 RD（Platform RD）合作，進行 AI 服務 API 串接與系統整合測試。"
+        },
+        {
+          "children": [],
+          "text": "技術追蹤與實驗： 追蹤最新開源 LLM/VLM 模型與技術，進行 POC（概念驗證）測試與實驗報告撰寫。"
+        }
+      ],
+      "text": "我們正在尋找對 AI 情感互動、陪伴關懷與智慧防護 充滿熱情的 AI 開發工程師加入我們的團隊！\n在這裡，你將與 AI 主管、服務企劃團隊及平台 RD 密切合作，將最前沿的大語言模型（LLM）與視覺語言模型（VLM）技術應用於服務機器人中。我們專注於 AI 演算法與互動體驗研發（平台與硬體由專責團隊/夥伴處理），不論你是剛踏入 AI 領域的新銳，或是已有相關經驗的工程師，只要你具備良好的程式開發基礎與強烈的學習熱忱，都歡迎加入我們！\n關鍵職責 (Key Responsibilities)\n•模型開發與實作： 協助研發與實作用於情緒感知、對話關懷與風險預警之 LLM / VLM 模型與 Prompt 工程。\n•多模態與對話鏈建置： 參與 RAG（檢索增強生成）、Agent 流程建置及多模態（語音/視覺/文字）數據串接與測試。\n•模型微調與測試： 執行模型微調（Fine-tuning）、量化部署測試與性能評估（Evaluation）。\n•API 串接與協作： 與團隊主管及平台 RD（Platform RD）合作，進行 AI 服務 API 串接與系統整合測試。\n•技術追蹤與實驗： 追蹤最新開源 LLM/VLM 模型與技術，進行 POC（概念驗證）測試與實驗報告撰寫。"
+    },
+    "employment_type_raw": "全職",
+    "title": "大語言模型 / 視覺語言模型開發工程師（LLM/VLM AI Engineer）"
+  },
+  "location": {
+    "address_raw": "台北市內湖區新湖三路289號",
+    "raw": "台北市內湖區新湖三路289號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "數學及電算機科學學科類",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、數學及電算機科學學科類、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Git",
+          "Python",
+          "PyTorch",
+          "NLP",
+          "Computer Vision",
+          "LLM",
+          "Prompt"
+        ],
+        "label": "擅長工具",
+        "text": "Git、Python、PyTorch、NLP、Computer Vision、LLM、Prompt"
+      },
+      {
+        "items": [
+          "機器學習演算法",
+          "機器學習",
+          "自然語言處理",
+          "人工智慧",
+          "AI",
+          "語言模型",
+          "演算法設計",
+          "提示工程",
+          "生成式AI"
+        ],
+        "label": "工作技能",
+        "text": "機器學習演算法、機器學習、自然語言處理、人工智慧、AI、語言模型、演算法設計、提示工程、生成式AI"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "資格條件 (Qualifications)\n一、 學歷要求\n•學歷： 資訊工程、電機電子、人工智慧、資料科學、統計或相關理工/應用數學科系學士或碩士學位（年齡不限）。\n二、 核心能力與工具\n1.程式開發： 熟練掌握 Python 語言，具備良好的代碼撰寫習慣與 Git 版本控制觀念。\n2.AI / ML 基礎知識：\no 理解機器學習/深度學習基本概念（如 PyTorch 或 TensorFlow）。\no 熟悉或使用過主流 LLM / VLM 框架（如 LangChain, LlamaIndex, HuggingFace, Ollama, OpenAI API 等）。\n3.特質與態度：\no 對情感運算、AI 陪伴關懷或服務型機器人應用有高度興趣與熱情。\no 具備良好的主動學習能力，能快速吸收與實驗最新開源技術。\no 具備團隊合作精神與清晰的溝通表達能力。\n加分條件 (Preferred Qualifications - 非必備)\n•有 LLM 微調（LoRA/QLoRA）、RAG 架構搭建或 Agent 開發相關專案/實習經驗。\n•有多模態模型（VLM/語音辨識/影像辨識）整合或測試經驗。\n•熟悉 Fast API / Flask 等 Web API 開發，能協助撰寫後端服務介面。\n•有模型輕量化、量化（如 TensorRT, ONNX, llama.cpp）或邊緣設備部署測試經驗。\n•個人 GitHub 有 AI 相關專案作品集（歡迎於履歷中附上連結）。\n我們提供 (What We Offer)\n•舞台與成長空間： 一起參與打造具備「情感價值與安全防護」的機器人 AI 核心，從 0 到 1 累積完整實務經驗。\n•包容與鼓勵學習的文化： 年齡與年資不限，重視實務解決問題的能力與熱情，團隊提供技術指導與成長資源。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "數學及電算機科學學科類",
+      "電機電子工程相關"
+    ],
+    "other_text": "資格條件 (Qualifications)\n一、 學歷要求\n•學歷： 資訊工程、電機電子、人工智慧、資料科學、統計或相關理工/應用數學科系學士或碩士學位（年齡不限）。\n二、 核心能力與工具\n1.程式開發： 熟練掌握 Python 語言，具備良好的代碼撰寫習慣與 Git 版本控制觀念。\n2.AI / ML 基礎知識：\no 理解機器學習/深度學習基本概念（如 PyTorch 或 TensorFlow）。\no 熟悉或使用過主流 LLM / VLM 框架（如 LangChain, LlamaIndex, HuggingFace, Ollama, OpenAI API 等）。\n3.特質與態度：\no 對情感運算、AI 陪伴關懷或服務型機器人應用有高度興趣與熱情。\no 具備良好的主動學習能力，能快速吸收與實驗最新開源技術。\no 具備團隊合作精神與清晰的溝通表達能力。\n加分條件 (Preferred Qualifications - 非必備)\n•有 LLM 微調（LoRA/QLoRA）、RAG 架構搭建或 Agent 開發相關專案/實習經驗。\n•有多模態模型（VLM/語音辨識/影像辨識）整合或測試經驗。\n•熟悉 Fast API / Flask 等 Web API 開發，能協助撰寫後端服務介面。\n•有模型輕量化、量化（如 TensorRT, ONNX, llama.cpp）或邊緣設備部署測試經驗。\n•個人 GitHub 有 AI 相關專案作品集（歡迎於履歷中附上連結）。\n我們提供 (What We Offer)\n•舞台與成長空間： 一起參與打造具備「情感價值與安全防護」的機器人 AI 核心，從 0 到 1 累積完整實務經驗。\n•包容與鼓勵學習的文化： 年齡與年資不限，重視實務解決問題的能力與熱情，團隊提供技術指導與成長資源。",
+    "skills": [
+      "機器學習演算法",
+      "機器學習",
+      "自然語言處理",
+      "人工智慧",
+      "AI",
+      "語言模型",
+      "演算法設計",
+      "提示工程",
+      "生成式AI"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、數學及電算機科學學科類、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Git、Python、PyTorch、NLP、Computer Vision、LLM、Prompt\n工作技能：機器學習演算法、機器學習、自然語言處理、人工智慧、AI、語言模型、演算法設計、提示工程、生成式AI\n其他條件：資格條件 (Qualifications)\n一、 學歷要求\n•學歷： 資訊工程、電機電子、人工智慧、資料科學、統計或相關理工/應用數學科系學士或碩士學位（年齡不限）。\n二、 核心能力與工具\n1.程式開發： 熟練掌握 Python 語言，具備良好的代碼撰寫習慣與 Git 版本控制觀念。\n2.AI / ML 基礎知識：\no 理解機器學習/深度學習基本概念（如 PyTorch 或 TensorFlow）。\no 熟悉或使用過主流 LLM / VLM 框架（如 LangChain, LlamaIndex, HuggingFace, Ollama, OpenAI API 等）。\n3.特質與態度：\no 對情感運算、AI 陪伴關懷或服務型機器人應用有高度興趣與熱情。\no 具備良好的主動學習能力，能快速吸收與實驗最新開源技術。\no 具備團隊合作精神與清晰的溝通表達能力。\n加分條件 (Preferred Qualifications - 非必備)\n•有 LLM 微調（LoRA/QLoRA）、RAG 架構搭建或 Agent 開發相關專案/實習經驗。\n•有多模態模型（VLM/語音辨識/影像辨識）整合或測試經驗。\n•熟悉 Fast API / Flask 等 Web API 開發，能協助撰寫後端服務介面。\n•有模型輕量化、量化（如 TensorRT, ONNX, llama.cpp）或邊緣設備部署測試經驗。\n•個人 GitHub 有 AI 相關專案作品集（歡迎於履歷中附上連結）。\n我們提供 (What We Offer)\n•舞台與成長空間： 一起參與打造具備「情感價值與安全防護」的機器人 AI 核心，從 0 到 1 累積完整實務經驗。\n•包容與鼓勵學習的文化： 年齡與年資不限，重視實務解決問題的能力與熱情，團隊提供技術指導與成長資源。",
+    "tools": [
+      "Git",
+      "Python",
+      "PyTorch",
+      "NLP",
+      "Computer Vision",
+      "LLM",
+      "Prompt"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 10
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:46:53+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們正在尋找對 AI 情感互動、陪伴關懷與智慧防護 充滿熱情的 AI 開發工程師加入我們的團隊！\n在這裡，你將與 AI 主管、服務企劃團隊及平台 RD 密切合作，將最前沿的大語言模型（LLM）與視覺語言模型（VLM）技術應用於服務機器人中。我們專注於 AI 演算法與互動體驗研發（平台與硬體由專責團隊/夥伴處理），不論你是剛踏入 AI 領域的新銳，或是已有相關經驗的工程師，只要你具備良好的程式開發基礎與強烈的學習熱忱，都歡迎加入我們！\n關鍵職責 (Key Responsibilities)\n•模型開發與實作： 協助研發與實作用於情緒感知、對話關懷與風險預警之 LLM / VLM 模型與 Prompt 工程。\n•多模態與對話鏈建置： 參與 RAG（檢索增強生成）、Agent 流程建置及多模態（語音/視覺/文字）數據串接與測試。\n•模型微調與測試： 執行模型微調（Fine-tuning）、量化部署測試與性能評估（Evaluation）。\n•API 串接與協作： 與團隊主管及平台 RD（Platform RD）合作，進行 AI 服務 API 串接與系統整合測試。\n•技術追蹤與實驗： 追蹤最新開源 LLM/VLM 模型與技術，進行 POC（概念驗證）測試與實驗報告撰寫。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "演算法工程師",
+            "機器學習工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、演算法工程師、機器學習工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區新湖三路289號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們正在尋找對 AI 情感互動、陪伴關懷與智慧防護 充滿熱情的 AI 開發工程師加入我們的團隊！\n在這裡，你將與 AI 主管、服務企劃團隊及平台 RD 密切合作，將最前沿的大語言模型（LLM）與視覺語言模型（VLM）技術應用於服務機器人中。我們專注於 AI 演算法與互動體驗研發（平台與硬體由專責團隊/夥伴處理），不論你是剛踏入 AI 領域的新銳，或是已有相關經驗的工程師，只要你具備良好的程式開發基礎與強烈的學習熱忱，都歡迎加入我們！\n關鍵職責 (Key Responsibilities)\n•模型開發與實作： 協助研發與實作用於情緒感知、對話關懷與風險預警之 LLM / VLM 模型與 Prompt 工程。\n•多模態與對話鏈建置： 參與 RAG（檢索增強生成）、Agent 流程建置及多模態（語音/視覺/文字）數據串接與測試。\n•模型微調與測試： 執行模型微調（Fine-tuning）、量化部署測試與性能評估（Evaluation）。\n•API 串接與協作： 與團隊主管及平台 RD（Platform RD）合作，進行 AI 服務 API 串接與系統整合測試。\n•技術追蹤與實驗： 追蹤最新開源 LLM/VLM 模型與技術，進行 POC（概念驗證）測試與實驗報告撰寫。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "數學及電算機科學學科類",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、數學及電算機科學學科類、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "Python",
+            "PyTorch",
+            "NLP",
+            "Computer Vision",
+            "LLM",
+            "Prompt"
+          ],
+          "label": "擅長工具",
+          "text": "Git、Python、PyTorch、NLP、Computer Vision、LLM、Prompt",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "機器學習演算法",
+            "機器學習",
+            "自然語言處理",
+            "人工智慧",
+            "AI",
+            "語言模型",
+            "演算法設計",
+            "提示工程",
+            "生成式AI"
+          ],
+          "label": "工作技能",
+          "text": "機器學習演算法、機器學習、自然語言處理、人工智慧、AI、語言模型、演算法設計、提示工程、生成式AI",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "資格條件 (Qualifications)\n一、 學歷要求\n•學歷： 資訊工程、電機電子、人工智慧、資料科學、統計或相關理工/應用數學科系學士或碩士學位（年齡不限）。\n二、 核心能力與工具\n1.程式開發： 熟練掌握 Python 語言，具備良好的代碼撰寫習慣與 Git 版本控制觀念。\n2.AI / ML 基礎知識：\no 理解機器學習/深度學習基本概念（如 PyTorch 或 TensorFlow）。\no 熟悉或使用過主流 LLM / VLM 框架（如 LangChain, LlamaIndex, HuggingFace, Ollama, OpenAI API 等）。\n3.特質與態度：\no 對情感運算、AI 陪伴關懷或服務型機器人應用有高度興趣與熱情。\no 具備良好的主動學習能力，能快速吸收與實驗最新開源技術。\no 具備團隊合作精神與清晰的溝通表達能力。\n加分條件 (Preferred Qualifications - 非必備)\n•有 LLM 微調（LoRA/QLoRA）、RAG 架構搭建或 Agent 開發相關專案/實習經驗。\n•有多模態模型（VLM/語音辨識/影像辨識）整合或測試經驗。\n•熟悉 Fast API / Flask 等 Web API 開發，能協助撰寫後端服務介面。\n•有模型輕量化、量化（如 TensorRT, ONNX, llama.cpp）或邊緣設備部署測試經驗。\n•個人 GitHub 有 AI 相關專案作品集（歡迎於履歷中附上連結）。\n我們提供 (What We Offer)\n•舞台與成長空間： 一起參與打造具備「情感價值與安全防護」的機器人 AI 核心，從 0 到 1 累積完整實務經驗。\n•包容與鼓勵學習的文化： 年齡與年資不限，重視實務解決問題的能力與熱情，團隊提供技術指導與成長資源。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、數學及電算機科學學科類、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Git、Python、PyTorch、NLP、Computer Vision、LLM、Prompt\n工作技能：機器學習演算法、機器學習、自然語言處理、人工智慧、AI、語言模型、演算法設計、提示工程、生成式AI\n其他條件：資格條件 (Qualifications)\n一、 學歷要求\n•學歷： 資訊工程、電機電子、人工智慧、資料科學、統計或相關理工/應用數學科系學士或碩士學位（年齡不限）。\n二、 核心能力與工具\n1.程式開發： 熟練掌握 Python 語言，具備良好的代碼撰寫習慣與 Git 版本控制觀念。\n2.AI / ML 基礎知識：\no 理解機器學習/深度學習基本概念（如 PyTorch 或 TensorFlow）。\no 熟悉或使用過主流 LLM / VLM 框架（如 LangChain, LlamaIndex, HuggingFace, Ollama, OpenAI API 等）。\n3.特質與態度：\no 對情感運算、AI 陪伴關懷或服務型機器人應用有高度興趣與熱情。\no 具備良好的主動學習能力，能快速吸收與實驗最新開源技術。\no 具備團隊合作精神與清晰的溝通表達能力。\n加分條件 (Preferred Qualifications - 非必備)\n•有 LLM 微調（LoRA/QLoRA）、RAG 架構搭建或 Agent 開發相關專案/實習經驗。\n•有多模態模型（VLM/語音辨識/影像辨識）整合或測試經驗。\n•熟悉 Fast API / Flask 等 Web API 開發，能協助撰寫後端服務介面。\n•有模型輕量化、量化（如 TensorRT, ONNX, llama.cpp）或邊緣設備部署測試經驗。\n•個人 GitHub 有 AI 相關專案作品集（歡迎於履歷中附上連結）。\n我們提供 (What We Offer)\n•舞台與成長空間： 一起參與打造具備「情感價值與安全防護」的機器人 AI 核心，從 0 到 1 累積完整實務經驗。\n•包容與鼓勵學習的文化： 年齡與年資不限，重視實務解決問題的能力與熱情，團隊提供技術指導與成長資源。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93z07",
+    "job_url": "https://www.104.com.tw/job/93z07",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93z07.json",
+    "raw_sha256": "2d6e9319652f09e680704f05dd99ccee443c61c9980dfd6a08094206e381a19b",
+    "requested_url": "https://www.104.com.tw/api/jobs/93z07"
+  }
+}

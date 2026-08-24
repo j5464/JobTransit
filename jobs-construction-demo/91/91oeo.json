@@ -1,0 +1,260 @@
+{
+  "company": {
+    "id": "1a2x6ble2t",
+    "name": "瞬聯科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "測試人員",
+      "軟韌體測試工程師",
+      "軟體助理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Execute comprehensive functional, validation, performance, and stability testing. Investigate failures, create detailed bug tickets, and ensure issues are caught before stable releases."
+        },
+        {
+          "children": [],
+          "text": "Design, construct, and maintain reliable hardware test beds. Maximize hardware utility and lab space while setting up test environments."
+        },
+        {
+          "children": [],
+          "text": "Identify suitable hardware/software testing tools. Devise comprehensive test matrices and test cases to improve coverage and efficiency."
+        },
+        {
+          "children": [],
+          "text": "Monitor test flakes and failures from the latest releases, analyzing metrics for performance degradation and stability patterns."
+        },
+        {
+          "children": [],
+          "text": "Experiment to find issue reproduction steps, retrieve helpful logs, triage root causes, and bisect releases to identify suspicious code submissions."
+        },
+        {
+          "children": [],
+          "text": "Design, write, and maintain comprehensive test plans and test cases to improve test coverage, efficiency, and ensure documentation is up-to-date."
+        },
+        {
+          "children": [],
+          "text": "Collaborate closely with PMs and Developers to review product requirements, align on test scopes, and expedite bug resolution through clear, effective communication."
+        },
+        {
+          "children": [],
+          "text": "Strong Logical Thinking: Excellent problem-solving skills with the ability to systematically break down complex issues, analyze root causes, and find logical solutions."
+        },
+        {
+          "children": [],
+          "text": "Basic QA Knowledge: Fundamental understanding of software or hardware testing methodologies."
+        },
+        {
+          "children": [],
+          "text": "Tech-Savvy & Fast Learner: Comfortable exploring new operating systems and tools. Willingness to learn how to set up testing environments and retrieve system logs."
+        }
+      ],
+      "text": "We are expanding our Quality Assurance team and looking for talented Test Engineers to ensure the stability and performance of software products, including web applications, AI services and Chrome OS devices.\nKey Responsibilities:\n- Execute comprehensive functional, validation, performance, and stability testing. Investigate failures, create detailed bug tickets, and ensure issues are caught before stable releases.\n- Design, construct, and maintain reliable hardware test beds. Maximize hardware utility and lab space while setting up test environments.\n- Identify suitable hardware/software testing tools. Devise comprehensive test matrices and test cases to improve coverage and efficiency.\n- Monitor test flakes and failures from the latest releases, analyzing metrics for performance degradation and stability patterns.\n- Experiment to find issue reproduction steps, retrieve helpful logs, triage root causes, and bisect releases to identify suspicious code submissions.\n- Design, write, and maintain comprehensive test plans and test cases to improve test coverage, efficiency, and ensure documentation is up-to-date.\n- Collaborate closely with PMs and Developers to review product requirements, align on test scopes, and expedite bug resolution through clear, effective communication.\nQualifications:\n- Strong Logical Thinking: Excellent problem-solving skills with the ability to systematically break down complex issues, analyze root causes, and find logical solutions.\n- Basic QA Knowledge: Fundamental understanding of software or hardware testing methodologies.\n- Tech-Savvy & Fast Learner: Comfortable exploring new operating systems and tools. Willingness to learn how to set up testing environments and retrieve system logs."
+    },
+    "employment_type_raw": "全職",
+    "title": "Test Engineer"
+  },
+  "location": {
+    "address_raw": "台北市大安區(依照公司規定分派)",
+    "raw": "台北市大安區(依照公司規定分派)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Android"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Android"
+      },
+      {
+        "items": [
+          "功能測試(function test)",
+          "使用者測試(Usability test)",
+          "問題追蹤處理(Bug tracking)",
+          "軟體整合測試",
+          "測試環境建置規劃",
+          "壓力測試(stress test)",
+          "測試計劃及測試報告書撰寫",
+          "軟體品質與保證"
+        ],
+        "label": "工作技能",
+        "text": "功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、測試環境建置規劃、壓力測試(stress test)、測試計劃及測試報告書撰寫、軟體品質與保證"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Preferred Qualifications:\n- Business-Level English: Strong verbal and written English communication skills, with the ability to hold meetings directly with global clients and partners.\n- Test Case Design: Experience in designing and writing your own Test Cases or test scenarios (from school projects, internships, or past work experience).\n- Test Automation: Experience with writing automated test scripts or familiarity with automation testing tools.\n- Familiarity with Linux environments, Git bisection, or code patching.\n- Experience in using issue tracking systems (e.g., Jira, Bugzilla) and bug life-cycle management."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "Preferred Qualifications:\n- Business-Level English: Strong verbal and written English communication skills, with the ability to hold meetings directly with global clients and partners.\n- Test Case Design: Experience in designing and writing your own Test Cases or test scenarios (from school projects, internships, or past work experience).\n- Test Automation: Experience with writing automated test scripts or familiarity with automation testing tools.\n- Familiarity with Linux environments, Git bisection, or code patching.\n- Experience in using issue tracking systems (e.g., Jira, Bugzilla) and bug life-cycle management.",
+    "skills": [
+      "功能測試(function test)",
+      "使用者測試(Usability test)",
+      "問題追蹤處理(Bug tracking)",
+      "軟體整合測試",
+      "測試環境建置規劃",
+      "壓力測試(stress test)",
+      "測試計劃及測試報告書撰寫",
+      "軟體品質與保證"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Android\n工作技能：功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、測試環境建置規劃、壓力測試(stress test)、測試計劃及測試報告書撰寫、軟體品質與保證\n其他條件：Preferred Qualifications:\n- Business-Level English: Strong verbal and written English communication skills, with the ability to hold meetings directly with global clients and partners.\n- Test Case Design: Experience in designing and writing your own Test Cases or test scenarios (from school projects, internships, or past work experience).\n- Test Automation: Experience with writing automated test scripts or familiarity with automation testing tools.\n- Familiarity with Linux environments, Git bisection, or code patching.\n- Experience in using issue tracking systems (e.g., Jira, Bugzilla) and bug life-cycle management.",
+    "tools": [
+      "Linux",
+      "Android"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:05:54+08:00"
+  },
+  "salary": {
+    "raw": "年薪500,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are expanding our Quality Assurance team and looking for talented Test Engineers to ensure the stability and performance of software products, including web applications, AI services and Chrome OS devices.\nKey Responsibilities:\n- Execute comprehensive functional, validation, performance, and stability testing. Investigate failures, create detailed bug tickets, and ensure issues are caught before stable releases.\n- Design, construct, and maintain reliable hardware test beds. Maximize hardware utility and lab space while setting up test environments.\n- Identify suitable hardware/software testing tools. Devise comprehensive test matrices and test cases to improve coverage and efficiency.\n- Monitor test flakes and failures from the latest releases, analyzing metrics for performance degradation and stability patterns.\n- Experiment to find issue reproduction steps, retrieve helpful logs, triage root causes, and bisect releases to identify suspicious code submissions.\n- Design, write, and maintain comprehensive test plans and test cases to improve test coverage, efficiency, and ensure documentation is up-to-date.\n- Collaborate closely with PMs and Developers to review product requirements, align on test scopes, and expedite bug resolution through clear, effective communication.\nQualifications:\n- Strong Logical Thinking: Excellent problem-solving skills with the ability to systematically break down complex issues, analyze root causes, and find logical solutions.\n- Basic QA Knowledge: Fundamental understanding of software or hardware testing methodologies.\n- Tech-Savvy & Fast Learner: Comfortable exploring new operating systems and tools. Willingness to learn how to set up testing environments and retrieve system logs.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "測試人員",
+            "軟韌體測試工程師",
+            "軟體助理工程師"
+          ],
+          "label": "職務類別",
+          "text": "測試人員、軟韌體測試工程師、軟體助理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪500,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區(依照公司規定分派)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are expanding our Quality Assurance team and looking for talented Test Engineers to ensure the stability and performance of software products, including web applications, AI services and Chrome OS devices.\nKey Responsibilities:\n- Execute comprehensive functional, validation, performance, and stability testing. Investigate failures, create detailed bug tickets, and ensure issues are caught before stable releases.\n- Design, construct, and maintain reliable hardware test beds. Maximize hardware utility and lab space while setting up test environments.\n- Identify suitable hardware/software testing tools. Devise comprehensive test matrices and test cases to improve coverage and efficiency.\n- Monitor test flakes and failures from the latest releases, analyzing metrics for performance degradation and stability patterns.\n- Experiment to find issue reproduction steps, retrieve helpful logs, triage root causes, and bisect releases to identify suspicious code submissions.\n- Design, write, and maintain comprehensive test plans and test cases to improve test coverage, efficiency, and ensure documentation is up-to-date.\n- Collaborate closely with PMs and Developers to review product requirements, align on test scopes, and expedite bug resolution through clear, effective communication.\nQualifications:\n- Strong Logical Thinking: Excellent problem-solving skills with the ability to systematically break down complex issues, analyze root causes, and find logical solutions.\n- Basic QA Knowledge: Fundamental understanding of software or hardware testing methodologies.\n- Tech-Savvy & Fast Learner: Comfortable exploring new operating systems and tools. Willingness to learn how to set up testing environments and retrieve system logs."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Android"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Android",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "功能測試(function test)",
+            "使用者測試(Usability test)",
+            "問題追蹤處理(Bug tracking)",
+            "軟體整合測試",
+            "測試環境建置規劃",
+            "壓力測試(stress test)",
+            "測試計劃及測試報告書撰寫",
+            "軟體品質與保證"
+          ],
+          "label": "工作技能",
+          "text": "功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、測試環境建置規劃、壓力測試(stress test)、測試計劃及測試報告書撰寫、軟體品質與保證",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Preferred Qualifications:\n- Business-Level English: Strong verbal and written English communication skills, with the ability to hold meetings directly with global clients and partners.\n- Test Case Design: Experience in designing and writing your own Test Cases or test scenarios (from school projects, internships, or past work experience).\n- Test Automation: Experience with writing automated test scripts or familiarity with automation testing tools.\n- Familiarity with Linux environments, Git bisection, or code patching.\n- Experience in using issue tracking systems (e.g., Jira, Bugzilla) and bug life-cycle management.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Android\n工作技能：功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、軟體整合測試、測試環境建置規劃、壓力測試(stress test)、測試計劃及測試報告書撰寫、軟體品質與保證\n其他條件：Preferred Qualifications:\n- Business-Level English: Strong verbal and written English communication skills, with the ability to hold meetings directly with global clients and partners.\n- Test Case Design: Experience in designing and writing your own Test Cases or test scenarios (from school projects, internships, or past work experience).\n- Test Automation: Experience with writing automated test scripts or familiarity with automation testing tools.\n- Familiarity with Linux environments, Git bisection, or code patching.\n- Experience in using issue tracking systems (e.g., Jira, Bugzilla) and bug life-cycle management."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "91oeo",
+    "job_url": "https://www.104.com.tw/job/91oeo",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91oeo.json",
+    "raw_sha256": "0e864a104de8783901891c039f3bcc6b6fe8b24bb2819b1358f92a2134095ad8",
+    "requested_url": "https://www.104.com.tw/api/jobs/91oeo"
+  }
+}

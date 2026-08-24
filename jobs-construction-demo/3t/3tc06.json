@@ -1,0 +1,221 @@
+{
+  "company": {
+    "id": "2bwadzc",
+    "name": "中租控股_中租迪和股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責跨國企業金融及消費金融之核心系統開發專案及維護"
+        },
+        {
+          "children": [],
+          "text": "後端程式開發、測試、系統文件撰寫。"
+        },
+        {
+          "children": [],
+          "text": "海外核心系統：使用ASP.Net core、Angular進行雲端(Azure)系統服務開發，資料庫以MS SQL為主。"
+        },
+        {
+          "children": [],
+          "text": "國內核心系統：使用ASP.Net(C#、VB) Webform進行內部系統開發、維運作業，資料庫以Oracle為主。"
+        },
+        {
+          "children": [],
+          "text": "熟悉TypeScript、JavaScript、Azure等技術者尤佳"
+        },
+        {
+          "children": [],
+          "text": "具Java、PHP經驗者也歡迎應徵。"
+        }
+      ],
+      "text": "【工作內容】\n- 負責跨國企業金融及消費金融之核心系統開發專案及維護\n- 後端程式開發、測試、系統文件撰寫。\n【技術應用】以下擇一使用\n- 海外核心系統：使用ASP.Net core、Angular進行雲端(Azure)系統服務開發，資料庫以MS SQL為主。\n- 國內核心系統：使用ASP.Net(C#、VB) Webform進行內部系統開發、維運作業，資料庫以Oracle為主。\n【職涯願景】\n因應公司數位轉型及海外市場發展需求，具備雲端應用經驗，熟悉或期待透過.Net Core、Angular進行大型金融系統開發者，中租將是你大展長才的舞台!\n【發展資源】\n中租每年度為開發人員規劃完善且彈性化的技術實作及產業知識訓練課程，有效協助同仁逐步累積職能提升與實作成果，歡迎對技術與嚴謹開發規範有追求的夥伴加入我們。\n【其他需求】\n- 熟悉TypeScript、JavaScript、Azure等技術者尤佳\n- 具Java、PHP經驗者也歡迎應徵。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【資訊】後端程式設計師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路362號",
+    "raw": "台北市內湖區瑞光路362號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "Visual Basic .net",
+          "MS SQL",
+          "Oracle",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、Visual Basic .net、MS SQL、Oracle、JavaScript"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "- 資訊管理相關科系\n- 具有邏輯思考能力並對系統開發有熱誠\n- 工作態度積極且願意學習，具團隊合作精神\n- 熟悉ASP.Net、C#、Visual Basic .Net、Angular、.Net Core、TypeScript、MS SQL、Oracle、JavaScript等技術者尤佳\n持有「數位人才探索計畫」相關證照申請者有優先面試機會（Google Cloud 學程，詳情請洽Google 數位人才探索計畫網站）"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "- 資訊管理相關科系\n- 具有邏輯思考能力並對系統開發有熱誠\n- 工作態度積極且願意學習，具團隊合作精神\n- 熟悉ASP.Net、C#、Visual Basic .Net、Angular、.Net Core、TypeScript、MS SQL、Oracle、JavaScript等技術者尤佳\n持有「數位人才探索計畫」相關證照申請者有優先面試機會（Google Cloud 學程，詳情請洽Google 數位人才探索計畫網站）",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：ASP.NET、C#、Visual Basic .net、MS SQL、Oracle、JavaScript\n其他條件：- 資訊管理相關科系\n- 具有邏輯思考能力並對系統開發有熱誠\n- 工作態度積極且願意學習，具團隊合作精神\n- 熟悉ASP.Net、C#、Visual Basic .Net、Angular、.Net Core、TypeScript、MS SQL、Oracle、JavaScript等技術者尤佳\n持有「數位人才探索計畫」相關證照申請者有優先面試機會（Google Cloud 學程，詳情請洽Google 數位人才探索計畫網站）",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "Visual Basic .net",
+      "MS SQL",
+      "Oracle",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 76
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:30:26+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n- 負責跨國企業金融及消費金融之核心系統開發專案及維護\n- 後端程式開發、測試、系統文件撰寫。\n【技術應用】以下擇一使用\n- 海外核心系統：使用ASP.Net core、Angular進行雲端(Azure)系統服務開發，資料庫以MS SQL為主。\n- 國內核心系統：使用ASP.Net(C#、VB) Webform進行內部系統開發、維運作業，資料庫以Oracle為主。\n【職涯願景】\n因應公司數位轉型及海外市場發展需求，具備雲端應用經驗，熟悉或期待透過.Net Core、Angular進行大型金融系統開發者，中租將是你大展長才的舞台!\n【發展資源】\n中租每年度為開發人員規劃完善且彈性化的技術實作及產業知識訓練課程，有效協助同仁逐步累積職能提升與實作成果，歡迎對技術與嚴謹開發規範有追求的夥伴加入我們。\n【其他需求】\n- 熟悉TypeScript、JavaScript、Azure等技術者尤佳\n- 具Java、PHP經驗者也歡迎應徵。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路362號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n- 負責跨國企業金融及消費金融之核心系統開發專案及維護\n- 後端程式開發、測試、系統文件撰寫。\n【技術應用】以下擇一使用\n- 海外核心系統：使用ASP.Net core、Angular進行雲端(Azure)系統服務開發，資料庫以MS SQL為主。\n- 國內核心系統：使用ASP.Net(C#、VB) Webform進行內部系統開發、維運作業，資料庫以Oracle為主。\n【職涯願景】\n因應公司數位轉型及海外市場發展需求，具備雲端應用經驗，熟悉或期待透過.Net Core、Angular進行大型金融系統開發者，中租將是你大展長才的舞台!\n【發展資源】\n中租每年度為開發人員規劃完善且彈性化的技術實作及產業知識訓練課程，有效協助同仁逐步累積職能提升與實作成果，歡迎對技術與嚴謹開發規範有追求的夥伴加入我們。\n【其他需求】\n- 熟悉TypeScript、JavaScript、Azure等技術者尤佳\n- 具Java、PHP經驗者也歡迎應徵。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "Visual Basic .net",
+            "MS SQL",
+            "Oracle",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、Visual Basic .net、MS SQL、Oracle、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "- 資訊管理相關科系\n- 具有邏輯思考能力並對系統開發有熱誠\n- 工作態度積極且願意學習，具團隊合作精神\n- 熟悉ASP.Net、C#、Visual Basic .Net、Angular、.Net Core、TypeScript、MS SQL、Oracle、JavaScript等技術者尤佳\n持有「數位人才探索計畫」相關證照申請者有優先面試機會（Google Cloud 學程，詳情請洽Google 數位人才探索計畫網站）",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：ASP.NET、C#、Visual Basic .net、MS SQL、Oracle、JavaScript\n其他條件：- 資訊管理相關科系\n- 具有邏輯思考能力並對系統開發有熱誠\n- 工作態度積極且願意學習，具團隊合作精神\n- 熟悉ASP.Net、C#、Visual Basic .Net、Angular、.Net Core、TypeScript、MS SQL、Oracle、JavaScript等技術者尤佳\n持有「數位人才探索計畫」相關證照申請者有優先面試機會（Google Cloud 學程，詳情請洽Google 數位人才探索計畫網站）"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "3tc06",
+    "job_url": "https://www.104.com.tw/job/3tc06",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/3tc06.json",
+    "raw_sha256": "5e311bab29a2dbee889469b939584ad8dfca7b03d7eadf97823034e9c91a10a5",
+    "requested_url": "https://www.104.com.tw/api/jobs/3tc06"
+  }
+}

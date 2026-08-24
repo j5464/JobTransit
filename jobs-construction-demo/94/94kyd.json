@@ -1,0 +1,186 @@
+{
+  "company": {
+    "id": "hh01pyg",
+    "name": "台硝股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "MIS程式設計師",
+      "Internet程式設計師",
+      "資料庫管理人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "公司內部使用之應用軟體程式撰寫。"
+        },
+        {
+          "children": [],
+          "text": "系統測試與除錯。"
+        },
+        {
+          "children": [],
+          "text": "系統維護(含資料庫)與優化。"
+        },
+        {
+          "children": [],
+          "text": "系統使用者問題排除。"
+        },
+        {
+          "children": [],
+          "text": "跨部門協助需求分柝與系統開發。"
+        },
+        {
+          "children": [],
+          "text": "公司交辦事項。"
+        }
+      ],
+      "text": "1.公司內部使用之應用軟體程式撰寫。\n2.系統測試與除錯。\n3.系統維護(含資料庫)與優化。\n4.系統使用者問題排除。\n5.跨部門協助需求分柝與系統開發。\n6.公司交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "MIS程式設計師"
+  },
+  "location": {
+    "address_raw": "桃園市桃園區中正路1071號19樓之2",
+    "raw": "桃園市桃園區中正路1071號19樓之2"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中、專科、大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中、專科、大學"
+      },
+      {
+        "items": [
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉Windows作業系統、Miscrosoft Office應用軟體。\n2.熟悉Miscrosoft SQL server資料庫管理系統。\n3.熟悉VB6、VB.NET、Python等語言者佳。\n4.熟悉ERP系統流程、Barcode系統應用者佳。\n5.具備基礎相關證照者佳。\n身障者保障名額"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關"
+    ],
+    "other_text": "1.熟悉Windows作業系統、Miscrosoft Office應用軟體。\n2.熟悉Miscrosoft SQL server資料庫管理系統。\n3.熟悉VB6、VB.NET、Python等語言者佳。\n4.熟悉ERP系統流程、Barcode系統應用者佳。\n5.具備基礎相關證照者佳。\n身障者保障名額",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：高中、專科、大學\n科系要求：資訊管理相關\n其他條件：1.熟悉Windows作業系統、Miscrosoft Office應用軟體。\n2.熟悉Miscrosoft SQL server資料庫管理系統。\n3.熟悉VB6、VB.NET、Python等語言者佳。\n4.熟悉ERP系統流程、Barcode系統應用者佳。\n5.具備基礎相關證照者佳。\n身障者保障名額",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 27
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:29:34+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.公司內部使用之應用軟體程式撰寫。\n2.系統測試與除錯。\n3.系統維護(含資料庫)與優化。\n4.系統使用者問題排除。\n5.跨部門協助需求分柝與系統開發。\n6.公司交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MIS程式設計師",
+            "Internet程式設計師",
+            "資料庫管理人員"
+          ],
+          "label": "職務類別",
+          "text": "MIS程式設計師、Internet程式設計師、資料庫管理人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市桃園區中正路1071號19樓之2",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.公司內部使用之應用軟體程式撰寫。\n2.系統測試與除錯。\n3.系統維護(含資料庫)與優化。\n4.系統使用者問題排除。\n5.跨部門協助需求分柝與系統開發。\n6.公司交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中、專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉Windows作業系統、Miscrosoft Office應用軟體。\n2.熟悉Miscrosoft SQL server資料庫管理系統。\n3.熟悉VB6、VB.NET、Python等語言者佳。\n4.熟悉ERP系統流程、Barcode系統應用者佳。\n5.具備基礎相關證照者佳。\n身障者保障名額",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：高中、專科、大學\n科系要求：資訊管理相關\n其他條件：1.熟悉Windows作業系統、Miscrosoft Office應用軟體。\n2.熟悉Miscrosoft SQL server資料庫管理系統。\n3.熟悉VB6、VB.NET、Python等語言者佳。\n4.熟悉ERP系統流程、Barcode系統應用者佳。\n5.具備基礎相關證照者佳。\n身障者保障名額"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94kyd",
+    "job_url": "https://www.104.com.tw/job/94kyd",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94kyd.json",
+    "raw_sha256": "98317dcbdb6017b65a22389d392ea60b421ec1ac4d50f01d657fe45519664608",
+    "requested_url": "https://www.104.com.tw/api/jobs/94kyd"
+  }
+}

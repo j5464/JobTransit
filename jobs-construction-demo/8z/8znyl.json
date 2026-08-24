@@ -1,0 +1,162 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "數位IC設計工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "我們是SoC架構設計與分析團隊\n從產品需求出發，主導演算法開發、系統建模（如SystemC）、效能與功耗分析、IP/SoC架構規劃與跨層系統整合。產品涵蓋企業級、車用與商用SSD、UFS儲存裝置、AI加速晶片及客製NRE專案等。\n現因AI相關專案急速擴增，積極徵求熱愛架構設計、具系統觀，能橫跨硬體與軟體的夥伴，打造高效能AI解決方案！\n主要工作內容\n參與AI SoC架構設計（功能定義、效能/功耗/資源評估）\n深入理解AI運算負載，分析與優化運算流程\n使用SystemC、C++、Python等建構效能模型，進行系統模擬與瓶頸分析\n與演算法、RTL設計、韌體、系統等團隊合作推動軟硬體協同開發\n優化主要深度學習框架與硬體加速器的對接流程\n開發/最佳化 AI Operator 的分割、映射與相關工具\n編寫/維護高效能、穩定的軟體架構，支援底層運算\n撰寫並維護硬體/軟體規格文件，助力產品研發與量產\n基本條件\n電機、電子、資工或相關科系學士/碩士\n熟悉C/C++、Python，具Linux開發經驗\n基本AI運算架構/演算法知識，理解深度學習框架原理\n快速學習、善於自我激勵，能適應變動快速的專案節奏\n具良好跨部門溝通能力，樂於問題解決和技術分享\n加分條件\n有GPU/DSP或其他AI硬體加速器設計、開發經驗\n熟PyTorch等AI框架運作機制，了解其C++ backend/Operator運作原理\n有硬體運算加速器的軟體開發（如CUDA Driver、Compiler等）經驗\n具AI運算效能建模、Profiling、Operator分割/映射設計經驗\n有SystemC、FPGA或SoC模擬/驗證經驗\n熟On-Chip Bus、記憶體管理、效能/功耗分析者尤佳\n具SSD、UFS等儲存相關知識/經驗尤佳\nPosition:\nAI/ SoC System Architecture Engineer\nResponsibilities:\nArchitect and analyze AI SoC performance, power and resource planning\nDevelop and optimize operator tiling/mapping algorithms and tools\nIntegrate deep learning frameworks with hardware accelerators\nBuild and refine performance models with SystemC, C++, and Python\nCollaborate with algorithm, RTL, firmware, and system teams to achieve co-design\nWrite and maintain hardware/software specifications and documentation"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI/SoC 架構設計工程師(板橋)"
+  },
+  "location": {
+    "address_raw": "新北市板橋區",
+    "raw": "新北市板橋區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Basic Qualifications:\nBS/MS in EE/CS or related\nProficiency in C/C++ and Python; Linux experience\nKnowledge of AI workloads, deep learning frameworks and system modeling\nStrong self-learning, cross-functional communication and problem-solving skills\nPreferred Qualifications:\nExperience with GPU/DSP or AI accelerator architecture/design\nKnowledge of PyTorch C++ backend, operator building, CUDA compiler/driver\nSystemC, FPGA/SoC modeling and performance analysis experience\nBackground in storage (SSD/UFS) or high-performance SoC is a plus"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "Basic Qualifications:\nBS/MS in EE/CS or related\nProficiency in C/C++ and Python; Linux experience\nKnowledge of AI workloads, deep learning frameworks and system modeling\nStrong self-learning, cross-functional communication and problem-solving skills\nPreferred Qualifications:\nExperience with GPU/DSP or AI accelerator architecture/design\nKnowledge of PyTorch C++ backend, operator building, CUDA compiler/driver\nSystemC, FPGA/SoC modeling and performance analysis experience\nBackground in storage (SSD/UFS) or high-performance SoC is a plus",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n其他條件：Basic Qualifications:\nBS/MS in EE/CS or related\nProficiency in C/C++ and Python; Linux experience\nKnowledge of AI workloads, deep learning frameworks and system modeling\nStrong self-learning, cross-functional communication and problem-solving skills\nPreferred Qualifications:\nExperience with GPU/DSP or AI accelerator architecture/design\nKnowledge of PyTorch C++ backend, operator building, CUDA compiler/driver\nSystemC, FPGA/SoC modeling and performance analysis experience\nBackground in storage (SSD/UFS) or high-performance SoC is a plus",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 15
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:59:05+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們是SoC架構設計與分析團隊\n從產品需求出發，主導演算法開發、系統建模（如SystemC）、效能與功耗分析、IP/SoC架構規劃與跨層系統整合。產品涵蓋企業級、車用與商用SSD、UFS儲存裝置、AI加速晶片及客製NRE專案等。\n現因AI相關專案急速擴增，積極徵求熱愛架構設計、具系統觀，能橫跨硬體與軟體的夥伴，打造高效能AI解決方案！\n主要工作內容\n參與AI SoC架構設計（功能定義、效能/功耗/資源評估）\n深入理解AI運算負載，分析與優化運算流程\n使用SystemC、C++、Python等建構效能模型，進行系統模擬與瓶頸分析\n與演算法、RTL設計、韌體、系統等團隊合作推動軟硬體協同開發\n優化主要深度學習框架與硬體加速器的對接流程\n開發/最佳化 AI Operator 的分割、映射與相關工具\n編寫/維護高效能、穩定的軟體架構，支援底層運算\n撰寫並維護硬體/軟體規格文件，助力產品研發與量產\n基本條件\n電機、電子、資工或相關科系學士/碩士\n熟悉C/C++、Python，具Linux開發經驗\n基本AI運算架構/演算法知識，理解深度學習框架原理\n快速學習、善於自我激勵，能適應變動快速的專案節奏\n具良好跨部門溝通能力，樂於問題解決和技術分享\n加分條件\n有GPU/DSP或其他AI硬體加速器設計、開發經驗\n熟PyTorch等AI框架運作機制，了解其C++ backend/Operator運作原理\n有硬體運算加速器的軟體開發（如CUDA Driver、Compiler等）經驗\n具AI運算效能建模、Profiling、Operator分割/映射設計經驗\n有SystemC、FPGA或SoC模擬/驗證經驗\n熟On-Chip Bus、記憶體管理、效能/功耗分析者尤佳\n具SSD、UFS等儲存相關知識/經驗尤佳\nPosition:\nAI/ SoC System Architecture Engineer\nResponsibilities:\nArchitect and analyze AI SoC performance, power and resource planning\nDevelop and optimize operator tiling/mapping algorithms and tools\nIntegrate deep learning frameworks with hardware accelerators\nBuild and refine performance models with SystemC, C++, and Python\nCollaborate with algorithm, RTL, firmware, and system teams to achieve co-design\nWrite and maintain hardware/software specifications and documentation",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "數位IC設計工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、數位IC設計工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們是SoC架構設計與分析團隊\n從產品需求出發，主導演算法開發、系統建模（如SystemC）、效能與功耗分析、IP/SoC架構規劃與跨層系統整合。產品涵蓋企業級、車用與商用SSD、UFS儲存裝置、AI加速晶片及客製NRE專案等。\n現因AI相關專案急速擴增，積極徵求熱愛架構設計、具系統觀，能橫跨硬體與軟體的夥伴，打造高效能AI解決方案！\n主要工作內容\n參與AI SoC架構設計（功能定義、效能/功耗/資源評估）\n深入理解AI運算負載，分析與優化運算流程\n使用SystemC、C++、Python等建構效能模型，進行系統模擬與瓶頸分析\n與演算法、RTL設計、韌體、系統等團隊合作推動軟硬體協同開發\n優化主要深度學習框架與硬體加速器的對接流程\n開發/最佳化 AI Operator 的分割、映射與相關工具\n編寫/維護高效能、穩定的軟體架構，支援底層運算\n撰寫並維護硬體/軟體規格文件，助力產品研發與量產\n基本條件\n電機、電子、資工或相關科系學士/碩士\n熟悉C/C++、Python，具Linux開發經驗\n基本AI運算架構/演算法知識，理解深度學習框架原理\n快速學習、善於自我激勵，能適應變動快速的專案節奏\n具良好跨部門溝通能力，樂於問題解決和技術分享\n加分條件\n有GPU/DSP或其他AI硬體加速器設計、開發經驗\n熟PyTorch等AI框架運作機制，了解其C++ backend/Operator運作原理\n有硬體運算加速器的軟體開發（如CUDA Driver、Compiler等）經驗\n具AI運算效能建模、Profiling、Operator分割/映射設計經驗\n有SystemC、FPGA或SoC模擬/驗證經驗\n熟On-Chip Bus、記憶體管理、效能/功耗分析者尤佳\n具SSD、UFS等儲存相關知識/經驗尤佳\nPosition:\nAI/ SoC System Architecture Engineer\nResponsibilities:\nArchitect and analyze AI SoC performance, power and resource planning\nDevelop and optimize operator tiling/mapping algorithms and tools\nIntegrate deep learning frameworks with hardware accelerators\nBuild and refine performance models with SystemC, C++, and Python\nCollaborate with algorithm, RTL, firmware, and system teams to achieve co-design\nWrite and maintain hardware/software specifications and documentation"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Basic Qualifications:\nBS/MS in EE/CS or related\nProficiency in C/C++ and Python; Linux experience\nKnowledge of AI workloads, deep learning frameworks and system modeling\nStrong self-learning, cross-functional communication and problem-solving skills\nPreferred Qualifications:\nExperience with GPU/DSP or AI accelerator architecture/design\nKnowledge of PyTorch C++ backend, operator building, CUDA compiler/driver\nSystemC, FPGA/SoC modeling and performance analysis experience\nBackground in storage (SSD/UFS) or high-performance SoC is a plus",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n其他條件：Basic Qualifications:\nBS/MS in EE/CS or related\nProficiency in C/C++ and Python; Linux experience\nKnowledge of AI workloads, deep learning frameworks and system modeling\nStrong self-learning, cross-functional communication and problem-solving skills\nPreferred Qualifications:\nExperience with GPU/DSP or AI accelerator architecture/design\nKnowledge of PyTorch C++ backend, operator building, CUDA compiler/driver\nSystemC, FPGA/SoC modeling and performance analysis experience\nBackground in storage (SSD/UFS) or high-performance SoC is a plus"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8znyl",
+    "job_url": "https://www.104.com.tw/job/8znyl",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8znyl.json",
+    "raw_sha256": "6676eac3d8c128c833cb1b638fd93fc69cb83ba958122bb20f9948fe818d7ed8",
+    "requested_url": "https://www.104.com.tw/api/jobs/8znyl"
+  }
+}

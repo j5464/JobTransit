@@ -1,0 +1,157 @@
+{
+  "company": {
+    "id": "1a2x6bidjh",
+    "name": "中華民國信用合作社聯合社南區聯合資訊處理中心"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "金融電腦主機應用程式規劃開發設計"
+    },
+    "employment_type_raw": "全職",
+    "title": "大型主機程式設計人員工程師"
+  },
+  "location": {
+    "address_raw": "台南市南區美南街21號",
+    "raw": "台南市南區美南街21號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "大學（含）以上畢業，資訊、商學相關科系為佳，具備下列資格條件之一。\n(一)對程式設計開發有興趣及熱忱（熟悉COBOL尤佳）。\n(二)具銀行或信用合作社金融業務程式開發工作經驗。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "大學（含）以上畢業，資訊、商學相關科系為佳，具備下列資格條件之一。\n(一)對程式設計開發有興趣及熱忱（熟悉COBOL尤佳）。\n(二)具銀行或信用合作社金融業務程式開發工作經驗。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n其他條件：大學（含）以上畢業，資訊、商學相關科系為佳，具備下列資格條件之一。\n(一)對程式設計開發有興趣及熱忱（熟悉COBOL尤佳）。\n(二)具銀行或信用合作社金融業務程式開發工作經驗。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 27
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:29:18+08:00"
+  },
+  "salary": {
+    "raw": "月薪38,000~65,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "金融電腦主機應用程式規劃開發設計",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪38,000~65,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市南區美南街21號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "金融電腦主機應用程式規劃開發設計"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "大學（含）以上畢業，資訊、商學相關科系為佳，具備下列資格條件之一。\n(一)對程式設計開發有興趣及熱忱（熟悉COBOL尤佳）。\n(二)具銀行或信用合作社金融業務程式開發工作經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n其他條件：大學（含）以上畢業，資訊、商學相關科系為佳，具備下列資格條件之一。\n(一)對程式設計開發有興趣及熱忱（熟悉COBOL尤佳）。\n(二)具銀行或信用合作社金融業務程式開發工作經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6yics",
+    "job_url": "https://www.104.com.tw/job/6yics",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6yics.json",
+    "raw_sha256": "b83000032f1c17f5bf438851f75b99832a2703ebbe4eee15f5bdc598192f279c",
+    "requested_url": "https://www.104.com.tw/api/jobs/6yics"
+  }
+}

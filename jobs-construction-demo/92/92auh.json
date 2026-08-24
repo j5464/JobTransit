@@ -1,0 +1,131 @@
+{
+  "company": {
+    "id": "1a2x6bimny",
+    "name": "Cooler Master_訊凱國際股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "Cooler Master Co., Ltd. 【職位定位】 -負責將使用單位的流程與痛點，轉化為實際可用的 AI 解決方案。 【核心能力】 - 能與不同部門進行需求訪談，釐清流程、痛點與目標 - 能將模糊需求轉化為具體 AI 應用架構與解決方案 - 能判斷不同場景應使用何種模型（LLM / VLM / 影像生成 / STT / TTS） - 能將模型能力整合為完整系統（API、Workflow、前端或內部工具） - 具備跨部門溝通能力，能與業務、技術與管理單位順暢協作 【工作內容】 - 與業務 / 製造 / IT 等部門進行需求訪談與流程分析 - 梳理使用情境，定義 AI 可切入的關鍵場景與應用方式 - 將需求轉化為 AI 解決方案（Copilot、Agent、影像理解、生成應用等） - 選擇並整合適合的模型（LLM、VLM、影像生成、語音模型等） - 設計並實作 AI Agent / Workflow（如 n8n / Dify / 自建系統） - 建立與優化 RAG（Retrieval-Augmented Generation）系統 - 串接雲端 API 或本地模型（如 vLLM、Ollama） - 將 AI 能力整合至實際系統（內部工具、Web UI、API） - 持續優化模型選型、Prompt 設計與整體使用體驗 - 與不同單位協作推動專案，確保方案能順利落地 【職務必要條件】 - 熟悉 Python 或其他後端開發語言 - 使用過 LLM 或生成式 AI API（OpenAI 或開源模型） - 理解 Prompt Engineering、RAG、多模態基本概念 - 具備 API 串接與系統整合經驗 - 具備良好溝通能力，能與不同單位流暢協作 - 具備需求分析能力（能拆解問題、定義流程與目標）"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI工程師- AI Systems (內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區",
+    "raw": "台北市內湖區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 16
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:02:12+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~100,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Cooler Master Co., Ltd. 【職位定位】 -負責將使用單位的流程與痛點，轉化為實際可用的 AI 解決方案。 【核心能力】 - 能與不同部門進行需求訪談，釐清流程、痛點與目標 - 能將模糊需求轉化為具體 AI 應用架構與解決方案 - 能判斷不同場景應使用何種模型（LLM / VLM / 影像生成 / STT / TTS） - 能將模型能力整合為完整系統（API、Workflow、前端或內部工具） - 具備跨部門溝通能力，能與業務、技術與管理單位順暢協作 【工作內容】 - 與業務 / 製造 / IT 等部門進行需求訪談與流程分析 - 梳理使用情境，定義 AI 可切入的關鍵場景與應用方式 - 將需求轉化為 AI 解決方案（Copilot、Agent、影像理解、生成應用等） - 選擇並整合適合的模型（LLM、VLM、影像生成、語音模型等） - 設計並實作 AI Agent / Workflow（如 n8n / Dify / 自建系統） - 建立與優化 RAG（Retrieval-Augmented Generation）系統 - 串接雲端 API 或本地模型（如 vLLM、Ollama） - 將 AI 能力整合至實際系統（內部工具、Web UI、API） - 持續優化模型選型、Prompt 設計與整體使用體驗 - 與不同單位協作推動專案，確保方案能順利落地 【職務必要條件】 - 熟悉 Python 或其他後端開發語言 - 使用過 LLM 或生成式 AI API（OpenAI 或開源模型） - 理解 Prompt Engineering、RAG、多模態基本概念 - 具備 API 串接與系統整合經驗 - 具備良好溝通能力，能與不同單位流暢協作 - 具備需求分析能力（能拆解問題、定義流程與目標）",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~100,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Cooler Master Co., Ltd. 【職位定位】 -負責將使用單位的流程與痛點，轉化為實際可用的 AI 解決方案。 【核心能力】 - 能與不同部門進行需求訪談，釐清流程、痛點與目標 - 能將模糊需求轉化為具體 AI 應用架構與解決方案 - 能判斷不同場景應使用何種模型（LLM / VLM / 影像生成 / STT / TTS） - 能將模型能力整合為完整系統（API、Workflow、前端或內部工具） - 具備跨部門溝通能力，能與業務、技術與管理單位順暢協作 【工作內容】 - 與業務 / 製造 / IT 等部門進行需求訪談與流程分析 - 梳理使用情境，定義 AI 可切入的關鍵場景與應用方式 - 將需求轉化為 AI 解決方案（Copilot、Agent、影像理解、生成應用等） - 選擇並整合適合的模型（LLM、VLM、影像生成、語音模型等） - 設計並實作 AI Agent / Workflow（如 n8n / Dify / 自建系統） - 建立與優化 RAG（Retrieval-Augmented Generation）系統 - 串接雲端 API 或本地模型（如 vLLM、Ollama） - 將 AI 能力整合至實際系統（內部工具、Web UI、API） - 持續優化模型選型、Prompt 設計與整體使用體驗 - 與不同單位協作推動專案，確保方案能順利落地 【職務必要條件】 - 熟悉 Python 或其他後端開發語言 - 使用過 LLM 或生成式 AI API（OpenAI 或開源模型） - 理解 Prompt Engineering、RAG、多模態基本概念 - 具備 API 串接與系統整合經驗 - 具備良好溝通能力，能與不同單位流暢協作 - 具備需求分析能力（能拆解問題、定義流程與目標）"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92auh",
+    "job_url": "https://www.104.com.tw/job/92auh",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92auh.json",
+    "raw_sha256": "327949f31a7d784c44453ca1280e7a09b6805aefb969fad51641c294c2a47763",
+    "requested_url": "https://www.104.com.tw/api/jobs/92auh"
+  }
+}

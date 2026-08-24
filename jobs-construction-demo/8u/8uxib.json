@@ -1,0 +1,203 @@
+{
+  "company": {
+    "id": "1a2x6bn84w",
+    "name": "矽煬自動化系統有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "自動控制工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責軟體之分析、設計以及程式撰寫。"
+        },
+        {
+          "children": [],
+          "text": "規劃執行軟體架構及模組之設計，並控管軟體設計進度。"
+        },
+        {
+          "children": [],
+          "text": "進行軟體之測試與修改。"
+        },
+        {
+          "children": [],
+          "text": "規劃、執行與維護量產的產品。"
+        },
+        {
+          "children": [],
+          "text": "協助研發軟體新技術與新工具。"
+        },
+        {
+          "children": [],
+          "text": "到職三個月向主管提出績效面談工作能力符合公司需求可週休三日。"
+        }
+      ],
+      "text": "1.負責軟體之分析、設計以及程式撰寫。\n2.規劃執行軟體架構及模組之設計，並控管軟體設計進度。\n3.進行軟體之測試與修改。\n4.規劃、執行與維護量產的產品。\n5.協助研發軟體新技術與新工具。\n6.到職三個月向主管提出績效面談工作能力符合公司需求可週休三日。"
+    },
+    "employment_type_raw": "全職",
+    "title": "PLC軟體工程師"
+  },
+  "location": {
+    "address_raw": "南投縣草屯鎮碧山南路93號",
+    "raw": "南投縣草屯鎮碧山南路93號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "PLC"
+        ],
+        "label": "擅長工具",
+        "text": "PLC"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "平均一個月需國內出差3~4天\n需有駕照\n需具有圖控相關經驗\n有PLC設計編輯能力\n歡迎想挑戰高薪即戰力兼顧家庭"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "平均一個月需國內出差3~4天\n需有駕照\n需具有圖控相關經驗\n有PLC設計編輯能力\n歡迎想挑戰高薪即戰力兼顧家庭",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：PLC\n工作技能：軟體程式設計\n其他條件：平均一個月需國內出差3~4天\n需有駕照\n需具有圖控相關經驗\n有PLC設計編輯能力\n歡迎想挑戰高薪即戰力兼顧家庭",
+    "tools": [
+      "PLC"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 98
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:23:13+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責軟體之分析、設計以及程式撰寫。\n2.規劃執行軟體架構及模組之設計，並控管軟體設計進度。\n3.進行軟體之測試與修改。\n4.規劃、執行與維護量產的產品。\n5.協助研發軟體新技術與新工具。\n6.到職三個月向主管提出績效面談工作能力符合公司需求可週休三日。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "自動控制工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、自動控制工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "南投縣草屯鎮碧山南路93號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責軟體之分析、設計以及程式撰寫。\n2.規劃執行軟體架構及模組之設計，並控管軟體設計進度。\n3.進行軟體之測試與修改。\n4.規劃、執行與維護量產的產品。\n5.協助研發軟體新技術與新工具。\n6.到職三個月向主管提出績效面談工作能力符合公司需求可週休三日。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PLC"
+          ],
+          "label": "擅長工具",
+          "text": "PLC",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "平均一個月需國內出差3~4天\n需有駕照\n需具有圖控相關經驗\n有PLC設計編輯能力\n歡迎想挑戰高薪即戰力兼顧家庭",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：PLC\n工作技能：軟體程式設計\n其他條件：平均一個月需國內出差3~4天\n需有駕照\n需具有圖控相關經驗\n有PLC設計編輯能力\n歡迎想挑戰高薪即戰力兼顧家庭"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8uxib",
+    "job_url": "https://www.104.com.tw/job/8uxib",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8uxib.json",
+    "raw_sha256": "3317160f3ead9c6b9106d418828b0588b484cafa0ad63a4e199a25e59b17c02f",
+    "requested_url": "https://www.104.com.tw/api/jobs/8uxib"
+  }
+}

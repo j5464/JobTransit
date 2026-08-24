@@ -1,0 +1,297 @@
+{
+  "company": {
+    "id": "1a2x6bnre0",
+    "name": "SkyTrust Global_迅凱全球整合股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "軟體工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉Python、PyTorch及YOLO，具備機器學習、深度學習、Computer Vision或目標辨識的實作經驗。"
+        },
+        {
+          "children": [],
+          "text": "了解資料蒐集、標註、模型訓練、驗證、部署及持續迭代的完整流程。"
+        },
+        {
+          "children": [],
+          "text": "具備NVIDIA Jetson、JetPack SDK、ONNX、TensorRT或Edge AI部署經驗者優先。"
+        },
+        {
+          "children": [],
+          "text": "具備ROS 2、Sensor Fusion、多模態資料、感測器介接、JSON或系統整合經驗者優先。"
+        },
+        {
+          "children": [],
+          "text": "具備Linux基本操作及跨領域團隊協作能力。 6. 面試時請提供曾參與的專案、程式作品、技術簡報或其他足以說明本人實際貢獻的資料。"
+        }
+      ],
+      "text": "【工作內容】\n參與無人系統的Sensor Fusion（感測器融合）及Edge AI（邊緣人工智慧）演算法開發，配合國際專業測試與資料蒐集團隊，進行情境設計、資料蒐整、模型訓練、系統部署及測試驗證，並依據持續蒐集的測試資料，快速迭代並即時更新AI演算法。\n視專案需要配合國內外出差，並與美國AI專家、專業技術團隊及頂尖學術機構共同合作，將不同來源的感測資料整合為可部署、可測試及可持續優化的辨識系統。\n【條件要求】\n1. 熟悉Python、PyTorch及YOLO，具備機器學習、深度學習、Computer Vision或目標辨識的實作經驗。\n2. 了解資料蒐集、標註、模型訓練、驗證、部署及持續迭代的完整流程。\n3. 具備NVIDIA Jetson、JetPack SDK、ONNX、TensorRT或Edge AI部署經驗者優先。\n4. 具備ROS 2、Sensor Fusion、多模態資料、感測器介接、JSON或系統整合經驗者優先。\n5. 具備Linux基本操作及跨領域團隊協作能力。 6. 面試時請提供曾參與的專案、程式作品、技術簡報或其他足以說明本人實際貢獻的資料。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI演算法工程師｜無人系統Sensor Fusion及Edge AI運用及佈署"
+  },
+  "location": {
+    "address_raw": "台中市西區台中市西區台灣大道二段489號31樓",
+    "raw": "台中市西區台中市西區台灣大道二段489號31樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "其他工程相關",
+          "資訊工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "其他工程相關、資訊工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "Github",
+          "C++",
+          "Python",
+          "PyTorch",
+          "OpenCV",
+          "Git",
+          "tensorflow",
+          "Keras",
+          "scikit-learn",
+          "Computer Vision",
+          "C",
+          "Shell",
+          "Linux",
+          "PostgreSQL",
+          "MySQL"
+        ],
+        "label": "擅長工具",
+        "text": "Github、C++、Python、PyTorch、OpenCV、Git、tensorflow、Keras、scikit-learn、Computer Vision、C、Shell、Linux、PostgreSQL、MySQL"
+      },
+      {
+        "items": [
+          "演算法設計",
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "深度學習",
+          "Machine Learning",
+          "模組化系統設計",
+          "機器學習",
+          "結構化程式設計",
+          "系統架構規劃",
+          "系統整合分析"
+        ],
+        "label": "工作技能",
+        "text": "演算法設計、軟體程式設計、軟體工程系統開發、深度學習、Machine Learning、模組化系統設計、機器學習、結構化程式設計、系統架構規劃、系統整合分析"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "其他工程相關",
+      "資訊工程相關",
+      "機械工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "演算法設計",
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "深度學習",
+      "Machine Learning",
+      "模組化系統設計",
+      "機器學習",
+      "結構化程式設計",
+      "系統架構規劃",
+      "系統整合分析"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：不拘\n科系要求：其他工程相關、資訊工程相關、機械工程相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Github、C++、Python、PyTorch、OpenCV、Git、tensorflow、Keras、scikit-learn、Computer Vision、C、Shell、Linux、PostgreSQL、MySQL\n工作技能：演算法設計、軟體程式設計、軟體工程系統開發、深度學習、Machine Learning、模組化系統設計、機器學習、結構化程式設計、系統架構規劃、系統整合分析",
+    "tools": [
+      "Github",
+      "C++",
+      "Python",
+      "PyTorch",
+      "OpenCV",
+      "Git",
+      "tensorflow",
+      "Keras",
+      "scikit-learn",
+      "Computer Vision",
+      "C",
+      "Shell",
+      "Linux",
+      "PostgreSQL",
+      "MySQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 81
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:41:08+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n參與無人系統的Sensor Fusion（感測器融合）及Edge AI（邊緣人工智慧）演算法開發，配合國際專業測試與資料蒐集團隊，進行情境設計、資料蒐整、模型訓練、系統部署及測試驗證，並依據持續蒐集的測試資料，快速迭代並即時更新AI演算法。\n視專案需要配合國內外出差，並與美國AI專家、專業技術團隊及頂尖學術機構共同合作，將不同來源的感測資料整合為可部署、可測試及可持續優化的辨識系統。\n【條件要求】\n1. 熟悉Python、PyTorch及YOLO，具備機器學習、深度學習、Computer Vision或目標辨識的實作經驗。\n2. 了解資料蒐集、標註、模型訓練、驗證、部署及持續迭代的完整流程。\n3. 具備NVIDIA Jetson、JetPack SDK、ONNX、TensorRT或Edge AI部署經驗者優先。\n4. 具備ROS 2、Sensor Fusion、多模態資料、感測器介接、JSON或系統整合經驗者優先。\n5. 具備Linux基本操作及跨領域團隊協作能力。 6. 面試時請提供曾參與的專案、程式作品、技術簡報或其他足以說明本人實際貢獻的資料。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "軟體工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、軟體工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西區台中市西區台灣大道二段489號31樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n參與無人系統的Sensor Fusion（感測器融合）及Edge AI（邊緣人工智慧）演算法開發，配合國際專業測試與資料蒐集團隊，進行情境設計、資料蒐整、模型訓練、系統部署及測試驗證，並依據持續蒐集的測試資料，快速迭代並即時更新AI演算法。\n視專案需要配合國內外出差，並與美國AI專家、專業技術團隊及頂尖學術機構共同合作，將不同來源的感測資料整合為可部署、可測試及可持續優化的辨識系統。\n【條件要求】\n1. 熟悉Python、PyTorch及YOLO，具備機器學習、深度學習、Computer Vision或目標辨識的實作經驗。\n2. 了解資料蒐集、標註、模型訓練、驗證、部署及持續迭代的完整流程。\n3. 具備NVIDIA Jetson、JetPack SDK、ONNX、TensorRT或Edge AI部署經驗者優先。\n4. 具備ROS 2、Sensor Fusion、多模態資料、感測器介接、JSON或系統整合經驗者優先。\n5. 具備Linux基本操作及跨領域團隊協作能力。 6. 面試時請提供曾參與的專案、程式作品、技術簡報或其他足以說明本人實際貢獻的資料。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "其他工程相關",
+            "資訊工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "其他工程相關、資訊工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Github",
+            "C++",
+            "Python",
+            "PyTorch",
+            "OpenCV",
+            "Git",
+            "tensorflow",
+            "Keras",
+            "scikit-learn",
+            "Computer Vision",
+            "C",
+            "Shell",
+            "Linux",
+            "PostgreSQL",
+            "MySQL"
+          ],
+          "label": "擅長工具",
+          "text": "Github、C++、Python、PyTorch、OpenCV、Git、tensorflow、Keras、scikit-learn、Computer Vision、C、Shell、Linux、PostgreSQL、MySQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "演算法設計",
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "深度學習",
+            "Machine Learning",
+            "模組化系統設計",
+            "機器學習",
+            "結構化程式設計",
+            "系統架構規劃",
+            "系統整合分析"
+          ],
+          "label": "工作技能",
+          "text": "演算法設計、軟體程式設計、軟體工程系統開發、深度學習、Machine Learning、模組化系統設計、機器學習、結構化程式設計、系統架構規劃、系統整合分析",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘\n科系要求：其他工程相關、資訊工程相關、機械工程相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Github、C++、Python、PyTorch、OpenCV、Git、tensorflow、Keras、scikit-learn、Computer Vision、C、Shell、Linux、PostgreSQL、MySQL\n工作技能：演算法設計、軟體程式設計、軟體工程系統開發、深度學習、Machine Learning、模組化系統設計、機器學習、結構化程式設計、系統架構規劃、系統整合分析"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "93ysu",
+    "job_url": "https://www.104.com.tw/job/93ysu",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93ysu.json",
+    "raw_sha256": "5243465199118fc1c65600a82a8714db7f312e761f29ba6207cab2a1130df06a",
+    "requested_url": "https://www.104.com.tw/api/jobs/93ysu"
+  }
+}

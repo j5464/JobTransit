@@ -1,0 +1,235 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "具備電路學, 電子學, 等基礎學分課程為佳。"
+        },
+        {
+          "children": [],
+          "text": "程式C語言在學校上課至少1學期以上。"
+        },
+        {
+          "children": [],
+          "text": "修習過組合語言為加分項"
+        },
+        {
+          "children": [],
+          "text": "使用DSP開發經驗者，優先面試 (TI跟MICROCHIP為佳)。"
+        },
+        {
+          "children": [],
+          "text": "使用DSP或MCU開發過I2C, CANBUS, UART等通訊功能相關經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉基本工具及程式語言。"
+        },
+        {
+          "children": [],
+          "text": "進行單元功能程式整合。"
+        },
+        {
+          "children": [],
+          "text": "單元功能程式撰寫及驗證。"
+        },
+        {
+          "children": [],
+          "text": "系統壓力測試。"
+        },
+        {
+          "children": [],
+          "text": "撰寫工程規格 / 技術文件 (包含測試計畫)。"
+        }
+      ],
+      "text": "工作技能 :\n1. 具備電路學, 電子學, 等基礎學分課程為佳。\n2. 程式C語言在學校上課至少1學期以上。\n3. 修習過組合語言為加分項\n4. 使用DSP開發經驗者，優先面試 (TI跟MICROCHIP為佳)。\n5. 使用DSP或MCU開發過I2C, CANBUS, UART等通訊功能相關經驗。\n主要職責 :\n1.熟悉基本工具及程式語言。\n2.進行單元功能程式整合。\n3.單元功能程式撰寫及驗證。\n4.系統壓力測試。\n5.撰寫工程規格 / 技術文件 (包含測試計畫)。"
+    },
+    "employment_type_raw": "全職",
+    "title": "韌體設計資深工程師_伺服器電源事業部(中壢)"
+  },
+  "location": {
+    "address_raw": "桃園市中壢區東園路16號",
+    "raw": "桃園市中壢區東園路16號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關"
+      },
+      {
+        "items": [
+          "MCU",
+          "C",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "MCU、C、C++"
+      },
+      {
+        "items": [
+          "韌體工程開發",
+          "軟體程式設計",
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "韌體工程開發、軟體程式設計、韌體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "韌體工程開發",
+      "軟體程式設計",
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子工程相關\n擅長工具：MCU、C、C++\n工作技能：韌體工程開發、軟體程式設計、韌體程式設計",
+    "tools": [
+      "MCU",
+      "C",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 73
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:22:55+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作技能 :\n1. 具備電路學, 電子學, 等基礎學分課程為佳。\n2. 程式C語言在學校上課至少1學期以上。\n3. 修習過組合語言為加分項\n4. 使用DSP開發經驗者，優先面試 (TI跟MICROCHIP為佳)。\n5. 使用DSP或MCU開發過I2C, CANBUS, UART等通訊功能相關經驗。\n主要職責 :\n1.熟悉基本工具及程式語言。\n2.進行單元功能程式整合。\n3.單元功能程式撰寫及驗證。\n4.系統壓力測試。\n5.撰寫工程規格 / 技術文件 (包含測試計畫)。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市中壢區東園路16號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作技能 :\n1. 具備電路學, 電子學, 等基礎學分課程為佳。\n2. 程式C語言在學校上課至少1學期以上。\n3. 修習過組合語言為加分項\n4. 使用DSP開發經驗者，優先面試 (TI跟MICROCHIP為佳)。\n5. 使用DSP或MCU開發過I2C, CANBUS, UART等通訊功能相關經驗。\n主要職責 :\n1.熟悉基本工具及程式語言。\n2.進行單元功能程式整合。\n3.單元功能程式撰寫及驗證。\n4.系統壓力測試。\n5.撰寫工程規格 / 技術文件 (包含測試計畫)。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MCU",
+            "C",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "MCU、C、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "韌體工程開發",
+            "軟體程式設計",
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "韌體工程開發、軟體程式設計、韌體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子工程相關\n擅長工具：MCU、C、C++\n工作技能：韌體工程開發、軟體程式設計、韌體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "846kd",
+    "job_url": "https://www.104.com.tw/job/846kd",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/846kd.json",
+    "raw_sha256": "81624d8c1abea70c0ab2fdc295fc42b61e069f600971bff9d6c75704a6271fe5",
+    "requested_url": "https://www.104.com.tw/api/jobs/846kd"
+  }
+}

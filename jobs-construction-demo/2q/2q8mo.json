@@ -1,0 +1,261 @@
+{
+  "company": {
+    "id": "10uv0f2g",
+    "name": "松凌科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Java Web相關程式設計與開發。"
+        },
+        {
+          "children": [],
+          "text": "關聯式資料庫系統應用開發。"
+        },
+        {
+          "children": [],
+          "text": "資訊系統開發。"
+        },
+        {
+          "children": [],
+          "text": "B2B/B2C EC平台開發"
+        },
+        {
+          "children": [],
+          "text": "軟體測試與維護。"
+        },
+        {
+          "children": [],
+          "text": "具備Team work團隊開發合作能力"
+        },
+        {
+          "children": [],
+          "text": "需要會 Java 語言, 需要會Spring Boot框架"
+        },
+        {
+          "children": [],
+          "text": "工作經驗不拘"
+        },
+        {
+          "children": [],
+          "text": "具產壽險之保險相關知識者佳"
+        },
+        {
+          "children": [],
+          "text": "熟悉Vue.js、React、Angular任一前端框架"
+        },
+        {
+          "children": [],
+          "text": "孰悉Docker、Kubernetes任一容器平台"
+        }
+      ],
+      "text": "Java WebApp 程式設計、專案開發為主要工作內容\n工作內容\n1.Java Web相關程式設計與開發。\n2.關聯式資料庫系統應用開發。\n3.資訊系統開發。\n4.B2B/B2C EC平台開發\n5.軟體測試與維護。\n徵求條件\n1.具備Team work團隊開發合作能力\n2.需要會 Java 語言, 需要會Spring Boot框架\n3.工作經驗不拘\n加分條件(非必備):\n1.具產壽險之保險相關知識者佳\n2.熟悉Vue.js、React、Angular任一前端框架\n3.孰悉Docker、Kubernetes任一容器平台\n擅長工具\nWebApp開發軟體(如Eclipse、Intellij IDEA、VS Code等)\nOffice辦公軟體(Excel、Word、PowerPoint)\n資料庫連線與操作\n工作技能\n開發環境準備、安裝\nJava、Web程式開發、測試、維護\nSQL DB 操作\n專案執行狀況總結、報告\n證照(非必要)\nOCPJP/OCPAD"
+    },
+    "employment_type_raw": "全職",
+    "title": "JAVA軟體工程師"
+  },
+  "location": {
+    "address_raw": "台北市中正區衡陽路51號7樓之11",
+    "raw": "台北市中正區衡陽路51號7樓之11"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "銀行保險相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、銀行保險相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Java",
+          "JSP",
+          "Struts",
+          "HTML",
+          "J2EE",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "Java、JSP、Struts、HTML、J2EE、JavaScript"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "其他條件\n孰悉 Java 語言，並且擁有開發程式的熱忱，工作態度良好，認真負責，科系不拘，上過Java軟體工程師訓練課程亦歡迎面試。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "銀行保險相關"
+    ],
+    "other_text": "其他條件\n孰悉 Java 語言，並且擁有開發程式的熱忱，工作態度良好，認真負責，科系不拘，上過Java軟體工程師訓練課程亦歡迎面試。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊工程相關、資訊管理相關、銀行保險相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、JSP、Struts、HTML、J2EE、JavaScript\n其他條件：其他條件\n孰悉 Java 語言，並且擁有開發程式的熱忱，工作態度良好，認真負責，科系不拘，上過Java軟體工程師訓練課程亦歡迎面試。",
+    "tools": [
+      "Java",
+      "JSP",
+      "Struts",
+      "HTML",
+      "J2EE",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 11
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:47:51+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Java WebApp 程式設計、專案開發為主要工作內容\n工作內容\n1.Java Web相關程式設計與開發。\n2.關聯式資料庫系統應用開發。\n3.資訊系統開發。\n4.B2B/B2C EC平台開發\n5.軟體測試與維護。\n徵求條件\n1.具備Team work團隊開發合作能力\n2.需要會 Java 語言, 需要會Spring Boot框架\n3.工作經驗不拘\n加分條件(非必備):\n1.具產壽險之保險相關知識者佳\n2.熟悉Vue.js、React、Angular任一前端框架\n3.孰悉Docker、Kubernetes任一容器平台\n擅長工具\nWebApp開發軟體(如Eclipse、Intellij IDEA、VS Code等)\nOffice辦公軟體(Excel、Word、PowerPoint)\n資料庫連線與操作\n工作技能\n開發環境準備、安裝\nJava、Web程式開發、測試、維護\nSQL DB 操作\n專案執行狀況總結、報告\n證照(非必要)\nOCPJP/OCPAD",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區衡陽路51號7樓之11",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Java WebApp 程式設計、專案開發為主要工作內容\n工作內容\n1.Java Web相關程式設計與開發。\n2.關聯式資料庫系統應用開發。\n3.資訊系統開發。\n4.B2B/B2C EC平台開發\n5.軟體測試與維護。\n徵求條件\n1.具備Team work團隊開發合作能力\n2.需要會 Java 語言, 需要會Spring Boot框架\n3.工作經驗不拘\n加分條件(非必備):\n1.具產壽險之保險相關知識者佳\n2.熟悉Vue.js、React、Angular任一前端框架\n3.孰悉Docker、Kubernetes任一容器平台\n擅長工具\nWebApp開發軟體(如Eclipse、Intellij IDEA、VS Code等)\nOffice辦公軟體(Excel、Word、PowerPoint)\n資料庫連線與操作\n工作技能\n開發環境準備、安裝\nJava、Web程式開發、測試、維護\nSQL DB 操作\n專案執行狀況總結、報告\n證照(非必要)\nOCPJP/OCPAD"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "銀行保險相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、銀行保險相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "JSP",
+            "Struts",
+            "HTML",
+            "J2EE",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "Java、JSP、Struts、HTML、J2EE、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "其他條件\n孰悉 Java 語言，並且擁有開發程式的熱忱，工作態度良好，認真負責，科系不拘，上過Java軟體工程師訓練課程亦歡迎面試。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n科系要求：資訊工程相關、資訊管理相關、銀行保險相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、JSP、Struts、HTML、J2EE、JavaScript\n其他條件：其他條件\n孰悉 Java 語言，並且擁有開發程式的熱忱，工作態度良好，認真負責，科系不拘，上過Java軟體工程師訓練課程亦歡迎面試。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "2q8mo",
+    "job_url": "https://www.104.com.tw/job/2q8mo",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/2q8mo.json",
+    "raw_sha256": "f9b5bf8cebc46ba80ef491a7b0eefe9b4080a88b99225f3d2d95c4a4954ca9ba",
+    "requested_url": "https://www.104.com.tw/api/jobs/2q8mo"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "company": {
+    "id": "1a2x6bkqfm",
+    "name": "平安線有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "RWD介面之分析、設計以及程式撰寫。"
+        },
+        {
+          "children": [],
+          "text": "熟悉javascript,css,html。"
+        },
+        {
+          "children": [],
+          "text": "熟悉操作DOM物件,JSON,AJAX。"
+        },
+        {
+          "children": [],
+          "text": "規劃、執行與維護頁面。"
+        },
+        {
+          "children": [],
+          "text": "協助研發前端開發新技術與新工具。"
+        },
+        {
+          "children": [],
+          "text": "前三個月為試用期"
+        }
+      ],
+      "text": "1.RWD介面之分析、設計以及程式撰寫。\n2.熟悉javascript,css,html。\n3.熟悉操作DOM物件,JSON,AJAX。\n4.規劃、執行與維護頁面。\n5.協助研發前端開發新技術與新工具。\n6.前三個月為試用期"
+    },
+    "employment_type_raw": "全職",
+    "title": "前端工程師"
+  },
+  "location": {
+    "address_raw": "台北市信義區忠孝東路5段552號15樓",
+    "raw": "台北市信義區忠孝東路5段552號15樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "JavaScript"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：JavaScript",
+    "tools": [
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 81
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:42:00+08:00"
+  },
+  "salary": {
+    "raw": "月薪31,000~55,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.RWD介面之分析、設計以及程式撰寫。\n2.熟悉javascript,css,html。\n3.熟悉操作DOM物件,JSON,AJAX。\n4.規劃、執行與維護頁面。\n5.協助研發前端開發新技術與新工具。\n6.前三個月為試用期",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪31,000~55,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區忠孝東路5段552號15樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.RWD介面之分析、設計以及程式撰寫。\n2.熟悉javascript,css,html。\n3.熟悉操作DOM物件,JSON,AJAX。\n4.規劃、執行與維護頁面。\n5.協助研發前端開發新技術與新工具。\n6.前三個月為試用期"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "JavaScript",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：JavaScript"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "6hp4b",
+    "job_url": "https://www.104.com.tw/job/6hp4b",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6hp4b.json",
+    "raw_sha256": "782891d9d68971bffdf1c6397e96b1d37777a6bf9ae0f63175ea6c57fc1242a8",
+    "requested_url": "https://www.104.com.tw/api/jobs/6hp4b"
+  }
+}

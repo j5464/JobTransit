@@ -1,0 +1,227 @@
+{
+  "company": {
+    "id": "1a2x6bkz0k",
+    "name": "開必拓數據股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "主要工作內容\n【內部產品開發（0 → 1）】\n負責內部產品之系統設計、開發與維護\n從需求訪談、流程設計到功能落地，獨立推進產品開發\n建立 FDE 與 RD 團隊之間的協作平台\n協助將現場問題、部署資訊、檢測結果與 RD 開發流程串接\n持續優化內部工具的使用流程與使用體驗\n【Full Stack 系統開發】\n負責前後端系統開發與 API 設計\n建立可維護、可擴充之系統架構\n開發 Web-based internal tools 與 workflow systems\n與 Infra / AI / Vision 團隊協作進行系統整合\n優化系統效能、穩定性與開發效率\n【AI Assisted Development Workflow】\n熟悉使用 AI 工具（Claude Code、ChatGPT、Copilot 等）提升開發效率\n建立 AI-assisted development workflow 與團隊最佳實踐\n協助團隊導入 AI coding workflow 與自動化開發流程\n利用 AI 工具加速 prototype、debugging、文件生成與重構\n評估 AI 對內部開發流程與產品開發之應用可能性\n【產品需求與跨部門協作】\n與 FDE、RD、PM 團隊進行需求討論與流程梳理\n理解現場部署、維運與檢測流程中的實際痛點\n協助建立產品規格、功能流程與操作邏輯\n推動 internal workflow productization\n協助建立 scalable internal engineering workflow\n【技術文件與工程品質】\n撰寫與維護技術文件、API 文件與系統架構文件\n建立系統 logging、error handling 與 monitoring 機制\n建立開發規範與程式碼品質管理流程\n持續改善開發流程與工程品質"
+    },
+    "employment_type_raw": "全職",
+    "title": "全端工程師（ Full Stack Engineer）"
+  },
+  "location": {
+    "address_raw": "新竹市東區埔頂里慈雲路118號8樓之5",
+    "raw": "新竹市東區埔頂里慈雲路118號8樓之5"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "Redux",
+          "JavaScript",
+          "Node.js",
+          "Python",
+          "MySQL",
+          "PostgreSQL",
+          "ETL",
+          "Linux",
+          "AWS",
+          "Git",
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "Redux、JavaScript、Node.js、Python、MySQL、PostgreSQL、ETL、Linux、AWS、Git、C#"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體整合測試",
+          "軟體品質與保證"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體整合測試、軟體品質與保證"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "必備條件\n◆熟悉 React.js、JavaScript / TypeScript\n◆熟悉 Python 後端開發與 API 設計\n◆熟悉資料庫設計與開發（MySQL / PostgreSQL）\n◆熟悉 Git 與團隊協作開發流程\n◆熟悉 Linux 環境與基本 Shell Script 操作\n◆具備 Full Stack Web 系統開發經驗\n◆具備基本系統架構設計能力\n加分條件\n◆熟悉 AI coding tools（Claude Code、Cursor、Copilot 等）\n◆熟悉 Docker 與 deployment flow\n◆熟悉 websocket / realtime system\n◆熟悉 RBAC、權限管理與企業內部系統設計\n◆有 SaaS 或 B2B 系統開發經驗\n◆熟悉 CI/CD workflow"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "必備條件\n◆熟悉 React.js、JavaScript / TypeScript\n◆熟悉 Python 後端開發與 API 設計\n◆熟悉資料庫設計與開發（MySQL / PostgreSQL）\n◆熟悉 Git 與團隊協作開發流程\n◆熟悉 Linux 環境與基本 Shell Script 操作\n◆具備 Full Stack Web 系統開發經驗\n◆具備基本系統架構設計能力\n加分條件\n◆熟悉 AI coding tools（Claude Code、Cursor、Copilot 等）\n◆熟悉 Docker 與 deployment flow\n◆熟悉 websocket / realtime system\n◆熟悉 RBAC、權限管理與企業內部系統設計\n◆有 SaaS 或 B2B 系統開發經驗\n◆熟悉 CI/CD workflow",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體整合測試",
+      "軟體品質與保證"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：資訊工程相關\n擅長工具：Redux、JavaScript、Node.js、Python、MySQL、PostgreSQL、ETL、Linux、AWS、Git、C#\n工作技能：軟體工程系統開發、軟體整合測試、軟體品質與保證\n其他條件：必備條件\n◆熟悉 React.js、JavaScript / TypeScript\n◆熟悉 Python 後端開發與 API 設計\n◆熟悉資料庫設計與開發（MySQL / PostgreSQL）\n◆熟悉 Git 與團隊協作開發流程\n◆熟悉 Linux 環境與基本 Shell Script 操作\n◆具備 Full Stack Web 系統開發經驗\n◆具備基本系統架構設計能力\n加分條件\n◆熟悉 AI coding tools（Claude Code、Cursor、Copilot 等）\n◆熟悉 Docker 與 deployment flow\n◆熟悉 websocket / realtime system\n◆熟悉 RBAC、權限管理與企業內部系統設計\n◆有 SaaS 或 B2B 系統開發經驗\n◆熟悉 CI/CD workflow",
+    "tools": [
+      "Redux",
+      "JavaScript",
+      "Node.js",
+      "Python",
+      "MySQL",
+      "PostgreSQL",
+      "ETL",
+      "Linux",
+      "AWS",
+      "Git",
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 9
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:42:45+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "主要工作內容\n【內部產品開發（0 → 1）】\n負責內部產品之系統設計、開發與維護\n從需求訪談、流程設計到功能落地，獨立推進產品開發\n建立 FDE 與 RD 團隊之間的協作平台\n協助將現場問題、部署資訊、檢測結果與 RD 開發流程串接\n持續優化內部工具的使用流程與使用體驗\n【Full Stack 系統開發】\n負責前後端系統開發與 API 設計\n建立可維護、可擴充之系統架構\n開發 Web-based internal tools 與 workflow systems\n與 Infra / AI / Vision 團隊協作進行系統整合\n優化系統效能、穩定性與開發效率\n【AI Assisted Development Workflow】\n熟悉使用 AI 工具（Claude Code、ChatGPT、Copilot 等）提升開發效率\n建立 AI-assisted development workflow 與團隊最佳實踐\n協助團隊導入 AI coding workflow 與自動化開發流程\n利用 AI 工具加速 prototype、debugging、文件生成與重構\n評估 AI 對內部開發流程與產品開發之應用可能性\n【產品需求與跨部門協作】\n與 FDE、RD、PM 團隊進行需求討論與流程梳理\n理解現場部署、維運與檢測流程中的實際痛點\n協助建立產品規格、功能流程與操作邏輯\n推動 internal workflow productization\n協助建立 scalable internal engineering workflow\n【技術文件與工程品質】\n撰寫與維護技術文件、API 文件與系統架構文件\n建立系統 logging、error handling 與 monitoring 機制\n建立開發規範與程式碼品質管理流程\n持續改善開發流程與工程品質",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東區埔頂里慈雲路118號8樓之5",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "主要工作內容\n【內部產品開發（0 → 1）】\n負責內部產品之系統設計、開發與維護\n從需求訪談、流程設計到功能落地，獨立推進產品開發\n建立 FDE 與 RD 團隊之間的協作平台\n協助將現場問題、部署資訊、檢測結果與 RD 開發流程串接\n持續優化內部工具的使用流程與使用體驗\n【Full Stack 系統開發】\n負責前後端系統開發與 API 設計\n建立可維護、可擴充之系統架構\n開發 Web-based internal tools 與 workflow systems\n與 Infra / AI / Vision 團隊協作進行系統整合\n優化系統效能、穩定性與開發效率\n【AI Assisted Development Workflow】\n熟悉使用 AI 工具（Claude Code、ChatGPT、Copilot 等）提升開發效率\n建立 AI-assisted development workflow 與團隊最佳實踐\n協助團隊導入 AI coding workflow 與自動化開發流程\n利用 AI 工具加速 prototype、debugging、文件生成與重構\n評估 AI 對內部開發流程與產品開發之應用可能性\n【產品需求與跨部門協作】\n與 FDE、RD、PM 團隊進行需求討論與流程梳理\n理解現場部署、維運與檢測流程中的實際痛點\n協助建立產品規格、功能流程與操作邏輯\n推動 internal workflow productization\n協助建立 scalable internal engineering workflow\n【技術文件與工程品質】\n撰寫與維護技術文件、API 文件與系統架構文件\n建立系統 logging、error handling 與 monitoring 機制\n建立開發規範與程式碼品質管理流程\n持續改善開發流程與工程品質"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Redux",
+            "JavaScript",
+            "Node.js",
+            "Python",
+            "MySQL",
+            "PostgreSQL",
+            "ETL",
+            "Linux",
+            "AWS",
+            "Git",
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "Redux、JavaScript、Node.js、Python、MySQL、PostgreSQL、ETL、Linux、AWS、Git、C#",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體整合測試",
+            "軟體品質與保證"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體整合測試、軟體品質與保證",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "必備條件\n◆熟悉 React.js、JavaScript / TypeScript\n◆熟悉 Python 後端開發與 API 設計\n◆熟悉資料庫設計與開發（MySQL / PostgreSQL）\n◆熟悉 Git 與團隊協作開發流程\n◆熟悉 Linux 環境與基本 Shell Script 操作\n◆具備 Full Stack Web 系統開發經驗\n◆具備基本系統架構設計能力\n加分條件\n◆熟悉 AI coding tools（Claude Code、Cursor、Copilot 等）\n◆熟悉 Docker 與 deployment flow\n◆熟悉 websocket / realtime system\n◆熟悉 RBAC、權限管理與企業內部系統設計\n◆有 SaaS 或 B2B 系統開發經驗\n◆熟悉 CI/CD workflow",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n科系要求：資訊工程相關\n擅長工具：Redux、JavaScript、Node.js、Python、MySQL、PostgreSQL、ETL、Linux、AWS、Git、C#\n工作技能：軟體工程系統開發、軟體整合測試、軟體品質與保證\n其他條件：必備條件\n◆熟悉 React.js、JavaScript / TypeScript\n◆熟悉 Python 後端開發與 API 設計\n◆熟悉資料庫設計與開發（MySQL / PostgreSQL）\n◆熟悉 Git 與團隊協作開發流程\n◆熟悉 Linux 環境與基本 Shell Script 操作\n◆具備 Full Stack Web 系統開發經驗\n◆具備基本系統架構設計能力\n加分條件\n◆熟悉 AI coding tools（Claude Code、Cursor、Copilot 等）\n◆熟悉 Docker 與 deployment flow\n◆熟悉 websocket / realtime system\n◆熟悉 RBAC、權限管理與企業內部系統設計\n◆有 SaaS 或 B2B 系統開發經驗\n◆熟悉 CI/CD workflow"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8mmz1",
+    "job_url": "https://www.104.com.tw/job/8mmz1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8mmz1.json",
+    "raw_sha256": "85f9d3b17d137ea72913d6761e4d1ee23a36a2e664542e41070c1ed802fe8459",
+    "requested_url": "https://www.104.com.tw/api/jobs/8mmz1"
+  }
+}

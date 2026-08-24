@@ -1,0 +1,185 @@
+{
+  "company": {
+    "id": "d6gs5o8",
+    "name": "和碩集團_和碩聯合科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "軟體專案管理師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "車用認證與法規流程負責"
+        },
+        {
+          "children": [],
+          "text": "專案範疇與時程管理"
+        },
+        {
+          "children": [],
+          "text": "跨部門溝通與客戶對接"
+        },
+        {
+          "children": [],
+          "text": "風險評估與品質監控"
+        }
+      ],
+      "text": "1.車用認證與法規流程負責\n2.專案範疇與時程管理\n3.跨部門溝通與客戶對接\n4.風險評估與品質監控"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體專案經理(台中)_16115"
+  },
+  "location": {
+    "address_raw": "台中市北區尊賢街7號15樓",
+    "raw": "台中市北區尊賢街7號15樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 77
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:33:04+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.車用認證與法規流程負責\n2.專案範疇與時程管理\n3.跨部門溝通與客戶對接\n4.風險評估與品質監控",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "軟體專案管理師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、軟體專案管理師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市北區尊賢街7號15樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.車用認證與法規流程負責\n2.專案範疇與時程管理\n3.跨部門溝通與客戶對接\n4.風險評估與品質監控"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "94kro",
+    "job_url": "https://www.104.com.tw/job/94kro",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94kro.json",
+    "raw_sha256": "3591e0fb607cec9c3a50a43ba22f09938bfbda8a255835b4509f059ccf752676",
+    "requested_url": "https://www.104.com.tw/api/jobs/94kro"
+  }
+}

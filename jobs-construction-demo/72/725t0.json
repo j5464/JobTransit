@@ -1,0 +1,246 @@
+{
+  "company": {
+    "id": "18l79wn4",
+    "name": "奕傑電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師",
+      "電子工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "韌體程式撰寫測試"
+        },
+        {
+          "children": [],
+          "text": "相關程式修改維護"
+        },
+        {
+          "children": [],
+          "text": "相關零件測試選用"
+        }
+      ],
+      "text": "1.韌體程式撰寫測試\n2.相關程式修改維護\n3.相關零件測試選用"
+    },
+    "employment_type_raw": "全職",
+    "title": "韌體工程師"
+  },
+  "location": {
+    "address_raw": "台中市大里區工業十路2號",
+    "raw": "台中市大里區工業十路2號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "通信學類"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、通信學類"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "C",
+          "ARM"
+        ],
+        "label": "擅長工具",
+        "text": "C、ARM"
+      },
+      {
+        "items": [
+          "軟體整合測試",
+          "韌體整合測試",
+          "軟體程式設計",
+          "韌體程式設計",
+          "微電腦軟體設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體整合測試、韌體整合測試、軟體程式設計、韌體程式設計、微電腦軟體設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟ARM Cortex-M、8051、PIC系列單晶片佳\n熟數位通訊理論者佳"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "通信學類"
+    ],
+    "other_text": "熟ARM Cortex-M、8051、PIC系列單晶片佳\n熟數位通訊理論者佳",
+    "skills": [
+      "軟體整合測試",
+      "韌體整合測試",
+      "軟體程式設計",
+      "韌體程式設計",
+      "微電腦軟體設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、通信學類\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C、ARM\n工作技能：軟體整合測試、韌體整合測試、軟體程式設計、韌體程式設計、微電腦軟體設計\n其他條件：熟ARM Cortex-M、8051、PIC系列單晶片佳\n熟數位通訊理論者佳",
+    "tools": [
+      "C",
+      "ARM"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 45
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:13:05+08:00"
+  },
+  "salary": {
+    "raw": "月薪36,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.韌體程式撰寫測試\n2.相關程式修改維護\n3.相關零件測試選用",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師",
+            "電子工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師、電子工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪36,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市大里區工業十路2號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.韌體程式撰寫測試\n2.相關程式修改維護\n3.相關零件測試選用"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "通信學類"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、通信學類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "ARM"
+          ],
+          "label": "擅長工具",
+          "text": "C、ARM",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體整合測試",
+            "韌體整合測試",
+            "軟體程式設計",
+            "韌體程式設計",
+            "微電腦軟體設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體整合測試、韌體整合測試、軟體程式設計、韌體程式設計、微電腦軟體設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟ARM Cortex-M、8051、PIC系列單晶片佳\n熟數位通訊理論者佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、通信學類\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C、ARM\n工作技能：軟體整合測試、韌體整合測試、軟體程式設計、韌體程式設計、微電腦軟體設計\n其他條件：熟ARM Cortex-M、8051、PIC系列單晶片佳\n熟數位通訊理論者佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "725t0",
+    "job_url": "https://www.104.com.tw/job/725t0",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/725t0.json",
+    "raw_sha256": "9d7504a06b54252cc78fb27805c24476ea1654a32ccc80c204ddd7ff010f991f",
+    "requested_url": "https://www.104.com.tw/api/jobs/725t0"
+  }
+}

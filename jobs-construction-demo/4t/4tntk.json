@@ -1,0 +1,221 @@
+{
+  "company": {
+    "id": "1a2x6bj87f",
+    "name": "日月光半導體製造股份有限公司中壢分公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "了解使用者需求，主要負責公司PLM(Product Lifecycle Management)系統的導入、維護、開發與程式編修"
+        },
+        {
+          "children": [],
+          "text": "利用 Java / C# / API / DB Procedure進行客制化功能開發"
+        },
+        {
+          "children": [],
+          "text": "PLM系統與異質系統整合(如ERP、MES等)"
+        },
+        {
+          "children": [],
+          "text": "系統管理與參數配置，並依據需求進行系統開發"
+        },
+        {
+          "children": [],
+          "text": "系統維運優化與用戶培訓"
+        }
+      ],
+      "text": "1. 了解使用者需求，主要負責公司PLM(Product Lifecycle Management)系統的導入、維護、開發與程式編修\n2. 利用 Java / C# / API / DB Procedure進行客制化功能開發\n3. PLM系統與異質系統整合(如ERP、MES等)\n4. 系統管理與參數配置，並依據需求進行系統開發\n5. 系統維運優化與用戶培訓"
+    },
+    "employment_type_raw": "全職",
+    "title": "【IT】PLM系統工程師"
+  },
+  "location": {
+    "address_raw": "桃園市中壢區中華路一段550號（內壢火車站旁）",
+    "raw": "桃園市中壢區中華路一段550號（內壢火車站旁）"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Java"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具備JAVA或C#開發經驗\n2. 了解專案管理相關流程，擁有專案管理開發經驗尤佳\n3. 熟悉NPI新產品開發管理及相關流程尤佳\n4. Windchill PLM相關程式設計開發規劃經驗尤佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "1. 具備JAVA或C#開發經驗\n2. 了解專案管理相關流程，擁有專案管理開發經驗尤佳\n3. 熟悉NPI新產品開發管理及相關流程尤佳\n4. Windchill PLM相關程式設計開發規劃經驗尤佳",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Java\n其他條件：1. 具備JAVA或C#開發經驗\n2. 了解專案管理相關流程，擁有專案管理開發經驗尤佳\n3. 熟悉NPI新產品開發管理及相關流程尤佳\n4. Windchill PLM相關程式設計開發規劃經驗尤佳",
+    "tools": [
+      "C#",
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 28
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:31:07+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 了解使用者需求，主要負責公司PLM(Product Lifecycle Management)系統的導入、維護、開發與程式編修\n2. 利用 Java / C# / API / DB Procedure進行客制化功能開發\n3. PLM系統與異質系統整合(如ERP、MES等)\n4. 系統管理與參數配置，並依據需求進行系統開發\n5. 系統維運優化與用戶培訓",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市中壢區中華路一段550號（內壢火車站旁）",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 了解使用者需求，主要負責公司PLM(Product Lifecycle Management)系統的導入、維護、開發與程式編修\n2. 利用 Java / C# / API / DB Procedure進行客制化功能開發\n3. PLM系統與異質系統整合(如ERP、MES等)\n4. 系統管理與參數配置，並依據需求進行系統開發\n5. 系統維運優化與用戶培訓"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Java",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具備JAVA或C#開發經驗\n2. 了解專案管理相關流程，擁有專案管理開發經驗尤佳\n3. 熟悉NPI新產品開發管理及相關流程尤佳\n4. Windchill PLM相關程式設計開發規劃經驗尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Java\n其他條件：1. 具備JAVA或C#開發經驗\n2. 了解專案管理相關流程，擁有專案管理開發經驗尤佳\n3. 熟悉NPI新產品開發管理及相關流程尤佳\n4. Windchill PLM相關程式設計開發規劃經驗尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "4tntk",
+    "job_url": "https://www.104.com.tw/job/4tntk",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/4tntk.json",
+    "raw_sha256": "182ab9ab77d20f50403a82cc174d9b9da749a7516bd009a0c6b55c2bf6f5a0ff",
+    "requested_url": "https://www.104.com.tw/api/jobs/4tntk"
+  }
+}

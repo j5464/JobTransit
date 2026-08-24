@@ -1,0 +1,238 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "軟韌體測試工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉基本開發工具及程式語言 。"
+        },
+        {
+          "children": [],
+          "text": "進行單元功能程式整合。"
+        },
+        {
+          "children": [],
+          "text": "單元功能程式撰寫及驗證。"
+        },
+        {
+          "children": [],
+          "text": "系統壓力測試。"
+        },
+        {
+          "children": [],
+          "text": "撰寫工程規格/技術文件 (包含測試計畫)。"
+        }
+      ],
+      "text": "1.熟悉基本開發工具及程式語言 。\n2.進行單元功能程式整合。\n3.單元功能程式撰寫及驗證。\n4.系統壓力測試。\n5.撰寫工程規格/技術文件 (包含測試計畫)。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體驗證工程師_電動車逆變器事業部(平鎮)"
+  },
+  "location": {
+    "address_raw": "桃園市平鎮區中興路平鎮段458號",
+    "raw": "桃園市平鎮區中興路平鎮段458號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "C",
+          "Matlab",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C、Matlab、Python"
+      },
+      {
+        "items": [
+          "產品或零件測試驗證",
+          "功能測試(function test)",
+          "軟體整合測試",
+          "韌體整合測試",
+          "測試計劃及測試報告書撰寫"
+        ],
+        "label": "工作技能",
+        "text": "產品或零件測試驗證、功能測試(function test)、軟體整合測試、韌體整合測試、測試計劃及測試報告書撰寫"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 有電動乘用車、商用車、非道路用車或相關電力電子系統開發經驗尤佳\n2. 有嵌入式系統, Python, Matlab Simulink使用經驗佳\n3. 熟悉ASPICE、ISO26262、AutoSAR、ISO21434尤佳\n4. 熟悉QAC, Vector CAST, dSPACE尤佳"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "機械工程相關"
+    ],
+    "other_text": "1. 有電動乘用車、商用車、非道路用車或相關電力電子系統開發經驗尤佳\n2. 有嵌入式系統, Python, Matlab Simulink使用經驗佳\n3. 熟悉ASPICE、ISO26262、AutoSAR、ISO21434尤佳\n4. 熟悉QAC, Vector CAST, dSPACE尤佳",
+    "skills": [
+      "產品或零件測試驗證",
+      "功能測試(function test)",
+      "軟體整合測試",
+      "韌體整合測試",
+      "測試計劃及測試報告書撰寫"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、機械工程相關\n擅長工具：C、Matlab、Python\n工作技能：產品或零件測試驗證、功能測試(function test)、軟體整合測試、韌體整合測試、測試計劃及測試報告書撰寫\n其他條件：1. 有電動乘用車、商用車、非道路用車或相關電力電子系統開發經驗尤佳\n2. 有嵌入式系統, Python, Matlab Simulink使用經驗佳\n3. 熟悉ASPICE、ISO26262、AutoSAR、ISO21434尤佳\n4. 熟悉QAC, Vector CAST, dSPACE尤佳",
+    "tools": [
+      "C",
+      "Matlab",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 76
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:30:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.熟悉基本開發工具及程式語言 。\n2.進行單元功能程式整合。\n3.單元功能程式撰寫及驗證。\n4.系統壓力測試。\n5.撰寫工程規格/技術文件 (包含測試計畫)。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟韌體測試工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟韌體測試工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市平鎮區中興路平鎮段458號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.熟悉基本開發工具及程式語言 。\n2.進行單元功能程式整合。\n3.單元功能程式撰寫及驗證。\n4.系統壓力測試。\n5.撰寫工程規格/技術文件 (包含測試計畫)。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "Matlab",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C、Matlab、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "產品或零件測試驗證",
+            "功能測試(function test)",
+            "軟體整合測試",
+            "韌體整合測試",
+            "測試計劃及測試報告書撰寫"
+          ],
+          "label": "工作技能",
+          "text": "產品或零件測試驗證、功能測試(function test)、軟體整合測試、韌體整合測試、測試計劃及測試報告書撰寫",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 有電動乘用車、商用車、非道路用車或相關電力電子系統開發經驗尤佳\n2. 有嵌入式系統, Python, Matlab Simulink使用經驗佳\n3. 熟悉ASPICE、ISO26262、AutoSAR、ISO21434尤佳\n4. 熟悉QAC, Vector CAST, dSPACE尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、機械工程相關\n擅長工具：C、Matlab、Python\n工作技能：產品或零件測試驗證、功能測試(function test)、軟體整合測試、韌體整合測試、測試計劃及測試報告書撰寫\n其他條件：1. 有電動乘用車、商用車、非道路用車或相關電力電子系統開發經驗尤佳\n2. 有嵌入式系統, Python, Matlab Simulink使用經驗佳\n3. 熟悉ASPICE、ISO26262、AutoSAR、ISO21434尤佳\n4. 熟悉QAC, Vector CAST, dSPACE尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "94gww",
+    "job_url": "https://www.104.com.tw/job/94gww",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94gww.json",
+    "raw_sha256": "fb8eb83bf0d55ea63d8f93c6d1c181055728667949660b843900a143b6032b41",
+    "requested_url": "https://www.104.com.tw/api/jobs/94gww"
+  }
+}

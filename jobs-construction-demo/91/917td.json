@@ -1,0 +1,207 @@
+{
+  "company": {
+    "id": "1a2x6bn3x1",
+    "name": "品伸科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "規劃及執行產品控制單元設計。"
+        },
+        {
+          "children": [],
+          "text": "規劃執行產品韌體之撰寫，並維護量產產品。"
+        },
+        {
+          "children": [],
+          "text": "執行、協助或配合韌體新技術之研發、導入。"
+        },
+        {
+          "children": [],
+          "text": "執行產品韌體測試。"
+        },
+        {
+          "children": [],
+          "text": "控制韌體開發進度、品質與成本。"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項。"
+        },
+        {
+          "children": [],
+          "text": "電子相關，PCB LAYOUT。佳"
+        },
+        {
+          "children": [],
+          "text": "具 Visual Basic、C++ 、單晶片實務經驗尤佳。"
+        }
+      ],
+      "text": "1.規劃及執行產品控制單元設計。\n2.規劃執行產品韌體之撰寫，並維護量產產品。\n3.執行、協助或配合韌體新技術之研發、導入。\n4.執行產品韌體測試。\n5.控制韌體開發進度、品質與成本。\n6.主管交辦事項。\n7. 電子相關，PCB LAYOUT。佳\n8.具 Visual Basic、C++ 、單晶片實務經驗尤佳。"
+    },
+    "employment_type_raw": "全職",
+    "title": "韌體/軟體工程師"
+  },
+  "location": {
+    "address_raw": "台中市神岡區溪洲里神洲路856號",
+    "raw": "台中市神岡區溪洲里神洲路856號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "C++",
+          "Visual Basic"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Visual Basic"
+      },
+      {
+        "items": [
+          "PCB Layout軟體操作",
+          "PCB電路板圖表繪製",
+          "電路板佈局規劃"
+        ],
+        "label": "工作技能",
+        "text": "PCB Layout軟體操作、PCB電路板圖表繪製、電路板佈局規劃"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "PCB Layout軟體操作",
+      "PCB電路板圖表繪製",
+      "電路板佈局規劃"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：不拘\n擅長工具：C++、Visual Basic\n工作技能：PCB Layout軟體操作、PCB電路板圖表繪製、電路板佈局規劃",
+    "tools": [
+      "C++",
+      "Visual Basic"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 58
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:43:55+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.規劃及執行產品控制單元設計。\n2.規劃執行產品韌體之撰寫，並維護量產產品。\n3.執行、協助或配合韌體新技術之研發、導入。\n4.執行產品韌體測試。\n5.控制韌體開發進度、品質與成本。\n6.主管交辦事項。\n7. 電子相關，PCB LAYOUT。佳\n8.具 Visual Basic、C++ 、單晶片實務經驗尤佳。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市神岡區溪洲里神洲路856號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.規劃及執行產品控制單元設計。\n2.規劃執行產品韌體之撰寫，並維護量產產品。\n3.執行、協助或配合韌體新技術之研發、導入。\n4.執行產品韌體測試。\n5.控制韌體開發進度、品質與成本。\n6.主管交辦事項。\n7. 電子相關，PCB LAYOUT。佳\n8.具 Visual Basic、C++ 、單晶片實務經驗尤佳。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Visual Basic"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Visual Basic",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PCB Layout軟體操作",
+            "PCB電路板圖表繪製",
+            "電路板佈局規劃"
+          ],
+          "label": "工作技能",
+          "text": "PCB Layout軟體操作、PCB電路板圖表繪製、電路板佈局規劃",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘\n擅長工具：C++、Visual Basic\n工作技能：PCB Layout軟體操作、PCB電路板圖表繪製、電路板佈局規劃"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "917td",
+    "job_url": "https://www.104.com.tw/job/917td",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/917td.json",
+    "raw_sha256": "f51f6bc77655e35888f3243f91869151093af35183b9538d6576c8f8300fc173",
+    "requested_url": "https://www.104.com.tw/api/jobs/917td"
+  }
+}

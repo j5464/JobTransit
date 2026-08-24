@@ -1,0 +1,190 @@
+{
+  "company": {
+    "id": "2d9ntmw",
+    "name": "Advantech_研華股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop and enhance Linux or Windows drivers, with a focus on video-related functionality."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with cross-functional teams to ensure seamless integration of drivers with other software components."
+        },
+        {
+          "children": [],
+          "text": "Stay current with the latest operating system architectures and kernel developments."
+        },
+        {
+          "children": [],
+          "text": "Analyze and improve driver performance, optimizing speed and memory usage."
+        },
+        {
+          "children": [],
+          "text": "Maintain documentation for design, code, and product specifications."
+        },
+        {
+          "children": [],
+          "text": "A Bachelor's degree in Computer Science, Software Engineering, or a related field. An advanced degree is preferred."
+        },
+        {
+          "children": [],
+          "text": "Skill in either or both:"
+        },
+        {
+          "children": [],
+          "text": "Knowledge of video standards, for example HDMI / SDI."
+        },
+        {
+          "children": [],
+          "text": "Experience in ARM-based embedded Linux is a plus."
+        },
+        {
+          "children": [],
+          "text": "Experience in GPU-Direct / RDMA is a plus."
+        }
+      ],
+      "text": "We are seeking a focused and experienced software developer. The ideal candidate will be responsible for developing, optimizing, and maintaining Linux and Windows drivers and supporting software stack, and will work on cutting-edge technologies related to AI and video.\nKey Responsibilities:\n1. Develop and enhance Linux or Windows drivers, with a focus on video-related functionality.\n2. Collaborate with cross-functional teams to ensure seamless integration of drivers with other software components.\n3. Stay current with the latest operating system architectures and kernel developments.\n4. Analyze and improve driver performance, optimizing speed and memory usage.\n5. Maintain documentation for design, code, and product specifications.\nRequirements:\n1. A Bachelor's degree in Computer Science, Software Engineering, or a related field. An advanced degree is preferred.\n2. Skill in either or both:\na. In-depth knowledge of WDM, WDDM, KMDF, and other Windows driver models.\nb. Knowledge of Linux driver / V4L2 development.\n3. Knowledge of video standards, for example HDMI / SDI.\n4. Experience in ARM-based embedded Linux is a plus.\n5. Experience in GPU-Direct / RDMA is a plus."
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior SW Engineer_Video(內湖)_JR202606089"
+  },
+  "location": {
+    "address_raw": "台北市內湖區陽光街365巷33號1F",
+    "raw": "台北市內湖區陽光街365巷33號1F"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 25
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:24:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are seeking a focused and experienced software developer. The ideal candidate will be responsible for developing, optimizing, and maintaining Linux and Windows drivers and supporting software stack, and will work on cutting-edge technologies related to AI and video.\nKey Responsibilities:\n1. Develop and enhance Linux or Windows drivers, with a focus on video-related functionality.\n2. Collaborate with cross-functional teams to ensure seamless integration of drivers with other software components.\n3. Stay current with the latest operating system architectures and kernel developments.\n4. Analyze and improve driver performance, optimizing speed and memory usage.\n5. Maintain documentation for design, code, and product specifications.\nRequirements:\n1. A Bachelor's degree in Computer Science, Software Engineering, or a related field. An advanced degree is preferred.\n2. Skill in either or both:\na. In-depth knowledge of WDM, WDDM, KMDF, and other Windows driver models.\nb. Knowledge of Linux driver / V4L2 development.\n3. Knowledge of video standards, for example HDMI / SDI.\n4. Experience in ARM-based embedded Linux is a plus.\n5. Experience in GPU-Direct / RDMA is a plus.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區陽光街365巷33號1F",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are seeking a focused and experienced software developer. The ideal candidate will be responsible for developing, optimizing, and maintaining Linux and Windows drivers and supporting software stack, and will work on cutting-edge technologies related to AI and video.\nKey Responsibilities:\n1. Develop and enhance Linux or Windows drivers, with a focus on video-related functionality.\n2. Collaborate with cross-functional teams to ensure seamless integration of drivers with other software components.\n3. Stay current with the latest operating system architectures and kernel developments.\n4. Analyze and improve driver performance, optimizing speed and memory usage.\n5. Maintain documentation for design, code, and product specifications.\nRequirements:\n1. A Bachelor's degree in Computer Science, Software Engineering, or a related field. An advanced degree is preferred.\n2. Skill in either or both:\na. In-depth knowledge of WDM, WDDM, KMDF, and other Windows driver models.\nb. Knowledge of Linux driver / V4L2 development.\n3. Knowledge of video standards, for example HDMI / SDI.\n4. Experience in ARM-based embedded Linux is a plus.\n5. Experience in GPU-Direct / RDMA is a plus."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92anh",
+    "job_url": "https://www.104.com.tw/job/92anh",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92anh.json",
+    "raw_sha256": "78e46a04bb85677983ccac28bcf83ddf66af979c936024558db25f3e0552be6a",
+    "requested_url": "https://www.104.com.tw/api/jobs/92anh"
+  }
+}

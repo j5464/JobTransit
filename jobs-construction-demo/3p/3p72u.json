@@ -1,0 +1,217 @@
+{
+  "company": {
+    "id": "9qzgnew",
+    "name": "仁寶電腦工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "BIOS工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop and maintain the BIOS/UEFI program."
+        },
+        {
+          "children": [],
+          "text": "Initialize platform design and team up with cross-function."
+        },
+        {
+          "children": [],
+          "text": "Issue reports and support debugging with customers."
+        },
+        {
+          "children": [],
+          "text": "Research new technology and develop new features."
+        }
+      ],
+      "text": "1. Develop and maintain the BIOS/UEFI program.\n2. Initialize platform design and team up with cross-function.\n3. Issue reports and support debugging with customers.\n4. Research new technology and develop new features."
+    },
+    "employment_type_raw": "全職",
+    "title": "伺服器BIOS工程師(內湖) - TWIR02029"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路581號(114)",
+    "raw": "台北市內湖區瑞光路581號(114)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.無經驗可，公司有完整培訓制度\n2.熟悉Server產品架構，有3年以上Server BIOS設計實務經驗者尤佳。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "1.無經驗可，公司有完整培訓制度\n2.熟悉Server產品架構，有3年以上Server BIOS設計實務經驗者尤佳。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、資訊管理相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++\n其他條件：1.無經驗可，公司有完整培訓制度\n2.熟悉Server產品架構，有3年以上Server BIOS設計實務經驗者尤佳。",
+    "tools": [
+      "C",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 100
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:28:43+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. Develop and maintain the BIOS/UEFI program.\n2. Initialize platform design and team up with cross-function.\n3. Issue reports and support debugging with customers.\n4. Research new technology and develop new features.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "BIOS工程師"
+          ],
+          "label": "職務類別",
+          "text": "BIOS工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路581號(114)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. Develop and maintain the BIOS/UEFI program.\n2. Initialize platform design and team up with cross-function.\n3. Issue reports and support debugging with customers.\n4. Research new technology and develop new features."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.無經驗可，公司有完整培訓制度\n2.熟悉Server產品架構，有3年以上Server BIOS設計實務經驗者尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、資訊管理相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++\n其他條件：1.無經驗可，公司有完整培訓制度\n2.熟悉Server產品架構，有3年以上Server BIOS設計實務經驗者尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "3p72u",
+    "job_url": "https://www.104.com.tw/job/3p72u",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/3p72u.json",
+    "raw_sha256": "96abdad7e8bd8b9925ef39a7891ddf047cc04142e1ef90d34fc3943effd6de27",
+    "requested_url": "https://www.104.com.tw/api/jobs/3p72u"
+  }
+}

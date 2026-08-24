@@ -1,0 +1,226 @@
+{
+  "company": {
+    "id": "wfksusw",
+    "name": "采威國際資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "iOS工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責Android App 開發、維護與功能優化，持續提升產品品質與使用者體驗。"
+        },
+        {
+          "children": [],
+          "text": "參與新功能規劃與開發，包含 UI 實作、API 串接及功能測試。"
+        },
+        {
+          "children": [],
+          "text": "串接各類第三方 SDK（推播、定位、相機、支付等），打造完整的行動應用服務。"
+        },
+        {
+          "children": [],
+          "text": "與 WebView、H5／Vue.js、Flutter 模組整合，支援跨平台應用需求。"
+        },
+        {
+          "children": [],
+          "text": "協助Google Play上架、版本更新及配合Gitlab進行版控與 CI/CD 流程。"
+        },
+        {
+          "children": [],
+          "text": "與 PM、後端及 QA 密切合作，共同完成產品開發與持續改善。"
+        },
+        {
+          "children": [],
+          "text": "撰寫技術文件、維護開發紀錄及完成主管交辦事項。"
+        }
+      ],
+      "text": "1.負責Android App 開發、維護與功能優化，持續提升產品品質與使用者體驗。\n2.參與新功能規劃與開發，包含 UI 實作、API 串接及功能測試。\n3.串接各類第三方 SDK（推播、定位、相機、支付等），打造完整的行動應用服務。\n4.與 WebView、H5／Vue.js、Flutter 模組整合，支援跨平台應用需求。\n5.協助Google Play上架、版本更新及配合Gitlab進行版控與 CI/CD 流程。\n6.與 PM、後端及 QA 密切合作，共同完成產品開發與持續改善。\n7.撰寫技術文件、維護開發紀錄及完成主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "研發工程師(Android)｜工程與技術中心-產品研發處"
+  },
+  "location": {
+    "address_raw": "台中市西屯區漢翔東路33號",
+    "raw": "台中市西屯區漢翔東路33號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "Firebase",
+          "Flutter",
+          "Git",
+          "Kotlin",
+          "Dart",
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "Firebase、Flutter、Git、Kotlin、Dart、Java"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分項目】\n1. 有從零開始建立新Android APP或新功能模組經驗。\n2. 有Flutter開發、模組整合或APP維護經驗。\n3. 有WebView 、H5或Vue.js頁面整合經驗。\n4. 熟悉Gitlab CI/CD、Fastlane或自動化建置經驗。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "【加分項目】\n1. 有從零開始建立新Android APP或新功能模組經驗。\n2. 有Flutter開發、模組整合或APP維護經驗。\n3. 有WebView 、H5或Vue.js頁面整合經驗。\n4. 熟悉Gitlab CI/CD、Fastlane或自動化建置經驗。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、資訊管理相關、電機電子工程相關\n擅長工具：Firebase、Flutter、Git、Kotlin、Dart、Java\n其他條件：【加分項目】\n1. 有從零開始建立新Android APP或新功能模組經驗。\n2. 有Flutter開發、模組整合或APP維護經驗。\n3. 有WebView 、H5或Vue.js頁面整合經驗。\n4. 熟悉Gitlab CI/CD、Fastlane或自動化建置經驗。",
+    "tools": [
+      "Firebase",
+      "Flutter",
+      "Git",
+      "Kotlin",
+      "Dart",
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 41
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:02:34+08:00"
+  },
+  "salary": {
+    "raw": "月薪55,000~65,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責Android App 開發、維護與功能優化，持續提升產品品質與使用者體驗。\n2.參與新功能規劃與開發，包含 UI 實作、API 串接及功能測試。\n3.串接各類第三方 SDK（推播、定位、相機、支付等），打造完整的行動應用服務。\n4.與 WebView、H5／Vue.js、Flutter 模組整合，支援跨平台應用需求。\n5.協助Google Play上架、版本更新及配合Gitlab進行版控與 CI/CD 流程。\n6.與 PM、後端及 QA 密切合作，共同完成產品開發與持續改善。\n7.撰寫技術文件、維護開發紀錄及完成主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "iOS工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "iOS工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪55,000~65,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區漢翔東路33號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責Android App 開發、維護與功能優化，持續提升產品品質與使用者體驗。\n2.參與新功能規劃與開發，包含 UI 實作、API 串接及功能測試。\n3.串接各類第三方 SDK（推播、定位、相機、支付等），打造完整的行動應用服務。\n4.與 WebView、H5／Vue.js、Flutter 模組整合，支援跨平台應用需求。\n5.協助Google Play上架、版本更新及配合Gitlab進行版控與 CI/CD 流程。\n6.與 PM、後端及 QA 密切合作，共同完成產品開發與持續改善。\n7.撰寫技術文件、維護開發紀錄及完成主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Firebase",
+            "Flutter",
+            "Git",
+            "Kotlin",
+            "Dart",
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "Firebase、Flutter、Git、Kotlin、Dart、Java",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分項目】\n1. 有從零開始建立新Android APP或新功能模組經驗。\n2. 有Flutter開發、模組整合或APP維護經驗。\n3. 有WebView 、H5或Vue.js頁面整合經驗。\n4. 熟悉Gitlab CI/CD、Fastlane或自動化建置經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、資訊管理相關、電機電子工程相關\n擅長工具：Firebase、Flutter、Git、Kotlin、Dart、Java\n其他條件：【加分項目】\n1. 有從零開始建立新Android APP或新功能模組經驗。\n2. 有Flutter開發、模組整合或APP維護經驗。\n3. 有WebView 、H5或Vue.js頁面整合經驗。\n4. 熟悉Gitlab CI/CD、Fastlane或自動化建置經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93abl",
+    "job_url": "https://www.104.com.tw/job/93abl",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93abl.json",
+    "raw_sha256": "75dc4214b980ee00e97418eae1a4a96995246acf21d96d28077bf7f777dbd77c",
+    "requested_url": "https://www.104.com.tw/api/jobs/93abl"
+  }
+}

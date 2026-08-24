@@ -1,0 +1,211 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責研究、設計與開發NVMe SSD的可靠度驗證方法"
+        },
+        {
+          "children": [],
+          "text": "設計與開發SSD可靠性分析與驗證軟體 (C/C++)"
+        },
+        {
+          "children": [],
+          "text": "新世代可靠度驗證儀電設備規劃、訂定規格、設計及開發管理"
+        },
+        {
+          "children": [],
+          "text": "分析OCP、JEDEC、AEC、IEC等標準與客戶自定義驗證規範，並拆解可靠度驗證相關需求"
+        },
+        {
+          "children": [],
+          "text": "參與新技術前期design review，評估韌體設計符合規範"
+        },
+        {
+          "children": [],
+          "text": "提供客戶系統整合、相容性解決方案、分析軟體，分析異常Log並設計實驗方法釐清問題"
+        },
+        {
+          "children": [],
+          "text": "協助測試單位開發自動化及報表生成軟體(C++/python)"
+        }
+      ],
+      "text": "1. 負責研究、設計與開發NVMe SSD的可靠度驗證方法\n2. 設計與開發SSD可靠性分析與驗證軟體 (C/C++)\n3. 新世代可靠度驗證儀電設備規劃、訂定規格、設計及開發管理\n4. 分析OCP、JEDEC、AEC、IEC等標準與客戶自定義驗證規範，並拆解可靠度驗證相關需求\n5. 參與新技術前期design review，評估韌體設計符合規範\n6. 提供客戶系統整合、相容性解決方案、分析軟體，分析異常Log並設計實驗方法釐清問題\n7. 協助測試單位開發自動化及報表生成軟體(C++/python)"
+    },
+    "employment_type_raw": "全職",
+    "title": "RTE可靠度軟體開發工程師 0608R"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮",
+    "raw": "苗栗縣竹南鎮"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "工程學科類",
+          "自然科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、工程學科類、自然科學學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、精通、精通"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉C/C++, C# or Python\n2.熟悉OOP程式設計概念者佳\n3.熟悉統計學與資料科學佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、精通、精通"
+    ],
+    "majors": [
+      "數學及電算機科學學科類",
+      "工程學科類",
+      "自然科學學科類"
+    ],
+    "other_text": "1.熟悉C/C++, C# or Python\n2.熟悉OOP程式設計概念者佳\n3.熟悉統計學與資料科學佳",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類、工程學科類、自然科學學科類\n語文條件：英文：中等、中等、精通、精通\n其他條件：1.熟悉C/C++, C# or Python\n2.熟悉OOP程式設計概念者佳\n3.熟悉統計學與資料科學佳",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 63
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:56:37+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責研究、設計與開發NVMe SSD的可靠度驗證方法\n2. 設計與開發SSD可靠性分析與驗證軟體 (C/C++)\n3. 新世代可靠度驗證儀電設備規劃、訂定規格、設計及開發管理\n4. 分析OCP、JEDEC、AEC、IEC等標準與客戶自定義驗證規範，並拆解可靠度驗證相關需求\n5. 參與新技術前期design review，評估韌體設計符合規範\n6. 提供客戶系統整合、相容性解決方案、分析軟體，分析異常Log並設計實驗方法釐清問題\n7. 協助測試單位開發自動化及報表生成軟體(C++/python)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責研究、設計與開發NVMe SSD的可靠度驗證方法\n2. 設計與開發SSD可靠性分析與驗證軟體 (C/C++)\n3. 新世代可靠度驗證儀電設備規劃、訂定規格、設計及開發管理\n4. 分析OCP、JEDEC、AEC、IEC等標準與客戶自定義驗證規範，並拆解可靠度驗證相關需求\n5. 參與新技術前期design review，評估韌體設計符合規範\n6. 提供客戶系統整合、相容性解決方案、分析軟體，分析異常Log並設計實驗方法釐清問題\n7. 協助測試單位開發自動化及報表生成軟體(C++/python)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "工程學科類",
+            "自然科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、工程學科類、自然科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉C/C++, C# or Python\n2.熟悉OOP程式設計概念者佳\n3.熟悉統計學與資料科學佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類、工程學科類、自然科學學科類\n語文條件：英文：中等、中等、精通、精通\n其他條件：1.熟悉C/C++, C# or Python\n2.熟悉OOP程式設計概念者佳\n3.熟悉統計學與資料科學佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7mnlk",
+    "job_url": "https://www.104.com.tw/job/7mnlk",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7mnlk.json",
+    "raw_sha256": "ec7913f80d7d481ecfd40b15b6529bcd302249f993d13734333d744414b6db4f",
+    "requested_url": "https://www.104.com.tw/api/jobs/7mnlk"
+  }
+}

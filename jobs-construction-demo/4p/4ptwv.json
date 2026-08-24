@@ -1,0 +1,221 @@
+{
+  "company": {
+    "id": "7erm71c",
+    "name": "嘉晶電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "MIS程式設計師",
+      "軟體工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "規劃集團電子簽核系統發展"
+        },
+        {
+          "children": [],
+          "text": "督導電子郵件系統使用與資訊安全"
+        },
+        {
+          "children": [],
+          "text": "簽核系統及Report開發維護"
+        },
+        {
+          "children": [],
+          "text": "Net 系統開發維護"
+        }
+      ],
+      "text": "1.規劃集團電子簽核系統發展\n2.督導電子郵件系統使用與資訊安全\n3.簽核系統及Report開發維護\n4.Net 系統開發維護"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統資訊工程師(電子簽核)"
+  },
+  "location": {
+    "address_raw": "新竹市篤行一路10號",
+    "raw": "新竹市篤行一路10號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "Lotus Notes",
+          "Visual Basic .net"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、Lotus Notes、Visual Basic .net"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具網頁程式管理開發相關經驗者佳\n2.熟悉 SQL 語法\n3.具.Net 程式開發能力"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.具網頁程式管理開發相關經驗者佳\n2.熟悉 SQL 語法\n3.具.Net 程式開發能力",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、Lotus Notes、Visual Basic .net\n其他條件：1.具網頁程式管理開發相關經驗者佳\n2.熟悉 SQL 語法\n3.具.Net 程式開發能力",
+    "tools": [
+      "ASP.NET",
+      "Lotus Notes",
+      "Visual Basic .net"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 84
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:49:44+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.規劃集團電子簽核系統發展\n2.督導電子郵件系統使用與資訊安全\n3.簽核系統及Report開發維護\n4.Net 系統開發維護",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MIS程式設計師",
+            "軟體工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "MIS程式設計師、軟體工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市篤行一路10號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.規劃集團電子簽核系統發展\n2.督導電子郵件系統使用與資訊安全\n3.簽核系統及Report開發維護\n4.Net 系統開發維護"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "Lotus Notes",
+            "Visual Basic .net"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、Lotus Notes、Visual Basic .net",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具網頁程式管理開發相關經驗者佳\n2.熟悉 SQL 語法\n3.具.Net 程式開發能力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、Lotus Notes、Visual Basic .net\n其他條件：1.具網頁程式管理開發相關經驗者佳\n2.熟悉 SQL 語法\n3.具.Net 程式開發能力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "4ptwv",
+    "job_url": "https://www.104.com.tw/job/4ptwv",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/4ptwv.json",
+    "raw_sha256": "fa8b2afb9e6a91d5d4e66b3c7ceaab33cdc5a3e788abfb598283248bce9c3b65",
+    "requested_url": "https://www.104.com.tw/api/jobs/4ptwv"
+  }
+}

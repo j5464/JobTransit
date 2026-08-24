@@ -1,0 +1,235 @@
+{
+  "company": {
+    "id": "9jgwyk0",
+    "name": "系統電子工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "運用AI輔助企業內系統程式開發。"
+        }
+      ],
+      "text": "1: 串接 API，將大型語言模型 (LLM)、檢索增強生成 (RAG) 或代理 (Agent) 技術導入企業流程。\n2. 運用AI輔助企業內系統程式開發。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI軟體工程師 (資訊部_北)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區堤頂大道一段1號",
+    "raw": "台北市內湖區堤頂大道一段1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "工程學科類",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "工程學科類、數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "C#",
+          "MES",
+          "HTML",
+          "MS SQL",
+          "JavaScript",
+          "ASP.NET"
+        ],
+        "label": "擅長工具",
+        "text": "C#、MES、HTML、MS SQL、JavaScript、ASP.NET"
+      },
+      {
+        "items": [
+          "作業系統基本操作",
+          "網路應用軟體操作",
+          "系統維護操作",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "模組化系統設計",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "作業系統基本操作、網路應用軟體操作、系統維護操作、系統整合分析、軟體工程系統開發、軟體程式設計、模組化系統設計、資料庫軟體應用"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 程式與演算法（Python、機器/深度學習）\n2. LLM與RAG應用（LangChain、向量資料庫）\n3. 系統開發與佈署（MLOps、Docker）"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "工程學科類",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": "1. 程式與演算法（Python、機器/深度學習）\n2. LLM與RAG應用（LangChain、向量資料庫）\n3. 系統開發與佈署（MLOps、Docker）",
+    "skills": [
+      "作業系統基本操作",
+      "網路應用軟體操作",
+      "系統維護操作",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "模組化系統設計",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n科系要求：工程學科類、數學及電算機科學學科類\n擅長工具：C#、MES、HTML、MS SQL、JavaScript、ASP.NET\n工作技能：作業系統基本操作、網路應用軟體操作、系統維護操作、系統整合分析、軟體工程系統開發、軟體程式設計、模組化系統設計、資料庫軟體應用\n其他條件：1. 程式與演算法（Python、機器/深度學習）\n2. LLM與RAG應用（LangChain、向量資料庫）\n3. 系統開發與佈署（MLOps、Docker）",
+    "tools": [
+      "C#",
+      "MES",
+      "HTML",
+      "MS SQL",
+      "JavaScript",
+      "ASP.NET"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 18
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:06:31+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1: 串接 API，將大型語言模型 (LLM)、檢索增強生成 (RAG) 或代理 (Agent) 技術導入企業流程。\n2. 運用AI輔助企業內系統程式開發。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區堤頂大道一段1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1: 串接 API，將大型語言模型 (LLM)、檢索增強生成 (RAG) 或代理 (Agent) 技術導入企業流程。\n2. 運用AI輔助企業內系統程式開發。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "工程學科類",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "工程學科類、數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "MES",
+            "HTML",
+            "MS SQL",
+            "JavaScript",
+            "ASP.NET"
+          ],
+          "label": "擅長工具",
+          "text": "C#、MES、HTML、MS SQL、JavaScript、ASP.NET",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "作業系統基本操作",
+            "網路應用軟體操作",
+            "系統維護操作",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "模組化系統設計",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "作業系統基本操作、網路應用軟體操作、系統維護操作、系統整合分析、軟體工程系統開發、軟體程式設計、模組化系統設計、資料庫軟體應用",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 程式與演算法（Python、機器/深度學習）\n2. LLM與RAG應用（LangChain、向量資料庫）\n3. 系統開發與佈署（MLOps、Docker）",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n科系要求：工程學科類、數學及電算機科學學科類\n擅長工具：C#、MES、HTML、MS SQL、JavaScript、ASP.NET\n工作技能：作業系統基本操作、網路應用軟體操作、系統維護操作、系統整合分析、軟體工程系統開發、軟體程式設計、模組化系統設計、資料庫軟體應用\n其他條件：1. 程式與演算法（Python、機器/深度學習）\n2. LLM與RAG應用（LangChain、向量資料庫）\n3. 系統開發與佈署（MLOps、Docker）"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "90rhp",
+    "job_url": "https://www.104.com.tw/job/90rhp",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90rhp.json",
+    "raw_sha256": "451ff5d726b4de0217370d1696d4503c08cfc3b74d84c01d6ee5dd495c8d97c3",
+    "requested_url": "https://www.104.com.tw/api/jobs/90rhp"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "company": {
+    "id": "1a2x6bmzpn",
+    "name": "正奇精密科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體助理工程師",
+      "助理工程師",
+      "工程助理"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助客戶導入自動化控制及機器視覺應用方案。"
+        },
+        {
+          "children": [],
+          "text": "提供客戶軟體操作、功能設定及技術支援。"
+        },
+        {
+          "children": [],
+          "text": "協助設備安裝、測試、試車及驗證。"
+        },
+        {
+          "children": [],
+          "text": "協助整合工業相機、AI 視覺辨識及自動化控制系統。"
+        },
+        {
+          "children": [],
+          "text": "分析客戶需求，提供技術建議與解決方案。"
+        },
+        {
+          "children": [],
+          "text": "撰寫技術文件、操作手冊及教育訓練教材。"
+        },
+        {
+          "children": [],
+          "text": "配合業務拜訪客戶，提供技術簡報與產品展示。"
+        },
+        {
+          "children": [],
+          "text": "回覆客戶技術問題，並協助問題分析與排除。"
+        }
+      ],
+      "text": "01. 協助客戶導入自動化控制及機器視覺應用方案。\n02. 提供客戶軟體操作、功能設定及技術支援。\n03. 協助設備安裝、測試、試車及驗證。\n04. 協助整合工業相機、AI 視覺辨識及自動化控制系統。\n05. 分析客戶需求，提供技術建議與解決方案。\n06. 撰寫技術文件、操作手冊及教育訓練教材。\n07. 配合業務拜訪客戶，提供技術簡報與產品展示。\n09. 回覆客戶技術問題，並協助問題分析與排除。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體助理工程師"
+  },
+  "location": {
+    "address_raw": "桃園市龍潭區工二路一段193號",
+    "raw": "桃園市龍潭區工二路一段193號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件\n01. LabVIEW、Python 或 C# 開發經驗。(擇一即可)\n02. 製造業或科技業從業經驗。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "加分條件\n01. LabVIEW、Python 或 C# 開發經驗。(擇一即可)\n02. 製造業或科技業從業經驗。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：不拘\n其他條件：加分條件\n01. LabVIEW、Python 或 C# 開發經驗。(擇一即可)\n02. 製造業或科技業從業經驗。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 1
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:22:46+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "01. 協助客戶導入自動化控制及機器視覺應用方案。\n02. 提供客戶軟體操作、功能設定及技術支援。\n03. 協助設備安裝、測試、試車及驗證。\n04. 協助整合工業相機、AI 視覺辨識及自動化控制系統。\n05. 分析客戶需求，提供技術建議與解決方案。\n06. 撰寫技術文件、操作手冊及教育訓練教材。\n07. 配合業務拜訪客戶，提供技術簡報與產品展示。\n09. 回覆客戶技術問題，並協助問題分析與排除。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體助理工程師",
+            "助理工程師",
+            "工程助理"
+          ],
+          "label": "職務類別",
+          "text": "軟體助理工程師、助理工程師、工程助理",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市龍潭區工二路一段193號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "01. 協助客戶導入自動化控制及機器視覺應用方案。\n02. 提供客戶軟體操作、功能設定及技術支援。\n03. 協助設備安裝、測試、試車及驗證。\n04. 協助整合工業相機、AI 視覺辨識及自動化控制系統。\n05. 分析客戶需求，提供技術建議與解決方案。\n06. 撰寫技術文件、操作手冊及教育訓練教材。\n07. 配合業務拜訪客戶，提供技術簡報與產品展示。\n09. 回覆客戶技術問題，並協助問題分析與排除。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件\n01. LabVIEW、Python 或 C# 開發經驗。(擇一即可)\n02. 製造業或科技業從業經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘\n其他條件：加分條件\n01. LabVIEW、Python 或 C# 開發經驗。(擇一即可)\n02. 製造業或科技業從業經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/22",
+    "html_sha256": null,
+    "job_id": "93bsb",
+    "job_url": "https://www.104.com.tw/job/93bsb",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93bsb.json",
+    "raw_sha256": "70ec5c51e0ee13fb30bed90f279276910a8bd04e276aab2d4082d91a390352a0",
+    "requested_url": "https://www.104.com.tw/api/jobs/93bsb"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "UFS 相關 Host FW 開發&SDK LIB開發"
+        },
+        {
+          "children": [],
+          "text": "Host IC類FW韌體開發 & 驗證 on FPGA/ASIC"
+        },
+        {
+          "children": [],
+          "text": "負責 研發/Lab/客戶端之相關Host應用導入、技術支援、功能需求規劃...etc"
+        },
+        {
+          "children": [],
+          "text": "支援國內外客戶Host開發平台導入"
+        }
+      ],
+      "text": "1.UFS 相關 Host FW 開發&SDK LIB開發\n2.Host IC類FW韌體開發 & 驗證 on FPGA/ASIC\n3.負責 研發/Lab/客戶端之相關Host應用導入、技術支援、功能需求規劃...etc\n4.支援國內外客戶Host開發平台導入"
+    },
+    "employment_type_raw": "全職",
+    "title": "韌體工程師0603"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟ARM / 8051 韌體開發者佳者佳 2.熟C/C++/C#/Python"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1.熟ARM / 8051 韌體開發者佳者佳 2.熟C/C++/C#/Python",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：資訊工程相關\n擅長工具：C、C++、Python\n其他條件：1.熟ARM / 8051 韌體開發者佳者佳 2.熟C/C++/C#/Python",
+    "tools": [
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 24
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:20:46+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.UFS 相關 Host FW 開發&SDK LIB開發\n2.Host IC類FW韌體開發 & 驗證 on FPGA/ASIC\n3.負責 研發/Lab/客戶端之相關Host應用導入、技術支援、功能需求規劃...etc\n4.支援國內外客戶Host開發平台導入",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.UFS 相關 Host FW 開發&SDK LIB開發\n2.Host IC類FW韌體開發 & 驗證 on FPGA/ASIC\n3.負責 研發/Lab/客戶端之相關Host應用導入、技術支援、功能需求規劃...etc\n4.支援國內外客戶Host開發平台導入"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟ARM / 8051 韌體開發者佳者佳 2.熟C/C++/C#/Python",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：資訊工程相關\n擅長工具：C、C++、Python\n其他條件：1.熟ARM / 8051 韌體開發者佳者佳 2.熟C/C++/C#/Python"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8zh12",
+    "job_url": "https://www.104.com.tw/job/8zh12",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8zh12.json",
+    "raw_sha256": "b7113316b57b6a123f2a8e50cf04528a259f79cd42a8edaeff1a23afbc69780f",
+    "requested_url": "https://www.104.com.tw/api/jobs/8zh12"
+  }
+}

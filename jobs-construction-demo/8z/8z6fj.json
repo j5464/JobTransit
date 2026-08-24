@@ -1,0 +1,227 @@
+{
+  "company": {
+    "id": "13womfgw",
+    "name": "威盛電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟韌體測試工程師",
+      "軟體工程師",
+      "軟體助理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "軟硬體測試"
+        },
+        {
+          "children": [],
+          "text": "熟悉Linux介面與作業環境, 可操作、命令 & 下指令"
+        },
+        {
+          "children": [],
+          "text": "基礎程式Coding技能"
+        },
+        {
+          "children": [],
+          "text": "資訊工程/電子電機相關科系為佳"
+        }
+      ],
+      "text": "【工作內容】\n1. 軟硬體測試\n【專業技能】\n1. 熟悉Linux介面與作業環境, 可操作、命令 & 下指令\n2. 基礎程式Coding技能\n【加分】\n1. 資訊工程/電子電機相關科系為佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "測試工程師"
+  },
+  "location": {
+    "address_raw": "新北市新店區中正路533號8樓",
+    "raw": "新北市新店區中正路533號8樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Linux",
+          "Excel",
+          "PowerPoint",
+          "Outlook",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Excel、PowerPoint、Outlook、Word"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 需具備汽車駕照"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "1. 需具備汽車駕照",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Linux、Excel、PowerPoint、Outlook、Word\n其他條件：1. 需具備汽車駕照",
+    "tools": [
+      "Linux",
+      "Excel",
+      "PowerPoint",
+      "Outlook",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 94
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:13:09+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 軟硬體測試\n【專業技能】\n1. 熟悉Linux介面與作業環境, 可操作、命令 & 下指令\n2. 基礎程式Coding技能\n【加分】\n1. 資訊工程/電子電機相關科系為佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟韌體測試工程師",
+            "軟體工程師",
+            "軟體助理工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟韌體測試工程師、軟體工程師、軟體助理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區中正路533號8樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 軟硬體測試\n【專業技能】\n1. 熟悉Linux介面與作業環境, 可操作、命令 & 下指令\n2. 基礎程式Coding技能\n【加分】\n1. 資訊工程/電子電機相關科系為佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Excel",
+            "PowerPoint",
+            "Outlook",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Excel、PowerPoint、Outlook、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 需具備汽車駕照",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學\n科系要求：資訊工程相關、電機電子工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Linux、Excel、PowerPoint、Outlook、Word\n其他條件：1. 需具備汽車駕照"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8z6fj",
+    "job_url": "https://www.104.com.tw/job/8z6fj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8z6fj.json",
+    "raw_sha256": "97a005d64bd1689c65cb02a33c1aa550c2f8399c46cf51e41032b53405f816f0",
+    "requested_url": "https://www.104.com.tw/api/jobs/8z6fj"
+  }
+}

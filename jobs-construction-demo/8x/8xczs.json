@@ -1,0 +1,254 @@
+{
+  "company": {
+    "id": "5nyiafk",
+    "name": "閎泰科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "我們的使命是用 AI 重新定義人們的日常生活。"
+        },
+        {
+          "children": [],
+          "text": "Radar signal processing（FFT、CFAR、Clustering）"
+        },
+        {
+          "children": [],
+          "text": "Point Cloud、Range-Doppler Map 處理"
+        },
+        {
+          "children": [],
+          "text": "Occupancy / Gesture / Tracking 演算法"
+        }
+      ],
+      "text": "●我們的使命是用 AI 重新定義人們的日常生活。\n我們不只在開發產品，更在創造前所未有的智慧生活體驗。如果你對 AI 懷抱熱情，並渴望親手用技術和謀略創造真實的影響力，我們正在尋找的就是你！●\n【工作內容】\n1. Radar signal processing（FFT、CFAR、Clustering）\n2. Point Cloud、Range-Doppler Map 處理\n3. Occupancy / Gesture / Tracking 演算法"
+    },
+    "employment_type_raw": "全職",
+    "title": "【新事業部】雷達演算法工程師"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶橋路235巷167號",
+    "raw": "新北市新店區寶橋路235巷167號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word",
+          "中文打字20~50",
+          "英文打字20~50",
+          "Matlab",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Outlook、PowerPoint、Word、中文打字20~50、英文打字20~50、Matlab、C++、Python"
+      },
+      {
+        "items": [
+          "演算法設計",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "演算法設計、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "- 熟悉 MATLAB / Python /C++\n- 精通 數位訊號處理 (DSP)\n- 有 AI/ML 背景佳\n- 有雷達物件辨識開發經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關"
+    ],
+    "other_text": "- 熟悉 MATLAB / Python /C++\n- 精通 數位訊號處理 (DSP)\n- 有 AI/ML 背景佳\n- 有雷達物件辨識開發經驗",
+    "skills": [
+      "演算法設計",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word、中文打字20~50、英文打字20~50、Matlab、C++、Python\n工作技能：演算法設計、軟體程式設計\n其他條件：- 熟悉 MATLAB / Python /C++\n- 精通 數位訊號處理 (DSP)\n- 有 AI/ML 背景佳\n- 有雷達物件辨識開發經驗",
+    "tools": [
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word",
+      "中文打字20~50",
+      "英文打字20~50",
+      "Matlab",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 52
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:29:23+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "●我們的使命是用 AI 重新定義人們的日常生活。\n我們不只在開發產品，更在創造前所未有的智慧生活體驗。如果你對 AI 懷抱熱情，並渴望親手用技術和謀略創造真實的影響力，我們正在尋找的就是你！●\n【工作內容】\n1. Radar signal processing（FFT、CFAR、Clustering）\n2. Point Cloud、Range-Doppler Map 處理\n3. Occupancy / Gesture / Tracking 演算法",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶橋路235巷167號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "●我們的使命是用 AI 重新定義人們的日常生活。\n我們不只在開發產品，更在創造前所未有的智慧生活體驗。如果你對 AI 懷抱熱情，並渴望親手用技術和謀略創造真實的影響力，我們正在尋找的就是你！●\n【工作內容】\n1. Radar signal processing（FFT、CFAR、Clustering）\n2. Point Cloud、Range-Doppler Map 處理\n3. Occupancy / Gesture / Tracking 演算法"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word",
+            "中文打字20~50",
+            "英文打字20~50",
+            "Matlab",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Outlook、PowerPoint、Word、中文打字20~50、英文打字20~50、Matlab、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "演算法設計",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "演算法設計、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "- 熟悉 MATLAB / Python /C++\n- 精通 數位訊號處理 (DSP)\n- 有 AI/ML 背景佳\n- 有雷達物件辨識開發經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word、中文打字20~50、英文打字20~50、Matlab、C++、Python\n工作技能：演算法設計、軟體程式設計\n其他條件：- 熟悉 MATLAB / Python /C++\n- 精通 數位訊號處理 (DSP)\n- 有 AI/ML 背景佳\n- 有雷達物件辨識開發經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8xczs",
+    "job_url": "https://www.104.com.tw/job/8xczs",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xczs.json",
+    "raw_sha256": "481aa39edcac72407813dc364cae263b1fbfba3affe2bab8e1fb4efe6d69a871",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xczs"
+  }
+}

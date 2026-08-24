@@ -1,0 +1,220 @@
+{
+  "company": {
+    "id": "1a2x6bn2ab",
+    "name": "狄泰有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "核心邏輯與 API 開發："
+        },
+        {
+          "children": [],
+          "text": "1 使用 C# / .NET Core 開發系統核心功能，撰寫模組化、可測試且高可讀性的程式碼"
+        },
+        {
+          "children": [],
+          "text": "2 設計並實作高效能的 RESTful API, WebSocket 與 SignalR 數據交換標準，並撰寫完整的 API 文件"
+        },
+        {
+          "children": [],
+          "text": "資料庫管理與效能優化："
+        },
+        {
+          "children": [],
+          "text": "1 負責資料庫架構設計與索引優化"
+        },
+        {
+          "children": [],
+          "text": "2 分析 Slow Queries 並調校查詢語句，確保數據存取效率"
+        },
+        {
+          "children": [],
+          "text": "系統維運與架構參與："
+        },
+        {
+          "children": [],
+          "text": "1 參與微服務、訊息隊列與緩存機制的架構討論與實施"
+        },
+        {
+          "children": [],
+          "text": "2 利用 Logging 與監控工具進行生產環境的故障排除，定位效能瓶頸"
+        },
+        {
+          "children": [],
+          "text": "經驗"
+        },
+        {
+          "children": [],
+          "text": "1 具備一年以上後端開發相關工作經驗"
+        },
+        {
+          "children": [],
+          "text": "2 具備 Docker 基礎操作經驗"
+        },
+        {
+          "children": [],
+          "text": "知識工具"
+        },
+        {
+          "children": [],
+          "text": "1 深入掌握 C# 與 .NET Core 框架"
+        },
+        {
+          "children": [],
+          "text": "2 熟悉 RESTful API, WebSocket, SignalR 運作原理"
+        },
+        {
+          "children": [],
+          "text": "3 深入理解 SQL 設計規範、索引機制與查詢優化技巧"
+        },
+        {
+          "children": [],
+          "text": "4 理解分散式系統、微服務、Redis 快取、Message Queue 等概念"
+        },
+        {
+          "children": [],
+          "text": "5 了解使用者認證與授權機制 (如 OTP, JWT)"
+        },
+        {
+          "children": [],
+          "text": "6 熟練 Git 指令或 GUI 工具操作"
+        },
+        {
+          "children": [],
+          "text": "積極參與跨部門技術討論，共同確認需求可行性"
+        },
+        {
+          "children": [],
+          "text": "在系統設計時能理性權衡效能、成本與穩定性，開放接納多元觀點"
+        },
+        {
+          "children": [],
+          "text": "樂於針對程式碼品質、系統流程與架構主動提出優化建議"
+        }
+      ],
+      "text": "此職位負責開發、建立和維護應用程式的核心伺服器邏輯、數據庫系統和數據接口。目標是確保數據處理的正確性、系統運行的穩定性、高擴展性，並為前端和其他服務提供安全可靠的 API。\n【核心職責】\n1. 核心邏輯與 API 開發：\n1.1 使用 C# / .NET Core 開發系統核心功能，撰寫模組化、可測試且高可讀性的程式碼\n1.2 設計並實作高效能的 RESTful API, WebSocket 與 SignalR 數據交換標準，並撰寫完整的 API 文件\n2. 資料庫管理與效能優化：\n2.1 負責資料庫架構設計與索引優化\n2.2 分析 Slow Queries 並調校查詢語句，確保數據存取效率\n3. 系統維運與架構參與：\n3.1 參與微服務、訊息隊列與緩存機制的架構討論與實施\n3.2 利用 Logging 與監控工具進行生產環境的故障排除，定位效能瓶頸\n【基本條件】\n1. 經驗\n1.1 具備一年以上後端開發相關工作經驗\n1.2 具備 Docker 基礎操作經驗\n2. 知識工具\n2.1 深入掌握 C# 與 .NET Core 框架\n2.2 熟悉 RESTful API, WebSocket, SignalR 運作原理\n2.3 深入理解 SQL 設計規範、索引機制與查詢優化技巧\n2.4 理解分散式系統、微服務、Redis 快取、Message Queue 等概念\n2.5 了解使用者認證與授權機制 (如 OTP, JWT)\n2.6 熟練 Git 指令或 GUI 工具操作\n【期望您的工作方式】\n1. 積極參與跨部門技術討論，共同確認需求可行性\n2. 在系統設計時能理性權衡效能、成本與穩定性，開放接納多元觀點\n【加分條件】\n1. 樂於針對程式碼品質、系統流程與架構主動提出優化建議"
+    },
+    "employment_type_raw": "全職",
+    "title": "後端工程師"
+  },
+  "location": {
+    "address_raw": "台中市西屯區文心路二段201號11樓之7",
+    "raw": "台中市西屯區文心路二段201號11樓之7"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 11
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:48:26+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "此職位負責開發、建立和維護應用程式的核心伺服器邏輯、數據庫系統和數據接口。目標是確保數據處理的正確性、系統運行的穩定性、高擴展性，並為前端和其他服務提供安全可靠的 API。\n【核心職責】\n1. 核心邏輯與 API 開發：\n1.1 使用 C# / .NET Core 開發系統核心功能，撰寫模組化、可測試且高可讀性的程式碼\n1.2 設計並實作高效能的 RESTful API, WebSocket 與 SignalR 數據交換標準，並撰寫完整的 API 文件\n2. 資料庫管理與效能優化：\n2.1 負責資料庫架構設計與索引優化\n2.2 分析 Slow Queries 並調校查詢語句，確保數據存取效率\n3. 系統維運與架構參與：\n3.1 參與微服務、訊息隊列與緩存機制的架構討論與實施\n3.2 利用 Logging 與監控工具進行生產環境的故障排除，定位效能瓶頸\n【基本條件】\n1. 經驗\n1.1 具備一年以上後端開發相關工作經驗\n1.2 具備 Docker 基礎操作經驗\n2. 知識工具\n2.1 深入掌握 C# 與 .NET Core 框架\n2.2 熟悉 RESTful API, WebSocket, SignalR 運作原理\n2.3 深入理解 SQL 設計規範、索引機制與查詢優化技巧\n2.4 理解分散式系統、微服務、Redis 快取、Message Queue 等概念\n2.5 了解使用者認證與授權機制 (如 OTP, JWT)\n2.6 熟練 Git 指令或 GUI 工具操作\n【期望您的工作方式】\n1. 積極參與跨部門技術討論，共同確認需求可行性\n2. 在系統設計時能理性權衡效能、成本與穩定性，開放接納多元觀點\n【加分條件】\n1. 樂於針對程式碼品質、系統流程與架構主動提出優化建議",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區文心路二段201號11樓之7",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "此職位負責開發、建立和維護應用程式的核心伺服器邏輯、數據庫系統和數據接口。目標是確保數據處理的正確性、系統運行的穩定性、高擴展性，並為前端和其他服務提供安全可靠的 API。\n【核心職責】\n1. 核心邏輯與 API 開發：\n1.1 使用 C# / .NET Core 開發系統核心功能，撰寫模組化、可測試且高可讀性的程式碼\n1.2 設計並實作高效能的 RESTful API, WebSocket 與 SignalR 數據交換標準，並撰寫完整的 API 文件\n2. 資料庫管理與效能優化：\n2.1 負責資料庫架構設計與索引優化\n2.2 分析 Slow Queries 並調校查詢語句，確保數據存取效率\n3. 系統維運與架構參與：\n3.1 參與微服務、訊息隊列與緩存機制的架構討論與實施\n3.2 利用 Logging 與監控工具進行生產環境的故障排除，定位效能瓶頸\n【基本條件】\n1. 經驗\n1.1 具備一年以上後端開發相關工作經驗\n1.2 具備 Docker 基礎操作經驗\n2. 知識工具\n2.1 深入掌握 C# 與 .NET Core 框架\n2.2 熟悉 RESTful API, WebSocket, SignalR 運作原理\n2.3 深入理解 SQL 設計規範、索引機制與查詢優化技巧\n2.4 理解分散式系統、微服務、Redis 快取、Message Queue 等概念\n2.5 了解使用者認證與授權機制 (如 OTP, JWT)\n2.6 熟練 Git 指令或 GUI 工具操作\n【期望您的工作方式】\n1. 積極參與跨部門技術討論，共同確認需求可行性\n2. 在系統設計時能理性權衡效能、成本與穩定性，開放接納多元觀點\n【加分條件】\n1. 樂於針對程式碼品質、系統流程與架構主動提出優化建議"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ti9g",
+    "job_url": "https://www.104.com.tw/job/8ti9g",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ti9g.json",
+    "raw_sha256": "4441e0b05a6bcb98eb71493ea510d267afa01755985383174f0615d69805f164",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ti9g"
+  }
+}

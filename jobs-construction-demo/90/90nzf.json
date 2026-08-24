@@ -1,0 +1,291 @@
+{
+  "company": {
+    "id": "1a2x6bnojm",
+    "name": "UGUARD NETWORKS_新加坡商優達網路股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "軟體工程師",
+      "軟體助理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依據需求進行軟體系統設計與開發"
+        },
+        {
+          "children": [],
+          "text": "撰寫程式碼、模組測試與除錯"
+        },
+        {
+          "children": [],
+          "text": "與產品經理、測試工程師協作完成專案開發"
+        },
+        {
+          "children": [],
+          "text": "維護並優化現有產品功能"
+        },
+        {
+          "children": [],
+          "text": "熟悉前端：PHP / Vue.js / JS 等至少一種語言"
+        },
+        {
+          "children": [],
+          "text": "熟悉後端：Python / PHP / go 等至少一種語言"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料庫：SQL / NoSQL 至少一種資料庫操作（MySQL、ClickHouse、Redis）"
+        },
+        {
+          "children": [],
+          "text": "熟悉Linux至少一種發行版的指令（Ubuntu 、Freebsd、Debian等）"
+        },
+        {
+          "children": [],
+          "text": "具備 RESTful API 開發操作經驗"
+        },
+        {
+          "children": [],
+          "text": "了解基本網路概念（TCP/IP、HTTP、DNS）"
+        },
+        {
+          "children": [],
+          "text": "Git / SVN 版控操作"
+        },
+        {
+          "children": [],
+          "text": "具備 Shell Script 撰寫能力（如自動化部署腳本）"
+        },
+        {
+          "children": [],
+          "text": "能閱讀與維護現有程式碼，具備除錯能力。"
+        },
+        {
+          "children": [],
+          "text": "溝通表達能力佳，可對內部簡報說明。"
+        },
+        {
+          "children": [],
+          "text": "具備大量數據的整理/清洗操作經驗"
+        },
+        {
+          "children": [],
+          "text": "說明文件撰寫能力(Markdown語法)"
+        },
+        {
+          "children": [],
+          "text": "能配合Mid-level(含)以上工程師完成單元模組開發"
+        }
+      ],
+      "text": "【關於 UGUARD NETWORKS】\nUGUARD NETWORKS 成立於 2017 年 ( 原名：崴遠科技 )，是一家專注於網路管理、資安防護、資安設備與雲端服務研發的台灣原廠，致力於提供企業級網路與資安解決方案。我們持續深耕台灣市場，並於 2024 年在新加坡設立海外營運據點，積極拓展海外市場與國際佈局。\n【職位概述】\n負責公司產品、內部系統的設計、開發與測試，提升成品的效能與穩定性。在這裡，您將有機會參與自有產品的前端開發，接觸企業級網路與資安應用場景，並與團隊共同打造具市場競爭力的產品與服務。\n【工作職責】\n1. 依據需求進行軟體系統設計與開發\n2. 撰寫程式碼、模組測試與除錯\n3. 與產品經理、測試工程師協作完成專案開發\n4. 維護並優化現有產品功能\n【應備知識】\n1. 熟悉前端：PHP / Vue.js / JS 等至少一種語言\n2. 熟悉後端：Python / PHP / go 等至少一種語言\n3. 熟悉資料庫：SQL / NoSQL 至少一種資料庫操作（MySQL、ClickHouse、Redis）\n4. 熟悉Linux至少一種發行版的指令（Ubuntu 、Freebsd、Debian等）\n5. 具備 RESTful API 開發操作經驗\n6. 了解基本網路概念（TCP/IP、HTTP、DNS）\n7. Git / SVN 版控操作\n8. 具備 Shell Script 撰寫能力（如自動化部署腳本）\n【應備技能】\n1. 能閱讀與維護現有程式碼，具備除錯能力。\n2. 溝通表達能力佳，可對內部簡報說明。\n3. 具備大量數據的整理/清洗操作經驗\n4. 說明文件撰寫能力(Markdown語法)\n5. 能配合Mid-level(含)以上工程師完成單元模組開發"
+    },
+    "employment_type_raw": "全職",
+    "title": "前端工程師"
+  },
+  "location": {
+    "address_raw": "新北市中和區中正路738號7樓之4 (遠東世紀廣場B棟)",
+    "raw": "新北市中和區中正路738號7樓之4 (遠東世紀廣場B棟)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Git",
+          "Python",
+          "Go",
+          "MySQL",
+          "VueJS",
+          "DNS",
+          "HTTP",
+          "TCP/IP",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "Git、Python、Go、MySQL、VueJS、DNS、HTTP、TCP/IP、JavaScript"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、資料庫軟體應用"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 歡迎緯育TibaMe學員投遞履歷\n2. 資訊產業相關科系，或曾於職訓單位受過相關產業教育(需課程3個月以上，且有結業證書)者亦可。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "1. 歡迎緯育TibaMe學員投遞履歷\n2. 資訊產業相關科系，或曾於職訓單位受過相關產業教育(需課程3個月以上，且有結業證書)者亦可。",
+    "skills": [
+      "軟體程式設計",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Git、Python、Go、MySQL、VueJS、DNS、HTTP、TCP/IP、JavaScript\n工作技能：軟體程式設計、資料庫軟體應用\n其他條件：1. 歡迎緯育TibaMe學員投遞履歷\n2. 資訊產業相關科系，或曾於職訓單位受過相關產業教育(需課程3個月以上，且有結業證書)者亦可。",
+    "tools": [
+      "Git",
+      "Python",
+      "Go",
+      "MySQL",
+      "VueJS",
+      "DNS",
+      "HTTP",
+      "TCP/IP",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 12
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:51:33+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【關於 UGUARD NETWORKS】\nUGUARD NETWORKS 成立於 2017 年 ( 原名：崴遠科技 )，是一家專注於網路管理、資安防護、資安設備與雲端服務研發的台灣原廠，致力於提供企業級網路與資安解決方案。我們持續深耕台灣市場，並於 2024 年在新加坡設立海外營運據點，積極拓展海外市場與國際佈局。\n【職位概述】\n負責公司產品、內部系統的設計、開發與測試，提升成品的效能與穩定性。在這裡，您將有機會參與自有產品的前端開發，接觸企業級網路與資安應用場景，並與團隊共同打造具市場競爭力的產品與服務。\n【工作職責】\n1. 依據需求進行軟體系統設計與開發\n2. 撰寫程式碼、模組測試與除錯\n3. 與產品經理、測試工程師協作完成專案開發\n4. 維護並優化現有產品功能\n【應備知識】\n1. 熟悉前端：PHP / Vue.js / JS 等至少一種語言\n2. 熟悉後端：Python / PHP / go 等至少一種語言\n3. 熟悉資料庫：SQL / NoSQL 至少一種資料庫操作（MySQL、ClickHouse、Redis）\n4. 熟悉Linux至少一種發行版的指令（Ubuntu 、Freebsd、Debian等）\n5. 具備 RESTful API 開發操作經驗\n6. 了解基本網路概念（TCP/IP、HTTP、DNS）\n7. Git / SVN 版控操作\n8. 具備 Shell Script 撰寫能力（如自動化部署腳本）\n【應備技能】\n1. 能閱讀與維護現有程式碼，具備除錯能力。\n2. 溝通表達能力佳，可對內部簡報說明。\n3. 具備大量數據的整理/清洗操作經驗\n4. 說明文件撰寫能力(Markdown語法)\n5. 能配合Mid-level(含)以上工程師完成單元模組開發",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "軟體工程師",
+            "軟體助理工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、軟體工程師、軟體助理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區中正路738號7樓之4 (遠東世紀廣場B棟)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【關於 UGUARD NETWORKS】\nUGUARD NETWORKS 成立於 2017 年 ( 原名：崴遠科技 )，是一家專注於網路管理、資安防護、資安設備與雲端服務研發的台灣原廠，致力於提供企業級網路與資安解決方案。我們持續深耕台灣市場，並於 2024 年在新加坡設立海外營運據點，積極拓展海外市場與國際佈局。\n【職位概述】\n負責公司產品、內部系統的設計、開發與測試，提升成品的效能與穩定性。在這裡，您將有機會參與自有產品的前端開發，接觸企業級網路與資安應用場景，並與團隊共同打造具市場競爭力的產品與服務。\n【工作職責】\n1. 依據需求進行軟體系統設計與開發\n2. 撰寫程式碼、模組測試與除錯\n3. 與產品經理、測試工程師協作完成專案開發\n4. 維護並優化現有產品功能\n【應備知識】\n1. 熟悉前端：PHP / Vue.js / JS 等至少一種語言\n2. 熟悉後端：Python / PHP / go 等至少一種語言\n3. 熟悉資料庫：SQL / NoSQL 至少一種資料庫操作（MySQL、ClickHouse、Redis）\n4. 熟悉Linux至少一種發行版的指令（Ubuntu 、Freebsd、Debian等）\n5. 具備 RESTful API 開發操作經驗\n6. 了解基本網路概念（TCP/IP、HTTP、DNS）\n7. Git / SVN 版控操作\n8. 具備 Shell Script 撰寫能力（如自動化部署腳本）\n【應備技能】\n1. 能閱讀與維護現有程式碼，具備除錯能力。\n2. 溝通表達能力佳，可對內部簡報說明。\n3. 具備大量數據的整理/清洗操作經驗\n4. 說明文件撰寫能力(Markdown語法)\n5. 能配合Mid-level(含)以上工程師完成單元模組開發"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "Python",
+            "Go",
+            "MySQL",
+            "VueJS",
+            "DNS",
+            "HTTP",
+            "TCP/IP",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "Git、Python、Go、MySQL、VueJS、DNS、HTTP、TCP/IP、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、資料庫軟體應用",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 歡迎緯育TibaMe學員投遞履歷\n2. 資訊產業相關科系，或曾於職訓單位受過相關產業教育(需課程3個月以上，且有結業證書)者亦可。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Git、Python、Go、MySQL、VueJS、DNS、HTTP、TCP/IP、JavaScript\n工作技能：軟體程式設計、資料庫軟體應用\n其他條件：1. 歡迎緯育TibaMe學員投遞履歷\n2. 資訊產業相關科系，或曾於職訓單位受過相關產業教育(需課程3個月以上，且有結業證書)者亦可。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "90nzf",
+    "job_url": "https://www.104.com.tw/job/90nzf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90nzf.json",
+    "raw_sha256": "caae6a0467d50b8541439113f7d7734d6dbd85d551eaa9e2a68868740b51a67e",
+    "requested_url": "https://www.104.com.tw/api/jobs/90nzf"
+  }
+}

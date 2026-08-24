@@ -1,0 +1,254 @@
+{
+  "company": {
+    "id": "a6fk8ns",
+    "name": "精益科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "通訊軟體工程師",
+      "其他工程研發主管",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "帶領團隊開發各項Web應用及服務。"
+        },
+        {
+          "children": [],
+          "text": "部門管理與工作指派。"
+        },
+        {
+          "children": [],
+          "text": "跨部門溝通協調及針對開發需求進行技術評估並規劃解決方案。"
+        },
+        {
+          "children": [],
+          "text": "規劃雲端服務系統架構。"
+        },
+        {
+          "children": [],
+          "text": "定期工作進度匯報。"
+        }
+      ],
+      "text": "1. 帶領團隊開發各項Web應用及服務。\n2. 部門管理與工作指派。\n3. 跨部門溝通協調及針對開發需求進行技術評估並規劃解決方案。\n4. 規劃雲端服務系統架構。\n5. 定期工作進度匯報。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體研發主管"
+  },
+  "location": {
+    "address_raw": "高雄市前鎮區復興四路12號3樓之15",
+    "raw": "高雄市前鎮區復興四路12號3樓之15"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "10年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "10年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Java",
+          "PHP",
+          "Python",
+          "PostgreSQL",
+          "Spring",
+          "AWS"
+        ],
+        "label": "擅長工具",
+        "text": "Java、PHP、Python、PostgreSQL、Spring、AWS"
+      },
+      {
+        "items": [
+          "模組化系統設計",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "模組化系統設計、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟悉Python/PHP/Java語言。\n2. 熟悉PostgreSQL/MongoDB或其他資料庫系統。\n3. 熟悉至少一種軟體框架(FastAPI/Spring Boot/.NET)。\n4. 熟悉Restful API的概念與設計。\n5. 熟悉前後端分離設計。\n6. 熟悉任一前端框架尤佳(React/Vue)。\n7. 具備任一雲端服務建置經驗尤佳(AWS/GCP/Azure)。\n8. 具備Scrum Master經驗尤佳。\n9. 熟悉 Docker/K8S 等容器化技術尤佳\n10. 具備CICD建置經驗尤佳。\n11. 具備微服務架構設計經驗尤佳"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "1. 熟悉Python/PHP/Java語言。\n2. 熟悉PostgreSQL/MongoDB或其他資料庫系統。\n3. 熟悉至少一種軟體框架(FastAPI/Spring Boot/.NET)。\n4. 熟悉Restful API的概念與設計。\n5. 熟悉前後端分離設計。\n6. 熟悉任一前端框架尤佳(React/Vue)。\n7. 具備任一雲端服務建置經驗尤佳(AWS/GCP/Azure)。\n8. 具備Scrum Master經驗尤佳。\n9. 熟悉 Docker/K8S 等容器化技術尤佳\n10. 具備CICD建置經驗尤佳。\n11. 具備微服務架構設計經驗尤佳",
+    "skills": [
+      "模組化系統設計",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：10年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Java、PHP、Python、PostgreSQL、Spring、AWS\n工作技能：模組化系統設計、軟體程式設計\n其他條件：1. 熟悉Python/PHP/Java語言。\n2. 熟悉PostgreSQL/MongoDB或其他資料庫系統。\n3. 熟悉至少一種軟體框架(FastAPI/Spring Boot/.NET)。\n4. 熟悉Restful API的概念與設計。\n5. 熟悉前後端分離設計。\n6. 熟悉任一前端框架尤佳(React/Vue)。\n7. 具備任一雲端服務建置經驗尤佳(AWS/GCP/Azure)。\n8. 具備Scrum Master經驗尤佳。\n9. 熟悉 Docker/K8S 等容器化技術尤佳\n10. 具備CICD建置經驗尤佳。\n11. 具備微服務架構設計經驗尤佳",
+    "tools": [
+      "Java",
+      "PHP",
+      "Python",
+      "PostgreSQL",
+      "Spring",
+      "AWS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 58
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:45:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 帶領團隊開發各項Web應用及服務。\n2. 部門管理與工作指派。\n3. 跨部門溝通協調及針對開發需求進行技術評估並規劃解決方案。\n4. 規劃雲端服務系統架構。\n5. 定期工作進度匯報。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "通訊軟體工程師",
+            "其他工程研發主管",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "通訊軟體工程師、其他工程研發主管、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市前鎮區復興四路12號3樓之15",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 帶領團隊開發各項Web應用及服務。\n2. 部門管理與工作指派。\n3. 跨部門溝通協調及針對開發需求進行技術評估並規劃解決方案。\n4. 規劃雲端服務系統架構。\n5. 定期工作進度匯報。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "10年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "PHP",
+            "Python",
+            "PostgreSQL",
+            "Spring",
+            "AWS"
+          ],
+          "label": "擅長工具",
+          "text": "Java、PHP、Python、PostgreSQL、Spring、AWS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "模組化系統設計",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "模組化系統設計、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟悉Python/PHP/Java語言。\n2. 熟悉PostgreSQL/MongoDB或其他資料庫系統。\n3. 熟悉至少一種軟體框架(FastAPI/Spring Boot/.NET)。\n4. 熟悉Restful API的概念與設計。\n5. 熟悉前後端分離設計。\n6. 熟悉任一前端框架尤佳(React/Vue)。\n7. 具備任一雲端服務建置經驗尤佳(AWS/GCP/Azure)。\n8. 具備Scrum Master經驗尤佳。\n9. 熟悉 Docker/K8S 等容器化技術尤佳\n10. 具備CICD建置經驗尤佳。\n11. 具備微服務架構設計經驗尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：10年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Java、PHP、Python、PostgreSQL、Spring、AWS\n工作技能：模組化系統設計、軟體程式設計\n其他條件：1. 熟悉Python/PHP/Java語言。\n2. 熟悉PostgreSQL/MongoDB或其他資料庫系統。\n3. 熟悉至少一種軟體框架(FastAPI/Spring Boot/.NET)。\n4. 熟悉Restful API的概念與設計。\n5. 熟悉前後端分離設計。\n6. 熟悉任一前端框架尤佳(React/Vue)。\n7. 具備任一雲端服務建置經驗尤佳(AWS/GCP/Azure)。\n8. 具備Scrum Master經驗尤佳。\n9. 熟悉 Docker/K8S 等容器化技術尤佳\n10. 具備CICD建置經驗尤佳。\n11. 具備微服務架構設計經驗尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "928hd",
+    "job_url": "https://www.104.com.tw/job/928hd",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/928hd.json",
+    "raw_sha256": "3adf6e1f5b39b91df11b436790a609341f1e656626b1a97d5586358c6824379f",
+    "requested_url": "https://www.104.com.tw/api/jobs/928hd"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "company": {
+    "id": "1a2x6ble3z",
+    "name": "鏈加科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責完整功能模組的全棧開發與交付——從技術方案設計、前後端實作"
+        },
+        {
+          "children": [],
+          "text": "根據 PM 的需求簡報（Requirement Brief）撰寫技術 Spec/Plan，包含架構設計、API 規格、資料模型、時間估算、生產環境指標目標"
+        },
+        {
+          "children": [],
+          "text": "設計、開發和優化 AI Agent 服務，包括 Context Memory 工程、LLM 呼叫鏈優化、優於RAG pipeline 設計、Evaluation 結果品質控制"
+        },
+        {
+          "children": [],
+          "text": "對自己負責的功能模組的生產環境表現負全責：正確性（Agent 回應準確率）、速度（API 延遲 P50/P95）、效率（Token 成本、快取命中率）"
+        },
+        {
+          "children": [],
+          "text": "使用 AI Coder 工具提升開發效率，並持續探索 AI 輔助開發的最佳實踐"
+        },
+        {
+          "children": [],
+          "text": "參與 Spec Review 和 Code Review，確保技術方案合理、程式碼品質達標"
+        },
+        {
+          "children": [],
+          "text": "與 Product Designer 協作，從 Figma 設計稿直接實作前端介面"
+        },
+        {
+          "children": [],
+          "text": "兩年以上軟體開發經驗，具備獨立完成全棧功的能力"
+        },
+        {
+          "children": [],
+          "text": "熟悉至少一種後端語言（TypeScript/Node.js 優先，Java / Python 亦可），以及至少一種前端框架（React 優先）"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RESTful API 設計與實作"
+        },
+        {
+          "children": [],
+          "text": "熟悉 PostgreSQL 或其他 RDBMS，具備資料模型設計和查詢優化經驗"
+        },
+        {
+          "children": [],
+          "text": "了解 LLM 應用開發：Memory Context 設計、API 串接、Token 優化、RAG 知識庫 基本概念"
+        },
+        {
+          "children": [],
+          "text": "實際使用過 AI Coder 工具（Claude Code / Gemini CLI/ Anti-gavity 等）進行日常開發"
+        },
+        {
+          "children": [],
+          "text": "良好的問題解決能力和自驅力——你負責的模組出了問題，你是第一個要負責的人"
+        }
+      ],
+      "text": "關於我們\nPlusblocks Technology 是一家 AI B2B 解決方案公司，產品包括 InsightVex Agent（自然語言數據分析）、ChannelVex Agent（全通路智能入口）、ListenME（AI 用戶研究平台）。我們對客戶採用結果導向收費——AI Agent 跑得好，客戶才付費。這代表工程品質直接決定公司營收。\n我們的開發流程是 AI-native 的：工程師自己寫技術 spec、全棧交付（前端 + 後端 ）、用 AI Coder 加速開發、績效由生產環境的正確性、速度、效率數據自動衡量。\n職務內容\n1.負責完整功能模組的全棧開發與交付——從技術方案設計、前後端實作\n2.根據 PM 的需求簡報（Requirement Brief）撰寫技術 Spec/Plan，包含架構設計、API 規格、資料模型、時間估算、生產環境指標目標\n3.設計、開發和優化 AI Agent 服務，包括 Context Memory 工程、LLM 呼叫鏈優化、優於RAG pipeline 設計、Evaluation 結果品質控制\n4.對自己負責的功能模組的生產環境表現負全責：正確性（Agent 回應準確率）、速度（API 延遲 P50/P95）、效率（Token 成本、快取命中率）\n5.使用 AI Coder 工具提升開發效率，並持續探索 AI 輔助開發的最佳實踐\n6.參與 Spec Review 和 Code Review，確保技術方案合理、程式碼品質達標\n7.與 Product Designer 協作，從 Figma 設計稿直接實作前端介面\n必要條件\n1.兩年以上軟體開發經驗，具備獨立完成全棧功的能力\n2.熟悉至少一種後端語言（TypeScript/Node.js 優先，Java / Python 亦可），以及至少一種前端框架（React 優先）\n3.熟悉 RESTful API 設計與實作\n4.熟悉 PostgreSQL 或其他 RDBMS，具備資料模型設計和查詢優化經驗\n5.了解 LLM 應用開發：Memory Context 設計、API 串接、Token 優化、RAG 知識庫 基本概念\n6.實際使用過 AI Coder 工具（Claude Code / Gemini CLI/ Anti-gavity 等）進行日常開發\n具備撰寫技術文件的能力——你需要自己寫 Spec，不是別人寫好給你執行\n7.良好的問題解決能力和自驅力——你負責的模組出了問題，你是第一個要負責的人"
+    },
+    "employment_type_raw": "全職",
+    "title": "Agent 軟體工程師"
+  },
+  "location": {
+    "address_raw": "台北市松山區復興北路57號14樓之1",
+    "raw": "台北市松山區復興北路57號14樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "Node.js",
+          "LLM",
+          "RDBMS",
+          "Git"
+        ],
+        "label": "擅長工具",
+        "text": "Node.js、LLM、RDBMS、Git"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "模組化系統設計",
+          "資料庫程式設計",
+          "軟體整合測試",
+          "語言模型"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、模組化系統設計、資料庫程式設計、軟體整合測試、語言模型"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件\n*有 AI Agent / LLM Chain / Tool Use / Agent 長期 memroy 的實作經驗\n* 熟悉 Context 優化和成本控制（降低 Token 用量、設計快取策略）\n*有高併發系統或效能優化經驗（快取、訊息佇列、非同步處理）\n*熟悉 CI/CD 流程和自動化測試\n*有 B2B SaaS 或多租戶系統開發經驗\n*熟悉 Bun / Hono / Qdrant 等現代技術棧"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "加分條件\n*有 AI Agent / LLM Chain / Tool Use / Agent 長期 memroy 的實作經驗\n* 熟悉 Context 優化和成本控制（降低 Token 用量、設計快取策略）\n*有高併發系統或效能優化經驗（快取、訊息佇列、非同步處理）\n*熟悉 CI/CD 流程和自動化測試\n*有 B2B SaaS 或多租戶系統開發經驗\n*熟悉 Bun / Hono / Qdrant 等現代技術棧",
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "模組化系統設計",
+      "資料庫程式設計",
+      "軟體整合測試",
+      "語言模型"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：不拘\n擅長工具：Node.js、LLM、RDBMS、Git\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、模組化系統設計、資料庫程式設計、軟體整合測試、語言模型\n其他條件：加分條件\n*有 AI Agent / LLM Chain / Tool Use / Agent 長期 memroy 的實作經驗\n* 熟悉 Context 優化和成本控制（降低 Token 用量、設計快取策略）\n*有高併發系統或效能優化經驗（快取、訊息佇列、非同步處理）\n*熟悉 CI/CD 流程和自動化測試\n*有 B2B SaaS 或多租戶系統開發經驗\n*熟悉 Bun / Hono / Qdrant 等現代技術棧",
+    "tools": [
+      "Node.js",
+      "LLM",
+      "RDBMS",
+      "Git"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 11
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:49:42+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "關於我們\nPlusblocks Technology 是一家 AI B2B 解決方案公司，產品包括 InsightVex Agent（自然語言數據分析）、ChannelVex Agent（全通路智能入口）、ListenME（AI 用戶研究平台）。我們對客戶採用結果導向收費——AI Agent 跑得好，客戶才付費。這代表工程品質直接決定公司營收。\n我們的開發流程是 AI-native 的：工程師自己寫技術 spec、全棧交付（前端 + 後端 ）、用 AI Coder 加速開發、績效由生產環境的正確性、速度、效率數據自動衡量。\n職務內容\n1.負責完整功能模組的全棧開發與交付——從技術方案設計、前後端實作\n2.根據 PM 的需求簡報（Requirement Brief）撰寫技術 Spec/Plan，包含架構設計、API 規格、資料模型、時間估算、生產環境指標目標\n3.設計、開發和優化 AI Agent 服務，包括 Context Memory 工程、LLM 呼叫鏈優化、優於RAG pipeline 設計、Evaluation 結果品質控制\n4.對自己負責的功能模組的生產環境表現負全責：正確性（Agent 回應準確率）、速度（API 延遲 P50/P95）、效率（Token 成本、快取命中率）\n5.使用 AI Coder 工具提升開發效率，並持續探索 AI 輔助開發的最佳實踐\n6.參與 Spec Review 和 Code Review，確保技術方案合理、程式碼品質達標\n7.與 Product Designer 協作，從 Figma 設計稿直接實作前端介面\n必要條件\n1.兩年以上軟體開發經驗，具備獨立完成全棧功的能力\n2.熟悉至少一種後端語言（TypeScript/Node.js 優先，Java / Python 亦可），以及至少一種前端框架（React 優先）\n3.熟悉 RESTful API 設計與實作\n4.熟悉 PostgreSQL 或其他 RDBMS，具備資料模型設計和查詢優化經驗\n5.了解 LLM 應用開發：Memory Context 設計、API 串接、Token 優化、RAG 知識庫 基本概念\n6.實際使用過 AI Coder 工具（Claude Code / Gemini CLI/ Anti-gavity 等）進行日常開發\n具備撰寫技術文件的能力——你需要自己寫 Spec，不是別人寫好給你執行\n7.良好的問題解決能力和自驅力——你負責的模組出了問題，你是第一個要負責的人",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區復興北路57號14樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "關於我們\nPlusblocks Technology 是一家 AI B2B 解決方案公司，產品包括 InsightVex Agent（自然語言數據分析）、ChannelVex Agent（全通路智能入口）、ListenME（AI 用戶研究平台）。我們對客戶採用結果導向收費——AI Agent 跑得好，客戶才付費。這代表工程品質直接決定公司營收。\n我們的開發流程是 AI-native 的：工程師自己寫技術 spec、全棧交付（前端 + 後端 ）、用 AI Coder 加速開發、績效由生產環境的正確性、速度、效率數據自動衡量。\n職務內容\n1.負責完整功能模組的全棧開發與交付——從技術方案設計、前後端實作\n2.根據 PM 的需求簡報（Requirement Brief）撰寫技術 Spec/Plan，包含架構設計、API 規格、資料模型、時間估算、生產環境指標目標\n3.設計、開發和優化 AI Agent 服務，包括 Context Memory 工程、LLM 呼叫鏈優化、優於RAG pipeline 設計、Evaluation 結果品質控制\n4.對自己負責的功能模組的生產環境表現負全責：正確性（Agent 回應準確率）、速度（API 延遲 P50/P95）、效率（Token 成本、快取命中率）\n5.使用 AI Coder 工具提升開發效率，並持續探索 AI 輔助開發的最佳實踐\n6.參與 Spec Review 和 Code Review，確保技術方案合理、程式碼品質達標\n7.與 Product Designer 協作，從 Figma 設計稿直接實作前端介面\n必要條件\n1.兩年以上軟體開發經驗，具備獨立完成全棧功的能力\n2.熟悉至少一種後端語言（TypeScript/Node.js 優先，Java / Python 亦可），以及至少一種前端框架（React 優先）\n3.熟悉 RESTful API 設計與實作\n4.熟悉 PostgreSQL 或其他 RDBMS，具備資料模型設計和查詢優化經驗\n5.了解 LLM 應用開發：Memory Context 設計、API 串接、Token 優化、RAG 知識庫 基本概念\n6.實際使用過 AI Coder 工具（Claude Code / Gemini CLI/ Anti-gavity 等）進行日常開發\n具備撰寫技術文件的能力——你需要自己寫 Spec，不是別人寫好給你執行\n7.良好的問題解決能力和自驅力——你負責的模組出了問題，你是第一個要負責的人"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Node.js",
+            "LLM",
+            "RDBMS",
+            "Git"
+          ],
+          "label": "擅長工具",
+          "text": "Node.js、LLM、RDBMS、Git",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "模組化系統設計",
+            "資料庫程式設計",
+            "軟體整合測試",
+            "語言模型"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、模組化系統設計、資料庫程式設計、軟體整合測試、語言模型",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件\n*有 AI Agent / LLM Chain / Tool Use / Agent 長期 memroy 的實作經驗\n* 熟悉 Context 優化和成本控制（降低 Token 用量、設計快取策略）\n*有高併發系統或效能優化經驗（快取、訊息佇列、非同步處理）\n*熟悉 CI/CD 流程和自動化測試\n*有 B2B SaaS 或多租戶系統開發經驗\n*熟悉 Bun / Hono / Qdrant 等現代技術棧",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：不拘\n擅長工具：Node.js、LLM、RDBMS、Git\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、模組化系統設計、資料庫程式設計、軟體整合測試、語言模型\n其他條件：加分條件\n*有 AI Agent / LLM Chain / Tool Use / Agent 長期 memroy 的實作經驗\n* 熟悉 Context 優化和成本控制（降低 Token 用量、設計快取策略）\n*有高併發系統或效能優化經驗（快取、訊息佇列、非同步處理）\n*熟悉 CI/CD 流程和自動化測試\n*有 B2B SaaS 或多租戶系統開發經驗\n*熟悉 Bun / Hono / Qdrant 等現代技術棧"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "73mns",
+    "job_url": "https://www.104.com.tw/job/73mns",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/73mns.json",
+    "raw_sha256": "26e311707d528d3c2a9e9e405d7eae69c4b5d468a9ba8970194ac8e71bf3e621",
+    "requested_url": "https://www.104.com.tw/api/jobs/73mns"
+  }
+}

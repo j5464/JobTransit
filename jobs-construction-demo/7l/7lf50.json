@@ -1,0 +1,180 @@
+{
+  "company": {
+    "id": "5z4kla0",
+    "name": "鴻佰科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "Job Summary:\nThe Statistician/Data Scientist will be responsible for all advanced statistical methods utilized for improving product quality, production yield, and factory effectiveness as well as finding the root-causes, along with other consulting services such as customer targeting and lead scoring in support of sales and marketing activities worldwide.\nKey Responsibilities:\n‧ Design, implement, and refine advanced statistical/Machine Learning models to support product quality improvement, increasing yield and factory effectiveness.\n‧ Cultivate strong relationships with production line engineers, IT, and other key stakeholders to ensure alignment of modeling initiatives with company objectives and to identify new hypotheses for model improvements.\n‧ Scale out modeling capacity by driving infrastructure improvements such as automation of data preparations, model training, implementation, and optimization.\n‧ Support integration of models into tools for use by product engineers and business analysts.\n‧ Engage with customers to develop and customized data analytics solutions to address special needs.\n‧ Address ad hoc queries from management and present actionable recommendations in a clear, concise, and convincing manner.\n‧ Communicate the application and benefits of using various predictive modeling techniques to improve decision-making to customers and stakeholders.\n‧ Collaborate effectively with team members, whether leading projects or supporting initiatives led by others.\n‧ Provide direction, training, and guidance to less experienced team members."
+    },
+    "employment_type_raw": "全職",
+    "title": "資料科學家_高雄/桃園"
+  },
+  "location": {
+    "address_raw": "高雄市前鎮區成功二路25號",
+    "raw": "高雄市前鎮區成功二路25號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "應用數學相關",
+          "統計學相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "應用數學相關、統計學相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Qualifications:\n‧ Master or PhD degree in a field where there is intensive training in quantitative methods such as Statistics, Machine Learning, Electrical and Computer Engineering, Economics, Physics, Industrial Engineering, or Operation Research. PhD prefer.\n‧ Research field in Design of Experiment, Response Surface Methodology, Survey Sampling, Time Series, Temporal Data, Bayesian Statistics, Survival Analysis, High Dimensional Data Analysis, Nonlinear Models, Linear/ Nonlinear Programming, Optimization, or Classification would be a big plus. A strong candidate must hit at least 1-2 fields above.\n‧ (Plus) ‧ Research field in Image/Video Processing, Signal Processing, Machine Learning, Deep Learning, Statistical Inference, Optimization, Programming & Data Structure, or Algorithm and Database. A strong candidate must hit at least 1-3 fields above.\n‧ 5+ year experience (for senior) in successfully developing and implementing predictive models in the production environment.\n‧ Professional in R, Python, Tensor Flow, MatLab, or SQL, with practical expertise in programming and statistical modeling procedures including Linear Regression, Logistics Regression, Generalized Linear Model, Mixed model, Survival Analysis, and ARIMA model.\n‧ Demonstrated skills in data cleansing and transformations in the creation of predictor variables from complex data structures.\n‧ Knowledge of scorecard development, performance measurement, and business intelligence software solutions.\n‧ Detail-oriented and interested in applying quantitative methods to solving engineering and business problems.\n‧ Ability to thrive in a dynamic, collaborative team environment."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "應用數學相關",
+      "統計學相關",
+      "資訊管理相關"
+    ],
+    "other_text": "Qualifications:\n‧ Master or PhD degree in a field where there is intensive training in quantitative methods such as Statistics, Machine Learning, Electrical and Computer Engineering, Economics, Physics, Industrial Engineering, or Operation Research. PhD prefer.\n‧ Research field in Design of Experiment, Response Surface Methodology, Survey Sampling, Time Series, Temporal Data, Bayesian Statistics, Survival Analysis, High Dimensional Data Analysis, Nonlinear Models, Linear/ Nonlinear Programming, Optimization, or Classification would be a big plus. A strong candidate must hit at least 1-2 fields above.\n‧ (Plus) ‧ Research field in Image/Video Processing, Signal Processing, Machine Learning, Deep Learning, Statistical Inference, Optimization, Programming & Data Structure, or Algorithm and Database. A strong candidate must hit at least 1-3 fields above.\n‧ 5+ year experience (for senior) in successfully developing and implementing predictive models in the production environment.\n‧ Professional in R, Python, Tensor Flow, MatLab, or SQL, with practical expertise in programming and statistical modeling procedures including Linear Regression, Logistics Regression, Generalized Linear Model, Mixed model, Survival Analysis, and ARIMA model.\n‧ Demonstrated skills in data cleansing and transformations in the creation of predictor variables from complex data structures.\n‧ Knowledge of scorecard development, performance measurement, and business intelligence software solutions.\n‧ Detail-oriented and interested in applying quantitative methods to solving engineering and business problems.\n‧ Ability to thrive in a dynamic, collaborative team environment.",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：應用數學相關、統計學相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：Qualifications:\n‧ Master or PhD degree in a field where there is intensive training in quantitative methods such as Statistics, Machine Learning, Electrical and Computer Engineering, Economics, Physics, Industrial Engineering, or Operation Research. PhD prefer.\n‧ Research field in Design of Experiment, Response Surface Methodology, Survey Sampling, Time Series, Temporal Data, Bayesian Statistics, Survival Analysis, High Dimensional Data Analysis, Nonlinear Models, Linear/ Nonlinear Programming, Optimization, or Classification would be a big plus. A strong candidate must hit at least 1-2 fields above.\n‧ (Plus) ‧ Research field in Image/Video Processing, Signal Processing, Machine Learning, Deep Learning, Statistical Inference, Optimization, Programming & Data Structure, or Algorithm and Database. A strong candidate must hit at least 1-3 fields above.\n‧ 5+ year experience (for senior) in successfully developing and implementing predictive models in the production environment.\n‧ Professional in R, Python, Tensor Flow, MatLab, or SQL, with practical expertise in programming and statistical modeling procedures including Linear Regression, Logistics Regression, Generalized Linear Model, Mixed model, Survival Analysis, and ARIMA model.\n‧ Demonstrated skills in data cleansing and transformations in the creation of predictor variables from complex data structures.\n‧ Knowledge of scorecard development, performance measurement, and business intelligence software solutions.\n‧ Detail-oriented and interested in applying quantitative methods to solving engineering and business problems.\n‧ Ability to thrive in a dynamic, collaborative team environment.",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 84
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:47:49+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Job Summary:\nThe Statistician/Data Scientist will be responsible for all advanced statistical methods utilized for improving product quality, production yield, and factory effectiveness as well as finding the root-causes, along with other consulting services such as customer targeting and lead scoring in support of sales and marketing activities worldwide.\nKey Responsibilities:\n‧ Design, implement, and refine advanced statistical/Machine Learning models to support product quality improvement, increasing yield and factory effectiveness.\n‧ Cultivate strong relationships with production line engineers, IT, and other key stakeholders to ensure alignment of modeling initiatives with company objectives and to identify new hypotheses for model improvements.\n‧ Scale out modeling capacity by driving infrastructure improvements such as automation of data preparations, model training, implementation, and optimization.\n‧ Support integration of models into tools for use by product engineers and business analysts.\n‧ Engage with customers to develop and customized data analytics solutions to address special needs.\n‧ Address ad hoc queries from management and present actionable recommendations in a clear, concise, and convincing manner.\n‧ Communicate the application and benefits of using various predictive modeling techniques to improve decision-making to customers and stakeholders.\n‧ Collaborate effectively with team members, whether leading projects or supporting initiatives led by others.\n‧ Provide direction, training, and guidance to less experienced team members.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市前鎮區成功二路25號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Job Summary:\nThe Statistician/Data Scientist will be responsible for all advanced statistical methods utilized for improving product quality, production yield, and factory effectiveness as well as finding the root-causes, along with other consulting services such as customer targeting and lead scoring in support of sales and marketing activities worldwide.\nKey Responsibilities:\n‧ Design, implement, and refine advanced statistical/Machine Learning models to support product quality improvement, increasing yield and factory effectiveness.\n‧ Cultivate strong relationships with production line engineers, IT, and other key stakeholders to ensure alignment of modeling initiatives with company objectives and to identify new hypotheses for model improvements.\n‧ Scale out modeling capacity by driving infrastructure improvements such as automation of data preparations, model training, implementation, and optimization.\n‧ Support integration of models into tools for use by product engineers and business analysts.\n‧ Engage with customers to develop and customized data analytics solutions to address special needs.\n‧ Address ad hoc queries from management and present actionable recommendations in a clear, concise, and convincing manner.\n‧ Communicate the application and benefits of using various predictive modeling techniques to improve decision-making to customers and stakeholders.\n‧ Collaborate effectively with team members, whether leading projects or supporting initiatives led by others.\n‧ Provide direction, training, and guidance to less experienced team members."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "應用數學相關",
+            "統計學相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "應用數學相關、統計學相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Qualifications:\n‧ Master or PhD degree in a field where there is intensive training in quantitative methods such as Statistics, Machine Learning, Electrical and Computer Engineering, Economics, Physics, Industrial Engineering, or Operation Research. PhD prefer.\n‧ Research field in Design of Experiment, Response Surface Methodology, Survey Sampling, Time Series, Temporal Data, Bayesian Statistics, Survival Analysis, High Dimensional Data Analysis, Nonlinear Models, Linear/ Nonlinear Programming, Optimization, or Classification would be a big plus. A strong candidate must hit at least 1-2 fields above.\n‧ (Plus) ‧ Research field in Image/Video Processing, Signal Processing, Machine Learning, Deep Learning, Statistical Inference, Optimization, Programming & Data Structure, or Algorithm and Database. A strong candidate must hit at least 1-3 fields above.\n‧ 5+ year experience (for senior) in successfully developing and implementing predictive models in the production environment.\n‧ Professional in R, Python, Tensor Flow, MatLab, or SQL, with practical expertise in programming and statistical modeling procedures including Linear Regression, Logistics Regression, Generalized Linear Model, Mixed model, Survival Analysis, and ARIMA model.\n‧ Demonstrated skills in data cleansing and transformations in the creation of predictor variables from complex data structures.\n‧ Knowledge of scorecard development, performance measurement, and business intelligence software solutions.\n‧ Detail-oriented and interested in applying quantitative methods to solving engineering and business problems.\n‧ Ability to thrive in a dynamic, collaborative team environment.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：應用數學相關、統計學相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：Qualifications:\n‧ Master or PhD degree in a field where there is intensive training in quantitative methods such as Statistics, Machine Learning, Electrical and Computer Engineering, Economics, Physics, Industrial Engineering, or Operation Research. PhD prefer.\n‧ Research field in Design of Experiment, Response Surface Methodology, Survey Sampling, Time Series, Temporal Data, Bayesian Statistics, Survival Analysis, High Dimensional Data Analysis, Nonlinear Models, Linear/ Nonlinear Programming, Optimization, or Classification would be a big plus. A strong candidate must hit at least 1-2 fields above.\n‧ (Plus) ‧ Research field in Image/Video Processing, Signal Processing, Machine Learning, Deep Learning, Statistical Inference, Optimization, Programming & Data Structure, or Algorithm and Database. A strong candidate must hit at least 1-3 fields above.\n‧ 5+ year experience (for senior) in successfully developing and implementing predictive models in the production environment.\n‧ Professional in R, Python, Tensor Flow, MatLab, or SQL, with practical expertise in programming and statistical modeling procedures including Linear Regression, Logistics Regression, Generalized Linear Model, Mixed model, Survival Analysis, and ARIMA model.\n‧ Demonstrated skills in data cleansing and transformations in the creation of predictor variables from complex data structures.\n‧ Knowledge of scorecard development, performance measurement, and business intelligence software solutions.\n‧ Detail-oriented and interested in applying quantitative methods to solving engineering and business problems.\n‧ Ability to thrive in a dynamic, collaborative team environment."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7lf50",
+    "job_url": "https://www.104.com.tw/job/7lf50",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7lf50.json",
+    "raw_sha256": "01c5eb08512907504bd6b729d5c7b091be8ae09f0276af2959d960b983979af8",
+    "requested_url": "https://www.104.com.tw/api/jobs/7lf50"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "company": {
+    "id": "1a2x6bjlqv",
+    "name": "優護平台股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "AI工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發與導入 AI 應用功能"
+        },
+        {
+          "children": [],
+          "text": "串接 AI API 與第三方工具"
+        },
+        {
+          "children": [],
+          "text": "將 AI 應用整合到優照護既有平台"
+        },
+        {
+          "children": [],
+          "text": "協助優化內部作業效率"
+        },
+        {
+          "children": [],
+          "text": "開發與維護必要的前端功能"
+        },
+        {
+          "children": [],
+          "text": "撰寫 HTML / CSS 前端 UI 介面"
+        },
+        {
+          "children": [],
+          "text": "協助撰寫 PHP 相關簡易後端邏輯，完成前後端與 AI 功能串接"
+        },
+        {
+          "children": [],
+          "text": "與產品、營運、客服團隊合作，理解真實高齡照護場景，將需求轉化為可執行的 AI 應用功能"
+        }
+      ],
+      "text": "優照護正在將 AI 導入高齡照護平台與內部營運流程，包含客服輔助、照護需求判斷、知識庫查詢、媒合流程優化、營運自動化與資料整理等應用場景。\n我們正在尋找一位 AI 應用工程師，能夠運用 AI 工具、LLM API、自動化流程與既有系統整合，把 AI 從概念真正落地到產品與營運現場。\n這個職位不偏純 AI 研究，而是重視 實作能力、產品理解、系統整合與快速落地。\n⸻\n必要條件\n、對 AI 應用開發有高度興趣，願意持續學習 LLM、AI API、Prompt Engineering 與自動化工具\n、具備基本程式開發能力，能將 AI 工具或 API 串接到既有產品或內部系統\n、熟悉 JavaScript，使用過任一前端框架佳\nAngular.js、Ionic 經驗尤佳\n、具備基本 HTML / CSS / Bootstrap 前端開發能力\n、具備基本後端邏輯概念，能理解或撰寫 PHP 程式尤佳\n、中長期有意願往 AI Application Engineer / Full-stack Engineer 方向發展\n、對維護高品質程式碼、系統穩定性與產品體驗有所堅持\n、對高齡照護、健康照護或社會影響力產業有興趣\n⸻\n主要工作內容\n1. 開發與導入 AI 應用功能\n包含 AI 客服輔助、內部知識庫查詢、照護需求整理、營運流程自動化等\n2. 串接 AI API 與第三方工具\n例如 OpenAI API、Claude、Gemini、RAG 知識庫、自動化流程工具等\n3. 將 AI 應用整合到優照護既有平台\n包含前台 App、網站、後台管理系統與內部營運流程\n4. 協助優化內部作業效率\n例如客服回覆輔助、表單整理、資料摘要、媒合流程提醒、營運報表產出等\n5. 開發與維護必要的前端功能\n主要使用 JavaScript、Angular、Ionic\n6. 撰寫 HTML / CSS 前端 UI 介面\nCSS 框架以 Bootstrap 為主\n7. 協助撰寫 PHP 相關簡易後端邏輯，完成前後端與 AI 功能串接\n8. 與產品、營運、客服團隊合作，理解真實高齡照護場景，將需求轉化為可執行的 AI 應用功能\n加分福利\n、依能力與貢獻提供公司股票或認股機會\n、參與優照護 AI 轉型與產品升級\n、可接觸 AI 應用、前端、後端、雲端與真實營運場景\n、與團隊一起打造具社會影響力的高齡照護科技服務"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI應用工程師"
+  },
+  "location": {
+    "address_raw": "台北市大安區羅斯福路3段149號8樓之1",
+    "raw": "台北市大安區羅斯福路3段149號8樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 80
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:38:26+08:00"
+  },
+  "salary": {
+    "raw": "月薪30,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "優照護正在將 AI 導入高齡照護平台與內部營運流程，包含客服輔助、照護需求判斷、知識庫查詢、媒合流程優化、營運自動化與資料整理等應用場景。\n我們正在尋找一位 AI 應用工程師，能夠運用 AI 工具、LLM API、自動化流程與既有系統整合，把 AI 從概念真正落地到產品與營運現場。\n這個職位不偏純 AI 研究，而是重視 實作能力、產品理解、系統整合與快速落地。\n⸻\n必要條件\n、對 AI 應用開發有高度興趣，願意持續學習 LLM、AI API、Prompt Engineering 與自動化工具\n、具備基本程式開發能力，能將 AI 工具或 API 串接到既有產品或內部系統\n、熟悉 JavaScript，使用過任一前端框架佳\nAngular.js、Ionic 經驗尤佳\n、具備基本 HTML / CSS / Bootstrap 前端開發能力\n、具備基本後端邏輯概念，能理解或撰寫 PHP 程式尤佳\n、中長期有意願往 AI Application Engineer / Full-stack Engineer 方向發展\n、對維護高品質程式碼、系統穩定性與產品體驗有所堅持\n、對高齡照護、健康照護或社會影響力產業有興趣\n⸻\n主要工作內容\n1. 開發與導入 AI 應用功能\n包含 AI 客服輔助、內部知識庫查詢、照護需求整理、營運流程自動化等\n2. 串接 AI API 與第三方工具\n例如 OpenAI API、Claude、Gemini、RAG 知識庫、自動化流程工具等\n3. 將 AI 應用整合到優照護既有平台\n包含前台 App、網站、後台管理系統與內部營運流程\n4. 協助優化內部作業效率\n例如客服回覆輔助、表單整理、資料摘要、媒合流程提醒、營運報表產出等\n5. 開發與維護必要的前端功能\n主要使用 JavaScript、Angular、Ionic\n6. 撰寫 HTML / CSS 前端 UI 介面\nCSS 框架以 Bootstrap 為主\n7. 協助撰寫 PHP 相關簡易後端邏輯，完成前後端與 AI 功能串接\n8. 與產品、營運、客服團隊合作，理解真實高齡照護場景，將需求轉化為可執行的 AI 應用功能\n加分福利\n、依能力與貢獻提供公司股票或認股機會\n、參與優照護 AI 轉型與產品升級\n、可接觸 AI 應用、前端、後端、雲端與真實營運場景\n、與團隊一起打造具社會影響力的高齡照護科技服務",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "AI工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、AI工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪30,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區羅斯福路3段149號8樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "優照護正在將 AI 導入高齡照護平台與內部營運流程，包含客服輔助、照護需求判斷、知識庫查詢、媒合流程優化、營運自動化與資料整理等應用場景。\n我們正在尋找一位 AI 應用工程師，能夠運用 AI 工具、LLM API、自動化流程與既有系統整合，把 AI 從概念真正落地到產品與營運現場。\n這個職位不偏純 AI 研究，而是重視 實作能力、產品理解、系統整合與快速落地。\n⸻\n必要條件\n、對 AI 應用開發有高度興趣，願意持續學習 LLM、AI API、Prompt Engineering 與自動化工具\n、具備基本程式開發能力，能將 AI 工具或 API 串接到既有產品或內部系統\n、熟悉 JavaScript，使用過任一前端框架佳\nAngular.js、Ionic 經驗尤佳\n、具備基本 HTML / CSS / Bootstrap 前端開發能力\n、具備基本後端邏輯概念，能理解或撰寫 PHP 程式尤佳\n、中長期有意願往 AI Application Engineer / Full-stack Engineer 方向發展\n、對維護高品質程式碼、系統穩定性與產品體驗有所堅持\n、對高齡照護、健康照護或社會影響力產業有興趣\n⸻\n主要工作內容\n1. 開發與導入 AI 應用功能\n包含 AI 客服輔助、內部知識庫查詢、照護需求整理、營運流程自動化等\n2. 串接 AI API 與第三方工具\n例如 OpenAI API、Claude、Gemini、RAG 知識庫、自動化流程工具等\n3. 將 AI 應用整合到優照護既有平台\n包含前台 App、網站、後台管理系統與內部營運流程\n4. 協助優化內部作業效率\n例如客服回覆輔助、表單整理、資料摘要、媒合流程提醒、營運報表產出等\n5. 開發與維護必要的前端功能\n主要使用 JavaScript、Angular、Ionic\n6. 撰寫 HTML / CSS 前端 UI 介面\nCSS 框架以 Bootstrap 為主\n7. 協助撰寫 PHP 相關簡易後端邏輯，完成前後端與 AI 功能串接\n8. 與產品、營運、客服團隊合作，理解真實高齡照護場景，將需求轉化為可執行的 AI 應用功能\n加分福利\n、依能力與貢獻提供公司股票或認股機會\n、參與優照護 AI 轉型與產品升級\n、可接觸 AI 應用、前端、後端、雲端與真實營運場景\n、與團隊一起打造具社會影響力的高齡照護科技服務"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "4uwe5",
+    "job_url": "https://www.104.com.tw/job/4uwe5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/4uwe5.json",
+    "raw_sha256": "1cccec1ae7af68a807f83f8c2ea4443c88d838e2119b33c943c6d55e1e9d7787",
+    "requested_url": "https://www.104.com.tw/api/jobs/4uwe5"
+  }
+}

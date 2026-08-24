@@ -1,0 +1,198 @@
+{
+  "company": {
+    "id": "6flzqkw",
+    "name": "敦煌書局股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料庫管理人員",
+      "軟體工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉資料庫之SQL語法指令（PL/SQL或T-SQL）"
+        },
+        {
+          "children": [],
+          "text": "撰寫ORACLE SQL、PLSQL及程式開發"
+        },
+        {
+          "children": [],
+          "text": "資料查詢產生分析報表"
+        },
+        {
+          "children": [],
+          "text": "各系統問題debug排除（ERP、POS、WMS、EC）"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項"
+        },
+        {
+          "children": [],
+          "text": "薪資視工作經驗核薪"
+        }
+      ],
+      "text": "工作內容：\n1. 熟悉資料庫之SQL語法指令（PL/SQL或T-SQL）\n2. 撰寫ORACLE SQL、PLSQL及程式開發\n3. 資料查詢產生分析報表\n4. 各系統問題debug排除（ERP、POS、WMS、EC）\n5. 其他主管交辦事項\n*薪資視工作經驗核薪"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊部專員(系統工程師)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區堤頂大道一段207號",
+    "raw": "台北市內湖區堤頂大道一段207號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "統計學相關",
+          "應用數學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、統計學相關、應用數學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "統計學相關",
+      "應用數學相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、統計學相關、應用數學相關\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 43
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:08:29+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作內容：\n1. 熟悉資料庫之SQL語法指令（PL/SQL或T-SQL）\n2. 撰寫ORACLE SQL、PLSQL及程式開發\n3. 資料查詢產生分析報表\n4. 各系統問題debug排除（ERP、POS、WMS、EC）\n5. 其他主管交辦事項\n*薪資視工作經驗核薪",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料庫管理人員",
+            "軟體工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料庫管理人員、軟體工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區堤頂大道一段207號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作內容：\n1. 熟悉資料庫之SQL語法指令（PL/SQL或T-SQL）\n2. 撰寫ORACLE SQL、PLSQL及程式開發\n3. 資料查詢產生分析報表\n4. 各系統問題debug排除（ERP、POS、WMS、EC）\n5. 其他主管交辦事項\n*薪資視工作經驗核薪"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "統計學相關",
+            "應用數學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、統計學相關、應用數學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、統計學相關、應用數學相關\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "80wv5",
+    "job_url": "https://www.104.com.tw/job/80wv5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/80wv5.json",
+    "raw_sha256": "ebef108da3edb077d3c4ca55dc0f0d0e4db1906a5f212e0670ed68037d762197",
+    "requested_url": "https://www.104.com.tw/api/jobs/80wv5"
+  }
+}

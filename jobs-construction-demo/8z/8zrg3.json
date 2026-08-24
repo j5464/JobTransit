@@ -1,0 +1,199 @@
+{
+  "company": {
+    "id": "12rvk07c",
+    "name": "亞碩企業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體助理工程師",
+      "軟體工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發與維護系統"
+        },
+        {
+          "children": [],
+          "text": "撰寫程式碼、除錯、單元測試，協助系統優化"
+        },
+        {
+          "children": [],
+          "text": "客戶端現場更新維護"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項。"
+        }
+      ],
+      "text": "1.開發與維護系統\n2.撰寫程式碼、除錯、單元測試，協助系統優化\n3.客戶端現場更新維護\n4.其他主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "電控資訊工程師"
+  },
+  "location": {
+    "address_raw": "桃園市平鎮區東龍街1189號",
+    "raw": "桃園市平鎮區東龍街1189號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中、專科、大學",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中、專科、大學"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "Java",
+          "MS SQL",
+          "C#",
+          "PL/SQL",
+          "ASP.NET"
+        ],
+        "label": "擅長工具",
+        "text": "Java、MS SQL、C#、PL/SQL、ASP.NET"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：高中、專科、大學\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Java、MS SQL、C#、PL/SQL、ASP.NET",
+    "tools": [
+      "Java",
+      "MS SQL",
+      "C#",
+      "PL/SQL",
+      "ASP.NET"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 59
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:47:03+08:00"
+  },
+  "salary": {
+    "raw": "月薪38,000~45,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.開發與維護系統\n2.撰寫程式碼、除錯、單元測試，協助系統優化\n3.客戶端現場更新維護\n4.其他主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體助理工程師",
+            "軟體工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體助理工程師、軟體工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪38,000~45,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市平鎮區東龍街1189號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.開發與維護系統\n2.撰寫程式碼、除錯、單元測試，協助系統優化\n3.客戶端現場更新維護\n4.其他主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中、專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "MS SQL",
+            "C#",
+            "PL/SQL",
+            "ASP.NET"
+          ],
+          "label": "擅長工具",
+          "text": "Java、MS SQL、C#、PL/SQL、ASP.NET",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：高中、專科、大學\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：Java、MS SQL、C#、PL/SQL、ASP.NET"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8zrg3",
+    "job_url": "https://www.104.com.tw/job/8zrg3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8zrg3.json",
+    "raw_sha256": "559e72626e9dda446752b4e59df51666e2fa1c9c73f2ad320151465183249266",
+    "requested_url": "https://www.104.com.tw/api/jobs/8zrg3"
+  }
+}

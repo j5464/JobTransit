@@ -1,0 +1,207 @@
+{
+  "company": {
+    "id": "1a2x6bncv0",
+    "name": "Keenfinity Co., Ltd_晶飛凌股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "As an image processing embedded software engineer, you'll write descriptive, agile and testable code. You take inspiration from concepts like clean-code and the SOLID principles.\nInvolved in all stages of the software life cycle, your contribution spans from improving customer experience to streamlining the build process. You are keen to learn about the image-processing domain and its evolution.\nYou'll drive innovation and excellence in your specialized areas. Your creativity will be instrumental in realizing novel concepts and contributing to the successful release of imaging firmware for diverse camera products."
+    },
+    "employment_type_raw": "全職",
+    "title": "Embedded Software Engineer"
+  },
+  "location": {
+    "address_raw": "台北市中山區建國北路⼀段90號4樓",
+    "raw": "台北市中山區建國北路⼀段90號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C++",
+          "Linux",
+          "UML",
+          "Git"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Linux、UML、Git"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "系統架構規劃"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、系統架構規劃"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "•A BSc or MSc in Computer Science, Embedded Systems, Electrical Engineering serves as the foundation for your expertise in the field.\n•Proven Experience of 3 to 4 years of demonstrated proficiency in software development for embedded devices or systems\n•Proficiency in C++ Programming\n•Experience in Embedded Linux System Development\n•Proficiency in UML"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "•A BSc or MSc in Computer Science, Embedded Systems, Electrical Engineering serves as the foundation for your expertise in the field.\n•Proven Experience of 3 to 4 years of demonstrated proficiency in software development for embedded devices or systems\n•Proficiency in C++ Programming\n•Experience in Embedded Linux System Development\n•Proficiency in UML",
+    "skills": [
+      "軟體程式設計",
+      "系統架構規劃"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Linux、UML、Git\n工作技能：軟體程式設計、系統架構規劃\n其他條件：•A BSc or MSc in Computer Science, Embedded Systems, Electrical Engineering serves as the foundation for your expertise in the field.\n•Proven Experience of 3 to 4 years of demonstrated proficiency in software development for embedded devices or systems\n•Proficiency in C++ Programming\n•Experience in Embedded Linux System Development\n•Proficiency in UML",
+    "tools": [
+      "C++",
+      "Linux",
+      "UML",
+      "Git"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 100
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:28:58+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "As an image processing embedded software engineer, you'll write descriptive, agile and testable code. You take inspiration from concepts like clean-code and the SOLID principles.\nInvolved in all stages of the software life cycle, your contribution spans from improving customer experience to streamlining the build process. You are keen to learn about the image-processing domain and its evolution.\nYou'll drive innovation and excellence in your specialized areas. Your creativity will be instrumental in realizing novel concepts and contributing to the successful release of imaging firmware for diverse camera products.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區建國北路⼀段90號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "As an image processing embedded software engineer, you'll write descriptive, agile and testable code. You take inspiration from concepts like clean-code and the SOLID principles.\nInvolved in all stages of the software life cycle, your contribution spans from improving customer experience to streamlining the build process. You are keen to learn about the image-processing domain and its evolution.\nYou'll drive innovation and excellence in your specialized areas. Your creativity will be instrumental in realizing novel concepts and contributing to the successful release of imaging firmware for diverse camera products."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Linux",
+            "UML",
+            "Git"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Linux、UML、Git",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "系統架構規劃"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、系統架構規劃",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "•A BSc or MSc in Computer Science, Embedded Systems, Electrical Engineering serves as the foundation for your expertise in the field.\n•Proven Experience of 3 to 4 years of demonstrated proficiency in software development for embedded devices or systems\n•Proficiency in C++ Programming\n•Experience in Embedded Linux System Development\n•Proficiency in UML",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Linux、UML、Git\n工作技能：軟體程式設計、系統架構規劃\n其他條件：•A BSc or MSc in Computer Science, Embedded Systems, Electrical Engineering serves as the foundation for your expertise in the field.\n•Proven Experience of 3 to 4 years of demonstrated proficiency in software development for embedded devices or systems\n•Proficiency in C++ Programming\n•Experience in Embedded Linux System Development\n•Proficiency in UML"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8vhx5",
+    "job_url": "https://www.104.com.tw/job/8vhx5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8vhx5.json",
+    "raw_sha256": "319f9d89aff4d7628bfecb803d170b20e399031a52b6f5b3efbe5777b8866443",
+    "requested_url": "https://www.104.com.tw/api/jobs/8vhx5"
+  }
+}

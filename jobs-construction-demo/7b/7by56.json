@@ -1,0 +1,275 @@
+{
+  "company": {
+    "id": "1a2x6ble2t",
+    "name": "瞬聯科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Feature Development: Analyze, design, and implement robust, scalable frontend systems and software modules."
+        },
+        {
+          "children": [],
+          "text": "Collaboration: Partner with cross-functional global teams and US clients to translate business requirements into technical solutions."
+        },
+        {
+          "children": [],
+          "text": "Maintenance & Optimization: Diagnose, troubleshoot, and resolve complex frontend bugs to continuously improve system performance."
+        },
+        {
+          "children": [],
+          "text": "Technical Standard: Write clean, maintainable, and well-documented code while participating in code reviews to elevate team standards."
+        },
+        {
+          "children": [],
+          "text": "Frontend Architecture: Proven expertise in at least one modern JavaScript framework (React, Angular, or Vue)."
+        },
+        {
+          "children": [],
+          "text": "API Integration: Deep familiarity with data communication protocols, specifically RPC (Remote Procedure Calls) or RESTful APIs."
+        },
+        {
+          "children": [],
+          "text": "Problem Solving: Strong debugging skills and a systematic approach to troubleshooting complex UI/UX and performance issues."
+        },
+        {
+          "children": [],
+          "text": "Communication: Excellent professional English communication skills, with the ability to collaborate effectively with US clients and international engineering teams."
+        },
+        {
+          "children": [],
+          "text": "Professional Experience: 1+ years of production-level frontend development experience."
+        },
+        {
+          "children": [],
+          "text": "Core Fundamentals: Strong mastery of modern JavaScript (ES6+), TypeScript, HTML5, and CSS3."
+        },
+        {
+          "children": [],
+          "text": "Styling & UI: Familiarity with modern CSS frameworks or methodologies (e.g., Tailwind CSS, Bootstrap, Styled Components)."
+        },
+        {
+          "children": [],
+          "text": "Version Control: Proficiency with Git and modern CI/CD workflows."
+        }
+      ],
+      "text": "We are seeking an experienced Frontend Engineer to join our global development team. In this role, you will collaborate directly with elite, cross-border engineering teams and interface with our US-based clients. You will be a core member of the software team, driving frontend development, UI/UX design implementation, system diagnostics, and performance optimization to ensure maximum product stability and scalability.\nKey Responsibilities\n- Feature Development: Analyze, design, and implement robust, scalable frontend systems and software modules.\n- Collaboration: Partner with cross-functional global teams and US clients to translate business requirements into technical solutions.\n- Maintenance & Optimization: Diagnose, troubleshoot, and resolve complex frontend bugs to continuously improve system performance.\n- Technical Standard: Write clean, maintainable, and well-documented code while participating in code reviews to elevate team standards.\nRequired Qualifications\n- Frontend Architecture: Proven expertise in at least one modern JavaScript framework (React, Angular, or Vue).\n- API Integration: Deep familiarity with data communication protocols, specifically RPC (Remote Procedure Calls) or RESTful APIs.\n- Problem Solving: Strong debugging skills and a systematic approach to troubleshooting complex UI/UX and performance issues.\n- Communication: Excellent professional English communication skills, with the ability to collaborate effectively with US clients and international engineering teams.\nPreferred Qualifications\n- Professional Experience: 1+ years of production-level frontend development experience.\n- Core Fundamentals: Strong mastery of modern JavaScript (ES6+), TypeScript, HTML5, and CSS3.\n- Styling & UI: Familiarity with modern CSS frameworks or methodologies (e.g., Tailwind CSS, Bootstrap, Styled Components).\n- Version Control: Proficiency with Git and modern CI/CD workflows."
+    },
+    "employment_type_raw": "全職",
+    "title": "Web Frontend Engineer"
+  },
+  "location": {
+    "address_raw": "台北市大安區和平東路二段339號6樓(106)",
+    "raw": "台北市大安區和平東路二段339號6樓(106)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "應用數學相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、應用數學相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "HTML",
+          "JavaScript",
+          "CSS",
+          "ReactJS",
+          "AngularJS",
+          "VueJS",
+          "Angular"
+        ],
+        "label": "擅長工具",
+        "text": "HTML、JavaScript、CSS、ReactJS、AngularJS、VueJS、Angular"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "網路程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、網路程式設計"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "數學及電算機科學學科類",
+      "應用數學相關",
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "網路程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類、應用數學相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：HTML、JavaScript、CSS、ReactJS、AngularJS、VueJS、Angular\n工作技能：軟體程式設計、網路程式設計",
+    "tools": [
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "ReactJS",
+      "AngularJS",
+      "VueJS",
+      "Angular"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 4
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:28:49+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are seeking an experienced Frontend Engineer to join our global development team. In this role, you will collaborate directly with elite, cross-border engineering teams and interface with our US-based clients. You will be a core member of the software team, driving frontend development, UI/UX design implementation, system diagnostics, and performance optimization to ensure maximum product stability and scalability.\nKey Responsibilities\n- Feature Development: Analyze, design, and implement robust, scalable frontend systems and software modules.\n- Collaboration: Partner with cross-functional global teams and US clients to translate business requirements into technical solutions.\n- Maintenance & Optimization: Diagnose, troubleshoot, and resolve complex frontend bugs to continuously improve system performance.\n- Technical Standard: Write clean, maintainable, and well-documented code while participating in code reviews to elevate team standards.\nRequired Qualifications\n- Frontend Architecture: Proven expertise in at least one modern JavaScript framework (React, Angular, or Vue).\n- API Integration: Deep familiarity with data communication protocols, specifically RPC (Remote Procedure Calls) or RESTful APIs.\n- Problem Solving: Strong debugging skills and a systematic approach to troubleshooting complex UI/UX and performance issues.\n- Communication: Excellent professional English communication skills, with the ability to collaborate effectively with US clients and international engineering teams.\nPreferred Qualifications\n- Professional Experience: 1+ years of production-level frontend development experience.\n- Core Fundamentals: Strong mastery of modern JavaScript (ES6+), TypeScript, HTML5, and CSS3.\n- Styling & UI: Familiarity with modern CSS frameworks or methodologies (e.g., Tailwind CSS, Bootstrap, Styled Components).\n- Version Control: Proficiency with Git and modern CI/CD workflows.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區和平東路二段339號6樓(106)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are seeking an experienced Frontend Engineer to join our global development team. In this role, you will collaborate directly with elite, cross-border engineering teams and interface with our US-based clients. You will be a core member of the software team, driving frontend development, UI/UX design implementation, system diagnostics, and performance optimization to ensure maximum product stability and scalability.\nKey Responsibilities\n- Feature Development: Analyze, design, and implement robust, scalable frontend systems and software modules.\n- Collaboration: Partner with cross-functional global teams and US clients to translate business requirements into technical solutions.\n- Maintenance & Optimization: Diagnose, troubleshoot, and resolve complex frontend bugs to continuously improve system performance.\n- Technical Standard: Write clean, maintainable, and well-documented code while participating in code reviews to elevate team standards.\nRequired Qualifications\n- Frontend Architecture: Proven expertise in at least one modern JavaScript framework (React, Angular, or Vue).\n- API Integration: Deep familiarity with data communication protocols, specifically RPC (Remote Procedure Calls) or RESTful APIs.\n- Problem Solving: Strong debugging skills and a systematic approach to troubleshooting complex UI/UX and performance issues.\n- Communication: Excellent professional English communication skills, with the ability to collaborate effectively with US clients and international engineering teams.\nPreferred Qualifications\n- Professional Experience: 1+ years of production-level frontend development experience.\n- Core Fundamentals: Strong mastery of modern JavaScript (ES6+), TypeScript, HTML5, and CSS3.\n- Styling & UI: Familiarity with modern CSS frameworks or methodologies (e.g., Tailwind CSS, Bootstrap, Styled Components).\n- Version Control: Proficiency with Git and modern CI/CD workflows."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "應用數學相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、應用數學相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "ReactJS",
+            "AngularJS",
+            "VueJS",
+            "Angular"
+          ],
+          "label": "擅長工具",
+          "text": "HTML、JavaScript、CSS、ReactJS、AngularJS、VueJS、Angular",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "網路程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、網路程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類、應用數學相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：HTML、JavaScript、CSS、ReactJS、AngularJS、VueJS、Angular\n工作技能：軟體程式設計、網路程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7by56",
+    "job_url": "https://www.104.com.tw/job/7by56",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7by56.json",
+    "raw_sha256": "5aaacabdeb64b8fbd843cfa31bbdcd7aab4c640e3a1d0d6e745307682c1b31a7",
+    "requested_url": "https://www.104.com.tw/api/jobs/7by56"
+  }
+}

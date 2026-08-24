@@ -1,0 +1,219 @@
+{
+  "company": {
+    "id": "10tcvnz4",
+    "name": "博格科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "MIS程式設計師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助 .NET 平台產品／系統開發（EIP、ISO 文件管理系統、BPM 電子簽核系統）"
+        },
+        {
+          "children": [],
+          "text": "協助客製化專案開發與系統分析"
+        },
+        {
+          "children": [],
+          "text": "參與 BPM 系統表單、功能模組與報表設計"
+        },
+        {
+          "children": [],
+          "text": "協助專案功能開發與系統優化"
+        },
+        {
+          "children": [],
+          "text": "參與 AI 功能開發與整合，將大型語言模型（LLM）及生成式 AI 應用於企業流程與知識管理"
+        },
+        {
+          "children": [],
+          "text": "使用 Python、API 等技術串接 AI 服務，開發智慧問答、文件摘要、流程助理等應用"
+        },
+        {
+          "children": [],
+          "text": "與團隊共同研究 AI 新技術，持續優化產品功能與使用者體驗"
+        }
+      ],
+      "text": "本公司為台灣企業流程管理軟體領導品牌，擁有數百家企業成功導入案例。隨著市場需求持續成長，我們正積極將 AI 技術導入 BPM、ISO 文件管理及 EIP 等產品，\n打造更智慧的企業流程管理平台，現擴大招募技術團隊，歡迎對企業應用系統與 AI 技術有興趣的夥伴加入。\n【工作內容】\n1. 協助 .NET 平台產品／系統開發（EIP、ISO 文件管理系統、BPM 電子簽核系統）\n2. 協助客製化專案開發與系統分析\n3. 參與 BPM 系統表單、功能模組與報表設計\n4. 協助專案功能開發與系統優化\n5. 參與 AI 功能開發與整合，將大型語言模型（LLM）及生成式 AI 應用於企業流程與知識管理\n6. 使用 Python、API 等技術串接 AI 服務，開發智慧問答、文件摘要、流程助理等應用\n7. 與團隊共同研究 AI 新技術，持續優化產品功能與使用者體驗"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體助理工程師"
+  },
+  "location": {
+    "address_raw": "台北市大安區羅斯福路三段177號7樓(台電大樓3號出口)",
+    "raw": "台北市大安區羅斯福路三段177號7樓(台電大樓3號出口)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "C#",
+          "MS SQL",
+          "HTML",
+          "jQuery"
+        ],
+        "label": "擅長工具",
+        "text": "C#、MS SQL、HTML、jQuery"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、資料庫程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【其他條件（加分）】\n• 了解 MVC 架構、jQuery、ASP.NET Core、.NET、C# 等相關技術\n• 對 Visual Studio、SQL Server 等開發工具有概念\n• 資訊相關科系畢業，具程式開發經驗（專題或實習經驗可）為佳\n• 細心負責、積極學習，具備問題解決能力具 Python 開發經驗或概念。\n• 了解生成式 AI（ChatGPT、Claude、Gemini 等）或大型語言模型（LLM）應用。\n• 具備 Prompt Engineering、RAG、MCP、Function Calling 或 AI Agent 等相關概念者佳。\n• 了解自然語言處理（NLP）或向量資料庫等 AI 技術者佳。\n• 無經驗可，對 AI 技術充滿熱忱，願意自主持續學習並將 AI 應用於企業軟體開發"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "【其他條件（加分）】\n• 了解 MVC 架構、jQuery、ASP.NET Core、.NET、C# 等相關技術\n• 對 Visual Studio、SQL Server 等開發工具有概念\n• 資訊相關科系畢業，具程式開發經驗（專題或實習經驗可）為佳\n• 細心負責、積極學習，具備問題解決能力具 Python 開發經驗或概念。\n• 了解生成式 AI（ChatGPT、Claude、Gemini 等）或大型語言模型（LLM）應用。\n• 具備 Prompt Engineering、RAG、MCP、Function Calling 或 AI Agent 等相關概念者佳。\n• 了解自然語言處理（NLP）或向量資料庫等 AI 技術者佳。\n• 無經驗可，對 AI 技術充滿熱忱，願意自主持續學習並將 AI 應用於企業軟體開發",
+    "skills": [
+      "軟體程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n擅長工具：C#、MS SQL、HTML、jQuery\n工作技能：軟體程式設計、資料庫程式設計\n其他條件：【其他條件（加分）】\n• 了解 MVC 架構、jQuery、ASP.NET Core、.NET、C# 等相關技術\n• 對 Visual Studio、SQL Server 等開發工具有概念\n• 資訊相關科系畢業，具程式開發經驗（專題或實習經驗可）為佳\n• 細心負責、積極學習，具備問題解決能力具 Python 開發經驗或概念。\n• 了解生成式 AI（ChatGPT、Claude、Gemini 等）或大型語言模型（LLM）應用。\n• 具備 Prompt Engineering、RAG、MCP、Function Calling 或 AI Agent 等相關概念者佳。\n• 了解自然語言處理（NLP）或向量資料庫等 AI 技術者佳。\n• 無經驗可，對 AI 技術充滿熱忱，願意自主持續學習並將 AI 應用於企業軟體開發",
+    "tools": [
+      "C#",
+      "MS SQL",
+      "HTML",
+      "jQuery"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:04:36+08:00"
+  },
+  "salary": {
+    "raw": "月薪38,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "本公司為台灣企業流程管理軟體領導品牌，擁有數百家企業成功導入案例。隨著市場需求持續成長，我們正積極將 AI 技術導入 BPM、ISO 文件管理及 EIP 等產品，\n打造更智慧的企業流程管理平台，現擴大招募技術團隊，歡迎對企業應用系統與 AI 技術有興趣的夥伴加入。\n【工作內容】\n1. 協助 .NET 平台產品／系統開發（EIP、ISO 文件管理系統、BPM 電子簽核系統）\n2. 協助客製化專案開發與系統分析\n3. 參與 BPM 系統表單、功能模組與報表設計\n4. 協助專案功能開發與系統優化\n5. 參與 AI 功能開發與整合，將大型語言模型（LLM）及生成式 AI 應用於企業流程與知識管理\n6. 使用 Python、API 等技術串接 AI 服務，開發智慧問答、文件摘要、流程助理等應用\n7. 與團隊共同研究 AI 新技術，持續優化產品功能與使用者體驗",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "MIS程式設計師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、MIS程式設計師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪38,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區羅斯福路三段177號7樓(台電大樓3號出口)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "本公司為台灣企業流程管理軟體領導品牌，擁有數百家企業成功導入案例。隨著市場需求持續成長，我們正積極將 AI 技術導入 BPM、ISO 文件管理及 EIP 等產品，\n打造更智慧的企業流程管理平台，現擴大招募技術團隊，歡迎對企業應用系統與 AI 技術有興趣的夥伴加入。\n【工作內容】\n1. 協助 .NET 平台產品／系統開發（EIP、ISO 文件管理系統、BPM 電子簽核系統）\n2. 協助客製化專案開發與系統分析\n3. 參與 BPM 系統表單、功能模組與報表設計\n4. 協助專案功能開發與系統優化\n5. 參與 AI 功能開發與整合，將大型語言模型（LLM）及生成式 AI 應用於企業流程與知識管理\n6. 使用 Python、API 等技術串接 AI 服務，開發智慧問答、文件摘要、流程助理等應用\n7. 與團隊共同研究 AI 新技術，持續優化產品功能與使用者體驗"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "MS SQL",
+            "HTML",
+            "jQuery"
+          ],
+          "label": "擅長工具",
+          "text": "C#、MS SQL、HTML、jQuery",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、資料庫程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【其他條件（加分）】\n• 了解 MVC 架構、jQuery、ASP.NET Core、.NET、C# 等相關技術\n• 對 Visual Studio、SQL Server 等開發工具有概念\n• 資訊相關科系畢業，具程式開發經驗（專題或實習經驗可）為佳\n• 細心負責、積極學習，具備問題解決能力具 Python 開發經驗或概念。\n• 了解生成式 AI（ChatGPT、Claude、Gemini 等）或大型語言模型（LLM）應用。\n• 具備 Prompt Engineering、RAG、MCP、Function Calling 或 AI Agent 等相關概念者佳。\n• 了解自然語言處理（NLP）或向量資料庫等 AI 技術者佳。\n• 無經驗可，對 AI 技術充滿熱忱，願意自主持續學習並將 AI 應用於企業軟體開發",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n擅長工具：C#、MS SQL、HTML、jQuery\n工作技能：軟體程式設計、資料庫程式設計\n其他條件：【其他條件（加分）】\n• 了解 MVC 架構、jQuery、ASP.NET Core、.NET、C# 等相關技術\n• 對 Visual Studio、SQL Server 等開發工具有概念\n• 資訊相關科系畢業，具程式開發經驗（專題或實習經驗可）為佳\n• 細心負責、積極學習，具備問題解決能力具 Python 開發經驗或概念。\n• 了解生成式 AI（ChatGPT、Claude、Gemini 等）或大型語言模型（LLM）應用。\n• 具備 Prompt Engineering、RAG、MCP、Function Calling 或 AI Agent 等相關概念者佳。\n• 了解自然語言處理（NLP）或向量資料庫等 AI 技術者佳。\n• 無經驗可，對 AI 技術充滿熱忱，願意自主持續學習並將 AI 應用於企業軟體開發"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "54z7k",
+    "job_url": "https://www.104.com.tw/job/54z7k",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/54z7k.json",
+    "raw_sha256": "52a2f9501252cff6502834b97d96c16645ab4b1f7b947b7be2f65cddb1f8b00f",
+    "requested_url": "https://www.104.com.tw/api/jobs/54z7k"
+  }
+}

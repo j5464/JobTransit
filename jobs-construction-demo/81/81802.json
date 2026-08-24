@@ -1,0 +1,248 @@
+{
+  "company": {
+    "id": "wdn5puw",
+    "name": "巴哈姆特電玩資訊站_旺普網路資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "iOS工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發與維護巴哈姆特電玩資訊站的相關APP應用程式"
+        },
+        {
+          "children": [],
+          "text": "與團隊一同創造各種新服務或功能"
+        },
+        {
+          "children": [],
+          "text": "設計、開發和維護高效、可靠的 iOS 應用程式"
+        },
+        {
+          "children": [],
+          "text": "重構和改善系統架構，優化效能"
+        },
+        {
+          "children": [],
+          "text": "跨部門合作，能清晰的表達你的想法並提供專業的技術建議"
+        },
+        {
+          "children": [],
+          "text": "2 年以上 iOS 開發經驗，熟悉 Swift 程式語言"
+        },
+        {
+          "children": [],
+          "text": "熟悉 iOS 開發生態系統和相關框架，如 UIKit、Core Data、CocoaPods/SPM 套件管理工具等"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Auto Layout，能以程式碼撰寫 UI 版面"
+        },
+        {
+          "children": [],
+          "text": "具備 RESTful API 串接經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版本控制"
+        },
+        {
+          "children": [],
+          "text": "能閱讀 iOS 相關英文資料文件"
+        },
+        {
+          "children": [],
+          "text": "具備良好的團隊合作和溝通能力，能夠有效與團隊成員合作"
+        },
+        {
+          "children": [],
+          "text": "喜歡巴哈姆特，熱衷遊戲、動漫畫等次文化領域"
+        },
+        {
+          "children": [],
+          "text": "有 Google Mobile Ads SDK 整合經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 SwiftUI 與 Objective-C 程式語言"
+        },
+        {
+          "children": [],
+          "text": "具重構與模組化經驗 (MVC/MVVM、SOLID、POP)"
+        },
+        {
+          "children": [],
+          "text": "請詳細說明自身程式開發經驗 (學校專案、公司負責部份、Side Project 等)"
+        },
+        {
+          "children": [],
+          "text": "可提供實際上架作品或作品網址供參考"
+        },
+        {
+          "children": [],
+          "text": "請說明過往 ACG 經歷"
+        }
+      ],
+      "text": "想為所有愛玩遊戲看動漫的勇者，建構一個舒適豐饒的國度，讓勇者可以在此參與各式各樣的討論閒聊、瀏覽豐富多元的攻略資訊嗎？如果你也有這個夢想，歡迎加入我們，一起拓荒下副本吧！\n★ 主要任務：\n1. 開發與維護巴哈姆特電玩資訊站的相關APP應用程式\n2. 與團隊一同創造各種新服務或功能\n3. 設計、開發和維護高效、可靠的 iOS 應用程式\n4. 重構和改善系統架構，優化效能\n5. 跨部門合作，能清晰的表達你的想法並提供專業的技術建議\n★ 條件要求：\n1. 2 年以上 iOS 開發經驗，熟悉 Swift 程式語言\n2. 熟悉 iOS 開發生態系統和相關框架，如 UIKit、Core Data、CocoaPods/SPM 套件管理工具等\n3. 熟悉 Auto Layout，能以程式碼撰寫 UI 版面\n4. 具備 RESTful API 串接經驗\n5. 熟悉 Git 版本控制\n6. 能閱讀 iOS 相關英文資料文件\n7. 具備良好的團隊合作和溝通能力，能夠有效與團隊成員合作\n8. 喜歡巴哈姆特，熱衷遊戲、動漫畫等次文化領域\n★ 加分項目：\n1. 有 Google Mobile Ads SDK 整合經驗\n2. 熟悉 SwiftUI 與 Objective-C 程式語言\n3. 具重構與模組化經驗 (MVC/MVVM、SOLID、POP)\n★ 其他：\n1. 請詳細說明自身程式開發經驗 (學校專案、公司負責部份、Side Project 等)\n2. 可提供實際上架作品或作品網址供參考\n3. 請說明過往 ACG 經歷"
+    },
+    "employment_type_raw": "全職",
+    "title": "iOS 工程師"
+  },
+  "location": {
+    "address_raw": "台北市中山區復興北路420號15樓",
+    "raw": "台北市中山區復興北路420號15樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "iOS",
+          "Git",
+          "SWIFT"
+        ],
+        "label": "擅長工具",
+        "text": "iOS、Git、SWIFT"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：iOS、Git、SWIFT\n工作技能：軟體程式設計",
+    "tools": [
+      "iOS",
+      "Git",
+      "SWIFT"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 67
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:07:04+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "想為所有愛玩遊戲看動漫的勇者，建構一個舒適豐饒的國度，讓勇者可以在此參與各式各樣的討論閒聊、瀏覽豐富多元的攻略資訊嗎？如果你也有這個夢想，歡迎加入我們，一起拓荒下副本吧！\n★ 主要任務：\n1. 開發與維護巴哈姆特電玩資訊站的相關APP應用程式\n2. 與團隊一同創造各種新服務或功能\n3. 設計、開發和維護高效、可靠的 iOS 應用程式\n4. 重構和改善系統架構，優化效能\n5. 跨部門合作，能清晰的表達你的想法並提供專業的技術建議\n★ 條件要求：\n1. 2 年以上 iOS 開發經驗，熟悉 Swift 程式語言\n2. 熟悉 iOS 開發生態系統和相關框架，如 UIKit、Core Data、CocoaPods/SPM 套件管理工具等\n3. 熟悉 Auto Layout，能以程式碼撰寫 UI 版面\n4. 具備 RESTful API 串接經驗\n5. 熟悉 Git 版本控制\n6. 能閱讀 iOS 相關英文資料文件\n7. 具備良好的團隊合作和溝通能力，能夠有效與團隊成員合作\n8. 喜歡巴哈姆特，熱衷遊戲、動漫畫等次文化領域\n★ 加分項目：\n1. 有 Google Mobile Ads SDK 整合經驗\n2. 熟悉 SwiftUI 與 Objective-C 程式語言\n3. 具重構與模組化經驗 (MVC/MVVM、SOLID、POP)\n★ 其他：\n1. 請詳細說明自身程式開發經驗 (學校專案、公司負責部份、Side Project 等)\n2. 可提供實際上架作品或作品網址供參考\n3. 請說明過往 ACG 經歷",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "iOS工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、iOS工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區復興北路420號15樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "想為所有愛玩遊戲看動漫的勇者，建構一個舒適豐饒的國度，讓勇者可以在此參與各式各樣的討論閒聊、瀏覽豐富多元的攻略資訊嗎？如果你也有這個夢想，歡迎加入我們，一起拓荒下副本吧！\n★ 主要任務：\n1. 開發與維護巴哈姆特電玩資訊站的相關APP應用程式\n2. 與團隊一同創造各種新服務或功能\n3. 設計、開發和維護高效、可靠的 iOS 應用程式\n4. 重構和改善系統架構，優化效能\n5. 跨部門合作，能清晰的表達你的想法並提供專業的技術建議\n★ 條件要求：\n1. 2 年以上 iOS 開發經驗，熟悉 Swift 程式語言\n2. 熟悉 iOS 開發生態系統和相關框架，如 UIKit、Core Data、CocoaPods/SPM 套件管理工具等\n3. 熟悉 Auto Layout，能以程式碼撰寫 UI 版面\n4. 具備 RESTful API 串接經驗\n5. 熟悉 Git 版本控制\n6. 能閱讀 iOS 相關英文資料文件\n7. 具備良好的團隊合作和溝通能力，能夠有效與團隊成員合作\n8. 喜歡巴哈姆特，熱衷遊戲、動漫畫等次文化領域\n★ 加分項目：\n1. 有 Google Mobile Ads SDK 整合經驗\n2. 熟悉 SwiftUI 與 Objective-C 程式語言\n3. 具重構與模組化經驗 (MVC/MVVM、SOLID、POP)\n★ 其他：\n1. 請詳細說明自身程式開發經驗 (學校專案、公司負責部份、Side Project 等)\n2. 可提供實際上架作品或作品網址供參考\n3. 請說明過往 ACG 經歷"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "iOS",
+            "Git",
+            "SWIFT"
+          ],
+          "label": "擅長工具",
+          "text": "iOS、Git、SWIFT",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n擅長工具：iOS、Git、SWIFT\n工作技能：軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "81802",
+    "job_url": "https://www.104.com.tw/job/81802",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/81802.json",
+    "raw_sha256": "b4ffaad3010db9627352228efb0aeec16477d5fd54f400bae398d53107bf256a",
+    "requested_url": "https://www.104.com.tw/api/jobs/81802"
+  }
+}

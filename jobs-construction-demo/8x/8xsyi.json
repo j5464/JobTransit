@@ -1,0 +1,225 @@
+{
+  "company": {
+    "id": "1a2x6bksif",
+    "name": "智鈦星平台服務有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "iOS工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責公司 iOS APP 開發團隊管理、專案推進與跨部門協調，確保專案如期交付並符合品質標準。"
+        },
+        {
+          "children": [],
+          "text": "規劃 iOS 開發時程與資源配置，確保專案進度與交付品質。"
+        },
+        {
+          "children": [],
+          "text": "帶領與管理 iOS 開發團隊，進行任務分派、技術指導與成員培育。"
+        },
+        {
+          "children": [],
+          "text": "協助團隊解決開發過程中的技術與流程問題，提升整體開發效率。"
+        },
+        {
+          "children": [],
+          "text": "與產品、設計、後端等部門溝通協作，推動需求落地與版本迭代。"
+        },
+        {
+          "children": [],
+          "text": "監控產品品質與使用者回饋，推動持續改善與優化。"
+        },
+        {
+          "children": [],
+          "text": "建立並優化 iOS 開發流程與團隊協作機制。"
+        }
+      ],
+      "text": "*負責公司 iOS APP 開發團隊管理、專案推進與跨部門協調，確保專案如期交付並符合品質標準。\n《工作說明》：\n1. 規劃 iOS 開發時程與資源配置，確保專案進度與交付品質。\n2. 帶領與管理 iOS 開發團隊，進行任務分派、技術指導與成員培育。\n3.協助團隊解決開發過程中的技術與流程問題，提升整體開發效率。\n4.與產品、設計、後端等部門溝通協作，推動需求落地與版本迭代。\n5.監控產品品質與使用者回饋，推動持續改善與優化。\n6.建立並優化 iOS 開發流程與團隊協作機制。"
+    },
+    "employment_type_raw": "全職",
+    "title": "#BT【iOS 開發組長】Development Lead"
+  },
+  "location": {
+    "address_raw": "台北市信義區市民大道六段288號8樓之8",
+    "raw": "台北市信義區市民大道六段288號8樓之8"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "iOS",
+          "Objective-C",
+          "SWIFT",
+          "XML",
+          "HTTP",
+          "Socket",
+          "TCP/IP"
+        ],
+        "label": "擅長工具",
+        "text": "iOS、Objective-C、SWIFT、XML、HTTP、Socket、TCP/IP"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "- 5年以上 iOS App 開發經驗\n- Git\n- Swift\n- Swift Package Manager\n- Cocoapods\n- 有串接 RESTful API 及 WebSocket 的經驗\n- 有 Performance/Memory Tuning 的經驗\n- 了解 Apple 的 Human Interface Guildlines\n- [Optional] Objective-C\n- [Optional] SwiftUI\n- [Optional] Functional Reactive Programming(Combine)\n- [Optional] CI/CD"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "- 5年以上 iOS App 開發經驗\n- Git\n- Swift\n- Swift Package Manager\n- Cocoapods\n- 有串接 RESTful API 及 WebSocket 的經驗\n- 有 Performance/Memory Tuning 的經驗\n- 了解 Apple 的 Human Interface Guildlines\n- [Optional] Objective-C\n- [Optional] SwiftUI\n- [Optional] Functional Reactive Programming(Combine)\n- [Optional] CI/CD",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：iOS、Objective-C、SWIFT、XML、HTTP、Socket、TCP/IP\n其他條件：- 5年以上 iOS App 開發經驗\n- Git\n- Swift\n- Swift Package Manager\n- Cocoapods\n- 有串接 RESTful API 及 WebSocket 的經驗\n- 有 Performance/Memory Tuning 的經驗\n- 了解 Apple 的 Human Interface Guildlines\n- [Optional] Objective-C\n- [Optional] SwiftUI\n- [Optional] Functional Reactive Programming(Combine)\n- [Optional] CI/CD",
+    "tools": [
+      "iOS",
+      "Objective-C",
+      "SWIFT",
+      "XML",
+      "HTTP",
+      "Socket",
+      "TCP/IP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 46
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:15:10+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "*負責公司 iOS APP 開發團隊管理、專案推進與跨部門協調，確保專案如期交付並符合品質標準。\n《工作說明》：\n1. 規劃 iOS 開發時程與資源配置，確保專案進度與交付品質。\n2. 帶領與管理 iOS 開發團隊，進行任務分派、技術指導與成員培育。\n3.協助團隊解決開發過程中的技術與流程問題，提升整體開發效率。\n4.與產品、設計、後端等部門溝通協作，推動需求落地與版本迭代。\n5.監控產品品質與使用者回饋，推動持續改善與優化。\n6.建立並優化 iOS 開發流程與團隊協作機制。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "iOS工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、iOS工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區市民大道六段288號8樓之8",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "*負責公司 iOS APP 開發團隊管理、專案推進與跨部門協調，確保專案如期交付並符合品質標準。\n《工作說明》：\n1. 規劃 iOS 開發時程與資源配置，確保專案進度與交付品質。\n2. 帶領與管理 iOS 開發團隊，進行任務分派、技術指導與成員培育。\n3.協助團隊解決開發過程中的技術與流程問題，提升整體開發效率。\n4.與產品、設計、後端等部門溝通協作，推動需求落地與版本迭代。\n5.監控產品品質與使用者回饋，推動持續改善與優化。\n6.建立並優化 iOS 開發流程與團隊協作機制。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "iOS",
+            "Objective-C",
+            "SWIFT",
+            "XML",
+            "HTTP",
+            "Socket",
+            "TCP/IP"
+          ],
+          "label": "擅長工具",
+          "text": "iOS、Objective-C、SWIFT、XML、HTTP、Socket、TCP/IP",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "- 5年以上 iOS App 開發經驗\n- Git\n- Swift\n- Swift Package Manager\n- Cocoapods\n- 有串接 RESTful API 及 WebSocket 的經驗\n- 有 Performance/Memory Tuning 的經驗\n- 了解 Apple 的 Human Interface Guildlines\n- [Optional] Objective-C\n- [Optional] SwiftUI\n- [Optional] Functional Reactive Programming(Combine)\n- [Optional] CI/CD",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：iOS、Objective-C、SWIFT、XML、HTTP、Socket、TCP/IP\n其他條件：- 5年以上 iOS App 開發經驗\n- Git\n- Swift\n- Swift Package Manager\n- Cocoapods\n- 有串接 RESTful API 及 WebSocket 的經驗\n- 有 Performance/Memory Tuning 的經驗\n- 了解 Apple 的 Human Interface Guildlines\n- [Optional] Objective-C\n- [Optional] SwiftUI\n- [Optional] Functional Reactive Programming(Combine)\n- [Optional] CI/CD"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8xsyi",
+    "job_url": "https://www.104.com.tw/job/8xsyi",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xsyi.json",
+    "raw_sha256": "725b05f0b36ed8f09a9ff1b6c413f39a2d8a129346a440cbf88b3a01ce6b239f",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xsyi"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "company": {
+    "id": "wet8hhs",
+    "name": "台星科股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體專案主管",
+      "其他資訊專業人員",
+      "軟體專案管理師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "MES 系統規劃、維運管理、功能優化及重大異常之協調與改善。"
+        },
+        {
+          "children": [],
+          "text": "MES 團隊管理、工作分派、人才培育及技術傳承。"
+        },
+        {
+          "children": [],
+          "text": "MES 專案導入、進度控管及跨部門溝通協調。"
+        },
+        {
+          "children": [],
+          "text": "MES 與設備、自動化及周邊系統之整合與介接。"
+        },
+        {
+          "children": [],
+          "text": "製造流程需求分析、系統功能設計及開發管理。"
+        }
+      ],
+      "text": "1. MES 系統規劃、維運管理、功能優化及重大異常之協調與改善。\n2. MES 團隊管理、工作分派、人才培育及技術傳承。\n3. MES 專案導入、進度控管及跨部門溝通協調。\n4. MES 與設備、自動化及周邊系統之整合與介接。\n5. 製造流程需求分析、系統功能設計及開發管理。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【IT】MES主管 **竹科廠**"
+  },
+  "location": {
+    "address_raw": "新竹市東區科技五路8號",
+    "raw": "新竹市東區科技五路8號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "C#",
+          "Visual Studio .net",
+          "Oracle"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、C#、Visual Studio .net、Oracle"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "具以下經驗者，將優先安排面談：\n1.熟悉半導體製造流程及 MES 系統架構、功能與周邊系統整合\n2.具 MES 系統分析、異常排除、需求規劃及專案導入能力\n3.具跨部門溝通協調、團隊管理及重大生產異常處理能力"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關"
+    ],
+    "other_text": "具以下經驗者，將優先安排面談：\n1.熟悉半導體製造流程及 MES 系統架構、功能與周邊系統整合\n2.具 MES 系統分析、異常排除、需求規劃及專案導入能力\n3.具跨部門溝通協調、團隊管理及重大生產異常處理能力",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、C#、Visual Studio .net、Oracle\n其他條件：具以下經驗者，將優先安排面談：\n1.熟悉半導體製造流程及 MES 系統架構、功能與周邊系統整合\n2.具 MES 系統分析、異常排除、需求規劃及專案導入能力\n3.具跨部門溝通協調、團隊管理及重大生產異常處理能力",
+    "tools": [
+      "C",
+      "C++",
+      "C#",
+      "Visual Studio .net",
+      "Oracle"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 14
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:55:24+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. MES 系統規劃、維運管理、功能優化及重大異常之協調與改善。\n2. MES 團隊管理、工作分派、人才培育及技術傳承。\n3. MES 專案導入、進度控管及跨部門溝通協調。\n4. MES 與設備、自動化及周邊系統之整合與介接。\n5. 製造流程需求分析、系統功能設計及開發管理。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體專案主管",
+            "其他資訊專業人員",
+            "軟體專案管理師"
+          ],
+          "label": "職務類別",
+          "text": "軟體專案主管、其他資訊專業人員、軟體專案管理師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東區科技五路8號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. MES 系統規劃、維運管理、功能優化及重大異常之協調與改善。\n2. MES 團隊管理、工作分派、人才培育及技術傳承。\n3. MES 專案導入、進度控管及跨部門溝通協調。\n4. MES 與設備、自動化及周邊系統之整合與介接。\n5. 製造流程需求分析、系統功能設計及開發管理。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "C#",
+            "Visual Studio .net",
+            "Oracle"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、C#、Visual Studio .net、Oracle",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "具以下經驗者，將優先安排面談：\n1.熟悉半導體製造流程及 MES 系統架構、功能與周邊系統整合\n2.具 MES 系統分析、異常排除、需求規劃及專案導入能力\n3.具跨部門溝通協調、團隊管理及重大生產異常處理能力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++、C#、Visual Studio .net、Oracle\n其他條件：具以下經驗者，將優先安排面談：\n1.熟悉半導體製造流程及 MES 系統架構、功能與周邊系統整合\n2.具 MES 系統分析、異常排除、需求規劃及專案導入能力\n3.具跨部門溝通協調、團隊管理及重大生產異常處理能力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94too",
+    "job_url": "https://www.104.com.tw/job/94too",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94too.json",
+    "raw_sha256": "134f11f98bcef545142105b4d21325706af92aeeb8bd31024000ac552f59858b",
+    "requested_url": "https://www.104.com.tw/api/jobs/94too"
+  }
+}

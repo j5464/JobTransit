@@ -1,0 +1,165 @@
+{
+  "company": {
+    "id": "a5horfc",
+    "name": "星通資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責產品測試自動化程式撰寫驗證(Robot Framework, Python, Shell Script)"
+        },
+        {
+          "children": [],
+          "text": "撰寫測試計畫或案例設計等相關工作"
+        },
+        {
+          "children": [],
+          "text": "負責自動化測試環境架設、使用(作業系統：Linux and Windows)"
+        },
+        {
+          "children": [],
+          "text": "CICD相關工具使用(Jenkins, GitLab, etc.)"
+        },
+        {
+          "children": [],
+          "text": "維護Build Server"
+        }
+      ],
+      "text": "1. 負責產品測試自動化程式撰寫驗證(Robot Framework, Python, Shell Script)\n2. 撰寫測試計畫或案例設計等相關工作\n3. 負責自動化測試環境架設、使用(作業系統：Linux and Windows)\n4. CICD相關工具使用(Jenkins, GitLab, etc.)\n5. 維護Build Server"
+    },
+    "employment_type_raw": "全職",
+    "title": "自動化測試工程師(工作地點：新竹)"
+  },
+  "location": {
+    "address_raw": "新竹市新安路8號6樓(300)",
+    "raw": "新竹市新安路8號6樓(300)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "程式語言：C, Python, Linux Shell Script"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "程式語言：C, Python, Linux Shell Script",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學\n其他條件：程式語言：C, Python, Linux Shell Script",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 79
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:36:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責產品測試自動化程式撰寫驗證(Robot Framework, Python, Shell Script)\n2. 撰寫測試計畫或案例設計等相關工作\n3. 負責自動化測試環境架設、使用(作業系統：Linux and Windows)\n4. CICD相關工具使用(Jenkins, GitLab, etc.)\n5. 維護Build Server",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市新安路8號6樓(300)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責產品測試自動化程式撰寫驗證(Robot Framework, Python, Shell Script)\n2. 撰寫測試計畫或案例設計等相關工作\n3. 負責自動化測試環境架設、使用(作業系統：Linux and Windows)\n4. CICD相關工具使用(Jenkins, GitLab, etc.)\n5. 維護Build Server"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "程式語言：C, Python, Linux Shell Script",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n其他條件：程式語言：C, Python, Linux Shell Script"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "4ezjt",
+    "job_url": "https://www.104.com.tw/job/4ezjt",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/4ezjt.json",
+    "raw_sha256": "b682f90ffb80f47c385c5831556ba09d2ab8dba344fda16c3c1f599719ec38bb",
+    "requested_url": "https://www.104.com.tw/api/jobs/4ezjt"
+  }
+}

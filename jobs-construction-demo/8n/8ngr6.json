@@ -1,0 +1,267 @@
+{
+  "company": {
+    "id": "7f39r7c",
+    "name": "宏燁資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "前端工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "工作內容："
+        },
+        {
+          "children": [],
+          "text": "網站前端架構規劃與設計"
+        },
+        {
+          "children": [],
+          "text": "前端功能開發、技術研究、系統維護、效能優化(Angular14+)"
+        },
+        {
+          "children": [],
+          "text": "與後端工程師協作(溝通API規格、串接RESTful API)"
+        },
+        {
+          "children": [],
+          "text": "參與專案、產品規劃討論，提供技術性建議以及可改善項目"
+        },
+        {
+          "children": [],
+          "text": "參與 Code Review"
+        },
+        {
+          "children": [],
+          "text": "關注技術與產業新知，探索並評估產品適用的設計模式、工具與技術"
+        },
+        {
+          "children": [],
+          "text": "技術能力:"
+        },
+        {
+          "children": [],
+          "text": "開發工具使用能力（Visual Studio Code、SourceTree等）"
+        },
+        {
+          "children": [],
+          "text": "具備作業平臺、網路及資料庫知識"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版本控管基本操作"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Component, Directive, Pipe, Data Binding, Reactive Forms 與 Routing 等 Angular 開發基礎"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RxJs 處理API 資料流經驗 (使用過 Subject、BehaviorSubject 及 ReplaySubject)"
+        },
+        {
+          "children": [],
+          "text": "具備 Angular 單元測試經驗"
+        },
+        {
+          "children": [],
+          "text": "具備前端資安防護相關經驗"
+        }
+      ],
+      "text": "●工作內容：\n1.網站前端架構規劃與設計\n2.前端功能開發、技術研究、系統維護、效能優化(Angular14+)\n3.與後端工程師協作(溝通API規格、串接RESTful API)\n4.參與專案、產品規劃討論，提供技術性建議以及可改善項目\n5.參與 Code Review\n6.關注技術與產業新知，探索並評估產品適用的設計模式、工具與技術\n●技術能力:\n1.開發工具使用能力（Visual Studio Code、SourceTree等）\n2.具備作業平臺、網路及資料庫知識\n3.熟悉 Git 版本控管基本操作\n4.熟悉 Component, Directive, Pipe, Data Binding, Reactive Forms 與 Routing 等 Angular 開發基礎\n5.熟悉 RxJs 處理API 資料流經驗 (使用過 Subject、BehaviorSubject 及 ReplaySubject)\n6.具備 Angular 單元測試經驗\n7.具備前端資安防護相關經驗"
+    },
+    "employment_type_raw": "全職",
+    "title": "前端工程師 Frontend Engineer-Angular (EAS)"
+  },
+  "location": {
+    "address_raw": "台北市中正區北平東路30號7樓",
+    "raw": "台北市中正區北平東路30號7樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "Git",
+          "AJAX",
+          "HTML",
+          "JavaScript",
+          "CSS",
+          "Node.js",
+          "ReactJS",
+          "VueJS",
+          "Angular",
+          "MySQL",
+          "AngularJS",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "Git、AJAX、HTML、JavaScript、CSS、Node.js、ReactJS、VueJS、Angular、MySQL、AngularJS、MS SQL"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "網路程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、網路程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "網路程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n擅長工具：Git、AJAX、HTML、JavaScript、CSS、Node.js、ReactJS、VueJS、Angular、MySQL、AngularJS、MS SQL\n工作技能：軟體工程系統開發、軟體程式設計、網路程式設計",
+    "tools": [
+      "Git",
+      "AJAX",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "Node.js",
+      "ReactJS",
+      "VueJS",
+      "Angular",
+      "MySQL",
+      "AngularJS",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 16
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:00:13+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "●工作內容：\n1.網站前端架構規劃與設計\n2.前端功能開發、技術研究、系統維護、效能優化(Angular14+)\n3.與後端工程師協作(溝通API規格、串接RESTful API)\n4.參與專案、產品規劃討論，提供技術性建議以及可改善項目\n5.參與 Code Review\n6.關注技術與產業新知，探索並評估產品適用的設計模式、工具與技術\n●技術能力:\n1.開發工具使用能力（Visual Studio Code、SourceTree等）\n2.具備作業平臺、網路及資料庫知識\n3.熟悉 Git 版本控管基本操作\n4.熟悉 Component, Directive, Pipe, Data Binding, Reactive Forms 與 Routing 等 Angular 開發基礎\n5.熟悉 RxJs 處理API 資料流經驗 (使用過 Subject、BehaviorSubject 及 ReplaySubject)\n6.具備 Angular 單元測試經驗\n7.具備前端資安防護相關經驗",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "前端工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、前端工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區北平東路30號7樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "●工作內容：\n1.網站前端架構規劃與設計\n2.前端功能開發、技術研究、系統維護、效能優化(Angular14+)\n3.與後端工程師協作(溝通API規格、串接RESTful API)\n4.參與專案、產品規劃討論，提供技術性建議以及可改善項目\n5.參與 Code Review\n6.關注技術與產業新知，探索並評估產品適用的設計模式、工具與技術\n●技術能力:\n1.開發工具使用能力（Visual Studio Code、SourceTree等）\n2.具備作業平臺、網路及資料庫知識\n3.熟悉 Git 版本控管基本操作\n4.熟悉 Component, Directive, Pipe, Data Binding, Reactive Forms 與 Routing 等 Angular 開發基礎\n5.熟悉 RxJs 處理API 資料流經驗 (使用過 Subject、BehaviorSubject 及 ReplaySubject)\n6.具備 Angular 單元測試經驗\n7.具備前端資安防護相關經驗"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "AJAX",
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "Node.js",
+            "ReactJS",
+            "VueJS",
+            "Angular",
+            "MySQL",
+            "AngularJS",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "Git、AJAX、HTML、JavaScript、CSS、Node.js、ReactJS、VueJS、Angular、MySQL、AngularJS、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "網路程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、網路程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n擅長工具：Git、AJAX、HTML、JavaScript、CSS、Node.js、ReactJS、VueJS、Angular、MySQL、AngularJS、MS SQL\n工作技能：軟體工程系統開發、軟體程式設計、網路程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ngr6",
+    "job_url": "https://www.104.com.tw/job/8ngr6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ngr6.json",
+    "raw_sha256": "7d362a65f6bdd2ea84bd5085c50c43368d94c8b8bc8a8e69d30784c399542591",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ngr6"
+  }
+}

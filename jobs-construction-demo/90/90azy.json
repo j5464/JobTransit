@@ -1,0 +1,281 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "DevOps 工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Manage the daily operations and maintenance of the AI platform to ensure service stability, availability, and performance."
+        },
+        {
+          "children": [],
+          "text": "Work closely with platform users and internal teams to understand needs related to AI development, model training, inference deployment, and application integration, and provide the appropriate platform support."
+        },
+        {
+          "children": [],
+          "text": "Support the management of platform accounts, access control, resource quotas, and usage processes, ensuring compliance with governance and security requirements."
+        },
+        {
+          "children": [],
+          "text": "Monitor platform resource utilization, including CPU, GPU, storage, network, and job scheduling, and assist with capacity planning and resource optimization."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with infrastructure, security, data, and development teams to resolve platform incidents, performance bottlenecks, integration issues, and user-reported problems."
+        },
+        {
+          "children": [],
+          "text": "Establish and continuously improve platform operation mechanisms, including operational manuals, service workflows, incident handling, change management, and user support processes."
+        },
+        {
+          "children": [],
+          "text": "Assist in the deployment and management of AI platform-related components and capabilities, such as model serving, notebook environments, workflows, API services, monitoring, and logging mechanisms."
+        },
+        {
+          "children": [],
+          "text": "Drive the standardization and platformization of AI capabilities to improve platform reusability, maintainability, and support for multiple teams."
+        },
+        {
+          "children": [],
+          "text": "Support platform upgrades, feature validation, POC acceptance, and production rollout preparation."
+        },
+        {
+          "children": [],
+          "text": "Collect user feedback and improvement requests to continuously enhance user experience and operational efficiency."
+        },
+        {
+          "children": [],
+          "text": "3+ years of experience in platform operations, system administration, backend systems, DevOps, MLOps, or related technical domains."
+        },
+        {
+          "children": [],
+          "text": "Solid experience with Linux environments and hands-on system operation, troubleshooting, and maintenance skills."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in at least one programming or scripting language, such as Python, Shell, or Java, to support automation and integration tasks."
+        },
+        {
+          "children": [],
+          "text": "Basic understanding of APIs, service integration, and system architecture."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with containerization and platform technologies, such as Docker, Kubernetes, OpenShift, or similar platforms."
+        },
+        {
+          "children": [],
+          "text": "Strong cross-functional communication and requirement analysis skills, with the ability to translate user needs into actionable platform support solutions."
+        },
+        {
+          "children": [],
+          "text": "Basic understanding of AI / ML platforms, including model development, training, deployment, inference, and operational workflows."
+        },
+        {
+          "children": [],
+          "text": "Strong problem-solving skills and the ability to coordinate issue resolution across multiple systems and teams."
+        }
+      ],
+      "text": "【Job Description】\nWe are looking for an AI Platform Operation Engineer with strong capabilities in AI platform operations, system integration, and cross-functional collaboration to support the daily operation, service management, troubleshooting, and continuous improvement of enterprise AI platforms across the group.\nThis role will be responsible for understanding platform-related requirements, managing platform services, coordinating resource allocation, governing access control, supporting users, and driving operational improvements, while working closely with data, infrastructure, security, development, and business teams to ensure the AI platform is standardized, stable, and scalable.\n【Key Responsibilities】\n• Manage the daily operations and maintenance of the AI platform to ensure service stability, availability, and performance.\n• Work closely with platform users and internal teams to understand needs related to AI development, model training, inference deployment, and application integration, and provide the appropriate platform support.\n• Support the management of platform accounts, access control, resource quotas, and usage processes, ensuring compliance with governance and security requirements.\n• Monitor platform resource utilization, including CPU, GPU, storage, network, and job scheduling, and assist with capacity planning and resource optimization.\n• Collaborate with infrastructure, security, data, and development teams to resolve platform incidents, performance bottlenecks, integration issues, and user-reported problems.\n• Establish and continuously improve platform operation mechanisms, including operational manuals, service workflows, incident handling, change management, and user support processes.\n• Assist in the deployment and management of AI platform-related components and capabilities, such as model serving, notebook environments, workflows, API services, monitoring, and logging mechanisms.\n• Drive the standardization and platformization of AI capabilities to improve platform reusability, maintainability, and support for multiple teams.\n• Support platform upgrades, feature validation, POC acceptance, and production rollout preparation.\n• Collect user feedback and improvement requests to continuously enhance user experience and operational efficiency.\n【Required Qualifications】\n• 3+ years of experience in platform operations, system administration, backend systems, DevOps, MLOps, or related technical domains.\n• Solid experience with Linux environments and hands-on system operation, troubleshooting, and maintenance skills.\n• Proficiency in at least one programming or scripting language, such as Python, Shell, or Java, to support automation and integration tasks.\n• Basic understanding of APIs, service integration, and system architecture.\n• Familiarity with containerization and platform technologies, such as Docker, Kubernetes, OpenShift, or similar platforms.\n• Strong cross-functional communication and requirement analysis skills, with the ability to translate user needs into actionable platform support solutions.\n• Basic understanding of AI / ML platforms, including model development, training, deployment, inference, and operational workflows.\n• Strong problem-solving skills and the ability to coordinate issue resolution across multiple systems and teams."
+    },
+    "employment_type_raw": "全職",
+    "title": "AI Platform Operation Engineer_先進技術暨應用_資訊處(內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號",
+    "raw": "台北市內湖區瑞光路186號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "MLOPs",
+          "Linux",
+          "Shell",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "MLOPs、Linux、Shell、Python"
+      },
+      {
+        "items": [
+          "AI"
+        ],
+        "label": "工作技能",
+        "text": "AI"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【Preferred Qualifications】\n• Experience with AI platforms, MLOps platforms, HPC platforms, or GPU resource management.\n• Familiarity with AI / ML / LLM development workflows, including model training, deployment, serving, monitoring, and version control.\n• Experience in platform monitoring, log analysis, incident management, or alert handling.\n• Familiarity with resource scheduling and quota management, such as Kubernetes resource controls, scheduling systems, or GPU allocation mechanisms.\n• Experience in enterprise platform implementation, service rollout, acceptance testing, or operations process design.\n• Understanding of access control, security governance, API gateways, and enterprise IT management processes.\n• Experience supporting multi-team and multi-environment operations across development, testing, and production environments.\n• Strong documentation skills, with the ability to produce SOPs, operational guides, maintenance standards, and knowledge base content."
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "【Preferred Qualifications】\n• Experience with AI platforms, MLOps platforms, HPC platforms, or GPU resource management.\n• Familiarity with AI / ML / LLM development workflows, including model training, deployment, serving, monitoring, and version control.\n• Experience in platform monitoring, log analysis, incident management, or alert handling.\n• Familiarity with resource scheduling and quota management, such as Kubernetes resource controls, scheduling systems, or GPU allocation mechanisms.\n• Experience in enterprise platform implementation, service rollout, acceptance testing, or operations process design.\n• Understanding of access control, security governance, API gateways, and enterprise IT management processes.\n• Experience supporting multi-team and multi-environment operations across development, testing, and production environments.\n• Strong documentation skills, with the ability to produce SOPs, operational guides, maintenance standards, and knowledge base content.",
+    "skills": [
+      "AI"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關、電機電子工程相關\n擅長工具：MLOPs、Linux、Shell、Python\n工作技能：AI\n其他條件：【Preferred Qualifications】\n• Experience with AI platforms, MLOps platforms, HPC platforms, or GPU resource management.\n• Familiarity with AI / ML / LLM development workflows, including model training, deployment, serving, monitoring, and version control.\n• Experience in platform monitoring, log analysis, incident management, or alert handling.\n• Familiarity with resource scheduling and quota management, such as Kubernetes resource controls, scheduling systems, or GPU allocation mechanisms.\n• Experience in enterprise platform implementation, service rollout, acceptance testing, or operations process design.\n• Understanding of access control, security governance, API gateways, and enterprise IT management processes.\n• Experience supporting multi-team and multi-environment operations across development, testing, and production environments.\n• Strong documentation skills, with the ability to produce SOPs, operational guides, maintenance standards, and knowledge base content.",
+    "tools": [
+      "MLOPs",
+      "Linux",
+      "Shell",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 68
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:10:44+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【Job Description】\nWe are looking for an AI Platform Operation Engineer with strong capabilities in AI platform operations, system integration, and cross-functional collaboration to support the daily operation, service management, troubleshooting, and continuous improvement of enterprise AI platforms across the group.\nThis role will be responsible for understanding platform-related requirements, managing platform services, coordinating resource allocation, governing access control, supporting users, and driving operational improvements, while working closely with data, infrastructure, security, development, and business teams to ensure the AI platform is standardized, stable, and scalable.\n【Key Responsibilities】\n• Manage the daily operations and maintenance of the AI platform to ensure service stability, availability, and performance.\n• Work closely with platform users and internal teams to understand needs related to AI development, model training, inference deployment, and application integration, and provide the appropriate platform support.\n• Support the management of platform accounts, access control, resource quotas, and usage processes, ensuring compliance with governance and security requirements.\n• Monitor platform resource utilization, including CPU, GPU, storage, network, and job scheduling, and assist with capacity planning and resource optimization.\n• Collaborate with infrastructure, security, data, and development teams to resolve platform incidents, performance bottlenecks, integration issues, and user-reported problems.\n• Establish and continuously improve platform operation mechanisms, including operational manuals, service workflows, incident handling, change management, and user support processes.\n• Assist in the deployment and management of AI platform-related components and capabilities, such as model serving, notebook environments, workflows, API services, monitoring, and logging mechanisms.\n• Drive the standardization and platformization of AI capabilities to improve platform reusability, maintainability, and support for multiple teams.\n• Support platform upgrades, feature validation, POC acceptance, and production rollout preparation.\n• Collect user feedback and improvement requests to continuously enhance user experience and operational efficiency.\n【Required Qualifications】\n• 3+ years of experience in platform operations, system administration, backend systems, DevOps, MLOps, or related technical domains.\n• Solid experience with Linux environments and hands-on system operation, troubleshooting, and maintenance skills.\n• Proficiency in at least one programming or scripting language, such as Python, Shell, or Java, to support automation and integration tasks.\n• Basic understanding of APIs, service integration, and system architecture.\n• Familiarity with containerization and platform technologies, such as Docker, Kubernetes, OpenShift, or similar platforms.\n• Strong cross-functional communication and requirement analysis skills, with the ability to translate user needs into actionable platform support solutions.\n• Basic understanding of AI / ML platforms, including model development, training, deployment, inference, and operational workflows.\n• Strong problem-solving skills and the ability to coordinate issue resolution across multiple systems and teams.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "DevOps 工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "DevOps 工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【Job Description】\nWe are looking for an AI Platform Operation Engineer with strong capabilities in AI platform operations, system integration, and cross-functional collaboration to support the daily operation, service management, troubleshooting, and continuous improvement of enterprise AI platforms across the group.\nThis role will be responsible for understanding platform-related requirements, managing platform services, coordinating resource allocation, governing access control, supporting users, and driving operational improvements, while working closely with data, infrastructure, security, development, and business teams to ensure the AI platform is standardized, stable, and scalable.\n【Key Responsibilities】\n• Manage the daily operations and maintenance of the AI platform to ensure service stability, availability, and performance.\n• Work closely with platform users and internal teams to understand needs related to AI development, model training, inference deployment, and application integration, and provide the appropriate platform support.\n• Support the management of platform accounts, access control, resource quotas, and usage processes, ensuring compliance with governance and security requirements.\n• Monitor platform resource utilization, including CPU, GPU, storage, network, and job scheduling, and assist with capacity planning and resource optimization.\n• Collaborate with infrastructure, security, data, and development teams to resolve platform incidents, performance bottlenecks, integration issues, and user-reported problems.\n• Establish and continuously improve platform operation mechanisms, including operational manuals, service workflows, incident handling, change management, and user support processes.\n• Assist in the deployment and management of AI platform-related components and capabilities, such as model serving, notebook environments, workflows, API services, monitoring, and logging mechanisms.\n• Drive the standardization and platformization of AI capabilities to improve platform reusability, maintainability, and support for multiple teams.\n• Support platform upgrades, feature validation, POC acceptance, and production rollout preparation.\n• Collect user feedback and improvement requests to continuously enhance user experience and operational efficiency.\n【Required Qualifications】\n• 3+ years of experience in platform operations, system administration, backend systems, DevOps, MLOps, or related technical domains.\n• Solid experience with Linux environments and hands-on system operation, troubleshooting, and maintenance skills.\n• Proficiency in at least one programming or scripting language, such as Python, Shell, or Java, to support automation and integration tasks.\n• Basic understanding of APIs, service integration, and system architecture.\n• Familiarity with containerization and platform technologies, such as Docker, Kubernetes, OpenShift, or similar platforms.\n• Strong cross-functional communication and requirement analysis skills, with the ability to translate user needs into actionable platform support solutions.\n• Basic understanding of AI / ML platforms, including model development, training, deployment, inference, and operational workflows.\n• Strong problem-solving skills and the ability to coordinate issue resolution across multiple systems and teams."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MLOPs",
+            "Linux",
+            "Shell",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "MLOPs、Linux、Shell、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI"
+          ],
+          "label": "工作技能",
+          "text": "AI",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【Preferred Qualifications】\n• Experience with AI platforms, MLOps platforms, HPC platforms, or GPU resource management.\n• Familiarity with AI / ML / LLM development workflows, including model training, deployment, serving, monitoring, and version control.\n• Experience in platform monitoring, log analysis, incident management, or alert handling.\n• Familiarity with resource scheduling and quota management, such as Kubernetes resource controls, scheduling systems, or GPU allocation mechanisms.\n• Experience in enterprise platform implementation, service rollout, acceptance testing, or operations process design.\n• Understanding of access control, security governance, API gateways, and enterprise IT management processes.\n• Experience supporting multi-team and multi-environment operations across development, testing, and production environments.\n• Strong documentation skills, with the ability to produce SOPs, operational guides, maintenance standards, and knowledge base content.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊管理相關、資訊工程相關、電機電子工程相關\n擅長工具：MLOPs、Linux、Shell、Python\n工作技能：AI\n其他條件：【Preferred Qualifications】\n• Experience with AI platforms, MLOps platforms, HPC platforms, or GPU resource management.\n• Familiarity with AI / ML / LLM development workflows, including model training, deployment, serving, monitoring, and version control.\n• Experience in platform monitoring, log analysis, incident management, or alert handling.\n• Familiarity with resource scheduling and quota management, such as Kubernetes resource controls, scheduling systems, or GPU allocation mechanisms.\n• Experience in enterprise platform implementation, service rollout, acceptance testing, or operations process design.\n• Understanding of access control, security governance, API gateways, and enterprise IT management processes.\n• Experience supporting multi-team and multi-environment operations across development, testing, and production environments.\n• Strong documentation skills, with the ability to produce SOPs, operational guides, maintenance standards, and knowledge base content."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "90azy",
+    "job_url": "https://www.104.com.tw/job/90azy",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90azy.json",
+    "raw_sha256": "367ccf077064da72ffadb478441f4495563af84ab52ca9dc6b83950d695ac88e",
+    "requested_url": "https://www.104.com.tw/api/jobs/90azy"
+  }
+}

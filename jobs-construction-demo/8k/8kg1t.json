@@ -1,0 +1,278 @@
+{
+  "company": {
+    "id": "10xn66xs",
+    "name": "休斯微技術股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "自動控制工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Collaborate with the engineering team to develop new features, diagnose root causes, and provide technical support to both the product line and field service teams."
+        },
+        {
+          "children": [],
+          "text": "Further standardization of the components used between different module platforms."
+        },
+        {
+          "children": [],
+          "text": "Process improvements and quality mindset in design perspective in order to secure production output and deal with customer issue escalation."
+        },
+        {
+          "children": [],
+          "text": "Having risk assessments (FMEA) in issue investigation and test planning capability"
+        },
+        {
+          "children": [],
+          "text": "Software package/patch version control and provide release notes to stakeholders"
+        },
+        {
+          "children": [],
+          "text": "Involved in ECR (Engineering Change Requests) and CIP (Continued Improvement Projects) according to internal/external customer’s requests."
+        },
+        {
+          "children": [],
+          "text": "Responsible for solution delivery and commitment on project timelines."
+        },
+        {
+          "children": [],
+          "text": "Teamwork: Able to work in a cross function and international environment."
+        },
+        {
+          "children": [],
+          "text": "Self-learning: Able to collect information to improve your knowledge pool, and also help the growth of the team by sharing knowledge."
+        },
+        {
+          "children": [],
+          "text": "Proactive: Willing to tackle with technical challenges and the mindset of seeking solutions for continuous improvement."
+        },
+        {
+          "children": [],
+          "text": "Planning: Result oriented thoughts for assigned task and project."
+        },
+        {
+          "children": [],
+          "text": "Less than 2 month a year."
+        },
+        {
+          "children": [],
+          "text": "Maximum 10% support at customer side"
+        }
+      ],
+      "text": "【本職缺優先審核至休斯微公司官網投遞人選】請至休斯微官網投遞：https://career.suss.com/en/jobs\n【Talents who apply job via SUSS MicroTec Career Website will be given priority review】Please apply opening here：https://career.suss.com/en/jobs\n________________________________________________________________________________\nThe Software R&D Engineer – Scanner is responsible for developing and maintaining software for lithography scanner tools used in semiconductor manufacturing. This includes optimizing HMI, PC platforms, and device control systems. The role also involves leading continuous improvement projects and migrating software to next-generation platforms to align with business and sustainability goals.\nA strong background in PLC ladder logic and proficiency in C# programming are essential for troubleshooting, maintaining, and enhancing scanner software. This position offers the opportunity to solve complex challenges and contribute to the advancement of semiconductor technology.\nTask:\n• Collaborate with the engineering team to develop new features, diagnose root causes, and provide technical support to both the product line and field service teams.\n• Further standardization of the components used between different module platforms.\n• Process improvements and quality mindset in design perspective in order to secure production output and deal with customer issue escalation.\n• Having risk assessments (FMEA) in issue investigation and test planning capability\n• Software package/patch version control and provide release notes to stakeholders\n• Involved in ECR (Engineering Change Requests) and CIP (Continued Improvement Projects) according to internal/external customer’s requests.\n• Responsible for solution delivery and commitment on project timelines.\nCharacteristic:\n• Teamwork: Able to work in a cross function and international environment.\n• Self-learning: Able to collect information to improve your knowledge pool, and also help the growth of the team by sharing knowledge.\n• Proactive: Willing to tackle with technical challenges and the mindset of seeking solutions for continuous improvement.\n• Planning: Result oriented thoughts for assigned task and project.\nBusiness travel requirement:\n• Less than 2 month a year.\n• Maximum 10% support at customer side"
+    },
+    "employment_type_raw": "全職",
+    "title": "D007-2 Software R&D Engineer – Scanner 軟體工程師 (C#, PLC)｜Zhubei"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市沿河街 46 號",
+    "raw": "新竹縣竹北市沿河街 46 號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、工程學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "Visual Studio",
+          "PLC"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Visual Studio、PLC"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "• Minimum 3 years of experience in PLC ladder programming is required, with familiarity in Rockwell/Allen-Bradley systems being a plus.\n• Familiar in Visual Studio, C# coding languages.\n• Experience in motion control system and driver parameters tuning.\n• Experience in selecting electrical control components and planning CAD circuit diagrams is plus.\n• Fluent in English listening, speaking and writing that need to cooperate with USA & Europe colleagues\n• Experience of cooperate with customer service with knowledge of how to fulfill customer's desire for customer complain.\n• Bachelor or above in software engineering, computer science or mechatronics"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "工程學科類"
+    ],
+    "other_text": "• Minimum 3 years of experience in PLC ladder programming is required, with familiarity in Rockwell/Allen-Bradley systems being a plus.\n• Familiar in Visual Studio, C# coding languages.\n• Experience in motion control system and driver parameters tuning.\n• Experience in selecting electrical control components and planning CAD circuit diagrams is plus.\n• Fluent in English listening, speaking and writing that need to cooperate with USA & Europe colleagues\n• Experience of cooperate with customer service with knowledge of how to fulfill customer's desire for customer complain.\n• Bachelor or above in software engineering, computer science or mechatronics",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、工程學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Visual Studio、PLC\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：• Minimum 3 years of experience in PLC ladder programming is required, with familiarity in Rockwell/Allen-Bradley systems being a plus.\n• Familiar in Visual Studio, C# coding languages.\n• Experience in motion control system and driver parameters tuning.\n• Experience in selecting electrical control components and planning CAD circuit diagrams is plus.\n• Fluent in English listening, speaking and writing that need to cooperate with USA & Europe colleagues\n• Experience of cooperate with customer service with knowledge of how to fulfill customer's desire for customer complain.\n• Bachelor or above in software engineering, computer science or mechatronics",
+    "tools": [
+      "C#",
+      "Visual Studio",
+      "PLC"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 18
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:04:58+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【本職缺優先審核至休斯微公司官網投遞人選】請至休斯微官網投遞：https://career.suss.com/en/jobs\n【Talents who apply job via SUSS MicroTec Career Website will be given priority review】Please apply opening here：https://career.suss.com/en/jobs\n________________________________________________________________________________\nThe Software R&D Engineer – Scanner is responsible for developing and maintaining software for lithography scanner tools used in semiconductor manufacturing. This includes optimizing HMI, PC platforms, and device control systems. The role also involves leading continuous improvement projects and migrating software to next-generation platforms to align with business and sustainability goals.\nA strong background in PLC ladder logic and proficiency in C# programming are essential for troubleshooting, maintaining, and enhancing scanner software. This position offers the opportunity to solve complex challenges and contribute to the advancement of semiconductor technology.\nTask:\n• Collaborate with the engineering team to develop new features, diagnose root causes, and provide technical support to both the product line and field service teams.\n• Further standardization of the components used between different module platforms.\n• Process improvements and quality mindset in design perspective in order to secure production output and deal with customer issue escalation.\n• Having risk assessments (FMEA) in issue investigation and test planning capability\n• Software package/patch version control and provide release notes to stakeholders\n• Involved in ECR (Engineering Change Requests) and CIP (Continued Improvement Projects) according to internal/external customer’s requests.\n• Responsible for solution delivery and commitment on project timelines.\nCharacteristic:\n• Teamwork: Able to work in a cross function and international environment.\n• Self-learning: Able to collect information to improve your knowledge pool, and also help the growth of the team by sharing knowledge.\n• Proactive: Willing to tackle with technical challenges and the mindset of seeking solutions for continuous improvement.\n• Planning: Result oriented thoughts for assigned task and project.\nBusiness travel requirement:\n• Less than 2 month a year.\n• Maximum 10% support at customer side",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "自動控制工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、自動控制工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市沿河街 46 號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【本職缺優先審核至休斯微公司官網投遞人選】請至休斯微官網投遞：https://career.suss.com/en/jobs\n【Talents who apply job via SUSS MicroTec Career Website will be given priority review】Please apply opening here：https://career.suss.com/en/jobs\n________________________________________________________________________________\nThe Software R&D Engineer – Scanner is responsible for developing and maintaining software for lithography scanner tools used in semiconductor manufacturing. This includes optimizing HMI, PC platforms, and device control systems. The role also involves leading continuous improvement projects and migrating software to next-generation platforms to align with business and sustainability goals.\nA strong background in PLC ladder logic and proficiency in C# programming are essential for troubleshooting, maintaining, and enhancing scanner software. This position offers the opportunity to solve complex challenges and contribute to the advancement of semiconductor technology.\nTask:\n• Collaborate with the engineering team to develop new features, diagnose root causes, and provide technical support to both the product line and field service teams.\n• Further standardization of the components used between different module platforms.\n• Process improvements and quality mindset in design perspective in order to secure production output and deal with customer issue escalation.\n• Having risk assessments (FMEA) in issue investigation and test planning capability\n• Software package/patch version control and provide release notes to stakeholders\n• Involved in ECR (Engineering Change Requests) and CIP (Continued Improvement Projects) according to internal/external customer’s requests.\n• Responsible for solution delivery and commitment on project timelines.\nCharacteristic:\n• Teamwork: Able to work in a cross function and international environment.\n• Self-learning: Able to collect information to improve your knowledge pool, and also help the growth of the team by sharing knowledge.\n• Proactive: Willing to tackle with technical challenges and the mindset of seeking solutions for continuous improvement.\n• Planning: Result oriented thoughts for assigned task and project.\nBusiness travel requirement:\n• Less than 2 month a year.\n• Maximum 10% support at customer side"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Visual Studio",
+            "PLC"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Visual Studio、PLC",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "• Minimum 3 years of experience in PLC ladder programming is required, with familiarity in Rockwell/Allen-Bradley systems being a plus.\n• Familiar in Visual Studio, C# coding languages.\n• Experience in motion control system and driver parameters tuning.\n• Experience in selecting electrical control components and planning CAD circuit diagrams is plus.\n• Fluent in English listening, speaking and writing that need to cooperate with USA & Europe colleagues\n• Experience of cooperate with customer service with knowledge of how to fulfill customer's desire for customer complain.\n• Bachelor or above in software engineering, computer science or mechatronics",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、工程學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Visual Studio、PLC\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：• Minimum 3 years of experience in PLC ladder programming is required, with familiarity in Rockwell/Allen-Bradley systems being a plus.\n• Familiar in Visual Studio, C# coding languages.\n• Experience in motion control system and driver parameters tuning.\n• Experience in selecting electrical control components and planning CAD circuit diagrams is plus.\n• Fluent in English listening, speaking and writing that need to cooperate with USA & Europe colleagues\n• Experience of cooperate with customer service with knowledge of how to fulfill customer's desire for customer complain.\n• Bachelor or above in software engineering, computer science or mechatronics"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8kg1t",
+    "job_url": "https://www.104.com.tw/job/8kg1t",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8kg1t.json",
+    "raw_sha256": "03375d61834504de3431c0b04b54d3c35c1fd5856ef48076c44bca54f250c317",
+    "requested_url": "https://www.104.com.tw/api/jobs/8kg1t"
+  }
+}

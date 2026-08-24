@@ -1,0 +1,169 @@
+{
+  "company": {
+    "id": "a5haxqo",
+    "name": "華邦電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "立即填寫完整履歷投遞華邦電子2026校園徵才職缺，將有機會讓你Win在起跑點、提早卡位！\n【邀請您將104履歷同步上傳至華邦官方網站，將使您的履歷優先被主管看見】\n此職缺履歷登錄網址:https://careers.winbond.com/job-invite/11495/\n華邦電子2026校園徵才-(中科)軟體類_大數據分析及演算法開發工程師\n工作地點：中科(台中市大雅區中部科學園區科雅一路8號)\n科系類別：資訊工程相關 、數理統計相關\nWhat you can do\n作為華邦的大數據分析及演算法開發工程師，你將建立分析模型系統，進行Machine Learning / Deep Learning / 影像辨識等應用系統開發。\nWho we look for\n大數據分析及演算法開發工程師歡迎具備工程專業知識&基本數理能力，熟悉 C# / Java, HTML, JavaScript and SQL開發工具的高手成為我們的夥伴。如果你具有資訊工程，數理統計其他工程相關背景，歡迎加入大數據分析及演算法開發團隊，在當責的跨團隊任務中達成共同目標。"
+    },
+    "employment_type_raw": "全職",
+    "title": "華邦電子2026校園徵才-(竹北/中科)軟體類_大數據分析及演算法開發工程師"
+  },
+  "location": {
+    "address_raw": "台中市大雅區科雅一路8號",
+    "raw": "台中市大雅區科雅一路8號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "數理統計相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、數理統計相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "數理統計相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、數理統計相關\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 81
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:42:51+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "立即填寫完整履歷投遞華邦電子2026校園徵才職缺，將有機會讓你Win在起跑點、提早卡位！\n【邀請您將104履歷同步上傳至華邦官方網站，將使您的履歷優先被主管看見】\n此職缺履歷登錄網址:https://careers.winbond.com/job-invite/11495/\n華邦電子2026校園徵才-(中科)軟體類_大數據分析及演算法開發工程師\n工作地點：中科(台中市大雅區中部科學園區科雅一路8號)\n科系類別：資訊工程相關 、數理統計相關\nWhat you can do\n作為華邦的大數據分析及演算法開發工程師，你將建立分析模型系統，進行Machine Learning / Deep Learning / 影像辨識等應用系統開發。\nWho we look for\n大數據分析及演算法開發工程師歡迎具備工程專業知識&基本數理能力，熟悉 C# / Java, HTML, JavaScript and SQL開發工具的高手成為我們的夥伴。如果你具有資訊工程，數理統計其他工程相關背景，歡迎加入大數據分析及演算法開發團隊，在當責的跨團隊任務中達成共同目標。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市大雅區科雅一路8號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "立即填寫完整履歷投遞華邦電子2026校園徵才職缺，將有機會讓你Win在起跑點、提早卡位！\n【邀請您將104履歷同步上傳至華邦官方網站，將使您的履歷優先被主管看見】\n此職缺履歷登錄網址:https://careers.winbond.com/job-invite/11495/\n華邦電子2026校園徵才-(中科)軟體類_大數據分析及演算法開發工程師\n工作地點：中科(台中市大雅區中部科學園區科雅一路8號)\n科系類別：資訊工程相關 、數理統計相關\nWhat you can do\n作為華邦的大數據分析及演算法開發工程師，你將建立分析模型系統，進行Machine Learning / Deep Learning / 影像辨識等應用系統開發。\nWho we look for\n大數據分析及演算法開發工程師歡迎具備工程專業知識&基本數理能力，熟悉 C# / Java, HTML, JavaScript and SQL開發工具的高手成為我們的夥伴。如果你具有資訊工程，數理統計其他工程相關背景，歡迎加入大數據分析及演算法開發團隊，在當責的跨團隊任務中達成共同目標。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "數理統計相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、數理統計相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、數理統計相關\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8xzup",
+    "job_url": "https://www.104.com.tw/job/8xzup",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xzup.json",
+    "raw_sha256": "e2afc2137d1c7d8b335d08877be1f95024b162831522013b8753756aae21f23d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xzup"
+  }
+}

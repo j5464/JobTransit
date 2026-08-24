@@ -1,0 +1,231 @@
+{
+  "company": {
+    "id": "2d9ntmw",
+    "name": "Advantech_研華股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "BIOS工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "BIOS功能開發、客製化、版本維護與問題分析"
+        },
+        {
+          "children": [],
+          "text": "負責開機流程、POST、ACPI、SMBIOS、PCIe、USB、記憶體等相關功能整合與除錯"
+        },
+        {
+          "children": [],
+          "text": "支援新平台 bring-up、硬體驗證及量產階段問題排除"
+        },
+        {
+          "children": [],
+          "text": "工作經驗：3年以上 BIOS 經驗"
+        },
+        {
+          "children": [],
+          "text": "學歷要求：大學、碩士"
+        },
+        {
+          "children": [],
+          "text": "科系要求： 電機、電子工程相關,資訊工程相關"
+        },
+        {
+          "children": [],
+          "text": "語文條件：英文(聽:中等、說:中等、讀:中等、寫:中等)"
+        },
+        {
+          "children": [],
+          "text": "擅長工具：C, Assembly"
+        },
+        {
+          "children": [],
+          "text": "工作技能：韌體程式研發."
+        }
+      ],
+      "text": "【職務概要】\n負責 PC／Server／嵌入式平台之 BIOS 韌體開發、維護與除錯，與硬體、EC、作業系統及驗證團隊協作，確保產品開機流程、周邊相容性與系統穩定性符合客戶設計需求。\n【主要工作內容】\n1. BIOS功能開發、客製化、版本維護與問題分析\n2. 負責開機流程、POST、ACPI、SMBIOS、PCIe、USB、記憶體等相關功能整合與除錯\n3. 支援新平台 bring-up、硬體驗證及量產階段問題排除\n【必要條件】\n1. 工作經驗：3年以上 BIOS 經驗\n2. 學歷要求：大學、碩士\n3. 科系要求： 電機、電子工程相關,資訊工程相關\n4. 語文條件：英文(聽:中等、說:中等、讀:中等、寫:中等)\n5. 擅長工具：C, Assembly\n6. 工作技能：韌體程式研發.\n【加分條件】\nWindows on ARM BIOS 相關經驗."
+    },
+    "employment_type_raw": "全職",
+    "title": "(Sr.) BIOS Engineer(Embedded/ 林口園區)_JR202607098"
+  },
+  "location": {
+    "address_raw": "桃園市龜山區文德路27號",
+    "raw": "桃園市龜山區文德路27號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "C",
+          "Assembly"
+        ],
+        "label": "擅長工具",
+        "text": "C、Assembly"
+      },
+      {
+        "items": [
+          "BIOS程式研發",
+          "BIOS程式偵錯與維護"
+        ],
+        "label": "工作技能",
+        "text": "BIOS程式研發、BIOS程式偵錯與維護"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "BIOS程式研發",
+      "BIOS程式偵錯與維護"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、其他數學及電算機科學相關\n擅長工具：C、Assembly\n工作技能：BIOS程式研發、BIOS程式偵錯與維護",
+    "tools": [
+      "C",
+      "Assembly"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 26
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:26:20+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職務概要】\n負責 PC／Server／嵌入式平台之 BIOS 韌體開發、維護與除錯，與硬體、EC、作業系統及驗證團隊協作，確保產品開機流程、周邊相容性與系統穩定性符合客戶設計需求。\n【主要工作內容】\n1. BIOS功能開發、客製化、版本維護與問題分析\n2. 負責開機流程、POST、ACPI、SMBIOS、PCIe、USB、記憶體等相關功能整合與除錯\n3. 支援新平台 bring-up、硬體驗證及量產階段問題排除\n【必要條件】\n1. 工作經驗：3年以上 BIOS 經驗\n2. 學歷要求：大學、碩士\n3. 科系要求： 電機、電子工程相關,資訊工程相關\n4. 語文條件：英文(聽:中等、說:中等、讀:中等、寫:中等)\n5. 擅長工具：C, Assembly\n6. 工作技能：韌體程式研發.\n【加分條件】\nWindows on ARM BIOS 相關經驗.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "BIOS工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "BIOS工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市龜山區文德路27號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職務概要】\n負責 PC／Server／嵌入式平台之 BIOS 韌體開發、維護與除錯，與硬體、EC、作業系統及驗證團隊協作，確保產品開機流程、周邊相容性與系統穩定性符合客戶設計需求。\n【主要工作內容】\n1. BIOS功能開發、客製化、版本維護與問題分析\n2. 負責開機流程、POST、ACPI、SMBIOS、PCIe、USB、記憶體等相關功能整合與除錯\n3. 支援新平台 bring-up、硬體驗證及量產階段問題排除\n【必要條件】\n1. 工作經驗：3年以上 BIOS 經驗\n2. 學歷要求：大學、碩士\n3. 科系要求： 電機、電子工程相關,資訊工程相關\n4. 語文條件：英文(聽:中等、說:中等、讀:中等、寫:中等)\n5. 擅長工具：C, Assembly\n6. 工作技能：韌體程式研發.\n【加分條件】\nWindows on ARM BIOS 相關經驗."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "Assembly"
+          ],
+          "label": "擅長工具",
+          "text": "C、Assembly",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "BIOS程式研發",
+            "BIOS程式偵錯與維護"
+          ],
+          "label": "工作技能",
+          "text": "BIOS程式研發、BIOS程式偵錯與維護",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、其他數學及電算機科學相關\n擅長工具：C、Assembly\n工作技能：BIOS程式研發、BIOS程式偵錯與維護"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8qtz4",
+    "job_url": "https://www.104.com.tw/job/8qtz4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8qtz4.json",
+    "raw_sha256": "bdc021f2d1c4bff5c72f36865cc203a2a7f0f66763efbc91616bd741db1bc76b",
+    "requested_url": "https://www.104.com.tw/api/jobs/8qtz4"
+  }
+}

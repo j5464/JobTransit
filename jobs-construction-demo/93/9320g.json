@@ -1,0 +1,173 @@
+{
+  "company": {
+    "id": "1a2x6bkort",
+    "name": "遠雄集團總部_信宇投資股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "資料工程師",
+      "數據分析師／資料分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助三館會員資料數據監控及分析。"
+        },
+        {
+          "children": [],
+          "text": "使用AI工具進行各類活動/檔期成效分析。"
+        },
+        {
+          "children": [],
+          "text": "協助三館CRM系統、APP機制優化。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項。"
+        }
+      ],
+      "text": "1.協助三館會員資料數據監控及分析。\n2.使用AI工具進行各類活動/檔期成效分析。\n3.協助三館CRM系統、APP機制優化。\n4.其他主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【遠雄集團】流通-資深數位發展專員"
+  },
+  "location": {
+    "address_raw": "新北市汐止區",
+    "raw": "新北市汐止區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、數學及電算機科學學科類"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊管理相關、資訊工程相關、數學及電算機科學學科類",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 60
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:50:38+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.協助三館會員資料數據監控及分析。\n2.使用AI工具進行各類活動/檔期成效分析。\n3.協助三館CRM系統、APP機制優化。\n4.其他主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "資料工程師",
+            "數據分析師／資料分析師"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、資料工程師、數據分析師／資料分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市汐止區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.協助三館會員資料數據監控及分析。\n2.使用AI工具進行各類活動/檔期成效分析。\n3.協助三館CRM系統、APP機制優化。\n4.其他主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、數學及電算機科學學科類",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊管理相關、資訊工程相關、數學及電算機科學學科類"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "9320g",
+    "job_url": "https://www.104.com.tw/job/9320g",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9320g.json",
+    "raw_sha256": "f558e85902108d7659c75312e4d2d666146466d7d1ca5f197390f847d055f08f",
+    "requested_url": "https://www.104.com.tw/api/jobs/9320g"
+  }
+}

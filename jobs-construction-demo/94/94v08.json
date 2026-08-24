@@ -1,0 +1,214 @@
+{
+  "company": {
+    "id": "1a2x6bila7",
+    "name": "貝伯盈智慧運營有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "前端工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "薪資將依網站管理、HTML/CSS、網站改版及專案經驗核薪"
+        },
+        {
+          "children": [],
+          "text": "若具備較完整的網站規劃、前端維護、SEO／GA4 或專案管理能力，薪資可再面議"
+        }
+      ],
+      "text": "我們正在尋找對網頁開發充滿熱情、具備良好自學能力與邏輯思維的助理工程師。\n本職位以前端介面切版、元件開發與 API 串接為核心，並參與基礎後端邏輯與資料庫整合。\n你將在資深團隊的帶領下參與真實專案上線，並有機會接觸現代化開發工作流與 AI 輔助工具，快速累積全端實戰經驗！\n如果你對網站或系統架構、使用者體驗、視覺呈現及網站優化有興趣，歡迎加入我們。\n【工作內容】\n前端開發：\n依據設計稿（Figma 等）進行響應式網頁（RWD）切版與 UI/UX 元件開發。\n使用現代前端框架（如 React / Next.js 或 Vue / Nuxt.js）建置前台與後台管理介面。\n與後端系統／第三方 API 進行資料串接、錯誤處理與狀態管理。\n後端與整合：\n協助串接 RESTful API、Webhook 或基礎後端邏輯（如 Node.js / Express / Python 等）。\n基礎資料庫操作（如 PostgreSQL / MySQL / Supabase）與資料結構維護。\n團隊協作：\n使用 Git / GitHub 進行版本控制與 Code Review。\n善用 AI 輔助工具（Cursor、Copilot、ChatGPT 等）提高開發效率與程式碼品質。\n【必備條件】\n具備網站管理、網站維護或網站內容更新經驗\n具備 HTML、CSS 基礎，能自行完成簡單網站修改\n熟悉至少一種 CMS 網站後台，例如 WordPress、Shopify 或其他系統\n了解基本 RWD 響應式網頁概念\n對網站架構、網頁排版及使用者體驗有基本認識\n具備問題分析、需求整理與溝通協調能力\n做事細心，能主動追蹤問題並完成後續處理\n【加分條件】\n具備 JavaScript 基礎\n具備網站改版或網站建置經驗\n具備 UI/UX、網頁設計或視覺編排經驗\n熟悉 FTP、網域、主機或網站部署等基本概念\n具備網站資安、備份或網站效能優化經驗\n熟悉 AI 工具或簡易自動化工具\n【我們期待你】\n能將公司需求轉化為清楚的網站規劃與執行內容\n能獨立完成一般網站維護與基礎修改\n遇到複雜問題時，能主動釐清、尋找解決方式並追蹤完成\n對網站細節、視覺呈現及使用者體驗具有敏感度\n具備良好的溝通能力與責任感\n願意持續學習網站技術與數位工具\n【薪資待遇】\n月薪：34,000～38,000 元\n*薪資將依網站管理、HTML/CSS、網站改版及專案經驗核薪\n*若具備較完整的網站規劃、前端維護、SEO／GA4 或專案管理能力，薪資可再面議"
+    },
+    "employment_type_raw": "全職",
+    "title": "前後端助理工程師"
+  },
+  "location": {
+    "address_raw": "台中市南區福順里平順街200號1樓",
+    "raw": "台中市南區福順里平順街200號1樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Node.js",
+          "PostgreSQL",
+          "Git",
+          "Github",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "jQuery"
+        ],
+        "label": "擅長工具",
+        "text": "Node.js、PostgreSQL、Git、Github、JavaScript、HTML、CSS、jQuery"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Node.js、PostgreSQL、Git、Github、JavaScript、HTML、CSS、jQuery",
+    "tools": [
+      "Node.js",
+      "PostgreSQL",
+      "Git",
+      "Github",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "jQuery"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 4
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:30:00+08:00"
+  },
+  "salary": {
+    "raw": "月薪34,000~38,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們正在尋找對網頁開發充滿熱情、具備良好自學能力與邏輯思維的助理工程師。\n本職位以前端介面切版、元件開發與 API 串接為核心，並參與基礎後端邏輯與資料庫整合。\n你將在資深團隊的帶領下參與真實專案上線，並有機會接觸現代化開發工作流與 AI 輔助工具，快速累積全端實戰經驗！\n如果你對網站或系統架構、使用者體驗、視覺呈現及網站優化有興趣，歡迎加入我們。\n【工作內容】\n前端開發：\n依據設計稿（Figma 等）進行響應式網頁（RWD）切版與 UI/UX 元件開發。\n使用現代前端框架（如 React / Next.js 或 Vue / Nuxt.js）建置前台與後台管理介面。\n與後端系統／第三方 API 進行資料串接、錯誤處理與狀態管理。\n後端與整合：\n協助串接 RESTful API、Webhook 或基礎後端邏輯（如 Node.js / Express / Python 等）。\n基礎資料庫操作（如 PostgreSQL / MySQL / Supabase）與資料結構維護。\n團隊協作：\n使用 Git / GitHub 進行版本控制與 Code Review。\n善用 AI 輔助工具（Cursor、Copilot、ChatGPT 等）提高開發效率與程式碼品質。\n【必備條件】\n具備網站管理、網站維護或網站內容更新經驗\n具備 HTML、CSS 基礎，能自行完成簡單網站修改\n熟悉至少一種 CMS 網站後台，例如 WordPress、Shopify 或其他系統\n了解基本 RWD 響應式網頁概念\n對網站架構、網頁排版及使用者體驗有基本認識\n具備問題分析、需求整理與溝通協調能力\n做事細心，能主動追蹤問題並完成後續處理\n【加分條件】\n具備 JavaScript 基礎\n具備網站改版或網站建置經驗\n具備 UI/UX、網頁設計或視覺編排經驗\n熟悉 FTP、網域、主機或網站部署等基本概念\n具備網站資安、備份或網站效能優化經驗\n熟悉 AI 工具或簡易自動化工具\n【我們期待你】\n能將公司需求轉化為清楚的網站規劃與執行內容\n能獨立完成一般網站維護與基礎修改\n遇到複雜問題時，能主動釐清、尋找解決方式並追蹤完成\n對網站細節、視覺呈現及使用者體驗具有敏感度\n具備良好的溝通能力與責任感\n願意持續學習網站技術與數位工具\n【薪資待遇】\n月薪：34,000～38,000 元\n*薪資將依網站管理、HTML/CSS、網站改版及專案經驗核薪\n*若具備較完整的網站規劃、前端維護、SEO／GA4 或專案管理能力，薪資可再面議",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "前端工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、前端工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪34,000~38,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市南區福順里平順街200號1樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們正在尋找對網頁開發充滿熱情、具備良好自學能力與邏輯思維的助理工程師。\n本職位以前端介面切版、元件開發與 API 串接為核心，並參與基礎後端邏輯與資料庫整合。\n你將在資深團隊的帶領下參與真實專案上線，並有機會接觸現代化開發工作流與 AI 輔助工具，快速累積全端實戰經驗！\n如果你對網站或系統架構、使用者體驗、視覺呈現及網站優化有興趣，歡迎加入我們。\n【工作內容】\n前端開發：\n依據設計稿（Figma 等）進行響應式網頁（RWD）切版與 UI/UX 元件開發。\n使用現代前端框架（如 React / Next.js 或 Vue / Nuxt.js）建置前台與後台管理介面。\n與後端系統／第三方 API 進行資料串接、錯誤處理與狀態管理。\n後端與整合：\n協助串接 RESTful API、Webhook 或基礎後端邏輯（如 Node.js / Express / Python 等）。\n基礎資料庫操作（如 PostgreSQL / MySQL / Supabase）與資料結構維護。\n團隊協作：\n使用 Git / GitHub 進行版本控制與 Code Review。\n善用 AI 輔助工具（Cursor、Copilot、ChatGPT 等）提高開發效率與程式碼品質。\n【必備條件】\n具備網站管理、網站維護或網站內容更新經驗\n具備 HTML、CSS 基礎，能自行完成簡單網站修改\n熟悉至少一種 CMS 網站後台，例如 WordPress、Shopify 或其他系統\n了解基本 RWD 響應式網頁概念\n對網站架構、網頁排版及使用者體驗有基本認識\n具備問題分析、需求整理與溝通協調能力\n做事細心，能主動追蹤問題並完成後續處理\n【加分條件】\n具備 JavaScript 基礎\n具備網站改版或網站建置經驗\n具備 UI/UX、網頁設計或視覺編排經驗\n熟悉 FTP、網域、主機或網站部署等基本概念\n具備網站資安、備份或網站效能優化經驗\n熟悉 AI 工具或簡易自動化工具\n【我們期待你】\n能將公司需求轉化為清楚的網站規劃與執行內容\n能獨立完成一般網站維護與基礎修改\n遇到複雜問題時，能主動釐清、尋找解決方式並追蹤完成\n對網站細節、視覺呈現及使用者體驗具有敏感度\n具備良好的溝通能力與責任感\n願意持續學習網站技術與數位工具\n【薪資待遇】\n月薪：34,000～38,000 元\n*薪資將依網站管理、HTML/CSS、網站改版及專案經驗核薪\n*若具備較完整的網站規劃、前端維護、SEO／GA4 或專案管理能力，薪資可再面議"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Node.js",
+            "PostgreSQL",
+            "Git",
+            "Github",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "jQuery"
+          ],
+          "label": "擅長工具",
+          "text": "Node.js、PostgreSQL、Git、Github、JavaScript、HTML、CSS、jQuery",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Node.js、PostgreSQL、Git、Github、JavaScript、HTML、CSS、jQuery"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94v08",
+    "job_url": "https://www.104.com.tw/job/94v08",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94v08.json",
+    "raw_sha256": "f9bf4f20e6aceceaaaebf6fff8a5532c92a6837dc60b1ac8445b7cc7861cb613",
+    "requested_url": "https://www.104.com.tw/api/jobs/94v08"
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師",
+      "軟韌體測試工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "System Diagnostic Development"
+        },
+        {
+          "children": [],
+          "text": "Design and develop platform diagnostic software for server manufacturing, system bring-up, and field service."
+        },
+        {
+          "children": [],
+          "text": "Develop diagnostic utilities for CPU, GPU, memory, storage, PCIe, networking, and system peripherals."
+        },
+        {
+          "children": [],
+          "text": "Implement automated health check and failure isolation capabilities. Foster a culture of execution, collaboration, innovation, and customer success."
+        },
+        {
+          "children": [],
+          "text": "Hardware Validation Support"
+        },
+        {
+          "children": [],
+          "text": "Support board bring-up and hardware debugging during NPI."
+        },
+        {
+          "children": [],
+          "text": "Develop debug utilities for platform initialization and hardware verification."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with BIOS, BMC, and hardware teams to identify and resolve platform issues."
+        },
+        {
+          "children": [],
+          "text": "AI Platform Health Monitoring"
+        },
+        {
+          "children": [],
+          "text": "Develop GPU health monitoring and thermal diagnostic tools."
+        },
+        {
+          "children": [],
+          "text": "Monitor PCIe link status, GPU utilization, power consumption, fan, and thermal conditions."
+        },
+        {
+          "children": [],
+          "text": "Support AI inference system stability testing."
+        },
+        {
+          "children": [],
+          "text": "Manufacturing & Service Diagnostics"
+        },
+        {
+          "children": [],
+          "text": "Develop production diagnostic tools for factory use."
+        },
+        {
+          "children": [],
+          "text": "Create field diagnostic tools for customer technical support."
+        },
+        {
+          "children": [],
+          "text": "Improve failure analysis efficiency through automated diagnostic workflows."
+        },
+        {
+          "children": [],
+          "text": "Automation"
+        },
+        {
+          "children": [],
+          "text": "Develop automated diagnostic frameworks using Python, Shell, or C/C++."
+        },
+        {
+          "children": [],
+          "text": "Integrate diagnostics into manufacturing and CI/CD validation pipelines."
+        }
+      ],
+      "text": "1. System Diagnostic Development\n-Design and develop platform diagnostic software for server manufacturing, system bring-up, and field service.\n-Develop diagnostic utilities for CPU, GPU, memory, storage, PCIe, networking, and system peripherals.\n-Implement automated health check and failure isolation capabilities. Foster a culture of execution, collaboration, innovation, and customer success.\n2. Hardware Validation Support\n-Support board bring-up and hardware debugging during NPI.\n-Develop debug utilities for platform initialization and hardware verification.\n-Collaborate with BIOS, BMC, and hardware teams to identify and resolve platform issues.\n3. AI Platform Health Monitoring\n-Develop GPU health monitoring and thermal diagnostic tools.\n-Monitor PCIe link status, GPU utilization, power consumption, fan, and thermal conditions.\n-Support AI inference system stability testing.\n4. Manufacturing & Service Diagnostics\n-Develop production diagnostic tools for factory use.\n-Create field diagnostic tools for customer technical support.\n-Improve failure analysis efficiency through automated diagnostic workflows.\n5. Automation\n-Develop automated diagnostic frameworks using Python, Shell, or C/C++.\n-Integrate diagnostics into manufacturing and CI/CD validation pipelines."
+    },
+    "employment_type_raw": "全職",
+    "title": "Diagnostic Software Engineer_邊緣運算解決方案新事業發展部(台北)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號",
+    "raw": "台北市內湖區瑞光路186號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 工作經驗\n-Bachelor's degree or above in Computer Science, Electrical Engineering, Computer Engineering, or related fields.\n-5+ years in server platform development or system diagnostics.\n-Experience with x86 server architecture. Proven experience managing cross-functional engineering organizations with 10+ engineers.\n-Experience leading global engineering projects and customer-facing technical engagements.\n2. 技術能力\nC/C++、Python、Linux、Hardware debugging、PCIe、DDR、NVMe、Ethernet、IPMI / Redfish、System bring-up\n3. 加分條件\n-Experience in one or more of the following industries:\n-GPU server experience\n-NVIDIA DCGM\n-AMD ROCm tools\n-AI infrastructure\n-BMC diagnostics"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "1. 工作經驗\n-Bachelor's degree or above in Computer Science, Electrical Engineering, Computer Engineering, or related fields.\n-5+ years in server platform development or system diagnostics.\n-Experience with x86 server architecture. Proven experience managing cross-functional engineering organizations with 10+ engineers.\n-Experience leading global engineering projects and customer-facing technical engagements.\n2. 技術能力\nC/C++、Python、Linux、Hardware debugging、PCIe、DDR、NVMe、Ethernet、IPMI / Redfish、System bring-up\n3. 加分條件\n-Experience in one or more of the following industries:\n-GPU server experience\n-NVIDIA DCGM\n-AMD ROCm tools\n-AI infrastructure\n-BMC diagnostics",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、其他數學及電算機科學相關\n其他條件：1. 工作經驗\n-Bachelor's degree or above in Computer Science, Electrical Engineering, Computer Engineering, or related fields.\n-5+ years in server platform development or system diagnostics.\n-Experience with x86 server architecture. Proven experience managing cross-functional engineering organizations with 10+ engineers.\n-Experience leading global engineering projects and customer-facing technical engagements.\n2. 技術能力\nC/C++、Python、Linux、Hardware debugging、PCIe、DDR、NVMe、Ethernet、IPMI / Redfish、System bring-up\n3. 加分條件\n-Experience in one or more of the following industries:\n-GPU server experience\n-NVIDIA DCGM\n-AMD ROCm tools\n-AI infrastructure\n-BMC diagnostics",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 87
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:55:28+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. System Diagnostic Development\n-Design and develop platform diagnostic software for server manufacturing, system bring-up, and field service.\n-Develop diagnostic utilities for CPU, GPU, memory, storage, PCIe, networking, and system peripherals.\n-Implement automated health check and failure isolation capabilities. Foster a culture of execution, collaboration, innovation, and customer success.\n2. Hardware Validation Support\n-Support board bring-up and hardware debugging during NPI.\n-Develop debug utilities for platform initialization and hardware verification.\n-Collaborate with BIOS, BMC, and hardware teams to identify and resolve platform issues.\n3. AI Platform Health Monitoring\n-Develop GPU health monitoring and thermal diagnostic tools.\n-Monitor PCIe link status, GPU utilization, power consumption, fan, and thermal conditions.\n-Support AI inference system stability testing.\n4. Manufacturing & Service Diagnostics\n-Develop production diagnostic tools for factory use.\n-Create field diagnostic tools for customer technical support.\n-Improve failure analysis efficiency through automated diagnostic workflows.\n5. Automation\n-Develop automated diagnostic frameworks using Python, Shell, or C/C++.\n-Integrate diagnostics into manufacturing and CI/CD validation pipelines.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師",
+            "軟韌體測試工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師、軟韌體測試工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. System Diagnostic Development\n-Design and develop platform diagnostic software for server manufacturing, system bring-up, and field service.\n-Develop diagnostic utilities for CPU, GPU, memory, storage, PCIe, networking, and system peripherals.\n-Implement automated health check and failure isolation capabilities. Foster a culture of execution, collaboration, innovation, and customer success.\n2. Hardware Validation Support\n-Support board bring-up and hardware debugging during NPI.\n-Develop debug utilities for platform initialization and hardware verification.\n-Collaborate with BIOS, BMC, and hardware teams to identify and resolve platform issues.\n3. AI Platform Health Monitoring\n-Develop GPU health monitoring and thermal diagnostic tools.\n-Monitor PCIe link status, GPU utilization, power consumption, fan, and thermal conditions.\n-Support AI inference system stability testing.\n4. Manufacturing & Service Diagnostics\n-Develop production diagnostic tools for factory use.\n-Create field diagnostic tools for customer technical support.\n-Improve failure analysis efficiency through automated diagnostic workflows.\n5. Automation\n-Develop automated diagnostic frameworks using Python, Shell, or C/C++.\n-Integrate diagnostics into manufacturing and CI/CD validation pipelines."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 工作經驗\n-Bachelor's degree or above in Computer Science, Electrical Engineering, Computer Engineering, or related fields.\n-5+ years in server platform development or system diagnostics.\n-Experience with x86 server architecture. Proven experience managing cross-functional engineering organizations with 10+ engineers.\n-Experience leading global engineering projects and customer-facing technical engagements.\n2. 技術能力\nC/C++、Python、Linux、Hardware debugging、PCIe、DDR、NVMe、Ethernet、IPMI / Redfish、System bring-up\n3. 加分條件\n-Experience in one or more of the following industries:\n-GPU server experience\n-NVIDIA DCGM\n-AMD ROCm tools\n-AI infrastructure\n-BMC diagnostics",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、其他數學及電算機科學相關\n其他條件：1. 工作經驗\n-Bachelor's degree or above in Computer Science, Electrical Engineering, Computer Engineering, or related fields.\n-5+ years in server platform development or system diagnostics.\n-Experience with x86 server architecture. Proven experience managing cross-functional engineering organizations with 10+ engineers.\n-Experience leading global engineering projects and customer-facing technical engagements.\n2. 技術能力\nC/C++、Python、Linux、Hardware debugging、PCIe、DDR、NVMe、Ethernet、IPMI / Redfish、System bring-up\n3. 加分條件\n-Experience in one or more of the following industries:\n-GPU server experience\n-NVIDIA DCGM\n-AMD ROCm tools\n-AI infrastructure\n-BMC diagnostics"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "940sk",
+    "job_url": "https://www.104.com.tw/job/940sk",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/940sk.json",
+    "raw_sha256": "fd27d899607f291ad303c91f1d58e0b23250c9c1c48b2b1f2e034eae3ab4c112",
+    "requested_url": "https://www.104.com.tw/api/jobs/940sk"
+  }
+}

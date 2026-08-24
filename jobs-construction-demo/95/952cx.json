@@ -1,0 +1,186 @@
+{
+  "company": {
+    "id": "ctzow2g",
+    "name": "Google_美商科高國際有限公司"
+  },
+  "job": {
+    "categories": [
+      "硬體研發工程師",
+      "軟體工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Currently enrolled in a PhD program with a focus on subjects in software development or other technical related fields."
+        },
+        {
+          "children": [],
+          "text": "Experience in software development and coding in one or more of the following: Python or C++."
+        },
+        {
+          "children": [],
+          "text": "Experience with data structures or algorithms gathered from inside or outside of school or work."
+        },
+        {
+          "children": [],
+          "text": "Currently attending a degree program in Taiwan and available to work full time for 12 weeks outside of university term time."
+        },
+        {
+          "children": [],
+          "text": "Penultimate academic year or returning to a degree program after completion of the internship."
+        },
+        {
+          "children": [],
+          "text": "Programming experience in one or more of the following: C/C++, Python, CUDA."
+        },
+        {
+          "children": [],
+          "text": "Research experience in computer architecture, embedded systems, accelerators, artificial intelligence, computer vision, distributed systems, machine learning, data science, LLM, rule base or systems."
+        },
+        {
+          "children": [],
+          "text": "Experience in computer science, with competencies in data structures, algorithms and software design."
+        },
+        {
+          "children": [],
+          "text": "Develop software for Google Cloud’s infrastructure to empower Google service and external cloud customers, with hardware platforms including compute, storage, or AI-accelerators like TPUs and GPUs."
+        },
+        {
+          "children": [],
+          "text": "Create and support a productive and innovative team including working with peers, managers, and teams."
+        },
+        {
+          "children": [],
+          "text": "Analyze data and evaluate results to choose the best solution to effectively solve issues."
+        },
+        {
+          "children": [],
+          "text": "Develop scripts or use AI to automate routine tasks and manual processes."
+        },
+        {
+          "children": [],
+          "text": "Apply knowledge gained in computer science courses to real world issues."
+        }
+      ],
+      "text": "Minimum qualifications:\n• Currently enrolled in a PhD program with a focus on subjects in software development or other technical related fields.\n• Experience in software development and coding in one or more of the following: Python or C++.\n• Experience with data structures or algorithms gathered from inside or outside of school or work.\nPreferred qualifications:\n• Currently attending a degree program in Taiwan and available to work full time for 12 weeks outside of university term time.\n• Penultimate academic year or returning to a degree program after completion of the internship.\n• Programming experience in one or more of the following: C/C++, Python, CUDA.\n• Research experience in computer architecture, embedded systems, accelerators, artificial intelligence, computer vision, distributed systems, machine learning, data science, LLM, rule base or systems.\n• Experience in computer science, with competencies in data structures, algorithms and software design.\nAbout the job\nJoin us for a unique 10-12 week paid internship that offers personal and professional development, an executive speaker series, and community-building. The Software Engineering Internship program will give you an opportunity to work on complex computer science solutions, develop scalable, distributed software systems, and also collaborate on multitudes of smaller projects that have universal appeal.\nAs a Software Engineering intern, you will work on a specific project critical to Google’s needs.\nSoftware Engineering Intern:\nAs a key member of a versatile team, you will work on a specific project critical to Google’s needs. We need our engineers to be versatile, and enthusiastic in addressing problems as we continue to push technology forward.\nYou will design, implement, and manage the hardware, software, and systems infrastructure for all Google services (Search, YouTube, etc.) and Google Cloud. Our end users are Googlers, cloud customers and the billions of people who use Google services around the world.\nGoogle is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to address some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.\nResponsibilities\n• Develop software for Google Cloud’s infrastructure to empower Google service and external cloud customers, with hardware platforms including compute, storage, or AI-accelerators like TPUs and GPUs.\n• Create and support a productive and innovative team including working with peers, managers, and teams.\n• Analyze data and evaluate results to choose the best solution to effectively solve issues.\n• Develop scripts or use AI to automate routine tasks and manual processes.\n• Apply knowledge gained in computer science courses to real world issues."
+    },
+    "employment_type_raw": "全職",
+    "title": "Software Engineering Intern, PhD, Summer 2027"
+  },
+  "location": {
+    "address_raw": "台北市信義區",
+    "raw": "台北市信義區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：不拘",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 22
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:15:44+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Minimum qualifications:\n• Currently enrolled in a PhD program with a focus on subjects in software development or other technical related fields.\n• Experience in software development and coding in one or more of the following: Python or C++.\n• Experience with data structures or algorithms gathered from inside or outside of school or work.\nPreferred qualifications:\n• Currently attending a degree program in Taiwan and available to work full time for 12 weeks outside of university term time.\n• Penultimate academic year or returning to a degree program after completion of the internship.\n• Programming experience in one or more of the following: C/C++, Python, CUDA.\n• Research experience in computer architecture, embedded systems, accelerators, artificial intelligence, computer vision, distributed systems, machine learning, data science, LLM, rule base or systems.\n• Experience in computer science, with competencies in data structures, algorithms and software design.\nAbout the job\nJoin us for a unique 10-12 week paid internship that offers personal and professional development, an executive speaker series, and community-building. The Software Engineering Internship program will give you an opportunity to work on complex computer science solutions, develop scalable, distributed software systems, and also collaborate on multitudes of smaller projects that have universal appeal.\nAs a Software Engineering intern, you will work on a specific project critical to Google’s needs.\nSoftware Engineering Intern:\nAs a key member of a versatile team, you will work on a specific project critical to Google’s needs. We need our engineers to be versatile, and enthusiastic in addressing problems as we continue to push technology forward.\nYou will design, implement, and manage the hardware, software, and systems infrastructure for all Google services (Search, YouTube, etc.) and Google Cloud. Our end users are Googlers, cloud customers and the billions of people who use Google services around the world.\nGoogle is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to address some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.\nResponsibilities\n• Develop software for Google Cloud’s infrastructure to empower Google service and external cloud customers, with hardware platforms including compute, storage, or AI-accelerators like TPUs and GPUs.\n• Create and support a productive and innovative team including working with peers, managers, and teams.\n• Analyze data and evaluate results to choose the best solution to effectively solve issues.\n• Develop scripts or use AI to automate routine tasks and manual processes.\n• Apply knowledge gained in computer science courses to real world issues.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "硬體研發工程師",
+            "軟體工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "硬體研發工程師、軟體工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Minimum qualifications:\n• Currently enrolled in a PhD program with a focus on subjects in software development or other technical related fields.\n• Experience in software development and coding in one or more of the following: Python or C++.\n• Experience with data structures or algorithms gathered from inside or outside of school or work.\nPreferred qualifications:\n• Currently attending a degree program in Taiwan and available to work full time for 12 weeks outside of university term time.\n• Penultimate academic year or returning to a degree program after completion of the internship.\n• Programming experience in one or more of the following: C/C++, Python, CUDA.\n• Research experience in computer architecture, embedded systems, accelerators, artificial intelligence, computer vision, distributed systems, machine learning, data science, LLM, rule base or systems.\n• Experience in computer science, with competencies in data structures, algorithms and software design.\nAbout the job\nJoin us for a unique 10-12 week paid internship that offers personal and professional development, an executive speaker series, and community-building. The Software Engineering Internship program will give you an opportunity to work on complex computer science solutions, develop scalable, distributed software systems, and also collaborate on multitudes of smaller projects that have universal appeal.\nAs a Software Engineering intern, you will work on a specific project critical to Google’s needs.\nSoftware Engineering Intern:\nAs a key member of a versatile team, you will work on a specific project critical to Google’s needs. We need our engineers to be versatile, and enthusiastic in addressing problems as we continue to push technology forward.\nYou will design, implement, and manage the hardware, software, and systems infrastructure for all Google services (Search, YouTube, etc.) and Google Cloud. Our end users are Googlers, cloud customers and the billions of people who use Google services around the world.\nGoogle is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to address some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.\nResponsibilities\n• Develop software for Google Cloud’s infrastructure to empower Google service and external cloud customers, with hardware platforms including compute, storage, or AI-accelerators like TPUs and GPUs.\n• Create and support a productive and innovative team including working with peers, managers, and teams.\n• Analyze data and evaluate results to choose the best solution to effectively solve issues.\n• Develop scripts or use AI to automate routine tasks and manual processes.\n• Apply knowledge gained in computer science courses to real world issues."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "952cx",
+    "job_url": "https://www.104.com.tw/job/952cx",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/952cx.json",
+    "raw_sha256": "9081558718d861c9dff54b87ac2f48b4d8b28a901e17cb2a9bdded47755adad4",
+    "requested_url": "https://www.104.com.tw/api/jobs/952cx"
+  }
+}

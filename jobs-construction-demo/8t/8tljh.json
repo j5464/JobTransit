@@ -1,0 +1,212 @@
+{
+  "company": {
+    "id": "wifk2vc",
+    "name": "大同世界科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "軟體工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "我們是一家專注於創新軟體解決方案的科技公司，結合AI與大數據，\n驅動下一世代智慧應用。團隊文化扁平開放，鼓勵直覺創意（Vibe Coding），重視實作與持續學習。\n【工作內容】\n與產品設計師協作，以自然語言引導AI生成關鍵功能模組\n使用 AI-assisted 工具快速產出高品質前後端程式碼\n開發並維護響應式前端介面，優化使用者體驗\n設計並實作可擴充性後端服務\n實作自動化測試、持續整合 (CI/CD) 與部署流程\n參與系統設計與程式碼審查，確保 AI 生成程式碼的品質與安全性\n持續追蹤 AI 開發工具與框架新趨勢，提出改進與最佳實踐\n【必備條件】\n熟悉 HTML5、CSS3、JavaScript，並擅長至少一種前端框架 (React、Vue 或 Angular)\n熟悉 Node.js (Express) 與 Python (Flask/Django)經驗\n熟悉 Git 版本控制與 GitHub/GitLab 流程\n具備 Docker 容器化或雲端佈署服務經驗\n熟練使用 Prisma ORM，包含 schema 設計、Client 操作\n熟練使用資料庫如 PostgreSQL 或 SQL Server\n有使用 Cursor、Claude等 AI-assisted 工具實作經驗\n良好的系統設計能力與程式碼審查經驗\n具備溝通協作與問題分析能力，能在敏捷開發流程中主動推進專案\n【加分條件】\n有完整專案中結合 ChatGPT、Claude 或其他大型語言模型實作經驗\n熟悉安全性掃描工具與自動化測試\n具備大數據處理或機器學習模型部署經驗\n我們提供\n完善薪資與獎金制度\n完整的教育訓練與技術研討會補助\n健全的員工福利 (年度健康檢查、團隊旅遊)\n歡迎對 AI-assisted 開發懷抱熱情、樂於挑戰新技術的你加入，一起打造未來智慧應用！"
+    },
+    "employment_type_raw": "全職",
+    "title": "T504.6-AI-assisted 全端工程師（Vibe Coding）"
+  },
+  "location": {
+    "address_raw": "台北市中山區中山北路三段22號",
+    "raw": "台北市中山區中山北路三段22號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "NLP",
+          "LLM",
+          "Prompt"
+        ],
+        "label": "擅長工具",
+        "text": "NLP、LLM、Prompt"
+      },
+      {
+        "items": [
+          "AI",
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "資料庫程式設計",
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體品質與保證",
+          "軟體整合測試",
+          "人工智慧",
+          "自然語言處理",
+          "語言模型",
+          "生成式AI",
+          "提示工程",
+          "演算法設計"
+        ],
+        "label": "工作技能",
+        "text": "AI、軟體程式設計、軟體工程系統開發、資料庫程式設計、系統架構規劃、系統整合分析、軟體品質與保證、軟體整合測試、人工智慧、自然語言處理、語言模型、生成式AI、提示工程、演算法設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "AI",
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "資料庫程式設計",
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體品質與保證",
+      "軟體整合測試",
+      "人工智慧",
+      "自然語言處理",
+      "語言模型",
+      "生成式AI",
+      "提示工程",
+      "演算法設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：NLP、LLM、Prompt\n工作技能：AI、軟體程式設計、軟體工程系統開發、資料庫程式設計、系統架構規劃、系統整合分析、軟體品質與保證、軟體整合測試、人工智慧、自然語言處理、語言模型、生成式AI、提示工程、演算法設計",
+    "tools": [
+      "NLP",
+      "LLM",
+      "Prompt"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 10
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:46:27+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們是一家專注於創新軟體解決方案的科技公司，結合AI與大數據，\n驅動下一世代智慧應用。團隊文化扁平開放，鼓勵直覺創意（Vibe Coding），重視實作與持續學習。\n【工作內容】\n與產品設計師協作，以自然語言引導AI生成關鍵功能模組\n使用 AI-assisted 工具快速產出高品質前後端程式碼\n開發並維護響應式前端介面，優化使用者體驗\n設計並實作可擴充性後端服務\n實作自動化測試、持續整合 (CI/CD) 與部署流程\n參與系統設計與程式碼審查，確保 AI 生成程式碼的品質與安全性\n持續追蹤 AI 開發工具與框架新趨勢，提出改進與最佳實踐\n【必備條件】\n熟悉 HTML5、CSS3、JavaScript，並擅長至少一種前端框架 (React、Vue 或 Angular)\n熟悉 Node.js (Express) 與 Python (Flask/Django)經驗\n熟悉 Git 版本控制與 GitHub/GitLab 流程\n具備 Docker 容器化或雲端佈署服務經驗\n熟練使用 Prisma ORM，包含 schema 設計、Client 操作\n熟練使用資料庫如 PostgreSQL 或 SQL Server\n有使用 Cursor、Claude等 AI-assisted 工具實作經驗\n良好的系統設計能力與程式碼審查經驗\n具備溝通協作與問題分析能力，能在敏捷開發流程中主動推進專案\n【加分條件】\n有完整專案中結合 ChatGPT、Claude 或其他大型語言模型實作經驗\n熟悉安全性掃描工具與自動化測試\n具備大數據處理或機器學習模型部署經驗\n我們提供\n完善薪資與獎金制度\n完整的教育訓練與技術研討會補助\n健全的員工福利 (年度健康檢查、團隊旅遊)\n歡迎對 AI-assisted 開發懷抱熱情、樂於挑戰新技術的你加入，一起打造未來智慧應用！",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "軟體工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、軟體工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區中山北路三段22號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們是一家專注於創新軟體解決方案的科技公司，結合AI與大數據，\n驅動下一世代智慧應用。團隊文化扁平開放，鼓勵直覺創意（Vibe Coding），重視實作與持續學習。\n【工作內容】\n與產品設計師協作，以自然語言引導AI生成關鍵功能模組\n使用 AI-assisted 工具快速產出高品質前後端程式碼\n開發並維護響應式前端介面，優化使用者體驗\n設計並實作可擴充性後端服務\n實作自動化測試、持續整合 (CI/CD) 與部署流程\n參與系統設計與程式碼審查，確保 AI 生成程式碼的品質與安全性\n持續追蹤 AI 開發工具與框架新趨勢，提出改進與最佳實踐\n【必備條件】\n熟悉 HTML5、CSS3、JavaScript，並擅長至少一種前端框架 (React、Vue 或 Angular)\n熟悉 Node.js (Express) 與 Python (Flask/Django)經驗\n熟悉 Git 版本控制與 GitHub/GitLab 流程\n具備 Docker 容器化或雲端佈署服務經驗\n熟練使用 Prisma ORM，包含 schema 設計、Client 操作\n熟練使用資料庫如 PostgreSQL 或 SQL Server\n有使用 Cursor、Claude等 AI-assisted 工具實作經驗\n良好的系統設計能力與程式碼審查經驗\n具備溝通協作與問題分析能力，能在敏捷開發流程中主動推進專案\n【加分條件】\n有完整專案中結合 ChatGPT、Claude 或其他大型語言模型實作經驗\n熟悉安全性掃描工具與自動化測試\n具備大數據處理或機器學習模型部署經驗\n我們提供\n完善薪資與獎金制度\n完整的教育訓練與技術研討會補助\n健全的員工福利 (年度健康檢查、團隊旅遊)\n歡迎對 AI-assisted 開發懷抱熱情、樂於挑戰新技術的你加入，一起打造未來智慧應用！"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "NLP",
+            "LLM",
+            "Prompt"
+          ],
+          "label": "擅長工具",
+          "text": "NLP、LLM、Prompt",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "資料庫程式設計",
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體品質與保證",
+            "軟體整合測試",
+            "人工智慧",
+            "自然語言處理",
+            "語言模型",
+            "生成式AI",
+            "提示工程",
+            "演算法設計"
+          ],
+          "label": "工作技能",
+          "text": "AI、軟體程式設計、軟體工程系統開發、資料庫程式設計、系統架構規劃、系統整合分析、軟體品質與保證、軟體整合測試、人工智慧、自然語言處理、語言模型、生成式AI、提示工程、演算法設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：NLP、LLM、Prompt\n工作技能：AI、軟體程式設計、軟體工程系統開發、資料庫程式設計、系統架構規劃、系統整合分析、軟體品質與保證、軟體整合測試、人工智慧、自然語言處理、語言模型、生成式AI、提示工程、演算法設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8tljh",
+    "job_url": "https://www.104.com.tw/job/8tljh",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8tljh.json",
+    "raw_sha256": "796f91fd18334e371bdda594f1c6a65796f8b034e999e58932e7fdaa1963fa3d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8tljh"
+  }
+}

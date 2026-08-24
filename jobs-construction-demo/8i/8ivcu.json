@@ -1,0 +1,193 @@
+{
+  "company": {
+    "id": "1a2x6bn62g",
+    "name": "新加坡商星智科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Proven working experience in embedded software engineering."
+        },
+        {
+          "children": [],
+          "text": "BS degree in Computer Science, Electrical Engineering, or a related field."
+        },
+        {
+          "children": [],
+          "text": "Experience in hands-on development and troubleshooting on embedded targets."
+        },
+        {
+          "children": [],
+          "text": "Solid programming experience in C or C++."
+        },
+        {
+          "children": [],
+          "text": "Non smoking"
+        }
+      ],
+      "text": "Job Brief:\nWe are looking for a talented Embedded Software Engineer with expertise in embedded CPU, RTOS and IP verification to join our innovative team. In this role, you will be responsible for designing, developing, and maintaining software for embedded systems, focusing on CPU architecture and RTOS, as well as verifying IP on simulators and FPGA platforms.\nResponsibilities:\nDesign and implement software for embedded devices and systems using embedded CPU architecture and RTOS.\nDevelop, code, test, and debug system software.\nReview code and design to ensure adherence to best practices and performance standards.\nAnalyze and enhance the efficiency, stability, and scalability of system resources.\nIntegrate and validate the next-generation AI accelerator designs.\nPerform IP verification using simulators and FPGA platforms.\nSupport software applications and optimize I/O performance.\nInterface with hardware design and application development teams.\nProvide post-production support, including debugging and upgrading software.\nDocument design specifications, installation instructions, and other system-related information.\nRequirements:\n- Proven working experience in embedded software engineering.\n- BS degree in Computer Science, Electrical Engineering, or a related field.\n- Experience in hands-on development and troubleshooting on embedded targets.\n- Solid programming experience in C or C++.\n- Non smoking"
+    },
+    "employment_type_raw": "全職",
+    "title": "Firmware Engineer/ 韌體工程師 ( Senior/ Manager)"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市(依照公司規定分派)",
+    "raw": "新竹縣竹北市(依照公司規定分派)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "FPGA",
+          "C++",
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "FPGA、C++、C#"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n擅長工具：FPGA、C++、C#\n工作技能：軟體程式設計、軟體工程系統開發",
+    "tools": [
+      "FPGA",
+      "C++",
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 2
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:23:12+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Job Brief:\nWe are looking for a talented Embedded Software Engineer with expertise in embedded CPU, RTOS and IP verification to join our innovative team. In this role, you will be responsible for designing, developing, and maintaining software for embedded systems, focusing on CPU architecture and RTOS, as well as verifying IP on simulators and FPGA platforms.\nResponsibilities:\nDesign and implement software for embedded devices and systems using embedded CPU architecture and RTOS.\nDevelop, code, test, and debug system software.\nReview code and design to ensure adherence to best practices and performance standards.\nAnalyze and enhance the efficiency, stability, and scalability of system resources.\nIntegrate and validate the next-generation AI accelerator designs.\nPerform IP verification using simulators and FPGA platforms.\nSupport software applications and optimize I/O performance.\nInterface with hardware design and application development teams.\nProvide post-production support, including debugging and upgrading software.\nDocument design specifications, installation instructions, and other system-related information.\nRequirements:\n- Proven working experience in embedded software engineering.\n- BS degree in Computer Science, Electrical Engineering, or a related field.\n- Experience in hands-on development and troubleshooting on embedded targets.\n- Solid programming experience in C or C++.\n- Non smoking",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市(依照公司規定分派)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Job Brief:\nWe are looking for a talented Embedded Software Engineer with expertise in embedded CPU, RTOS and IP verification to join our innovative team. In this role, you will be responsible for designing, developing, and maintaining software for embedded systems, focusing on CPU architecture and RTOS, as well as verifying IP on simulators and FPGA platforms.\nResponsibilities:\nDesign and implement software for embedded devices and systems using embedded CPU architecture and RTOS.\nDevelop, code, test, and debug system software.\nReview code and design to ensure adherence to best practices and performance standards.\nAnalyze and enhance the efficiency, stability, and scalability of system resources.\nIntegrate and validate the next-generation AI accelerator designs.\nPerform IP verification using simulators and FPGA platforms.\nSupport software applications and optimize I/O performance.\nInterface with hardware design and application development teams.\nProvide post-production support, including debugging and upgrading software.\nDocument design specifications, installation instructions, and other system-related information.\nRequirements:\n- Proven working experience in embedded software engineering.\n- BS degree in Computer Science, Electrical Engineering, or a related field.\n- Experience in hands-on development and troubleshooting on embedded targets.\n- Solid programming experience in C or C++.\n- Non smoking"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "FPGA",
+            "C++",
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "FPGA、C++、C#",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n擅長工具：FPGA、C++、C#\n工作技能：軟體程式設計、軟體工程系統開發"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/05/17",
+    "html_sha256": null,
+    "job_id": "8ivcu",
+    "job_url": "https://www.104.com.tw/job/8ivcu",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ivcu.json",
+    "raw_sha256": "c016243bb2d255b05aeaf312437793c3f09d61c65b139837f05e54a227f3f1d9",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ivcu"
+  }
+}

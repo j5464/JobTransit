@@ -1,0 +1,237 @@
+{
+  "company": {
+    "id": "1a2x6bkyjt",
+    "name": "英屬開曼群島商裕慶金屬股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "MIS／網管主管",
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "ERP開發及維護(Oracle NetSuite等)"
+        },
+        {
+          "children": [],
+          "text": "系統程式開發及維護"
+        },
+        {
+          "children": [],
+          "text": "資料庫主機管理及維護"
+        },
+        {
+          "children": [],
+          "text": "專案執行"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事宜"
+        }
+      ],
+      "text": "1.ERP開發及維護(Oracle NetSuite等)\n2.系統程式開發及維護\n3.資料庫主機管理及維護\n4.專案執行\n5.主管交辦事宜"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師/高級工程師【南投】（擴充編制）"
+  },
+  "location": {
+    "address_raw": "南投縣南投市永豐里成功三路122號",
+    "raw": "南投縣南投市永豐里成功三路122號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "TCP/IP",
+          "Excel",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "TCP/IP、Excel、PowerPoint、Word"
+      },
+      {
+        "items": [
+          "系統架構規劃與維護",
+          "安裝與維護網路安全系統",
+          "網路安全架構分析與設計",
+          "系統維護操作",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃與維護、安裝與維護網路安全系統、網路安全架構分析與設計、系統維護操作、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "基本條件 :\n- 具備 TCP/IP Protocol 基本能力\n- 具 Windows 操作知識\n- 具資訊安全相關知識\n- 具基本網路管理經驗\n- 具備網路以及防火牆等相關技術\n依資歷核敘薪資"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "基本條件 :\n- 具備 TCP/IP Protocol 基本能力\n- 具 Windows 操作知識\n- 具資訊安全相關知識\n- 具基本網路管理經驗\n- 具備網路以及防火牆等相關技術\n依資歷核敘薪資",
+    "skills": [
+      "系統架構規劃與維護",
+      "安裝與維護網路安全系統",
+      "網路安全架構分析與設計",
+      "系統維護操作",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關\n擅長工具：TCP/IP、Excel、PowerPoint、Word\n工作技能：系統架構規劃與維護、安裝與維護網路安全系統、網路安全架構分析與設計、系統維護操作、軟體工程系統開發\n其他條件：基本條件 :\n- 具備 TCP/IP Protocol 基本能力\n- 具 Windows 操作知識\n- 具資訊安全相關知識\n- 具基本網路管理經驗\n- 具備網路以及防火牆等相關技術\n依資歷核敘薪資",
+    "tools": [
+      "TCP/IP",
+      "Excel",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 36
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:50:40+08:00"
+  },
+  "salary": {
+    "raw": "月薪38,000~55,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.ERP開發及維護(Oracle NetSuite等)\n2.系統程式開發及維護\n3.資料庫主機管理及維護\n4.專案執行\n5.主管交辦事宜",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MIS／網管主管",
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "MIS／網管主管、軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪38,000~55,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "南投縣南投市永豐里成功三路122號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.ERP開發及維護(Oracle NetSuite等)\n2.系統程式開發及維護\n3.資料庫主機管理及維護\n4.專案執行\n5.主管交辦事宜"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "TCP/IP",
+            "Excel",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "TCP/IP、Excel、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃與維護",
+            "安裝與維護網路安全系統",
+            "網路安全架構分析與設計",
+            "系統維護操作",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃與維護、安裝與維護網路安全系統、網路安全架構分析與設計、系統維護操作、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "基本條件 :\n- 具備 TCP/IP Protocol 基本能力\n- 具 Windows 操作知識\n- 具資訊安全相關知識\n- 具基本網路管理經驗\n- 具備網路以及防火牆等相關技術\n依資歷核敘薪資",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關\n擅長工具：TCP/IP、Excel、PowerPoint、Word\n工作技能：系統架構規劃與維護、安裝與維護網路安全系統、網路安全架構分析與設計、系統維護操作、軟體工程系統開發\n其他條件：基本條件 :\n- 具備 TCP/IP Protocol 基本能力\n- 具 Windows 操作知識\n- 具資訊安全相關知識\n- 具基本網路管理經驗\n- 具備網路以及防火牆等相關技術\n依資歷核敘薪資"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8tn9i",
+    "job_url": "https://www.104.com.tw/job/8tn9i",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8tn9i.json",
+    "raw_sha256": "4f8aeeb4e5a35c464be8e8491dc708abd7965bbbffb338ff62307ca6d4ea14e6",
+    "requested_url": "https://www.104.com.tw/api/jobs/8tn9i"
+  }
+}

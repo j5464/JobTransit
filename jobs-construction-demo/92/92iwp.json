@@ -1,0 +1,207 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "機器學習工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "模擬與實體環境執行：負責使用Isaac Sim / Isaac Lab及實體機械手臂，規劃並執行VLA模型推論、任務測試與行為驗證，觀察任務成功率、模型反應與機械手臂操作表現。"
+        },
+        {
+          "children": [],
+          "text": "程式開發與系統整合：撰寫與維護Python程式碼，串接VLA模型、ROS2或機械手臂控制介面，實作任務流程、行為邏輯與異常處理機制。"
+        },
+        {
+          "children": [],
+          "text": "訓練資料生成與處理：針對模擬與實體機械手臂的訓練資料需求，建置資料處理流程。"
+        },
+        {
+          "children": [],
+          "text": "模型微調與評估：VLA模型fine-tuning、evaluation與實驗結果分析，評估 robot foundation model可應用情境。"
+        },
+        {
+          "children": [],
+          "text": "驗證流程與指標建立：建立模擬驗證與評估流程，定義任務成功條件、評估指標、failure case分析方式，並協助將評估流程整合進訓練與測試pipeline。"
+        },
+        {
+          "children": [],
+          "text": "Sim2Real驗證：分析模擬資料與實體機械手臂表現差異，實踐Sim2Real驗證。"
+        }
+      ],
+      "text": "本職缺將負責建立機械手臂操作任務的Robotics AI流程，涵蓋Isaac Sim / Isaac Lab task建置、模擬訓練資料生成、VLA（Vision-Language-Action）模型訓練、模擬驗證與Sim2Real等。主要工作內容如下：\n●模擬與實體環境執行：負責使用Isaac Sim / Isaac Lab及實體機械手臂，規劃並執行VLA模型推論、任務測試與行為驗證，觀察任務成功率、模型反應與機械手臂操作表現。\n●程式開發與系統整合：撰寫與維護Python程式碼，串接VLA模型、ROS2或機械手臂控制介面，實作任務流程、行為邏輯與異常處理機制。\n●訓練資料生成與處理：針對模擬與實體機械手臂的訓練資料需求，建置資料處理流程。\n●模型微調與評估：VLA模型fine-tuning、evaluation與實驗結果分析，評估 robot foundation model可應用情境。\n●驗證流程與指標建立：建立模擬驗證與評估流程，定義任務成功條件、評估指標、failure case分析方式，並協助將評估流程整合進訓練與測試pipeline。\n●Sim2Real驗證：分析模擬資料與實體機械手臂表現差異，實踐Sim2Real驗證。"
+    },
+    "employment_type_raw": "全職",
+    "title": "機械手臂AI工程師/Robotics AI Engineer _台達研究院(竹北/台北)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號/新竹縣竹北市台元二街10號17樓",
+    "raw": "台北市內湖區瑞光路186號/新竹縣竹北市台元二街10號17樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "[專業技能]\n1.程式開發與環境建置:\n具備 Python 程式開發能力，熟悉 Linux / Ubuntu、Git 與 Docker 環境使用及操作，能協助建立模型訓練、模擬測試與資料處理所需的開發環境。\n2.AI模型與機器學習基礎:\n了解VLA模型的基本流程與應用，具備機器學習與大型語言模型的訓練微調與除錯等能力，有robot foundation model 相關經驗。\n3.機器人控制與模擬基礎:\n具備機器人相關技術基礎，能理解機械手臂運動、座標轉換、末端控制、夾爪控制與軌跡控制等概念，並有機器人模擬訓練與測試環境建置經驗。\n[加分條件]\n1.實際使用過 NVIDIA Isaac Sim / Isaac Lab 建立機器人模擬環境或任務流程。\n2.曾訓練或評估 NVIDIA GR00T、OpenVLA、Diffusion Policy或其他 VLA / robot policy model。\n3.具備機械手臂實作經驗，包含機械手臂控制、模擬驗證、資料收集、模型推論或 Sim2Real 相關經驗。\n4.具備 Reinforcement Learning 基本概念或實作經驗，能理解獎勵設計、策略最佳化與訓練流程調整對模型行為表現的影響。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "機械工程相關"
+    ],
+    "other_text": "[專業技能]\n1.程式開發與環境建置:\n具備 Python 程式開發能力，熟悉 Linux / Ubuntu、Git 與 Docker 環境使用及操作，能協助建立模型訓練、模擬測試與資料處理所需的開發環境。\n2.AI模型與機器學習基礎:\n了解VLA模型的基本流程與應用，具備機器學習與大型語言模型的訓練微調與除錯等能力，有robot foundation model 相關經驗。\n3.機器人控制與模擬基礎:\n具備機器人相關技術基礎，能理解機械手臂運動、座標轉換、末端控制、夾爪控制與軌跡控制等概念，並有機器人模擬訓練與測試環境建置經驗。\n[加分條件]\n1.實際使用過 NVIDIA Isaac Sim / Isaac Lab 建立機器人模擬環境或任務流程。\n2.曾訓練或評估 NVIDIA GR00T、OpenVLA、Diffusion Policy或其他 VLA / robot policy model。\n3.具備機械手臂實作經驗，包含機械手臂控制、模擬驗證、資料收集、模型推論或 Sim2Real 相關經驗。\n4.具備 Reinforcement Learning 基本概念或實作經驗，能理解獎勵設計、策略最佳化與訓練流程調整對模型行為表現的影響。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：[專業技能]\n1.程式開發與環境建置:\n具備 Python 程式開發能力，熟悉 Linux / Ubuntu、Git 與 Docker 環境使用及操作，能協助建立模型訓練、模擬測試與資料處理所需的開發環境。\n2.AI模型與機器學習基礎:\n了解VLA模型的基本流程與應用，具備機器學習與大型語言模型的訓練微調與除錯等能力，有robot foundation model 相關經驗。\n3.機器人控制與模擬基礎:\n具備機器人相關技術基礎，能理解機械手臂運動、座標轉換、末端控制、夾爪控制與軌跡控制等概念，並有機器人模擬訓練與測試環境建置經驗。\n[加分條件]\n1.實際使用過 NVIDIA Isaac Sim / Isaac Lab 建立機器人模擬環境或任務流程。\n2.曾訓練或評估 NVIDIA GR00T、OpenVLA、Diffusion Policy或其他 VLA / robot policy model。\n3.具備機械手臂實作經驗，包含機械手臂控制、模擬驗證、資料收集、模型推論或 Sim2Real 相關經驗。\n4.具備 Reinforcement Learning 基本概念或實作經驗，能理解獎勵設計、策略最佳化與訓練流程調整對模型行為表現的影響。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 69
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:12:11+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "本職缺將負責建立機械手臂操作任務的Robotics AI流程，涵蓋Isaac Sim / Isaac Lab task建置、模擬訓練資料生成、VLA（Vision-Language-Action）模型訓練、模擬驗證與Sim2Real等。主要工作內容如下：\n●模擬與實體環境執行：負責使用Isaac Sim / Isaac Lab及實體機械手臂，規劃並執行VLA模型推論、任務測試與行為驗證，觀察任務成功率、模型反應與機械手臂操作表現。\n●程式開發與系統整合：撰寫與維護Python程式碼，串接VLA模型、ROS2或機械手臂控制介面，實作任務流程、行為邏輯與異常處理機制。\n●訓練資料生成與處理：針對模擬與實體機械手臂的訓練資料需求，建置資料處理流程。\n●模型微調與評估：VLA模型fine-tuning、evaluation與實驗結果分析，評估 robot foundation model可應用情境。\n●驗證流程與指標建立：建立模擬驗證與評估流程，定義任務成功條件、評估指標、failure case分析方式，並協助將評估流程整合進訓練與測試pipeline。\n●Sim2Real驗證：分析模擬資料與實體機械手臂表現差異，實踐Sim2Real驗證。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "機器學習工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "機器學習工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號/新竹縣竹北市台元二街10號17樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "本職缺將負責建立機械手臂操作任務的Robotics AI流程，涵蓋Isaac Sim / Isaac Lab task建置、模擬訓練資料生成、VLA（Vision-Language-Action）模型訓練、模擬驗證與Sim2Real等。主要工作內容如下：\n●模擬與實體環境執行：負責使用Isaac Sim / Isaac Lab及實體機械手臂，規劃並執行VLA模型推論、任務測試與行為驗證，觀察任務成功率、模型反應與機械手臂操作表現。\n●程式開發與系統整合：撰寫與維護Python程式碼，串接VLA模型、ROS2或機械手臂控制介面，實作任務流程、行為邏輯與異常處理機制。\n●訓練資料生成與處理：針對模擬與實體機械手臂的訓練資料需求，建置資料處理流程。\n●模型微調與評估：VLA模型fine-tuning、evaluation與實驗結果分析，評估 robot foundation model可應用情境。\n●驗證流程與指標建立：建立模擬驗證與評估流程，定義任務成功條件、評估指標、failure case分析方式，並協助將評估流程整合進訓練與測試pipeline。\n●Sim2Real驗證：分析模擬資料與實體機械手臂表現差異，實踐Sim2Real驗證。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "[專業技能]\n1.程式開發與環境建置:\n具備 Python 程式開發能力，熟悉 Linux / Ubuntu、Git 與 Docker 環境使用及操作，能協助建立模型訓練、模擬測試與資料處理所需的開發環境。\n2.AI模型與機器學習基礎:\n了解VLA模型的基本流程與應用，具備機器學習與大型語言模型的訓練微調與除錯等能力，有robot foundation model 相關經驗。\n3.機器人控制與模擬基礎:\n具備機器人相關技術基礎，能理解機械手臂運動、座標轉換、末端控制、夾爪控制與軌跡控制等概念，並有機器人模擬訓練與測試環境建置經驗。\n[加分條件]\n1.實際使用過 NVIDIA Isaac Sim / Isaac Lab 建立機器人模擬環境或任務流程。\n2.曾訓練或評估 NVIDIA GR00T、OpenVLA、Diffusion Policy或其他 VLA / robot policy model。\n3.具備機械手臂實作經驗，包含機械手臂控制、模擬驗證、資料收集、模型推論或 Sim2Real 相關經驗。\n4.具備 Reinforcement Learning 基本概念或實作經驗，能理解獎勵設計、策略最佳化與訓練流程調整對模型行為表現的影響。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：[專業技能]\n1.程式開發與環境建置:\n具備 Python 程式開發能力，熟悉 Linux / Ubuntu、Git 與 Docker 環境使用及操作，能協助建立模型訓練、模擬測試與資料處理所需的開發環境。\n2.AI模型與機器學習基礎:\n了解VLA模型的基本流程與應用，具備機器學習與大型語言模型的訓練微調與除錯等能力，有robot foundation model 相關經驗。\n3.機器人控制與模擬基礎:\n具備機器人相關技術基礎，能理解機械手臂運動、座標轉換、末端控制、夾爪控制與軌跡控制等概念，並有機器人模擬訓練與測試環境建置經驗。\n[加分條件]\n1.實際使用過 NVIDIA Isaac Sim / Isaac Lab 建立機器人模擬環境或任務流程。\n2.曾訓練或評估 NVIDIA GR00T、OpenVLA、Diffusion Policy或其他 VLA / robot policy model。\n3.具備機械手臂實作經驗，包含機械手臂控制、模擬驗證、資料收集、模型推論或 Sim2Real 相關經驗。\n4.具備 Reinforcement Learning 基本概念或實作經驗，能理解獎勵設計、策略最佳化與訓練流程調整對模型行為表現的影響。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "92iwp",
+    "job_url": "https://www.104.com.tw/job/92iwp",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92iwp.json",
+    "raw_sha256": "f6bb201a40e788a2b31be0c72430894710f7310818cf1fbda0b4abac783a263d",
+    "requested_url": "https://www.104.com.tw/api/jobs/92iwp"
+  }
+}

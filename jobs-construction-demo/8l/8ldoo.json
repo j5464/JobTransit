@@ -1,0 +1,292 @@
+{
+  "company": {
+    "id": "1a2x6bmutz",
+    "name": "奕界科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料科學家",
+      "AI工程師",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop and maintain multilingual chatbot systems for customer support automation."
+        },
+        {
+          "children": [],
+          "text": "Design and implement real-time content moderation systems for multi-language chat rooms, focusing on filtering out inappropriate content such as profanity, hate speech, and explicit material."
+        },
+        {
+          "children": [],
+          "text": "Create and optimize text classification models to ensure effective content moderation."
+        },
+        {
+          "children": [],
+          "text": "Develop real-time face modification and swapping systems for live streaming, including transforming appearances like changing an \"old lady into a fashion sexy girl\" for themed casino games."
+        },
+        {
+          "children": [],
+          "text": "Implement and optimize real-time video processing pipelines with a focus on low-latency performance for live casino applications."
+        },
+        {
+          "children": [],
+          "text": "Design scalable AI infrastructure capable of handling high-concurrency gaming environments."
+        },
+        {
+          "children": [],
+          "text": "Implement monitoring and evaluation systems to assess AI model performance continuously."
+        },
+        {
+          "children": [],
+          "text": "Maintain and upgrade AI systems based on performance metrics and feedback."
+        },
+        {
+          "children": [],
+          "text": "Master's or Ph.D. in Computer Science, AI, Machine Learning, or related fields."
+        },
+        {
+          "children": [],
+          "text": "5+ years of experience in machine learning/AI development, particularly in gaming or similar real-time applications."
+        },
+        {
+          "children": [],
+          "text": "Extensive experience with NLP, content moderation systems, and real-time video processing."
+        },
+        {
+          "children": [],
+          "text": "Proven expertise in deep learning models for computer vision, especially in face detection and modification."
+        },
+        {
+          "children": [],
+          "text": "Proficiency in Deep Learning frameworks (PyTorch, TensorFlow)."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with Computer Vision libraries (OpenCV, Dlib)."
+        },
+        {
+          "children": [],
+          "text": "Expertise in NLP frameworks (Transformers, spaCy, NLTK)."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of real-time processing systems."
+        },
+        {
+          "children": [],
+          "text": "Experience with cloud computing platforms."
+        },
+        {
+          "children": [],
+          "text": "Use of version control (Git)."
+        },
+        {
+          "children": [],
+          "text": "Management of container technologies like Docker/Kubernetes."
+        },
+        {
+          "children": [],
+          "text": "Professional working proficiency in English (both written and verbal)."
+        },
+        {
+          "children": [],
+          "text": "Experience with massive field deployments."
+        },
+        {
+          "children": [],
+          "text": "Direct experience in the gaming industry or with real-time streaming applications."
+        },
+        {
+          "children": [],
+          "text": "Knowledge of multiple languages to enhance content moderation capabilities."
+        },
+        {
+          "children": [],
+          "text": "Experience with streaming technologies."
+        },
+        {
+          "children": [],
+          "text": "Background in distributed systems and high-performance computing."
+        },
+        {
+          "children": [],
+          "text": "Experience with MLOps and model deployment pipelines."
+        }
+      ],
+      "text": "We are going to be a leading provider of online gaming solutions, specializing in slot games and live casino experiences. We are on the lookout for an innovative Senior ML/AI Engineer to push the boundaries of AI application within our gaming platforms, enhancing user engagement and operational efficiency.\n#Responsibilities\nNatural Language Processing (NLP):\n1. Develop and maintain multilingual chatbot systems for customer support automation.\n2. Design and implement real-time content moderation systems for multi-language chat rooms, focusing on filtering out inappropriate content such as profanity, hate speech, and explicit material.\n3. Create and optimize text classification models to ensure effective content moderation.\nComputer Vision and Real-time Processing:\n1. Develop real-time face modification and swapping systems for live streaming, including transforming appearances like changing an \"old lady into a fashion sexy girl\" for themed casino games.\n2. Implement and optimize real-time video processing pipelines with a focus on low-latency performance for live casino applications.\nAI Systems Development:\n1. Design scalable AI infrastructure capable of handling high-concurrency gaming environments.\n2. Implement monitoring and evaluation systems to assess AI model performance continuously.\n3. Maintain and upgrade AI systems based on performance metrics and feedback.\n#Qualifications\n1. Master's or Ph.D. in Computer Science, AI, Machine Learning, or related fields.\n2. 5+ years of experience in machine learning/AI development, particularly in gaming or similar real-time applications.\n3. Extensive experience with NLP, content moderation systems, and real-time video processing.\n4. Proven expertise in deep learning models for computer vision, especially in face detection and modification.\n5. Proficiency in Deep Learning frameworks (PyTorch, TensorFlow).\n6. Familiarity with Computer Vision libraries (OpenCV, Dlib).\n7. Expertise in NLP frameworks (Transformers, spaCy, NLTK).\n8. Knowledge of real-time processing systems.\n9. Experience with cloud computing platforms.\n10. Use of version control (Git).\n11. Management of container technologies like Docker/Kubernetes.\n12. Professional working proficiency in English (both written and verbal).\n13. Experience with massive field deployments.\n#Preferred Qualifications\n1. Direct experience in the gaming industry or with real-time streaming applications.\n2. Knowledge of multiple languages to enhance content moderation capabilities.\n3. Experience with streaming technologies.\n4. Background in distributed systems and high-performance computing.\n5. Experience with MLOps and model deployment pipelines."
+    },
+    "employment_type_raw": "全職",
+    "title": "資深機器學習工程師 / Senior Machine Learning / AI Engineer"
+  },
+  "location": {
+    "address_raw": "台北市中正區仁愛路二段99號",
+    "raw": "台北市中正區仁愛路二段99號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "中文：中等、中等、中等、中等",
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "中文：中等、中等、中等、中等\n英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. Exceptional problem-solving abilities.\n2. Ability to thrive in a fast-paced environment.\n3. Collaborative team player with strong documentation skills."
+      }
+    ],
+    "languages": [
+      "中文：中等、中等、中等、中等",
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "1. Exceptional problem-solving abilities.\n2. Ability to thrive in a fast-paced environment.\n3. Collaborative team player with strong documentation skills.",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n語文條件：中文：中等、中等、中等、中等\n英文：精通、精通、精通、精通\n其他條件：1. Exceptional problem-solving abilities.\n2. Ability to thrive in a fast-paced environment.\n3. Collaborative team player with strong documentation skills.",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 81
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:42:33+08:00"
+  },
+  "salary": {
+    "raw": "年薪1,300,000~2,340,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are going to be a leading provider of online gaming solutions, specializing in slot games and live casino experiences. We are on the lookout for an innovative Senior ML/AI Engineer to push the boundaries of AI application within our gaming platforms, enhancing user engagement and operational efficiency.\n#Responsibilities\nNatural Language Processing (NLP):\n1. Develop and maintain multilingual chatbot systems for customer support automation.\n2. Design and implement real-time content moderation systems for multi-language chat rooms, focusing on filtering out inappropriate content such as profanity, hate speech, and explicit material.\n3. Create and optimize text classification models to ensure effective content moderation.\nComputer Vision and Real-time Processing:\n1. Develop real-time face modification and swapping systems for live streaming, including transforming appearances like changing an \"old lady into a fashion sexy girl\" for themed casino games.\n2. Implement and optimize real-time video processing pipelines with a focus on low-latency performance for live casino applications.\nAI Systems Development:\n1. Design scalable AI infrastructure capable of handling high-concurrency gaming environments.\n2. Implement monitoring and evaluation systems to assess AI model performance continuously.\n3. Maintain and upgrade AI systems based on performance metrics and feedback.\n#Qualifications\n1. Master's or Ph.D. in Computer Science, AI, Machine Learning, or related fields.\n2. 5+ years of experience in machine learning/AI development, particularly in gaming or similar real-time applications.\n3. Extensive experience with NLP, content moderation systems, and real-time video processing.\n4. Proven expertise in deep learning models for computer vision, especially in face detection and modification.\n5. Proficiency in Deep Learning frameworks (PyTorch, TensorFlow).\n6. Familiarity with Computer Vision libraries (OpenCV, Dlib).\n7. Expertise in NLP frameworks (Transformers, spaCy, NLTK).\n8. Knowledge of real-time processing systems.\n9. Experience with cloud computing platforms.\n10. Use of version control (Git).\n11. Management of container technologies like Docker/Kubernetes.\n12. Professional working proficiency in English (both written and verbal).\n13. Experience with massive field deployments.\n#Preferred Qualifications\n1. Direct experience in the gaming industry or with real-time streaming applications.\n2. Knowledge of multiple languages to enhance content moderation capabilities.\n3. Experience with streaming technologies.\n4. Background in distributed systems and high-performance computing.\n5. Experience with MLOps and model deployment pipelines.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料科學家",
+            "AI工程師",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料科學家、AI工程師、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪1,300,000~2,340,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區仁愛路二段99號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are going to be a leading provider of online gaming solutions, specializing in slot games and live casino experiences. We are on the lookout for an innovative Senior ML/AI Engineer to push the boundaries of AI application within our gaming platforms, enhancing user engagement and operational efficiency.\n#Responsibilities\nNatural Language Processing (NLP):\n1. Develop and maintain multilingual chatbot systems for customer support automation.\n2. Design and implement real-time content moderation systems for multi-language chat rooms, focusing on filtering out inappropriate content such as profanity, hate speech, and explicit material.\n3. Create and optimize text classification models to ensure effective content moderation.\nComputer Vision and Real-time Processing:\n1. Develop real-time face modification and swapping systems for live streaming, including transforming appearances like changing an \"old lady into a fashion sexy girl\" for themed casino games.\n2. Implement and optimize real-time video processing pipelines with a focus on low-latency performance for live casino applications.\nAI Systems Development:\n1. Design scalable AI infrastructure capable of handling high-concurrency gaming environments.\n2. Implement monitoring and evaluation systems to assess AI model performance continuously.\n3. Maintain and upgrade AI systems based on performance metrics and feedback.\n#Qualifications\n1. Master's or Ph.D. in Computer Science, AI, Machine Learning, or related fields.\n2. 5+ years of experience in machine learning/AI development, particularly in gaming or similar real-time applications.\n3. Extensive experience with NLP, content moderation systems, and real-time video processing.\n4. Proven expertise in deep learning models for computer vision, especially in face detection and modification.\n5. Proficiency in Deep Learning frameworks (PyTorch, TensorFlow).\n6. Familiarity with Computer Vision libraries (OpenCV, Dlib).\n7. Expertise in NLP frameworks (Transformers, spaCy, NLTK).\n8. Knowledge of real-time processing systems.\n9. Experience with cloud computing platforms.\n10. Use of version control (Git).\n11. Management of container technologies like Docker/Kubernetes.\n12. Professional working proficiency in English (both written and verbal).\n13. Experience with massive field deployments.\n#Preferred Qualifications\n1. Direct experience in the gaming industry or with real-time streaming applications.\n2. Knowledge of multiple languages to enhance content moderation capabilities.\n3. Experience with streaming technologies.\n4. Background in distributed systems and high-performance computing.\n5. Experience with MLOps and model deployment pipelines."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "中文：中等、中等、中等、中等",
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "中文：中等、中等、中等、中等\n英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. Exceptional problem-solving abilities.\n2. Ability to thrive in a fast-paced environment.\n3. Collaborative team player with strong documentation skills.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n語文條件：中文：中等、中等、中等、中等\n英文：精通、精通、精通、精通\n其他條件：1. Exceptional problem-solving abilities.\n2. Ability to thrive in a fast-paced environment.\n3. Collaborative team player with strong documentation skills."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8ldoo",
+    "job_url": "https://www.104.com.tw/job/8ldoo",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ldoo.json",
+    "raw_sha256": "453a9f3fa8d7894fe9f25151677936edf6b18fd07e43adaafa500d456ce46542",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ldoo"
+  }
+}

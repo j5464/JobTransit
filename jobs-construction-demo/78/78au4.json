@@ -1,0 +1,231 @@
+{
+  "company": {
+    "id": "9l7gjnk",
+    "name": "資通電腦股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "其他資訊專業人員",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "主要參與銀行系統整合功能開發，維謢。"
+        },
+        {
+          "children": [],
+          "text": "涵蓋銀行所需整合元件研發，測試計劃，技術文件編製，排除維運異常。"
+        }
+      ],
+      "text": "資通電腦於 1980 年成立，是臺灣第一家上市櫃軟體公司，累積 41 年實務經驗，提供環球銀行金融電信協會（SWIFT）台灣區在地專業服務。\n工作內容說明：\n-主要參與銀行系統整合功能開發，維謢。\n-涵蓋銀行所需整合元件研發，測試計劃，技術文件編製，排除維運異常。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java程式設計師（R3）"
+  },
+  "location": {
+    "address_raw": "台北市中山區",
+    "raw": "台北市中山區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "Java",
+          "Struts",
+          "MS SQL",
+          "Oracle",
+          "JavaScript",
+          "Node.js",
+          "AngularJS"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Struts、MS SQL、Oracle、JavaScript、Node.js、AngularJS"
+      },
+      {
+        "items": [
+          "系統整合分析",
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析、軟體程式設計、網路程式設計、資料庫程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "學歷要求：學士/碩士畢。\n語文條件：具備良好的英語能力(CEFR-B2，ex：TOEIC750以上)。\n擅長工具：Java，HTML，JavaScript，CSS，ANSI SQL，JDBC，MS SQL，Oracle。\n工作技能：軟體程式設計，網路程式設計，資料庫程式設計，必須熟悉Java8開發，並知\n悉C#/C/C++/JS任一邏輯思考佳，做事細心，溝通能力佳，願意分享，團隊合\n作。"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [],
+    "other_text": "學歷要求：學士/碩士畢。\n語文條件：具備良好的英語能力(CEFR-B2，ex：TOEIC750以上)。\n擅長工具：Java，HTML，JavaScript，CSS，ANSI SQL，JDBC，MS SQL，Oracle。\n工作技能：軟體程式設計，網路程式設計，資料庫程式設計，必須熟悉Java8開發，並知\n悉C#/C/C++/JS任一邏輯思考佳，做事細心，溝通能力佳，願意分享，團隊合\n作。",
+    "skills": [
+      "系統整合分析",
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Java、Struts、MS SQL、Oracle、JavaScript、Node.js、AngularJS\n工作技能：系統整合分析、軟體程式設計、網路程式設計、資料庫程式設計\n其他條件：學歷要求：學士/碩士畢。\n語文條件：具備良好的英語能力(CEFR-B2，ex：TOEIC750以上)。\n擅長工具：Java，HTML，JavaScript，CSS，ANSI SQL，JDBC，MS SQL，Oracle。\n工作技能：軟體程式設計，網路程式設計，資料庫程式設計，必須熟悉Java8開發，並知\n悉C#/C/C++/JS任一邏輯思考佳，做事細心，溝通能力佳，願意分享，團隊合\n作。",
+    "tools": [
+      "Java",
+      "Struts",
+      "MS SQL",
+      "Oracle",
+      "JavaScript",
+      "Node.js",
+      "AngularJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 72
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:18:57+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "資通電腦於 1980 年成立，是臺灣第一家上市櫃軟體公司，累積 41 年實務經驗，提供環球銀行金融電信協會（SWIFT）台灣區在地專業服務。\n工作內容說明：\n-主要參與銀行系統整合功能開發，維謢。\n-涵蓋銀行所需整合元件研發，測試計劃，技術文件編製，排除維運異常。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "其他資訊專業人員",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、其他資訊專業人員、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "資通電腦於 1980 年成立，是臺灣第一家上市櫃軟體公司，累積 41 年實務經驗，提供環球銀行金融電信協會（SWIFT）台灣區在地專業服務。\n工作內容說明：\n-主要參與銀行系統整合功能開發，維謢。\n-涵蓋銀行所需整合元件研發，測試計劃，技術文件編製，排除維運異常。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Struts",
+            "MS SQL",
+            "Oracle",
+            "JavaScript",
+            "Node.js",
+            "AngularJS"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Struts、MS SQL、Oracle、JavaScript、Node.js、AngularJS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析",
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析、軟體程式設計、網路程式設計、資料庫程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "學歷要求：學士/碩士畢。\n語文條件：具備良好的英語能力(CEFR-B2，ex：TOEIC750以上)。\n擅長工具：Java，HTML，JavaScript，CSS，ANSI SQL，JDBC，MS SQL，Oracle。\n工作技能：軟體程式設計，網路程式設計，資料庫程式設計，必須熟悉Java8開發，並知\n悉C#/C/C++/JS任一邏輯思考佳，做事細心，溝通能力佳，願意分享，團隊合\n作。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Java、Struts、MS SQL、Oracle、JavaScript、Node.js、AngularJS\n工作技能：系統整合分析、軟體程式設計、網路程式設計、資料庫程式設計\n其他條件：學歷要求：學士/碩士畢。\n語文條件：具備良好的英語能力(CEFR-B2，ex：TOEIC750以上)。\n擅長工具：Java，HTML，JavaScript，CSS，ANSI SQL，JDBC，MS SQL，Oracle。\n工作技能：軟體程式設計，網路程式設計，資料庫程式設計，必須熟悉Java8開發，並知\n悉C#/C/C++/JS任一邏輯思考佳，做事細心，溝通能力佳，願意分享，團隊合\n作。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "78au4",
+    "job_url": "https://www.104.com.tw/job/78au4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/78au4.json",
+    "raw_sha256": "e1c9cb65cb8f58eca896d79f0d4f94e53ca689c3da20ed5c864b7431b9519182",
+    "requested_url": "https://www.104.com.tw/api/jobs/78au4"
+  }
+}

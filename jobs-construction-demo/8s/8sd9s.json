@@ -1,0 +1,206 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責MCU (ARM Cortex M0+)韌體開發"
+        },
+        {
+          "children": [],
+          "text": "負責韌體設計文件的撰寫"
+        },
+        {
+          "children": [],
+          "text": "負責產品測試計畫的撰寫"
+        },
+        {
+          "children": [],
+          "text": "熟悉Buck converter 工作模式與控制邏輯"
+        },
+        {
+          "children": [],
+          "text": "MCU周邊熟悉UART, I2C, ADC, Timer, Low power mode"
+        },
+        {
+          "children": [],
+          "text": "C/C++ & 能閱讀MCU周邊電路設計圖"
+        },
+        {
+          "children": [],
+          "text": "熟悉版本控制工具 Git 及開發流程 Git Flow"
+        }
+      ],
+      "text": "【工作內容】\n1. 負責MCU (ARM Cortex M0+)韌體開發\n2. 負責韌體設計文件的撰寫\n3. 負責產品測試計畫的撰寫\n【具備技能】\n1. 熟悉Buck converter 工作模式與控制邏輯\n2. MCU周邊熟悉UART, I2C, ADC, Timer, Low power mode\n3. C/C++ & 能閱讀MCU周邊電路設計圖\n4. 熟悉版本控制工具 Git 及開發流程 Git Flow"
+    },
+    "employment_type_raw": "全職",
+    "title": "韌體資深工程師_標準電源事業部(台北)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號",
+    "raw": "台北市內湖區瑞光路186號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 有使用Matlab Simulink的經驗尤佳\n2. 有執行Unit Test的經驗尤佳\n3. 有python的入門基礎. 尤佳\n4. 有產品GUI開發/維護經驗尤佳\n5. Team player, 有企圖心者尤佳\n6. 熟悉STM32G0/C0系列者尤佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1. 有使用Matlab Simulink的經驗尤佳\n2. 有執行Unit Test的經驗尤佳\n3. 有python的入門基礎. 尤佳\n4. 有產品GUI開發/維護經驗尤佳\n5. Team player, 有企圖心者尤佳\n6. 熟悉STM32G0/C0系列者尤佳",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 有使用Matlab Simulink的經驗尤佳\n2. 有執行Unit Test的經驗尤佳\n3. 有python的入門基礎. 尤佳\n4. 有產品GUI開發/維護經驗尤佳\n5. Team player, 有企圖心者尤佳\n6. 熟悉STM32G0/C0系列者尤佳",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 87
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:55:18+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 負責MCU (ARM Cortex M0+)韌體開發\n2. 負責韌體設計文件的撰寫\n3. 負責產品測試計畫的撰寫\n【具備技能】\n1. 熟悉Buck converter 工作模式與控制邏輯\n2. MCU周邊熟悉UART, I2C, ADC, Timer, Low power mode\n3. C/C++ & 能閱讀MCU周邊電路設計圖\n4. 熟悉版本控制工具 Git 及開發流程 Git Flow",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 負責MCU (ARM Cortex M0+)韌體開發\n2. 負責韌體設計文件的撰寫\n3. 負責產品測試計畫的撰寫\n【具備技能】\n1. 熟悉Buck converter 工作模式與控制邏輯\n2. MCU周邊熟悉UART, I2C, ADC, Timer, Low power mode\n3. C/C++ & 能閱讀MCU周邊電路設計圖\n4. 熟悉版本控制工具 Git 及開發流程 Git Flow"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 有使用Matlab Simulink的經驗尤佳\n2. 有執行Unit Test的經驗尤佳\n3. 有python的入門基礎. 尤佳\n4. 有產品GUI開發/維護經驗尤佳\n5. Team player, 有企圖心者尤佳\n6. 熟悉STM32G0/C0系列者尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 有使用Matlab Simulink的經驗尤佳\n2. 有執行Unit Test的經驗尤佳\n3. 有python的入門基礎. 尤佳\n4. 有產品GUI開發/維護經驗尤佳\n5. Team player, 有企圖心者尤佳\n6. 熟悉STM32G0/C0系列者尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8sd9s",
+    "job_url": "https://www.104.com.tw/job/8sd9s",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8sd9s.json",
+    "raw_sha256": "83995707811dbbecef1ee0a7c09487e6dd4516db95b0b75870a3e548d958cc3d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8sd9s"
+  }
+}

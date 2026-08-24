@@ -1,0 +1,170 @@
+{
+  "company": {
+    "id": "2d9ntmw",
+    "name": "Advantech_研華股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "進行Server平台的BIOS功能驗證與穩定性測試"
+        },
+        {
+          "children": [],
+          "text": "設計測試計畫、撰寫報告，並追蹤問題改善"
+        },
+        {
+          "children": [],
+          "text": "與開發團隊協作，提升產品品質與測試效率"
+        },
+        {
+          "children": [],
+          "text": "資訊、電機或相關科系畢業"
+        },
+        {
+          "children": [],
+          "text": "熟悉BIOS基本功能與x86系統架構"
+        },
+        {
+          "children": [],
+          "text": "具備問題分析與debug能力"
+        },
+        {
+          "children": [],
+          "text": "良好溝通能力與團隊合作精神"
+        },
+        {
+          "children": [],
+          "text": "有Server BIOS驗證或開發經驗"
+        },
+        {
+          "children": [],
+          "text": "了解IPMI、BMC、ACPI、SMBIOS標準"
+        },
+        {
+          "children": [],
+          "text": "具備Python、Shell Script等自動化經驗者佳"
+        }
+      ],
+      "text": "職務介紹：\n我們正在尋找一位系統BIOS測試工程師，負責測試BIOS功能測試並支援伺服器監控、感測、警報、回復、備份等功能應用。如果您擁有伺服器管理及系統管理的專業知識，並且熱衷於發現問題以及與跨部門合作解決問題，這將是您運用技術專長、創造深遠影響的絕佳機會。\n【工作內容】\n• 進行Server平台的BIOS功能驗證與穩定性測試\n• 設計測試計畫、撰寫報告，並追蹤問題改善\n• 與開發團隊協作，提升產品品質與測試效率\n【必要條件】\n• 資訊、電機或相關科系畢業\n• 熟悉BIOS基本功能與x86系統架構\n• 具備問題分析與debug能力\n• 良好溝通能力與團隊合作精神\n【加分條件】\n• 有Server BIOS驗證或開發經驗\n• 了解IPMI、BMC、ACPI、SMBIOS標準\n• 具備Python、Shell Script等自動化經驗者佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "BIOS驗證工程師（Server產品）/ BIOS Validation Engineer (Server Product) -內湖陽光街_JR202605005"
+  },
+  "location": {
+    "address_raw": "台北市內湖區陽光街365巷33號1F",
+    "raw": "台北市內湖區陽光街365巷33號1F"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 16
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:00:52+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "職務介紹：\n我們正在尋找一位系統BIOS測試工程師，負責測試BIOS功能測試並支援伺服器監控、感測、警報、回復、備份等功能應用。如果您擁有伺服器管理及系統管理的專業知識，並且熱衷於發現問題以及與跨部門合作解決問題，這將是您運用技術專長、創造深遠影響的絕佳機會。\n【工作內容】\n• 進行Server平台的BIOS功能驗證與穩定性測試\n• 設計測試計畫、撰寫報告，並追蹤問題改善\n• 與開發團隊協作，提升產品品質與測試效率\n【必要條件】\n• 資訊、電機或相關科系畢業\n• 熟悉BIOS基本功能與x86系統架構\n• 具備問題分析與debug能力\n• 良好溝通能力與團隊合作精神\n【加分條件】\n• 有Server BIOS驗證或開發經驗\n• 了解IPMI、BMC、ACPI、SMBIOS標準\n• 具備Python、Shell Script等自動化經驗者佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區陽光街365巷33號1F",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "職務介紹：\n我們正在尋找一位系統BIOS測試工程師，負責測試BIOS功能測試並支援伺服器監控、感測、警報、回復、備份等功能應用。如果您擁有伺服器管理及系統管理的專業知識，並且熱衷於發現問題以及與跨部門合作解決問題，這將是您運用技術專長、創造深遠影響的絕佳機會。\n【工作內容】\n• 進行Server平台的BIOS功能驗證與穩定性測試\n• 設計測試計畫、撰寫報告，並追蹤問題改善\n• 與開發團隊協作，提升產品品質與測試效率\n【必要條件】\n• 資訊、電機或相關科系畢業\n• 熟悉BIOS基本功能與x86系統架構\n• 具備問題分析與debug能力\n• 良好溝通能力與團隊合作精神\n【加分條件】\n• 有Server BIOS驗證或開發經驗\n• 了解IPMI、BMC、ACPI、SMBIOS標準\n• 具備Python、Shell Script等自動化經驗者佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8uyh8",
+    "job_url": "https://www.104.com.tw/job/8uyh8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8uyh8.json",
+    "raw_sha256": "9e5c8c745c2ca307028fa7d50fb5ea82f87eae03d3f2a42a97544002536ae197",
+    "requested_url": "https://www.104.com.tw/api/jobs/8uyh8"
+  }
+}

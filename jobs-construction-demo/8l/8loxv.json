@@ -1,0 +1,199 @@
+{
+  "company": {
+    "id": "113xbkg0",
+    "name": "國家太空中心"
+  },
+  "job": {
+    "categories": [
+      "通訊軟體工程師",
+      "電信／通訊系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依衛星網路操作與控制系統需求進行軟體技術開發與測試"
+        },
+        {
+          "children": [],
+          "text": "應用商業或開源工具建構軟體系統平台"
+        },
+        {
+          "children": [],
+          "text": "配合測試進度即時修正與改善系統功能與效能"
+        },
+        {
+          "children": [],
+          "text": "協助線上系統除錯及修正"
+        }
+      ],
+      "text": "1.依衛星網路操作與控制系統需求進行軟體技術開發與測試\n2.應用商業或開源工具建構軟體系統平台\n3.配合測試進度即時修正與改善系統功能與效能\n4.協助線上系統除錯及修正"
+    },
+    "employment_type_raw": "全職",
+    "title": "國家太空中心-衛星操控組-軟體工程師"
+  },
+  "location": {
+    "address_raw": "新竹市新竹市科學園區展業一路9號8樓",
+    "raw": "新竹市新竹市科學園區展業一路9號8樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "通信學類"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、通信學類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "工作技能/專長:\n1.具備JavaEE等物件導向程式3年以上開發經驗\n2.具備Spring或其他Java框架應用經驗\n3.具備SQL, RDBMS資料庫存取設計與應用經驗\n4.具備 OSGi（如 Apache Karaf）模組化系統開發或整合經驗\n5. 具備排程最佳化開發經驗尤佳\n5.具備網路介面（Network Interface）監控、管理或程式開發相關經驗者尤佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "通信學類"
+    ],
+    "other_text": "工作技能/專長:\n1.具備JavaEE等物件導向程式3年以上開發經驗\n2.具備Spring或其他Java框架應用經驗\n3.具備SQL, RDBMS資料庫存取設計與應用經驗\n4.具備 OSGi（如 Apache Karaf）模組化系統開發或整合經驗\n5. 具備排程最佳化開發經驗尤佳\n5.具備網路介面（Network Interface）監控、管理或程式開發相關經驗者尤佳",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：碩士以上\n科系要求：資訊管理相關、資訊工程相關、通信學類\n語文條件：英文：中等、中等、中等、中等\n其他條件：工作技能/專長:\n1.具備JavaEE等物件導向程式3年以上開發經驗\n2.具備Spring或其他Java框架應用經驗\n3.具備SQL, RDBMS資料庫存取設計與應用經驗\n4.具備 OSGi（如 Apache Karaf）模組化系統開發或整合經驗\n5. 具備排程最佳化開發經驗尤佳\n5.具備網路介面（Network Interface）監控、管理或程式開發相關經驗者尤佳",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 42
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:05:43+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.依衛星網路操作與控制系統需求進行軟體技術開發與測試\n2.應用商業或開源工具建構軟體系統平台\n3.配合測試進度即時修正與改善系統功能與效能\n4.協助線上系統除錯及修正",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "通訊軟體工程師",
+            "電信／通訊系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "通訊軟體工程師、電信／通訊系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市新竹市科學園區展業一路9號8樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.依衛星網路操作與控制系統需求進行軟體技術開發與測試\n2.應用商業或開源工具建構軟體系統平台\n3.配合測試進度即時修正與改善系統功能與效能\n4.協助線上系統除錯及修正"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "通信學類"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、通信學類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "工作技能/專長:\n1.具備JavaEE等物件導向程式3年以上開發經驗\n2.具備Spring或其他Java框架應用經驗\n3.具備SQL, RDBMS資料庫存取設計與應用經驗\n4.具備 OSGi（如 Apache Karaf）模組化系統開發或整合經驗\n5. 具備排程最佳化開發經驗尤佳\n5.具備網路介面（Network Interface）監控、管理或程式開發相關經驗者尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：碩士以上\n科系要求：資訊管理相關、資訊工程相關、通信學類\n語文條件：英文：中等、中等、中等、中等\n其他條件：工作技能/專長:\n1.具備JavaEE等物件導向程式3年以上開發經驗\n2.具備Spring或其他Java框架應用經驗\n3.具備SQL, RDBMS資料庫存取設計與應用經驗\n4.具備 OSGi（如 Apache Karaf）模組化系統開發或整合經驗\n5. 具備排程最佳化開發經驗尤佳\n5.具備網路介面（Network Interface）監控、管理或程式開發相關經驗者尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8loxv",
+    "job_url": "https://www.104.com.tw/job/8loxv",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8loxv.json",
+    "raw_sha256": "a38468489eb6bc5c699d3f71dd36c7f22eae91fb5b89e9bdae060763ac3d7125",
+    "requested_url": "https://www.104.com.tw/api/jobs/8loxv"
+  }
+}

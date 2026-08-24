@@ -1,0 +1,224 @@
+{
+  "company": {
+    "id": "1a2x6bjtx4",
+    "name": "奕力科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "廠內驗證軟體開發"
+        },
+        {
+          "children": [],
+          "text": "客戶量產軟體開發"
+        },
+        {
+          "children": [],
+          "text": "協助客戶量產與問題解決"
+        },
+        {
+          "children": [],
+          "text": "熟悉C#、C/C++語言"
+        },
+        {
+          "children": [],
+          "text": "熟悉Visual Studio 、BCB 開發環境"
+        }
+      ],
+      "text": "【產品範疇】\n手機、平板、穿戴式及相關TDDI面板產品、OLED面板相關產品；\nTouch and Display Driver Integration(TDDI) IC、Touch Controller\n【工作說明】\n1.廠內驗證軟體開發\n2.客戶量產軟體開發\n3.協助客戶量產與問題解決\n【需求條件】\n1.熟悉C#、C/C++語言\n2.熟悉Visual Studio 、BCB 開發環境"
+    },
+    "employment_type_raw": "全職",
+    "title": "Windows軟體工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市台元二街1號10樓",
+    "raw": "新竹縣竹北市台元二街1號10樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C#",
+          "C++",
+          "Java",
+          "Visual Studio"
+        ],
+        "label": "擅長工具",
+        "text": "C、C#、C++、Java、Visual Studio"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具 Bridge Firmware 開發經驗尤佳\n2.有Windows驅動程式開發經驗尤佳\n3.有USB HID Protocol、I2C/SPI 尤佳\n4.有Android APK開發經驗佳\n5.因應專案需求，需要出差至客戶端支援"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1. 具 Bridge Firmware 開發經驗尤佳\n2.有Windows驅動程式開發經驗尤佳\n3.有USB HID Protocol、I2C/SPI 尤佳\n4.有Android APK開發經驗佳\n5.因應專案需求，需要出差至客戶端支援",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C#、C++、Java、Visual Studio\n工作技能：軟體程式設計\n其他條件：1. 具 Bridge Firmware 開發經驗尤佳\n2.有Windows驅動程式開發經驗尤佳\n3.有USB HID Protocol、I2C/SPI 尤佳\n4.有Android APK開發經驗佳\n5.因應專案需求，需要出差至客戶端支援",
+    "tools": [
+      "C",
+      "C#",
+      "C++",
+      "Java",
+      "Visual Studio"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 42
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:05:47+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【產品範疇】\n手機、平板、穿戴式及相關TDDI面板產品、OLED面板相關產品；\nTouch and Display Driver Integration(TDDI) IC、Touch Controller\n【工作說明】\n1.廠內驗證軟體開發\n2.客戶量產軟體開發\n3.協助客戶量產與問題解決\n【需求條件】\n1.熟悉C#、C/C++語言\n2.熟悉Visual Studio 、BCB 開發環境",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市台元二街1號10樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【產品範疇】\n手機、平板、穿戴式及相關TDDI面板產品、OLED面板相關產品；\nTouch and Display Driver Integration(TDDI) IC、Touch Controller\n【工作說明】\n1.廠內驗證軟體開發\n2.客戶量產軟體開發\n3.協助客戶量產與問題解決\n【需求條件】\n1.熟悉C#、C/C++語言\n2.熟悉Visual Studio 、BCB 開發環境"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C#",
+            "C++",
+            "Java",
+            "Visual Studio"
+          ],
+          "label": "擅長工具",
+          "text": "C、C#、C++、Java、Visual Studio",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具 Bridge Firmware 開發經驗尤佳\n2.有Windows驅動程式開發經驗尤佳\n3.有USB HID Protocol、I2C/SPI 尤佳\n4.有Android APK開發經驗佳\n5.因應專案需求，需要出差至客戶端支援",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C#、C++、Java、Visual Studio\n工作技能：軟體程式設計\n其他條件：1. 具 Bridge Firmware 開發經驗尤佳\n2.有Windows驅動程式開發經驗尤佳\n3.有USB HID Protocol、I2C/SPI 尤佳\n4.有Android APK開發經驗佳\n5.因應專案需求，需要出差至客戶端支援"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "5rule",
+    "job_url": "https://www.104.com.tw/job/5rule",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/5rule.json",
+    "raw_sha256": "d12e44f94d59ea4ca28f64ff94c9c3fb969d8227f59760ea58cff0c307565059",
+    "requested_url": "https://www.104.com.tw/api/jobs/5rule"
+  }
+}

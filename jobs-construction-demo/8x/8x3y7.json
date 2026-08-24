@@ -1,0 +1,186 @@
+{
+  "company": {
+    "id": "am88jqw",
+    "name": "凱基證券股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責行動裝置交易平台 Server開發與維運"
+        },
+        {
+          "children": [],
+          "text": "相關專案需求分析、設計"
+        }
+      ],
+      "text": "1. 負責行動裝置交易平台 Server開發與維運\n2. 相關專案需求分析、設計"
+    },
+    "employment_type_raw": "全職",
+    "title": "【凱基證券/資訊部】中台系統程式設計師"
+  },
+  "location": {
+    "address_raw": "台北市中正區忠孝西路",
+    "raw": "台北市中正區忠孝西路"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "C#"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 資訊相關科系，大學及研究所畢\n2. 具3年以上資訊開發工作經驗\n3. 熟悉C#、SQL程式開發\n4. 具證券及期貨業務開發經驗者佳\n5. 有責任感及學習熱忱，能自主思考及問題解決者"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1. 資訊相關科系，大學及研究所畢\n2. 具3年以上資訊開發工作經驗\n3. 熟悉C#、SQL程式開發\n4. 具證券及期貨業務開發經驗者佳\n5. 有責任感及學習熱忱，能自主思考及問題解決者",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：C#\n其他條件：1. 資訊相關科系，大學及研究所畢\n2. 具3年以上資訊開發工作經驗\n3. 熟悉C#、SQL程式開發\n4. 具證券及期貨業務開發經驗者佳\n5. 有責任感及學習熱忱，能自主思考及問題解決者",
+    "tools": [
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 61
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:52:35+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責行動裝置交易平台 Server開發與維運\n2. 相關專案需求分析、設計",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區忠孝西路",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責行動裝置交易平台 Server開發與維運\n2. 相關專案需求分析、設計"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "C#",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 資訊相關科系，大學及研究所畢\n2. 具3年以上資訊開發工作經驗\n3. 熟悉C#、SQL程式開發\n4. 具證券及期貨業務開發經驗者佳\n5. 有責任感及學習熱忱，能自主思考及問題解決者",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n擅長工具：C#\n其他條件：1. 資訊相關科系，大學及研究所畢\n2. 具3年以上資訊開發工作經驗\n3. 熟悉C#、SQL程式開發\n4. 具證券及期貨業務開發經驗者佳\n5. 有責任感及學習熱忱，能自主思考及問題解決者"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8x3y7",
+    "job_url": "https://www.104.com.tw/job/8x3y7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8x3y7.json",
+    "raw_sha256": "7b7e03771b1c86ec196008dc5277ac6aabd641abf93993d594d63bafda354f35",
+    "requested_url": "https://www.104.com.tw/api/jobs/8x3y7"
+  }
+}

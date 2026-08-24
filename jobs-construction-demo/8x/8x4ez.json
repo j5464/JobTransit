@@ -1,0 +1,237 @@
+{
+  "company": {
+    "id": "1a2x6bnmie",
+    "name": "富宇翔電通股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "通訊軟體工程師",
+      "數位IC設計工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop FPGA for"
+        },
+        {
+          "children": [],
+          "text": "3GPP 4G/5G physical layer"
+        },
+        {
+          "children": [],
+          "text": "Other communication tester"
+        },
+        {
+          "children": [],
+          "text": "Provide clear interface for upper layer."
+        },
+        {
+          "children": [],
+          "text": "Study related specification."
+        },
+        {
+          "children": [],
+          "text": "Develop in verilog language."
+        },
+        {
+          "children": [],
+          "text": "Use Matlab for verification."
+        },
+        {
+          "children": [],
+          "text": "Use Xilinx Vitis tool for FPGA implementation."
+        }
+      ],
+      "text": "【廣邀有經驗的您或應屆畢業新鮮人加入我們的FPGA團隊】\n我們的產品基於3GPP及IEEE通訊標準，運用MATLAB、FPGA、C、C#等技術，\n實作通訊演算法與軟體，並結合硬體整合成量測系統，具備高度技術深度，\n產品銷售遍及美國、歐洲、日本、台灣、中國、新加坡、越南等地，\n我們正尋找充滿熱情且具技術背景的您，加入我們的團隊。\n職務內容：\n1、Develop FPGA for\n•3GPP 4G/5G physical layer\n•Other communication tester\n2、Provide clear interface for upper layer.\n3、Study related specification.\n4、Develop in verilog language.\n5、Use Matlab for verification.\n6、Use Xilinx Vitis tool for FPGA implementation."
+    },
+    "employment_type_raw": "全職",
+    "title": "FPGA design engineer"
+  },
+  "location": {
+    "address_raw": "台北市內湖區洲子街79之1號11樓",
+    "raw": "台北市內湖區洲子街79之1號11樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "通信學類",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、通信學類、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "FPGA",
+          "Verilog"
+        ],
+        "label": "擅長工具",
+        "text": "FPGA、Verilog"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1、Matlab.\n2、3GPP/LTE/5G related specifications.\n3、Verilog.\n4、Xilinx Vitis.\n5、Possess good communication skills, teamwork spirit, and sense of responsibility."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "通信學類",
+      "資訊工程相關"
+    ],
+    "other_text": "1、Matlab.\n2、3GPP/LTE/5G related specifications.\n3、Verilog.\n4、Xilinx Vitis.\n5、Possess good communication skills, teamwork spirit, and sense of responsibility.",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、通信學類、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：FPGA、Verilog\n其他條件：1、Matlab.\n2、3GPP/LTE/5G related specifications.\n3、Verilog.\n4、Xilinx Vitis.\n5、Possess good communication skills, teamwork spirit, and sense of responsibility.",
+    "tools": [
+      "FPGA",
+      "Verilog"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 89
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:01:08+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【廣邀有經驗的您或應屆畢業新鮮人加入我們的FPGA團隊】\n我們的產品基於3GPP及IEEE通訊標準，運用MATLAB、FPGA、C、C#等技術，\n實作通訊演算法與軟體，並結合硬體整合成量測系統，具備高度技術深度，\n產品銷售遍及美國、歐洲、日本、台灣、中國、新加坡、越南等地，\n我們正尋找充滿熱情且具技術背景的您，加入我們的團隊。\n職務內容：\n1、Develop FPGA for\n•3GPP 4G/5G physical layer\n•Other communication tester\n2、Provide clear interface for upper layer.\n3、Study related specification.\n4、Develop in verilog language.\n5、Use Matlab for verification.\n6、Use Xilinx Vitis tool for FPGA implementation.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "通訊軟體工程師",
+            "數位IC設計工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、通訊軟體工程師、數位IC設計工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區洲子街79之1號11樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【廣邀有經驗的您或應屆畢業新鮮人加入我們的FPGA團隊】\n我們的產品基於3GPP及IEEE通訊標準，運用MATLAB、FPGA、C、C#等技術，\n實作通訊演算法與軟體，並結合硬體整合成量測系統，具備高度技術深度，\n產品銷售遍及美國、歐洲、日本、台灣、中國、新加坡、越南等地，\n我們正尋找充滿熱情且具技術背景的您，加入我們的團隊。\n職務內容：\n1、Develop FPGA for\n•3GPP 4G/5G physical layer\n•Other communication tester\n2、Provide clear interface for upper layer.\n3、Study related specification.\n4、Develop in verilog language.\n5、Use Matlab for verification.\n6、Use Xilinx Vitis tool for FPGA implementation."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "通信學類",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、通信學類、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "FPGA",
+            "Verilog"
+          ],
+          "label": "擅長工具",
+          "text": "FPGA、Verilog",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1、Matlab.\n2、3GPP/LTE/5G related specifications.\n3、Verilog.\n4、Xilinx Vitis.\n5、Possess good communication skills, teamwork spirit, and sense of responsibility.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、通信學類、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：FPGA、Verilog\n其他條件：1、Matlab.\n2、3GPP/LTE/5G related specifications.\n3、Verilog.\n4、Xilinx Vitis.\n5、Possess good communication skills, teamwork spirit, and sense of responsibility."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8x4ez",
+    "job_url": "https://www.104.com.tw/job/8x4ez",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8x4ez.json",
+    "raw_sha256": "3dbcf67e2374a7c8237360f28e29735b208f22c6d398e8883b3aa297334a420d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8x4ez"
+  }
+}

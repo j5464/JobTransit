@@ -1,0 +1,252 @@
+{
+  "company": {
+    "id": "10s9aapc",
+    "name": "友威科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "半導體工程師",
+      "自動控制工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "電控軟體、硬體設計(AutoCAD繪圖)"
+        },
+        {
+          "children": [],
+          "text": "PC Base、C#軟體開發"
+        },
+        {
+          "children": [],
+          "text": "SECS/GEM設計開發"
+        },
+        {
+          "children": [],
+          "text": "PLC及人機設計"
+        },
+        {
+          "children": [],
+          "text": "電控BOM表建立"
+        },
+        {
+          "children": [],
+          "text": "機台軟體測試及驗證"
+        }
+      ],
+      "text": "1.電控軟體、硬體設計(AutoCAD繪圖)\n2.PC Base、C#軟體開發\n3.SECS/GEM設計開發\n4.PLC及人機設計\n5.電控BOM表建立\n6.機台軟體測試及驗證"
+    },
+    "employment_type_raw": "全職",
+    "title": "[中科廠]自動化軟體工程師"
+  },
+  "location": {
+    "address_raw": "台中市大雅區科雅路40號2樓",
+    "raw": "台中市大雅區科雅路40號2樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "機械工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、機械工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "AutoCad 2D",
+          "PLC"
+        ],
+        "label": "擅長工具",
+        "text": "AutoCad 2D、PLC"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "結構化程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、結構化程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具電路規劃設計\n2.具PLC程式規劃與人機規劃\n3.AutoCAD。\n4.熟悉自動化動作"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "機械工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.具電路規劃設計\n2.具PLC程式規劃與人機規劃\n3.AutoCAD。\n4.熟悉自動化動作",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "結構化程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n科系要求：電機電子工程相關、機械工程相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：AutoCad 2D、PLC\n工作技能：軟體工程系統開發、軟體程式設計、結構化程式設計\n其他條件：1.具電路規劃設計\n2.具PLC程式規劃與人機規劃\n3.AutoCAD。\n4.熟悉自動化動作",
+    "tools": [
+      "AutoCad 2D",
+      "PLC"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 80
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:39:08+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000~100,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.電控軟體、硬體設計(AutoCAD繪圖)\n2.PC Base、C#軟體開發\n3.SECS/GEM設計開發\n4.PLC及人機設計\n5.電控BOM表建立\n6.機台軟體測試及驗證",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "半導體工程師",
+            "自動控制工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "半導體工程師、自動控制工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000~100,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市大雅區科雅路40號2樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.電控軟體、硬體設計(AutoCAD繪圖)\n2.PC Base、C#軟體開發\n3.SECS/GEM設計開發\n4.PLC及人機設計\n5.電控BOM表建立\n6.機台軟體測試及驗證"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "機械工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、機械工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AutoCad 2D",
+            "PLC"
+          ],
+          "label": "擅長工具",
+          "text": "AutoCad 2D、PLC",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "結構化程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、結構化程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具電路規劃設計\n2.具PLC程式規劃與人機規劃\n3.AutoCAD。\n4.熟悉自動化動作",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n科系要求：電機電子工程相關、機械工程相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：AutoCad 2D、PLC\n工作技能：軟體工程系統開發、軟體程式設計、結構化程式設計\n其他條件：1.具電路規劃設計\n2.具PLC程式規劃與人機規劃\n3.AutoCAD。\n4.熟悉自動化動作"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8dsq2",
+    "job_url": "https://www.104.com.tw/job/8dsq2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8dsq2.json",
+    "raw_sha256": "8744e8e35701e1a4adb16539214d93736c39766839d63d47da027fe880f6cf28",
+    "requested_url": "https://www.104.com.tw/api/jobs/8dsq2"
+  }
+}

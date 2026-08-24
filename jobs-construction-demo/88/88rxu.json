@@ -1,0 +1,271 @@
+{
+  "company": {
+    "id": "1a2x6bjz8m",
+    "name": "智影顧問股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "與團隊的其他成員密切合作，持續精進我們的產品及服務。"
+        },
+        {
+          "children": [],
+          "text": "主要使用 Nodejs 和 TypeScript，負責開發應用程式、原型以及必要的組件，以確保生產高品質的產品。"
+        },
+        {
+          "children": [],
+          "text": "研究和進行系統分析與開發，使我們的系統與不斷變化的技術保持同步。"
+        },
+        {
+          "children": [],
+          "text": "您是一個自我激勵的快速學習者和團隊合作者。"
+        },
+        {
+          "children": [],
+          "text": "基礎 Linux 操作"
+        },
+        {
+          "children": [],
+          "text": "基礎 Docker 操作"
+        },
+        {
+          "children": [],
+          "text": "JavaScript/TypeScript 應用程式開發方面有至少1年的專業經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉關聯式資料庫（例如 MySQL）"
+        },
+        {
+          "children": [],
+          "text": "您有持續整合服務的經驗（例如 Jenkins、GitLab、GitHub Actions）"
+        },
+        {
+          "children": [],
+          "text": "提供 GitHub 程式碼或任何公開的專案以供參考"
+        },
+        {
+          "children": [],
+          "text": "與團隊的其他成員密切合作，持續精進我們的產品及服務。"
+        },
+        {
+          "children": [],
+          "text": "主要使用 Nodejs 和 TypeScript，負責開發應用程式、原型以及必要的組件，以確保生產高品質的產品。"
+        },
+        {
+          "children": [],
+          "text": "研究和進行系統分析與開發，使我們的系統與不斷變化的技術保持同步。"
+        },
+        {
+          "children": [],
+          "text": "您是一個自我激勵的快速學習者和團隊合作者。"
+        },
+        {
+          "children": [],
+          "text": "基礎 Linux 操作"
+        },
+        {
+          "children": [],
+          "text": "基礎 Docker 操作"
+        },
+        {
+          "children": [],
+          "text": "JavaScript/TypeScript 應用程式開發方面有至少1年的專業經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉關聯式資料庫（例如 MySQL）"
+        },
+        {
+          "children": [],
+          "text": "您有持續整合服務的經驗（例如 Jenkins、GitLab、GitHub Actions）"
+        },
+        {
+          "children": [],
+          "text": "提供 GitHub 程式碼或任何公開的專案以供參考"
+        }
+      ],
+      "text": "PIMQ 的後端工程師負責開發我們的產品。這包括我們在雲端的 SaaS 服務和地端的IoT閘道服務。\n除了以下要求之外，期待候選人對高品質軟體、強大的工程原理和有條不紊的問題解決技巧等，和目前的團隊成員有著同樣的熱情。\n## 主要職責\n- 與團隊的其他成員密切合作，持續精進我們的產品及服務。\n- 主要使用 Nodejs 和 TypeScript，負責開發應用程式、原型以及必要的組件，以確保生產高品質的產品。\n- 研究和進行系統分析與開發，使我們的系統與不斷變化的技術保持同步。\n## 職務要求\n### 必要條件\n- 您是一個自我激勵的快速學習者和團隊合作者。\n- 基礎 Linux 操作\n- 基礎 Docker 操作\n- JavaScript/TypeScript 應用程式開發方面有至少1年的專業經驗\n### 加分條件\n- 熟悉關聯式資料庫（例如 MySQL）\n- 您有持續整合服務的經驗（例如 Jenkins、GitLab、GitHub Actions）\n- 提供 GitHub 程式碼或任何公開的專案以供參考\n除了以下要求之外，期待候選人對高品質軟體、強大的工程原理和有條不紊的問題解決技巧等，和目前的團隊成員有著同樣的熱情。\n## 主要職責\n- 與團隊的其他成員密切合作，持續精進我們的產品及服務。\n- 主要使用 Nodejs 和 TypeScript，負責開發應用程式、原型以及必要的組件，以確保生產高品質的產品。\n- 研究和進行系統分析與開發，使我們的系統與不斷變化的技術保持同步。\n## 職務要求\n### 必要條件\n- 您是一個自我激勵的快速學習者和團隊合作者。\n- 基礎 Linux 操作\n- 基礎 Docker 操作\n- JavaScript/TypeScript 應用程式開發方面有至少1年的專業經驗\n### 加分條件\n- 熟悉關聯式資料庫（例如 MySQL）\n- 您有持續整合服務的經驗（例如 Jenkins、GitLab、GitHub Actions）\n- 提供 GitHub 程式碼或任何公開的專案以供參考"
+    },
+    "employment_type_raw": "全職",
+    "title": "後端工程師"
+  },
+  "location": {
+    "address_raw": "台北市大安區信義路四段55號5樓",
+    "raw": "台北市大安區信義路四段55號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、中等"
+      },
+      {
+        "items": [
+          "MySQL",
+          "JavaScript",
+          "Node.js"
+        ],
+        "label": "擅長工具",
+        "text": "MySQL、JavaScript、Node.js"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n語文條件：英文：略懂、略懂、中等、中等\n擅長工具：MySQL、JavaScript、Node.js\n工作技能：軟體程式設計",
+    "tools": [
+      "MySQL",
+      "JavaScript",
+      "Node.js"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 73
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:22:44+08:00"
+  },
+  "salary": {
+    "raw": "月薪60,000~80,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "PIMQ 的後端工程師負責開發我們的產品。這包括我們在雲端的 SaaS 服務和地端的IoT閘道服務。\n除了以下要求之外，期待候選人對高品質軟體、強大的工程原理和有條不紊的問題解決技巧等，和目前的團隊成員有著同樣的熱情。\n## 主要職責\n- 與團隊的其他成員密切合作，持續精進我們的產品及服務。\n- 主要使用 Nodejs 和 TypeScript，負責開發應用程式、原型以及必要的組件，以確保生產高品質的產品。\n- 研究和進行系統分析與開發，使我們的系統與不斷變化的技術保持同步。\n## 職務要求\n### 必要條件\n- 您是一個自我激勵的快速學習者和團隊合作者。\n- 基礎 Linux 操作\n- 基礎 Docker 操作\n- JavaScript/TypeScript 應用程式開發方面有至少1年的專業經驗\n### 加分條件\n- 熟悉關聯式資料庫（例如 MySQL）\n- 您有持續整合服務的經驗（例如 Jenkins、GitLab、GitHub Actions）\n- 提供 GitHub 程式碼或任何公開的專案以供參考\n除了以下要求之外，期待候選人對高品質軟體、強大的工程原理和有條不紊的問題解決技巧等，和目前的團隊成員有著同樣的熱情。\n## 主要職責\n- 與團隊的其他成員密切合作，持續精進我們的產品及服務。\n- 主要使用 Nodejs 和 TypeScript，負責開發應用程式、原型以及必要的組件，以確保生產高品質的產品。\n- 研究和進行系統分析與開發，使我們的系統與不斷變化的技術保持同步。\n## 職務要求\n### 必要條件\n- 您是一個自我激勵的快速學習者和團隊合作者。\n- 基礎 Linux 操作\n- 基礎 Docker 操作\n- JavaScript/TypeScript 應用程式開發方面有至少1年的專業經驗\n### 加分條件\n- 熟悉關聯式資料庫（例如 MySQL）\n- 您有持續整合服務的經驗（例如 Jenkins、GitLab、GitHub Actions）\n- 提供 GitHub 程式碼或任何公開的專案以供參考",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪60,000~80,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區信義路四段55號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "PIMQ 的後端工程師負責開發我們的產品。這包括我們在雲端的 SaaS 服務和地端的IoT閘道服務。\n除了以下要求之外，期待候選人對高品質軟體、強大的工程原理和有條不紊的問題解決技巧等，和目前的團隊成員有著同樣的熱情。\n## 主要職責\n- 與團隊的其他成員密切合作，持續精進我們的產品及服務。\n- 主要使用 Nodejs 和 TypeScript，負責開發應用程式、原型以及必要的組件，以確保生產高品質的產品。\n- 研究和進行系統分析與開發，使我們的系統與不斷變化的技術保持同步。\n## 職務要求\n### 必要條件\n- 您是一個自我激勵的快速學習者和團隊合作者。\n- 基礎 Linux 操作\n- 基礎 Docker 操作\n- JavaScript/TypeScript 應用程式開發方面有至少1年的專業經驗\n### 加分條件\n- 熟悉關聯式資料庫（例如 MySQL）\n- 您有持續整合服務的經驗（例如 Jenkins、GitLab、GitHub Actions）\n- 提供 GitHub 程式碼或任何公開的專案以供參考\n除了以下要求之外，期待候選人對高品質軟體、強大的工程原理和有條不紊的問題解決技巧等，和目前的團隊成員有著同樣的熱情。\n## 主要職責\n- 與團隊的其他成員密切合作，持續精進我們的產品及服務。\n- 主要使用 Nodejs 和 TypeScript，負責開發應用程式、原型以及必要的組件，以確保生產高品質的產品。\n- 研究和進行系統分析與開發，使我們的系統與不斷變化的技術保持同步。\n## 職務要求\n### 必要條件\n- 您是一個自我激勵的快速學習者和團隊合作者。\n- 基礎 Linux 操作\n- 基礎 Docker 操作\n- JavaScript/TypeScript 應用程式開發方面有至少1年的專業經驗\n### 加分條件\n- 熟悉關聯式資料庫（例如 MySQL）\n- 您有持續整合服務的經驗（例如 Jenkins、GitLab、GitHub Actions）\n- 提供 GitHub 程式碼或任何公開的專案以供參考"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MySQL",
+            "JavaScript",
+            "Node.js"
+          ],
+          "label": "擅長工具",
+          "text": "MySQL、JavaScript、Node.js",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n語文條件：英文：略懂、略懂、中等、中等\n擅長工具：MySQL、JavaScript、Node.js\n工作技能：軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "88rxu",
+    "job_url": "https://www.104.com.tw/job/88rxu",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/88rxu.json",
+    "raw_sha256": "98c440e3d971c7e133373a9716e13801d76cb3762919a9ffdaea099c573eb325",
+    "requested_url": "https://www.104.com.tw/api/jobs/88rxu"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "company": {
+    "id": "ctzow2g",
+    "name": "Google_美商科高國際有限公司"
+  },
+  "job": {
+    "categories": [
+      "硬體研發工程師",
+      "軟體工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Bachelor's degree in Electrical Engineering, Computer Engineering, Mechatronics, or equivalent engineering experience."
+        },
+        {
+          "children": [],
+          "text": "5 years of experience in manufacturing."
+        },
+        {
+          "children": [],
+          "text": "8 years of experience in manufacturing or equivalent."
+        },
+        {
+          "children": [],
+          "text": "Experience developing and integrating manufacturing hardware using custom electronics, fixturing, and instrumentation."
+        },
+        {
+          "children": [],
+          "text": "Experience working with contract manufacturing partners."
+        },
+        {
+          "children": [],
+          "text": "Partner with NPI teams to establish Design for Manufacturing (DFM) requirements and optimize test strategies for global compute infrastructure."
+        },
+        {
+          "children": [],
+          "text": "Provide end-to-end product engineering support to ensure operational stability across both new and legacy hardware platforms."
+        },
+        {
+          "children": [],
+          "text": "Drive initiatives to expand test coverage, streamline manufacturing throughput, and lower overall production costs at partner sites."
+        },
+        {
+          "children": [],
+          "text": "Lead root-cause analysis for manufacturing yield fallout and data center field escapes, implementing corrective and preventive actions (CAPA)."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with internal and external partner engineering teams to continuously enhance hardware quality, system performance, and operational efficiency."
+        }
+      ],
+      "text": "Minimum qualifications:\n• Bachelor's degree in Electrical Engineering, Computer Engineering, Mechatronics, or equivalent engineering experience.\n• 5 years of experience in manufacturing.\nPreferred qualifications:\n• 8 years of experience in manufacturing or equivalent.\n• Experience developing and integrating manufacturing hardware using custom electronics, fixturing, and instrumentation.\n• Experience working with contract manufacturing partners.\nAbout the job\nGoogle's custom-designed equipment makes up one of the largest and most powerful computing infrastructures in the world. The Manufacturing Operations team is responsible for providing the manufacturing capability to deliver this state-of-the-art physical infrastructure. As a Manufacturing Engineer, you evaluate the product designs and create the processes, tools and procedures behind Google’s powerful search technology. When vendors build parts for our infrastructure, you’re right there alongside ensuring manufacturing processes are repeatable and controlled. You collaborate with Commodity Managers and Design Engineers to determine Google’s infrastructure needs and product specifications. Your work ensures the various pieces of Google’s infrastructure fit together perfectly and keep our systems humming along smoothly for a seamless user experience. As a Product Engineer for Global Manufacturing Engineering, you will design, build, optimize, and deploy manufacturing requirements for Google’s compute infrastructure at global partner sites. You will partner with New Product Introduction (NPI) teams to define Design for Manufacturing (DFM) requirements and provide critical input into manufacturing test strategies. Your role involves providing high-caliber sustaining engineering support for both new and existing products, while driving initiatives to enhance test process efficiencies, expand test coverage, and ensure supply continuity with multi-sources strategy. You will proactively analyze, troubleshoot, and resolve manufacturing yield issues, bonepile management as well as data center field escapes, implementing corrective and preventive measures. By collaborating with internal and partner engineering teams, you will drive continuous improvement, ensuring hardware quality and performance excellence.\nThe AI and Infrastructure team is redefining what’s possible. We empower Google customers with breakthrough capabilities and insights by delivering AI and Infrastructure at unparalleled scale, efficiency, reliability and velocity. Our customers include Googlers, Google Cloud customers, and billions of Google users worldwide.\nWe're the driving force behind Google's groundbreaking innovations, empowering the development of our cutting-edge AI models, delivering unparalleled computing power to global services, and providing the essential platforms that enable developers to build the future. From software to hardware our teams are shaping the future of world-leading hyperscale computing, with key teams working on the development of our TPUs, Vertex AI for Google Cloud, Google Global Networking, Data Center operations, systems research, and much more.\nResponsibilities\n• Partner with NPI teams to establish Design for Manufacturing (DFM) requirements and optimize test strategies for global compute infrastructure.\n• Provide end-to-end product engineering support to ensure operational stability across both new and legacy hardware platforms.\n• Drive initiatives to expand test coverage, streamline manufacturing throughput, and lower overall production costs at partner sites.\n• Lead root-cause analysis for manufacturing yield fallout and data center field escapes, implementing corrective and preventive actions (CAPA).\n• Collaborate with internal and external partner engineering teams to continuously enhance hardware quality, system performance, and operational efficiency."
+    },
+    "employment_type_raw": "全職",
+    "title": "Product Engineer, Global Manufacturing Engineering"
+  },
+  "location": {
+    "address_raw": "台北市信義區",
+    "raw": "台北市信義區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：不拘",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 1
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:21:57+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Minimum qualifications:\n• Bachelor's degree in Electrical Engineering, Computer Engineering, Mechatronics, or equivalent engineering experience.\n• 5 years of experience in manufacturing.\nPreferred qualifications:\n• 8 years of experience in manufacturing or equivalent.\n• Experience developing and integrating manufacturing hardware using custom electronics, fixturing, and instrumentation.\n• Experience working with contract manufacturing partners.\nAbout the job\nGoogle's custom-designed equipment makes up one of the largest and most powerful computing infrastructures in the world. The Manufacturing Operations team is responsible for providing the manufacturing capability to deliver this state-of-the-art physical infrastructure. As a Manufacturing Engineer, you evaluate the product designs and create the processes, tools and procedures behind Google’s powerful search technology. When vendors build parts for our infrastructure, you’re right there alongside ensuring manufacturing processes are repeatable and controlled. You collaborate with Commodity Managers and Design Engineers to determine Google’s infrastructure needs and product specifications. Your work ensures the various pieces of Google’s infrastructure fit together perfectly and keep our systems humming along smoothly for a seamless user experience. As a Product Engineer for Global Manufacturing Engineering, you will design, build, optimize, and deploy manufacturing requirements for Google’s compute infrastructure at global partner sites. You will partner with New Product Introduction (NPI) teams to define Design for Manufacturing (DFM) requirements and provide critical input into manufacturing test strategies. Your role involves providing high-caliber sustaining engineering support for both new and existing products, while driving initiatives to enhance test process efficiencies, expand test coverage, and ensure supply continuity with multi-sources strategy. You will proactively analyze, troubleshoot, and resolve manufacturing yield issues, bonepile management as well as data center field escapes, implementing corrective and preventive measures. By collaborating with internal and partner engineering teams, you will drive continuous improvement, ensuring hardware quality and performance excellence.\nThe AI and Infrastructure team is redefining what’s possible. We empower Google customers with breakthrough capabilities and insights by delivering AI and Infrastructure at unparalleled scale, efficiency, reliability and velocity. Our customers include Googlers, Google Cloud customers, and billions of Google users worldwide.\nWe're the driving force behind Google's groundbreaking innovations, empowering the development of our cutting-edge AI models, delivering unparalleled computing power to global services, and providing the essential platforms that enable developers to build the future. From software to hardware our teams are shaping the future of world-leading hyperscale computing, with key teams working on the development of our TPUs, Vertex AI for Google Cloud, Google Global Networking, Data Center operations, systems research, and much more.\nResponsibilities\n• Partner with NPI teams to establish Design for Manufacturing (DFM) requirements and optimize test strategies for global compute infrastructure.\n• Provide end-to-end product engineering support to ensure operational stability across both new and legacy hardware platforms.\n• Drive initiatives to expand test coverage, streamline manufacturing throughput, and lower overall production costs at partner sites.\n• Lead root-cause analysis for manufacturing yield fallout and data center field escapes, implementing corrective and preventive actions (CAPA).\n• Collaborate with internal and external partner engineering teams to continuously enhance hardware quality, system performance, and operational efficiency.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "硬體研發工程師",
+            "軟體工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "硬體研發工程師、軟體工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Minimum qualifications:\n• Bachelor's degree in Electrical Engineering, Computer Engineering, Mechatronics, or equivalent engineering experience.\n• 5 years of experience in manufacturing.\nPreferred qualifications:\n• 8 years of experience in manufacturing or equivalent.\n• Experience developing and integrating manufacturing hardware using custom electronics, fixturing, and instrumentation.\n• Experience working with contract manufacturing partners.\nAbout the job\nGoogle's custom-designed equipment makes up one of the largest and most powerful computing infrastructures in the world. The Manufacturing Operations team is responsible for providing the manufacturing capability to deliver this state-of-the-art physical infrastructure. As a Manufacturing Engineer, you evaluate the product designs and create the processes, tools and procedures behind Google’s powerful search technology. When vendors build parts for our infrastructure, you’re right there alongside ensuring manufacturing processes are repeatable and controlled. You collaborate with Commodity Managers and Design Engineers to determine Google’s infrastructure needs and product specifications. Your work ensures the various pieces of Google’s infrastructure fit together perfectly and keep our systems humming along smoothly for a seamless user experience. As a Product Engineer for Global Manufacturing Engineering, you will design, build, optimize, and deploy manufacturing requirements for Google’s compute infrastructure at global partner sites. You will partner with New Product Introduction (NPI) teams to define Design for Manufacturing (DFM) requirements and provide critical input into manufacturing test strategies. Your role involves providing high-caliber sustaining engineering support for both new and existing products, while driving initiatives to enhance test process efficiencies, expand test coverage, and ensure supply continuity with multi-sources strategy. You will proactively analyze, troubleshoot, and resolve manufacturing yield issues, bonepile management as well as data center field escapes, implementing corrective and preventive measures. By collaborating with internal and partner engineering teams, you will drive continuous improvement, ensuring hardware quality and performance excellence.\nThe AI and Infrastructure team is redefining what’s possible. We empower Google customers with breakthrough capabilities and insights by delivering AI and Infrastructure at unparalleled scale, efficiency, reliability and velocity. Our customers include Googlers, Google Cloud customers, and billions of Google users worldwide.\nWe're the driving force behind Google's groundbreaking innovations, empowering the development of our cutting-edge AI models, delivering unparalleled computing power to global services, and providing the essential platforms that enable developers to build the future. From software to hardware our teams are shaping the future of world-leading hyperscale computing, with key teams working on the development of our TPUs, Vertex AI for Google Cloud, Google Global Networking, Data Center operations, systems research, and much more.\nResponsibilities\n• Partner with NPI teams to establish Design for Manufacturing (DFM) requirements and optimize test strategies for global compute infrastructure.\n• Provide end-to-end product engineering support to ensure operational stability across both new and legacy hardware platforms.\n• Drive initiatives to expand test coverage, streamline manufacturing throughput, and lower overall production costs at partner sites.\n• Lead root-cause analysis for manufacturing yield fallout and data center field escapes, implementing corrective and preventive actions (CAPA).\n• Collaborate with internal and external partner engineering teams to continuously enhance hardware quality, system performance, and operational efficiency."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/22",
+    "html_sha256": null,
+    "job_id": "9543e",
+    "job_url": "https://www.104.com.tw/job/9543e",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9543e.json",
+    "raw_sha256": "663a2f2609b80a14e075139b4859b73c4838c104c5ebfdcf51b9c27eb4a8ef20",
+    "requested_url": "https://www.104.com.tw/api/jobs/9543e"
+  }
+}

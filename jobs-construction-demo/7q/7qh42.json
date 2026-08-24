@@ -1,0 +1,222 @@
+{
+  "company": {
+    "id": "1a2x6blwhx",
+    "name": "睿控網安股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "System Design & Implementation: Design, build, and maintain efficient, reusable, and reliable C/C++ code for large-scale enterprise deployments."
+        },
+        {
+          "children": [],
+          "text": "Operational Optimization: Enhance platform scalability, reliability, and performance to support mass deployment and seamless maintenance in large-scale enterprise environments."
+        },
+        {
+          "children": [],
+          "text": "Troubleshooting & Diagnostics: Proactively diagnose, debug, and resolve complex performance issues, memory leaks, and system bottlenecks throughout the development lifecycle."
+        },
+        {
+          "children": [],
+          "text": "Cross-Functional Collaboration: Communicate effectively with Product Managers, Architects, and QA teams to translate business requirements into technical implementations."
+        },
+        {
+          "children": [],
+          "text": "Continuous Improvement: Participate in code reviews and engineering best practices to reduce operational costs, minimize downtime, and boost development efficiency."
+        },
+        {
+          "children": [],
+          "text": "Shape the Future: Be part of a team that’s at the forefront of Networking Security technology."
+        },
+        {
+          "children": [],
+          "text": "Collaborative Environment: Work with dynamic and talented professionals who are passionate about innovation."
+        },
+        {
+          "children": [],
+          "text": "Impactful Role: Play a critical role in driving the success of our groundbreaking products."
+        }
+      ],
+      "text": "About TXOne Networks\nTXOne Networks provides cybersecurity solutions for ICS and OT environments using the OT zero trust methodology. We collaborate with top manufacturers and infrastructure operators to develop practical defense strategies that eliminate security vulnerabilities in industrial settings. TXOne ensures the availability of industrial systems by mitigating cybersecurity challenges that can disrupt operations. Our solutions empower customers to benefit from networked control systems while maintaining operational resilience, personnel safety, and asset security. TXOne Networks is honored to be named again as one of the 10 Coolest IoT Security Companies by CRN in Mar 2026.\nWe are seeking a proactive Software Engineer to design and develop high-quality, enterprise-grade software for global customers. The ideal candidate has a solid background in C/C++ system programming and thrives in a collaborative environment. You will work closely with cross-functional stakeholders—including Product Managers, Architects, and QA Engineers—to deliver scalable, reliable, and high-performance solutions.\nKey Responsibilities\n- System Design & Implementation: Design, build, and maintain efficient, reusable, and reliable C/C++ code for large-scale enterprise deployments.\n- Operational Optimization: Enhance platform scalability, reliability, and performance to support mass deployment and seamless maintenance in large-scale enterprise environments.\n- Troubleshooting & Diagnostics: Proactively diagnose, debug, and resolve complex performance issues, memory leaks, and system bottlenecks throughout the development lifecycle.\n- Cross-Functional Collaboration: Communicate effectively with Product Managers, Architects, and QA teams to translate business requirements into technical implementations.\n- Continuous Improvement: Participate in code reviews and engineering best practices to reduce operational costs, minimize downtime, and boost development efficiency.\nWhy TXOne Networks?\n- Shape the Future: Be part of a team that’s at the forefront of Networking Security technology.\n- Collaborative Environment: Work with dynamic and talented professionals who are passionate about innovation.\n- Impactful Role: Play a critical role in driving the success of our groundbreaking products.\nReady to make your mark in Networking Security? Join TXOne Networks and be a catalyst for the future of connectivity!\nEqual Opportunities Statement\nAt TXOne Networks, we embrace change, empower people, and encourage innovation in a connected world. Our diversity and multicultural workforce are key contributing factors to our success across the globe. We like to have fun while taking our culture seriously. We are an equal opportunity employer and are committed to this regardless of race, colour, religion, sex, nationality, age, citizenship, sexual orientation, marital status, gender identity or veteran status. We do not allow discrimination or harassment of any kind."
+    },
+    "employment_type_raw": "全職",
+    "title": "Staff Software Engineer-Windows (Security Inspection)"
+  },
+  "location": {
+    "address_raw": "台北市信義區松高路1號20樓",
+    "raw": "台北市信義區松高路1號20樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Linux",
+          "C",
+          "C++",
+          "Win32"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、C、C++、Win32"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "資料庫程式設計",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、資料庫程式設計、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Must have:\n1. Bachelor’s degree or above in Computer Science, Software Engineering, or a related field.\n2. 5+ years of hands-on system programming experience in C/C++ (Windows and/or Linux environment).\n3. Strong debugging and problem-solving skills in complex software architectures.\n4. Excellent written and verbal communication skills in English.\n5. Proactive mindset, strong ownership, and a fast learner who actively shares knowledge with the team.\nNice to have:\nAI & Modern Workflows:\n◆ Hands-on experience leveraging agentic AI tools or workflows to build and deploy software applications.\nBackend & Network Services:\n◆ Development experience with Go (Golang) and gRPC.\n◆ Practical knowledge of databases, common network protocols, and basic cryptography concepts.\nSystem & Low-Level Engineering:\n◆ Experience with Win32 SDK or Linux API / System Programming.\n◆ Experience with crash dump analysis using WinDbg or GDB.\n◆ Familiarity with reverse engineering techniques or file system development.\n◆ Experience in Kiosk or embedded system development."
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "Must have:\n1. Bachelor’s degree or above in Computer Science, Software Engineering, or a related field.\n2. 5+ years of hands-on system programming experience in C/C++ (Windows and/or Linux environment).\n3. Strong debugging and problem-solving skills in complex software architectures.\n4. Excellent written and verbal communication skills in English.\n5. Proactive mindset, strong ownership, and a fast learner who actively shares knowledge with the team.\nNice to have:\nAI & Modern Workflows:\n◆ Hands-on experience leveraging agentic AI tools or workflows to build and deploy software applications.\nBackend & Network Services:\n◆ Development experience with Go (Golang) and gRPC.\n◆ Practical knowledge of databases, common network protocols, and basic cryptography concepts.\nSystem & Low-Level Engineering:\n◆ Experience with Win32 SDK or Linux API / System Programming.\n◆ Experience with crash dump analysis using WinDbg or GDB.\n◆ Familiarity with reverse engineering techniques or file system development.\n◆ Experience in Kiosk or embedded system development.",
+    "skills": [
+      "軟體程式設計",
+      "資料庫程式設計",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：專科以上\n擅長工具：Linux、C、C++、Win32\n工作技能：軟體程式設計、資料庫程式設計、軟體工程系統開發\n其他條件：Must have:\n1. Bachelor’s degree or above in Computer Science, Software Engineering, or a related field.\n2. 5+ years of hands-on system programming experience in C/C++ (Windows and/or Linux environment).\n3. Strong debugging and problem-solving skills in complex software architectures.\n4. Excellent written and verbal communication skills in English.\n5. Proactive mindset, strong ownership, and a fast learner who actively shares knowledge with the team.\nNice to have:\nAI & Modern Workflows:\n◆ Hands-on experience leveraging agentic AI tools or workflows to build and deploy software applications.\nBackend & Network Services:\n◆ Development experience with Go (Golang) and gRPC.\n◆ Practical knowledge of databases, common network protocols, and basic cryptography concepts.\nSystem & Low-Level Engineering:\n◆ Experience with Win32 SDK or Linux API / System Programming.\n◆ Experience with crash dump analysis using WinDbg or GDB.\n◆ Familiarity with reverse engineering techniques or file system development.\n◆ Experience in Kiosk or embedded system development.",
+    "tools": [
+      "Linux",
+      "C",
+      "C++",
+      "Win32"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 37
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:52:54+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "About TXOne Networks\nTXOne Networks provides cybersecurity solutions for ICS and OT environments using the OT zero trust methodology. We collaborate with top manufacturers and infrastructure operators to develop practical defense strategies that eliminate security vulnerabilities in industrial settings. TXOne ensures the availability of industrial systems by mitigating cybersecurity challenges that can disrupt operations. Our solutions empower customers to benefit from networked control systems while maintaining operational resilience, personnel safety, and asset security. TXOne Networks is honored to be named again as one of the 10 Coolest IoT Security Companies by CRN in Mar 2026.\nWe are seeking a proactive Software Engineer to design and develop high-quality, enterprise-grade software for global customers. The ideal candidate has a solid background in C/C++ system programming and thrives in a collaborative environment. You will work closely with cross-functional stakeholders—including Product Managers, Architects, and QA Engineers—to deliver scalable, reliable, and high-performance solutions.\nKey Responsibilities\n- System Design & Implementation: Design, build, and maintain efficient, reusable, and reliable C/C++ code for large-scale enterprise deployments.\n- Operational Optimization: Enhance platform scalability, reliability, and performance to support mass deployment and seamless maintenance in large-scale enterprise environments.\n- Troubleshooting & Diagnostics: Proactively diagnose, debug, and resolve complex performance issues, memory leaks, and system bottlenecks throughout the development lifecycle.\n- Cross-Functional Collaboration: Communicate effectively with Product Managers, Architects, and QA teams to translate business requirements into technical implementations.\n- Continuous Improvement: Participate in code reviews and engineering best practices to reduce operational costs, minimize downtime, and boost development efficiency.\nWhy TXOne Networks?\n- Shape the Future: Be part of a team that’s at the forefront of Networking Security technology.\n- Collaborative Environment: Work with dynamic and talented professionals who are passionate about innovation.\n- Impactful Role: Play a critical role in driving the success of our groundbreaking products.\nReady to make your mark in Networking Security? Join TXOne Networks and be a catalyst for the future of connectivity!\nEqual Opportunities Statement\nAt TXOne Networks, we embrace change, empower people, and encourage innovation in a connected world. Our diversity and multicultural workforce are key contributing factors to our success across the globe. We like to have fun while taking our culture seriously. We are an equal opportunity employer and are committed to this regardless of race, colour, religion, sex, nationality, age, citizenship, sexual orientation, marital status, gender identity or veteran status. We do not allow discrimination or harassment of any kind.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區松高路1號20樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "About TXOne Networks\nTXOne Networks provides cybersecurity solutions for ICS and OT environments using the OT zero trust methodology. We collaborate with top manufacturers and infrastructure operators to develop practical defense strategies that eliminate security vulnerabilities in industrial settings. TXOne ensures the availability of industrial systems by mitigating cybersecurity challenges that can disrupt operations. Our solutions empower customers to benefit from networked control systems while maintaining operational resilience, personnel safety, and asset security. TXOne Networks is honored to be named again as one of the 10 Coolest IoT Security Companies by CRN in Mar 2026.\nWe are seeking a proactive Software Engineer to design and develop high-quality, enterprise-grade software for global customers. The ideal candidate has a solid background in C/C++ system programming and thrives in a collaborative environment. You will work closely with cross-functional stakeholders—including Product Managers, Architects, and QA Engineers—to deliver scalable, reliable, and high-performance solutions.\nKey Responsibilities\n- System Design & Implementation: Design, build, and maintain efficient, reusable, and reliable C/C++ code for large-scale enterprise deployments.\n- Operational Optimization: Enhance platform scalability, reliability, and performance to support mass deployment and seamless maintenance in large-scale enterprise environments.\n- Troubleshooting & Diagnostics: Proactively diagnose, debug, and resolve complex performance issues, memory leaks, and system bottlenecks throughout the development lifecycle.\n- Cross-Functional Collaboration: Communicate effectively with Product Managers, Architects, and QA teams to translate business requirements into technical implementations.\n- Continuous Improvement: Participate in code reviews and engineering best practices to reduce operational costs, minimize downtime, and boost development efficiency.\nWhy TXOne Networks?\n- Shape the Future: Be part of a team that’s at the forefront of Networking Security technology.\n- Collaborative Environment: Work with dynamic and talented professionals who are passionate about innovation.\n- Impactful Role: Play a critical role in driving the success of our groundbreaking products.\nReady to make your mark in Networking Security? Join TXOne Networks and be a catalyst for the future of connectivity!\nEqual Opportunities Statement\nAt TXOne Networks, we embrace change, empower people, and encourage innovation in a connected world. Our diversity and multicultural workforce are key contributing factors to our success across the globe. We like to have fun while taking our culture seriously. We are an equal opportunity employer and are committed to this regardless of race, colour, religion, sex, nationality, age, citizenship, sexual orientation, marital status, gender identity or veteran status. We do not allow discrimination or harassment of any kind."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "C",
+            "C++",
+            "Win32"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、C、C++、Win32",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "資料庫程式設計",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、資料庫程式設計、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Must have:\n1. Bachelor’s degree or above in Computer Science, Software Engineering, or a related field.\n2. 5+ years of hands-on system programming experience in C/C++ (Windows and/or Linux environment).\n3. Strong debugging and problem-solving skills in complex software architectures.\n4. Excellent written and verbal communication skills in English.\n5. Proactive mindset, strong ownership, and a fast learner who actively shares knowledge with the team.\nNice to have:\nAI & Modern Workflows:\n◆ Hands-on experience leveraging agentic AI tools or workflows to build and deploy software applications.\nBackend & Network Services:\n◆ Development experience with Go (Golang) and gRPC.\n◆ Practical knowledge of databases, common network protocols, and basic cryptography concepts.\nSystem & Low-Level Engineering:\n◆ Experience with Win32 SDK or Linux API / System Programming.\n◆ Experience with crash dump analysis using WinDbg or GDB.\n◆ Familiarity with reverse engineering techniques or file system development.\n◆ Experience in Kiosk or embedded system development.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：專科以上\n擅長工具：Linux、C、C++、Win32\n工作技能：軟體程式設計、資料庫程式設計、軟體工程系統開發\n其他條件：Must have:\n1. Bachelor’s degree or above in Computer Science, Software Engineering, or a related field.\n2. 5+ years of hands-on system programming experience in C/C++ (Windows and/or Linux environment).\n3. Strong debugging and problem-solving skills in complex software architectures.\n4. Excellent written and verbal communication skills in English.\n5. Proactive mindset, strong ownership, and a fast learner who actively shares knowledge with the team.\nNice to have:\nAI & Modern Workflows:\n◆ Hands-on experience leveraging agentic AI tools or workflows to build and deploy software applications.\nBackend & Network Services:\n◆ Development experience with Go (Golang) and gRPC.\n◆ Practical knowledge of databases, common network protocols, and basic cryptography concepts.\nSystem & Low-Level Engineering:\n◆ Experience with Win32 SDK or Linux API / System Programming.\n◆ Experience with crash dump analysis using WinDbg or GDB.\n◆ Familiarity with reverse engineering techniques or file system development.\n◆ Experience in Kiosk or embedded system development."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7qh42",
+    "job_url": "https://www.104.com.tw/job/7qh42",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7qh42.json",
+    "raw_sha256": "57f5e115c21cd417b116f9ccfc4090761cd706851ea3e9b5324b9772d316e571",
+    "requested_url": "https://www.104.com.tw/api/jobs/7qh42"
+  }
+}

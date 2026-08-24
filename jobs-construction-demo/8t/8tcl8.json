@@ -1,0 +1,186 @@
+{
+  "company": {
+    "id": "k6zhwsw",
+    "name": "誼山精機股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "Internet程式設計師",
+      "MIS程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責撰寫並維護應用系統，包括前端與後端開發 (C#、Python)"
+        },
+        {
+          "children": [],
+          "text": "資料庫程式設計與整合 (MSSQL、Oracle、PostgreSQL等資料庫)"
+        },
+        {
+          "children": [],
+          "text": "Linux、Windows系統部署與環境建置（Docker 等）"
+        },
+        {
+          "children": [],
+          "text": "維護Web (Java script、JQuery、HTML 5、CSS等)"
+        },
+        {
+          "children": [],
+          "text": "串接大型語言模型（LLM）與相關人工智慧服務 API"
+        },
+        {
+          "children": [],
+          "text": "參與系統架構設計與技術討論，持續優化開發流程與產品效能"
+        }
+      ],
+      "text": "1. 負責撰寫並維護應用系統，包括前端與後端開發 (C#、Python)\n2. 資料庫程式設計與整合 (MSSQL、Oracle、PostgreSQL等資料庫)\n3. Linux、Windows系統部署與環境建置（Docker 等）\n4. 維護Web (Java script、JQuery、HTML 5、CSS等)\n5. 串接大型語言模型（LLM）與相關人工智慧服務 API\n6. 參與系統架構設計與技術討論，持續優化開發流程與產品效能"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI軟體工程師"
+  },
+  "location": {
+    "address_raw": "桃園市平鎮區中豐路南勢二段460巷88號",
+    "raw": "桃園市平鎮區中豐路南勢二段460巷88號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉前端 JavaScript 框架，Vue.js 為佳，jQuery 亦可\n2.熟悉前端 CSS 框架，如 Bootstrap、TailWind、UnoCSS 等\n3.熟悉 Python 語言及相關後端框架 FastAPI 或 Flask\n4.熟悉資料庫系統，PostgreSQL 為佳，亦包含 MSSQL、MySQL\n5.具 Docker 容器化環境建置經驗\n6.具備 AI 相關技術背景與基本理解\n7.有 T100、MES 系統整合經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1.熟悉前端 JavaScript 框架，Vue.js 為佳，jQuery 亦可\n2.熟悉前端 CSS 框架，如 Bootstrap、TailWind、UnoCSS 等\n3.熟悉 Python 語言及相關後端框架 FastAPI 或 Flask\n4.熟悉資料庫系統，PostgreSQL 為佳，亦包含 MSSQL、MySQL\n5.具 Docker 容器化環境建置經驗\n6.具備 AI 相關技術背景與基本理解\n7.有 T100、MES 系統整合經驗",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關\n其他條件：1.熟悉前端 JavaScript 框架，Vue.js 為佳，jQuery 亦可\n2.熟悉前端 CSS 框架，如 Bootstrap、TailWind、UnoCSS 等\n3.熟悉 Python 語言及相關後端框架 FastAPI 或 Flask\n4.熟悉資料庫系統，PostgreSQL 為佳，亦包含 MSSQL、MySQL\n5.具 Docker 容器化環境建置經驗\n6.具備 AI 相關技術背景與基本理解\n7.有 T100、MES 系統整合經驗",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 37
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:54:10+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責撰寫並維護應用系統，包括前端與後端開發 (C#、Python)\n2. 資料庫程式設計與整合 (MSSQL、Oracle、PostgreSQL等資料庫)\n3. Linux、Windows系統部署與環境建置（Docker 等）\n4. 維護Web (Java script、JQuery、HTML 5、CSS等)\n5. 串接大型語言模型（LLM）與相關人工智慧服務 API\n6. 參與系統架構設計與技術討論，持續優化開發流程與產品效能",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "Internet程式設計師",
+            "MIS程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、Internet程式設計師、MIS程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市平鎮區中豐路南勢二段460巷88號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責撰寫並維護應用系統，包括前端與後端開發 (C#、Python)\n2. 資料庫程式設計與整合 (MSSQL、Oracle、PostgreSQL等資料庫)\n3. Linux、Windows系統部署與環境建置（Docker 等）\n4. 維護Web (Java script、JQuery、HTML 5、CSS等)\n5. 串接大型語言模型（LLM）與相關人工智慧服務 API\n6. 參與系統架構設計與技術討論，持續優化開發流程與產品效能"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉前端 JavaScript 框架，Vue.js 為佳，jQuery 亦可\n2.熟悉前端 CSS 框架，如 Bootstrap、TailWind、UnoCSS 等\n3.熟悉 Python 語言及相關後端框架 FastAPI 或 Flask\n4.熟悉資料庫系統，PostgreSQL 為佳，亦包含 MSSQL、MySQL\n5.具 Docker 容器化環境建置經驗\n6.具備 AI 相關技術背景與基本理解\n7.有 T100、MES 系統整合經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關\n其他條件：1.熟悉前端 JavaScript 框架，Vue.js 為佳，jQuery 亦可\n2.熟悉前端 CSS 框架，如 Bootstrap、TailWind、UnoCSS 等\n3.熟悉 Python 語言及相關後端框架 FastAPI 或 Flask\n4.熟悉資料庫系統，PostgreSQL 為佳，亦包含 MSSQL、MySQL\n5.具 Docker 容器化環境建置經驗\n6.具備 AI 相關技術背景與基本理解\n7.有 T100、MES 系統整合經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8tcl8",
+    "job_url": "https://www.104.com.tw/job/8tcl8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8tcl8.json",
+    "raw_sha256": "2a5a271d2f9479b4cdb724962ce1c3f7e0d5ba1fd03fb4571a1658dd32064eb4",
+    "requested_url": "https://www.104.com.tw/api/jobs/8tcl8"
+  }
+}

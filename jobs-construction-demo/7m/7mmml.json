@@ -1,0 +1,283 @@
+{
+  "company": {
+    "id": "cu8hxnc",
+    "name": "美商浪橋科技股份有限公司台灣分公司_Splashtop Inc."
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "自動化測試管線維護與開發：維護基於 Python BDD (behave) 框架與 POM 架構的自動化測試腳本，透過功能性敘述 (feature paths) 實現高效測試。"
+        },
+        {
+          "children": [],
+          "text": "多雲/混合雲測試環境控管：利用 Jenkins 串接、控管並驅動各種測試機器，包含 AWS EC2、OpenStack VM 以及地端硬體環境。"
+        },
+        {
+          "children": [],
+          "text": "雲端編譯與部署維護 (Cloud Build)：協助維護與優化現行已上線運作的 Jenkins Cloud Build 編譯環境與系統流程。"
+        },
+        {
+          "children": [],
+          "text": "自動化週邊工具與服務開發：參與團隊內部的自動化專案開發（例如：測試數據與狀態的 Report Server 開發與 AWS 佈署），寫 Code 串接系統，讓軟體狀態與邏輯透明化。"
+        },
+        {
+          "children": [],
+          "text": "落地實踐與架構轉型：跟隨團隊規劃，逐步將現有手工建置的環境，導入 Terraform (IaC) 轉化為基礎設施即程式碼；並主動協助開發與測試團隊解決現場摩擦力。"
+        },
+        {
+          "children": [],
+          "text": "Python 開發能力：熟悉 Python 語言，具備良好的邏輯與程式架構思維（有物件導向或 POM 概念者佳）。"
+        },
+        {
+          "children": [],
+          "text": "系統操作基礎：熟悉 Linux 環境基本操作，不害怕面對 Command Line。"
+        },
+        {
+          "children": [],
+          "text": "CI/CD 基礎概念：有使用過 Jenkins（或其他 CI/CD 工具如 GitLab CI/CD、GitHub Actions）的經驗，了解基本管線運作邏輯。"
+        },
+        {
+          "children": [],
+          "text": "雲端基本認知：對 AWS（特別是 EC2）有基本使用經驗或概念。"
+        },
+        {
+          "children": [],
+          "text": "主動解決問題的狂熱：面對不固定、沒碰過的專案或未知技術，不畏懼挑戰，能主動拆解問題並尋求工程手段落實。"
+        },
+        {
+          "children": [],
+          "text": "「以人為本」的溝通特質：自動化最終要落實在人身上。你必須具備良好的同理心與跨團隊溝通意願，願意走入人群、傾聽並理解團隊遇到的瓶頸，將模糊的痛點轉化為具體的自動化任務。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 BDD 測試框架（如 behave）或自動化測試流程。"
+        },
+        {
+          "children": [],
+          "text": "有寫過 Web 相關 API 或小工具（如 Report Server 串接）的經驗。"
+        },
+        {
+          "children": [],
+          "text": "對 Terraform / Ansible 等自動化部署工具有強烈學習意願。"
+        }
+      ],
+      "text": "我們正在招職Python 測試與雲端自動化開發工程師 (Junior / 具 FDE 精神)\n我們不是要找一個只會關在機房設定機器的傳統維運，也不是只會手動點點點的 QA。 我們團隊正在經歷從「手動建置」轉向「架構代碼化 (IaC)」與「全流程自動化」的關鍵黃金期。\n你將會深入混合雲平台（AWS、OpenStack、地端環境）的複雜實戰現場。我們非常看重 FDE (Forward Deployed Engineer) 的精神——技術是你的武器，但你更喜歡走入團隊、傾聽痛點，用程式碼幫大家消滅重複性的摩擦力。這裡有完整的舞台，資深主管會親自帶領你從自動測試管線跨足到雲端架構開發。\n▲ 關於美商浪橋\n本公司為知名外商Splashtop台北研發中心，產品為使用先進影音串流技術進行：遠端桌面搖控，一對多視訊會議及行動裝置畫面鏡射等應用。我們的產品線橫跨多平台（Windows, macOS, iOS, Android），在科技界及教育界均有高知名度（請參考: www.splashtop.com及www.mirroring360.com. 在App store/Google Play/Chrome Web Store上請搜尋”Splashtop”）。\n▲ 工作內容\n-自動化測試管線維護與開發：維護基於 Python BDD (behave) 框架與 POM 架構的自動化測試腳本，透過功能性敘述 (feature paths) 實現高效測試。\n-多雲/混合雲測試環境控管：利用 Jenkins 串接、控管並驅動各種測試機器，包含 AWS EC2、OpenStack VM 以及地端硬體環境。\n-雲端編譯與部署維護 (Cloud Build)：協助維護與優化現行已上線運作的 Jenkins Cloud Build 編譯環境與系統流程。\n-自動化週邊工具與服務開發：參與團隊內部的自動化專案開發（例如：測試數據與狀態的 Report Server 開發與 AWS 佈署），寫 Code 串接系統，讓軟體狀態與邏輯透明化。\n-落地實踐與架構轉型：跟隨團隊規劃，逐步將現有手工建置的環境，導入 Terraform (IaC) 轉化為基礎設施即程式碼；並主動協助開發與測試團隊解決現場摩擦力。\n▲ 應徵條件\n-Python 開發能力：熟悉 Python 語言，具備良好的邏輯與程式架構思維（有物件導向或 POM 概念者佳）。\n-系統操作基礎：熟悉 Linux 環境基本操作，不害怕面對 Command Line。\n-CI/CD 基礎概念：有使用過 Jenkins（或其他 CI/CD 工具如 GitLab CI/CD、GitHub Actions）的經驗，了解基本管線運作邏輯。\n-雲端基本認知：對 AWS（特別是 EC2）有基本使用經驗或概念。\n-主動解決問題的狂熱：面對不固定、沒碰過的專案或未知技術，不畏懼挑戰，能主動拆解問題並尋求工程手段落實。\n-「以人為本」的溝通特質：自動化最終要落實在人身上。你必須具備良好的同理心與跨團隊溝通意願，願意走入人群、傾聽並理解團隊遇到的瓶頸，將模糊的痛點轉化為具體的自動化任務。\n▲ 加分條件\n-熟悉 BDD 測試框架（如 behave）或自動化測試流程。\n-有寫過 Web 相關 API 或小工具（如 Report Server 串接）的經驗。\n-對 Terraform / Ansible 等自動化部署工具有強烈學習意願。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Python 測試與雲端自動化開發工程師"
+  },
+  "location": {
+    "address_raw": "台北市松山區南京東路4段16號4樓A1",
+    "raw": "台北市松山區南京東路4段16號4樓A1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python",
+          "Linux"
+        ],
+        "label": "擅長工具",
+        "text": "Python、Linux"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體品質與保證",
+          "軟體程式設計",
+          "流程自動化",
+          "自動化軟體測試"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體品質與保證、軟體程式設計、流程自動化、自動化軟體測試"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "如果你是會寫 Python，想往雲端自動化 (Cloud Automation) 發展，但缺乏大型專案落地經驗的 Junior 開發者。或是做過自動化測試 (QA Automation)，但不想只侷限在測試，渴望跨足 Infra、系統建置與微服務開發，且喜歡與人合作解決實質問題的潛力工程師。都歡迎你投遞履歷，這會是一個很適合你成長的職位。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "如果你是會寫 Python，想往雲端自動化 (Cloud Automation) 發展，但缺乏大型專案落地經驗的 Junior 開發者。或是做過自動化測試 (QA Automation)，但不想只侷限在測試，渴望跨足 Infra、系統建置與微服務開發，且喜歡與人合作解決實質問題的潛力工程師。都歡迎你投遞履歷，這會是一個很適合你成長的職位。",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體品質與保證",
+      "軟體程式設計",
+      "流程自動化",
+      "自動化軟體測試"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Linux\n工作技能：軟體工程系統開發、軟體品質與保證、軟體程式設計、流程自動化、自動化軟體測試\n其他條件：如果你是會寫 Python，想往雲端自動化 (Cloud Automation) 發展，但缺乏大型專案落地經驗的 Junior 開發者。或是做過自動化測試 (QA Automation)，但不想只侷限在測試，渴望跨足 Infra、系統建置與微服務開發，且喜歡與人合作解決實質問題的潛力工程師。都歡迎你投遞履歷，這會是一個很適合你成長的職位。",
+    "tools": [
+      "Python",
+      "Linux"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 78
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:35:10+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們正在招職Python 測試與雲端自動化開發工程師 (Junior / 具 FDE 精神)\n我們不是要找一個只會關在機房設定機器的傳統維運，也不是只會手動點點點的 QA。 我們團隊正在經歷從「手動建置」轉向「架構代碼化 (IaC)」與「全流程自動化」的關鍵黃金期。\n你將會深入混合雲平台（AWS、OpenStack、地端環境）的複雜實戰現場。我們非常看重 FDE (Forward Deployed Engineer) 的精神——技術是你的武器，但你更喜歡走入團隊、傾聽痛點，用程式碼幫大家消滅重複性的摩擦力。這裡有完整的舞台，資深主管會親自帶領你從自動測試管線跨足到雲端架構開發。\n▲ 關於美商浪橋\n本公司為知名外商Splashtop台北研發中心，產品為使用先進影音串流技術進行：遠端桌面搖控，一對多視訊會議及行動裝置畫面鏡射等應用。我們的產品線橫跨多平台（Windows, macOS, iOS, Android），在科技界及教育界均有高知名度（請參考: www.splashtop.com及www.mirroring360.com. 在App store/Google Play/Chrome Web Store上請搜尋”Splashtop”）。\n▲ 工作內容\n-自動化測試管線維護與開發：維護基於 Python BDD (behave) 框架與 POM 架構的自動化測試腳本，透過功能性敘述 (feature paths) 實現高效測試。\n-多雲/混合雲測試環境控管：利用 Jenkins 串接、控管並驅動各種測試機器，包含 AWS EC2、OpenStack VM 以及地端硬體環境。\n-雲端編譯與部署維護 (Cloud Build)：協助維護與優化現行已上線運作的 Jenkins Cloud Build 編譯環境與系統流程。\n-自動化週邊工具與服務開發：參與團隊內部的自動化專案開發（例如：測試數據與狀態的 Report Server 開發與 AWS 佈署），寫 Code 串接系統，讓軟體狀態與邏輯透明化。\n-落地實踐與架構轉型：跟隨團隊規劃，逐步將現有手工建置的環境，導入 Terraform (IaC) 轉化為基礎設施即程式碼；並主動協助開發與測試團隊解決現場摩擦力。\n▲ 應徵條件\n-Python 開發能力：熟悉 Python 語言，具備良好的邏輯與程式架構思維（有物件導向或 POM 概念者佳）。\n-系統操作基礎：熟悉 Linux 環境基本操作，不害怕面對 Command Line。\n-CI/CD 基礎概念：有使用過 Jenkins（或其他 CI/CD 工具如 GitLab CI/CD、GitHub Actions）的經驗，了解基本管線運作邏輯。\n-雲端基本認知：對 AWS（特別是 EC2）有基本使用經驗或概念。\n-主動解決問題的狂熱：面對不固定、沒碰過的專案或未知技術，不畏懼挑戰，能主動拆解問題並尋求工程手段落實。\n-「以人為本」的溝通特質：自動化最終要落實在人身上。你必須具備良好的同理心與跨團隊溝通意願，願意走入人群、傾聽並理解團隊遇到的瓶頸，將模糊的痛點轉化為具體的自動化任務。\n▲ 加分條件\n-熟悉 BDD 測試框架（如 behave）或自動化測試流程。\n-有寫過 Web 相關 API 或小工具（如 Report Server 串接）的經驗。\n-對 Terraform / Ansible 等自動化部署工具有強烈學習意願。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區南京東路4段16號4樓A1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們正在招職Python 測試與雲端自動化開發工程師 (Junior / 具 FDE 精神)\n我們不是要找一個只會關在機房設定機器的傳統維運，也不是只會手動點點點的 QA。 我們團隊正在經歷從「手動建置」轉向「架構代碼化 (IaC)」與「全流程自動化」的關鍵黃金期。\n你將會深入混合雲平台（AWS、OpenStack、地端環境）的複雜實戰現場。我們非常看重 FDE (Forward Deployed Engineer) 的精神——技術是你的武器，但你更喜歡走入團隊、傾聽痛點，用程式碼幫大家消滅重複性的摩擦力。這裡有完整的舞台，資深主管會親自帶領你從自動測試管線跨足到雲端架構開發。\n▲ 關於美商浪橋\n本公司為知名外商Splashtop台北研發中心，產品為使用先進影音串流技術進行：遠端桌面搖控，一對多視訊會議及行動裝置畫面鏡射等應用。我們的產品線橫跨多平台（Windows, macOS, iOS, Android），在科技界及教育界均有高知名度（請參考: www.splashtop.com及www.mirroring360.com. 在App store/Google Play/Chrome Web Store上請搜尋”Splashtop”）。\n▲ 工作內容\n-自動化測試管線維護與開發：維護基於 Python BDD (behave) 框架與 POM 架構的自動化測試腳本，透過功能性敘述 (feature paths) 實現高效測試。\n-多雲/混合雲測試環境控管：利用 Jenkins 串接、控管並驅動各種測試機器，包含 AWS EC2、OpenStack VM 以及地端硬體環境。\n-雲端編譯與部署維護 (Cloud Build)：協助維護與優化現行已上線運作的 Jenkins Cloud Build 編譯環境與系統流程。\n-自動化週邊工具與服務開發：參與團隊內部的自動化專案開發（例如：測試數據與狀態的 Report Server 開發與 AWS 佈署），寫 Code 串接系統，讓軟體狀態與邏輯透明化。\n-落地實踐與架構轉型：跟隨團隊規劃，逐步將現有手工建置的環境，導入 Terraform (IaC) 轉化為基礎設施即程式碼；並主動協助開發與測試團隊解決現場摩擦力。\n▲ 應徵條件\n-Python 開發能力：熟悉 Python 語言，具備良好的邏輯與程式架構思維（有物件導向或 POM 概念者佳）。\n-系統操作基礎：熟悉 Linux 環境基本操作，不害怕面對 Command Line。\n-CI/CD 基礎概念：有使用過 Jenkins（或其他 CI/CD 工具如 GitLab CI/CD、GitHub Actions）的經驗，了解基本管線運作邏輯。\n-雲端基本認知：對 AWS（特別是 EC2）有基本使用經驗或概念。\n-主動解決問題的狂熱：面對不固定、沒碰過的專案或未知技術，不畏懼挑戰，能主動拆解問題並尋求工程手段落實。\n-「以人為本」的溝通特質：自動化最終要落實在人身上。你必須具備良好的同理心與跨團隊溝通意願，願意走入人群、傾聽並理解團隊遇到的瓶頸，將模糊的痛點轉化為具體的自動化任務。\n▲ 加分條件\n-熟悉 BDD 測試框架（如 behave）或自動化測試流程。\n-有寫過 Web 相關 API 或小工具（如 Report Server 串接）的經驗。\n-對 Terraform / Ansible 等自動化部署工具有強烈學習意願。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "Linux"
+          ],
+          "label": "擅長工具",
+          "text": "Python、Linux",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體品質與保證",
+            "軟體程式設計",
+            "流程自動化",
+            "自動化軟體測試"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體品質與保證、軟體程式設計、流程自動化、自動化軟體測試",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "如果你是會寫 Python，想往雲端自動化 (Cloud Automation) 發展，但缺乏大型專案落地經驗的 Junior 開發者。或是做過自動化測試 (QA Automation)，但不想只侷限在測試，渴望跨足 Infra、系統建置與微服務開發，且喜歡與人合作解決實質問題的潛力工程師。都歡迎你投遞履歷，這會是一個很適合你成長的職位。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、Linux\n工作技能：軟體工程系統開發、軟體品質與保證、軟體程式設計、流程自動化、自動化軟體測試\n其他條件：如果你是會寫 Python，想往雲端自動化 (Cloud Automation) 發展，但缺乏大型專案落地經驗的 Junior 開發者。或是做過自動化測試 (QA Automation)，但不想只侷限在測試，渴望跨足 Infra、系統建置與微服務開發，且喜歡與人合作解決實質問題的潛力工程師。都歡迎你投遞履歷，這會是一個很適合你成長的職位。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7mmml",
+    "job_url": "https://www.104.com.tw/job/7mmml",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7mmml.json",
+    "raw_sha256": "7baef75a965beade8605f050be6c84d87e5f46363beee672df5095e06444630e",
+    "requested_url": "https://www.104.com.tw/api/jobs/7mmml"
+  }
+}

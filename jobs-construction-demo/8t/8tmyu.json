@@ -1,0 +1,280 @@
+{
+  "company": {
+    "id": "hnieg6g",
+    "name": "天宇工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "其他資訊專業人員",
+      "資訊設備管制人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責資訊設備及周邊器材的安全、設定與日常維護，確保基礎架構穩定。"
+        },
+        {
+          "children": [],
+          "text": "管理 IT 設備資產、帳號與軟體授權，維持合規與資源最佳化。"
+        },
+        {
+          "children": [],
+          "text": "即時回應解決同仁在軟硬體使用上的各類問題，提供技術支援，提供內部運作效率。"
+        },
+        {
+          "children": [],
+          "text": "建置並維護資訊安全管理機制，包含權限控管、資安稽核，確保公司資訊資產安全。"
+        },
+        {
+          "children": [],
+          "text": "負責ERP(鼎新)等企業內部應用系統的整合與優化，包含需求分析、架構規劃與流程再造，確保系統能有效支持營運需求。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交付事項。"
+        }
+      ],
+      "text": "1. 負責資訊設備及周邊器材的安全、設定與日常維護，確保基礎架構穩定。\n2. 管理 IT 設備資產、帳號與軟體授權，維持合規與資源最佳化。\n3. 即時回應解決同仁在軟硬體使用上的各類問題，提供技術支援，提供內部運作效率。\n4. 建置並維護資訊安全管理機制，包含權限控管、資安稽核，確保公司資訊資產安全。\n5. 負責ERP(鼎新)等企業內部應用系統的整合與優化，包含需求分析、架構規劃與流程再造，確保系統能有效支持營運需求。\n6. 其他主管交付事項。\n個性主動積極、熱心服務、樂觀進取尤佳。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊工程師"
+  },
+  "location": {
+    "address_raw": "新北市新店區民權路130巷8號5樓",
+    "raw": "新北市新店區民權路130巷8號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "TCP/IP",
+          "鼎新",
+          "Firewall",
+          "Routers",
+          "VPN",
+          "Vmware",
+          "LAN",
+          "VLAN",
+          "Microsoft Exchange",
+          "Linux",
+          "Windows Server 2019",
+          "Windows Server 2012"
+        ],
+        "label": "擅長工具",
+        "text": "TCP/IP、鼎新、Firewall、Routers、VPN、Vmware、LAN、VLAN、Microsoft Exchange、Linux、Windows Server 2019、Windows Server 2012"
+      },
+      {
+        "items": [
+          "伺服器網站管理維護",
+          "資訊設備環境設定",
+          "規劃與管理防火牆",
+          "資訊設備操作檢修",
+          "網路設備設定安裝",
+          "系統維護操作",
+          "企業資源規劃管理(ERP)",
+          "資料備份與復原",
+          "網路系統危機管理",
+          "安裝與維護網路安全系統"
+        ],
+        "label": "工作技能",
+        "text": "伺服器網站管理維護、資訊設備環境設定、規劃與管理防火牆、資訊設備操作檢修、網路設備設定安裝、系統維護操作、企業資源規劃管理(ERP)、資料備份與復原、網路系統危機管理、安裝與維護網路安全系統"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 熟悉Windows O365\n2. Windows Server作業系統\n3. 熟悉鼎新系統(Workflow ERP / Easyflow等)\n4. 熟悉TCP/IP網路技術\n5. 具備ISO/IEC 27001 資訊安全管理系統知識"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1. 熟悉Windows O365\n2. Windows Server作業系統\n3. 熟悉鼎新系統(Workflow ERP / Easyflow等)\n4. 熟悉TCP/IP網路技術\n5. 具備ISO/IEC 27001 資訊安全管理系統知識",
+    "skills": [
+      "伺服器網站管理維護",
+      "資訊設備環境設定",
+      "規劃與管理防火牆",
+      "資訊設備操作檢修",
+      "網路設備設定安裝",
+      "系統維護操作",
+      "企業資源規劃管理(ERP)",
+      "資料備份與復原",
+      "網路系統危機管理",
+      "安裝與維護網路安全系統"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學\n科系要求：資訊工程相關\n擅長工具：TCP/IP、鼎新、Firewall、Routers、VPN、Vmware、LAN、VLAN、Microsoft Exchange、Linux、Windows Server 2019、Windows Server 2012\n工作技能：伺服器網站管理維護、資訊設備環境設定、規劃與管理防火牆、資訊設備操作檢修、網路設備設定安裝、系統維護操作、企業資源規劃管理(ERP)、資料備份與復原、網路系統危機管理、安裝與維護網路安全系統\n其他條件：1. 熟悉Windows O365\n2. Windows Server作業系統\n3. 熟悉鼎新系統(Workflow ERP / Easyflow等)\n4. 熟悉TCP/IP網路技術\n5. 具備ISO/IEC 27001 資訊安全管理系統知識",
+    "tools": [
+      "TCP/IP",
+      "鼎新",
+      "Firewall",
+      "Routers",
+      "VPN",
+      "Vmware",
+      "LAN",
+      "VLAN",
+      "Microsoft Exchange",
+      "Linux",
+      "Windows Server 2019",
+      "Windows Server 2012"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 38
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:55:28+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責資訊設備及周邊器材的安全、設定與日常維護，確保基礎架構穩定。\n2. 管理 IT 設備資產、帳號與軟體授權，維持合規與資源最佳化。\n3. 即時回應解決同仁在軟硬體使用上的各類問題，提供技術支援，提供內部運作效率。\n4. 建置並維護資訊安全管理機制，包含權限控管、資安稽核，確保公司資訊資產安全。\n5. 負責ERP(鼎新)等企業內部應用系統的整合與優化，包含需求分析、架構規劃與流程再造，確保系統能有效支持營運需求。\n6. 其他主管交付事項。\n個性主動積極、熱心服務、樂觀進取尤佳。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "其他資訊專業人員",
+            "資訊設備管制人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、其他資訊專業人員、資訊設備管制人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區民權路130巷8號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責資訊設備及周邊器材的安全、設定與日常維護，確保基礎架構穩定。\n2. 管理 IT 設備資產、帳號與軟體授權，維持合規與資源最佳化。\n3. 即時回應解決同仁在軟硬體使用上的各類問題，提供技術支援，提供內部運作效率。\n4. 建置並維護資訊安全管理機制，包含權限控管、資安稽核，確保公司資訊資產安全。\n5. 負責ERP(鼎新)等企業內部應用系統的整合與優化，包含需求分析、架構規劃與流程再造，確保系統能有效支持營運需求。\n6. 其他主管交付事項。\n個性主動積極、熱心服務、樂觀進取尤佳。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "TCP/IP",
+            "鼎新",
+            "Firewall",
+            "Routers",
+            "VPN",
+            "Vmware",
+            "LAN",
+            "VLAN",
+            "Microsoft Exchange",
+            "Linux",
+            "Windows Server 2019",
+            "Windows Server 2012"
+          ],
+          "label": "擅長工具",
+          "text": "TCP/IP、鼎新、Firewall、Routers、VPN、Vmware、LAN、VLAN、Microsoft Exchange、Linux、Windows Server 2019、Windows Server 2012",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "伺服器網站管理維護",
+            "資訊設備環境設定",
+            "規劃與管理防火牆",
+            "資訊設備操作檢修",
+            "網路設備設定安裝",
+            "系統維護操作",
+            "企業資源規劃管理(ERP)",
+            "資料備份與復原",
+            "網路系統危機管理",
+            "安裝與維護網路安全系統"
+          ],
+          "label": "工作技能",
+          "text": "伺服器網站管理維護、資訊設備環境設定、規劃與管理防火牆、資訊設備操作檢修、網路設備設定安裝、系統維護操作、企業資源規劃管理(ERP)、資料備份與復原、網路系統危機管理、安裝與維護網路安全系統",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 熟悉Windows O365\n2. Windows Server作業系統\n3. 熟悉鼎新系統(Workflow ERP / Easyflow等)\n4. 熟悉TCP/IP網路技術\n5. 具備ISO/IEC 27001 資訊安全管理系統知識",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學\n科系要求：資訊工程相關\n擅長工具：TCP/IP、鼎新、Firewall、Routers、VPN、Vmware、LAN、VLAN、Microsoft Exchange、Linux、Windows Server 2019、Windows Server 2012\n工作技能：伺服器網站管理維護、資訊設備環境設定、規劃與管理防火牆、資訊設備操作檢修、網路設備設定安裝、系統維護操作、企業資源規劃管理(ERP)、資料備份與復原、網路系統危機管理、安裝與維護網路安全系統\n其他條件：1. 熟悉Windows O365\n2. Windows Server作業系統\n3. 熟悉鼎新系統(Workflow ERP / Easyflow等)\n4. 熟悉TCP/IP網路技術\n5. 具備ISO/IEC 27001 資訊安全管理系統知識"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8tmyu",
+    "job_url": "https://www.104.com.tw/job/8tmyu",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8tmyu.json",
+    "raw_sha256": "dbc244a0843a1a4744245f43a1c678c1db00c10e4daaae4e1fc8a0edd636b5ff",
+    "requested_url": "https://www.104.com.tw/api/jobs/8tmyu"
+  }
+}

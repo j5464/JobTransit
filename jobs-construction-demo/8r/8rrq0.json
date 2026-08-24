@@ -1,0 +1,201 @@
+{
+  "company": {
+    "id": "7f39r7c",
+    "name": "宏燁資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "* AI平台產品相關功能建立操作使用"
+        },
+        {
+          "children": [],
+          "text": "* AI相關應用開發 (技術能力如下)"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Python, Java or .Net"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Container 化部署流程 (會寫Dockerfile, build image)"
+        },
+        {
+          "children": [],
+          "text": "程式除錯、效能優化"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Vue 3 / Angular / HTML5 / CSS3 / JavaScript (ES6+)"
+        },
+        {
+          "children": [],
+          "text": "熟悉 REST API 呼叫與資料綁定"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Python 開發 AI 程式"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Java or .NET 開發後端API/Web controller"
+        },
+        {
+          "children": [],
+          "text": "能撰寫 API Controller 程式"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Docker 與 container 基礎指令操作"
+        },
+        {
+          "children": [],
+          "text": "了解 container networking 與 service 溝通（多容器架構）"
+        },
+        {
+          "children": [],
+          "text": "能寫與閱讀 Dockerfile、docker-compose.yml、打包image"
+        },
+        {
+          "children": [],
+          "text": "使用 Git 版本控制與 branch 策略"
+        },
+        {
+          "children": [],
+          "text": "具備撰寫基本單元測試與除錯能力"
+        }
+      ],
+      "text": "【我們在找誰？】\n我們在找能跟 AI 談心、跟 Python 打怪、跟 各種程式語言 交朋友的全端工程師\n如果你對AI開發/相關應用有邏輯、有熱情，也樂於與團隊協作、解決問題，這裡將會是你發揮專業的舞台。\n【工作簡要】\n** AI平台產品相關功能建立操作使用\n** AI相關應用開發 (技術能力如下)\n一、開發與維護容器應用\n• 熟悉 Python, Java or .Net\n• 熟悉 Container 化部署流程 (會寫Dockerfile, build image)\n• 程式除錯、效能優化\n二、前端開發經驗\n• 熟悉 Vue 3 / Angular / HTML5 / CSS3 / JavaScript (ES6+)\n• 熟悉 REST API 呼叫與資料綁定\n三、後端開發經驗\n• 熟悉 Python 開發 AI 程式\n• 熟悉 Java or .NET 開發後端API/Web controller\n• 能撰寫 API Controller 程式\n四、容器化與部署經驗\n• 熟悉 Docker 與 container 基礎指令操作\n• 了解 container networking 與 service 溝通（多容器架構）\n• 能寫與閱讀 Dockerfile、docker-compose.yml、打包image\n五、基礎開發流程與工具\n• 使用 Git 版本控制與 branch 策略\n• 具備撰寫基本單元測試與除錯能力\n能閱讀技術文件滿足任務需求。\n有團隊協同合作精神。\n※如果你對這份職務有興趣，歡迎投遞履歷，我們將儘快與你聯繫。※"
+    },
+    "employment_type_raw": "全職",
+    "title": "CIS –AI應用工程師(CTS)"
+  },
+  "location": {
+    "address_raw": "台北市中正區北平東路30號7樓",
+    "raw": "台北市中正區北平東路30號7樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分條件】\n• 有使用/開發過 Ollama, 了解RAG 等 AI應用\n• 有使用過 Kubernetes 或其他容器編排工具\n• 熟悉 CI/CD 工具（如 GitLab CI、GitHub Actions、Azure DevOps）"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "【加分條件】\n• 有使用/開發過 Ollama, 了解RAG 等 AI應用\n• 有使用過 Kubernetes 或其他容器編排工具\n• 熟悉 CI/CD 工具（如 GitLab CI、GitHub Actions、Azure DevOps）",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：專科以上\n其他條件：【加分條件】\n• 有使用/開發過 Ollama, 了解RAG 等 AI應用\n• 有使用過 Kubernetes 或其他容器編排工具\n• 熟悉 CI/CD 工具（如 GitLab CI、GitHub Actions、Azure DevOps）",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 25
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:22:47+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【我們在找誰？】\n我們在找能跟 AI 談心、跟 Python 打怪、跟 各種程式語言 交朋友的全端工程師\n如果你對AI開發/相關應用有邏輯、有熱情，也樂於與團隊協作、解決問題，這裡將會是你發揮專業的舞台。\n【工作簡要】\n** AI平台產品相關功能建立操作使用\n** AI相關應用開發 (技術能力如下)\n一、開發與維護容器應用\n• 熟悉 Python, Java or .Net\n• 熟悉 Container 化部署流程 (會寫Dockerfile, build image)\n• 程式除錯、效能優化\n二、前端開發經驗\n• 熟悉 Vue 3 / Angular / HTML5 / CSS3 / JavaScript (ES6+)\n• 熟悉 REST API 呼叫與資料綁定\n三、後端開發經驗\n• 熟悉 Python 開發 AI 程式\n• 熟悉 Java or .NET 開發後端API/Web controller\n• 能撰寫 API Controller 程式\n四、容器化與部署經驗\n• 熟悉 Docker 與 container 基礎指令操作\n• 了解 container networking 與 service 溝通（多容器架構）\n• 能寫與閱讀 Dockerfile、docker-compose.yml、打包image\n五、基礎開發流程與工具\n• 使用 Git 版本控制與 branch 策略\n• 具備撰寫基本單元測試與除錯能力\n能閱讀技術文件滿足任務需求。\n有團隊協同合作精神。\n※如果你對這份職務有興趣，歡迎投遞履歷，我們將儘快與你聯繫。※",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區北平東路30號7樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【我們在找誰？】\n我們在找能跟 AI 談心、跟 Python 打怪、跟 各種程式語言 交朋友的全端工程師\n如果你對AI開發/相關應用有邏輯、有熱情，也樂於與團隊協作、解決問題，這裡將會是你發揮專業的舞台。\n【工作簡要】\n** AI平台產品相關功能建立操作使用\n** AI相關應用開發 (技術能力如下)\n一、開發與維護容器應用\n• 熟悉 Python, Java or .Net\n• 熟悉 Container 化部署流程 (會寫Dockerfile, build image)\n• 程式除錯、效能優化\n二、前端開發經驗\n• 熟悉 Vue 3 / Angular / HTML5 / CSS3 / JavaScript (ES6+)\n• 熟悉 REST API 呼叫與資料綁定\n三、後端開發經驗\n• 熟悉 Python 開發 AI 程式\n• 熟悉 Java or .NET 開發後端API/Web controller\n• 能撰寫 API Controller 程式\n四、容器化與部署經驗\n• 熟悉 Docker 與 container 基礎指令操作\n• 了解 container networking 與 service 溝通（多容器架構）\n• 能寫與閱讀 Dockerfile、docker-compose.yml、打包image\n五、基礎開發流程與工具\n• 使用 Git 版本控制與 branch 策略\n• 具備撰寫基本單元測試與除錯能力\n能閱讀技術文件滿足任務需求。\n有團隊協同合作精神。\n※如果你對這份職務有興趣，歡迎投遞履歷，我們將儘快與你聯繫。※"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分條件】\n• 有使用/開發過 Ollama, 了解RAG 等 AI應用\n• 有使用過 Kubernetes 或其他容器編排工具\n• 熟悉 CI/CD 工具（如 GitLab CI、GitHub Actions、Azure DevOps）",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科以上\n其他條件：【加分條件】\n• 有使用/開發過 Ollama, 了解RAG 等 AI應用\n• 有使用過 Kubernetes 或其他容器編排工具\n• 熟悉 CI/CD 工具（如 GitLab CI、GitHub Actions、Azure DevOps）"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8rrq0",
+    "job_url": "https://www.104.com.tw/job/8rrq0",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8rrq0.json",
+    "raw_sha256": "aff51420e273156ded2bd61f59ea7c33695453d1672302ce154d948ed1b3185e",
+    "requested_url": "https://www.104.com.tw/api/jobs/8rrq0"
+  }
+}

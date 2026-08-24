@@ -1,0 +1,306 @@
+{
+  "company": {
+    "id": "1a2x6bmtaa",
+    "name": "好日子科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發 Laravel API"
+        },
+        {
+          "children": [],
+          "text": "MySQL 資料庫設計"
+        },
+        {
+          "children": [],
+          "text": "Redis、Queue 機制開發"
+        },
+        {
+          "children": [],
+          "text": "串接第三方 API 與 AI 服務"
+        },
+        {
+          "children": [],
+          "text": "WebSocket 即時同步"
+        },
+        {
+          "children": [],
+          "text": "系統架構規劃"
+        },
+        {
+          "children": [],
+          "text": "Code Review"
+        },
+        {
+          "children": [],
+          "text": "系統效能優化"
+        },
+        {
+          "children": [],
+          "text": "建立團隊開發規範"
+        },
+        {
+          "children": [],
+          "text": "1～3 年 PHP 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "Laravel"
+        },
+        {
+          "children": [],
+          "text": "MySQL"
+        },
+        {
+          "children": [],
+          "text": "Git"
+        },
+        {
+          "children": [],
+          "text": "REST API"
+        },
+        {
+          "children": [],
+          "text": "Redis"
+        },
+        {
+          "children": [],
+          "text": "Docker"
+        },
+        {
+          "children": [],
+          "text": "Linux"
+        },
+        {
+          "children": [],
+          "text": "Nginx"
+        },
+        {
+          "children": [],
+          "text": "Laravel Octane"
+        },
+        {
+          "children": [],
+          "text": "Swoole"
+        },
+        {
+          "children": [],
+          "text": "MQTT"
+        },
+        {
+          "children": [],
+          "text": "WebSocket"
+        },
+        {
+          "children": [],
+          "text": "Google Cloud Platform"
+        },
+        {
+          "children": [],
+          "text": "SaaS 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "API 如何設計？"
+        },
+        {
+          "children": [],
+          "text": "系統如何降低耦合？"
+        },
+        {
+          "children": [],
+          "text": "如何拆分模組？"
+        },
+        {
+          "children": [],
+          "text": "如何提升效能？"
+        },
+        {
+          "children": [],
+          "text": "如何讓產品持續成長？"
+        },
+        {
+          "children": [],
+          "text": "Laravel"
+        },
+        {
+          "children": [],
+          "text": "Swoole"
+        },
+        {
+          "children": [],
+          "text": "Redis"
+        },
+        {
+          "children": [],
+          "text": "Python"
+        },
+        {
+          "children": [],
+          "text": "ML"
+        },
+        {
+          "children": [],
+          "text": "AI API"
+        },
+        {
+          "children": [],
+          "text": "Docker"
+        },
+        {
+          "children": [],
+          "text": "GCP"
+        },
+        {
+          "children": [],
+          "text": "即時同步"
+        },
+        {
+          "children": [],
+          "text": "SaaS 架構設計"
+        },
+        {
+          "children": [],
+          "text": "Code Review"
+        },
+        {
+          "children": [],
+          "text": "技術分享"
+        },
+        {
+          "children": [],
+          "text": "新技術研究"
+        },
+        {
+          "children": [],
+          "text": "架構改善"
+        },
+        {
+          "children": [],
+          "text": "自主學習"
+        }
+      ],
+      "text": "▌關於「好日子科技驗屋 A Nice Day Inspector」\n「讓每個起家與回家的人更安心踏實，未來的每一天日日是好日。」\n我們希望透過科技重新定義驗屋產業。\n除了專業驗屋服務，我們更積極投入自主產品研發，希望建立驗屋產業完整的數位平台，包括 AI、自動化、雲端管理與行動化應用。\n⸻\n▌為什麼加入好日子科技驗屋？\n你將參與打造真正被市場使用的產品。\n從 API、資料庫設計，到 AI 整合、即時同步與大型 SaaS 架構，都會是你的日常工作。\n我們希望每位工程師都能參與技術決策，而不是只是完成 Ticket。\n⸻\n▌工作內容\n* 開發 Laravel API\n* MySQL 資料庫設計\n* Redis、Queue 機制開發\n* 串接第三方 API 與 AI 服務\n* WebSocket 即時同步\n* 系統架構規劃\n* Code Review\n* 系統效能優化\n* 建立團隊開發規範\n⸻\n▌我們希望你具備\n必備技能\n* 1～3 年 PHP 開發經驗\n* Laravel\n* MySQL\n* Git\n* REST API\n加分條件\n* Redis\n* Docker\n* Linux\n* Nginx\n* Laravel Octane\n* Swoole\n* MQTT\n* WebSocket\n* Google Cloud Platform\n* SaaS 開發經驗\n⸻\n▌我們期待這樣的夥伴\n我們期待的不只是會寫程式，而是願意思考：\n* API 如何設計？\n* 系統如何降低耦合？\n* 如何拆分模組？\n* 如何提升效能？\n* 如何讓產品持續成長？\n我們相信好的工程師，不只是解決眼前的需求，更能為未來留下好的架構。\n⸻\n▌在好日子，你將獲得\n與產品共同成長\n直接參與產品規劃與技術方向，讓你的程式真正創造價值。\n⸻\n技術挑戰\n你將有機會接觸：\n* Laravel\n* Swoole\n* Redis\n* Python\n* ML\n* AI API\n* Docker\n* GCP\n* 即時同步\n* SaaS 架構設計\n⸻\n持續成長\n我們鼓勵：\n* Code Review\n* 技術分享\n* 新技術研究\n* 架構改善\n* 自主學習\n希望每位工程師都能持續提升自己的技術能力。\n⸻\n扁平透明\n我們重視每位夥伴的聲音。\n無論是產品功能、開發流程、系統架構或技術選型，只要有更好的想法，都歡迎提出並一起實踐。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師 Software Engineer（Backend）"
+  },
+  "location": {
+    "address_raw": "新北市三重區重新路五段609巷14號6樓之6",
+    "raw": "新北市三重區重新路五段609巷14號6樓之6"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 9
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:43:28+08:00"
+  },
+  "salary": {
+    "raw": "年薪600,000~650,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "▌關於「好日子科技驗屋 A Nice Day Inspector」\n「讓每個起家與回家的人更安心踏實，未來的每一天日日是好日。」\n我們希望透過科技重新定義驗屋產業。\n除了專業驗屋服務，我們更積極投入自主產品研發，希望建立驗屋產業完整的數位平台，包括 AI、自動化、雲端管理與行動化應用。\n⸻\n▌為什麼加入好日子科技驗屋？\n你將參與打造真正被市場使用的產品。\n從 API、資料庫設計，到 AI 整合、即時同步與大型 SaaS 架構，都會是你的日常工作。\n我們希望每位工程師都能參與技術決策，而不是只是完成 Ticket。\n⸻\n▌工作內容\n* 開發 Laravel API\n* MySQL 資料庫設計\n* Redis、Queue 機制開發\n* 串接第三方 API 與 AI 服務\n* WebSocket 即時同步\n* 系統架構規劃\n* Code Review\n* 系統效能優化\n* 建立團隊開發規範\n⸻\n▌我們希望你具備\n必備技能\n* 1～3 年 PHP 開發經驗\n* Laravel\n* MySQL\n* Git\n* REST API\n加分條件\n* Redis\n* Docker\n* Linux\n* Nginx\n* Laravel Octane\n* Swoole\n* MQTT\n* WebSocket\n* Google Cloud Platform\n* SaaS 開發經驗\n⸻\n▌我們期待這樣的夥伴\n我們期待的不只是會寫程式，而是願意思考：\n* API 如何設計？\n* 系統如何降低耦合？\n* 如何拆分模組？\n* 如何提升效能？\n* 如何讓產品持續成長？\n我們相信好的工程師，不只是解決眼前的需求，更能為未來留下好的架構。\n⸻\n▌在好日子，你將獲得\n與產品共同成長\n直接參與產品規劃與技術方向，讓你的程式真正創造價值。\n⸻\n技術挑戰\n你將有機會接觸：\n* Laravel\n* Swoole\n* Redis\n* Python\n* ML\n* AI API\n* Docker\n* GCP\n* 即時同步\n* SaaS 架構設計\n⸻\n持續成長\n我們鼓勵：\n* Code Review\n* 技術分享\n* 新技術研究\n* 架構改善\n* 自主學習\n希望每位工程師都能持續提升自己的技術能力。\n⸻\n扁平透明\n我們重視每位夥伴的聲音。\n無論是產品功能、開發流程、系統架構或技術選型，只要有更好的想法，都歡迎提出並一起實踐。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪600,000~650,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市三重區重新路五段609巷14號6樓之6",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "▌關於「好日子科技驗屋 A Nice Day Inspector」\n「讓每個起家與回家的人更安心踏實，未來的每一天日日是好日。」\n我們希望透過科技重新定義驗屋產業。\n除了專業驗屋服務，我們更積極投入自主產品研發，希望建立驗屋產業完整的數位平台，包括 AI、自動化、雲端管理與行動化應用。\n⸻\n▌為什麼加入好日子科技驗屋？\n你將參與打造真正被市場使用的產品。\n從 API、資料庫設計，到 AI 整合、即時同步與大型 SaaS 架構，都會是你的日常工作。\n我們希望每位工程師都能參與技術決策，而不是只是完成 Ticket。\n⸻\n▌工作內容\n* 開發 Laravel API\n* MySQL 資料庫設計\n* Redis、Queue 機制開發\n* 串接第三方 API 與 AI 服務\n* WebSocket 即時同步\n* 系統架構規劃\n* Code Review\n* 系統效能優化\n* 建立團隊開發規範\n⸻\n▌我們希望你具備\n必備技能\n* 1～3 年 PHP 開發經驗\n* Laravel\n* MySQL\n* Git\n* REST API\n加分條件\n* Redis\n* Docker\n* Linux\n* Nginx\n* Laravel Octane\n* Swoole\n* MQTT\n* WebSocket\n* Google Cloud Platform\n* SaaS 開發經驗\n⸻\n▌我們期待這樣的夥伴\n我們期待的不只是會寫程式，而是願意思考：\n* API 如何設計？\n* 系統如何降低耦合？\n* 如何拆分模組？\n* 如何提升效能？\n* 如何讓產品持續成長？\n我們相信好的工程師，不只是解決眼前的需求，更能為未來留下好的架構。\n⸻\n▌在好日子，你將獲得\n與產品共同成長\n直接參與產品規劃與技術方向，讓你的程式真正創造價值。\n⸻\n技術挑戰\n你將有機會接觸：\n* Laravel\n* Swoole\n* Redis\n* Python\n* ML\n* AI API\n* Docker\n* GCP\n* 即時同步\n* SaaS 架構設計\n⸻\n持續成長\n我們鼓勵：\n* Code Review\n* 技術分享\n* 新技術研究\n* 架構改善\n* 自主學習\n希望每位工程師都能持續提升自己的技術能力。\n⸻\n扁平透明\n我們重視每位夥伴的聲音。\n無論是產品功能、開發流程、系統架構或技術選型，只要有更好的想法，都歡迎提出並一起實踐。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94422",
+    "job_url": "https://www.104.com.tw/job/94422",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94422.json",
+    "raw_sha256": "197bec5625c040c6f01358de4d4d4dccb39e64c50587ca1404fed4c941fa67ed",
+    "requested_url": "https://www.104.com.tw/api/jobs/94422"
+  }
+}

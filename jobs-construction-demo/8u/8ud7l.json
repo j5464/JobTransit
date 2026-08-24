@@ -1,0 +1,170 @@
+{
+  "company": {
+    "id": "1a2x6bkrjn",
+    "name": "栢貨科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "AI工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "維護與開發 WordPress 網站功能，包括外掛安裝、主題調整、效能優化與除錯。"
+        },
+        {
+          "children": [],
+          "text": "協助 React/Next.js 專案的功能維運與小型開發。"
+        },
+        {
+          "children": [],
+          "text": "串接第三方 API（REST/JSON、Webhook、金流或雲端服務），並應用於網站或系統功能。"
+        },
+        {
+          "children": [],
+          "text": "撰寫與更新技術文件（操作說明、SOP、使用手冊）。"
+        },
+        {
+          "children": [],
+          "text": "基本資料處理：CSV/Excel 整理、簡單 SQL 查詢。"
+        },
+        {
+          "children": [],
+          "text": "與設計/業務/專案人員合作，將需求轉換成可執行的前後端程式任務。"
+        },
+        {
+          "children": [],
+          "text": "--"
+        },
+        {
+          "children": [],
+          "text": "--"
+        },
+        {
+          "children": [],
+          "text": "--"
+        }
+      ],
+      "text": "工作內容\n1. 維護與開發 WordPress 網站功能，包括外掛安裝、主題調整、效能優化與除錯。\n2. 協助 React/Next.js 專案的功能維運與小型開發。\n3. 串接第三方 API（REST/JSON、Webhook、金流或雲端服務），並應用於網站或系統功能。\n4. 撰寫與更新技術文件（操作說明、SOP、使用手冊）。\n5. 基本資料處理：CSV/Excel 整理、簡單 SQL 查詢。\n6. 與設計/業務/專案人員合作，將需求轉換成可執行的前後端程式任務。\n---\n必要條件\n熟悉 WordPress 網站管理與基本開發（外掛、佈景、PHP/JS 調整）。\n熟悉 React 或 JavaScript（至少一種前端框架/語言）。\n具程式基礎：能寫函式、條件判斷、迴圈，並能閱讀他人程式碼。\n能使用 Git/GitHub 進行版本控制。\n能與 AI 工具溝通（如 ChatGPT、GitHub Copilot），透過撰寫 Prompt 產生程式並能檢驗修正。\n了解 API 呼叫與 JSON 資料處理。\n樂於學習，具備問題拆解與自主解決能力。\n---\n加分條件\n有 WordPress 外掛或客製化功能開發經驗。\n熟悉 Next.js 前端框架或 Node.js 後端框架。\n具 SQL/NoSQL 資料庫操作經驗。\n了解 AI 工具應用（如 LangChain、RAG、向量資料庫）。\n有雲端（AWS/GCP）、Docker、Linux 使用經驗。\n曾開發過小型自動化工具、爬蟲或效能優化方案。\n具作品集／GitHub 連結佳。\n---\n使用工具\nAI 工具：ChatGPT、GitHub Copilot（公司提供帳號）\n協作工具：GitHub、Notion、Slack、Figma\n技術棧：WordPress、React/Next.js、Node.js、MySQL/Firestore、Docker（依專案調整）"
+    },
+    "employment_type_raw": "全職",
+    "title": "程式輔助工程師"
+  },
+  "location": {
+    "address_raw": "高雄市阿蓮區木百貨",
+    "raw": "高雄市阿蓮區木百貨"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：不拘",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 26
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:26:27+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作內容\n1. 維護與開發 WordPress 網站功能，包括外掛安裝、主題調整、效能優化與除錯。\n2. 協助 React/Next.js 專案的功能維運與小型開發。\n3. 串接第三方 API（REST/JSON、Webhook、金流或雲端服務），並應用於網站或系統功能。\n4. 撰寫與更新技術文件（操作說明、SOP、使用手冊）。\n5. 基本資料處理：CSV/Excel 整理、簡單 SQL 查詢。\n6. 與設計/業務/專案人員合作，將需求轉換成可執行的前後端程式任務。\n---\n必要條件\n熟悉 WordPress 網站管理與基本開發（外掛、佈景、PHP/JS 調整）。\n熟悉 React 或 JavaScript（至少一種前端框架/語言）。\n具程式基礎：能寫函式、條件判斷、迴圈，並能閱讀他人程式碼。\n能使用 Git/GitHub 進行版本控制。\n能與 AI 工具溝通（如 ChatGPT、GitHub Copilot），透過撰寫 Prompt 產生程式並能檢驗修正。\n了解 API 呼叫與 JSON 資料處理。\n樂於學習，具備問題拆解與自主解決能力。\n---\n加分條件\n有 WordPress 外掛或客製化功能開發經驗。\n熟悉 Next.js 前端框架或 Node.js 後端框架。\n具 SQL/NoSQL 資料庫操作經驗。\n了解 AI 工具應用（如 LangChain、RAG、向量資料庫）。\n有雲端（AWS/GCP）、Docker、Linux 使用經驗。\n曾開發過小型自動化工具、爬蟲或效能優化方案。\n具作品集／GitHub 連結佳。\n---\n使用工具\nAI 工具：ChatGPT、GitHub Copilot（公司提供帳號）\n協作工具：GitHub、Notion、Slack、Figma\n技術棧：WordPress、React/Next.js、Node.js、MySQL/Firestore、Docker（依專案調整）",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "AI工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、AI工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市阿蓮區木百貨",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作內容\n1. 維護與開發 WordPress 網站功能，包括外掛安裝、主題調整、效能優化與除錯。\n2. 協助 React/Next.js 專案的功能維運與小型開發。\n3. 串接第三方 API（REST/JSON、Webhook、金流或雲端服務），並應用於網站或系統功能。\n4. 撰寫與更新技術文件（操作說明、SOP、使用手冊）。\n5. 基本資料處理：CSV/Excel 整理、簡單 SQL 查詢。\n6. 與設計/業務/專案人員合作，將需求轉換成可執行的前後端程式任務。\n---\n必要條件\n熟悉 WordPress 網站管理與基本開發（外掛、佈景、PHP/JS 調整）。\n熟悉 React 或 JavaScript（至少一種前端框架/語言）。\n具程式基礎：能寫函式、條件判斷、迴圈，並能閱讀他人程式碼。\n能使用 Git/GitHub 進行版本控制。\n能與 AI 工具溝通（如 ChatGPT、GitHub Copilot），透過撰寫 Prompt 產生程式並能檢驗修正。\n了解 API 呼叫與 JSON 資料處理。\n樂於學習，具備問題拆解與自主解決能力。\n---\n加分條件\n有 WordPress 外掛或客製化功能開發經驗。\n熟悉 Next.js 前端框架或 Node.js 後端框架。\n具 SQL/NoSQL 資料庫操作經驗。\n了解 AI 工具應用（如 LangChain、RAG、向量資料庫）。\n有雲端（AWS/GCP）、Docker、Linux 使用經驗。\n曾開發過小型自動化工具、爬蟲或效能優化方案。\n具作品集／GitHub 連結佳。\n---\n使用工具\nAI 工具：ChatGPT、GitHub Copilot（公司提供帳號）\n協作工具：GitHub、Notion、Slack、Figma\n技術棧：WordPress、React/Next.js、Node.js、MySQL/Firestore、Docker（依專案調整）"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ud7l",
+    "job_url": "https://www.104.com.tw/job/8ud7l",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ud7l.json",
+    "raw_sha256": "7def2ad01243d5e074e8b076f7848a1abb648331455c175729bcdcb19982f82d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ud7l"
+  }
+}

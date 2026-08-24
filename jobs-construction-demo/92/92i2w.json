@@ -1,0 +1,221 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI Feature Development & Delivery"
+        },
+        {
+          "children": [],
+          "text": "Own AI features end to end, from requirements and design to launch and operations."
+        },
+        {
+          "children": [],
+          "text": "Integrate LLM APIs and services (RAG, vector databases, agent workflows) to build generative AI applications: chatbots, knowledge-base Q&A, document summarization, report generation."
+        },
+        {
+          "children": [],
+          "text": "Work with the product team to turn business pain points into AI solutions that solve real user problems."
+        },
+        {
+          "children": [],
+          "text": "Design prompts and data flows, balancing output quality, stability, and cost."
+        },
+        {
+          "children": [],
+          "text": "Write clear technical documentation so the team can maintain and extend each feature."
+        },
+        {
+          "children": [],
+          "text": "Accelerating Development with AI Tools"
+        },
+        {
+          "children": [],
+          "text": "Use AI coding tools daily to improve delivery speed and quality."
+        },
+        {
+          "children": [],
+          "text": "Help build the team’s AI development practices and share useful workflows."
+        },
+        {
+          "children": [],
+          "text": "Stay curious about new AI tools, trying them out and assessing their practical value."
+        }
+      ],
+      "text": "<Role Summary>\nYour job is to turn requirements into digital services that can be deployed. We are looking for an engineer who can build AI features and put them into products, and who can independently own an AI feature across its full lifecycle, from design and development through to launch.\nYou will work closely with the product team to translate business needs into usable AI applications, and use modern AI development tools to accelerate delivery. This is a hands-on, fast-iterating role where you can see your work reach real users directly.\n<Key Responsibilities>\n1. AI Feature Development & Delivery\n• Own AI features end to end, from requirements and design to launch and operations.\n• Integrate LLM APIs and services (RAG, vector databases, agent workflows) to build generative AI applications: chatbots, knowledge-base Q&A, document summarization, report generation.\n• Work with the product team to turn business pain points into AI solutions that solve real user problems.\n• Design prompts and data flows, balancing output quality, stability, and cost.\n• Write clear technical documentation so the team can maintain and extend each feature.\n2. Accelerating Development with AI Tools\n• Use AI coding tools daily to improve delivery speed and quality.\n• Help build the team’s AI development practices and share useful workflows.\n• Stay curious about new AI tools, trying them out and assessing their practical value."
+    },
+    "employment_type_raw": "全職",
+    "title": "AI Application Engineer_ESG Consulting Office(內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號(內湖)",
+    "raw": "台北市內湖區瑞光路186號(內湖)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "其他數學及電算機科學相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "其他數學及電算機科學相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "Python",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "Python、MS SQL"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "《Qualifications & Requirements》\n• Bachelor’s degree in Computer Science, Data Engineering, Information Systems, or related field.\n• 3+ years of experience in data engineering, platform development, or cloud data integration.\n• Strong proficiency in SQL, Python/Scala, and ETL frameworks.\n• Hands-on experience with cloud data platforms (BigQuery, Snowflake, Databricks, AWS S3, etc.).\n• Familiarity with API development and integration (REST, GraphQL).\n• Experience in agile, DevOps, and CI/CD pipelines for data engineering.\n• Strong problem-solving and analytical skills, with the ability to handle complex datasets.\n____________________________________________________\n[Nice-to-Have]\n• Exposure to ESG data and sustainability metrics.\n• Familiarity with data security, encryption, and compliance in enterprise IT environments.\n• Experience with data integration and quality tools across no-code, low-code platforms.\n____________________________________________________\n[Soft Skills]\n•Strong collaboration and communication skills to work across technical and non-technical teams.\n• Detail-oriented, with a focus on accuracy and compliance.\n• Ability to translate business requirements into scalable data solutions."
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "其他數學及電算機科學相關",
+      "資訊工程相關"
+    ],
+    "other_text": "《Qualifications & Requirements》\n• Bachelor’s degree in Computer Science, Data Engineering, Information Systems, or related field.\n• 3+ years of experience in data engineering, platform development, or cloud data integration.\n• Strong proficiency in SQL, Python/Scala, and ETL frameworks.\n• Hands-on experience with cloud data platforms (BigQuery, Snowflake, Databricks, AWS S3, etc.).\n• Familiarity with API development and integration (REST, GraphQL).\n• Experience in agile, DevOps, and CI/CD pipelines for data engineering.\n• Strong problem-solving and analytical skills, with the ability to handle complex datasets.\n____________________________________________________\n[Nice-to-Have]\n• Exposure to ESG data and sustainability metrics.\n• Familiarity with data security, encryption, and compliance in enterprise IT environments.\n• Experience with data integration and quality tools across no-code, low-code platforms.\n____________________________________________________\n[Soft Skills]\n•Strong collaboration and communication skills to work across technical and non-technical teams.\n• Detail-oriented, with a focus on accuracy and compliance.\n• Ability to translate business requirements into scalable data solutions.",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：其他數學及電算機科學相關、資訊工程相關\n擅長工具：Python、MS SQL\n其他條件：《Qualifications & Requirements》\n• Bachelor’s degree in Computer Science, Data Engineering, Information Systems, or related field.\n• 3+ years of experience in data engineering, platform development, or cloud data integration.\n• Strong proficiency in SQL, Python/Scala, and ETL frameworks.\n• Hands-on experience with cloud data platforms (BigQuery, Snowflake, Databricks, AWS S3, etc.).\n• Familiarity with API development and integration (REST, GraphQL).\n• Experience in agile, DevOps, and CI/CD pipelines for data engineering.\n• Strong problem-solving and analytical skills, with the ability to handle complex datasets.\n____________________________________________________\n[Nice-to-Have]\n• Exposure to ESG data and sustainability metrics.\n• Familiarity with data security, encryption, and compliance in enterprise IT environments.\n• Experience with data integration and quality tools across no-code, low-code platforms.\n____________________________________________________\n[Soft Skills]\n•Strong collaboration and communication skills to work across technical and non-technical teams.\n• Detail-oriented, with a focus on accuracy and compliance.\n• Ability to translate business requirements into scalable data solutions.",
+    "tools": [
+      "Python",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 81
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:42:38+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "<Role Summary>\nYour job is to turn requirements into digital services that can be deployed. We are looking for an engineer who can build AI features and put them into products, and who can independently own an AI feature across its full lifecycle, from design and development through to launch.\nYou will work closely with the product team to translate business needs into usable AI applications, and use modern AI development tools to accelerate delivery. This is a hands-on, fast-iterating role where you can see your work reach real users directly.\n<Key Responsibilities>\n1. AI Feature Development & Delivery\n• Own AI features end to end, from requirements and design to launch and operations.\n• Integrate LLM APIs and services (RAG, vector databases, agent workflows) to build generative AI applications: chatbots, knowledge-base Q&A, document summarization, report generation.\n• Work with the product team to turn business pain points into AI solutions that solve real user problems.\n• Design prompts and data flows, balancing output quality, stability, and cost.\n• Write clear technical documentation so the team can maintain and extend each feature.\n2. Accelerating Development with AI Tools\n• Use AI coding tools daily to improve delivery speed and quality.\n• Help build the team’s AI development practices and share useful workflows.\n• Stay curious about new AI tools, trying them out and assessing their practical value.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號(內湖)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "<Role Summary>\nYour job is to turn requirements into digital services that can be deployed. We are looking for an engineer who can build AI features and put them into products, and who can independently own an AI feature across its full lifecycle, from design and development through to launch.\nYou will work closely with the product team to translate business needs into usable AI applications, and use modern AI development tools to accelerate delivery. This is a hands-on, fast-iterating role where you can see your work reach real users directly.\n<Key Responsibilities>\n1. AI Feature Development & Delivery\n• Own AI features end to end, from requirements and design to launch and operations.\n• Integrate LLM APIs and services (RAG, vector databases, agent workflows) to build generative AI applications: chatbots, knowledge-base Q&A, document summarization, report generation.\n• Work with the product team to turn business pain points into AI solutions that solve real user problems.\n• Design prompts and data flows, balancing output quality, stability, and cost.\n• Write clear technical documentation so the team can maintain and extend each feature.\n2. Accelerating Development with AI Tools\n• Use AI coding tools daily to improve delivery speed and quality.\n• Help build the team’s AI development practices and share useful workflows.\n• Stay curious about new AI tools, trying them out and assessing their practical value."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "其他數學及電算機科學相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "其他數學及電算機科學相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "Python、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "《Qualifications & Requirements》\n• Bachelor’s degree in Computer Science, Data Engineering, Information Systems, or related field.\n• 3+ years of experience in data engineering, platform development, or cloud data integration.\n• Strong proficiency in SQL, Python/Scala, and ETL frameworks.\n• Hands-on experience with cloud data platforms (BigQuery, Snowflake, Databricks, AWS S3, etc.).\n• Familiarity with API development and integration (REST, GraphQL).\n• Experience in agile, DevOps, and CI/CD pipelines for data engineering.\n• Strong problem-solving and analytical skills, with the ability to handle complex datasets.\n____________________________________________________\n[Nice-to-Have]\n• Exposure to ESG data and sustainability metrics.\n• Familiarity with data security, encryption, and compliance in enterprise IT environments.\n• Experience with data integration and quality tools across no-code, low-code platforms.\n____________________________________________________\n[Soft Skills]\n•Strong collaboration and communication skills to work across technical and non-technical teams.\n• Detail-oriented, with a focus on accuracy and compliance.\n• Ability to translate business requirements into scalable data solutions.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：其他數學及電算機科學相關、資訊工程相關\n擅長工具：Python、MS SQL\n其他條件：《Qualifications & Requirements》\n• Bachelor’s degree in Computer Science, Data Engineering, Information Systems, or related field.\n• 3+ years of experience in data engineering, platform development, or cloud data integration.\n• Strong proficiency in SQL, Python/Scala, and ETL frameworks.\n• Hands-on experience with cloud data platforms (BigQuery, Snowflake, Databricks, AWS S3, etc.).\n• Familiarity with API development and integration (REST, GraphQL).\n• Experience in agile, DevOps, and CI/CD pipelines for data engineering.\n• Strong problem-solving and analytical skills, with the ability to handle complex datasets.\n____________________________________________________\n[Nice-to-Have]\n• Exposure to ESG data and sustainability metrics.\n• Familiarity with data security, encryption, and compliance in enterprise IT environments.\n• Experience with data integration and quality tools across no-code, low-code platforms.\n____________________________________________________\n[Soft Skills]\n•Strong collaboration and communication skills to work across technical and non-technical teams.\n• Detail-oriented, with a focus on accuracy and compliance.\n• Ability to translate business requirements into scalable data solutions."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "92i2w",
+    "job_url": "https://www.104.com.tw/job/92i2w",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92i2w.json",
+    "raw_sha256": "ed557886efdefe2bea5cf116c81ac986c06deec79bdb73ff7c5ad3e53df80da8",
+    "requested_url": "https://www.104.com.tw/api/jobs/92i2w"
+  }
+}

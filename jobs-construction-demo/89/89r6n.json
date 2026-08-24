@@ -1,0 +1,244 @@
+{
+  "company": {
+    "id": "1a2x6bl0mw",
+    "name": "芯喬科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "AI工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "機器視覺辨識軟件應用；"
+        },
+        {
+          "children": [],
+          "text": "將機器學習應用于計算機視覺及AOI領域；"
+        },
+        {
+          "children": [],
+          "text": "視覺程序撰寫及試機能力；"
+        },
+        {
+          "children": [],
+          "text": "光學調整能力；"
+        },
+        {
+          "children": [],
+          "text": "CCD及鏡頭組件選用能力；"
+        },
+        {
+          "children": [],
+          "text": "硬件故障維修判斷能力。"
+        }
+      ],
+      "text": "1. 機器視覺辨識軟件應用；\n2. 將機器學習應用于計算機視覺及AOI領域；\n3. 視覺程序撰寫及試機能力；\n4. 光學調整能力；\n5. CCD及鏡頭組件選用能力；\n6. 硬件故障維修判斷能力。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AOI機器視覺工程師"
+  },
+  "location": {
+    "address_raw": "台中市大雅區中清路5段109號",
+    "raw": "台中市大雅區中清路5段109號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "光電工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、光電工程相關"
+      },
+      {
+        "items": [
+          "C#",
+          "WinForm",
+          "Visual Studio",
+          "Visual C#",
+          "Visual Studio .net",
+          "PyTorch"
+        ],
+        "label": "擅長工具",
+        "text": "C#、WinForm、Visual Studio、Visual C#、Visual Studio .net、PyTorch"
+      },
+      {
+        "items": [
+          "演算法設計",
+          "軟體程式設計",
+          "系統架構規劃"
+        ],
+        "label": "工作技能",
+        "text": "演算法設計、軟體程式設計、系統架構規劃"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "其他條件\n1.具備良好溝通能力\n2.會使用光學鏡頭 相機\n3.學習態度佳"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "光電工程相關"
+    ],
+    "other_text": "其他條件\n1.具備良好溝通能力\n2.會使用光學鏡頭 相機\n3.學習態度佳",
+    "skills": [
+      "演算法設計",
+      "軟體程式設計",
+      "系統架構規劃"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、光電工程相關\n擅長工具：C#、WinForm、Visual Studio、Visual C#、Visual Studio .net、PyTorch\n工作技能：演算法設計、軟體程式設計、系統架構規劃\n其他條件：其他條件\n1.具備良好溝通能力\n2.會使用光學鏡頭 相機\n3.學習態度佳",
+    "tools": [
+      "C#",
+      "WinForm",
+      "Visual Studio",
+      "Visual C#",
+      "Visual Studio .net",
+      "PyTorch"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 35
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:47:31+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 機器視覺辨識軟件應用；\n2. 將機器學習應用于計算機視覺及AOI領域；\n3. 視覺程序撰寫及試機能力；\n4. 光學調整能力；\n5. CCD及鏡頭組件選用能力；\n6. 硬件故障維修判斷能力。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "AI工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、AI工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市大雅區中清路5段109號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 機器視覺辨識軟件應用；\n2. 將機器學習應用于計算機視覺及AOI領域；\n3. 視覺程序撰寫及試機能力；\n4. 光學調整能力；\n5. CCD及鏡頭組件選用能力；\n6. 硬件故障維修判斷能力。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "光電工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、光電工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "WinForm",
+            "Visual Studio",
+            "Visual C#",
+            "Visual Studio .net",
+            "PyTorch"
+          ],
+          "label": "擅長工具",
+          "text": "C#、WinForm、Visual Studio、Visual C#、Visual Studio .net、PyTorch",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "演算法設計",
+            "軟體程式設計",
+            "系統架構規劃"
+          ],
+          "label": "工作技能",
+          "text": "演算法設計、軟體程式設計、系統架構規劃",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "其他條件\n1.具備良好溝通能力\n2.會使用光學鏡頭 相機\n3.學習態度佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、光電工程相關\n擅長工具：C#、WinForm、Visual Studio、Visual C#、Visual Studio .net、PyTorch\n工作技能：演算法設計、軟體程式設計、系統架構規劃\n其他條件：其他條件\n1.具備良好溝通能力\n2.會使用光學鏡頭 相機\n3.學習態度佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "89r6n",
+    "job_url": "https://www.104.com.tw/job/89r6n",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/89r6n.json",
+    "raw_sha256": "ea1f4af7c95a1b18ae5da7eb6698e09c675442eed9582da65882f1911fb6e662",
+    "requested_url": "https://www.104.com.tw/api/jobs/89r6n"
+  }
+}

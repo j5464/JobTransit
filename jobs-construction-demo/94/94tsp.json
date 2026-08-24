@@ -1,0 +1,315 @@
+{
+  "company": {
+    "id": "10wznyfk",
+    "name": "四維創新材料股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "機器學習工程師",
+      "資料科學家",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "開發、訓練及優化 Machine Learning／Deep Learning 模型，應用於製造相關場景。"
+        },
+        {
+          "children": [],
+          "text": "處理與分析製造、設備、品質、製程及影像資料，建立可應用的 AI／ML solution。"
+        },
+        {
+          "children": [],
+          "text": "參與 Computer Vision／AOI、品質預測、異常偵測、製程優化等 AI 專案。"
+        },
+        {
+          "children": [],
+          "text": "執行資料處理、模型訓練、驗證、評估及持續優化。"
+        },
+        {
+          "children": [],
+          "text": "參與 AI Model Deployment、Inference Service、Container 及相關開發／執行環境"
+        },
+        {
+          "children": [],
+          "text": "與製程、研發、製造、品質及 IT 團隊合作，將實際需求轉化為可落地的 AI Solution。"
+        },
+        {
+          "children": [],
+          "text": "持續研究與嘗試新的 AI／ML 技術及工具，評估適合的應用方式。"
+        },
+        {
+          "children": [],
+          "text": "PyTorch／TensorFlow／scikit-learn 等 ML framework。"
+        },
+        {
+          "children": [],
+          "text": "Computer Vision／AOI／OpenCV／YOLO／MMDetection。"
+        },
+        {
+          "children": [],
+          "text": "Docker／Container／Kubernetes、Linux 開發環境。"
+        },
+        {
+          "children": [],
+          "text": "Git／CI/CD／MLOps、模型部署與監控。"
+        },
+        {
+          "children": [],
+          "text": "GCP／Vertex AI／BigQuery 等 Cloud 平台。"
+        },
+        {
+          "children": [],
+          "text": "MES／ERP／PLM 等製造資訊系統。"
+        },
+        {
+          "children": [],
+          "text": "Smart Manufacturing／Industrial AI、"
+        },
+        {
+          "children": [],
+          "text": "Quality Prediction、Anomaly Detection、 Predictive Maintenance。"
+        },
+        {
+          "children": [],
+          "text": "LLM／RAG／Generative AI。"
+        },
+        {
+          "children": [],
+          "text": "AI／ML Model Production Deployment"
+        },
+        {
+          "children": [],
+          "text": "化工、材料、製程或相關製造領域經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Python，並具備基本 Linux／IT 環境操作能力。"
+        },
+        {
+          "children": [],
+          "text": "具備 Machine Learning／Deep Learning 基礎與實作經驗，曾接觸資料處理、模型訓"
+        },
+        {
+          "children": [],
+          "text": "喜歡 Hands-on，願意實際動手處理資料、模型、程式及開發環境。"
+        },
+        {
+          "children": [],
+          "text": "對新技術保持好奇，遇到不熟悉的問題能主動研究、嘗試與 Troubleshooting，"
+        },
+        {
+          "children": [],
+          "text": "具備英文技術文件基本閱讀能力。"
+        }
+      ],
+      "text": "【職務介紹】\n我們正在尋找對 AI / Machine Learning 有熱忱、喜歡動手實作與解決問題的夥伴，加入\nAI／數位轉型團隊。\n您將參與 AI 專案從資料處理、模型開發與驗證，到部署及實際應用的完整流程，並與製\n程、研發、製造、\n品質及 IT 團隊合作，將 AI 技術應用於品質檢測、製程分析、異常偵測及智慧製造。\n我們重視實作能力與成長潛力，不以年資作為唯一標準。\n具備良好的 Python、 Linux/ IT 基礎及 AI 實作經驗，願意嘗試新技術並持續學習者，歡\n迎加入。\n【工作內容】\n• 開發、訓練及優化 Machine Learning／Deep Learning 模型，應用於製造相關場景。\n• 處理與分析製造、設備、品質、製程及影像資料，建立可應用的 AI／ML solution。\n• 參與 Computer Vision／AOI、品質預測、異常偵測、製程優化等 AI 專案。\n• 執行資料處理、模型訓練、驗證、評估及持續優化。\n• 參與 AI Model Deployment、Inference Service、Container 及相關開發／執行環境\n建置與維護。\n• 與製程、研發、製造、品質及 IT 團隊合作，將實際需求轉化為可落地的 AI Solution。\n• 持續研究與嘗試新的 AI／ML 技術及工具，評估適合的應用方式。\n【具備以下經驗更加分】\n以下為加分條件，不需要全部具備：\n• PyTorch／TensorFlow／scikit-learn 等 ML framework。\n• Computer Vision／AOI／OpenCV／YOLO／MMDetection。\n• Docker／Container／Kubernetes、Linux 開發環境。\n• Git／CI/CD／MLOps、模型部署與監控。\n• GCP／Vertex AI／BigQuery 等 Cloud 平台。\n• MES／ERP／PLM 等製造資訊系統。\n• Smart Manufacturing／Industrial AI、\n• Quality Prediction、Anomaly Detection、 Predictive Maintenance。\n• LLM／RAG／Generative AI。\n• AI／ML Model Production Deployment\n• 化工、材料、製程或相關製造領域經驗。\n【我們期待這樣的您】\n我們重視的不只是年資，更看重實作能力、學習力與解決問題的熱忱。\n具 1 年以上 AI／Machine Learning／Deep Learning／Data Science 相關工作或專案經\n驗，或研究所論文、專題或研究專案曾實際運用 AI／ML 完成模型開發與實作，也非常歡\n迎投遞。\n•熟悉 Python，並具備基本 Linux／IT 環境操作能力。\n•具備 Machine Learning／Deep Learning 基礎與實作經驗，曾接觸資料處理、模型訓\n練、驗證或 AI 應用。\n•喜歡 Hands-on，願意實際動手處理資料、模型、程式及開發環境。\n•對新技術保持好奇，遇到不熟悉的問題能主動研究、嘗試與 Troubleshooting，\n從實作中持續學習與改善。\n•具備英文技術文件基本閱讀能力。\n只要您具備 AI／程式基礎、實際做過專案，並保持對新技術的好奇與學習熱忱，我們期待與您一起把 AI 想法轉化為真正落地的應用。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI / Machine Learning Engineer 機器學習工程師"
+  },
+  "location": {
+    "address_raw": "新北市三重區五谷里光復路一段83巷1號1樓 (距捷運先嗇宮站約440公尺)",
+    "raw": "新北市三重區五谷里光復路一段83巷1號1樓 (距捷運先嗇宮站約440公尺)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關",
+          "化學工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關、化學工程相關"
+      },
+      {
+        "items": [
+          "Python",
+          "Linux",
+          "PyTorch",
+          "Git",
+          "tensorflow"
+        ],
+        "label": "擅長工具",
+        "text": "Python、Linux、PyTorch、Git、tensorflow"
+      },
+      {
+        "items": [
+          "機器學習",
+          "Machine Learning",
+          "人工智慧",
+          "演算法設計"
+        ],
+        "label": "工作技能",
+        "text": "機器學習、Machine Learning、人工智慧、演算法設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "•對 AI / Machine Learning 技術具高度興趣，願意持續學習及嘗試新工具。\n•具良好邏輯分析能力，能從實驗結果中找出問題並持續優化。\n•具 1 年以上相關實務經驗者佳；若工作年資未滿 1 年，但研究所論文／專題曾實際運用 AI\n/ ML 並完成專案實作者，亦歡迎應徵。\n•不要求所有加分技術皆具備；具備良好 Python、Linux / IT 基礎及 AI 實作能力，且具快速\n學習與成長潛力者，亦納入評估。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關",
+      "化學工程相關"
+    ],
+    "other_text": "•對 AI / Machine Learning 技術具高度興趣，願意持續學習及嘗試新工具。\n•具良好邏輯分析能力，能從實驗結果中找出問題並持續優化。\n•具 1 年以上相關實務經驗者佳；若工作年資未滿 1 年，但研究所論文／專題曾實際運用 AI\n/ ML 並完成專案實作者，亦歡迎應徵。\n•不要求所有加分技術皆具備；具備良好 Python、Linux / IT 基礎及 AI 實作能力，且具快速\n學習與成長潛力者，亦納入評估。",
+    "skills": [
+      "機器學習",
+      "Machine Learning",
+      "人工智慧",
+      "演算法設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、化學工程相關\n擅長工具：Python、Linux、PyTorch、Git、tensorflow\n工作技能：機器學習、Machine Learning、人工智慧、演算法設計\n其他條件：•對 AI / Machine Learning 技術具高度興趣，願意持續學習及嘗試新工具。\n•具良好邏輯分析能力，能從實驗結果中找出問題並持續優化。\n•具 1 年以上相關實務經驗者佳；若工作年資未滿 1 年，但研究所論文／專題曾實際運用 AI\n/ ML 並完成專案實作者，亦歡迎應徵。\n•不要求所有加分技術皆具備；具備良好 Python、Linux / IT 基礎及 AI 實作能力，且具快速\n學習與成長潛力者，亦納入評估。",
+    "tools": [
+      "Python",
+      "Linux",
+      "PyTorch",
+      "Git",
+      "tensorflow"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 6
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:35:47+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職務介紹】\n我們正在尋找對 AI / Machine Learning 有熱忱、喜歡動手實作與解決問題的夥伴，加入\nAI／數位轉型團隊。\n您將參與 AI 專案從資料處理、模型開發與驗證，到部署及實際應用的完整流程，並與製\n程、研發、製造、\n品質及 IT 團隊合作，將 AI 技術應用於品質檢測、製程分析、異常偵測及智慧製造。\n我們重視實作能力與成長潛力，不以年資作為唯一標準。\n具備良好的 Python、 Linux/ IT 基礎及 AI 實作經驗，願意嘗試新技術並持續學習者，歡\n迎加入。\n【工作內容】\n• 開發、訓練及優化 Machine Learning／Deep Learning 模型，應用於製造相關場景。\n• 處理與分析製造、設備、品質、製程及影像資料，建立可應用的 AI／ML solution。\n• 參與 Computer Vision／AOI、品質預測、異常偵測、製程優化等 AI 專案。\n• 執行資料處理、模型訓練、驗證、評估及持續優化。\n• 參與 AI Model Deployment、Inference Service、Container 及相關開發／執行環境\n建置與維護。\n• 與製程、研發、製造、品質及 IT 團隊合作，將實際需求轉化為可落地的 AI Solution。\n• 持續研究與嘗試新的 AI／ML 技術及工具，評估適合的應用方式。\n【具備以下經驗更加分】\n以下為加分條件，不需要全部具備：\n• PyTorch／TensorFlow／scikit-learn 等 ML framework。\n• Computer Vision／AOI／OpenCV／YOLO／MMDetection。\n• Docker／Container／Kubernetes、Linux 開發環境。\n• Git／CI/CD／MLOps、模型部署與監控。\n• GCP／Vertex AI／BigQuery 等 Cloud 平台。\n• MES／ERP／PLM 等製造資訊系統。\n• Smart Manufacturing／Industrial AI、\n• Quality Prediction、Anomaly Detection、 Predictive Maintenance。\n• LLM／RAG／Generative AI。\n• AI／ML Model Production Deployment\n• 化工、材料、製程或相關製造領域經驗。\n【我們期待這樣的您】\n我們重視的不只是年資，更看重實作能力、學習力與解決問題的熱忱。\n具 1 年以上 AI／Machine Learning／Deep Learning／Data Science 相關工作或專案經\n驗，或研究所論文、專題或研究專案曾實際運用 AI／ML 完成模型開發與實作，也非常歡\n迎投遞。\n•熟悉 Python，並具備基本 Linux／IT 環境操作能力。\n•具備 Machine Learning／Deep Learning 基礎與實作經驗，曾接觸資料處理、模型訓\n練、驗證或 AI 應用。\n•喜歡 Hands-on，願意實際動手處理資料、模型、程式及開發環境。\n•對新技術保持好奇，遇到不熟悉的問題能主動研究、嘗試與 Troubleshooting，\n從實作中持續學習與改善。\n•具備英文技術文件基本閱讀能力。\n只要您具備 AI／程式基礎、實際做過專案，並保持對新技術的好奇與學習熱忱，我們期待與您一起把 AI 想法轉化為真正落地的應用。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "機器學習工程師",
+            "資料科學家",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "機器學習工程師、資料科學家、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市三重區五谷里光復路一段83巷1號1樓 (距捷運先嗇宮站約440公尺)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職務介紹】\n我們正在尋找對 AI / Machine Learning 有熱忱、喜歡動手實作與解決問題的夥伴，加入\nAI／數位轉型團隊。\n您將參與 AI 專案從資料處理、模型開發與驗證，到部署及實際應用的完整流程，並與製\n程、研發、製造、\n品質及 IT 團隊合作，將 AI 技術應用於品質檢測、製程分析、異常偵測及智慧製造。\n我們重視實作能力與成長潛力，不以年資作為唯一標準。\n具備良好的 Python、 Linux/ IT 基礎及 AI 實作經驗，願意嘗試新技術並持續學習者，歡\n迎加入。\n【工作內容】\n• 開發、訓練及優化 Machine Learning／Deep Learning 模型，應用於製造相關場景。\n• 處理與分析製造、設備、品質、製程及影像資料，建立可應用的 AI／ML solution。\n• 參與 Computer Vision／AOI、品質預測、異常偵測、製程優化等 AI 專案。\n• 執行資料處理、模型訓練、驗證、評估及持續優化。\n• 參與 AI Model Deployment、Inference Service、Container 及相關開發／執行環境\n建置與維護。\n• 與製程、研發、製造、品質及 IT 團隊合作，將實際需求轉化為可落地的 AI Solution。\n• 持續研究與嘗試新的 AI／ML 技術及工具，評估適合的應用方式。\n【具備以下經驗更加分】\n以下為加分條件，不需要全部具備：\n• PyTorch／TensorFlow／scikit-learn 等 ML framework。\n• Computer Vision／AOI／OpenCV／YOLO／MMDetection。\n• Docker／Container／Kubernetes、Linux 開發環境。\n• Git／CI/CD／MLOps、模型部署與監控。\n• GCP／Vertex AI／BigQuery 等 Cloud 平台。\n• MES／ERP／PLM 等製造資訊系統。\n• Smart Manufacturing／Industrial AI、\n• Quality Prediction、Anomaly Detection、 Predictive Maintenance。\n• LLM／RAG／Generative AI。\n• AI／ML Model Production Deployment\n• 化工、材料、製程或相關製造領域經驗。\n【我們期待這樣的您】\n我們重視的不只是年資，更看重實作能力、學習力與解決問題的熱忱。\n具 1 年以上 AI／Machine Learning／Deep Learning／Data Science 相關工作或專案經\n驗，或研究所論文、專題或研究專案曾實際運用 AI／ML 完成模型開發與實作，也非常歡\n迎投遞。\n•熟悉 Python，並具備基本 Linux／IT 環境操作能力。\n•具備 Machine Learning／Deep Learning 基礎與實作經驗，曾接觸資料處理、模型訓\n練、驗證或 AI 應用。\n•喜歡 Hands-on，願意實際動手處理資料、模型、程式及開發環境。\n•對新技術保持好奇，遇到不熟悉的問題能主動研究、嘗試與 Troubleshooting，\n從實作中持續學習與改善。\n•具備英文技術文件基本閱讀能力。\n只要您具備 AI／程式基礎、實際做過專案，並保持對新技術的好奇與學習熱忱，我們期待與您一起把 AI 想法轉化為真正落地的應用。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關",
+            "化學工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關、化學工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "Linux",
+            "PyTorch",
+            "Git",
+            "tensorflow"
+          ],
+          "label": "擅長工具",
+          "text": "Python、Linux、PyTorch、Git、tensorflow",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "機器學習",
+            "Machine Learning",
+            "人工智慧",
+            "演算法設計"
+          ],
+          "label": "工作技能",
+          "text": "機器學習、Machine Learning、人工智慧、演算法設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "•對 AI / Machine Learning 技術具高度興趣，願意持續學習及嘗試新工具。\n•具良好邏輯分析能力，能從實驗結果中找出問題並持續優化。\n•具 1 年以上相關實務經驗者佳；若工作年資未滿 1 年，但研究所論文／專題曾實際運用 AI\n/ ML 並完成專案實作者，亦歡迎應徵。\n•不要求所有加分技術皆具備；具備良好 Python、Linux / IT 基礎及 AI 實作能力，且具快速\n學習與成長潛力者，亦納入評估。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、化學工程相關\n擅長工具：Python、Linux、PyTorch、Git、tensorflow\n工作技能：機器學習、Machine Learning、人工智慧、演算法設計\n其他條件：•對 AI / Machine Learning 技術具高度興趣，願意持續學習及嘗試新工具。\n•具良好邏輯分析能力，能從實驗結果中找出問題並持續優化。\n•具 1 年以上相關實務經驗者佳；若工作年資未滿 1 年，但研究所論文／專題曾實際運用 AI\n/ ML 並完成專案實作者，亦歡迎應徵。\n•不要求所有加分技術皆具備；具備良好 Python、Linux / IT 基礎及 AI 實作能力，且具快速\n學習與成長潛力者，亦納入評估。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94tsp",
+    "job_url": "https://www.104.com.tw/job/94tsp",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94tsp.json",
+    "raw_sha256": "9fd067d0017624185d0ee99ef0c37623951770ceb1ae72d49dfa4ce755de9dab",
+    "requested_url": "https://www.104.com.tw/api/jobs/94tsp"
+  }
+}

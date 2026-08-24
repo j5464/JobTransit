@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "deesaxs",
+    "name": "宸曜科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "FAE工程師",
+      "業務支援工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "Build the agents. Learn the platform. Two skill trees, one role.\nWe are an edge AI industrial computer (IPC) provider, and we are rebuilding how technical support works — not by hiring more people to answer tickets, but by building AI agents that do the repetitive work so engineers can focus on the hard problems. This is a junior role, but not an ordinary one: you are hired to help build that agent layer, while learning the edge-AI-IPC domain that makes the agents actually useful.\nYou don't need years of FAE experience. You need to be someone who, when they see a repetitive task, wants to automate it — and who is genuinely curious about how AI runs on real hardware at the edge. We'll teach you the domain; you bring the builder's instinct.\nWhy the two skill trees matter: an AI agent is only as good as the domain knowledge behind it. A ticket-triage agent that doesn't understand what a BSP is, or why a Jetson thermal-throttles, is useless. So you'll grow both at once — writing agents AND learning the platform they reason about.\nWhat you'll do\n◆Build and maintain AI agents in our support workflow — ticket auto-classification, knowledge-base retrieval (RAG), draft-response generation, and the automated test bench that turns debugging rules into executable checks.\n◆Script against LLM APIs (Python + Anthropic / OpenAI SDK) and wire up tool-calling / MCP-style integrations that let agents act on real systems.\n◆Learn the edge AI IPC domain hands-on: what our industrial computers do, how NVIDIA Jetson / x86 edge platforms are deployed, and the common failure modes customers hit — so the agents you build reason about real problems.\n◆Continuously feed resolved cases back into the knowledge base — every fix you or the team makes becomes training signal for the agents.\n◆Sit alongside senior FAEs as they debug real customer issues, turning their judgment into agent logic and test rules.\nRequirements (no years-of-experience requirement)\n◆STEM background, or equivalent self-taught proof — side projects, maker builds, GitHub, course records all count.\n◆You already build with AI, not just chat with it — you've scripted against an LLM API, built a small agent/bot, automated something in your own workflow, or made a RAG demo. Show us. This is the one hard requirement.\n◆Basic Python and comfort with the command line / Linux.\n◆Follow-through: you finish what you start. Bring one real example of something you carried from zero to done — any field.\n◆Genuine curiosity about hardware and edge computing — you want to understand the machine, not just the software on top of it.\nNice to have\n◆Prompt engineering for structured / reliable LLM output; experience with LangChain, LlamaIndex, or agent frameworks.\n◆Hands-on hardware (Arduino / Raspberry Pi / Jetson Nano — toy-level is fine), or any embedded Linux exposure.\n◆Basic understanding of edge AI concepts: model deployment, inference, CUDA / TensorRT (even just from a course or side project).\n◆Any record of carrying responsibility: led a project, shipped something people used.\n◆Reading-level English (technical docs, code comments, customer tickets).\nWhat we offer\n◆A rare combination: you learn to build production AI agents AND gain deep edge-AI-IPC domain expertise — two of the most valuable skill trees in tech, at the same time.\n◆A complete AI toolchain and a knowledge base that compounds — you build on a working system, not a blank page.\n◆A growth path we can put in writing: contributing agents + handling L1 tickets in 3 months → owning an agent workflow + a platform specialty in 12 months → Senior AI/FAE hybrid track.\n◆One-on-one senior mentorship on both the AI side and the hardware side."
+    },
+    "employment_type_raw": "全職",
+    "title": "AI Agent FAE — Edge AI Industrial Computing"
+  },
+  "location": {
+    "address_raw": "新北市中和區建八路198號11樓",
+    "raw": "新北市中和區建八路198號11樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "Claude",
+          "Linux",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Claude、Linux、Python"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體整合測試",
+          "問題追蹤處理(Bug tracking)",
+          "人工智慧"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體整合測試、問題追蹤處理(Bug tracking)、人工智慧"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. Must demonstrate real AI-building work at interview — bring code, a repo, or a live demo of an agent / bot / LLM-scripted tool you made (not just ChatGPT usage)\n2. The interview includes a hands-on build task: we give you a small automation problem and an AI-tooled machine; we watch how you decompose it and wire it up\n3. Prepare one real example of something you carried from zero to done (any field — we dig into details)\n4. STEM background or equivalent self-taught proof (side projects, maker builds, GitHub — bring them)\n5. No FAE experience required; fresh graduates and career-switchers with a strong AI-building portfolio welcome"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1. Must demonstrate real AI-building work at interview — bring code, a repo, or a live demo of an agent / bot / LLM-scripted tool you made (not just ChatGPT usage)\n2. The interview includes a hands-on build task: we give you a small automation problem and an AI-tooled machine; we watch how you decompose it and wire it up\n3. Prepare one real example of something you carried from zero to done (any field — we dig into details)\n4. STEM background or equivalent self-taught proof (side projects, maker builds, GitHub — bring them)\n5. No FAE experience required; fresh graduates and career-switchers with a strong AI-building portfolio welcome",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體整合測試",
+      "問題追蹤處理(Bug tracking)",
+      "人工智慧"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Claude、Linux、Python\n工作技能：軟體工程系統開發、軟體整合測試、問題追蹤處理(Bug tracking)、人工智慧\n其他條件：1. Must demonstrate real AI-building work at interview — bring code, a repo, or a live demo of an agent / bot / LLM-scripted tool you made (not just ChatGPT usage)\n2. The interview includes a hands-on build task: we give you a small automation problem and an AI-tooled machine; we watch how you decompose it and wire it up\n3. Prepare one real example of something you carried from zero to done (any field — we dig into details)\n4. STEM background or equivalent self-taught proof (side projects, maker builds, GitHub — bring them)\n5. No FAE experience required; fresh graduates and career-switchers with a strong AI-building portfolio welcome",
+    "tools": [
+      "Claude",
+      "Linux",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 80
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:38:16+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Build the agents. Learn the platform. Two skill trees, one role.\nWe are an edge AI industrial computer (IPC) provider, and we are rebuilding how technical support works — not by hiring more people to answer tickets, but by building AI agents that do the repetitive work so engineers can focus on the hard problems. This is a junior role, but not an ordinary one: you are hired to help build that agent layer, while learning the edge-AI-IPC domain that makes the agents actually useful.\nYou don't need years of FAE experience. You need to be someone who, when they see a repetitive task, wants to automate it — and who is genuinely curious about how AI runs on real hardware at the edge. We'll teach you the domain; you bring the builder's instinct.\nWhy the two skill trees matter: an AI agent is only as good as the domain knowledge behind it. A ticket-triage agent that doesn't understand what a BSP is, or why a Jetson thermal-throttles, is useless. So you'll grow both at once — writing agents AND learning the platform they reason about.\nWhat you'll do\n◆Build and maintain AI agents in our support workflow — ticket auto-classification, knowledge-base retrieval (RAG), draft-response generation, and the automated test bench that turns debugging rules into executable checks.\n◆Script against LLM APIs (Python + Anthropic / OpenAI SDK) and wire up tool-calling / MCP-style integrations that let agents act on real systems.\n◆Learn the edge AI IPC domain hands-on: what our industrial computers do, how NVIDIA Jetson / x86 edge platforms are deployed, and the common failure modes customers hit — so the agents you build reason about real problems.\n◆Continuously feed resolved cases back into the knowledge base — every fix you or the team makes becomes training signal for the agents.\n◆Sit alongside senior FAEs as they debug real customer issues, turning their judgment into agent logic and test rules.\nRequirements (no years-of-experience requirement)\n◆STEM background, or equivalent self-taught proof — side projects, maker builds, GitHub, course records all count.\n◆You already build with AI, not just chat with it — you've scripted against an LLM API, built a small agent/bot, automated something in your own workflow, or made a RAG demo. Show us. This is the one hard requirement.\n◆Basic Python and comfort with the command line / Linux.\n◆Follow-through: you finish what you start. Bring one real example of something you carried from zero to done — any field.\n◆Genuine curiosity about hardware and edge computing — you want to understand the machine, not just the software on top of it.\nNice to have\n◆Prompt engineering for structured / reliable LLM output; experience with LangChain, LlamaIndex, or agent frameworks.\n◆Hands-on hardware (Arduino / Raspberry Pi / Jetson Nano — toy-level is fine), or any embedded Linux exposure.\n◆Basic understanding of edge AI concepts: model deployment, inference, CUDA / TensorRT (even just from a course or side project).\n◆Any record of carrying responsibility: led a project, shipped something people used.\n◆Reading-level English (technical docs, code comments, customer tickets).\nWhat we offer\n◆A rare combination: you learn to build production AI agents AND gain deep edge-AI-IPC domain expertise — two of the most valuable skill trees in tech, at the same time.\n◆A complete AI toolchain and a knowledge base that compounds — you build on a working system, not a blank page.\n◆A growth path we can put in writing: contributing agents + handling L1 tickets in 3 months → owning an agent workflow + a platform specialty in 12 months → Senior AI/FAE hybrid track.\n◆One-on-one senior mentorship on both the AI side and the hardware side.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "FAE工程師",
+            "業務支援工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "FAE工程師、業務支援工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市中和區建八路198號11樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Build the agents. Learn the platform. Two skill trees, one role.\nWe are an edge AI industrial computer (IPC) provider, and we are rebuilding how technical support works — not by hiring more people to answer tickets, but by building AI agents that do the repetitive work so engineers can focus on the hard problems. This is a junior role, but not an ordinary one: you are hired to help build that agent layer, while learning the edge-AI-IPC domain that makes the agents actually useful.\nYou don't need years of FAE experience. You need to be someone who, when they see a repetitive task, wants to automate it — and who is genuinely curious about how AI runs on real hardware at the edge. We'll teach you the domain; you bring the builder's instinct.\nWhy the two skill trees matter: an AI agent is only as good as the domain knowledge behind it. A ticket-triage agent that doesn't understand what a BSP is, or why a Jetson thermal-throttles, is useless. So you'll grow both at once — writing agents AND learning the platform they reason about.\nWhat you'll do\n◆Build and maintain AI agents in our support workflow — ticket auto-classification, knowledge-base retrieval (RAG), draft-response generation, and the automated test bench that turns debugging rules into executable checks.\n◆Script against LLM APIs (Python + Anthropic / OpenAI SDK) and wire up tool-calling / MCP-style integrations that let agents act on real systems.\n◆Learn the edge AI IPC domain hands-on: what our industrial computers do, how NVIDIA Jetson / x86 edge platforms are deployed, and the common failure modes customers hit — so the agents you build reason about real problems.\n◆Continuously feed resolved cases back into the knowledge base — every fix you or the team makes becomes training signal for the agents.\n◆Sit alongside senior FAEs as they debug real customer issues, turning their judgment into agent logic and test rules.\nRequirements (no years-of-experience requirement)\n◆STEM background, or equivalent self-taught proof — side projects, maker builds, GitHub, course records all count.\n◆You already build with AI, not just chat with it — you've scripted against an LLM API, built a small agent/bot, automated something in your own workflow, or made a RAG demo. Show us. This is the one hard requirement.\n◆Basic Python and comfort with the command line / Linux.\n◆Follow-through: you finish what you start. Bring one real example of something you carried from zero to done — any field.\n◆Genuine curiosity about hardware and edge computing — you want to understand the machine, not just the software on top of it.\nNice to have\n◆Prompt engineering for structured / reliable LLM output; experience with LangChain, LlamaIndex, or agent frameworks.\n◆Hands-on hardware (Arduino / Raspberry Pi / Jetson Nano — toy-level is fine), or any embedded Linux exposure.\n◆Basic understanding of edge AI concepts: model deployment, inference, CUDA / TensorRT (even just from a course or side project).\n◆Any record of carrying responsibility: led a project, shipped something people used.\n◆Reading-level English (technical docs, code comments, customer tickets).\nWhat we offer\n◆A rare combination: you learn to build production AI agents AND gain deep edge-AI-IPC domain expertise — two of the most valuable skill trees in tech, at the same time.\n◆A complete AI toolchain and a knowledge base that compounds — you build on a working system, not a blank page.\n◆A growth path we can put in writing: contributing agents + handling L1 tickets in 3 months → owning an agent workflow + a platform specialty in 12 months → Senior AI/FAE hybrid track.\n◆One-on-one senior mentorship on both the AI side and the hardware side."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Claude",
+            "Linux",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Claude、Linux、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體整合測試",
+            "問題追蹤處理(Bug tracking)",
+            "人工智慧"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體整合測試、問題追蹤處理(Bug tracking)、人工智慧",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. Must demonstrate real AI-building work at interview — bring code, a repo, or a live demo of an agent / bot / LLM-scripted tool you made (not just ChatGPT usage)\n2. The interview includes a hands-on build task: we give you a small automation problem and an AI-tooled machine; we watch how you decompose it and wire it up\n3. Prepare one real example of something you carried from zero to done (any field — we dig into details)\n4. STEM background or equivalent self-taught proof (side projects, maker builds, GitHub — bring them)\n5. No FAE experience required; fresh graduates and career-switchers with a strong AI-building portfolio welcome",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：Claude、Linux、Python\n工作技能：軟體工程系統開發、軟體整合測試、問題追蹤處理(Bug tracking)、人工智慧\n其他條件：1. Must demonstrate real AI-building work at interview — bring code, a repo, or a live demo of an agent / bot / LLM-scripted tool you made (not just ChatGPT usage)\n2. The interview includes a hands-on build task: we give you a small automation problem and an AI-tooled machine; we watch how you decompose it and wire it up\n3. Prepare one real example of something you carried from zero to done (any field — we dig into details)\n4. STEM background or equivalent self-taught proof (side projects, maker builds, GitHub — bring them)\n5. No FAE experience required; fresh graduates and career-switchers with a strong AI-building portfolio welcome"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "93u52",
+    "job_url": "https://www.104.com.tw/job/93u52",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93u52.json",
+    "raw_sha256": "ebf1a563da0d3e1084b52b5c1bf119199b724fb60f408e2db2dde8b6146ca6e2",
+    "requested_url": "https://www.104.com.tw/api/jobs/93u52"
+  }
+}

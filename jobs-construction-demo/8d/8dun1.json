@@ -1,0 +1,244 @@
+{
+  "company": {
+    "id": "1a2x6bkpae",
+    "name": "鉅怡智慧股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop and improve the core algorithms, including adaptive filtering, learning-based filtering, etc."
+        },
+        {
+          "children": [],
+          "text": "Develop algorithms for healthcare applications."
+        },
+        {
+          "children": [],
+          "text": "Design and implement comprehensive experiments and evaluation metrics for ablation study to carefully validate the performance and limitations of the software."
+        },
+        {
+          "children": [],
+          "text": "Employ machine learning and statistical techniques to refine the boundary conditions of the software."
+        },
+        {
+          "children": [],
+          "text": "Write formal technical documents for certification."
+        },
+        {
+          "children": [],
+          "text": "MS or Ph.D. in Computer Science, Electrical Engineering, etc, or having equivalent experience."
+        },
+        {
+          "children": [],
+          "text": "Excellent knowledge of fundamental theory and practice of digital signal processing, pattern recognition and statistical analysis."
+        },
+        {
+          "children": [],
+          "text": "Excellent English writing skills."
+        },
+        {
+          "children": [],
+          "text": "Excellent communication skills."
+        },
+        {
+          "children": [],
+          "text": "Excellent programming skills in Python and C/C++."
+        },
+        {
+          "children": [],
+          "text": "Experience with image processing and computer vision."
+        },
+        {
+          "children": [],
+          "text": "Experience with multi-thread programming is a plus."
+        },
+        {
+          "children": [],
+          "text": "Be familiar with version control tool (Git/GitLab)."
+        }
+      ],
+      "text": "About the job:\nWe are seeking a strong technical machine learning engineer to develop advanced algorithms for healthcare applications. FaceHeart aims to improve the reliability of non-contact physiological signal sensing and diagnosis and to achieve medical level precision.\nWhat you will be doing:\n- Develop and improve the core algorithms, including adaptive filtering, learning-based filtering, etc.\n- Develop algorithms for healthcare applications.\n- Design and implement comprehensive experiments and evaluation metrics for ablation study to carefully validate the performance and limitations of the software.\n- Employ machine learning and statistical techniques to refine the boundary conditions of the software.\n- Write formal technical documents for certification.\nWhat we need to see:\n- MS or Ph.D. in Computer Science, Electrical Engineering, etc, or having equivalent experience.\n- Excellent knowledge of fundamental theory and practice of digital signal processing, pattern recognition and statistical analysis.\n- Excellent English writing skills.\n- Excellent communication skills.\n- Excellent programming skills in Python and C/C++.\nWay to stand out from the crowd:\n- Experience with image processing and computer vision.\n- Experience with multi-thread programming is a plus.\n- Be familiar with version control tool (Git/GitLab)."
+    },
+    "employment_type_raw": "全職",
+    "title": "Machine Learning and Signal Processing Engineer (機器學習與訊號處理工程師)"
+  },
+  "location": {
+    "address_raw": "台北市大安區信義路四段6號17樓之12",
+    "raw": "台北市大安區信義路四段6號17樓之12"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "Github",
+          "Git",
+          "C",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Github、Git、C、C++、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Way to stand out from the crowd:\n- Experience with digital signal processing.\n- Be familiar with version control tool (Git/GitLab)\n- Experience with multi-thread programming is a plus."
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "Way to stand out from the crowd:\n- Experience with digital signal processing.\n- Be familiar with version control tool (Git/GitLab)\n- Experience with multi-thread programming is a plus.",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關\n擅長工具：Github、Git、C、C++、Python\n其他條件：Way to stand out from the crowd:\n- Experience with digital signal processing.\n- Be familiar with version control tool (Git/GitLab)\n- Experience with multi-thread programming is a plus.",
+    "tools": [
+      "Github",
+      "Git",
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 69
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:12:17+08:00"
+  },
+  "salary": {
+    "raw": "月薪80,000~200,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "About the job:\nWe are seeking a strong technical machine learning engineer to develop advanced algorithms for healthcare applications. FaceHeart aims to improve the reliability of non-contact physiological signal sensing and diagnosis and to achieve medical level precision.\nWhat you will be doing:\n- Develop and improve the core algorithms, including adaptive filtering, learning-based filtering, etc.\n- Develop algorithms for healthcare applications.\n- Design and implement comprehensive experiments and evaluation metrics for ablation study to carefully validate the performance and limitations of the software.\n- Employ machine learning and statistical techniques to refine the boundary conditions of the software.\n- Write formal technical documents for certification.\nWhat we need to see:\n- MS or Ph.D. in Computer Science, Electrical Engineering, etc, or having equivalent experience.\n- Excellent knowledge of fundamental theory and practice of digital signal processing, pattern recognition and statistical analysis.\n- Excellent English writing skills.\n- Excellent communication skills.\n- Excellent programming skills in Python and C/C++.\nWay to stand out from the crowd:\n- Experience with image processing and computer vision.\n- Experience with multi-thread programming is a plus.\n- Be familiar with version control tool (Git/GitLab).",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪80,000~200,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區信義路四段6號17樓之12",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "About the job:\nWe are seeking a strong technical machine learning engineer to develop advanced algorithms for healthcare applications. FaceHeart aims to improve the reliability of non-contact physiological signal sensing and diagnosis and to achieve medical level precision.\nWhat you will be doing:\n- Develop and improve the core algorithms, including adaptive filtering, learning-based filtering, etc.\n- Develop algorithms for healthcare applications.\n- Design and implement comprehensive experiments and evaluation metrics for ablation study to carefully validate the performance and limitations of the software.\n- Employ machine learning and statistical techniques to refine the boundary conditions of the software.\n- Write formal technical documents for certification.\nWhat we need to see:\n- MS or Ph.D. in Computer Science, Electrical Engineering, etc, or having equivalent experience.\n- Excellent knowledge of fundamental theory and practice of digital signal processing, pattern recognition and statistical analysis.\n- Excellent English writing skills.\n- Excellent communication skills.\n- Excellent programming skills in Python and C/C++.\nWay to stand out from the crowd:\n- Experience with image processing and computer vision.\n- Experience with multi-thread programming is a plus.\n- Be familiar with version control tool (Git/GitLab)."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Github",
+            "Git",
+            "C",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Github、Git、C、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Way to stand out from the crowd:\n- Experience with digital signal processing.\n- Be familiar with version control tool (Git/GitLab)\n- Experience with multi-thread programming is a plus.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、電機電子工程相關\n擅長工具：Github、Git、C、C++、Python\n其他條件：Way to stand out from the crowd:\n- Experience with digital signal processing.\n- Be familiar with version control tool (Git/GitLab)\n- Experience with multi-thread programming is a plus."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8dun1",
+    "job_url": "https://www.104.com.tw/job/8dun1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8dun1.json",
+    "raw_sha256": "6c0661816ef641a6d702eb0521dcbf61f211772181ce43f52d615f5af20b3765",
+    "requested_url": "https://www.104.com.tw/api/jobs/8dun1"
+  }
+}

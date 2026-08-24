@@ -1,0 +1,290 @@
+{
+  "company": {
+    "id": "hi37saw",
+    "name": "日商 花王(台灣)股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "營運管理師／系統整合／ERP專案師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "使用S/4 Hana，並配合生產、採購、物流、業務等部門需求，開發適用之系統，以優化作業。"
+        },
+        {
+          "children": [],
+          "text": "從前端網頁到後端資料庫建置，管理與維護公司內部系統(帳務系統、業務系統...等)"
+        },
+        {
+          "children": [],
+          "text": "使用 VBA 開發各部門需求表單"
+        },
+        {
+          "children": [],
+          "text": "與日本母公司及其他海外分公司交流業務"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項"
+        },
+        {
+          "children": [],
+          "text": "熟悉程式撰寫、資料庫連接，具備C#、Javascript、VBA能力"
+        },
+        {
+          "children": [],
+          "text": "具備網頁設計經驗"
+        },
+        {
+          "children": [],
+          "text": "英文書信往來流利，口說佳"
+        },
+        {
+          "children": [],
+          "text": "SAP經驗，S/4 Hana尤佳"
+        },
+        {
+          "children": [],
+          "text": "具備程式開發經驗尤佳"
+        },
+        {
+          "children": [],
+          "text": "邏輯清晰有條理，能快速統整歸納。"
+        },
+        {
+          "children": [],
+          "text": "具備問題分析與解決能力。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的跨部門溝通技巧與態度。"
+        },
+        {
+          "children": [],
+          "text": "樂意持續精進，學習新的語言或技術。(公司定期安排外訓機會)"
+        }
+      ],
+      "text": "【職務內容】\n1.使用S/4 Hana，並配合生產、採購、物流、業務等部門需求，開發適用之系統，以優化作業。\n2.從前端網頁到後端資料庫建置，管理與維護公司內部系統(帳務系統、業務系統...等)\n3.使用 VBA 開發各部門需求表單\n4.與日本母公司及其他海外分公司交流業務\n5.其他主管交辦事項\n【必備條件】\n-熟悉程式撰寫、資料庫連接，具備C#、Javascript、VBA能力\n-具備網頁設計經驗\n-英文書信往來流利，口說佳\n【加分條件】\n1.SAP經驗，S/4 Hana尤佳\n2.具備程式開發經驗尤佳\n【人才特質】\n1.邏輯清晰有條理，能快速統整歸納。\n2.具備問題分析與解決能力。\n3.具備良好的跨部門溝通技巧與態度。\n4.樂意持續精進，學習新的語言或技術。(公司定期安排外訓機會)"
+    },
+    "employment_type_raw": "全職",
+    "title": "【日商花王】.NET程式設計師 (歡迎應屆畢業生/不用on call/穩定成長)"
+  },
+  "location": {
+    "address_raw": "新北市新店區北新路三段207號10樓",
+    "raw": "新北市新店區北新路三段207號10樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關",
+          "工業工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關、工業工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "VBA",
+          "MS SQL",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、VBA、MS SQL、JavaScript"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "網路程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、網路程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.需求之技能：ASP.NET、VBA、MS SQL、MVC / Vue.js、Javascript、C#\n2026career"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關",
+      "工業工程相關"
+    ],
+    "other_text": "1.需求之技能：ASP.NET、VBA、MS SQL、MVC / Vue.js、Javascript、C#\n2026career",
+    "skills": [
+      "軟體程式設計",
+      "網路程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、工業工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、C#、VBA、MS SQL、JavaScript\n工作技能：軟體程式設計、網路程式設計\n其他條件：1.需求之技能：ASP.NET、VBA、MS SQL、MVC / Vue.js、Javascript、C#\n2026career",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "VBA",
+      "MS SQL",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 99
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:25:38+08:00"
+  },
+  "salary": {
+    "raw": "月薪42,000~50,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職務內容】\n1.使用S/4 Hana，並配合生產、採購、物流、業務等部門需求，開發適用之系統，以優化作業。\n2.從前端網頁到後端資料庫建置，管理與維護公司內部系統(帳務系統、業務系統...等)\n3.使用 VBA 開發各部門需求表單\n4.與日本母公司及其他海外分公司交流業務\n5.其他主管交辦事項\n【必備條件】\n-熟悉程式撰寫、資料庫連接，具備C#、Javascript、VBA能力\n-具備網頁設計經驗\n-英文書信往來流利，口說佳\n【加分條件】\n1.SAP經驗，S/4 Hana尤佳\n2.具備程式開發經驗尤佳\n【人才特質】\n1.邏輯清晰有條理，能快速統整歸納。\n2.具備問題分析與解決能力。\n3.具備良好的跨部門溝通技巧與態度。\n4.樂意持續精進，學習新的語言或技術。(公司定期安排外訓機會)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "營運管理師／系統整合／ERP專案師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、營運管理師／系統整合／ERP專案師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪42,000~50,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區北新路三段207號10樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職務內容】\n1.使用S/4 Hana，並配合生產、採購、物流、業務等部門需求，開發適用之系統，以優化作業。\n2.從前端網頁到後端資料庫建置，管理與維護公司內部系統(帳務系統、業務系統...等)\n3.使用 VBA 開發各部門需求表單\n4.與日本母公司及其他海外分公司交流業務\n5.其他主管交辦事項\n【必備條件】\n-熟悉程式撰寫、資料庫連接，具備C#、Javascript、VBA能力\n-具備網頁設計經驗\n-英文書信往來流利，口說佳\n【加分條件】\n1.SAP經驗，S/4 Hana尤佳\n2.具備程式開發經驗尤佳\n【人才特質】\n1.邏輯清晰有條理，能快速統整歸納。\n2.具備問題分析與解決能力。\n3.具備良好的跨部門溝通技巧與態度。\n4.樂意持續精進，學習新的語言或技術。(公司定期安排外訓機會)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關",
+            "工業工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關、工業工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "VBA",
+            "MS SQL",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、VBA、MS SQL、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "網路程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、網路程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.需求之技能：ASP.NET、VBA、MS SQL、MVC / Vue.js、Javascript、C#\n2026career",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關、工業工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、C#、VBA、MS SQL、JavaScript\n工作技能：軟體程式設計、網路程式設計\n其他條件：1.需求之技能：ASP.NET、VBA、MS SQL、MVC / Vue.js、Javascript、C#\n2026career"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "3a5k8",
+    "job_url": "https://www.104.com.tw/job/3a5k8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/3a5k8.json",
+    "raw_sha256": "da989f0cbe9f306c3b25f0fa99f09345eccbfb57b90725687f4cdf0c2841942b",
+    "requested_url": "https://www.104.com.tw/api/jobs/3a5k8"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "company": {
+    "id": "5ug8d2g",
+    "name": "上旗科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "助理工程師",
+      "工程助理",
+      "軟體助理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟電腦通訊，略有P L C程式邏輯概念基礎"
+        },
+        {
+          "children": [],
+          "text": "負責公司軟硬體設備安裝、配置、升級與日常故障排除"
+        },
+        {
+          "children": [],
+          "text": "略有美工基礎"
+        },
+        {
+          "children": [],
+          "text": "具備套裝圖控軟體撰寫、測試與優化能力"
+        },
+        {
+          "children": [],
+          "text": "現場與客戶互動系統測試、修改及運轉"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項"
+        }
+      ],
+      "text": "1.熟電腦通訊，略有P L C程式邏輯概念基礎\n2.負責公司軟硬體設備安裝、配置、升級與日常故障排除\n3.略有美工基礎\n4.具備套裝圖控軟體撰寫、測試與優化能力\n5.現場與客戶互動系統測試、修改及運轉\n6.主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "圖控工程師助理(歡迎應屆畢業生）"
+  },
+  "location": {
+    "address_raw": "彰化縣彰化市永安東街12號1-2樓",
+    "raw": "彰化縣彰化市永安東街12號1-2樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 54
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:34:57+08:00"
+  },
+  "salary": {
+    "raw": "月薪34,000~37,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.熟電腦通訊，略有P L C程式邏輯概念基礎\n2.負責公司軟硬體設備安裝、配置、升級與日常故障排除\n3.略有美工基礎\n4.具備套裝圖控軟體撰寫、測試與優化能力\n5.現場與客戶互動系統測試、修改及運轉\n6.主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "助理工程師",
+            "工程助理",
+            "軟體助理工程師"
+          ],
+          "label": "職務類別",
+          "text": "助理工程師、工程助理、軟體助理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪34,000~37,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "彰化縣彰化市永安東街12號1-2樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.熟電腦通訊，略有P L C程式邏輯概念基礎\n2.負責公司軟硬體設備安裝、配置、升級與日常故障排除\n3.略有美工基礎\n4.具備套裝圖控軟體撰寫、測試與優化能力\n5.現場與客戶互動系統測試、修改及運轉\n6.主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93euf",
+    "job_url": "https://www.104.com.tw/job/93euf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93euf.json",
+    "raw_sha256": "430293a09a86c5fa68b918d7549dde154facfd269d740701ff30f02924f6d037",
+    "requested_url": "https://www.104.com.tw/api/jobs/93euf"
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "company": {
+    "id": "1a2x6bkbiy",
+    "name": "愛爾卓資訊有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "通訊軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop and maintain Android features across AirDroid personal, enterprise, and GoInsight.AI product lines, balancing performance, battery life, UX, and security."
+        },
+        {
+          "children": [],
+          "text": "Build and iterate on GoInsight.AI's Android client — including AI chat interfaces, agent interaction flows, and workflow execution views."
+        },
+        {
+          "children": [],
+          "text": "Integrate AI development tools (Cursor, Claude, Gemini, GitHub Copilot, etc.) into daily workflows to accelerate coding, review, and refactoring."
+        },
+        {
+          "children": [],
+          "text": "Research and implement AI Agent features, including tool use, multi-step reasoning, and LLM API integration."
+        },
+        {
+          "children": [],
+          "text": "Learn and implement WebRTC protocols; trace AOSP source when needed."
+        },
+        {
+          "children": [],
+          "text": "Develop SDK APIs and write developer-facing documentation."
+        },
+        {
+          "children": [],
+          "text": "Conduct code reviews focused on quality, maintainability, and testability."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with UX, back-end engineers, and PMs to deliver reliable, well-crafted implementations."
+        },
+        {
+          "children": [],
+          "text": "Bachelor's degree or equivalent practical experience."
+        },
+        {
+          "children": [],
+          "text": "5+ years of Android application development."
+        },
+        {
+          "children": [],
+          "text": "7+ years of overall software development experience; solid grasp of data structures and algorithms."
+        },
+        {
+          "children": [],
+          "text": "Strong Kotlin skills; solid Java and Android SDK foundation."
+        },
+        {
+          "children": [],
+          "text": "Familiar with MVVM / MVP architecture patterns."
+        },
+        {
+          "children": [],
+          "text": "Experienced with Git and code review workflows."
+        },
+        {
+          "children": [],
+          "text": "Hands-on with OkHttp3, Gson, Dagger/Hilt, Coroutines/Flow; experience with Jetpack Compose is strongly preferred. ViewBinding familiarity is a plus but considered transitional."
+        },
+        {
+          "children": [],
+          "text": "Comfortable with ADB and Linux development environments."
+        },
+        {
+          "children": [],
+          "text": "Familiar with Firebase, Crashlytics, Google Analytics, and ANR analysis."
+        },
+        {
+          "children": [],
+          "text": "AI-Assisted Development: Daily use of Cursor, GitHub Copilot, Claude, Gemini, or similar tools to accelerate development and refactoring."
+        },
+        {
+          "children": [],
+          "text": "AI Agent Development: Experience designing or building AI Agent workflows — tool use, multi-step reasoning, or autonomous task execution."
+        },
+        {
+          "children": [],
+          "text": "LLM Integration: Hands-on experience integrating LLM APIs (OpenAI, Claude, Gemini, etc.) into mobile or backend applications."
+        },
+        {
+          "children": [],
+          "text": "AI Workflow Platforms: Familiarity with n8n, LangChain, GoInsight.AI, or custom agent pipelines."
+        },
+        {
+          "children": [],
+          "text": "Prompt Engineering: Ability to write effective prompts and evaluate model outputs in real development scenarios."
+        },
+        {
+          "children": [],
+          "text": "Curiosity & Initiative: Proactively explores new AI tools, experiments independently, and shares findings with the team."
+        },
+        {
+          "children": [],
+          "text": "Experience with WebRTC or real-time streaming technologies."
+        },
+        {
+          "children": [],
+          "text": "Cross-platform application development experience."
+        },
+        {
+          "children": [],
+          "text": "Prior tech lead experience — architecture decisions, mentoring, and setting team direction."
+        },
+        {
+          "children": [],
+          "text": "Familiarity with enterprise Android device management or MDM ecosystems."
+        },
+        {
+          "children": [],
+          "text": "Experience building chat UI or real-time messaging interfaces (directly relevant to GoInsight.AI Android client)."
+        }
+      ],
+      "text": "## About Sand Studio / AirDroid\nFounded in 2011, Sand Studio is a global provider of intelligent device management and enterprise AI solutions. Our flagship product, AirDroid, is trusted by over 50 million users worldwide, offering MDM, remote support, file transfer, screen mirroring, and parental control across personal and enterprise product lines.\nOur latest platform, GoInsight.AI, is an enterprise AI automation and collaboration product built on a native AI architecture — unifying multi-agent orchestration, automated workflows, and secure knowledge integration into one governed environment. This role contributes to both AirDroid's core Android products and the GoInsight.AI Android client.\n## What You Will Do\n1. Develop and maintain Android features across AirDroid personal, enterprise, and GoInsight.AI product lines, balancing performance, battery life, UX, and security.\n2. Build and iterate on GoInsight.AI's Android client — including AI chat interfaces, agent interaction flows, and workflow execution views.\n3. Integrate AI development tools (Cursor, Claude, Gemini, GitHub Copilot, etc.) into daily workflows to accelerate coding, review, and refactoring.\n4. Research and implement AI Agent features, including tool use, multi-step reasoning, and LLM API integration.\n5. Learn and implement WebRTC protocols; trace AOSP source when needed.\n6. Develop SDK APIs and write developer-facing documentation.\n7. Conduct code reviews focused on quality, maintainability, and testability.\n8. Collaborate with UX, back-end engineers, and PMs to deliver reliable, well-crafted implementations.\n## Required Skills\n1. Bachelor's degree or equivalent practical experience.\n2. 5+ years of Android application development.\n3. 7+ years of overall software development experience; solid grasp of data structures and algorithms.\n4. Strong Kotlin skills; solid Java and Android SDK foundation.\n5. Familiar with MVVM / MVP architecture patterns.\n6. Experienced with Git and code review workflows.\n7. Hands-on with OkHttp3, Gson, Dagger/Hilt, Coroutines/Flow; experience with Jetpack Compose is strongly preferred. ViewBinding familiarity is a plus but considered transitional.\n8. Comfortable with ADB and Linux development environments.\n9. Familiar with Firebase, Crashlytics, Google Analytics, and ANR analysis.\n## AI Skills — Strongly Preferred\nWe prioritize candidates who actively use AI tools in their development practice:\n1. AI-Assisted Development: Daily use of Cursor, GitHub Copilot, Claude, Gemini, or similar tools to accelerate development and refactoring.\n2. AI Agent Development: Experience designing or building AI Agent workflows — tool use, multi-step reasoning, or autonomous task execution.\n3. LLM Integration: Hands-on experience integrating LLM APIs (OpenAI, Claude, Gemini, etc.) into mobile or backend applications.\n4. AI Workflow Platforms: Familiarity with n8n, LangChain, GoInsight.AI, or custom agent pipelines.\n5. Prompt Engineering: Ability to write effective prompts and evaluate model outputs in real development scenarios.\n6. Curiosity & Initiative: Proactively explores new AI tools, experiments independently, and shares findings with the team.\n## Nice-to-Have\n1. Experience with WebRTC or real-time streaming technologies.\n2. Cross-platform application development experience.\n3. Prior tech lead experience — architecture decisions, mentoring, and setting team direction.\n4. Familiarity with enterprise Android device management or MDM ecosystems.\n5. Experience building chat UI or real-time messaging interfaces (directly relevant to GoInsight.AI Android client)."
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior Software Engineer, Android & AI Applications"
+  },
+  "location": {
+    "address_raw": "台北市中正區衡陽路51號11樓",
+    "raw": "台北市中正區衡陽路51號11樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "7年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "7年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Android",
+          "Git",
+          "C",
+          "Java",
+          "Kotlin",
+          "MySQL",
+          "HTTP",
+          "TCP/IP",
+          "Google Analytics",
+          "Firebase"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Android、Git、C、Java、Kotlin、MySQL、HTTP、TCP/IP、Google Analytics、Firebase"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：7年以上\n學歷要求：專科以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Android、Git、C、Java、Kotlin、MySQL、HTTP、TCP/IP、Google Analytics、Firebase\n工作技能：軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計",
+    "tools": [
+      "Linux",
+      "Android",
+      "Git",
+      "C",
+      "Java",
+      "Kotlin",
+      "MySQL",
+      "HTTP",
+      "TCP/IP",
+      "Google Analytics",
+      "Firebase"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 82
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:44:33+08:00"
+  },
+  "salary": {
+    "raw": "年薪1,000,000~2,000,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "## About Sand Studio / AirDroid\nFounded in 2011, Sand Studio is a global provider of intelligent device management and enterprise AI solutions. Our flagship product, AirDroid, is trusted by over 50 million users worldwide, offering MDM, remote support, file transfer, screen mirroring, and parental control across personal and enterprise product lines.\nOur latest platform, GoInsight.AI, is an enterprise AI automation and collaboration product built on a native AI architecture — unifying multi-agent orchestration, automated workflows, and secure knowledge integration into one governed environment. This role contributes to both AirDroid's core Android products and the GoInsight.AI Android client.\n## What You Will Do\n1. Develop and maintain Android features across AirDroid personal, enterprise, and GoInsight.AI product lines, balancing performance, battery life, UX, and security.\n2. Build and iterate on GoInsight.AI's Android client — including AI chat interfaces, agent interaction flows, and workflow execution views.\n3. Integrate AI development tools (Cursor, Claude, Gemini, GitHub Copilot, etc.) into daily workflows to accelerate coding, review, and refactoring.\n4. Research and implement AI Agent features, including tool use, multi-step reasoning, and LLM API integration.\n5. Learn and implement WebRTC protocols; trace AOSP source when needed.\n6. Develop SDK APIs and write developer-facing documentation.\n7. Conduct code reviews focused on quality, maintainability, and testability.\n8. Collaborate with UX, back-end engineers, and PMs to deliver reliable, well-crafted implementations.\n## Required Skills\n1. Bachelor's degree or equivalent practical experience.\n2. 5+ years of Android application development.\n3. 7+ years of overall software development experience; solid grasp of data structures and algorithms.\n4. Strong Kotlin skills; solid Java and Android SDK foundation.\n5. Familiar with MVVM / MVP architecture patterns.\n6. Experienced with Git and code review workflows.\n7. Hands-on with OkHttp3, Gson, Dagger/Hilt, Coroutines/Flow; experience with Jetpack Compose is strongly preferred. ViewBinding familiarity is a plus but considered transitional.\n8. Comfortable with ADB and Linux development environments.\n9. Familiar with Firebase, Crashlytics, Google Analytics, and ANR analysis.\n## AI Skills — Strongly Preferred\nWe prioritize candidates who actively use AI tools in their development practice:\n1. AI-Assisted Development: Daily use of Cursor, GitHub Copilot, Claude, Gemini, or similar tools to accelerate development and refactoring.\n2. AI Agent Development: Experience designing or building AI Agent workflows — tool use, multi-step reasoning, or autonomous task execution.\n3. LLM Integration: Hands-on experience integrating LLM APIs (OpenAI, Claude, Gemini, etc.) into mobile or backend applications.\n4. AI Workflow Platforms: Familiarity with n8n, LangChain, GoInsight.AI, or custom agent pipelines.\n5. Prompt Engineering: Ability to write effective prompts and evaluate model outputs in real development scenarios.\n6. Curiosity & Initiative: Proactively explores new AI tools, experiments independently, and shares findings with the team.\n## Nice-to-Have\n1. Experience with WebRTC or real-time streaming technologies.\n2. Cross-platform application development experience.\n3. Prior tech lead experience — architecture decisions, mentoring, and setting team direction.\n4. Familiarity with enterprise Android device management or MDM ecosystems.\n5. Experience building chat UI or real-time messaging interfaces (directly relevant to GoInsight.AI Android client).",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "通訊軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、通訊軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪1,000,000~2,000,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區衡陽路51號11樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "## About Sand Studio / AirDroid\nFounded in 2011, Sand Studio is a global provider of intelligent device management and enterprise AI solutions. Our flagship product, AirDroid, is trusted by over 50 million users worldwide, offering MDM, remote support, file transfer, screen mirroring, and parental control across personal and enterprise product lines.\nOur latest platform, GoInsight.AI, is an enterprise AI automation and collaboration product built on a native AI architecture — unifying multi-agent orchestration, automated workflows, and secure knowledge integration into one governed environment. This role contributes to both AirDroid's core Android products and the GoInsight.AI Android client.\n## What You Will Do\n1. Develop and maintain Android features across AirDroid personal, enterprise, and GoInsight.AI product lines, balancing performance, battery life, UX, and security.\n2. Build and iterate on GoInsight.AI's Android client — including AI chat interfaces, agent interaction flows, and workflow execution views.\n3. Integrate AI development tools (Cursor, Claude, Gemini, GitHub Copilot, etc.) into daily workflows to accelerate coding, review, and refactoring.\n4. Research and implement AI Agent features, including tool use, multi-step reasoning, and LLM API integration.\n5. Learn and implement WebRTC protocols; trace AOSP source when needed.\n6. Develop SDK APIs and write developer-facing documentation.\n7. Conduct code reviews focused on quality, maintainability, and testability.\n8. Collaborate with UX, back-end engineers, and PMs to deliver reliable, well-crafted implementations.\n## Required Skills\n1. Bachelor's degree or equivalent practical experience.\n2. 5+ years of Android application development.\n3. 7+ years of overall software development experience; solid grasp of data structures and algorithms.\n4. Strong Kotlin skills; solid Java and Android SDK foundation.\n5. Familiar with MVVM / MVP architecture patterns.\n6. Experienced with Git and code review workflows.\n7. Hands-on with OkHttp3, Gson, Dagger/Hilt, Coroutines/Flow; experience with Jetpack Compose is strongly preferred. ViewBinding familiarity is a plus but considered transitional.\n8. Comfortable with ADB and Linux development environments.\n9. Familiar with Firebase, Crashlytics, Google Analytics, and ANR analysis.\n## AI Skills — Strongly Preferred\nWe prioritize candidates who actively use AI tools in their development practice:\n1. AI-Assisted Development: Daily use of Cursor, GitHub Copilot, Claude, Gemini, or similar tools to accelerate development and refactoring.\n2. AI Agent Development: Experience designing or building AI Agent workflows — tool use, multi-step reasoning, or autonomous task execution.\n3. LLM Integration: Hands-on experience integrating LLM APIs (OpenAI, Claude, Gemini, etc.) into mobile or backend applications.\n4. AI Workflow Platforms: Familiarity with n8n, LangChain, GoInsight.AI, or custom agent pipelines.\n5. Prompt Engineering: Ability to write effective prompts and evaluate model outputs in real development scenarios.\n6. Curiosity & Initiative: Proactively explores new AI tools, experiments independently, and shares findings with the team.\n## Nice-to-Have\n1. Experience with WebRTC or real-time streaming technologies.\n2. Cross-platform application development experience.\n3. Prior tech lead experience — architecture decisions, mentoring, and setting team direction.\n4. Familiarity with enterprise Android device management or MDM ecosystems.\n5. Experience building chat UI or real-time messaging interfaces (directly relevant to GoInsight.AI Android client)."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "7年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Android",
+            "Git",
+            "C",
+            "Java",
+            "Kotlin",
+            "MySQL",
+            "HTTP",
+            "TCP/IP",
+            "Google Analytics",
+            "Firebase"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Android、Git、C、Java、Kotlin、MySQL、HTTP、TCP/IP、Google Analytics、Firebase",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：7年以上\n學歷要求：專科以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Android、Git、C、Java、Kotlin、MySQL、HTTP、TCP/IP、Google Analytics、Firebase\n工作技能：軟體工程系統開發、軟體程式設計、網路程式設計、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "91fpa",
+    "job_url": "https://www.104.com.tw/job/91fpa",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91fpa.json",
+    "raw_sha256": "e30ccb7e54a8f6daa55f8346d1862b6abcda55ea6105bd2bb5165473294b79e9",
+    "requested_url": "https://www.104.com.tw/api/jobs/91fpa"
+  }
+}

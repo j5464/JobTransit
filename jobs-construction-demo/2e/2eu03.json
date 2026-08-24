@@ -1,0 +1,224 @@
+{
+  "company": {
+    "id": "yxcvx7k",
+    "name": "日月光半導體製造股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "MES工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "MES系統分析、開發與建置"
+        },
+        {
+          "children": [],
+          "text": "工廠自動化、智慧工廠系統導入"
+        },
+        {
+          "children": [],
+          "text": "工廠數位轉型、AI系統導入"
+        },
+        {
+          "children": [],
+          "text": "資訊系統相關專案管理、維護、問題分析"
+        },
+        {
+          "children": [],
+          "text": "需視專案情況協助國內及海外工廠系統上線"
+        },
+        {
+          "children": [],
+          "text": "影像處理關鍵技術掌握與推廣/AI平台建立/大數據資料分析"
+        }
+      ],
+      "text": "【工作說明】\n1.MES系統分析、開發與建置\n2.工廠自動化、智慧工廠系統導入\n3.工廠數位轉型、AI系統導入\n4.資訊系統相關專案管理、維護、問題分析\n5.需視專案情況協助國內及海外工廠系統上線\n6.影像處理關鍵技術掌握與推廣/AI平台建立/大數據資料分析"
+    },
+    "employment_type_raw": "全職",
+    "title": "技術工程類 - 軟體設計工程師 - MES【高雄】"
+  },
+  "location": {
+    "address_raw": "高雄市楠梓區經三路26號",
+    "raw": "高雄市楠梓區經三路26號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "Visual C#",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、Visual C#、MS SQL"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "電機電子工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、C#、Visual C#、MS SQL",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "Visual C#",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 37
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:52:50+08:00"
+  },
+  "salary": {
+    "raw": "月薪38,000~60,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作說明】\n1.MES系統分析、開發與建置\n2.工廠自動化、智慧工廠系統導入\n3.工廠數位轉型、AI系統導入\n4.資訊系統相關專案管理、維護、問題分析\n5.需視專案情況協助國內及海外工廠系統上線\n6.影像處理關鍵技術掌握與推廣/AI平台建立/大數據資料分析",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "MES工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、MES工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪38,000~60,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市楠梓區經三路26號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作說明】\n1.MES系統分析、開發與建置\n2.工廠自動化、智慧工廠系統導入\n3.工廠數位轉型、AI系統導入\n4.資訊系統相關專案管理、維護、問題分析\n5.需視專案情況協助國內及海外工廠系統上線\n6.影像處理關鍵技術掌握與推廣/AI平台建立/大數據資料分析"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "Visual C#",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、Visual C#、MS SQL",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ASP.NET、C#、Visual C#、MS SQL"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "2eu03",
+    "job_url": "https://www.104.com.tw/job/2eu03",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/2eu03.json",
+    "raw_sha256": "1404689d0f0e484c1932c58dba6d8ebfe867981eeb5ef72582cf5b7ca4943dd7",
+    "requested_url": "https://www.104.com.tw/api/jobs/2eu03"
+  }
+}

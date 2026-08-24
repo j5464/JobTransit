@@ -1,0 +1,233 @@
+{
+  "company": {
+    "id": "ztk22pc",
+    "name": "PMC_財團法人精密機械研究發展中心"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "機電技師／工程師",
+      "自動控制工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "控制系統規劃(電控系統硬體、軟體與控制相關)與整合。"
+        },
+        {
+          "children": [],
+          "text": "人機介面軟體/網頁開發。"
+        }
+      ],
+      "text": "1.控制系統規劃(電控系統硬體、軟體與控制相關)與整合。\n2.人機介面軟體/網頁開發。"
+    },
+    "employment_type_raw": "全職",
+    "title": "自動控制軟體工程師-U1/U2"
+  },
+  "location": {
+    "address_raw": "台中市西屯區工業區二十七路17號、台中市西屯區工業37路27號",
+    "raw": "台中市西屯區工業區二十七路17號、台中市西屯區工業37路27號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "機械工程相關",
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "機械工程相關、電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "PLC"
+        ],
+        "label": "擅長工具",
+        "text": "C#、PLC"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "PC base軟體撰寫、PLC軟體撰寫、控制系統規劃與整合\n軟體撰寫能力：C#、PLC\n其他：\n1.語文能力：英文中等\n2.具創新思考能力"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "機械工程相關",
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "PC base軟體撰寫、PLC軟體撰寫、控制系統規劃與整合\n軟體撰寫能力：C#、PLC\n其他：\n1.語文能力：英文中等\n2.具創新思考能力",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：機械工程相關、電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、PLC\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：PC base軟體撰寫、PLC軟體撰寫、控制系統規劃與整合\n軟體撰寫能力：C#、PLC\n其他：\n1.語文能力：英文中等\n2.具創新思考能力",
+    "tools": [
+      "C#",
+      "PLC"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 54
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:33:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.控制系統規劃(電控系統硬體、軟體與控制相關)與整合。\n2.人機介面軟體/網頁開發。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "機電技師／工程師",
+            "自動控制工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、機電技師／工程師、自動控制工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區工業區二十七路17號、台中市西屯區工業37路27號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.控制系統規劃(電控系統硬體、軟體與控制相關)與整合。\n2.人機介面軟體/網頁開發。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "機械工程相關",
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "機械工程相關、電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "PLC"
+          ],
+          "label": "擅長工具",
+          "text": "C#、PLC",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "PC base軟體撰寫、PLC軟體撰寫、控制系統規劃與整合\n軟體撰寫能力：C#、PLC\n其他：\n1.語文能力：英文中等\n2.具創新思考能力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：機械工程相關、電機電子工程相關、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、PLC\n工作技能：軟體工程系統開發、軟體程式設計\n其他條件：PC base軟體撰寫、PLC軟體撰寫、控制系統規劃與整合\n軟體撰寫能力：C#、PLC\n其他：\n1.語文能力：英文中等\n2.具創新思考能力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "90bhk",
+    "job_url": "https://www.104.com.tw/job/90bhk",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90bhk.json",
+    "raw_sha256": "ed6dbab1b8e243f377e13d31c5f2f5c9b2b46400dcd6dff4967db694e1eacded",
+    "requested_url": "https://www.104.com.tw/api/jobs/90bhk"
+  }
+}

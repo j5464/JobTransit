@@ -1,0 +1,274 @@
+{
+  "company": {
+    "id": "1a2x6bnh3b",
+    "name": "新加坡商昇新科技股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "資料庫管理人員",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "管理與維運雲端 Linux 作業系統。"
+        },
+        {
+          "children": [],
+          "text": "主導資料庫效能監控與優化，執行 SQL 語句調教（SQL Tuning）與執行計畫分析。"
+        },
+        {
+          "children": [],
+          "text": "深入 InnoDB 核心機制（如 Buffer Pool , Redo/Undo Logs , MVCC , Lock 爭用）進行參數級優化，確保高併發下的系統響應。"
+        },
+        {
+          "children": [],
+          "text": "負責高可用性（HA）架構的規劃與維護（包括 Cluster 叢集、Master-Slave Replication 複製、Failover 機制）。"
+        },
+        {
+          "children": [],
+          "text": "依照時程與規範執行資料庫變更（Schema Change）與版本發佈，落實 Rollback 策略。"
+        },
+        {
+          "children": [],
+          "text": "規劃資料庫建置、還原、升級及備份策略管理，並定期執行災難復原演練。"
+        },
+        {
+          "children": [],
+          "text": "監控工具分析網路連線、系統資源負載（CPU/IO/Mem）及資料庫指標，及時定位瓶頸。"
+        },
+        {
+          "children": [],
+          "text": "處理複雜生產事故，進行根因分析並提出預防再發方案。"
+        },
+        {
+          "children": [],
+          "text": "善用運維工具或編寫 Shell Script 腳本，解決日常維運任務並提升效率。"
+        },
+        {
+          "children": [],
+          "text": "軟性特質：具備團隊合作精神，守護生產環境穩定。"
+        },
+        {
+          "children": [],
+          "text": "核心技術：3 年以上 MySQL（雲端/地端）實務經驗，熟悉雲端資料庫的特性優化與成本控管。"
+        },
+        {
+          "children": [],
+          "text": "維運能力：具備高流量 Production 系統維運經驗，能冷靜處理高壓事故。"
+        },
+        {
+          "children": [],
+          "text": "架構實力：熟悉 HA / Replication / Failover 實務，具備容量規劃與備援設計能力。"
+        },
+        {
+          "children": [],
+          "text": "系統基礎：精通 Linux 系統管理，能熟練進行資源分析與自動化腳本編寫。"
+        },
+        {
+          "children": [],
+          "text": "軟性特質：具備團隊合作精神，願意參與 On-call 輪班，守護生產環境穩定。"
+        },
+        {
+          "children": [],
+          "text": "數據生態系：具備 BigQuery 等雲端資料倉儲管理經驗，了解冷熱數據分離架構。"
+        },
+        {
+          "children": [],
+          "text": "數據流技術：熟悉 MySQL Binlog 機制 或 CDC（Change Data Capture）工具實作。"
+        },
+        {
+          "children": [],
+          "text": "商業智慧：熟悉 Looker Studio、Power BI 等 BI 工具與資料庫間的串接優化。"
+        },
+        {
+          "children": [],
+          "text": "專業熱忱：具備優異的問題排除邏輯，熱衷於自動化解決重複性運維問題。"
+        }
+      ],
+      "text": "加入我們，你將與頂尖前後端工程師並肩作戰，負責高併發與巨量資料系統的穩定運行。\n在這裡，你將深入 MySQL 核心原理，主導從系統層級到引擎底層的效能調校，在 24/7 的生產環境中，挑戰技術極限並守護系統穩定。\n【你要做什麼｜What You’ll Do】\n- 管理與維運雲端 Linux 作業系統。\n- 主導資料庫效能監控與優化，執行 SQL 語句調教（SQL Tuning）與執行計畫分析。\n- 深入 InnoDB 核心機制（如 Buffer Pool , Redo/Undo Logs , MVCC , Lock 爭用）進行參數級優化，確保高併發下的系統響應。\n- 負責高可用性（HA）架構的規劃與維護（包括 Cluster 叢集、Master-Slave Replication 複製、Failover 機制）。\n- 依照時程與規範執行資料庫變更（Schema Change）與版本發佈，落實 Rollback 策略。\n- 規劃資料庫建置、還原、升級及備份策略管理，並定期執行災難復原演練。\n- 監控工具分析網路連線、系統資源負載（CPU/IO/Mem）及資料庫指標，及時定位瓶頸。\n- 處理複雜生產事故，進行根因分析並提出預防再發方案。\n- 善用運維工具或編寫 Shell Script 腳本，解決日常維運任務並提升效率。\n- 軟性特質：具備團隊合作精神，守護生產環境穩定。\n【我們希望你具備｜What We’re Looking For】\n- 核心技術：3 年以上 MySQL（雲端/地端）實務經驗，熟悉雲端資料庫的特性優化與成本控管。\n- 維運能力：具備高流量 Production 系統維運經驗，能冷靜處理高壓事故。\n- 架構實力：熟悉 HA / Replication / Failover 實務，具備容量規劃與備援設計能力。\n- 系統基礎：精通 Linux 系統管理，能熟練進行資源分析與自動化腳本編寫。\n- 軟性特質：具備團隊合作精神，願意參與 On-call 輪班，守護生產環境穩定。\n【Nice-to-have】\n- 數據生態系：具備 BigQuery 等雲端資料倉儲管理經驗，了解冷熱數據分離架構。\n- 數據流技術：熟悉 MySQL Binlog 機制 或 CDC（Change Data Capture）工具實作。\n- 商業智慧：熟悉 Looker Studio、Power BI 等 BI 工具與資料庫間的串接優化。\n- 專業熱忱：具備優異的問題排除邏輯，熱衷於自動化解決重複性運維問題。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【DBA】MySQL資料庫管理師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞湖街58號5樓",
+    "raw": "台北市內湖區瑞湖街58號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "MySQL",
+          "Linux",
+          "Shell",
+          "AWS"
+        ],
+        "label": "擅長工具",
+        "text": "MySQL、Linux、Shell、AWS"
+      },
+      {
+        "items": [
+          "資料庫軟體應用",
+          "資料庫系統管理維護",
+          "伺服器網站管理維護"
+        ],
+        "label": "工作技能",
+        "text": "資料庫軟體應用、資料庫系統管理維護、伺服器網站管理維護"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "資料庫軟體應用",
+      "資料庫系統管理維護",
+      "伺服器網站管理維護"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MySQL、Linux、Shell、AWS\n工作技能：資料庫軟體應用、資料庫系統管理維護、伺服器網站管理維護",
+    "tools": [
+      "MySQL",
+      "Linux",
+      "Shell",
+      "AWS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 17
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:04:02+08:00"
+  },
+  "salary": {
+    "raw": "月薪76,690~111,485元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "加入我們，你將與頂尖前後端工程師並肩作戰，負責高併發與巨量資料系統的穩定運行。\n在這裡，你將深入 MySQL 核心原理，主導從系統層級到引擎底層的效能調校，在 24/7 的生產環境中，挑戰技術極限並守護系統穩定。\n【你要做什麼｜What You’ll Do】\n- 管理與維運雲端 Linux 作業系統。\n- 主導資料庫效能監控與優化，執行 SQL 語句調教（SQL Tuning）與執行計畫分析。\n- 深入 InnoDB 核心機制（如 Buffer Pool , Redo/Undo Logs , MVCC , Lock 爭用）進行參數級優化，確保高併發下的系統響應。\n- 負責高可用性（HA）架構的規劃與維護（包括 Cluster 叢集、Master-Slave Replication 複製、Failover 機制）。\n- 依照時程與規範執行資料庫變更（Schema Change）與版本發佈，落實 Rollback 策略。\n- 規劃資料庫建置、還原、升級及備份策略管理，並定期執行災難復原演練。\n- 監控工具分析網路連線、系統資源負載（CPU/IO/Mem）及資料庫指標，及時定位瓶頸。\n- 處理複雜生產事故，進行根因分析並提出預防再發方案。\n- 善用運維工具或編寫 Shell Script 腳本，解決日常維運任務並提升效率。\n- 軟性特質：具備團隊合作精神，守護生產環境穩定。\n【我們希望你具備｜What We’re Looking For】\n- 核心技術：3 年以上 MySQL（雲端/地端）實務經驗，熟悉雲端資料庫的特性優化與成本控管。\n- 維運能力：具備高流量 Production 系統維運經驗，能冷靜處理高壓事故。\n- 架構實力：熟悉 HA / Replication / Failover 實務，具備容量規劃與備援設計能力。\n- 系統基礎：精通 Linux 系統管理，能熟練進行資源分析與自動化腳本編寫。\n- 軟性特質：具備團隊合作精神，願意參與 On-call 輪班，守護生產環境穩定。\n【Nice-to-have】\n- 數據生態系：具備 BigQuery 等雲端資料倉儲管理經驗，了解冷熱數據分離架構。\n- 數據流技術：熟悉 MySQL Binlog 機制 或 CDC（Change Data Capture）工具實作。\n- 商業智慧：熟悉 Looker Studio、Power BI 等 BI 工具與資料庫間的串接優化。\n- 專業熱忱：具備優異的問題排除邏輯，熱衷於自動化解決重複性運維問題。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料庫管理人員",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料庫管理人員、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪76,690~111,485元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞湖街58號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "加入我們，你將與頂尖前後端工程師並肩作戰，負責高併發與巨量資料系統的穩定運行。\n在這裡，你將深入 MySQL 核心原理，主導從系統層級到引擎底層的效能調校，在 24/7 的生產環境中，挑戰技術極限並守護系統穩定。\n【你要做什麼｜What You’ll Do】\n- 管理與維運雲端 Linux 作業系統。\n- 主導資料庫效能監控與優化，執行 SQL 語句調教（SQL Tuning）與執行計畫分析。\n- 深入 InnoDB 核心機制（如 Buffer Pool , Redo/Undo Logs , MVCC , Lock 爭用）進行參數級優化，確保高併發下的系統響應。\n- 負責高可用性（HA）架構的規劃與維護（包括 Cluster 叢集、Master-Slave Replication 複製、Failover 機制）。\n- 依照時程與規範執行資料庫變更（Schema Change）與版本發佈，落實 Rollback 策略。\n- 規劃資料庫建置、還原、升級及備份策略管理，並定期執行災難復原演練。\n- 監控工具分析網路連線、系統資源負載（CPU/IO/Mem）及資料庫指標，及時定位瓶頸。\n- 處理複雜生產事故，進行根因分析並提出預防再發方案。\n- 善用運維工具或編寫 Shell Script 腳本，解決日常維運任務並提升效率。\n- 軟性特質：具備團隊合作精神，守護生產環境穩定。\n【我們希望你具備｜What We’re Looking For】\n- 核心技術：3 年以上 MySQL（雲端/地端）實務經驗，熟悉雲端資料庫的特性優化與成本控管。\n- 維運能力：具備高流量 Production 系統維運經驗，能冷靜處理高壓事故。\n- 架構實力：熟悉 HA / Replication / Failover 實務，具備容量規劃與備援設計能力。\n- 系統基礎：精通 Linux 系統管理，能熟練進行資源分析與自動化腳本編寫。\n- 軟性特質：具備團隊合作精神，願意參與 On-call 輪班，守護生產環境穩定。\n【Nice-to-have】\n- 數據生態系：具備 BigQuery 等雲端資料倉儲管理經驗，了解冷熱數據分離架構。\n- 數據流技術：熟悉 MySQL Binlog 機制 或 CDC（Change Data Capture）工具實作。\n- 商業智慧：熟悉 Looker Studio、Power BI 等 BI 工具與資料庫間的串接優化。\n- 專業熱忱：具備優異的問題排除邏輯，熱衷於自動化解決重複性運維問題。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MySQL",
+            "Linux",
+            "Shell",
+            "AWS"
+          ],
+          "label": "擅長工具",
+          "text": "MySQL、Linux、Shell、AWS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料庫軟體應用",
+            "資料庫系統管理維護",
+            "伺服器網站管理維護"
+          ],
+          "label": "工作技能",
+          "text": "資料庫軟體應用、資料庫系統管理維護、伺服器網站管理維護",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MySQL、Linux、Shell、AWS\n工作技能：資料庫軟體應用、資料庫系統管理維護、伺服器網站管理維護"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8zta4",
+    "job_url": "https://www.104.com.tw/job/8zta4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8zta4.json",
+    "raw_sha256": "64baf2141fe6e056b0b23cedf92f382856b905bf29c4c73d33bc7971414ad712",
+    "requested_url": "https://www.104.com.tw/api/jobs/8zta4"
+  }
+}

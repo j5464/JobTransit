@@ -1,0 +1,259 @@
+{
+  "company": {
+    "id": "1a2x6bl3ka",
+    "name": "駿隆科技平台股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "專案管理主管",
+      "專案經理",
+      "軟體專案主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Project Planning & Delivery"
+        },
+        {
+          "children": [],
+          "text": "Drive execution of Java-based insurance billing system projects."
+        },
+        {
+          "children": [],
+          "text": "Define business processes and system functions."
+        },
+        {
+          "children": [],
+          "text": "Conduct sprint cycle reviews and manage priorities in daily stand-ups."
+        },
+        {
+          "children": [],
+          "text": "Ensure on-time delivery while addressing ad hoc issues."
+        },
+        {
+          "children": [],
+          "text": "Requirement Gathering & Documentation"
+        },
+        {
+          "children": [],
+          "text": "Collect insurance system requirements from Hong Kong product teams."
+        },
+        {
+          "children": [],
+          "text": "Draft technical flow charts, state transition diagrams, and error handling rules."
+        },
+        {
+          "children": [],
+          "text": "Manage PRD documentation in Confluence and flows in Figma."
+        },
+        {
+          "children": [],
+          "text": "Communication & Coordination"
+        },
+        {
+          "children": [],
+          "text": "Bridge business, insurance teams, and developers for smooth communication."
+        },
+        {
+          "children": [],
+          "text": "Arrange meetings to clarify technical requirements and system workflows."
+        },
+        {
+          "children": [],
+          "text": "Collaborate closely with Taiwan engineers on system logic and integration."
+        },
+        {
+          "children": [],
+          "text": "Tools & Workflow"
+        },
+        {
+          "children": [],
+          "text": "Use Jira for tracking, Confluence for PRD, and Figma for UI/flow documentation."
+        },
+        {
+          "children": [],
+          "text": "Facilitate cross-border team communication and project progress."
+        },
+        {
+          "children": [],
+          "text": "Testing & Quality Assurance"
+        },
+        {
+          "children": [],
+          "text": "Work with developers on PRD explanation and design confirmation."
+        },
+        {
+          "children": [],
+          "text": "Conduct initial functional acceptance testing."
+        },
+        {
+          "children": [],
+          "text": "Support QA in drafting SIT/DEV vs UAT test plans for insurance system testing."
+        }
+      ],
+      "text": "Location: Taiwan / Remote with regular HK office visits\nIndustry: Financial & Insurance Technology\nGain Miles (GUM) is looking for a Project Officer – Insurance Systems (Java Based) to lead the planning and delivery of projects on our Java-based insurance billing application. This hands-on role requires both business and technical understanding to ensure smooth integration of insurance processes with system logic.\nYou will collaborate with Hong Kong stakeholders and Taiwan developers, ensuring projects are delivered accurately and efficiently.\nKey Responsibilities\n1.Project Planning & Delivery\n•Drive execution of Java-based insurance billing system projects.\n•Define business processes and system functions.\n•Conduct sprint cycle reviews and manage priorities in daily stand-ups.\n•Ensure on-time delivery while addressing ad hoc issues.\n2.Requirement Gathering & Documentation\n•Collect insurance system requirements from Hong Kong product teams.\n•Draft technical flow charts, state transition diagrams, and error handling rules.\n•Manage PRD documentation in Confluence and flows in Figma.\n3.Communication & Coordination\n•Bridge business, insurance teams, and developers for smooth communication.\n•Arrange meetings to clarify technical requirements and system workflows.\n•Collaborate closely with Taiwan engineers on system logic and integration.\n4.Tools & Workflow\n•Use Jira for tracking, Confluence for PRD, and Figma for UI/flow documentation.\n•Facilitate cross-border team communication and project progress.\n5.Testing & Quality Assurance\n•Work with developers on PRD explanation and design confirmation.\n•Conduct initial functional acceptance testing.\n•Support QA in drafting SIT/DEV vs UAT test plans for insurance system testing."
+    },
+    "employment_type_raw": "全職",
+    "title": "Project Manager – Insurance & ERP System"
+  },
+  "location": {
+    "address_raw": "台北市中正區",
+    "raw": "台北市中正區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "系統架構規劃"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Preferred Skills & Experience\n•Background in insurance systems or financial technology.\n•Familiarity with API testing tools (e.g., Postman).\n•Hands-on experience building technical requirements from scratch preferred.\nThis role offers the opportunity to take ownership of end-to-end product delivery in a growing fintech/insurtech environment. If you thrive in cross-functional, fast-paced projects and want to make a real impact, we’d like to meet you."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "Preferred Skills & Experience\n•Background in insurance systems or financial technology.\n•Familiarity with API testing tools (e.g., Postman).\n•Hands-on experience building technical requirements from scratch preferred.\nThis role offers the opportunity to take ownership of end-to-end product delivery in a growing fintech/insurtech environment. If you thrive in cross-functional, fast-paced projects and want to make a real impact, we’d like to meet you.",
+    "skills": [
+      "系統架構規劃"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學\n語文條件：英文：中等、中等、中等、中等\n工作技能：系統架構規劃\n其他條件：Preferred Skills & Experience\n•Background in insurance systems or financial technology.\n•Familiarity with API testing tools (e.g., Postman).\n•Hands-on experience building technical requirements from scratch preferred.\nThis role offers the opportunity to take ownership of end-to-end product delivery in a growing fintech/insurtech environment. If you thrive in cross-functional, fast-paced projects and want to make a real impact, we’d like to meet you.",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 51
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:28:06+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Location: Taiwan / Remote with regular HK office visits\nIndustry: Financial & Insurance Technology\nGain Miles (GUM) is looking for a Project Officer – Insurance Systems (Java Based) to lead the planning and delivery of projects on our Java-based insurance billing application. This hands-on role requires both business and technical understanding to ensure smooth integration of insurance processes with system logic.\nYou will collaborate with Hong Kong stakeholders and Taiwan developers, ensuring projects are delivered accurately and efficiently.\nKey Responsibilities\n1.Project Planning & Delivery\n•Drive execution of Java-based insurance billing system projects.\n•Define business processes and system functions.\n•Conduct sprint cycle reviews and manage priorities in daily stand-ups.\n•Ensure on-time delivery while addressing ad hoc issues.\n2.Requirement Gathering & Documentation\n•Collect insurance system requirements from Hong Kong product teams.\n•Draft technical flow charts, state transition diagrams, and error handling rules.\n•Manage PRD documentation in Confluence and flows in Figma.\n3.Communication & Coordination\n•Bridge business, insurance teams, and developers for smooth communication.\n•Arrange meetings to clarify technical requirements and system workflows.\n•Collaborate closely with Taiwan engineers on system logic and integration.\n4.Tools & Workflow\n•Use Jira for tracking, Confluence for PRD, and Figma for UI/flow documentation.\n•Facilitate cross-border team communication and project progress.\n5.Testing & Quality Assurance\n•Work with developers on PRD explanation and design confirmation.\n•Conduct initial functional acceptance testing.\n•Support QA in drafting SIT/DEV vs UAT test plans for insurance system testing.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "專案管理主管",
+            "專案經理",
+            "軟體專案主管"
+          ],
+          "label": "職務類別",
+          "text": "專案管理主管、專案經理、軟體專案主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Location: Taiwan / Remote with regular HK office visits\nIndustry: Financial & Insurance Technology\nGain Miles (GUM) is looking for a Project Officer – Insurance Systems (Java Based) to lead the planning and delivery of projects on our Java-based insurance billing application. This hands-on role requires both business and technical understanding to ensure smooth integration of insurance processes with system logic.\nYou will collaborate with Hong Kong stakeholders and Taiwan developers, ensuring projects are delivered accurately and efficiently.\nKey Responsibilities\n1.Project Planning & Delivery\n•Drive execution of Java-based insurance billing system projects.\n•Define business processes and system functions.\n•Conduct sprint cycle reviews and manage priorities in daily stand-ups.\n•Ensure on-time delivery while addressing ad hoc issues.\n2.Requirement Gathering & Documentation\n•Collect insurance system requirements from Hong Kong product teams.\n•Draft technical flow charts, state transition diagrams, and error handling rules.\n•Manage PRD documentation in Confluence and flows in Figma.\n3.Communication & Coordination\n•Bridge business, insurance teams, and developers for smooth communication.\n•Arrange meetings to clarify technical requirements and system workflows.\n•Collaborate closely with Taiwan engineers on system logic and integration.\n4.Tools & Workflow\n•Use Jira for tracking, Confluence for PRD, and Figma for UI/flow documentation.\n•Facilitate cross-border team communication and project progress.\n5.Testing & Quality Assurance\n•Work with developers on PRD explanation and design confirmation.\n•Conduct initial functional acceptance testing.\n•Support QA in drafting SIT/DEV vs UAT test plans for insurance system testing."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Preferred Skills & Experience\n•Background in insurance systems or financial technology.\n•Familiarity with API testing tools (e.g., Postman).\n•Hands-on experience building technical requirements from scratch preferred.\nThis role offers the opportunity to take ownership of end-to-end product delivery in a growing fintech/insurtech environment. If you thrive in cross-functional, fast-paced projects and want to make a real impact, we’d like to meet you.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學\n語文條件：英文：中等、中等、中等、中等\n工作技能：系統架構規劃\n其他條件：Preferred Skills & Experience\n•Background in insurance systems or financial technology.\n•Familiarity with API testing tools (e.g., Postman).\n•Hands-on experience building technical requirements from scratch preferred.\nThis role offers the opportunity to take ownership of end-to-end product delivery in a growing fintech/insurtech environment. If you thrive in cross-functional, fast-paced projects and want to make a real impact, we’d like to meet you."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8tkr5",
+    "job_url": "https://www.104.com.tw/job/8tkr5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8tkr5.json",
+    "raw_sha256": "6b6559f50f19541048b7b5ec6147632fbfb11bf333a1b325e180c86e51c09671",
+    "requested_url": "https://www.104.com.tw/api/jobs/8tkr5"
+  }
+}

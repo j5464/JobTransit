@@ -1,0 +1,223 @@
+{
+  "company": {
+    "id": "lq95eb4",
+    "name": "普生股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟韌體測試工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "軟韌體架構設計與開發。"
+        },
+        {
+          "children": [],
+          "text": "嵌入式系統程式開發。"
+        },
+        {
+          "children": [],
+          "text": "驅動程式設計與優化。"
+        },
+        {
+          "children": [],
+          "text": "熟悉通訊協定及硬體驅動整合。"
+        },
+        {
+          "children": [],
+          "text": "軟體測試與除錯。"
+        },
+        {
+          "children": [],
+          "text": "產品韌體升級與維護。"
+        },
+        {
+          "children": [],
+          "text": "本公司提供完整教育培訓管道，並依求職者實際學經歷，工作年資，調整職務(職等、職級)敘薪及績效表現可享調薪機會。"
+        }
+      ],
+      "text": "1.軟韌體架構設計與開發。\n2.嵌入式系統程式開發。\n3.驅動程式設計與優化。\n4.熟悉通訊協定及硬體驅動整合。\n5.軟體測試與除錯。\n6.產品韌體升級與維護。\n*本公司提供完整教育培訓管道，並依求職者實際學經歷，工作年資，調整職務(職等、職級)敘薪及績效表現可享調薪機會。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟韌體研發工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣寶山鄉科學園區創新一路6號",
+    "raw": "新竹縣寶山鄉科學園區創新一路6號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "Linux",
+          "C",
+          "C++",
+          "Python",
+          "Visual Studio",
+          "Qt"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、C、C++、Python、Visual Studio、Qt"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉C/C++/Python程式設計(Microsoft Visual Studio、QT)。\n2.熟悉嵌入式作業系統(RTOS，Linux)。\n3.熟悉驅動程式與通訊協定。\n4.擅長軟體設計模式與架構分析。\n5.從事過醫療器材產品開發。\n6.擅長整理和撰寫設計文件。\n7.具製作基本的圖表能力，例如流程圖、架構圖或統計圖。\n8.細心且注重細節，面對問題時願意耐心溝通找出解決方法。\n9.擅長利用資料庫搜尋相關資訊，幫助推進專案進行。\n10.具ISO13485、ISO14971相關培訓尤佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.熟悉C/C++/Python程式設計(Microsoft Visual Studio、QT)。\n2.熟悉嵌入式作業系統(RTOS，Linux)。\n3.熟悉驅動程式與通訊協定。\n4.擅長軟體設計模式與架構分析。\n5.從事過醫療器材產品開發。\n6.擅長整理和撰寫設計文件。\n7.具製作基本的圖表能力，例如流程圖、架構圖或統計圖。\n8.細心且注重細節，面對問題時願意耐心溝通找出解決方法。\n9.擅長利用資料庫搜尋相關資訊，幫助推進專案進行。\n10.具ISO13485、ISO14971相關培訓尤佳。",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n擅長工具：Linux、C、C++、Python、Visual Studio、Qt\n其他條件：1.熟悉C/C++/Python程式設計(Microsoft Visual Studio、QT)。\n2.熟悉嵌入式作業系統(RTOS，Linux)。\n3.熟悉驅動程式與通訊協定。\n4.擅長軟體設計模式與架構分析。\n5.從事過醫療器材產品開發。\n6.擅長整理和撰寫設計文件。\n7.具製作基本的圖表能力，例如流程圖、架構圖或統計圖。\n8.細心且注重細節，面對問題時願意耐心溝通找出解決方法。\n9.擅長利用資料庫搜尋相關資訊，幫助推進專案進行。\n10.具ISO13485、ISO14971相關培訓尤佳。",
+    "tools": [
+      "Linux",
+      "C",
+      "C++",
+      "Python",
+      "Visual Studio",
+      "Qt"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 57
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:42:50+08:00"
+  },
+  "salary": {
+    "raw": "月薪56,000~70,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.軟韌體架構設計與開發。\n2.嵌入式系統程式開發。\n3.驅動程式設計與優化。\n4.熟悉通訊協定及硬體驅動整合。\n5.軟體測試與除錯。\n6.產品韌體升級與維護。\n*本公司提供完整教育培訓管道，並依求職者實際學經歷，工作年資，調整職務(職等、職級)敘薪及績效表現可享調薪機會。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟韌體測試工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟韌體測試工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪56,000~70,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣寶山鄉科學園區創新一路6號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.軟韌體架構設計與開發。\n2.嵌入式系統程式開發。\n3.驅動程式設計與優化。\n4.熟悉通訊協定及硬體驅動整合。\n5.軟體測試與除錯。\n6.產品韌體升級與維護。\n*本公司提供完整教育培訓管道，並依求職者實際學經歷，工作年資，調整職務(職等、職級)敘薪及績效表現可享調薪機會。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "C",
+            "C++",
+            "Python",
+            "Visual Studio",
+            "Qt"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、C、C++、Python、Visual Studio、Qt",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉C/C++/Python程式設計(Microsoft Visual Studio、QT)。\n2.熟悉嵌入式作業系統(RTOS，Linux)。\n3.熟悉驅動程式與通訊協定。\n4.擅長軟體設計模式與架構分析。\n5.從事過醫療器材產品開發。\n6.擅長整理和撰寫設計文件。\n7.具製作基本的圖表能力，例如流程圖、架構圖或統計圖。\n8.細心且注重細節，面對問題時願意耐心溝通找出解決方法。\n9.擅長利用資料庫搜尋相關資訊，幫助推進專案進行。\n10.具ISO13485、ISO14971相關培訓尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n擅長工具：Linux、C、C++、Python、Visual Studio、Qt\n其他條件：1.熟悉C/C++/Python程式設計(Microsoft Visual Studio、QT)。\n2.熟悉嵌入式作業系統(RTOS，Linux)。\n3.熟悉驅動程式與通訊協定。\n4.擅長軟體設計模式與架構分析。\n5.從事過醫療器材產品開發。\n6.擅長整理和撰寫設計文件。\n7.具製作基本的圖表能力，例如流程圖、架構圖或統計圖。\n8.細心且注重細節，面對問題時願意耐心溝通找出解決方法。\n9.擅長利用資料庫搜尋相關資訊，幫助推進專案進行。\n10.具ISO13485、ISO14971相關培訓尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ka0f",
+    "job_url": "https://www.104.com.tw/job/8ka0f",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ka0f.json",
+    "raw_sha256": "53ce2eb4c42ab6fa0c5871cd880ed4c9af08460d39a96e91eee66639c163a2ac",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ka0f"
+  }
+}

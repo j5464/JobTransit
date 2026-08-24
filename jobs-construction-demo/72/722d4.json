@@ -1,0 +1,226 @@
+{
+  "company": {
+    "id": "15bmb168",
+    "name": "健訊企業有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "通訊軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "軟硬體整合系統"
+        },
+        {
+          "children": [],
+          "text": "無線電通訊設備整合"
+        },
+        {
+          "children": [],
+          "text": "訊號分析演算法研究"
+        },
+        {
+          "children": [],
+          "text": "周邊設備監控"
+        },
+        {
+          "children": [],
+          "text": "IoT基礎研究"
+        },
+        {
+          "children": [],
+          "text": "無線通訊訊號偵測與操作"
+        },
+        {
+          "children": [],
+          "text": "SIP軟體開發"
+        }
+      ],
+      "text": "健訊企業有限公司為專精於無線電通信、微波傳輸系統、行動通訊系統之專業無線電系統整合公司。\n* 軟硬體整合系統\n* 無線電通訊設備整合\n* 訊號分析演算法研究\n* 周邊設備監控\n* IoT基礎研究\n* 無線通訊訊號偵測與操作\n* SIP軟體開發\n以 C# .Net Core/.Net Framework 資料蒐集、搭配 MSSQL/MariaDB 做儲存及呈現於 ASP.Net WebForm/RazorPage 頁面。\n科系不拘、有/無工作經驗皆可、歡迎有學習熱忱的夥伴加入。"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體研發工程師"
+  },
+  "location": {
+    "address_raw": "台北市中山區南京東路２段７２號４樓",
+    "raw": "台北市中山區南京東路２段７２號４樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、略懂"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "MS SQL",
+          "MySQL"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、MS SQL、MySQL"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、網路程式設計、資料庫程式設計"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、略懂"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：ASP.NET、C#、MS SQL、MySQL\n工作技能：軟體程式設計、網路程式設計、資料庫程式設計",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "MS SQL",
+      "MySQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 31
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:38:42+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "健訊企業有限公司為專精於無線電通信、微波傳輸系統、行動通訊系統之專業無線電系統整合公司。\n* 軟硬體整合系統\n* 無線電通訊設備整合\n* 訊號分析演算法研究\n* 周邊設備監控\n* IoT基礎研究\n* 無線通訊訊號偵測與操作\n* SIP軟體開發\n以 C# .Net Core/.Net Framework 資料蒐集、搭配 MSSQL/MariaDB 做儲存及呈現於 ASP.Net WebForm/RazorPage 頁面。\n科系不拘、有/無工作經驗皆可、歡迎有學習熱忱的夥伴加入。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "通訊軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、通訊軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區南京東路２段７２號４樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "健訊企業有限公司為專精於無線電通信、微波傳輸系統、行動通訊系統之專業無線電系統整合公司。\n* 軟硬體整合系統\n* 無線電通訊設備整合\n* 訊號分析演算法研究\n* 周邊設備監控\n* IoT基礎研究\n* 無線通訊訊號偵測與操作\n* SIP軟體開發\n以 C# .Net Core/.Net Framework 資料蒐集、搭配 MSSQL/MariaDB 做儲存及呈現於 ASP.Net WebForm/RazorPage 頁面。\n科系不拘、有/無工作經驗皆可、歡迎有學習熱忱的夥伴加入。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "MS SQL",
+            "MySQL"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、MS SQL、MySQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、網路程式設計、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學\n語文條件：英文：略懂、略懂、中等、略懂\n擅長工具：ASP.NET、C#、MS SQL、MySQL\n工作技能：軟體程式設計、網路程式設計、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "722d4",
+    "job_url": "https://www.104.com.tw/job/722d4",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/722d4.json",
+    "raw_sha256": "1394cfaae116f4d729baa8ff3b0d11ee7c7bc860632c9d98b3054b4fe82bf0b3",
+    "requested_url": "https://www.104.com.tw/api/jobs/722d4"
+  }
+}

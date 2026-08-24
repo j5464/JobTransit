@@ -1,0 +1,272 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責研究、設計與開發企業級NVMe SSD的驗證方法與流程"
+        },
+        {
+          "children": [],
+          "text": "分析PCIe/NVMe/OCP與Customer自定義協定規範、拆解驗證需求，特別是企業級Feature包括ZNS/FDP/SRIOV/MFD等"
+        },
+        {
+          "children": [],
+          "text": "參與新技術前期design review，評估韌體設計符合規範"
+        },
+        {
+          "children": [],
+          "text": "研究Linux Storage / Windows 軟體分層，包括檔案系統/Device Mapper/Block Layer/Device & Bus Driver"
+        },
+        {
+          "children": [],
+          "text": "建構企業級SSD在HPC、數據中心的應用場景與使用組態，研究AI/VM/NVMe-oF/RAID架構及韌體行為與最佳化策略"
+        },
+        {
+          "children": [],
+          "text": "提供企業級客戶系統整合、相容性解決方案、分析軟體，分析異常Log並設計實驗方法釐清問題"
+        },
+        {
+          "children": [],
+          "text": "研究Server與工作站平台相關配置及SSD初始化、資源管理與互動機制，包括BIOS、UEFI、BMC等"
+        }
+      ],
+      "text": "1.負責研究、設計與開發企業級NVMe SSD的驗證方法與流程\n2.分析PCIe/NVMe/OCP與Customer自定義協定規範、拆解驗證需求，特別是企業級Feature包括ZNS/FDP/SRIOV/MFD等\n3.參與新技術前期design review，評估韌體設計符合規範\n4.研究Linux Storage / Windows 軟體分層，包括檔案系統/Device Mapper/Block Layer/Device & Bus Driver\n5.建構企業級SSD在HPC、數據中心的應用場景與使用組態，研究AI/VM/NVMe-oF/RAID架構及韌體行為與最佳化策略\n6.提供企業級客戶系統整合、相容性解決方案、分析軟體，分析異常Log並設計實驗方法釐清問題\n7.研究Server與工作站平台相關配置及SSD初始化、資源管理與互動機制，包括BIOS、UEFI、BMC等"
+    },
+    "employment_type_raw": "全職",
+    "title": "SSD SW RD Engineer 0203A"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "電機電子工程相關",
+          "物理學相關"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、電機電子工程相關、物理學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Shell",
+          "Android",
+          "C",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Shell、Android、C、C++、Python"
+      },
+      {
+        "items": [
+          "BIOS程式研發",
+          "韌體工程開發",
+          "軟體程式設計",
+          "韌體程式設計",
+          "微電腦軟體設計"
+        ],
+        "label": "工作技能",
+        "text": "BIOS程式研發、韌體工程開發、軟體程式設計、韌體程式設計、微電腦軟體設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "具備以下經驗者佳\n1.Linux Kernel Driver開發經驗\n2.BSP/Embedded Linux/BMC Firmware開發經驗\n3.Storage或PCIe相關Driver開發經驗\n4.了解 SSD 架構、firemware、SSD 功能和性能指標\n5.了解 PCIe或NVMe或SCSI協議\n6.有Linux, C/C++, Python程式開發經驗\n7.有Windows、Linux驅動程式開發經驗\n8.有單晶片韌體開發經驗\n9.了解白箱和灰箱測試方法\n10.有驗證內容開發相關經驗或SSD驗證工作相關經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "數學及電算機科學學科類",
+      "電機電子工程相關",
+      "物理學相關"
+    ],
+    "other_text": "具備以下經驗者佳\n1.Linux Kernel Driver開發經驗\n2.BSP/Embedded Linux/BMC Firmware開發經驗\n3.Storage或PCIe相關Driver開發經驗\n4.了解 SSD 架構、firemware、SSD 功能和性能指標\n5.了解 PCIe或NVMe或SCSI協議\n6.有Linux, C/C++, Python程式開發經驗\n7.有Windows、Linux驅動程式開發經驗\n8.有單晶片韌體開發經驗\n9.了解白箱和灰箱測試方法\n10.有驗證內容開發相關經驗或SSD驗證工作相關經驗",
+    "skills": [
+      "BIOS程式研發",
+      "韌體工程開發",
+      "軟體程式設計",
+      "韌體程式設計",
+      "微電腦軟體設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類、電機電子工程相關、物理學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Shell、Android、C、C++、Python\n工作技能：BIOS程式研發、韌體工程開發、軟體程式設計、韌體程式設計、微電腦軟體設計\n其他條件：具備以下經驗者佳\n1.Linux Kernel Driver開發經驗\n2.BSP/Embedded Linux/BMC Firmware開發經驗\n3.Storage或PCIe相關Driver開發經驗\n4.了解 SSD 架構、firemware、SSD 功能和性能指標\n5.了解 PCIe或NVMe或SCSI協議\n6.有Linux, C/C++, Python程式開發經驗\n7.有Windows、Linux驅動程式開發經驗\n8.有單晶片韌體開發經驗\n9.了解白箱和灰箱測試方法\n10.有驗證內容開發相關經驗或SSD驗證工作相關經驗",
+    "tools": [
+      "Linux",
+      "Shell",
+      "Android",
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 49
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:23:35+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責研究、設計與開發企業級NVMe SSD的驗證方法與流程\n2.分析PCIe/NVMe/OCP與Customer自定義協定規範、拆解驗證需求，特別是企業級Feature包括ZNS/FDP/SRIOV/MFD等\n3.參與新技術前期design review，評估韌體設計符合規範\n4.研究Linux Storage / Windows 軟體分層，包括檔案系統/Device Mapper/Block Layer/Device & Bus Driver\n5.建構企業級SSD在HPC、數據中心的應用場景與使用組態，研究AI/VM/NVMe-oF/RAID架構及韌體行為與最佳化策略\n6.提供企業級客戶系統整合、相容性解決方案、分析軟體，分析異常Log並設計實驗方法釐清問題\n7.研究Server與工作站平台相關配置及SSD初始化、資源管理與互動機制，包括BIOS、UEFI、BMC等",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責研究、設計與開發企業級NVMe SSD的驗證方法與流程\n2.分析PCIe/NVMe/OCP與Customer自定義協定規範、拆解驗證需求，特別是企業級Feature包括ZNS/FDP/SRIOV/MFD等\n3.參與新技術前期design review，評估韌體設計符合規範\n4.研究Linux Storage / Windows 軟體分層，包括檔案系統/Device Mapper/Block Layer/Device & Bus Driver\n5.建構企業級SSD在HPC、數據中心的應用場景與使用組態，研究AI/VM/NVMe-oF/RAID架構及韌體行為與最佳化策略\n6.提供企業級客戶系統整合、相容性解決方案、分析軟體，分析異常Log並設計實驗方法釐清問題\n7.研究Server與工作站平台相關配置及SSD初始化、資源管理與互動機制，包括BIOS、UEFI、BMC等"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "電機電子工程相關",
+            "物理學相關"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、電機電子工程相關、物理學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Shell",
+            "Android",
+            "C",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Shell、Android、C、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "BIOS程式研發",
+            "韌體工程開發",
+            "軟體程式設計",
+            "韌體程式設計",
+            "微電腦軟體設計"
+          ],
+          "label": "工作技能",
+          "text": "BIOS程式研發、韌體工程開發、軟體程式設計、韌體程式設計、微電腦軟體設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "具備以下經驗者佳\n1.Linux Kernel Driver開發經驗\n2.BSP/Embedded Linux/BMC Firmware開發經驗\n3.Storage或PCIe相關Driver開發經驗\n4.了解 SSD 架構、firemware、SSD 功能和性能指標\n5.了解 PCIe或NVMe或SCSI協議\n6.有Linux, C/C++, Python程式開發經驗\n7.有Windows、Linux驅動程式開發經驗\n8.有單晶片韌體開發經驗\n9.了解白箱和灰箱測試方法\n10.有驗證內容開發相關經驗或SSD驗證工作相關經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類、電機電子工程相關、物理學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Shell、Android、C、C++、Python\n工作技能：BIOS程式研發、韌體工程開發、軟體程式設計、韌體程式設計、微電腦軟體設計\n其他條件：具備以下經驗者佳\n1.Linux Kernel Driver開發經驗\n2.BSP/Embedded Linux/BMC Firmware開發經驗\n3.Storage或PCIe相關Driver開發經驗\n4.了解 SSD 架構、firemware、SSD 功能和性能指標\n5.了解 PCIe或NVMe或SCSI協議\n6.有Linux, C/C++, Python程式開發經驗\n7.有Windows、Linux驅動程式開發經驗\n8.有單晶片韌體開發經驗\n9.了解白箱和灰箱測試方法\n10.有驗證內容開發相關經驗或SSD驗證工作相關經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "849iq",
+    "job_url": "https://www.104.com.tw/job/849iq",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/849iq.json",
+    "raw_sha256": "675604812783dc25a34b4fccef9db08023c962f83e978476cd8177863677f3d7",
+    "requested_url": "https://www.104.com.tw/api/jobs/849iq"
+  }
+}

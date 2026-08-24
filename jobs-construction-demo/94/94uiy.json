@@ -1,0 +1,201 @@
+{
+  "company": {
+    "id": "bhsy92o",
+    "name": "晶碩光學股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "MIS程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "POS 與核心系統開發："
+        },
+        {
+          "children": [],
+          "text": "第三方服務整合："
+        },
+        {
+          "children": [],
+          "text": "AI 智慧開發應用："
+        },
+        {
+          "children": [],
+          "text": "資料庫管理與優化："
+        },
+        {
+          "children": [],
+          "text": "文件與流程維護："
+        }
+      ],
+      "text": "1、POS 與核心系統開發：\n負責 POS 系統與關聯服務之功能開發與維護，涵蓋門市收銀、會員、促銷及庫存管理等模組。\n2、第三方服務整合：\n串接各類外部服務，包含行動支付（街口、LINE Pay）、信用卡金流、物流及電商平台等系統整合。\n3、AI 智慧開發應用：\n導入 ChatGPT、Claude、Cursor 等 AI 工具，應用於程式開發、技術文件編寫、測試案例生成及流程自動化。\n4、資料庫管理與優化：\n負責資料庫結構設計、複雜 SQL 撰寫與效能調校優化。\n5、文件與流程維護：\n撰寫標準技術文件，並持續優化與維護整體系統開發流程。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【新莊辦公室】系統開發工程師/高級工程師_03"
+  },
+  "location": {
+    "address_raw": "新北市新莊區中原路558號5樓",
+    "raw": "新北市新莊區中原路558號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "PHP",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "MySQL",
+          "Oracle",
+          "Python",
+          "Node.js"
+        ],
+        "label": "擅長工具",
+        "text": "PHP、JavaScript、HTML、CSS、MySQL、Oracle、Python、Node.js"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉MySQL / MariaDB / MSSQL / Oracle 任一資料庫\n熟悉RESTful API 串接與 JSON 資料交換\n具第三方金流或平台串接經驗（街口、LINE Pay、物流、電商平台等）\n對 AI 工具應用有高度興趣，願意將 AI 實際導入工作流程\n具POS、ERP、會員、點數或零售系統經驗\nPython、FastAPI、Node.js 任一經驗\nAI API（OpenAI、Gemini、Claude）串接經驗\nGit / SVN 版本控管經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "熟悉MySQL / MariaDB / MSSQL / Oracle 任一資料庫\n熟悉RESTful API 串接與 JSON 資料交換\n具第三方金流或平台串接經驗（街口、LINE Pay、物流、電商平台等）\n對 AI 工具應用有高度興趣，願意將 AI 實際導入工作流程\n具POS、ERP、會員、點數或零售系統經驗\nPython、FastAPI、Node.js 任一經驗\nAI API（OpenAI、Gemini、Claude）串接經驗\nGit / SVN 版本控管經驗",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n擅長工具：PHP、JavaScript、HTML、CSS、MySQL、Oracle、Python、Node.js\n其他條件：熟悉MySQL / MariaDB / MSSQL / Oracle 任一資料庫\n熟悉RESTful API 串接與 JSON 資料交換\n具第三方金流或平台串接經驗（街口、LINE Pay、物流、電商平台等）\n對 AI 工具應用有高度興趣，願意將 AI 實際導入工作流程\n具POS、ERP、會員、點數或零售系統經驗\nPython、FastAPI、Node.js 任一經驗\nAI API（OpenAI、Gemini、Claude）串接經驗\nGit / SVN 版本控管經驗",
+    "tools": [
+      "PHP",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "Oracle",
+      "Python",
+      "Node.js"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 10
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:45:03+08:00"
+  },
+  "salary": {
+    "raw": "月薪39,000~68,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1、POS 與核心系統開發：\n負責 POS 系統與關聯服務之功能開發與維護，涵蓋門市收銀、會員、促銷及庫存管理等模組。\n2、第三方服務整合：\n串接各類外部服務，包含行動支付（街口、LINE Pay）、信用卡金流、物流及電商平台等系統整合。\n3、AI 智慧開發應用：\n導入 ChatGPT、Claude、Cursor 等 AI 工具，應用於程式開發、技術文件編寫、測試案例生成及流程自動化。\n4、資料庫管理與優化：\n負責資料庫結構設計、複雜 SQL 撰寫與效能調校優化。\n5、文件與流程維護：\n撰寫標準技術文件，並持續優化與維護整體系統開發流程。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "MIS程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、MIS程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪39,000~68,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新莊區中原路558號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1、POS 與核心系統開發：\n負責 POS 系統與關聯服務之功能開發與維護，涵蓋門市收銀、會員、促銷及庫存管理等模組。\n2、第三方服務整合：\n串接各類外部服務，包含行動支付（街口、LINE Pay）、信用卡金流、物流及電商平台等系統整合。\n3、AI 智慧開發應用：\n導入 ChatGPT、Claude、Cursor 等 AI 工具，應用於程式開發、技術文件編寫、測試案例生成及流程自動化。\n4、資料庫管理與優化：\n負責資料庫結構設計、複雜 SQL 撰寫與效能調校優化。\n5、文件與流程維護：\n撰寫標準技術文件，並持續優化與維護整體系統開發流程。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PHP",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "MySQL",
+            "Oracle",
+            "Python",
+            "Node.js"
+          ],
+          "label": "擅長工具",
+          "text": "PHP、JavaScript、HTML、CSS、MySQL、Oracle、Python、Node.js",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉MySQL / MariaDB / MSSQL / Oracle 任一資料庫\n熟悉RESTful API 串接與 JSON 資料交換\n具第三方金流或平台串接經驗（街口、LINE Pay、物流、電商平台等）\n對 AI 工具應用有高度興趣，願意將 AI 實際導入工作流程\n具POS、ERP、會員、點數或零售系統經驗\nPython、FastAPI、Node.js 任一經驗\nAI API（OpenAI、Gemini、Claude）串接經驗\nGit / SVN 版本控管經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n擅長工具：PHP、JavaScript、HTML、CSS、MySQL、Oracle、Python、Node.js\n其他條件：熟悉MySQL / MariaDB / MSSQL / Oracle 任一資料庫\n熟悉RESTful API 串接與 JSON 資料交換\n具第三方金流或平台串接經驗（街口、LINE Pay、物流、電商平台等）\n對 AI 工具應用有高度興趣，願意將 AI 實際導入工作流程\n具POS、ERP、會員、點數或零售系統經驗\nPython、FastAPI、Node.js 任一經驗\nAI API（OpenAI、Gemini、Claude）串接經驗\nGit / SVN 版本控管經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94uiy",
+    "job_url": "https://www.104.com.tw/job/94uiy",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94uiy.json",
+    "raw_sha256": "1679427b81aad921c8e20fbc1b161984cef439616108dcbf4595073f3ea6b511",
+    "requested_url": "https://www.104.com.tw/api/jobs/94uiy"
+  }
+}

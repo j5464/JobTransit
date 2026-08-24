@@ -1,0 +1,232 @@
+{
+  "company": {
+    "id": "1a2x6bl0mw",
+    "name": "芯喬科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "光學工程師",
+      "電子工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "機器視覺辨識 軟體 開發"
+        },
+        {
+          "children": [],
+          "text": "將機器學習應用於電腦視覺及 AOI領域 ."
+        },
+        {
+          "children": [],
+          "text": "視覺運算法、程式撰寫及試機能力"
+        },
+        {
+          "children": [],
+          "text": "光學調整能力。"
+        },
+        {
+          "children": [],
+          "text": "CCD及鏡頭元件選用能力。"
+        },
+        {
+          "children": [],
+          "text": "硬體故障維修判斷能力。"
+        }
+      ],
+      "text": "1. 機器視覺辨識 軟體 開發\n2. 將機器學習應用於電腦視覺及 AOI領域 .\n3. 視覺運算法、程式撰寫及試機能力\n4. 光學調整能力。\n5. CCD及鏡頭元件選用能力。\n6. 硬體故障維修判斷能力。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資深影像工程師"
+  },
+  "location": {
+    "address_raw": "台中市大雅區中清路5段109號",
+    "raw": "台中市大雅區中清路5段109號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "光電工程相關",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、光電工程相關、工程學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "Python",
+          "Visual Basic .net"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Python、Visual Basic .net"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具備良好的溝通能力及獨立作業能力。\n2.配合無塵室機台調整作業、可配合短期出差 。\n3.出差:須配合出差(一年累計時間約一個月)。\n4.工作經歷：具3年以上AOI影像辨識軟體經驗者尤佳。\n5.擅長工具：C# 、 Python、 VB.net 软件技能。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "光電工程相關",
+      "工程學科類"
+    ],
+    "other_text": "1.具備良好的溝通能力及獨立作業能力。\n2.配合無塵室機台調整作業、可配合短期出差 。\n3.出差:須配合出差(一年累計時間約一個月)。\n4.工作經歷：具3年以上AOI影像辨識軟體經驗者尤佳。\n5.擅長工具：C# 、 Python、 VB.net 软件技能。",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：電機電子工程相關、光電工程相關、工程學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Python、Visual Basic .net\n其他條件：1.具備良好的溝通能力及獨立作業能力。\n2.配合無塵室機台調整作業、可配合短期出差 。\n3.出差:須配合出差(一年累計時間約一個月)。\n4.工作經歷：具3年以上AOI影像辨識軟體經驗者尤佳。\n5.擅長工具：C# 、 Python、 VB.net 软件技能。",
+    "tools": [
+      "C#",
+      "Python",
+      "Visual Basic .net"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 64
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:00:39+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 機器視覺辨識 軟體 開發\n2. 將機器學習應用於電腦視覺及 AOI領域 .\n3. 視覺運算法、程式撰寫及試機能力\n4. 光學調整能力。\n5. CCD及鏡頭元件選用能力。\n6. 硬體故障維修判斷能力。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "光學工程師",
+            "電子工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、光學工程師、電子工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市大雅區中清路5段109號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 機器視覺辨識 軟體 開發\n2. 將機器學習應用於電腦視覺及 AOI領域 .\n3. 視覺運算法、程式撰寫及試機能力\n4. 光學調整能力。\n5. CCD及鏡頭元件選用能力。\n6. 硬體故障維修判斷能力。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "光電工程相關",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、光電工程相關、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Python",
+            "Visual Basic .net"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Python、Visual Basic .net",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具備良好的溝通能力及獨立作業能力。\n2.配合無塵室機台調整作業、可配合短期出差 。\n3.出差:須配合出差(一年累計時間約一個月)。\n4.工作經歷：具3年以上AOI影像辨識軟體經驗者尤佳。\n5.擅長工具：C# 、 Python、 VB.net 软件技能。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：電機電子工程相關、光電工程相關、工程學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Python、Visual Basic .net\n其他條件：1.具備良好的溝通能力及獨立作業能力。\n2.配合無塵室機台調整作業、可配合短期出差 。\n3.出差:須配合出差(一年累計時間約一個月)。\n4.工作經歷：具3年以上AOI影像辨識軟體經驗者尤佳。\n5.擅長工具：C# 、 Python、 VB.net 软件技能。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6r1l6",
+    "job_url": "https://www.104.com.tw/job/6r1l6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6r1l6.json",
+    "raw_sha256": "42377d37228ffc838a8847cf204f06ed1b7db400797adb1cf5d716c97a6c89fb",
+    "requested_url": "https://www.104.com.tw/api/jobs/6r1l6"
+  }
+}

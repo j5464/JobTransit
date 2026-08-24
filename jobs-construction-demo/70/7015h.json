@@ -1,0 +1,243 @@
+{
+  "company": {
+    "id": "1a2x6bkirw",
+    "name": "杰倫智能科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "軟體專案管理師",
+      "軟韌體測試工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "良好的團隊合作與溝通能力"
+        },
+        {
+          "children": [],
+          "text": "豐富的表格數據分析經驗"
+        },
+        {
+          "children": [],
+          "text": "能獨力建立模型，並了解各種評估指標的基本意義與應用場景"
+        },
+        {
+          "children": [],
+          "text": "產品開發能力"
+        },
+        {
+          "children": [],
+          "text": "創新思考方式"
+        },
+        {
+          "children": [],
+          "text": "略懂製造業相關知識尤佳"
+        },
+        {
+          "children": [],
+          "text": "精通python程式語言、熟悉linux作業系統"
+        },
+        {
+          "children": [],
+          "text": "熟悉pandas、numpy、statsmodels、scikit-learn、pytorch、matplotlib、plotly等套件"
+        },
+        {
+          "children": [],
+          "text": "熟悉git協作與版本控制"
+        },
+        {
+          "children": [],
+          "text": "了解平行化的相關技術"
+        },
+        {
+          "children": [],
+          "text": "分析個案了解需求"
+        },
+        {
+          "children": [],
+          "text": "導入、開發或優化AutoML產品內的功能"
+        },
+        {
+          "children": [],
+          "text": "評估新功能帶來的效益"
+        },
+        {
+          "children": [],
+          "text": "維護AutoML產品"
+        },
+        {
+          "children": [],
+          "text": "測試AutoML產品"
+        },
+        {
+          "children": [],
+          "text": "寫文件"
+        }
+      ],
+      "text": "若您的邏輯清晰、具備運算思維能力，且對AI/機器學習很有興趣、嚮往以AI/機器學習相關開發工作為終身志業，但是還沒有相關工作經驗、甚至不是相關科系畢業但自學有成，都歡迎您來應徵這個職務。只要您有決心，我們會有Mentor引導您、讓您在實務工作中學習，成為用雙手創造改變的優秀研發工程師。我們是新創公司，未來的方向無限寬廣，也歡迎以此職位為起點，將來轉職到會面向客戶的職位喔!\n基本要求：\n1. 良好的團隊合作與溝通能力\n2. 豐富的表格數據分析經驗\n3. 能獨力建立模型，並了解各種評估指標的基本意義與應用場景\n4. 產品開發能力\n5. 創新思考方式\n6. 略懂製造業相關知識尤佳\n技術要求：\n1. 精通python程式語言、熟悉linux作業系統\n2. 熟悉pandas、numpy、statsmodels、scikit-learn、pytorch、matplotlib、plotly等套件\n3. 熟悉git協作與版本控制\n4. 了解平行化的相關技術\n工作內容：\n1. 分析個案了解需求\n2. 導入、開發或優化AutoML產品內的功能\n3. 評估新功能帶來的效益\n4. 維護AutoML產品\n5. 測試AutoML產品\n6. 寫文件\n備註：本職缺目前暫無對圖像相關AI技術人員的需求。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI/機器學習研發工程師｜ AI/ML Engineer"
+  },
+  "location": {
+    "address_raw": "台北市信義區基隆路一段111號3樓",
+    "raw": "台北市信義區基隆路一段111號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "面試時請準備能展現自己程式實作或分析能力的作品"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "面試時請準備能展現自己程式實作或分析能力的作品",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python\n其他條件：面試時請準備能展現自己程式實作或分析能力的作品",
+    "tools": [
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 38
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:56:27+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "若您的邏輯清晰、具備運算思維能力，且對AI/機器學習很有興趣、嚮往以AI/機器學習相關開發工作為終身志業，但是還沒有相關工作經驗、甚至不是相關科系畢業但自學有成，都歡迎您來應徵這個職務。只要您有決心，我們會有Mentor引導您、讓您在實務工作中學習，成為用雙手創造改變的優秀研發工程師。我們是新創公司，未來的方向無限寬廣，也歡迎以此職位為起點，將來轉職到會面向客戶的職位喔!\n基本要求：\n1. 良好的團隊合作與溝通能力\n2. 豐富的表格數據分析經驗\n3. 能獨力建立模型，並了解各種評估指標的基本意義與應用場景\n4. 產品開發能力\n5. 創新思考方式\n6. 略懂製造業相關知識尤佳\n技術要求：\n1. 精通python程式語言、熟悉linux作業系統\n2. 熟悉pandas、numpy、statsmodels、scikit-learn、pytorch、matplotlib、plotly等套件\n3. 熟悉git協作與版本控制\n4. 了解平行化的相關技術\n工作內容：\n1. 分析個案了解需求\n2. 導入、開發或優化AutoML產品內的功能\n3. 評估新功能帶來的效益\n4. 維護AutoML產品\n5. 測試AutoML產品\n6. 寫文件\n備註：本職缺目前暫無對圖像相關AI技術人員的需求。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "軟體專案管理師",
+            "軟韌體測試工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、軟體專案管理師、軟韌體測試工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區基隆路一段111號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "若您的邏輯清晰、具備運算思維能力，且對AI/機器學習很有興趣、嚮往以AI/機器學習相關開發工作為終身志業，但是還沒有相關工作經驗、甚至不是相關科系畢業但自學有成，都歡迎您來應徵這個職務。只要您有決心，我們會有Mentor引導您、讓您在實務工作中學習，成為用雙手創造改變的優秀研發工程師。我們是新創公司，未來的方向無限寬廣，也歡迎以此職位為起點，將來轉職到會面向客戶的職位喔!\n基本要求：\n1. 良好的團隊合作與溝通能力\n2. 豐富的表格數據分析經驗\n3. 能獨力建立模型，並了解各種評估指標的基本意義與應用場景\n4. 產品開發能力\n5. 創新思考方式\n6. 略懂製造業相關知識尤佳\n技術要求：\n1. 精通python程式語言、熟悉linux作業系統\n2. 熟悉pandas、numpy、statsmodels、scikit-learn、pytorch、matplotlib、plotly等套件\n3. 熟悉git協作與版本控制\n4. 了解平行化的相關技術\n工作內容：\n1. 分析個案了解需求\n2. 導入、開發或優化AutoML產品內的功能\n3. 評估新功能帶來的效益\n4. 維護AutoML產品\n5. 測試AutoML產品\n6. 寫文件\n備註：本職缺目前暫無對圖像相關AI技術人員的需求。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "面試時請準備能展現自己程式實作或分析能力的作品",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python\n其他條件：面試時請準備能展現自己程式實作或分析能力的作品"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7015h",
+    "job_url": "https://www.104.com.tw/job/7015h",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7015h.json",
+    "raw_sha256": "0e7890d71c699607a1f462ebceec04cff9e3a2adb19674cf99ab92080509bc07",
+    "requested_url": "https://www.104.com.tw/api/jobs/7015h"
+  }
+}

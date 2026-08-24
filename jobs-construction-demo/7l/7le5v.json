@@ -1,0 +1,260 @@
+{
+  "company": {
+    "id": "18kwuzq8",
+    "name": "旭聯科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "MIS程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "樂於溝通"
+        },
+        {
+          "children": [],
+          "text": "Self-motivated"
+        },
+        {
+          "children": [],
+          "text": "J2SE/J2EE 相關之 Java Web 程式開發技術 (Java/JSP/Servlet)"
+        },
+        {
+          "children": [],
+          "text": "資料庫系統寫作經驗 – 熟SQL, Mysql/Mssql/Oracle 皆可。"
+        },
+        {
+          "children": [],
+          "text": "Spring, Hibernate, RESTful web service"
+        },
+        {
+          "children": [],
+          "text": "雲端相關技術或大數據分析，AI 等相關能力"
+        },
+        {
+          "children": [],
+          "text": "DevOps 相關技能 (CI, 容器化)"
+        },
+        {
+          "children": [],
+          "text": "其他程式語言, 如 C#, python, ruby, Kotlin 等"
+        },
+        {
+          "children": [],
+          "text": "Design Pattern"
+        },
+        {
+          "children": [],
+          "text": "企業人資系統相關經驗, 數位學習系統相關經驗, 多媒體/串流相關技術"
+        }
+      ],
+      "text": "我們是台灣市占率第一之企業數位學習與人才管理雲端平台之系統開發與維運廠商。\n歡迎願與公司卓越成長的優秀人才加入！\n【工作態度】\n1、樂於溝通\n2、Self-motivated\n【基本能力】\n以下後端與前端技能具備其一\n[後端]\n1、J2SE/J2EE 相關之 Java Web 程式開發技術 (Java/JSP/Servlet)\n2、資料庫系統寫作經驗 – 熟SQL, Mysql/Mssql/Oracle 皆可。\n【加分項目】\n1、Spring, Hibernate, RESTful web service\n2、雲端相關技術或大數據分析，AI 等相關能力\n3、DevOps 相關技能 (CI, 容器化)\n4、其他程式語言, 如 C#, python, ruby, Kotlin 等\n5、Design Pattern\n6、企業人資系統相關經驗, 數位學習系統相關經驗, 多媒體/串流相關技術"
+    },
+    "employment_type_raw": "全職",
+    "title": "【台北總部】全球策略發展中心_後端工程師(JAVA)"
+  },
+  "location": {
+    "address_raw": "台北市中山區建國北路二段137號6樓",
+    "raw": "台北市中山區建國北路二段137號6樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "Java"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "資料庫系統管理維護",
+          "資料庫程式設計",
+          "資料庫軟體應用"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分項目】\n1、Spring, Hibernate, RESTful web service\n2、雲端相關技術或大數據分析，AI 等相關能力\n3、DevOps 相關技能 (CI, 容器化)\n4、其他程式語言, 如 C#, python, ruby, Kotlin 等\n5、Design Pattern\n6、企業人資系統相關經驗, 數位學習系統相關經驗, 多媒體/串流相關技術 ."
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "數學及電算機科學學科類",
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "【加分項目】\n1、Spring, Hibernate, RESTful web service\n2、雲端相關技術或大數據分析，AI 等相關能力\n3、DevOps 相關技能 (CI, 容器化)\n4、其他程式語言, 如 C#, python, ruby, Kotlin 等\n5、Design Pattern\n6、企業人資系統相關經驗, 數位學習系統相關經驗, 多媒體/串流相關技術 .",
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "資料庫系統管理維護",
+      "資料庫程式設計",
+      "資料庫軟體應用"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、資訊工程相關、資訊管理相關\n擅長工具：Java\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用\n其他條件：【加分項目】\n1、Spring, Hibernate, RESTful web service\n2、雲端相關技術或大數據分析，AI 等相關能力\n3、DevOps 相關技能 (CI, 容器化)\n4、其他程式語言, 如 C#, python, ruby, Kotlin 等\n5、Design Pattern\n6、企業人資系統相關經驗, 數位學習系統相關經驗, 多媒體/串流相關技術 .",
+    "tools": [
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 71
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:16:29+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們是台灣市占率第一之企業數位學習與人才管理雲端平台之系統開發與維運廠商。\n歡迎願與公司卓越成長的優秀人才加入！\n【工作態度】\n1、樂於溝通\n2、Self-motivated\n【基本能力】\n以下後端與前端技能具備其一\n[後端]\n1、J2SE/J2EE 相關之 Java Web 程式開發技術 (Java/JSP/Servlet)\n2、資料庫系統寫作經驗 – 熟SQL, Mysql/Mssql/Oracle 皆可。\n【加分項目】\n1、Spring, Hibernate, RESTful web service\n2、雲端相關技術或大數據分析，AI 等相關能力\n3、DevOps 相關技能 (CI, 容器化)\n4、其他程式語言, 如 C#, python, ruby, Kotlin 等\n5、Design Pattern\n6、企業人資系統相關經驗, 數位學習系統相關經驗, 多媒體/串流相關技術",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "MIS程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、MIS程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區建國北路二段137號6樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們是台灣市占率第一之企業數位學習與人才管理雲端平台之系統開發與維運廠商。\n歡迎願與公司卓越成長的優秀人才加入！\n【工作態度】\n1、樂於溝通\n2、Self-motivated\n【基本能力】\n以下後端與前端技能具備其一\n[後端]\n1、J2SE/J2EE 相關之 Java Web 程式開發技術 (Java/JSP/Servlet)\n2、資料庫系統寫作經驗 – 熟SQL, Mysql/Mssql/Oracle 皆可。\n【加分項目】\n1、Spring, Hibernate, RESTful web service\n2、雲端相關技術或大數據分析，AI 等相關能力\n3、DevOps 相關技能 (CI, 容器化)\n4、其他程式語言, 如 C#, python, ruby, Kotlin 等\n5、Design Pattern\n6、企業人資系統相關經驗, 數位學習系統相關經驗, 多媒體/串流相關技術"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "Java",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "資料庫系統管理維護",
+            "資料庫程式設計",
+            "資料庫軟體應用"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分項目】\n1、Spring, Hibernate, RESTful web service\n2、雲端相關技術或大數據分析，AI 等相關能力\n3、DevOps 相關技能 (CI, 容器化)\n4、其他程式語言, 如 C#, python, ruby, Kotlin 等\n5、Design Pattern\n6、企業人資系統相關經驗, 數位學習系統相關經驗, 多媒體/串流相關技術 .",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、資訊工程相關、資訊管理相關\n擅長工具：Java\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計、資料庫系統管理維護、資料庫程式設計、資料庫軟體應用\n其他條件：【加分項目】\n1、Spring, Hibernate, RESTful web service\n2、雲端相關技術或大數據分析，AI 等相關能力\n3、DevOps 相關技能 (CI, 容器化)\n4、其他程式語言, 如 C#, python, ruby, Kotlin 等\n5、Design Pattern\n6、企業人資系統相關經驗, 數位學習系統相關經驗, 多媒體/串流相關技術 ."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7le5v",
+    "job_url": "https://www.104.com.tw/job/7le5v",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7le5v.json",
+    "raw_sha256": "dbe97b5fc2d99650c7ec5b1338c3c833d585ed32f42efeb3091d264068890a30",
+    "requested_url": "https://www.104.com.tw/api/jobs/7le5v"
+  }
+}

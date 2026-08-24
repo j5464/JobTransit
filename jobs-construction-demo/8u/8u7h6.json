@@ -1,0 +1,201 @@
+{
+  "company": {
+    "id": "27rev2w",
+    "name": "百略醫學科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體助理工程師",
+      "軟韌體測試工程師",
+      "助理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "根據產品規格與RD人員討論後續V&V的測試項。"
+        },
+        {
+          "children": [],
+          "text": "測試後與RD商討發現的問題及解決方式, 並與專案經理溝通以達成產品上線時程。"
+        },
+        {
+          "children": [],
+          "text": "對PC/iOS/Android與cloud應用測試。"
+        },
+        {
+          "children": [],
+          "text": "測試報告紀錄與撰寫。"
+        }
+      ],
+      "text": "1. 根據產品規格與RD人員討論後續V&V的測試項。\n2. 測試後與RD商討發現的問題及解決方式, 並與專案經理溝通以達成產品上線時程。\n3. 對PC/iOS/Android與cloud應用測試。\n4. 測試報告紀錄與撰寫。"
+    },
+    "employment_type_raw": "全職",
+    "title": "測試工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路431號9樓",
+    "raw": "台北市內湖區瑞光路431號9樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "醫藥工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、醫藥工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. office相關測試軟體、若具備初步編寫程式能力尤佳。\n2. 做事細心謹慎、與他人互動良好。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "醫藥工程相關"
+    ],
+    "other_text": "1. office相關測試軟體、若具備初步編寫程式能力尤佳。\n2. 做事細心謹慎、與他人互動良好。",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、資訊管理相關、醫藥工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. office相關測試軟體、若具備初步編寫程式能力尤佳。\n2. 做事細心謹慎、與他人互動良好。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 93
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:11:16+08:00"
+  },
+  "salary": {
+    "raw": "月薪33,000~40,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 根據產品規格與RD人員討論後續V&V的測試項。\n2. 測試後與RD商討發現的問題及解決方式, 並與專案經理溝通以達成產品上線時程。\n3. 對PC/iOS/Android與cloud應用測試。\n4. 測試報告紀錄與撰寫。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體助理工程師",
+            "軟韌體測試工程師",
+            "助理工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體助理工程師、軟韌體測試工程師、助理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪33,000~40,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路431號9樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 根據產品規格與RD人員討論後續V&V的測試項。\n2. 測試後與RD商討發現的問題及解決方式, 並與專案經理溝通以達成產品上線時程。\n3. 對PC/iOS/Android與cloud應用測試。\n4. 測試報告紀錄與撰寫。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "醫藥工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、醫藥工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. office相關測試軟體、若具備初步編寫程式能力尤佳。\n2. 做事細心謹慎、與他人互動良好。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、資訊管理相關、醫藥工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. office相關測試軟體、若具備初步編寫程式能力尤佳。\n2. 做事細心謹慎、與他人互動良好。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8u7h6",
+    "job_url": "https://www.104.com.tw/job/8u7h6",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8u7h6.json",
+    "raw_sha256": "5c21d3dc1d2ea951654b812076ce61ee7eeed8b30709966714c3e6c40392f08d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8u7h6"
+  }
+}

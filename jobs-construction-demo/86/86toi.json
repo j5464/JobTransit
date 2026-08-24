@@ -1,0 +1,252 @@
+{
+  "company": {
+    "id": "wf0ru0g",
+    "name": "藍新科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師",
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "精通JAVA編程語言，有豐富的資料庫應用經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉Spring Boot框架，並能夠獨立開發和維護JAVA應用程式。"
+        },
+        {
+          "children": [],
+          "text": "具有JSP/Servlet技術的實際應用經驗。"
+        },
+        {
+          "children": [],
+          "text": "對J2EE的概念有深入了解，能夠有效地應用於項目開發。"
+        },
+        {
+          "children": [],
+          "text": "良好的團隊合作和溝通能力。"
+        },
+        {
+          "children": [],
+          "text": "良好的問題解決和獨立工作的能力。"
+        }
+      ],
+      "text": "- 精通JAVA編程語言，有豐富的資料庫應用經驗。\n- 熟悉Spring Boot框架，並能夠獨立開發和維護JAVA應用程式。\n- 具有JSP/Servlet技術的實際應用經驗。\n- 對J2EE的概念有深入了解，能夠有效地應用於項目開發。\n- 良好的團隊合作和溝通能力。\n- 良好的問題解決和獨立工作的能力。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java工程師"
+  },
+  "location": {
+    "address_raw": "台北市南港區南港路二段97號8樓",
+    "raw": "台北市南港區南港路二段97號8樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Java",
+          "JSP",
+          "Spring",
+          "MS SQL",
+          "MySQL"
+        ],
+        "label": "擅長工具",
+        "text": "Java、JSP、Spring、MS SQL、MySQL"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "其他條件:\n- RESTful API、關聯式資料庫(MY-SQL)設計經驗\n- GIT、REDIS、RabbitMQ相關使用經驗"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "其他條件:\n- RESTful API、關聯式資料庫(MY-SQL)設計經驗\n- GIT、REDIS、RabbitMQ相關使用經驗",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Java、JSP、Spring、MS SQL、MySQL\n工作技能：軟體程式設計\n其他條件：其他條件:\n- RESTful API、關聯式資料庫(MY-SQL)設計經驗\n- GIT、REDIS、RabbitMQ相關使用經驗",
+    "tools": [
+      "Java",
+      "JSP",
+      "Spring",
+      "MS SQL",
+      "MySQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 84
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:48:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "- 精通JAVA編程語言，有豐富的資料庫應用經驗。\n- 熟悉Spring Boot框架，並能夠獨立開發和維護JAVA應用程式。\n- 具有JSP/Servlet技術的實際應用經驗。\n- 對J2EE的概念有深入了解，能夠有效地應用於項目開發。\n- 良好的團隊合作和溝通能力。\n- 良好的問題解決和獨立工作的能力。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師",
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師、前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區南港路二段97號8樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "- 精通JAVA編程語言，有豐富的資料庫應用經驗。\n- 熟悉Spring Boot框架，並能夠獨立開發和維護JAVA應用程式。\n- 具有JSP/Servlet技術的實際應用經驗。\n- 對J2EE的概念有深入了解，能夠有效地應用於項目開發。\n- 良好的團隊合作和溝通能力。\n- 良好的問題解決和獨立工作的能力。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "JSP",
+            "Spring",
+            "MS SQL",
+            "MySQL"
+          ],
+          "label": "擅長工具",
+          "text": "Java、JSP、Spring、MS SQL、MySQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "其他條件:\n- RESTful API、關聯式資料庫(MY-SQL)設計經驗\n- GIT、REDIS、RabbitMQ相關使用經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Java、JSP、Spring、MS SQL、MySQL\n工作技能：軟體程式設計\n其他條件：其他條件:\n- RESTful API、關聯式資料庫(MY-SQL)設計經驗\n- GIT、REDIS、RabbitMQ相關使用經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "86toi",
+    "job_url": "https://www.104.com.tw/job/86toi",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/86toi.json",
+    "raw_sha256": "294ae3a9bd95d93dfc365b2430721c39d0b9aff3721fcdf770d2899868d4d2b4",
+    "requested_url": "https://www.104.com.tw/api/jobs/86toi"
+  }
+}

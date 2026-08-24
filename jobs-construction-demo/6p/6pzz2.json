@@ -1,0 +1,216 @@
+{
+  "company": {
+    "id": "1a2x6bhzk1",
+    "name": "全鼎資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "MIS程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依照客戶需求及主管要求，開發並維護高效能、高安全性、使用者易用的網站應用程式。"
+        },
+        {
+          "children": [],
+          "text": "整合網站應用程式至資料庫資料庫管理系統開發，視需求需整合SSIS。"
+        },
+        {
+          "children": [],
+          "text": "開發改善所負責的系統，並維護相關所需文件。"
+        },
+        {
+          "children": [],
+          "text": "有基本網頁程式設計能力，應徵時將視其能力高低，進行程式設計測試。"
+        },
+        {
+          "children": [],
+          "text": "程式語言：熟悉ASP.net C# 程式設計"
+        },
+        {
+          "children": [],
+          "text": "網頁技術：熟悉HTML, CSS, Java Script"
+        },
+        {
+          "children": [],
+          "text": "資料庫技術：MS SQL Server （T-SQL)。"
+        }
+      ],
+      "text": "本工作主要內容為ASP.Net 、MVC、. Net core程式開發、設計及維護。\n開發團隊正在追求敏捷開發的精神，我們相信我們不是只是單單只是維護系統，寫寫程式而己。\n更相信我們是可以做出有價值的產品，歡迎有熱忱、樂於團隊溝通、不斷追求進步的你加入團隊。\n歡迎應屆畢業生加入學習，更歡迎有工作經驗的資深人員加入，與我們一起打造不斷進步的工作環境。\n工作內容：\n1. 依照客戶需求及主管要求，開發並維護高效能、高安全性、使用者易用的網站應用程式。\n2. 整合網站應用程式至資料庫資料庫管理系統開發，視需求需整合SSIS。\n2. 開發改善所負責的系統，並維護相關所需文件。\n3. 有基本網頁程式設計能力，應徵時將視其能力高低，進行程式設計測試。\n必備技能\n1.程式語言：熟悉ASP.net C# 程式設計\n2.網頁技術：熟悉HTML, CSS, Java Script\n3.資料庫技術：MS SQL Server （T-SQL)。"
+    },
+    "employment_type_raw": "全職",
+    "title": "ASP.Net 程式設計師"
+  },
+  "location": {
+    "address_raw": "台北市中正區青島東路3-2號3樓",
+    "raw": "台北市中正區青島東路3-2號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "AJAX",
+          "ASP",
+          "ASP.NET",
+          "Visual C#"
+        ],
+        "label": "擅長工具",
+        "text": "AJAX、ASP、ASP.NET、Visual C#"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "擅長工具：Visual Studio .net、XML Web services\n工作技能：\n軟體程式設計、資料庫程式設計、資料庫軟體應用\n其他條件：\n必備技能\n1.程式語言：熟悉ASP.net C# 程式設計\n2.網頁技術：熟悉HTML, CSS, JavaScript\n3.資料庫技術：MS SQL Server 2008 (T-SQL)。\n加分技能\n1.程式語言：ASP.net VB、ASP.Net MVC、Entity Framework、. Net core\n2.網頁技術：jQuery, AJAX, Bootstrap。\n3.資料庫技術：SSIS、SSRS、SSAS、ORACLE (PL/SQL)。\n4.具相關技術證照。\n若你是社會新鮮人，沒有相關工作經驗也沒有關；只要你能讓我們相信(或說服我們)你可以勝任程式設計的工作即可；所以你得要提供你曾經的專題、作品，並且能娓娓道來你的作品的來龍去脈，以及完成作品後得到的心得；讓我們相信你是可塑之才，即使剛加入團隊還沒有貢獻度，但你願意在最短的時間提昇自己的能力！"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "擅長工具：Visual Studio .net、XML Web services\n工作技能：\n軟體程式設計、資料庫程式設計、資料庫軟體應用\n其他條件：\n必備技能\n1.程式語言：熟悉ASP.net C# 程式設計\n2.網頁技術：熟悉HTML, CSS, JavaScript\n3.資料庫技術：MS SQL Server 2008 (T-SQL)。\n加分技能\n1.程式語言：ASP.net VB、ASP.Net MVC、Entity Framework、. Net core\n2.網頁技術：jQuery, AJAX, Bootstrap。\n3.資料庫技術：SSIS、SSRS、SSAS、ORACLE (PL/SQL)。\n4.具相關技術證照。\n若你是社會新鮮人，沒有相關工作經驗也沒有關；只要你能讓我們相信(或說服我們)你可以勝任程式設計的工作即可；所以你得要提供你曾經的專題、作品，並且能娓娓道來你的作品的來龍去脈，以及完成作品後得到的心得；讓我們相信你是可塑之才，即使剛加入團隊還沒有貢獻度，但你願意在最短的時間提昇自己的能力！",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：AJAX、ASP、ASP.NET、Visual C#\n工作技能：軟體程式設計\n其他條件：擅長工具：Visual Studio .net、XML Web services\n工作技能：\n軟體程式設計、資料庫程式設計、資料庫軟體應用\n其他條件：\n必備技能\n1.程式語言：熟悉ASP.net C# 程式設計\n2.網頁技術：熟悉HTML, CSS, JavaScript\n3.資料庫技術：MS SQL Server 2008 (T-SQL)。\n加分技能\n1.程式語言：ASP.net VB、ASP.Net MVC、Entity Framework、. Net core\n2.網頁技術：jQuery, AJAX, Bootstrap。\n3.資料庫技術：SSIS、SSRS、SSAS、ORACLE (PL/SQL)。\n4.具相關技術證照。\n若你是社會新鮮人，沒有相關工作經驗也沒有關；只要你能讓我們相信(或說服我們)你可以勝任程式設計的工作即可；所以你得要提供你曾經的專題、作品，並且能娓娓道來你的作品的來龍去脈，以及完成作品後得到的心得；讓我們相信你是可塑之才，即使剛加入團隊還沒有貢獻度，但你願意在最短的時間提昇自己的能力！",
+    "tools": [
+      "AJAX",
+      "ASP",
+      "ASP.NET",
+      "Visual C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 48
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:20:29+08:00"
+  },
+  "salary": {
+    "raw": "年薪500,000~1,000,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "本工作主要內容為ASP.Net 、MVC、. Net core程式開發、設計及維護。\n開發團隊正在追求敏捷開發的精神，我們相信我們不是只是單單只是維護系統，寫寫程式而己。\n更相信我們是可以做出有價值的產品，歡迎有熱忱、樂於團隊溝通、不斷追求進步的你加入團隊。\n歡迎應屆畢業生加入學習，更歡迎有工作經驗的資深人員加入，與我們一起打造不斷進步的工作環境。\n工作內容：\n1. 依照客戶需求及主管要求，開發並維護高效能、高安全性、使用者易用的網站應用程式。\n2. 整合網站應用程式至資料庫資料庫管理系統開發，視需求需整合SSIS。\n2. 開發改善所負責的系統，並維護相關所需文件。\n3. 有基本網頁程式設計能力，應徵時將視其能力高低，進行程式設計測試。\n必備技能\n1.程式語言：熟悉ASP.net C# 程式設計\n2.網頁技術：熟悉HTML, CSS, Java Script\n3.資料庫技術：MS SQL Server （T-SQL)。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "MIS程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、MIS程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪500,000~1,000,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區青島東路3-2號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "本工作主要內容為ASP.Net 、MVC、. Net core程式開發、設計及維護。\n開發團隊正在追求敏捷開發的精神，我們相信我們不是只是單單只是維護系統，寫寫程式而己。\n更相信我們是可以做出有價值的產品，歡迎有熱忱、樂於團隊溝通、不斷追求進步的你加入團隊。\n歡迎應屆畢業生加入學習，更歡迎有工作經驗的資深人員加入，與我們一起打造不斷進步的工作環境。\n工作內容：\n1. 依照客戶需求及主管要求，開發並維護高效能、高安全性、使用者易用的網站應用程式。\n2. 整合網站應用程式至資料庫資料庫管理系統開發，視需求需整合SSIS。\n2. 開發改善所負責的系統，並維護相關所需文件。\n3. 有基本網頁程式設計能力，應徵時將視其能力高低，進行程式設計測試。\n必備技能\n1.程式語言：熟悉ASP.net C# 程式設計\n2.網頁技術：熟悉HTML, CSS, Java Script\n3.資料庫技術：MS SQL Server （T-SQL)。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AJAX",
+            "ASP",
+            "ASP.NET",
+            "Visual C#"
+          ],
+          "label": "擅長工具",
+          "text": "AJAX、ASP、ASP.NET、Visual C#",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "擅長工具：Visual Studio .net、XML Web services\n工作技能：\n軟體程式設計、資料庫程式設計、資料庫軟體應用\n其他條件：\n必備技能\n1.程式語言：熟悉ASP.net C# 程式設計\n2.網頁技術：熟悉HTML, CSS, JavaScript\n3.資料庫技術：MS SQL Server 2008 (T-SQL)。\n加分技能\n1.程式語言：ASP.net VB、ASP.Net MVC、Entity Framework、. Net core\n2.網頁技術：jQuery, AJAX, Bootstrap。\n3.資料庫技術：SSIS、SSRS、SSAS、ORACLE (PL/SQL)。\n4.具相關技術證照。\n若你是社會新鮮人，沒有相關工作經驗也沒有關；只要你能讓我們相信(或說服我們)你可以勝任程式設計的工作即可；所以你得要提供你曾經的專題、作品，並且能娓娓道來你的作品的來龍去脈，以及完成作品後得到的心得；讓我們相信你是可塑之才，即使剛加入團隊還沒有貢獻度，但你願意在最短的時間提昇自己的能力！",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：AJAX、ASP、ASP.NET、Visual C#\n工作技能：軟體程式設計\n其他條件：擅長工具：Visual Studio .net、XML Web services\n工作技能：\n軟體程式設計、資料庫程式設計、資料庫軟體應用\n其他條件：\n必備技能\n1.程式語言：熟悉ASP.net C# 程式設計\n2.網頁技術：熟悉HTML, CSS, JavaScript\n3.資料庫技術：MS SQL Server 2008 (T-SQL)。\n加分技能\n1.程式語言：ASP.net VB、ASP.Net MVC、Entity Framework、. Net core\n2.網頁技術：jQuery, AJAX, Bootstrap。\n3.資料庫技術：SSIS、SSRS、SSAS、ORACLE (PL/SQL)。\n4.具相關技術證照。\n若你是社會新鮮人，沒有相關工作經驗也沒有關；只要你能讓我們相信(或說服我們)你可以勝任程式設計的工作即可；所以你得要提供你曾經的專題、作品，並且能娓娓道來你的作品的來龍去脈，以及完成作品後得到的心得；讓我們相信你是可塑之才，即使剛加入團隊還沒有貢獻度，但你願意在最短的時間提昇自己的能力！"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6pzz2",
+    "job_url": "https://www.104.com.tw/job/6pzz2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6pzz2.json",
+    "raw_sha256": "37780cdee5e71114bef41572f157a524ced802f105029c38efb359a213f7f28d",
+    "requested_url": "https://www.104.com.tw/api/jobs/6pzz2"
+  }
+}

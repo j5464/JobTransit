@@ -1,0 +1,236 @@
+{
+  "company": {
+    "id": "18pcqfps",
+    "name": "精誠資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責金融系統 Java 程式設計、開發及維護"
+        },
+        {
+          "children": [],
+          "text": "依系統規格進行功能開發與程式單元測試"
+        },
+        {
+          "children": [],
+          "text": "串接資料庫、API及第三方金融服務介面"
+        },
+        {
+          "children": [],
+          "text": "協助排除系統異常，進行效能優化與問題修正"
+        },
+        {
+          "children": [],
+          "text": "配合系統測試、版本部署及正式環境上線作業"
+        }
+      ],
+      "text": "1. 負責金融系統 Java 程式設計、開發及維護\n2. 依系統規格進行功能開發與程式單元測試\n3. 串接資料庫、API及第三方金融服務介面\n4. 協助排除系統異常，進行效能優化與問題修正\n5. 配合系統測試、版本部署及正式環境上線作業"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java全端工程師(無經驗可) - F22Q"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路318號",
+    "raw": "台北市內湖區瑞光路318號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關"
+      },
+      {
+        "items": [
+          "Jenkins",
+          "Git",
+          "Java",
+          "MS SQL",
+          "Oracle",
+          "ReactJS",
+          "AngularJS",
+          "Redux"
+        ],
+        "label": "擅長工具",
+        "text": "Jenkins、Git、Java、MS SQL、Oracle、ReactJS、AngularJS、Redux"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、資料庫程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 深入瞭解Web開發與建置的相關概念如HTTP與REST。\n2. 熟悉Javascript/ES6、CSS3、HTML5等Web前端開發技術，並熟悉任一前端框架(我們使用Vue.js/Quasar)。\n3. 熟悉任一後端開發語言(我們使用Python/Flask/Fastapi)，並熟悉任一資料庫SQL語法(我們使用PostgreSQL)，並能依需求建立後端API供前端介接使用。\n4. 積極並高效率的自學能力。\n5. 具金融業相關(債券/票券/衍生性商品/股票/基金/財富管理/私人銀行等)系統開發/維運經驗尤佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關"
+    ],
+    "other_text": "1. 深入瞭解Web開發與建置的相關概念如HTTP與REST。\n2. 熟悉Javascript/ES6、CSS3、HTML5等Web前端開發技術，並熟悉任一前端框架(我們使用Vue.js/Quasar)。\n3. 熟悉任一後端開發語言(我們使用Python/Flask/Fastapi)，並熟悉任一資料庫SQL語法(我們使用PostgreSQL)，並能依需求建立後端API供前端介接使用。\n4. 積極並高效率的自學能力。\n5. 具金融業相關(債券/票券/衍生性商品/股票/基金/財富管理/私人銀行等)系統開發/維運經驗尤佳。",
+    "skills": [
+      "軟體程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊管理相關\n擅長工具：Jenkins、Git、Java、MS SQL、Oracle、ReactJS、AngularJS、Redux\n工作技能：軟體程式設計、資料庫程式設計\n其他條件：1. 深入瞭解Web開發與建置的相關概念如HTTP與REST。\n2. 熟悉Javascript/ES6、CSS3、HTML5等Web前端開發技術，並熟悉任一前端框架(我們使用Vue.js/Quasar)。\n3. 熟悉任一後端開發語言(我們使用Python/Flask/Fastapi)，並熟悉任一資料庫SQL語法(我們使用PostgreSQL)，並能依需求建立後端API供前端介接使用。\n4. 積極並高效率的自學能力。\n5. 具金融業相關(債券/票券/衍生性商品/股票/基金/財富管理/私人銀行等)系統開發/維運經驗尤佳。",
+    "tools": [
+      "Jenkins",
+      "Git",
+      "Java",
+      "MS SQL",
+      "Oracle",
+      "ReactJS",
+      "AngularJS",
+      "Redux"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 79
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:36:36+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 負責金融系統 Java 程式設計、開發及維護\n2. 依系統規格進行功能開發與程式單元測試\n3. 串接資料庫、API及第三方金融服務介面\n4. 協助排除系統異常，進行效能優化與問題修正\n5. 配合系統測試、版本部署及正式環境上線作業",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路318號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 負責金融系統 Java 程式設計、開發及維護\n2. 依系統規格進行功能開發與程式單元測試\n3. 串接資料庫、API及第三方金融服務介面\n4. 協助排除系統異常，進行效能優化與問題修正\n5. 配合系統測試、版本部署及正式環境上線作業"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Jenkins",
+            "Git",
+            "Java",
+            "MS SQL",
+            "Oracle",
+            "ReactJS",
+            "AngularJS",
+            "Redux"
+          ],
+          "label": "擅長工具",
+          "text": "Jenkins、Git、Java、MS SQL、Oracle、ReactJS、AngularJS、Redux",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、資料庫程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 深入瞭解Web開發與建置的相關概念如HTTP與REST。\n2. 熟悉Javascript/ES6、CSS3、HTML5等Web前端開發技術，並熟悉任一前端框架(我們使用Vue.js/Quasar)。\n3. 熟悉任一後端開發語言(我們使用Python/Flask/Fastapi)，並熟悉任一資料庫SQL語法(我們使用PostgreSQL)，並能依需求建立後端API供前端介接使用。\n4. 積極並高效率的自學能力。\n5. 具金融業相關(債券/票券/衍生性商品/股票/基金/財富管理/私人銀行等)系統開發/維運經驗尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊管理相關\n擅長工具：Jenkins、Git、Java、MS SQL、Oracle、ReactJS、AngularJS、Redux\n工作技能：軟體程式設計、資料庫程式設計\n其他條件：1. 深入瞭解Web開發與建置的相關概念如HTTP與REST。\n2. 熟悉Javascript/ES6、CSS3、HTML5等Web前端開發技術，並熟悉任一前端框架(我們使用Vue.js/Quasar)。\n3. 熟悉任一後端開發語言(我們使用Python/Flask/Fastapi)，並熟悉任一資料庫SQL語法(我們使用PostgreSQL)，並能依需求建立後端API供前端介接使用。\n4. 積極並高效率的自學能力。\n5. 具金融業相關(債券/票券/衍生性商品/股票/基金/財富管理/私人銀行等)系統開發/維運經驗尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8nwuv",
+    "job_url": "https://www.104.com.tw/job/8nwuv",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8nwuv.json",
+    "raw_sha256": "c3bf6edc4132e4d848166b56f1bb328d0b551faab53651a18fd4d409f6c01ff5",
+    "requested_url": "https://www.104.com.tw/api/jobs/8nwuv"
+  }
+}

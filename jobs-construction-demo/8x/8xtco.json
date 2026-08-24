@@ -1,0 +1,273 @@
+{
+  "company": {
+    "id": "8o4k48w",
+    "name": "財團法人台灣地理資訊中心"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "網頁設計師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責專案網站及資訊系統之架構規劃、分析、設計與開發。"
+        },
+        {
+          "children": [],
+          "text": "建置及維護前後端功能，並進行 API 串接整合。"
+        },
+        {
+          "children": [],
+          "text": "系統效能優化、程式重構及資訊安全弱點修補。"
+        },
+        {
+          "children": [],
+          "text": "協助資料庫設計、SQL優化及系統部署。"
+        },
+        {
+          "children": [],
+          "text": "撰寫系統分析文件、程式設計文件及維護手冊。"
+        },
+        {
+          "children": [],
+          "text": "配合專案需求進行系統測試、問題排除及維運。"
+        },
+        {
+          "children": [],
+          "text": "配合專案團隊進行需求討論、技術評估及跨部門協作。"
+        },
+        {
+          "children": [],
+          "text": "完成主管交辦事項。"
+        }
+      ],
+      "text": "主要職責：政府資訊系統之系統分析、架構設計、全端開發及維運。\n職務內容：\n1. 負責專案網站及資訊系統之架構規劃、分析、設計與開發。\n2. 建置及維護前後端功能，並進行 API 串接整合。\n3. 系統效能優化、程式重構及資訊安全弱點修補。\n4. 協助資料庫設計、SQL優化及系統部署。\n5. 撰寫系統分析文件、程式設計文件及維護手冊。\n6. 配合專案需求進行系統測試、問題排除及維運。\n7. 配合專案團隊進行需求討論、技術評估及跨部門協作。\n8. 完成主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "全端工程師"
+  },
+  "location": {
+    "address_raw": "台北市中正區羅斯福路一段七號六樓",
+    "raw": "台北市中正區羅斯福路一段七號六樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "Git",
+          "ASP.NET",
+          "C#",
+          "Java",
+          "Python",
+          "MS SQL",
+          "MySQL",
+          "HTML",
+          "JavaScript",
+          "CSS",
+          "VueJS"
+        ],
+        "label": "擅長工具",
+        "text": "Git、ASP.NET、C#、Java、Python、MS SQL、MySQL、HTML、JavaScript、CSS、VueJS"
+      },
+      {
+        "items": [
+          "伺服器網站管理維護",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫系統管理維護"
+        ],
+        "label": "工作技能",
+        "text": "伺服器網站管理維護、軟體工程系統開發、軟體程式設計、網路程式設計、資料庫系統管理維護"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "具備條件：\n1.熟悉前端開發技術 JavaScript、HTML、CSS，並具備 Vue.js 或 React 等前端框架開發經驗。\n2.熟悉 ASP.NET／ASP.NET Core、C# 後端開發，具備 RESTful API 設計與串接能力，並熟悉 MS SQL Server 資料庫設計、SQL 語法及基本效能調校。\n3.熟悉 Git 或 SVN 版本控制，具備 Windows Server 基本操作、IIS 部署及網站系統維運能力。\n4.備獨立分析與解決問題能力，能閱讀技術文件（如 Microsoft Learn、Stack Overflow 等），樂於團隊合作、技術分享及跨部門溝通。\n加分條件：\n1.熟悉 Node.js、TypeScript、Docker 或其他後端技術相關經驗者尤佳。\n2.具備資訊安全弱點修補、系統架構設計、程式碼審查（Code Review）或技術帶領經驗者尤佳。\n3.具 GIS／地理資訊系統、政府資訊系統或大型網站開發經驗者尤佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "具備條件：\n1.熟悉前端開發技術 JavaScript、HTML、CSS，並具備 Vue.js 或 React 等前端框架開發經驗。\n2.熟悉 ASP.NET／ASP.NET Core、C# 後端開發，具備 RESTful API 設計與串接能力，並熟悉 MS SQL Server 資料庫設計、SQL 語法及基本效能調校。\n3.熟悉 Git 或 SVN 版本控制，具備 Windows Server 基本操作、IIS 部署及網站系統維運能力。\n4.備獨立分析與解決問題能力，能閱讀技術文件（如 Microsoft Learn、Stack Overflow 等），樂於團隊合作、技術分享及跨部門溝通。\n加分條件：\n1.熟悉 Node.js、TypeScript、Docker 或其他後端技術相關經驗者尤佳。\n2.具備資訊安全弱點修補、系統架構設計、程式碼審查（Code Review）或技術帶領經驗者尤佳。\n3.具 GIS／地理資訊系統、政府資訊系統或大型網站開發經驗者尤佳。",
+    "skills": [
+      "伺服器網站管理維護",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫系統管理維護"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Git、ASP.NET、C#、Java、Python、MS SQL、MySQL、HTML、JavaScript、CSS、VueJS\n工作技能：伺服器網站管理維護、軟體工程系統開發、軟體程式設計、網路程式設計、資料庫系統管理維護\n其他條件：具備條件：\n1.熟悉前端開發技術 JavaScript、HTML、CSS，並具備 Vue.js 或 React 等前端框架開發經驗。\n2.熟悉 ASP.NET／ASP.NET Core、C# 後端開發，具備 RESTful API 設計與串接能力，並熟悉 MS SQL Server 資料庫設計、SQL 語法及基本效能調校。\n3.熟悉 Git 或 SVN 版本控制，具備 Windows Server 基本操作、IIS 部署及網站系統維運能力。\n4.備獨立分析與解決問題能力，能閱讀技術文件（如 Microsoft Learn、Stack Overflow 等），樂於團隊合作、技術分享及跨部門溝通。\n加分條件：\n1.熟悉 Node.js、TypeScript、Docker 或其他後端技術相關經驗者尤佳。\n2.具備資訊安全弱點修補、系統架構設計、程式碼審查（Code Review）或技術帶領經驗者尤佳。\n3.具 GIS／地理資訊系統、政府資訊系統或大型網站開發經驗者尤佳。",
+    "tools": [
+      "Git",
+      "ASP.NET",
+      "C#",
+      "Java",
+      "Python",
+      "MS SQL",
+      "MySQL",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "VueJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 74
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:23:14+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "主要職責：政府資訊系統之系統分析、架構設計、全端開發及維運。\n職務內容：\n1. 負責專案網站及資訊系統之架構規劃、分析、設計與開發。\n2. 建置及維護前後端功能，並進行 API 串接整合。\n3. 系統效能優化、程式重構及資訊安全弱點修補。\n4. 協助資料庫設計、SQL優化及系統部署。\n5. 撰寫系統分析文件、程式設計文件及維護手冊。\n6. 配合專案需求進行系統測試、問題排除及維運。\n7. 配合專案團隊進行需求討論、技術評估及跨部門協作。\n8. 完成主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "網頁設計師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、網頁設計師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區羅斯福路一段七號六樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "主要職責：政府資訊系統之系統分析、架構設計、全端開發及維運。\n職務內容：\n1. 負責專案網站及資訊系統之架構規劃、分析、設計與開發。\n2. 建置及維護前後端功能，並進行 API 串接整合。\n3. 系統效能優化、程式重構及資訊安全弱點修補。\n4. 協助資料庫設計、SQL優化及系統部署。\n5. 撰寫系統分析文件、程式設計文件及維護手冊。\n6. 配合專案需求進行系統測試、問題排除及維運。\n7. 配合專案團隊進行需求討論、技術評估及跨部門協作。\n8. 完成主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "ASP.NET",
+            "C#",
+            "Java",
+            "Python",
+            "MS SQL",
+            "MySQL",
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "VueJS"
+          ],
+          "label": "擅長工具",
+          "text": "Git、ASP.NET、C#、Java、Python、MS SQL、MySQL、HTML、JavaScript、CSS、VueJS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "伺服器網站管理維護",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫系統管理維護"
+          ],
+          "label": "工作技能",
+          "text": "伺服器網站管理維護、軟體工程系統開發、軟體程式設計、網路程式設計、資料庫系統管理維護",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "具備條件：\n1.熟悉前端開發技術 JavaScript、HTML、CSS，並具備 Vue.js 或 React 等前端框架開發經驗。\n2.熟悉 ASP.NET／ASP.NET Core、C# 後端開發，具備 RESTful API 設計與串接能力，並熟悉 MS SQL Server 資料庫設計、SQL 語法及基本效能調校。\n3.熟悉 Git 或 SVN 版本控制，具備 Windows Server 基本操作、IIS 部署及網站系統維運能力。\n4.備獨立分析與解決問題能力，能閱讀技術文件（如 Microsoft Learn、Stack Overflow 等），樂於團隊合作、技術分享及跨部門溝通。\n加分條件：\n1.熟悉 Node.js、TypeScript、Docker 或其他後端技術相關經驗者尤佳。\n2.具備資訊安全弱點修補、系統架構設計、程式碼審查（Code Review）或技術帶領經驗者尤佳。\n3.具 GIS／地理資訊系統、政府資訊系統或大型網站開發經驗者尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Git、ASP.NET、C#、Java、Python、MS SQL、MySQL、HTML、JavaScript、CSS、VueJS\n工作技能：伺服器網站管理維護、軟體工程系統開發、軟體程式設計、網路程式設計、資料庫系統管理維護\n其他條件：具備條件：\n1.熟悉前端開發技術 JavaScript、HTML、CSS，並具備 Vue.js 或 React 等前端框架開發經驗。\n2.熟悉 ASP.NET／ASP.NET Core、C# 後端開發，具備 RESTful API 設計與串接能力，並熟悉 MS SQL Server 資料庫設計、SQL 語法及基本效能調校。\n3.熟悉 Git 或 SVN 版本控制，具備 Windows Server 基本操作、IIS 部署及網站系統維運能力。\n4.備獨立分析與解決問題能力，能閱讀技術文件（如 Microsoft Learn、Stack Overflow 等），樂於團隊合作、技術分享及跨部門溝通。\n加分條件：\n1.熟悉 Node.js、TypeScript、Docker 或其他後端技術相關經驗者尤佳。\n2.具備資訊安全弱點修補、系統架構設計、程式碼審查（Code Review）或技術帶領經驗者尤佳。\n3.具 GIS／地理資訊系統、政府資訊系統或大型網站開發經驗者尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8xtco",
+    "job_url": "https://www.104.com.tw/job/8xtco",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8xtco.json",
+    "raw_sha256": "9e61c15ffe5743b35e7e4003f35d1aaa2d4c823aad4a40d4b3fe6830f0ca4ad8",
+    "requested_url": "https://www.104.com.tw/api/jobs/8xtco"
+  }
+}

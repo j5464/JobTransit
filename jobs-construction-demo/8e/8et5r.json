@@ -1,0 +1,184 @@
+{
+  "company": {
+    "id": "ahfsoq0",
+    "name": "廣達電腦股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AR 眼鏡及周邊配件軟/韌體開發"
+        },
+        {
+          "children": [],
+          "text": "AR 眼鏡光學/影像分析與校正設計"
+        },
+        {
+          "children": [],
+          "text": "配合硬體, 光學工程師提供產品驗證所需之應用軟體"
+        },
+        {
+          "children": [],
+          "text": "協助量產導入與問題解決"
+        }
+      ],
+      "text": "1. AR 眼鏡及周邊配件軟/韌體開發\n2. AR 眼鏡光學/影像分析與校正設計\n3. 配合硬體, 光學工程師提供產品驗證所需之應用軟體\n4. 協助量產導入與問題解決"
+    },
+    "employment_type_raw": "全職",
+    "title": "AR眼鏡軟/韌體設計 - J1865"
+  },
+  "location": {
+    "address_raw": "桃園市龜山區文化二路211號",
+    "raw": "桃園市龜山區文化二路211號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "C#",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C#、C++、Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 電子/電機/機械/控制/資工/光電/物理相關科系畢佳\n2. 熟悉C/C++/C#/Python程式語言開發\n3. 具光學及影像處理相關經驗者佳\n4. 具LabVIEW經驗者佳\n5. 多益550+"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 電子/電機/機械/控制/資工/光電/物理相關科系畢佳\n2. 熟悉C/C++/C#/Python程式語言開發\n3. 具光學及影像處理相關經驗者佳\n4. 具LabVIEW經驗者佳\n5. 多益550+",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n擅長工具：C#、C++、Python\n其他條件：1. 電子/電機/機械/控制/資工/光電/物理相關科系畢佳\n2. 熟悉C/C++/C#/Python程式語言開發\n3. 具光學及影像處理相關經驗者佳\n4. 具LabVIEW經驗者佳\n5. 多益550+",
+    "tools": [
+      "C#",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 11
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:49:03+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. AR 眼鏡及周邊配件軟/韌體開發\n2. AR 眼鏡光學/影像分析與校正設計\n3. 配合硬體, 光學工程師提供產品驗證所需之應用軟體\n4. 協助量產導入與問題解決",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市龜山區文化二路211號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. AR 眼鏡及周邊配件軟/韌體開發\n2. AR 眼鏡光學/影像分析與校正設計\n3. 配合硬體, 光學工程師提供產品驗證所需之應用軟體\n4. 協助量產導入與問題解決"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C#、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 電子/電機/機械/控制/資工/光電/物理相關科系畢佳\n2. 熟悉C/C++/C#/Python程式語言開發\n3. 具光學及影像處理相關經驗者佳\n4. 具LabVIEW經驗者佳\n5. 多益550+",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n擅長工具：C#、C++、Python\n其他條件：1. 電子/電機/機械/控制/資工/光電/物理相關科系畢佳\n2. 熟悉C/C++/C#/Python程式語言開發\n3. 具光學及影像處理相關經驗者佳\n4. 具LabVIEW經驗者佳\n5. 多益550+"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8et5r",
+    "job_url": "https://www.104.com.tw/job/8et5r",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8et5r.json",
+    "raw_sha256": "c55b034b01dcf1aceb4a555a539b68320607d7a08a2adad4cdc4eed3febf8cfb",
+    "requested_url": "https://www.104.com.tw/api/jobs/8et5r"
+  }
+}

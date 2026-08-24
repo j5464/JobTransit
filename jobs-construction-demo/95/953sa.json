@@ -1,0 +1,282 @@
+{
+  "company": {
+    "id": "t4ja080",
+    "name": "豐泰企業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "MES工程師",
+      "系統工程師",
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "工作內容："
+        },
+        {
+          "children": [],
+          "text": "開發及維護企業級 Web Application、Backend Service 與內部管理系統"
+        },
+        {
+          "children": [],
+          "text": "進行系統功能開發、測試、除錯及效能優化"
+        },
+        {
+          "children": [],
+          "text": "設計及串接 Web Service 或企業內部系統介面"
+        },
+        {
+          "children": [],
+          "text": "進行資料庫設計、資料查詢及基本資料分析"
+        },
+        {
+          "children": [],
+          "text": "學歷要求：大學以上, 資訊相關科系"
+        },
+        {
+          "children": [],
+          "text": "外語能力：具基本英文聽說讀寫能力"
+        },
+        {
+          "children": [],
+          "text": "其他條件："
+        },
+        {
+          "children": [],
+          "text": "熟悉至少一種程式語言：Java、Python、C#"
+        },
+        {
+          "children": [],
+          "text": "具備物件導向程式設計（OOP）基本概念"
+        },
+        {
+          "children": [],
+          "text": "具備基本 SQL 能力，能進行資料查詢、資料處理及問題分析"
+        },
+        {
+          "children": [],
+          "text": "了解 API或系統整合基本概念"
+        },
+        {
+          "children": [],
+          "text": "具備 Git 或其他版本控制工具使用經驗"
+        },
+        {
+          "children": [],
+          "text": "薪資待遇：薪資 39,000 元以上"
+        }
+      ],
+      "text": "1. 工作內容：\n● 開發及維護企業級 Web Application、Backend Service 與內部管理系統\n● 進行系統功能開發、測試、除錯及效能優化\n● 設計及串接 Web Service 或企業內部系統介面\n● 進行資料庫設計、資料查詢及基本資料分析\n2. 學歷要求：大學以上, 資訊相關科系\n3. 外語能力：具基本英文聽說讀寫能力\n4. 其他條件：\n● 熟悉至少一種程式語言：Java、Python、C#\n● 具備物件導向程式設計（OOP）基本概念\n● 具備基本 SQL 能力，能進行資料查詢、資料處理及問題分析\n● 了解 API或系統整合基本概念\n● 具備 Git 或其他版本控制工具使用經驗\n5. 薪資待遇：薪資 39,000 元以上"
+    },
+    "employment_type_raw": "全職",
+    "title": "ERP 程式設計師 (助理) - MES"
+  },
+  "location": {
+    "address_raw": "雲林縣斗六市雲林科技工業區科工八路52號",
+    "raw": "雲林縣斗六市雲林科技工業區科工八路52號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、工程學科類"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "C#",
+          "Java",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Java、Python"
+      },
+      {
+        "items": [
+          "系統整合分析",
+          "系統架構規劃",
+          "系統導入",
+          "MES工廠執行系統規劃管理",
+          "企業資源規劃管理(ERP)"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析、系統架構規劃、系統導入、MES工廠執行系統規劃管理、企業資源規劃管理(ERP)"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "工程學科類"
+    ],
+    "other_text": null,
+    "skills": [
+      "系統整合分析",
+      "系統架構規劃",
+      "系統導入",
+      "MES工廠執行系統規劃管理",
+      "企業資源規劃管理(ERP)"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、工程學科類\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C#、Java、Python\n工作技能：系統整合分析、系統架構規劃、系統導入、MES工廠執行系統規劃管理、企業資源規劃管理(ERP)",
+    "tools": [
+      "C#",
+      "Java",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 20
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:10:27+08:00"
+  },
+  "salary": {
+    "raw": "月薪39,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 工作內容：\n● 開發及維護企業級 Web Application、Backend Service 與內部管理系統\n● 進行系統功能開發、測試、除錯及效能優化\n● 設計及串接 Web Service 或企業內部系統介面\n● 進行資料庫設計、資料查詢及基本資料分析\n2. 學歷要求：大學以上, 資訊相關科系\n3. 外語能力：具基本英文聽說讀寫能力\n4. 其他條件：\n● 熟悉至少一種程式語言：Java、Python、C#\n● 具備物件導向程式設計（OOP）基本概念\n● 具備基本 SQL 能力，能進行資料查詢、資料處理及問題分析\n● 了解 API或系統整合基本概念\n● 具備 Git 或其他版本控制工具使用經驗\n5. 薪資待遇：薪資 39,000 元以上",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MES工程師",
+            "系統工程師",
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "MES工程師、系統工程師、系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪39,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "雲林縣斗六市雲林科技工業區科工八路52號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 工作內容：\n● 開發及維護企業級 Web Application、Backend Service 與內部管理系統\n● 進行系統功能開發、測試、除錯及效能優化\n● 設計及串接 Web Service 或企業內部系統介面\n● 進行資料庫設計、資料查詢及基本資料分析\n2. 學歷要求：大學以上, 資訊相關科系\n3. 外語能力：具基本英文聽說讀寫能力\n4. 其他條件：\n● 熟悉至少一種程式語言：Java、Python、C#\n● 具備物件導向程式設計（OOP）基本概念\n● 具備基本 SQL 能力，能進行資料查詢、資料處理及問題分析\n● 了解 API或系統整合基本概念\n● 具備 Git 或其他版本控制工具使用經驗\n5. 薪資待遇：薪資 39,000 元以上"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Java",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Java、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析",
+            "系統架構規劃",
+            "系統導入",
+            "MES工廠執行系統規劃管理",
+            "企業資源規劃管理(ERP)"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析、系統架構規劃、系統導入、MES工廠執行系統規劃管理、企業資源規劃管理(ERP)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、工程學科類\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C#、Java、Python\n工作技能：系統整合分析、系統架構規劃、系統導入、MES工廠執行系統規劃管理、企業資源規劃管理(ERP)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "953sa",
+    "job_url": "https://www.104.com.tw/job/953sa",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/953sa.json",
+    "raw_sha256": "174e41e45568bffcdcf461d81641159ffe17795f5cbe541558a5a040166efd1b",
+    "requested_url": "https://www.104.com.tw/api/jobs/953sa"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "1a2x6bjvxb",
+    "name": "美商太陽鳥軟體股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Be an awesome Java developer (If this is you, stop here and apply)."
+        },
+        {
+          "children": [],
+          "text": "As part of a team, develop backend systems to collect data and manage devices using Java."
+        },
+        {
+          "children": [],
+          "text": "Learn to use open protocols to communicate with end devices."
+        },
+        {
+          "children": [],
+          "text": "Work on overall architectural improvements, particularly as they relate to scalability and performance (11+ billion data points per day per server and growing)"
+        },
+        {
+          "children": [],
+          "text": "Work closely with the team to write, analyze and clarify the requirements of software enhancements"
+        },
+        {
+          "children": [],
+          "text": "Write and perform unit tests"
+        },
+        {
+          "children": [],
+          "text": "Partner with system test engineers to identify and resolve defects"
+        },
+        {
+          "children": [],
+          "text": "Work with Sunbird customers to troubleshoot and resolve field issues they encounter"
+        }
+      ],
+      "text": "• Be an awesome Java developer (If this is you, stop here and apply).\n• As part of a team, develop backend systems to collect data and manage devices using Java.\n• Learn to use open protocols to communicate with end devices.\n• Work on overall architectural improvements, particularly as they relate to scalability and performance (11+ billion data points per day per server and growing)\n• Work closely with the team to write, analyze and clarify the requirements of software enhancements\n• Write and perform unit tests\n• Partner with system test engineers to identify and resolve defects\n• Work with Sunbird customers to troubleshoot and resolve field issues they encounter"
+    },
+    "employment_type_raw": "全職",
+    "title": "Associate Java Software Engineer"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶高路30之1號6樓及30之2號6樓(新店寶高智慧產業園區)",
+    "raw": "新北市新店區寶高路30之1號6樓及30之2號6樓(新店寶高智慧產業園區)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Java"
+        ],
+        "label": "擅長工具",
+        "text": "Java"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "• Solid understanding of core Java, OOD, design patterns, and Rest API’s\n• Willingness and aptitude to learn new technologies\n• Creative, industrious, and self-managed\n• Good oral and written communications skills (intermediate in English)\n• BS\\BA in Computer Science, Electrical Engineering, Computer Engineering, or related field"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "• Solid understanding of core Java, OOD, design patterns, and Rest API’s\n• Willingness and aptitude to learn new technologies\n• Creative, industrious, and self-managed\n• Good oral and written communications skills (intermediate in English)\n• BS\\BA in Computer Science, Electrical Engineering, Computer Engineering, or related field",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java\n其他條件：• Solid understanding of core Java, OOD, design patterns, and Rest API’s\n• Willingness and aptitude to learn new technologies\n• Creative, industrious, and self-managed\n• Good oral and written communications skills (intermediate in English)\n• BS\\BA in Computer Science, Electrical Engineering, Computer Engineering, or related field",
+    "tools": [
+      "Java"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 74
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:24:10+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "• Be an awesome Java developer (If this is you, stop here and apply).\n• As part of a team, develop backend systems to collect data and manage devices using Java.\n• Learn to use open protocols to communicate with end devices.\n• Work on overall architectural improvements, particularly as they relate to scalability and performance (11+ billion data points per day per server and growing)\n• Work closely with the team to write, analyze and clarify the requirements of software enhancements\n• Write and perform unit tests\n• Partner with system test engineers to identify and resolve defects\n• Work with Sunbird customers to troubleshoot and resolve field issues they encounter",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶高路30之1號6樓及30之2號6樓(新店寶高智慧產業園區)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "• Be an awesome Java developer (If this is you, stop here and apply).\n• As part of a team, develop backend systems to collect data and manage devices using Java.\n• Learn to use open protocols to communicate with end devices.\n• Work on overall architectural improvements, particularly as they relate to scalability and performance (11+ billion data points per day per server and growing)\n• Work closely with the team to write, analyze and clarify the requirements of software enhancements\n• Write and perform unit tests\n• Partner with system test engineers to identify and resolve defects\n• Work with Sunbird customers to troubleshoot and resolve field issues they encounter"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java"
+          ],
+          "label": "擅長工具",
+          "text": "Java",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "• Solid understanding of core Java, OOD, design patterns, and Rest API’s\n• Willingness and aptitude to learn new technologies\n• Creative, industrious, and self-managed\n• Good oral and written communications skills (intermediate in English)\n• BS\\BA in Computer Science, Electrical Engineering, Computer Engineering, or related field",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java\n其他條件：• Solid understanding of core Java, OOD, design patterns, and Rest API’s\n• Willingness and aptitude to learn new technologies\n• Creative, industrious, and self-managed\n• Good oral and written communications skills (intermediate in English)\n• BS\\BA in Computer Science, Electrical Engineering, Computer Engineering, or related field"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "6n49w",
+    "job_url": "https://www.104.com.tw/job/6n49w",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6n49w.json",
+    "raw_sha256": "fbfa79aaff4908f4bdf9fef845e16a4ddf421d3100ba684ba044da6a3f75b470",
+    "requested_url": "https://www.104.com.tw/api/jobs/6n49w"
+  }
+}

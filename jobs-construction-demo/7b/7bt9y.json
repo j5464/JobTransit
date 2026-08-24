@@ -1,0 +1,198 @@
+{
+  "company": {
+    "id": "1a2x6biutg",
+    "name": "宇辰系統科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "網頁設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "與 PM / UIUX / 後端工程師協作，或與其他前端共同開發出客戶需求的網頁系統"
+        },
+        {
+          "children": [],
+          "text": "熟悉 HTML、CSS、JavaScript 前端網頁技術"
+        },
+        {
+          "children": [],
+          "text": "熟悉響應式網頁製作(RWD)"
+        },
+        {
+          "children": [],
+          "text": "熟悉使用 Figma 查看設計稿"
+        },
+        {
+          "children": [],
+          "text": "熟悉前端框架 Vue 3"
+        },
+        {
+          "children": [],
+          "text": "使用 Git 版控工具, 並可配合團隊 Git Flow"
+        }
+      ],
+      "text": "1. 與 PM / UIUX / 後端工程師協作，或與其他前端共同開發出客戶需求的網頁系統\n2. 熟悉 HTML、CSS、JavaScript 前端網頁技術\n3. 熟悉響應式網頁製作(RWD)\n4. 熟悉使用 Figma 查看設計稿\n5. 熟悉前端框架 Vue 3\n6. 使用 Git 版控工具, 並可配合團隊 Git Flow"
+    },
+    "employment_type_raw": "全職",
+    "title": "38.研發部三課-前端工程師"
+  },
+  "location": {
+    "address_raw": "新竹市東美路91巷5號4樓",
+    "raw": "新竹市東美路91巷5號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "Git",
+          "JavaScript",
+          "CSS",
+          "VueJS",
+          "HTML"
+        ],
+        "label": "擅長工具",
+        "text": "Git、JavaScript、CSS、VueJS、HTML"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具備一年以上網站開發經驗\n2. 了解 跨裝置、跨瀏覽器、跨尺寸等相容技術\n3. 不排斥前端新技術研究及學習\n4. 能夠判斷設計稿可行性\n5. 能夠閱讀並理解前端開發相關文件\n6. 對網頁視覺特效開發、網頁3D功能開發有興趣 (加分項)\n7. 能夠使用Figma 製作網頁UI設計 (加分項)"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1. 具備一年以上網站開發經驗\n2. 了解 跨裝置、跨瀏覽器、跨尺寸等相容技術\n3. 不排斥前端新技術研究及學習\n4. 能夠判斷設計稿可行性\n5. 能夠閱讀並理解前端開發相關文件\n6. 對網頁視覺特效開發、網頁3D功能開發有興趣 (加分項)\n7. 能夠使用Figma 製作網頁UI設計 (加分項)",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n擅長工具：Git、JavaScript、CSS、VueJS、HTML\n其他條件：1. 具備一年以上網站開發經驗\n2. 了解 跨裝置、跨瀏覽器、跨尺寸等相容技術\n3. 不排斥前端新技術研究及學習\n4. 能夠判斷設計稿可行性\n5. 能夠閱讀並理解前端開發相關文件\n6. 對網頁視覺特效開發、網頁3D功能開發有興趣 (加分項)\n7. 能夠使用Figma 製作網頁UI設計 (加分項)",
+    "tools": [
+      "Git",
+      "JavaScript",
+      "CSS",
+      "VueJS",
+      "HTML"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 83
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:47:36+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~70,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 與 PM / UIUX / 後端工程師協作，或與其他前端共同開發出客戶需求的網頁系統\n2. 熟悉 HTML、CSS、JavaScript 前端網頁技術\n3. 熟悉響應式網頁製作(RWD)\n4. 熟悉使用 Figma 查看設計稿\n5. 熟悉前端框架 Vue 3\n6. 使用 Git 版控工具, 並可配合團隊 Git Flow",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "網頁設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、網頁設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~70,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東美路91巷5號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 與 PM / UIUX / 後端工程師協作，或與其他前端共同開發出客戶需求的網頁系統\n2. 熟悉 HTML、CSS、JavaScript 前端網頁技術\n3. 熟悉響應式網頁製作(RWD)\n4. 熟悉使用 Figma 查看設計稿\n5. 熟悉前端框架 Vue 3\n6. 使用 Git 版控工具, 並可配合團隊 Git Flow"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "JavaScript",
+            "CSS",
+            "VueJS",
+            "HTML"
+          ],
+          "label": "擅長工具",
+          "text": "Git、JavaScript、CSS、VueJS、HTML",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具備一年以上網站開發經驗\n2. 了解 跨裝置、跨瀏覽器、跨尺寸等相容技術\n3. 不排斥前端新技術研究及學習\n4. 能夠判斷設計稿可行性\n5. 能夠閱讀並理解前端開發相關文件\n6. 對網頁視覺特效開發、網頁3D功能開發有興趣 (加分項)\n7. 能夠使用Figma 製作網頁UI設計 (加分項)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n擅長工具：Git、JavaScript、CSS、VueJS、HTML\n其他條件：1. 具備一年以上網站開發經驗\n2. 了解 跨裝置、跨瀏覽器、跨尺寸等相容技術\n3. 不排斥前端新技術研究及學習\n4. 能夠判斷設計稿可行性\n5. 能夠閱讀並理解前端開發相關文件\n6. 對網頁視覺特效開發、網頁3D功能開發有興趣 (加分項)\n7. 能夠使用Figma 製作網頁UI設計 (加分項)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7bt9y",
+    "job_url": "https://www.104.com.tw/job/7bt9y",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7bt9y.json",
+    "raw_sha256": "3e4d8846be66370ade9f8b38e5a39d405320931b7ab0160f9235c0c4d98f895f",
+    "requested_url": "https://www.104.com.tw/api/jobs/7bt9y"
+  }
+}

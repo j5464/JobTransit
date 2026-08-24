@@ -1,0 +1,219 @@
+{
+  "company": {
+    "id": "poug9kg",
+    "name": "亞洲光學股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "數位影像產品FW 開發，人機介面開發"
+        },
+        {
+          "children": [],
+          "text": "周邊IC驅動控制，影像畫質調整/3A控制"
+        },
+        {
+          "children": [],
+          "text": "Linux BSP / RTOS drivers development."
+        },
+        {
+          "children": [],
+          "text": "無外派, 必要時需出差(2周內)"
+        }
+      ],
+      "text": "1. 數位影像產品FW 開發，人機介面開發\n2. 周邊IC驅動控制，影像畫質調整/3A控制\n3. Linux BSP / RTOS drivers development.\n4. 無外派, 必要時需出差(2周內)\n留任獎金\n到職滿三個月:3000元\n到職滿六個月:5000元\n到職滿一年:8000元\n獎金發放條件：｢需通過正式試用期考核」及「出勤率達95%(含)以上、無重大違規」\n發放日期: 隨次月薪資發放，發放時必須在職才能領取。"
+    },
+    "employment_type_raw": "全職",
+    "title": "FW工程師,高級工程師,影像工程師"
+  },
+  "location": {
+    "address_raw": "台中市潭子區豐栗路158號",
+    "raw": "台中市潭子區豐栗路158號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "C++",
+          "Git"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Git"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "具嵌入式系統開發/Linux BSP環境 開發經驗佳.\n擅長工具: C/C++, Compile tool, Git."
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "具嵌入式系統開發/Linux BSP環境 開發經驗佳.\n擅長工具: C/C++, Compile tool, Git.",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C++、Git\n其他條件：具嵌入式系統開發/Linux BSP環境 開發經驗佳.\n擅長工具: C/C++, Compile tool, Git.",
+    "tools": [
+      "C++",
+      "Git"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 13
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:54:09+08:00"
+  },
+  "salary": {
+    "raw": "月薪31,000~65,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 數位影像產品FW 開發，人機介面開發\n2. 周邊IC驅動控制，影像畫質調整/3A控制\n3. Linux BSP / RTOS drivers development.\n4. 無外派, 必要時需出差(2周內)\n留任獎金\n到職滿三個月:3000元\n到職滿六個月:5000元\n到職滿一年:8000元\n獎金發放條件：｢需通過正式試用期考核」及「出勤率達95%(含)以上、無重大違規」\n發放日期: 隨次月薪資發放，發放時必須在職才能領取。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪31,000~65,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市潭子區豐栗路158號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 數位影像產品FW 開發，人機介面開發\n2. 周邊IC驅動控制，影像畫質調整/3A控制\n3. Linux BSP / RTOS drivers development.\n4. 無外派, 必要時需出差(2周內)\n留任獎金\n到職滿三個月:3000元\n到職滿六個月:5000元\n到職滿一年:8000元\n獎金發放條件：｢需通過正式試用期考核」及「出勤率達95%(含)以上、無重大違規」\n發放日期: 隨次月薪資發放，發放時必須在職才能領取。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Git"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Git",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "具嵌入式系統開發/Linux BSP環境 開發經驗佳.\n擅長工具: C/C++, Compile tool, Git.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、電機電子工程相關、其他數學及電算機科學相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C++、Git\n其他條件：具嵌入式系統開發/Linux BSP環境 開發經驗佳.\n擅長工具: C/C++, Compile tool, Git."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8njuw",
+    "job_url": "https://www.104.com.tw/job/8njuw",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8njuw.json",
+    "raw_sha256": "bfe357d3e200efed3ddaeb41c332918c62169c316af522a1a4bf4660a0b1d7e5",
+    "requested_url": "https://www.104.com.tw/api/jobs/8njuw"
+  }
+}

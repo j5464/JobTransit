@@ -1,0 +1,260 @@
+{
+  "company": {
+    "id": "1a2x6bn4ks",
+    "name": "百仕聯股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "資料工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "與量化研究團隊共同設計實驗，將模型輸出轉換為可交易訊號，並執行離線"
+        },
+        {
+          "children": [],
+          "text": "設計與開發 AI Agent（包含 RAG、工具調用、任務規劃），提升策略研究"
+        },
+        {
+          "children": [],
+          "text": "運用 Prompt Engineering、MoE、LoRA、模型量化與蒸餾等技術，優化效"
+        },
+        {
+          "children": [],
+          "text": "針對金融文本（財報、公告、新聞、社群資料等）進行模型微調與對齊"
+        },
+        {
+          "children": [],
+          "text": "導入並落實 MLOps 最佳實務（容器化、CI/CD、模型與特徵版本管理），"
+        },
+        {
+          "children": [],
+          "text": "持續追蹤前沿研究，主導內部技術分享，協助團隊進行模型選型與架構演進"
+        },
+        {
+          "children": [],
+          "text": "資工、電機、資料科學相關碩士以上學歷尤佳，或具備同等實務成果"
+        },
+        {
+          "children": [],
+          "text": "熟悉 AI 輔助開發工具（如 Cursor、Claude Code），具備規格導向開發與"
+        },
+        {
+          "children": [],
+          "text": "2 年以上 LLM 實務經驗，熟悉 PyTorch 或 TensorFlow，具備模型訓練與"
+        },
+        {
+          "children": [],
+          "text": "熟悉 LLM 生態系（如 LangGraph、Ollama、OpenAI SDK），能快速原型開"
+        },
+        {
+          "children": [],
+          "text": "具備良好的實驗設計、問題拆解與跨團隊溝通能力，重視系統可觀測性與可"
+        },
+        {
+          "children": [],
+          "text": "具備良好的中英文溝通能力，能撰寫技術文件並進行技術簡報"
+        },
+        {
+          "children": [],
+          "text": "具金融相關經驗，如市場預測、事件抽取、情緒分析、因子建模或投資組合"
+        },
+        {
+          "children": [],
+          "text": "參與過競賽（Kaggle、AI Challenger 等）或為開源專案活躍貢獻者"
+        },
+        {
+          "children": [],
+          "text": "曾於頂級學術會議或技術場合發表論文或演講（如 NeurIPS、ICML、"
+        }
+      ],
+      "text": "【工作內容】\n1. 與量化研究團隊共同設計實驗，將模型輸出轉換為可交易訊號，並執行離線\n／線上回測與 A/B 測試\n2. 設計與開發 AI Agent（包含 RAG、工具調用、任務規劃），提升策略研究\n與交易執行效率\n3. 運用 Prompt Engineering、MoE、LoRA、模型量化與蒸餾等技術，優化效\n能、成本與推論延遲\n4. 針對金融文本（財報、公告、新聞、社群資料等）進行模型微調與對齊\n（SFT / DPO），強化事件與情緒判斷能力\n5. 導入並落實 MLOps 最佳實務（容器化、CI/CD、模型與特徵版本管理），\n提升開發效率與合規性\n6. 持續追蹤前沿研究，主導內部技術分享，協助團隊進行模型選型與架構演進\n【職務需求】\n1. 資工、電機、資料科學相關碩士以上學歷尤佳，或具備同等實務成果\n2. 熟悉 AI 輔助開發工具（如 Cursor、Claude Code），具備規格導向開發與\n測試驅動開發（TDD）能力，能快速完成 0→1 並推動 1→100 的持續優化\n3. 2 年以上 LLM 實務經驗，熟悉 PyTorch 或 TensorFlow，具備模型訓練與\n微調的完整經驗\n4. 熟悉 LLM 生態系（如 LangGraph、Ollama、OpenAI SDK），能快速原型開\n發並部署服務\n5. 具備良好的實驗設計、問題拆解與跨團隊溝通能力，重視系統可觀測性與可\n維運性\n6. 具備良好的中英文溝通能力，能撰寫技術文件並進行技術簡報\n【加分條件】\n1. 具金融相關經驗，如市場預測、事件抽取、情緒分析、因子建模或投資組合\n最佳化\n2. 參與過競賽（Kaggle、AI Challenger 等）或為開源專案活躍貢獻者\n3. 曾於頂級學術會議或技術場合發表論文或演講（如 NeurIPS、ICML、\nICLR、CVPR）"
+    },
+    "employment_type_raw": "全職",
+    "title": "【本土領先量化交易公司】LLM 工程師"
+  },
+  "location": {
+    "address_raw": "台北市中正區",
+    "raw": "台北市中正區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "LLM",
+          "NLP"
+        ],
+        "label": "擅長工具",
+        "text": "LLM、NLP"
+      },
+      {
+        "items": [
+          "AI",
+          "自然語言處理",
+          "人工智慧",
+          "演算法設計",
+          "語言模型"
+        ],
+        "label": "工作技能",
+        "text": "AI、自然語言處理、人工智慧、演算法設計、語言模型"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "AI",
+      "自然語言處理",
+      "人工智慧",
+      "演算法設計",
+      "語言模型"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關\n擅長工具：LLM、NLP\n工作技能：AI、自然語言處理、人工智慧、演算法設計、語言模型",
+    "tools": [
+      "LLM",
+      "NLP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 10
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:46:47+08:00"
+  },
+  "salary": {
+    "raw": "月薪160,000~230,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 與量化研究團隊共同設計實驗，將模型輸出轉換為可交易訊號，並執行離線\n／線上回測與 A/B 測試\n2. 設計與開發 AI Agent（包含 RAG、工具調用、任務規劃），提升策略研究\n與交易執行效率\n3. 運用 Prompt Engineering、MoE、LoRA、模型量化與蒸餾等技術，優化效\n能、成本與推論延遲\n4. 針對金融文本（財報、公告、新聞、社群資料等）進行模型微調與對齊\n（SFT / DPO），強化事件與情緒判斷能力\n5. 導入並落實 MLOps 最佳實務（容器化、CI/CD、模型與特徵版本管理），\n提升開發效率與合規性\n6. 持續追蹤前沿研究，主導內部技術分享，協助團隊進行模型選型與架構演進\n【職務需求】\n1. 資工、電機、資料科學相關碩士以上學歷尤佳，或具備同等實務成果\n2. 熟悉 AI 輔助開發工具（如 Cursor、Claude Code），具備規格導向開發與\n測試驅動開發（TDD）能力，能快速完成 0→1 並推動 1→100 的持續優化\n3. 2 年以上 LLM 實務經驗，熟悉 PyTorch 或 TensorFlow，具備模型訓練與\n微調的完整經驗\n4. 熟悉 LLM 生態系（如 LangGraph、Ollama、OpenAI SDK），能快速原型開\n發並部署服務\n5. 具備良好的實驗設計、問題拆解與跨團隊溝通能力，重視系統可觀測性與可\n維運性\n6. 具備良好的中英文溝通能力，能撰寫技術文件並進行技術簡報\n【加分條件】\n1. 具金融相關經驗，如市場預測、事件抽取、情緒分析、因子建模或投資組合\n最佳化\n2. 參與過競賽（Kaggle、AI Challenger 等）或為開源專案活躍貢獻者\n3. 曾於頂級學術會議或技術場合發表論文或演講（如 NeurIPS、ICML、\nICLR、CVPR）",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "資料工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、資料工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪160,000~230,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 與量化研究團隊共同設計實驗，將模型輸出轉換為可交易訊號，並執行離線\n／線上回測與 A/B 測試\n2. 設計與開發 AI Agent（包含 RAG、工具調用、任務規劃），提升策略研究\n與交易執行效率\n3. 運用 Prompt Engineering、MoE、LoRA、模型量化與蒸餾等技術，優化效\n能、成本與推論延遲\n4. 針對金融文本（財報、公告、新聞、社群資料等）進行模型微調與對齊\n（SFT / DPO），強化事件與情緒判斷能力\n5. 導入並落實 MLOps 最佳實務（容器化、CI/CD、模型與特徵版本管理），\n提升開發效率與合規性\n6. 持續追蹤前沿研究，主導內部技術分享，協助團隊進行模型選型與架構演進\n【職務需求】\n1. 資工、電機、資料科學相關碩士以上學歷尤佳，或具備同等實務成果\n2. 熟悉 AI 輔助開發工具（如 Cursor、Claude Code），具備規格導向開發與\n測試驅動開發（TDD）能力，能快速完成 0→1 並推動 1→100 的持續優化\n3. 2 年以上 LLM 實務經驗，熟悉 PyTorch 或 TensorFlow，具備模型訓練與\n微調的完整經驗\n4. 熟悉 LLM 生態系（如 LangGraph、Ollama、OpenAI SDK），能快速原型開\n發並部署服務\n5. 具備良好的實驗設計、問題拆解與跨團隊溝通能力，重視系統可觀測性與可\n維運性\n6. 具備良好的中英文溝通能力，能撰寫技術文件並進行技術簡報\n【加分條件】\n1. 具金融相關經驗，如市場預測、事件抽取、情緒分析、因子建模或投資組合\n最佳化\n2. 參與過競賽（Kaggle、AI Challenger 等）或為開源專案活躍貢獻者\n3. 曾於頂級學術會議或技術場合發表論文或演講（如 NeurIPS、ICML、\nICLR、CVPR）"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "LLM",
+            "NLP"
+          ],
+          "label": "擅長工具",
+          "text": "LLM、NLP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "自然語言處理",
+            "人工智慧",
+            "演算法設計",
+            "語言模型"
+          ],
+          "label": "工作技能",
+          "text": "AI、自然語言處理、人工智慧、演算法設計、語言模型",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：資訊工程相關\n擅長工具：LLM、NLP\n工作技能：AI、自然語言處理、人工智慧、演算法設計、語言模型"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8y97z",
+    "job_url": "https://www.104.com.tw/job/8y97z",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8y97z.json",
+    "raw_sha256": "731e6530e873843ecf142600e71180a0b0ddf4ab28119b8b07b0d98214cbfa61",
+    "requested_url": "https://www.104.com.tw/api/jobs/8y97z"
+  }
+}

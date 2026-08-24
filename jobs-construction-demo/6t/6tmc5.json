@@ -1,0 +1,210 @@
+{
+  "company": {
+    "id": "1a2x6bhzk1",
+    "name": "全鼎資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "專案管理主管",
+      "軟體專案管理師",
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責軟體之分析、設計以及規格開立。"
+        },
+        {
+          "children": [],
+          "text": "規劃執行軟體架構及模組之設計，並控管軟體設計進度。"
+        },
+        {
+          "children": [],
+          "text": "進行軟體之測試與修改。"
+        },
+        {
+          "children": [],
+          "text": "熟Asp.Net Mvc 開發。"
+        }
+      ],
+      "text": "1.負責軟體之分析、設計以及規格開立。\n2.規劃執行軟體架構及模組之設計，並控管軟體設計進度。\n3.進行軟體之測試與修改。\n4.熟Asp.Net Mvc 開發。"
+    },
+    "employment_type_raw": "全職",
+    "title": "系統分析師"
+  },
+  "location": {
+    "address_raw": "台北市中正區青島東路3-2號3樓",
+    "raw": "台北市中正區青島東路3-2號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "商業及管理學科類",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "商業及管理學科類、數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "AJAX",
+          "ASP.NET",
+          "ActiveX",
+          "HTML",
+          "JavaScript"
+        ],
+        "label": "擅長工具",
+        "text": "AJAX、ASP.NET、ActiveX、HTML、JavaScript"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具程式開發經驗者或大數據分析經驗者佳\n2.責任心強，具備良好的溝通能力和團隊合作精神，態度積極"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "商業及管理學科類",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": "1.具程式開發經驗者或大數據分析經驗者佳\n2.責任心強，具備良好的溝通能力和團隊合作精神，態度積極",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：商業及管理學科類、數學及電算機科學學科類\n擅長工具：AJAX、ASP.NET、ActiveX、HTML、JavaScript\n其他條件：1.具程式開發經驗者或大數據分析經驗者佳\n2.責任心強，具備良好的溝通能力和團隊合作精神，態度積極",
+    "tools": [
+      "AJAX",
+      "ASP.NET",
+      "ActiveX",
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 56
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:39:12+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責軟體之分析、設計以及規格開立。\n2.規劃執行軟體架構及模組之設計，並控管軟體設計進度。\n3.進行軟體之測試與修改。\n4.熟Asp.Net Mvc 開發。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "專案管理主管",
+            "軟體專案管理師",
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "專案管理主管、軟體專案管理師、系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區青島東路3-2號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責軟體之分析、設計以及規格開立。\n2.規劃執行軟體架構及模組之設計，並控管軟體設計進度。\n3.進行軟體之測試與修改。\n4.熟Asp.Net Mvc 開發。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "商業及管理學科類",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "商業及管理學科類、數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AJAX",
+            "ASP.NET",
+            "ActiveX",
+            "HTML",
+            "JavaScript"
+          ],
+          "label": "擅長工具",
+          "text": "AJAX、ASP.NET、ActiveX、HTML、JavaScript",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具程式開發經驗者或大數據分析經驗者佳\n2.責任心強，具備良好的溝通能力和團隊合作精神，態度積極",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：商業及管理學科類、數學及電算機科學學科類\n擅長工具：AJAX、ASP.NET、ActiveX、HTML、JavaScript\n其他條件：1.具程式開發經驗者或大數據分析經驗者佳\n2.責任心強，具備良好的溝通能力和團隊合作精神，態度積極"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6tmc5",
+    "job_url": "https://www.104.com.tw/job/6tmc5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6tmc5.json",
+    "raw_sha256": "ce1598c4fe606d4bc948407dcb16bc10ac18dee2050c726d400bc9b3e6323227",
+    "requested_url": "https://www.104.com.tw/api/jobs/6tmc5"
+  }
+}

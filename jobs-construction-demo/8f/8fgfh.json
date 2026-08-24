@@ -1,0 +1,232 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "軟體工程師",
+      "資料工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "軟體需求討論及規劃, 實作高效能、高可用性、高擴充性之系統。"
+        },
+        {
+          "children": [],
+          "text": "LLM、語音、多模態相關應用開發。"
+        },
+        {
+          "children": [],
+          "text": "底層演算法API串接 (Fine-tuning/Inference/RAG/Agent…)。"
+        },
+        {
+          "children": [],
+          "text": "開發Web service滿足前端軟體需求。"
+        },
+        {
+          "children": [],
+          "text": "維護既有系統並視需要規劃重構以增進可維護性。"
+        },
+        {
+          "children": [],
+          "text": "自動化持續整合和測試及持續交付。"
+        }
+      ],
+      "text": "1. 軟體需求討論及規劃, 實作高效能、高可用性、高擴充性之系統。\n2. LLM、語音、多模態相關應用開發。\n3. 底層演算法API串接 (Fine-tuning/Inference/RAG/Agent…)。\n4. 開發Web service滿足前端軟體需求。\n5. 維護既有系統並視需要規劃重構以增進可維護性。\n6. 自動化持續整合和測試及持續交付。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI Application Engineer(竹南/台北)"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "數理統計相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、數理統計相關"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "C#",
+          "Python",
+          "Node.js"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Python、Node.js"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 大學以上，電資學院、理工相關科系畢業，必需具備2年以上相關軟體開發經驗。\n2. 熟悉至少一種語言 (Python/Node.js/C#)。\n3. 熟悉虛擬化與容器技術Docker, Kubernetes。\n4. 具備LLM inference service串接經驗(vllm, TensorRT, GPT, Ollama…)。\n5. 熟悉至少一項資料庫系統，熟悉向量資料庫為佳(chroma, pg_vector, milvus…)。\n6. 熟悉至少一種前端Web技術(Typescript, Vue, HTML…)。\n7. 熟悉Linux。\n8. 具備CI/CD流程經驗。\n9. 具備langchain, llama_index串接經驗為佳。\n10. 英文聽說讀寫流利。"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "數理統計相關"
+    ],
+    "other_text": "1. 大學以上，電資學院、理工相關科系畢業，必需具備2年以上相關軟體開發經驗。\n2. 熟悉至少一種語言 (Python/Node.js/C#)。\n3. 熟悉虛擬化與容器技術Docker, Kubernetes。\n4. 具備LLM inference service串接經驗(vllm, TensorRT, GPT, Ollama…)。\n5. 熟悉至少一項資料庫系統，熟悉向量資料庫為佳(chroma, pg_vector, milvus…)。\n6. 熟悉至少一種前端Web技術(Typescript, Vue, HTML…)。\n7. 熟悉Linux。\n8. 具備CI/CD流程經驗。\n9. 具備langchain, llama_index串接經驗為佳。\n10. 英文聽說讀寫流利。",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、數理統計相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：C#、Python、Node.js\n其他條件：1. 大學以上，電資學院、理工相關科系畢業，必需具備2年以上相關軟體開發經驗。\n2. 熟悉至少一種語言 (Python/Node.js/C#)。\n3. 熟悉虛擬化與容器技術Docker, Kubernetes。\n4. 具備LLM inference service串接經驗(vllm, TensorRT, GPT, Ollama…)。\n5. 熟悉至少一項資料庫系統，熟悉向量資料庫為佳(chroma, pg_vector, milvus…)。\n6. 熟悉至少一種前端Web技術(Typescript, Vue, HTML…)。\n7. 熟悉Linux。\n8. 具備CI/CD流程經驗。\n9. 具備langchain, llama_index串接經驗為佳。\n10. 英文聽說讀寫流利。",
+    "tools": [
+      "C#",
+      "Python",
+      "Node.js"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 3
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:28:14+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 軟體需求討論及規劃, 實作高效能、高可用性、高擴充性之系統。\n2. LLM、語音、多模態相關應用開發。\n3. 底層演算法API串接 (Fine-tuning/Inference/RAG/Agent…)。\n4. 開發Web service滿足前端軟體需求。\n5. 維護既有系統並視需要規劃重構以增進可維護性。\n6. 自動化持續整合和測試及持續交付。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "軟體工程師",
+            "資料工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、軟體工程師、資料工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 軟體需求討論及規劃, 實作高效能、高可用性、高擴充性之系統。\n2. LLM、語音、多模態相關應用開發。\n3. 底層演算法API串接 (Fine-tuning/Inference/RAG/Agent…)。\n4. 開發Web service滿足前端軟體需求。\n5. 維護既有系統並視需要規劃重構以增進可維護性。\n6. 自動化持續整合和測試及持續交付。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "數理統計相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、數理統計相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Python",
+            "Node.js"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Python、Node.js",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 大學以上，電資學院、理工相關科系畢業，必需具備2年以上相關軟體開發經驗。\n2. 熟悉至少一種語言 (Python/Node.js/C#)。\n3. 熟悉虛擬化與容器技術Docker, Kubernetes。\n4. 具備LLM inference service串接經驗(vllm, TensorRT, GPT, Ollama…)。\n5. 熟悉至少一項資料庫系統，熟悉向量資料庫為佳(chroma, pg_vector, milvus…)。\n6. 熟悉至少一種前端Web技術(Typescript, Vue, HTML…)。\n7. 熟悉Linux。\n8. 具備CI/CD流程經驗。\n9. 具備langchain, llama_index串接經驗為佳。\n10. 英文聽說讀寫流利。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、數理統計相關\n語文條件：英文：精通、精通、精通、精通\n擅長工具：C#、Python、Node.js\n其他條件：1. 大學以上，電資學院、理工相關科系畢業，必需具備2年以上相關軟體開發經驗。\n2. 熟悉至少一種語言 (Python/Node.js/C#)。\n3. 熟悉虛擬化與容器技術Docker, Kubernetes。\n4. 具備LLM inference service串接經驗(vllm, TensorRT, GPT, Ollama…)。\n5. 熟悉至少一項資料庫系統，熟悉向量資料庫為佳(chroma, pg_vector, milvus…)。\n6. 熟悉至少一種前端Web技術(Typescript, Vue, HTML…)。\n7. 熟悉Linux。\n8. 具備CI/CD流程經驗。\n9. 具備langchain, llama_index串接經驗為佳。\n10. 英文聽說讀寫流利。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8fgfh",
+    "job_url": "https://www.104.com.tw/job/8fgfh",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8fgfh.json",
+    "raw_sha256": "e8c9a999b396a384c62d6615923d95fa22d319e6ee845c3a3fb010a5a92db50f",
+    "requested_url": "https://www.104.com.tw/api/jobs/8fgfh"
+  }
+}

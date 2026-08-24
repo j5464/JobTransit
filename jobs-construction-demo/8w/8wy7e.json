@@ -1,0 +1,205 @@
+{
+  "company": {
+    "id": "1a2x6bkrky",
+    "name": "翰霖科技資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "參與需求釐清與技術實作討論、分析，確保與業務目標保持一致並實現長期可擴展性。"
+        },
+        {
+          "children": [],
+          "text": "高流量、高乘載的模組功能開發，並進行串接測試。"
+        },
+        {
+          "children": [],
+          "text": "日常系統維運作業，協助業務單位釐清、排除問題。"
+        },
+        {
+          "children": [],
+          "text": "持續進行架構演進與系統效能優化。"
+        },
+        {
+          "children": [],
+          "text": "與產品、設計合作，明確技術範圍和執行計劃，確保高可靠性、高效能和可維護性。"
+        },
+        {
+          "children": [],
+          "text": "主動識別並解決技術風險、瓶頸和低效率問題。"
+        },
+        {
+          "children": [],
+          "text": "主動提出更好的方法，幫助團隊完成任務。"
+        }
+      ],
+      "text": "【工作內容】\n☑️系統設計與開發\n1、參與需求釐清與技術實作討論、分析，確保與業務目標保持一致並實現長期可擴展性。\n2、高流量、高乘載的模組功能開發，並進行串接測試。\n3、日常系統維運作業，協助業務單位釐清、排除問題。\n4、持續進行架構演進與系統效能優化。\n☑️功能交付與協作\n1、與產品、設計合作，明確技術範圍和執行計劃，確保高可靠性、高效能和可維護性。\n2、主動識別並解決技術風險、瓶頸和低效率問題。\n3、主動提出更好的方法，幫助團隊完成任務。\n【開發內容】\n☑️至少1年軟體開發經驗，具 FullStack 經驗者尤佳。\n☑️熟悉後端程式開發，1-2種後端語言（Java尤佳）。\n☑️具 Java Web 開發經驗，熟悉 Spring Boot，有 JSP/Servlet 相關實務經驗。\n☑️熟悉常見資料庫技術（RDBMS/NoSQL）與快取系統（如 Redis、Memcached）。\n☑️了解並能合理使用 MessageQueue 技術（如 Kafka、RabbitMQ 等）。\n☑️熟悉版本控制（Git）與 CI/CD 流程，具自動化部署與整合經驗。\n【加分項目】\n☑️對物件導向程式設計（OOP）有扎實理解並具備實務應用能力。\n☑️具備微服務架構設計與開發經驗者佳。\n☑️能主動推動系統重構、效能優化及可靠性提升的相關專案。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【專案駐點】Java工程師D"
+  },
+  "location": {
+    "address_raw": "台北市內湖區",
+    "raw": "台北市內湖區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Java",
+          "Spring",
+          "JSP"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Spring、JSP"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科以上\n擅長工具：Java、Spring、JSP\n工作技能：軟體工程系統開發、軟體程式設計",
+    "tools": [
+      "Java",
+      "Spring",
+      "JSP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 90
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:04:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n☑️系統設計與開發\n1、參與需求釐清與技術實作討論、分析，確保與業務目標保持一致並實現長期可擴展性。\n2、高流量、高乘載的模組功能開發，並進行串接測試。\n3、日常系統維運作業，協助業務單位釐清、排除問題。\n4、持續進行架構演進與系統效能優化。\n☑️功能交付與協作\n1、與產品、設計合作，明確技術範圍和執行計劃，確保高可靠性、高效能和可維護性。\n2、主動識別並解決技術風險、瓶頸和低效率問題。\n3、主動提出更好的方法，幫助團隊完成任務。\n【開發內容】\n☑️至少1年軟體開發經驗，具 FullStack 經驗者尤佳。\n☑️熟悉後端程式開發，1-2種後端語言（Java尤佳）。\n☑️具 Java Web 開發經驗，熟悉 Spring Boot，有 JSP/Servlet 相關實務經驗。\n☑️熟悉常見資料庫技術（RDBMS/NoSQL）與快取系統（如 Redis、Memcached）。\n☑️了解並能合理使用 MessageQueue 技術（如 Kafka、RabbitMQ 等）。\n☑️熟悉版本控制（Git）與 CI/CD 流程，具自動化部署與整合經驗。\n【加分項目】\n☑️對物件導向程式設計（OOP）有扎實理解並具備實務應用能力。\n☑️具備微服務架構設計與開發經驗者佳。\n☑️能主動推動系統重構、效能優化及可靠性提升的相關專案。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n☑️系統設計與開發\n1、參與需求釐清與技術實作討論、分析，確保與業務目標保持一致並實現長期可擴展性。\n2、高流量、高乘載的模組功能開發，並進行串接測試。\n3、日常系統維運作業，協助業務單位釐清、排除問題。\n4、持續進行架構演進與系統效能優化。\n☑️功能交付與協作\n1、與產品、設計合作，明確技術範圍和執行計劃，確保高可靠性、高效能和可維護性。\n2、主動識別並解決技術風險、瓶頸和低效率問題。\n3、主動提出更好的方法，幫助團隊完成任務。\n【開發內容】\n☑️至少1年軟體開發經驗，具 FullStack 經驗者尤佳。\n☑️熟悉後端程式開發，1-2種後端語言（Java尤佳）。\n☑️具 Java Web 開發經驗，熟悉 Spring Boot，有 JSP/Servlet 相關實務經驗。\n☑️熟悉常見資料庫技術（RDBMS/NoSQL）與快取系統（如 Redis、Memcached）。\n☑️了解並能合理使用 MessageQueue 技術（如 Kafka、RabbitMQ 等）。\n☑️熟悉版本控制（Git）與 CI/CD 流程，具自動化部署與整合經驗。\n【加分項目】\n☑️對物件導向程式設計（OOP）有扎實理解並具備實務應用能力。\n☑️具備微服務架構設計與開發經驗者佳。\n☑️能主動推動系統重構、效能優化及可靠性提升的相關專案。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Spring",
+            "JSP"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Spring、JSP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科以上\n擅長工具：Java、Spring、JSP\n工作技能：軟體工程系統開發、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8wy7e",
+    "job_url": "https://www.104.com.tw/job/8wy7e",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8wy7e.json",
+    "raw_sha256": "4ec75dd2a87430ea68f5cab02b2e7970e3ab1b6657c8458ebf6bb303901e1cc3",
+    "requested_url": "https://www.104.com.tw/api/jobs/8wy7e"
+  }
+}

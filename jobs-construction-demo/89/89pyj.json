@@ -1,0 +1,256 @@
+{
+  "company": {
+    "id": "1a2x6bmbq1",
+    "name": "旅屋數據股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師",
+      "MIS程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "平台相關系統設置與管理"
+        },
+        {
+          "children": [],
+          "text": "持續的優化Server 以及 資料庫的效能"
+        },
+        {
+          "children": [],
+          "text": "平台功能SIT"
+        },
+        {
+          "children": [],
+          "text": "系統管理自動化script開發"
+        },
+        {
+          "children": [],
+          "text": "最少一年以上的Linux系統管理經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 MySQL及相關設置優化流程"
+        },
+        {
+          "children": [],
+          "text": "熟悉 AWS ，如EC2，S3，RDS2等"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Web server相關設置與優化"
+        },
+        {
+          "children": [],
+          "text": "熟悉 PHP，JAVA開發環境設置"
+        },
+        {
+          "children": [],
+          "text": "熟悉 git 版本控制設置與管理"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Shell script者更佳"
+        }
+      ],
+      "text": "為什麼要在旅屋工作？\n① 你的所有付出都會讓旅行者跟使用者的生活更有效率更可靠，你絕對看得到你工作的成果。\n② 能熟悉VMC架構，能串接其他異質平台來強化自身程式的應用。\n③ Machine learning及語意分析的智慧客服，越多使用者越智慧的系統。\n④ 雲端結合實體IoT設備的旅宿智慧化管理，從訂房到房間中的設備控制，系統無縫控制。\n你的工作將會是：\n1. 平台相關系統設置與管理\n2. 持續的優化Server 以及 資料庫的效能\n3.平台功能SIT\n4.系統管理自動化script開發\n你必須具備：\n1. 最少一年以上的Linux系統管理經驗\n2. 熟悉 MySQL及相關設置優化流程\n3. 熟悉 AWS ，如EC2，S3，RDS2等\n4. 熟悉 Web server相關設置與優化\n5. 熟悉 PHP，JAVA開發環境設置\n6.熟悉 git 版本控制設置與管理\n7.熟悉 Shell script者更佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "DevOps 工程師"
+  },
+  "location": {
+    "address_raw": "台北市中山區南京東路三段63號8樓",
+    "raw": "台北市中山區南京東路三段63號8樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "其他工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、其他工程相關"
+      },
+      {
+        "items": [
+          "PHP",
+          "MySQL",
+          "HTML",
+          "JavaScript",
+          "jQuery",
+          "CSS"
+        ],
+        "label": "擅長工具",
+        "text": "PHP、MySQL、HTML、JavaScript、jQuery、CSS"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、網路程式設計、資料庫程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "其他工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：不拘\n科系要求：資訊工程相關、資訊管理相關、其他工程相關\n擅長工具：PHP、MySQL、HTML、JavaScript、jQuery、CSS\n工作技能：軟體程式設計、網路程式設計、資料庫程式設計",
+    "tools": [
+      "PHP",
+      "MySQL",
+      "HTML",
+      "JavaScript",
+      "jQuery",
+      "CSS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 34
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:45:23+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000~70,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "為什麼要在旅屋工作？\n① 你的所有付出都會讓旅行者跟使用者的生活更有效率更可靠，你絕對看得到你工作的成果。\n② 能熟悉VMC架構，能串接其他異質平台來強化自身程式的應用。\n③ Machine learning及語意分析的智慧客服，越多使用者越智慧的系統。\n④ 雲端結合實體IoT設備的旅宿智慧化管理，從訂房到房間中的設備控制，系統無縫控制。\n你的工作將會是：\n1. 平台相關系統設置與管理\n2. 持續的優化Server 以及 資料庫的效能\n3.平台功能SIT\n4.系統管理自動化script開發\n你必須具備：\n1. 最少一年以上的Linux系統管理經驗\n2. 熟悉 MySQL及相關設置優化流程\n3. 熟悉 AWS ，如EC2，S3，RDS2等\n4. 熟悉 Web server相關設置與優化\n5. 熟悉 PHP，JAVA開發環境設置\n6.熟悉 git 版本控制設置與管理\n7.熟悉 Shell script者更佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師",
+            "MIS程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師、MIS程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000~70,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區南京東路三段63號8樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "為什麼要在旅屋工作？\n① 你的所有付出都會讓旅行者跟使用者的生活更有效率更可靠，你絕對看得到你工作的成果。\n② 能熟悉VMC架構，能串接其他異質平台來強化自身程式的應用。\n③ Machine learning及語意分析的智慧客服，越多使用者越智慧的系統。\n④ 雲端結合實體IoT設備的旅宿智慧化管理，從訂房到房間中的設備控制，系統無縫控制。\n你的工作將會是：\n1. 平台相關系統設置與管理\n2. 持續的優化Server 以及 資料庫的效能\n3.平台功能SIT\n4.系統管理自動化script開發\n你必須具備：\n1. 最少一年以上的Linux系統管理經驗\n2. 熟悉 MySQL及相關設置優化流程\n3. 熟悉 AWS ，如EC2，S3，RDS2等\n4. 熟悉 Web server相關設置與優化\n5. 熟悉 PHP，JAVA開發環境設置\n6.熟悉 git 版本控制設置與管理\n7.熟悉 Shell script者更佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "其他工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、其他工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PHP",
+            "MySQL",
+            "HTML",
+            "JavaScript",
+            "jQuery",
+            "CSS"
+          ],
+          "label": "擅長工具",
+          "text": "PHP、MySQL、HTML、JavaScript、jQuery、CSS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、網路程式設計、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：不拘\n科系要求：資訊工程相關、資訊管理相關、其他工程相關\n擅長工具：PHP、MySQL、HTML、JavaScript、jQuery、CSS\n工作技能：軟體程式設計、網路程式設計、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "89pyj",
+    "job_url": "https://www.104.com.tw/job/89pyj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/89pyj.json",
+    "raw_sha256": "ea015adf1b99cc503037f5afe56797e34f0cadf81861b68c4c5a3aef330258cd",
+    "requested_url": "https://www.104.com.tw/api/jobs/89pyj"
+  }
+}

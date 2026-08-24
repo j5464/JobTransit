@@ -1,0 +1,441 @@
+{
+  "company": {
+    "id": "1a2x6bk2zy",
+    "name": "台灣骨王生技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "資料工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計並優化多輪對話、指令理解、任務導向回應的 prompts"
+        },
+        {
+          "children": [],
+          "text": "設計 Agent 工作流程（plan、act、observe、verify），整合 function calling 與外部工具調用"
+        },
+        {
+          "children": [],
+          "text": "撰寫 prompt 測試與評估流程，建立評分指標，衡量準確性、RAG 檢索忠實度並追蹤失敗模式"
+        },
+        {
+          "children": [],
+          "text": "與 AI 工程師協作整合 RAG 架構（Retriever / Reranker / Generator）、向量資料庫與 embeddings 模組"
+        },
+        {
+          "children": [],
+          "text": "開發 LLM 應用所需的 Python 工具模組與 API 封裝"
+        },
+        {
+          "children": [],
+          "text": "建立提示注入與異常輸出防護機制"
+        },
+        {
+          "children": [],
+          "text": "參與 prompt 結構標準化、版本控管與 Prompt Library 建構"
+        },
+        {
+          "children": [],
+          "text": "研究並評估最新提示技術與推理框架（ReAct、CoT、MCP 等）"
+        },
+        {
+          "children": [],
+          "text": "熟悉大型語言模型（ChatGPT、Claude、Gemini）運作原理與 API 使用"
+        },
+        {
+          "children": [],
+          "text": "熟練 Python，能撰寫維護模組化程式碼"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Prompt 設計原則（Instruction、Few-shot、Chain-of-Thought）"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RAG 架構與向量資料庫應用，具語意搜尋實作經驗"
+        },
+        {
+          "children": [],
+          "text": "擅長資訊結構化與邏輯性強的語言設計"
+        },
+        {
+          "children": [],
+          "text": "熟悉 MCP 或其他工具串接標準規格"
+        },
+        {
+          "children": [],
+          "text": "有 Agent 編排（Multi-agent Orchestration）經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 LangChain、LangGraph、LlamaIndex、Haystack、Hugging Face 等框架"
+        },
+        {
+          "children": [],
+          "text": "具備 LLM 評估與可觀測性實務經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉基礎 NLP 模型（BERT、T5）概念者尤佳"
+        },
+        {
+          "children": [],
+          "text": "有處理醫學知識、教育資料、技術文件者佳"
+        },
+        {
+          "children": [],
+          "text": "C#：具備 C# 與繪圖引擎開發經驗"
+        },
+        {
+          "children": [],
+          "text": "C++：具備 C++ 程式開發能力，需以 C++ 為主要開發方式並搭配 Python"
+        },
+        {
+          "children": [],
+          "text": "--"
+        },
+        {
+          "children": [],
+          "text": "Design and optimize prompts for multi-turn dialogue, instruction understanding, and task-oriented responses"
+        },
+        {
+          "children": [],
+          "text": "Design agent workflows (plan, act, observe, verify), integrating function calling and external tools"
+        },
+        {
+          "children": [],
+          "text": "Write prompt test and evaluation pipelines; build metrics for accuracy, RAG faithfulness, and failure tracking"
+        },
+        {
+          "children": [],
+          "text": "Collaborate on RAG architecture (Retriever / Reranker / Generator), vector databases, and embeddings"
+        },
+        {
+          "children": [],
+          "text": "Develop Python tooling and API wrappers for LLM applications"
+        },
+        {
+          "children": [],
+          "text": "Build prompt injection defenses and output safeguards"
+        },
+        {
+          "children": [],
+          "text": "Contribute to prompt standardization, version control, and the Prompt Library"
+        },
+        {
+          "children": [],
+          "text": "Research emerging prompting techniques and frameworks (ReAct, CoT, MCP)"
+        },
+        {
+          "children": [],
+          "text": "Familiarity with LLMs (ChatGPT, Claude, Gemini) and API usage"
+        },
+        {
+          "children": [],
+          "text": "Proficient in Python with modular code skills"
+        },
+        {
+          "children": [],
+          "text": "Understanding of prompt design principles (Instruction, Few-shot, Chain-of-Thought)"
+        },
+        {
+          "children": [],
+          "text": "Experience with RAG architecture and vector databases, including semantic search"
+        },
+        {
+          "children": [],
+          "text": "Strong information structuring and logical language design skills"
+        },
+        {
+          "children": [],
+          "text": "Familiarity with MCP or other tool-integration standards"
+        },
+        {
+          "children": [],
+          "text": "Experience with agent orchestration (multi-agent)"
+        },
+        {
+          "children": [],
+          "text": "Familiarity with LangChain, LangGraph, LlamaIndex, Haystack, Hugging Face"
+        },
+        {
+          "children": [],
+          "text": "Practical experience with LLM evaluation and observability"
+        },
+        {
+          "children": [],
+          "text": "Understanding of foundational NLP models (BERT, T5) a plus"
+        },
+        {
+          "children": [],
+          "text": "Experience with medical knowledge, educational content, or technical documentation a plus"
+        },
+        {
+          "children": [],
+          "text": "C#: Experience with C# and graphics/rendering engines"
+        },
+        {
+          "children": [],
+          "text": "C++: Proficient in C++ development; C++ must be the primary language, used alongside Python"
+        }
+      ],
+      "text": "AI 提示工程師（Prompt Engineer）\n地點：台中市／台中科學園區\n部門：研發部\n職位性質：全職\n職務說明\n我們正在尋找一位具備語言模型理解與應用能力，並能結合提示工程與 Python 開發技能的 AI 提示工程師，加入公司產品開發團隊，主導提示策略與 Agent 工作流程的設計優化，協助研發基於 RAG 架構的智慧語言互動模組。\n工作內容\n- 設計並優化多輪對話、指令理解、任務導向回應的 prompts\n- 設計 Agent 工作流程（plan、act、observe、verify），整合 function calling 與外部工具調用\n- 撰寫 prompt 測試與評估流程，建立評分指標，衡量準確性、RAG 檢索忠實度並追蹤失敗模式\n- 與 AI 工程師協作整合 RAG 架構（Retriever / Reranker / Generator）、向量資料庫與 embeddings 模組\n- 開發 LLM 應用所需的 Python 工具模組與 API 封裝\n- 建立提示注入與異常輸出防護機制\n- 參與 prompt 結構標準化、版本控管與 Prompt Library 建構\n- 研究並評估最新提示技術與推理框架（ReAct、CoT、MCP 等）\n必要條件\n- 熟悉大型語言模型（ChatGPT、Claude、Gemini）運作原理與 API 使用\n- 熟練 Python，能撰寫維護模組化程式碼\n- 熟悉 Prompt 設計原則（Instruction、Few-shot、Chain-of-Thought）\n- 熟悉 RAG 架構與向量資料庫應用，具語意搜尋實作經驗\n- 擅長資訊結構化與邏輯性強的語言設計\n加分條件\n- 熟悉 MCP 或其他工具串接標準規格\n- 有 Agent 編排（Multi-agent Orchestration）經驗\n- 熟悉 LangChain、LangGraph、LlamaIndex、Haystack、Hugging Face 等框架\n- 具備 LLM 評估與可觀測性實務經驗\n- 熟悉基礎 NLP 模型（BERT、T5）概念者尤佳\n- 有處理醫學知識、教育資料、技術文件者佳\n工作技能\n- C#：具備 C# 與繪圖引擎開發經驗\n- C++：具備 C++ 程式開發能力，需以 C++ 為主要開發方式並搭配 Python\n---\nAI Prompt Engineer\nLocation: Taichung City / Taichung Science Park\nDepartment: R&D\nEmployment Type: Full-time\nJob Description\nWe are looking for an AI Prompt Engineer with strong LLM understanding and Prompt Engineering plus Python skills to join our product development team, leading prompt strategy and agent workflow design, and supporting RAG-based intelligent language modules.\nResponsibilities\n- Design and optimize prompts for multi-turn dialogue, instruction understanding, and task-oriented responses\n- Design agent workflows (plan, act, observe, verify), integrating function calling and external tools\n- Write prompt test and evaluation pipelines; build metrics for accuracy, RAG faithfulness, and failure tracking\n- Collaborate on RAG architecture (Retriever / Reranker / Generator), vector databases, and embeddings\n- Develop Python tooling and API wrappers for LLM applications\n- Build prompt injection defenses and output safeguards\n- Contribute to prompt standardization, version control, and the Prompt Library\n- Research emerging prompting techniques and frameworks (ReAct, CoT, MCP)\nRequired Qualifications\n- Familiarity with LLMs (ChatGPT, Claude, Gemini) and API usage\n- Proficient in Python with modular code skills\n- Understanding of prompt design principles (Instruction, Few-shot, Chain-of-Thought)\n- Experience with RAG architecture and vector databases, including semantic search\n- Strong information structuring and logical language design skills\nPreferred Qualifications\n- Familiarity with MCP or other tool-integration standards\n- Experience with agent orchestration (multi-agent)\n- Familiarity with LangChain, LangGraph, LlamaIndex, Haystack, Hugging Face\n- Practical experience with LLM evaluation and observability\n- Understanding of foundational NLP models (BERT, T5) a plus\n- Experience with medical knowledge, educational content, or technical documentation a plus\nAdditional Technical Skills\n- C#: Experience with C# and graphics/rendering engines\n- C++: Proficient in C++ development; C++ must be the primary language, used alongside Python"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI 提示工程師（Prompt Engineer）"
+  },
+  "location": {
+    "address_raw": "台中市大雅區科雅路41號2樓",
+    "raw": "台中市大雅區科雅路41號2樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "應用數學相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、應用數學相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "Python",
+          "MS SQL",
+          "Database Management",
+          "Database Administrator",
+          "LLM",
+          "NLP",
+          "Visual Studio .net",
+          "Visual Studio",
+          "Visual C++",
+          "Visual C#",
+          "C++",
+          "C#",
+          "C",
+          "Github",
+          "PyTorch",
+          "tensorflow",
+          "OpenCV",
+          "Prompt",
+          "Qt"
+        ],
+        "label": "擅長工具",
+        "text": "Python、MS SQL、Database Management、Database Administrator、LLM、NLP、Visual Studio .net、Visual Studio、Visual C++、Visual C#、C++、C#、C、Github、PyTorch、tensorflow、OpenCV、Prompt、Qt"
+      },
+      {
+        "items": [
+          "資料庫程式設計",
+          "資料庫系統管理維護",
+          "網路程式設計",
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "提示工程",
+          "AI",
+          "系統架構規劃",
+          "系統整合分析"
+        ],
+        "label": "工作技能",
+        "text": "資料庫程式設計、資料庫系統管理維護、網路程式設計、軟體程式設計、軟體工程系統開發、提示工程、AI、系統架構規劃、系統整合分析"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "應用數學相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "資料庫程式設計",
+      "資料庫系統管理維護",
+      "網路程式設計",
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "提示工程",
+      "AI",
+      "系統架構規劃",
+      "系統整合分析"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、應用數學相關、其他數學及電算機科學相關\n擅長工具：Python、MS SQL、Database Management、Database Administrator、LLM、NLP、Visual Studio .net、Visual Studio、Visual C++、Visual C#、C++、C#、C、Github、PyTorch、tensorflow、OpenCV、Prompt、Qt\n工作技能：資料庫程式設計、資料庫系統管理維護、網路程式設計、軟體程式設計、軟體工程系統開發、提示工程、AI、系統架構規劃、系統整合分析",
+    "tools": [
+      "Python",
+      "MS SQL",
+      "Database Management",
+      "Database Administrator",
+      "LLM",
+      "NLP",
+      "Visual Studio .net",
+      "Visual Studio",
+      "Visual C++",
+      "Visual C#",
+      "C++",
+      "C#",
+      "C",
+      "Github",
+      "PyTorch",
+      "tensorflow",
+      "OpenCV",
+      "Prompt",
+      "Qt"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 16
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:00:36+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "AI 提示工程師（Prompt Engineer）\n地點：台中市／台中科學園區\n部門：研發部\n職位性質：全職\n職務說明\n我們正在尋找一位具備語言模型理解與應用能力，並能結合提示工程與 Python 開發技能的 AI 提示工程師，加入公司產品開發團隊，主導提示策略與 Agent 工作流程的設計優化，協助研發基於 RAG 架構的智慧語言互動模組。\n工作內容\n- 設計並優化多輪對話、指令理解、任務導向回應的 prompts\n- 設計 Agent 工作流程（plan、act、observe、verify），整合 function calling 與外部工具調用\n- 撰寫 prompt 測試與評估流程，建立評分指標，衡量準確性、RAG 檢索忠實度並追蹤失敗模式\n- 與 AI 工程師協作整合 RAG 架構（Retriever / Reranker / Generator）、向量資料庫與 embeddings 模組\n- 開發 LLM 應用所需的 Python 工具模組與 API 封裝\n- 建立提示注入與異常輸出防護機制\n- 參與 prompt 結構標準化、版本控管與 Prompt Library 建構\n- 研究並評估最新提示技術與推理框架（ReAct、CoT、MCP 等）\n必要條件\n- 熟悉大型語言模型（ChatGPT、Claude、Gemini）運作原理與 API 使用\n- 熟練 Python，能撰寫維護模組化程式碼\n- 熟悉 Prompt 設計原則（Instruction、Few-shot、Chain-of-Thought）\n- 熟悉 RAG 架構與向量資料庫應用，具語意搜尋實作經驗\n- 擅長資訊結構化與邏輯性強的語言設計\n加分條件\n- 熟悉 MCP 或其他工具串接標準規格\n- 有 Agent 編排（Multi-agent Orchestration）經驗\n- 熟悉 LangChain、LangGraph、LlamaIndex、Haystack、Hugging Face 等框架\n- 具備 LLM 評估與可觀測性實務經驗\n- 熟悉基礎 NLP 模型（BERT、T5）概念者尤佳\n- 有處理醫學知識、教育資料、技術文件者佳\n工作技能\n- C#：具備 C# 與繪圖引擎開發經驗\n- C++：具備 C++ 程式開發能力，需以 C++ 為主要開發方式並搭配 Python\n---\nAI Prompt Engineer\nLocation: Taichung City / Taichung Science Park\nDepartment: R&D\nEmployment Type: Full-time\nJob Description\nWe are looking for an AI Prompt Engineer with strong LLM understanding and Prompt Engineering plus Python skills to join our product development team, leading prompt strategy and agent workflow design, and supporting RAG-based intelligent language modules.\nResponsibilities\n- Design and optimize prompts for multi-turn dialogue, instruction understanding, and task-oriented responses\n- Design agent workflows (plan, act, observe, verify), integrating function calling and external tools\n- Write prompt test and evaluation pipelines; build metrics for accuracy, RAG faithfulness, and failure tracking\n- Collaborate on RAG architecture (Retriever / Reranker / Generator), vector databases, and embeddings\n- Develop Python tooling and API wrappers for LLM applications\n- Build prompt injection defenses and output safeguards\n- Contribute to prompt standardization, version control, and the Prompt Library\n- Research emerging prompting techniques and frameworks (ReAct, CoT, MCP)\nRequired Qualifications\n- Familiarity with LLMs (ChatGPT, Claude, Gemini) and API usage\n- Proficient in Python with modular code skills\n- Understanding of prompt design principles (Instruction, Few-shot, Chain-of-Thought)\n- Experience with RAG architecture and vector databases, including semantic search\n- Strong information structuring and logical language design skills\nPreferred Qualifications\n- Familiarity with MCP or other tool-integration standards\n- Experience with agent orchestration (multi-agent)\n- Familiarity with LangChain, LangGraph, LlamaIndex, Haystack, Hugging Face\n- Practical experience with LLM evaluation and observability\n- Understanding of foundational NLP models (BERT, T5) a plus\n- Experience with medical knowledge, educational content, or technical documentation a plus\nAdditional Technical Skills\n- C#: Experience with C# and graphics/rendering engines\n- C++: Proficient in C++ development; C++ must be the primary language, used alongside Python",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "資料工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、資料工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市大雅區科雅路41號2樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "AI 提示工程師（Prompt Engineer）\n地點：台中市／台中科學園區\n部門：研發部\n職位性質：全職\n職務說明\n我們正在尋找一位具備語言模型理解與應用能力，並能結合提示工程與 Python 開發技能的 AI 提示工程師，加入公司產品開發團隊，主導提示策略與 Agent 工作流程的設計優化，協助研發基於 RAG 架構的智慧語言互動模組。\n工作內容\n- 設計並優化多輪對話、指令理解、任務導向回應的 prompts\n- 設計 Agent 工作流程（plan、act、observe、verify），整合 function calling 與外部工具調用\n- 撰寫 prompt 測試與評估流程，建立評分指標，衡量準確性、RAG 檢索忠實度並追蹤失敗模式\n- 與 AI 工程師協作整合 RAG 架構（Retriever / Reranker / Generator）、向量資料庫與 embeddings 模組\n- 開發 LLM 應用所需的 Python 工具模組與 API 封裝\n- 建立提示注入與異常輸出防護機制\n- 參與 prompt 結構標準化、版本控管與 Prompt Library 建構\n- 研究並評估最新提示技術與推理框架（ReAct、CoT、MCP 等）\n必要條件\n- 熟悉大型語言模型（ChatGPT、Claude、Gemini）運作原理與 API 使用\n- 熟練 Python，能撰寫維護模組化程式碼\n- 熟悉 Prompt 設計原則（Instruction、Few-shot、Chain-of-Thought）\n- 熟悉 RAG 架構與向量資料庫應用，具語意搜尋實作經驗\n- 擅長資訊結構化與邏輯性強的語言設計\n加分條件\n- 熟悉 MCP 或其他工具串接標準規格\n- 有 Agent 編排（Multi-agent Orchestration）經驗\n- 熟悉 LangChain、LangGraph、LlamaIndex、Haystack、Hugging Face 等框架\n- 具備 LLM 評估與可觀測性實務經驗\n- 熟悉基礎 NLP 模型（BERT、T5）概念者尤佳\n- 有處理醫學知識、教育資料、技術文件者佳\n工作技能\n- C#：具備 C# 與繪圖引擎開發經驗\n- C++：具備 C++ 程式開發能力，需以 C++ 為主要開發方式並搭配 Python\n---\nAI Prompt Engineer\nLocation: Taichung City / Taichung Science Park\nDepartment: R&D\nEmployment Type: Full-time\nJob Description\nWe are looking for an AI Prompt Engineer with strong LLM understanding and Prompt Engineering plus Python skills to join our product development team, leading prompt strategy and agent workflow design, and supporting RAG-based intelligent language modules.\nResponsibilities\n- Design and optimize prompts for multi-turn dialogue, instruction understanding, and task-oriented responses\n- Design agent workflows (plan, act, observe, verify), integrating function calling and external tools\n- Write prompt test and evaluation pipelines; build metrics for accuracy, RAG faithfulness, and failure tracking\n- Collaborate on RAG architecture (Retriever / Reranker / Generator), vector databases, and embeddings\n- Develop Python tooling and API wrappers for LLM applications\n- Build prompt injection defenses and output safeguards\n- Contribute to prompt standardization, version control, and the Prompt Library\n- Research emerging prompting techniques and frameworks (ReAct, CoT, MCP)\nRequired Qualifications\n- Familiarity with LLMs (ChatGPT, Claude, Gemini) and API usage\n- Proficient in Python with modular code skills\n- Understanding of prompt design principles (Instruction, Few-shot, Chain-of-Thought)\n- Experience with RAG architecture and vector databases, including semantic search\n- Strong information structuring and logical language design skills\nPreferred Qualifications\n- Familiarity with MCP or other tool-integration standards\n- Experience with agent orchestration (multi-agent)\n- Familiarity with LangChain, LangGraph, LlamaIndex, Haystack, Hugging Face\n- Practical experience with LLM evaluation and observability\n- Understanding of foundational NLP models (BERT, T5) a plus\n- Experience with medical knowledge, educational content, or technical documentation a plus\nAdditional Technical Skills\n- C#: Experience with C# and graphics/rendering engines\n- C++: Proficient in C++ development; C++ must be the primary language, used alongside Python"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "應用數學相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、應用數學相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "MS SQL",
+            "Database Management",
+            "Database Administrator",
+            "LLM",
+            "NLP",
+            "Visual Studio .net",
+            "Visual Studio",
+            "Visual C++",
+            "Visual C#",
+            "C++",
+            "C#",
+            "C",
+            "Github",
+            "PyTorch",
+            "tensorflow",
+            "OpenCV",
+            "Prompt",
+            "Qt"
+          ],
+          "label": "擅長工具",
+          "text": "Python、MS SQL、Database Management、Database Administrator、LLM、NLP、Visual Studio .net、Visual Studio、Visual C++、Visual C#、C++、C#、C、Github、PyTorch、tensorflow、OpenCV、Prompt、Qt",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料庫程式設計",
+            "資料庫系統管理維護",
+            "網路程式設計",
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "提示工程",
+            "AI",
+            "系統架構規劃",
+            "系統整合分析"
+          ],
+          "label": "工作技能",
+          "text": "資料庫程式設計、資料庫系統管理維護、網路程式設計、軟體程式設計、軟體工程系統開發、提示工程、AI、系統架構規劃、系統整合分析",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、應用數學相關、其他數學及電算機科學相關\n擅長工具：Python、MS SQL、Database Management、Database Administrator、LLM、NLP、Visual Studio .net、Visual Studio、Visual C++、Visual C#、C++、C#、C、Github、PyTorch、tensorflow、OpenCV、Prompt、Qt\n工作技能：資料庫程式設計、資料庫系統管理維護、網路程式設計、軟體程式設計、軟體工程系統開發、提示工程、AI、系統架構規劃、系統整合分析"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8r08j",
+    "job_url": "https://www.104.com.tw/job/8r08j",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8r08j.json",
+    "raw_sha256": "afcd93a00ecf0cb1262c5d0928fb5b01fb58a220c49316ca1796b3238f996cf9",
+    "requested_url": "https://www.104.com.tw/api/jobs/8r08j"
+  }
+}

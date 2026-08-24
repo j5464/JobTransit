@@ -1,0 +1,154 @@
+{
+  "company": {
+    "id": "whip92w",
+    "name": "全智科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "MES工程師",
+      "軟體工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責既有客戶B2B系統之日常維運、異常排查與客戶問題追蹤"
+        },
+        {
+          "children": [],
+          "text": "配合既有客戶需求修改與新客戶B2B功能開發"
+        },
+        {
+          "children": [],
+          "text": "配合客戶定期盤點與資料對帳作業"
+        },
+        {
+          "children": [],
+          "text": "協助建立B2B系統維運文件、程式版本與異常處理管理機制"
+        },
+        {
+          "children": [],
+          "text": "配合後續 EIP/Case Trace 等營運可觀測性機制導入，提升B2B問題追蹤與知識沉澱能力"
+        }
+      ],
+      "text": "全智科技具有穩健薪酬、保障年薪、年年調薪、發放優渥獎金、優於勞基法休假、健康工時、深耕人才重視培訓、職涯無界、升遷暢通。\nB2B工程師工作內容：\n1.負責既有客戶B2B系統之日常維運、異常排查與客戶問題追蹤\n2.配合既有客戶需求修改與新客戶B2B功能開發\n3.配合客戶定期盤點與資料對帳作業\n4.協助建立B2B系統維運文件、程式版本與異常處理管理機制\n5.配合後續 EIP/Case Trace 等營運可觀測性機制導入，提升B2B問題追蹤與知識沉澱能力\n能力需求：\n(1) VB6 / C# 程式開發\n(2) 具 MES / 鼎新 Tiptop ERP 系統維護經驗\n(3) 熟悉Web service, 有 WebMethods 使用經驗尤佳\n(4) 有封測半導體產業相關經驗尤佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "【系統維運/效率回應】B2B工程師(擴大徵才)"
+  },
+  "location": {
+    "address_raw": "新竹市科技五路6號7樓",
+    "raw": "新竹市科技五路6號7樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 54
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:35:41+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "全智科技具有穩健薪酬、保障年薪、年年調薪、發放優渥獎金、優於勞基法休假、健康工時、深耕人才重視培訓、職涯無界、升遷暢通。\nB2B工程師工作內容：\n1.負責既有客戶B2B系統之日常維運、異常排查與客戶問題追蹤\n2.配合既有客戶需求修改與新客戶B2B功能開發\n3.配合客戶定期盤點與資料對帳作業\n4.協助建立B2B系統維運文件、程式版本與異常處理管理機制\n5.配合後續 EIP/Case Trace 等營運可觀測性機制導入，提升B2B問題追蹤與知識沉澱能力\n能力需求：\n(1) VB6 / C# 程式開發\n(2) 具 MES / 鼎新 Tiptop ERP 系統維護經驗\n(3) 熟悉Web service, 有 WebMethods 使用經驗尤佳\n(4) 有封測半導體產業相關經驗尤佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "MES工程師",
+            "軟體工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "MES工程師、軟體工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市科技五路6號7樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "全智科技具有穩健薪酬、保障年薪、年年調薪、發放優渥獎金、優於勞基法休假、健康工時、深耕人才重視培訓、職涯無界、升遷暢通。\nB2B工程師工作內容：\n1.負責既有客戶B2B系統之日常維運、異常排查與客戶問題追蹤\n2.配合既有客戶需求修改與新客戶B2B功能開發\n3.配合客戶定期盤點與資料對帳作業\n4.協助建立B2B系統維運文件、程式版本與異常處理管理機制\n5.配合後續 EIP/Case Trace 等營運可觀測性機制導入，提升B2B問題追蹤與知識沉澱能力\n能力需求：\n(1) VB6 / C# 程式開發\n(2) 具 MES / 鼎新 Tiptop ERP 系統維護經驗\n(3) 熟悉Web service, 有 WebMethods 使用經驗尤佳\n(4) 有封測半導體產業相關經驗尤佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "932kn",
+    "job_url": "https://www.104.com.tw/job/932kn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/932kn.json",
+    "raw_sha256": "c525be3b98fd751c712f3c4dbc411bdf2cd3b2c503fb1d42fe65f77f72ce7a9e",
+    "requested_url": "https://www.104.com.tw/api/jobs/932kn"
+  }
+}

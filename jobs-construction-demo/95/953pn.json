@@ -1,0 +1,240 @@
+{
+  "company": {
+    "id": "1a2x6blgx8",
+    "name": "雲動力資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "其他資訊專業人員",
+      "系統工程師",
+      "雲端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "在資深工程師指導下，協助管理與維運GCP雲端基礎架構（如 Compute Engine, Cloud Storage, VPC）。"
+        },
+        {
+          "children": [],
+          "text": "撰寫Bash指令檔或Python腳本，進行日常維運作業自動化。"
+        },
+        {
+          "children": [],
+          "text": "協助監控系統效能、排查基礎網路與作業系統問題。"
+        },
+        {
+          "children": [],
+          "text": "撰寫與維護團隊維運SOP、架構文件與學習筆記。"
+        },
+        {
+          "children": [],
+          "text": "Linux / Bash 基礎：熟悉 Linux 系統操作、檔案與權限管理（chmod/chown），並能撰2寫基礎 Bash Shell Script。"
+        },
+        {
+          "children": [],
+          "text": "基礎網路概念：理解 TCP/IP、DNS、HTTP/HTTPS 運作原理，並對子網劃分（CIDR）、3. Port 與路由有基本認識。"
+        },
+        {
+          "children": [],
+          "text": "GCP 核心概念：對 GCP 有基本認知，理解 GCP 的核心服務（如 Compute Engine, Cloud Storage, Cloud IAM, VPC）。"
+        },
+        {
+          "children": [],
+          "text": "問題解決態度：面對未知錯誤能主動查閱官方文件或社群資源，具備邏輯化的除錯思維。"
+        }
+      ],
+      "text": "【工作內容】\n1. 在資深工程師指導下，協助管理與維運GCP雲端基礎架構（如 Compute Engine, Cloud Storage, VPC）。\n2. 撰寫Bash指令檔或Python腳本，進行日常維運作業自動化。\n3. 協助監控系統效能、排查基礎網路與作業系統問題。\n4. 撰寫與維護團隊維運SOP、架構文件與學習筆記。\n【條件要求】\n1. Linux / Bash 基礎：熟悉 Linux 系統操作、檔案與權限管理（chmod/chown），並能撰2寫基礎 Bash Shell Script。\n2. 基礎網路概念：理解 TCP/IP、DNS、HTTP/HTTPS 運作原理，並對子網劃分（CIDR）、3. Port 與路由有基本認識。\n4. GCP 核心概念：對 GCP 有基本認知，理解 GCP 的核心服務（如 Compute Engine, Cloud Storage, Cloud IAM, VPC）。\n5. 問題解決態度：面對未知錯誤能主動查閱官方文件或社群資源，具備邏輯化的除錯思維。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【OC03003】雲端服務工程師Cloud Engineer"
+  },
+  "location": {
+    "address_raw": "新北市三重區三和路4段101之1號6樓",
+    "raw": "新北市三重區三和路4段101之1號6樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "TCP/IP",
+          "DNS",
+          "HTTP"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、TCP/IP、DNS、HTTP"
+      },
+      {
+        "items": [
+          "系統架構規劃與維護",
+          "流程自動化"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃與維護、流程自動化"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分條件】\n1. 擁有 GCP 相關證照（如 Associate Cloud Engineer, Digital Cloud Leader）。\n2. 具備 Docker 基礎概念，了解如何撰寫 Dockerfile 與運行容器。\n3. 具備 Python 或 Go 程式開發經驗，能處理 API 串接或自動化工具開發。\n4. 有操作 Google Cloud CLI (gcloud) 的實際經驗或個人 Side Project / GitHub 專案展示。\n5. 有建置服務的監控警示與日誌收集的機制（Grafana、graylog、EFK）之經驗。\n6. 版本控制：熟悉 Git 基本操作（clone, commit, push, branch, merge）。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "【加分條件】\n1. 擁有 GCP 相關證照（如 Associate Cloud Engineer, Digital Cloud Leader）。\n2. 具備 Docker 基礎概念，了解如何撰寫 Dockerfile 與運行容器。\n3. 具備 Python 或 Go 程式開發經驗，能處理 API 串接或自動化工具開發。\n4. 有操作 Google Cloud CLI (gcloud) 的實際經驗或個人 Side Project / GitHub 專案展示。\n5. 有建置服務的監控警示與日誌收集的機制（Grafana、graylog、EFK）之經驗。\n6. 版本控制：熟悉 Git 基本操作（clone, commit, push, branch, merge）。",
+    "skills": [
+      "系統架構規劃與維護",
+      "流程自動化"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、TCP/IP、DNS、HTTP\n工作技能：系統架構規劃與維護、流程自動化\n其他條件：【加分條件】\n1. 擁有 GCP 相關證照（如 Associate Cloud Engineer, Digital Cloud Leader）。\n2. 具備 Docker 基礎概念，了解如何撰寫 Dockerfile 與運行容器。\n3. 具備 Python 或 Go 程式開發經驗，能處理 API 串接或自動化工具開發。\n4. 有操作 Google Cloud CLI (gcloud) 的實際經驗或個人 Side Project / GitHub 專案展示。\n5. 有建置服務的監控警示與日誌收集的機制（Grafana、graylog、EFK）之經驗。\n6. 版本控制：熟悉 Git 基本操作（clone, commit, push, branch, merge）。",
+    "tools": [
+      "Linux",
+      "TCP/IP",
+      "DNS",
+      "HTTP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 20
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:11:02+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 在資深工程師指導下，協助管理與維運GCP雲端基礎架構（如 Compute Engine, Cloud Storage, VPC）。\n2. 撰寫Bash指令檔或Python腳本，進行日常維運作業自動化。\n3. 協助監控系統效能、排查基礎網路與作業系統問題。\n4. 撰寫與維護團隊維運SOP、架構文件與學習筆記。\n【條件要求】\n1. Linux / Bash 基礎：熟悉 Linux 系統操作、檔案與權限管理（chmod/chown），並能撰2寫基礎 Bash Shell Script。\n2. 基礎網路概念：理解 TCP/IP、DNS、HTTP/HTTPS 運作原理，並對子網劃分（CIDR）、3. Port 與路由有基本認識。\n4. GCP 核心概念：對 GCP 有基本認知，理解 GCP 的核心服務（如 Compute Engine, Cloud Storage, Cloud IAM, VPC）。\n5. 問題解決態度：面對未知錯誤能主動查閱官方文件或社群資源，具備邏輯化的除錯思維。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "其他資訊專業人員",
+            "系統工程師",
+            "雲端工程師"
+          ],
+          "label": "職務類別",
+          "text": "其他資訊專業人員、系統工程師、雲端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市三重區三和路4段101之1號6樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 在資深工程師指導下，協助管理與維運GCP雲端基礎架構（如 Compute Engine, Cloud Storage, VPC）。\n2. 撰寫Bash指令檔或Python腳本，進行日常維運作業自動化。\n3. 協助監控系統效能、排查基礎網路與作業系統問題。\n4. 撰寫與維護團隊維運SOP、架構文件與學習筆記。\n【條件要求】\n1. Linux / Bash 基礎：熟悉 Linux 系統操作、檔案與權限管理（chmod/chown），並能撰2寫基礎 Bash Shell Script。\n2. 基礎網路概念：理解 TCP/IP、DNS、HTTP/HTTPS 運作原理，並對子網劃分（CIDR）、3. Port 與路由有基本認識。\n4. GCP 核心概念：對 GCP 有基本認知，理解 GCP 的核心服務（如 Compute Engine, Cloud Storage, Cloud IAM, VPC）。\n5. 問題解決態度：面對未知錯誤能主動查閱官方文件或社群資源，具備邏輯化的除錯思維。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "TCP/IP",
+            "DNS",
+            "HTTP"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、TCP/IP、DNS、HTTP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃與維護",
+            "流程自動化"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃與維護、流程自動化",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分條件】\n1. 擁有 GCP 相關證照（如 Associate Cloud Engineer, Digital Cloud Leader）。\n2. 具備 Docker 基礎概念，了解如何撰寫 Dockerfile 與運行容器。\n3. 具備 Python 或 Go 程式開發經驗，能處理 API 串接或自動化工具開發。\n4. 有操作 Google Cloud CLI (gcloud) 的實際經驗或個人 Side Project / GitHub 專案展示。\n5. 有建置服務的監控警示與日誌收集的機制（Grafana、graylog、EFK）之經驗。\n6. 版本控制：熟悉 Git 基本操作（clone, commit, push, branch, merge）。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、TCP/IP、DNS、HTTP\n工作技能：系統架構規劃與維護、流程自動化\n其他條件：【加分條件】\n1. 擁有 GCP 相關證照（如 Associate Cloud Engineer, Digital Cloud Leader）。\n2. 具備 Docker 基礎概念，了解如何撰寫 Dockerfile 與運行容器。\n3. 具備 Python 或 Go 程式開發經驗，能處理 API 串接或自動化工具開發。\n4. 有操作 Google Cloud CLI (gcloud) 的實際經驗或個人 Side Project / GitHub 專案展示。\n5. 有建置服務的監控警示與日誌收集的機制（Grafana、graylog、EFK）之經驗。\n6. 版本控制：熟悉 Git 基本操作（clone, commit, push, branch, merge）。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "953pn",
+    "job_url": "https://www.104.com.tw/job/953pn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/953pn.json",
+    "raw_sha256": "ff9931c94be18fdd874ee8df55f55f3b5f8d76559990be214fc6bc675f1683e7",
+    "requested_url": "https://www.104.com.tw/api/jobs/953pn"
+  }
+}

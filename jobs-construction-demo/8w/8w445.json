@@ -1,0 +1,250 @@
+{
+  "company": {
+    "id": "1a2x6bmnic",
+    "name": "瑞典商英鉑科股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "系統功能開發及維護。"
+        },
+        {
+          "children": [],
+          "text": "與其他成員合作進行新系統或新功能規劃設計及開發。"
+        },
+        {
+          "children": [],
+          "text": "撰寫技術文件。"
+        },
+        {
+          "children": [],
+          "text": "持續學習新技術並主動與團隊成員分享。"
+        },
+        {
+          "children": [],
+          "text": "協助架構優化、技術選型並將適合的技術導入。"
+        },
+        {
+          "children": [],
+          "text": "理解專案需求，配合團隊共同研發高併發、高可用系統。"
+        },
+        {
+          "children": [],
+          "text": "熟悉Golang語法與可能在運行階段才造成問題的實作。"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料庫相關操作(Transaction)與建置(Schema)。"
+        },
+        {
+          "children": [],
+          "text": "熟悉如何設計流程用來同步/異步處理業務邏輯。"
+        },
+        {
+          "children": [],
+          "text": "了解 HTTP 協議及 Websocket 協議在 Golang 裡的實作。"
+        },
+        {
+          "children": [],
+          "text": "掌握一種以上非關係型數據庫，如 Redis、Database，理解其使用場景及限"
+        }
+      ],
+      "text": "【工作內容】\n1. 系統功能開發及維護。\n2. 與其他成員合作進行新系統或新功能規劃設計及開發。\n3. 撰寫技術文件。\n4. 持續學習新技術並主動與團隊成員分享。\n5. 協助架構優化、技術選型並將適合的技術導入。\n6. 理解專案需求，配合團隊共同研發高併發、高可用系統。\n【必要條件】\n1. 熟悉Golang語法與可能在運行階段才造成問題的實作。\n2. 熟悉資料庫相關操作(Transaction)與建置(Schema)。\n3. 熟悉如何設計流程用來同步/異步處理業務邏輯。\n4. 了解 HTTP 協議及 Websocket 協議在 Golang 裡的實作。\n5. 掌握一種以上非關係型數據庫，如 Redis、Database，理解其使用場景及限\n制。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【擴編】Golang後端工程師/ Golang Developer"
+  },
+  "location": {
+    "address_raw": "台北市中山區中山北路二段44號4樓",
+    "raw": "台北市中山區中山北路二段44號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "Jenkins",
+          "Github",
+          "Go",
+          "HTTP"
+        ],
+        "label": "擅長工具",
+        "text": "Jenkins、Github、Go、HTTP"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分條件】\n1. 了解如何使用 Docker 及 K8S。\n2. 有遊戲或相關平台開發經驗者佳。\n3. 有專案設計、規畫、開發相關工作經驗者佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "【加分條件】\n1. 了解如何使用 Docker 及 K8S。\n2. 有遊戲或相關平台開發經驗者佳。\n3. 有專案設計、規畫、開發相關工作經驗者佳。",
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊工程相關\n擅長工具：Jenkins、Github、Go、HTTP\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：【加分條件】\n1. 了解如何使用 Docker 及 K8S。\n2. 有遊戲或相關平台開發經驗者佳。\n3. 有專案設計、規畫、開發相關工作經驗者佳。",
+    "tools": [
+      "Jenkins",
+      "Github",
+      "Go",
+      "HTTP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 5
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:33:11+08:00"
+  },
+  "salary": {
+    "raw": "年薪1,000,000~2,000,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 系統功能開發及維護。\n2. 與其他成員合作進行新系統或新功能規劃設計及開發。\n3. 撰寫技術文件。\n4. 持續學習新技術並主動與團隊成員分享。\n5. 協助架構優化、技術選型並將適合的技術導入。\n6. 理解專案需求，配合團隊共同研發高併發、高可用系統。\n【必要條件】\n1. 熟悉Golang語法與可能在運行階段才造成問題的實作。\n2. 熟悉資料庫相關操作(Transaction)與建置(Schema)。\n3. 熟悉如何設計流程用來同步/異步處理業務邏輯。\n4. 了解 HTTP 協議及 Websocket 協議在 Golang 裡的實作。\n5. 掌握一種以上非關係型數據庫，如 Redis、Database，理解其使用場景及限\n制。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "年薪1,000,000~2,000,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區中山北路二段44號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 系統功能開發及維護。\n2. 與其他成員合作進行新系統或新功能規劃設計及開發。\n3. 撰寫技術文件。\n4. 持續學習新技術並主動與團隊成員分享。\n5. 協助架構優化、技術選型並將適合的技術導入。\n6. 理解專案需求，配合團隊共同研發高併發、高可用系統。\n【必要條件】\n1. 熟悉Golang語法與可能在運行階段才造成問題的實作。\n2. 熟悉資料庫相關操作(Transaction)與建置(Schema)。\n3. 熟悉如何設計流程用來同步/異步處理業務邏輯。\n4. 了解 HTTP 協議及 Websocket 協議在 Golang 裡的實作。\n5. 掌握一種以上非關係型數據庫，如 Redis、Database，理解其使用場景及限\n制。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Jenkins",
+            "Github",
+            "Go",
+            "HTTP"
+          ],
+          "label": "擅長工具",
+          "text": "Jenkins、Github、Go、HTTP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分條件】\n1. 了解如何使用 Docker 及 K8S。\n2. 有遊戲或相關平台開發經驗者佳。\n3. 有專案設計、規畫、開發相關工作經驗者佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊工程相關\n擅長工具：Jenkins、Github、Go、HTTP\n工作技能：軟體程式設計、軟體工程系統開發\n其他條件：【加分條件】\n1. 了解如何使用 Docker 及 K8S。\n2. 有遊戲或相關平台開發經驗者佳。\n3. 有專案設計、規畫、開發相關工作經驗者佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8w445",
+    "job_url": "https://www.104.com.tw/job/8w445",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8w445.json",
+    "raw_sha256": "18eb9484e332a133331df1015d80663749c845e95fe4c6e30433d05bcfd03da7",
+    "requested_url": "https://www.104.com.tw/api/jobs/8w445"
+  }
+}

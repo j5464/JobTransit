@@ -1,0 +1,242 @@
+{
+  "company": {
+    "id": "2d9ntmw",
+    "name": "Advantech_研華股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "主站核心研發： 研發、維護與優化 EtherCAT Master 系統，並針對核心模組進行功能擴充。"
+        },
+        {
+          "children": [],
+          "text": "相容性與協議優化： 解決各式 EtherCAT 從站（Slave/SubDevice）的連線整合、動態配置與異常行為，深度實作 PDO、SDO、ESI/ENI 解析及 Error Counter 等機制。"
+        },
+        {
+          "children": [],
+          "text": "內核與實時優化： 協同 RTOS 團隊進行 Linux 實時內核（Kernel）調校、驅動程式適配與系統優化。"
+        },
+        {
+          "children": [],
+          "text": "效能極限挑戰： 分析並優化控制應用層的即時性（Real-Time）效能，追求低抖動（Low Jitter）與高回應速度。"
+        },
+        {
+          "children": [],
+          "text": "系統整合測試： 協助軟硬體、韌體與應用端的聯合調試，確保系統整體穩定度。"
+        },
+        {
+          "children": [],
+          "text": "研發資產累積： 撰寫技術架構文件、API 設計說明與報告。"
+        },
+        {
+          "children": [],
+          "text": "程式語言： 精通 C / C++，具備良好的資料結構、記憶體管理與 Multi-threading 觀念。"
+        },
+        {
+          "children": [],
+          "text": "環境經驗： 具備 Linux 環境下的軟體開發經驗，熟悉 System Programming 與基本除錯工具（如 GDB）。"
+        },
+        {
+          "children": [],
+          "text": "核心理解： 理解作業系統（OS）原理、多工調度（Scheduling）與計算機組織架構。"
+        },
+        {
+          "children": [],
+          "text": "問題解決： 具備優秀的獨立 Trace code 能力，面對複雜的系統級 Exception 能冷靜分析並找出 Root Cause。"
+        },
+        {
+          "children": [],
+          "text": "具備 Linux Kernel、Driver 或 Real-Time System (PREEMPT_RT, Xenomai) 的實際開發與調校經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉工業通訊協定架構（如 EtherCAT, CANopen, Modbus）或具備網路封包分析能力（如 Wireshark）。"
+        },
+        {
+          "children": [],
+          "text": "具備 Embedded Linux 系統建構經驗（如 U-Boot, Yocto, Buildroot）。"
+        },
+        {
+          "children": [],
+          "text": "有運動控制演算法、自動化設備或機器人控制軟體研發經驗。"
+        },
+        {
+          "children": [],
+          "text": "資訊工程、電機工程、機械工程、自動化控制等相關科系碩士或優秀學士。"
+        },
+        {
+          "children": [],
+          "text": "歡迎具備扎實軟體底子、對工控領域有高度熱忱的社會新鮮人（含各大專院校、工研院研發經歷者）挑戰。"
+        },
+        {
+          "children": [],
+          "text": "對底層技術與「造輪子」有偏執與熱情，樂於鑽研 Linux 內核與工業通訊技術。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的跨領域溝通能力，能與硬體、韌體及 FAE 團隊緊密合作解決現場痛點。"
+        }
+      ],
+      "text": "【部門介紹】\n本團隊專注於工業自動化與核心運動控制技術的研發。我們的核心產品包含高性能 EtherCAT 主站（Master）、運動控制系統及工業通訊整體方案，廣泛應用於高精度半導體設備、智慧製造與新世代自動化控制。\n在這裡，我們挑戰 Linux RTOS 平台上的性能極限，持續優化系統即時性（Real-Time）、降低延遲並提升穩定度。如果你對底層系統架構有熱情，喜歡探究作業系統內核與協議棧，歡迎加入我們，一起打造高可靠度的工業控制核心平台。\n【工作內容 (What you will do)】\n1. 主站核心研發： 研發、維護與優化 EtherCAT Master 系統，並針對核心模組進行功能擴充。\n2. 相容性與協議優化： 解決各式 EtherCAT 從站（Slave/SubDevice）的連線整合、動態配置與異常行為，深度實作 PDO、SDO、ESI/ENI 解析及 Error Counter 等機制。\n3. 內核與實時優化： 協同 RTOS 團隊進行 Linux 實時內核（Kernel）調校、驅動程式適配與系統優化。\n4. 效能極限挑戰： 分析並優化控制應用層的即時性（Real-Time）效能，追求低抖動（Low Jitter）與高回應速度。\n5. 系統整合測試： 協助軟硬體、韌體與應用端的聯合調試，確保系統整體穩定度。\n6. 研發資產累積： 撰寫技術架構文件、API 設計說明與報告。\n【必要條件 (Requirements)】\n1. 程式語言： 精通 C / C++，具備良好的資料結構、記憶體管理與 Multi-threading 觀念。\n2. 環境經驗： 具備 Linux 環境下的軟體開發經驗，熟悉 System Programming 與基本除錯工具（如 GDB）。\n3. 核心理解： 理解作業系統（OS）原理、多工調度（Scheduling）與計算機組織架構。\n4. 問題解決： 具備優秀的獨立 Trace code 能力，面對複雜的系統級 Exception 能冷靜分析並找出 Root Cause。\n(若具 EtherCAT 經驗)：具備開源或商用 EtherCAT Master（如 IgH, SOEM, acontis EC-Master 等）之應用或開發經驗者優先。\n【加分條件 (Nice to have)】\n1. 具備 Linux Kernel、Driver 或 Real-Time System (PREEMPT_RT, Xenomai) 的實際開發與調校經驗。\n2. 熟悉工業通訊協定架構（如 EtherCAT, CANopen, Modbus）或具備網路封包分析能力（如 Wireshark）。\n3. 具備 Embedded Linux 系統建構經驗（如 U-Boot, Yocto, Buildroot）。\n4. 有運動控制演算法、自動化設備或機器人控制軟體研發經驗。\n【教育背景】\n1. 資訊工程、電機工程、機械工程、自動化控制等相關科系碩士或優秀學士。\n2. 歡迎具備扎實軟體底子、對工控領域有高度熱忱的社會新鮮人（含各大專院校、工研院研發經歷者）挑戰。\n【我們希望你具備的人格特質】\n1. 對底層技術與「造輪子」有偏執與熱情，樂於鑽研 Linux 內核與工業通訊技術。\n2. 具備良好的跨領域溝通能力，能與硬體、韌體及 FAE 團隊緊密合作解決現場痛點。"
+    },
+    "employment_type_raw": "全職",
+    "title": "EtherCAT主站軟體工程師(iAutomation/台中)_JR202605033"
+  },
+  "location": {
+    "address_raw": "台中市西區忠明南路499號3樓",
+    "raw": "台中市西區忠明南路499號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Linux",
+          "C++",
+          "C#"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、C++、C#"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Linux、C++、C#\n工作技能：軟體程式設計",
+    "tools": [
+      "Linux",
+      "C++",
+      "C#"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 10
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:47:27+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【部門介紹】\n本團隊專注於工業自動化與核心運動控制技術的研發。我們的核心產品包含高性能 EtherCAT 主站（Master）、運動控制系統及工業通訊整體方案，廣泛應用於高精度半導體設備、智慧製造與新世代自動化控制。\n在這裡，我們挑戰 Linux RTOS 平台上的性能極限，持續優化系統即時性（Real-Time）、降低延遲並提升穩定度。如果你對底層系統架構有熱情，喜歡探究作業系統內核與協議棧，歡迎加入我們，一起打造高可靠度的工業控制核心平台。\n【工作內容 (What you will do)】\n1. 主站核心研發： 研發、維護與優化 EtherCAT Master 系統，並針對核心模組進行功能擴充。\n2. 相容性與協議優化： 解決各式 EtherCAT 從站（Slave/SubDevice）的連線整合、動態配置與異常行為，深度實作 PDO、SDO、ESI/ENI 解析及 Error Counter 等機制。\n3. 內核與實時優化： 協同 RTOS 團隊進行 Linux 實時內核（Kernel）調校、驅動程式適配與系統優化。\n4. 效能極限挑戰： 分析並優化控制應用層的即時性（Real-Time）效能，追求低抖動（Low Jitter）與高回應速度。\n5. 系統整合測試： 協助軟硬體、韌體與應用端的聯合調試，確保系統整體穩定度。\n6. 研發資產累積： 撰寫技術架構文件、API 設計說明與報告。\n【必要條件 (Requirements)】\n1. 程式語言： 精通 C / C++，具備良好的資料結構、記憶體管理與 Multi-threading 觀念。\n2. 環境經驗： 具備 Linux 環境下的軟體開發經驗，熟悉 System Programming 與基本除錯工具（如 GDB）。\n3. 核心理解： 理解作業系統（OS）原理、多工調度（Scheduling）與計算機組織架構。\n4. 問題解決： 具備優秀的獨立 Trace code 能力，面對複雜的系統級 Exception 能冷靜分析並找出 Root Cause。\n(若具 EtherCAT 經驗)：具備開源或商用 EtherCAT Master（如 IgH, SOEM, acontis EC-Master 等）之應用或開發經驗者優先。\n【加分條件 (Nice to have)】\n1. 具備 Linux Kernel、Driver 或 Real-Time System (PREEMPT_RT, Xenomai) 的實際開發與調校經驗。\n2. 熟悉工業通訊協定架構（如 EtherCAT, CANopen, Modbus）或具備網路封包分析能力（如 Wireshark）。\n3. 具備 Embedded Linux 系統建構經驗（如 U-Boot, Yocto, Buildroot）。\n4. 有運動控制演算法、自動化設備或機器人控制軟體研發經驗。\n【教育背景】\n1. 資訊工程、電機工程、機械工程、自動化控制等相關科系碩士或優秀學士。\n2. 歡迎具備扎實軟體底子、對工控領域有高度熱忱的社會新鮮人（含各大專院校、工研院研發經歷者）挑戰。\n【我們希望你具備的人格特質】\n1. 對底層技術與「造輪子」有偏執與熱情，樂於鑽研 Linux 內核與工業通訊技術。\n2. 具備良好的跨領域溝通能力，能與硬體、韌體及 FAE 團隊緊密合作解決現場痛點。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西區忠明南路499號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【部門介紹】\n本團隊專注於工業自動化與核心運動控制技術的研發。我們的核心產品包含高性能 EtherCAT 主站（Master）、運動控制系統及工業通訊整體方案，廣泛應用於高精度半導體設備、智慧製造與新世代自動化控制。\n在這裡，我們挑戰 Linux RTOS 平台上的性能極限，持續優化系統即時性（Real-Time）、降低延遲並提升穩定度。如果你對底層系統架構有熱情，喜歡探究作業系統內核與協議棧，歡迎加入我們，一起打造高可靠度的工業控制核心平台。\n【工作內容 (What you will do)】\n1. 主站核心研發： 研發、維護與優化 EtherCAT Master 系統，並針對核心模組進行功能擴充。\n2. 相容性與協議優化： 解決各式 EtherCAT 從站（Slave/SubDevice）的連線整合、動態配置與異常行為，深度實作 PDO、SDO、ESI/ENI 解析及 Error Counter 等機制。\n3. 內核與實時優化： 協同 RTOS 團隊進行 Linux 實時內核（Kernel）調校、驅動程式適配與系統優化。\n4. 效能極限挑戰： 分析並優化控制應用層的即時性（Real-Time）效能，追求低抖動（Low Jitter）與高回應速度。\n5. 系統整合測試： 協助軟硬體、韌體與應用端的聯合調試，確保系統整體穩定度。\n6. 研發資產累積： 撰寫技術架構文件、API 設計說明與報告。\n【必要條件 (Requirements)】\n1. 程式語言： 精通 C / C++，具備良好的資料結構、記憶體管理與 Multi-threading 觀念。\n2. 環境經驗： 具備 Linux 環境下的軟體開發經驗，熟悉 System Programming 與基本除錯工具（如 GDB）。\n3. 核心理解： 理解作業系統（OS）原理、多工調度（Scheduling）與計算機組織架構。\n4. 問題解決： 具備優秀的獨立 Trace code 能力，面對複雜的系統級 Exception 能冷靜分析並找出 Root Cause。\n(若具 EtherCAT 經驗)：具備開源或商用 EtherCAT Master（如 IgH, SOEM, acontis EC-Master 等）之應用或開發經驗者優先。\n【加分條件 (Nice to have)】\n1. 具備 Linux Kernel、Driver 或 Real-Time System (PREEMPT_RT, Xenomai) 的實際開發與調校經驗。\n2. 熟悉工業通訊協定架構（如 EtherCAT, CANopen, Modbus）或具備網路封包分析能力（如 Wireshark）。\n3. 具備 Embedded Linux 系統建構經驗（如 U-Boot, Yocto, Buildroot）。\n4. 有運動控制演算法、自動化設備或機器人控制軟體研發經驗。\n【教育背景】\n1. 資訊工程、電機工程、機械工程、自動化控制等相關科系碩士或優秀學士。\n2. 歡迎具備扎實軟體底子、對工控領域有高度熱忱的社會新鮮人（含各大專院校、工研院研發經歷者）挑戰。\n【我們希望你具備的人格特質】\n1. 對底層技術與「造輪子」有偏執與熱情，樂於鑽研 Linux 內核與工業通訊技術。\n2. 具備良好的跨領域溝通能力，能與硬體、韌體及 FAE 團隊緊密合作解決現場痛點。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "C++",
+            "C#"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、C++、C#",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Linux、C++、C#\n工作技能：軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92ble",
+    "job_url": "https://www.104.com.tw/job/92ble",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92ble.json",
+    "raw_sha256": "8d9fefe9b933daf2c853e2df142fbc38f8b25c1556f13eadb354fd200e384c66",
+    "requested_url": "https://www.104.com.tw/api/jobs/92ble"
+  }
+}

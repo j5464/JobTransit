@@ -1,0 +1,263 @@
+{
+  "company": {
+    "id": "fn5mtmo",
+    "name": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC."
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "其他資訊專業人員",
+      "MIS程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責開發和維護公司的網站和應用程式，使用 java spring boot 為主要框架"
+        },
+        {
+          "children": [],
+          "text": "參於共用模組系統之規劃設計開發"
+        },
+        {
+          "children": [],
+          "text": "維運及持續更新已上線之系統"
+        },
+        {
+          "children": [],
+          "text": "優化前端效能、介面、可用性和相容性"
+        },
+        {
+          "children": [],
+          "text": "跟PM, SA,前端程師溝通等團隊成員合作，確保前端功能符合需求和規格"
+        },
+        {
+          "children": [],
+          "text": "跟其他的單位合作串接API"
+        },
+        {
+          "children": [],
+          "text": "撰寫技術文件"
+        },
+        {
+          "children": [],
+          "text": "持續學習新技術和最佳實踐，提升前端開發品質和效"
+        },
+        {
+          "children": [],
+          "text": "5yr+ of professional experience in Java"
+        },
+        {
+          "children": [],
+          "text": "熟悉Spring boot"
+        },
+        {
+          "children": [],
+          "text": "熟悉JPA"
+        },
+        {
+          "children": [],
+          "text": "using apache maven as Java Dependency Tool."
+        },
+        {
+          "children": [],
+          "text": "協助系統優化與重構"
+        },
+        {
+          "children": [],
+          "text": "熟悉domain model design的概念"
+        },
+        {
+          "children": [],
+          "text": "熟悉透過 git 程式碼版控, 能夠透過 GitHub flow 多人團隊合作"
+        },
+        {
+          "children": [],
+          "text": "熟悉RESTFul API, SOAP觀念. 開發清晰的 API 以及與各系統串接."
+        },
+        {
+          "children": [],
+          "text": "RDB 多表設計"
+        },
+        {
+          "children": [],
+          "text": "使用 UML 做系統分析設能力"
+        },
+        {
+          "children": [],
+          "text": "重視溝通、主動積極、有負責感、配合度高、重視團隊合、提出開發改善流程"
+        },
+        {
+          "children": [],
+          "text": "對技術有熱情，具備自我學習及研究的能力"
+        },
+        {
+          "children": [],
+          "text": "具有跟其他系統串接的經驗 (PLM, ERP, Azure, Google, ...)"
+        },
+        {
+          "children": [],
+          "text": "具有參與過 scrum 或是 agile 專案開發方法的經驗"
+        },
+        {
+          "children": [],
+          "text": "具有 Kubernetes 或其他雲端服務的使用或部署經驗"
+        },
+        {
+          "children": [],
+          "text": "了解devops, CI/CD pipe line"
+        },
+        {
+          "children": [],
+          "text": "分散式平台架設與調教能力 (Elasticsearch/Mongodb/Kafka/Redis 等)"
+        },
+        {
+          "children": [],
+          "text": "具有 vuejs 或其他前端框架的開發能力"
+        },
+        {
+          "children": [],
+          "text": "具有單元測試或自動化測試的撰寫能力"
+        },
+        {
+          "children": [],
+          "text": "Design pattern"
+        }
+      ],
+      "text": "《Responsibilities》\n1.負責開發和維護公司的網站和應用程式，使用 java spring boot 為主要框架\n2.參於共用模組系統之規劃設計開發\n3.維運及持續更新已上線之系統\n4.優化前端效能、介面、可用性和相容性\n5.跟PM, SA,前端程師溝通等團隊成員合作，確保前端功能符合需求和規格\n6.跟其他的單位合作串接API\n7.撰寫技術文件\n8.持續學習新技術和最佳實踐，提升前端開發品質和效\n《Qualification》\n1.5yr+ of professional experience in Java\n2.熟悉Spring boot\n3.熟悉JPA\n4.using apache maven as Java Dependency Tool.\n5.協助系統優化與重構\n6.熟悉domain model design的概念\n7.熟悉透過 git 程式碼版控, 能夠透過 GitHub flow 多人團隊合作\n8.熟悉RESTFul API, SOAP觀念. 開發清晰的 API 以及與各系統串接.\n9.RDB 多表設計\n10.使用 UML 做系統分析設能力\n11.重視溝通、主動積極、有負責感、配合度高、重視團隊合、提出開發改善流程\n12.對技術有熱情，具備自我學習及研究的能力\n《Plus qualifications》\n1.具有跟其他系統串接的經驗 (PLM, ERP, Azure, Google, ...)\n2.具有參與過 scrum 或是 agile 專案開發方法的經驗\n3.具有 Kubernetes 或其他雲端服務的使用或部署經驗\n4.了解devops, CI/CD pipe line\n5.分散式平台架設與調教能力 (Elasticsearch/Mongodb/Kafka/Redis 等)\n6.具有 vuejs 或其他前端框架的開發能力\n7.具有單元測試或自動化測試的撰寫能力\n8.Design pattern"
+    },
+    "employment_type_raw": "全職",
+    "title": "Java後端開發資深工程師_製造支援系統整合_資訊處(內湖)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路186號",
+    "raw": "台北市內湖區瑞光路186號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 83
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:45:36+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "《Responsibilities》\n1.負責開發和維護公司的網站和應用程式，使用 java spring boot 為主要框架\n2.參於共用模組系統之規劃設計開發\n3.維運及持續更新已上線之系統\n4.優化前端效能、介面、可用性和相容性\n5.跟PM, SA,前端程師溝通等團隊成員合作，確保前端功能符合需求和規格\n6.跟其他的單位合作串接API\n7.撰寫技術文件\n8.持續學習新技術和最佳實踐，提升前端開發品質和效\n《Qualification》\n1.5yr+ of professional experience in Java\n2.熟悉Spring boot\n3.熟悉JPA\n4.using apache maven as Java Dependency Tool.\n5.協助系統優化與重構\n6.熟悉domain model design的概念\n7.熟悉透過 git 程式碼版控, 能夠透過 GitHub flow 多人團隊合作\n8.熟悉RESTFul API, SOAP觀念. 開發清晰的 API 以及與各系統串接.\n9.RDB 多表設計\n10.使用 UML 做系統分析設能力\n11.重視溝通、主動積極、有負責感、配合度高、重視團隊合、提出開發改善流程\n12.對技術有熱情，具備自我學習及研究的能力\n《Plus qualifications》\n1.具有跟其他系統串接的經驗 (PLM, ERP, Azure, Google, ...)\n2.具有參與過 scrum 或是 agile 專案開發方法的經驗\n3.具有 Kubernetes 或其他雲端服務的使用或部署經驗\n4.了解devops, CI/CD pipe line\n5.分散式平台架設與調教能力 (Elasticsearch/Mongodb/Kafka/Redis 等)\n6.具有 vuejs 或其他前端框架的開發能力\n7.具有單元測試或自動化測試的撰寫能力\n8.Design pattern",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "其他資訊專業人員",
+            "MIS程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、其他資訊專業人員、MIS程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路186號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "《Responsibilities》\n1.負責開發和維護公司的網站和應用程式，使用 java spring boot 為主要框架\n2.參於共用模組系統之規劃設計開發\n3.維運及持續更新已上線之系統\n4.優化前端效能、介面、可用性和相容性\n5.跟PM, SA,前端程師溝通等團隊成員合作，確保前端功能符合需求和規格\n6.跟其他的單位合作串接API\n7.撰寫技術文件\n8.持續學習新技術和最佳實踐，提升前端開發品質和效\n《Qualification》\n1.5yr+ of professional experience in Java\n2.熟悉Spring boot\n3.熟悉JPA\n4.using apache maven as Java Dependency Tool.\n5.協助系統優化與重構\n6.熟悉domain model design的概念\n7.熟悉透過 git 程式碼版控, 能夠透過 GitHub flow 多人團隊合作\n8.熟悉RESTFul API, SOAP觀念. 開發清晰的 API 以及與各系統串接.\n9.RDB 多表設計\n10.使用 UML 做系統分析設能力\n11.重視溝通、主動積極、有負責感、配合度高、重視團隊合、提出開發改善流程\n12.對技術有熱情，具備自我學習及研究的能力\n《Plus qualifications》\n1.具有跟其他系統串接的經驗 (PLM, ERP, Azure, Google, ...)\n2.具有參與過 scrum 或是 agile 專案開發方法的經驗\n3.具有 Kubernetes 或其他雲端服務的使用或部署經驗\n4.了解devops, CI/CD pipe line\n5.分散式平台架設與調教能力 (Elasticsearch/Mongodb/Kafka/Redis 等)\n6.具有 vuejs 或其他前端框架的開發能力\n7.具有單元測試或自動化測試的撰寫能力\n8.Design pattern"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7lqkd",
+    "job_url": "https://www.104.com.tw/job/7lqkd",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7lqkd.json",
+    "raw_sha256": "f930abd4c22d5fe2c280f083a17be51a083f7d5c02a25f45bbf1ee831d06e910",
+    "requested_url": "https://www.104.com.tw/api/jobs/7lqkd"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "company": {
+    "id": "atcr6i8",
+    "name": "信邦電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "設計、開發並部署企業內部 AI 解決方案"
+        },
+        {
+          "children": [],
+          "text": "與使用單位合作，讓 AI 真正落地"
+        },
+        {
+          "children": [],
+          "text": "建立 AI 系統的監控、回溯、錯誤處理與安全機制"
+        },
+        {
+          "children": [],
+          "text": "熟悉至少一種 AI / ML / LLM 應用工具"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Python"
+        },
+        {
+          "children": [],
+          "text": "熟悉資料庫、SQL"
+        },
+        {
+          "children": [],
+          "text": "了解 REST API、系統整合概念"
+        }
+      ],
+      "text": "意者請至同步本公司網站登錄履歷(https://bit.ly/486ifgg)\n【工作內容】\n1.設計、開發並部署企業內部 AI 解決方案\n2.與使用單位合作，讓 AI 真正落地\n3.建立 AI 系統的監控、回溯、錯誤處理與安全機制\n【必備條件】\n1.熟悉至少一種 AI / ML / LLM 應用工具\n2.熟悉 Python\n3.熟悉資料庫、SQL\n4.了解 REST API、系統整合概念"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI系統/應用工程師－工作地點：汐止－集團資訊整合處"
+  },
+  "location": {
+    "address_raw": "新北市汐止區新台五路一段79號4樓之13（遠東世界中心－C棟）",
+    "raw": "新北市汐止區新台五路一段79號4樓之13（遠東世界中心－C棟）"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：精通、精通、精通、精通"
+      }
+    ],
+    "languages": [
+      "英文：精通、精通、精通、精通"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：精通、精通、精通、精通",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 74
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:23:30+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "意者請至同步本公司網站登錄履歷(https://bit.ly/486ifgg)\n【工作內容】\n1.設計、開發並部署企業內部 AI 解決方案\n2.與使用單位合作，讓 AI 真正落地\n3.建立 AI 系統的監控、回溯、錯誤處理與安全機制\n【必備條件】\n1.熟悉至少一種 AI / ML / LLM 應用工具\n2.熟悉 Python\n3.熟悉資料庫、SQL\n4.了解 REST API、系統整合概念",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市汐止區新台五路一段79號4樓之13（遠東世界中心－C棟）",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "意者請至同步本公司網站登錄履歷(https://bit.ly/486ifgg)\n【工作內容】\n1.設計、開發並部署企業內部 AI 解決方案\n2.與使用單位合作，讓 AI 真正落地\n3.建立 AI 系統的監控、回溯、錯誤處理與安全機制\n【必備條件】\n1.熟悉至少一種 AI / ML / LLM 應用工具\n2.熟悉 Python\n3.熟悉資料庫、SQL\n4.了解 REST API、系統整合概念"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：精通、精通、精通、精通",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：精通、精通、精通、精通"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "90jqx",
+    "job_url": "https://www.104.com.tw/job/90jqx",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90jqx.json",
+    "raw_sha256": "c371007e21c587e0473b5283a4500cb1e1ef9975c5acc7333591a3eeec594b85",
+    "requested_url": "https://www.104.com.tw/api/jobs/90jqx"
+  }
+}

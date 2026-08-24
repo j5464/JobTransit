@@ -1,0 +1,284 @@
+{
+  "company": {
+    "id": "20r9ei0",
+    "name": "立盟全球供應鏈股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "其他資訊專業人員",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "規劃並推動 Microsoft 365 導入與優化策略（Teams、SharePoint、Copilot 等）"
+        },
+        {
+          "children": [],
+          "text": "訪談各部門需求，設計協作流程與資訊管理機制"
+        },
+        {
+          "children": [],
+          "text": "協助內部數位轉型專案之執行與落地推動"
+        },
+        {
+          "children": [],
+          "text": "建立與維護 M365 使用規範、權限控管原則與治理準則"
+        },
+        {
+          "children": [],
+          "text": "規劃並審查 Copilot 產出之會議記錄、文件及 AI 輔助流程"
+        },
+        {
+          "children": [],
+          "text": "協助將內部流程文件化與標準化"
+        },
+        {
+          "children": [],
+          "text": "配合資訊治理與資安要求，確保平台使用符合規範"
+        },
+        {
+          "children": [],
+          "text": "追蹤跨部門 Action Items，確保專案與改善事項落實"
+        },
+        {
+          "children": [],
+          "text": "協調會議安排、彙整會議資料並產出會議紀錄（含 Copilot 輔助內容覆核）"
+        },
+        {
+          "children": [],
+          "text": "協助新功能測試、導入驗證及使用者問題初步排除"
+        },
+        {
+          "children": [],
+          "text": "設計與維護 Power Automate 流程，以支援部門作業自動化"
+        },
+        {
+          "children": [],
+          "text": "協助開發與測試 Copilot Studio AI Agent（如內部問答或流程輔助）"
+        },
+        {
+          "children": [],
+          "text": "規劃並執行使用者教育訓練，培養部門 Key User"
+        },
+        {
+          "children": [],
+          "text": "支援導入初期使用者 Q&A 與操作協助"
+        },
+        {
+          "children": [],
+          "text": "協助進行使用者滿意度調查與改善追蹤"
+        },
+        {
+          "children": [],
+          "text": "推廣 Power Platform（Power Automate / Power Apps/Power BI）應用情境"
+        }
+      ],
+      "text": "（一）導入與推動\n• 規劃並推動 Microsoft 365 導入與優化策略（Teams、SharePoint、Copilot 等）\n• 訪談各部門需求，設計協作流程與資訊管理機制\n• 協助內部數位轉型專案之執行與落地推動\n（二）治理與制度建立\n• 建立與維護 M365 使用規範、權限控管原則與治理準則\n• 規劃並審查 Copilot 產出之會議記錄、文件及 AI 輔助流程\n• 協助將內部流程文件化與標準化\n• 配合資訊治理與資安要求，確保平台使用符合規範\n（三）專案執行與追蹤\n• 追蹤跨部門 Action Items，確保專案與改善事項落實\n• 協調會議安排、彙整會議資料並產出會議紀錄（含 Copilot 輔助內容覆核）\n• 協助新功能測試、導入驗證及使用者問題初步排除\n• 設計與維護 Power Automate 流程，以支援部門作業自動化\n• 協助開發與測試 Copilot Studio AI Agent（如內部問答或流程輔助）\n（四）推廣與教育訓練\n• 規劃並執行使用者教育訓練，培養部門 Key User\n• 支援導入初期使用者 Q&A 與操作協助\n• 協助進行使用者滿意度調查與改善追蹤\n• 推廣 Power Platform（Power Automate / Power Apps/Power BI）應用情境"
+    },
+    "employment_type_raw": "全職",
+    "title": "數位轉型專員"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路76巷59號5樓",
+    "raw": "台北市內湖區瑞光路76巷59號5樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Outlook、PowerPoint、Word"
+      },
+      {
+        "items": [
+          "作業系統基本操作",
+          "系統架構規劃",
+          "AI",
+          "資料庫軟體應用",
+          "資料庫系統管理維護",
+          "系統導入"
+        ],
+        "label": "工作技能",
+        "text": "作業系統基本操作、系統架構規劃、AI、資料庫軟體應用、資料庫系統管理維護、系統導入"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 具良好溝通能力及團隊合作精神\n2. 具 3 年以上企業 IT／M365／專案或系統導入經驗\n3. 熟悉 Microsoft 365 核心服務與實際應用情境\n4. 具備流程設計與問題拆解能力\n5. 能跨部門溝通並協調資源推動變革\n6. 具備良好文件化能力，可將制度與流程標準化\n7. 邏輯清晰，能獨立負責並具備問題解決能力\n8. 能快速學習並跟上 AI 技術發展\n9. 需具備 Power Automate 流程設計實務經驗，並可提供相關作品或案例說明"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1. 具良好溝通能力及團隊合作精神\n2. 具 3 年以上企業 IT／M365／專案或系統導入經驗\n3. 熟悉 Microsoft 365 核心服務與實際應用情境\n4. 具備流程設計與問題拆解能力\n5. 能跨部門溝通並協調資源推動變革\n6. 具備良好文件化能力，可將制度與流程標準化\n7. 邏輯清晰，能獨立負責並具備問題解決能力\n8. 能快速學習並跟上 AI 技術發展\n9. 需具備 Power Automate 流程設計實務經驗，並可提供相關作品或案例說明",
+    "skills": [
+      "作業系統基本操作",
+      "系統架構規劃",
+      "AI",
+      "資料庫軟體應用",
+      "資料庫系統管理維護",
+      "系統導入"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word\n工作技能：作業系統基本操作、系統架構規劃、AI、資料庫軟體應用、資料庫系統管理維護、系統導入\n其他條件：1. 具良好溝通能力及團隊合作精神\n2. 具 3 年以上企業 IT／M365／專案或系統導入經驗\n3. 熟悉 Microsoft 365 核心服務與實際應用情境\n4. 具備流程設計與問題拆解能力\n5. 能跨部門溝通並協調資源推動變革\n6. 具備良好文件化能力，可將制度與流程標準化\n7. 邏輯清晰，能獨立負責並具備問題解決能力\n8. 能快速學習並跟上 AI 技術發展\n9. 需具備 Power Automate 流程設計實務經驗，並可提供相關作品或案例說明",
+    "tools": [
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 79
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:37:49+08:00"
+  },
+  "salary": {
+    "raw": "月薪60,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "（一）導入與推動\n• 規劃並推動 Microsoft 365 導入與優化策略（Teams、SharePoint、Copilot 等）\n• 訪談各部門需求，設計協作流程與資訊管理機制\n• 協助內部數位轉型專案之執行與落地推動\n（二）治理與制度建立\n• 建立與維護 M365 使用規範、權限控管原則與治理準則\n• 規劃並審查 Copilot 產出之會議記錄、文件及 AI 輔助流程\n• 協助將內部流程文件化與標準化\n• 配合資訊治理與資安要求，確保平台使用符合規範\n（三）專案執行與追蹤\n• 追蹤跨部門 Action Items，確保專案與改善事項落實\n• 協調會議安排、彙整會議資料並產出會議紀錄（含 Copilot 輔助內容覆核）\n• 協助新功能測試、導入驗證及使用者問題初步排除\n• 設計與維護 Power Automate 流程，以支援部門作業自動化\n• 協助開發與測試 Copilot Studio AI Agent（如內部問答或流程輔助）\n（四）推廣與教育訓練\n• 規劃並執行使用者教育訓練，培養部門 Key User\n• 支援導入初期使用者 Q&A 與操作協助\n• 協助進行使用者滿意度調查與改善追蹤\n• 推廣 Power Platform（Power Automate / Power Apps/Power BI）應用情境",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "其他資訊專業人員",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、其他資訊專業人員、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪60,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路76巷59號5樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "（一）導入與推動\n• 規劃並推動 Microsoft 365 導入與優化策略（Teams、SharePoint、Copilot 等）\n• 訪談各部門需求，設計協作流程與資訊管理機制\n• 協助內部數位轉型專案之執行與落地推動\n（二）治理與制度建立\n• 建立與維護 M365 使用規範、權限控管原則與治理準則\n• 規劃並審查 Copilot 產出之會議記錄、文件及 AI 輔助流程\n• 協助將內部流程文件化與標準化\n• 配合資訊治理與資安要求，確保平台使用符合規範\n（三）專案執行與追蹤\n• 追蹤跨部門 Action Items，確保專案與改善事項落實\n• 協調會議安排、彙整會議資料並產出會議紀錄（含 Copilot 輔助內容覆核）\n• 協助新功能測試、導入驗證及使用者問題初步排除\n• 設計與維護 Power Automate 流程，以支援部門作業自動化\n• 協助開發與測試 Copilot Studio AI Agent（如內部問答或流程輔助）\n（四）推廣與教育訓練\n• 規劃並執行使用者教育訓練，培養部門 Key User\n• 支援導入初期使用者 Q&A 與操作協助\n• 協助進行使用者滿意度調查與改善追蹤\n• 推廣 Power Platform（Power Automate / Power Apps/Power BI）應用情境"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Outlook、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "作業系統基本操作",
+            "系統架構規劃",
+            "AI",
+            "資料庫軟體應用",
+            "資料庫系統管理維護",
+            "系統導入"
+          ],
+          "label": "工作技能",
+          "text": "作業系統基本操作、系統架構規劃、AI、資料庫軟體應用、資料庫系統管理維護、系統導入",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 具良好溝通能力及團隊合作精神\n2. 具 3 年以上企業 IT／M365／專案或系統導入經驗\n3. 熟悉 Microsoft 365 核心服務與實際應用情境\n4. 具備流程設計與問題拆解能力\n5. 能跨部門溝通並協調資源推動變革\n6. 具備良好文件化能力，可將制度與流程標準化\n7. 邏輯清晰，能獨立負責並具備問題解決能力\n8. 能快速學習並跟上 AI 技術發展\n9. 需具備 Power Automate 流程設計實務經驗，並可提供相關作品或案例說明",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Excel、Outlook、PowerPoint、Word\n工作技能：作業系統基本操作、系統架構規劃、AI、資料庫軟體應用、資料庫系統管理維護、系統導入\n其他條件：1. 具良好溝通能力及團隊合作精神\n2. 具 3 年以上企業 IT／M365／專案或系統導入經驗\n3. 熟悉 Microsoft 365 核心服務與實際應用情境\n4. 具備流程設計與問題拆解能力\n5. 能跨部門溝通並協調資源推動變革\n6. 具備良好文件化能力，可將制度與流程標準化\n7. 邏輯清晰，能獨立負責並具備問題解決能力\n8. 能快速學習並跟上 AI 技術發展\n9. 需具備 Power Automate 流程設計實務經驗，並可提供相關作品或案例說明"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "94sf8",
+    "job_url": "https://www.104.com.tw/job/94sf8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94sf8.json",
+    "raw_sha256": "ce5a454ca03f299c3de652ce2c9ac31db3828d544405296de5a15e93983671cb",
+    "requested_url": "https://www.104.com.tw/api/jobs/94sf8"
+  }
+}

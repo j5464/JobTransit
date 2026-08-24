@@ -1,0 +1,231 @@
+{
+  "company": {
+    "id": "whip92w",
+    "name": "全智科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統分析師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "系統開發與客製化"
+        },
+        {
+          "children": [],
+          "text": "1熟練運用 Oracle D2K (Forms / Reports) 工具，進行 ERP 系統標準功能的客製化開發與維護,"
+        },
+        {
+          "children": [],
+          "text": "2運用 Dot Net C# 或 APEX 進行網頁端功能開發,編寫高效能的 SQL 語法與 Stored Procedure，並進行效能調校."
+        },
+        {
+          "children": [],
+          "text": "模組維運與問題排除"
+        },
+        {
+          "children": [],
+          "text": "1日常系統異常診斷與問題排除 (Troubleshooting)，確保系統高可用性"
+        },
+        {
+          "children": [],
+          "text": "2負責核心模組（如：財務、品質、供應鏈 、庫存、 或 製造 BOM）的系統功能 維護與流程優化"
+        },
+        {
+          "children": [],
+          "text": "3協助 Patch (補丁) 測試與系統版本升級之技術評估。"
+        },
+        {
+          "children": [],
+          "text": "需求分析與溝通"
+        },
+        {
+          "children": [],
+          "text": "1.Key User（核心使用者）溝通並分析業務需求。"
+        },
+        {
+          "children": [],
+          "text": "2撰寫文件規格及測試報告"
+        },
+        {
+          "children": [],
+          "text": "3協助引導使用者進行 UAT (使用者驗收測試) 並導入系統上線"
+        },
+        {
+          "children": [],
+          "text": "資料移轉與系統整合"
+        },
+        {
+          "children": [],
+          "text": "1負責 ERP系統 與外部系統（如：WIP、NOTES）的 API / Interface 串接與整合"
+        },
+        {
+          "children": [],
+          "text": "2執行舊系統資料移轉之資料整理、轉換與導入"
+        },
+        {
+          "children": [],
+          "text": "需精通以下技能"
+        }
+      ],
+      "text": "ERP工程師工作內容\n1. 系統開發與客製化\n1.1熟練運用 Oracle D2K (Forms / Reports) 工具，進行 ERP 系統標準功能的客製化開發與維護,\n1.2運用 Dot Net C# 或 APEX 進行網頁端功能開發,編寫高效能的 SQL 語法與 Stored Procedure，並進行效能調校.\n2. 模組維運與問題排除\n2.1日常系統異常診斷與問題排除 (Troubleshooting)，確保系統高可用性\n2.2負責核心模組（如：財務、品質、供應鏈 、庫存、 或 製造 BOM）的系統功能 維護與流程優化\n2.3協助 Patch (補丁) 測試與系統版本升級之技術評估。\n3. 需求分析與溝通\n3.1.Key User（核心使用者）溝通並分析業務需求。\n3.2撰寫文件規格及測試報告\n3.3協助引導使用者進行 UAT (使用者驗收測試) 並導入系統上線\n4. 資料移轉與系統整合\n4.1負責 ERP系統 與外部系統（如：WIP、NOTES）的 API / Interface 串接與整合\n4.2執行舊系統資料移轉之資料整理、轉換與導入\n5.需精通以下技能\nD2K (Oracle Developer 2000)\nAPEX (Oracle Application Express）"
+    },
+    "employment_type_raw": "全職",
+    "title": "【D2K × Oracle × APEX】ERP工程師"
+  },
+  "location": {
+    "address_raw": "新竹市",
+    "raw": "新竹市"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 1
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:20:30+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "ERP工程師工作內容\n1. 系統開發與客製化\n1.1熟練運用 Oracle D2K (Forms / Reports) 工具，進行 ERP 系統標準功能的客製化開發與維護,\n1.2運用 Dot Net C# 或 APEX 進行網頁端功能開發,編寫高效能的 SQL 語法與 Stored Procedure，並進行效能調校.\n2. 模組維運與問題排除\n2.1日常系統異常診斷與問題排除 (Troubleshooting)，確保系統高可用性\n2.2負責核心模組（如：財務、品質、供應鏈 、庫存、 或 製造 BOM）的系統功能 維護與流程優化\n2.3協助 Patch (補丁) 測試與系統版本升級之技術評估。\n3. 需求分析與溝通\n3.1.Key User（核心使用者）溝通並分析業務需求。\n3.2撰寫文件規格及測試報告\n3.3協助引導使用者進行 UAT (使用者驗收測試) 並導入系統上線\n4. 資料移轉與系統整合\n4.1負責 ERP系統 與外部系統（如：WIP、NOTES）的 API / Interface 串接與整合\n4.2執行舊系統資料移轉之資料整理、轉換與導入\n5.需精通以下技能\nD2K (Oracle Developer 2000)\nAPEX (Oracle Application Express）",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統分析師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統分析師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "ERP工程師工作內容\n1. 系統開發與客製化\n1.1熟練運用 Oracle D2K (Forms / Reports) 工具，進行 ERP 系統標準功能的客製化開發與維護,\n1.2運用 Dot Net C# 或 APEX 進行網頁端功能開發,編寫高效能的 SQL 語法與 Stored Procedure，並進行效能調校.\n2. 模組維運與問題排除\n2.1日常系統異常診斷與問題排除 (Troubleshooting)，確保系統高可用性\n2.2負責核心模組（如：財務、品質、供應鏈 、庫存、 或 製造 BOM）的系統功能 維護與流程優化\n2.3協助 Patch (補丁) 測試與系統版本升級之技術評估。\n3. 需求分析與溝通\n3.1.Key User（核心使用者）溝通並分析業務需求。\n3.2撰寫文件規格及測試報告\n3.3協助引導使用者進行 UAT (使用者驗收測試) 並導入系統上線\n4. 資料移轉與系統整合\n4.1負責 ERP系統 與外部系統（如：WIP、NOTES）的 API / Interface 串接與整合\n4.2執行舊系統資料移轉之資料整理、轉換與導入\n5.需精通以下技能\nD2K (Oracle Developer 2000)\nAPEX (Oracle Application Express）"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/17",
+    "html_sha256": null,
+    "job_id": "92nni",
+    "job_url": "https://www.104.com.tw/job/92nni",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92nni.json",
+    "raw_sha256": "9b2d6cdd0e6b78debcf32d7c68ef0dd13565248485b70863e8b3d8c34dc7f65d",
+    "requested_url": "https://www.104.com.tw/api/jobs/92nni"
+  }
+}

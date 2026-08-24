@@ -1,0 +1,200 @@
+{
+  "company": {
+    "id": "1a2x6bjh52",
+    "name": "鈺群科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師",
+      "軟韌體測試工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依據客戶需求，做韌體/軟體修改與客製化."
+        },
+        {
+          "children": [],
+          "text": "客戶端的測試Tool的修改與開發."
+        },
+        {
+          "children": [],
+          "text": "與對客戶工程師溝通規格與可行性."
+        }
+      ],
+      "text": "1. 依據客戶需求，做韌體/軟體修改與客製化.\n2. 客戶端的測試Tool的修改與開發.\n3. 與對客戶工程師溝通規格與可行性."
+    },
+    "employment_type_raw": "全職",
+    "title": "軟韌體應用工程師(Software AE)_台北"
+  },
+  "location": {
+    "address_raw": "台北市內湖區基湖路35巷22號2樓",
+    "raw": "台北市內湖區基湖路35巷22號2樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "C",
+          "C#",
+          "C++",
+          "ARM"
+        ],
+        "label": "擅長工具",
+        "text": "C、C#、C++、ARM"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具備基本電力電子基礎技能，熟悉硬體者尤佳。\n2.熟悉MCU韌體開發(8051, ARM Cortex-M 尤佳)。\n3.具備USB開發經驗尤佳。\n4.有Windows AP開發經驗尤佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1.具備基本電力電子基礎技能，熟悉硬體者尤佳。\n2.熟悉MCU韌體開發(8051, ARM Cortex-M 尤佳)。\n3.具備USB開發經驗尤佳。\n4.有Windows AP開發經驗尤佳。",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關\n擅長工具：C、C#、C++、ARM\n其他條件：1.具備基本電力電子基礎技能，熟悉硬體者尤佳。\n2.熟悉MCU韌體開發(8051, ARM Cortex-M 尤佳)。\n3.具備USB開發經驗尤佳。\n4.有Windows AP開發經驗尤佳。",
+    "tools": [
+      "C",
+      "C#",
+      "C++",
+      "ARM"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 46
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:16:06+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 依據客戶需求，做韌體/軟體修改與客製化.\n2. 客戶端的測試Tool的修改與開發.\n3. 與對客戶工程師溝通規格與可行性.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師",
+            "軟韌體測試工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師、軟韌體測試工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區基湖路35巷22號2樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 依據客戶需求，做韌體/軟體修改與客製化.\n2. 客戶端的測試Tool的修改與開發.\n3. 與對客戶工程師溝通規格與可行性."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C#",
+            "C++",
+            "ARM"
+          ],
+          "label": "擅長工具",
+          "text": "C、C#、C++、ARM",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具備基本電力電子基礎技能，熟悉硬體者尤佳。\n2.熟悉MCU韌體開發(8051, ARM Cortex-M 尤佳)。\n3.具備USB開發經驗尤佳。\n4.有Windows AP開發經驗尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關\n擅長工具：C、C#、C++、ARM\n其他條件：1.具備基本電力電子基礎技能，熟悉硬體者尤佳。\n2.熟悉MCU韌體開發(8051, ARM Cortex-M 尤佳)。\n3.具備USB開發經驗尤佳。\n4.有Windows AP開發經驗尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "87cwn",
+    "job_url": "https://www.104.com.tw/job/87cwn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/87cwn.json",
+    "raw_sha256": "51853515fba258b9271b611d756989001231e602f638df52f64dea6cbeda2b41",
+    "requested_url": "https://www.104.com.tw/api/jobs/87cwn"
+  }
+}

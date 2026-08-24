@@ -1,0 +1,200 @@
+{
+  "company": {
+    "id": "1a2x6bnitt",
+    "name": "奇策整合行銷有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "【嗨！我們在找這樣的網站前端夥伴】\n如果你平常就愛看網站，看到漂亮的版型、動畫或互動效果，第一個反應是：\n「這個效果怎麼做的？」\n甚至會忍不住打開 DevTools、Google、問 AI，想辦法把它做出來，那我們應該會很有話聊\n我們正在找的不只是「把設計稿切出來」的前端，而是一個能和設計師、網站顧問一起討論，想辦法把腦中的創意真正實現的人\n我們很在意網站的美感，也很在意效率\n所以在這裡，你不需要堅持所有 Code 都從第一行自己手刻，我們反而希望你善用 AI、開發工具與各種新的工作方式，把時間留給真正需要思考與解決的問題\n｜把設計真正做出來的人\n設計師負責想像，你負責讓想像成真\n你會拿到 Figma 設計稿，將視覺轉換成真正可以操作的網站，同時處理不同裝置的 RWD、版面細節、動畫與互動效果\n我們不喜歡一句：\n「這個做不到」\n我們比較喜歡：\n「可以做，但我覺得換這個方式會更好」\n因為前端對我們來說，不只是執行者，也是網站體驗的一部分\n｜對網站美感有感覺的人\n你不一定要會做完整的 UI 設計，但我們希望你對「好不好看」是有感覺的\n你會注意：\n・間距是不是怪怪的\n・手機版是不是擠在一起\n・動畫是不是太快\n・字體大小與層級是否合理\n・設計稿到了瀏覽器之後，有沒有失去原本的質感\n我們希望你不是看到 Figma 有什麼就機械式做什麼，而是能和設計師一起把最後那 10% 的細節做好\n｜WordPress，但不是你想像中的 WordPress\n我們大量使用 WordPress，但不是套一個 Theme、換 Logo、改文字就交件\n目前我們會搭配 Elementor、HTML、CSS、JavaScript 與各種工具進行高度客製化製作\n你會接觸：\n・WordPress\n・Elementor\n・HTML / CSS\n・JavaScript\n・RWD\n・網站動畫與互動\n・外掛整合與客製\n・第三方服務與 API 串接\n我們在意的不是「是不是純手刻」\n而是：\n能不能用適合的方法，把網站漂亮、穩定、有效率地做出來\n▶ AI 全力支援，讓開發效率再往上一個等級\n我們非常鼓勵使用 AI Coding\n公司提供 Gemini Pro、Claude AI 等工具，如果有能真正提升開發品質與效率的付費工具，也願意支持\n你可以利用 AI：\n・協助 HTML / CSS / JavaScript 開發\n・快速 Prototype 互動效果\n・Debug 與問題排查\n・研究新的實作方法\n・閱讀與理解陌生 Code\n・Code 優化與重構\n・建立自己的開發 Workflow\n我們不在乎一段 Code 是你自己打了 30 分鐘，還是你利用 AI 5 分鐘完成\n我們在乎的是：\n結果是不是對的、網站是不是穩的、細節是不是好的，以及你有沒有能力判斷 AI 給你的答案能不能用\n▶ 你會負責的事情\n・依照 Figma 設計稿完成網站前端製作\n・製作 Desktop / Tablet / Mobile RWD 響應式畫面\n・使用 HTML / CSS / JavaScript 完成客製版型與互動效果\n・使用 WordPress / Elementor 建置與維護網站\n・與設計師討論畫面、動畫與實作方式\n・與網站顧問討論客戶需求與功能可行性\n・進行網站 QA、跨裝置與跨瀏覽器測試\n・處理網站上線與後續調整\n・研究新的前端技術與 AI 開發工具\n・持續優化我們的網站製作流程與開發效率\n▶ 我們希望你是這樣的人\n喜歡網站，平常就會主動看不同網站的設計與互動\n對 HTML / CSS / JavaScript 有基本實作能力\n具備 RWD Responsive Web Design 概念\n對畫面與細節有感覺，不會覺得「差不多就好」\n遇到不知道怎麼做的效果，會主動 Google、研究、問 AI、找方法\n喜歡和設計師、顧問討論「怎麼做會更好」\n願意學習新工具、新技術與新的工作方式\n能對自己交付的網站品質負責\n【加分亮點】\n1｜WordPress / Elementor 實戰經驗\n曾經使用 WordPress、Elementor 完成實際網站，知道如何在 Elementor 與客製 HTML / CSS / JavaScript 之間找到適合的實作方式，非常加分\n2｜有完整網站製作經驗\n如果你曾經參與一個網站從：\nFigma → 前端製作 → RWD → QA → 正式上線\n完整走過一次以上，你會更容易進入我們的工作節奏\n3｜懂一點 UI / UX 或視覺設計\n你不需要成為設計師\n但如果你看得懂 Figma、對 Typography、Spacing、Layout、Animation 有感覺，甚至偶爾能主動發現：\n「這裡如果這樣調，網站會更好看」\n我們會非常喜歡\n4｜API / Git / 技術能力\n如果你具備：\n・REST API 串接經驗\n・第三方服務整合經驗\n・Git 版本控制\n・JavaScript 動畫與互動效果\n・網站效能優化\n・基本 SEO / Core Web Vitals 概念\n都會是很好的加分項目\n5｜AI 工作流實踐者\n如果你已經習慣使用 ChatGPT、Claude、Gemini 或其他 AI Coding 工具協助開發\n甚至有自己的一套 Prompt、Debug、Prototype、Code Review 工作流程\n面試時很歡迎直接秀給我們看\n我們很想知道：\n「你怎麼利用 AI，讓原本一天的工作變成半天？」\n▶ 薪資與福利｜我們強調「付出者收穫」\n月薪只是地板，我們拒絕讓你的價值只剩下一份死薪水\n除了固定月薪之外，我們設有專案績效獎金，公司有獲利，我們希望實際創造價值的人也能一起分享成果\n當你的技術更成熟、製作速度更快、能解決更困難的問題，甚至開始幫助團隊建立更有效率的開發方式，你的價值與收入也應該一起成長\n我們不想找一個每天等著 Figma 丟過來，然後默默切版的人\n我們想找的是看到一個很酷的網站效果，會想：\n「這個好像很好玩，我來研究看看怎麼做」\n如果你也是這種人\n那就來聊聊吧\n一起把那些「不知道做不做得到」的想法，真的做出來"
+    },
+    "employment_type_raw": "全職",
+    "title": "網頁前端工程師（ＡＩ協作）"
+  },
+  "location": {
+    "address_raw": "台中市西屯區長安路一段228號2F",
+    "raw": "台中市西屯區長安路一段228號2F"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "Wordpress",
+          "ChatGPT",
+          "Git"
+        ],
+        "label": "擅長工具",
+        "text": "JavaScript、CSS、HTML、Wordpress、ChatGPT、Git"
+      },
+      {
+        "items": [
+          "網頁語法撰寫",
+          "使用者介面設計",
+          "網頁軟體操作",
+          "AI圖像生成"
+        ],
+        "label": "工作技能",
+        "text": "網頁語法撰寫、使用者介面設計、網頁軟體操作、AI圖像生成"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "喜歡網站，平常會主動觀察不同網站的設計、版型與互動效果，看到有趣的效果會想研究「這是怎麼做到的？」並嘗試自己實現\n重視網站美感與細節，能依照 Figma 設計稿完成 RWD 網頁製作，並願意與設計師討論更好的呈現與互動方式\n遇到問題願意主動研究與尋找解法，樂於使用 ChatGPT、Claude、Gemini 等 AI 工具協助 HTML / CSS / JavaScript 開發、Debug 與工作流程優化\n具 WordPress / Elementor 網站建置經驗佳，若具 API 串接、Git、網站動畫、效能優化或完整網站上線經驗更加分"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "喜歡網站，平常會主動觀察不同網站的設計、版型與互動效果，看到有趣的效果會想研究「這是怎麼做到的？」並嘗試自己實現\n重視網站美感與細節，能依照 Figma 設計稿完成 RWD 網頁製作，並願意與設計師討論更好的呈現與互動方式\n遇到問題願意主動研究與尋找解法，樂於使用 ChatGPT、Claude、Gemini 等 AI 工具協助 HTML / CSS / JavaScript 開發、Debug 與工作流程優化\n具 WordPress / Elementor 網站建置經驗佳，若具 API 串接、Git、網站動畫、效能優化或完整網站上線經驗更加分",
+    "skills": [
+      "網頁語法撰寫",
+      "使用者介面設計",
+      "網頁軟體操作",
+      "AI圖像生成"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科以上\n擅長工具：JavaScript、CSS、HTML、Wordpress、ChatGPT、Git\n工作技能：網頁語法撰寫、使用者介面設計、網頁軟體操作、AI圖像生成\n其他條件：喜歡網站，平常會主動觀察不同網站的設計、版型與互動效果，看到有趣的效果會想研究「這是怎麼做到的？」並嘗試自己實現\n重視網站美感與細節，能依照 Figma 設計稿完成 RWD 網頁製作，並願意與設計師討論更好的呈現與互動方式\n遇到問題願意主動研究與尋找解法，樂於使用 ChatGPT、Claude、Gemini 等 AI 工具協助 HTML / CSS / JavaScript 開發、Debug 與工作流程優化\n具 WordPress / Elementor 網站建置經驗佳，若具 API 串接、Git、網站動畫、效能優化或完整網站上線經驗更加分",
+    "tools": [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Wordpress",
+      "ChatGPT",
+      "Git"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 65
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:02:34+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【嗨！我們在找這樣的網站前端夥伴】\n如果你平常就愛看網站，看到漂亮的版型、動畫或互動效果，第一個反應是：\n「這個效果怎麼做的？」\n甚至會忍不住打開 DevTools、Google、問 AI，想辦法把它做出來，那我們應該會很有話聊\n我們正在找的不只是「把設計稿切出來」的前端，而是一個能和設計師、網站顧問一起討論，想辦法把腦中的創意真正實現的人\n我們很在意網站的美感，也很在意效率\n所以在這裡，你不需要堅持所有 Code 都從第一行自己手刻，我們反而希望你善用 AI、開發工具與各種新的工作方式，把時間留給真正需要思考與解決的問題\n｜把設計真正做出來的人\n設計師負責想像，你負責讓想像成真\n你會拿到 Figma 設計稿，將視覺轉換成真正可以操作的網站，同時處理不同裝置的 RWD、版面細節、動畫與互動效果\n我們不喜歡一句：\n「這個做不到」\n我們比較喜歡：\n「可以做，但我覺得換這個方式會更好」\n因為前端對我們來說，不只是執行者，也是網站體驗的一部分\n｜對網站美感有感覺的人\n你不一定要會做完整的 UI 設計，但我們希望你對「好不好看」是有感覺的\n你會注意：\n・間距是不是怪怪的\n・手機版是不是擠在一起\n・動畫是不是太快\n・字體大小與層級是否合理\n・設計稿到了瀏覽器之後，有沒有失去原本的質感\n我們希望你不是看到 Figma 有什麼就機械式做什麼，而是能和設計師一起把最後那 10% 的細節做好\n｜WordPress，但不是你想像中的 WordPress\n我們大量使用 WordPress，但不是套一個 Theme、換 Logo、改文字就交件\n目前我們會搭配 Elementor、HTML、CSS、JavaScript 與各種工具進行高度客製化製作\n你會接觸：\n・WordPress\n・Elementor\n・HTML / CSS\n・JavaScript\n・RWD\n・網站動畫與互動\n・外掛整合與客製\n・第三方服務與 API 串接\n我們在意的不是「是不是純手刻」\n而是：\n能不能用適合的方法，把網站漂亮、穩定、有效率地做出來\n▶ AI 全力支援，讓開發效率再往上一個等級\n我們非常鼓勵使用 AI Coding\n公司提供 Gemini Pro、Claude AI 等工具，如果有能真正提升開發品質與效率的付費工具，也願意支持\n你可以利用 AI：\n・協助 HTML / CSS / JavaScript 開發\n・快速 Prototype 互動效果\n・Debug 與問題排查\n・研究新的實作方法\n・閱讀與理解陌生 Code\n・Code 優化與重構\n・建立自己的開發 Workflow\n我們不在乎一段 Code 是你自己打了 30 分鐘，還是你利用 AI 5 分鐘完成\n我們在乎的是：\n結果是不是對的、網站是不是穩的、細節是不是好的，以及你有沒有能力判斷 AI 給你的答案能不能用\n▶ 你會負責的事情\n・依照 Figma 設計稿完成網站前端製作\n・製作 Desktop / Tablet / Mobile RWD 響應式畫面\n・使用 HTML / CSS / JavaScript 完成客製版型與互動效果\n・使用 WordPress / Elementor 建置與維護網站\n・與設計師討論畫面、動畫與實作方式\n・與網站顧問討論客戶需求與功能可行性\n・進行網站 QA、跨裝置與跨瀏覽器測試\n・處理網站上線與後續調整\n・研究新的前端技術與 AI 開發工具\n・持續優化我們的網站製作流程與開發效率\n▶ 我們希望你是這樣的人\n喜歡網站，平常就會主動看不同網站的設計與互動\n對 HTML / CSS / JavaScript 有基本實作能力\n具備 RWD Responsive Web Design 概念\n對畫面與細節有感覺，不會覺得「差不多就好」\n遇到不知道怎麼做的效果，會主動 Google、研究、問 AI、找方法\n喜歡和設計師、顧問討論「怎麼做會更好」\n願意學習新工具、新技術與新的工作方式\n能對自己交付的網站品質負責\n【加分亮點】\n1｜WordPress / Elementor 實戰經驗\n曾經使用 WordPress、Elementor 完成實際網站，知道如何在 Elementor 與客製 HTML / CSS / JavaScript 之間找到適合的實作方式，非常加分\n2｜有完整網站製作經驗\n如果你曾經參與一個網站從：\nFigma → 前端製作 → RWD → QA → 正式上線\n完整走過一次以上，你會更容易進入我們的工作節奏\n3｜懂一點 UI / UX 或視覺設計\n你不需要成為設計師\n但如果你看得懂 Figma、對 Typography、Spacing、Layout、Animation 有感覺，甚至偶爾能主動發現：\n「這裡如果這樣調，網站會更好看」\n我們會非常喜歡\n4｜API / Git / 技術能力\n如果你具備：\n・REST API 串接經驗\n・第三方服務整合經驗\n・Git 版本控制\n・JavaScript 動畫與互動效果\n・網站效能優化\n・基本 SEO / Core Web Vitals 概念\n都會是很好的加分項目\n5｜AI 工作流實踐者\n如果你已經習慣使用 ChatGPT、Claude、Gemini 或其他 AI Coding 工具協助開發\n甚至有自己的一套 Prompt、Debug、Prototype、Code Review 工作流程\n面試時很歡迎直接秀給我們看\n我們很想知道：\n「你怎麼利用 AI，讓原本一天的工作變成半天？」\n▶ 薪資與福利｜我們強調「付出者收穫」\n月薪只是地板，我們拒絕讓你的價值只剩下一份死薪水\n除了固定月薪之外，我們設有專案績效獎金，公司有獲利，我們希望實際創造價值的人也能一起分享成果\n當你的技術更成熟、製作速度更快、能解決更困難的問題，甚至開始幫助團隊建立更有效率的開發方式，你的價值與收入也應該一起成長\n我們不想找一個每天等著 Figma 丟過來，然後默默切版的人\n我們想找的是看到一個很酷的網站效果，會想：\n「這個好像很好玩，我來研究看看怎麼做」\n如果你也是這種人\n那就來聊聊吧\n一起把那些「不知道做不做得到」的想法，真的做出來",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區長安路一段228號2F",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【嗨！我們在找這樣的網站前端夥伴】\n如果你平常就愛看網站，看到漂亮的版型、動畫或互動效果，第一個反應是：\n「這個效果怎麼做的？」\n甚至會忍不住打開 DevTools、Google、問 AI，想辦法把它做出來，那我們應該會很有話聊\n我們正在找的不只是「把設計稿切出來」的前端，而是一個能和設計師、網站顧問一起討論，想辦法把腦中的創意真正實現的人\n我們很在意網站的美感，也很在意效率\n所以在這裡，你不需要堅持所有 Code 都從第一行自己手刻，我們反而希望你善用 AI、開發工具與各種新的工作方式，把時間留給真正需要思考與解決的問題\n｜把設計真正做出來的人\n設計師負責想像，你負責讓想像成真\n你會拿到 Figma 設計稿，將視覺轉換成真正可以操作的網站，同時處理不同裝置的 RWD、版面細節、動畫與互動效果\n我們不喜歡一句：\n「這個做不到」\n我們比較喜歡：\n「可以做，但我覺得換這個方式會更好」\n因為前端對我們來說，不只是執行者，也是網站體驗的一部分\n｜對網站美感有感覺的人\n你不一定要會做完整的 UI 設計，但我們希望你對「好不好看」是有感覺的\n你會注意：\n・間距是不是怪怪的\n・手機版是不是擠在一起\n・動畫是不是太快\n・字體大小與層級是否合理\n・設計稿到了瀏覽器之後，有沒有失去原本的質感\n我們希望你不是看到 Figma 有什麼就機械式做什麼，而是能和設計師一起把最後那 10% 的細節做好\n｜WordPress，但不是你想像中的 WordPress\n我們大量使用 WordPress，但不是套一個 Theme、換 Logo、改文字就交件\n目前我們會搭配 Elementor、HTML、CSS、JavaScript 與各種工具進行高度客製化製作\n你會接觸：\n・WordPress\n・Elementor\n・HTML / CSS\n・JavaScript\n・RWD\n・網站動畫與互動\n・外掛整合與客製\n・第三方服務與 API 串接\n我們在意的不是「是不是純手刻」\n而是：\n能不能用適合的方法，把網站漂亮、穩定、有效率地做出來\n▶ AI 全力支援，讓開發效率再往上一個等級\n我們非常鼓勵使用 AI Coding\n公司提供 Gemini Pro、Claude AI 等工具，如果有能真正提升開發品質與效率的付費工具，也願意支持\n你可以利用 AI：\n・協助 HTML / CSS / JavaScript 開發\n・快速 Prototype 互動效果\n・Debug 與問題排查\n・研究新的實作方法\n・閱讀與理解陌生 Code\n・Code 優化與重構\n・建立自己的開發 Workflow\n我們不在乎一段 Code 是你自己打了 30 分鐘，還是你利用 AI 5 分鐘完成\n我們在乎的是：\n結果是不是對的、網站是不是穩的、細節是不是好的，以及你有沒有能力判斷 AI 給你的答案能不能用\n▶ 你會負責的事情\n・依照 Figma 設計稿完成網站前端製作\n・製作 Desktop / Tablet / Mobile RWD 響應式畫面\n・使用 HTML / CSS / JavaScript 完成客製版型與互動效果\n・使用 WordPress / Elementor 建置與維護網站\n・與設計師討論畫面、動畫與實作方式\n・與網站顧問討論客戶需求與功能可行性\n・進行網站 QA、跨裝置與跨瀏覽器測試\n・處理網站上線與後續調整\n・研究新的前端技術與 AI 開發工具\n・持續優化我們的網站製作流程與開發效率\n▶ 我們希望你是這樣的人\n喜歡網站，平常就會主動看不同網站的設計與互動\n對 HTML / CSS / JavaScript 有基本實作能力\n具備 RWD Responsive Web Design 概念\n對畫面與細節有感覺，不會覺得「差不多就好」\n遇到不知道怎麼做的效果，會主動 Google、研究、問 AI、找方法\n喜歡和設計師、顧問討論「怎麼做會更好」\n願意學習新工具、新技術與新的工作方式\n能對自己交付的網站品質負責\n【加分亮點】\n1｜WordPress / Elementor 實戰經驗\n曾經使用 WordPress、Elementor 完成實際網站，知道如何在 Elementor 與客製 HTML / CSS / JavaScript 之間找到適合的實作方式，非常加分\n2｜有完整網站製作經驗\n如果你曾經參與一個網站從：\nFigma → 前端製作 → RWD → QA → 正式上線\n完整走過一次以上，你會更容易進入我們的工作節奏\n3｜懂一點 UI / UX 或視覺設計\n你不需要成為設計師\n但如果你看得懂 Figma、對 Typography、Spacing、Layout、Animation 有感覺，甚至偶爾能主動發現：\n「這裡如果這樣調，網站會更好看」\n我們會非常喜歡\n4｜API / Git / 技術能力\n如果你具備：\n・REST API 串接經驗\n・第三方服務整合經驗\n・Git 版本控制\n・JavaScript 動畫與互動效果\n・網站效能優化\n・基本 SEO / Core Web Vitals 概念\n都會是很好的加分項目\n5｜AI 工作流實踐者\n如果你已經習慣使用 ChatGPT、Claude、Gemini 或其他 AI Coding 工具協助開發\n甚至有自己的一套 Prompt、Debug、Prototype、Code Review 工作流程\n面試時很歡迎直接秀給我們看\n我們很想知道：\n「你怎麼利用 AI，讓原本一天的工作變成半天？」\n▶ 薪資與福利｜我們強調「付出者收穫」\n月薪只是地板，我們拒絕讓你的價值只剩下一份死薪水\n除了固定月薪之外，我們設有專案績效獎金，公司有獲利，我們希望實際創造價值的人也能一起分享成果\n當你的技術更成熟、製作速度更快、能解決更困難的問題，甚至開始幫助團隊建立更有效率的開發方式，你的價值與收入也應該一起成長\n我們不想找一個每天等著 Figma 丟過來，然後默默切版的人\n我們想找的是看到一個很酷的網站效果，會想：\n「這個好像很好玩，我來研究看看怎麼做」\n如果你也是這種人\n那就來聊聊吧\n一起把那些「不知道做不做得到」的想法，真的做出來"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "Wordpress",
+            "ChatGPT",
+            "Git"
+          ],
+          "label": "擅長工具",
+          "text": "JavaScript、CSS、HTML、Wordpress、ChatGPT、Git",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "網頁語法撰寫",
+            "使用者介面設計",
+            "網頁軟體操作",
+            "AI圖像生成"
+          ],
+          "label": "工作技能",
+          "text": "網頁語法撰寫、使用者介面設計、網頁軟體操作、AI圖像生成",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "喜歡網站，平常會主動觀察不同網站的設計、版型與互動效果，看到有趣的效果會想研究「這是怎麼做到的？」並嘗試自己實現\n重視網站美感與細節，能依照 Figma 設計稿完成 RWD 網頁製作，並願意與設計師討論更好的呈現與互動方式\n遇到問題願意主動研究與尋找解法，樂於使用 ChatGPT、Claude、Gemini 等 AI 工具協助 HTML / CSS / JavaScript 開發、Debug 與工作流程優化\n具 WordPress / Elementor 網站建置經驗佳，若具 API 串接、Git、網站動畫、效能優化或完整網站上線經驗更加分",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科以上\n擅長工具：JavaScript、CSS、HTML、Wordpress、ChatGPT、Git\n工作技能：網頁語法撰寫、使用者介面設計、網頁軟體操作、AI圖像生成\n其他條件：喜歡網站，平常會主動觀察不同網站的設計、版型與互動效果，看到有趣的效果會想研究「這是怎麼做到的？」並嘗試自己實現\n重視網站美感與細節，能依照 Figma 設計稿完成 RWD 網頁製作，並願意與設計師討論更好的呈現與互動方式\n遇到問題願意主動研究與尋找解法，樂於使用 ChatGPT、Claude、Gemini 等 AI 工具協助 HTML / CSS / JavaScript 開發、Debug 與工作流程優化\n具 WordPress / Elementor 網站建置經驗佳，若具 API 串接、Git、網站動畫、效能優化或完整網站上線經驗更加分"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "94pp9",
+    "job_url": "https://www.104.com.tw/job/94pp9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94pp9.json",
+    "raw_sha256": "497bc4ee3199f1184c9ae4ac38ff7b8e79c30204439f1414e5d83a7b8824ed93",
+    "requested_url": "https://www.104.com.tw/api/jobs/94pp9"
+  }
+}

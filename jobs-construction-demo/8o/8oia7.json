@@ -1,0 +1,208 @@
+{
+  "company": {
+    "id": "233rv1s",
+    "name": "鴻海精密工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟韌體測試工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Develop and maintain BMC firmware for AI servers, including OpenBMC platform bring-up and feature development (embedded Linux experience acceptable if no prior OpenBMC exposure)."
+        },
+        {
+          "children": [],
+          "text": "Implement and integrate low-level drivers (U-Boot, Device Tree, Kernel), covering I2C, SPI, PMBus, GPIO, and other interfaces."
+        },
+        {
+          "children": [],
+          "text": "Build and maintain BMC sensor monitoring, FRU/SDR tables, fan/power control, and event log systems."
+        },
+        {
+          "children": [],
+          "text": "Implement management protocols and firmware update mechanisms (IPMI, Redfish, PLDM, MCTP)."
+        },
+        {
+          "children": [],
+          "text": "Integrate Secure Boot / TPM / SPDM security frameworks."
+        },
+        {
+          "children": [],
+          "text": "If experienced with NVIDIA HGX/DGX/NVSwitch projects, support GPU power/thermal control, firmware updates, and OOB management integration."
+        },
+        {
+          "children": [],
+          "text": "Prepare design documents, test plans, mass production support materials, and debug reports."
+        }
+      ],
+      "text": "1.Develop and maintain BMC firmware for AI servers, including OpenBMC platform bring-up and feature development (embedded Linux experience acceptable if no prior OpenBMC exposure).\n2.Implement and integrate low-level drivers (U-Boot, Device Tree, Kernel), covering I2C, SPI, PMBus, GPIO, and other interfaces.\n3.Build and maintain BMC sensor monitoring, FRU/SDR tables, fan/power control, and event log systems.\n4.Implement management protocols and firmware update mechanisms (IPMI, Redfish, PLDM, MCTP).\n5.Integrate Secure Boot / TPM / SPDM security frameworks.\n6.If experienced with NVIDIA HGX/DGX/NVSwitch projects, support GPU power/thermal control, firmware updates, and OOB management integration.\n7.Prepare design documents, test plans, mass production support materials, and debug reports."
+    },
+    "employment_type_raw": "全職",
+    "title": "AI Server-BMC Engineer(土城)"
+  },
+  "location": {
+    "address_raw": "新北市土城區",
+    "raw": "新北市土城區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "工業工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、工業工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "C/C++, Python/Bash, I2C/I3C/SPI/PMBus, debugging with ipmitool/redfishtool/LA/oscilloscope. Apply with code samples/patches and project write‑ups."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "工業工程相關"
+    ],
+    "other_text": "C/C++, Python/Bash, I2C/I3C/SPI/PMBus, debugging with ipmitool/redfishtool/LA/oscilloscope. Apply with code samples/patches and project write‑ups.",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、工業工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：C/C++, Python/Bash, I2C/I3C/SPI/PMBus, debugging with ipmitool/redfishtool/LA/oscilloscope. Apply with code samples/patches and project write‑ups.",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 54
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:34:21+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.Develop and maintain BMC firmware for AI servers, including OpenBMC platform bring-up and feature development (embedded Linux experience acceptable if no prior OpenBMC exposure).\n2.Implement and integrate low-level drivers (U-Boot, Device Tree, Kernel), covering I2C, SPI, PMBus, GPIO, and other interfaces.\n3.Build and maintain BMC sensor monitoring, FRU/SDR tables, fan/power control, and event log systems.\n4.Implement management protocols and firmware update mechanisms (IPMI, Redfish, PLDM, MCTP).\n5.Integrate Secure Boot / TPM / SPDM security frameworks.\n6.If experienced with NVIDIA HGX/DGX/NVSwitch projects, support GPU power/thermal control, firmware updates, and OOB management integration.\n7.Prepare design documents, test plans, mass production support materials, and debug reports.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟韌體測試工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟韌體測試工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市土城區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.Develop and maintain BMC firmware for AI servers, including OpenBMC platform bring-up and feature development (embedded Linux experience acceptable if no prior OpenBMC exposure).\n2.Implement and integrate low-level drivers (U-Boot, Device Tree, Kernel), covering I2C, SPI, PMBus, GPIO, and other interfaces.\n3.Build and maintain BMC sensor monitoring, FRU/SDR tables, fan/power control, and event log systems.\n4.Implement management protocols and firmware update mechanisms (IPMI, Redfish, PLDM, MCTP).\n5.Integrate Secure Boot / TPM / SPDM security frameworks.\n6.If experienced with NVIDIA HGX/DGX/NVSwitch projects, support GPU power/thermal control, firmware updates, and OOB management integration.\n7.Prepare design documents, test plans, mass production support materials, and debug reports."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "工業工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、工業工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "C/C++, Python/Bash, I2C/I3C/SPI/PMBus, debugging with ipmitool/redfishtool/LA/oscilloscope. Apply with code samples/patches and project write‑ups.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、工業工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：C/C++, Python/Bash, I2C/I3C/SPI/PMBus, debugging with ipmitool/redfishtool/LA/oscilloscope. Apply with code samples/patches and project write‑ups."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8oia7",
+    "job_url": "https://www.104.com.tw/job/8oia7",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8oia7.json",
+    "raw_sha256": "397d736ff05745e36c4f1f0bfa5e32bb765a2cb354a9e36d035da6ab4ea8d685",
+    "requested_url": "https://www.104.com.tw/api/jobs/8oia7"
+  }
+}

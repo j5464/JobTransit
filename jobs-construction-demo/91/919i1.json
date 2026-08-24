@@ -1,0 +1,261 @@
+{
+  "company": {
+    "id": "1a2x6bn8kq",
+    "name": "稑燾智能有限公司"
+  },
+  "job": {
+    "categories": [
+      "資料工程師",
+      "AI工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "【工作內容】\n模型部署與效能評測：在 Kubernetes 上部署與測試新發布的開源模型（含 BF16 / NVFP4 等不同精度），比較推論效能、成本與品質，找出最適合上線的配置\n模型訓練與微調：依任務需求 finetune 模型——ViT、BERT 類小模型直接用 Python 訓練，LLM 則透過 K8s Job 排程；重點是快速讓現有模型適配客戶場景，而非從零發明架構\n模型服務化：將模型包成 API 部署上線（K8s），交付客戶穩定使用\n客戶方案設計：分析需求後選擇最務實的解法——可能是 prompt engineering + AI Agent / RAG 架構（需比較不同模型表現），必要時才進行 finetune，用最小成本達到目標準確度與回應速度\n多模態應用：不限於 LLM，也會接觸圖像生成、ASR / TTS、影片等模型的部署與應用\n【條件要求】\n必備：\nPython 開發能力，熟悉 PyTorch 或 Hugging Face 生態系\n有實際訓練或微調模型的經驗（規模不拘，side project 亦可，但要能說清楚你做了什麼、為什麼這樣做）\n基本 Docker / Kubernetes 經驗，或有強烈意願快速上手\n懂得評估模型：能設計簡單評測比較模型好壞，而不是憑感覺\n善用 AI 工具開發：我們期待你用 Claude Code、Copilot 等工具加速工作（公司提供 AI 模型用量補助），並持續追蹤新模型動態\n加分：\n用過 vLLM、SGLang、TensorRT-LLM 等推論框架\n有量化（quantization）或推論加速實作經驗\n建置過 RAG、AI Agent 相關系統\n接觸過圖像生成、ASR / TTS、影片生成等非文字模型\n有從需求到上線的完整交付經驗（公司或個人專案皆可）\n【我們在找什麼樣的人】\n這不是研究職，也不是找某個領域鑽十年的專家。我們是 20 人的小團隊，每個人都能碰到完整的技術棧，決策快、迭代快。AI 領域每三個月換一輪工具，我們更看重：\n站在巨人肩膀上：知道什麼時候用現成方案、什麼時候才值得自己動手\n快速迭代：新模型發布一週內就能部署起來測試，而不是等別人寫好教學文\n對潮流敏感：主動把新能力整合進工作流程，持續提升開發速度、回應時間與準確度\n不怕被 AI 取代：因為你就是最會用 AI 的那個人\n如果你曾因為「想試試看」就自己部署過模型、寫過 agent，或用 AI 工具把三天的工作壓縮到半天——投遞時附上你的 GitHub 或作品說明，我們想跟你聊聊。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI 應用工程師（AI Application Engineer）"
+  },
+  "location": {
+    "address_raw": "台北市中正區忠孝東路一段152號",
+    "raw": "台北市中正區忠孝東路一段152號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關",
+          "應用數學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關、應用數學相關"
+      },
+      {
+        "items": [
+          "LLM",
+          "Python",
+          "Prompt",
+          "JavaScript",
+          "Django",
+          "Node.js",
+          "VueJS",
+          "ReactJS",
+          "Sass",
+          "Copilot",
+          "Claude",
+          "Github",
+          "PyTorch",
+          "tensorflow"
+        ],
+        "label": "擅長工具",
+        "text": "LLM、Python、Prompt、JavaScript、Django、Node.js、VueJS、ReactJS、Sass、Copilot、Claude、Github、PyTorch、tensorflow"
+      },
+      {
+        "items": [
+          "Machine Learning",
+          "演算法設計",
+          "深度學習",
+          "AI",
+          "語言模型",
+          "CI/CD",
+          "語音轉文字",
+          "流程自動化"
+        ],
+        "label": "工作技能",
+        "text": "Machine Learning、演算法設計、深度學習、AI、語言模型、CI/CD、語音轉文字、流程自動化"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分：\n用過 vLLM、SGLang、TensorRT-LLM 等推論框架\n有量化（quantization）或推論加速實作經驗\n建置過 RAG、AI Agent 相關系統\n接觸過圖像生成、ASR / TTS、影片生成等非文字模型\n有從需求到上線的完整交付經驗（公司或個人專案皆可）"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關",
+      "應用數學相關"
+    ],
+    "other_text": "加分：\n用過 vLLM、SGLang、TensorRT-LLM 等推論框架\n有量化（quantization）或推論加速實作經驗\n建置過 RAG、AI Agent 相關系統\n接觸過圖像生成、ASR / TTS、影片生成等非文字模型\n有從需求到上線的完整交付經驗（公司或個人專案皆可）",
+    "skills": [
+      "Machine Learning",
+      "演算法設計",
+      "深度學習",
+      "AI",
+      "語言模型",
+      "CI/CD",
+      "語音轉文字",
+      "流程自動化"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、應用數學相關\n擅長工具：LLM、Python、Prompt、JavaScript、Django、Node.js、VueJS、ReactJS、Sass、Copilot、Claude、Github、PyTorch、tensorflow\n工作技能：Machine Learning、演算法設計、深度學習、AI、語言模型、CI/CD、語音轉文字、流程自動化\n其他條件：加分：\n用過 vLLM、SGLang、TensorRT-LLM 等推論框架\n有量化（quantization）或推論加速實作經驗\n建置過 RAG、AI Agent 相關系統\n接觸過圖像生成、ASR / TTS、影片生成等非文字模型\n有從需求到上線的完整交付經驗（公司或個人專案皆可）",
+    "tools": [
+      "LLM",
+      "Python",
+      "Prompt",
+      "JavaScript",
+      "Django",
+      "Node.js",
+      "VueJS",
+      "ReactJS",
+      "Sass",
+      "Copilot",
+      "Claude",
+      "Github",
+      "PyTorch",
+      "tensorflow"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:05:40+08:00"
+  },
+  "salary": {
+    "raw": "月薪65,000~75,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n模型部署與效能評測：在 Kubernetes 上部署與測試新發布的開源模型（含 BF16 / NVFP4 等不同精度），比較推論效能、成本與品質，找出最適合上線的配置\n模型訓練與微調：依任務需求 finetune 模型——ViT、BERT 類小模型直接用 Python 訓練，LLM 則透過 K8s Job 排程；重點是快速讓現有模型適配客戶場景，而非從零發明架構\n模型服務化：將模型包成 API 部署上線（K8s），交付客戶穩定使用\n客戶方案設計：分析需求後選擇最務實的解法——可能是 prompt engineering + AI Agent / RAG 架構（需比較不同模型表現），必要時才進行 finetune，用最小成本達到目標準確度與回應速度\n多模態應用：不限於 LLM，也會接觸圖像生成、ASR / TTS、影片等模型的部署與應用\n【條件要求】\n必備：\nPython 開發能力，熟悉 PyTorch 或 Hugging Face 生態系\n有實際訓練或微調模型的經驗（規模不拘，side project 亦可，但要能說清楚你做了什麼、為什麼這樣做）\n基本 Docker / Kubernetes 經驗，或有強烈意願快速上手\n懂得評估模型：能設計簡單評測比較模型好壞，而不是憑感覺\n善用 AI 工具開發：我們期待你用 Claude Code、Copilot 等工具加速工作（公司提供 AI 模型用量補助），並持續追蹤新模型動態\n加分：\n用過 vLLM、SGLang、TensorRT-LLM 等推論框架\n有量化（quantization）或推論加速實作經驗\n建置過 RAG、AI Agent 相關系統\n接觸過圖像生成、ASR / TTS、影片生成等非文字模型\n有從需求到上線的完整交付經驗（公司或個人專案皆可）\n【我們在找什麼樣的人】\n這不是研究職，也不是找某個領域鑽十年的專家。我們是 20 人的小團隊，每個人都能碰到完整的技術棧，決策快、迭代快。AI 領域每三個月換一輪工具，我們更看重：\n站在巨人肩膀上：知道什麼時候用現成方案、什麼時候才值得自己動手\n快速迭代：新模型發布一週內就能部署起來測試，而不是等別人寫好教學文\n對潮流敏感：主動把新能力整合進工作流程，持續提升開發速度、回應時間與準確度\n不怕被 AI 取代：因為你就是最會用 AI 的那個人\n如果你曾因為「想試試看」就自己部署過模型、寫過 agent，或用 AI 工具把三天的工作壓縮到半天——投遞時附上你的 GitHub 或作品說明，我們想跟你聊聊。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "資料工程師",
+            "AI工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "資料工程師、AI工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪65,000~75,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區忠孝東路一段152號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n模型部署與效能評測：在 Kubernetes 上部署與測試新發布的開源模型（含 BF16 / NVFP4 等不同精度），比較推論效能、成本與品質，找出最適合上線的配置\n模型訓練與微調：依任務需求 finetune 模型——ViT、BERT 類小模型直接用 Python 訓練，LLM 則透過 K8s Job 排程；重點是快速讓現有模型適配客戶場景，而非從零發明架構\n模型服務化：將模型包成 API 部署上線（K8s），交付客戶穩定使用\n客戶方案設計：分析需求後選擇最務實的解法——可能是 prompt engineering + AI Agent / RAG 架構（需比較不同模型表現），必要時才進行 finetune，用最小成本達到目標準確度與回應速度\n多模態應用：不限於 LLM，也會接觸圖像生成、ASR / TTS、影片等模型的部署與應用\n【條件要求】\n必備：\nPython 開發能力，熟悉 PyTorch 或 Hugging Face 生態系\n有實際訓練或微調模型的經驗（規模不拘，side project 亦可，但要能說清楚你做了什麼、為什麼這樣做）\n基本 Docker / Kubernetes 經驗，或有強烈意願快速上手\n懂得評估模型：能設計簡單評測比較模型好壞，而不是憑感覺\n善用 AI 工具開發：我們期待你用 Claude Code、Copilot 等工具加速工作（公司提供 AI 模型用量補助），並持續追蹤新模型動態\n加分：\n用過 vLLM、SGLang、TensorRT-LLM 等推論框架\n有量化（quantization）或推論加速實作經驗\n建置過 RAG、AI Agent 相關系統\n接觸過圖像生成、ASR / TTS、影片生成等非文字模型\n有從需求到上線的完整交付經驗（公司或個人專案皆可）\n【我們在找什麼樣的人】\n這不是研究職，也不是找某個領域鑽十年的專家。我們是 20 人的小團隊，每個人都能碰到完整的技術棧，決策快、迭代快。AI 領域每三個月換一輪工具，我們更看重：\n站在巨人肩膀上：知道什麼時候用現成方案、什麼時候才值得自己動手\n快速迭代：新模型發布一週內就能部署起來測試，而不是等別人寫好教學文\n對潮流敏感：主動把新能力整合進工作流程，持續提升開發速度、回應時間與準確度\n不怕被 AI 取代：因為你就是最會用 AI 的那個人\n如果你曾因為「想試試看」就自己部署過模型、寫過 agent，或用 AI 工具把三天的工作壓縮到半天——投遞時附上你的 GitHub 或作品說明，我們想跟你聊聊。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關",
+            "應用數學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關、應用數學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "LLM",
+            "Python",
+            "Prompt",
+            "JavaScript",
+            "Django",
+            "Node.js",
+            "VueJS",
+            "ReactJS",
+            "Sass",
+            "Copilot",
+            "Claude",
+            "Github",
+            "PyTorch",
+            "tensorflow"
+          ],
+          "label": "擅長工具",
+          "text": "LLM、Python、Prompt、JavaScript、Django、Node.js、VueJS、ReactJS、Sass、Copilot、Claude、Github、PyTorch、tensorflow",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Machine Learning",
+            "演算法設計",
+            "深度學習",
+            "AI",
+            "語言模型",
+            "CI/CD",
+            "語音轉文字",
+            "流程自動化"
+          ],
+          "label": "工作技能",
+          "text": "Machine Learning、演算法設計、深度學習、AI、語言模型、CI/CD、語音轉文字、流程自動化",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分：\n用過 vLLM、SGLang、TensorRT-LLM 等推論框架\n有量化（quantization）或推論加速實作經驗\n建置過 RAG、AI Agent 相關系統\n接觸過圖像生成、ASR / TTS、影片生成等非文字模型\n有從需求到上線的完整交付經驗（公司或個人專案皆可）",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、應用數學相關\n擅長工具：LLM、Python、Prompt、JavaScript、Django、Node.js、VueJS、ReactJS、Sass、Copilot、Claude、Github、PyTorch、tensorflow\n工作技能：Machine Learning、演算法設計、深度學習、AI、語言模型、CI/CD、語音轉文字、流程自動化\n其他條件：加分：\n用過 vLLM、SGLang、TensorRT-LLM 等推論框架\n有量化（quantization）或推論加速實作經驗\n建置過 RAG、AI Agent 相關系統\n接觸過圖像生成、ASR / TTS、影片生成等非文字模型\n有從需求到上線的完整交付經驗（公司或個人專案皆可）"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "919i1",
+    "job_url": "https://www.104.com.tw/job/919i1",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/919i1.json",
+    "raw_sha256": "da1660fa600a0dbde83a407a1d717c439b5f5d25759093d149b9d079b37dc055",
+    "requested_url": "https://www.104.com.tw/api/jobs/919i1"
+  }
+}

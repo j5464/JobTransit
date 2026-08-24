@@ -1,0 +1,186 @@
+{
+  "company": {
+    "id": "1a2x6bl6w7",
+    "name": "發生建築有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "電腦繪圖人員",
+      "視覺設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "參與建築與城市設計的早期構想、形態生成與環境策略研究"
+        },
+        {
+          "children": [],
+          "text": "運用 AI、參數化與環境分析工具，探索光、風、材料與空間的互動關係"
+        },
+        {
+          "children": [],
+          "text": "研究並優化 AI 與建築設計結合的工作流程，參與 AI 設計方法論的開發與測試"
+        },
+        {
+          "children": [],
+          "text": "運用生成式 AI 工具，將技術成果轉化為具敘事性與詩意的建築表達"
+        },
+        {
+          "children": [],
+          "text": "跨領域協作，參與設計研究與實驗性專案"
+        }
+      ],
+      "text": "主要職責\n1.參與建築與城市設計的早期構想、形態生成與環境策略研究\n2.運用 AI、參數化與環境分析工具，探索光、風、材料與空間的互動關係\n3.研究並優化 AI 與建築設計結合的工作流程，參與 AI 設計方法論的開發與測試\n4.運用生成式 AI 工具，將技術成果轉化為具敘事性與詩意的建築表達\n5.跨領域協作，參與設計研究與實驗性專案\n基本要求\n3–6 年以上 AI / Computer Vision / Generative AI 經驗；很強的 2–3 年候選人也可以。\n熟練 Python、PyTorch。\n真正做過 image generation / image editing，不只是呼叫 API。\n熟悉至少一套 diffusion / flow model：\nFLUX\nStable Diffusion / SDXL\nDiffusers\nComfyUI\n有實際 LoRA / fine-tuning / ControlNet / image conditioning 經驗。\n理解：\nDepth\nNormal map\nEdge / Canny\nSegmentation\nMask / inpainting\nMulti-reference image\n能自己建立 inference pipeline，而不是完全依賴 Midjourney、ChatGPT API。\n有 GPU deployment 經驗：CUDA、VRAM optimization、batching、quantization。\n熟悉 Git / Docker / Linux。\n能處理：\nRhino screenshot / clay render → AI rendering\n能解決建築 AI 最大問題：\n保持 geometry、camera、window、floor、column 不亂掉。\n能建立：\nRhino / Revit → depth / normal / material ID → AI\n的 pipeline。\n能訓練公司自己的 LoRA / style model / project-specific model。\n能建立 private dataset，不讓資料流入第三方訓練。\n對 image similarity、consistency、design iteration 有理解。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI 設計師 Generative AI Engineer – Architecture / Image"
+  },
+  "location": {
+    "address_raw": "台北市大安區信義路三段109之7號4樓",
+    "raw": "台北市大安區信義路三段109之7號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "AI",
+          "演算法設計",
+          "電腦繪圖軟體操作",
+          "設計表現能力",
+          "視覺設計相關知識",
+          "繪圖工具與軟體操作"
+        ],
+        "label": "工作技能",
+        "text": "AI、演算法設計、電腦繪圖軟體操作、設計表現能力、視覺設計相關知識、繪圖工具與軟體操作"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "AI",
+      "演算法設計",
+      "電腦繪圖軟體操作",
+      "設計表現能力",
+      "視覺設計相關知識",
+      "繪圖工具與軟體操作"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n工作技能：AI、演算法設計、電腦繪圖軟體操作、設計表現能力、視覺設計相關知識、繪圖工具與軟體操作",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 34
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:46:03+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "主要職責\n1.參與建築與城市設計的早期構想、形態生成與環境策略研究\n2.運用 AI、參數化與環境分析工具，探索光、風、材料與空間的互動關係\n3.研究並優化 AI 與建築設計結合的工作流程，參與 AI 設計方法論的開發與測試\n4.運用生成式 AI 工具，將技術成果轉化為具敘事性與詩意的建築表達\n5.跨領域協作，參與設計研究與實驗性專案\n基本要求\n3–6 年以上 AI / Computer Vision / Generative AI 經驗；很強的 2–3 年候選人也可以。\n熟練 Python、PyTorch。\n真正做過 image generation / image editing，不只是呼叫 API。\n熟悉至少一套 diffusion / flow model：\nFLUX\nStable Diffusion / SDXL\nDiffusers\nComfyUI\n有實際 LoRA / fine-tuning / ControlNet / image conditioning 經驗。\n理解：\nDepth\nNormal map\nEdge / Canny\nSegmentation\nMask / inpainting\nMulti-reference image\n能自己建立 inference pipeline，而不是完全依賴 Midjourney、ChatGPT API。\n有 GPU deployment 經驗：CUDA、VRAM optimization、batching、quantization。\n熟悉 Git / Docker / Linux。\n能處理：\nRhino screenshot / clay render → AI rendering\n能解決建築 AI 最大問題：\n保持 geometry、camera、window、floor、column 不亂掉。\n能建立：\nRhino / Revit → depth / normal / material ID → AI\n的 pipeline。\n能訓練公司自己的 LoRA / style model / project-specific model。\n能建立 private dataset，不讓資料流入第三方訓練。\n對 image similarity、consistency、design iteration 有理解。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "電腦繪圖人員",
+            "視覺設計師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、電腦繪圖人員、視覺設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區信義路三段109之7號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "主要職責\n1.參與建築與城市設計的早期構想、形態生成與環境策略研究\n2.運用 AI、參數化與環境分析工具，探索光、風、材料與空間的互動關係\n3.研究並優化 AI 與建築設計結合的工作流程，參與 AI 設計方法論的開發與測試\n4.運用生成式 AI 工具，將技術成果轉化為具敘事性與詩意的建築表達\n5.跨領域協作，參與設計研究與實驗性專案\n基本要求\n3–6 年以上 AI / Computer Vision / Generative AI 經驗；很強的 2–3 年候選人也可以。\n熟練 Python、PyTorch。\n真正做過 image generation / image editing，不只是呼叫 API。\n熟悉至少一套 diffusion / flow model：\nFLUX\nStable Diffusion / SDXL\nDiffusers\nComfyUI\n有實際 LoRA / fine-tuning / ControlNet / image conditioning 經驗。\n理解：\nDepth\nNormal map\nEdge / Canny\nSegmentation\nMask / inpainting\nMulti-reference image\n能自己建立 inference pipeline，而不是完全依賴 Midjourney、ChatGPT API。\n有 GPU deployment 經驗：CUDA、VRAM optimization、batching、quantization。\n熟悉 Git / Docker / Linux。\n能處理：\nRhino screenshot / clay render → AI rendering\n能解決建築 AI 最大問題：\n保持 geometry、camera、window、floor、column 不亂掉。\n能建立：\nRhino / Revit → depth / normal / material ID → AI\n的 pipeline。\n能訓練公司自己的 LoRA / style model / project-specific model。\n能建立 private dataset，不讓資料流入第三方訓練。\n對 image similarity、consistency、design iteration 有理解。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "演算法設計",
+            "電腦繪圖軟體操作",
+            "設計表現能力",
+            "視覺設計相關知識",
+            "繪圖工具與軟體操作"
+          ],
+          "label": "工作技能",
+          "text": "AI、演算法設計、電腦繪圖軟體操作、設計表現能力、視覺設計相關知識、繪圖工具與軟體操作",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n工作技能：AI、演算法設計、電腦繪圖軟體操作、設計表現能力、視覺設計相關知識、繪圖工具與軟體操作"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8uuxw",
+    "job_url": "https://www.104.com.tw/job/8uuxw",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8uuxw.json",
+    "raw_sha256": "4d2f8d5355b818c8728e8229f231654fb4bc9d88a400e51ec15891d7a9ea30af",
+    "requested_url": "https://www.104.com.tw/api/jobs/8uuxw"
+  }
+}

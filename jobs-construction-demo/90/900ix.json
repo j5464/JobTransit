@@ -1,0 +1,234 @@
+{
+  "company": {
+    "id": "18nkzols",
+    "name": "弘如企業有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "軟體專案主管",
+      "數據分析師／資料分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "中台架構設計： 規劃並實作 API Gateway，打通現有 Legacy ERP 與未來雲端/邊緣系統的資料孤島。"
+        },
+        {
+          "children": [],
+          "text": "異質系統整合： 負責 WMS 倉儲、APS 排程與 IoT 機聯網的通訊協定整合 (RESTful API, MQTT, gRPC)。"
+        },
+        {
+          "children": [],
+          "text": "資安防禦： 建置跨國廠區與衛星廠連線的零信任架構，確保 IPO 稽核等級的資訊安全。"
+        },
+        {
+          "children": [],
+          "text": "技術團隊 Lead： 帶領內部特遣隊開發，並負責控管外部軟體供應商的交付品質與架構審查。"
+        },
+        {
+          "children": [],
+          "text": "其他本司現有IT任務"
+        }
+      ],
+      "text": "你是這支特種部隊的大腦。弘如即將把封閉的傳統 ERP 走向微服務化，並串接現場 MES 與 WMS。我們需要你來畫出這張系統藍圖，建立 API 中介層，並確保供應鏈聯網的零信任資安 (Zero-Trust)。你將直接對 EVP 負責，主導千萬級別的科專系統架構。\n【你的戰場 (Key Responsibilities)】\n1. 中台架構設計： 規劃並實作 API Gateway，打通現有 Legacy ERP 與未來雲端/邊緣系統的資料孤島。\n2. 異質系統整合： 負責 WMS 倉儲、APS 排程與 IoT 機聯網的通訊協定整合 (RESTful API, MQTT, gRPC)。\n3. 資安防禦： 建置跨國廠區與衛星廠連線的零信任架構，確保 IPO 稽核等級的資訊安全。\n4. 技術團隊 Lead： 帶領內部特遣隊開發，並負責控管外部軟體供應商的交付品質與架構審查。\n5. 其他本司現有IT任務"
+    },
+    "employment_type_raw": "全職",
+    "title": "【EVP直屬】數位轉型經理 / 首席企業雲端架構師 (Cloud Architect)"
+  },
+  "location": {
+    "address_raw": "新北市樹林區東豐街49巷42之2號",
+    "raw": "新北市樹林區東豐街49巷42之2號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他商業及管理相關",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他商業及管理相關、工程學科類"
+      },
+      {
+        "items": [
+          "鼎新",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "鼎新、MS SQL"
+      },
+      {
+        "items": [
+          "系統整合分析",
+          "系統導入",
+          "資料庫軟體應用",
+          "資料庫系統管理維護"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析、系統導入、資料庫軟體應用、資料庫系統管理維護"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【我們希望你具備 (Requirements)】\n• 5 年以上中大型系統架構經驗，熟稔微服務 (Microservices) 架構與 Cloud Native 開發。\n• 具備 AWS / Azure / GCP 等公有雲架構規劃與 Cloud FinOps 實務經驗。\n• 精通關聯式 (SQL) 與非關聯式 (NoSQL) 資料庫，懂 ETL 數據清洗尤佳。\n• 具備「系統重構 (Refactoring)」的勇氣與「不被舊有流程綁架」的魄力。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "其他商業及管理相關",
+      "工程學科類"
+    ],
+    "other_text": "【我們希望你具備 (Requirements)】\n• 5 年以上中大型系統架構經驗，熟稔微服務 (Microservices) 架構與 Cloud Native 開發。\n• 具備 AWS / Azure / GCP 等公有雲架構規劃與 Cloud FinOps 實務經驗。\n• 精通關聯式 (SQL) 與非關聯式 (NoSQL) 資料庫，懂 ETL 數據清洗尤佳。\n• 具備「系統重構 (Refactoring)」的勇氣與「不被舊有流程綁架」的魄力。",
+    "skills": [
+      "系統整合分析",
+      "系統導入",
+      "資料庫軟體應用",
+      "資料庫系統管理維護"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他商業及管理相關、工程學科類\n擅長工具：鼎新、MS SQL\n工作技能：系統整合分析、系統導入、資料庫軟體應用、資料庫系統管理維護\n其他條件：【我們希望你具備 (Requirements)】\n• 5 年以上中大型系統架構經驗，熟稔微服務 (Microservices) 架構與 Cloud Native 開發。\n• 具備 AWS / Azure / GCP 等公有雲架構規劃與 Cloud FinOps 實務經驗。\n• 精通關聯式 (SQL) 與非關聯式 (NoSQL) 資料庫，懂 ETL 數據清洗尤佳。\n• 具備「系統重構 (Refactoring)」的勇氣與「不被舊有流程綁架」的魄力。",
+    "tools": [
+      "鼎新",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 42
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:05:34+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "你是這支特種部隊的大腦。弘如即將把封閉的傳統 ERP 走向微服務化，並串接現場 MES 與 WMS。我們需要你來畫出這張系統藍圖，建立 API 中介層，並確保供應鏈聯網的零信任資安 (Zero-Trust)。你將直接對 EVP 負責，主導千萬級別的科專系統架構。\n【你的戰場 (Key Responsibilities)】\n1. 中台架構設計： 規劃並實作 API Gateway，打通現有 Legacy ERP 與未來雲端/邊緣系統的資料孤島。\n2. 異質系統整合： 負責 WMS 倉儲、APS 排程與 IoT 機聯網的通訊協定整合 (RESTful API, MQTT, gRPC)。\n3. 資安防禦： 建置跨國廠區與衛星廠連線的零信任架構，確保 IPO 稽核等級的資訊安全。\n4. 技術團隊 Lead： 帶領內部特遣隊開發，並負責控管外部軟體供應商的交付品質與架構審查。\n5. 其他本司現有IT任務",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "軟體專案主管",
+            "數據分析師／資料分析師"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、軟體專案主管、數據分析師／資料分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市樹林區東豐街49巷42之2號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "你是這支特種部隊的大腦。弘如即將把封閉的傳統 ERP 走向微服務化，並串接現場 MES 與 WMS。我們需要你來畫出這張系統藍圖，建立 API 中介層，並確保供應鏈聯網的零信任資安 (Zero-Trust)。你將直接對 EVP 負責，主導千萬級別的科專系統架構。\n【你的戰場 (Key Responsibilities)】\n1. 中台架構設計： 規劃並實作 API Gateway，打通現有 Legacy ERP 與未來雲端/邊緣系統的資料孤島。\n2. 異質系統整合： 負責 WMS 倉儲、APS 排程與 IoT 機聯網的通訊協定整合 (RESTful API, MQTT, gRPC)。\n3. 資安防禦： 建置跨國廠區與衛星廠連線的零信任架構，確保 IPO 稽核等級的資訊安全。\n4. 技術團隊 Lead： 帶領內部特遣隊開發，並負責控管外部軟體供應商的交付品質與架構審查。\n5. 其他本司現有IT任務"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他商業及管理相關",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他商業及管理相關、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "鼎新",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "鼎新、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析",
+            "系統導入",
+            "資料庫軟體應用",
+            "資料庫系統管理維護"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析、系統導入、資料庫軟體應用、資料庫系統管理維護",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【我們希望你具備 (Requirements)】\n• 5 年以上中大型系統架構經驗，熟稔微服務 (Microservices) 架構與 Cloud Native 開發。\n• 具備 AWS / Azure / GCP 等公有雲架構規劃與 Cloud FinOps 實務經驗。\n• 精通關聯式 (SQL) 與非關聯式 (NoSQL) 資料庫，懂 ETL 數據清洗尤佳。\n• 具備「系統重構 (Refactoring)」的勇氣與「不被舊有流程綁架」的魄力。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他商業及管理相關、工程學科類\n擅長工具：鼎新、MS SQL\n工作技能：系統整合分析、系統導入、資料庫軟體應用、資料庫系統管理維護\n其他條件：【我們希望你具備 (Requirements)】\n• 5 年以上中大型系統架構經驗，熟稔微服務 (Microservices) 架構與 Cloud Native 開發。\n• 具備 AWS / Azure / GCP 等公有雲架構規劃與 Cloud FinOps 實務經驗。\n• 精通關聯式 (SQL) 與非關聯式 (NoSQL) 資料庫，懂 ETL 數據清洗尤佳。\n• 具備「系統重構 (Refactoring)」的勇氣與「不被舊有流程綁架」的魄力。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "900ix",
+    "job_url": "https://www.104.com.tw/job/900ix",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/900ix.json",
+    "raw_sha256": "8549ed0c294c6476a136b016aae16917c2b65e8ef88daa1b7bf7a72337686cf3",
+    "requested_url": "https://www.104.com.tw/api/jobs/900ix"
+  }
+}

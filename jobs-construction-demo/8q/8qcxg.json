@@ -1,0 +1,250 @@
+{
+  "company": {
+    "id": "1a2x6bkjaz",
+    "name": "桓竑智聯股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "通訊軟體工程師",
+      "Android工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "配合公司專案規劃，進行 Android 應用程式產品規劃、開發與除錯"
+        },
+        {
+          "children": [],
+          "text": "處理應用程式上架至 Google Play Store 相關事宜"
+        },
+        {
+          "children": [],
+          "text": "配合各類後台 API 串接開發與資料庫應用"
+        },
+        {
+          "children": [],
+          "text": "規劃與開發自有 SDK 產品之功能模組"
+        },
+        {
+          "children": [],
+          "text": "團隊溝通協調意願高"
+        },
+        {
+          "children": [],
+          "text": "以 Markdown 格式與 Dokka 工具編寫相關開發文檔、技術資料等"
+        },
+        {
+          "children": [],
+          "text": "具有 Linux 網路產品開發經驗，或熟悉 Linux 網路底層原理與實作。"
+        },
+        {
+          "children": [],
+          "text": "具有影音串流產品開發經驗，或熟悉影音相關編解碼技術。"
+        },
+        {
+          "children": [],
+          "text": "具有後端開發經驗或雲端服務相關經驗。"
+        },
+        {
+          "children": [],
+          "text": "具有 flutter 應用程式開發經驗。"
+        }
+      ],
+      "text": "【創建自有產品，面向大型金融業者、智慧裝置業者，創新型態通訊應用開發】\n桓竑智聯（IHH）致力於創新且持續優化視訊技術，為「\"需要透過視訊創造商業價值\"的企業」提供具備成本效益、高資訊安全的解決方案（arctos）。讓arctos成為「視訊應用、通訊與協作」的領導品牌。就技術面，我們專注於「視訊通訊系統工具開發」與「為智慧裝置應用導入影音傳輸和互動功能」的解決方案商，自主研發的通訊SDK專利建立在高度安全、去中心化的傳輸架構之上，當前已落地應用於金融、醫療，以及各類需保障隱私的場景。\n我們的APP開發團隊以 Kotlin 為主軸，積極導入 flutter 等新技術，持續探索更高效、更可維護的架構與開發流程。\n【需求人數】 1人\n【日常工作】\n1. 配合公司專案規劃，進行 Android 應用程式產品規劃、開發與除錯\n2. 處理應用程式上架至 Google Play Store 相關事宜\n3. 配合各類後台 API 串接開發與資料庫應用\n4. 規劃與開發自有 SDK 產品之功能模組\n5. 團隊溝通協調意願高\n6. 以 Markdown 格式與 Dokka 工具編寫相關開發文檔、技術資料等\n【能力要求】\n工作經驗：不拘\n學歷要求：大學以上\n科系要求：未要求\n擅長工具：\nAndroid\nKotlin\nJava\nGit\nC\nTCP/IP\n必須熟悉 git 版本控管\n必須熟悉 Kotlin 語言\n【加分條件。符合其中任一項均可具備優先和加分】\n1. 具有 Linux 網路產品開發經驗，或熟悉 Linux 網路底層原理與實作。\n2. 具有影音串流產品開發經驗，或熟悉影音相關編解碼技術。\n3. 具有後端開發經驗或雲端服務相關經驗。\n4. 具有 flutter 應用程式開發經驗。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Android APP 工程師"
+  },
+  "location": {
+    "address_raw": "台北市大安區敦化南路二段二號六樓",
+    "raw": "台北市大安區敦化南路二段二號六樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "4年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "4年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Android",
+          "Kotlin",
+          "Java",
+          "Git",
+          "C",
+          "TCP/IP",
+          "Flutter",
+          "Dart"
+        ],
+        "label": "擅長工具",
+        "text": "Android、Kotlin、Java、Git、C、TCP/IP、Flutter、Dart"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "網路資料傳輸",
+          "通訊工程技術開發",
+          "資料通訊與網路應用",
+          "軟體程式設計",
+          "網路程式設計",
+          "模組化系統設計",
+          "系統整合分析"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、網路資料傳輸、通訊工程技術開發、資料通訊與網路應用、軟體程式設計、網路程式設計、模組化系統設計、系統整合分析"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體工程系統開發",
+      "網路資料傳輸",
+      "通訊工程技術開發",
+      "資料通訊與網路應用",
+      "軟體程式設計",
+      "網路程式設計",
+      "模組化系統設計",
+      "系統整合分析"
+    ],
+    "text": "工作經歷：4年以上\n學歷要求：大學以上\n擅長工具：Android、Kotlin、Java、Git、C、TCP/IP、Flutter、Dart\n工作技能：軟體工程系統開發、網路資料傳輸、通訊工程技術開發、資料通訊與網路應用、軟體程式設計、網路程式設計、模組化系統設計、系統整合分析",
+    "tools": [
+      "Android",
+      "Kotlin",
+      "Java",
+      "Git",
+      "C",
+      "TCP/IP",
+      "Flutter",
+      "Dart"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 3
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:26:48+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000~100,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【創建自有產品，面向大型金融業者、智慧裝置業者，創新型態通訊應用開發】\n桓竑智聯（IHH）致力於創新且持續優化視訊技術，為「\"需要透過視訊創造商業價值\"的企業」提供具備成本效益、高資訊安全的解決方案（arctos）。讓arctos成為「視訊應用、通訊與協作」的領導品牌。就技術面，我們專注於「視訊通訊系統工具開發」與「為智慧裝置應用導入影音傳輸和互動功能」的解決方案商，自主研發的通訊SDK專利建立在高度安全、去中心化的傳輸架構之上，當前已落地應用於金融、醫療，以及各類需保障隱私的場景。\n我們的APP開發團隊以 Kotlin 為主軸，積極導入 flutter 等新技術，持續探索更高效、更可維護的架構與開發流程。\n【需求人數】 1人\n【日常工作】\n1. 配合公司專案規劃，進行 Android 應用程式產品規劃、開發與除錯\n2. 處理應用程式上架至 Google Play Store 相關事宜\n3. 配合各類後台 API 串接開發與資料庫應用\n4. 規劃與開發自有 SDK 產品之功能模組\n5. 團隊溝通協調意願高\n6. 以 Markdown 格式與 Dokka 工具編寫相關開發文檔、技術資料等\n【能力要求】\n工作經驗：不拘\n學歷要求：大學以上\n科系要求：未要求\n擅長工具：\nAndroid\nKotlin\nJava\nGit\nC\nTCP/IP\n必須熟悉 git 版本控管\n必須熟悉 Kotlin 語言\n【加分條件。符合其中任一項均可具備優先和加分】\n1. 具有 Linux 網路產品開發經驗，或熟悉 Linux 網路底層原理與實作。\n2. 具有影音串流產品開發經驗，或熟悉影音相關編解碼技術。\n3. 具有後端開發經驗或雲端服務相關經驗。\n4. 具有 flutter 應用程式開發經驗。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "通訊軟體工程師",
+            "Android工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、通訊軟體工程師、Android工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000~100,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區敦化南路二段二號六樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【創建自有產品，面向大型金融業者、智慧裝置業者，創新型態通訊應用開發】\n桓竑智聯（IHH）致力於創新且持續優化視訊技術，為「\"需要透過視訊創造商業價值\"的企業」提供具備成本效益、高資訊安全的解決方案（arctos）。讓arctos成為「視訊應用、通訊與協作」的領導品牌。就技術面，我們專注於「視訊通訊系統工具開發」與「為智慧裝置應用導入影音傳輸和互動功能」的解決方案商，自主研發的通訊SDK專利建立在高度安全、去中心化的傳輸架構之上，當前已落地應用於金融、醫療，以及各類需保障隱私的場景。\n我們的APP開發團隊以 Kotlin 為主軸，積極導入 flutter 等新技術，持續探索更高效、更可維護的架構與開發流程。\n【需求人數】 1人\n【日常工作】\n1. 配合公司專案規劃，進行 Android 應用程式產品規劃、開發與除錯\n2. 處理應用程式上架至 Google Play Store 相關事宜\n3. 配合各類後台 API 串接開發與資料庫應用\n4. 規劃與開發自有 SDK 產品之功能模組\n5. 團隊溝通協調意願高\n6. 以 Markdown 格式與 Dokka 工具編寫相關開發文檔、技術資料等\n【能力要求】\n工作經驗：不拘\n學歷要求：大學以上\n科系要求：未要求\n擅長工具：\nAndroid\nKotlin\nJava\nGit\nC\nTCP/IP\n必須熟悉 git 版本控管\n必須熟悉 Kotlin 語言\n【加分條件。符合其中任一項均可具備優先和加分】\n1. 具有 Linux 網路產品開發經驗，或熟悉 Linux 網路底層原理與實作。\n2. 具有影音串流產品開發經驗，或熟悉影音相關編解碼技術。\n3. 具有後端開發經驗或雲端服務相關經驗。\n4. 具有 flutter 應用程式開發經驗。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "4年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Android",
+            "Kotlin",
+            "Java",
+            "Git",
+            "C",
+            "TCP/IP",
+            "Flutter",
+            "Dart"
+          ],
+          "label": "擅長工具",
+          "text": "Android、Kotlin、Java、Git、C、TCP/IP、Flutter、Dart",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "網路資料傳輸",
+            "通訊工程技術開發",
+            "資料通訊與網路應用",
+            "軟體程式設計",
+            "網路程式設計",
+            "模組化系統設計",
+            "系統整合分析"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、網路資料傳輸、通訊工程技術開發、資料通訊與網路應用、軟體程式設計、網路程式設計、模組化系統設計、系統整合分析",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：4年以上\n學歷要求：大學以上\n擅長工具：Android、Kotlin、Java、Git、C、TCP/IP、Flutter、Dart\n工作技能：軟體工程系統開發、網路資料傳輸、通訊工程技術開發、資料通訊與網路應用、軟體程式設計、網路程式設計、模組化系統設計、系統整合分析"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8qcxg",
+    "job_url": "https://www.104.com.tw/job/8qcxg",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8qcxg.json",
+    "raw_sha256": "cfabd9910aa9ed41584eb884ec1b7b80c131ef801587449a1c352463f30bc7c4",
+    "requested_url": "https://www.104.com.tw/api/jobs/8qcxg"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "company": {
+    "id": "1a2x6bnan4",
+    "name": "先悅資訊有限公司"
+  },
+  "job": {
+    "categories": [
+      "Android工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責開發/維護銀行主要APP"
+        },
+        {
+          "children": [],
+          "text": "與ScrumTeam（包含PM、設計、Backend）共同努力完成每一張Backlog"
+        },
+        {
+          "children": [],
+          "text": "具備開發DAU（Dailyactiveuser）3,000人次以上APP經驗"
+        },
+        {
+          "children": [],
+          "text": "對金融產品有興趣"
+        },
+        {
+          "children": [],
+          "text": "有Scrum經驗佳"
+        }
+      ],
+      "text": "[工作內容］\n1.負責開發/維護銀行主要APP\n（熱悉：Native開發、Kotlin、MVP架構）\n2.與ScrumTeam（包含PM、設計、Backend）共同努力完成每一張Backlog\n[技術條件]\n1.具備開發DAU（Dailyactiveuser）3,000人次以上APP經驗\n2.對金融產品有興趣\n3.有Scrum經驗佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "Android工程師"
+  },
+  "location": {
+    "address_raw": "台北市信義區",
+    "raw": "台北市信義區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "Kotlin",
+          "Android"
+        ],
+        "label": "擅長工具",
+        "text": "Kotlin、Android"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "* 需事先填寫筆試作業"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "* 需事先填寫筆試作業",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：不拘\n擅長工具：Kotlin、Android\n其他條件：* 需事先填寫筆試作業",
+    "tools": [
+      "Kotlin",
+      "Android"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 82
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:45:06+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "[工作內容］\n1.負責開發/維護銀行主要APP\n（熱悉：Native開發、Kotlin、MVP架構）\n2.與ScrumTeam（包含PM、設計、Backend）共同努力完成每一張Backlog\n[技術條件]\n1.具備開發DAU（Dailyactiveuser）3,000人次以上APP經驗\n2.對金融產品有興趣\n3.有Scrum經驗佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Android工程師"
+          ],
+          "label": "職務類別",
+          "text": "Android工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "[工作內容］\n1.負責開發/維護銀行主要APP\n（熱悉：Native開發、Kotlin、MVP架構）\n2.與ScrumTeam（包含PM、設計、Backend）共同努力完成每一張Backlog\n[技術條件]\n1.具備開發DAU（Dailyactiveuser）3,000人次以上APP經驗\n2.對金融產品有興趣\n3.有Scrum經驗佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Kotlin",
+            "Android"
+          ],
+          "label": "擅長工具",
+          "text": "Kotlin、Android",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "* 需事先填寫筆試作業",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：不拘\n擅長工具：Kotlin、Android\n其他條件：* 需事先填寫筆試作業"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "93bkr",
+    "job_url": "https://www.104.com.tw/job/93bkr",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93bkr.json",
+    "raw_sha256": "d1c0b2cd049fe7c0d94c5a3b81f32668ea674155abc3fa6cc2ff529cd219e0a4",
+    "requested_url": "https://www.104.com.tw/api/jobs/93bkr"
+  }
+}

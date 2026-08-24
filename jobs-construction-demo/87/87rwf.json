@@ -1,0 +1,218 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "PCIe/NVME 韌體設計與開發"
+        },
+        {
+          "children": [],
+          "text": "FTL 演算法設計"
+        },
+        {
+          "children": [],
+          "text": "FPGA/ASIC驗證"
+        },
+        {
+          "children": [],
+          "text": "驗證程式開發"
+        },
+        {
+          "children": [],
+          "text": "相容性問題與RMA 分析"
+        }
+      ],
+      "text": "1. PCIe/NVME 韌體設計與開發\n2. FTL 演算法設計\n3. FPGA/ASIC驗證\n4. 驗證程式開發\n5. 相容性問題與RMA 分析"
+    },
+    "employment_type_raw": "全職",
+    "title": "韌體工程師0607-台北辦公室"
+  },
+  "location": {
+    "address_raw": "新北市板橋區正隆廣場",
+    "raw": "新北市板橋區正隆廣場"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "電機電子工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、電機電子工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C"
+        ],
+        "label": "擅長工具",
+        "text": "C"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟C,C++\n2.具NAND Flash管理經驗者佳\n3.認真、負責、配合度高\n4.具計算機概論基礎者佳"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "電機電子工程相關",
+      "機械工程相關"
+    ],
+    "other_text": "1.熟C,C++\n2.具NAND Flash管理經驗者佳\n3.認真、負責、配合度高\n4.具計算機概論基礎者佳",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C\n其他條件：1.熟C,C++\n2.具NAND Flash管理經驗者佳\n3.認真、負責、配合度高\n4.具計算機概論基礎者佳",
+    "tools": [
+      "C"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 19
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:09:25+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. PCIe/NVME 韌體設計與開發\n2. FTL 演算法設計\n3. FPGA/ASIC驗證\n4. 驗證程式開發\n5. 相容性問題與RMA 分析",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市板橋區正隆廣場",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. PCIe/NVME 韌體設計與開發\n2. FTL 演算法設計\n3. FPGA/ASIC驗證\n4. 驗證程式開發\n5. 相容性問題與RMA 分析"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "電機電子工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、電機電子工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C"
+          ],
+          "label": "擅長工具",
+          "text": "C",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟C,C++\n2.具NAND Flash管理經驗者佳\n3.認真、負責、配合度高\n4.具計算機概論基礎者佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：資訊工程相關、電機電子工程相關、機械工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C\n其他條件：1.熟C,C++\n2.具NAND Flash管理經驗者佳\n3.認真、負責、配合度高\n4.具計算機概論基礎者佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "87rwf",
+    "job_url": "https://www.104.com.tw/job/87rwf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/87rwf.json",
+    "raw_sha256": "1d0fbaeecdbf44724a33dbc2674aa38b791e2624319c7f2076c684b40f3377b1",
+    "requested_url": "https://www.104.com.tw/api/jobs/87rwf"
+  }
+}

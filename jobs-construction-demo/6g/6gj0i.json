@@ -1,0 +1,264 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Design and implement verification test plan and test case"
+        },
+        {
+          "children": [],
+          "text": "Design and implement enterprise application tool"
+        },
+        {
+          "children": [],
+          "text": "Develop kernel and user space driver"
+        },
+        {
+          "children": [],
+          "text": "Develop PCIe and storage device driver"
+        },
+        {
+          "children": [],
+          "text": "System and kernel driver failure analysis"
+        }
+      ],
+      "text": "*Design and implement verification test plan and test case\n*Design and implement enterprise application tool\n*Develop kernel and user space driver\n*Develop PCIe and storage device driver\n*System and kernel driver failure analysis"
+    },
+    "employment_type_raw": "全職",
+    "title": "Linux Driver開發工程師/架構驗證設計工程師 0608A"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "電機電子工程相關",
+          "物理學相關"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、電機電子工程相關、物理學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "Shell",
+          "Android",
+          "C",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Shell、Android、C、C++、Python"
+      },
+      {
+        "items": [
+          "BIOS程式研發",
+          "韌體工程開發",
+          "軟體程式設計",
+          "韌體程式設計",
+          "微電腦軟體設計"
+        ],
+        "label": "工作技能",
+        "text": "BIOS程式研發、韌體工程開發、軟體程式設計、韌體程式設計、微電腦軟體設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "具備以下經驗者佳\n1.Linux Kernel Driver開發經驗\n2.BSP/Embedded Linux/BMC Firmware開發經驗\n3.Storage或PCIe相關Driver開發經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "數學及電算機科學學科類",
+      "電機電子工程相關",
+      "物理學相關"
+    ],
+    "other_text": "具備以下經驗者佳\n1.Linux Kernel Driver開發經驗\n2.BSP/Embedded Linux/BMC Firmware開發經驗\n3.Storage或PCIe相關Driver開發經驗",
+    "skills": [
+      "BIOS程式研發",
+      "韌體工程開發",
+      "軟體程式設計",
+      "韌體程式設計",
+      "微電腦軟體設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類、電機電子工程相關、物理學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Shell、Android、C、C++、Python\n工作技能：BIOS程式研發、韌體工程開發、軟體程式設計、韌體程式設計、微電腦軟體設計\n其他條件：具備以下經驗者佳\n1.Linux Kernel Driver開發經驗\n2.BSP/Embedded Linux/BMC Firmware開發經驗\n3.Storage或PCIe相關Driver開發經驗",
+    "tools": [
+      "Linux",
+      "Shell",
+      "Android",
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 19
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:07:37+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "*Design and implement verification test plan and test case\n*Design and implement enterprise application tool\n*Develop kernel and user space driver\n*Develop PCIe and storage device driver\n*System and kernel driver failure analysis",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "*Design and implement verification test plan and test case\n*Design and implement enterprise application tool\n*Develop kernel and user space driver\n*Develop PCIe and storage device driver\n*System and kernel driver failure analysis"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "電機電子工程相關",
+            "物理學相關"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、電機電子工程相關、物理學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Shell",
+            "Android",
+            "C",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Shell、Android、C、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "BIOS程式研發",
+            "韌體工程開發",
+            "軟體程式設計",
+            "韌體程式設計",
+            "微電腦軟體設計"
+          ],
+          "label": "工作技能",
+          "text": "BIOS程式研發、韌體工程開發、軟體程式設計、韌體程式設計、微電腦軟體設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "具備以下經驗者佳\n1.Linux Kernel Driver開發經驗\n2.BSP/Embedded Linux/BMC Firmware開發經驗\n3.Storage或PCIe相關Driver開發經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：數學及電算機科學學科類、電機電子工程相關、物理學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、Shell、Android、C、C++、Python\n工作技能：BIOS程式研發、韌體工程開發、軟體程式設計、韌體程式設計、微電腦軟體設計\n其他條件：具備以下經驗者佳\n1.Linux Kernel Driver開發經驗\n2.BSP/Embedded Linux/BMC Firmware開發經驗\n3.Storage或PCIe相關Driver開發經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6gj0i",
+    "job_url": "https://www.104.com.tw/job/6gj0i",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6gj0i.json",
+    "raw_sha256": "135ff7506a9edd75e13c23ee6f77fbbc71b12de5bd5fffa35aaa912bdb05536e",
+    "requested_url": "https://www.104.com.tw/api/jobs/6gj0i"
+  }
+}

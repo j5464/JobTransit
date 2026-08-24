@@ -1,0 +1,242 @@
+{
+  "company": {
+    "id": "ahfsoq0",
+    "name": "廣達電腦股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師",
+      "機器學習工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Build and maintain robotics simulation environments (e.g., Isaac Lab / Isaac Sim), including tasks, sensors, and domain randomization."
+        },
+        {
+          "children": [],
+          "text": "Design, train, and iterate RL/IL control policies for locomotion/manipulation tasks."
+        },
+        {
+          "children": [],
+          "text": "Develop reproducible training pipelines with experiment tracking, logging, and metrics."
+        },
+        {
+          "children": [],
+          "text": "Define evaluation metrics and debug failure cases (reward/curriculum tuning, observation/action refinement)."
+        },
+        {
+          "children": [],
+          "text": "Collaborate cross-functionally to move toward sim-to-real deployment under safety/latency/compute constraints."
+        },
+        {
+          "children": [],
+          "text": "Integrate perception/multimodal inputs into the control pipeline when needed."
+        },
+        {
+          "children": [],
+          "text": "Produce engineering-quality deliverables (codebase, scripts, documentation, benchmarks, demos)."
+        }
+      ],
+      "text": "• Build and maintain robotics simulation environments (e.g., Isaac Lab / Isaac Sim), including tasks, sensors, and domain randomization.\n• Design, train, and iterate RL/IL control policies for locomotion/manipulation tasks.\n• Develop reproducible training pipelines with experiment tracking, logging, and metrics.\n• Define evaluation metrics and debug failure cases (reward/curriculum tuning, observation/action refinement).\n• Collaborate cross-functionally to move toward sim-to-real deployment under safety/latency/compute constraints.\n• Integrate perception/multimodal inputs into the control pipeline when needed.\n• Produce engineering-quality deliverables (codebase, scripts, documentation, benchmarks, demos)."
+    },
+    "employment_type_raw": "全職",
+    "title": "Robotics Reinforcement Learning Engineer - J2559"
+  },
+  "location": {
+    "address_raw": "桃園市龜山區文化二路211號",
+    "raw": "桃園市龜山區文化二路211號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "機械工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、機械工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C++",
+          "Firmware",
+          "MCU",
+          "C",
+          "Python",
+          "Github"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Firmware、MCU、C、Python、Github"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "• Education: BS or MS in Robotics, Computer Science, Machine Learning, or related field.\n• Experience: 1–3 years industry experience or a recent graduate with a strong, hands-on academic portfolio (e.g., thesis/capstone/robotics lab work).\n• Portfolio/Proof of execution: Strong portfolio (GitHub and/or video links) demonstrating RL applied to physical robots or complex simulated environments.\n• Technical stack: Strong Python plus deep learning frameworks (PyTorch or JAX); working knowledge of C++.\n• English: Proficient in English (listening, speaking, reading, writing); TOEIC 650+ preferred.\n• Bonus (Nice to have): Hands-on legged locomotion (quadruped/biped) or robot arm manipulation; experience integrating computer vision or vision-language models into control policies; familiarity with QDD actuators."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "機械工程相關"
+    ],
+    "other_text": "• Education: BS or MS in Robotics, Computer Science, Machine Learning, or related field.\n• Experience: 1–3 years industry experience or a recent graduate with a strong, hands-on academic portfolio (e.g., thesis/capstone/robotics lab work).\n• Portfolio/Proof of execution: Strong portfolio (GitHub and/or video links) demonstrating RL applied to physical robots or complex simulated environments.\n• Technical stack: Strong Python plus deep learning frameworks (PyTorch or JAX); working knowledge of C++.\n• English: Proficient in English (listening, speaking, reading, writing); TOEIC 650+ preferred.\n• Bonus (Nice to have): Hands-on legged locomotion (quadruped/biped) or robot arm manipulation; experience integrating computer vision or vision-language models into control policies; familiarity with QDD actuators.",
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、機械工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Firmware、MCU、C、Python、Github\n其他條件：• Education: BS or MS in Robotics, Computer Science, Machine Learning, or related field.\n• Experience: 1–3 years industry experience or a recent graduate with a strong, hands-on academic portfolio (e.g., thesis/capstone/robotics lab work).\n• Portfolio/Proof of execution: Strong portfolio (GitHub and/or video links) demonstrating RL applied to physical robots or complex simulated environments.\n• Technical stack: Strong Python plus deep learning frameworks (PyTorch or JAX); working knowledge of C++.\n• English: Proficient in English (listening, speaking, reading, writing); TOEIC 650+ preferred.\n• Bonus (Nice to have): Hands-on legged locomotion (quadruped/biped) or robot arm manipulation; experience integrating computer vision or vision-language models into control policies; familiarity with QDD actuators.",
+    "tools": [
+      "C++",
+      "Firmware",
+      "MCU",
+      "C",
+      "Python",
+      "Github"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 23
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:17:53+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "• Build and maintain robotics simulation environments (e.g., Isaac Lab / Isaac Sim), including tasks, sensors, and domain randomization.\n• Design, train, and iterate RL/IL control policies for locomotion/manipulation tasks.\n• Develop reproducible training pipelines with experiment tracking, logging, and metrics.\n• Define evaluation metrics and debug failure cases (reward/curriculum tuning, observation/action refinement).\n• Collaborate cross-functionally to move toward sim-to-real deployment under safety/latency/compute constraints.\n• Integrate perception/multimodal inputs into the control pipeline when needed.\n• Produce engineering-quality deliverables (codebase, scripts, documentation, benchmarks, demos).",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師",
+            "機器學習工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師、機器學習工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市龜山區文化二路211號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "• Build and maintain robotics simulation environments (e.g., Isaac Lab / Isaac Sim), including tasks, sensors, and domain randomization.\n• Design, train, and iterate RL/IL control policies for locomotion/manipulation tasks.\n• Develop reproducible training pipelines with experiment tracking, logging, and metrics.\n• Define evaluation metrics and debug failure cases (reward/curriculum tuning, observation/action refinement).\n• Collaborate cross-functionally to move toward sim-to-real deployment under safety/latency/compute constraints.\n• Integrate perception/multimodal inputs into the control pipeline when needed.\n• Produce engineering-quality deliverables (codebase, scripts, documentation, benchmarks, demos)."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "機械工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、機械工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Firmware",
+            "MCU",
+            "C",
+            "Python",
+            "Github"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Firmware、MCU、C、Python、Github",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "• Education: BS or MS in Robotics, Computer Science, Machine Learning, or related field.\n• Experience: 1–3 years industry experience or a recent graduate with a strong, hands-on academic portfolio (e.g., thesis/capstone/robotics lab work).\n• Portfolio/Proof of execution: Strong portfolio (GitHub and/or video links) demonstrating RL applied to physical robots or complex simulated environments.\n• Technical stack: Strong Python plus deep learning frameworks (PyTorch or JAX); working knowledge of C++.\n• English: Proficient in English (listening, speaking, reading, writing); TOEIC 650+ preferred.\n• Bonus (Nice to have): Hands-on legged locomotion (quadruped/biped) or robot arm manipulation; experience integrating computer vision or vision-language models into control policies; familiarity with QDD actuators.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、機械工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Firmware、MCU、C、Python、Github\n其他條件：• Education: BS or MS in Robotics, Computer Science, Machine Learning, or related field.\n• Experience: 1–3 years industry experience or a recent graduate with a strong, hands-on academic portfolio (e.g., thesis/capstone/robotics lab work).\n• Portfolio/Proof of execution: Strong portfolio (GitHub and/or video links) demonstrating RL applied to physical robots or complex simulated environments.\n• Technical stack: Strong Python plus deep learning frameworks (PyTorch or JAX); working knowledge of C++.\n• English: Proficient in English (listening, speaking, reading, writing); TOEIC 650+ preferred.\n• Bonus (Nice to have): Hands-on legged locomotion (quadruped/biped) or robot arm manipulation; experience integrating computer vision or vision-language models into control policies; familiarity with QDD actuators."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "91i9u",
+    "job_url": "https://www.104.com.tw/job/91i9u",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/91i9u.json",
+    "raw_sha256": "95e9c90fd3f49282e0c75de8590fb5da2fee2bfa02cdd4c718aa5a3d50c1392d",
+    "requested_url": "https://www.104.com.tw/api/jobs/91i9u"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "company": {
+    "id": "1a2x6blqi5",
+    "name": "廣興顧問股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師",
+      "MIS程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "帶領開發團隊管理與技術指導(需求分析、架構設計與模組規劃)。"
+        },
+        {
+          "children": [],
+          "text": "專案、商品與需求開發資源規劃及跨部門協作確保時程順利推進。"
+        },
+        {
+          "children": [],
+          "text": "確保開發流程符合壽險業法規、稽核要求與資訊安全政策。"
+        },
+        {
+          "children": [],
+          "text": "增進團隊生產力與人才培育計劃。"
+        },
+        {
+          "children": [],
+          "text": "熟人壽保險核心系統，開發與維護十年以上經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉應用系統作業流程、系統設計或系統分析實務經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉SQL語法分析、開發及維護實務經驗。"
+        },
+        {
+          "children": [],
+          "text": "具SQL Server、Oracle或其他DB Server 實務經驗。"
+        },
+        {
+          "children": [],
+          "text": "具開發團隊管理經驗者優先考慮。"
+        },
+        {
+          "children": [],
+          "text": "熟 Graph talk語言者優先考慮。"
+        }
+      ],
+      "text": "主要任務\n- 帶領開發團隊管理與技術指導(需求分析、架構設計與模組規劃)。\n- 專案、商品與需求開發資源規劃及跨部門協作確保時程順利推進。\n- 確保開發流程符合壽險業法規、稽核要求與資訊安全政策。\n- 增進團隊生產力與人才培育計劃。\n職能需求\n- 熟人壽保險核心系統，開發與維護十年以上經驗。\n- 熟悉應用系統作業流程、系統設計或系統分析實務經驗。\n- 熟悉SQL語法分析、開發及維護實務經驗。\n- 具SQL Server、Oracle或其他DB Server 實務經驗。\n- 具開發團隊管理經驗者優先考慮。\n- 熟 Graph talk語言者優先考慮。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【知名保險公司】系統開發科主管"
+  },
+  "location": {
+    "address_raw": "台北市中山區",
+    "raw": "台北市中山區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "10年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "10年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：10年以上\n學歷要求：專科以上",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 62
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:53:44+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "主要任務\n- 帶領開發團隊管理與技術指導(需求分析、架構設計與模組規劃)。\n- 專案、商品與需求開發資源規劃及跨部門協作確保時程順利推進。\n- 確保開發流程符合壽險業法規、稽核要求與資訊安全政策。\n- 增進團隊生產力與人才培育計劃。\n職能需求\n- 熟人壽保險核心系統，開發與維護十年以上經驗。\n- 熟悉應用系統作業流程、系統設計或系統分析實務經驗。\n- 熟悉SQL語法分析、開發及維護實務經驗。\n- 具SQL Server、Oracle或其他DB Server 實務經驗。\n- 具開發團隊管理經驗者優先考慮。\n- 熟 Graph talk語言者優先考慮。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師",
+            "MIS程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師、MIS程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "主要任務\n- 帶領開發團隊管理與技術指導(需求分析、架構設計與模組規劃)。\n- 專案、商品與需求開發資源規劃及跨部門協作確保時程順利推進。\n- 確保開發流程符合壽險業法規、稽核要求與資訊安全政策。\n- 增進團隊生產力與人才培育計劃。\n職能需求\n- 熟人壽保險核心系統，開發與維護十年以上經驗。\n- 熟悉應用系統作業流程、系統設計或系統分析實務經驗。\n- 熟悉SQL語法分析、開發及維護實務經驗。\n- 具SQL Server、Oracle或其他DB Server 實務經驗。\n- 具開發團隊管理經驗者優先考慮。\n- 熟 Graph talk語言者優先考慮。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "10年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：10年以上\n學歷要求：專科以上"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "9392v",
+    "job_url": "https://www.104.com.tw/job/9392v",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9392v.json",
+    "raw_sha256": "c9cf994b3a132aa306bccf9b7116cf72d53f72af58c49b91ddde0ee5890f7799",
+    "requested_url": "https://www.104.com.tw/api/jobs/9392v"
+  }
+}

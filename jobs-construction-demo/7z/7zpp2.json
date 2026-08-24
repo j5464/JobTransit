@@ -1,0 +1,207 @@
+{
+  "company": {
+    "id": "aexwm9k",
+    "name": "瑞昱半導體股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "瑞昱強力招募(1)116年度研發替代役及(2)預聘116年應屆畢業之碩士、博士生。"
+        },
+        {
+          "children": [],
+          "text": "碩士以上之電子、電機、資工、資科等相關科系"
+        },
+        {
+          "children": [],
+          "text": "具備以下任一條件者尤佳："
+        }
+      ],
+      "text": "應徵條件：\n1. 瑞昱強力招募(1)116年度研發替代役及(2)預聘116年應屆畢業之碩士、博士生。\n2. 碩士以上之電子、電機、資工、資科等相關科系\n3. 具備以下任一條件者尤佳：\na. 具備運用相關專業 tools 能力：C/C++/Python/Java, PyTorch/TensorFlow, ARM & RISC-V Assembly/Intrinsic/SIMD。\nb. 數位語音或影像處理相關知識，熟悉 AI ISP 演算法 (AINR / Embedded AI) 開發。\nc. 對 AI 代理駕馭 (AI Agent for Autonomous Driving) 前瞻技術有熱忱。\nd. 熟悉 LLVM compiler、Inference Engine Optimization 或 AI/ML/DSP 應用相關技術。"
+    },
+    "employment_type_raw": "全職",
+    "title": "116年度研發替代役&預聘_應屆畢業人才-AI演算法開發/軟體設計工程師"
+  },
+  "location": {
+    "address_raw": "新竹市新竹科學園區創新二路2號",
+    "raw": "新竹市新竹科學園區創新二路2號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "ARM",
+          "RTL",
+          "Verilog"
+        ],
+        "label": "擅長工具",
+        "text": "ARM、RTL、Verilog"
+      },
+      {
+        "items": [
+          "系統整合分析",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析、軟體工程系統開發"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "系統整合分析",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n擅長工具：ARM、RTL、Verilog\n工作技能：系統整合分析、軟體工程系統開發",
+    "tools": [
+      "ARM",
+      "RTL",
+      "Verilog"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 53
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:31:47+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "應徵條件：\n1. 瑞昱強力招募(1)116年度研發替代役及(2)預聘116年應屆畢業之碩士、博士生。\n2. 碩士以上之電子、電機、資工、資科等相關科系\n3. 具備以下任一條件者尤佳：\na. 具備運用相關專業 tools 能力：C/C++/Python/Java, PyTorch/TensorFlow, ARM & RISC-V Assembly/Intrinsic/SIMD。\nb. 數位語音或影像處理相關知識，熟悉 AI ISP 演算法 (AINR / Embedded AI) 開發。\nc. 對 AI 代理駕馭 (AI Agent for Autonomous Driving) 前瞻技術有熱忱。\nd. 熟悉 LLVM compiler、Inference Engine Optimization 或 AI/ML/DSP 應用相關技術。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市新竹科學園區創新二路2號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "應徵條件：\n1. 瑞昱強力招募(1)116年度研發替代役及(2)預聘116年應屆畢業之碩士、博士生。\n2. 碩士以上之電子、電機、資工、資科等相關科系\n3. 具備以下任一條件者尤佳：\na. 具備運用相關專業 tools 能力：C/C++/Python/Java, PyTorch/TensorFlow, ARM & RISC-V Assembly/Intrinsic/SIMD。\nb. 數位語音或影像處理相關知識，熟悉 AI ISP 演算法 (AINR / Embedded AI) 開發。\nc. 對 AI 代理駕馭 (AI Agent for Autonomous Driving) 前瞻技術有熱忱。\nd. 熟悉 LLVM compiler、Inference Engine Optimization 或 AI/ML/DSP 應用相關技術。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ARM",
+            "RTL",
+            "Verilog"
+          ],
+          "label": "擅長工具",
+          "text": "ARM、RTL、Verilog",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析、軟體工程系統開發",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關\n擅長工具：ARM、RTL、Verilog\n工作技能：系統整合分析、軟體工程系統開發"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "7zpp2",
+    "job_url": "https://www.104.com.tw/job/7zpp2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7zpp2.json",
+    "raw_sha256": "c666f7f7b1f095fe7b0c6e76234196ec7401ddd76275dcd17ea60cf9cfbb5929",
+    "requested_url": "https://www.104.com.tw/api/jobs/7zpp2"
+  }
+}

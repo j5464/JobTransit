@@ -1,0 +1,254 @@
+{
+  "company": {
+    "id": "1a2x6ble2t",
+    "name": "瞬聯科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Analyze, design and implement enterprise-level backend systems and softwares."
+        },
+        {
+          "children": [],
+          "text": "Participate in the full life cycle of developing complex, high performance and robust backend systems."
+        },
+        {
+          "children": [],
+          "text": "Work with the engineering team to solve difficult backend problems."
+        },
+        {
+          "children": [],
+          "text": "BS degree in Computer Science or related field."
+        },
+        {
+          "children": [],
+          "text": "More than 1 year of professional software development experience."
+        },
+        {
+          "children": [],
+          "text": "Java and Java EE multi-tier development experiences."
+        },
+        {
+          "children": [],
+          "text": "Excellent knowledge of Object-oriented analysis and design."
+        },
+        {
+          "children": [],
+          "text": "Strong knowledge of Java multi-threading would be a plus."
+        },
+        {
+          "children": [],
+          "text": "Familiar with Oracle, MySQL and Linux would be a plus."
+        }
+      ],
+      "text": "We are seeking an experienced software engineer to work with our development team & clients. You will be directly working with cross-country elite engineers in the world. Also, you will be joining the software team that is responsible for the development, design, diagnose and troubleshooting, and bug fixing software modules to improve product performance and stability.\n1. Analyze, design and implement enterprise-level backend systems and softwares.\n2. Participate in the full life cycle of developing complex, high performance and robust backend systems.\n3. Work with the engineering team to solve difficult backend problems.\nRequired Qualifications\n1. BS degree in Computer Science or related field.\n2. More than 1 year of professional software development experience.\n3. Java and Java EE multi-tier development experiences.\n4. Excellent knowledge of Object-oriented analysis and design.\n5. Strong knowledge of Java multi-threading would be a plus.\n6. Familiar with Oracle, MySQL and Linux would be a plus."
+    },
+    "employment_type_raw": "全職",
+    "title": "Java Engineer"
+  },
+  "location": {
+    "address_raw": "台北市大安區和平東路二段339號6樓(106)",
+    "raw": "台北市大安區和平東路二段339號6樓(106)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "企業管理相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、企業管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Java",
+          "MySQL",
+          "Linux"
+        ],
+        "label": "擅長工具",
+        "text": "Java、MySQL、Linux"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "軟體工程系統開發",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、軟體工程系統開發、資料庫程式設計"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "企業管理相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "軟體工程系統開發",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、企業管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、MySQL、Linux\n工作技能：軟體程式設計、軟體工程系統開發、資料庫程式設計",
+    "tools": [
+      "Java",
+      "MySQL",
+      "Linux"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 32
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:40:43+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are seeking an experienced software engineer to work with our development team & clients. You will be directly working with cross-country elite engineers in the world. Also, you will be joining the software team that is responsible for the development, design, diagnose and troubleshooting, and bug fixing software modules to improve product performance and stability.\n1. Analyze, design and implement enterprise-level backend systems and softwares.\n2. Participate in the full life cycle of developing complex, high performance and robust backend systems.\n3. Work with the engineering team to solve difficult backend problems.\nRequired Qualifications\n1. BS degree in Computer Science or related field.\n2. More than 1 year of professional software development experience.\n3. Java and Java EE multi-tier development experiences.\n4. Excellent knowledge of Object-oriented analysis and design.\n5. Strong knowledge of Java multi-threading would be a plus.\n6. Familiar with Oracle, MySQL and Linux would be a plus.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區和平東路二段339號6樓(106)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are seeking an experienced software engineer to work with our development team & clients. You will be directly working with cross-country elite engineers in the world. Also, you will be joining the software team that is responsible for the development, design, diagnose and troubleshooting, and bug fixing software modules to improve product performance and stability.\n1. Analyze, design and implement enterprise-level backend systems and softwares.\n2. Participate in the full life cycle of developing complex, high performance and robust backend systems.\n3. Work with the engineering team to solve difficult backend problems.\nRequired Qualifications\n1. BS degree in Computer Science or related field.\n2. More than 1 year of professional software development experience.\n3. Java and Java EE multi-tier development experiences.\n4. Excellent knowledge of Object-oriented analysis and design.\n5. Strong knowledge of Java multi-threading would be a plus.\n6. Familiar with Oracle, MySQL and Linux would be a plus."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "企業管理相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、企業管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "MySQL",
+            "Linux"
+          ],
+          "label": "擅長工具",
+          "text": "Java、MySQL、Linux",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "軟體工程系統開發",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、軟體工程系統開發、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、企業管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、MySQL、Linux\n工作技能：軟體程式設計、軟體工程系統開發、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "73jup",
+    "job_url": "https://www.104.com.tw/job/73jup",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/73jup.json",
+    "raw_sha256": "f2fbb95642820ef34736fec04e2430c014b4891d4f286973f57841eded6323c4",
+    "requested_url": "https://www.104.com.tw/api/jobs/73jup"
+  }
+}

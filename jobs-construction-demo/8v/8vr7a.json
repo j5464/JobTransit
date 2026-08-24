@@ -1,0 +1,202 @@
+{
+  "company": {
+    "id": "azqc4bc",
+    "name": "台灣村田機械股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "軟體助理工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "自動化系統軟體設計、程式開發、測試作業"
+        },
+        {
+          "children": [],
+          "text": "系統規格及開發文件製作"
+        },
+        {
+          "children": [],
+          "text": "客戶端現場安裝及後續保固(oncall)對應"
+        },
+        {
+          "children": [],
+          "text": "撰寫系統操作說明書"
+        }
+      ],
+      "text": "【工作內容】\n1. 自動化系統軟體設計、程式開發、測試作業\n2. 系統規格及開發文件製作\n3. 客戶端現場安裝及後續保固(oncall)對應\n4. 撰寫系統操作說明書\n【資格條件】\n・具備實際使用以下任一工具進行系統開發作業經驗：\nVisual Basic、Visual Basic.net、MS SQL、Oracle、PL/SQL、C\n・具備日文能力者加分\n・可配合on call對應\n===============================================\n村田機械為日本極具代表性的自動化設備與系統解決方案製造商。\n利用日本高科技設備及技術，提供台灣產業因人力不足所帶來的困擾，並積極研發各種技術，提供企業再造工程。\n我們提供的不只是機器，更是要提供支持客戶事業的生產設備，幫助客戶解決其難題的方案和迅速的服務。\n【Logistics & Automation物流及自動化事業部】\n★世界首屈一指的系統解決方案製造商，擁有在全球30個國家約10,000個系統建置實績。\n★有別於業界的客製化服務，提供一站式解決方案，從概念規劃到現場工程一手包辦。\n★不只活用於半導體產業，更積極拓展全新展業領域，在各行各業打造前所未見的自動化系統。\n★深耕於物流自動化業界超過半世紀，在大缺工時代持續成長，打造更便捷的工廠環境。\n了解更多→→ https://logistics.muratec.net/tw/\n【公司魅力】\n★ 與總公司的交流機會多，充分活用自身的日文能力！\n★ 擁有全球各地各式案場，透過國際交流，過展你的國際視野！\n★ 語言與專業技能學習補助，學習永無止盡，與公司一起成長！"
+    },
+    "employment_type_raw": "全職",
+    "title": "【物流及自動化事業部】軟體開發工程師(台北)"
+  },
+  "location": {
+    "address_raw": "台北市大同區承德路一段17號18樓",
+    "raw": "台北市大同區承德路一段17號18樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "C#",
+          "Visual Basic .net",
+          "Visual Studio .net",
+          "MS SQL",
+          "Oracle",
+          "PL/SQL"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Visual Basic .net、Visual Studio .net、MS SQL、Oracle、PL/SQL"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：C#、Visual Basic .net、Visual Studio .net、MS SQL、Oracle、PL/SQL",
+    "tools": [
+      "C#",
+      "Visual Basic .net",
+      "Visual Studio .net",
+      "MS SQL",
+      "Oracle",
+      "PL/SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 29
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:34:14+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 自動化系統軟體設計、程式開發、測試作業\n2. 系統規格及開發文件製作\n3. 客戶端現場安裝及後續保固(oncall)對應\n4. 撰寫系統操作說明書\n【資格條件】\n・具備實際使用以下任一工具進行系統開發作業經驗：\nVisual Basic、Visual Basic.net、MS SQL、Oracle、PL/SQL、C\n・具備日文能力者加分\n・可配合on call對應\n===============================================\n村田機械為日本極具代表性的自動化設備與系統解決方案製造商。\n利用日本高科技設備及技術，提供台灣產業因人力不足所帶來的困擾，並積極研發各種技術，提供企業再造工程。\n我們提供的不只是機器，更是要提供支持客戶事業的生產設備，幫助客戶解決其難題的方案和迅速的服務。\n【Logistics & Automation物流及自動化事業部】\n★世界首屈一指的系統解決方案製造商，擁有在全球30個國家約10,000個系統建置實績。\n★有別於業界的客製化服務，提供一站式解決方案，從概念規劃到現場工程一手包辦。\n★不只活用於半導體產業，更積極拓展全新展業領域，在各行各業打造前所未見的自動化系統。\n★深耕於物流自動化業界超過半世紀，在大缺工時代持續成長，打造更便捷的工廠環境。\n了解更多→→ https://logistics.muratec.net/tw/\n【公司魅力】\n★ 與總公司的交流機會多，充分活用自身的日文能力！\n★ 擁有全球各地各式案場，透過國際交流，過展你的國際視野！\n★ 語言與專業技能學習補助，學習永無止盡，與公司一起成長！",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "軟體助理工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、軟體助理工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大同區承德路一段17號18樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 自動化系統軟體設計、程式開發、測試作業\n2. 系統規格及開發文件製作\n3. 客戶端現場安裝及後續保固(oncall)對應\n4. 撰寫系統操作說明書\n【資格條件】\n・具備實際使用以下任一工具進行系統開發作業經驗：\nVisual Basic、Visual Basic.net、MS SQL、Oracle、PL/SQL、C\n・具備日文能力者加分\n・可配合on call對應\n===============================================\n村田機械為日本極具代表性的自動化設備與系統解決方案製造商。\n利用日本高科技設備及技術，提供台灣產業因人力不足所帶來的困擾，並積極研發各種技術，提供企業再造工程。\n我們提供的不只是機器，更是要提供支持客戶事業的生產設備，幫助客戶解決其難題的方案和迅速的服務。\n【Logistics & Automation物流及自動化事業部】\n★世界首屈一指的系統解決方案製造商，擁有在全球30個國家約10,000個系統建置實績。\n★有別於業界的客製化服務，提供一站式解決方案，從概念規劃到現場工程一手包辦。\n★不只活用於半導體產業，更積極拓展全新展業領域，在各行各業打造前所未見的自動化系統。\n★深耕於物流自動化業界超過半世紀，在大缺工時代持續成長，打造更便捷的工廠環境。\n了解更多→→ https://logistics.muratec.net/tw/\n【公司魅力】\n★ 與總公司的交流機會多，充分活用自身的日文能力！\n★ 擁有全球各地各式案場，透過國際交流，過展你的國際視野！\n★ 語言與專業技能學習補助，學習永無止盡，與公司一起成長！"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Visual Basic .net",
+            "Visual Studio .net",
+            "MS SQL",
+            "Oracle",
+            "PL/SQL"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Visual Basic .net、Visual Studio .net、MS SQL、Oracle、PL/SQL",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：C#、Visual Basic .net、Visual Studio .net、MS SQL、Oracle、PL/SQL"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8vr7a",
+    "job_url": "https://www.104.com.tw/job/8vr7a",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8vr7a.json",
+    "raw_sha256": "be36b6640575b00251c02efc9f78aa1198cfe0fb4b943a77090fc08d0edef4ce",
+    "requested_url": "https://www.104.com.tw/api/jobs/8vr7a"
+  }
+}

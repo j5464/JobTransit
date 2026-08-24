@@ -1,0 +1,182 @@
+{
+  "company": {
+    "id": "13qvhzjs",
+    "name": "台新新光金控_台新國際商業銀行股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "軟體工程師",
+      "軟體專案主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "容器化平台運維管理(具備K8s平台管理經驗佳)。"
+        },
+        {
+          "children": [],
+          "text": "維護改善CI/CD上版流程。"
+        },
+        {
+          "children": [],
+          "text": "資訊系統監控機制及日誌查找相關平台的優化、維運(Prometheus、Grafana、EFK等)。"
+        },
+        {
+          "children": [],
+          "text": "設計與實現基礎設施/作業自動化方案。"
+        },
+        {
+          "children": [],
+          "text": "系統例外問題分析、優化建議，保障資訊服務高效穩定運行"
+        },
+        {
+          "children": [],
+          "text": "熟悉工具：Windows、Linux、Docker、Podman、Kubernetes 任一項操作."
+        },
+        {
+          "children": [],
+          "text": "熟悉任一程式語言：Powershell、Shell Script、Python、Go、Java、.Net Core."
+        },
+        {
+          "children": [],
+          "text": "熟悉Linux、VCF或Unix維運管理技能，具備相關證照佳."
+        },
+        {
+          "children": [],
+          "text": "熟悉CI/CD工具，如：Azure DevOps等."
+        },
+        {
+          "children": [],
+          "text": "具備VCF、OCP、Anthos、Tanzu、Kafka、Cassandra、Hadoop、Spark、Mongo DB等任一經驗佳"
+        },
+        {
+          "children": [],
+          "text": "具備監控告警配置、日誌管理系統維運經驗（Prometheus、Grafana、EFK等）"
+        },
+        {
+          "children": [],
+          "text": "具備雲端環境使用、管理經驗佳."
+        }
+      ],
+      "text": "【工作內容】\n1.容器化平台運維管理(具備K8s平台管理經驗佳)。\n2.維護改善CI/CD上版流程。\n3.資訊系統監控機制及日誌查找相關平台的優化、維運(Prometheus、Grafana、EFK等)。\n4.設計與實現基礎設施/作業自動化方案。\n5.系統例外問題分析、優化建議，保障資訊服務高效穩定運行\n【資格條件】\n1.熟悉工具：Windows、Linux、Docker、Podman、Kubernetes 任一項操作.\n2.熟悉任一程式語言：Powershell、Shell Script、Python、Go、Java、.Net Core.\n3.熟悉Linux、VCF或Unix維運管理技能，具備相關證照佳.\n4.熟悉CI/CD工具，如：Azure DevOps等.\n5.具備VCF、OCP、Anthos、Tanzu、Kafka、Cassandra、Hadoop、Spark、Mongo DB等任一經驗佳\n6.具備監控告警配置、日誌管理系統維運經驗（Prometheus、Grafana、EFK等）\n7.具備雲端環境使用、管理經驗佳."
+    },
+    "employment_type_raw": "全職",
+    "title": "〔資訊〕技術架構師 (SRE)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區舊宗路二段207號8樓",
+    "raw": "台北市內湖區舊宗路二段207號8樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 95
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:15:45+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1.容器化平台運維管理(具備K8s平台管理經驗佳)。\n2.維護改善CI/CD上版流程。\n3.資訊系統監控機制及日誌查找相關平台的優化、維運(Prometheus、Grafana、EFK等)。\n4.設計與實現基礎設施/作業自動化方案。\n5.系統例外問題分析、優化建議，保障資訊服務高效穩定運行\n【資格條件】\n1.熟悉工具：Windows、Linux、Docker、Podman、Kubernetes 任一項操作.\n2.熟悉任一程式語言：Powershell、Shell Script、Python、Go、Java、.Net Core.\n3.熟悉Linux、VCF或Unix維運管理技能，具備相關證照佳.\n4.熟悉CI/CD工具，如：Azure DevOps等.\n5.具備VCF、OCP、Anthos、Tanzu、Kafka、Cassandra、Hadoop、Spark、Mongo DB等任一經驗佳\n6.具備監控告警配置、日誌管理系統維運經驗（Prometheus、Grafana、EFK等）\n7.具備雲端環境使用、管理經驗佳.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "軟體工程師",
+            "軟體專案主管"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、軟體工程師、軟體專案主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區舊宗路二段207號8樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1.容器化平台運維管理(具備K8s平台管理經驗佳)。\n2.維護改善CI/CD上版流程。\n3.資訊系統監控機制及日誌查找相關平台的優化、維運(Prometheus、Grafana、EFK等)。\n4.設計與實現基礎設施/作業自動化方案。\n5.系統例外問題分析、優化建議，保障資訊服務高效穩定運行\n【資格條件】\n1.熟悉工具：Windows、Linux、Docker、Podman、Kubernetes 任一項操作.\n2.熟悉任一程式語言：Powershell、Shell Script、Python、Go、Java、.Net Core.\n3.熟悉Linux、VCF或Unix維運管理技能，具備相關證照佳.\n4.熟悉CI/CD工具，如：Azure DevOps等.\n5.具備VCF、OCP、Anthos、Tanzu、Kafka、Cassandra、Hadoop、Spark、Mongo DB等任一經驗佳\n6.具備監控告警配置、日誌管理系統維運經驗（Prometheus、Grafana、EFK等）\n7.具備雲端環境使用、管理經驗佳."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "7avni",
+    "job_url": "https://www.104.com.tw/job/7avni",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/7avni.json",
+    "raw_sha256": "498b6364c8ebdb933132df70257def97c32cef23198c4aafd39df3570d0b6eaf",
+    "requested_url": "https://www.104.com.tw/api/jobs/7avni"
+  }
+}

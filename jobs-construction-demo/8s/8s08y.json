@@ -1,0 +1,176 @@
+{
+  "company": {
+    "id": "1a2x6bj87f",
+    "name": "日月光半導體製造股份有限公司中壢分公司"
+  },
+  "job": {
+    "categories": [
+      "半導體製程工程師",
+      "機器學習工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "主導產線自動化系統（如 MES、自動化數據追蹤）的評估、導入與優化"
+        },
+        {
+          "children": [],
+          "text": "將製程知識結合系統開發，提升生產效率並達成良率目標"
+        },
+        {
+          "children": [],
+          "text": "跨部門協調 IT、設備與生產單位，確保自動化專案能精準執行"
+        },
+        {
+          "children": [],
+          "text": "提供具前瞻性的系統解決方案與流程再造建議"
+        }
+      ],
+      "text": "1、主導產線自動化系統（如 MES、自動化數據追蹤）的評估、導入與優化\n2、將製程知識結合系統開發，提升生產效率並達成良率目標\n3、跨部門協調 IT、設備與生產單位，確保自動化專案能精準執行\n4、提供具前瞻性的系統解決方案與流程再造建議"
+    },
+    "employment_type_raw": "全職",
+    "title": "【工程研發】WLCSP 自動化專案工程師 (SA)"
+  },
+  "location": {
+    "address_raw": "桃園市中壢區",
+    "raw": "桃園市中壢區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.良好的溝通能力並能與團隊相互合作\n2.具封裝製程MES導入實務經驗尤佳。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1.良好的溝通能力並能與團隊相互合作\n2.具封裝製程MES導入實務經驗尤佳。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n其他條件：1.良好的溝通能力並能與團隊相互合作\n2.具封裝製程MES導入實務經驗尤佳。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 46
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:14:01+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1、主導產線自動化系統（如 MES、自動化數據追蹤）的評估、導入與優化\n2、將製程知識結合系統開發，提升生產效率並達成良率目標\n3、跨部門協調 IT、設備與生產單位，確保自動化專案能精準執行\n4、提供具前瞻性的系統解決方案與流程再造建議",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "半導體製程工程師",
+            "機器學習工程師"
+          ],
+          "label": "職務類別",
+          "text": "半導體製程工程師、機器學習工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市中壢區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1、主導產線自動化系統（如 MES、自動化數據追蹤）的評估、導入與優化\n2、將製程知識結合系統開發，提升生產效率並達成良率目標\n3、跨部門協調 IT、設備與生產單位，確保自動化專案能精準執行\n4、提供具前瞻性的系統解決方案與流程再造建議"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.良好的溝通能力並能與團隊相互合作\n2.具封裝製程MES導入實務經驗尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n其他條件：1.良好的溝通能力並能與團隊相互合作\n2.具封裝製程MES導入實務經驗尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8s08y",
+    "job_url": "https://www.104.com.tw/job/8s08y",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8s08y.json",
+    "raw_sha256": "a02c932b0c5621bb458c134bd98ec9ab29eec41c0e449b7be115affc1e6c2d6c",
+    "requested_url": "https://www.104.com.tw/api/jobs/8s08y"
+  }
+}

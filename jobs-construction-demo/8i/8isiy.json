@@ -1,0 +1,163 @@
+{
+  "company": {
+    "id": "wd2qj1c",
+    "name": "羅斯德股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "網頁設計師",
+      "Internet程式設計師",
+      "網站企劃"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Filling our web-site with information received from our managers."
+        },
+        {
+          "children": [],
+          "text": "Processing photo and video content, prepare company catalogues."
+        },
+        {
+          "children": [],
+          "text": "Basic IT support."
+        }
+      ],
+      "text": "1) Filling our web-site with information received from our managers.\n2) Processing photo and video content, prepare company catalogues.\n3) Basic IT support."
+    },
+    "employment_type_raw": "全職",
+    "title": "Web content manager"
+  },
+  "location": {
+    "address_raw": "台北市大安區信義路三段65號2樓之1",
+    "raw": "台北市大安區信義路三段65號2樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [
+          "俄文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "俄文：精通、精通、精通、精通"
+      }
+    ],
+    "languages": [
+      "俄文：精通、精通、精通、精通"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：不拘\n語文條件：俄文：精通、精通、精通、精通",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 45
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:13:44+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1) Filling our web-site with information received from our managers.\n2) Processing photo and video content, prepare company catalogues.\n3) Basic IT support.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "網頁設計師",
+            "Internet程式設計師",
+            "網站企劃"
+          ],
+          "label": "職務類別",
+          "text": "網頁設計師、Internet程式設計師、網站企劃",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區信義路三段65號2樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1) Filling our web-site with information received from our managers.\n2) Processing photo and video content, prepare company catalogues.\n3) Basic IT support."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "俄文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "俄文：精通、精通、精通、精通",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘\n語文條件：俄文：精通、精通、精通、精通"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8isiy",
+    "job_url": "https://www.104.com.tw/job/8isiy",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8isiy.json",
+    "raw_sha256": "933fdb69c810395640183adb96f227fdd0441549954b12a131ea0b2975722e78",
+    "requested_url": "https://www.104.com.tw/api/jobs/8isiy"
+  }
+}

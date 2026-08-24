@@ -1,0 +1,240 @@
+{
+  "company": {
+    "id": "1a2x6blur0",
+    "name": "香港商艾加多科技有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責嵌入式系統平台之 Linux 作業系統開發與維護"
+        },
+        {
+          "children": [],
+          "text": "驅動程式 (Device Driver) 撰寫與除錯"
+        },
+        {
+          "children": [],
+          "text": "系統效能調校與問題排除"
+        },
+        {
+          "children": [],
+          "text": "協助產品韌體整合、測試與版本管理"
+        },
+        {
+          "children": [],
+          "text": "撰寫技術文件，支援跨部門合作"
+        },
+        {
+          "children": [],
+          "text": "具備嵌入式系統開發經驗，熟悉 Linux Kernel 與相關工具"
+        },
+        {
+          "children": [],
+          "text": "熟悉 C/C++ 程式語言"
+        },
+        {
+          "children": [],
+          "text": "了解 ARM 架構或其他嵌入式平台"
+        },
+        {
+          "children": [],
+          "text": "具備硬體介面 (I2C, SPI, UART, GPIO 等) 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "有 Git 版本控制及 CI/CD 經驗者佳"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Yocto 或其他嵌入式 Linux 建置系統"
+        },
+        {
+          "children": [],
+          "text": "具備網路通訊協定 (TCP/IP, MQTT, BLE 等) 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "有影像處理、AIoT 或邊緣運算相關專案經驗"
+        },
+        {
+          "children": [],
+          "text": "具備良好問題分析與解決能力"
+        }
+      ],
+      "text": "【工作內容】\n• 負責嵌入式系統平台之 Linux 作業系統開發與維護\n• 驅動程式 (Device Driver) 撰寫與除錯\n• 系統效能調校與問題排除\n• 協助產品韌體整合、測試與版本管理\n• 撰寫技術文件，支援跨部門合作\n【職務需求】\n• 具備嵌入式系統開發經驗，熟悉 Linux Kernel 與相關工具\n• 熟悉 C/C++ 程式語言\n• 了解 ARM 架構或其他嵌入式平台\n• 具備硬體介面 (I2C, SPI, UART, GPIO 等) 開發經驗\n• 有 Git 版本控制及 CI/CD 經驗者佳\n• 熟悉 Yocto 或其他嵌入式 Linux 建置系統\n• 具備網路通訊協定 (TCP/IP, MQTT, BLE 等) 開發經驗\n• 有影像處理、AIoT 或邊緣運算相關專案經驗\n• 具備良好問題分析與解決能力"
+    },
+    "employment_type_raw": "全職",
+    "title": "Embedded Linux 工程師"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶橋路235巷2號5樓(F座)",
+    "raw": "新北市新店區寶橋路235巷2號5樓(F座)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Linux",
+          "Git",
+          "C++",
+          "ARM"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Git、C++、ARM"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "韌體程式設計",
+          "韌體工程開發",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、韌體程式設計、韌體工程開發、軟體工程系統開發"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "韌體程式設計",
+      "韌體工程開發",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Linux、Git、C++、ARM\n工作技能：軟體程式設計、韌體程式設計、韌體工程開發、軟體工程系統開發",
+    "tools": [
+      "Linux",
+      "Git",
+      "C++",
+      "ARM"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 21
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:13:57+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n• 負責嵌入式系統平台之 Linux 作業系統開發與維護\n• 驅動程式 (Device Driver) 撰寫與除錯\n• 系統效能調校與問題排除\n• 協助產品韌體整合、測試與版本管理\n• 撰寫技術文件，支援跨部門合作\n【職務需求】\n• 具備嵌入式系統開發經驗，熟悉 Linux Kernel 與相關工具\n• 熟悉 C/C++ 程式語言\n• 了解 ARM 架構或其他嵌入式平台\n• 具備硬體介面 (I2C, SPI, UART, GPIO 等) 開發經驗\n• 有 Git 版本控制及 CI/CD 經驗者佳\n• 熟悉 Yocto 或其他嵌入式 Linux 建置系統\n• 具備網路通訊協定 (TCP/IP, MQTT, BLE 等) 開發經驗\n• 有影像處理、AIoT 或邊緣運算相關專案經驗\n• 具備良好問題分析與解決能力",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶橋路235巷2號5樓(F座)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n• 負責嵌入式系統平台之 Linux 作業系統開發與維護\n• 驅動程式 (Device Driver) 撰寫與除錯\n• 系統效能調校與問題排除\n• 協助產品韌體整合、測試與版本管理\n• 撰寫技術文件，支援跨部門合作\n【職務需求】\n• 具備嵌入式系統開發經驗，熟悉 Linux Kernel 與相關工具\n• 熟悉 C/C++ 程式語言\n• 了解 ARM 架構或其他嵌入式平台\n• 具備硬體介面 (I2C, SPI, UART, GPIO 等) 開發經驗\n• 有 Git 版本控制及 CI/CD 經驗者佳\n• 熟悉 Yocto 或其他嵌入式 Linux 建置系統\n• 具備網路通訊協定 (TCP/IP, MQTT, BLE 等) 開發經驗\n• 有影像處理、AIoT 或邊緣運算相關專案經驗\n• 具備良好問題分析與解決能力"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Git",
+            "C++",
+            "ARM"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Git、C++、ARM",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "韌體程式設計",
+            "韌體工程開發",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、韌體程式設計、韌體工程開發、軟體工程系統開發",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Linux、Git、C++、ARM\n工作技能：軟體程式設計、韌體程式設計、韌體工程開發、軟體工程系統開發"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8yoxh",
+    "job_url": "https://www.104.com.tw/job/8yoxh",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8yoxh.json",
+    "raw_sha256": "eb594075024ed823548f1262990091e0a952441d88e1c4ad0965d5ddaa5b2afe",
+    "requested_url": "https://www.104.com.tw/api/jobs/8yoxh"
+  }
+}

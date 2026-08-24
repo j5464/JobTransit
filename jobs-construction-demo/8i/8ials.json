@@ -1,0 +1,239 @@
+{
+  "company": {
+    "id": "1a2x6bjstn",
+    "name": "松勁科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "ERP 系統維護：負責鼎新 Workflow ERP（ERPII）日常系統異常排除、使用者權限管理及 日常運作維護。"
+        },
+        {
+          "children": [],
+          "text": "資料庫管理：維護 Microsoft SQL Server 資料庫，進行資料撈取、異常資料校正、定期備份及基礎效能調校。"
+        },
+        {
+          "children": [],
+          "text": "報表客製與開發：運用 Crystal Report（水晶報表）進行內部各式單據、標籤及管理分析報表之修改與客製化開發。"
+        },
+        {
+          "children": [],
+          "text": "流程系統整合：負責 Easyflow / BPM 電子簽核流程之設定、關聯維護與 Workflow ERP 系統之資料串接。"
+        },
+        {
+          "children": [],
+          "text": "跨部門溝通： 協助業務、財務、生管、採購、倉儲等業務單位排查月底結帳或作業流程卡關問題，並擔任與鼎新原廠顧問之溝通橋樑。"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項。"
+        }
+      ],
+      "text": "1. ERP 系統維護：負責鼎新 Workflow ERP（ERPII）日常系統異常排除、使用者權限管理及 日常運作維護。\n2. 資料庫管理：維護 Microsoft SQL Server 資料庫，進行資料撈取、異常資料校正、定期備份及基礎效能調校。\n3. 報表客製與開發：運用 Crystal Report（水晶報表）進行內部各式單據、標籤及管理分析報表之修改與客製化開發。\n4. 流程系統整合：負責 Easyflow / BPM 電子簽核流程之設定、關聯維護與 Workflow ERP 系統之資料串接。\n5. 跨部門溝通： 協助業務、財務、生管、採購、倉儲等業務單位排查月底結帳或作業流程卡關問題，並擔任與鼎新原廠顧問之溝通橋樑。\n6.主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "MIS系統工程師"
+  },
+  "location": {
+    "address_raw": "新竹市中華路六段12號",
+    "raw": "新竹市中華路六段12號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "鼎新"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、鼎新"
+      },
+      {
+        "items": [
+          "資料庫系統管理維護",
+          "企業資源規劃管理(ERP)",
+          "報表開發",
+          "資料庫軟體應用",
+          "系統架構規劃與維護"
+        ],
+        "label": "工作技能",
+        "text": "資料庫系統管理維護、企業資源規劃管理(ERP)、報表開發、資料庫軟體應用、系統架構規劃與維護"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具備 一年以上 MIS 或 ERP 系統維護實務經驗\n2.精通 SQL 語法（Select, Join, Update, Group By），具備獨立至底層資料庫排查異常資料之能力。\n3.具備 Crystal Report 實際報表規劃與修改經驗。\n4.熟悉 Microsoft SQL Server 資料庫基本操作與維護。\n5.邏輯清晰，具備良好的跨部門溝通與問題解決能力，能將使用者的業務需求轉化為系統邏輯。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "1.具備 一年以上 MIS 或 ERP 系統維護實務經驗\n2.精通 SQL 語法（Select, Join, Update, Group By），具備獨立至底層資料庫排查異常資料之能力。\n3.具備 Crystal Report 實際報表規劃與修改經驗。\n4.熟悉 Microsoft SQL Server 資料庫基本操作與維護。\n5.邏輯清晰，具備良好的跨部門溝通與問題解決能力，能將使用者的業務需求轉化為系統邏輯。",
+    "skills": [
+      "資料庫系統管理維護",
+      "企業資源規劃管理(ERP)",
+      "報表開發",
+      "資料庫軟體應用",
+      "系統架構規劃與維護"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、其他數學及電算機科學相關\n擅長工具：MS SQL、鼎新\n工作技能：資料庫系統管理維護、企業資源規劃管理(ERP)、報表開發、資料庫軟體應用、系統架構規劃與維護\n其他條件：1.具備 一年以上 MIS 或 ERP 系統維護實務經驗\n2.精通 SQL 語法（Select, Join, Update, Group By），具備獨立至底層資料庫排查異常資料之能力。\n3.具備 Crystal Report 實際報表規劃與修改經驗。\n4.熟悉 Microsoft SQL Server 資料庫基本操作與維護。\n5.邏輯清晰，具備良好的跨部門溝通與問題解決能力，能將使用者的業務需求轉化為系統邏輯。",
+    "tools": [
+      "MS SQL",
+      "鼎新"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 28
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:30:06+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. ERP 系統維護：負責鼎新 Workflow ERP（ERPII）日常系統異常排除、使用者權限管理及 日常運作維護。\n2. 資料庫管理：維護 Microsoft SQL Server 資料庫，進行資料撈取、異常資料校正、定期備份及基礎效能調校。\n3. 報表客製與開發：運用 Crystal Report（水晶報表）進行內部各式單據、標籤及管理分析報表之修改與客製化開發。\n4. 流程系統整合：負責 Easyflow / BPM 電子簽核流程之設定、關聯維護與 Workflow ERP 系統之資料串接。\n5. 跨部門溝通： 協助業務、財務、生管、採購、倉儲等業務單位排查月底結帳或作業流程卡關問題，並擔任與鼎新原廠顧問之溝通橋樑。\n6.主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市中華路六段12號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. ERP 系統維護：負責鼎新 Workflow ERP（ERPII）日常系統異常排除、使用者權限管理及 日常運作維護。\n2. 資料庫管理：維護 Microsoft SQL Server 資料庫，進行資料撈取、異常資料校正、定期備份及基礎效能調校。\n3. 報表客製與開發：運用 Crystal Report（水晶報表）進行內部各式單據、標籤及管理分析報表之修改與客製化開發。\n4. 流程系統整合：負責 Easyflow / BPM 電子簽核流程之設定、關聯維護與 Workflow ERP 系統之資料串接。\n5. 跨部門溝通： 協助業務、財務、生管、採購、倉儲等業務單位排查月底結帳或作業流程卡關問題，並擔任與鼎新原廠顧問之溝通橋樑。\n6.主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "鼎新"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、鼎新",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資料庫系統管理維護",
+            "企業資源規劃管理(ERP)",
+            "報表開發",
+            "資料庫軟體應用",
+            "系統架構規劃與維護"
+          ],
+          "label": "工作技能",
+          "text": "資料庫系統管理維護、企業資源規劃管理(ERP)、報表開發、資料庫軟體應用、系統架構規劃與維護",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具備 一年以上 MIS 或 ERP 系統維護實務經驗\n2.精通 SQL 語法（Select, Join, Update, Group By），具備獨立至底層資料庫排查異常資料之能力。\n3.具備 Crystal Report 實際報表規劃與修改經驗。\n4.熟悉 Microsoft SQL Server 資料庫基本操作與維護。\n5.邏輯清晰，具備良好的跨部門溝通與問題解決能力，能將使用者的業務需求轉化為系統邏輯。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：電機電子工程相關、資訊工程相關、其他數學及電算機科學相關\n擅長工具：MS SQL、鼎新\n工作技能：資料庫系統管理維護、企業資源規劃管理(ERP)、報表開發、資料庫軟體應用、系統架構規劃與維護\n其他條件：1.具備 一年以上 MIS 或 ERP 系統維護實務經驗\n2.精通 SQL 語法（Select, Join, Update, Group By），具備獨立至底層資料庫排查異常資料之能力。\n3.具備 Crystal Report 實際報表規劃與修改經驗。\n4.熟悉 Microsoft SQL Server 資料庫基本操作與維護。\n5.邏輯清晰，具備良好的跨部門溝通與問題解決能力，能將使用者的業務需求轉化為系統邏輯。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8ials",
+    "job_url": "https://www.104.com.tw/job/8ials",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8ials.json",
+    "raw_sha256": "f8083e81f9599d303fa21d34f72cb52db20aec9dace3db2890354ba6f860359a",
+    "requested_url": "https://www.104.com.tw/api/jobs/8ials"
+  }
+}

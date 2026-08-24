@@ -1,0 +1,313 @@
+{
+  "company": {
+    "id": "1a2x6bmpda",
+    "name": "滿拓科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "*You will:**"
+        },
+        {
+          "children": [],
+          "text": "**Inference serving**: wrap models into reliable, low-latency inference services; manage throughput, footprint, stability, failure behavior"
+        },
+        {
+          "children": [],
+          "text": "**SDK / API design**: design integration interfaces and docs for partners — making \"immediately integrable\" a contract with acceptance criteria, not a slogan"
+        },
+        {
+          "children": [],
+          "text": "**System integration layer**: interface with flight controllers / gimbals / image pipelines (standard protocols first); define the hidden contracts — coordinate semantics, timing, failure fallback"
+        },
+        {
+          "children": [],
+          "text": "**Deployment & delivery tooling**: reproducible deployment across varied customer hardware; containerization, versioning, auditability"
+        },
+        {
+          "children": [],
+          "text": "**Deliver end-to-end**: requirements → interface design → integration testing → delivery, with research, hardware, and customers"
+        },
+        {
+          "children": [],
+          "text": "**First principles**: derive from the essence — information flow, interface contracts, failure modes"
+        },
+        {
+          "children": [],
+          "text": "**Subtraction**: simplest design first; every component and every API must justify its existence"
+        },
+        {
+          "children": [],
+          "text": "**Evidence over assertion**: \"immediately integrable\" needs falsifiable acceptance (e.g. connects and tracks on an unmodified ground station); state limitations and failure boundaries honestly"
+        },
+        {
+          "children": [],
+          "text": "2+ years of backend / system-integration experience, or equivalent ability (ability over tenure)"
+        },
+        {
+          "children": [],
+          "text": "**Python**first maintainable, reproducible code; serving experience (inference services, APIs, gRPC/REST — any)"
+        },
+        {
+          "children": [],
+          "text": "**Systems-integration mindset**: have handled cross-process/cross-device data flow, protocols, timing, and failure; know why interface contracts matter"
+        },
+        {
+          "children": [],
+          "text": "**Edge awareness**: treat latency, memory, and bandwidth as hard constraints"
+        },
+        {
+          "children": [],
+          "text": "Rigorous method: falsifiable acceptance, measure on real hardware rather than assume; moves fast amid loose definitions and competing priorities"
+        },
+        {
+          "children": [],
+          "text": "**Delivery-oriented** → an example of turning a prototype into something customers actually used, and the integration problems solved on the way"
+        },
+        {
+          "children": [],
+          "text": "**First-principles thinking** → can explain *why* a past interface was designed that way and *what happens when it fails*"
+        },
+        {
+          "children": [],
+          "text": "**Instinct for subtraction** → an example of cutting a redundant abstraction/API for a simpler contract that worked"
+        },
+        {
+          "children": [],
+          "text": "**Intellectual honesty** → willing to discuss delivery pitfalls (coordinate mismatches, timing misalignment, undefined failure) and the fixes"
+        },
+        {
+          "children": [],
+          "text": "**AI inference deployment**: serving frameworks (Triton / TorchServe / custom), ONNX / inference runtimes, batching & concurrency"
+        },
+        {
+          "children": [],
+          "text": "**Flight-control / robotics**: MAVLink, ROS 2, companion-computer integration, gimbal/camera protocols"
+        },
+        {
+          "children": [],
+          "text": "**Edge engineering**: embedded Linux/ARM, C++, image pipelines (GStreamer/V4L2), cross-hardware deployment"
+        },
+        {
+          "children": [],
+          "text": "**Platform backend**: data pipelines, annotation workflows, containerization (Docker/K8s), CI, auditable on-prem deployment"
+        },
+        {
+          "children": [],
+          "text": "**55%** module delivery layer (serving, SDK/API, integration) ·"
+        },
+        {
+          "children": [],
+          "text": "**25%** deployment & delivery tooling"
+        },
+        {
+          "children": [],
+          "text": "**20%** backend & other infrastructure"
+        }
+      ],
+      "text": "#### About the Team\nWe build real-time visual perception modules — single/multi-object tracking, detection, multi-modal fusion — on resource-constrained edge hardware. Our product isn't \"a model\" — it's a module partners (payload makers, drone OEMs, integrators) can integrate immediately. First principles over convention.\n#### About the Role\nWe want an engineer who turns edge AI perception into a **deliverable, integrable product**. You sit between the model and the customer's system: taking models from the research team and making them a black box the customer can plug in without touching the AI layer. Less \"how accurate is the model,\" more \"can the customer wire it up, set parameters, and run it on their flight controller.\"\n**You will:**\n- **Inference serving**: wrap models into reliable, low-latency inference services; manage throughput, footprint, stability, failure behavior\n- **SDK / API design**: design integration interfaces and docs for partners — making \"immediately integrable\" a contract with acceptance criteria, not a slogan\n- **System integration layer**: interface with flight controllers / gimbals / image pipelines (standard protocols first); define the hidden contracts — coordinate semantics, timing, failure fallback\n- **Deployment & delivery tooling**: reproducible deployment across varied customer hardware; containerization, versioning, auditability\n- **Deliver end-to-end**: requirements → interface design → integration testing → delivery, with research, hardware, and customers\n#### How We Work\n- **First principles**: derive from the essence — information flow, interface contracts, failure modes\n- **Subtraction**: simplest design first; every component and every API must justify its existence\n- **Evidence over assertion**: \"immediately integrable\" needs falsifiable acceptance (e.g. connects and tracks on an unmodified ground station); state limitations and failure boundaries honestly\n#### Core Requirements\n- 2+ years of backend / system-integration experience, or equivalent ability (ability over tenure)\n- **Python**first maintainable, reproducible code; serving experience (inference services, APIs, gRPC/REST — any)\n- **Systems-integration mindset**: have handled cross-process/cross-device data flow, protocols, timing, and failure; know why interface contracts matter\n- **Edge awareness**: treat latency, memory, and bandwidth as hard constraints\n- Rigorous method: falsifiable acceptance, measure on real hardware rather than assume; moves fast amid loose definitions and competing priorities\n#### Signals We Look For\n- **Delivery-oriented** → an example of turning a prototype into something customers actually used, and the integration problems solved on the way\n- **First-principles thinking** → can explain *why* a past interface was designed that way and *what happens when it fails*\n- **Instinct for subtraction** → an example of cutting a redundant abstraction/API for a simpler contract that worked\n- **Intellectual honesty** → willing to discuss delivery pitfalls (coordinate mismatches, timing misalignment, undefined failure) and the fixes\n#### Nice to Have (not required — we value learning speed and integration instinct more)\n- **AI inference deployment**: serving frameworks (Triton / TorchServe / custom), ONNX / inference runtimes, batching & concurrency\n- **Flight-control / robotics**: MAVLink, ROS 2, companion-computer integration, gimbal/camera protocols\n- **Edge engineering**: embedded Linux/ARM, C++, image pipelines (GStreamer/V4L2), cross-hardware deployment\n- **Platform backend**: data pipelines, annotation workflows, containerization (Docker/K8s), CI, auditable on-prem deployment\n#### Time Allocation\n- **55%** module delivery layer (serving, SDK/API, integration) ·\n- **25%** deployment & delivery tooling\n- **20%** backend & other infrastructure"
+    },
+    "employment_type_raw": "全職",
+    "title": "〖新竹〗AI Integration & Platform Engineer, Edge Perception"
+  },
+  "location": {
+    "address_raw": "新竹市東區金城三路",
+    "raw": "新竹市東區金城三路"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "Linux",
+          "Git",
+          "C",
+          "C++",
+          "Python",
+          "LLM",
+          "Prompt",
+          "JavaScript",
+          "Node.js",
+          "PyTorch"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Git、C、C++、Python、LLM、Prompt、JavaScript、Node.js、PyTorch"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體程式設計",
+          "資料庫程式設計",
+          "電腦視覺",
+          "軟體工程系統開發",
+          "模組化系統設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、軟體程式設計、資料庫程式設計、電腦視覺、軟體工程系統開發、模組化系統設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體程式設計",
+      "資料庫程式設計",
+      "電腦視覺",
+      "軟體工程系統開發",
+      "模組化系統設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：Linux、Git、C、C++、Python、LLM、Prompt、JavaScript、Node.js、PyTorch\n工作技能：系統架構規劃、系統整合分析、軟體程式設計、資料庫程式設計、電腦視覺、軟體工程系統開發、模組化系統設計",
+    "tools": [
+      "Linux",
+      "Git",
+      "C",
+      "C++",
+      "Python",
+      "LLM",
+      "Prompt",
+      "JavaScript",
+      "Node.js",
+      "PyTorch"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 21
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:14:46+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "#### About the Team\nWe build real-time visual perception modules — single/multi-object tracking, detection, multi-modal fusion — on resource-constrained edge hardware. Our product isn't \"a model\" — it's a module partners (payload makers, drone OEMs, integrators) can integrate immediately. First principles over convention.\n#### About the Role\nWe want an engineer who turns edge AI perception into a **deliverable, integrable product**. You sit between the model and the customer's system: taking models from the research team and making them a black box the customer can plug in without touching the AI layer. Less \"how accurate is the model,\" more \"can the customer wire it up, set parameters, and run it on their flight controller.\"\n**You will:**\n- **Inference serving**: wrap models into reliable, low-latency inference services; manage throughput, footprint, stability, failure behavior\n- **SDK / API design**: design integration interfaces and docs for partners — making \"immediately integrable\" a contract with acceptance criteria, not a slogan\n- **System integration layer**: interface with flight controllers / gimbals / image pipelines (standard protocols first); define the hidden contracts — coordinate semantics, timing, failure fallback\n- **Deployment & delivery tooling**: reproducible deployment across varied customer hardware; containerization, versioning, auditability\n- **Deliver end-to-end**: requirements → interface design → integration testing → delivery, with research, hardware, and customers\n#### How We Work\n- **First principles**: derive from the essence — information flow, interface contracts, failure modes\n- **Subtraction**: simplest design first; every component and every API must justify its existence\n- **Evidence over assertion**: \"immediately integrable\" needs falsifiable acceptance (e.g. connects and tracks on an unmodified ground station); state limitations and failure boundaries honestly\n#### Core Requirements\n- 2+ years of backend / system-integration experience, or equivalent ability (ability over tenure)\n- **Python**first maintainable, reproducible code; serving experience (inference services, APIs, gRPC/REST — any)\n- **Systems-integration mindset**: have handled cross-process/cross-device data flow, protocols, timing, and failure; know why interface contracts matter\n- **Edge awareness**: treat latency, memory, and bandwidth as hard constraints\n- Rigorous method: falsifiable acceptance, measure on real hardware rather than assume; moves fast amid loose definitions and competing priorities\n#### Signals We Look For\n- **Delivery-oriented** → an example of turning a prototype into something customers actually used, and the integration problems solved on the way\n- **First-principles thinking** → can explain *why* a past interface was designed that way and *what happens when it fails*\n- **Instinct for subtraction** → an example of cutting a redundant abstraction/API for a simpler contract that worked\n- **Intellectual honesty** → willing to discuss delivery pitfalls (coordinate mismatches, timing misalignment, undefined failure) and the fixes\n#### Nice to Have (not required — we value learning speed and integration instinct more)\n- **AI inference deployment**: serving frameworks (Triton / TorchServe / custom), ONNX / inference runtimes, batching & concurrency\n- **Flight-control / robotics**: MAVLink, ROS 2, companion-computer integration, gimbal/camera protocols\n- **Edge engineering**: embedded Linux/ARM, C++, image pipelines (GStreamer/V4L2), cross-hardware deployment\n- **Platform backend**: data pipelines, annotation workflows, containerization (Docker/K8s), CI, auditable on-prem deployment\n#### Time Allocation\n- **55%** module delivery layer (serving, SDK/API, integration) ·\n- **25%** deployment & delivery tooling\n- **20%** backend & other infrastructure",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東區金城三路",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "#### About the Team\nWe build real-time visual perception modules — single/multi-object tracking, detection, multi-modal fusion — on resource-constrained edge hardware. Our product isn't \"a model\" — it's a module partners (payload makers, drone OEMs, integrators) can integrate immediately. First principles over convention.\n#### About the Role\nWe want an engineer who turns edge AI perception into a **deliverable, integrable product**. You sit between the model and the customer's system: taking models from the research team and making them a black box the customer can plug in without touching the AI layer. Less \"how accurate is the model,\" more \"can the customer wire it up, set parameters, and run it on their flight controller.\"\n**You will:**\n- **Inference serving**: wrap models into reliable, low-latency inference services; manage throughput, footprint, stability, failure behavior\n- **SDK / API design**: design integration interfaces and docs for partners — making \"immediately integrable\" a contract with acceptance criteria, not a slogan\n- **System integration layer**: interface with flight controllers / gimbals / image pipelines (standard protocols first); define the hidden contracts — coordinate semantics, timing, failure fallback\n- **Deployment & delivery tooling**: reproducible deployment across varied customer hardware; containerization, versioning, auditability\n- **Deliver end-to-end**: requirements → interface design → integration testing → delivery, with research, hardware, and customers\n#### How We Work\n- **First principles**: derive from the essence — information flow, interface contracts, failure modes\n- **Subtraction**: simplest design first; every component and every API must justify its existence\n- **Evidence over assertion**: \"immediately integrable\" needs falsifiable acceptance (e.g. connects and tracks on an unmodified ground station); state limitations and failure boundaries honestly\n#### Core Requirements\n- 2+ years of backend / system-integration experience, or equivalent ability (ability over tenure)\n- **Python**first maintainable, reproducible code; serving experience (inference services, APIs, gRPC/REST — any)\n- **Systems-integration mindset**: have handled cross-process/cross-device data flow, protocols, timing, and failure; know why interface contracts matter\n- **Edge awareness**: treat latency, memory, and bandwidth as hard constraints\n- Rigorous method: falsifiable acceptance, measure on real hardware rather than assume; moves fast amid loose definitions and competing priorities\n#### Signals We Look For\n- **Delivery-oriented** → an example of turning a prototype into something customers actually used, and the integration problems solved on the way\n- **First-principles thinking** → can explain *why* a past interface was designed that way and *what happens when it fails*\n- **Instinct for subtraction** → an example of cutting a redundant abstraction/API for a simpler contract that worked\n- **Intellectual honesty** → willing to discuss delivery pitfalls (coordinate mismatches, timing misalignment, undefined failure) and the fixes\n#### Nice to Have (not required — we value learning speed and integration instinct more)\n- **AI inference deployment**: serving frameworks (Triton / TorchServe / custom), ONNX / inference runtimes, batching & concurrency\n- **Flight-control / robotics**: MAVLink, ROS 2, companion-computer integration, gimbal/camera protocols\n- **Edge engineering**: embedded Linux/ARM, C++, image pipelines (GStreamer/V4L2), cross-hardware deployment\n- **Platform backend**: data pipelines, annotation workflows, containerization (Docker/K8s), CI, auditable on-prem deployment\n#### Time Allocation\n- **55%** module delivery layer (serving, SDK/API, integration) ·\n- **25%** deployment & delivery tooling\n- **20%** backend & other infrastructure"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Git",
+            "C",
+            "C++",
+            "Python",
+            "LLM",
+            "Prompt",
+            "JavaScript",
+            "Node.js",
+            "PyTorch"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Git、C、C++、Python、LLM、Prompt、JavaScript、Node.js、PyTorch",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體程式設計",
+            "資料庫程式設計",
+            "電腦視覺",
+            "軟體工程系統開發",
+            "模組化系統設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、軟體程式設計、資料庫程式設計、電腦視覺、軟體工程系統開發、模組化系統設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n擅長工具：Linux、Git、C、C++、Python、LLM、Prompt、JavaScript、Node.js、PyTorch\n工作技能：系統架構規劃、系統整合分析、軟體程式設計、資料庫程式設計、電腦視覺、軟體工程系統開發、模組化系統設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "952t2",
+    "job_url": "https://www.104.com.tw/job/952t2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/952t2.json",
+    "raw_sha256": "05c97a971b28f1edb51f1e793733d890d287eb06b5f432211a4344cab9af93af",
+    "requested_url": "https://www.104.com.tw/api/jobs/952t2"
+  }
+}

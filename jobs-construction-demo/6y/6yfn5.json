@@ -1,0 +1,237 @@
+{
+  "company": {
+    "id": "oi77qwg",
+    "name": "日新軟體股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Participate in developing medium ~ large projects"
+        },
+        {
+          "children": [],
+          "text": "Bridge backend data to frontend web with data wrangling in the middle tier"
+        },
+        {
+          "children": [],
+          "text": "Collaborate with team members within and outside of the department"
+        },
+        {
+          "children": [],
+          "text": "Present outcomes or results in regular meetings"
+        },
+        {
+          "children": [],
+          "text": "3+ years of experience in (mediumn ~ large) web projects with modern programming languages."
+        },
+        {
+          "children": [],
+          "text": "expert in Python, fimiliar in using Django/Flask is a plus. (other frameworks are also good)"
+        },
+        {
+          "children": [],
+          "text": "proficiency in data wrangling with NumPy/Pandas or other similar library tools."
+        },
+        {
+          "children": [],
+          "text": "familiar with Web API development"
+        },
+        {
+          "children": [],
+          "text": "basic understanding of web, HTML, javascript and css."
+        },
+        {
+          "children": [],
+          "text": "knowledge of or expousre to visualization tools. (e.g. e-charts or other charting tools)"
+        },
+        {
+          "children": [],
+          "text": "basic understanding of version control flow, e.g. Git flow."
+        },
+        {
+          "children": [],
+          "text": "development under Windows, (Linux is a plus)."
+        },
+        {
+          "children": [],
+          "text": "a positive working attitude every single day."
+        },
+        {
+          "children": [],
+          "text": "a self-driven characteristic, and being responsible and proactive of what you do."
+        },
+        {
+          "children": [],
+          "text": "comply with standards, and able to perform solo/team work"
+        },
+        {
+          "children": [],
+          "text": "enjoy life, and ready to embrace the unique Neutec culture."
+        }
+      ],
+      "text": "We are looking for a Python Developer who is capable of developing interactive web pages, backend API servers, web-tracking modules, and data wrangling with Python.\nWhat You Will Do:\n- Participate in developing medium ~ large projects\n- Bridge backend data to frontend web with data wrangling in the middle tier\n- Collaborate with team members within and outside of the department\n- Present outcomes or results in regular meetings\nWhat You Will Need:\n- 3+ years of experience in (mediumn ~ large) web projects with modern programming languages.\n- expert in Python, fimiliar in using Django/Flask is a plus. (other frameworks are also good)\n- proficiency in data wrangling with NumPy/Pandas or other similar library tools.\n- familiar with Web API development\n- basic understanding of web, HTML, javascript and css.\n- knowledge of or expousre to visualization tools. (e.g. e-charts or other charting tools)\n- basic understanding of version control flow, e.g. Git flow.\n- development under Windows, (Linux is a plus).\nWhat We Expect Of You:\n- a positive working attitude every single day.\n- a self-driven characteristic, and being responsible and proactive of what you do.\n- comply with standards, and able to perform solo/team work\n- enjoy life, and ready to embrace the unique Neutec culture."
+    },
+    "employment_type_raw": "全職",
+    "title": "Software Engineer(Python)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區瑞光路333號16樓",
+    "raw": "台北市內湖區瑞光路333號16樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "Python",
+          "HTML",
+          "JavaScript",
+          "jQuery",
+          "CSS",
+          "Django"
+        ],
+        "label": "擅長工具",
+        "text": "Python、HTML、JavaScript、jQuery、CSS、Django"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "- a positive working and team work attitude every single day.\n- a self-driven characteristic, and being responsible and proactive of what you do.\n- enjoy life, and live for the moment."
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "- a positive working and team work attitude every single day.\n- a self-driven characteristic, and being responsible and proactive of what you do.\n- enjoy life, and live for the moment.",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n擅長工具：Python、HTML、JavaScript、jQuery、CSS、Django\n其他條件：- a positive working and team work attitude every single day.\n- a self-driven characteristic, and being responsible and proactive of what you do.\n- enjoy life, and live for the moment.",
+    "tools": [
+      "Python",
+      "HTML",
+      "JavaScript",
+      "jQuery",
+      "CSS",
+      "Django"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 12
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:50:47+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are looking for a Python Developer who is capable of developing interactive web pages, backend API servers, web-tracking modules, and data wrangling with Python.\nWhat You Will Do:\n- Participate in developing medium ~ large projects\n- Bridge backend data to frontend web with data wrangling in the middle tier\n- Collaborate with team members within and outside of the department\n- Present outcomes or results in regular meetings\nWhat You Will Need:\n- 3+ years of experience in (mediumn ~ large) web projects with modern programming languages.\n- expert in Python, fimiliar in using Django/Flask is a plus. (other frameworks are also good)\n- proficiency in data wrangling with NumPy/Pandas or other similar library tools.\n- familiar with Web API development\n- basic understanding of web, HTML, javascript and css.\n- knowledge of or expousre to visualization tools. (e.g. e-charts or other charting tools)\n- basic understanding of version control flow, e.g. Git flow.\n- development under Windows, (Linux is a plus).\nWhat We Expect Of You:\n- a positive working attitude every single day.\n- a self-driven characteristic, and being responsible and proactive of what you do.\n- comply with standards, and able to perform solo/team work\n- enjoy life, and ready to embrace the unique Neutec culture.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區瑞光路333號16樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are looking for a Python Developer who is capable of developing interactive web pages, backend API servers, web-tracking modules, and data wrangling with Python.\nWhat You Will Do:\n- Participate in developing medium ~ large projects\n- Bridge backend data to frontend web with data wrangling in the middle tier\n- Collaborate with team members within and outside of the department\n- Present outcomes or results in regular meetings\nWhat You Will Need:\n- 3+ years of experience in (mediumn ~ large) web projects with modern programming languages.\n- expert in Python, fimiliar in using Django/Flask is a plus. (other frameworks are also good)\n- proficiency in data wrangling with NumPy/Pandas or other similar library tools.\n- familiar with Web API development\n- basic understanding of web, HTML, javascript and css.\n- knowledge of or expousre to visualization tools. (e.g. e-charts or other charting tools)\n- basic understanding of version control flow, e.g. Git flow.\n- development under Windows, (Linux is a plus).\nWhat We Expect Of You:\n- a positive working attitude every single day.\n- a self-driven characteristic, and being responsible and proactive of what you do.\n- comply with standards, and able to perform solo/team work\n- enjoy life, and ready to embrace the unique Neutec culture."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "HTML",
+            "JavaScript",
+            "jQuery",
+            "CSS",
+            "Django"
+          ],
+          "label": "擅長工具",
+          "text": "Python、HTML、JavaScript、jQuery、CSS、Django",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "- a positive working and team work attitude every single day.\n- a self-driven characteristic, and being responsible and proactive of what you do.\n- enjoy life, and live for the moment.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n擅長工具：Python、HTML、JavaScript、jQuery、CSS、Django\n其他條件：- a positive working and team work attitude every single day.\n- a self-driven characteristic, and being responsible and proactive of what you do.\n- enjoy life, and live for the moment."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "6yfn5",
+    "job_url": "https://www.104.com.tw/job/6yfn5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6yfn5.json",
+    "raw_sha256": "3baf89c27e644820d1255557e56d1333b55e14e5742534dd0f1d23a302216d20",
+    "requested_url": "https://www.104.com.tw/api/jobs/6yfn5"
+  }
+}

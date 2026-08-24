@@ -1,0 +1,291 @@
+{
+  "company": {
+    "id": "1a2x6bmydr",
+    "name": "微達軟體有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "AI工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "跨團隊開發流程診斷與自動化"
+        },
+        {
+          "children": [],
+          "text": "流程重塑： 評估現有從產品需求（PRD）到交付（Delivery）的開發流程，導入 AI 工具以減少跨部門（設計、前後端、測試）之間的重複性手動作業。"
+        },
+        {
+          "children": [],
+          "text": "平台在地化優化：針對多語系版本與不同市場需求，進行 UI 自動化調整，同時提升高頻交易環境下的開發效率。"
+        },
+        {
+          "children": [],
+          "text": "UI/UX 與前端開發優化"
+        },
+        {
+          "children": [],
+          "text": "設計交付自動化：建立 AI 驅動的設計規範（Design System）檢核機制，推動 Design-to-Code 工作流程，降低前端工程師在樣式微調上的時間成本。"
+        },
+        {
+          "children": [],
+          "text": "元件化開發加速：導入 AI 輔助工具（如自訂 Copilot 規則），確保前端元件符合平台一致的架構與規範。"
+        },
+        {
+          "children": [],
+          "text": "後端架構優化與品質控管"
+        },
+        {
+          "children": [],
+          "text": "程式碼審查自動化：建立以 AI 為基礎的自動化程式碼審查機制，特別針對遊戲產業重視的安全性（如 SQL Injection、防作弊機制）進行初步檢查。"
+        },
+        {
+          "children": [],
+          "text": "自動化測試與文件產出：推動 AI 自動產生單元測試、壓力測試腳本與 API 文件，確保後端邏輯的穩定性與可靠度。"
+        },
+        {
+          "children": [],
+          "text": "技術背景：熟悉大型語言模型（LLM）應用（如 GPT、Claude、Llama）、API 串接，以及 AI 代理（AI Agents）工作流程設計。"
+        },
+        {
+          "children": [],
+          "text": "開發經驗：具備軟體開發背景（熟悉 JavaScript／TypeScript、Go 或 Java 等），能理解開發人員在實際開發過程中的痛點。"
+        },
+        {
+          "children": [],
+          "text": "產業敏感度：了解遊戲平台 B2B／B2C 營運流程，具備機率演算法或金流串接相關開發經驗者優先考慮。"
+        },
+        {
+          "children": [],
+          "text": "溝通能力：能將複雜技術轉化為易於理解的操作文件，並具備帶領團隊導入並適應 AI 工作模式的能力。"
+        }
+      ],
+      "text": "本職位將負責將 AI 技術實際導入軟體開發流程中，優化遊戲平台的研發效率與品質。你將與前端、後端、設計團隊密切合作，找出開發流程中的痛點，並透過 AI 工具與自動化機制進行改善。\n【核心職責】\n1. 跨團隊開發流程診斷與自動化\n- 流程重塑： 評估現有從產品需求（PRD）到交付（Delivery）的開發流程，導入 AI 工具以減少跨部門（設計、前後端、測試）之間的重複性手動作業。\n- 平台在地化優化：針對多語系版本與不同市場需求，進行 UI 自動化調整，同時提升高頻交易環境下的開發效率。\n2. UI/UX 與前端開發優化\n-設計交付自動化：建立 AI 驅動的設計規範（Design System）檢核機制，推動 Design-to-Code 工作流程，降低前端工程師在樣式微調上的時間成本。\n-元件化開發加速：導入 AI 輔助工具（如自訂 Copilot 規則），確保前端元件符合平台一致的架構與規範。\n3. 後端架構優化與品質控管\n-程式碼審查自動化：建立以 AI 為基礎的自動化程式碼審查機制，特別針對遊戲產業重視的安全性（如 SQL Injection、防作弊機制）進行初步檢查。\n-自動化測試與文件產出：推動 AI 自動產生單元測試、壓力測試腳本與 API 文件，確保後端邏輯的穩定性與可靠度。\n【應徵條件】\n-技術背景：熟悉大型語言模型（LLM）應用（如 GPT、Claude、Llama）、API 串接，以及 AI 代理（AI Agents）工作流程設計。\n-開發經驗：具備軟體開發背景（熟悉 JavaScript／TypeScript、Go 或 Java 等），能理解開發人員在實際開發過程中的痛點。\n-產業敏感度：了解遊戲平台 B2B／B2C 營運流程，具備機率演算法或金流串接相關開發經驗者優先考慮。\n-溝通能力：能將複雜技術轉化為易於理解的操作文件，並具備帶領團隊導入並適應 AI 工作模式的能力。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI 流程轉型顧問 (AI Process Transformation Consultant)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區堤頂大道二段293號5樓之1",
+    "raw": "台北市內湖區堤頂大道二段293號5樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "Java",
+          "JavaScript",
+          "Python",
+          "Github",
+          "Gemini",
+          "Claude",
+          "Copilot",
+          "Git",
+          "LLM"
+        ],
+        "label": "擅長工具",
+        "text": "Java、JavaScript、Python、Github、Gemini、Claude、Copilot、Git、LLM"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "AI",
+          "軟體品質與保證",
+          "軟體整合測試",
+          "問題追蹤處理(Bug tracking)"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、AI、軟體品質與保證、軟體整合測試、問題追蹤處理(Bug tracking)"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分條件】\n具備使用 Claude Code、Cursor 或 GitHub Copilot 進行企業級開發流程優化的實務經驗。\n熟悉 DevOps 流程，並具備導入 AI 輔助（如 AI-assisted CI/CD）的相關經驗。\n具備數位轉型顧問或專案經驗，能提供具體的投資報酬率（ROI）評估者尤佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關",
+      "資訊管理相關"
+    ],
+    "other_text": "【加分條件】\n具備使用 Claude Code、Cursor 或 GitHub Copilot 進行企業級開發流程優化的實務經驗。\n熟悉 DevOps 流程，並具備導入 AI 輔助（如 AI-assisted CI/CD）的相關經驗。\n具備數位轉型顧問或專案經驗，能提供具體的投資報酬率（ROI）評估者尤佳。",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "AI",
+      "軟體品質與保證",
+      "軟體整合測試",
+      "問題追蹤處理(Bug tracking)"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、資訊管理相關\n擅長工具：Java、JavaScript、Python、Github、Gemini、Claude、Copilot、Git、LLM\n工作技能：軟體工程系統開發、軟體程式設計、AI、軟體品質與保證、軟體整合測試、問題追蹤處理(Bug tracking)\n其他條件：【加分條件】\n具備使用 Claude Code、Cursor 或 GitHub Copilot 進行企業級開發流程優化的實務經驗。\n熟悉 DevOps 流程，並具備導入 AI 輔助（如 AI-assisted CI/CD）的相關經驗。\n具備數位轉型顧問或專案經驗，能提供具體的投資報酬率（ROI）評估者尤佳。",
+    "tools": [
+      "Java",
+      "JavaScript",
+      "Python",
+      "Github",
+      "Gemini",
+      "Claude",
+      "Copilot",
+      "Git",
+      "LLM"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 4
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:29:56+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "本職位將負責將 AI 技術實際導入軟體開發流程中，優化遊戲平台的研發效率與品質。你將與前端、後端、設計團隊密切合作，找出開發流程中的痛點，並透過 AI 工具與自動化機制進行改善。\n【核心職責】\n1. 跨團隊開發流程診斷與自動化\n- 流程重塑： 評估現有從產品需求（PRD）到交付（Delivery）的開發流程，導入 AI 工具以減少跨部門（設計、前後端、測試）之間的重複性手動作業。\n- 平台在地化優化：針對多語系版本與不同市場需求，進行 UI 自動化調整，同時提升高頻交易環境下的開發效率。\n2. UI/UX 與前端開發優化\n-設計交付自動化：建立 AI 驅動的設計規範（Design System）檢核機制，推動 Design-to-Code 工作流程，降低前端工程師在樣式微調上的時間成本。\n-元件化開發加速：導入 AI 輔助工具（如自訂 Copilot 規則），確保前端元件符合平台一致的架構與規範。\n3. 後端架構優化與品質控管\n-程式碼審查自動化：建立以 AI 為基礎的自動化程式碼審查機制，特別針對遊戲產業重視的安全性（如 SQL Injection、防作弊機制）進行初步檢查。\n-自動化測試與文件產出：推動 AI 自動產生單元測試、壓力測試腳本與 API 文件，確保後端邏輯的穩定性與可靠度。\n【應徵條件】\n-技術背景：熟悉大型語言模型（LLM）應用（如 GPT、Claude、Llama）、API 串接，以及 AI 代理（AI Agents）工作流程設計。\n-開發經驗：具備軟體開發背景（熟悉 JavaScript／TypeScript、Go 或 Java 等），能理解開發人員在實際開發過程中的痛點。\n-產業敏感度：了解遊戲平台 B2B／B2C 營運流程，具備機率演算法或金流串接相關開發經驗者優先考慮。\n-溝通能力：能將複雜技術轉化為易於理解的操作文件，並具備帶領團隊導入並適應 AI 工作模式的能力。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "AI工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、AI工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區堤頂大道二段293號5樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "本職位將負責將 AI 技術實際導入軟體開發流程中，優化遊戲平台的研發效率與品質。你將與前端、後端、設計團隊密切合作，找出開發流程中的痛點，並透過 AI 工具與自動化機制進行改善。\n【核心職責】\n1. 跨團隊開發流程診斷與自動化\n- 流程重塑： 評估現有從產品需求（PRD）到交付（Delivery）的開發流程，導入 AI 工具以減少跨部門（設計、前後端、測試）之間的重複性手動作業。\n- 平台在地化優化：針對多語系版本與不同市場需求，進行 UI 自動化調整，同時提升高頻交易環境下的開發效率。\n2. UI/UX 與前端開發優化\n-設計交付自動化：建立 AI 驅動的設計規範（Design System）檢核機制，推動 Design-to-Code 工作流程，降低前端工程師在樣式微調上的時間成本。\n-元件化開發加速：導入 AI 輔助工具（如自訂 Copilot 規則），確保前端元件符合平台一致的架構與規範。\n3. 後端架構優化與品質控管\n-程式碼審查自動化：建立以 AI 為基礎的自動化程式碼審查機制，特別針對遊戲產業重視的安全性（如 SQL Injection、防作弊機制）進行初步檢查。\n-自動化測試與文件產出：推動 AI 自動產生單元測試、壓力測試腳本與 API 文件，確保後端邏輯的穩定性與可靠度。\n【應徵條件】\n-技術背景：熟悉大型語言模型（LLM）應用（如 GPT、Claude、Llama）、API 串接，以及 AI 代理（AI Agents）工作流程設計。\n-開發經驗：具備軟體開發背景（熟悉 JavaScript／TypeScript、Go 或 Java 等），能理解開發人員在實際開發過程中的痛點。\n-產業敏感度：了解遊戲平台 B2B／B2C 營運流程，具備機率演算法或金流串接相關開發經驗者優先考慮。\n-溝通能力：能將複雜技術轉化為易於理解的操作文件，並具備帶領團隊導入並適應 AI 工作模式的能力。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "JavaScript",
+            "Python",
+            "Github",
+            "Gemini",
+            "Claude",
+            "Copilot",
+            "Git",
+            "LLM"
+          ],
+          "label": "擅長工具",
+          "text": "Java、JavaScript、Python、Github、Gemini、Claude、Copilot、Git、LLM",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "AI",
+            "軟體品質與保證",
+            "軟體整合測試",
+            "問題追蹤處理(Bug tracking)"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、AI、軟體品質與保證、軟體整合測試、問題追蹤處理(Bug tracking)",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分條件】\n具備使用 Claude Code、Cursor 或 GitHub Copilot 進行企業級開發流程優化的實務經驗。\n熟悉 DevOps 流程，並具備導入 AI 輔助（如 AI-assisted CI/CD）的相關經驗。\n具備數位轉型顧問或專案經驗，能提供具體的投資報酬率（ROI）評估者尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、資訊管理相關\n擅長工具：Java、JavaScript、Python、Github、Gemini、Claude、Copilot、Git、LLM\n工作技能：軟體工程系統開發、軟體程式設計、AI、軟體品質與保證、軟體整合測試、問題追蹤處理(Bug tracking)\n其他條件：【加分條件】\n具備使用 Claude Code、Cursor 或 GitHub Copilot 進行企業級開發流程優化的實務經驗。\n熟悉 DevOps 流程，並具備導入 AI 輔助（如 AI-assisted CI/CD）的相關經驗。\n具備數位轉型顧問或專案經驗，能提供具體的投資報酬率（ROI）評估者尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "915un",
+    "job_url": "https://www.104.com.tw/job/915un",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/915un.json",
+    "raw_sha256": "9fc2d3f78642bd241ee157fd52579f82886542d40078022769cb324583de3367",
+    "requested_url": "https://www.104.com.tw/api/jobs/915un"
+  }
+}

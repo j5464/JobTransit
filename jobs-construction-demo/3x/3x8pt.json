@@ -1,0 +1,256 @@
+{
+  "company": {
+    "id": "a6fk8ns",
+    "name": "精益科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "演算法相關論文研讀與分析。"
+        },
+        {
+          "children": [],
+          "text": "影像辨識演算法研究與開發。"
+        },
+        {
+          "children": [],
+          "text": "實作AI演算法，如:CNN、RNN、LSTM、seq2seq。"
+        },
+        {
+          "children": [],
+          "text": "自然語言 (NLP): 文字資料摘要提取、OCR文字後處理。"
+        },
+        {
+          "children": [],
+          "text": "演算法設計、開發、驗證、以及效能和效率的評估改善。"
+        },
+        {
+          "children": [],
+          "text": "熟悉C/C++程式語言設計。"
+        },
+        {
+          "children": [],
+          "text": "有 Document Image 及 Photo Image 相關 影像處理 開發經驗尤佳。"
+        },
+        {
+          "children": [],
+          "text": "有色彩校正及光學設備調教經驗者尤佳。"
+        },
+        {
+          "children": [],
+          "text": "* 公司官網 www.adview.com.tw **"
+        }
+      ],
+      "text": "1. 演算法相關論文研讀與分析。\n2. 影像辨識演算法研究與開發。\n3. 實作AI演算法，如:CNN、RNN、LSTM、seq2seq。\n4. 自然語言 (NLP): 文字資料摘要提取、OCR文字後處理。\n5. 演算法設計、開發、驗證、以及效能和效率的評估改善。\n6. 熟悉C/C++程式語言設計。\n7. 有 Document Image 及 Photo Image 相關 影像處理 開發經驗尤佳。\n8. 有色彩校正及光學設備調教經驗者尤佳。\n** 公司官網 www.adview.com.tw **"
+    },
+    "employment_type_raw": "全職",
+    "title": "高雄軟體園區 - AI影像演算法工程師"
+  },
+  "location": {
+    "address_raw": "高雄市前鎮區復興四路 12 號",
+    "raw": "高雄市前鎮區復興四路 12 號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Visual C++",
+          "Visual Studio",
+          "Visual Studio .net"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Visual C++、Visual Studio、Visual Studio .net"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、中等、中等"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、數學及電算機科學學科類\n語文條件：英文：略懂、略懂、中等、中等\n擅長工具：C、C++、Visual C++、Visual Studio、Visual Studio .net\n工作技能：軟體程式設計",
+    "tools": [
+      "C",
+      "C++",
+      "Visual C++",
+      "Visual Studio",
+      "Visual Studio .net"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 52
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:31:07+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 演算法相關論文研讀與分析。\n2. 影像辨識演算法研究與開發。\n3. 實作AI演算法，如:CNN、RNN、LSTM、seq2seq。\n4. 自然語言 (NLP): 文字資料摘要提取、OCR文字後處理。\n5. 演算法設計、開發、驗證、以及效能和效率的評估改善。\n6. 熟悉C/C++程式語言設計。\n7. 有 Document Image 及 Photo Image 相關 影像處理 開發經驗尤佳。\n8. 有色彩校正及光學設備調教經驗者尤佳。\n** 公司官網 www.adview.com.tw **",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市前鎮區復興四路 12 號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 演算法相關論文研讀與分析。\n2. 影像辨識演算法研究與開發。\n3. 實作AI演算法，如:CNN、RNN、LSTM、seq2seq。\n4. 自然語言 (NLP): 文字資料摘要提取、OCR文字後處理。\n5. 演算法設計、開發、驗證、以及效能和效率的評估改善。\n6. 熟悉C/C++程式語言設計。\n7. 有 Document Image 及 Photo Image 相關 影像處理 開發經驗尤佳。\n8. 有色彩校正及光學設備調教經驗者尤佳。\n** 公司官網 www.adview.com.tw **"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Visual C++",
+            "Visual Studio",
+            "Visual Studio .net"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Visual C++、Visual Studio、Visual Studio .net",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、數學及電算機科學學科類\n語文條件：英文：略懂、略懂、中等、中等\n擅長工具：C、C++、Visual C++、Visual Studio、Visual Studio .net\n工作技能：軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "3x8pt",
+    "job_url": "https://www.104.com.tw/job/3x8pt",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/3x8pt.json",
+    "raw_sha256": "896c6b47716db118d76b522a11ad8b37f9ce9b70a0a13a3add4259bdbe45a7d7",
+    "requested_url": "https://www.104.com.tw/api/jobs/3x8pt"
+  }
+}

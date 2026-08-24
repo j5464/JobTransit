@@ -1,0 +1,180 @@
+{
+  "company": {
+    "id": "cos7ync",
+    "name": "應廣科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "硬體研發工程師",
+      "韌體工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "馬達控制演算法開發"
+        },
+        {
+          "children": [],
+          "text": "協助客戶完成專案"
+        },
+        {
+          "children": [],
+          "text": "IC驗證與規格定義"
+        }
+      ],
+      "text": "1. 馬達控制演算法開發\n2. 協助客戶完成專案\n3. IC驗證與規格定義"
+    },
+    "employment_type_raw": "全職",
+    "title": "直流無刷馬達(BLDC)系統工程師"
+  },
+  "location": {
+    "address_raw": "新竹市東區公道五路三段1號6樓之6",
+    "raw": "新竹市東區公道五路三段1號6樓之6"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、工程學科類"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具電子電路軟硬體處理經驗\n2.具有 BLDC 控制參數調整之相關經驗者佳\n3.程式編寫.\n4.系統實現"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "工程學科類"
+    ],
+    "other_text": "1.具電子電路軟硬體處理經驗\n2.具有 BLDC 控制參數調整之相關經驗者佳\n3.程式編寫.\n4.系統實現",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、工程學科類\n其他條件：1.具電子電路軟硬體處理經驗\n2.具有 BLDC 控制參數調整之相關經驗者佳\n3.程式編寫.\n4.系統實現",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 75
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:26:29+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 馬達控制演算法開發\n2. 協助客戶完成專案\n3. IC驗證與規格定義",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "硬體研發工程師",
+            "韌體工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "硬體研發工程師、韌體工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹市東區公道五路三段1號6樓之6",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 馬達控制演算法開發\n2. 協助客戶完成專案\n3. IC驗證與規格定義"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具電子電路軟硬體處理經驗\n2.具有 BLDC 控制參數調整之相關經驗者佳\n3.程式編寫.\n4.系統實現",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：電機電子工程相關、資訊工程相關、工程學科類\n其他條件：1.具電子電路軟硬體處理經驗\n2.具有 BLDC 控制參數調整之相關經驗者佳\n3.程式編寫.\n4.系統實現"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "5ympm",
+    "job_url": "https://www.104.com.tw/job/5ympm",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/5ympm.json",
+    "raw_sha256": "a297ad3df7e41c1fb743248abadb2d14c72288494617072793fb12b4bcb47f2f",
+    "requested_url": "https://www.104.com.tw/api/jobs/5ympm"
+  }
+}

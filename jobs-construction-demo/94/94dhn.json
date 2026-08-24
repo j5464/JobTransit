@@ -1,0 +1,259 @@
+{
+  "company": {
+    "id": "1a2x6blhag",
+    "name": "宇軒綠能股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責系統前端與後端之架構規劃、設計、開發、維護及效能優化。"
+        },
+        {
+          "children": [],
+          "text": "與需求單位進行需求訪談、分析及規格確認及流程規劃，提出可行的系統解決方案。"
+        },
+        {
+          "children": [],
+          "text": "開發與維護前端介面及後端程式，設計並串接 RESTful API，完成系統整合與功能開發。"
+        },
+        {
+          "children": [],
+          "text": "負責資料庫設計、管理及 SQL 撰寫，確保資料正確性、效能及資訊安全。"
+        },
+        {
+          "children": [],
+          "text": "執行系統測試、功能驗證、問題分析與除錯，具備 QA（品質保證）觀念，能規劃測試情境、驗證功能品質，持續提升系統穩定性與可靠性。"
+        },
+        {
+          "children": [],
+          "text": "撰寫系統相關技術文件，協助系統建置、教育訓練及後續維護。"
+        },
+        {
+          "children": [],
+          "text": "具備跨部門溝通能力，可與使用單位進行需求訪談、協助系統規劃、專案推動及跨部門協作。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項。"
+        }
+      ],
+      "text": "1.負責系統前端與後端之架構規劃、設計、開發、維護及效能優化。\n2.與需求單位進行需求訪談、分析及規格確認及流程規劃，提出可行的系統解決方案。\n3.開發與維護前端介面及後端程式，設計並串接 RESTful API，完成系統整合與功能開發。\n4.負責資料庫設計、管理及 SQL 撰寫，確保資料正確性、效能及資訊安全。\n5.執行系統測試、功能驗證、問題分析與除錯，具備 QA（品質保證）觀念，能規劃測試情境、驗證功能品質，持續提升系統穩定性與可靠性。\n6.撰寫系統相關技術文件，協助系統建置、教育訓練及後續維護。\n7.具備跨部門溝通能力，可與使用單位進行需求訪談、協助系統規劃、專案推動及跨部門協作。\n8.其他主管交辦事項。"
+    },
+    "employment_type_raw": "全職",
+    "title": "[資訊部]全端工程師"
+  },
+  "location": {
+    "address_raw": "台南市安平區郡平路396號",
+    "raw": "台南市安平區郡平路396號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "Github",
+          "Git",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Node.js",
+          "HTTP",
+          "PostgreSQL",
+          "MySQL"
+        ],
+        "label": "擅長工具",
+        "text": "Github、Git、HTML、CSS、JavaScript、Node.js、HTTP、PostgreSQL、MySQL"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "系統維護操作"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、軟體程式設計、系統維護操作"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.有售電業平台開發經驗優先錄取。\n2.具備全端系統開發經驗，能獨立完成需求分析、系統設計、開發、測試及上線。\n3.熟悉 Git、Docker、RESTful API、SQL 資料庫設計。\n4.具備系統分析、流程規劃（Flow Chart／UML）及技術文件撰寫能力。\n5.具備 QA 測試觀念或自動化測試經驗（如 Playwright、Selenium、Cypress 等）尤佳。\n6.具備良好的跨部門溝通與問題分析能力，能主動推動專案進行。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "1.有售電業平台開發經驗優先錄取。\n2.具備全端系統開發經驗，能獨立完成需求分析、系統設計、開發、測試及上線。\n3.熟悉 Git、Docker、RESTful API、SQL 資料庫設計。\n4.具備系統分析、流程規劃（Flow Chart／UML）及技術文件撰寫能力。\n5.具備 QA 測試觀念或自動化測試經驗（如 Playwright、Selenium、Cypress 等）尤佳。\n6.具備良好的跨部門溝通與問題分析能力，能主動推動專案進行。",
+    "skills": [
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "系統維護操作"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Github、Git、HTML、CSS、JavaScript、Node.js、HTTP、PostgreSQL、MySQL\n工作技能：軟體工程系統開發、軟體程式設計、系統維護操作\n其他條件：1.有售電業平台開發經驗優先錄取。\n2.具備全端系統開發經驗，能獨立完成需求分析、系統設計、開發、測試及上線。\n3.熟悉 Git、Docker、RESTful API、SQL 資料庫設計。\n4.具備系統分析、流程規劃（Flow Chart／UML）及技術文件撰寫能力。\n5.具備 QA 測試觀念或自動化測試經驗（如 Playwright、Selenium、Cypress 等）尤佳。\n6.具備良好的跨部門溝通與問題分析能力，能主動推動專案進行。",
+    "tools": [
+      "Github",
+      "Git",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node.js",
+      "HTTP",
+      "PostgreSQL",
+      "MySQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 22
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:16:45+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.負責系統前端與後端之架構規劃、設計、開發、維護及效能優化。\n2.與需求單位進行需求訪談、分析及規格確認及流程規劃，提出可行的系統解決方案。\n3.開發與維護前端介面及後端程式，設計並串接 RESTful API，完成系統整合與功能開發。\n4.負責資料庫設計、管理及 SQL 撰寫，確保資料正確性、效能及資訊安全。\n5.執行系統測試、功能驗證、問題分析與除錯，具備 QA（品質保證）觀念，能規劃測試情境、驗證功能品質，持續提升系統穩定性與可靠性。\n6.撰寫系統相關技術文件，協助系統建置、教育訓練及後續維護。\n7.具備跨部門溝通能力，可與使用單位進行需求訪談、協助系統規劃、專案推動及跨部門協作。\n8.其他主管交辦事項。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台南市安平區郡平路396號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.負責系統前端與後端之架構規劃、設計、開發、維護及效能優化。\n2.與需求單位進行需求訪談、分析及規格確認及流程規劃，提出可行的系統解決方案。\n3.開發與維護前端介面及後端程式，設計並串接 RESTful API，完成系統整合與功能開發。\n4.負責資料庫設計、管理及 SQL 撰寫，確保資料正確性、效能及資訊安全。\n5.執行系統測試、功能驗證、問題分析與除錯，具備 QA（品質保證）觀念，能規劃測試情境、驗證功能品質，持續提升系統穩定性與可靠性。\n6.撰寫系統相關技術文件，協助系統建置、教育訓練及後續維護。\n7.具備跨部門溝通能力，可與使用單位進行需求訪談、協助系統規劃、專案推動及跨部門協作。\n8.其他主管交辦事項。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Github",
+            "Git",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Node.js",
+            "HTTP",
+            "PostgreSQL",
+            "MySQL"
+          ],
+          "label": "擅長工具",
+          "text": "Github、Git、HTML、CSS、JavaScript、Node.js、HTTP、PostgreSQL、MySQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "系統維護操作"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、軟體程式設計、系統維護操作",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.有售電業平台開發經驗優先錄取。\n2.具備全端系統開發經驗，能獨立完成需求分析、系統設計、開發、測試及上線。\n3.熟悉 Git、Docker、RESTful API、SQL 資料庫設計。\n4.具備系統分析、流程規劃（Flow Chart／UML）及技術文件撰寫能力。\n5.具備 QA 測試觀念或自動化測試經驗（如 Playwright、Selenium、Cypress 等）尤佳。\n6.具備良好的跨部門溝通與問題分析能力，能主動推動專案進行。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n擅長工具：Github、Git、HTML、CSS、JavaScript、Node.js、HTTP、PostgreSQL、MySQL\n工作技能：軟體工程系統開發、軟體程式設計、系統維護操作\n其他條件：1.有售電業平台開發經驗優先錄取。\n2.具備全端系統開發經驗，能獨立完成需求分析、系統設計、開發、測試及上線。\n3.熟悉 Git、Docker、RESTful API、SQL 資料庫設計。\n4.具備系統分析、流程規劃（Flow Chart／UML）及技術文件撰寫能力。\n5.具備 QA 測試觀念或自動化測試經驗（如 Playwright、Selenium、Cypress 等）尤佳。\n6.具備良好的跨部門溝通與問題分析能力，能主動推動專案進行。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94dhn",
+    "job_url": "https://www.104.com.tw/job/94dhn",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94dhn.json",
+    "raw_sha256": "ae0c62c023ded323a0a4adad11334e084e25fc3501fca5ebc50100d2e47ead76",
+    "requested_url": "https://www.104.com.tw/api/jobs/94dhn"
+  }
+}

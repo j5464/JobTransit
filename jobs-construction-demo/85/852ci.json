@@ -1,0 +1,187 @@
+{
+  "company": {
+    "id": "10xpppow",
+    "name": "Kanto-PPC _關東鑫林科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師",
+      "MES工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "MES系統開發維護"
+        },
+        {
+          "children": [],
+          "text": "工廠自動化相關任務"
+        },
+        {
+          "children": [],
+          "text": "工廠系統整合優化"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項"
+        }
+      ],
+      "text": "1、MES系統開發維護\n2、工廠自動化相關任務\n3、工廠系統整合優化\n4、主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊工程師(工廠系統/MES 開發)桃園廠"
+  },
+  "location": {
+    "address_raw": "桃園市蘆竹區海湖東路379號",
+    "raw": "桃園市蘆竹區海湖東路379號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "C#",
+          "MES",
+          "MS SQL",
+          "HTML"
+        ],
+        "label": "擅長工具",
+        "text": "C#、MES、MS SQL、HTML"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具HTML 5前端開發經驗。\n2.具Web base應用開發相關經驗。\n3.具C#程式開發邏輯及MS SQL資料庫管理經驗。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1.具HTML 5前端開發經驗。\n2.具Web base應用開發相關經驗。\n3.具C#程式開發邏輯及MS SQL資料庫管理經驗。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：C#、MES、MS SQL、HTML\n其他條件：1.具HTML 5前端開發經驗。\n2.具Web base應用開發相關經驗。\n3.具C#程式開發邏輯及MS SQL資料庫管理經驗。",
+    "tools": [
+      "C#",
+      "MES",
+      "MS SQL",
+      "HTML"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 71
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:17:13+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1、MES系統開發維護\n2、工廠自動化相關任務\n3、工廠系統整合優化\n4、主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師",
+            "MES工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師、MES工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市蘆竹區海湖東路379號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1、MES系統開發維護\n2、工廠自動化相關任務\n3、工廠系統整合優化\n4、主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "MES",
+            "MS SQL",
+            "HTML"
+          ],
+          "label": "擅長工具",
+          "text": "C#、MES、MS SQL、HTML",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具HTML 5前端開發經驗。\n2.具Web base應用開發相關經驗。\n3.具C#程式開發邏輯及MS SQL資料庫管理經驗。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：C#、MES、MS SQL、HTML\n其他條件：1.具HTML 5前端開發經驗。\n2.具Web base應用開發相關經驗。\n3.具C#程式開發邏輯及MS SQL資料庫管理經驗。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "852ci",
+    "job_url": "https://www.104.com.tw/job/852ci",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/852ci.json",
+    "raw_sha256": "1455af7e19f9044174769f70bf16b20e85fb50efb4d152ab78f1e858a5b69d50",
+    "requested_url": "https://www.104.com.tw/api/jobs/852ci"
+  }
+}

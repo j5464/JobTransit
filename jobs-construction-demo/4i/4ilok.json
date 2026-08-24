@@ -1,0 +1,220 @@
+{
+  "company": {
+    "id": "d2nb3s0",
+    "name": "直通國際股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統分析師",
+      "軟體專案管理師",
+      "其他專案管理師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "與客戶端進行需求訪談與進度報告"
+        },
+        {
+          "children": [],
+          "text": "執行系統分析與規劃、功能測試、教育訓練"
+        },
+        {
+          "children": [],
+          "text": "製作各式專案文件(如：系統分析書、測試報告、操作手冊...等)以及謄寫會議紀錄"
+        },
+        {
+          "children": [],
+          "text": "協助團隊與客戶端溝通協調以及專案時程安排與控管"
+        },
+        {
+          "children": [],
+          "text": "升遷管道透明，未來可朝專案管理(PM)發展"
+        }
+      ],
+      "text": "[本職缺主要協助專案運行與客戶需求分析，非數據分析或資料分析相關職務]\n- 與客戶端進行需求訪談與進度報告\n- 執行系統分析與規劃、功能測試、教育訓練\n- 製作各式專案文件(如：系統分析書、測試報告、操作手冊...等)以及謄寫會議紀錄\n- 協助團隊與客戶端溝通協調以及專案時程安排與控管\n- 升遷管道透明，未來可朝專案管理(PM)發展"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體商業分析師 Junior Business Analyst"
+  },
+  "location": {
+    "address_raw": "台北市松山區南京東路四段126號7樓A室",
+    "raw": "台北市松山區南京東路四段126號7樓A室"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Excel",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、PowerPoint、Word"
+      },
+      {
+        "items": [
+          "功能測試(function test)",
+          "使用者測試(Usability test)",
+          "問題追蹤處理(Bug tracking)",
+          "測試計劃及測試報告書撰寫",
+          "文書處理軟體操作",
+          "使用者介面設計"
+        ],
+        "label": "工作技能",
+        "text": "功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、測試計劃及測試報告書撰寫、文書處理軟體操作、使用者介面設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "- 具有邏輯思考能力\n- 工作態度積極且願意學習\n- 具團隊合作精神\n- 具網頁程式相關概念或經驗 (HTML/CSS/JavaScript/SQL) 者佳"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "- 具有邏輯思考能力\n- 工作態度積極且願意學習\n- 具團隊合作精神\n- 具網頁程式相關概念或經驗 (HTML/CSS/JavaScript/SQL) 者佳",
+    "skills": [
+      "功能測試(function test)",
+      "使用者測試(Usability test)",
+      "問題追蹤處理(Bug tracking)",
+      "測試計劃及測試報告書撰寫",
+      "文書處理軟體操作",
+      "使用者介面設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：Excel、PowerPoint、Word\n工作技能：功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、測試計劃及測試報告書撰寫、文書處理軟體操作、使用者介面設計\n其他條件：- 具有邏輯思考能力\n- 工作態度積極且願意學習\n- 具團隊合作精神\n- 具網頁程式相關概念或經驗 (HTML/CSS/JavaScript/SQL) 者佳",
+    "tools": [
+      "Excel",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 7
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:36:21+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~45,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "[本職缺主要協助專案運行與客戶需求分析，非數據分析或資料分析相關職務]\n- 與客戶端進行需求訪談與進度報告\n- 執行系統分析與規劃、功能測試、教育訓練\n- 製作各式專案文件(如：系統分析書、測試報告、操作手冊...等)以及謄寫會議紀錄\n- 協助團隊與客戶端溝通協調以及專案時程安排與控管\n- 升遷管道透明，未來可朝專案管理(PM)發展",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統分析師",
+            "軟體專案管理師",
+            "其他專案管理師"
+          ],
+          "label": "職務類別",
+          "text": "系統分析師、軟體專案管理師、其他專案管理師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~45,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區南京東路四段126號7樓A室",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "[本職缺主要協助專案運行與客戶需求分析，非數據分析或資料分析相關職務]\n- 與客戶端進行需求訪談與進度報告\n- 執行系統分析與規劃、功能測試、教育訓練\n- 製作各式專案文件(如：系統分析書、測試報告、操作手冊...等)以及謄寫會議紀錄\n- 協助團隊與客戶端溝通協調以及專案時程安排與控管\n- 升遷管道透明，未來可朝專案管理(PM)發展"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "功能測試(function test)",
+            "使用者測試(Usability test)",
+            "問題追蹤處理(Bug tracking)",
+            "測試計劃及測試報告書撰寫",
+            "文書處理軟體操作",
+            "使用者介面設計"
+          ],
+          "label": "工作技能",
+          "text": "功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、測試計劃及測試報告書撰寫、文書處理軟體操作、使用者介面設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "- 具有邏輯思考能力\n- 工作態度積極且願意學習\n- 具團隊合作精神\n- 具網頁程式相關概念或經驗 (HTML/CSS/JavaScript/SQL) 者佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：Excel、PowerPoint、Word\n工作技能：功能測試(function test)、使用者測試(Usability test)、問題追蹤處理(Bug tracking)、測試計劃及測試報告書撰寫、文書處理軟體操作、使用者介面設計\n其他條件：- 具有邏輯思考能力\n- 工作態度積極且願意學習\n- 具團隊合作精神\n- 具網頁程式相關概念或經驗 (HTML/CSS/JavaScript/SQL) 者佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "4ilok",
+    "job_url": "https://www.104.com.tw/job/4ilok",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/4ilok.json",
+    "raw_sha256": "2e24474bc596520aff23870dd230f84c0a9b6e58d24f8f89d87feb4896e0156e",
+    "requested_url": "https://www.104.com.tw/api/jobs/4ilok"
+  }
+}

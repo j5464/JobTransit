@@ -1,0 +1,217 @@
+{
+  "company": {
+    "id": "7f39r7c",
+    "name": "宏燁資訊股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "資料工程師",
+      "數據分析師／資料分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "RPA軟體流程自動化(UiPath / Automation Anywhere)需求訪談、流程規劃、流程開發與維護。"
+        },
+        {
+          "children": [],
+          "text": "設定軟體自動化流程、伺服器平台運用、流程開發。"
+        },
+        {
+          "children": [],
+          "text": "個性主動積極，具程式開發相關經驗佳。"
+        },
+        {
+          "children": [],
+          "text": "有良好的溝通與表達能力，具團隊合作精神。"
+        },
+        {
+          "children": [],
+          "text": "具有RPA經驗者佳。"
+        },
+        {
+          "children": [],
+          "text": "依個人經驗與期望安排對應專案職務(駐點客戶端等)。"
+        },
+        {
+          "children": [],
+          "text": "無RPA經驗可，歡迎想要學習與實作RPA機器人的夥伴加入。"
+        }
+      ],
+      "text": "1. RPA軟體流程自動化(UiPath / Automation Anywhere)需求訪談、流程規劃、流程開發與維護。\n2. 設定軟體自動化流程、伺服器平台運用、流程開發。\n3. 個性主動積極，具程式開發相關經驗佳。\n4. 有良好的溝通與表達能力，具團隊合作精神。\n5. 具有RPA經驗者佳。\n6. 依個人經驗與期望安排對應專案職務(駐點客戶端等)。\n7. 無RPA經驗可，歡迎想要學習與實作RPA機器人的夥伴加入。"
+    },
+    "employment_type_raw": "全職",
+    "title": "數據工程師 - RPA流程自動化人員(IDS)"
+  },
+  "location": {
+    "address_raw": "台北市中正區北平東路30號7樓",
+    "raw": "台北市中正區北平東路30號7樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "Java",
+          "VBA",
+          "Visual Studio .net"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、Java、VBA、Visual Studio .net"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "系統整合分析",
+          "軟體工程系統開發",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "系統架構規劃",
+      "系統整合分析",
+      "軟體工程系統開發",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：ASP.NET、C#、Java、VBA、Visual Studio .net\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "Java",
+      "VBA",
+      "Visual Studio .net"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 33
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:42:54+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. RPA軟體流程自動化(UiPath / Automation Anywhere)需求訪談、流程規劃、流程開發與維護。\n2. 設定軟體自動化流程、伺服器平台運用、流程開發。\n3. 個性主動積極，具程式開發相關經驗佳。\n4. 有良好的溝通與表達能力，具團隊合作精神。\n5. 具有RPA經驗者佳。\n6. 依個人經驗與期望安排對應專案職務(駐點客戶端等)。\n7. 無RPA經驗可，歡迎想要學習與實作RPA機器人的夥伴加入。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "資料工程師",
+            "數據分析師／資料分析師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、資料工程師、數據分析師／資料分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中正區北平東路30號7樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. RPA軟體流程自動化(UiPath / Automation Anywhere)需求訪談、流程規劃、流程開發與維護。\n2. 設定軟體自動化流程、伺服器平台運用、流程開發。\n3. 個性主動積極，具程式開發相關經驗佳。\n4. 有良好的溝通與表達能力，具團隊合作精神。\n5. 具有RPA經驗者佳。\n6. 依個人經驗與期望安排對應專案職務(駐點客戶端等)。\n7. 無RPA經驗可，歡迎想要學習與實作RPA機器人的夥伴加入。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "Java",
+            "VBA",
+            "Visual Studio .net"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、Java、VBA、Visual Studio .net",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "系統整合分析",
+            "軟體工程系統開發",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科、大學、碩士\n擅長工具：ASP.NET、C#、Java、VBA、Visual Studio .net\n工作技能：系統架構規劃、系統整合分析、軟體工程系統開發、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "874x5",
+    "job_url": "https://www.104.com.tw/job/874x5",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/874x5.json",
+    "raw_sha256": "18c1e9e960bb72e4171077bfb2649dc004df10761d6135acc57fe945a6aa52dc",
+    "requested_url": "https://www.104.com.tw/api/jobs/874x5"
+  }
+}

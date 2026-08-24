@@ -1,0 +1,270 @@
+{
+  "company": {
+    "id": "cu8hxnc",
+    "name": "美商浪橋科技股份有限公司台灣分公司_Splashtop Inc."
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師",
+      "系統分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Create and maintain new or existing production systems."
+        },
+        {
+          "children": [],
+          "text": "Learn and improve CICD flows."
+        },
+        {
+          "children": [],
+          "text": "Work with the R&D teams to improve development life cycles."
+        },
+        {
+          "children": [],
+          "text": "To survey, propose, and adopt new technologies or solutions to make life easier."
+        },
+        {
+          "children": [],
+          "text": "Share the daily and on-call duty maintenance responsibilities."
+        },
+        {
+          "children": [],
+          "text": "Experience with the AWS cloud provider."
+        },
+        {
+          "children": [],
+          "text": "Experience in Kubernetes."
+        },
+        {
+          "children": [],
+          "text": "Hunger to learn, open mind, not afraid to chase new technologies."
+        },
+        {
+          "children": [],
+          "text": "Good at working in a team."
+        },
+        {
+          "children": [],
+          "text": "Growth mindset, good at learning new things."
+        },
+        {
+          "children": [],
+          "text": "Good at communication."
+        },
+        {
+          "children": [],
+          "text": "AI native worker, familiar with any one of them:"
+        },
+        {
+          "children": [],
+          "text": "IT/MIS experience in any one of:"
+        },
+        {
+          "children": [],
+          "text": "Programming experience. (e.g., Shell script, Python, Go, Ruby, etc.)"
+        },
+        {
+          "children": [],
+          "text": "The IaC experience. (e.g., Terraform, Ansible, CloudFormation, CDK, etc.)"
+        },
+        {
+          "children": [],
+          "text": "Git experience."
+        },
+        {
+          "children": [],
+          "text": "Maintenance experience with any one of the cloud providers. (e.g., Amazon, Azure, Google, etc.)"
+        },
+        {
+          "children": [],
+          "text": "Monitoring experience. (e.g., Grafana related, OpenTelemetry, Prometheus, VictoriaMetrics, Ganglia, Pandora, etc.)"
+        },
+        {
+          "children": [],
+          "text": "CICD experience. (e.g., Argo related, Jenkins, GitHub, GitLab, etc.)"
+        }
+      ],
+      "text": "We are looking for Junior engineers who have SMART, EASY-GOING, PATIENT, and good TEAMWORK characteristics.\n▲ About Splashtop\nSplashtop Inc. is a rising star in the remote access/remote support industry.\nOur backend system is hosted on AWS, GCP, and OCI, serving 500K+ active users and 2M+ online endpoints. The average API is around 2K+ QPS.\n▲ You will be working on one or many of :\n- Create and maintain new or existing production systems.\n- Learn and improve CICD flows.\n- Work with the R&D teams to improve development life cycles.\n- To survey, propose, and adopt new technologies or solutions to make life easier.\n- Share the daily and on-call duty maintenance responsibilities.\n▲ MUST HAVE\n- Experience with the AWS cloud provider.\n- Experience in Kubernetes.\n- Hunger to learn, open mind, not afraid to chase new technologies.\n- Good at working in a team.\n- Growth mindset, good at learning new things.\n- Good at communication.\n- AI native worker, familiar with any one of them:\n◎ LLMs (e.g., Anthropic, OpenAI, xAI, Google, etc.)\n◎ AI IDE editors (e.g., VSCode, Cursor, Antigravity, Winsurf, etc.)\n◎ Local LLM models.\n▲ NICE TO HAVE\n- IT/MIS experience in any one of:\n◎ Linux (e.g., CentOS, Ubuntu, RHEL, Debian)\n◎ Virtualization (e.g., KVM, VMWare, Hyper-V)\n◎ Networking (physical or virtual)\n◎ Service deployment or maintenance (e.g., Postfix, nginx, Apache, Bind, etc.)\n- Programming experience. (e.g., Shell script, Python, Go, Ruby, etc.)\n- The IaC experience. (e.g., Terraform, Ansible, CloudFormation, CDK, etc.)\n- Git experience.\n- Maintenance experience with any one of the cloud providers. (e.g., Amazon, Azure, Google, etc.)\n- Monitoring experience. (e.g., Grafana related, OpenTelemetry, Prometheus, VictoriaMetrics, Ganglia, Pandora, etc.)\n- CICD experience. (e.g., Argo related, Jenkins, GitHub, GitLab, etc.)"
+    },
+    "employment_type_raw": "全職",
+    "title": "DevOps/SRE Engineer"
+  },
+  "location": {
+    "address_raw": "台北市松山區南京東路４段16號4樓A1",
+    "raw": "台北市松山區南京東路４段16號4樓A1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等",
+          "中文：精通、精通、精通、精通"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等\n中文：精通、精通、精通、精通"
+      },
+      {
+        "items": [
+          "AWS"
+        ],
+        "label": "擅長工具",
+        "text": "AWS"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "網路程式設計",
+          "資料庫程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、網路程式設計、資料庫程式設計"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等",
+      "中文：精通、精通、精通、精通"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "網路程式設計",
+      "資料庫程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n中文：精通、精通、精通、精通\n擅長工具：AWS\n工作技能：軟體程式設計、網路程式設計、資料庫程式設計",
+    "tools": [
+      "AWS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 70
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:14:04+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "We are looking for Junior engineers who have SMART, EASY-GOING, PATIENT, and good TEAMWORK characteristics.\n▲ About Splashtop\nSplashtop Inc. is a rising star in the remote access/remote support industry.\nOur backend system is hosted on AWS, GCP, and OCI, serving 500K+ active users and 2M+ online endpoints. The average API is around 2K+ QPS.\n▲ You will be working on one or many of :\n- Create and maintain new or existing production systems.\n- Learn and improve CICD flows.\n- Work with the R&D teams to improve development life cycles.\n- To survey, propose, and adopt new technologies or solutions to make life easier.\n- Share the daily and on-call duty maintenance responsibilities.\n▲ MUST HAVE\n- Experience with the AWS cloud provider.\n- Experience in Kubernetes.\n- Hunger to learn, open mind, not afraid to chase new technologies.\n- Good at working in a team.\n- Growth mindset, good at learning new things.\n- Good at communication.\n- AI native worker, familiar with any one of them:\n◎ LLMs (e.g., Anthropic, OpenAI, xAI, Google, etc.)\n◎ AI IDE editors (e.g., VSCode, Cursor, Antigravity, Winsurf, etc.)\n◎ Local LLM models.\n▲ NICE TO HAVE\n- IT/MIS experience in any one of:\n◎ Linux (e.g., CentOS, Ubuntu, RHEL, Debian)\n◎ Virtualization (e.g., KVM, VMWare, Hyper-V)\n◎ Networking (physical or virtual)\n◎ Service deployment or maintenance (e.g., Postfix, nginx, Apache, Bind, etc.)\n- Programming experience. (e.g., Shell script, Python, Go, Ruby, etc.)\n- The IaC experience. (e.g., Terraform, Ansible, CloudFormation, CDK, etc.)\n- Git experience.\n- Maintenance experience with any one of the cloud providers. (e.g., Amazon, Azure, Google, etc.)\n- Monitoring experience. (e.g., Grafana related, OpenTelemetry, Prometheus, VictoriaMetrics, Ganglia, Pandora, etc.)\n- CICD experience. (e.g., Argo related, Jenkins, GitHub, GitLab, etc.)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師",
+            "系統分析師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師、系統分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區南京東路４段16號4樓A1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "We are looking for Junior engineers who have SMART, EASY-GOING, PATIENT, and good TEAMWORK characteristics.\n▲ About Splashtop\nSplashtop Inc. is a rising star in the remote access/remote support industry.\nOur backend system is hosted on AWS, GCP, and OCI, serving 500K+ active users and 2M+ online endpoints. The average API is around 2K+ QPS.\n▲ You will be working on one or many of :\n- Create and maintain new or existing production systems.\n- Learn and improve CICD flows.\n- Work with the R&D teams to improve development life cycles.\n- To survey, propose, and adopt new technologies or solutions to make life easier.\n- Share the daily and on-call duty maintenance responsibilities.\n▲ MUST HAVE\n- Experience with the AWS cloud provider.\n- Experience in Kubernetes.\n- Hunger to learn, open mind, not afraid to chase new technologies.\n- Good at working in a team.\n- Growth mindset, good at learning new things.\n- Good at communication.\n- AI native worker, familiar with any one of them:\n◎ LLMs (e.g., Anthropic, OpenAI, xAI, Google, etc.)\n◎ AI IDE editors (e.g., VSCode, Cursor, Antigravity, Winsurf, etc.)\n◎ Local LLM models.\n▲ NICE TO HAVE\n- IT/MIS experience in any one of:\n◎ Linux (e.g., CentOS, Ubuntu, RHEL, Debian)\n◎ Virtualization (e.g., KVM, VMWare, Hyper-V)\n◎ Networking (physical or virtual)\n◎ Service deployment or maintenance (e.g., Postfix, nginx, Apache, Bind, etc.)\n- Programming experience. (e.g., Shell script, Python, Go, Ruby, etc.)\n- The IaC experience. (e.g., Terraform, Ansible, CloudFormation, CDK, etc.)\n- Git experience.\n- Maintenance experience with any one of the cloud providers. (e.g., Amazon, Azure, Google, etc.)\n- Monitoring experience. (e.g., Grafana related, OpenTelemetry, Prometheus, VictoriaMetrics, Ganglia, Pandora, etc.)\n- CICD experience. (e.g., Argo related, Jenkins, GitHub, GitLab, etc.)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等",
+            "中文：精通、精通、精通、精通"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等\n中文：精通、精通、精通、精通",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AWS"
+          ],
+          "label": "擅長工具",
+          "text": "AWS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "網路程式設計",
+            "資料庫程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、網路程式設計、資料庫程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：中等、中等、中等、中等\n中文：精通、精通、精通、精通\n擅長工具：AWS\n工作技能：軟體程式設計、網路程式設計、資料庫程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8cxjc",
+    "job_url": "https://www.104.com.tw/job/8cxjc",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8cxjc.json",
+    "raw_sha256": "0996c9c81fab43381c2e41c2b9778e9bff01cd469bded2ae182ddaddc3d4ae8a",
+    "requested_url": "https://www.104.com.tw/api/jobs/8cxjc"
+  }
+}

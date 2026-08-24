@@ -1,0 +1,190 @@
+{
+  "company": {
+    "id": "1a2x6bls4x",
+    "name": "YTTEK_円通科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "演算法工程師",
+      "通訊軟體工程師",
+      "電信／通訊系統工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "我們在找的你："
+        },
+        {
+          "children": [],
+          "text": "碩士以上，電機電子工程、資訊工程、工業工程相關科系"
+        },
+        {
+          "children": [],
+          "text": "熟悉通訊原理、WiFi、4G LTE/5G NR、DVB S2、CCSDS"
+        },
+        {
+          "children": [],
+          "text": "工作內容："
+        }
+      ],
+      "text": "円通科技主要從事無線通訊業，擁有優秀經營與研發團隊，致力於成為開發和驗證通信產品的最佳合作夥伴，是軟體定義無線電 (SDR) 領域的領導者。\n若您對這個機會感興趣，且擁有創新精神與成長心態，邀請您加入我們一同成就非凡！\n●我們在找的你：\n1.碩士以上，電機電子工程、資訊工程、工業工程相關科系\n2.熟悉通訊原理、WiFi、4G LTE/5G NR、DVB S2、CCSDS\n●工作內容：\n前瞻無線通訊系統接收端之設計、開發、模擬與實現演算法"
+    },
+    "employment_type_raw": "全職",
+    "title": "通訊演算法工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣竹北市嘉豐六路一段102號6樓",
+    "raw": "新竹縣竹北市嘉豐六路一段102號6樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關",
+          "工業工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關、工業工程相關"
+      },
+      {
+        "items": [
+          "演算法設計"
+        ],
+        "label": "工作技能",
+        "text": "演算法設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關",
+      "工業工程相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "演算法設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關、工業工程相關\n工作技能：演算法設計",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 11
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:49:49+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "円通科技主要從事無線通訊業，擁有優秀經營與研發團隊，致力於成為開發和驗證通信產品的最佳合作夥伴，是軟體定義無線電 (SDR) 領域的領導者。\n若您對這個機會感興趣，且擁有創新精神與成長心態，邀請您加入我們一同成就非凡！\n●我們在找的你：\n1.碩士以上，電機電子工程、資訊工程、工業工程相關科系\n2.熟悉通訊原理、WiFi、4G LTE/5G NR、DVB S2、CCSDS\n●工作內容：\n前瞻無線通訊系統接收端之設計、開發、模擬與實現演算法",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "演算法工程師",
+            "通訊軟體工程師",
+            "電信／通訊系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "演算法工程師、通訊軟體工程師、電信／通訊系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣竹北市嘉豐六路一段102號6樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "円通科技主要從事無線通訊業，擁有優秀經營與研發團隊，致力於成為開發和驗證通信產品的最佳合作夥伴，是軟體定義無線電 (SDR) 領域的領導者。\n若您對這個機會感興趣，且擁有創新精神與成長心態，邀請您加入我們一同成就非凡！\n●我們在找的你：\n1.碩士以上，電機電子工程、資訊工程、工業工程相關科系\n2.熟悉通訊原理、WiFi、4G LTE/5G NR、DVB S2、CCSDS\n●工作內容：\n前瞻無線通訊系統接收端之設計、開發、模擬與實現演算法"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關",
+            "工業工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關、工業工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "演算法設計"
+          ],
+          "label": "工作技能",
+          "text": "演算法設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：電機電子工程相關、資訊工程相關、工業工程相關\n工作技能：演算法設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94hpb",
+    "job_url": "https://www.104.com.tw/job/94hpb",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94hpb.json",
+    "raw_sha256": "233ee3ea8885cf562c5f182cfb6ea4aec201b975e90e4c02d3b0109dfa027204",
+    "requested_url": "https://www.104.com.tw/api/jobs/94hpb"
+  }
+}

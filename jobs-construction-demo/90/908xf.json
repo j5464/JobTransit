@@ -1,0 +1,223 @@
+{
+  "company": {
+    "id": "atcr6i8",
+    "name": "信邦電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "數據分析師／資料分析師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "依據企業實際需求，運用 LLM、RAG、AI Agent 等技術進行 AI 應用開發與 PoC 驗證，快速迭代驗證場景可行性。"
+        },
+        {
+          "children": [],
+          "text": "使用 Python 進行資料清洗、轉換及前處理，處理 PDF、Word、Excel、OCR 等結構化與非結構化資料。"
+        },
+        {
+          "children": [],
+          "text": "建置與優化 RAG 知識庫，包含文件處理、Embedding、向量資料庫、檢索及回答品質優化。"
+        },
+        {
+          "children": [],
+          "text": "開發 AI Agent 與自動化工作流，包含 Agent Workflow、Tool／Skill Calling、知識庫及 API 串接。"
+        },
+        {
+          "children": [],
+          "text": "依不同應用情境進行 LLM 模型選型、測試、效果評估及效能調優。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的需求梳理、問題分析與跨團隊溝通能力，可協流程／領域專家及 MIS 團隊釐清業務需求，將實際營運需求轉化為可驗證、可落地的 AI 解決方案。"
+        }
+      ],
+      "text": "意者請至本公司網站登錄履歷：https://bit.ly/4feJ2uH\n【工作說明】\n1.依據企業實際需求，運用 LLM、RAG、AI Agent 等技術進行 AI 應用開發與 PoC 驗證，快速迭代驗證場景可行性。\n2.使用 Python 進行資料清洗、轉換及前處理，處理 PDF、Word、Excel、OCR 等結構化與非結構化資料。\n3.建置與優化 RAG 知識庫，包含文件處理、Embedding、向量資料庫、檢索及回答品質優化。\n4.開發 AI Agent 與自動化工作流，包含 Agent Workflow、Tool／Skill Calling、知識庫及 API 串接。\n5.依不同應用情境進行 LLM 模型選型、測試、效果評估及效能調優。\n6.具備良好的需求梳理、問題分析與跨團隊溝通能力，可協流程／領域專家及 MIS 團隊釐清業務需求，將實際營運需求轉化為可驗證、可落地的 AI 解決方案。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI Application Engineer（AI 應用工程師 / AI Agent）－工作地點：汐止－總經理室"
+  },
+  "location": {
+    "address_raw": "新北市汐止區新台五路一段79號4樓之13（遠東世界中心－C棟）",
+    "raw": "新北市汐止區新台五路一段79號4樓之13（遠東世界中心－C棟）"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "商業及管理學科類",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "商業及管理學科類、數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Python"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.具 Python 實務開發能力，能獨立進行資料處理及 AI 應用原型開發。\n2.具 RAG 實作經驗，熟悉 Embedding、Vector Database、Retrieval 等相關技術。\n3.具 AI Agent 實際建置經驗，包含 Workflow、Tool／Skill Calling 或知識庫串接。\n4.具 API 串接及系統整合相關經驗。\n5.了解主流 LLM 發展與應用，能依場景進行模型選型與效果評估。\n6.具良好的問題分析與溝通能力，能與不同領域夥伴共同釐清需求並推動 PoC。\n7.具製造業、工程、供應鏈或企業流程數位化相關經驗\n8.樂於學習新技術，對 AI 應用充滿熱情。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "商業及管理學科類",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": "1.具 Python 實務開發能力，能獨立進行資料處理及 AI 應用原型開發。\n2.具 RAG 實作經驗，熟悉 Embedding、Vector Database、Retrieval 等相關技術。\n3.具 AI Agent 實際建置經驗，包含 Workflow、Tool／Skill Calling 或知識庫串接。\n4.具 API 串接及系統整合相關經驗。\n5.了解主流 LLM 發展與應用，能依場景進行模型選型與效果評估。\n6.具良好的問題分析與溝通能力，能與不同領域夥伴共同釐清需求並推動 PoC。\n7.具製造業、工程、供應鏈或企業流程數位化相關經驗\n8.樂於學習新技術，對 AI 應用充滿熱情。",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：商業及管理學科類、數學及電算機科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python\n其他條件：1.具 Python 實務開發能力，能獨立進行資料處理及 AI 應用原型開發。\n2.具 RAG 實作經驗，熟悉 Embedding、Vector Database、Retrieval 等相關技術。\n3.具 AI Agent 實際建置經驗，包含 Workflow、Tool／Skill Calling 或知識庫串接。\n4.具 API 串接及系統整合相關經驗。\n5.了解主流 LLM 發展與應用，能依場景進行模型選型與效果評估。\n6.具良好的問題分析與溝通能力，能與不同領域夥伴共同釐清需求並推動 PoC。\n7.具製造業、工程、供應鏈或企業流程數位化相關經驗\n8.樂於學習新技術，對 AI 應用充滿熱情。",
+    "tools": [
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 69
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:12:25+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "意者請至本公司網站登錄履歷：https://bit.ly/4feJ2uH\n【工作說明】\n1.依據企業實際需求，運用 LLM、RAG、AI Agent 等技術進行 AI 應用開發與 PoC 驗證，快速迭代驗證場景可行性。\n2.使用 Python 進行資料清洗、轉換及前處理，處理 PDF、Word、Excel、OCR 等結構化與非結構化資料。\n3.建置與優化 RAG 知識庫，包含文件處理、Embedding、向量資料庫、檢索及回答品質優化。\n4.開發 AI Agent 與自動化工作流，包含 Agent Workflow、Tool／Skill Calling、知識庫及 API 串接。\n5.依不同應用情境進行 LLM 模型選型、測試、效果評估及效能調優。\n6.具備良好的需求梳理、問題分析與跨團隊溝通能力，可協流程／領域專家及 MIS 團隊釐清業務需求，將實際營運需求轉化為可驗證、可落地的 AI 解決方案。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "數據分析師／資料分析師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、數據分析師／資料分析師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市汐止區新台五路一段79號4樓之13（遠東世界中心－C棟）",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "意者請至本公司網站登錄履歷：https://bit.ly/4feJ2uH\n【工作說明】\n1.依據企業實際需求，運用 LLM、RAG、AI Agent 等技術進行 AI 應用開發與 PoC 驗證，快速迭代驗證場景可行性。\n2.使用 Python 進行資料清洗、轉換及前處理，處理 PDF、Word、Excel、OCR 等結構化與非結構化資料。\n3.建置與優化 RAG 知識庫，包含文件處理、Embedding、向量資料庫、檢索及回答品質優化。\n4.開發 AI Agent 與自動化工作流，包含 Agent Workflow、Tool／Skill Calling、知識庫及 API 串接。\n5.依不同應用情境進行 LLM 模型選型、測試、效果評估及效能調優。\n6.具備良好的需求梳理、問題分析與跨團隊溝通能力，可協流程／領域專家及 MIS 團隊釐清業務需求，將實際營運需求轉化為可驗證、可落地的 AI 解決方案。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "商業及管理學科類",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "商業及管理學科類、數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Python",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.具 Python 實務開發能力，能獨立進行資料處理及 AI 應用原型開發。\n2.具 RAG 實作經驗，熟悉 Embedding、Vector Database、Retrieval 等相關技術。\n3.具 AI Agent 實際建置經驗，包含 Workflow、Tool／Skill Calling 或知識庫串接。\n4.具 API 串接及系統整合相關經驗。\n5.了解主流 LLM 發展與應用，能依場景進行模型選型與效果評估。\n6.具良好的問題分析與溝通能力，能與不同領域夥伴共同釐清需求並推動 PoC。\n7.具製造業、工程、供應鏈或企業流程數位化相關經驗\n8.樂於學習新技術，對 AI 應用充滿熱情。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學、碩士\n科系要求：商業及管理學科類、數學及電算機科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python\n其他條件：1.具 Python 實務開發能力，能獨立進行資料處理及 AI 應用原型開發。\n2.具 RAG 實作經驗，熟悉 Embedding、Vector Database、Retrieval 等相關技術。\n3.具 AI Agent 實際建置經驗，包含 Workflow、Tool／Skill Calling 或知識庫串接。\n4.具 API 串接及系統整合相關經驗。\n5.了解主流 LLM 發展與應用，能依場景進行模型選型與效果評估。\n6.具良好的問題分析與溝通能力，能與不同領域夥伴共同釐清需求並推動 PoC。\n7.具製造業、工程、供應鏈或企業流程數位化相關經驗\n8.樂於學習新技術，對 AI 應用充滿熱情。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "908xf",
+    "job_url": "https://www.104.com.tw/job/908xf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/908xf.json",
+    "raw_sha256": "bf696ee22fe5ab6030fe9c8b1a9108f13bd8ea37183e5909ee5c7b1748df828a",
+    "requested_url": "https://www.104.com.tw/api/jobs/908xf"
+  }
+}

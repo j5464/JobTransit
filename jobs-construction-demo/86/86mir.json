@@ -1,0 +1,241 @@
+{
+  "company": {
+    "id": "5t7gcns",
+    "name": "Phison Electronics Corp_群聯電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師",
+      "演算法工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Research and evaluate different methods of AI deployment on future storage device."
+        },
+        {
+          "children": [],
+          "text": "Design and develop architecture of AI modules on new NAND Flash controllers."
+        },
+        {
+          "children": [],
+          "text": "Implement and optimise middleware/firmware algorithm on AI system solution."
+        },
+        {
+          "children": [],
+          "text": "Verification and validation of the designed algorithm."
+        }
+      ],
+      "text": "1.Research and evaluate different methods of AI deployment on future storage device.\n2.Design and develop architecture of AI modules on new NAND Flash controllers.\n3.Implement and optimise middleware/firmware algorithm on AI system solution.\n4.Verification and validation of the designed algorithm."
+    },
+    "employment_type_raw": "全職",
+    "title": "AI韌體工程師/AI Firmware Engineer(竹南/台北)"
+  },
+  "location": {
+    "address_raw": "苗栗縣竹南鎮群義路1號",
+    "raw": "苗栗縣竹南鎮群義路1號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "C",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++、Python"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、韌體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.Experience in Embedded Systems and Computer Architecture.\n2.Familiar with C/C++ programming language, Python is a plus.\n3.Deep learning frameworks such as TensorFlow and PyTorch.\n4.Research and development of deep learning models and algorithms.\n5.Academic research and paper writing.\n6.Strong communication skills and problem-solving abilities."
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.Experience in Embedded Systems and Computer Architecture.\n2.Familiar with C/C++ programming language, Python is a plus.\n3.Deep learning frameworks such as TensorFlow and PyTorch.\n4.Research and development of deep learning models and algorithms.\n5.Academic research and paper writing.\n6.Strong communication skills and problem-solving abilities.",
+    "skills": [
+      "系統架構規劃",
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C、C++、Python\n工作技能：系統架構規劃、韌體程式設計\n其他條件：1.Experience in Embedded Systems and Computer Architecture.\n2.Familiar with C/C++ programming language, Python is a plus.\n3.Deep learning frameworks such as TensorFlow and PyTorch.\n4.Research and development of deep learning models and algorithms.\n5.Academic research and paper writing.\n6.Strong communication skills and problem-solving abilities.",
+    "tools": [
+      "C",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 7
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:39:48+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.Research and evaluate different methods of AI deployment on future storage device.\n2.Design and develop architecture of AI modules on new NAND Flash controllers.\n3.Implement and optimise middleware/firmware algorithm on AI system solution.\n4.Verification and validation of the designed algorithm.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師",
+            "演算法工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師、演算法工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "苗栗縣竹南鎮群義路1號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.Research and evaluate different methods of AI deployment on future storage device.\n2.Design and develop architecture of AI modules on new NAND Flash controllers.\n3.Implement and optimise middleware/firmware algorithm on AI system solution.\n4.Verification and validation of the designed algorithm."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、韌體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.Experience in Embedded Systems and Computer Architecture.\n2.Familiar with C/C++ programming language, Python is a plus.\n3.Deep learning frameworks such as TensorFlow and PyTorch.\n4.Research and development of deep learning models and algorithms.\n5.Academic research and paper writing.\n6.Strong communication skills and problem-solving abilities.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C、C++、Python\n工作技能：系統架構規劃、韌體程式設計\n其他條件：1.Experience in Embedded Systems and Computer Architecture.\n2.Familiar with C/C++ programming language, Python is a plus.\n3.Deep learning frameworks such as TensorFlow and PyTorch.\n4.Research and development of deep learning models and algorithms.\n5.Academic research and paper writing.\n6.Strong communication skills and problem-solving abilities."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "86mir",
+    "job_url": "https://www.104.com.tw/job/86mir",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/86mir.json",
+    "raw_sha256": "0351e5a92d6b7e336a4a0c2c0e2a6a96f3977dcf5af67f146f43832fd2c229c1",
+    "requested_url": "https://www.104.com.tw/api/jobs/86mir"
+  }
+}

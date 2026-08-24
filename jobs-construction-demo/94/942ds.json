@@ -1,0 +1,214 @@
+{
+  "company": {
+    "id": "5ienadc",
+    "name": "聯華實業控股股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "生產應用軟體維運及整合開發"
+        },
+        {
+          "children": [],
+          "text": "需具備技能-Web前端開發-HIML5、JavaScript、Bootstrap、JSON、JQuery"
+        },
+        {
+          "children": [],
+          "text": "需具備技能-Web後端開發-Node.js.、C#、ASP.NET MVC/Core、LINQ、StignaIR"
+        },
+        {
+          "children": [],
+          "text": "需至工廠出差"
+        }
+      ],
+      "text": "1.生產應用軟體維運及整合開發\n2.需具備技能-Web前端開發-HIML5、JavaScript、Bootstrap、JSON、JQuery\n3.需具備技能-Web後端開發-Node.js.、C#、ASP.NET MVC/Core、LINQ、StignaIR\n4.需至工廠出差"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊軟體工程師【台北】"
+  },
+  "location": {
+    "address_raw": "台北市南港區南港路一段209號10樓",
+    "raw": "台北市南港區南港路一段209號10樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "C#",
+          "ASP.NET"
+        ],
+        "label": "擅長工具",
+        "text": "C#、ASP.NET"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "具責任感、良好表達及溝通能力，可獨立作業，且實際開發經驗尤佳。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "資訊管理相關",
+      "資訊工程相關"
+    ],
+    "other_text": "具責任感、良好表達及溝通能力，可獨立作業，且實際開發經驗尤佳。",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C#、ASP.NET\n其他條件：具責任感、良好表達及溝通能力，可獨立作業，且實際開發經驗尤佳。",
+    "tools": [
+      "C#",
+      "ASP.NET"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 72
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:19:18+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.生產應用軟體維運及整合開發\n2.需具備技能-Web前端開發-HIML5、JavaScript、Bootstrap、JSON、JQuery\n3.需具備技能-Web後端開發-Node.js.、C#、ASP.NET MVC/Core、LINQ、StignaIR\n4.需至工廠出差",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區南港路一段209號10樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.生產應用軟體維運及整合開發\n2.需具備技能-Web前端開發-HIML5、JavaScript、Bootstrap、JSON、JQuery\n3.需具備技能-Web後端開發-Node.js.、C#、ASP.NET MVC/Core、LINQ、StignaIR\n4.需至工廠出差"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "ASP.NET"
+          ],
+          "label": "擅長工具",
+          "text": "C#、ASP.NET",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "具責任感、良好表達及溝通能力，可獨立作業，且實際開發經驗尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：資訊管理相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C#、ASP.NET\n其他條件：具責任感、良好表達及溝通能力，可獨立作業，且實際開發經驗尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "942ds",
+    "job_url": "https://www.104.com.tw/job/942ds",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/942ds.json",
+    "raw_sha256": "3287cdc6c1036370922706500581538f37f874435a83e6359da07f8d8ac01352",
+    "requested_url": "https://www.104.com.tw/api/jobs/942ds"
+  }
+}

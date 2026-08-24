@@ -1,0 +1,165 @@
+{
+  "company": {
+    "id": "1a2x6bkenv",
+    "name": "先知鳥有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "前端工程師",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "☆公司介紹\n我們是一家專注於 活動科技（Event Tech）與 AI 影像互動 的創新團隊。\n提供的產品包含：\n活動現場即時互動小遊戲（婚禮、小型展會、大型企業活動皆適用）\n活動報到系統、QRcode 報到、資訊整合\nAI 影像互動體驗（AI 修圖、AI 動態特效、影像辨識、智慧生成）\n現場即時拍攝與 AI 影像處理\n雲端整合與事件串接服務（Cloud Run / Firestore / Webhooks / Dashboard）\n我們致力於打造「讓人眼睛一亮、忍不住拿起手機拍照的互動體驗」，\n每個功能都會在現場被真實使用，並立即獲得用戶回饋。\n如果你喜歡看到自己做的功能在現場瞬間帶來驚呼與歡笑，這裡會是你的舞台！\n☆創新開發工程師 Innovative Developer\n我們正在招募熱愛寫程式、熱愛做專案、會因為把一件技術做到極致而感到成就感的你！\n不論你擅長 前端、後端、AI 影像算法、Web 互動、Vibe Coding、創新原型開發 …\n只要你喜歡打造真正能被人看見、被使用、能影響世界的作品，我們都非常歡迎！\n我們的產品涵蓋 影像互動、AI、活動科技、Web3、Cloud 系統 等多領域，你的工作內容會依技能彈性調整，能讓你發揮所長、挑戰新領域、創造突破。\n☆你的挑戰（依技能與興趣組合）\n你不需要全都會，我們在找的是能「一起創造」的人。\n你可能會負責以下其中幾項：\n☆ 前端創新開發\n使用 React.js / Next.js 打造高質感、互動強的 Web 介面\n開發活動現場、互動裝置、AI 影像效果等創新前端體驗\n與設計一起打造能讓新人尖叫的婚禮科技產品\n☆ 後端系統開發\n使用 Node.js（Koa / Express / NestJS）打造高效能 API\n架構可靠、高擴展性的服務\n設計事件流、排程、即時影像處理等系統\n☆ AI / 影像處理\n參與 OpenCV / FFmpeg / TensorFlow 相關影像效果或模型開發\n優化影像效能、速度與畫質\n研究新的 AI 技術並快速做出 Prototype\n☆雲端架構 / DevOps\n在 GCP（Cloud Run / Functions / Firestore）部署並維護應用\n進行 CI/CD、自動化、監控、效能調校\n設計高可用、高流量的架構\n☆即時互動 / 特殊技術研發\nWebSocket / SSE / WebRTC\nWebAssembly (Wasm)\nThree.js / WebGL\n任何你覺得「做起來很酷」的技術，我們都鼓勵你試！\n☆我們期待你具備（不用全部，只要你有強項）\n3 年以上軟體開發實務經驗（前後端不限）\n擅長其中任一領域：前端 / 後端 / AI / 影像處理 / Cloud / 互動開發\n熟悉 Git 協作流程\n樂於學習、動手做、快速試錯\n喜歡把事情做到最好，享受看到作品被使用的成就感\n☆加分條件（能強烈展現你的專長）\n有 AI / 影像處理經驗（OpenCV / FFmpeg / TensorFlow）\n有 Three.js / WebGL / GPU Rendering 經驗\n熟悉 WebRTC / Wasm\n有 Serverless 經驗 / GCP / AWS\n有高流量系統設計與效能調校經驗\n有 DevOps 經驗（Prometheus / Grafana）\n☆薪資與福利\n薪資範圍：NTD 45,000 - 100,000（依技能深度調整）\n年度績效獎金\n年終獎金（依營運狀況）"
+    },
+    "employment_type_raw": "全職",
+    "title": "拍拍印- AI創新應用開發工程師"
+  },
+  "location": {
+    "address_raw": "台北市大同區承德路三段90巷(近民權西路捷運站 )",
+    "raw": "台北市大同區承德路三段90巷(近民權西路捷運站 )"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "Node.js",
+          "ReactJS",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "PostgreSQL"
+        ],
+        "label": "擅長工具",
+        "text": "Node.js、ReactJS、JavaScript、CSS、HTML、PostgreSQL"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：Node.js、ReactJS、JavaScript、CSS、HTML、PostgreSQL",
+    "tools": [
+      "Node.js",
+      "ReactJS",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "PostgreSQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 27
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:27:40+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000~100,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "☆公司介紹\n我們是一家專注於 活動科技（Event Tech）與 AI 影像互動 的創新團隊。\n提供的產品包含：\n活動現場即時互動小遊戲（婚禮、小型展會、大型企業活動皆適用）\n活動報到系統、QRcode 報到、資訊整合\nAI 影像互動體驗（AI 修圖、AI 動態特效、影像辨識、智慧生成）\n現場即時拍攝與 AI 影像處理\n雲端整合與事件串接服務（Cloud Run / Firestore / Webhooks / Dashboard）\n我們致力於打造「讓人眼睛一亮、忍不住拿起手機拍照的互動體驗」，\n每個功能都會在現場被真實使用，並立即獲得用戶回饋。\n如果你喜歡看到自己做的功能在現場瞬間帶來驚呼與歡笑，這裡會是你的舞台！\n☆創新開發工程師 Innovative Developer\n我們正在招募熱愛寫程式、熱愛做專案、會因為把一件技術做到極致而感到成就感的你！\n不論你擅長 前端、後端、AI 影像算法、Web 互動、Vibe Coding、創新原型開發 …\n只要你喜歡打造真正能被人看見、被使用、能影響世界的作品，我們都非常歡迎！\n我們的產品涵蓋 影像互動、AI、活動科技、Web3、Cloud 系統 等多領域，你的工作內容會依技能彈性調整，能讓你發揮所長、挑戰新領域、創造突破。\n☆你的挑戰（依技能與興趣組合）\n你不需要全都會，我們在找的是能「一起創造」的人。\n你可能會負責以下其中幾項：\n☆ 前端創新開發\n使用 React.js / Next.js 打造高質感、互動強的 Web 介面\n開發活動現場、互動裝置、AI 影像效果等創新前端體驗\n與設計一起打造能讓新人尖叫的婚禮科技產品\n☆ 後端系統開發\n使用 Node.js（Koa / Express / NestJS）打造高效能 API\n架構可靠、高擴展性的服務\n設計事件流、排程、即時影像處理等系統\n☆ AI / 影像處理\n參與 OpenCV / FFmpeg / TensorFlow 相關影像效果或模型開發\n優化影像效能、速度與畫質\n研究新的 AI 技術並快速做出 Prototype\n☆雲端架構 / DevOps\n在 GCP（Cloud Run / Functions / Firestore）部署並維護應用\n進行 CI/CD、自動化、監控、效能調校\n設計高可用、高流量的架構\n☆即時互動 / 特殊技術研發\nWebSocket / SSE / WebRTC\nWebAssembly (Wasm)\nThree.js / WebGL\n任何你覺得「做起來很酷」的技術，我們都鼓勵你試！\n☆我們期待你具備（不用全部，只要你有強項）\n3 年以上軟體開發實務經驗（前後端不限）\n擅長其中任一領域：前端 / 後端 / AI / 影像處理 / Cloud / 互動開發\n熟悉 Git 協作流程\n樂於學習、動手做、快速試錯\n喜歡把事情做到最好，享受看到作品被使用的成就感\n☆加分條件（能強烈展現你的專長）\n有 AI / 影像處理經驗（OpenCV / FFmpeg / TensorFlow）\n有 Three.js / WebGL / GPU Rendering 經驗\n熟悉 WebRTC / Wasm\n有 Serverless 經驗 / GCP / AWS\n有高流量系統設計與效能調校經驗\n有 DevOps 經驗（Prometheus / Grafana）\n☆薪資與福利\n薪資範圍：NTD 45,000 - 100,000（依技能深度調整）\n年度績效獎金\n年終獎金（依營運狀況）",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "前端工程師",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、前端工程師、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000~100,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大同區承德路三段90巷(近民權西路捷運站 )",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "☆公司介紹\n我們是一家專注於 活動科技（Event Tech）與 AI 影像互動 的創新團隊。\n提供的產品包含：\n活動現場即時互動小遊戲（婚禮、小型展會、大型企業活動皆適用）\n活動報到系統、QRcode 報到、資訊整合\nAI 影像互動體驗（AI 修圖、AI 動態特效、影像辨識、智慧生成）\n現場即時拍攝與 AI 影像處理\n雲端整合與事件串接服務（Cloud Run / Firestore / Webhooks / Dashboard）\n我們致力於打造「讓人眼睛一亮、忍不住拿起手機拍照的互動體驗」，\n每個功能都會在現場被真實使用，並立即獲得用戶回饋。\n如果你喜歡看到自己做的功能在現場瞬間帶來驚呼與歡笑，這裡會是你的舞台！\n☆創新開發工程師 Innovative Developer\n我們正在招募熱愛寫程式、熱愛做專案、會因為把一件技術做到極致而感到成就感的你！\n不論你擅長 前端、後端、AI 影像算法、Web 互動、Vibe Coding、創新原型開發 …\n只要你喜歡打造真正能被人看見、被使用、能影響世界的作品，我們都非常歡迎！\n我們的產品涵蓋 影像互動、AI、活動科技、Web3、Cloud 系統 等多領域，你的工作內容會依技能彈性調整，能讓你發揮所長、挑戰新領域、創造突破。\n☆你的挑戰（依技能與興趣組合）\n你不需要全都會，我們在找的是能「一起創造」的人。\n你可能會負責以下其中幾項：\n☆ 前端創新開發\n使用 React.js / Next.js 打造高質感、互動強的 Web 介面\n開發活動現場、互動裝置、AI 影像效果等創新前端體驗\n與設計一起打造能讓新人尖叫的婚禮科技產品\n☆ 後端系統開發\n使用 Node.js（Koa / Express / NestJS）打造高效能 API\n架構可靠、高擴展性的服務\n設計事件流、排程、即時影像處理等系統\n☆ AI / 影像處理\n參與 OpenCV / FFmpeg / TensorFlow 相關影像效果或模型開發\n優化影像效能、速度與畫質\n研究新的 AI 技術並快速做出 Prototype\n☆雲端架構 / DevOps\n在 GCP（Cloud Run / Functions / Firestore）部署並維護應用\n進行 CI/CD、自動化、監控、效能調校\n設計高可用、高流量的架構\n☆即時互動 / 特殊技術研發\nWebSocket / SSE / WebRTC\nWebAssembly (Wasm)\nThree.js / WebGL\n任何你覺得「做起來很酷」的技術，我們都鼓勵你試！\n☆我們期待你具備（不用全部，只要你有強項）\n3 年以上軟體開發實務經驗（前後端不限）\n擅長其中任一領域：前端 / 後端 / AI / 影像處理 / Cloud / 互動開發\n熟悉 Git 協作流程\n樂於學習、動手做、快速試錯\n喜歡把事情做到最好，享受看到作品被使用的成就感\n☆加分條件（能強烈展現你的專長）\n有 AI / 影像處理經驗（OpenCV / FFmpeg / TensorFlow）\n有 Three.js / WebGL / GPU Rendering 經驗\n熟悉 WebRTC / Wasm\n有 Serverless 經驗 / GCP / AWS\n有高流量系統設計與效能調校經驗\n有 DevOps 經驗（Prometheus / Grafana）\n☆薪資與福利\n薪資範圍：NTD 45,000 - 100,000（依技能深度調整）\n年度績效獎金\n年終獎金（依營運狀況）"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Node.js",
+            "ReactJS",
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "PostgreSQL"
+          ],
+          "label": "擅長工具",
+          "text": "Node.js、ReactJS、JavaScript、CSS、HTML、PostgreSQL",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n擅長工具：Node.js、ReactJS、JavaScript、CSS、HTML、PostgreSQL"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8oflj",
+    "job_url": "https://www.104.com.tw/job/8oflj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8oflj.json",
+    "raw_sha256": "fccfd29a678c9633a6521351080c128855de681f31f5b09d5746b8e00b05cabc",
+    "requested_url": "https://www.104.com.tw/api/jobs/8oflj"
+  }
+}

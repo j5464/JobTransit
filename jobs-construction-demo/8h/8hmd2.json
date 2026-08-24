@@ -1,0 +1,262 @@
+{
+  "company": {
+    "id": "d4062b4",
+    "name": "海昌生化科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉Vue.js語法，並具備一年以上前端開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉Git / GitLab / GitHub等版本控制工具。"
+        },
+        {
+          "children": [],
+          "text": "具備RESTful API相關知識，並有API串接經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉Vitest, Cypress, Playwright等測試工具。"
+        },
+        {
+          "children": [],
+          "text": "熟悉Linux語法，並具備Linux主機管理相關經驗。"
+        },
+        {
+          "children": [],
+          "text": "有基本Django開發能力"
+        },
+        {
+          "children": [],
+          "text": "數位電子簽章開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "-----------------------------------------------------------------------------------------"
+        },
+        {
+          "children": [],
+          "text": "AWS 雲端開發與設計。"
+        },
+        {
+          "children": [],
+          "text": "AWS 可靠性維護 (SRE)。"
+        },
+        {
+          "children": [],
+          "text": "雲端架構的部署／建置／優化／除錯／管理／監控等一系列流程。"
+        },
+        {
+          "children": [],
+          "text": "建立 B/E 的各項功能與同時銜接技術開發 (委外)。"
+        },
+        {
+          "children": [],
+          "text": "AWS API / MQTT 設計相關經驗"
+        },
+        {
+          "children": [],
+          "text": ".MySQL;MS-SQL 資料庫設計相關經驗"
+        },
+        {
+          "children": [],
+          "text": "C, C++, Python, Node.js , PHP語言"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RESTful API、HTTP 和身份驗證方法（OAuth、JWT 等）。"
+        },
+        {
+          "children": [],
+          "text": "有 Laravel 或 CodeIgniter ... 等等框架開發經驗了解相關架構。"
+        },
+        {
+          "children": [],
+          "text": "VM / Docker 相關經驗"
+        },
+        {
+          "children": [],
+          "text": "數位電子簽章開發經驗。"
+        }
+      ],
+      "text": "1.熟悉Vue.js語法，並具備一年以上前端開發經驗。\n2.熟悉Git / GitLab / GitHub等版本控制工具。\n3.具備RESTful API相關知識，並有API串接經驗。\n4.熟悉Vitest, Cypress, Playwright等測試工具。\n5.熟悉Linux語法，並具備Linux主機管理相關經驗。\n6.有基本Django開發能力\n7. 數位電子簽章開發經驗。\n擅長工具: HTML、JavaScript、jQuery、CSS、Illustrator、Git、ASP.NET\n加分項目: 對資訊安全、密碼學、PKI 等概念有基本理解或興趣、對AI發展具備高度興趣，有諸多AI工具使用經驗者尤佳\n------------------------------------------------------------------------------------------\n1. AWS 雲端開發與設計。\n2. AWS 可靠性維護 (SRE)。\n3.雲端架構的部署／建置／優化／除錯／管理／監控等一系列流程。\n4.建立 B/E 的各項功能與同時銜接技術開發 (委外)。\n5. AWS API / MQTT 設計相關經驗\n6..MySQL;MS-SQL 資料庫設計相關經驗\n7.C, C++, Python, Node.js , PHP語言\n8.熟悉 RESTful API、HTTP 和身份驗證方法（OAuth、JWT 等）。\n9.有 Laravel 或 CodeIgniter ... 等等框架開發經驗了解相關架構。\n10.VM / Docker 相關經驗\n11. 數位電子簽章開發經驗。\n擅長工具\nC#、SaaS、Microsoft Azure、ASP.NET、MS-SQL、MySQL、Git、Visual Studio\n加分項目: 對資訊安全、密碼學、PKI 等概念有基本理解或興趣、對AI發展具備高度興趣，有諸多AI工具使用經驗者尤佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊室專員"
+  },
+  "location": {
+    "address_raw": "台中市西屯區工業區三十八路210號7樓之5",
+    "raw": "台中市西屯區工業區三十八路210號7樓之5"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Word",
+          "PowerPoint",
+          "Outlook",
+          "Excel"
+        ],
+        "label": "擅長工具",
+        "text": "Word、PowerPoint、Outlook、Excel"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "應徵時請先提供相關作品(有網頁連結或是程式簡報、程式碼。先做面試前篩選。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "應徵時請先提供相關作品(有網頁連結或是程式簡報、程式碼。先做面試前篩選。",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Word、PowerPoint、Outlook、Excel\n其他條件：應徵時請先提供相關作品(有網頁連結或是程式簡報、程式碼。先做面試前篩選。",
+    "tools": [
+      "Word",
+      "PowerPoint",
+      "Outlook",
+      "Excel"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 96
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:17:49+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.熟悉Vue.js語法，並具備一年以上前端開發經驗。\n2.熟悉Git / GitLab / GitHub等版本控制工具。\n3.具備RESTful API相關知識，並有API串接經驗。\n4.熟悉Vitest, Cypress, Playwright等測試工具。\n5.熟悉Linux語法，並具備Linux主機管理相關經驗。\n6.有基本Django開發能力\n7. 數位電子簽章開發經驗。\n擅長工具: HTML、JavaScript、jQuery、CSS、Illustrator、Git、ASP.NET\n加分項目: 對資訊安全、密碼學、PKI 等概念有基本理解或興趣、對AI發展具備高度興趣，有諸多AI工具使用經驗者尤佳\n------------------------------------------------------------------------------------------\n1. AWS 雲端開發與設計。\n2. AWS 可靠性維護 (SRE)。\n3.雲端架構的部署／建置／優化／除錯／管理／監控等一系列流程。\n4.建立 B/E 的各項功能與同時銜接技術開發 (委外)。\n5. AWS API / MQTT 設計相關經驗\n6..MySQL;MS-SQL 資料庫設計相關經驗\n7.C, C++, Python, Node.js , PHP語言\n8.熟悉 RESTful API、HTTP 和身份驗證方法（OAuth、JWT 等）。\n9.有 Laravel 或 CodeIgniter ... 等等框架開發經驗了解相關架構。\n10.VM / Docker 相關經驗\n11. 數位電子簽章開發經驗。\n擅長工具\nC#、SaaS、Microsoft Azure、ASP.NET、MS-SQL、MySQL、Git、Visual Studio\n加分項目: 對資訊安全、密碼學、PKI 等概念有基本理解或興趣、對AI發展具備高度興趣，有諸多AI工具使用經驗者尤佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市西屯區工業區三十八路210號7樓之5",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.熟悉Vue.js語法，並具備一年以上前端開發經驗。\n2.熟悉Git / GitLab / GitHub等版本控制工具。\n3.具備RESTful API相關知識，並有API串接經驗。\n4.熟悉Vitest, Cypress, Playwright等測試工具。\n5.熟悉Linux語法，並具備Linux主機管理相關經驗。\n6.有基本Django開發能力\n7. 數位電子簽章開發經驗。\n擅長工具: HTML、JavaScript、jQuery、CSS、Illustrator、Git、ASP.NET\n加分項目: 對資訊安全、密碼學、PKI 等概念有基本理解或興趣、對AI發展具備高度興趣，有諸多AI工具使用經驗者尤佳\n------------------------------------------------------------------------------------------\n1. AWS 雲端開發與設計。\n2. AWS 可靠性維護 (SRE)。\n3.雲端架構的部署／建置／優化／除錯／管理／監控等一系列流程。\n4.建立 B/E 的各項功能與同時銜接技術開發 (委外)。\n5. AWS API / MQTT 設計相關經驗\n6..MySQL;MS-SQL 資料庫設計相關經驗\n7.C, C++, Python, Node.js , PHP語言\n8.熟悉 RESTful API、HTTP 和身份驗證方法（OAuth、JWT 等）。\n9.有 Laravel 或 CodeIgniter ... 等等框架開發經驗了解相關架構。\n10.VM / Docker 相關經驗\n11. 數位電子簽章開發經驗。\n擅長工具\nC#、SaaS、Microsoft Azure、ASP.NET、MS-SQL、MySQL、Git、Visual Studio\n加分項目: 對資訊安全、密碼學、PKI 等概念有基本理解或興趣、對AI發展具備高度興趣，有諸多AI工具使用經驗者尤佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Word",
+            "PowerPoint",
+            "Outlook",
+            "Excel"
+          ],
+          "label": "擅長工具",
+          "text": "Word、PowerPoint、Outlook、Excel",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "應徵時請先提供相關作品(有網頁連結或是程式簡報、程式碼。先做面試前篩選。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Word、PowerPoint、Outlook、Excel\n其他條件：應徵時請先提供相關作品(有網頁連結或是程式簡報、程式碼。先做面試前篩選。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8hmd2",
+    "job_url": "https://www.104.com.tw/job/8hmd2",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8hmd2.json",
+    "raw_sha256": "3c05e0236a2fca88b81082dcfe642db063181c29e76ff62fc3f37ad1c175c63f",
+    "requested_url": "https://www.104.com.tw/api/jobs/8hmd2"
+  }
+}

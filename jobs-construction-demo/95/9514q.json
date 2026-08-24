@@ -1,0 +1,174 @@
+{
+  "company": {
+    "id": "1a2x6blz6b",
+    "name": "宏益科技服務股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統工程師",
+      "網路管理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Linux Server 維運管理"
+        },
+        {
+          "children": [],
+          "text": "系統監控與異常處理"
+        },
+        {
+          "children": [],
+          "text": "系統安裝與更新"
+        },
+        {
+          "children": [],
+          "text": "日常維運與問題處理"
+        },
+        {
+          "children": [],
+          "text": "維運文件與跨團隊協作"
+        }
+      ],
+      "text": "1.Linux Server 維運管理\n負責 Linux 伺服器日常維運、系統檢查、帳號權限管理及基本設定。\n2.系統監控與異常處理\n執行伺服器效能、資源及服務狀態監控，協助處理系統異常與故障排除。\n3.系統安裝與更新\n負責 Linux 作業系統及相關套件安裝、設定、更新與基本安全性維護。\n4.日常維運與問題處理\n依作業流程執行備份、Log 檢視、批次作業及例行維護，並協助處理使用單位或應用系統提出的問題。\n5.維運文件與跨團隊協作\n維護系統操作及維運紀錄，配合應用系統、網路、資安等團隊進行問題排查與專案作業。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【台北】Linux Server工程師"
+  },
+  "location": {
+    "address_raw": "台北市信義區",
+    "raw": "台北市信義區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Linux",
+          "Shell"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、Shell"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：Linux、Shell",
+    "tools": [
+      "Linux",
+      "Shell"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 65
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:03:16+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.Linux Server 維運管理\n負責 Linux 伺服器日常維運、系統檢查、帳號權限管理及基本設定。\n2.系統監控與異常處理\n執行伺服器效能、資源及服務狀態監控，協助處理系統異常與故障排除。\n3.系統安裝與更新\n負責 Linux 作業系統及相關套件安裝、設定、更新與基本安全性維護。\n4.日常維運與問題處理\n依作業流程執行備份、Log 檢視、批次作業及例行維護，並協助處理使用單位或應用系統提出的問題。\n5.維運文件與跨團隊協作\n維護系統操作及維運紀錄，配合應用系統、網路、資安等團隊進行問題排查與專案作業。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統工程師",
+            "網路管理工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統工程師、網路管理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.Linux Server 維運管理\n負責 Linux 伺服器日常維運、系統檢查、帳號權限管理及基本設定。\n2.系統監控與異常處理\n執行伺服器效能、資源及服務狀態監控，協助處理系統異常與故障排除。\n3.系統安裝與更新\n負責 Linux 作業系統及相關套件安裝、設定、更新與基本安全性維護。\n4.日常維運與問題處理\n依作業流程執行備份、Log 檢視、批次作業及例行維護，並協助處理使用單位或應用系統提出的問題。\n5.維運文件與跨團隊協作\n維護系統操作及維運紀錄，配合應用系統、網路、資安等團隊進行問題排查與專案作業。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "Shell"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、Shell",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n擅長工具：Linux、Shell"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "9514q",
+    "job_url": "https://www.104.com.tw/job/9514q",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9514q.json",
+    "raw_sha256": "e55cf3fd6aaeafc49a960276a7f991313849ab80828a925034cb253b1653007d",
+    "requested_url": "https://www.104.com.tw/api/jobs/9514q"
+  }
+}

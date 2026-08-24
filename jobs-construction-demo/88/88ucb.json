@@ -1,0 +1,211 @@
+{
+  "company": {
+    "id": "233rv1s",
+    "name": "鴻海精密工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "The engineers should have comprehensive knowledge of AI Large language models, such as GPT-4, and their underlying mechanisms, including an understanding of natural language processing, machine learning, and neural networks."
+        },
+        {
+          "children": [],
+          "text": "Construct, train, and fine-tune large language models to meet specific organizational requirements and goals. Implement strategies for AIGC to create high-quality content."
+        },
+        {
+          "children": [],
+          "text": "Integrate AI technologies into existing products and services, ensuring they align with business objectives and enhance user experience."
+        },
+        {
+          "children": [],
+          "text": "Work collaboratively with cross-functional teams and provide technical guidance to non-technical members. Stay updated with AI advancements and educate team members on new developments."
+        },
+        {
+          "children": [],
+          "text": "Continuously monitor the performance of AI models, making adjustments and improvements based on data analysis and business needs."
+        },
+        {
+          "children": [],
+          "text": "Maintain effective communication with other teams to ensure collaborative project success."
+        },
+        {
+          "children": [],
+          "text": "Engage in ongoing learning and research to identify and implement new and appropriate Large Language Model technologies to enhance overall efficiency."
+        }
+      ],
+      "text": "Job Summary:\n• The engineers should have comprehensive knowledge of AI Large language models, such as GPT-4, and their underlying mechanisms, including an understanding of natural language processing, machine learning, and neural networks.\nKey Responsibilities:\n• Construct, train, and fine-tune large language models to meet specific organizational requirements and goals. Implement strategies for AIGC to create high-quality content.\n• Integrate AI technologies into existing products and services, ensuring they align with business objectives and enhance user experience.\n• Work collaboratively with cross-functional teams and provide technical guidance to non-technical members. Stay updated with AI advancements and educate team members on new developments.\n• Continuously monitor the performance of AI models, making adjustments and improvements based on data analysis and business needs.\n• Maintain effective communication with other teams to ensure collaborative project success.\n• Engage in ongoing learning and research to identify and implement new and appropriate Large Language Model technologies to enhance overall efficiency."
+    },
+    "employment_type_raw": "全職",
+    "title": "大型語言模型工程師 (高雄/桃園)"
+  },
+  "location": {
+    "address_raw": "高雄市前鎮區成功二路25號",
+    "raw": "高雄市前鎮區成功二路25號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "碩士以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "碩士以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "應用數學相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、應用數學相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Qualifications:\n• Master or PhD degree in Computer Science, Artificial Intelligence or related fields.\n• Proficient in programming languages such as Python, and familiar with machine learning frameworks (e.g., TensorFlow, PyTorch). Experience with NLP and AIGC technologies.\n• Strong analytical and problem-solving abilities to address complex challenges in AI model development and deployment.\n• Ability to design, test, and refine prompts to improve the accuracy and relevance of the AI model's responses. Experience in iterative prompt development, where prompts are continuously optimized based on the model's performance and output quality.\n• Demonstrable expertise in implementing and utilizing RAG (Retrieval-Augmented Generation) models. This includes understanding how to integrate external knowledge bases with language models to enhance the quality and relevance of generated content.\n• Demonstrated expertise in training, fine-tuning, and deploying large-scale language models. This includes understanding the nuances of model architecture, data preprocessing, and optimization techniques specific to LLMs.\n【Skills below are optional but preferable】\n• 3+ years of experience in AI, machine learning, or related fields, with a focus on large language models and natural language processing.\n• Experience with at least one database technology, such as SQL or NoSQL, is preferred."
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "應用數學相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "Qualifications:\n• Master or PhD degree in Computer Science, Artificial Intelligence or related fields.\n• Proficient in programming languages such as Python, and familiar with machine learning frameworks (e.g., TensorFlow, PyTorch). Experience with NLP and AIGC technologies.\n• Strong analytical and problem-solving abilities to address complex challenges in AI model development and deployment.\n• Ability to design, test, and refine prompts to improve the accuracy and relevance of the AI model's responses. Experience in iterative prompt development, where prompts are continuously optimized based on the model's performance and output quality.\n• Demonstrable expertise in implementing and utilizing RAG (Retrieval-Augmented Generation) models. This includes understanding how to integrate external knowledge bases with language models to enhance the quality and relevance of generated content.\n• Demonstrated expertise in training, fine-tuning, and deploying large-scale language models. This includes understanding the nuances of model architecture, data preprocessing, and optimization techniques specific to LLMs.\n【Skills below are optional but preferable】\n• 3+ years of experience in AI, machine learning, or related fields, with a focus on large language models and natural language processing.\n• Experience with at least one database technology, such as SQL or NoSQL, is preferred.",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、應用數學相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：Qualifications:\n• Master or PhD degree in Computer Science, Artificial Intelligence or related fields.\n• Proficient in programming languages such as Python, and familiar with machine learning frameworks (e.g., TensorFlow, PyTorch). Experience with NLP and AIGC technologies.\n• Strong analytical and problem-solving abilities to address complex challenges in AI model development and deployment.\n• Ability to design, test, and refine prompts to improve the accuracy and relevance of the AI model's responses. Experience in iterative prompt development, where prompts are continuously optimized based on the model's performance and output quality.\n• Demonstrable expertise in implementing and utilizing RAG (Retrieval-Augmented Generation) models. This includes understanding how to integrate external knowledge bases with language models to enhance the quality and relevance of generated content.\n• Demonstrated expertise in training, fine-tuning, and deploying large-scale language models. This includes understanding the nuances of model architecture, data preprocessing, and optimization techniques specific to LLMs.\n【Skills below are optional but preferable】\n• 3+ years of experience in AI, machine learning, or related fields, with a focus on large language models and natural language processing.\n• Experience with at least one database technology, such as SQL or NoSQL, is preferred.",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 99
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:26:29+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Job Summary:\n• The engineers should have comprehensive knowledge of AI Large language models, such as GPT-4, and their underlying mechanisms, including an understanding of natural language processing, machine learning, and neural networks.\nKey Responsibilities:\n• Construct, train, and fine-tune large language models to meet specific organizational requirements and goals. Implement strategies for AIGC to create high-quality content.\n• Integrate AI technologies into existing products and services, ensuring they align with business objectives and enhance user experience.\n• Work collaboratively with cross-functional teams and provide technical guidance to non-technical members. Stay updated with AI advancements and educate team members on new developments.\n• Continuously monitor the performance of AI models, making adjustments and improvements based on data analysis and business needs.\n• Maintain effective communication with other teams to ensure collaborative project success.\n• Engage in ongoing learning and research to identify and implement new and appropriate Large Language Model technologies to enhance overall efficiency.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市前鎮區成功二路25號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Job Summary:\n• The engineers should have comprehensive knowledge of AI Large language models, such as GPT-4, and their underlying mechanisms, including an understanding of natural language processing, machine learning, and neural networks.\nKey Responsibilities:\n• Construct, train, and fine-tune large language models to meet specific organizational requirements and goals. Implement strategies for AIGC to create high-quality content.\n• Integrate AI technologies into existing products and services, ensuring they align with business objectives and enhance user experience.\n• Work collaboratively with cross-functional teams and provide technical guidance to non-technical members. Stay updated with AI advancements and educate team members on new developments.\n• Continuously monitor the performance of AI models, making adjustments and improvements based on data analysis and business needs.\n• Maintain effective communication with other teams to ensure collaborative project success.\n• Engage in ongoing learning and research to identify and implement new and appropriate Large Language Model technologies to enhance overall efficiency."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "碩士以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "應用數學相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、應用數學相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Qualifications:\n• Master or PhD degree in Computer Science, Artificial Intelligence or related fields.\n• Proficient in programming languages such as Python, and familiar with machine learning frameworks (e.g., TensorFlow, PyTorch). Experience with NLP and AIGC technologies.\n• Strong analytical and problem-solving abilities to address complex challenges in AI model development and deployment.\n• Ability to design, test, and refine prompts to improve the accuracy and relevance of the AI model's responses. Experience in iterative prompt development, where prompts are continuously optimized based on the model's performance and output quality.\n• Demonstrable expertise in implementing and utilizing RAG (Retrieval-Augmented Generation) models. This includes understanding how to integrate external knowledge bases with language models to enhance the quality and relevance of generated content.\n• Demonstrated expertise in training, fine-tuning, and deploying large-scale language models. This includes understanding the nuances of model architecture, data preprocessing, and optimization techniques specific to LLMs.\n【Skills below are optional but preferable】\n• 3+ years of experience in AI, machine learning, or related fields, with a focus on large language models and natural language processing.\n• Experience with at least one database technology, such as SQL or NoSQL, is preferred.",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：碩士以上\n科系要求：資訊工程相關、應用數學相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：Qualifications:\n• Master or PhD degree in Computer Science, Artificial Intelligence or related fields.\n• Proficient in programming languages such as Python, and familiar with machine learning frameworks (e.g., TensorFlow, PyTorch). Experience with NLP and AIGC technologies.\n• Strong analytical and problem-solving abilities to address complex challenges in AI model development and deployment.\n• Ability to design, test, and refine prompts to improve the accuracy and relevance of the AI model's responses. Experience in iterative prompt development, where prompts are continuously optimized based on the model's performance and output quality.\n• Demonstrable expertise in implementing and utilizing RAG (Retrieval-Augmented Generation) models. This includes understanding how to integrate external knowledge bases with language models to enhance the quality and relevance of generated content.\n• Demonstrated expertise in training, fine-tuning, and deploying large-scale language models. This includes understanding the nuances of model architecture, data preprocessing, and optimization techniques specific to LLMs.\n【Skills below are optional but preferable】\n• 3+ years of experience in AI, machine learning, or related fields, with a focus on large language models and natural language processing.\n• Experience with at least one database technology, such as SQL or NoSQL, is preferred."
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "88ucb",
+    "job_url": "https://www.104.com.tw/job/88ucb",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/88ucb.json",
+    "raw_sha256": "340bfcb37150f0cd0a87318eb77b8f24f78b523c853d9d038850a14c26198d76",
+    "requested_url": "https://www.104.com.tw/api/jobs/88ucb"
+  }
+}

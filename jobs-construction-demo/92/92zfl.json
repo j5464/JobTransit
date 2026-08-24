@@ -1,0 +1,241 @@
+{
+  "company": {
+    "id": "1a2x6bkirw",
+    "name": "杰倫智能科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "我們正在尋找具備 Java 或 Python 後端開發經驗，並樂於運用 AI 工具提升開發效率與工程品質的後端工程師。"
+        },
+        {
+          "children": [],
+          "text": "你將參與生成式 AI 平台的後端系統、資料處理流程與平台子模組開發，與產品、前端、AI 研究及平台團隊協作，打造穩定、可擴展且可落地的 AI 產品。"
+        },
+        {
+          "children": [],
+          "text": "在這個職務中，你也會持續研究最新的 AI、LLM、後端架構與開發工具技術，並透過內部分享、技術文件或實作 PoC，協助團隊評估與導入有效的新方法與新工具。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Java 或 Python 其中一種後端開發語言"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Spring Boot / Spring Framework，或熟悉 Python Web Framework，例如 FastAPI、Django、Flask"
+        },
+        {
+          "children": [],
+          "text": "熟悉 RESTful API 設計與開發"
+        },
+        {
+          "children": [],
+          "text": "熟悉 MySQL、PostgreSQL 等關聯式資料庫"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git 版本控制與團隊協作流程"
+        },
+        {
+          "children": [],
+          "text": "具備基本系統問題排查能力，能閱讀 log、分析錯誤並提出解決方案"
+        },
+        {
+          "children": [],
+          "text": "了解 LLM 基本相關知識，例如 prompt、token、context window、embedding、RAG、model API 等概念"
+        },
+        {
+          "children": [],
+          "text": "具備良好的溝通協作、問題拆解與持續學習能力"
+        },
+        {
+          "children": [],
+          "text": "樂於研究新技術，並能將學習成果整理成團隊可理解、可評估、可落地的分享內容"
+        },
+        {
+          "children": [],
+          "text": "工作經驗：2 年以上後端開發實務經驗"
+        },
+        {
+          "children": [],
+          "text": "學歷要求：專科、大學或碩士以上，資訊工程、資訊管理、資料科學或相關科系尤佳"
+        },
+        {
+          "children": [],
+          "text": "語文條件：英文中等，能閱讀技術文件並進行基本書面溝通"
+        }
+      ],
+      "text": "-我們正在尋找具備 Java 或 Python 後端開發經驗，並樂於運用 AI 工具提升開發效率與工程品質的後端工程師。\n-你將參與生成式 AI 平台的後端系統、資料處理流程與平台子模組開發，與產品、前端、AI 研究及平台團隊協作，打造穩定、可擴展且可落地的 AI 產品。\n-在這個職務中，你也會持續研究最新的 AI、LLM、後端架構與開發工具技術，並透過內部分享、技術文件或實作 PoC，協助團隊評估與導入有效的新方法與新工具。\n【基本技術要求】\n-熟悉 Java 或 Python 其中一種後端開發語言\n-熟悉 Spring Boot / Spring Framework，或熟悉 Python Web Framework，例如 FastAPI、Django、Flask\n-熟悉 RESTful API 設計與開發\n-熟悉 MySQL、PostgreSQL 等關聯式資料庫\n-熟悉 Git 版本控制與團隊協作流程\n-具備基本系統問題排查能力，能閱讀 log、分析錯誤並提出解決方案\n-了解 LLM 基本相關知識，例如 prompt、token、context window、embedding、RAG、model API 等概念\n-具備良好的溝通協作、問題拆解與持續學習能力\n-樂於研究新技術，並能將學習成果整理成團隊可理解、可評估、可落地的分享內容\n【條件要求】\n-工作經驗：2 年以上後端開發實務經驗\n-學歷要求：專科、大學或碩士以上，資訊工程、資訊管理、資料科學或相關科系尤佳\n-語文條件：英文中等，能閱讀技術文件並進行基本書面溝通"
+    },
+    "employment_type_raw": "全職",
+    "title": "後端工程師｜生成式 AI 平台（Java / Python）"
+  },
+  "location": {
+    "address_raw": "台北市信義區基隆路一段111號3樓",
+    "raw": "台北市信義區基隆路一段111號3樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分條件】\n-具備微服務架構或分散式系統開發經驗\n-熟悉 Docker、Kubernetes、CI/CD 或雲端平台 AWS / GCP / Azure\n-有 MongoDB、Redis 等 NoSQL 或快取系統使用經驗\n-具備資料管線、ETL、排程系統、向量資料庫、embedding、文件解析或知識庫建置經驗\n-具備 LLM 整合、RAG、Prompt Engineering、AI Agent、Tool Calling 或模型推理流程優化經驗\n-具備使用 ChatGPT、GitHub Copilot、Cursor、Claude Code 等 AI 輔助開發工具提升交付效率與程式品質的經驗\n-能判斷 AI 產出程式碼的正確性、安全性與可維護性，並透過測試與 code review 確保品質\n有技術研究、PoC 實作、內部技術分享、文件撰寫或導入新工具 / 新框架的經驗\n【其他條件】\n面試時請準備能展現後端開發、系統設計、AI 應用整合、資料處理或程式實作能力的作品。\n若有使用 AI 輔助開發工具完成專案、提升開發效率、改善程式品質或解決技術問題的經驗，歡迎於面試時分享實際案例。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關",
+      "資訊管理相關"
+    ],
+    "other_text": "【加分條件】\n-具備微服務架構或分散式系統開發經驗\n-熟悉 Docker、Kubernetes、CI/CD 或雲端平台 AWS / GCP / Azure\n-有 MongoDB、Redis 等 NoSQL 或快取系統使用經驗\n-具備資料管線、ETL、排程系統、向量資料庫、embedding、文件解析或知識庫建置經驗\n-具備 LLM 整合、RAG、Prompt Engineering、AI Agent、Tool Calling 或模型推理流程優化經驗\n-具備使用 ChatGPT、GitHub Copilot、Cursor、Claude Code 等 AI 輔助開發工具提升交付效率與程式品質的經驗\n-能判斷 AI 產出程式碼的正確性、安全性與可維護性，並透過測試與 code review 確保品質\n有技術研究、PoC 實作、內部技術分享、文件撰寫或導入新工具 / 新框架的經驗\n【其他條件】\n面試時請準備能展現後端開發、系統設計、AI 應用整合、資料處理或程式實作能力的作品。\n若有使用 AI 輔助開發工具完成專案、提升開發效率、改善程式品質或解決技術問題的經驗，歡迎於面試時分享實際案例。",
+    "skills": [],
+    "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：【加分條件】\n-具備微服務架構或分散式系統開發經驗\n-熟悉 Docker、Kubernetes、CI/CD 或雲端平台 AWS / GCP / Azure\n-有 MongoDB、Redis 等 NoSQL 或快取系統使用經驗\n-具備資料管線、ETL、排程系統、向量資料庫、embedding、文件解析或知識庫建置經驗\n-具備 LLM 整合、RAG、Prompt Engineering、AI Agent、Tool Calling 或模型推理流程優化經驗\n-具備使用 ChatGPT、GitHub Copilot、Cursor、Claude Code 等 AI 輔助開發工具提升交付效率與程式品質的經驗\n-能判斷 AI 產出程式碼的正確性、安全性與可維護性，並透過測試與 code review 確保品質\n有技術研究、PoC 實作、內部技術分享、文件撰寫或導入新工具 / 新框架的經驗\n【其他條件】\n面試時請準備能展現後端開發、系統設計、AI 應用整合、資料處理或程式實作能力的作品。\n若有使用 AI 輔助開發工具完成專案、提升開發效率、改善程式品質或解決技術問題的經驗，歡迎於面試時分享實際案例。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 23
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:18:38+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "-我們正在尋找具備 Java 或 Python 後端開發經驗，並樂於運用 AI 工具提升開發效率與工程品質的後端工程師。\n-你將參與生成式 AI 平台的後端系統、資料處理流程與平台子模組開發，與產品、前端、AI 研究及平台團隊協作，打造穩定、可擴展且可落地的 AI 產品。\n-在這個職務中，你也會持續研究最新的 AI、LLM、後端架構與開發工具技術，並透過內部分享、技術文件或實作 PoC，協助團隊評估與導入有效的新方法與新工具。\n【基本技術要求】\n-熟悉 Java 或 Python 其中一種後端開發語言\n-熟悉 Spring Boot / Spring Framework，或熟悉 Python Web Framework，例如 FastAPI、Django、Flask\n-熟悉 RESTful API 設計與開發\n-熟悉 MySQL、PostgreSQL 等關聯式資料庫\n-熟悉 Git 版本控制與團隊協作流程\n-具備基本系統問題排查能力，能閱讀 log、分析錯誤並提出解決方案\n-了解 LLM 基本相關知識，例如 prompt、token、context window、embedding、RAG、model API 等概念\n-具備良好的溝通協作、問題拆解與持續學習能力\n-樂於研究新技術，並能將學習成果整理成團隊可理解、可評估、可落地的分享內容\n【條件要求】\n-工作經驗：2 年以上後端開發實務經驗\n-學歷要求：專科、大學或碩士以上，資訊工程、資訊管理、資料科學或相關科系尤佳\n-語文條件：英文中等，能閱讀技術文件並進行基本書面溝通",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區基隆路一段111號3樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "-我們正在尋找具備 Java 或 Python 後端開發經驗，並樂於運用 AI 工具提升開發效率與工程品質的後端工程師。\n-你將參與生成式 AI 平台的後端系統、資料處理流程與平台子模組開發，與產品、前端、AI 研究及平台團隊協作，打造穩定、可擴展且可落地的 AI 產品。\n-在這個職務中，你也會持續研究最新的 AI、LLM、後端架構與開發工具技術，並透過內部分享、技術文件或實作 PoC，協助團隊評估與導入有效的新方法與新工具。\n【基本技術要求】\n-熟悉 Java 或 Python 其中一種後端開發語言\n-熟悉 Spring Boot / Spring Framework，或熟悉 Python Web Framework，例如 FastAPI、Django、Flask\n-熟悉 RESTful API 設計與開發\n-熟悉 MySQL、PostgreSQL 等關聯式資料庫\n-熟悉 Git 版本控制與團隊協作流程\n-具備基本系統問題排查能力，能閱讀 log、分析錯誤並提出解決方案\n-了解 LLM 基本相關知識，例如 prompt、token、context window、embedding、RAG、model API 等概念\n-具備良好的溝通協作、問題拆解與持續學習能力\n-樂於研究新技術，並能將學習成果整理成團隊可理解、可評估、可落地的分享內容\n【條件要求】\n-工作經驗：2 年以上後端開發實務經驗\n-學歷要求：專科、大學或碩士以上，資訊工程、資訊管理、資料科學或相關科系尤佳\n-語文條件：英文中等，能閱讀技術文件並進行基本書面溝通"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分條件】\n-具備微服務架構或分散式系統開發經驗\n-熟悉 Docker、Kubernetes、CI/CD 或雲端平台 AWS / GCP / Azure\n-有 MongoDB、Redis 等 NoSQL 或快取系統使用經驗\n-具備資料管線、ETL、排程系統、向量資料庫、embedding、文件解析或知識庫建置經驗\n-具備 LLM 整合、RAG、Prompt Engineering、AI Agent、Tool Calling 或模型推理流程優化經驗\n-具備使用 ChatGPT、GitHub Copilot、Cursor、Claude Code 等 AI 輔助開發工具提升交付效率與程式品質的經驗\n-能判斷 AI 產出程式碼的正確性、安全性與可維護性，並透過測試與 code review 確保品質\n有技術研究、PoC 實作、內部技術分享、文件撰寫或導入新工具 / 新框架的經驗\n【其他條件】\n面試時請準備能展現後端開發、系統設計、AI 應用整合、資料處理或程式實作能力的作品。\n若有使用 AI 輔助開發工具完成專案、提升開發效率、改善程式品質或解決技術問題的經驗，歡迎於面試時分享實際案例。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n其他條件：【加分條件】\n-具備微服務架構或分散式系統開發經驗\n-熟悉 Docker、Kubernetes、CI/CD 或雲端平台 AWS / GCP / Azure\n-有 MongoDB、Redis 等 NoSQL 或快取系統使用經驗\n-具備資料管線、ETL、排程系統、向量資料庫、embedding、文件解析或知識庫建置經驗\n-具備 LLM 整合、RAG、Prompt Engineering、AI Agent、Tool Calling 或模型推理流程優化經驗\n-具備使用 ChatGPT、GitHub Copilot、Cursor、Claude Code 等 AI 輔助開發工具提升交付效率與程式品質的經驗\n-能判斷 AI 產出程式碼的正確性、安全性與可維護性，並透過測試與 code review 確保品質\n有技術研究、PoC 實作、內部技術分享、文件撰寫或導入新工具 / 新框架的經驗\n【其他條件】\n面試時請準備能展現後端開發、系統設計、AI 應用整合、資料處理或程式實作能力的作品。\n若有使用 AI 輔助開發工具完成專案、提升開發效率、改善程式品質或解決技術問題的經驗，歡迎於面試時分享實際案例。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92zfl",
+    "job_url": "https://www.104.com.tw/job/92zfl",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92zfl.json",
+    "raw_sha256": "71e47524994493c529ad5442643aba81f3525d1d127151df7f7c4377429a0535",
+    "requested_url": "https://www.104.com.tw/api/jobs/92zfl"
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "company": {
+    "id": "1a2x6bntvx",
+    "name": "鑫安達科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師",
+      "機器學習工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "工作地點（Work Location）\n臺灣地區/馬來西亞/越南/美國/墨西哥 Taiwan China / Malaysia / Vitnam / USA / Mexico\n工作時間 (Work Hours)\n標準工時制/彈性工作制/現場支持 Standard working hours / Flexible working hours / On-site support\n職位要求（Qualifications）\nBachelor+ in CS/Software/AI preferred; 8+ yrs machine vision or automation R&D/implementation, industrial robot/non\u001estandard platform exp preferred.\n3D vision, deep learning, emerging vision tech exp preferred; full project implementation with on\u001esite debug & problem\u001esolving.\nProficient in OpenCV or VisionPro; skilled in C#/C++/Python with strong coding ability.\nStrong communication, teamwork, active learning, proactive;\nAdaptable to travel and on-site support.\n本科及以上，電腦/軟體/AI優先；8年以上機器視覺或自動化專案研發實施經驗，有工業機器人/非標平臺專案優先。\n有3D視覺、深度學習等新興技術經驗優先；參與或主導過完整專案，具備現場調試與問題處理能力。\n精通OpenCV或VisionPro，熟悉C#/C++/Python，編碼能力強。\n溝通協調、團隊協作、學習能力強，工作積極主動，責任心強，能適應出差及現場支持。\n崗位職責（Responsibilities）\nDevelop detailed vision system design docs and drive project implementation within timeline.\nLead vision lab setup, lighting tests, component selection/validation, ensure compatibility;\nIntegrate vision platform with automation for data/control feedback.\nWrite technical docs/training materials; resolve technical challenges (unordered picking, dimension, surface defects), develop/optimize algorithms.\nEstablish development standards, promote new tech (AOI, 3D line scan, 2.5D positioning) in projects;\nContinuously optimize algorithms for platform intelligence.\n制定詳細視覺方案設計文檔，按時推動專案實施。\n主導視覺實驗室規劃與落成，組織打光測試、選型驗證及參數評估，確保部件匹配穩定；\n完成視覺平臺與自動化設備集成，保證數據與控制回饋有效。\n編寫技術文檔和培訓資料，攻克無序抓取、尺寸測量、表面缺陷等技術難點，研發或優化視覺演算法。\n制定完善開發規範，推動AOI檢測、3D線掃描、2.5D定位等新技術落地，持續優化演算法，提升平臺智能化水準。"
+    },
+    "employment_type_raw": "全職",
+    "title": "視覺開發工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣湖口鄉達生二街388號",
+    "raw": "新竹縣湖口鄉達生二街388號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關",
+          "通信學類"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關、通信學類"
+      },
+      {
+        "items": [
+          "PyTorch",
+          "C#",
+          "Visual Studio",
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "PyTorch、C#、Visual Studio、C++、Python"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "演算法設計",
+          "模組化系統設計",
+          "軟體工程系統開發",
+          "軟體品質與保證"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、演算法設計、模組化系統設計、軟體工程系統開發、軟體品質與保證"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關",
+      "通信學類"
+    ],
+    "other_text": null,
+    "skills": [
+      "軟體程式設計",
+      "演算法設計",
+      "模組化系統設計",
+      "軟體工程系統開發",
+      "軟體品質與保證"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、通信學類\n擅長工具：PyTorch、C#、Visual Studio、C++、Python\n工作技能：軟體程式設計、演算法設計、模組化系統設計、軟體工程系統開發、軟體品質與保證",
+    "tools": [
+      "PyTorch",
+      "C#",
+      "Visual Studio",
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 7
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:36:17+08:00"
+  },
+  "salary": {
+    "raw": "月薪90,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "工作地點（Work Location）\n臺灣地區/馬來西亞/越南/美國/墨西哥 Taiwan China / Malaysia / Vitnam / USA / Mexico\n工作時間 (Work Hours)\n標準工時制/彈性工作制/現場支持 Standard working hours / Flexible working hours / On-site support\n職位要求（Qualifications）\nBachelor+ in CS/Software/AI preferred; 8+ yrs machine vision or automation R&D/implementation, industrial robot/non\u001estandard platform exp preferred.\n3D vision, deep learning, emerging vision tech exp preferred; full project implementation with on\u001esite debug & problem\u001esolving.\nProficient in OpenCV or VisionPro; skilled in C#/C++/Python with strong coding ability.\nStrong communication, teamwork, active learning, proactive;\nAdaptable to travel and on-site support.\n本科及以上，電腦/軟體/AI優先；8年以上機器視覺或自動化專案研發實施經驗，有工業機器人/非標平臺專案優先。\n有3D視覺、深度學習等新興技術經驗優先；參與或主導過完整專案，具備現場調試與問題處理能力。\n精通OpenCV或VisionPro，熟悉C#/C++/Python，編碼能力強。\n溝通協調、團隊協作、學習能力強，工作積極主動，責任心強，能適應出差及現場支持。\n崗位職責（Responsibilities）\nDevelop detailed vision system design docs and drive project implementation within timeline.\nLead vision lab setup, lighting tests, component selection/validation, ensure compatibility;\nIntegrate vision platform with automation for data/control feedback.\nWrite technical docs/training materials; resolve technical challenges (unordered picking, dimension, surface defects), develop/optimize algorithms.\nEstablish development standards, promote new tech (AOI, 3D line scan, 2.5D positioning) in projects;\nContinuously optimize algorithms for platform intelligence.\n制定詳細視覺方案設計文檔，按時推動專案實施。\n主導視覺實驗室規劃與落成，組織打光測試、選型驗證及參數評估，確保部件匹配穩定；\n完成視覺平臺與自動化設備集成，保證數據與控制回饋有效。\n編寫技術文檔和培訓資料，攻克無序抓取、尺寸測量、表面缺陷等技術難點，研發或優化視覺演算法。\n制定完善開發規範，推動AOI檢測、3D線掃描、2.5D定位等新技術落地，持續優化演算法，提升平臺智能化水準。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師",
+            "機器學習工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師、機器學習工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪90,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣湖口鄉達生二街388號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "工作地點（Work Location）\n臺灣地區/馬來西亞/越南/美國/墨西哥 Taiwan China / Malaysia / Vitnam / USA / Mexico\n工作時間 (Work Hours)\n標準工時制/彈性工作制/現場支持 Standard working hours / Flexible working hours / On-site support\n職位要求（Qualifications）\nBachelor+ in CS/Software/AI preferred; 8+ yrs machine vision or automation R&D/implementation, industrial robot/non\u001estandard platform exp preferred.\n3D vision, deep learning, emerging vision tech exp preferred; full project implementation with on\u001esite debug & problem\u001esolving.\nProficient in OpenCV or VisionPro; skilled in C#/C++/Python with strong coding ability.\nStrong communication, teamwork, active learning, proactive;\nAdaptable to travel and on-site support.\n本科及以上，電腦/軟體/AI優先；8年以上機器視覺或自動化專案研發實施經驗，有工業機器人/非標平臺專案優先。\n有3D視覺、深度學習等新興技術經驗優先；參與或主導過完整專案，具備現場調試與問題處理能力。\n精通OpenCV或VisionPro，熟悉C#/C++/Python，編碼能力強。\n溝通協調、團隊協作、學習能力強，工作積極主動，責任心強，能適應出差及現場支持。\n崗位職責（Responsibilities）\nDevelop detailed vision system design docs and drive project implementation within timeline.\nLead vision lab setup, lighting tests, component selection/validation, ensure compatibility;\nIntegrate vision platform with automation for data/control feedback.\nWrite technical docs/training materials; resolve technical challenges (unordered picking, dimension, surface defects), develop/optimize algorithms.\nEstablish development standards, promote new tech (AOI, 3D line scan, 2.5D positioning) in projects;\nContinuously optimize algorithms for platform intelligence.\n制定詳細視覺方案設計文檔，按時推動專案實施。\n主導視覺實驗室規劃與落成，組織打光測試、選型驗證及參數評估，確保部件匹配穩定；\n完成視覺平臺與自動化設備集成，保證數據與控制回饋有效。\n編寫技術文檔和培訓資料，攻克無序抓取、尺寸測量、表面缺陷等技術難點，研發或優化視覺演算法。\n制定完善開發規範，推動AOI檢測、3D線掃描、2.5D定位等新技術落地，持續優化演算法，提升平臺智能化水準。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關",
+            "通信學類"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關、通信學類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PyTorch",
+            "C#",
+            "Visual Studio",
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "PyTorch、C#、Visual Studio、C++、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "演算法設計",
+            "模組化系統設計",
+            "軟體工程系統開發",
+            "軟體品質與保證"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、演算法設計、模組化系統設計、軟體工程系統開發、軟體品質與保證",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、其他數學及電算機科學相關、通信學類\n擅長工具：PyTorch、C#、Visual Studio、C++、Python\n工作技能：軟體程式設計、演算法設計、模組化系統設計、軟體工程系統開發、軟體品質與保證"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94v5j",
+    "job_url": "https://www.104.com.tw/job/94v5j",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94v5j.json",
+    "raw_sha256": "c728e079901ffa5fe4e5498606cbc423e574d98e432016856defc9feea6ada30",
+    "requested_url": "https://www.104.com.tw/api/jobs/94v5j"
+  }
+}

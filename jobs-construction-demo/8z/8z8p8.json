@@ -1,0 +1,173 @@
+{
+  "company": {
+    "id": "ck7jtu8",
+    "name": "佳宸科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "系統工程師",
+      "資訊助理"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助企業系統的日常維護及基本管理等。"
+        },
+        {
+          "children": [],
+          "text": "協助資訊例行作業，如：系統檢查與紀錄維護。"
+        },
+        {
+          "children": [],
+          "text": "測試系統功能、整理操作文件與教育訓練資料。"
+        },
+        {
+          "children": [],
+          "text": "追蹤專案進度與服務品質。"
+        },
+        {
+          "children": [],
+          "text": "協助建立、維護及修訂資訊系統之各項資料與檔案，支援資訊各項專案。"
+        },
+        {
+          "children": [],
+          "text": "其他主管交辦事項。"
+        }
+      ],
+      "text": "1.協助企業系統的日常維護及基本管理等。\n2.協助資訊例行作業，如：系統檢查與紀錄維護。\n3.測試系統功能、整理操作文件與教育訓練資料。\n4.追蹤專案進度與服務品質。\n5.協助建立、維護及修訂資訊系統之各項資料與檔案，支援資訊各項專案。\n6.其他主管交辦事項。\n其他條件：\n具備鼎新ERP基礎操作及維護經驗。"
+    },
+    "employment_type_raw": "全職",
+    "title": "資訊助理"
+  },
+  "location": {
+    "address_raw": "新北市三峽區添福14-42號",
+    "raw": "新北市三峽區添福14-42號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學"
+      },
+      {
+        "items": [
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學\n科系要求：資訊管理相關",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 24
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:20:27+08:00"
+  },
+  "salary": {
+    "raw": "月薪32,000~38,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.協助企業系統的日常維護及基本管理等。\n2.協助資訊例行作業，如：系統檢查與紀錄維護。\n3.測試系統功能、整理操作文件與教育訓練資料。\n4.追蹤專案進度與服務品質。\n5.協助建立、維護及修訂資訊系統之各項資料與檔案，支援資訊各項專案。\n6.其他主管交辦事項。\n其他條件：\n具備鼎新ERP基礎操作及維護經驗。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "系統工程師",
+            "資訊助理"
+          ],
+          "label": "職務類別",
+          "text": "系統工程師、資訊助理",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪32,000~38,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市三峽區添福14-42號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.協助企業系統的日常維護及基本管理等。\n2.協助資訊例行作業，如：系統檢查與紀錄維護。\n3.測試系統功能、整理操作文件與教育訓練資料。\n4.追蹤專案進度與服務品質。\n5.協助建立、維護及修訂資訊系統之各項資料與檔案，支援資訊各項專案。\n6.其他主管交辦事項。\n其他條件：\n具備鼎新ERP基礎操作及維護經驗。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學\n科系要求：資訊管理相關"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8z8p8",
+    "job_url": "https://www.104.com.tw/job/8z8p8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8z8p8.json",
+    "raw_sha256": "c7d16232b4fcbd5fef16be93957ccf33fef17b8df256a1a65d4a454b9087d2dd",
+    "requested_url": "https://www.104.com.tw/api/jobs/8z8p8"
+  }
+}

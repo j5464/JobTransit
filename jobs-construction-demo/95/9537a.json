@@ -1,0 +1,309 @@
+{
+  "company": {
+    "id": "afph47c",
+    "name": "四零四科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Hardware Bring-up 與軟硬體整合"
+        },
+        {
+          "children": [],
+          "text": "參與新 Ethernet Switch 硬體平台 Bring-up，進行軟硬體整合與功能驗證。"
+        },
+        {
+          "children": [],
+          "text": "分析硬體與系統軟體間的互動，協助定位並解決平台整合過程中的技術問題。"
+        },
+        {
+          "children": [],
+          "text": "與硬體及相關研發團隊合作，確保新平台能穩定運作並符合產品需求。"
+        },
+        {
+          "children": [],
+          "text": "Linux Device Driver 開發與維護"
+        },
+        {
+          "children": [],
+          "text": "依據硬體規格與產品需求，進行 Linux Device Driver 設計與開發。"
+        },
+        {
+          "children": [],
+          "text": "開發新的 Driver，並持續改善既有 Driver 的功能、效能與穩定性。"
+        },
+        {
+          "children": [],
+          "text": "進行 Driver Debug、Code Trace 與問題分析，找出 Root Cause 並完成修正。"
+        },
+        {
+          "children": [],
+          "text": "Linux Kernel 整合與升級"
+        },
+        {
+          "children": [],
+          "text": "負責 Linux Kernel版本升級與相關系統整合。"
+        },
+        {
+          "children": [],
+          "text": "評估 Kernel Upgrade 對既有平台與產品功能的影響，進行必要的修改與驗證。"
+        },
+        {
+          "children": [],
+          "text": "持續改善 Linux Platform 的穩定性、相容性及可維護性。"
+        },
+        {
+          "children": [],
+          "text": "跨平台移植與平台演進"
+        },
+        {
+          "children": [],
+          "text": "進行 Linux Driver 於不同硬體平台間的 Migration 與整合。"
+        },
+        {
+          "children": [],
+          "text": "因應新硬體架構及產品需求，調整底層軟體並解決平台相容性問題。"
+        },
+        {
+          "children": [],
+          "text": "持續優化共用平台能力，支援不同 Ethernet Switch 產品的長期發展。"
+        },
+        {
+          "children": [],
+          "text": "Cybersecurity Issue 分析與修補"
+        },
+        {
+          "children": [],
+          "text": "針對 Linux Kernel、Driver 的資安議題進行技術分析。"
+        },
+        {
+          "children": [],
+          "text": "評估 Security Vulnerability 對產品的影響，進行 Patch 整合、問題修正及驗證。"
+        },
+        {
+          "children": [],
+          "text": "配合產品與公司品質策略，持續維護產品平台的安全性與穩定性。"
+        }
+      ],
+      "text": "Purpose of this Position\nMoxa 持續深耕工業網路通訊技術，透過新世代網路技術、產品研發與實際客戶應用，打造應用於工業自動化場域的網路通訊解決方案。\n隨著硬體平台持續演進以及 Linux Kernel 與資安技術不斷更新，一個穩定、可持續演進的系統平台，是支撐 Ethernet Switch 產品長期發展的重要基礎。\n在這個角色中，您將參與 Moxa Ethernet Switch 底層 Linux Platform 的開發與演進，從 Hardware Bring-up、Linux Kernel / Device Driver 開發、軟硬體整合，到跨平台移植、Kernel Upgrade 與 Cybersecurity Issue 處理，打造穩定且可持續維護的產品基礎平台。\n如果您對硬體 Bring-up、Linux Kernel、Driver Development與軟硬體整合有熱忱，喜歡深入系統底層理解問題、Cybersecurity、Trace Code 並找到 Root Cause，歡迎加入我們。\nMajor Areas of Responsibility\n1. Hardware Bring-up 與軟硬體整合\n- 參與新 Ethernet Switch 硬體平台 Bring-up，進行軟硬體整合與功能驗證。\n- 分析硬體與系統軟體間的互動，協助定位並解決平台整合過程中的技術問題。\n- 與硬體及相關研發團隊合作，確保新平台能穩定運作並符合產品需求。\n2. Linux Device Driver 開發與維護\n- 依據硬體規格與產品需求，進行 Linux Device Driver 設計與開發。\n- 開發新的 Driver，並持續改善既有 Driver 的功能、效能與穩定性。\n- 進行 Driver Debug、Code Trace 與問題分析，找出 Root Cause 並完成修正。\n3. Linux Kernel 整合與升級\n- 負責 Linux Kernel版本升級與相關系統整合。\n- 評估 Kernel Upgrade 對既有平台與產品功能的影響，進行必要的修改與驗證。\n- 持續改善 Linux Platform 的穩定性、相容性及可維護性。\n4. 跨平台移植與平台演進\n- 進行 Linux Driver 於不同硬體平台間的 Migration 與整合。\n- 因應新硬體架構及產品需求，調整底層軟體並解決平台相容性問題。\n- 持續優化共用平台能力，支援不同 Ethernet Switch 產品的長期發展。\n5. Cybersecurity Issue 分析與修補\n- 針對 Linux Kernel、Driver 的資安議題進行技術分析。\n- 評估 Security Vulnerability 對產品的影響，進行 Patch 整合、問題修正及驗證。\n- 配合產品與公司品質策略，持續維護產品平台的安全性與穩定性。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Sr. SW Engineer (Ethernet Switch Linux Platform) (ID: 26007A)"
+  },
+  "location": {
+    "address_raw": "新北市新莊區新北大道四段3號13樓",
+    "raw": "新北市新莊區新北大道四段3號13樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "C",
+          "TCP/IP"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、C、TCP/IP"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "軟體工程系統開發",
+          "韌體工程開發",
+          "軟體程式設計",
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、軟體工程系統開發、韌體工程開發、軟體程式設計、韌體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Minimum Job Requirements:\n- 電機、電子、資訊工程、資訊科學或相關技術領域碩士以上學歷；或具備相當程度的實務經驗。\n- 具2年以上 Linux Kernel、Device Driver 或 Linux System Programming 開發經驗。\n- 熟悉 C語言。\n- 具軟硬體整合（Software / Hardware Integration）相關經驗。\n- 能閱讀技術規格，並將需求轉化為可實作的軟體設計與程式模組。\n- 具 Code Trace、Debug 與問題分析能力，能逐步限縮問題範圍並找到 Root Cause。\n- 中文溝通流利，具英文技術文件閱讀及書寫能力，能理解 Linux、硬體規格與相關英文技術文件。\nPreferred Competencies\n具備以下任一經驗者尤佳：\n- 具 TCP/IP Programming 或相關網路程式開發經驗。\n- 具 Layer 2 / Layer 3 Ethernet Switch Protocol 相關知識或產品開發經驗。\n- ARM Architecture 相關開發經驗。\n- Build System、Bootloader 或 Firmware 開發經驗。\n- 熟悉常見 Hardware Interface 及底層軟硬體整合。\n- 熟悉 Compiler 或 Build System。\n- 熟悉 Git / Git Flow 等版本控制與開發流程。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "Minimum Job Requirements:\n- 電機、電子、資訊工程、資訊科學或相關技術領域碩士以上學歷；或具備相當程度的實務經驗。\n- 具2年以上 Linux Kernel、Device Driver 或 Linux System Programming 開發經驗。\n- 熟悉 C語言。\n- 具軟硬體整合（Software / Hardware Integration）相關經驗。\n- 能閱讀技術規格，並將需求轉化為可實作的軟體設計與程式模組。\n- 具 Code Trace、Debug 與問題分析能力，能逐步限縮問題範圍並找到 Root Cause。\n- 中文溝通流利，具英文技術文件閱讀及書寫能力，能理解 Linux、硬體規格與相關英文技術文件。\nPreferred Competencies\n具備以下任一經驗者尤佳：\n- 具 TCP/IP Programming 或相關網路程式開發經驗。\n- 具 Layer 2 / Layer 3 Ethernet Switch Protocol 相關知識或產品開發經驗。\n- ARM Architecture 相關開發經驗。\n- Build System、Bootloader 或 Firmware 開發經驗。\n- 熟悉常見 Hardware Interface 及底層軟硬體整合。\n- 熟悉 Compiler 或 Build System。\n- 熟悉 Git / Git Flow 等版本控制與開發流程。",
+    "skills": [
+      "系統架構規劃",
+      "軟體工程系統開發",
+      "韌體工程開發",
+      "軟體程式設計",
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C、TCP/IP\n工作技能：系統架構規劃、軟體工程系統開發、韌體工程開發、軟體程式設計、韌體程式設計\n其他條件：Minimum Job Requirements:\n- 電機、電子、資訊工程、資訊科學或相關技術領域碩士以上學歷；或具備相當程度的實務經驗。\n- 具2年以上 Linux Kernel、Device Driver 或 Linux System Programming 開發經驗。\n- 熟悉 C語言。\n- 具軟硬體整合（Software / Hardware Integration）相關經驗。\n- 能閱讀技術規格，並將需求轉化為可實作的軟體設計與程式模組。\n- 具 Code Trace、Debug 與問題分析能力，能逐步限縮問題範圍並找到 Root Cause。\n- 中文溝通流利，具英文技術文件閱讀及書寫能力，能理解 Linux、硬體規格與相關英文技術文件。\nPreferred Competencies\n具備以下任一經驗者尤佳：\n- 具 TCP/IP Programming 或相關網路程式開發經驗。\n- 具 Layer 2 / Layer 3 Ethernet Switch Protocol 相關知識或產品開發經驗。\n- ARM Architecture 相關開發經驗。\n- Build System、Bootloader 或 Firmware 開發經驗。\n- 熟悉常見 Hardware Interface 及底層軟硬體整合。\n- 熟悉 Compiler 或 Build System。\n- 熟悉 Git / Git Flow 等版本控制與開發流程。",
+    "tools": [
+      "Linux",
+      "C",
+      "TCP/IP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 21
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:13:43+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Purpose of this Position\nMoxa 持續深耕工業網路通訊技術，透過新世代網路技術、產品研發與實際客戶應用，打造應用於工業自動化場域的網路通訊解決方案。\n隨著硬體平台持續演進以及 Linux Kernel 與資安技術不斷更新，一個穩定、可持續演進的系統平台，是支撐 Ethernet Switch 產品長期發展的重要基礎。\n在這個角色中，您將參與 Moxa Ethernet Switch 底層 Linux Platform 的開發與演進，從 Hardware Bring-up、Linux Kernel / Device Driver 開發、軟硬體整合，到跨平台移植、Kernel Upgrade 與 Cybersecurity Issue 處理，打造穩定且可持續維護的產品基礎平台。\n如果您對硬體 Bring-up、Linux Kernel、Driver Development與軟硬體整合有熱忱，喜歡深入系統底層理解問題、Cybersecurity、Trace Code 並找到 Root Cause，歡迎加入我們。\nMajor Areas of Responsibility\n1. Hardware Bring-up 與軟硬體整合\n- 參與新 Ethernet Switch 硬體平台 Bring-up，進行軟硬體整合與功能驗證。\n- 分析硬體與系統軟體間的互動，協助定位並解決平台整合過程中的技術問題。\n- 與硬體及相關研發團隊合作，確保新平台能穩定運作並符合產品需求。\n2. Linux Device Driver 開發與維護\n- 依據硬體規格與產品需求，進行 Linux Device Driver 設計與開發。\n- 開發新的 Driver，並持續改善既有 Driver 的功能、效能與穩定性。\n- 進行 Driver Debug、Code Trace 與問題分析，找出 Root Cause 並完成修正。\n3. Linux Kernel 整合與升級\n- 負責 Linux Kernel版本升級與相關系統整合。\n- 評估 Kernel Upgrade 對既有平台與產品功能的影響，進行必要的修改與驗證。\n- 持續改善 Linux Platform 的穩定性、相容性及可維護性。\n4. 跨平台移植與平台演進\n- 進行 Linux Driver 於不同硬體平台間的 Migration 與整合。\n- 因應新硬體架構及產品需求，調整底層軟體並解決平台相容性問題。\n- 持續優化共用平台能力，支援不同 Ethernet Switch 產品的長期發展。\n5. Cybersecurity Issue 分析與修補\n- 針對 Linux Kernel、Driver 的資安議題進行技術分析。\n- 評估 Security Vulnerability 對產品的影響，進行 Patch 整合、問題修正及驗證。\n- 配合產品與公司品質策略，持續維護產品平台的安全性與穩定性。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新莊區新北大道四段3號13樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Purpose of this Position\nMoxa 持續深耕工業網路通訊技術，透過新世代網路技術、產品研發與實際客戶應用，打造應用於工業自動化場域的網路通訊解決方案。\n隨著硬體平台持續演進以及 Linux Kernel 與資安技術不斷更新，一個穩定、可持續演進的系統平台，是支撐 Ethernet Switch 產品長期發展的重要基礎。\n在這個角色中，您將參與 Moxa Ethernet Switch 底層 Linux Platform 的開發與演進，從 Hardware Bring-up、Linux Kernel / Device Driver 開發、軟硬體整合，到跨平台移植、Kernel Upgrade 與 Cybersecurity Issue 處理，打造穩定且可持續維護的產品基礎平台。\n如果您對硬體 Bring-up、Linux Kernel、Driver Development與軟硬體整合有熱忱，喜歡深入系統底層理解問題、Cybersecurity、Trace Code 並找到 Root Cause，歡迎加入我們。\nMajor Areas of Responsibility\n1. Hardware Bring-up 與軟硬體整合\n- 參與新 Ethernet Switch 硬體平台 Bring-up，進行軟硬體整合與功能驗證。\n- 分析硬體與系統軟體間的互動，協助定位並解決平台整合過程中的技術問題。\n- 與硬體及相關研發團隊合作，確保新平台能穩定運作並符合產品需求。\n2. Linux Device Driver 開發與維護\n- 依據硬體規格與產品需求，進行 Linux Device Driver 設計與開發。\n- 開發新的 Driver，並持續改善既有 Driver 的功能、效能與穩定性。\n- 進行 Driver Debug、Code Trace 與問題分析，找出 Root Cause 並完成修正。\n3. Linux Kernel 整合與升級\n- 負責 Linux Kernel版本升級與相關系統整合。\n- 評估 Kernel Upgrade 對既有平台與產品功能的影響，進行必要的修改與驗證。\n- 持續改善 Linux Platform 的穩定性、相容性及可維護性。\n4. 跨平台移植與平台演進\n- 進行 Linux Driver 於不同硬體平台間的 Migration 與整合。\n- 因應新硬體架構及產品需求，調整底層軟體並解決平台相容性問題。\n- 持續優化共用平台能力，支援不同 Ethernet Switch 產品的長期發展。\n5. Cybersecurity Issue 分析與修補\n- 針對 Linux Kernel、Driver 的資安議題進行技術分析。\n- 評估 Security Vulnerability 對產品的影響，進行 Patch 整合、問題修正及驗證。\n- 配合產品與公司品質策略，持續維護產品平台的安全性與穩定性。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "C",
+            "TCP/IP"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、C、TCP/IP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "軟體工程系統開發",
+            "韌體工程開發",
+            "軟體程式設計",
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、軟體工程系統開發、韌體工程開發、軟體程式設計、韌體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Minimum Job Requirements:\n- 電機、電子、資訊工程、資訊科學或相關技術領域碩士以上學歷；或具備相當程度的實務經驗。\n- 具2年以上 Linux Kernel、Device Driver 或 Linux System Programming 開發經驗。\n- 熟悉 C語言。\n- 具軟硬體整合（Software / Hardware Integration）相關經驗。\n- 能閱讀技術規格，並將需求轉化為可實作的軟體設計與程式模組。\n- 具 Code Trace、Debug 與問題分析能力，能逐步限縮問題範圍並找到 Root Cause。\n- 中文溝通流利，具英文技術文件閱讀及書寫能力，能理解 Linux、硬體規格與相關英文技術文件。\nPreferred Competencies\n具備以下任一經驗者尤佳：\n- 具 TCP/IP Programming 或相關網路程式開發經驗。\n- 具 Layer 2 / Layer 3 Ethernet Switch Protocol 相關知識或產品開發經驗。\n- ARM Architecture 相關開發經驗。\n- Build System、Bootloader 或 Firmware 開發經驗。\n- 熟悉常見 Hardware Interface 及底層軟硬體整合。\n- 熟悉 Compiler 或 Build System。\n- 熟悉 Git / Git Flow 等版本控制與開發流程。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C、TCP/IP\n工作技能：系統架構規劃、軟體工程系統開發、韌體工程開發、軟體程式設計、韌體程式設計\n其他條件：Minimum Job Requirements:\n- 電機、電子、資訊工程、資訊科學或相關技術領域碩士以上學歷；或具備相當程度的實務經驗。\n- 具2年以上 Linux Kernel、Device Driver 或 Linux System Programming 開發經驗。\n- 熟悉 C語言。\n- 具軟硬體整合（Software / Hardware Integration）相關經驗。\n- 能閱讀技術規格，並將需求轉化為可實作的軟體設計與程式模組。\n- 具 Code Trace、Debug 與問題分析能力，能逐步限縮問題範圍並找到 Root Cause。\n- 中文溝通流利，具英文技術文件閱讀及書寫能力，能理解 Linux、硬體規格與相關英文技術文件。\nPreferred Competencies\n具備以下任一經驗者尤佳：\n- 具 TCP/IP Programming 或相關網路程式開發經驗。\n- 具 Layer 2 / Layer 3 Ethernet Switch Protocol 相關知識或產品開發經驗。\n- ARM Architecture 相關開發經驗。\n- Build System、Bootloader 或 Firmware 開發經驗。\n- 熟悉常見 Hardware Interface 及底層軟硬體整合。\n- 熟悉 Compiler 或 Build System。\n- 熟悉 Git / Git Flow 等版本控制與開發流程。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "9537a",
+    "job_url": "https://www.104.com.tw/job/9537a",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9537a.json",
+    "raw_sha256": "2228fb03cb0f14285175b5941d49941815011c82a6c9151b68de45d4e092ba44",
+    "requested_url": "https://www.104.com.tw/api/jobs/9537a"
+  }
+}

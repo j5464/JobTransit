@@ -1,0 +1,287 @@
+{
+  "company": {
+    "id": "a5habd4",
+    "name": "D-Link_友訊科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "演算法工程師",
+      "機器學習工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI 模型與演算法架構： 針對「照護陪伴」與「安保巡檢」情境，設計 LLM/VLM 核心對話、意圖理解、情緒感知與異常狀況判讀演算法。"
+        },
+        {
+          "children": [],
+          "text": "團隊領導與任務指派： 帶領 AI/演算法工程團隊，進行技術指導、 Code Review 與團隊能力建置。"
+        },
+        {
+          "children": [],
+          "text": "跨團隊與跨界協作："
+        },
+        {
+          "children": [],
+          "text": "多模態與情緒互動開發： 結合視覺（VLM）、語音（STT/TTS）與情境脈絡（RAG/Agent），提升機器人在安全監控與情感傾聽時的即時性與共情能力（Empathy AI）。"
+        },
+        {
+          "children": [],
+          "text": "模型微調與部署優化： 進行模型微調（Fine-tuning）、輕量化與量化部署，優化運算效率，同時確保照護隱私與安保數據安全性。"
+        }
+      ],
+      "text": "我們致力於打造具備情緒價值與情感連結的下一代服務機器人（包含照護、安保與多元生活服務）。我們的核心策略著重於服務企劃與 AI 演算法研發，平台系統與硬體製造分別由專屬平台團隊及供應鏈夥伴負責。\n在這個關鍵職位中，您將帶領 AI 軟體團隊，專注於最新的大語言模型（LLM）與視覺語言模型（VLM）技術。賦能機器人具備環境安全感知、情緒理解、陪伴互動與主動關懷的能力，用科技為人類提供安心與溫暖的情感價值。\n關鍵職責 (Key Responsibilities)\n• AI 模型與演算法架構： 針對「照護陪伴」與「安保巡檢」情境，設計 LLM/VLM 核心對話、意圖理解、情緒感知與異常狀況判讀演算法。\n• 團隊領導與任務指派： 帶領 AI/演算法工程團隊，進行技術指導、 Code Review 與團隊能力建置。\n• 跨團隊與跨界協作：\no 與服務企劃團隊合作，將抽象的情感照護與服務需求轉化為 AI 技術規格。\no 與平台 RD 團隊對接，定義 AI 模型運算的 API / 數據傳輸介面，確保 AI 功能順暢融入服務平台。\n•多模態與情緒互動開發： 結合視覺（VLM）、語音（STT/TTS）與情境脈絡（RAG/Agent），提升機器人在安全監控與情感傾聽時的即時性與共情能力（Empathy AI）。\n•模型微調與部署優化： 進行模型微調（Fine-tuning）、輕量化與量化部署，優化運算效率，同時確保照護隱私與安保數據安全性。"
+    },
+    "employment_type_raw": "全職",
+    "title": "大語言模型 / 視覺語言模型研發主管（LLM/VLM AI Lead）"
+  },
+  "location": {
+    "address_raw": "台北市內湖區新湖三路289號",
+    "raw": "台北市內湖區新湖三路289號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "資訊工程相關",
+          "電機電子工程相關"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、資訊工程相關、電機電子工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C++",
+          "Python",
+          "PyTorch",
+          "NLP",
+          "Computer Vision",
+          "LLM",
+          "Prompt"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Python、PyTorch、NLP、Computer Vision、LLM、Prompt"
+      },
+      {
+        "items": [
+          "機器學習演算法",
+          "模組化系統設計",
+          "Machine Learning",
+          "深度學習",
+          "自然語言處理",
+          "人工智慧",
+          "AI",
+          "語言模型",
+          "演算法設計",
+          "提示工程",
+          "生成式AI"
+        ],
+        "label": "工作技能",
+        "text": "機器學習演算法、模組化系統設計、Machine Learning、深度學習、自然語言處理、人工智慧、AI、語言模型、演算法設計、提示工程、生成式AI"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "工作經歷與技術能力\n1.開發經驗：\no 具備 3 年以上 AI / NLP / CV 相關演算法開發經驗。\no 具備 1 年以上 LLM / VLM 微調（LoRA/QLoRA）、RAG 知識庫搭建或 Multi-Agent 系統架構經驗。\no 熟練掌握 Python、PyTorch 及主流大模型框架（如 LangChain, LlamaIndex, vLLM, HuggingFace, Ollama 等）。\n2.管理與專案經驗：\no 具備 1 年以上 技術 Team Lead、專案負責人或主管經驗，具備良好的跨部門溝通能力與介面（API）對接經驗。\n3.產業熱情：\no 對照護科技、安保服務、情緒 AI（Affective Computing）或服務型機器人領域充滿熱情，樂於運用技術提升人類生活品質。\n我們提供 (What We Offer)\n•有溫度的 AI 應用： 不只是做工具型 AI，而是真正打造能提供「情緒價值」與「實質安全保護」的產品。\n•多元包容的團隊： 我們年齡不限，重視經驗沉澱與對產品的熱情，提供展現領導力與技術影響力的舞台。"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "數學及電算機科學學科類",
+      "資訊工程相關",
+      "電機電子工程相關"
+    ],
+    "other_text": "工作經歷與技術能力\n1.開發經驗：\no 具備 3 年以上 AI / NLP / CV 相關演算法開發經驗。\no 具備 1 年以上 LLM / VLM 微調（LoRA/QLoRA）、RAG 知識庫搭建或 Multi-Agent 系統架構經驗。\no 熟練掌握 Python、PyTorch 及主流大模型框架（如 LangChain, LlamaIndex, vLLM, HuggingFace, Ollama 等）。\n2.管理與專案經驗：\no 具備 1 年以上 技術 Team Lead、專案負責人或主管經驗，具備良好的跨部門溝通能力與介面（API）對接經驗。\n3.產業熱情：\no 對照護科技、安保服務、情緒 AI（Affective Computing）或服務型機器人領域充滿熱情，樂於運用技術提升人類生活品質。\n我們提供 (What We Offer)\n•有溫度的 AI 應用： 不只是做工具型 AI，而是真正打造能提供「情緒價值」與「實質安全保護」的產品。\n•多元包容的團隊： 我們年齡不限，重視經驗沉澱與對產品的熱情，提供展現領導力與技術影響力的舞台。",
+    "skills": [
+      "機器學習演算法",
+      "模組化系統設計",
+      "Machine Learning",
+      "深度學習",
+      "自然語言處理",
+      "人工智慧",
+      "AI",
+      "語言模型",
+      "演算法設計",
+      "提示工程",
+      "生成式AI"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Python、PyTorch、NLP、Computer Vision、LLM、Prompt\n工作技能：機器學習演算法、模組化系統設計、Machine Learning、深度學習、自然語言處理、人工智慧、AI、語言模型、演算法設計、提示工程、生成式AI\n其他條件：工作經歷與技術能力\n1.開發經驗：\no 具備 3 年以上 AI / NLP / CV 相關演算法開發經驗。\no 具備 1 年以上 LLM / VLM 微調（LoRA/QLoRA）、RAG 知識庫搭建或 Multi-Agent 系統架構經驗。\no 熟練掌握 Python、PyTorch 及主流大模型框架（如 LangChain, LlamaIndex, vLLM, HuggingFace, Ollama 等）。\n2.管理與專案經驗：\no 具備 1 年以上 技術 Team Lead、專案負責人或主管經驗，具備良好的跨部門溝通能力與介面（API）對接經驗。\n3.產業熱情：\no 對照護科技、安保服務、情緒 AI（Affective Computing）或服務型機器人領域充滿熱情，樂於運用技術提升人類生活品質。\n我們提供 (What We Offer)\n•有溫度的 AI 應用： 不只是做工具型 AI，而是真正打造能提供「情緒價值」與「實質安全保護」的產品。\n•多元包容的團隊： 我們年齡不限，重視經驗沉澱與對產品的熱情，提供展現領導力與技術影響力的舞台。",
+    "tools": [
+      "C++",
+      "Python",
+      "PyTorch",
+      "NLP",
+      "Computer Vision",
+      "LLM",
+      "Prompt"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 40
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:00:25+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們致力於打造具備情緒價值與情感連結的下一代服務機器人（包含照護、安保與多元生活服務）。我們的核心策略著重於服務企劃與 AI 演算法研發，平台系統與硬體製造分別由專屬平台團隊及供應鏈夥伴負責。\n在這個關鍵職位中，您將帶領 AI 軟體團隊，專注於最新的大語言模型（LLM）與視覺語言模型（VLM）技術。賦能機器人具備環境安全感知、情緒理解、陪伴互動與主動關懷的能力，用科技為人類提供安心與溫暖的情感價值。\n關鍵職責 (Key Responsibilities)\n• AI 模型與演算法架構： 針對「照護陪伴」與「安保巡檢」情境，設計 LLM/VLM 核心對話、意圖理解、情緒感知與異常狀況判讀演算法。\n• 團隊領導與任務指派： 帶領 AI/演算法工程團隊，進行技術指導、 Code Review 與團隊能力建置。\n• 跨團隊與跨界協作：\no 與服務企劃團隊合作，將抽象的情感照護與服務需求轉化為 AI 技術規格。\no 與平台 RD 團隊對接，定義 AI 模型運算的 API / 數據傳輸介面，確保 AI 功能順暢融入服務平台。\n•多模態與情緒互動開發： 結合視覺（VLM）、語音（STT/TTS）與情境脈絡（RAG/Agent），提升機器人在安全監控與情感傾聽時的即時性與共情能力（Empathy AI）。\n•模型微調與部署優化： 進行模型微調（Fine-tuning）、輕量化與量化部署，優化運算效率，同時確保照護隱私與安保數據安全性。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "演算法工程師",
+            "機器學習工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、演算法工程師、機器學習工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區新湖三路289號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們致力於打造具備情緒價值與情感連結的下一代服務機器人（包含照護、安保與多元生活服務）。我們的核心策略著重於服務企劃與 AI 演算法研發，平台系統與硬體製造分別由專屬平台團隊及供應鏈夥伴負責。\n在這個關鍵職位中，您將帶領 AI 軟體團隊，專注於最新的大語言模型（LLM）與視覺語言模型（VLM）技術。賦能機器人具備環境安全感知、情緒理解、陪伴互動與主動關懷的能力，用科技為人類提供安心與溫暖的情感價值。\n關鍵職責 (Key Responsibilities)\n• AI 模型與演算法架構： 針對「照護陪伴」與「安保巡檢」情境，設計 LLM/VLM 核心對話、意圖理解、情緒感知與異常狀況判讀演算法。\n• 團隊領導與任務指派： 帶領 AI/演算法工程團隊，進行技術指導、 Code Review 與團隊能力建置。\n• 跨團隊與跨界協作：\no 與服務企劃團隊合作，將抽象的情感照護與服務需求轉化為 AI 技術規格。\no 與平台 RD 團隊對接，定義 AI 模型運算的 API / 數據傳輸介面，確保 AI 功能順暢融入服務平台。\n•多模態與情緒互動開發： 結合視覺（VLM）、語音（STT/TTS）與情境脈絡（RAG/Agent），提升機器人在安全監控與情感傾聽時的即時性與共情能力（Empathy AI）。\n•模型微調與部署優化： 進行模型微調（Fine-tuning）、輕量化與量化部署，優化運算效率，同時確保照護隱私與安保數據安全性。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "資訊工程相關",
+            "電機電子工程相關"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、資訊工程相關、電機電子工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Python",
+            "PyTorch",
+            "NLP",
+            "Computer Vision",
+            "LLM",
+            "Prompt"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Python、PyTorch、NLP、Computer Vision、LLM、Prompt",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "機器學習演算法",
+            "模組化系統設計",
+            "Machine Learning",
+            "深度學習",
+            "自然語言處理",
+            "人工智慧",
+            "AI",
+            "語言模型",
+            "演算法設計",
+            "提示工程",
+            "生成式AI"
+          ],
+          "label": "工作技能",
+          "text": "機器學習演算法、模組化系統設計、Machine Learning、深度學習、自然語言處理、人工智慧、AI、語言模型、演算法設計、提示工程、生成式AI",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "工作經歷與技術能力\n1.開發經驗：\no 具備 3 年以上 AI / NLP / CV 相關演算法開發經驗。\no 具備 1 年以上 LLM / VLM 微調（LoRA/QLoRA）、RAG 知識庫搭建或 Multi-Agent 系統架構經驗。\no 熟練掌握 Python、PyTorch 及主流大模型框架（如 LangChain, LlamaIndex, vLLM, HuggingFace, Ollama 等）。\n2.管理與專案經驗：\no 具備 1 年以上 技術 Team Lead、專案負責人或主管經驗，具備良好的跨部門溝通能力與介面（API）對接經驗。\n3.產業熱情：\no 對照護科技、安保服務、情緒 AI（Affective Computing）或服務型機器人領域充滿熱情，樂於運用技術提升人類生活品質。\n我們提供 (What We Offer)\n•有溫度的 AI 應用： 不只是做工具型 AI，而是真正打造能提供「情緒價值」與「實質安全保護」的產品。\n•多元包容的團隊： 我們年齡不限，重視經驗沉澱與對產品的熱情，提供展現領導力與技術影響力的舞台。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、資訊工程相關、電機電子工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Python、PyTorch、NLP、Computer Vision、LLM、Prompt\n工作技能：機器學習演算法、模組化系統設計、Machine Learning、深度學習、自然語言處理、人工智慧、AI、語言模型、演算法設計、提示工程、生成式AI\n其他條件：工作經歷與技術能力\n1.開發經驗：\no 具備 3 年以上 AI / NLP / CV 相關演算法開發經驗。\no 具備 1 年以上 LLM / VLM 微調（LoRA/QLoRA）、RAG 知識庫搭建或 Multi-Agent 系統架構經驗。\no 熟練掌握 Python、PyTorch 及主流大模型框架（如 LangChain, LlamaIndex, vLLM, HuggingFace, Ollama 等）。\n2.管理與專案經驗：\no 具備 1 年以上 技術 Team Lead、專案負責人或主管經驗，具備良好的跨部門溝通能力與介面（API）對接經驗。\n3.產業熱情：\no 對照護科技、安保服務、情緒 AI（Affective Computing）或服務型機器人領域充滿熱情，樂於運用技術提升人類生活品質。\n我們提供 (What We Offer)\n•有溫度的 AI 應用： 不只是做工具型 AI，而是真正打造能提供「情緒價值」與「實質安全保護」的產品。\n•多元包容的團隊： 我們年齡不限，重視經驗沉澱與對產品的熱情，提供展現領導力與技術影響力的舞台。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93yyz",
+    "job_url": "https://www.104.com.tw/job/93yyz",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93yyz.json",
+    "raw_sha256": "359deea8a1f18c8fad385ddd2c5b688cdad668740147448a17a4de15d254e949",
+    "requested_url": "https://www.104.com.tw/api/jobs/93yyz"
+  }
+}

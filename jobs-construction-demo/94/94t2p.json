@@ -1,0 +1,280 @@
+{
+  "company": {
+    "id": "2l8pa9k",
+    "name": "燿華電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "資料科學家",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "負責基金會官網、活動網站及相關網站的建置、維護與功能開發"
+        },
+        {
+          "children": [],
+          "text": "AI影像辨識及系統串接等相關功能開發、驗收、維護、管理與協作"
+        },
+        {
+          "children": [],
+          "text": "使用PHP、JavaScript、HTML5、CSS3及MySQL進行網站前後端與資料庫開發"
+        },
+        {
+          "children": [],
+          "text": "建置RWD響應式網站，以及表單、活動報名、資料查詢與內容管理等功能"
+        },
+        {
+          "children": [],
+          "text": "依實際需求進行WordPress網站建置、後台客製化、Theme與Plugin調整及相容性處理"
+        },
+        {
+          "children": [],
+          "text": "需求訪談：進行需求溝通、確認、評估規劃，提供具體解決方案"
+        },
+        {
+          "children": [],
+          "text": "執行主管交辦事項"
+        }
+      ],
+      "text": "一、主要工作\n1.負責基金會官網、活動網站及相關網站的建置、維護與功能開發\n2.AI影像辨識及系統串接等相關功能開發、驗收、維護、管理與協作\n3.使用PHP、JavaScript、HTML5、CSS3及MySQL進行網站前後端與資料庫開發\n4.建置RWD響應式網站，以及表單、活動報名、資料查詢與內容管理等功能\n5.依實際需求進行WordPress網站建置、後台客製化、Theme與Plugin調整及相容性處理\n6.需求訪談：進行需求溝通、確認、評估規劃，提供具體解決方案\n7.執行主管交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "AI網站軟體開發工程師"
+  },
+  "location": {
+    "address_raw": "新北市土城區中山路4巷3號(近北二高交流道）",
+    "raw": "新北市土城區中山路4巷3號(近北二高交流道）"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "數理統計相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、數理統計相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "PHP",
+          "Python",
+          "MySQL",
+          "HTML",
+          "JavaScript",
+          "CSS",
+          "Wordpress"
+        ],
+        "label": "擅長工具",
+        "text": "PHP、Python、MySQL、HTML、JavaScript、CSS、Wordpress"
+      },
+      {
+        "items": [
+          "系統整合分析",
+          "問題追蹤處理(Bug tracking)",
+          "機器學習",
+          "AI",
+          "資料庫程式設計",
+          "影像辨識"
+        ],
+        "label": "工作技能",
+        "text": "系統整合分析、問題追蹤處理(Bug tracking)、機器學習、AI、資料庫程式設計、影像辨識"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉WHM及cPanel管理操作\n2.熟悉網站程式開發\n3.具OpenCV、AI影像辨識開發經驗者佳\n4.曾獨立完成企業、基金會、組織或活動網站開發、測試及維護\n5.具二年以上網站或軟體開發實務經驗\n6.具良好邏輯思考與問題解決能力，能主動學習新技術\n7.能跨部門溝通，理解業務需求並提出可行方案\n8.對AI應用（影像辨識）具高度興趣與持續精進意願\n9.面試將評估實作經驗，請準備過往專案或Demo說明"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "數理統計相關"
+    ],
+    "other_text": "1.熟悉WHM及cPanel管理操作\n2.熟悉網站程式開發\n3.具OpenCV、AI影像辨識開發經驗者佳\n4.曾獨立完成企業、基金會、組織或活動網站開發、測試及維護\n5.具二年以上網站或軟體開發實務經驗\n6.具良好邏輯思考與問題解決能力，能主動學習新技術\n7.能跨部門溝通，理解業務需求並提出可行方案\n8.對AI應用（影像辨識）具高度興趣與持續精進意願\n9.面試將評估實作經驗，請準備過往專案或Demo說明",
+    "skills": [
+      "系統整合分析",
+      "問題追蹤處理(Bug tracking)",
+      "機器學習",
+      "AI",
+      "資料庫程式設計",
+      "影像辨識"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、數理統計相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：PHP、Python、MySQL、HTML、JavaScript、CSS、Wordpress\n工作技能：系統整合分析、問題追蹤處理(Bug tracking)、機器學習、AI、資料庫程式設計、影像辨識\n其他條件：1.熟悉WHM及cPanel管理操作\n2.熟悉網站程式開發\n3.具OpenCV、AI影像辨識開發經驗者佳\n4.曾獨立完成企業、基金會、組織或活動網站開發、測試及維護\n5.具二年以上網站或軟體開發實務經驗\n6.具良好邏輯思考與問題解決能力，能主動學習新技術\n7.能跨部門溝通，理解業務需求並提出可行方案\n8.對AI應用（影像辨識）具高度興趣與持續精進意願\n9.面試將評估實作經驗，請準備過往專案或Demo說明",
+    "tools": [
+      "PHP",
+      "Python",
+      "MySQL",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "Wordpress"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 75
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:27:55+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000~55,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "一、主要工作\n1.負責基金會官網、活動網站及相關網站的建置、維護與功能開發\n2.AI影像辨識及系統串接等相關功能開發、驗收、維護、管理與協作\n3.使用PHP、JavaScript、HTML5、CSS3及MySQL進行網站前後端與資料庫開發\n4.建置RWD響應式網站，以及表單、活動報名、資料查詢與內容管理等功能\n5.依實際需求進行WordPress網站建置、後台客製化、Theme與Plugin調整及相容性處理\n6.需求訪談：進行需求溝通、確認、評估規劃，提供具體解決方案\n7.執行主管交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "資料科學家",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、資料科學家、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000~55,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市土城區中山路4巷3號(近北二高交流道）",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "一、主要工作\n1.負責基金會官網、活動網站及相關網站的建置、維護與功能開發\n2.AI影像辨識及系統串接等相關功能開發、驗收、維護、管理與協作\n3.使用PHP、JavaScript、HTML5、CSS3及MySQL進行網站前後端與資料庫開發\n4.建置RWD響應式網站，以及表單、活動報名、資料查詢與內容管理等功能\n5.依實際需求進行WordPress網站建置、後台客製化、Theme與Plugin調整及相容性處理\n6.需求訪談：進行需求溝通、確認、評估規劃，提供具體解決方案\n7.執行主管交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "數理統計相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、數理統計相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "PHP",
+            "Python",
+            "MySQL",
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "Wordpress"
+          ],
+          "label": "擅長工具",
+          "text": "PHP、Python、MySQL、HTML、JavaScript、CSS、Wordpress",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統整合分析",
+            "問題追蹤處理(Bug tracking)",
+            "機器學習",
+            "AI",
+            "資料庫程式設計",
+            "影像辨識"
+          ],
+          "label": "工作技能",
+          "text": "系統整合分析、問題追蹤處理(Bug tracking)、機器學習、AI、資料庫程式設計、影像辨識",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉WHM及cPanel管理操作\n2.熟悉網站程式開發\n3.具OpenCV、AI影像辨識開發經驗者佳\n4.曾獨立完成企業、基金會、組織或活動網站開發、測試及維護\n5.具二年以上網站或軟體開發實務經驗\n6.具良好邏輯思考與問題解決能力，能主動學習新技術\n7.能跨部門溝通，理解業務需求並提出可行方案\n8.對AI應用（影像辨識）具高度興趣與持續精進意願\n9.面試將評估實作經驗，請準備過往專案或Demo說明",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、數理統計相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：PHP、Python、MySQL、HTML、JavaScript、CSS、Wordpress\n工作技能：系統整合分析、問題追蹤處理(Bug tracking)、機器學習、AI、資料庫程式設計、影像辨識\n其他條件：1.熟悉WHM及cPanel管理操作\n2.熟悉網站程式開發\n3.具OpenCV、AI影像辨識開發經驗者佳\n4.曾獨立完成企業、基金會、組織或活動網站開發、測試及維護\n5.具二年以上網站或軟體開發實務經驗\n6.具良好邏輯思考與問題解決能力，能主動學習新技術\n7.能跨部門溝通，理解業務需求並提出可行方案\n8.對AI應用（影像辨識）具高度興趣與持續精進意願\n9.面試將評估實作經驗，請準備過往專案或Demo說明"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "94t2p",
+    "job_url": "https://www.104.com.tw/job/94t2p",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94t2p.json",
+    "raw_sha256": "32989712e8557a8db87347623fc5b4f021002ac04e8c239550d4112339186b76",
+    "requested_url": "https://www.104.com.tw/api/jobs/94t2p"
+  }
+}

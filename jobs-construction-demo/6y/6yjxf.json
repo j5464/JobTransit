@@ -1,0 +1,288 @@
+{
+  "company": {
+    "id": "1a2x6bkcyc",
+    "name": "MyGo商學苑_平安房屋仲介股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "資料科學家",
+      "後端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "良好的溝通、學習、Debug、邏輯思考能力"
+        },
+        {
+          "children": [],
+          "text": "透過數據收集、清理(ETL)、資料分析、Data Pipeline，協助各部門改善與優化現有流程，提升效率。"
+        },
+        {
+          "children": [],
+          "text": "使用Python到出神入化境界，能破別人所解不了的乾淨數據。"
+        },
+        {
+          "children": [],
+          "text": "Python、Selenium、Playwright等 網路爬蟲相關及網站常見反爬蟲策略經驗。"
+        },
+        {
+          "children": [],
+          "text": "將分析結果視覺化呈現，利於團隊進行後續決策規劃。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 MySQL / maria DB ，能提取與分析數據。"
+        },
+        {
+          "children": [],
+          "text": "參與過資料視覺化相關專案開發 。"
+        },
+        {
+          "children": [],
+          "text": "使用 Python 及 Django 、 FastAPI經驗。"
+        },
+        {
+          "children": [],
+          "text": "開發過 API系統。"
+        },
+        {
+          "children": [],
+          "text": "熱愛數據分析，喜愛跨行業/領域的挑戰，願意主動學習非專長領域的相關知識技術。"
+        },
+        {
+          "children": [],
+          "text": "參與過 GIS 相關專案開發"
+        },
+        {
+          "children": [],
+          "text": "參與過網路爬蟲相關專案開發"
+        },
+        {
+          "children": [],
+          "text": "參與過高營收產品開發"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Docker Compose 撰寫"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Docker 建立及管理專案"
+        },
+        {
+          "children": [],
+          "text": "使用 Azure 經驗"
+        },
+        {
+          "children": [],
+          "text": "使用 MySQL 或 MongoDB 經驗"
+        },
+        {
+          "children": [],
+          "text": "使用 Nginx / Apache web server 經驗"
+        },
+        {
+          "children": [],
+          "text": "使用 socket.io 經驗"
+        },
+        {
+          "children": [],
+          "text": "使用 crontab 經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 ReactJS 相關 SPA 經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Linux 指令"
+        },
+        {
+          "children": [],
+          "text": "熟悉 NPM, Yarn 管理模組經驗"
+        },
+        {
+          "children": [],
+          "text": "參與過AI、機器學習相關專案開發"
+        },
+        {
+          "children": [],
+          "text": "有大型語言模型LLM、RAG、NLP等相關專案開發經驗"
+        }
+      ],
+      "text": "MyGo AI的企業使命就是分析全世界開發地區的房地產大數據，開創先例利用AI創造跨國投資先機。\n我們是一群共同組成的高戰鬥力金融科技（Proptech）平台開發團隊，\n可以自建AI 從0 到1 的一群工程師，在台灣做了世界第一個AI房地產大模型。\nMyGo AI 大數據 (https://www.mygo.com/mygoai)\n世界獨一無二提供完整的建物/土地鑑價報告，\n正拓展AI房地產鑑價大模型至全世界，邀請您下一步踏入歐美市場的先機。\n房地產與半導體，是全世界2個最重要、最有潛力的結構性數據。\n我們正在找具有熱誠、豐富產業經驗、有想法、熱愛『數據清洗』與『數據分析』且期待國際舞台的夥伴的高手，誠摯地邀請您的加入。\n【工作內容、基本技能】\n1. 良好的溝通、學習、Debug、邏輯思考能力\n2.透過數據收集、清理(ETL)、資料分析、Data Pipeline，協助各部門改善與優化現有流程，提升效率。\n3.使用Python到出神入化境界，能破別人所解不了的乾淨數據。\n4. Python、Selenium、Playwright等 網路爬蟲相關及網站常見反爬蟲策略經驗。\n5.將分析結果視覺化呈現，利於團隊進行後續決策規劃。\n6. 熟悉 MySQL / maria DB ，能提取與分析數據。\n7. 參與過資料視覺化相關專案開發 。\n8. 使用 Python 及 Django 、 FastAPI經驗。\n9. 開發過 API系統。\n10.熱愛數據分析，喜愛跨行業/領域的挑戰，願意主動學習非專長領域的相關知識技術。\n【特別加項】如了以上技能＋特別加項者，請至另一職務應徵AI 資料科學家。\n1. 參與過 GIS 相關專案開發\n2. 參與過網路爬蟲相關專案開發\n3. 參與過高營收產品開發\n4. 熟悉 Docker Compose 撰寫\n5. 熟悉 Docker 建立及管理專案\n6. 使用 Azure 經驗\n7. 使用 MySQL 或 MongoDB 經驗\n8. 使用 Nginx / Apache web server 經驗\n9. 使用 socket.io 經驗\n10. 使用 crontab 經驗\n11. 熟悉 ReactJS 相關 SPA 經驗\n12. 熟悉 Linux 指令\n13. 熟悉 NPM, Yarn 管理模組經驗\n14. 參與過AI、機器學習相關專案開發\n15. 有大型語言模型LLM、RAG、NLP等相關專案開發經驗"
+    },
+    "employment_type_raw": "全職",
+    "title": "【MyGo AI大數據】Proptech/Fintech-Python後端工程師/資料科學家/數據分析師/資料工程師"
+  },
+  "location": {
+    "address_raw": "台北市中山區長春路176號4樓",
+    "raw": "台北市中山區長春路176號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "Python",
+          "ETL"
+        ],
+        "label": "擅長工具",
+        "text": "Python、ETL"
+      },
+      {
+        "items": [
+          "AI",
+          "數據分析",
+          "軟體工程系統開發"
+        ],
+        "label": "工作技能",
+        "text": "AI、數據分析、軟體工程系統開發"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【加分項目】\n1. 參與過 GIS 相關專案開發\n2. 參與過網路爬蟲相關專案開發\n3. 參與過高營收產品開發\n4. 熟悉 Docker Compose 撰寫\n5. 熟悉 Docker 建立及管理專案\n6. 使用 Azure 經驗\n7. 使用 MySQL 或 MongoDB 經驗\n8. 使用 Nginx / Apache web server 經驗\n9. 使用 socket.io 經驗\n10. 使用 crontab 經驗\n11. 熟悉 ReactJS 相關 SPA 經驗\n12. 熟悉 Linux 指令\n13. 熟悉 NPM, Yarn 管理模組經驗\n14. 參與過AI、機器學習相關專案開發\n15. 有大型語言模型LLM、RAG、NLP等相關專案開發經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "【加分項目】\n1. 參與過 GIS 相關專案開發\n2. 參與過網路爬蟲相關專案開發\n3. 參與過高營收產品開發\n4. 熟悉 Docker Compose 撰寫\n5. 熟悉 Docker 建立及管理專案\n6. 使用 Azure 經驗\n7. 使用 MySQL 或 MongoDB 經驗\n8. 使用 Nginx / Apache web server 經驗\n9. 使用 socket.io 經驗\n10. 使用 crontab 經驗\n11. 熟悉 ReactJS 相關 SPA 經驗\n12. 熟悉 Linux 指令\n13. 熟悉 NPM, Yarn 管理模組經驗\n14. 參與過AI、機器學習相關專案開發\n15. 有大型語言模型LLM、RAG、NLP等相關專案開發經驗",
+    "skills": [
+      "AI",
+      "數據分析",
+      "軟體工程系統開發"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Python、ETL\n工作技能：AI、數據分析、軟體工程系統開發\n其他條件：【加分項目】\n1. 參與過 GIS 相關專案開發\n2. 參與過網路爬蟲相關專案開發\n3. 參與過高營收產品開發\n4. 熟悉 Docker Compose 撰寫\n5. 熟悉 Docker 建立及管理專案\n6. 使用 Azure 經驗\n7. 使用 MySQL 或 MongoDB 經驗\n8. 使用 Nginx / Apache web server 經驗\n9. 使用 socket.io 經驗\n10. 使用 crontab 經驗\n11. 熟悉 ReactJS 相關 SPA 經驗\n12. 熟悉 Linux 指令\n13. 熟悉 NPM, Yarn 管理模組經驗\n14. 參與過AI、機器學習相關專案開發\n15. 有大型語言模型LLM、RAG、NLP等相關專案開發經驗",
+    "tools": [
+      "Python",
+      "ETL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 67
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:08:14+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "MyGo AI的企業使命就是分析全世界開發地區的房地產大數據，開創先例利用AI創造跨國投資先機。\n我們是一群共同組成的高戰鬥力金融科技（Proptech）平台開發團隊，\n可以自建AI 從0 到1 的一群工程師，在台灣做了世界第一個AI房地產大模型。\nMyGo AI 大數據 (https://www.mygo.com/mygoai)\n世界獨一無二提供完整的建物/土地鑑價報告，\n正拓展AI房地產鑑價大模型至全世界，邀請您下一步踏入歐美市場的先機。\n房地產與半導體，是全世界2個最重要、最有潛力的結構性數據。\n我們正在找具有熱誠、豐富產業經驗、有想法、熱愛『數據清洗』與『數據分析』且期待國際舞台的夥伴的高手，誠摯地邀請您的加入。\n【工作內容、基本技能】\n1. 良好的溝通、學習、Debug、邏輯思考能力\n2.透過數據收集、清理(ETL)、資料分析、Data Pipeline，協助各部門改善與優化現有流程，提升效率。\n3.使用Python到出神入化境界，能破別人所解不了的乾淨數據。\n4. Python、Selenium、Playwright等 網路爬蟲相關及網站常見反爬蟲策略經驗。\n5.將分析結果視覺化呈現，利於團隊進行後續決策規劃。\n6. 熟悉 MySQL / maria DB ，能提取與分析數據。\n7. 參與過資料視覺化相關專案開發 。\n8. 使用 Python 及 Django 、 FastAPI經驗。\n9. 開發過 API系統。\n10.熱愛數據分析，喜愛跨行業/領域的挑戰，願意主動學習非專長領域的相關知識技術。\n【特別加項】如了以上技能＋特別加項者，請至另一職務應徵AI 資料科學家。\n1. 參與過 GIS 相關專案開發\n2. 參與過網路爬蟲相關專案開發\n3. 參與過高營收產品開發\n4. 熟悉 Docker Compose 撰寫\n5. 熟悉 Docker 建立及管理專案\n6. 使用 Azure 經驗\n7. 使用 MySQL 或 MongoDB 經驗\n8. 使用 Nginx / Apache web server 經驗\n9. 使用 socket.io 經驗\n10. 使用 crontab 經驗\n11. 熟悉 ReactJS 相關 SPA 經驗\n12. 熟悉 Linux 指令\n13. 熟悉 NPM, Yarn 管理模組經驗\n14. 參與過AI、機器學習相關專案開發\n15. 有大型語言模型LLM、RAG、NLP等相關專案開發經驗",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "資料科學家",
+            "後端工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、資料科學家、後端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區長春路176號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "MyGo AI的企業使命就是分析全世界開發地區的房地產大數據，開創先例利用AI創造跨國投資先機。\n我們是一群共同組成的高戰鬥力金融科技（Proptech）平台開發團隊，\n可以自建AI 從0 到1 的一群工程師，在台灣做了世界第一個AI房地產大模型。\nMyGo AI 大數據 (https://www.mygo.com/mygoai)\n世界獨一無二提供完整的建物/土地鑑價報告，\n正拓展AI房地產鑑價大模型至全世界，邀請您下一步踏入歐美市場的先機。\n房地產與半導體，是全世界2個最重要、最有潛力的結構性數據。\n我們正在找具有熱誠、豐富產業經驗、有想法、熱愛『數據清洗』與『數據分析』且期待國際舞台的夥伴的高手，誠摯地邀請您的加入。\n【工作內容、基本技能】\n1. 良好的溝通、學習、Debug、邏輯思考能力\n2.透過數據收集、清理(ETL)、資料分析、Data Pipeline，協助各部門改善與優化現有流程，提升效率。\n3.使用Python到出神入化境界，能破別人所解不了的乾淨數據。\n4. Python、Selenium、Playwright等 網路爬蟲相關及網站常見反爬蟲策略經驗。\n5.將分析結果視覺化呈現，利於團隊進行後續決策規劃。\n6. 熟悉 MySQL / maria DB ，能提取與分析數據。\n7. 參與過資料視覺化相關專案開發 。\n8. 使用 Python 及 Django 、 FastAPI經驗。\n9. 開發過 API系統。\n10.熱愛數據分析，喜愛跨行業/領域的挑戰，願意主動學習非專長領域的相關知識技術。\n【特別加項】如了以上技能＋特別加項者，請至另一職務應徵AI 資料科學家。\n1. 參與過 GIS 相關專案開發\n2. 參與過網路爬蟲相關專案開發\n3. 參與過高營收產品開發\n4. 熟悉 Docker Compose 撰寫\n5. 熟悉 Docker 建立及管理專案\n6. 使用 Azure 經驗\n7. 使用 MySQL 或 MongoDB 經驗\n8. 使用 Nginx / Apache web server 經驗\n9. 使用 socket.io 經驗\n10. 使用 crontab 經驗\n11. 熟悉 ReactJS 相關 SPA 經驗\n12. 熟悉 Linux 指令\n13. 熟悉 NPM, Yarn 管理模組經驗\n14. 參與過AI、機器學習相關專案開發\n15. 有大型語言模型LLM、RAG、NLP等相關專案開發經驗"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "ETL"
+          ],
+          "label": "擅長工具",
+          "text": "Python、ETL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "數據分析",
+            "軟體工程系統開發"
+          ],
+          "label": "工作技能",
+          "text": "AI、數據分析、軟體工程系統開發",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【加分項目】\n1. 參與過 GIS 相關專案開發\n2. 參與過網路爬蟲相關專案開發\n3. 參與過高營收產品開發\n4. 熟悉 Docker Compose 撰寫\n5. 熟悉 Docker 建立及管理專案\n6. 使用 Azure 經驗\n7. 使用 MySQL 或 MongoDB 經驗\n8. 使用 Nginx / Apache web server 經驗\n9. 使用 socket.io 經驗\n10. 使用 crontab 經驗\n11. 熟悉 ReactJS 相關 SPA 經驗\n12. 熟悉 Linux 指令\n13. 熟悉 NPM, Yarn 管理模組經驗\n14. 參與過AI、機器學習相關專案開發\n15. 有大型語言模型LLM、RAG、NLP等相關專案開發經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n擅長工具：Python、ETL\n工作技能：AI、數據分析、軟體工程系統開發\n其他條件：【加分項目】\n1. 參與過 GIS 相關專案開發\n2. 參與過網路爬蟲相關專案開發\n3. 參與過高營收產品開發\n4. 熟悉 Docker Compose 撰寫\n5. 熟悉 Docker 建立及管理專案\n6. 使用 Azure 經驗\n7. 使用 MySQL 或 MongoDB 經驗\n8. 使用 Nginx / Apache web server 經驗\n9. 使用 socket.io 經驗\n10. 使用 crontab 經驗\n11. 熟悉 ReactJS 相關 SPA 經驗\n12. 熟悉 Linux 指令\n13. 熟悉 NPM, Yarn 管理模組經驗\n14. 參與過AI、機器學習相關專案開發\n15. 有大型語言模型LLM、RAG、NLP等相關專案開發經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "6yjxf",
+    "job_url": "https://www.104.com.tw/job/6yjxf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/6yjxf.json",
+    "raw_sha256": "167d24af2ceb6c01d4a820d31d5c22bf38204516ba3922ba3cd799ddd1b25665",
+    "requested_url": "https://www.104.com.tw/api/jobs/6yjxf"
+  }
+}

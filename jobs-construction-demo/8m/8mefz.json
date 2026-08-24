@@ -1,0 +1,295 @@
+{
+  "company": {
+    "id": "1a2x6bih1f",
+    "name": "嚮樂科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "勞健保、勞退新制、三節獎金、不定期聚餐"
+        },
+        {
+          "children": [],
+          "text": "年輕、熱情、創新的工作團隊夥伴"
+        },
+        {
+          "children": [],
+          "text": "高樓層的落地窗使辦公空間顯得更加寬敞開放，同時展現了廣闊的無邊際景觀。"
+        },
+        {
+          "children": [],
+          "text": "工作氛圍輕鬆愉快，有效提升工作效率和團隊合作能力。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 HTML、CSS、JavaScript、TypeScript，具備前端開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Vue.js 或 React.js，能獨立開發前端介面"
+        },
+        {
+          "children": [],
+          "text": "有 RESTful API 或 WebSocket 串接經驗，能與後端開發人員協作"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Git、GitHub 或其他版本控制系統"
+        },
+        {
+          "children": [],
+          "text": "有 RWD（響應式設計） 開發經驗"
+        },
+        {
+          "children": [],
+          "text": "有 工控或網管設備前端開發經驗 者佳"
+        },
+        {
+          "children": [],
+          "text": "熟悉 前端效能優化、跨瀏覽器相容性調整"
+        }
+      ],
+      "text": "嚮樂科技是專精於通訊設備軟硬體整合的設計公司與製造商，產品已量產並成功出貨至歐美十餘國客戶，處於高速成長中。\n我們正在尋找前端工程師加入團隊，負責開發與優化我們的雲端工控設備管理平台，提升用戶體驗與系統效能。\n我們提供:\n● 勞健保、勞退新制、三節獎金、不定期聚餐\n● 年輕、熱情、創新的工作團隊夥伴\n● 高樓層的落地窗使辦公空間顯得更加寬敞開放，同時展現了廣闊的無邊際景觀。\n● 工作氛圍輕鬆愉快，有效提升工作效率和團隊合作能力。\n需求技能及相關經驗：\n● 熟悉 HTML、CSS、JavaScript、TypeScript，具備前端開發經驗\n● 熟悉 Vue.js 或 React.js，能獨立開發前端介面\n● 有 RESTful API 或 WebSocket 串接經驗，能與後端開發人員協作\n● 熟悉 Git、GitHub 或其他版本控制系統\n加分技能：\n● 有 RWD（響應式設計） 開發經驗\n● 有 工控或網管設備前端開發經驗 者佳\n● 熟悉 前端效能優化、跨瀏覽器相容性調整\n歡迎對前端開發充滿熱情的你加入我們，一起打造創新的工控管理解決方案！"
+    },
+    "employment_type_raw": "全職",
+    "title": "前端工程師"
+  },
+  "location": {
+    "address_raw": "台北市南港區園區街3號14樓之6",
+    "raw": "台北市南港區園區街3號14樓之6"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、精通、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、精通、中等"
+      },
+      {
+        "items": [
+          "Github",
+          "Git",
+          "AJAX",
+          "JavaScript",
+          "jQuery",
+          "CSS",
+          "Sass",
+          "Node.js",
+          "VueJS",
+          "Angular",
+          "AngularJS"
+        ],
+        "label": "擅長工具",
+        "text": "Github、Git、AJAX、JavaScript、jQuery、CSS、Sass、Node.js、VueJS、Angular、AngularJS"
+      },
+      {
+        "items": [
+          "使用者介面設計",
+          "網頁軟體操作",
+          "網頁語法撰寫",
+          "使用者體驗設計"
+        ],
+        "label": "工作技能",
+        "text": "使用者介面設計、網頁軟體操作、網頁語法撰寫、使用者體驗設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "● 至少1-2年獨立開發經驗（例如：架構設計 / 流程設計 / 除錯 / 效能調整）\n● 熟悉前端開發框架及 API 串接\n● 須具備獨立作業的能力，已有經驗的工程師為佳\n● 具備解決問題的能力\n● 具備積極的心態，能快速適應各種變動，並勇於面對各種未知的挑戰"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、精通、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "● 至少1-2年獨立開發經驗（例如：架構設計 / 流程設計 / 除錯 / 效能調整）\n● 熟悉前端開發框架及 API 串接\n● 須具備獨立作業的能力，已有經驗的工程師為佳\n● 具備解決問題的能力\n● 具備積極的心態，能快速適應各種變動，並勇於面對各種未知的挑戰",
+    "skills": [
+      "使用者介面設計",
+      "網頁軟體操作",
+      "網頁語法撰寫",
+      "使用者體驗設計"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、精通、中等\n擅長工具：Github、Git、AJAX、JavaScript、jQuery、CSS、Sass、Node.js、VueJS、Angular、AngularJS\n工作技能：使用者介面設計、網頁軟體操作、網頁語法撰寫、使用者體驗設計\n其他條件：● 至少1-2年獨立開發經驗（例如：架構設計 / 流程設計 / 除錯 / 效能調整）\n● 熟悉前端開發框架及 API 串接\n● 須具備獨立作業的能力，已有經驗的工程師為佳\n● 具備解決問題的能力\n● 具備積極的心態，能快速適應各種變動，並勇於面對各種未知的挑戰",
+    "tools": [
+      "Github",
+      "Git",
+      "AJAX",
+      "JavaScript",
+      "jQuery",
+      "CSS",
+      "Sass",
+      "Node.js",
+      "VueJS",
+      "Angular",
+      "AngularJS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 8
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:40:42+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "嚮樂科技是專精於通訊設備軟硬體整合的設計公司與製造商，產品已量產並成功出貨至歐美十餘國客戶，處於高速成長中。\n我們正在尋找前端工程師加入團隊，負責開發與優化我們的雲端工控設備管理平台，提升用戶體驗與系統效能。\n我們提供:\n● 勞健保、勞退新制、三節獎金、不定期聚餐\n● 年輕、熱情、創新的工作團隊夥伴\n● 高樓層的落地窗使辦公空間顯得更加寬敞開放，同時展現了廣闊的無邊際景觀。\n● 工作氛圍輕鬆愉快，有效提升工作效率和團隊合作能力。\n需求技能及相關經驗：\n● 熟悉 HTML、CSS、JavaScript、TypeScript，具備前端開發經驗\n● 熟悉 Vue.js 或 React.js，能獨立開發前端介面\n● 有 RESTful API 或 WebSocket 串接經驗，能與後端開發人員協作\n● 熟悉 Git、GitHub 或其他版本控制系統\n加分技能：\n● 有 RWD（響應式設計） 開發經驗\n● 有 工控或網管設備前端開發經驗 者佳\n● 熟悉 前端效能優化、跨瀏覽器相容性調整\n歡迎對前端開發充滿熱情的你加入我們，一起打造創新的工控管理解決方案！",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區園區街3號14樓之6",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "嚮樂科技是專精於通訊設備軟硬體整合的設計公司與製造商，產品已量產並成功出貨至歐美十餘國客戶，處於高速成長中。\n我們正在尋找前端工程師加入團隊，負責開發與優化我們的雲端工控設備管理平台，提升用戶體驗與系統效能。\n我們提供:\n● 勞健保、勞退新制、三節獎金、不定期聚餐\n● 年輕、熱情、創新的工作團隊夥伴\n● 高樓層的落地窗使辦公空間顯得更加寬敞開放，同時展現了廣闊的無邊際景觀。\n● 工作氛圍輕鬆愉快，有效提升工作效率和團隊合作能力。\n需求技能及相關經驗：\n● 熟悉 HTML、CSS、JavaScript、TypeScript，具備前端開發經驗\n● 熟悉 Vue.js 或 React.js，能獨立開發前端介面\n● 有 RESTful API 或 WebSocket 串接經驗，能與後端開發人員協作\n● 熟悉 Git、GitHub 或其他版本控制系統\n加分技能：\n● 有 RWD（響應式設計） 開發經驗\n● 有 工控或網管設備前端開發經驗 者佳\n● 熟悉 前端效能優化、跨瀏覽器相容性調整\n歡迎對前端開發充滿熱情的你加入我們，一起打造創新的工控管理解決方案！"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、精通、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、精通、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Github",
+            "Git",
+            "AJAX",
+            "JavaScript",
+            "jQuery",
+            "CSS",
+            "Sass",
+            "Node.js",
+            "VueJS",
+            "Angular",
+            "AngularJS"
+          ],
+          "label": "擅長工具",
+          "text": "Github、Git、AJAX、JavaScript、jQuery、CSS、Sass、Node.js、VueJS、Angular、AngularJS",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "使用者介面設計",
+            "網頁軟體操作",
+            "網頁語法撰寫",
+            "使用者體驗設計"
+          ],
+          "label": "工作技能",
+          "text": "使用者介面設計、網頁軟體操作、網頁語法撰寫、使用者體驗設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "● 至少1-2年獨立開發經驗（例如：架構設計 / 流程設計 / 除錯 / 效能調整）\n● 熟悉前端開發框架及 API 串接\n● 須具備獨立作業的能力，已有經驗的工程師為佳\n● 具備解決問題的能力\n● 具備積極的心態，能快速適應各種變動，並勇於面對各種未知的挑戰",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、精通、中等\n擅長工具：Github、Git、AJAX、JavaScript、jQuery、CSS、Sass、Node.js、VueJS、Angular、AngularJS\n工作技能：使用者介面設計、網頁軟體操作、網頁語法撰寫、使用者體驗設計\n其他條件：● 至少1-2年獨立開發經驗（例如：架構設計 / 流程設計 / 除錯 / 效能調整）\n● 熟悉前端開發框架及 API 串接\n● 須具備獨立作業的能力，已有經驗的工程師為佳\n● 具備解決問題的能力\n● 具備積極的心態，能快速適應各種變動，並勇於面對各種未知的挑戰"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8mefz",
+    "job_url": "https://www.104.com.tw/job/8mefz",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8mefz.json",
+    "raw_sha256": "5ca2ff2a44119114e317160a9441e9dd19ce15b99c7d10df4376f6ef46a2291a",
+    "requested_url": "https://www.104.com.tw/api/jobs/8mefz"
+  }
+}

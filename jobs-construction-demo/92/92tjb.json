@@ -1,0 +1,235 @@
+{
+  "company": {
+    "id": "1a2x6bk5cu",
+    "name": "英屬開曼群島商萬里雲互聯股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "全端工程師",
+      "後端工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉 Python,具備後端服務或 API 開發經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 React,能獨立開發前端介面並理解元件化、狀態管理等概念。"
+        },
+        {
+          "children": [],
+          "text": "具備雲端環境應用系統開發實務經驗。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Cloud Run,能將應用容器化並部署為無伺服器服務。"
+        },
+        {
+          "children": [],
+          "text": "具備 GKE(Google Kubernetes Engine)使用經驗,理解容器編排與基本 Kubernetes 概念。"
+        },
+        {
+          "children": [],
+          "text": "具備負載平衡(Load Balancing)設定經驗,理解流量分流、健康檢查與擴展機制。"
+        },
+        {
+          "children": [],
+          "text": "具備身分驗證與授權(Authentication / Authorization)實作經驗,熟悉如 OAuth 2.0、JWT、SSO 或 IAM 等機制其中一種以上。"
+        },
+        {
+          "children": [],
+          "text": "理解 API 安全性與存取控制的基本原則。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 SQL,能設計資料表結構並撰寫、優化查詢。"
+        },
+        {
+          "children": [],
+          "text": "具備 BigQuery 使用經驗,能進行大規模資料查詢與分析。"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Firebase / Firestore,理解 NoSQL 資料模型與即時資料庫的應用場景。"
+        },
+        {
+          "children": [],
+          "text": "良好的問題分析與解決能力,能在資訊不完整時做出合理判斷。"
+        },
+        {
+          "children": [],
+          "text": "重視程式碼品質與系統可維護性,願意持續學習新技術。"
+        },
+        {
+          "children": [],
+          "text": "具備良好的溝通與協作能力,能與跨職能團隊(產品、設計、資料)有效合作。"
+        },
+        {
+          "children": [],
+          "text": "對產品有 ownership,願意端到端地負責一個功能的成敗。"
+        },
+        {
+          "children": [],
+          "text": "能在快速變動的環境中保持彈性,並樂於分享知識、互相成長。"
+        }
+      ],
+      "text": "【職務說明】\n我們正在尋找一位充滿熱情的 Full Stack Engineer,能夠橫跨前端與後端、從產品功能開發到雲端基礎架構皆能參與。你將與產品、設計與資料團隊緊密合作,在混合雲平台上打造高可用、可擴展的服務,並將想法快速落地為使用者真正會用到的產品。\n我們重視的不只是寫出能動的程式,更在意系統設計的品質、可維護性,以及能與團隊共同成長的態度。如果你喜歡端到端地擁有一個功能(從資料庫設計、API 到使用者介面),這個角色會很適合你。\n【工作內容】\n◎ 參與產品功能從規劃、設計、開發、測試到上線的完整生命週期。\n◎ 使用 Python 開發後端服務與 API,確保程式碼具備良好的可讀性、測試覆蓋率與效能。\n◎ 使用 React 開發響應式、可重用的前端介面,並與設計師協作優化使用者體驗。\n◎ 設計與維護資料庫結構,撰寫並優化 SQL 查詢,確保資料一致性與查詢效能。\n◎ 運用 BigQuery 進行大規模資料儲存、分析與查詢優化,支援資料導向的產品決策。\n◎ 在 GCP 上部署與維運服務,熟悉以 Cloud Run 部署容器化應用,並使用 GKE(Google Kubernetes Engine)管理需要更高彈性與規模的工作負載。\n◎ 設定與調校負載平衡(Load Balancing),確保服務在高流量下仍能穩定分流、維持可用性與低延遲。\n◎ 設計與實作使用者身分驗證與授權(Authentication / Authorization)機制,確保 API 與資料存取的安全性。\n◎ 使用 Firebase / Firestore 處理即時資料同步、使用者驗證與輕量後端需求。\n◎ 撰寫技術文件、參與程式碼審查(Code Review),並持續改善團隊的開發流程與工程品質。\n◎ 監控線上系統、排查問題並進行效能調校,確保服務穩定運行。\n【職務需求】\n◎ 程式語言與框架\n- 熟悉 Python,具備後端服務或 API 開發經驗。\n- 熟悉 React,能獨立開發前端介面並理解元件化、狀態管理等概念。\n◎ 雲端與基礎架構(GCP)\n- 具備雲端環境應用系統開發實務經驗。\n- 熟悉 Cloud Run,能將應用容器化並部署為無伺服器服務。\n- 具備 GKE(Google Kubernetes Engine)使用經驗,理解容器編排與基本 Kubernetes 概念。\n- 具備負載平衡(Load Balancing)設定經驗,理解流量分流、健康檢查與擴展機制。\n◎ 安全與身分驗證\n- 具備身分驗證與授權(Authentication / Authorization)實作經驗,熟悉如 OAuth 2.0、JWT、SSO 或 IAM 等機制其中一種以上。\n- 理解 API 安全性與存取控制的基本原則。\n◎ 資料庫與資料處理\n- 熟悉 SQL,能設計資料表結構並撰寫、優化查詢。\n- 具備 BigQuery 使用經驗,能進行大規模資料查詢與分析。\n- 熟悉 Firebase / Firestore,理解 NoSQL 資料模型與即時資料庫的應用場景。\n【我們期待的特質】\n- 良好的問題分析與解決能力,能在資訊不完整時做出合理判斷。\n- 重視程式碼品質與系統可維護性,願意持續學習新技術。\n- 具備良好的溝通與協作能力,能與跨職能團隊(產品、設計、資料)有效合作。\n- 對產品有 ownership,願意端到端地負責一個功能的成敗。\n- 能在快速變動的環境中保持彈性,並樂於分享知識、互相成長。\n【加分條件】（非必要但優先考慮）\n◎ 熟悉 Cloudflare(如 CDN、DNS、WAF、DDoS 防護或 Cloudflare Workers 等),具備邊緣網路或網路安全防護經驗。\n◎ 有 CI/CD 流程建置經驗(如 Cloud Build、GitHub Actions 等)。\n◎ 熟悉 Infrastructure as Code(如 Terraform)。\n◎ 具備微服務架構或分散式系統設計經驗。\n◎ 熟悉三大雲端平台(GCP/AWS/Azure)"
+    },
+    "employment_type_raw": "全職",
+    "title": "全端工程師 Full Stack Engineer"
+  },
+  "location": {
+    "address_raw": "台北市信義區基隆路一段333號33樓",
+    "raw": "台北市信義區基隆路一段333號33樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Cloud",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "Cloud、Python"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Cloud、Python",
+    "tools": [
+      "Cloud",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 5
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:32:22+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職務說明】\n我們正在尋找一位充滿熱情的 Full Stack Engineer,能夠橫跨前端與後端、從產品功能開發到雲端基礎架構皆能參與。你將與產品、設計與資料團隊緊密合作,在混合雲平台上打造高可用、可擴展的服務,並將想法快速落地為使用者真正會用到的產品。\n我們重視的不只是寫出能動的程式,更在意系統設計的品質、可維護性,以及能與團隊共同成長的態度。如果你喜歡端到端地擁有一個功能(從資料庫設計、API 到使用者介面),這個角色會很適合你。\n【工作內容】\n◎ 參與產品功能從規劃、設計、開發、測試到上線的完整生命週期。\n◎ 使用 Python 開發後端服務與 API,確保程式碼具備良好的可讀性、測試覆蓋率與效能。\n◎ 使用 React 開發響應式、可重用的前端介面,並與設計師協作優化使用者體驗。\n◎ 設計與維護資料庫結構,撰寫並優化 SQL 查詢,確保資料一致性與查詢效能。\n◎ 運用 BigQuery 進行大規模資料儲存、分析與查詢優化,支援資料導向的產品決策。\n◎ 在 GCP 上部署與維運服務,熟悉以 Cloud Run 部署容器化應用,並使用 GKE(Google Kubernetes Engine)管理需要更高彈性與規模的工作負載。\n◎ 設定與調校負載平衡(Load Balancing),確保服務在高流量下仍能穩定分流、維持可用性與低延遲。\n◎ 設計與實作使用者身分驗證與授權(Authentication / Authorization)機制,確保 API 與資料存取的安全性。\n◎ 使用 Firebase / Firestore 處理即時資料同步、使用者驗證與輕量後端需求。\n◎ 撰寫技術文件、參與程式碼審查(Code Review),並持續改善團隊的開發流程與工程品質。\n◎ 監控線上系統、排查問題並進行效能調校,確保服務穩定運行。\n【職務需求】\n◎ 程式語言與框架\n- 熟悉 Python,具備後端服務或 API 開發經驗。\n- 熟悉 React,能獨立開發前端介面並理解元件化、狀態管理等概念。\n◎ 雲端與基礎架構(GCP)\n- 具備雲端環境應用系統開發實務經驗。\n- 熟悉 Cloud Run,能將應用容器化並部署為無伺服器服務。\n- 具備 GKE(Google Kubernetes Engine)使用經驗,理解容器編排與基本 Kubernetes 概念。\n- 具備負載平衡(Load Balancing)設定經驗,理解流量分流、健康檢查與擴展機制。\n◎ 安全與身分驗證\n- 具備身分驗證與授權(Authentication / Authorization)實作經驗,熟悉如 OAuth 2.0、JWT、SSO 或 IAM 等機制其中一種以上。\n- 理解 API 安全性與存取控制的基本原則。\n◎ 資料庫與資料處理\n- 熟悉 SQL,能設計資料表結構並撰寫、優化查詢。\n- 具備 BigQuery 使用經驗,能進行大規模資料查詢與分析。\n- 熟悉 Firebase / Firestore,理解 NoSQL 資料模型與即時資料庫的應用場景。\n【我們期待的特質】\n- 良好的問題分析與解決能力,能在資訊不完整時做出合理判斷。\n- 重視程式碼品質與系統可維護性,願意持續學習新技術。\n- 具備良好的溝通與協作能力,能與跨職能團隊(產品、設計、資料)有效合作。\n- 對產品有 ownership,願意端到端地負責一個功能的成敗。\n- 能在快速變動的環境中保持彈性,並樂於分享知識、互相成長。\n【加分條件】（非必要但優先考慮）\n◎ 熟悉 Cloudflare(如 CDN、DNS、WAF、DDoS 防護或 Cloudflare Workers 等),具備邊緣網路或網路安全防護經驗。\n◎ 有 CI/CD 流程建置經驗(如 Cloud Build、GitHub Actions 等)。\n◎ 熟悉 Infrastructure as Code(如 Terraform)。\n◎ 具備微服務架構或分散式系統設計經驗。\n◎ 熟悉三大雲端平台(GCP/AWS/Azure)",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "全端工程師",
+            "後端工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "全端工程師、後端工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區基隆路一段333號33樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職務說明】\n我們正在尋找一位充滿熱情的 Full Stack Engineer,能夠橫跨前端與後端、從產品功能開發到雲端基礎架構皆能參與。你將與產品、設計與資料團隊緊密合作,在混合雲平台上打造高可用、可擴展的服務,並將想法快速落地為使用者真正會用到的產品。\n我們重視的不只是寫出能動的程式,更在意系統設計的品質、可維護性,以及能與團隊共同成長的態度。如果你喜歡端到端地擁有一個功能(從資料庫設計、API 到使用者介面),這個角色會很適合你。\n【工作內容】\n◎ 參與產品功能從規劃、設計、開發、測試到上線的完整生命週期。\n◎ 使用 Python 開發後端服務與 API,確保程式碼具備良好的可讀性、測試覆蓋率與效能。\n◎ 使用 React 開發響應式、可重用的前端介面,並與設計師協作優化使用者體驗。\n◎ 設計與維護資料庫結構,撰寫並優化 SQL 查詢,確保資料一致性與查詢效能。\n◎ 運用 BigQuery 進行大規模資料儲存、分析與查詢優化,支援資料導向的產品決策。\n◎ 在 GCP 上部署與維運服務,熟悉以 Cloud Run 部署容器化應用,並使用 GKE(Google Kubernetes Engine)管理需要更高彈性與規模的工作負載。\n◎ 設定與調校負載平衡(Load Balancing),確保服務在高流量下仍能穩定分流、維持可用性與低延遲。\n◎ 設計與實作使用者身分驗證與授權(Authentication / Authorization)機制,確保 API 與資料存取的安全性。\n◎ 使用 Firebase / Firestore 處理即時資料同步、使用者驗證與輕量後端需求。\n◎ 撰寫技術文件、參與程式碼審查(Code Review),並持續改善團隊的開發流程與工程品質。\n◎ 監控線上系統、排查問題並進行效能調校,確保服務穩定運行。\n【職務需求】\n◎ 程式語言與框架\n- 熟悉 Python,具備後端服務或 API 開發經驗。\n- 熟悉 React,能獨立開發前端介面並理解元件化、狀態管理等概念。\n◎ 雲端與基礎架構(GCP)\n- 具備雲端環境應用系統開發實務經驗。\n- 熟悉 Cloud Run,能將應用容器化並部署為無伺服器服務。\n- 具備 GKE(Google Kubernetes Engine)使用經驗,理解容器編排與基本 Kubernetes 概念。\n- 具備負載平衡(Load Balancing)設定經驗,理解流量分流、健康檢查與擴展機制。\n◎ 安全與身分驗證\n- 具備身分驗證與授權(Authentication / Authorization)實作經驗,熟悉如 OAuth 2.0、JWT、SSO 或 IAM 等機制其中一種以上。\n- 理解 API 安全性與存取控制的基本原則。\n◎ 資料庫與資料處理\n- 熟悉 SQL,能設計資料表結構並撰寫、優化查詢。\n- 具備 BigQuery 使用經驗,能進行大規模資料查詢與分析。\n- 熟悉 Firebase / Firestore,理解 NoSQL 資料模型與即時資料庫的應用場景。\n【我們期待的特質】\n- 良好的問題分析與解決能力,能在資訊不完整時做出合理判斷。\n- 重視程式碼品質與系統可維護性,願意持續學習新技術。\n- 具備良好的溝通與協作能力,能與跨職能團隊(產品、設計、資料)有效合作。\n- 對產品有 ownership,願意端到端地負責一個功能的成敗。\n- 能在快速變動的環境中保持彈性,並樂於分享知識、互相成長。\n【加分條件】（非必要但優先考慮）\n◎ 熟悉 Cloudflare(如 CDN、DNS、WAF、DDoS 防護或 Cloudflare Workers 等),具備邊緣網路或網路安全防護經驗。\n◎ 有 CI/CD 流程建置經驗(如 Cloud Build、GitHub Actions 等)。\n◎ 熟悉 Infrastructure as Code(如 Terraform)。\n◎ 具備微服務架構或分散式系統設計經驗。\n◎ 熟悉三大雲端平台(GCP/AWS/Azure)"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Cloud",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "Cloud、Python",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Cloud、Python"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92tjb",
+    "job_url": "https://www.104.com.tw/job/92tjb",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92tjb.json",
+    "raw_sha256": "d4b84e9867cd882dc6c4536d456adf8260ab48ecfb1e49ec09662c187d664409",
+    "requested_url": "https://www.104.com.tw/api/jobs/92tjb"
+  }
+}

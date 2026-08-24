@@ -1,0 +1,207 @@
+{
+  "company": {
+    "id": "1a2x6bmglm",
+    "name": "佑達泌尿科診所"
+  },
+  "job": {
+    "categories": [
+      "前端工程師",
+      "廣告文案／企劃",
+      "全端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "SEO 技術佈局與實作："
+        },
+        {
+          "children": [],
+          "text": "一頁式網站 (Landing Page) 開發："
+        },
+        {
+          "children": [],
+          "text": "內容上架與維護："
+        },
+        {
+          "children": [],
+          "text": "數據分析與優化："
+        },
+        {
+          "children": [],
+          "text": "前端技術力："
+        },
+        {
+          "children": [],
+          "text": "SEO 實戰力："
+        },
+        {
+          "children": [],
+          "text": "協作與特質："
+        },
+        {
+          "children": [],
+          "text": "有 Vue.js / React.js / Next.js / Nuxt.js 開發經驗者尤佳（SSR 對 SEO 更友善）。"
+        },
+        {
+          "children": [],
+          "text": "具備 Server-side 基礎概念，能與後端工程師討論伺服器優化。"
+        },
+        {
+          "children": [],
+          "text": "有操作過 Google Search Console、Ahrefs 或 Moz 等 SEO 工具的經驗。"
+        },
+        {
+          "children": [],
+          "text": "曾製作過高轉換率的「爆品」一頁式網站經驗。"
+        }
+      ],
+      "text": "我們正在尋找一位不僅能寫出漂亮程式碼，更能用程式碼「搶下 Google 排名第一」的關鍵戰友！你將與設計師、後端工程師緊密合作，打造高流量、高轉換的一頁式網站。\n1. SEO 技術佈局與實作：\no 負責網站 SEO 架構優化（Technical SEO），確保網站符合 Google Core Web Vitals 指標。\no 優化網站載入速度、結構化資料（Schema.org）、Meta Tags 設定，目標是將關鍵字推上首頁第一名。\n2. 一頁式網站 (Landing Page) 開發：\no 與 UI/UX 設計師配合，精準還原設計稿，並針對「使用者體驗」與「轉換率」提出前端優化建議。\no 製作吸睛的靜態與動態網頁特效（CSS3 Animation, JS, GSAP 等），提升使用者停留時間。\n3. 內容上架與維護：\no 直接透過原始碼（HTML/Code）進行高質感的文章、圖片、影音排版與上架，非單純依賴 CMS 後台，需具備極佳的 HTML 語意化觀念。\n4. 數據分析與優化：\no 埋設追蹤碼（GA4, GTM, Pixel），並根據數據反饋調整前端寫法以提升成效。\n【必備條件】 (Must Have)\n• 前端技術力：\no 精通 HTML5 / CSS3 (SCSS/SASS) / JavaScript (ES6+)。\no 具備 RWD 響應式網頁開發經驗，在手機版上有極佳的呈現。\no 能手寫或運用 Library 製作網頁動態特效（如 Parallax 視差滾動、互動微動畫）。\n• SEO 實戰力：\no 深刻理解搜尋引擎運作原理，知道如何透過 HTML 標籤權重（H1, Alt, Canonical...）來討好 Google 演算法。\no 有實際提升關鍵字排名的操作經驗。\n• 協作與特質：\no 能直接閱讀與修改原始碼，對於「手刻」內容排版有耐心且細心。\no 具備良好的跨部門溝通能力，能聽懂設計師的美感要求，也能理解後端的 API 串接邏輯。\n【加分條件】 (Nice to Have)\n• 有 Vue.js / React.js / Next.js / Nuxt.js 開發經驗者尤佳（SSR 對 SEO 更友善）。\n• 具備 Server-side 基礎概念，能與後端工程師討論伺服器優化。\n• 有操作過 Google Search Console、Ahrefs 或 Moz 等 SEO 工具的經驗。\n• 曾製作過高轉換率的「爆品」一頁式網站經驗。"
+    },
+    "employment_type_raw": "全職",
+    "title": "SEO 前端工程師｜擅長一頁式網站與數據統計"
+  },
+  "location": {
+    "address_raw": "台中市南屯區",
+    "raw": "台中市南屯區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學"
+      },
+      {
+        "items": [
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "Google Analytics",
+          "SEO"
+        ],
+        "label": "擅長工具",
+        "text": "JavaScript、CSS、HTML、Google Analytics、SEO"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學\n擅長工具：JavaScript、CSS、HTML、Google Analytics、SEO",
+    "tools": [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Google Analytics",
+      "SEO"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 2
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:25:10+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000~70,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "我們正在尋找一位不僅能寫出漂亮程式碼，更能用程式碼「搶下 Google 排名第一」的關鍵戰友！你將與設計師、後端工程師緊密合作，打造高流量、高轉換的一頁式網站。\n1. SEO 技術佈局與實作：\no 負責網站 SEO 架構優化（Technical SEO），確保網站符合 Google Core Web Vitals 指標。\no 優化網站載入速度、結構化資料（Schema.org）、Meta Tags 設定，目標是將關鍵字推上首頁第一名。\n2. 一頁式網站 (Landing Page) 開發：\no 與 UI/UX 設計師配合，精準還原設計稿，並針對「使用者體驗」與「轉換率」提出前端優化建議。\no 製作吸睛的靜態與動態網頁特效（CSS3 Animation, JS, GSAP 等），提升使用者停留時間。\n3. 內容上架與維護：\no 直接透過原始碼（HTML/Code）進行高質感的文章、圖片、影音排版與上架，非單純依賴 CMS 後台，需具備極佳的 HTML 語意化觀念。\n4. 數據分析與優化：\no 埋設追蹤碼（GA4, GTM, Pixel），並根據數據反饋調整前端寫法以提升成效。\n【必備條件】 (Must Have)\n• 前端技術力：\no 精通 HTML5 / CSS3 (SCSS/SASS) / JavaScript (ES6+)。\no 具備 RWD 響應式網頁開發經驗，在手機版上有極佳的呈現。\no 能手寫或運用 Library 製作網頁動態特效（如 Parallax 視差滾動、互動微動畫）。\n• SEO 實戰力：\no 深刻理解搜尋引擎運作原理，知道如何透過 HTML 標籤權重（H1, Alt, Canonical...）來討好 Google 演算法。\no 有實際提升關鍵字排名的操作經驗。\n• 協作與特質：\no 能直接閱讀與修改原始碼，對於「手刻」內容排版有耐心且細心。\no 具備良好的跨部門溝通能力，能聽懂設計師的美感要求，也能理解後端的 API 串接邏輯。\n【加分條件】 (Nice to Have)\n• 有 Vue.js / React.js / Next.js / Nuxt.js 開發經驗者尤佳（SSR 對 SEO 更友善）。\n• 具備 Server-side 基礎概念，能與後端工程師討論伺服器優化。\n• 有操作過 Google Search Console、Ahrefs 或 Moz 等 SEO 工具的經驗。\n• 曾製作過高轉換率的「爆品」一頁式網站經驗。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師",
+            "廣告文案／企劃",
+            "全端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師、廣告文案／企劃、全端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000~70,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市南屯區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "我們正在尋找一位不僅能寫出漂亮程式碼，更能用程式碼「搶下 Google 排名第一」的關鍵戰友！你將與設計師、後端工程師緊密合作，打造高流量、高轉換的一頁式網站。\n1. SEO 技術佈局與實作：\no 負責網站 SEO 架構優化（Technical SEO），確保網站符合 Google Core Web Vitals 指標。\no 優化網站載入速度、結構化資料（Schema.org）、Meta Tags 設定，目標是將關鍵字推上首頁第一名。\n2. 一頁式網站 (Landing Page) 開發：\no 與 UI/UX 設計師配合，精準還原設計稿，並針對「使用者體驗」與「轉換率」提出前端優化建議。\no 製作吸睛的靜態與動態網頁特效（CSS3 Animation, JS, GSAP 等），提升使用者停留時間。\n3. 內容上架與維護：\no 直接透過原始碼（HTML/Code）進行高質感的文章、圖片、影音排版與上架，非單純依賴 CMS 後台，需具備極佳的 HTML 語意化觀念。\n4. 數據分析與優化：\no 埋設追蹤碼（GA4, GTM, Pixel），並根據數據反饋調整前端寫法以提升成效。\n【必備條件】 (Must Have)\n• 前端技術力：\no 精通 HTML5 / CSS3 (SCSS/SASS) / JavaScript (ES6+)。\no 具備 RWD 響應式網頁開發經驗，在手機版上有極佳的呈現。\no 能手寫或運用 Library 製作網頁動態特效（如 Parallax 視差滾動、互動微動畫）。\n• SEO 實戰力：\no 深刻理解搜尋引擎運作原理，知道如何透過 HTML 標籤權重（H1, Alt, Canonical...）來討好 Google 演算法。\no 有實際提升關鍵字排名的操作經驗。\n• 協作與特質：\no 能直接閱讀與修改原始碼，對於「手刻」內容排版有耐心且細心。\no 具備良好的跨部門溝通能力，能聽懂設計師的美感要求，也能理解後端的 API 串接邏輯。\n【加分條件】 (Nice to Have)\n• 有 Vue.js / React.js / Next.js / Nuxt.js 開發經驗者尤佳（SSR 對 SEO 更友善）。\n• 具備 Server-side 基礎概念，能與後端工程師討論伺服器優化。\n• 有操作過 Google Search Console、Ahrefs 或 Moz 等 SEO 工具的經驗。\n• 曾製作過高轉換率的「爆品」一頁式網站經驗。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "Google Analytics",
+            "SEO"
+          ],
+          "label": "擅長工具",
+          "text": "JavaScript、CSS、HTML、Google Analytics、SEO",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學\n擅長工具：JavaScript、CSS、HTML、Google Analytics、SEO"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/22",
+    "html_sha256": null,
+    "job_id": "8wrub",
+    "job_url": "https://www.104.com.tw/job/8wrub",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8wrub.json",
+    "raw_sha256": "cc0f74aeb1286ab4adf69fef7c628e61c0f2f1910720d4c2810201032c46998d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8wrub"
+  }
+}

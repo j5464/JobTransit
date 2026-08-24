@@ -1,0 +1,178 @@
+{
+  "company": {
+    "id": "ajnai6o",
+    "name": "大展證券股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體專案主管",
+      "MIS／網管主管",
+      "電子商務技術主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "有券商5以上經驗"
+        },
+        {
+          "children": [],
+          "text": "帶領團隊經驗"
+        },
+        {
+          "children": [],
+          "text": "與業務單位進行新專案開發"
+        },
+        {
+          "children": [],
+          "text": "長官交辦事項"
+        }
+      ],
+      "text": "1.有券商5以上經驗\n2.帶領團隊經驗\n3.與業務單位進行新專案開發\n4.長官交辦事項"
+    },
+    "employment_type_raw": "全職",
+    "title": "【薪優】【資訊主管】 (需有券商相關行業-資訊3-4年以上經驗/有帶人經驗)"
+  },
+  "location": {
+    "address_raw": "台北市大同區承德路一段17號17樓",
+    "raw": "台北市大同區承德路一段17號17樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "高中以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "高中以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.券商資訊3-4年以上並有帶人經驗\n2.有企圖心.抗壓性強.主動積極.有責任感與上進心\n【備註】薪資將視工作(專案)經驗、相關工作年資、具備證照資格及語文能力等差異化核定。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "1.券商資訊3-4年以上並有帶人經驗\n2.有企圖心.抗壓性強.主動積極.有責任感與上進心\n【備註】薪資將視工作(專案)經驗、相關工作年資、具備證照資格及語文能力等差異化核定。",
+    "skills": [],
+    "text": "工作經歷：5年以上\n學歷要求：高中以上\n科系要求：資訊工程相關\n其他條件：1.券商資訊3-4年以上並有帶人經驗\n2.有企圖心.抗壓性強.主動積極.有責任感與上進心\n【備註】薪資將視工作(專案)經驗、相關工作年資、具備證照資格及語文能力等差異化核定。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 83
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:46:52+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.有券商5以上經驗\n2.帶領團隊經驗\n3.與業務單位進行新專案開發\n4.長官交辦事項",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體專案主管",
+            "MIS／網管主管",
+            "電子商務技術主管"
+          ],
+          "label": "職務類別",
+          "text": "軟體專案主管、MIS／網管主管、電子商務技術主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大同區承德路一段17號17樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.有券商5以上經驗\n2.帶領團隊經驗\n3.與業務單位進行新專案開發\n4.長官交辦事項"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "高中以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.券商資訊3-4年以上並有帶人經驗\n2.有企圖心.抗壓性強.主動積極.有責任感與上進心\n【備註】薪資將視工作(專案)經驗、相關工作年資、具備證照資格及語文能力等差異化核定。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：高中以上\n科系要求：資訊工程相關\n其他條件：1.券商資訊3-4年以上並有帶人經驗\n2.有企圖心.抗壓性強.主動積極.有責任感與上進心\n【備註】薪資將視工作(專案)經驗、相關工作年資、具備證照資格及語文能力等差異化核定。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8qucj",
+    "job_url": "https://www.104.com.tw/job/8qucj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8qucj.json",
+    "raw_sha256": "2308821bcb6b43b6ff23df9599a006f153e056a0112f8f94e2c73dc4a0fc9d8e",
+    "requested_url": "https://www.104.com.tw/api/jobs/8qucj"
+  }
+}

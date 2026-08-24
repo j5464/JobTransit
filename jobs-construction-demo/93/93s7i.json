@@ -1,0 +1,177 @@
+{
+  "company": {
+    "id": "5kp80w0",
+    "name": "統振股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "【我們正在尋找這樣的你！】\n如果你渴望發揮全端影響力，這會是你的舞台：\n高效後端開發： 熟練掌握 .NET (C#) 架構，並能運用 Visual Studio 與 Git 進行高效的團隊協作與版本控制。\n前後端無縫串接： 熟悉 RESTful API 的設計與實作，確保系統高效、穩健地傳輸資料。\n跨領域前端實力： 在 Web (Vue) 或 App (Flutter) 領域中，你至少能獨當一面，打造流暢且直覺的使用者體驗。\n★依個人工作考核不定期調薪★\n★另享季獎金津貼★"
+    },
+    "employment_type_raw": "全職",
+    "title": "【金融科技】全端工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區安美街181號",
+    "raw": "台北市內湖區安美街181號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "C#",
+          "MS SQL",
+          "HTML",
+          "JavaScript",
+          "Kotlin",
+          "Visual C#",
+          "Git"
+        ],
+        "label": "擅長工具",
+        "text": "C#、MS SQL、HTML、JavaScript、Kotlin、Visual C#、Git"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "• 曾參與⾦融相關系統者尤佳\n▍加分條件：\n※ 具備 IoC 開發經驗\n※ 具備 RESTFul、WebAPI 開發經驗\n※ 具備 Unit Test 經驗\n※ 具備 Docker 建置、K8S 部署經驗\n※ 具備 NoSQL 開發經驗（MongoDB、Cassandra、hazelcast）\n※ 具備 Azure、AWS、GCP 雲端開發經驗\n※ 具備 報表製作 / 匯入匯出 經驗"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "• 曾參與⾦融相關系統者尤佳\n▍加分條件：\n※ 具備 IoC 開發經驗\n※ 具備 RESTFul、WebAPI 開發經驗\n※ 具備 Unit Test 經驗\n※ 具備 Docker 建置、K8S 部署經驗\n※ 具備 NoSQL 開發經驗（MongoDB、Cassandra、hazelcast）\n※ 具備 Azure、AWS、GCP 雲端開發經驗\n※ 具備 報表製作 / 匯入匯出 經驗",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：C#、MS SQL、HTML、JavaScript、Kotlin、Visual C#、Git\n其他條件：• 曾參與⾦融相關系統者尤佳\n▍加分條件：\n※ 具備 IoC 開發經驗\n※ 具備 RESTFul、WebAPI 開發經驗\n※ 具備 Unit Test 經驗\n※ 具備 Docker 建置、K8S 部署經驗\n※ 具備 NoSQL 開發經驗（MongoDB、Cassandra、hazelcast）\n※ 具備 Azure、AWS、GCP 雲端開發經驗\n※ 具備 報表製作 / 匯入匯出 經驗",
+    "tools": [
+      "C#",
+      "MS SQL",
+      "HTML",
+      "JavaScript",
+      "Kotlin",
+      "Visual C#",
+      "Git"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 38
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:55:46+08:00"
+  },
+  "salary": {
+    "raw": "月薪40,000~70,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【我們正在尋找這樣的你！】\n如果你渴望發揮全端影響力，這會是你的舞台：\n高效後端開發： 熟練掌握 .NET (C#) 架構，並能運用 Visual Studio 與 Git 進行高效的團隊協作與版本控制。\n前後端無縫串接： 熟悉 RESTful API 的設計與實作，確保系統高效、穩健地傳輸資料。\n跨領域前端實力： 在 Web (Vue) 或 App (Flutter) 領域中，你至少能獨當一面，打造流暢且直覺的使用者體驗。\n★依個人工作考核不定期調薪★\n★另享季獎金津貼★",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪40,000~70,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區安美街181號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【我們正在尋找這樣的你！】\n如果你渴望發揮全端影響力，這會是你的舞台：\n高效後端開發： 熟練掌握 .NET (C#) 架構，並能運用 Visual Studio 與 Git 進行高效的團隊協作與版本控制。\n前後端無縫串接： 熟悉 RESTful API 的設計與實作，確保系統高效、穩健地傳輸資料。\n跨領域前端實力： 在 Web (Vue) 或 App (Flutter) 領域中，你至少能獨當一面，打造流暢且直覺的使用者體驗。\n★依個人工作考核不定期調薪★\n★另享季獎金津貼★"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "MS SQL",
+            "HTML",
+            "JavaScript",
+            "Kotlin",
+            "Visual C#",
+            "Git"
+          ],
+          "label": "擅長工具",
+          "text": "C#、MS SQL、HTML、JavaScript、Kotlin、Visual C#、Git",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "• 曾參與⾦融相關系統者尤佳\n▍加分條件：\n※ 具備 IoC 開發經驗\n※ 具備 RESTFul、WebAPI 開發經驗\n※ 具備 Unit Test 經驗\n※ 具備 Docker 建置、K8S 部署經驗\n※ 具備 NoSQL 開發經驗（MongoDB、Cassandra、hazelcast）\n※ 具備 Azure、AWS、GCP 雲端開發經驗\n※ 具備 報表製作 / 匯入匯出 經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n擅長工具：C#、MS SQL、HTML、JavaScript、Kotlin、Visual C#、Git\n其他條件：• 曾參與⾦融相關系統者尤佳\n▍加分條件：\n※ 具備 IoC 開發經驗\n※ 具備 RESTFul、WebAPI 開發經驗\n※ 具備 Unit Test 經驗\n※ 具備 Docker 建置、K8S 部署經驗\n※ 具備 NoSQL 開發經驗（MongoDB、Cassandra、hazelcast）\n※ 具備 Azure、AWS、GCP 雲端開發經驗\n※ 具備 報表製作 / 匯入匯出 經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "93s7i",
+    "job_url": "https://www.104.com.tw/job/93s7i",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/93s7i.json",
+    "raw_sha256": "83d8c4ae2a834a979cd9d6b6319351bcb98402f59ad2c5e8152ff2849d8b09c8",
+    "requested_url": "https://www.104.com.tw/api/jobs/93s7i"
+  }
+}

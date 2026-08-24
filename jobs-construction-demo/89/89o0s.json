@@ -1,0 +1,237 @@
+{
+  "company": {
+    "id": "wf5k79c",
+    "name": "威睿科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [],
+      "text": "◆熟悉Web前端模組與關聯，維護網路流量分析與DDoS偵測軟體產品功能\n◆增進軟體品質，增加或改善軟體模組與產品的功能\n◆ 進入專案，執行軟體開發設計實作\n◆ 進行良好的團隊合作, 達成任務"
+    },
+    "employment_type_raw": "全職",
+    "title": "Front-End Engineer 前端軟體工程師 (Angular)【台中】"
+  },
+  "location": {
+    "address_raw": "台中市北屯區崇德路二段128號15FB2",
+    "raw": "台中市北屯區崇德路二段128號15FB2"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "中文：精通、精通、精通、精通",
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "中文：精通、精通、精通、精通\n英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Git",
+          "HTML",
+          "JavaScript",
+          "CSS",
+          "Sass",
+          "Node.js",
+          "Angular"
+        ],
+        "label": "擅長工具",
+        "text": "Git、HTML、JavaScript、CSS、Sass、Node.js、Angular"
+      },
+      {
+        "items": [
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "◆工作需求:\n-有撰寫Web UI相關經驗。\n-能根據 UI/UX 的設計, 切出需求所需的 layout 以及組件 ◦\n-了解 HTML/JavaScript/CSS/Sass/Angular ◦ 熟悉javascript/typescript, git, unit testing。\n◆加分條件:\n-有 ES5/ES6 前端框架與後端 API 串接經驗 ◦\n-後端設計: nodejs/express, restful APIs, graphQL\n◆面試可自備作品或是部分撰寫的程式碼及說明文件"
+      }
+    ],
+    "languages": [
+      "中文：精通、精通、精通、精通",
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "◆工作需求:\n-有撰寫Web UI相關經驗。\n-能根據 UI/UX 的設計, 切出需求所需的 layout 以及組件 ◦\n-了解 HTML/JavaScript/CSS/Sass/Angular ◦ 熟悉javascript/typescript, git, unit testing。\n◆加分條件:\n-有 ES5/ES6 前端框架與後端 API 串接經驗 ◦\n-後端設計: nodejs/express, restful APIs, graphQL\n◆面試可自備作品或是部分撰寫的程式碼及說明文件",
+    "skills": [
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n語文條件：中文：精通、精通、精通、精通\n英文：中等、中等、中等、中等\n擅長工具：Git、HTML、JavaScript、CSS、Sass、Node.js、Angular\n工作技能：軟體程式設計\n其他條件：◆工作需求:\n-有撰寫Web UI相關經驗。\n-能根據 UI/UX 的設計, 切出需求所需的 layout 以及組件 ◦\n-了解 HTML/JavaScript/CSS/Sass/Angular ◦ 熟悉javascript/typescript, git, unit testing。\n◆加分條件:\n-有 ES5/ES6 前端框架與後端 API 串接經驗 ◦\n-後端設計: nodejs/express, restful APIs, graphQL\n◆面試可自備作品或是部分撰寫的程式碼及說明文件",
+    "tools": [
+      "Git",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "Sass",
+      "Node.js",
+      "Angular"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 82
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:43:52+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "◆熟悉Web前端模組與關聯，維護網路流量分析與DDoS偵測軟體產品功能\n◆增進軟體品質，增加或改善軟體模組與產品的功能\n◆ 進入專案，執行軟體開發設計實作\n◆ 進行良好的團隊合作, 達成任務",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市北屯區崇德路二段128號15FB2",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "◆熟悉Web前端模組與關聯，維護網路流量分析與DDoS偵測軟體產品功能\n◆增進軟體品質，增加或改善軟體模組與產品的功能\n◆ 進入專案，執行軟體開發設計實作\n◆ 進行良好的團隊合作, 達成任務"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "中文：精通、精通、精通、精通",
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "中文：精通、精通、精通、精通\n英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Git",
+            "HTML",
+            "JavaScript",
+            "CSS",
+            "Sass",
+            "Node.js",
+            "Angular"
+          ],
+          "label": "擅長工具",
+          "text": "Git、HTML、JavaScript、CSS、Sass、Node.js、Angular",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "◆工作需求:\n-有撰寫Web UI相關經驗。\n-能根據 UI/UX 的設計, 切出需求所需的 layout 以及組件 ◦\n-了解 HTML/JavaScript/CSS/Sass/Angular ◦ 熟悉javascript/typescript, git, unit testing。\n◆加分條件:\n-有 ES5/ES6 前端框架與後端 API 串接經驗 ◦\n-後端設計: nodejs/express, restful APIs, graphQL\n◆面試可自備作品或是部分撰寫的程式碼及說明文件",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n語文條件：中文：精通、精通、精通、精通\n英文：中等、中等、中等、中等\n擅長工具：Git、HTML、JavaScript、CSS、Sass、Node.js、Angular\n工作技能：軟體程式設計\n其他條件：◆工作需求:\n-有撰寫Web UI相關經驗。\n-能根據 UI/UX 的設計, 切出需求所需的 layout 以及組件 ◦\n-了解 HTML/JavaScript/CSS/Sass/Angular ◦ 熟悉javascript/typescript, git, unit testing。\n◆加分條件:\n-有 ES5/ES6 前端框架與後端 API 串接經驗 ◦\n-後端設計: nodejs/express, restful APIs, graphQL\n◆面試可自備作品或是部分撰寫的程式碼及說明文件"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "89o0s",
+    "job_url": "https://www.104.com.tw/job/89o0s",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/89o0s.json",
+    "raw_sha256": "c6af819e6d5e23c86ef015929df591ced64b1dcc787d985fa52318431a74baec",
+    "requested_url": "https://www.104.com.tw/api/jobs/89o0s"
+  }
+}

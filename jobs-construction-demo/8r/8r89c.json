@@ -1,0 +1,230 @@
+{
+  "company": {
+    "id": "cwxfyuo",
+    "name": "(捷普集團)綠點高新科技股份有限公司捷普設計服務分公司"
+  },
+  "job": {
+    "categories": [
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Design, develop, maintain, and debug BMC Firmware by applying knowledge of server hardware architecture and system design."
+        },
+        {
+          "children": [],
+          "text": "Design, develop, maintain, and debug BMC Firmware by applying knowledge of server hardware architecture and system design."
+        },
+        {
+          "children": [],
+          "text": "Ability to engage as an independent professional; articulate and compare alternative approaches with multi-functional teams."
+        }
+      ],
+      "text": "• Design, develop, maintain, and debug BMC Firmware by applying knowledge of server hardware architecture and system design.\n• Design, develop, maintain, and debug BMC Firmware by applying knowledge of server hardware architecture and system design.\n• Ability to engage as an independent professional; articulate and compare alternative approaches with multi-functional teams."
+    },
+    "employment_type_raw": "全職",
+    "title": "BMC Firmware Engineer (Taichung)"
+  },
+  "location": {
+    "address_raw": "台中市東區公園東路130號2樓 (近台中火車站)",
+    "raw": "台中市東區公園東路130號2樓 (近台中火車站)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C",
+          "C++"
+        ],
+        "label": "擅長工具",
+        "text": "C、C++"
+      },
+      {
+        "items": [
+          "韌體工程開發",
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "韌體工程開發、韌體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【Essential Qualifications & Experiences】\na) 1-5 years+ of BMC/OpenBMC firmware experience.\nb) Good C/C++ coding skills, including well design concepts and code tracing skill.\nc) Well understanding of the principles of Linux operation system, kernel, application\nd) Well understanding of BMC IPMI 2.0\ne) Knowledge in Redfish (Restful API) is a plus\nf) Independently porting skill of BMC to custom HW or algorithm.\ng) Ability to read schematics\nh) Experience of participating at least one whole server project cycle.\ni) Bachelor or Master in Electronics, computing, software engineering or similar\n【Personality】\n- Enjoy in coding, debugging, and learning new technical knowledge\n- Pragmatic but not stubborn\n- Patient and enthusiasm in work\n- Logicality and communication skill\n- Teamwork and selfless contribution"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "【Essential Qualifications & Experiences】\na) 1-5 years+ of BMC/OpenBMC firmware experience.\nb) Good C/C++ coding skills, including well design concepts and code tracing skill.\nc) Well understanding of the principles of Linux operation system, kernel, application\nd) Well understanding of BMC IPMI 2.0\ne) Knowledge in Redfish (Restful API) is a plus\nf) Independently porting skill of BMC to custom HW or algorithm.\ng) Ability to read schematics\nh) Experience of participating at least one whole server project cycle.\ni) Bachelor or Master in Electronics, computing, software engineering or similar\n【Personality】\n- Enjoy in coding, debugging, and learning new technical knowledge\n- Pragmatic but not stubborn\n- Patient and enthusiasm in work\n- Logicality and communication skill\n- Teamwork and selfless contribution",
+    "skills": [
+      "韌體工程開發",
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++\n工作技能：韌體工程開發、韌體程式設計\n其他條件：【Essential Qualifications & Experiences】\na) 1-5 years+ of BMC/OpenBMC firmware experience.\nb) Good C/C++ coding skills, including well design concepts and code tracing skill.\nc) Well understanding of the principles of Linux operation system, kernel, application\nd) Well understanding of BMC IPMI 2.0\ne) Knowledge in Redfish (Restful API) is a plus\nf) Independently porting skill of BMC to custom HW or algorithm.\ng) Ability to read schematics\nh) Experience of participating at least one whole server project cycle.\ni) Bachelor or Master in Electronics, computing, software engineering or similar\n【Personality】\n- Enjoy in coding, debugging, and learning new technical knowledge\n- Pragmatic but not stubborn\n- Patient and enthusiasm in work\n- Logicality and communication skill\n- Teamwork and selfless contribution",
+    "tools": [
+      "C",
+      "C++"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 89
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:02:02+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "• Design, develop, maintain, and debug BMC Firmware by applying knowledge of server hardware architecture and system design.\n• Design, develop, maintain, and debug BMC Firmware by applying knowledge of server hardware architecture and system design.\n• Ability to engage as an independent professional; articulate and compare alternative approaches with multi-functional teams.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市東區公園東路130號2樓 (近台中火車站)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "• Design, develop, maintain, and debug BMC Firmware by applying knowledge of server hardware architecture and system design.\n• Design, develop, maintain, and debug BMC Firmware by applying knowledge of server hardware architecture and system design.\n• Ability to engage as an independent professional; articulate and compare alternative approaches with multi-functional teams."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C",
+            "C++"
+          ],
+          "label": "擅長工具",
+          "text": "C、C++",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "韌體工程開發",
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "韌體工程開發、韌體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【Essential Qualifications & Experiences】\na) 1-5 years+ of BMC/OpenBMC firmware experience.\nb) Good C/C++ coding skills, including well design concepts and code tracing skill.\nc) Well understanding of the principles of Linux operation system, kernel, application\nd) Well understanding of BMC IPMI 2.0\ne) Knowledge in Redfish (Restful API) is a plus\nf) Independently porting skill of BMC to custom HW or algorithm.\ng) Ability to read schematics\nh) Experience of participating at least one whole server project cycle.\ni) Bachelor or Master in Electronics, computing, software engineering or similar\n【Personality】\n- Enjoy in coding, debugging, and learning new technical knowledge\n- Pragmatic but not stubborn\n- Patient and enthusiasm in work\n- Logicality and communication skill\n- Teamwork and selfless contribution",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：資訊工程相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C、C++\n工作技能：韌體工程開發、韌體程式設計\n其他條件：【Essential Qualifications & Experiences】\na) 1-5 years+ of BMC/OpenBMC firmware experience.\nb) Good C/C++ coding skills, including well design concepts and code tracing skill.\nc) Well understanding of the principles of Linux operation system, kernel, application\nd) Well understanding of BMC IPMI 2.0\ne) Knowledge in Redfish (Restful API) is a plus\nf) Independently porting skill of BMC to custom HW or algorithm.\ng) Ability to read schematics\nh) Experience of participating at least one whole server project cycle.\ni) Bachelor or Master in Electronics, computing, software engineering or similar\n【Personality】\n- Enjoy in coding, debugging, and learning new technical knowledge\n- Pragmatic but not stubborn\n- Patient and enthusiasm in work\n- Logicality and communication skill\n- Teamwork and selfless contribution"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "8r89c",
+    "job_url": "https://www.104.com.tw/job/8r89c",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8r89c.json",
+    "raw_sha256": "518824eec2e418fffff654f0bd99aa7993113ca8a7e451844527b4f98c7ed234",
+    "requested_url": "https://www.104.com.tw/api/jobs/8r89c"
+  }
+}

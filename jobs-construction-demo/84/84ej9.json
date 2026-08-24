@@ -1,0 +1,200 @@
+{
+  "company": {
+    "id": "a3uczb4",
+    "name": "造隆股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "軟體助理工程師",
+      "助理工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "專案文件建立、編輯、歸檔、管制"
+        },
+        {
+          "children": [],
+          "text": "協助工程師相關業務"
+        },
+        {
+          "children": [],
+          "text": "主管交辦事項執行與追蹤"
+        }
+      ],
+      "text": "1、 專案文件建立、編輯、歸檔、管制\n2、 協助工程師相關業務\n3、 主管交辦事項執行與追蹤"
+    },
+    "employment_type_raw": "全職",
+    "title": "助理工程師"
+  },
+  "location": {
+    "address_raw": "桃園市蘆竹區光明路二段151巷10號",
+    "raw": "桃園市蘆竹區光明路二段151巷10號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word"
+        ],
+        "label": "擅長工具",
+        "text": "Excel、Outlook、PowerPoint、Word"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1、 細心、具責任感\n2、 良好的溝通協調能力\n3、 邏輯清晰、做事有條理\n4、 主動學習及改善能力"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "1、 細心、具責任感\n2、 良好的溝通協調能力\n3、 邏輯清晰、做事有條理\n4、 主動學習及改善能力",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：專科以上\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Excel、Outlook、PowerPoint、Word\n其他條件：1、 細心、具責任感\n2、 良好的溝通協調能力\n3、 邏輯清晰、做事有條理\n4、 主動學習及改善能力",
+    "tools": [
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 87
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:57:21+08:00"
+  },
+  "salary": {
+    "raw": "月薪30,000~40,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1、 專案文件建立、編輯、歸檔、管制\n2、 協助工程師相關業務\n3、 主管交辦事項執行與追蹤",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "軟體助理工程師",
+            "助理工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、軟體助理工程師、助理工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪30,000~40,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市蘆竹區光明路二段151巷10號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1、 專案文件建立、編輯、歸檔、管制\n2、 協助工程師相關業務\n3、 主管交辦事項執行與追蹤"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word"
+          ],
+          "label": "擅長工具",
+          "text": "Excel、Outlook、PowerPoint、Word",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1、 細心、具責任感\n2、 良好的溝通協調能力\n3、 邏輯清晰、做事有條理\n4、 主動學習及改善能力",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：專科以上\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Excel、Outlook、PowerPoint、Word\n其他條件：1、 細心、具責任感\n2、 良好的溝通協調能力\n3、 邏輯清晰、做事有條理\n4、 主動學習及改善能力"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "84ej9",
+    "job_url": "https://www.104.com.tw/job/84ej9",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/84ej9.json",
+    "raw_sha256": "32de4d9de3d93412ae4991774f17c31d4255121adb8e25770046fa223a657e05",
+    "requested_url": "https://www.104.com.tw/api/jobs/84ej9"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "company": {
+    "id": "1a2x6bl8ni",
+    "name": "睿擎科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "Internet程式設計師",
+      "軟體工程師",
+      "系統工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "A.網際網路系統軟硬體與程式語言的開發、測試及安裝\nB.網站上線後的維護與功能更新\nC.後端網頁系統開發\nD.資料庫程式開發\nE.平台系統架構規劃及設計。\nF.重視團隊合作，每個專案進行時，執行人員包括專案經理、企劃、網頁設計師、程式設計師、行銷管理師等..基本小組成員互相配合，並且要求執行過程中遵守標準作業流程及專案完成時間。"
+    },
+    "employment_type_raw": "全職",
+    "title": "程式設計師"
+  },
+  "location": {
+    "address_raw": "高雄市左營區明誠二路332號8樓之1",
+    "raw": "高雄市左營區明誠二路332號8樓之1"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "2年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "2年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "ASP.NET",
+          "C#",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "ASP.NET、C#、MS SQL"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "資料庫程式設計",
+          "結構化程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、資料庫程式設計、結構化程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉 .net core"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "熟悉 .net core",
+    "skills": [
+      "軟體程式設計",
+      "資料庫程式設計",
+      "結構化程式設計"
+    ],
+    "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n擅長工具：ASP.NET、C#、MS SQL\n工作技能：軟體程式設計、資料庫程式設計、結構化程式設計\n其他條件：熟悉 .net core",
+    "tools": [
+      "ASP.NET",
+      "C#",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 54
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:34:06+08:00"
+  },
+  "salary": {
+    "raw": "月薪32,000~45,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "A.網際網路系統軟硬體與程式語言的開發、測試及安裝\nB.網站上線後的維護與功能更新\nC.後端網頁系統開發\nD.資料庫程式開發\nE.平台系統架構規劃及設計。\nF.重視團隊合作，每個專案進行時，執行人員包括專案經理、企劃、網頁設計師、程式設計師、行銷管理師等..基本小組成員互相配合，並且要求執行過程中遵守標準作業流程及專案完成時間。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "Internet程式設計師",
+            "軟體工程師",
+            "系統工程師"
+          ],
+          "label": "職務類別",
+          "text": "Internet程式設計師、軟體工程師、系統工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪32,000~45,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "高雄市左營區明誠二路332號8樓之1",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "A.網際網路系統軟硬體與程式語言的開發、測試及安裝\nB.網站上線後的維護與功能更新\nC.後端網頁系統開發\nD.資料庫程式開發\nE.平台系統架構規劃及設計。\nF.重視團隊合作，每個專案進行時，執行人員包括專案經理、企劃、網頁設計師、程式設計師、行銷管理師等..基本小組成員互相配合，並且要求執行過程中遵守標準作業流程及專案完成時間。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "2年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ASP.NET",
+            "C#",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "ASP.NET、C#、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "資料庫程式設計",
+            "結構化程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、資料庫程式設計、結構化程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉 .net core",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：2年以上\n學歷要求：專科、大學、碩士\n擅長工具：ASP.NET、C#、MS SQL\n工作技能：軟體程式設計、資料庫程式設計、結構化程式設計\n其他條件：熟悉 .net core"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8lfwk",
+    "job_url": "https://www.104.com.tw/job/8lfwk",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8lfwk.json",
+    "raw_sha256": "555f5bab9913f2f8f1c772611b575faf0c5d631bcda8212b2f0f41e2e897db6d",
+    "requested_url": "https://www.104.com.tw/api/jobs/8lfwk"
+  }
+}

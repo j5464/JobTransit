@@ -1,0 +1,309 @@
+{
+  "company": {
+    "id": "1a2x6bjhdq",
+    "name": "勁豐電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "軟體工程師",
+      "機器學習工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "應用系統設計與開發："
+        },
+        {
+          "children": [],
+          "text": "參與應用系統前後端開發。"
+        },
+        {
+          "children": [],
+          "text": "運用主流大型語言模型 (如 Google Gemini, ChatGPT, Anthropic Claude, Qwen 等) API 或開源模型，設計與開發具備高擴展性的 AI Agent 應用。"
+        },
+        {
+          "children": [],
+          "text": "開發營運流程 (DevOps) 建立："
+        },
+        {
+          "children": [],
+          "text": "將 AI 技術與軟體工程結合，於開發過程中制定並逐步完善適切的開發營運 (DevOps) 流程，確保持續交付與模型效能穩定。"
+        },
+        {
+          "children": [],
+          "text": "學經歷："
+        },
+        {
+          "children": [],
+          "text": "資訊工程、電機、數理等相關理工科系大學以上學歷。"
+        },
+        {
+          "children": [],
+          "text": "專業技術能力："
+        },
+        {
+          "children": [],
+          "text": "具備Python 程式語言開發能力，熟 PyTorch 或 TensorFlow尤佳或Vue.js、Node.js。"
+        },
+        {
+          "children": [],
+          "text": "深入了解 LLM 理論與應用實務，熟悉常用開源工具 (如 HuggingFace, vLLM, llama.cpp 等) 及主流商業生態 (Gemini, ChatGPT, Claude) 模型特性，具備微調 (Fine-tuning) 經驗者尤佳。"
+        },
+        {
+          "children": [],
+          "text": "熟悉敏捷開發 (Agile) 作業流程。"
+        },
+        {
+          "children": [],
+          "text": "熟練使用軟體開發相關協作與專案管理工具 (如 GitHub/GitLab, Notion, Jira, Trello, MS Project 等)。"
+        },
+        {
+          "children": [],
+          "text": "傾聽與溝通：具備良好的溝通技巧，能耐心傾聽並精準理解內部需求或客戶痛點。"
+        },
+        {
+          "children": [],
+          "text": "探索與好奇：對未知技術與客戶問題抱持強烈好奇心，熱衷於尋找最佳解決方案。"
+        },
+        {
+          "children": [],
+          "text": "積極與熱情：對 AI 產品與應用推廣抱有高度熱情，願意持續挑戰自我。"
+        },
+        {
+          "children": [],
+          "text": "穩定與情商：具備良好的情緒管理能力，能在高壓挑戰下保持平靜且理性溝通。"
+        },
+        {
+          "children": [],
+          "text": "細心與嚴謹：做事細緻具責任感，確保開發與專案細節不遺漏。"
+        }
+      ],
+      "text": "【職務概述】\n本職位將專注於推動企業內與產品端之人工智慧應用開發，主力聚焦於大型語言模型 (LLM) 相關創新專案與應用落地。\n【主要職責 (Key Responsibilities)】\n1.應用系統設計與開發：\n- 參與應用系統前後端開發。\n- 運用主流大型語言模型 (如 Google Gemini, ChatGPT, Anthropic Claude, Qwen 等) API 或開源模型，設計與開發具備高擴展性的 AI Agent 應用。\n2.開發營運流程 (DevOps) 建立：\n- 將 AI 技術與軟體工程結合，於開發過程中制定並逐步完善適切的開發營運 (DevOps) 流程，確保持續交付與模型效能穩定。\n【職位要求 (Requirements)】\n1. 學經歷：\n- 資訊工程、電機、數理等相關理工科系大學以上學歷。\n2. 專業技術能力：\n- 具備Python 程式語言開發能力，熟 PyTorch 或 TensorFlow尤佳或Vue.js、Node.js。\n- 深入了解 LLM 理論與應用實務，熟悉常用開源工具 (如 HuggingFace, vLLM, llama.cpp 等) 及主流商業生態 (Gemini, ChatGPT, Claude) 模型特性，具備微調 (Fine-tuning) 經驗者尤佳。\n- 熟悉敏捷開發 (Agile) 作業流程。\n- 熟練使用軟體開發相關協作與專案管理工具 (如 GitHub/GitLab, Notion, Jira, Trello, MS Project 等)。\n【個人特質 (Personal Attributes)】\n- 傾聽與溝通：具備良好的溝通技巧，能耐心傾聽並精準理解內部需求或客戶痛點。\n- 探索與好奇：對未知技術與客戶問題抱持強烈好奇心，熱衷於尋找最佳解決方案。\n- 積極與熱情：對 AI 產品與應用推廣抱有高度熱情，願意持續挑戰自我。\n- 穩定與情商：具備良好的情緒管理能力，能在高壓挑戰下保持平靜且理性溝通。\n- 細心與嚴謹：做事細緻具責任感，確保開發與專案細節不遺漏。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【豐藝集團】AI 軟體工程師實習生 (Intern)"
+  },
+  "location": {
+    "address_raw": "台北市內湖區環山路一段32號",
+    "raw": "台北市內湖區環山路一段32號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "工程學科類",
+          "數學及電算機科學學科類"
+        ],
+        "label": "科系要求",
+        "text": "工程學科類、數學及電算機科學學科類"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Python",
+          "PyTorch",
+          "tensorflow",
+          "LLM",
+          "OpenCV",
+          "Github",
+          "JIRA"
+        ],
+        "label": "擅長工具",
+        "text": "Python、PyTorch、tensorflow、LLM、OpenCV、Github、JIRA"
+      },
+      {
+        "items": [
+          "AI",
+          "軟體工程系統開發",
+          "軟體程式設計",
+          "人工智慧",
+          "語言模型",
+          "深度學習",
+          "自然語言處理"
+        ],
+        "label": "工作技能",
+        "text": "AI、軟體工程系統開發、軟體程式設計、人工智慧、語言模型、深度學習、自然語言處理"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "工程學科類",
+      "數學及電算機科學學科類"
+    ],
+    "other_text": null,
+    "skills": [
+      "AI",
+      "軟體工程系統開發",
+      "軟體程式設計",
+      "人工智慧",
+      "語言模型",
+      "深度學習",
+      "自然語言處理"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：工程學科類、數學及電算機科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、PyTorch、tensorflow、LLM、OpenCV、Github、JIRA\n工作技能：AI、軟體工程系統開發、軟體程式設計、人工智慧、語言模型、深度學習、自然語言處理",
+    "tools": [
+      "Python",
+      "PyTorch",
+      "tensorflow",
+      "LLM",
+      "OpenCV",
+      "Github",
+      "JIRA"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 66
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:05:00+08:00"
+  },
+  "salary": {
+    "raw": "時薪200元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【職務概述】\n本職位將專注於推動企業內與產品端之人工智慧應用開發，主力聚焦於大型語言模型 (LLM) 相關創新專案與應用落地。\n【主要職責 (Key Responsibilities)】\n1.應用系統設計與開發：\n- 參與應用系統前後端開發。\n- 運用主流大型語言模型 (如 Google Gemini, ChatGPT, Anthropic Claude, Qwen 等) API 或開源模型，設計與開發具備高擴展性的 AI Agent 應用。\n2.開發營運流程 (DevOps) 建立：\n- 將 AI 技術與軟體工程結合，於開發過程中制定並逐步完善適切的開發營運 (DevOps) 流程，確保持續交付與模型效能穩定。\n【職位要求 (Requirements)】\n1. 學經歷：\n- 資訊工程、電機、數理等相關理工科系大學以上學歷。\n2. 專業技術能力：\n- 具備Python 程式語言開發能力，熟 PyTorch 或 TensorFlow尤佳或Vue.js、Node.js。\n- 深入了解 LLM 理論與應用實務，熟悉常用開源工具 (如 HuggingFace, vLLM, llama.cpp 等) 及主流商業生態 (Gemini, ChatGPT, Claude) 模型特性，具備微調 (Fine-tuning) 經驗者尤佳。\n- 熟悉敏捷開發 (Agile) 作業流程。\n- 熟練使用軟體開發相關協作與專案管理工具 (如 GitHub/GitLab, Notion, Jira, Trello, MS Project 等)。\n【個人特質 (Personal Attributes)】\n- 傾聽與溝通：具備良好的溝通技巧，能耐心傾聽並精準理解內部需求或客戶痛點。\n- 探索與好奇：對未知技術與客戶問題抱持強烈好奇心，熱衷於尋找最佳解決方案。\n- 積極與熱情：對 AI 產品與應用推廣抱有高度熱情，願意持續挑戰自我。\n- 穩定與情商：具備良好的情緒管理能力，能在高壓挑戰下保持平靜且理性溝通。\n- 細心與嚴謹：做事細緻具責任感，確保開發與專案細節不遺漏。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "軟體工程師",
+            "機器學習工程師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、軟體工程師、機器學習工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "時薪200元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區環山路一段32號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【職務概述】\n本職位將專注於推動企業內與產品端之人工智慧應用開發，主力聚焦於大型語言模型 (LLM) 相關創新專案與應用落地。\n【主要職責 (Key Responsibilities)】\n1.應用系統設計與開發：\n- 參與應用系統前後端開發。\n- 運用主流大型語言模型 (如 Google Gemini, ChatGPT, Anthropic Claude, Qwen 等) API 或開源模型，設計與開發具備高擴展性的 AI Agent 應用。\n2.開發營運流程 (DevOps) 建立：\n- 將 AI 技術與軟體工程結合，於開發過程中制定並逐步完善適切的開發營運 (DevOps) 流程，確保持續交付與模型效能穩定。\n【職位要求 (Requirements)】\n1. 學經歷：\n- 資訊工程、電機、數理等相關理工科系大學以上學歷。\n2. 專業技術能力：\n- 具備Python 程式語言開發能力，熟 PyTorch 或 TensorFlow尤佳或Vue.js、Node.js。\n- 深入了解 LLM 理論與應用實務，熟悉常用開源工具 (如 HuggingFace, vLLM, llama.cpp 等) 及主流商業生態 (Gemini, ChatGPT, Claude) 模型特性，具備微調 (Fine-tuning) 經驗者尤佳。\n- 熟悉敏捷開發 (Agile) 作業流程。\n- 熟練使用軟體開發相關協作與專案管理工具 (如 GitHub/GitLab, Notion, Jira, Trello, MS Project 等)。\n【個人特質 (Personal Attributes)】\n- 傾聽與溝通：具備良好的溝通技巧，能耐心傾聽並精準理解內部需求或客戶痛點。\n- 探索與好奇：對未知技術與客戶問題抱持強烈好奇心，熱衷於尋找最佳解決方案。\n- 積極與熱情：對 AI 產品與應用推廣抱有高度熱情，願意持續挑戰自我。\n- 穩定與情商：具備良好的情緒管理能力，能在高壓挑戰下保持平靜且理性溝通。\n- 細心與嚴謹：做事細緻具責任感，確保開發與專案細節不遺漏。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "工程學科類",
+            "數學及電算機科學學科類"
+          ],
+          "label": "科系要求",
+          "text": "工程學科類、數學及電算機科學學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Python",
+            "PyTorch",
+            "tensorflow",
+            "LLM",
+            "OpenCV",
+            "Github",
+            "JIRA"
+          ],
+          "label": "擅長工具",
+          "text": "Python、PyTorch、tensorflow、LLM、OpenCV、Github、JIRA",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "軟體工程系統開發",
+            "軟體程式設計",
+            "人工智慧",
+            "語言模型",
+            "深度學習",
+            "自然語言處理"
+          ],
+          "label": "工作技能",
+          "text": "AI、軟體工程系統開發、軟體程式設計、人工智慧、語言模型、深度學習、自然語言處理",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學以上\n科系要求：工程學科類、數學及電算機科學學科類\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Python、PyTorch、tensorflow、LLM、OpenCV、Github、JIRA\n工作技能：AI、軟體工程系統開發、軟體程式設計、人工智慧、語言模型、深度學習、自然語言處理"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "92lvw",
+    "job_url": "https://www.104.com.tw/job/92lvw",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92lvw.json",
+    "raw_sha256": "8dfcadb4c7cc710fdc3559b27144f25f3625be6720f2aa501a19817acfeccf43",
+    "requested_url": "https://www.104.com.tw/api/jobs/92lvw"
+  }
+}

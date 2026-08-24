@@ -1,0 +1,192 @@
+{
+  "company": {
+    "id": "ahfsoq0",
+    "name": "廣達電腦股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "MIS／網管主管",
+      "MIS程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "接觸大型企業 SAP S/4HANA 與 PLM 核心系統"
+        },
+        {
+          "children": [],
+          "text": "累積 HA／DR、資料庫、資安與跨平台整合實戰經驗"
+        },
+        {
+          "children": [],
+          "text": "參與集團級大型系統升級與技術轉型專案"
+        },
+        {
+          "children": [],
+          "text": "團隊鼓勵技術分享、知識交流與自主學習"
+        },
+        {
+          "children": [],
+          "text": "適合對大型系統架構與企業 IT 技術有熱情、希望長期累積核心技術能力的人才"
+        },
+        {
+          "children": [],
+          "text": "*另享有中班津貼**"
+        }
+      ],
+      "text": "1- SAP 基礎架構維運（SAP Basis）: 負責集團 SAP 系統（如 S/4HANA 等）之基礎架構規劃、安裝建置、效能監控、傳輸管理（TMS）與日常維運，確保企業核心 ERP 系統穩定、高效運行。\n2- 異質資料庫管理（DBA）: 管理 SAP HANA、MS SQL、Oracle 及 PostgreSQL 等資料庫平台，包含效能調校（Performance Tuning）、備份還原、高可用性（HA）架構與日常維護，持續提升系統穩定性與可用性。\n3- 文件管理與研發資訊系統維運(PLM) : 擔任 Oracle Agile PLM 與 Siemens Teamcenter PLM 系統管理角色，維護系統穩定度，並優化PLM與企業核心系統之間的資料整合與流程效率。\n4- 系統升級與專案執行 : 參與集團大型系統導入、架構升級與跨平台移轉專案，從技術評估、架構規劃到實際落地執行。\n5- 資安合規與災備管理 : 制定並定期演練災難復原（DR）計畫，配合企業資安規範（如 ISO 27001）進行權限控管、弱點修補，確保資料安全性。\n6- 技術文件與知識分享 : 鼓勵技術學習、團隊知識分享與專業能力交流，建立系統標準作業程序 (SOP) 等技術文件，共創良好的協作文化與技術成長環境。\n【工作特色與成長機會】\n1.接觸大型企業 SAP S/4HANA 與 PLM 核心系統\n2.累積 HA／DR、資料庫、資安與跨平台整合實戰經驗\n3.參與集團級大型系統升級與技術轉型專案\n4.團隊鼓勵技術分享、知識交流與自主學習\n5.適合對大型系統架構與企業 IT 技術有熱情、希望長期累積核心技術能力的人才\n【工作時間說明】\n固定中班工作時段：15:20~翌日00:20(含休息時間)，主要配合海外據點之作業時間，需於下午至晚間時段提供系統支援與問題排除，以確保跨時區營運順暢。\n**另享有中班津貼**"
+    },
+    "employment_type_raw": "全職",
+    "title": "(資訊部)集團SAP Basis 與 PLM 系統管理(中班) - J2517"
+  },
+  "location": {
+    "address_raw": "桃園市龜山區文化二路211號",
+    "raw": "桃園市龜山區文化二路211號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "數學及電算機科學學科類",
+          "資訊管理相關",
+          "工程學科類"
+        ],
+        "label": "科系要求",
+        "text": "數學及電算機科學學科類、資訊管理相關、工程學科類"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "【我們期待具備以下特質的人加入我們】：\n1- 資訊工程、資訊管理或相關科系，大學以上學歷。\n2- 熟悉 Linux 與 Windows Server 基本操作與日常管理，具備基礎網路架構概念。\n3- 具備良好的邏輯分析與問題排除（Troubleshooting）能力。\n4- 具備良好溝通能力與團隊合作精神，願意主動學習、面對技術挑戰並持續成長。\n＊加分條件\n1- 具備 2～3 年以上 SAP Basis 或大型資料庫（DBA）管理經驗。\n2- 具備高可用性叢集（如 HPE Serviceguard 等）管理經驗。\n3- 具備 Oracle Agile PLM 或 Siemens Teamcenter PLM 系統維運經驗。\n4- 持有 SAP、資料庫或相關技術認證（如 SAP Certified Technology Associate、OCP、MCSA 等）。\n5- 曾參與大型企業系統導入、升級或資料庫移轉專案。"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "數學及電算機科學學科類",
+      "資訊管理相關",
+      "工程學科類"
+    ],
+    "other_text": "【我們期待具備以下特質的人加入我們】：\n1- 資訊工程、資訊管理或相關科系，大學以上學歷。\n2- 熟悉 Linux 與 Windows Server 基本操作與日常管理，具備基礎網路架構概念。\n3- 具備良好的邏輯分析與問題排除（Troubleshooting）能力。\n4- 具備良好溝通能力與團隊合作精神，願意主動學習、面對技術挑戰並持續成長。\n＊加分條件\n1- 具備 2～3 年以上 SAP Basis 或大型資料庫（DBA）管理經驗。\n2- 具備高可用性叢集（如 HPE Serviceguard 等）管理經驗。\n3- 具備 Oracle Agile PLM 或 Siemens Teamcenter PLM 系統維運經驗。\n4- 持有 SAP、資料庫或相關技術認證（如 SAP Certified Technology Associate、OCP、MCSA 等）。\n5- 曾參與大型企業系統導入、升級或資料庫移轉專案。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、資訊管理相關、工程學科類\n其他條件：【我們期待具備以下特質的人加入我們】：\n1- 資訊工程、資訊管理或相關科系，大學以上學歷。\n2- 熟悉 Linux 與 Windows Server 基本操作與日常管理，具備基礎網路架構概念。\n3- 具備良好的邏輯分析與問題排除（Troubleshooting）能力。\n4- 具備良好溝通能力與團隊合作精神，願意主動學習、面對技術挑戰並持續成長。\n＊加分條件\n1- 具備 2～3 年以上 SAP Basis 或大型資料庫（DBA）管理經驗。\n2- 具備高可用性叢集（如 HPE Serviceguard 等）管理經驗。\n3- 具備 Oracle Agile PLM 或 Siemens Teamcenter PLM 系統維運經驗。\n4- 持有 SAP、資料庫或相關技術認證（如 SAP Certified Technology Associate、OCP、MCSA 等）。\n5- 曾參與大型企業系統導入、升級或資料庫移轉專案。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 32
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:41:54+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1- SAP 基礎架構維運（SAP Basis）: 負責集團 SAP 系統（如 S/4HANA 等）之基礎架構規劃、安裝建置、效能監控、傳輸管理（TMS）與日常維運，確保企業核心 ERP 系統穩定、高效運行。\n2- 異質資料庫管理（DBA）: 管理 SAP HANA、MS SQL、Oracle 及 PostgreSQL 等資料庫平台，包含效能調校（Performance Tuning）、備份還原、高可用性（HA）架構與日常維護，持續提升系統穩定性與可用性。\n3- 文件管理與研發資訊系統維運(PLM) : 擔任 Oracle Agile PLM 與 Siemens Teamcenter PLM 系統管理角色，維護系統穩定度，並優化PLM與企業核心系統之間的資料整合與流程效率。\n4- 系統升級與專案執行 : 參與集團大型系統導入、架構升級與跨平台移轉專案，從技術評估、架構規劃到實際落地執行。\n5- 資安合規與災備管理 : 制定並定期演練災難復原（DR）計畫，配合企業資安規範（如 ISO 27001）進行權限控管、弱點修補，確保資料安全性。\n6- 技術文件與知識分享 : 鼓勵技術學習、團隊知識分享與專業能力交流，建立系統標準作業程序 (SOP) 等技術文件，共創良好的協作文化與技術成長環境。\n【工作特色與成長機會】\n1.接觸大型企業 SAP S/4HANA 與 PLM 核心系統\n2.累積 HA／DR、資料庫、資安與跨平台整合實戰經驗\n3.參與集團級大型系統升級與技術轉型專案\n4.團隊鼓勵技術分享、知識交流與自主學習\n5.適合對大型系統架構與企業 IT 技術有熱情、希望長期累積核心技術能力的人才\n【工作時間說明】\n固定中班工作時段：15:20~翌日00:20(含休息時間)，主要配合海外據點之作業時間，需於下午至晚間時段提供系統支援與問題排除，以確保跨時區營運順暢。\n**另享有中班津貼**",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "MIS／網管主管",
+            "MIS程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、MIS／網管主管、MIS程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市龜山區文化二路211號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1- SAP 基礎架構維運（SAP Basis）: 負責集團 SAP 系統（如 S/4HANA 等）之基礎架構規劃、安裝建置、效能監控、傳輸管理（TMS）與日常維運，確保企業核心 ERP 系統穩定、高效運行。\n2- 異質資料庫管理（DBA）: 管理 SAP HANA、MS SQL、Oracle 及 PostgreSQL 等資料庫平台，包含效能調校（Performance Tuning）、備份還原、高可用性（HA）架構與日常維護，持續提升系統穩定性與可用性。\n3- 文件管理與研發資訊系統維運(PLM) : 擔任 Oracle Agile PLM 與 Siemens Teamcenter PLM 系統管理角色，維護系統穩定度，並優化PLM與企業核心系統之間的資料整合與流程效率。\n4- 系統升級與專案執行 : 參與集團大型系統導入、架構升級與跨平台移轉專案，從技術評估、架構規劃到實際落地執行。\n5- 資安合規與災備管理 : 制定並定期演練災難復原（DR）計畫，配合企業資安規範（如 ISO 27001）進行權限控管、弱點修補，確保資料安全性。\n6- 技術文件與知識分享 : 鼓勵技術學習、團隊知識分享與專業能力交流，建立系統標準作業程序 (SOP) 等技術文件，共創良好的協作文化與技術成長環境。\n【工作特色與成長機會】\n1.接觸大型企業 SAP S/4HANA 與 PLM 核心系統\n2.累積 HA／DR、資料庫、資安與跨平台整合實戰經驗\n3.參與集團級大型系統升級與技術轉型專案\n4.團隊鼓勵技術分享、知識交流與自主學習\n5.適合對大型系統架構與企業 IT 技術有熱情、希望長期累積核心技術能力的人才\n【工作時間說明】\n固定中班工作時段：15:20~翌日00:20(含休息時間)，主要配合海外據點之作業時間，需於下午至晚間時段提供系統支援與問題排除，以確保跨時區營運順暢。\n**另享有中班津貼**"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "數學及電算機科學學科類",
+            "資訊管理相關",
+            "工程學科類"
+          ],
+          "label": "科系要求",
+          "text": "數學及電算機科學學科類、資訊管理相關、工程學科類",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "【我們期待具備以下特質的人加入我們】：\n1- 資訊工程、資訊管理或相關科系，大學以上學歷。\n2- 熟悉 Linux 與 Windows Server 基本操作與日常管理，具備基礎網路架構概念。\n3- 具備良好的邏輯分析與問題排除（Troubleshooting）能力。\n4- 具備良好溝通能力與團隊合作精神，願意主動學習、面對技術挑戰並持續成長。\n＊加分條件\n1- 具備 2～3 年以上 SAP Basis 或大型資料庫（DBA）管理經驗。\n2- 具備高可用性叢集（如 HPE Serviceguard 等）管理經驗。\n3- 具備 Oracle Agile PLM 或 Siemens Teamcenter PLM 系統維運經驗。\n4- 持有 SAP、資料庫或相關技術認證（如 SAP Certified Technology Associate、OCP、MCSA 等）。\n5- 曾參與大型企業系統導入、升級或資料庫移轉專案。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：數學及電算機科學學科類、資訊管理相關、工程學科類\n其他條件：【我們期待具備以下特質的人加入我們】：\n1- 資訊工程、資訊管理或相關科系，大學以上學歷。\n2- 熟悉 Linux 與 Windows Server 基本操作與日常管理，具備基礎網路架構概念。\n3- 具備良好的邏輯分析與問題排除（Troubleshooting）能力。\n4- 具備良好溝通能力與團隊合作精神，願意主動學習、面對技術挑戰並持續成長。\n＊加分條件\n1- 具備 2～3 年以上 SAP Basis 或大型資料庫（DBA）管理經驗。\n2- 具備高可用性叢集（如 HPE Serviceguard 等）管理經驗。\n3- 具備 Oracle Agile PLM 或 Siemens Teamcenter PLM 系統維運經驗。\n4- 持有 SAP、資料庫或相關技術認證（如 SAP Certified Technology Associate、OCP、MCSA 等）。\n5- 曾參與大型企業系統導入、升級或資料庫移轉專案。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "900og",
+    "job_url": "https://www.104.com.tw/job/900og",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/900og.json",
+    "raw_sha256": "d1a6d9cfcde18d41e52c49629345dec36a64b9c6a93907644c9cabe546a2ce4b",
+    "requested_url": "https://www.104.com.tw/api/jobs/900og"
+  }
+}

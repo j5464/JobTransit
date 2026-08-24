@@ -1,0 +1,182 @@
+{
+  "company": {
+    "id": "at83s9s",
+    "name": "台新綜合證券股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "系統工程師",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "熟悉COBOL程式設計"
+        },
+        {
+          "children": [],
+          "text": "善於溝通協調，可團隊合作"
+        },
+        {
+          "children": [],
+          "text": "具細心、認真及負責的工作態度"
+        },
+        {
+          "children": [],
+          "text": "對證券業務有興趣"
+        },
+        {
+          "children": [],
+          "text": "有金融相關經驗尤佳"
+        }
+      ],
+      "text": "1. 熟悉COBOL程式設計\n2. 善於溝通協調，可團隊合作\n3. 具細心、認真及負責的工作態度\n4. 對證券業務有興趣\n5. 有金融相關經驗尤佳"
+    },
+    "employment_type_raw": "全職",
+    "title": "【資訊】證券COBOL程式設計師"
+  },
+  "location": {
+    "address_raw": "台北市大安區敦化南路二段97號7樓",
+    "raw": "台北市大安區敦化南路二段97號7樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "COBOL"
+        ],
+        "label": "擅長工具",
+        "text": "COBOL"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "加分條件：\n1. 熟悉COBOL語言\n2. 熟悉證券業務"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "加分條件：\n1. 熟悉COBOL語言\n2. 熟悉證券業務",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n擅長工具：COBOL\n其他條件：加分條件：\n1. 熟悉COBOL語言\n2. 熟悉證券業務",
+    "tools": [
+      "COBOL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 52
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:28:53+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 熟悉COBOL程式設計\n2. 善於溝通協調，可團隊合作\n3. 具細心、認真及負責的工作態度\n4. 對證券業務有興趣\n5. 有金融相關經驗尤佳",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "系統工程師",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、系統工程師、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區敦化南路二段97號7樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 熟悉COBOL程式設計\n2. 善於溝通協調，可團隊合作\n3. 具細心、認真及負責的工作態度\n4. 對證券業務有興趣\n5. 有金融相關經驗尤佳"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "COBOL"
+          ],
+          "label": "擅長工具",
+          "text": "COBOL",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "加分條件：\n1. 熟悉COBOL語言\n2. 熟悉證券業務",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n擅長工具：COBOL\n其他條件：加分條件：\n1. 熟悉COBOL語言\n2. 熟悉證券業務"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8zkh8",
+    "job_url": "https://www.104.com.tw/job/8zkh8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8zkh8.json",
+    "raw_sha256": "d33ab64f731f76057042016bd64e510173cf79196edbcbbd3a33d91ff3d54990",
+    "requested_url": "https://www.104.com.tw/api/jobs/8zkh8"
+  }
+}

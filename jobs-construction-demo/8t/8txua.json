@@ -1,0 +1,322 @@
+{
+  "company": {
+    "id": "olmlwc8",
+    "name": "行動貝果有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "演算法工程師",
+      "資料科學家"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Design, develop, and maintain AI Agent systems with capabilities in autonomous decision-making and task execution"
+        },
+        {
+          "children": [],
+          "text": "Implement context management, memory modules (short-term and long-term), and seamless tool/API integrations"
+        },
+        {
+          "children": [],
+          "text": "Research and apply advanced reasoning methods, including Chain-of-Thought and multi-step planning techniques"
+        },
+        {
+          "children": [],
+          "text": "Integrate Large Language Models (LLMs) such as GPT, Claude, LLaMA, and Gemini with agent frameworks (e.g., LangChain, AutoGen, CrewAI, LlamaIndex)"
+        },
+        {
+          "children": [],
+          "text": "Apply local model optimization techniques, including fine-tuning, quantization, and retrieval-augmented generation (RAG) pipelines"
+        },
+        {
+          "children": [],
+          "text": "Optimize inference performance, scalability, and cost efficiency for enterprise-scale deployments"
+        },
+        {
+          "children": [],
+          "text": "Collaborate with product managers, system architects, and UX designers to translate technical capabilities into user-facing product features"
+        },
+        {
+          "children": [],
+          "text": "Write and maintain technical documentation, architectural specifications, and best practice guidelines"
+        },
+        {
+          "children": [],
+          "text": "Extend LLM capabilities beyond text generation, enabling them to function as autonomous, action-oriented Agents"
+        },
+        {
+          "children": [],
+          "text": "Drive innovation in reasoning, planning, and multi-agent collaboration to unlock new AI capabilities"
+        },
+        {
+          "children": [],
+          "text": "Bridge the gap between cutting-edge AI research and real-world product implementation"
+        },
+        {
+          "children": [],
+          "text": "Empower businesses to automate workflows, perform intelligent data analysis, and achieve operational efficiency at scale"
+        },
+        {
+          "children": [],
+          "text": "Shape the next generation of AI-powered enterprise applications and solutions"
+        },
+        {
+          "children": [],
+          "text": "Bachelor’s degree in Computer Science, AI/ML, or related field; Master’s degree preferred"
+        },
+        {
+          "children": [],
+          "text": "3+ years of hands-on experience in AI/ML development, with exposure to LLMs and agent-based frameworks"
+        },
+        {
+          "children": [],
+          "text": "Proficiency in Python; familiarity with TypeScript/JavaScript is a plus"
+        },
+        {
+          "children": [],
+          "text": "Experience with agent frameworks such as LangChain, AutoGen, CrewAI, or LlamaIndex"
+        },
+        {
+          "children": [],
+          "text": "Familiarity with LLM APIs (OpenAI, Anthropic, Google, Meta) and open-source models (LLaMA, Mistral, Falcon, Yi, Qwen, etc.)"
+        },
+        {
+          "children": [],
+          "text": "Strong understanding of Prompt Engineering, Retrieval-Augmented Generation (RAG), and reasoning techniques (CoT/ToT)"
+        },
+        {
+          "children": [],
+          "text": "Experience with database technologies (SQL, NoSQL, vector databases) and API integration"
+        },
+        {
+          "children": [],
+          "text": "Strong collaboration and communication skills, with the ability to work effectively across technical and product teams"
+        },
+        {
+          "children": [],
+          "text": "Experience with MLOps/DevOps tools (Docker, Kubernetes, CI/CD pipelines)"
+        },
+        {
+          "children": [],
+          "text": "Knowledge of distributed systems and scalable AI architectures"
+        },
+        {
+          "children": [],
+          "text": "Contributions to open-source AI projects (e.g., LangChain, LlamaIndex, AutoGen, Hugging Face)"
+        },
+        {
+          "children": [],
+          "text": "Experience with multimodal AI applications (speech, vision, video)"
+        },
+        {
+          "children": [],
+          "text": "Domain expertise in industries such as SaaS, finance, retail, or e-commerce"
+        }
+      ],
+      "text": "Please submit your resume via the following link：https://mobagel.typeform.com/to/ojShbwVv\nJob Function\n- Design, develop, and maintain AI Agent systems with capabilities in autonomous decision-making and task execution\n- Implement context management, memory modules (short-term and long-term), and seamless tool/API integrations\n- Research and apply advanced reasoning methods, including Chain-of-Thought and multi-step planning techniques\n- Integrate Large Language Models (LLMs) such as GPT, Claude, LLaMA, and Gemini with agent frameworks (e.g., LangChain, AutoGen, CrewAI, LlamaIndex)\n- Apply local model optimization techniques, including fine-tuning, quantization, and retrieval-augmented generation (RAG) pipelines\n- Optimize inference performance, scalability, and cost efficiency for enterprise-scale deployments\n- Collaborate with product managers, system architects, and UX designers to translate technical capabilities into user-facing product features\n- Write and maintain technical documentation, architectural specifications, and best practice guidelines\nYour Impact\n- Extend LLM capabilities beyond text generation, enabling them to function as autonomous, action-oriented Agents\n- Drive innovation in reasoning, planning, and multi-agent collaboration to unlock new AI capabilities\n- Bridge the gap between cutting-edge AI research and real-world product implementation\n- Empower businesses to automate workflows, perform intelligent data analysis, and achieve operational efficiency at scale\n- Shape the next generation of AI-powered enterprise applications and solutions\nQualifications\n- Bachelor’s degree in Computer Science, AI/ML, or related field; Master’s degree preferred\n- 3+ years of hands-on experience in AI/ML development, with exposure to LLMs and agent-based frameworks\n- Proficiency in Python; familiarity with TypeScript/JavaScript is a plus\n- Experience with agent frameworks such as LangChain, AutoGen, CrewAI, or LlamaIndex\n- Familiarity with LLM APIs (OpenAI, Anthropic, Google, Meta) and open-source models (LLaMA, Mistral, Falcon, Yi, Qwen, etc.)\n- Strong understanding of Prompt Engineering, Retrieval-Augmented Generation (RAG), and reasoning techniques (CoT/ToT)\n- Experience with database technologies (SQL, NoSQL, vector databases) and API integration\n- Strong collaboration and communication skills, with the ability to work effectively across technical and product teams\nPreferred Qualifications (Nice-to-Have)\n- Experience with MLOps/DevOps tools (Docker, Kubernetes, CI/CD pipelines)\n- Knowledge of distributed systems and scalable AI architectures\n- Contributions to open-source AI projects (e.g., LangChain, LlamaIndex, AutoGen, Hugging Face)\n- Experience with multimodal AI applications (speech, vision, video)\n- Domain expertise in industries such as SaaS, finance, retail, or e-commerce\nJoin Us\nAt MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and be part of a dynamic and fast-paced startup environment."
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior AI Agent Engineer 資深 AI Agent 工程師"
+  },
+  "location": {
+    "address_raw": "台北市信義區東興路51號4樓",
+    "raw": "台北市信義區東興路51號4樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "數理統計相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、數理統計相關"
+      },
+      {
+        "items": [
+          "LLM",
+          "Python",
+          "Prompt"
+        ],
+        "label": "擅長工具",
+        "text": "LLM、Python、Prompt"
+      },
+      {
+        "items": [
+          "AI",
+          "演算法設計",
+          "機器學習",
+          "人工智慧",
+          "生成式AI",
+          "Machine Learning",
+          "自然語言處理",
+          "語言模型",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "AI、演算法設計、機器學習、人工智慧、生成式AI、Machine Learning、自然語言處理、語言模型、軟體程式設計"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊工程相關",
+      "數理統計相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "AI",
+      "演算法設計",
+      "機器學習",
+      "人工智慧",
+      "生成式AI",
+      "Machine Learning",
+      "自然語言處理",
+      "語言模型",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、數理統計相關\n擅長工具：LLM、Python、Prompt\n工作技能：AI、演算法設計、機器學習、人工智慧、生成式AI、Machine Learning、自然語言處理、語言模型、軟體程式設計",
+    "tools": [
+      "LLM",
+      "Python",
+      "Prompt"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 43
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:08:26+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Please submit your resume via the following link：https://mobagel.typeform.com/to/ojShbwVv\nJob Function\n- Design, develop, and maintain AI Agent systems with capabilities in autonomous decision-making and task execution\n- Implement context management, memory modules (short-term and long-term), and seamless tool/API integrations\n- Research and apply advanced reasoning methods, including Chain-of-Thought and multi-step planning techniques\n- Integrate Large Language Models (LLMs) such as GPT, Claude, LLaMA, and Gemini with agent frameworks (e.g., LangChain, AutoGen, CrewAI, LlamaIndex)\n- Apply local model optimization techniques, including fine-tuning, quantization, and retrieval-augmented generation (RAG) pipelines\n- Optimize inference performance, scalability, and cost efficiency for enterprise-scale deployments\n- Collaborate with product managers, system architects, and UX designers to translate technical capabilities into user-facing product features\n- Write and maintain technical documentation, architectural specifications, and best practice guidelines\nYour Impact\n- Extend LLM capabilities beyond text generation, enabling them to function as autonomous, action-oriented Agents\n- Drive innovation in reasoning, planning, and multi-agent collaboration to unlock new AI capabilities\n- Bridge the gap between cutting-edge AI research and real-world product implementation\n- Empower businesses to automate workflows, perform intelligent data analysis, and achieve operational efficiency at scale\n- Shape the next generation of AI-powered enterprise applications and solutions\nQualifications\n- Bachelor’s degree in Computer Science, AI/ML, or related field; Master’s degree preferred\n- 3+ years of hands-on experience in AI/ML development, with exposure to LLMs and agent-based frameworks\n- Proficiency in Python; familiarity with TypeScript/JavaScript is a plus\n- Experience with agent frameworks such as LangChain, AutoGen, CrewAI, or LlamaIndex\n- Familiarity with LLM APIs (OpenAI, Anthropic, Google, Meta) and open-source models (LLaMA, Mistral, Falcon, Yi, Qwen, etc.)\n- Strong understanding of Prompt Engineering, Retrieval-Augmented Generation (RAG), and reasoning techniques (CoT/ToT)\n- Experience with database technologies (SQL, NoSQL, vector databases) and API integration\n- Strong collaboration and communication skills, with the ability to work effectively across technical and product teams\nPreferred Qualifications (Nice-to-Have)\n- Experience with MLOps/DevOps tools (Docker, Kubernetes, CI/CD pipelines)\n- Knowledge of distributed systems and scalable AI architectures\n- Contributions to open-source AI projects (e.g., LangChain, LlamaIndex, AutoGen, Hugging Face)\n- Experience with multimodal AI applications (speech, vision, video)\n- Domain expertise in industries such as SaaS, finance, retail, or e-commerce\nJoin Us\nAt MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and be part of a dynamic and fast-paced startup environment.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "演算法工程師",
+            "資料科學家"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、演算法工程師、資料科學家",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市信義區東興路51號4樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Please submit your resume via the following link：https://mobagel.typeform.com/to/ojShbwVv\nJob Function\n- Design, develop, and maintain AI Agent systems with capabilities in autonomous decision-making and task execution\n- Implement context management, memory modules (short-term and long-term), and seamless tool/API integrations\n- Research and apply advanced reasoning methods, including Chain-of-Thought and multi-step planning techniques\n- Integrate Large Language Models (LLMs) such as GPT, Claude, LLaMA, and Gemini with agent frameworks (e.g., LangChain, AutoGen, CrewAI, LlamaIndex)\n- Apply local model optimization techniques, including fine-tuning, quantization, and retrieval-augmented generation (RAG) pipelines\n- Optimize inference performance, scalability, and cost efficiency for enterprise-scale deployments\n- Collaborate with product managers, system architects, and UX designers to translate technical capabilities into user-facing product features\n- Write and maintain technical documentation, architectural specifications, and best practice guidelines\nYour Impact\n- Extend LLM capabilities beyond text generation, enabling them to function as autonomous, action-oriented Agents\n- Drive innovation in reasoning, planning, and multi-agent collaboration to unlock new AI capabilities\n- Bridge the gap between cutting-edge AI research and real-world product implementation\n- Empower businesses to automate workflows, perform intelligent data analysis, and achieve operational efficiency at scale\n- Shape the next generation of AI-powered enterprise applications and solutions\nQualifications\n- Bachelor’s degree in Computer Science, AI/ML, or related field; Master’s degree preferred\n- 3+ years of hands-on experience in AI/ML development, with exposure to LLMs and agent-based frameworks\n- Proficiency in Python; familiarity with TypeScript/JavaScript is a plus\n- Experience with agent frameworks such as LangChain, AutoGen, CrewAI, or LlamaIndex\n- Familiarity with LLM APIs (OpenAI, Anthropic, Google, Meta) and open-source models (LLaMA, Mistral, Falcon, Yi, Qwen, etc.)\n- Strong understanding of Prompt Engineering, Retrieval-Augmented Generation (RAG), and reasoning techniques (CoT/ToT)\n- Experience with database technologies (SQL, NoSQL, vector databases) and API integration\n- Strong collaboration and communication skills, with the ability to work effectively across technical and product teams\nPreferred Qualifications (Nice-to-Have)\n- Experience with MLOps/DevOps tools (Docker, Kubernetes, CI/CD pipelines)\n- Knowledge of distributed systems and scalable AI architectures\n- Contributions to open-source AI projects (e.g., LangChain, LlamaIndex, AutoGen, Hugging Face)\n- Experience with multimodal AI applications (speech, vision, video)\n- Domain expertise in industries such as SaaS, finance, retail, or e-commerce\nJoin Us\nAt MoBagel, you’ll work on state-of-the-art AI solutions, lead impactful projects, and be part of a dynamic and fast-paced startup environment."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "數理統計相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、數理統計相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "LLM",
+            "Python",
+            "Prompt"
+          ],
+          "label": "擅長工具",
+          "text": "LLM、Python、Prompt",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "AI",
+            "演算法設計",
+            "機器學習",
+            "人工智慧",
+            "生成式AI",
+            "Machine Learning",
+            "自然語言處理",
+            "語言模型",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "AI、演算法設計、機器學習、人工智慧、生成式AI、Machine Learning、自然語言處理、語言模型、軟體程式設計",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、數理統計相關\n擅長工具：LLM、Python、Prompt\n工作技能：AI、演算法設計、機器學習、人工智慧、生成式AI、Machine Learning、自然語言處理、語言模型、軟體程式設計"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8txua",
+    "job_url": "https://www.104.com.tw/job/8txua",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8txua.json",
+    "raw_sha256": "4efa9847a9888dba0d702a98fa7234b5675cc18aec3291ed793be2774aa6df1e",
+    "requested_url": "https://www.104.com.tw/api/jobs/8txua"
+  }
+}

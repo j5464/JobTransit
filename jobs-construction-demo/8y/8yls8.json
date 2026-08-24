@@ -1,0 +1,257 @@
+{
+  "company": {
+    "id": "18mvg57k",
+    "name": "必勝客Pizza Hut/肯德基KFC_富利餐飲股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "後端工程師",
+      "軟體專案主管",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Lead backend architecture design and microservices evolution."
+        },
+        {
+          "children": [],
+          "text": "Design, develop, and maintain scalable RESTful APIs using Java and Spring Boot."
+        },
+        {
+          "children": [],
+          "text": "Define and enforce coding standards, architecture guidelines, and engineering best practices."
+        },
+        {
+          "children": [],
+          "text": "Design and maintain CI/CD pipelines using GitHub Actions, including build, test, security scan, and deployment automation."
+        },
+        {
+          "children": [],
+          "text": "Manage containerized deployments using Docker and Kubernetes (GKE preferred)."
+        },
+        {
+          "children": [],
+          "text": "Oversee multi-environment deployment strategy (Dev / UAT / Production) and release governance."
+        },
+        {
+          "children": [],
+          "text": "Design database schema and optimize performance across relational and caching systems."
+        },
+        {
+          "children": [],
+          "text": "Ensure system reliability through monitoring, logging, health checks, and incident management."
+        },
+        {
+          "children": [],
+          "text": "Conduct code reviews and provide technical mentorship to backend engineers."
+        },
+        {
+          "children": [],
+          "text": "Collaborate with frontend, product, and infrastructure teams to align technical solutions with business goals."
+        },
+        {
+          "children": [],
+          "text": "Lead incident investigation, root cause analysis, and continuous improvement initiatives."
+        },
+        {
+          "children": [],
+          "text": "Improve engineering efficiency, automation, and delivery quality."
+        },
+        {
+          "children": [],
+          "text": "Contribute to long-term technical roadmap and platform strategy."
+        }
+      ],
+      "text": "【請至https://jrg.avature.net/en_US/careers/JobDetail/1975投遞履歷，我們會優先以此為主】\n1. Lead backend architecture design and microservices evolution.\n2. Design, develop, and maintain scalable RESTful APIs using Java and Spring Boot.\n3. Define and enforce coding standards, architecture guidelines, and engineering best practices.\n4. Design and maintain CI/CD pipelines using GitHub Actions, including build, test, security scan, and deployment automation.\n5. Manage containerized deployments using Docker and Kubernetes (GKE preferred).\n6. Oversee multi-environment deployment strategy (Dev / UAT / Production) and release governance.\n7. Design database schema and optimize performance across relational and caching systems.\n8. Ensure system reliability through monitoring, logging, health checks, and incident management.\n9. Conduct code reviews and provide technical mentorship to backend engineers.\n10. Collaborate with frontend, product, and infrastructure teams to align technical solutions with business goals.\n11. Lead incident investigation, root cause analysis, and continuous improvement initiatives.\n12. Improve engineering efficiency, automation, and delivery quality.\n13. Contribute to long-term technical roadmap and platform strategy."
+    },
+    "employment_type_raw": "全職",
+    "title": "台灣總部 - DTS Backend Team Lead, Java"
+  },
+  "location": {
+    "address_raw": "台北市中山區建國北路一段96號7樓",
+    "raw": "台北市中山區建國北路一段96號7樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "5年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "5年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Java",
+          "Spring",
+          "Git"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Spring、Git"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "系統架構規劃"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、系統架構規劃"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. Bachelor's degree or above in Computer Science or related field.\n2. 5+ years of backend development experience in Java.\n3. 2+ years experience leading projects or mentoring engineers.\n4. Strong expertise in Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security).\n5. Solid understanding of RESTful API design and microservices architecture.\n6. Experience designing and implementing CI/CD pipelines (GitHub Actions preferred).\n7. Hands-on experience with Docker and Kubernetes.\n8. Experience deploying applications in cloud environments (Google Cloud preferred).\n9. Strong experience with relational databases (MySQL, PostgreSQL, MSSQL) and ORM (Hibernate / JPA).\n10. Experience with Redis or other caching mechanisms.\n11. Understanding of API security (OAuth2, JWT) and system performance optimization.\n12. Strong analytical thinking and problem-solving skills.\n13. Excellent communication and cross-team collaboration abilities.\n14. Ability to take technical ownership and drive engineering standards"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1. Bachelor's degree or above in Computer Science or related field.\n2. 5+ years of backend development experience in Java.\n3. 2+ years experience leading projects or mentoring engineers.\n4. Strong expertise in Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security).\n5. Solid understanding of RESTful API design and microservices architecture.\n6. Experience designing and implementing CI/CD pipelines (GitHub Actions preferred).\n7. Hands-on experience with Docker and Kubernetes.\n8. Experience deploying applications in cloud environments (Google Cloud preferred).\n9. Strong experience with relational databases (MySQL, PostgreSQL, MSSQL) and ORM (Hibernate / JPA).\n10. Experience with Redis or other caching mechanisms.\n11. Understanding of API security (OAuth2, JWT) and system performance optimization.\n12. Strong analytical thinking and problem-solving skills.\n13. Excellent communication and cross-team collaboration abilities.\n14. Ability to take technical ownership and drive engineering standards",
+    "skills": [
+      "軟體程式設計",
+      "系統架構規劃"
+    ],
+    "text": "工作經歷：5年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、Spring、Git\n工作技能：軟體程式設計、系統架構規劃\n其他條件：1. Bachelor's degree or above in Computer Science or related field.\n2. 5+ years of backend development experience in Java.\n3. 2+ years experience leading projects or mentoring engineers.\n4. Strong expertise in Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security).\n5. Solid understanding of RESTful API design and microservices architecture.\n6. Experience designing and implementing CI/CD pipelines (GitHub Actions preferred).\n7. Hands-on experience with Docker and Kubernetes.\n8. Experience deploying applications in cloud environments (Google Cloud preferred).\n9. Strong experience with relational databases (MySQL, PostgreSQL, MSSQL) and ORM (Hibernate / JPA).\n10. Experience with Redis or other caching mechanisms.\n11. Understanding of API security (OAuth2, JWT) and system performance optimization.\n12. Strong analytical thinking and problem-solving skills.\n13. Excellent communication and cross-team collaboration abilities.\n14. Ability to take technical ownership and drive engineering standards",
+    "tools": [
+      "Java",
+      "Spring",
+      "Git"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 13
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T01:53:21+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【請至https://jrg.avature.net/en_US/careers/JobDetail/1975投遞履歷，我們會優先以此為主】\n1. Lead backend architecture design and microservices evolution.\n2. Design, develop, and maintain scalable RESTful APIs using Java and Spring Boot.\n3. Define and enforce coding standards, architecture guidelines, and engineering best practices.\n4. Design and maintain CI/CD pipelines using GitHub Actions, including build, test, security scan, and deployment automation.\n5. Manage containerized deployments using Docker and Kubernetes (GKE preferred).\n6. Oversee multi-environment deployment strategy (Dev / UAT / Production) and release governance.\n7. Design database schema and optimize performance across relational and caching systems.\n8. Ensure system reliability through monitoring, logging, health checks, and incident management.\n9. Conduct code reviews and provide technical mentorship to backend engineers.\n10. Collaborate with frontend, product, and infrastructure teams to align technical solutions with business goals.\n11. Lead incident investigation, root cause analysis, and continuous improvement initiatives.\n12. Improve engineering efficiency, automation, and delivery quality.\n13. Contribute to long-term technical roadmap and platform strategy.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "後端工程師",
+            "軟體專案主管",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "後端工程師、軟體專案主管、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市中山區建國北路一段96號7樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【請至https://jrg.avature.net/en_US/careers/JobDetail/1975投遞履歷，我們會優先以此為主】\n1. Lead backend architecture design and microservices evolution.\n2. Design, develop, and maintain scalable RESTful APIs using Java and Spring Boot.\n3. Define and enforce coding standards, architecture guidelines, and engineering best practices.\n4. Design and maintain CI/CD pipelines using GitHub Actions, including build, test, security scan, and deployment automation.\n5. Manage containerized deployments using Docker and Kubernetes (GKE preferred).\n6. Oversee multi-environment deployment strategy (Dev / UAT / Production) and release governance.\n7. Design database schema and optimize performance across relational and caching systems.\n8. Ensure system reliability through monitoring, logging, health checks, and incident management.\n9. Conduct code reviews and provide technical mentorship to backend engineers.\n10. Collaborate with frontend, product, and infrastructure teams to align technical solutions with business goals.\n11. Lead incident investigation, root cause analysis, and continuous improvement initiatives.\n12. Improve engineering efficiency, automation, and delivery quality.\n13. Contribute to long-term technical roadmap and platform strategy."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "5年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Spring",
+            "Git"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Spring、Git",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "系統架構規劃"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、系統架構規劃",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. Bachelor's degree or above in Computer Science or related field.\n2. 5+ years of backend development experience in Java.\n3. 2+ years experience leading projects or mentoring engineers.\n4. Strong expertise in Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security).\n5. Solid understanding of RESTful API design and microservices architecture.\n6. Experience designing and implementing CI/CD pipelines (GitHub Actions preferred).\n7. Hands-on experience with Docker and Kubernetes.\n8. Experience deploying applications in cloud environments (Google Cloud preferred).\n9. Strong experience with relational databases (MySQL, PostgreSQL, MSSQL) and ORM (Hibernate / JPA).\n10. Experience with Redis or other caching mechanisms.\n11. Understanding of API security (OAuth2, JWT) and system performance optimization.\n12. Strong analytical thinking and problem-solving skills.\n13. Excellent communication and cross-team collaboration abilities.\n14. Ability to take technical ownership and drive engineering standards",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：5年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、Spring、Git\n工作技能：軟體程式設計、系統架構規劃\n其他條件：1. Bachelor's degree or above in Computer Science or related field.\n2. 5+ years of backend development experience in Java.\n3. 2+ years experience leading projects or mentoring engineers.\n4. Strong expertise in Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security).\n5. Solid understanding of RESTful API design and microservices architecture.\n6. Experience designing and implementing CI/CD pipelines (GitHub Actions preferred).\n7. Hands-on experience with Docker and Kubernetes.\n8. Experience deploying applications in cloud environments (Google Cloud preferred).\n9. Strong experience with relational databases (MySQL, PostgreSQL, MSSQL) and ORM (Hibernate / JPA).\n10. Experience with Redis or other caching mechanisms.\n11. Understanding of API security (OAuth2, JWT) and system performance optimization.\n12. Strong analytical thinking and problem-solving skills.\n13. Excellent communication and cross-team collaboration abilities.\n14. Ability to take technical ownership and drive engineering standards"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8yls8",
+    "job_url": "https://www.104.com.tw/job/8yls8",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8yls8.json",
+    "raw_sha256": "de8fe41f1513709dc4033e35479a9186c74a1e88cbb1e4ff57678b8db8e9fab8",
+    "requested_url": "https://www.104.com.tw/api/jobs/8yls8"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "company": {
+    "id": "13quahyo",
+    "name": "玉山銀行_玉山商業銀行股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "資料庫管理人員",
+      "其他資訊專業人員"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "使用Tensorflow、Pytorch、Scikit-Learn等開源套件進行建模"
+        },
+        {
+          "children": [],
+          "text": "運用數理統計方法進行資料分析"
+        },
+        {
+          "children": [],
+          "text": "模型API開發與設計(RESTfulAPI)"
+        }
+      ],
+      "text": "1.使用Tensorflow、Pytorch、Scikit-Learn等開源套件進行建模\n2.運用數理統計方法進行資料分析\n3.模型API開發與設計(RESTfulAPI)\n104僅供職缺參考，若您對此職缺有興趣，請至本行「玉山菁英甄選網站」投遞履歷，如書審通過，後續將邀請您參加面談。謝謝！\n【網址：https://esnhr.pse.is/394b2n】"
+    },
+    "employment_type_raw": "全職",
+    "title": "【金融科技】機器學習工程師Machine Learning Engineer(經驗行員)"
+  },
+  "location": {
+    "address_raw": "台北市松山區民生東路三段115號",
+    "raw": "台北市松山區民生東路三段115號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊管理相關",
+          "數學及電算機科學學科類",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊管理相關、數學及電算機科學學科類、資訊工程相關"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉Tensorflow、Pytorch、Scikit-Learn、 Python\n2.熟悉數理分析統計\n3.模型API開發與設計(RESTful API)\n4.具 NLP模型、語音模型、推薦系統模或影像辨識相關經驗者佳"
+      }
+    ],
+    "languages": [],
+    "majors": [
+      "資訊管理相關",
+      "數學及電算機科學學科類",
+      "資訊工程相關"
+    ],
+    "other_text": "1.熟悉Tensorflow、Pytorch、Scikit-Learn、 Python\n2.熟悉數理分析統計\n3.模型API開發與設計(RESTful API)\n4.具 NLP模型、語音模型、推薦系統模或影像辨識相關經驗者佳",
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、數學及電算機科學學科類、資訊工程相關\n其他條件：1.熟悉Tensorflow、Pytorch、Scikit-Learn、 Python\n2.熟悉數理分析統計\n3.模型API開發與設計(RESTful API)\n4.具 NLP模型、語音模型、推薦系統模或影像辨識相關經驗者佳",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 54
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:34:48+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.使用Tensorflow、Pytorch、Scikit-Learn等開源套件進行建模\n2.運用數理統計方法進行資料分析\n3.模型API開發與設計(RESTfulAPI)\n104僅供職缺參考，若您對此職缺有興趣，請至本行「玉山菁英甄選網站」投遞履歷，如書審通過，後續將邀請您參加面談。謝謝！\n【網址：https://esnhr.pse.is/394b2n】",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "資料庫管理人員",
+            "其他資訊專業人員"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、資料庫管理人員、其他資訊專業人員",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市松山區民生東路三段115號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.使用Tensorflow、Pytorch、Scikit-Learn等開源套件進行建模\n2.運用數理統計方法進行資料分析\n3.模型API開發與設計(RESTfulAPI)\n104僅供職缺參考，若您對此職缺有興趣，請至本行「玉山菁英甄選網站」投遞履歷，如書審通過，後續將邀請您參加面談。謝謝！\n【網址：https://esnhr.pse.is/394b2n】"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊管理相關",
+            "數學及電算機科學學科類",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊管理相關、數學及電算機科學學科類、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉Tensorflow、Pytorch、Scikit-Learn、 Python\n2.熟悉數理分析統計\n3.模型API開發與設計(RESTful API)\n4.具 NLP模型、語音模型、推薦系統模或影像辨識相關經驗者佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊管理相關、數學及電算機科學學科類、資訊工程相關\n其他條件：1.熟悉Tensorflow、Pytorch、Scikit-Learn、 Python\n2.熟悉數理分析統計\n3.模型API開發與設計(RESTful API)\n4.具 NLP模型、語音模型、推薦系統模或影像辨識相關經驗者佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "775jb",
+    "job_url": "https://www.104.com.tw/job/775jb",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/775jb.json",
+    "raw_sha256": "b9352d881bd76d9ffeb84c9c7b548a6080c7eedc089245fa7ef37c9de32c1c01",
+    "requested_url": "https://www.104.com.tw/api/jobs/775jb"
+  }
+}

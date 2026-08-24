@@ -1,0 +1,301 @@
+{
+  "company": {
+    "id": "1a2x6bko9m",
+    "name": "眺岳科技有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "全端工程師",
+      "Internet程式設計師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "架構與開發 Architecture & Dev:"
+        },
+        {
+          "children": [],
+          "text": "AI 開發調度 Agent Orchestration:"
+        },
+        {
+          "children": [],
+          "text": "程式碼審查與防禦 Code Auditing & Strategy Defense:"
+        },
+        {
+          "children": [],
+          "text": "技術文件與營運協作 Documentation & Ops:"
+        },
+        {
+          "children": [],
+          "text": "實務經驗 Experience:"
+        },
+        {
+          "children": [],
+          "text": "技術棧核心 Tech Stack:"
+        },
+        {
+          "children": [],
+          "text": "AI 工具掌控力 AI Competency:"
+        },
+        {
+          "children": [],
+          "text": "當責與批判思考 Ownership & Critical Thinking:"
+        },
+        {
+          "children": [],
+          "text": "試用期 Probation:"
+        },
+        {
+          "children": [],
+          "text": "職涯發展 Career Growth:"
+        },
+        {
+          "children": [],
+          "text": "履歷 Resume 與 GitHub / 作品集連結 (Portfolio link)"
+        },
+        {
+          "children": [],
+          "text": "期望待遇與可到職日 Expected salary & available start date"
+        },
+        {
+          "children": [],
+          "text": "簡短說明你目前日常開發中使用的 AI 工具與協同工作流程 (Workflow)。"
+        },
+        {
+          "children": [],
+          "text": "結合你的過去經驗：你的哪些過去經歷或技能，使你能夠完美駕馭這套 AI 協同開發模式？"
+        },
+        {
+          "children": [],
+          "text": "技術挑戰：在目前的 AI 工具生態中，你認為最大的挑戰、盲點或限制是什麼？當 AI 無法解決時，你通常如何應對？"
+        }
+      ],
+      "text": "【關於我們 About Us】\n我們是位於花蓮的科技公司 Mountainview Technology Ltd（眺岳科技），客戶遍及台灣與全球。團隊精實，專案具高度技術性，我們的工作橫跨硬體、韌體、軟體、雲端系統與產品整合。\nWe are a Hualien-based tech company with customers in Taiwan and around the world. Our work spans hardware, firmware, software, cloud systems, and product integration.\n【我們的 AI 開發哲學 Our AI Engineering Philosophy】\n在現今的開發環境中，軟體工程的本質已經改變。我們不期待你純手工（hand-roll）撰寫每一行樣板程式碼，但我們也絕不接受只是「坐在螢幕前看 AI 寫程式」、未經思考就複製貼上的被動操作者。\n我們尋找的是能夠精準調度 AI 編輯器與 Coding Agents 的工程師。你必須具備極高的開發效率，同時對系統架構擁有絕對的控制力與主導權。你必須能夠審查（Audit）AI 產出的程式碼，並在面對效能、安全性與系統擴充性時，清晰且理性地為你的技術決策與策略進行辯護。\nWe do not expect you to hand-roll boilerplate code from scratch, but we also do not accept passive operators who blindly copy-paste AI outputs. We are looking for engineers who orchestrate AI coding agents for high velocity, while maintaining absolute architectural control and the ability to defend their technical strategy against performance, security, and scalability trade-offs.\n【工作內容 Responsibilities】\n- 架構與開發 Architecture & Dev:\n主導全端系統與 API 整合開發，運用 React, TypeScript, Node.js, Python 及雲端架構（如 AWS / Heroku）建構高穩定度的產品。\nLead full-stack system and API integration development using React, TypeScript, Node.js, Python, and cloud infrastructure (e.g., AWS/Heroku).\n- AI 開發調度 Agent Orchestration:\n熟練運用 AI 開發工具與 Coding Agents，快速進行原型開發、功能建構、重構與測試，極致化開發產能。\nLeverage AI coding tools and agents to rapidly prototype, build features, refactor, and write tests at high speed.\n- 程式碼審查與防禦 Code Auditing & Strategy Defense:\n嚴格審查 AI 與團隊產出的程式碼，識別潛在的資安漏洞、極端狀況（Edge Cases）與效能瓶頸，並能向團隊清楚說明與辯護你的架構選擇。\nAudit code for security vulnerabilities, edge cases, and performance bottlenecks, and clearly defend your architectural decisions to the team.\n- 技術文件與營運協作 Documentation & Ops:\n撰寫清晰的技術規格文件，並與團隊共同分擔維持產品穩定運作所需的實務維護工作。\nMaintain clean technical documentation and share in the operational work needed to keep systems running smoothly.\n【我們在找什麼樣的人 What We Are Looking For】\n- 實務經驗 Experience:\n具備 3 年以上全端開發實務經驗，有獨立建構並上線完整系統的實績。\n3+ years of practical full-stack development experience with a track record of shipping complete systems.\n- 技術棧核心 Tech Stack:\n精通 TypeScript, React, Node.js, Python, SQL，並具備雲端服務與資料庫架構設計能力。\nProficient in TypeScript, React, Node.js, Python, SQL, and database/cloud architecture.\n- AI 工具掌控力 AI Competency:\n具備高度的「AI 協同開發」能力，知道如何下達精準 Prompt 與 Context 給 Coding Agents，並能在 AI 遇到瓶頸時迅速接手除錯。\nDeep mastery of AI-assisted workflows, knowing how to feed precise context to agents and step in manually when AI hits a wall.\n- 當責與批判思考 Ownership & Critical Thinking:\n不迷信 AI 的產出。具備獨立思考能力，對程式碼品質有堅持，並能在面對回饋時展現專業態度。\nDoes not blindly trust AI output. Thinks critically, maintains high code quality, and handles feedback professionally.\n【考核與發展 Evaluation & Growth】\n- 試用期 Probation:\n本職位設有標準的六個月試用期，以充分評估實際開發速效、程式碼審查能力與團隊契合度。\nStandard 6-month probationary period to evaluate development velocity, code auditing capabilities, and team fit.\n- 職涯發展 Career Growth:\n表現優異且具備領導潛力者，未來可逐步發展為 Senior Engineer、Tech Lead，或轉任技術產品經理 (Product Manager)。\nStrong performers can grow into Senior Engineer, Tech Lead, or technical Product Manager roles.\n【薪資與應徵 Application】\n請提供以下資訊以完成應徵：\nPlease provide the following to complete your application:\n1. 履歷 Resume 與 GitHub / 作品集連結 (Portfolio link)\n2. 期望待遇與可到職日 Expected salary & available start date\n【核心提問 Core Question】\n請勿使用系統預設求職信。應徵時，請務必回答下列問題：\nDo not send a generic cover letter. Please answer the following questions:\n1. 簡短說明你目前日常開發中使用的 AI 工具與協同工作流程 (Workflow)。\nBriefly describe your current daily AI-assisted development tools and workflow.\n2. 結合你的過去經驗：你的哪些過去經歷或技能，使你能夠完美駕馭這套 AI 協同開發模式？\nExperience Pairing: What specific past experiences or skills enable you to master this AI-assisted development model?\n3. 技術挑戰：在目前的 AI 工具生態中，你認為最大的挑戰、盲點或限制是什麼？當 AI 無法解決時，你通常如何應對？\nRemaining Challenges: What do you consider to be the biggest challenges, blind spots, or limitations in current AI development tools, and how do you handle situations when AI falls short?"
+    },
+    "employment_type_raw": "全職",
+    "title": "全端開發工程師 (Full-Stack Software Engineer)"
+  },
+  "location": {
+    "address_raw": "花蓮縣花蓮市國慶里中央路三段625號二樓",
+    "raw": "花蓮縣花蓮市國慶里中央路三段625號二樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "ChatGPT",
+          "Claude",
+          "ReactJS",
+          "Node.js",
+          "PostgreSQL",
+          "Git",
+          "MySQL",
+          "Github",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "ChatGPT、Claude、ReactJS、Node.js、PostgreSQL、Git、MySQL、Github、Python"
+      },
+      {
+        "items": [
+          "軟體工程系統開發",
+          "韌體工程開發",
+          "功能測試(function test)",
+          "問題追蹤處理(Bug tracking)",
+          "軟體整合測試",
+          "韌體整合測試",
+          "測試計劃及測試報告書撰寫",
+          "軟體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體工程系統開發、韌體工程開發、功能測試(function test)、問題追蹤處理(Bug tracking)、軟體整合測試、韌體整合測試、測試計劃及測試報告書撰寫、軟體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "職位要求：\n1. 熟悉程式語言：TypeScript、React、NodeJS、SQL、CSS/SASS、Webpack、雲端服務（如 AWS、Azure、Heroku 等）、Javascript、Python。\n2. 擅長代碼編寫與重構，能撰寫易於理解和維護的代碼。\n3. 能夠建構系統，提前發現並回報潛在問題，並提供解決方案。\n4. 具備良好溝通能力，能清晰與技術及非技術人員交流。\n5. 擁有快速分析與解決複雜技術問題的能力。\n6. 優秀的團隊合作能力，與開發人員、設計師及產品經理緊密合作推動項目成功。\n7. 具備高效、自我組織及抗壓能力，邏輯清晰，勇於迎接挑戰。\n以下相關經驗，可以為您額外加分：\n區塊鏈的相關開發\nWordpress 的 Gastby 以及 Woocommerce外掛"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "職位要求：\n1. 熟悉程式語言：TypeScript、React、NodeJS、SQL、CSS/SASS、Webpack、雲端服務（如 AWS、Azure、Heroku 等）、Javascript、Python。\n2. 擅長代碼編寫與重構，能撰寫易於理解和維護的代碼。\n3. 能夠建構系統，提前發現並回報潛在問題，並提供解決方案。\n4. 具備良好溝通能力，能清晰與技術及非技術人員交流。\n5. 擁有快速分析與解決複雜技術問題的能力。\n6. 優秀的團隊合作能力，與開發人員、設計師及產品經理緊密合作推動項目成功。\n7. 具備高效、自我組織及抗壓能力，邏輯清晰，勇於迎接挑戰。\n以下相關經驗，可以為您額外加分：\n區塊鏈的相關開發\nWordpress 的 Gastby 以及 Woocommerce外掛",
+    "skills": [
+      "軟體工程系統開發",
+      "韌體工程開發",
+      "功能測試(function test)",
+      "問題追蹤處理(Bug tracking)",
+      "軟體整合測試",
+      "韌體整合測試",
+      "測試計劃及測試報告書撰寫",
+      "軟體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ChatGPT、Claude、ReactJS、Node.js、PostgreSQL、Git、MySQL、Github、Python\n工作技能：軟體工程系統開發、韌體工程開發、功能測試(function test)、問題追蹤處理(Bug tracking)、軟體整合測試、韌體整合測試、測試計劃及測試報告書撰寫、軟體程式設計\n其他條件：職位要求：\n1. 熟悉程式語言：TypeScript、React、NodeJS、SQL、CSS/SASS、Webpack、雲端服務（如 AWS、Azure、Heroku 等）、Javascript、Python。\n2. 擅長代碼編寫與重構，能撰寫易於理解和維護的代碼。\n3. 能夠建構系統，提前發現並回報潛在問題，並提供解決方案。\n4. 具備良好溝通能力，能清晰與技術及非技術人員交流。\n5. 擁有快速分析與解決複雜技術問題的能力。\n6. 優秀的團隊合作能力，與開發人員、設計師及產品經理緊密合作推動項目成功。\n7. 具備高效、自我組織及抗壓能力，邏輯清晰，勇於迎接挑戰。\n以下相關經驗，可以為您額外加分：\n區塊鏈的相關開發\nWordpress 的 Gastby 以及 Woocommerce外掛",
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "ReactJS",
+      "Node.js",
+      "PostgreSQL",
+      "Git",
+      "MySQL",
+      "Github",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 98
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:22:41+08:00"
+  },
+  "salary": {
+    "raw": "月薪45,000~75,000元"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【關於我們 About Us】\n我們是位於花蓮的科技公司 Mountainview Technology Ltd（眺岳科技），客戶遍及台灣與全球。團隊精實，專案具高度技術性，我們的工作橫跨硬體、韌體、軟體、雲端系統與產品整合。\nWe are a Hualien-based tech company with customers in Taiwan and around the world. Our work spans hardware, firmware, software, cloud systems, and product integration.\n【我們的 AI 開發哲學 Our AI Engineering Philosophy】\n在現今的開發環境中，軟體工程的本質已經改變。我們不期待你純手工（hand-roll）撰寫每一行樣板程式碼，但我們也絕不接受只是「坐在螢幕前看 AI 寫程式」、未經思考就複製貼上的被動操作者。\n我們尋找的是能夠精準調度 AI 編輯器與 Coding Agents 的工程師。你必須具備極高的開發效率，同時對系統架構擁有絕對的控制力與主導權。你必須能夠審查（Audit）AI 產出的程式碼，並在面對效能、安全性與系統擴充性時，清晰且理性地為你的技術決策與策略進行辯護。\nWe do not expect you to hand-roll boilerplate code from scratch, but we also do not accept passive operators who blindly copy-paste AI outputs. We are looking for engineers who orchestrate AI coding agents for high velocity, while maintaining absolute architectural control and the ability to defend their technical strategy against performance, security, and scalability trade-offs.\n【工作內容 Responsibilities】\n- 架構與開發 Architecture & Dev:\n主導全端系統與 API 整合開發，運用 React, TypeScript, Node.js, Python 及雲端架構（如 AWS / Heroku）建構高穩定度的產品。\nLead full-stack system and API integration development using React, TypeScript, Node.js, Python, and cloud infrastructure (e.g., AWS/Heroku).\n- AI 開發調度 Agent Orchestration:\n熟練運用 AI 開發工具與 Coding Agents，快速進行原型開發、功能建構、重構與測試，極致化開發產能。\nLeverage AI coding tools and agents to rapidly prototype, build features, refactor, and write tests at high speed.\n- 程式碼審查與防禦 Code Auditing & Strategy Defense:\n嚴格審查 AI 與團隊產出的程式碼，識別潛在的資安漏洞、極端狀況（Edge Cases）與效能瓶頸，並能向團隊清楚說明與辯護你的架構選擇。\nAudit code for security vulnerabilities, edge cases, and performance bottlenecks, and clearly defend your architectural decisions to the team.\n- 技術文件與營運協作 Documentation & Ops:\n撰寫清晰的技術規格文件，並與團隊共同分擔維持產品穩定運作所需的實務維護工作。\nMaintain clean technical documentation and share in the operational work needed to keep systems running smoothly.\n【我們在找什麼樣的人 What We Are Looking For】\n- 實務經驗 Experience:\n具備 3 年以上全端開發實務經驗，有獨立建構並上線完整系統的實績。\n3+ years of practical full-stack development experience with a track record of shipping complete systems.\n- 技術棧核心 Tech Stack:\n精通 TypeScript, React, Node.js, Python, SQL，並具備雲端服務與資料庫架構設計能力。\nProficient in TypeScript, React, Node.js, Python, SQL, and database/cloud architecture.\n- AI 工具掌控力 AI Competency:\n具備高度的「AI 協同開發」能力，知道如何下達精準 Prompt 與 Context 給 Coding Agents，並能在 AI 遇到瓶頸時迅速接手除錯。\nDeep mastery of AI-assisted workflows, knowing how to feed precise context to agents and step in manually when AI hits a wall.\n- 當責與批判思考 Ownership & Critical Thinking:\n不迷信 AI 的產出。具備獨立思考能力，對程式碼品質有堅持，並能在面對回饋時展現專業態度。\nDoes not blindly trust AI output. Thinks critically, maintains high code quality, and handles feedback professionally.\n【考核與發展 Evaluation & Growth】\n- 試用期 Probation:\n本職位設有標準的六個月試用期，以充分評估實際開發速效、程式碼審查能力與團隊契合度。\nStandard 6-month probationary period to evaluate development velocity, code auditing capabilities, and team fit.\n- 職涯發展 Career Growth:\n表現優異且具備領導潛力者，未來可逐步發展為 Senior Engineer、Tech Lead，或轉任技術產品經理 (Product Manager)。\nStrong performers can grow into Senior Engineer, Tech Lead, or technical Product Manager roles.\n【薪資與應徵 Application】\n請提供以下資訊以完成應徵：\nPlease provide the following to complete your application:\n1. 履歷 Resume 與 GitHub / 作品集連結 (Portfolio link)\n2. 期望待遇與可到職日 Expected salary & available start date\n【核心提問 Core Question】\n請勿使用系統預設求職信。應徵時，請務必回答下列問題：\nDo not send a generic cover letter. Please answer the following questions:\n1. 簡短說明你目前日常開發中使用的 AI 工具與協同工作流程 (Workflow)。\nBriefly describe your current daily AI-assisted development tools and workflow.\n2. 結合你的過去經驗：你的哪些過去經歷或技能，使你能夠完美駕馭這套 AI 協同開發模式？\nExperience Pairing: What specific past experiences or skills enable you to master this AI-assisted development model?\n3. 技術挑戰：在目前的 AI 工具生態中，你認為最大的挑戰、盲點或限制是什麼？當 AI 無法解決時，你通常如何應對？\nRemaining Challenges: What do you consider to be the biggest challenges, blind spots, or limitations in current AI development tools, and how do you handle situations when AI falls short?",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "全端工程師",
+            "Internet程式設計師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、全端工程師、Internet程式設計師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪45,000~75,000元",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "花蓮縣花蓮市國慶里中央路三段625號二樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【關於我們 About Us】\n我們是位於花蓮的科技公司 Mountainview Technology Ltd（眺岳科技），客戶遍及台灣與全球。團隊精實，專案具高度技術性，我們的工作橫跨硬體、韌體、軟體、雲端系統與產品整合。\nWe are a Hualien-based tech company with customers in Taiwan and around the world. Our work spans hardware, firmware, software, cloud systems, and product integration.\n【我們的 AI 開發哲學 Our AI Engineering Philosophy】\n在現今的開發環境中，軟體工程的本質已經改變。我們不期待你純手工（hand-roll）撰寫每一行樣板程式碼，但我們也絕不接受只是「坐在螢幕前看 AI 寫程式」、未經思考就複製貼上的被動操作者。\n我們尋找的是能夠精準調度 AI 編輯器與 Coding Agents 的工程師。你必須具備極高的開發效率，同時對系統架構擁有絕對的控制力與主導權。你必須能夠審查（Audit）AI 產出的程式碼，並在面對效能、安全性與系統擴充性時，清晰且理性地為你的技術決策與策略進行辯護。\nWe do not expect you to hand-roll boilerplate code from scratch, but we also do not accept passive operators who blindly copy-paste AI outputs. We are looking for engineers who orchestrate AI coding agents for high velocity, while maintaining absolute architectural control and the ability to defend their technical strategy against performance, security, and scalability trade-offs.\n【工作內容 Responsibilities】\n- 架構與開發 Architecture & Dev:\n主導全端系統與 API 整合開發，運用 React, TypeScript, Node.js, Python 及雲端架構（如 AWS / Heroku）建構高穩定度的產品。\nLead full-stack system and API integration development using React, TypeScript, Node.js, Python, and cloud infrastructure (e.g., AWS/Heroku).\n- AI 開發調度 Agent Orchestration:\n熟練運用 AI 開發工具與 Coding Agents，快速進行原型開發、功能建構、重構與測試，極致化開發產能。\nLeverage AI coding tools and agents to rapidly prototype, build features, refactor, and write tests at high speed.\n- 程式碼審查與防禦 Code Auditing & Strategy Defense:\n嚴格審查 AI 與團隊產出的程式碼，識別潛在的資安漏洞、極端狀況（Edge Cases）與效能瓶頸，並能向團隊清楚說明與辯護你的架構選擇。\nAudit code for security vulnerabilities, edge cases, and performance bottlenecks, and clearly defend your architectural decisions to the team.\n- 技術文件與營運協作 Documentation & Ops:\n撰寫清晰的技術規格文件，並與團隊共同分擔維持產品穩定運作所需的實務維護工作。\nMaintain clean technical documentation and share in the operational work needed to keep systems running smoothly.\n【我們在找什麼樣的人 What We Are Looking For】\n- 實務經驗 Experience:\n具備 3 年以上全端開發實務經驗，有獨立建構並上線完整系統的實績。\n3+ years of practical full-stack development experience with a track record of shipping complete systems.\n- 技術棧核心 Tech Stack:\n精通 TypeScript, React, Node.js, Python, SQL，並具備雲端服務與資料庫架構設計能力。\nProficient in TypeScript, React, Node.js, Python, SQL, and database/cloud architecture.\n- AI 工具掌控力 AI Competency:\n具備高度的「AI 協同開發」能力，知道如何下達精準 Prompt 與 Context 給 Coding Agents，並能在 AI 遇到瓶頸時迅速接手除錯。\nDeep mastery of AI-assisted workflows, knowing how to feed precise context to agents and step in manually when AI hits a wall.\n- 當責與批判思考 Ownership & Critical Thinking:\n不迷信 AI 的產出。具備獨立思考能力，對程式碼品質有堅持，並能在面對回饋時展現專業態度。\nDoes not blindly trust AI output. Thinks critically, maintains high code quality, and handles feedback professionally.\n【考核與發展 Evaluation & Growth】\n- 試用期 Probation:\n本職位設有標準的六個月試用期，以充分評估實際開發速效、程式碼審查能力與團隊契合度。\nStandard 6-month probationary period to evaluate development velocity, code auditing capabilities, and team fit.\n- 職涯發展 Career Growth:\n表現優異且具備領導潛力者，未來可逐步發展為 Senior Engineer、Tech Lead，或轉任技術產品經理 (Product Manager)。\nStrong performers can grow into Senior Engineer, Tech Lead, or technical Product Manager roles.\n【薪資與應徵 Application】\n請提供以下資訊以完成應徵：\nPlease provide the following to complete your application:\n1. 履歷 Resume 與 GitHub / 作品集連結 (Portfolio link)\n2. 期望待遇與可到職日 Expected salary & available start date\n【核心提問 Core Question】\n請勿使用系統預設求職信。應徵時，請務必回答下列問題：\nDo not send a generic cover letter. Please answer the following questions:\n1. 簡短說明你目前日常開發中使用的 AI 工具與協同工作流程 (Workflow)。\nBriefly describe your current daily AI-assisted development tools and workflow.\n2. 結合你的過去經驗：你的哪些過去經歷或技能，使你能夠完美駕馭這套 AI 協同開發模式？\nExperience Pairing: What specific past experiences or skills enable you to master this AI-assisted development model?\n3. 技術挑戰：在目前的 AI 工具生態中，你認為最大的挑戰、盲點或限制是什麼？當 AI 無法解決時，你通常如何應對？\nRemaining Challenges: What do you consider to be the biggest challenges, blind spots, or limitations in current AI development tools, and how do you handle situations when AI falls short?"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "ChatGPT",
+            "Claude",
+            "ReactJS",
+            "Node.js",
+            "PostgreSQL",
+            "Git",
+            "MySQL",
+            "Github",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "ChatGPT、Claude、ReactJS、Node.js、PostgreSQL、Git、MySQL、Github、Python",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體工程系統開發",
+            "韌體工程開發",
+            "功能測試(function test)",
+            "問題追蹤處理(Bug tracking)",
+            "軟體整合測試",
+            "韌體整合測試",
+            "測試計劃及測試報告書撰寫",
+            "軟體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體工程系統開發、韌體工程開發、功能測試(function test)、問題追蹤處理(Bug tracking)、軟體整合測試、韌體整合測試、測試計劃及測試報告書撰寫、軟體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "職位要求：\n1. 熟悉程式語言：TypeScript、React、NodeJS、SQL、CSS/SASS、Webpack、雲端服務（如 AWS、Azure、Heroku 等）、Javascript、Python。\n2. 擅長代碼編寫與重構，能撰寫易於理解和維護的代碼。\n3. 能夠建構系統，提前發現並回報潛在問題，並提供解決方案。\n4. 具備良好溝通能力，能清晰與技術及非技術人員交流。\n5. 擁有快速分析與解決複雜技術問題的能力。\n6. 優秀的團隊合作能力，與開發人員、設計師及產品經理緊密合作推動項目成功。\n7. 具備高效、自我組織及抗壓能力，邏輯清晰，勇於迎接挑戰。\n以下相關經驗，可以為您額外加分：\n區塊鏈的相關開發\nWordpress 的 Gastby 以及 Woocommerce外掛",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n語文條件：英文：中等、中等、中等、中等\n擅長工具：ChatGPT、Claude、ReactJS、Node.js、PostgreSQL、Git、MySQL、Github、Python\n工作技能：軟體工程系統開發、韌體工程開發、功能測試(function test)、問題追蹤處理(Bug tracking)、軟體整合測試、韌體整合測試、測試計劃及測試報告書撰寫、軟體程式設計\n其他條件：職位要求：\n1. 熟悉程式語言：TypeScript、React、NodeJS、SQL、CSS/SASS、Webpack、雲端服務（如 AWS、Azure、Heroku 等）、Javascript、Python。\n2. 擅長代碼編寫與重構，能撰寫易於理解和維護的代碼。\n3. 能夠建構系統，提前發現並回報潛在問題，並提供解決方案。\n4. 具備良好溝通能力，能清晰與技術及非技術人員交流。\n5. 擁有快速分析與解決複雜技術問題的能力。\n6. 優秀的團隊合作能力，與開發人員、設計師及產品經理緊密合作推動項目成功。\n7. 具備高效、自我組織及抗壓能力，邏輯清晰，勇於迎接挑戰。\n以下相關經驗，可以為您額外加分：\n區塊鏈的相關開發\nWordpress 的 Gastby 以及 Woocommerce外掛"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "81o1a",
+    "job_url": "https://www.104.com.tw/job/81o1a",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/81o1a.json",
+    "raw_sha256": "7601581668007ccc71f00d6281b0b3852df8f2ed28ffd718c386a1e86721ce56",
+    "requested_url": "https://www.104.com.tw/api/jobs/81o1a"
+  }
+}

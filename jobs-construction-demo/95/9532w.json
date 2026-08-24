@@ -1,0 +1,313 @@
+{
+  "company": {
+    "id": "afph47c",
+    "name": "四零四科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "韌體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Ethernet Switch 平台開發與整合"
+        },
+        {
+          "children": [],
+          "text": "參與新一代 Ethernet Switch 平台開發，包含 Switch SDK 整合、硬體週邊控制及相關訊號驗證。"
+        },
+        {
+          "children": [],
+          "text": "負責軟硬體整合及系統問題分析，確保新平台功能、穩定性與品質符合產品需求。"
+        },
+        {
+          "children": [],
+          "text": "針對新平台與產品需求進行技術評估，提出適合的設計與實作方案。"
+        },
+        {
+          "children": [],
+          "text": "網路協定與功能開發"
+        },
+        {
+          "children": [],
+          "text": "負責 Ethernet Switch Layer 2 網路協定與相關功能的設計、開發及系統整合。"
+        },
+        {
+          "children": [],
+          "text": "依據產品需求進行新功能開發，並持續優化既有功能與系統效能。"
+        },
+        {
+          "children": [],
+          "text": "分析網路通訊相關技術，評估新技術於產品中的應用與導入方式。"
+        },
+        {
+          "children": [],
+          "text": "軟體平台與系統架構優化"
+        },
+        {
+          "children": [],
+          "text": "共同維護產品軟體共用平台，處理跨產品的共通性技術問題。"
+        },
+        {
+          "children": [],
+          "text": "參與系統架構設計與調整，持續改善軟體品質、穩定性及可維護性。"
+        },
+        {
+          "children": [],
+          "text": "產品問題分析與解決"
+        },
+        {
+          "children": [],
+          "text": "與測試團隊合作分析產品問題，釐清問題範圍與 Root Cause，並提出完整解決方案。"
+        },
+        {
+          "children": [],
+          "text": "針對客戶端技術問題，與技術服務團隊合作重現、分析並解決問題。"
+        },
+        {
+          "children": [],
+          "text": "跨團隊產品開發"
+        },
+        {
+          "children": [],
+          "text": "與產品行銷／產品管理團隊討論產品需求，共同制定功能與技術規格。"
+        },
+        {
+          "children": [],
+          "text": "與硬體、測試及技術服務等團隊密切合作，推動產品開發與問題解決。"
+        },
+        {
+          "children": [],
+          "text": "軟體開發流程與技術文件"
+        },
+        {
+          "children": [],
+          "text": "遵循軟體開發流程，完成設計規格、技術文件及軟體修改紀錄。"
+        },
+        {
+          "children": [],
+          "text": "針對網路及產品相關技術進行研究與分析，整理技術文件與研究成果。"
+        },
+        {
+          "children": [],
+          "text": "持續累積並分享技術經驗，提升團隊整體研發能力。"
+        }
+      ],
+      "text": "Purpose of this Position\n加入 Moxa 工業網路交換機研發團隊，您將參與新一代 Ethernet Switch 平台與網路通訊功能的開發，從 Switch SDK 整合、硬體週邊與訊號驗證、Layer 2 網路協定開發，到系統整合與軟體架構優化，打造穩定、可靠的工業網路產品。\n在這個角色中，您不只是負責單一功能開發，更需要從系統角度理解軟硬體、Switch Platform 與網路協定間的互動，針對產品需求提出技術解決方案，並與產品、測試及技術服務團隊共同解決產品開發與客戶應用中的技術挑戰。\n您也將有機會持續研究網路通訊相關技術，將技術成果實際應用於產品與平台開發，持續提升 Moxa 工業網路產品的技術競爭力。\nMajor Areas of Responsibility\n1. Ethernet Switch 平台開發與整合\n- 參與新一代 Ethernet Switch 平台開發，包含 Switch SDK 整合、硬體週邊控制及相關訊號驗證。\n- 負責軟硬體整合及系統問題分析，確保新平台功能、穩定性與品質符合產品需求。\n- 針對新平台與產品需求進行技術評估，提出適合的設計與實作方案。\n2. 網路協定與功能開發\n- 負責 Ethernet Switch Layer 2 網路協定與相關功能的設計、開發及系統整合。\n- 依據產品需求進行新功能開發，並持續優化既有功能與系統效能。\n- 分析網路通訊相關技術，評估新技術於產品中的應用與導入方式。\n3. 軟體平台與系統架構優化\n- 共同維護產品軟體共用平台，處理跨產品的共通性技術問題。\n- 參與系統架構設計與調整，持續改善軟體品質、穩定性及可維護性。\n4. 產品問題分析與解決\n- 與測試團隊合作分析產品問題，釐清問題範圍與 Root Cause，並提出完整解決方案。\n- 針對客戶端技術問題，與技術服務團隊合作重現、分析並解決問題。\n5. 跨團隊產品開發\n- 與產品行銷／產品管理團隊討論產品需求，共同制定功能與技術規格。\n- 與硬體、測試及技術服務等團隊密切合作，推動產品開發與問題解決。\n6. 軟體開發流程與技術文件\n- 遵循軟體開發流程，完成設計規格、技術文件及軟體修改紀錄。\n- 針對網路及產品相關技術進行研究與分析，整理技術文件與研究成果。\n- 持續累積並分享技術經驗，提升團隊整體研發能力。"
+    },
+    "employment_type_raw": "全職",
+    "title": "Sr. SW Engineer (Ethernet Switch) (ID: 260079)"
+  },
+  "location": {
+    "address_raw": "新北市新莊區新北大道四段3號13樓",
+    "raw": "新北市新莊區新北大道四段3號13樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Linux",
+          "C",
+          "TCP/IP"
+        ],
+        "label": "擅長工具",
+        "text": "Linux、C、TCP/IP"
+      },
+      {
+        "items": [
+          "系統架構規劃",
+          "軟體工程系統開發",
+          "韌體工程開發",
+          "軟體程式設計",
+          "韌體程式設計"
+        ],
+        "label": "工作技能",
+        "text": "系統架構規劃、軟體工程系統開發、韌體工程開發、軟體程式設計、韌體程式設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "Minimum Job Requirements:\n學歷：碩士以上，資訊工程、電機工程、電子工程、通訊工程或相關科系。\n工作經驗\n- 三年以上網路設備軟體／韌體開發經驗。\n- 具 Ethernet Switch、Router 或其他網通產品開發經驗。\n專業能力\n- 熟悉 C 語言，具實際軟體/韌體開發經驗。\n- 具 Layer 2/Layer 3 Switch 相關開發經驗。\n- 具備 Ethernet、TCP/IP 及網路通訊協定相關知識。\n語言能力\n- 中文溝通流利\n- 具英文技術文件閱讀及書寫能力，TOEIC 600 分以上或相當程度。\nPreferred Competencies\n具備以下任一經驗者尤佳：\n- Embedded Linux 軟體／韌體開發經驗。\n- Linux Kernel／Device Driver 開發經驗。\n- Ethernet Switch SDK 整合經驗。\n- Layer 2／Layer 3 網路協定開發經驗。\n- 網通產品系統架構設計或平台開發經驗。\n- Rust 開發經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關"
+    ],
+    "other_text": "Minimum Job Requirements:\n學歷：碩士以上，資訊工程、電機工程、電子工程、通訊工程或相關科系。\n工作經驗\n- 三年以上網路設備軟體／韌體開發經驗。\n- 具 Ethernet Switch、Router 或其他網通產品開發經驗。\n專業能力\n- 熟悉 C 語言，具實際軟體/韌體開發經驗。\n- 具 Layer 2/Layer 3 Switch 相關開發經驗。\n- 具備 Ethernet、TCP/IP 及網路通訊協定相關知識。\n語言能力\n- 中文溝通流利\n- 具英文技術文件閱讀及書寫能力，TOEIC 600 分以上或相當程度。\nPreferred Competencies\n具備以下任一經驗者尤佳：\n- Embedded Linux 軟體／韌體開發經驗。\n- Linux Kernel／Device Driver 開發經驗。\n- Ethernet Switch SDK 整合經驗。\n- Layer 2／Layer 3 網路協定開發經驗。\n- 網通產品系統架構設計或平台開發經驗。\n- Rust 開發經驗",
+    "skills": [
+      "系統架構規劃",
+      "軟體工程系統開發",
+      "韌體工程開發",
+      "軟體程式設計",
+      "韌體程式設計"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C、TCP/IP\n工作技能：系統架構規劃、軟體工程系統開發、韌體工程開發、軟體程式設計、韌體程式設計\n其他條件：Minimum Job Requirements:\n學歷：碩士以上，資訊工程、電機工程、電子工程、通訊工程或相關科系。\n工作經驗\n- 三年以上網路設備軟體／韌體開發經驗。\n- 具 Ethernet Switch、Router 或其他網通產品開發經驗。\n專業能力\n- 熟悉 C 語言，具實際軟體/韌體開發經驗。\n- 具 Layer 2/Layer 3 Switch 相關開發經驗。\n- 具備 Ethernet、TCP/IP 及網路通訊協定相關知識。\n語言能力\n- 中文溝通流利\n- 具英文技術文件閱讀及書寫能力，TOEIC 600 分以上或相當程度。\nPreferred Competencies\n具備以下任一經驗者尤佳：\n- Embedded Linux 軟體／韌體開發經驗。\n- Linux Kernel／Device Driver 開發經驗。\n- Ethernet Switch SDK 整合經驗。\n- Layer 2／Layer 3 網路協定開發經驗。\n- 網通產品系統架構設計或平台開發經驗。\n- Rust 開發經驗",
+    "tools": [
+      "Linux",
+      "C",
+      "TCP/IP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 21
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:14:14+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Purpose of this Position\n加入 Moxa 工業網路交換機研發團隊，您將參與新一代 Ethernet Switch 平台與網路通訊功能的開發，從 Switch SDK 整合、硬體週邊與訊號驗證、Layer 2 網路協定開發，到系統整合與軟體架構優化，打造穩定、可靠的工業網路產品。\n在這個角色中，您不只是負責單一功能開發，更需要從系統角度理解軟硬體、Switch Platform 與網路協定間的互動，針對產品需求提出技術解決方案，並與產品、測試及技術服務團隊共同解決產品開發與客戶應用中的技術挑戰。\n您也將有機會持續研究網路通訊相關技術，將技術成果實際應用於產品與平台開發，持續提升 Moxa 工業網路產品的技術競爭力。\nMajor Areas of Responsibility\n1. Ethernet Switch 平台開發與整合\n- 參與新一代 Ethernet Switch 平台開發，包含 Switch SDK 整合、硬體週邊控制及相關訊號驗證。\n- 負責軟硬體整合及系統問題分析，確保新平台功能、穩定性與品質符合產品需求。\n- 針對新平台與產品需求進行技術評估，提出適合的設計與實作方案。\n2. 網路協定與功能開發\n- 負責 Ethernet Switch Layer 2 網路協定與相關功能的設計、開發及系統整合。\n- 依據產品需求進行新功能開發，並持續優化既有功能與系統效能。\n- 分析網路通訊相關技術，評估新技術於產品中的應用與導入方式。\n3. 軟體平台與系統架構優化\n- 共同維護產品軟體共用平台，處理跨產品的共通性技術問題。\n- 參與系統架構設計與調整，持續改善軟體品質、穩定性及可維護性。\n4. 產品問題分析與解決\n- 與測試團隊合作分析產品問題，釐清問題範圍與 Root Cause，並提出完整解決方案。\n- 針對客戶端技術問題，與技術服務團隊合作重現、分析並解決問題。\n5. 跨團隊產品開發\n- 與產品行銷／產品管理團隊討論產品需求，共同制定功能與技術規格。\n- 與硬體、測試及技術服務等團隊密切合作，推動產品開發與問題解決。\n6. 軟體開發流程與技術文件\n- 遵循軟體開發流程，完成設計規格、技術文件及軟體修改紀錄。\n- 針對網路及產品相關技術進行研究與分析，整理技術文件與研究成果。\n- 持續累積並分享技術經驗，提升團隊整體研發能力。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "韌體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、韌體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新莊區新北大道四段3號13樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Purpose of this Position\n加入 Moxa 工業網路交換機研發團隊，您將參與新一代 Ethernet Switch 平台與網路通訊功能的開發，從 Switch SDK 整合、硬體週邊與訊號驗證、Layer 2 網路協定開發，到系統整合與軟體架構優化，打造穩定、可靠的工業網路產品。\n在這個角色中，您不只是負責單一功能開發，更需要從系統角度理解軟硬體、Switch Platform 與網路協定間的互動，針對產品需求提出技術解決方案，並與產品、測試及技術服務團隊共同解決產品開發與客戶應用中的技術挑戰。\n您也將有機會持續研究網路通訊相關技術，將技術成果實際應用於產品與平台開發，持續提升 Moxa 工業網路產品的技術競爭力。\nMajor Areas of Responsibility\n1. Ethernet Switch 平台開發與整合\n- 參與新一代 Ethernet Switch 平台開發，包含 Switch SDK 整合、硬體週邊控制及相關訊號驗證。\n- 負責軟硬體整合及系統問題分析，確保新平台功能、穩定性與品質符合產品需求。\n- 針對新平台與產品需求進行技術評估，提出適合的設計與實作方案。\n2. 網路協定與功能開發\n- 負責 Ethernet Switch Layer 2 網路協定與相關功能的設計、開發及系統整合。\n- 依據產品需求進行新功能開發，並持續優化既有功能與系統效能。\n- 分析網路通訊相關技術，評估新技術於產品中的應用與導入方式。\n3. 軟體平台與系統架構優化\n- 共同維護產品軟體共用平台，處理跨產品的共通性技術問題。\n- 參與系統架構設計與調整，持續改善軟體品質、穩定性及可維護性。\n4. 產品問題分析與解決\n- 與測試團隊合作分析產品問題，釐清問題範圍與 Root Cause，並提出完整解決方案。\n- 針對客戶端技術問題，與技術服務團隊合作重現、分析並解決問題。\n5. 跨團隊產品開發\n- 與產品行銷／產品管理團隊討論產品需求，共同制定功能與技術規格。\n- 與硬體、測試及技術服務等團隊密切合作，推動產品開發與問題解決。\n6. 軟體開發流程與技術文件\n- 遵循軟體開發流程，完成設計規格、技術文件及軟體修改紀錄。\n- 針對網路及產品相關技術進行研究與分析，整理技術文件與研究成果。\n- 持續累積並分享技術經驗，提升團隊整體研發能力。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Linux",
+            "C",
+            "TCP/IP"
+          ],
+          "label": "擅長工具",
+          "text": "Linux、C、TCP/IP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "系統架構規劃",
+            "軟體工程系統開發",
+            "韌體工程開發",
+            "軟體程式設計",
+            "韌體程式設計"
+          ],
+          "label": "工作技能",
+          "text": "系統架構規劃、軟體工程系統開發、韌體工程開發、軟體程式設計、韌體程式設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "Minimum Job Requirements:\n學歷：碩士以上，資訊工程、電機工程、電子工程、通訊工程或相關科系。\n工作經驗\n- 三年以上網路設備軟體／韌體開發經驗。\n- 具 Ethernet Switch、Router 或其他網通產品開發經驗。\n專業能力\n- 熟悉 C 語言，具實際軟體/韌體開發經驗。\n- 具 Layer 2/Layer 3 Switch 相關開發經驗。\n- 具備 Ethernet、TCP/IP 及網路通訊協定相關知識。\n語言能力\n- 中文溝通流利\n- 具英文技術文件閱讀及書寫能力，TOEIC 600 分以上或相當程度。\nPreferred Competencies\n具備以下任一經驗者尤佳：\n- Embedded Linux 軟體／韌體開發經驗。\n- Linux Kernel／Device Driver 開發經驗。\n- Ethernet Switch SDK 整合經驗。\n- Layer 2／Layer 3 網路協定開發經驗。\n- 網通產品系統架構設計或平台開發經驗。\n- Rust 開發經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n科系要求：資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Linux、C、TCP/IP\n工作技能：系統架構規劃、軟體工程系統開發、韌體工程開發、軟體程式設計、韌體程式設計\n其他條件：Minimum Job Requirements:\n學歷：碩士以上，資訊工程、電機工程、電子工程、通訊工程或相關科系。\n工作經驗\n- 三年以上網路設備軟體／韌體開發經驗。\n- 具 Ethernet Switch、Router 或其他網通產品開發經驗。\n專業能力\n- 熟悉 C 語言，具實際軟體/韌體開發經驗。\n- 具 Layer 2/Layer 3 Switch 相關開發經驗。\n- 具備 Ethernet、TCP/IP 及網路通訊協定相關知識。\n語言能力\n- 中文溝通流利\n- 具英文技術文件閱讀及書寫能力，TOEIC 600 分以上或相當程度。\nPreferred Competencies\n具備以下任一經驗者尤佳：\n- Embedded Linux 軟體／韌體開發經驗。\n- Linux Kernel／Device Driver 開發經驗。\n- Ethernet Switch SDK 整合經驗。\n- Layer 2／Layer 3 網路協定開發經驗。\n- 網通產品系統架構設計或平台開發經驗。\n- Rust 開發經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "9532w",
+    "job_url": "https://www.104.com.tw/job/9532w",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/9532w.json",
+    "raw_sha256": "2fb604dafaaa784c1492b0cd8084faace3dd7335d1a05f9345bee1682e88ce5a",
+    "requested_url": "https://www.104.com.tw/api/jobs/9532w"
+  }
+}

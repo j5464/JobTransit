@@ -1,0 +1,221 @@
+{
+  "company": {
+    "id": "1a2x6bjvxb",
+    "name": "美商太陽鳥軟體股份有限公司台灣分公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "Provide project architecture vision, software design, and team leadership."
+        },
+        {
+          "children": [],
+          "text": "Design and implement Linux server Java classes to support user interfaces."
+        },
+        {
+          "children": [],
+          "text": "Work with system engineers and development team to evolve project architecture."
+        },
+        {
+          "children": [],
+          "text": "Design and implement web services."
+        },
+        {
+          "children": [],
+          "text": "Design and implement web GUI."
+        }
+      ],
+      "text": "1. Provide project architecture vision, software design, and team leadership.\n2. Design and implement Linux server Java classes to support user interfaces.\n3. Work with system engineers and development team to evolve project architecture.\n4. Design and implement web services.\n5. Design and implement web GUI."
+    },
+    "employment_type_raw": "全職",
+    "title": "Senior Software Engineer"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶高路30之1號6樓及30之2號6樓(新店寶高智慧產業園區)",
+    "raw": "新北市新店區寶高路30之1號6樓及30之2號6樓(新店寶高智慧產業園區)"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "8年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "8年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關",
+          "其他數學及電算機科學相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "Java",
+          "Spring"
+        ],
+        "label": "擅長工具",
+        "text": "Java、Spring"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. BS/MS in Electrical Engineering, Computer Science, Computer Engineering or related field.\n2. 8+ years of experience in commercial web application development using Java Spring Framework.\n3. Expert-level understanding of SOA, OOD, AOP, and design patterns\n4. Extensive experience with Java related technologies such as Spring and Hibernate\n5. Working knowledge of HTML, CSS, JavaScript\n6. Working knowledge of web services, SOAP, REST, XML, JSON\n7. Working knowledge of SQL\n8. Working knowledge of SNMP\n9. Strong problem-solving and analytical skills\n10. Hands on experience with web and application servers such as Apache, Nginx, and Tomcat\n11. Hands on Linux development experience including application development and shell script development.\n12. Familiarity with full software development life cycle (SDLC) and Agile methodology.\n13. Excellent oral and written communications skills (intermediate in English).\n14. Self-motivated with critical attention to details, deadlines and reporting"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關",
+      "其他數學及電算機科學相關"
+    ],
+    "other_text": "1. BS/MS in Electrical Engineering, Computer Science, Computer Engineering or related field.\n2. 8+ years of experience in commercial web application development using Java Spring Framework.\n3. Expert-level understanding of SOA, OOD, AOP, and design patterns\n4. Extensive experience with Java related technologies such as Spring and Hibernate\n5. Working knowledge of HTML, CSS, JavaScript\n6. Working knowledge of web services, SOAP, REST, XML, JSON\n7. Working knowledge of SQL\n8. Working knowledge of SNMP\n9. Strong problem-solving and analytical skills\n10. Hands on experience with web and application servers such as Apache, Nginx, and Tomcat\n11. Hands on Linux development experience including application development and shell script development.\n12. Familiarity with full software development life cycle (SDLC) and Agile methodology.\n13. Excellent oral and written communications skills (intermediate in English).\n14. Self-motivated with critical attention to details, deadlines and reporting",
+    "skills": [],
+    "text": "工作經歷：8年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、Spring\n其他條件：1. BS/MS in Electrical Engineering, Computer Science, Computer Engineering or related field.\n2. 8+ years of experience in commercial web application development using Java Spring Framework.\n3. Expert-level understanding of SOA, OOD, AOP, and design patterns\n4. Extensive experience with Java related technologies such as Spring and Hibernate\n5. Working knowledge of HTML, CSS, JavaScript\n6. Working knowledge of web services, SOAP, REST, XML, JSON\n7. Working knowledge of SQL\n8. Working knowledge of SNMP\n9. Strong problem-solving and analytical skills\n10. Hands on experience with web and application servers such as Apache, Nginx, and Tomcat\n11. Hands on Linux development experience including application development and shell script development.\n12. Familiarity with full software development life cycle (SDLC) and Agile methodology.\n13. Excellent oral and written communications skills (intermediate in English).\n14. Self-motivated with critical attention to details, deadlines and reporting",
+    "tools": [
+      "Java",
+      "Spring"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 86
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:54:18+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. Provide project architecture vision, software design, and team leadership.\n2. Design and implement Linux server Java classes to support user interfaces.\n3. Work with system engineers and development team to evolve project architecture.\n4. Design and implement web services.\n5. Design and implement web GUI.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶高路30之1號6樓及30之2號6樓(新店寶高智慧產業園區)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. Provide project architecture vision, software design, and team leadership.\n2. Design and implement Linux server Java classes to support user interfaces.\n3. Work with system engineers and development team to evolve project architecture.\n4. Design and implement web services.\n5. Design and implement web GUI."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "8年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關",
+            "其他數學及電算機科學相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關、其他數學及電算機科學相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Java",
+            "Spring"
+          ],
+          "label": "擅長工具",
+          "text": "Java、Spring",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. BS/MS in Electrical Engineering, Computer Science, Computer Engineering or related field.\n2. 8+ years of experience in commercial web application development using Java Spring Framework.\n3. Expert-level understanding of SOA, OOD, AOP, and design patterns\n4. Extensive experience with Java related technologies such as Spring and Hibernate\n5. Working knowledge of HTML, CSS, JavaScript\n6. Working knowledge of web services, SOAP, REST, XML, JSON\n7. Working knowledge of SQL\n8. Working knowledge of SNMP\n9. Strong problem-solving and analytical skills\n10. Hands on experience with web and application servers such as Apache, Nginx, and Tomcat\n11. Hands on Linux development experience including application development and shell script development.\n12. Familiarity with full software development life cycle (SDLC) and Agile methodology.\n13. Excellent oral and written communications skills (intermediate in English).\n14. Self-motivated with critical attention to details, deadlines and reporting",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：8年以上\n學歷要求：大學以上\n科系要求：資訊工程相關、資訊管理相關、其他數學及電算機科學相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：Java、Spring\n其他條件：1. BS/MS in Electrical Engineering, Computer Science, Computer Engineering or related field.\n2. 8+ years of experience in commercial web application development using Java Spring Framework.\n3. Expert-level understanding of SOA, OOD, AOP, and design patterns\n4. Extensive experience with Java related technologies such as Spring and Hibernate\n5. Working knowledge of HTML, CSS, JavaScript\n6. Working knowledge of web services, SOAP, REST, XML, JSON\n7. Working knowledge of SQL\n8. Working knowledge of SNMP\n9. Strong problem-solving and analytical skills\n10. Hands on experience with web and application servers such as Apache, Nginx, and Tomcat\n11. Hands on Linux development experience including application development and shell script development.\n12. Familiarity with full software development life cycle (SDLC) and Agile methodology.\n13. Excellent oral and written communications skills (intermediate in English).\n14. Self-motivated with critical attention to details, deadlines and reporting"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "586jl",
+    "job_url": "https://www.104.com.tw/job/586jl",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/586jl.json",
+    "raw_sha256": "c9f5ab0ce6f014546b66141784deea5ed34710b439a1e9ec418939775afe273b",
+    "requested_url": "https://www.104.com.tw/api/jobs/586jl"
+  }
+}

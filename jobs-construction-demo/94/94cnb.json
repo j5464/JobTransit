@@ -1,0 +1,174 @@
+{
+  "company": {
+    "id": "5wthkkw",
+    "name": "緯創資通股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "專案經理",
+      "其他專案管理師",
+      "軟體專案主管"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "產測程式開發導入之專案管理"
+        },
+        {
+          "children": [],
+          "text": "跨部門溝通"
+        },
+        {
+          "children": [],
+          "text": "負責專案之客戶窗口"
+        }
+      ],
+      "text": "1. 產測程式開發導入之專案管理\n2. 跨部門溝通\n3. 負責專案之客戶窗口"
+    },
+    "employment_type_raw": "全職",
+    "title": "Software PM_汐止_07954"
+  },
+  "location": {
+    "address_raw": "新北市汐止區",
+    "raw": "新北市汐止區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 專案管理經驗\n2. 善於且樂於溝通\n3. 或可勝任上述工作之自信或相關經驗\n4. TOIEC 700分以上英文聽說讀寫能力\n加分項目: 軟體開發經驗 或 伺服器/資料中心/測試系統機台的代工或製造商工作經驗"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1. 專案管理經驗\n2. 善於且樂於溝通\n3. 或可勝任上述工作之自信或相關經驗\n4. TOIEC 700分以上英文聽說讀寫能力\n加分項目: 軟體開發經驗 或 伺服器/資料中心/測試系統機台的代工或製造商工作經驗",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 專案管理經驗\n2. 善於且樂於溝通\n3. 或可勝任上述工作之自信或相關經驗\n4. TOIEC 700分以上英文聽說讀寫能力\n加分項目: 軟體開發經驗 或 伺服器/資料中心/測試系統機台的代工或製造商工作經驗",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 27
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:27:44+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. 產測程式開發導入之專案管理\n2. 跨部門溝通\n3. 負責專案之客戶窗口",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "專案經理",
+            "其他專案管理師",
+            "軟體專案主管"
+          ],
+          "label": "職務類別",
+          "text": "專案經理、其他專案管理師、軟體專案主管",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市汐止區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. 產測程式開發導入之專案管理\n2. 跨部門溝通\n3. 負責專案之客戶窗口"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 專案管理經驗\n2. 善於且樂於溝通\n3. 或可勝任上述工作之自信或相關經驗\n4. TOIEC 700分以上英文聽說讀寫能力\n加分項目: 軟體開發經驗 或 伺服器/資料中心/測試系統機台的代工或製造商工作經驗",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n其他條件：1. 專案管理經驗\n2. 善於且樂於溝通\n3. 或可勝任上述工作之自信或相關經驗\n4. TOIEC 700分以上英文聽說讀寫能力\n加分項目: 軟體開發經驗 或 伺服器/資料中心/測試系統機台的代工或製造商工作經驗"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "94cnb",
+    "job_url": "https://www.104.com.tw/job/94cnb",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/94cnb.json",
+    "raw_sha256": "242a18a7a18808a746cfbb5a37b1ba3db69e16f0f7d242d7d58630ee5b5157d2",
+    "requested_url": "https://www.104.com.tw/api/jobs/94cnb"
+  }
+}

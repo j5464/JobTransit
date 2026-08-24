@@ -1,0 +1,240 @@
+{
+  "company": {
+    "id": "7rbc0yo",
+    "name": "博磊科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "演算法工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AOI 檢測程式與演算法開發、系統維護。"
+        },
+        {
+          "children": [],
+          "text": "光學系統配置（相機、鏡頭、光源）與實驗。"
+        },
+        {
+          "children": [],
+          "text": "影像資料分析、協助客戶問題追蹤。"
+        },
+        {
+          "children": [],
+          "text": "支援主管進行專案開發與測試。"
+        },
+        {
+          "children": [],
+          "text": "可配合短期國內外出差。"
+        }
+      ],
+      "text": "1.AOI 檢測程式與演算法開發、系統維護。\n2.光學系統配置（相機、鏡頭、光源）與實驗。\n3.影像資料分析、協助客戶問題追蹤。\n4.支援主管進行專案開發與測試。\n5.可配合短期國內外出差。"
+    },
+    "employment_type_raw": "全職",
+    "title": "AOI軟體工程師"
+  },
+  "location": {
+    "address_raw": "新竹縣新豐鄉精工路53號",
+    "raw": "新竹縣新豐鄉精工路53號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "電機電子工程相關",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "電機電子工程相關、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "C++",
+          "C"
+        ],
+        "label": "擅長工具",
+        "text": "C++、C"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "演算法設計"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、演算法設計"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.熟悉 MFC 開發經驗佳。\n2.熟悉 eVision、MIL、OpenCV 開發經驗佳。\n3.具備良好的團隊合作精神與溝通能力。"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [
+      "電機電子工程相關",
+      "資訊工程相關"
+    ],
+    "other_text": "1.熟悉 MFC 開發經驗佳。\n2.熟悉 eVision、MIL、OpenCV 開發經驗佳。\n3.具備良好的團隊合作精神與溝通能力。",
+    "skills": [
+      "軟體程式設計",
+      "演算法設計"
+    ],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C++、C\n工作技能：軟體程式設計、演算法設計\n其他條件：1.熟悉 MFC 開發經驗佳。\n2.熟悉 eVision、MIL、OpenCV 開發經驗佳。\n3.具備良好的團隊合作精神與溝通能力。",
+    "tools": [
+      "C++",
+      "C"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 60
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:48:52+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.AOI 檢測程式與演算法開發、系統維護。\n2.光學系統配置（相機、鏡頭、光源）與實驗。\n3.影像資料分析、協助客戶問題追蹤。\n4.支援主管進行專案開發與測試。\n5.可配合短期國內外出差。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "演算法工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、演算法工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新竹縣新豐鄉精工路53號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.AOI 檢測程式與演算法開發、系統維護。\n2.光學系統配置（相機、鏡頭、光源）與實驗。\n3.影像資料分析、協助客戶問題追蹤。\n4.支援主管進行專案開發與測試。\n5.可配合短期國內外出差。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "電機電子工程相關",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "電機電子工程相關、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "C"
+          ],
+          "label": "擅長工具",
+          "text": "C++、C",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "演算法設計"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、演算法設計",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.熟悉 MFC 開發經驗佳。\n2.熟悉 eVision、MIL、OpenCV 開發經驗佳。\n3.具備良好的團隊合作精神與溝通能力。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n科系要求：電機電子工程相關、資訊工程相關\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：C++、C\n工作技能：軟體程式設計、演算法設計\n其他條件：1.熟悉 MFC 開發經驗佳。\n2.熟悉 eVision、MIL、OpenCV 開發經驗佳。\n3.具備良好的團隊合作精神與溝通能力。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8tvhp",
+    "job_url": "https://www.104.com.tw/job/8tvhp",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8tvhp.json",
+    "raw_sha256": "f874ed124fce03d5dc19f5ef5df239c973c5fd44b80a664232dfef72d7f5dae8",
+    "requested_url": "https://www.104.com.tw/api/jobs/8tvhp"
+  }
+}

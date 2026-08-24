@@ -1,0 +1,254 @@
+{
+  "company": {
+    "id": "llekkg8",
+    "name": "奇力新電子股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師",
+      "AI工程師",
+      "MES工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "MES系統開發、維護與功能優化"
+        },
+        {
+          "children": [],
+          "text": "LPS（Label Printing System）出貨相關系統維護"
+        },
+        {
+          "children": [],
+          "text": "建立與維護API服務，確保系統穩定與效能"
+        },
+        {
+          "children": [],
+          "text": "負責系統後端架構設計與開發"
+        },
+        {
+          "children": [],
+          "text": "與前端、產品及跨部門團隊協作"
+        }
+      ],
+      "text": "1. MES系統開發、維護與功能優化\n2. LPS（Label Printing System）出貨相關系統維護\n3. 建立與維護API服務，確保系統穩定與效能\n4. 負責系統後端架構設計與開發\n5. 與前端、產品及跨部門團隊協作\n#LI-CC1\nAbout YAGEO Group\nWe don’t build the final product. We build what makes it possible.\nFrom resistors to capacitors, inductors to sensors—our components power the breakthroughs that move the world forward. Electric vehicles. AI data centers. Satellites. Sonar systems. They move faster, last longer, reach farther—with a spark of us inside."
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體工程師"
+  },
+  "location": {
+    "address_raw": "桃園市平鎮區南豐路270號",
+    "raw": "桃園市平鎮區南豐路270號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C#",
+          "Python",
+          "Oracle",
+          "PL/SQL",
+          "MS SQL"
+        ],
+        "label": "擅長工具",
+        "text": "C#、Python、Oracle、PL/SQL、MS SQL"
+      },
+      {
+        "items": [
+          "軟體程式設計",
+          "AI",
+          "生成式AI"
+        ],
+        "label": "工作技能",
+        "text": "軟體程式設計、AI、生成式AI"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉MES系統架構與製造流程\n熟悉資料庫語法（Oracle / SQL Server）\n具備LPS或出貨相關系統維護經驗者優先\n具備AI應用經驗（Agent / 任何AI相關工具應用）者優先\n英文口說能力佳者加分"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": "熟悉MES系統架構與製造流程\n熟悉資料庫語法（Oracle / SQL Server）\n具備LPS或出貨相關系統維護經驗者優先\n具備AI應用經驗（Agent / 任何AI相關工具應用）者優先\n英文口說能力佳者加分",
+    "skills": [
+      "軟體程式設計",
+      "AI",
+      "生成式AI"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Python、Oracle、PL/SQL、MS SQL\n工作技能：軟體程式設計、AI、生成式AI\n其他條件：熟悉MES系統架構與製造流程\n熟悉資料庫語法（Oracle / SQL Server）\n具備LPS或出貨相關系統維護經驗者優先\n具備AI應用經驗（Agent / 任何AI相關工具應用）者優先\n英文口說能力佳者加分",
+    "tools": [
+      "C#",
+      "Python",
+      "Oracle",
+      "PL/SQL",
+      "MS SQL"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 98
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T05:23:47+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. MES系統開發、維護與功能優化\n2. LPS（Label Printing System）出貨相關系統維護\n3. 建立與維護API服務，確保系統穩定與效能\n4. 負責系統後端架構設計與開發\n5. 與前端、產品及跨部門團隊協作\n#LI-CC1\nAbout YAGEO Group\nWe don’t build the final product. We build what makes it possible.\nFrom resistors to capacitors, inductors to sensors—our components power the breakthroughs that move the world forward. Electric vehicles. AI data centers. Satellites. Sonar systems. They move faster, last longer, reach farther—with a spark of us inside.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師",
+            "AI工程師",
+            "MES工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師、AI工程師、MES工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "桃園市平鎮區南豐路270號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. MES系統開發、維護與功能優化\n2. LPS（Label Printing System）出貨相關系統維護\n3. 建立與維護API服務，確保系統穩定與效能\n4. 負責系統後端架構設計與開發\n5. 與前端、產品及跨部門團隊協作\n#LI-CC1\nAbout YAGEO Group\nWe don’t build the final product. We build what makes it possible.\nFrom resistors to capacitors, inductors to sensors—our components power the breakthroughs that move the world forward. Electric vehicles. AI data centers. Satellites. Sonar systems. They move faster, last longer, reach farther—with a spark of us inside."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C#",
+            "Python",
+            "Oracle",
+            "PL/SQL",
+            "MS SQL"
+          ],
+          "label": "擅長工具",
+          "text": "C#、Python、Oracle、PL/SQL、MS SQL",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體程式設計",
+            "AI",
+            "生成式AI"
+          ],
+          "label": "工作技能",
+          "text": "軟體程式設計、AI、生成式AI",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉MES系統架構與製造流程\n熟悉資料庫語法（Oracle / SQL Server）\n具備LPS或出貨相關系統維護經驗者優先\n具備AI應用經驗（Agent / 任何AI相關工具應用）者優先\n英文口說能力佳者加分",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科、大學、碩士\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C#、Python、Oracle、PL/SQL、MS SQL\n工作技能：軟體程式設計、AI、生成式AI\n其他條件：熟悉MES系統架構與製造流程\n熟悉資料庫語法（Oracle / SQL Server）\n具備LPS或出貨相關系統維護經驗者優先\n具備AI應用經驗（Agent / 任何AI相關工具應用）者優先\n英文口說能力佳者加分"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "928zf",
+    "job_url": "https://www.104.com.tw/job/928zf",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/928zf.json",
+    "raw_sha256": "e57fe1cda1232c638dbc25d363dad6798ea0cb623246401c063a09ac3a610386",
+    "requested_url": "https://www.104.com.tw/api/jobs/928zf"
+  }
+}

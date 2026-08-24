@@ -1,0 +1,233 @@
+{
+  "company": {
+    "id": "cl8kv1c",
+    "name": "佳陞科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "協助開發設備視覺軟體"
+        },
+        {
+          "children": [],
+          "text": "調整視覺參數"
+        }
+      ],
+      "text": "1.協助開發設備視覺軟體\n2.調整視覺參數"
+    },
+    "employment_type_raw": "全職",
+    "title": "軟體設計工程師-視覺開發"
+  },
+  "location": {
+    "address_raw": "台中市南屯區益文三街65號",
+    "raw": "台中市南屯區益文三街65號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科、大學、碩士",
+    "experience_raw": "1年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "1年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科、大學、碩士"
+      },
+      {
+        "items": [
+          "英文：略懂、略懂、略懂、略懂"
+        ],
+        "label": "語文條件",
+        "text": "英文：略懂、略懂、略懂、略懂"
+      },
+      {
+        "items": [
+          "Github",
+          "C#",
+          "Visual Studio",
+          "WinForm",
+          "MS SQL",
+          "MySQL",
+          "CIM"
+        ],
+        "label": "擅長工具",
+        "text": "Github、C#、Visual Studio、WinForm、MS SQL、MySQL、CIM"
+      },
+      {
+        "items": [
+          "軟體整合測試",
+          "自動化系統設計整合",
+          "設計導入製造執行系統（MES）",
+          "設計機台設備自動化",
+          "電機設備測試",
+          "自動化設備／系統介面之維護改善"
+        ],
+        "label": "工作技能",
+        "text": "軟體整合測試、自動化系統設計整合、設計導入製造執行系統（MES）、設計機台設備自動化、電機設備測試、自動化設備／系統介面之維護改善"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "熟悉C# 基礎語法\n具Halcon, Cognex或 Open CV經驗尤佳"
+      }
+    ],
+    "languages": [
+      "英文：略懂、略懂、略懂、略懂"
+    ],
+    "majors": [],
+    "other_text": "熟悉C# 基礎語法\n具Halcon, Cognex或 Open CV經驗尤佳",
+    "skills": [
+      "軟體整合測試",
+      "自動化系統設計整合",
+      "設計導入製造執行系統（MES）",
+      "設計機台設備自動化",
+      "電機設備測試",
+      "自動化設備／系統介面之維護改善"
+    ],
+    "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Github、C#、Visual Studio、WinForm、MS SQL、MySQL、CIM\n工作技能：軟體整合測試、自動化系統設計整合、設計導入製造執行系統（MES）、設計機台設備自動化、電機設備測試、自動化設備／系統介面之維護改善\n其他條件：熟悉C# 基礎語法\n具Halcon, Cognex或 Open CV經驗尤佳",
+    "tools": [
+      "Github",
+      "C#",
+      "Visual Studio",
+      "WinForm",
+      "MS SQL",
+      "MySQL",
+      "CIM"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 32
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:41:41+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1.協助開發設備視覺軟體\n2.調整視覺參數",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台中市南屯區益文三街65號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1.協助開發設備視覺軟體\n2.調整視覺參數"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "1年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科、大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：略懂、略懂、略懂、略懂"
+          ],
+          "label": "語文條件",
+          "text": "英文：略懂、略懂、略懂、略懂",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "Github",
+            "C#",
+            "Visual Studio",
+            "WinForm",
+            "MS SQL",
+            "MySQL",
+            "CIM"
+          ],
+          "label": "擅長工具",
+          "text": "Github、C#、Visual Studio、WinForm、MS SQL、MySQL、CIM",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "軟體整合測試",
+            "自動化系統設計整合",
+            "設計導入製造執行系統（MES）",
+            "設計機台設備自動化",
+            "電機設備測試",
+            "自動化設備／系統介面之維護改善"
+          ],
+          "label": "工作技能",
+          "text": "軟體整合測試、自動化系統設計整合、設計導入製造執行系統（MES）、設計機台設備自動化、電機設備測試、自動化設備／系統介面之維護改善",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "熟悉C# 基礎語法\n具Halcon, Cognex或 Open CV經驗尤佳",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：1年以上\n學歷要求：專科、大學、碩士\n語文條件：英文：略懂、略懂、略懂、略懂\n擅長工具：Github、C#、Visual Studio、WinForm、MS SQL、MySQL、CIM\n工作技能：軟體整合測試、自動化系統設計整合、設計導入製造執行系統（MES）、設計機台設備自動化、電機設備測試、自動化設備／系統介面之維護改善\n其他條件：熟悉C# 基礎語法\n具Halcon, Cognex或 Open CV經驗尤佳"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "90igb",
+    "job_url": "https://www.104.com.tw/job/90igb",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/90igb.json",
+    "raw_sha256": "315ed8bc1f04e737597523c569b0d1af0c0fa13de3c6c89bda8e5daa6dc709ee",
+    "requested_url": "https://www.104.com.tw/api/jobs/90igb"
+  }
+}

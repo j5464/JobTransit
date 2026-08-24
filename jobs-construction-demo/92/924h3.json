@@ -1,0 +1,255 @@
+{
+  "company": {
+    "id": "ckkyqvc",
+    "name": "富邦媒體科技股份有限公司(富邦momo)"
+  },
+  "job": {
+    "categories": [
+      "前端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "參與電商平台核心業務（商品頁、搜尋、購物車、結帳流程、會員體驗等）之前端架構設計與功能開發"
+        },
+        {
+          "children": [],
+          "text": "負責大型前端專案之架構演進、技術債重構與工程化建設，提升系統可維護性、穩定性與開發效率"
+        },
+        {
+          "children": [],
+          "text": "建立與維護企業級共用元件、shared modules 與私有套件，打造 scalablefrontend architecture"
+        },
+        {
+          "children": [],
+          "text": "優化高流量場景下的前端效能與使用體驗（大型促銷活動、跨境站點、多語系等）"
+        },
+        {
+          "children": [],
+          "text": "建立與優化現代化前端開發流程與品質機制（CI/CD、testing、code review、linting、type-safe development 等）"
+        },
+        {
+          "children": [],
+          "text": "建立前端 observability 機制，包含 monitoring、error tracking 與效能分析"
+        },
+        {
+          "children": [],
+          "text": "與後端、產品、設計、數據、DevOps 等跨職能團隊合作，推動需求落地與系統整合"
+        },
+        {
+          "children": [],
+          "text": "導入 AI-assisted workflow 與自動化工具，提升開發、重構與驗證效率"
+        },
+        {
+          "children": [],
+          "text": "參與技術分享、內部訓練與工程文化建設，協助團隊持續成長"
+        },
+        {
+          "children": [],
+          "text": "具備大型前端專案架構設計與維護經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 monorepo / multi-app 架構、module boundaries 與 shared modules 設計"
+        },
+        {
+          "children": [],
+          "text": "熟悉現代化 Web 開發流程與前端工程化實踐"
+        },
+        {
+          "children": [],
+          "text": "具備 CI/CD、自動化測試與前端品質管理實務經驗"
+        },
+        {
+          "children": [],
+          "text": "具備高流量場景之效能優化與問題排查能力"
+        },
+        {
+          "children": [],
+          "text": "理解 observability、monitoring 與 error tracking 等現代化開發概念"
+        },
+        {
+          "children": [],
+          "text": "能與 AI / Agent workflow 協作進行開發與技術探索"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Micro Frontend 架構設計與部署"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Core Web Vitals、效能分析工具與前端最佳化策略"
+        },
+        {
+          "children": [],
+          "text": "具備 GTM Data Layer 與事件追蹤架構設計經驗"
+        },
+        {
+          "children": [],
+          "text": "具備 AI API / LLM / AI Agent 整合經驗（OpenAI、Claude、Gemini、Copilot 等）"
+        },
+        {
+          "children": [],
+          "text": "具備大型電商平台、跨境電商或多語系網站開發經驗"
+        },
+        {
+          "children": [],
+          "text": "熟悉 Docker、Kubernetes 或雲端部署流程"
+        },
+        {
+          "children": [],
+          "text": "具備 Design System 建置與維護經驗"
+        },
+        {
+          "children": [],
+          "text": "熱愛技術與產品開發，對使用者體驗與工程品質有高度要求"
+        },
+        {
+          "children": [],
+          "text": "樂於分享與團隊合作，願意推動工程文化與技術成長"
+        },
+        {
+          "children": [],
+          "text": "能在快速變動的環境中持續學習與優化開發流程"
+        },
+        {
+          "children": [],
+          "text": "對 AI Native Development 與現代化工程流程充滿熱情"
+        }
+      ],
+      "text": "電商已是你我生活的一部分！歡迎加入成為我們的一份子，親自打造最棒的購物體驗。我們重視工程文化與技術成長，團隊風氣自由開放，鼓勵工程師持續精進技術、挑戰架構設計與探索 AI Native Development Workflow，一起打造高品質、高效能的現代化電商平台。\n【工作內容】\n● 參與電商平台核心業務（商品頁、搜尋、購物車、結帳流程、會員體驗等）之前端架構設計與功能開發\n● 負責大型前端專案之架構演進、技術債重構與工程化建設，提升系統可維護性、穩定性與開發效率\n● 建立與維護企業級共用元件、shared modules 與私有套件，打造 scalablefrontend architecture\n● 優化高流量場景下的前端效能與使用體驗（大型促銷活動、跨境站點、多語系等）\n● 建立與優化現代化前端開發流程與品質機制（CI/CD、testing、code review、linting、type-safe development 等）\n● 建立前端 observability 機制，包含 monitoring、error tracking 與效能分析\n● 與後端、產品、設計、數據、DevOps 等跨職能團隊合作，推動需求落地與系統整合\n● 導入 AI-assisted workflow 與自動化工具，提升開發、重構與驗證效率\n● 參與技術分享、內部訓練與工程文化建設，協助團隊持續成長\n【核心能力】\n● 具備大型前端專案架構設計與維護經驗\n● 熟悉 monorepo / multi-app 架構、module boundaries 與 shared modules 設計\n● 熟悉現代化 Web 開發流程與前端工程化實踐\n● 具備 CI/CD、自動化測試與前端品質管理實務經驗\n● 具備高流量場景之效能優化與問題排查能力\n● 理解 observability、monitoring 與 error tracking 等現代化開發概念\n● 能與 AI / Agent workflow 協作進行開發與技術探索\n【加分條件】\n● 熟悉 Micro Frontend 架構設計與部署\n● 熟悉 Core Web Vitals、效能分析工具與前端最佳化策略\n● 具備 GTM Data Layer 與事件追蹤架構設計經驗\n● 具備 AI API / LLM / AI Agent 整合經驗（OpenAI、Claude、Gemini、Copilot 等）\n● 具備大型電商平台、跨境電商或多語系網站開發經驗\n● 熟悉 Docker、Kubernetes 或雲端部署流程\n● 具備 Design System 建置與維護經驗\n【我們期待這樣的你】\n● 熱愛技術與產品開發，對使用者體驗與工程品質有高度要求\n● 樂於分享與團隊合作，願意推動工程文化與技術成長\n● 能在快速變動的環境中持續學習與優化開發流程\n● 對 AI Native Development 與現代化工程流程充滿熱情"
+    },
+    "employment_type_raw": "全職",
+    "title": "D4000 資深前端工程師"
+  },
+  "location": {
+    "address_raw": "台北市內湖區洲子街96號",
+    "raw": "台北市內湖區洲子街96號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學以上"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 88
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T04:58:33+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "電商已是你我生活的一部分！歡迎加入成為我們的一份子，親自打造最棒的購物體驗。我們重視工程文化與技術成長，團隊風氣自由開放，鼓勵工程師持續精進技術、挑戰架構設計與探索 AI Native Development Workflow，一起打造高品質、高效能的現代化電商平台。\n【工作內容】\n● 參與電商平台核心業務（商品頁、搜尋、購物車、結帳流程、會員體驗等）之前端架構設計與功能開發\n● 負責大型前端專案之架構演進、技術債重構與工程化建設，提升系統可維護性、穩定性與開發效率\n● 建立與維護企業級共用元件、shared modules 與私有套件，打造 scalablefrontend architecture\n● 優化高流量場景下的前端效能與使用體驗（大型促銷活動、跨境站點、多語系等）\n● 建立與優化現代化前端開發流程與品質機制（CI/CD、testing、code review、linting、type-safe development 等）\n● 建立前端 observability 機制，包含 monitoring、error tracking 與效能分析\n● 與後端、產品、設計、數據、DevOps 等跨職能團隊合作，推動需求落地與系統整合\n● 導入 AI-assisted workflow 與自動化工具，提升開發、重構與驗證效率\n● 參與技術分享、內部訓練與工程文化建設，協助團隊持續成長\n【核心能力】\n● 具備大型前端專案架構設計與維護經驗\n● 熟悉 monorepo / multi-app 架構、module boundaries 與 shared modules 設計\n● 熟悉現代化 Web 開發流程與前端工程化實踐\n● 具備 CI/CD、自動化測試與前端品質管理實務經驗\n● 具備高流量場景之效能優化與問題排查能力\n● 理解 observability、monitoring 與 error tracking 等現代化開發概念\n● 能與 AI / Agent workflow 協作進行開發與技術探索\n【加分條件】\n● 熟悉 Micro Frontend 架構設計與部署\n● 熟悉 Core Web Vitals、效能分析工具與前端最佳化策略\n● 具備 GTM Data Layer 與事件追蹤架構設計經驗\n● 具備 AI API / LLM / AI Agent 整合經驗（OpenAI、Claude、Gemini、Copilot 等）\n● 具備大型電商平台、跨境電商或多語系網站開發經驗\n● 熟悉 Docker、Kubernetes 或雲端部署流程\n● 具備 Design System 建置與維護經驗\n【我們期待這樣的你】\n● 熱愛技術與產品開發，對使用者體驗與工程品質有高度要求\n● 樂於分享與團隊合作，願意推動工程文化與技術成長\n● 能在快速變動的環境中持續學習與優化開發流程\n● 對 AI Native Development 與現代化工程流程充滿熱情",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "前端工程師"
+          ],
+          "label": "職務類別",
+          "text": "前端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區洲子街96號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "電商已是你我生活的一部分！歡迎加入成為我們的一份子，親自打造最棒的購物體驗。我們重視工程文化與技術成長，團隊風氣自由開放，鼓勵工程師持續精進技術、挑戰架構設計與探索 AI Native Development Workflow，一起打造高品質、高效能的現代化電商平台。\n【工作內容】\n● 參與電商平台核心業務（商品頁、搜尋、購物車、結帳流程、會員體驗等）之前端架構設計與功能開發\n● 負責大型前端專案之架構演進、技術債重構與工程化建設，提升系統可維護性、穩定性與開發效率\n● 建立與維護企業級共用元件、shared modules 與私有套件，打造 scalablefrontend architecture\n● 優化高流量場景下的前端效能與使用體驗（大型促銷活動、跨境站點、多語系等）\n● 建立與優化現代化前端開發流程與品質機制（CI/CD、testing、code review、linting、type-safe development 等）\n● 建立前端 observability 機制，包含 monitoring、error tracking 與效能分析\n● 與後端、產品、設計、數據、DevOps 等跨職能團隊合作，推動需求落地與系統整合\n● 導入 AI-assisted workflow 與自動化工具，提升開發、重構與驗證效率\n● 參與技術分享、內部訓練與工程文化建設，協助團隊持續成長\n【核心能力】\n● 具備大型前端專案架構設計與維護經驗\n● 熟悉 monorepo / multi-app 架構、module boundaries 與 shared modules 設計\n● 熟悉現代化 Web 開發流程與前端工程化實踐\n● 具備 CI/CD、自動化測試與前端品質管理實務經驗\n● 具備高流量場景之效能優化與問題排查能力\n● 理解 observability、monitoring 與 error tracking 等現代化開發概念\n● 能與 AI / Agent workflow 協作進行開發與技術探索\n【加分條件】\n● 熟悉 Micro Frontend 架構設計與部署\n● 熟悉 Core Web Vitals、效能分析工具與前端最佳化策略\n● 具備 GTM Data Layer 與事件追蹤架構設計經驗\n● 具備 AI API / LLM / AI Agent 整合經驗（OpenAI、Claude、Gemini、Copilot 等）\n● 具備大型電商平台、跨境電商或多語系網站開發經驗\n● 熟悉 Docker、Kubernetes 或雲端部署流程\n● 具備 Design System 建置與維護經驗\n【我們期待這樣的你】\n● 熱愛技術與產品開發，對使用者體驗與工程品質有高度要求\n● 樂於分享與團隊合作，願意推動工程文化與技術成長\n● 能在快速變動的環境中持續學習與優化開發流程\n● 對 AI Native Development 與現代化工程流程充滿熱情"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學以上\n語文條件：英文：中等、中等、中等、中等"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/20",
+    "html_sha256": null,
+    "job_id": "924h3",
+    "job_url": "https://www.104.com.tw/job/924h3",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/924h3.json",
+    "raw_sha256": "d3f63e476490e275f815aad7262cc03a488c3fd4195f5a21ae752dc6812a19d8",
+    "requested_url": "https://www.104.com.tw/api/jobs/924h3"
+  }
+}

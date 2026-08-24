@@ -1,0 +1,279 @@
+{
+  "company": {
+    "id": "2eyzq7c",
+    "name": "聯華林德氣體工業股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "AI工程師",
+      "資料工程師",
+      "數據分析師／資料分析師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "AI 相關技術與專案推動 (包含生成式 AI 應用)"
+        },
+        {
+          "children": [],
+          "text": "協助導入 BI 新技術與 RPＡ 工具，以提升系統效能與作業效率"
+        },
+        {
+          "children": [],
+          "text": "負責 Oracle ERP 各模組之功能維護、優化與系統整合"
+        },
+        {
+          "children": [],
+          "text": "支援 Oracle ERP 系統之日常維運及客製化開發需求"
+        },
+        {
+          "children": [],
+          "text": "執行系統需求分析、功能設計及相關文件撰寫"
+        }
+      ],
+      "text": "1. AI 相關技術與專案推動 (包含生成式 AI 應用)\n2. 協助導入 BI 新技術與 RPＡ 工具，以提升系統效能與作業效率\n3. 負責 Oracle ERP 各模組之功能維護、優化與系統整合\n4. 支援 Oracle ERP 系統之日常維運及客製化開發需求\n5. 執行系統需求分析、功能設計及相關文件撰寫"
+    },
+    "employment_type_raw": "全職",
+    "title": "7007台北總公司 AI/BI 工程師"
+  },
+  "location": {
+    "address_raw": "台北市南港區南港路一段209號A棟6樓",
+    "raw": "台北市南港區南港路一段209號A棟6樓"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "專科以上",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "專科以上"
+      },
+      {
+        "items": [
+          "資訊工程相關",
+          "資訊管理相關"
+        ],
+        "label": "科系要求",
+        "text": "資訊工程相關、資訊管理相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "MySQL",
+          "Oracle",
+          "PL/SQL",
+          "Python",
+          "LLM",
+          "Gemini",
+          "Claude",
+          "Copilot",
+          "Oracle ERP"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、MySQL、Oracle、PL/SQL、Python、LLM、Gemini、Claude、Copilot、Oracle ERP"
+      },
+      {
+        "items": [
+          "商業智慧",
+          "企業資源規劃管理(ERP)",
+          "報表開發",
+          "資料探勘",
+          "資料庫軟體應用",
+          "AI",
+          "語言模型",
+          "演算法設計",
+          "生成式AI",
+          "提示工程"
+        ],
+        "label": "工作技能",
+        "text": "商業智慧、企業資源規劃管理(ERP)、報表開發、資料探勘、資料庫軟體應用、AI、語言模型、演算法設計、生成式AI、提示工程"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "資訊工程相關",
+      "資訊管理相關"
+    ],
+    "other_text": null,
+    "skills": [
+      "商業智慧",
+      "企業資源規劃管理(ERP)",
+      "報表開發",
+      "資料探勘",
+      "資料庫軟體應用",
+      "AI",
+      "語言模型",
+      "演算法設計",
+      "生成式AI",
+      "提示工程"
+    ],
+    "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MS SQL、MySQL、Oracle、PL/SQL、Python、LLM、Gemini、Claude、Copilot、Oracle ERP\n工作技能：商業智慧、企業資源規劃管理(ERP)、報表開發、資料探勘、資料庫軟體應用、AI、語言模型、演算法設計、生成式AI、提示工程",
+    "tools": [
+      "MS SQL",
+      "MySQL",
+      "Oracle",
+      "PL/SQL",
+      "Python",
+      "LLM",
+      "Gemini",
+      "Claude",
+      "Copilot",
+      "Oracle ERP"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 61
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:52:55+08:00"
+  },
+  "salary": {
+    "raw": "月薪50,000元以上"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "1. AI 相關技術與專案推動 (包含生成式 AI 應用)\n2. 協助導入 BI 新技術與 RPＡ 工具，以提升系統效能與作業效率\n3. 負責 Oracle ERP 各模組之功能維護、優化與系統整合\n4. 支援 Oracle ERP 系統之日常維運及客製化開發需求\n5. 執行系統需求分析、功能設計及相關文件撰寫",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "AI工程師",
+            "資料工程師",
+            "數據分析師／資料分析師"
+          ],
+          "label": "職務類別",
+          "text": "AI工程師、資料工程師、數據分析師／資料分析師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "月薪50,000元以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市南港區南港路一段209號A棟6樓",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "1. AI 相關技術與專案推動 (包含生成式 AI 應用)\n2. 協助導入 BI 新技術與 RPＡ 工具，以提升系統效能與作業效率\n3. 負責 Oracle ERP 各模組之功能維護、優化與系統整合\n4. 支援 Oracle ERP 系統之日常維運及客製化開發需求\n5. 執行系統需求分析、功能設計及相關文件撰寫"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "專科以上",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "資訊工程相關",
+            "資訊管理相關"
+          ],
+          "label": "科系要求",
+          "text": "資訊工程相關、資訊管理相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "MySQL",
+            "Oracle",
+            "PL/SQL",
+            "Python",
+            "LLM",
+            "Gemini",
+            "Claude",
+            "Copilot",
+            "Oracle ERP"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、MySQL、Oracle、PL/SQL、Python、LLM、Gemini、Claude、Copilot、Oracle ERP",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "商業智慧",
+            "企業資源規劃管理(ERP)",
+            "報表開發",
+            "資料探勘",
+            "資料庫軟體應用",
+            "AI",
+            "語言模型",
+            "演算法設計",
+            "生成式AI",
+            "提示工程"
+          ],
+          "label": "工作技能",
+          "text": "商業智慧、企業資源規劃管理(ERP)、報表開發、資料探勘、資料庫軟體應用、AI、語言模型、演算法設計、生成式AI、提示工程",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：專科以上\n科系要求：資訊工程相關、資訊管理相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MS SQL、MySQL、Oracle、PL/SQL、Python、LLM、Gemini、Claude、Copilot、Oracle ERP\n工作技能：商業智慧、企業資源規劃管理(ERP)、報表開發、資料探勘、資料庫軟體應用、AI、語言模型、演算法設計、生成式AI、提示工程"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "92y8e",
+    "job_url": "https://www.104.com.tw/job/92y8e",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/92y8e.json",
+    "raw_sha256": "9dfc72dbf85457a902e4e9a18344a1a874c002500efdf8dd39ab2c36b78f263b",
+    "requested_url": "https://www.104.com.tw/api/jobs/92y8e"
+  }
+}

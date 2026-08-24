@@ -1,0 +1,217 @@
+{
+  "company": {
+    "id": "1jt7ol5",
+    "name": "國泰人壽保險股份有限公司_總公司_國泰金控"
+  },
+  "job": {
+    "categories": [
+      "數據分析師／資料分析師",
+      "資料庫管理人員",
+      "其他專案管理師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "數據資料流/系統類專案需求訪談、撰寫需求說明書、測試等作業。"
+        },
+        {
+          "children": [],
+          "text": "圖資專案資料分析管理及圖資處理作業。"
+        }
+      ],
+      "text": "本職缺只接受國泰人壽徵才網站的履歷表，請立即至以下網址登錄您的資料：https://pse.is/57uztc\n善用圖資工具結合數據追蹤與分析，針對策略性問題提出數據產出、評估與應用，並持續針對專案內容優化與修正。\n1.數據資料流/系統類專案需求訪談、撰寫需求說明書、測試等作業。\n2.圖資專案資料分析管理及圖資處理作業。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【營運企劃】圖資數據專案管理人員(台北) 鑑價智能科"
+  },
+  "location": {
+    "address_raw": "台北市大安區仁愛路四段296號",
+    "raw": "台北市大安區仁愛路四段296號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "MS SQL",
+          "MySQL",
+          "PostgreSQL",
+          "Excel",
+          "Outlook",
+          "PowerPoint",
+          "Word",
+          "ArcGis",
+          "GIS",
+          "SuperGIS",
+          "SAS"
+        ],
+        "label": "擅長工具",
+        "text": "MS SQL、MySQL、PostgreSQL、Excel、Outlook、PowerPoint、Word、ArcGis、GIS、SuperGIS、SAS"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1. 主動積極、態度正面，具抗壓性，有獨立分析、規劃及提案能力。\n2. 具有GIS領域知識及系統規劃、建構經驗。\n3. 擁有高效率的自學能力及不吝與人分享。\n4. 具開創性思維、思考及邏輯能力佳，擅長團隊合作與溝通協調能力。\n5. 擅長簡報能力製作，穩健台風與流暢口條進行簡報說明。\n6. 英文能力：聽、說、讀、寫(中等)\n7. 面試時，請說明個人專案執行經驗(含GIS、數據分析、系統執行經驗等)"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [],
+    "other_text": "1. 主動積極、態度正面，具抗壓性，有獨立分析、規劃及提案能力。\n2. 具有GIS領域知識及系統規劃、建構經驗。\n3. 擁有高效率的自學能力及不吝與人分享。\n4. 具開創性思維、思考及邏輯能力佳，擅長團隊合作與溝通協調能力。\n5. 擅長簡報能力製作，穩健台風與流暢口條進行簡報說明。\n6. 英文能力：聽、說、讀、寫(中等)\n7. 面試時，請說明個人專案執行經驗(含GIS、數據分析、系統執行經驗等)",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MS SQL、MySQL、PostgreSQL、Excel、Outlook、PowerPoint、Word、ArcGis、GIS、SuperGIS、SAS\n其他條件：1. 主動積極、態度正面，具抗壓性，有獨立分析、規劃及提案能力。\n2. 具有GIS領域知識及系統規劃、建構經驗。\n3. 擁有高效率的自學能力及不吝與人分享。\n4. 具開創性思維、思考及邏輯能力佳，擅長團隊合作與溝通協調能力。\n5. 擅長簡報能力製作，穩健台風與流暢口條進行簡報說明。\n6. 英文能力：聽、說、讀、寫(中等)\n7. 面試時，請說明個人專案執行經驗(含GIS、數據分析、系統執行經驗等)",
+    "tools": [
+      "MS SQL",
+      "MySQL",
+      "PostgreSQL",
+      "Excel",
+      "Outlook",
+      "PowerPoint",
+      "Word",
+      "ArcGis",
+      "GIS",
+      "SuperGIS",
+      "SAS"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 59
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:47:39+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "本職缺只接受國泰人壽徵才網站的履歷表，請立即至以下網址登錄您的資料：https://pse.is/57uztc\n善用圖資工具結合數據追蹤與分析，針對策略性問題提出數據產出、評估與應用，並持續針對專案內容優化與修正。\n1.數據資料流/系統類專案需求訪談、撰寫需求說明書、測試等作業。\n2.圖資專案資料分析管理及圖資處理作業。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "數據分析師／資料分析師",
+            "資料庫管理人員",
+            "其他專案管理師"
+          ],
+          "label": "職務類別",
+          "text": "數據分析師／資料分析師、資料庫管理人員、其他專案管理師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市大安區仁愛路四段296號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "本職缺只接受國泰人壽徵才網站的履歷表，請立即至以下網址登錄您的資料：https://pse.is/57uztc\n善用圖資工具結合數據追蹤與分析，針對策略性問題提出數據產出、評估與應用，並持續針對專案內容優化與修正。\n1.數據資料流/系統類專案需求訪談、撰寫需求說明書、測試等作業。\n2.圖資專案資料分析管理及圖資處理作業。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "MS SQL",
+            "MySQL",
+            "PostgreSQL",
+            "Excel",
+            "Outlook",
+            "PowerPoint",
+            "Word",
+            "ArcGis",
+            "GIS",
+            "SuperGIS",
+            "SAS"
+          ],
+          "label": "擅長工具",
+          "text": "MS SQL、MySQL、PostgreSQL、Excel、Outlook、PowerPoint、Word、ArcGis、GIS、SuperGIS、SAS",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1. 主動積極、態度正面，具抗壓性，有獨立分析、規劃及提案能力。\n2. 具有GIS領域知識及系統規劃、建構經驗。\n3. 擁有高效率的自學能力及不吝與人分享。\n4. 具開創性思維、思考及邏輯能力佳，擅長團隊合作與溝通協調能力。\n5. 擅長簡報能力製作，穩健台風與流暢口條進行簡報說明。\n6. 英文能力：聽、說、讀、寫(中等)\n7. 面試時，請說明個人專案執行經驗(含GIS、數據分析、系統執行經驗等)",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：大學、碩士\n語文條件：英文：中等、中等、中等、中等\n擅長工具：MS SQL、MySQL、PostgreSQL、Excel、Outlook、PowerPoint、Word、ArcGis、GIS、SuperGIS、SAS\n其他條件：1. 主動積極、態度正面，具抗壓性，有獨立分析、規劃及提案能力。\n2. 具有GIS領域知識及系統規劃、建構經驗。\n3. 擁有高效率的自學能力及不吝與人分享。\n4. 具開創性思維、思考及邏輯能力佳，擅長團隊合作與溝通協調能力。\n5. 擅長簡報能力製作，穩健台風與流暢口條進行簡報說明。\n6. 英文能力：聽、說、讀、寫(中等)\n7. 面試時，請說明個人專案執行經驗(含GIS、數據分析、系統執行經驗等)"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "83c9h",
+    "job_url": "https://www.104.com.tw/job/83c9h",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/83c9h.json",
+    "raw_sha256": "4d1fee92e8afdca2a6d3c37a63fa9eeeac01a755bc85cbf2f339ecb245c26c7f",
+    "requested_url": "https://www.104.com.tw/api/jobs/83c9h"
+  }
+}

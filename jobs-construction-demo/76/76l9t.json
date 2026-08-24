@@ -1,0 +1,188 @@
+{
+  "company": {
+    "id": "1a2x6blghh",
+    "name": "鴻華先進科技股份有限公司"
+  },
+  "job": {
+    "categories": [
+      "電子工程師",
+      "軟體工程師"
+    ],
+    "description": {
+      "items": [],
+      "text": "Your Responsibilities\n Contribute to the design, development, and implementation of ADAS features.\n Collaborate on the creation and refinement of algorithms that interpret sensor data (e.g., cameras, radar, LiDAR) to enable accurate detection, classification, and decision-making for ADAS functionalities.\n Work closely with software engineers to integrate ADAS algorithms into the overall vehicle software architecture, ensuring seamless functionality and performance.\n Conduct thorough testing, validation, and verification of ADAS features through simulation tools and real-world testing to ensure reliability, accuracy, and safety under various conditions.\n Analyze system performance, identify bottlenecks, and propose optimizations to enhance the efficiency and effectiveness of ADAS functionalities.\n Collaborate with cross-functional teams including hardware engineers, system architects, and vehicle dynamics specialists to ensure holistic integration and performance of ADAS systems.\nYou Have\n Bachelor’s degree or higher in Electrical Engineering, Computer Science, or a related technical field. Advanced degree preferred.\n Proficiency in programming languages such as C++, Python, or similar languages used in algorithm development for ADAS.\n Experience with embedded systems.\n Strong understanding of sensor technologies, signal processing, and sensor fusion techniques used in automotive applications.\n Knowledge of machine learning, computer vision, or artificial intelligence applied to ADAS.\nGreat to Have\n 3 years of experience in ADAS development, automotive engineering, or related fields.\n Experience with real-time operating systems, and software development for automotive applications.\n Experience with relevant tools and frameworks used in ADAS development and testing (e.g., MATLAB, Simulink, ROS, etc.).\n Track record of successful implementation or contributions to commercial ADAS systems.\n Excellent problem-solving skills, analytical thinking, and attention to detail.\n Familiarity with automotive industry standards, safety protocols, and regulatory requirements related to ADAS."
+    },
+    "employment_type_raw": "全職",
+    "title": "ADAS系統設計工程師-F01"
+  },
+  "location": {
+    "address_raw": "新北市新店區寶高路26號",
+    "raw": "新北市新店區寶高路26號"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "大學、碩士",
+    "experience_raw": "3年以上",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "3年以上"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "大學、碩士"
+      },
+      {
+        "items": [
+          "工程學科類",
+          "資訊工程相關"
+        ],
+        "label": "科系要求",
+        "text": "工程學科類、資訊工程相關"
+      },
+      {
+        "items": [
+          "英文：中等、中等、中等、中等"
+        ],
+        "label": "語文條件",
+        "text": "英文：中等、中等、中等、中等"
+      },
+      {
+        "items": [
+          "C++",
+          "Python"
+        ],
+        "label": "擅長工具",
+        "text": "C++、Python"
+      }
+    ],
+    "languages": [
+      "英文：中等、中等、中等、中等"
+    ],
+    "majors": [
+      "工程學科類",
+      "資訊工程相關"
+    ],
+    "other_text": null,
+    "skills": [],
+    "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：工程學科類、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Python",
+    "tools": [
+      "C++",
+      "Python"
+    ]
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 62
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T03:53:49+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "Your Responsibilities\n Contribute to the design, development, and implementation of ADAS features.\n Collaborate on the creation and refinement of algorithms that interpret sensor data (e.g., cameras, radar, LiDAR) to enable accurate detection, classification, and decision-making for ADAS functionalities.\n Work closely with software engineers to integrate ADAS algorithms into the overall vehicle software architecture, ensuring seamless functionality and performance.\n Conduct thorough testing, validation, and verification of ADAS features through simulation tools and real-world testing to ensure reliability, accuracy, and safety under various conditions.\n Analyze system performance, identify bottlenecks, and propose optimizations to enhance the efficiency and effectiveness of ADAS functionalities.\n Collaborate with cross-functional teams including hardware engineers, system architects, and vehicle dynamics specialists to ensure holistic integration and performance of ADAS systems.\nYou Have\n Bachelor’s degree or higher in Electrical Engineering, Computer Science, or a related technical field. Advanced degree preferred.\n Proficiency in programming languages such as C++, Python, or similar languages used in algorithm development for ADAS.\n Experience with embedded systems.\n Strong understanding of sensor technologies, signal processing, and sensor fusion techniques used in automotive applications.\n Knowledge of machine learning, computer vision, or artificial intelligence applied to ADAS.\nGreat to Have\n 3 years of experience in ADAS development, automotive engineering, or related fields.\n Experience with real-time operating systems, and software development for automotive applications.\n Experience with relevant tools and frameworks used in ADAS development and testing (e.g., MATLAB, Simulink, ROS, etc.).\n Track record of successful implementation or contributions to commercial ADAS systems.\n Excellent problem-solving skills, analytical thinking, and attention to detail.\n Familiarity with automotive industry standards, safety protocols, and regulatory requirements related to ADAS.",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "電子工程師",
+            "軟體工程師"
+          ],
+          "label": "職務類別",
+          "text": "電子工程師、軟體工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "新北市新店區寶高路26號",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "Your Responsibilities\n Contribute to the design, development, and implementation of ADAS features.\n Collaborate on the creation and refinement of algorithms that interpret sensor data (e.g., cameras, radar, LiDAR) to enable accurate detection, classification, and decision-making for ADAS functionalities.\n Work closely with software engineers to integrate ADAS algorithms into the overall vehicle software architecture, ensuring seamless functionality and performance.\n Conduct thorough testing, validation, and verification of ADAS features through simulation tools and real-world testing to ensure reliability, accuracy, and safety under various conditions.\n Analyze system performance, identify bottlenecks, and propose optimizations to enhance the efficiency and effectiveness of ADAS functionalities.\n Collaborate with cross-functional teams including hardware engineers, system architects, and vehicle dynamics specialists to ensure holistic integration and performance of ADAS systems.\nYou Have\n Bachelor’s degree or higher in Electrical Engineering, Computer Science, or a related technical field. Advanced degree preferred.\n Proficiency in programming languages such as C++, Python, or similar languages used in algorithm development for ADAS.\n Experience with embedded systems.\n Strong understanding of sensor technologies, signal processing, and sensor fusion techniques used in automotive applications.\n Knowledge of machine learning, computer vision, or artificial intelligence applied to ADAS.\nGreat to Have\n 3 years of experience in ADAS development, automotive engineering, or related fields.\n Experience with real-time operating systems, and software development for automotive applications.\n Experience with relevant tools and frameworks used in ADAS development and testing (e.g., MATLAB, Simulink, ROS, etc.).\n Track record of successful implementation or contributions to commercial ADAS systems.\n Excellent problem-solving skills, analytical thinking, and attention to detail.\n Familiarity with automotive industry standards, safety protocols, and regulatory requirements related to ADAS."
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "3年以上",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "大學、碩士",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "工程學科類",
+            "資訊工程相關"
+          ],
+          "label": "科系要求",
+          "text": "工程學科類、資訊工程相關",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "英文：中等、中等、中等、中等"
+          ],
+          "label": "語文條件",
+          "text": "英文：中等、中等、中等、中等",
+          "type": "key_value"
+        },
+        {
+          "items": [
+            "C++",
+            "Python"
+          ],
+          "label": "擅長工具",
+          "text": "C++、Python",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：3年以上\n學歷要求：大學、碩士\n科系要求：工程學科類、資訊工程相關\n語文條件：英文：中等、中等、中等、中等\n擅長工具：C++、Python"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "76l9t",
+    "job_url": "https://www.104.com.tw/job/76l9t",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/76l9t.json",
+    "raw_sha256": "76dae2a6a1936cda39452d7399ffb28e5f8a4b029e1ffefc6ee091a038b55ead",
+    "requested_url": "https://www.104.com.tw/api/jobs/76l9t"
+  }
+}

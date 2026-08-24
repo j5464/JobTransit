@@ -1,0 +1,195 @@
+{
+  "company": {
+    "id": "1jt7ol5",
+    "name": "國泰人壽保險股份有限公司_總公司_國泰金控"
+  },
+  "job": {
+    "categories": [
+      "數據分析師／資料分析師",
+      "雲端工程師"
+    ],
+    "description": {
+      "items": [
+        {
+          "children": [],
+          "text": "參與雲端數據架構發展規劃，設計資料處理、儲存、分析架構，以符合數據科學、數據分析、行銷應用等發展"
+        },
+        {
+          "children": [],
+          "text": "負責地端數據轉換雲端ETL Pipeline開發與維護、DevOps開發與維護"
+        },
+        {
+          "children": [],
+          "text": "負責雲端數據平台穩定及架構優化調整，以利數據應用發展"
+        },
+        {
+          "children": [],
+          "text": "負責監控/問題解決/維運升級 雲端數據應用服務平台"
+        },
+        {
+          "children": [],
+          "text": "負責雲端數據應用服務平台與 Kubernetes 叢集的日常維運、資源監控、問題排除與系統升級作業，確保平台與模型服務具備高可用性與可擴展性，並持續優化 CI/CD 自動化部署流程。"
+        },
+        {
+          "children": [],
+          "text": "協助維運數據分析與AI應用平台與機器學習與模型運行環境"
+        },
+        {
+          "children": [],
+          "text": "具備雲端大數據平台開發經驗，熟悉資料處理、儲存與分析流程，擁有建置 Data Pipeline／ETL／ELT 流程的實務經驗，具 AWS 經驗尤佳。"
+        },
+        {
+          "children": [],
+          "text": "具備大數據處理技術與生態系，如 Spark、Flink、Kafka、Airflow、Glue 等，並具備 Python、Scala 或 Java 等程式語言開發能力。"
+        },
+        {
+          "children": [],
+          "text": "具備資料庫技術與資料查詢，包含關聯式資料庫（PostgreSQL、MySQL）與 NoSQL（MongoDB、Cassandra、DynamoDB）操作與優化經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備 DevOps 流程、容器化（Docker/Kubernetes）與模型部署CI/CD pipeline建置經驗。"
+        },
+        {
+          "children": [],
+          "text": "具備系統整合與 API 設計能力，熟悉 RESTful API 架構與開發（如 Flask、FastAPI），並具備 UNIX 環境下的開發與操作經驗。"
+        },
+        {
+          "children": [],
+          "text": "具有導入 Apache Iceberg / Delta Lake / Hudi 的實作經驗"
+        },
+        {
+          "children": [],
+          "text": "持有雲端相關認證（如 AWS Certified Data Engineer、Google Cloud Professional Data Engineer 等）"
+        }
+      ],
+      "text": "【工作內容】\n1. 參與雲端數據架構發展規劃，設計資料處理、儲存、分析架構，以符合數據科學、數據分析、行銷應用等發展\n2. 負責地端數據轉換雲端ETL Pipeline開發與維護、DevOps開發與維護\n3. 負責雲端數據平台穩定及架構優化調整，以利數據應用發展\n4. 負責監控/問題解決/維運升級 雲端數據應用服務平台\n5. 負責雲端數據應用服務平台與 Kubernetes 叢集的日常維運、資源監控、問題排除與系統升級作業，確保平台與模型服務具備高可用性與可擴展性，並持續優化 CI/CD 自動化部署流程。\n6. 協助維運數據分析與AI應用平台與機器學習與模型運行環境\n【需要甚麼技能/知識/職能】\n1. 具備雲端大數據平台開發經驗，熟悉資料處理、儲存與分析流程，擁有建置 Data Pipeline／ETL／ELT 流程的實務經驗，具 AWS 經驗尤佳。\n2. 具備大數據處理技術與生態系，如 Spark、Flink、Kafka、Airflow、Glue 等，並具備 Python、Scala 或 Java 等程式語言開發能力。\n3. 具備資料庫技術與資料查詢，包含關聯式資料庫（PostgreSQL、MySQL）與 NoSQL（MongoDB、Cassandra、DynamoDB）操作與優化經驗。\n4. 具備 DevOps 流程、容器化（Docker/Kubernetes）與模型部署CI/CD pipeline建置經驗。\n5. 具備系統整合與 API 設計能力，熟悉 RESTful API 架構與開發（如 Flask、FastAPI），並具備 UNIX 環境下的開發與操作經驗。\n【加分條件】\n1. 具有導入 Apache Iceberg / Delta Lake / Hudi 的實作經驗\n2. 持有雲端相關認證（如 AWS Certified Data Engineer、Google Cloud Professional Data Engineer 等）\n【未來發展(短中長期)】\n短期：熟悉金融保險業數據生態，負責數據平台開發維運。\n中期：與數據應用團隊合作，依業務場景設計並開發數據平台架構。\n長期：關注數據生態創新架構，規劃公司數據架構藍圖，支撐企業數據發展。"
+    },
+    "employment_type_raw": "全職",
+    "title": "【資訊專才】數據平台工程師_I00022311"
+  },
+  "location": {
+    "address_raw": "台北市內湖區",
+    "raw": "台北市內湖區"
+  },
+  "quality": {
+    "status": "ok",
+    "warnings": []
+  },
+  "requirements": {
+    "education_raw": "不拘",
+    "experience_raw": "不拘",
+    "key_values": [
+      {
+        "items": [],
+        "label": "工作經歷",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "學歷要求",
+        "text": "不拘"
+      },
+      {
+        "items": [],
+        "label": "其他條件",
+        "text": "1.大學日間部以上，理、工、商、管理學院相關系所畢業。\n2.具備雲端證照者佳。\n3.熟悉AWS、GCP 雲端平台經驗經驗尤佳。"
+      }
+    ],
+    "languages": [],
+    "majors": [],
+    "other_text": "1.大學日間部以上，理、工、商、管理學院相關系所畢業。\n2.具備雲端證照者佳。\n3.熟悉AWS、GCP 雲端平台經驗經驗尤佳。",
+    "skills": [],
+    "text": "工作經歷：不拘\n學歷要求：不拘\n其他條件：1.大學日間部以上，理、工、商、管理學院相關系所畢業。\n2.具備雲端證照者佳。\n3.熟悉AWS、GCP 雲端平台經驗經驗尤佳。",
+    "tools": []
+  },
+  "run": {
+    "query": {
+      "area": "台灣地區",
+      "employment_type": "全職",
+      "jobcat_code": "2007001000",
+      "jobcat_name": "軟體／工程類人員",
+      "search_page": 33
+    },
+    "run_id": "20260822T012016870112+0800",
+    "scraped_at": "2026-08-22T02:43:32+08:00"
+  },
+  "salary": {
+    "raw": "待遇面議"
+  },
+  "schema_version": "2.0",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "text": "【工作內容】\n1. 參與雲端數據架構發展規劃，設計資料處理、儲存、分析架構，以符合數據科學、數據分析、行銷應用等發展\n2. 負責地端數據轉換雲端ETL Pipeline開發與維護、DevOps開發與維護\n3. 負責雲端數據平台穩定及架構優化調整，以利數據應用發展\n4. 負責監控/問題解決/維運升級 雲端數據應用服務平台\n5. 負責雲端數據應用服務平台與 Kubernetes 叢集的日常維運、資源監控、問題排除與系統升級作業，確保平台與模型服務具備高可用性與可擴展性，並持續優化 CI/CD 自動化部署流程。\n6. 協助維運數據分析與AI應用平台與機器學習與模型運行環境\n【需要甚麼技能/知識/職能】\n1. 具備雲端大數據平台開發經驗，熟悉資料處理、儲存與分析流程，擁有建置 Data Pipeline／ETL／ELT 流程的實務經驗，具 AWS 經驗尤佳。\n2. 具備大數據處理技術與生態系，如 Spark、Flink、Kafka、Airflow、Glue 等，並具備 Python、Scala 或 Java 等程式語言開發能力。\n3. 具備資料庫技術與資料查詢，包含關聯式資料庫（PostgreSQL、MySQL）與 NoSQL（MongoDB、Cassandra、DynamoDB）操作與優化經驗。\n4. 具備 DevOps 流程、容器化（Docker/Kubernetes）與模型部署CI/CD pipeline建置經驗。\n5. 具備系統整合與 API 設計能力，熟悉 RESTful API 架構與開發（如 Flask、FastAPI），並具備 UNIX 環境下的開發與操作經驗。\n【加分條件】\n1. 具有導入 Apache Iceberg / Delta Lake / Hudi 的實作經驗\n2. 持有雲端相關認證（如 AWS Certified Data Engineer、Google Cloud Professional Data Engineer 等）\n【未來發展(短中長期)】\n短期：熟悉金融保險業數據生態，負責數據平台開發維運。\n中期：與數據應用團隊合作，依業務場景設計並開發數據平台架構。\n長期：關注數據生態創新架構，規劃公司數據架構藍圖，支撐企業數據發展。",
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            "數據分析師／資料分析師",
+            "雲端工程師"
+          ],
+          "label": "職務類別",
+          "text": "數據分析師／資料分析師、雲端工程師",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作待遇",
+          "text": "待遇面議",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "工作性質",
+          "text": "全職",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "上班地點",
+          "text": "台北市內湖區",
+          "type": "key_value"
+        }
+      ],
+      "heading": "工作內容",
+      "text": "【工作內容】\n1. 參與雲端數據架構發展規劃，設計資料處理、儲存、分析架構，以符合數據科學、數據分析、行銷應用等發展\n2. 負責地端數據轉換雲端ETL Pipeline開發與維護、DevOps開發與維護\n3. 負責雲端數據平台穩定及架構優化調整，以利數據應用發展\n4. 負責監控/問題解決/維運升級 雲端數據應用服務平台\n5. 負責雲端數據應用服務平台與 Kubernetes 叢集的日常維運、資源監控、問題排除與系統升級作業，確保平台與模型服務具備高可用性與可擴展性，並持續優化 CI/CD 自動化部署流程。\n6. 協助維運數據分析與AI應用平台與機器學習與模型運行環境\n【需要甚麼技能/知識/職能】\n1. 具備雲端大數據平台開發經驗，熟悉資料處理、儲存與分析流程，擁有建置 Data Pipeline／ETL／ELT 流程的實務經驗，具 AWS 經驗尤佳。\n2. 具備大數據處理技術與生態系，如 Spark、Flink、Kafka、Airflow、Glue 等，並具備 Python、Scala 或 Java 等程式語言開發能力。\n3. 具備資料庫技術與資料查詢，包含關聯式資料庫（PostgreSQL、MySQL）與 NoSQL（MongoDB、Cassandra、DynamoDB）操作與優化經驗。\n4. 具備 DevOps 流程、容器化（Docker/Kubernetes）與模型部署CI/CD pipeline建置經驗。\n5. 具備系統整合與 API 設計能力，熟悉 RESTful API 架構與開發（如 Flask、FastAPI），並具備 UNIX 環境下的開發與操作經驗。\n【加分條件】\n1. 具有導入 Apache Iceberg / Delta Lake / Hudi 的實作經驗\n2. 持有雲端相關認證（如 AWS Certified Data Engineer、Google Cloud Professional Data Engineer 等）\n【未來發展(短中長期)】\n短期：熟悉金融保險業數據生態，負責數據平台開發維運。\n中期：與數據應用團隊合作，依業務場景設計並開發數據平台架構。\n長期：關注數據生態創新架構，規劃公司數據架構藍圖，支撐企業數據發展。"
+    },
+    {
+      "blocks": [
+        {
+          "items": [],
+          "label": "工作經歷",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "學歷要求",
+          "text": "不拘",
+          "type": "key_value"
+        },
+        {
+          "items": [],
+          "label": "其他條件",
+          "text": "1.大學日間部以上，理、工、商、管理學院相關系所畢業。\n2.具備雲端證照者佳。\n3.熟悉AWS、GCP 雲端平台經驗經驗尤佳。",
+          "type": "key_value"
+        }
+      ],
+      "heading": "條件要求",
+      "text": "工作經歷：不拘\n學歷要求：不拘\n其他條件：1.大學日間部以上，理、工、商、管理學院相關系所畢業。\n2.具備雲端證照者佳。\n3.熟悉AWS、GCP 雲端平台經驗經驗尤佳。"
+    }
+  ],
+  "source": {
+    "display_date_raw": "2026/08/21",
+    "html_sha256": null,
+    "job_id": "8qhgj",
+    "job_url": "https://www.104.com.tw/job/8qhgj",
+    "name": "104",
+    "raw_html_path": null,
+    "raw_payload_path": "raw-root://20260822T012016870112+0800/detail/8qhgj.json",
+    "raw_sha256": "f314d944fe96d0ad3e51483ada19fb691782ba5e5ce841134cba0423d13b0396",
+    "requested_url": "https://www.104.com.tw/api/jobs/8qhgj"
+  }
+}

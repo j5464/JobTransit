@@ -3,6 +3,8 @@ import random
 import requests
 from export_to_json import save_jobs_to_json
 from urllib.parse import urlparse
+import os
+import json
 
 base_url = "https://www.104.com.tw/jobs/search/api/jobs"
 # Referer https://www.104.com.tw/jobs/search/?jobcat=2007002000&jobsource=index_s&mode=s&page=1
@@ -12,8 +14,19 @@ headers = {
 }
 # 建立 jobcat list
 jobcats = ['2007001013','2007001014']
+output_file = "job_id_list.json"
 # 用set存取 job_id，避免重複添加
-job_ids = set()
+jobs_dict = {}  # key: job_id, value: item_dict
+# --- 斷點續傳核心：讀取舊有已爬取的 ID ---
+if os.path.exists(output_file):
+    try:
+        with open(output_file, "r", encoding="utf-8") as f:
+            existing_data = json.load(f)
+            for item in existing_data:
+                jobs_dict[item["job_id"]] = item
+                print(f"[續傳機制] 成功載入歷史紀錄，已有 {len(jobs_dict)} 筆 Job ID。")
+    except Exception as e:
+        print(f"[警告] 讀取歷史檔案失敗 ({e})，將從頭開始。")
 
 # jobcat list 迴圈 params 的 jobcat
 for jobcat in jobcats:
@@ -21,7 +34,7 @@ for jobcat in jobcats:
     page = 1  # 2. 每個類別開始前初始化 page
     while True:
         params = {
-            "jobcat": {jobcat},
+            "jobcat": jobcat,
             "jobsource": "index104",
             "page": page
         }
@@ -42,17 +55,26 @@ for jobcat in jobcats:
                 if not jobs:
                     print("已無更多職缺資料，結束撈取。")
                     break
-                    
+
+                new_added_count = 0    
                 for job in jobs:
                     raw_url = job.get("link", {}).get("job", "")
                     if raw_url:
                         path = urlparse(raw_url).path.strip().rstrip("/")
                         job_id = path.split("/")[-1]
-                        if job_id and job_id not in job_ids:
-                            job_ids.add(job_id)
+                        # 若 ID 不存在才新增，維持預設 PENDING 狀態
+                        if job_id and job_id not in jobs_dict:
+                            jobs_dict[job_id] = {
+                                "job_id": job_id,
+                                "status": "PENDING"
+                            }
+                            new_added_count += 1
 
-                print(f"-> 第 {page} 頁撈取成功，取得 {len(jobs)} 筆資料。")
+                print(f"-> 第 {page} 頁撈取成功，新增 {new_added_count} 筆不重複 ID (總計: {len(jobs_dict)} 筆)。")
                 page += 1
+
+                # 每頁成功時即時更新 JSON 檔案，防止突發斷電中斷
+                save_jobs_to_json(list(jobs_dict.values()), output_json_path=output_file)
             else:
                 print(f"-> 第 {page} 頁請求失敗，HTTP 狀態碼: {response.status_code}")
                 break
@@ -61,9 +83,5 @@ for jobcat in jobcats:
             print(f"-> 發生例外錯誤: {e}")
             break
 
-# 匯出至 json (使用你原本寫好的 export_to_json 模組)
-if job_ids:
-    save_jobs_to_json(list(job_ids), output_json_path="job_id_list.json")
-    print(f"\n成功匯出 {len(job_ids)} 筆不重複的 job_id 至 job_id_list.json")
-else:
-    print("\n未撈取到任何資料。")
+print(f"\n目前共有 {len(jobs_dict)} 筆 Job ID 儲存於 {output_file}")
+

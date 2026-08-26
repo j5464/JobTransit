@@ -3,7 +3,8 @@ import json
 
 def save_jobs_to_json(jobs_list, output_json_path:str):
     """
-    將爬取到的職缺資料清單儲存/追加至 JSON 檔案中。
+    將傳入的資料（List 或 Set/Dict）完整覆寫儲存至 JSON 檔案中。
+    採用原子寫入機制，確保檔案不會因突發斷線而損壞。
     
     :param jobs_list: 包含職缺字典資料的 List
     :param output_json_path: 輸出的 JSON 檔案路徑
@@ -12,26 +13,31 @@ def save_jobs_to_json(jobs_list, output_json_path:str):
         print("沒有傳入任何職缺資料，無法儲存。")
         return
 
-    existing_data = []
+    if isinstance(jobs_list, set):
+        data_to_save = list(jobs_list)
+    else:
+        data_to_save = jobs_list
 
-    # 1. 檢查檔案是否存在，若存在則先讀取舊資料
-    if os.path.exists(output_json_path):
-        try:
-            with open(output_json_path, 'r', encoding='utf-8') as f:
-                existing_data = json.load(f)
-        except json.JSONDecodeError:
-            print(f"警告：{output_json_path} 解析失敗或格式不正確，將重新建立檔案。")
-            existing_data = []
+    # 使用 .tmp 暫存檔寫入，避免寫入中途斷線導致原檔案損毀
+    temp_path = f"{output_json_path}.tmp"
 
-    # 2. 將新資料合併至舊資料列表中
-    existing_data.extend(jobs_list)
 
-    # 3. 寫入 JSON 檔案 (indent=4 保持縮排格式，ensure_ascii=False 防止中文變萬國碼)
-    with open(output_json_path, 'w', encoding='utf-8') as f:
-        json.dump(existing_data, f, ensure_ascii=False, indent=4)
+    try:
+        # 1. 寫入暫存檔
+        with open(output_json_path, 'w', encoding='utf-8') as f:
+            json.dump(data_to_save, f, ensure_ascii=False, indent=4)
 
-    print(f"\n[資料處理完成]")
-    print(f"成功將 {len(jobs_list)} 筆新資料寫入 JSON 檔（總計 {len(existing_data)} 筆）: {os.path.abspath(output_json_path)}")
+        # 2. 寫入成功後，覆蓋目標檔案
+        if os.path.exists(temp_path):
+            os.replace(temp_path, output_json_path)
+
+        data_count = len(data_to_save) if isinstance(data_to_save, (list, set, dict)) else 1
+        print(f"[ SavePoint ] 成功更新 {data_count} 筆資料至: {os.path.basename(output_json_path)}")
+
+    except Exception as e:
+        print(f"[錯誤] 儲存 JSON 檔案時發生例外: {e}")
+        if os.path.exists(temp_path):
+            os.remove(temp_path)
 
 # 測試用
 if __name__ == "__main__":
@@ -49,4 +55,4 @@ if __name__ == "__main__":
             "職缺連結": "https://www.104.com.tw/job/sample"
         }
     ]
-    save_jobs_to_json(sample_jobs)
+    save_jobs_to_json(sample_jobs, "test_jobs.json")

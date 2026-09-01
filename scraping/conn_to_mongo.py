@@ -5,7 +5,7 @@ from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 
 #建立與 MongoDB 的連線，並回傳指定的 Collection
-def conn_to_mongodb():
+def conn_to_mongodb(collection_name: str):
     connection = "mongodb://localhost:27017/"
     try:
 
@@ -18,7 +18,7 @@ def conn_to_mongodb():
         db = client['tkr102']
 
         #使用(創建)文檔集
-        collection = db['job_detail']
+        collection = db[collection_name]
 
         return collection
 

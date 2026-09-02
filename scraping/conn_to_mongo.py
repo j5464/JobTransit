@@ -1,6 +1,6 @@
 #安裝 pymongo：python -m pip install pymongo (uv add pymongo)
 #升級 pymongo：python -m pip install --upgrade pymongo
-#辨識.env檔：uv add python-dotenv
+#辨識.env檔：uv add python-dotenv (帳號密碼)
 
 import os
 from dotenv import load_dotenv

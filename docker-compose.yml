@@ -1,9 +1,10 @@
 #此為mongo in docker的設定檔 (含gui)
 #先uv sync (依照當前pyproject)
-#到指定目錄中：.venv\Scripts\Activate5
+#到指定虛擬環境：.venv\Scripts\Activate5
 #啟用： docker-compose up -d
-#在3T中輸入 mongodb://root:secretpassword@localhost:27017/
+#在Studio 3T中輸入 mongodb://root:secretpassword@localhost:27017/
 #關閉：docker-compose down
+#退出虛擬環境：deactivate
 
 version: '3.8'
 

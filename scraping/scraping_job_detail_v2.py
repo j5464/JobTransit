@@ -4,15 +4,7 @@ import requests
 import json
 import os
 from export_to_json import save_jobs_to_json
-
-def load_json(file_path):
-    if os.path.exists(file_path):
-        try:
-            with open(file_path, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception:
-            return []
-    return []
+from json_to_mongo import get_pending_jobs,update_job_status_to_complete,insert_job_detail
 
 def get_job_detail(session, job_id):
     detail_url = f"https://www.104.com.tw/api/jobs/{job_id}"
@@ -38,17 +30,12 @@ def get_job_detail(session, job_id):
 
 def each_job_web():
     # --- 主程式執行 ---
-    JOB_ID_FILE = "job_id_list.json"
-    SUCCESS_DETAILS_FILE = "all_job_details.json"
-    jobs_list = load_json(JOB_ID_FILE)
-    collected_details = load_json(SUCCESS_DETAILS_FILE)
-
 
     # 篩選出 status 為 PENDING 的項目
-    pending_jobs = [item for item in jobs_list if item.get("status") == "PENDING"]
+    pending_jobs = get_pending_jobs()
 
     print(f"=== 狀態檢查 ===")
-    print(f"總筆數: {len(jobs_list)} | 待處理 (PENDING): {len(pending_jobs)}")
+    print(f"待處理 (PENDING): {len(pending_jobs)}")
 
     if not pending_jobs:
         print("所有職缺皆已處理完成！")
@@ -59,6 +46,7 @@ def each_job_web():
     # 初始化先訪問一次主頁取得 Cookie 即可
     session.get("https://www.104.com.tw/jobs/main/", headers={"User-Agent": "Mozilla/5.0"})
 
+    # with 連線 as 
     for i, status in enumerate(pending_jobs, 1):
         time.sleep(random.uniform(0.5, 1.5))  # 適度縮短等待時間
 
@@ -66,21 +54,14 @@ def each_job_web():
         detail_data = get_job_detail(session, job_id)
 
         if detail_data:
-            collected_details.append(detail_data)
-            status["status"] = "COMPLETED"  # 更新狀態為完成
-            print(f"[{i}/{len(pending_jobs)}] 成功撈取職缺: {job_id}")
+            # collected_details.append(detail_data)
+            insert_job_detail(detail_data)
+            # status["status"] = "COMPLETED"  # 更新狀態為完成
+            update_job_status_to_complete(job_id)
+            print(f"[{i}/{len(pending_jobs)}] 成功存取職缺: {job_id}")
         else:
             print(f"[{i}/{len(pending_jobs)}] 跳過職缺: {job_id}")
 
-        # 每 50 筆儲存一次狀態與明細資料
-        if i % 50 == 0:
-            save_jobs_to_json(jobs_list, output_json_path=JOB_ID_FILE)
-            save_jobs_to_json(collected_details, output_json_path=SUCCESS_DETAILS_FILE)
-            print(f"=== [SavePoint] 已備份進度至第 {i} 筆 ===")
-
-    # 最後全量存檔
-    save_jobs_to_json(jobs_list, output_json_path=JOB_ID_FILE)
-    save_jobs_to_json(collected_details, output_json_path=SUCCESS_DETAILS_FILE)
     print(f"\n=== 本次批次執行完成！ ===")
 
 each_job_web()

@@ -2,7 +2,7 @@
 #先uv sync (依照當前pyproject)
 #到指定虛擬環境：.venv\Scripts\Activate5
 #啟用： docker-compose up -d
-#在Studio 3T中輸入 mongodb://root:secretpassword@localhost:27017/
+#在Studio 3T中輸入 mongodb://root:secretpassword@localhost:27018/
 #關閉：docker-compose down
 #退出虛擬環境：deactivate
 
@@ -19,7 +19,7 @@ services:
       MONGO_INITDB_ROOT_PASSWORD: secretpassword
     ports:
       # 將主機的 27017 埠對應到容器的 27017 埠
-      - "27017:27017"
+      - "27018:27017"
     volumes:
       # 將資料庫檔案掛載到本地的 mongo_data 資料夾，這樣容器關閉資料才不會不見
       - ./mongo_data:/data/db

@@ -1,11 +1,7 @@
 from datetime import datetime, timedelta
-
-import pandas as pd
 from airflow.sdk import dag
-from tasks.airflow_job_id import get_job_id
-from tasks.job_detail import each_job_web
-from tasks.export_to_json import save_jobs_to_json
-
+from tasks.scraping_job_id import get_job_id
+from tasks.scraping_job_detail import each_job_web
 
 # Default arguments for the DAG
 default_args = {
@@ -28,8 +24,10 @@ default_args = {
     tags=["example", "decorator"]  # Optional: Add tags for better filtering in the UI
 )
 def JobTransit_crawler():
-    get_job_id()
-    each_job_web()
+    t1 = get_job_id()
+    t2 = each_job_web()
+
+    t1 >> t2
 
 # 主執行
 JobTransit_crawler()

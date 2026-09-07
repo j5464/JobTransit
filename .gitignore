@@ -1,3 +1,8 @@
+#leo_ignore
+mongo_data/
+extract_data_test.py
+job_details.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

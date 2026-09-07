@@ -1,8 +1,11 @@
 [project]
-name = "venv"
+name = "tkr102-g1"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
+authors = [
+    { name = "111304052", email = "leotsai0508@gmail.com" }
+]
 requires-python = ">=3.11, <3.14"
 dependencies = [
     "apache-airflow-task-sdk",
@@ -22,7 +25,9 @@ dependencies = [
     "webdriver-manager>=4.0.2",
     "yfinance>=1.0",
 ]
+[project.scripts]
+tkr102-g1 = "tkr102_g1:main"
 
-[tool.uv.sources]
-apache-airflow-task-sdk = { git = "https://github.com/apache/airflow.git", subdirectory = "task-sdk", rev = "main" }
-
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"

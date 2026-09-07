@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 from airflow.sdk import dag
-from tasks.scraping_job_id import get_job_id
+from tasks.scraping_job_id_daily import get_job_id
 from tasks.scraping_job_detail_daily import each_job_web
 
 # Default arguments for the DAG
@@ -28,6 +28,8 @@ def JobTransit_crawler():
     t2 = each_job_web()
 
     t1 >> t2
+
+
 
 # 主執行
 JobTransit_crawler()

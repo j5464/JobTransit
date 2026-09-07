@@ -1,9 +1,6 @@
 import time
 import random
 import requests
-import json
-import os
-from export_to_json import save_jobs_to_json
 from json_to_mongo import get_pending_jobs,update_job_status_to_complete,insert_job_detail
 
 def get_job_detail(session, job_id):

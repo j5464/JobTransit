@@ -2805,6 +2805,53 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
+=======
+name = "tkr102-g1"
+version = "0.1.0"
+source = { editable = "." }
+dependencies = [
+    { name = "apache-airflow-task-sdk" },
+    { name = "beautifulsoup4" },
+    { name = "curl-cffi" },
+    { name = "kaggle" },
+    { name = "matplotlib" },
+    { name = "numpy", version = "2.4.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.12'" },
+    { name = "numpy", version = "2.5.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.12'" },
+    { name = "openpyxl" },
+    { name = "pandas" },
+    { name = "pymongo" },
+    { name = "python-dateutil" },
+    { name = "requests" },
+    { name = "seaborn" },
+    { name = "selenium" },
+    { name = "setuptools" },
+    { name = "webdriver-manager" },
+    { name = "yfinance" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "apache-airflow-task-sdk" },
+    { name = "beautifulsoup4", specifier = ">=4.14.3" },
+    { name = "curl-cffi", specifier = ">=0.15.0" },
+    { name = "kaggle", specifier = ">=1.8.3" },
+    { name = "matplotlib", specifier = ">=3.10.8" },
+    { name = "numpy", specifier = "!=2.4.0" },
+    { name = "openpyxl", specifier = ">=3.1.5" },
+    { name = "pandas", specifier = ">=2.3.3" },
+    { name = "pymongo", specifier = ">=4.16.0" },
+    { name = "python-dateutil", specifier = ">=2.9.0.post0" },
+    { name = "requests", specifier = ">=2.32.5" },
+    { name = "seaborn", specifier = ">=0.13.2" },
+    { name = "selenium", specifier = ">=4.39.0" },
+    { name = "setuptools", specifier = ">=84.0.0" },
+    { name = "webdriver-manager", specifier = ">=4.0.2" },
+    { name = "yfinance", specifier = ">=1.0" },
+]
+
+[[package]]
+>>>>>>> ed09f5b745577da886a9f21807a6ed4d5b7d3fd3
 name = "tqdm"
 version = "4.70.0"
 source = { registry = "https://pypi.org/simple" }
@@ -2987,6 +3034,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "venv"
 version = "0.1.0"
 source = { virtual = "." }
@@ -3031,6 +3079,8 @@ requires-dist = [
 ]
 
 [[package]]
+=======
+>>>>>>> ed09f5b745577da886a9f21807a6ed4d5b7d3fd3
 name = "watchfiles"
 version = "1.2.0"
 source = { registry = "https://pypi.org/simple" }

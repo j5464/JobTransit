@@ -1,6 +1,8 @@
+from pendulum import today
 from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 from urllib.parse import urlparse
+from datetime import datetime, timedelta
 
 #建立與 MongoDB 的連線，並回傳指定的 Collection
 def conn_to_mongodb(conn_ip:str,db_name: str,collection_name: str):
@@ -72,8 +74,6 @@ def tool_list():
             )
         print(f"成功將 {len(tools_set)} 筆不重複資料寫入/更新至 job_tools 集合！")
 
-
-
 def data_clear():
     # 連接到 MongoDB 並獲取指定的 collection
     collection = conn_to_mongodb('localhost', 'test', 'job_details')
@@ -114,6 +114,14 @@ def data_clear():
         }
         
         cleaned_data_list.append(cleaned_item)
+
+    # 把 cleaned_data_list 寫入 MongoDB 的 job_details_cleaned 集合
+    cleaned_collection = conn_to_mongodb("localhost", "test", "job_details_cleaned")
+    if cleaned_collection is not None:
+        #直接將 cleaned_item 寫入 MongoDB，使用 insert_many 批次寫入
+        if cleaned_data_list:
+            cleaned_collection.insert_many(cleaned_data_list)
+        print(f"成功將 {len(cleaned_data_list)} 筆資料寫入至 job_details_cleaned 集合！")
 
 def data_clear_tool():
     # 連接到 MongoDB 並獲取指定的 collection
@@ -207,5 +215,60 @@ def data_clear_tool():
                 )
         print(f"成功將 {len(cleaned_data_list_tools)} 筆不重複資料寫入/更新至 job_tools_detail 集合！")
 
-# tool_list()
+def data_clear_daily():
+    # 連接到 MongoDB 並獲取指定的 collection
+    collection = conn_to_mongodb('localhost', 'test', 'job_details')
+    if collection is None:
+        print("無法連線到 MongoDB，請檢查伺服器狀態。")
+        return
+    # 1. 從 MongoDB 取出資料 (使用 projection 僅讀取需要的欄位以優化效能)
+    # 只撈出 ingestion_timestamp = 當天的資料
+    today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+    tomorrow = today + timedelta(days=1)
+    cursor = collection.find({"ingestion_timestamp": {"$gte": today,"$lt": tomorrow,}}, {
+        "industry": 1,
+        "jobDetail": 1,
+        "condition": 1,
+        "ingestion_timestamp": 1
+    })
+
+    cleaned_data_list = []
+
+    # 2. 逐筆取出並清洗/組合欄位
+    for doc in cursor:
+        # 使用 .get() 搭配預設值，避免 KeyError 導致程式中斷
+        job_detail = doc.get("jobDetail", {})
+        #產業類別 > industry
+        industry_type = doc.get("industry", "")
+        # 職缺內容詳情
+        job_description = job_detail.get("jobDescription", "").strip()
+        # 招募人數
+        vacancies= job_detail.get("needEmp", 0)
+        # 工作性質(全職.兼職)
+        employment_type= job_detail.get("jobType", "")
+        # 工作區域
+        location= job_detail.get("addressArea", "")
+
+        # tool = condition.get("specialty", "")  #condition.other #jobDetail.jobDescription
+        cleaned_item = {
+            "industry": industry_type,
+            "job_description": job_description,
+            "vacancies": vacancies,
+            "employment_type": employment_type,
+            "location": location,
+        }
+        
+        cleaned_data_list.append(cleaned_item)
+
+    # 把 cleaned_data_list 寫入 MongoDB 的 job_details_cleaned 集合
+    cleaned_collection = conn_to_mongodb("localhost", "test", "job_details_cleaned")
+    if cleaned_collection is not None:
+        #直接將 cleaned_item 寫入 MongoDB，使用 insert_many 批次寫入
+        if cleaned_data_list:
+            cleaned_collection.insert_many(cleaned_data_list)
+        print(f"成功將 {len(cleaned_data_list)} 筆資料寫入至 job_details_cleaned 集合！")
+
+tool_list()
 data_clear_tool()
+data_clear()
+data_clear_daily()

@@ -1,3 +1,9 @@
+#封存ETL進度
+extract_data_test.py
+
+#省略爬蟲資料上傳
+job_details.json
+
 #避免實體資料庫檔案mongo_data上傳
 mongo_data/
 

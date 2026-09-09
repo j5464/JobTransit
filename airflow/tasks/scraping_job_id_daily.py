@@ -21,15 +21,16 @@ def parse_iso_date(date_str):
 
 @task
 def get_job_id():
+    # 取得今天的 UTC 日期 (用來做比對)
+    today_date = datetime.now(timezone.utc).date()
+    print(f"=== 今日排程啟動，目標撈取日期: {today_date} ===")
+
     base_url = "https://www.104.com.tw/jobs/search/api/jobs"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": "https://www.104.com.tw/jobs/search/"
     }
 
-    # 取得今天的 UTC 日期 (用來做比對)
-    today_date = datetime.now(timezone.utc).date()
-    print(f"=== 今日排程啟動，目標撈取日期: {today_date} ===")
 
     # 建立 jobcat list
     jobcats = [

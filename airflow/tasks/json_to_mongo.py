@@ -38,8 +38,8 @@ def get_pending_jobs():
 def update_job_status_to_complete(job_id):
     collection = conn_to_mongodb('job_ids')
     if collection is not None:
-        # update_one 第一個參數是查詢條件，第二個參數是 $set 更新內容
-        collection.update_one(
+        # 將相同 job_id 的所有文件狀態更新為 COMPLETED
+        collection.update_many(
             {"job_id": job_id}, 
             {"$set": {"status": "COMPLETED"}}
         )

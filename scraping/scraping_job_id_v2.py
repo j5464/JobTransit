@@ -1,10 +1,7 @@
 import time
 import random
 import requests
-from export_to_json import save_jobs_to_json
 from urllib.parse import urlparse
-import os
-import json
 from json_to_mongo import get_existing_job_ids,insert_new_job_ids
 
 def get_job_id():

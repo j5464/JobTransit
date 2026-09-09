@@ -33,8 +33,13 @@ def conn_to_mongodb(collection_name: str):
         print(f"連線失敗，請確認 MongoDB 伺服器是否有啟動。錯誤訊息: {e}")
 <<<<<<< Updated upstream
         return None
+<<<<<<< Updated upstream
 =======
         return None
+
+  
+>>>>>>> Stashed changes
+=======
 
   
 >>>>>>> Stashed changes

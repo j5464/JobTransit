@@ -12,7 +12,6 @@ def conn_to_mongodb(collection_name: str):
         #使用URI連結
         client = MongoClient(connection)
         client.admin.command('ping')
-        print("成功連線到 MongoDB!")
 
         #使用(創建)資料庫
         db = client['tkr102']

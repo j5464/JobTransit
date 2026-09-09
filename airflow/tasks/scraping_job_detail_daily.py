@@ -51,7 +51,7 @@ def each_job_web():
  
          if not pending_jobs:
              print("所有職缺皆已處理完成！")
-             exit()
+             return
  
          # with 連線 as 
          for record_idx, status in enumerate(pending_jobs, 1):
@@ -91,8 +91,8 @@ def each_job_web():
              # ---
                  insert_job_detail(detail_data)
                  update_job_status_to_complete(job_id)
-                 print(f"[{record_idx+1}/{len(pending_jobs)}] 成功存取職缺: {job_id}")
+                 print(f"[{record_idx}/{len(pending_jobs)}] 成功存取職缺: {job_id}")
              else:
-                 print(f"[{record_idx+1}/{len(pending_jobs)}] 跳過職缺: {job_id}")
+                 print(f"[{record_idx}/{len(pending_jobs)}] 跳過職缺: {job_id}")
  
          print(f"\n=== 本次批次執行完成！ ===")

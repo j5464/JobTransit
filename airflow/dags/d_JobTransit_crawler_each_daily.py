@@ -15,11 +15,11 @@ default_args = {
 }
 
 @dag(
-    dag_id="d_JobTransit_crawler",
+    dag_id="d_crawler_each_daily",
     default_args=default_args,
     description="An example DAG with Python operators",
-    schedule="* 10 10 * *",
-    start_date=datetime(2026, 9, 1),
+    schedule="55 23 * * *",
+    start_date=datetime(2026, 9, 9),
     catchup=False,
     tags=["example", "decorator"]  # Optional: Add tags for better filtering in the UI
 )

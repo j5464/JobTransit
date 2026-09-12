@@ -50,7 +50,7 @@ def conn_to_mysql(conn_ip:str,db_name: str,user:str,password:str,port:int = 3306
         print(f"連線失敗，請確認 MySQL 伺服器是否有啟動。錯誤訊息: {e}")
         return None
 
-# 將 job 寫入 MySQL 的 job 表格中，並依照指定欄位順序寫入
+# 將 job 寫入 MySQL 的 job_requirement 表格中
 def import_requirement_to_mysql(cleaned_data_list):
     mysql_conn = conn_to_mysql(
         conn_ip="10.2.19.84",
@@ -65,31 +65,24 @@ def import_requirement_to_mysql(cleaned_data_list):
 
     try:
         with mysql_conn.cursor() as cursor:
-            # 採用方案 A (MySQL 原生語法 ON DUPLICATE KEY UPDATE)
-            # MySQL 8.0+ 建議使用 new 別名語法，或 VALUES() 語法
+            # 三個欄位都是 PK，寫入時使用 INSERT IGNORE 避免重複鍵衝突錯誤
             sql = """
-                INSERT INTO job_requirement (
+                INSERT IGNORE INTO job_requirement (
                     job_id, requirement_type, requirement_value
                 ) VALUES (
                     %(job_id)s, %(requirement_type)s, %(requirement_value)s
-                )
-                AS new
-                ON DUPLICATE KEY UPDATE
-                    requirement_value = new.requirement_value;
+                );
             """
-            # 執行批次寫入
             cursor.executemany(sql, cleaned_data_list)
 
-        # 提交事務
         mysql_conn.commit()
         print(
-            f"成功將 {len(cleaned_data_list)} 筆資料寫入至 MySQL 的 job_requirement 表格！"
+            f"成功將 {len(cleaned_data_list)} 筆資料處理並寫入至 MySQL 的 job_requirement 表格！"
         )
     except Exception as e:
         print(f"寫入 MySQL 時發生錯誤: {e}")
     finally:
         mysql_conn.close()
-
 
 def sliver_job_requirement():
     collection = conn_to_mongodb("localhost", "tkr102", "job_details")
@@ -214,14 +207,14 @@ def sliver_job_requirement():
         },
         {"$unwind": "$requirements"},
         {"$replaceRoot": {"newRoot": "$requirements"}},
-        # 6. 以 job_id & requirement_type 去重，取最新 (第一筆) 的 requirement_value
+        # 6. 以三個 PK 欄位 (job_id, requirement_type, requirement_value) 進行完整去重
         {
             "$group": {
                 "_id": {
                     "job_id": "$job_id",
                     "requirement_type": "$requirement_type",
-                },
-                "requirement_value": {"$first": "$requirement_value"},
+                    "requirement_value": "$requirement_value",
+                }
             }
         },
         # 7. 還原平坦化結構
@@ -230,7 +223,7 @@ def sliver_job_requirement():
                 "_id": 0,
                 "job_id": "$_id.job_id",
                 "requirement_type": "$_id.requirement_type",
-                "requirement_value": "$requirement_value",
+                "requirement_value": "$_id.requirement_value",
             }
         },
     ]
@@ -238,20 +231,19 @@ def sliver_job_requirement():
     list_data = collection.aggregate(pipeline)
 
     # 將清理後的資料，依照指定欄位順序寫入 MySQL
-    cleaned_data_list_requirement = []
-    for doc in list_data:
-        cleaned_item = {
+    cleaned_data_list_requirement = [
+        {
             "job_id": doc.get("job_id"),
             "requirement_type": doc.get("requirement_type"),
             "requirement_value": doc.get("requirement_value"),
         }
-        cleaned_data_list_requirement.append(cleaned_item)
+        for doc in list_data
+    ]
 
-    # 連線到 MySQL 並將清理後的資料寫入 job 表格
+    # 連線到 MySQL 並將清理後的資料寫入表格
     if cleaned_data_list_requirement:
         import_requirement_to_mysql(cleaned_data_list_requirement)
     else:
         print("指定時間區間內無符合條件的資料。")
-
 
 sliver_job_requirement()

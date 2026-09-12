@@ -1,5 +1,7 @@
 #leo_ignore
 mongo_data/
+mysql_data/
+postgres_data/
 extract_data_test.py
 job_details.json
 

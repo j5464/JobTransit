@@ -122,7 +122,7 @@ def import_job_specialty_to_mysql(cleaned_data_list):
 
 # 3. MongoDB 轉置與主要 ETL 流程
 def sliver_job_specialty():
-    collection = conn_to_mongodb("localhost", "test", "job_details")
+    collection = conn_to_mongodb("localhost", "tkr102", "job_details")
     if collection is None:
         print("無法連線到 MongoDB，請檢查伺服器狀態。")
         return
@@ -141,14 +141,14 @@ def sliver_job_specialty():
 
     pipeline = [
         {"$match": {"switch": "on"}},
-        {
-            "$match": {
-                "ingestion_timestamp": {
-                    "$gte": start_time,  # 昨天 23:55:00
-                    "$lt": end_time,  # 明天 00:00:00
-                }
-            }
-        },
+        # {
+        #     "$match": {
+        #         "ingestion_timestamp": {
+        #             "$gte": start_time,  # 昨天 23:55:00
+        #             "$lt": end_time,  # 明天 00:00:00
+        #         }
+        #     }
+        # },
         # 2. 針對篩選後的資料進行排序（由新到舊 -1，取最新快照）
         {"$sort": {"ingestion_timestamp": -1}},
         # 1. 展開 condition 陣列
@@ -280,5 +280,4 @@ def sliver_job_specialty():
         print("未產出任何清洗資料。")
 
 # 執行流程
-specialty_refer_list()
 sliver_job_specialty()

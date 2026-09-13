@@ -157,14 +157,14 @@ def sliver_job_mongodb_to_mysql():
         # 篩選條件
         {"$match": {"switch": "on"}},
         # 1. 先用 $match 篩選時間區間（優先縮小資料量，才能走索引效能最好）
-        {
-            "$match": {
-                "ingestion_timestamp": {
-                    "$gte": start_time,  # 昨天 23:55:00
-                    "$lt": end_time,  # 明天 00:00:00
-                }
-            }
-        },
+        # {
+        #     "$match": {
+        #         "ingestion_timestamp": {
+        #             "$gte": start_time,  # 昨天 23:55:00
+        #             "$lt": end_time,  # 明天 00:00:00
+        #         }
+        #     }
+        # },
         # 2. 針對篩選後的資料進行排序（由新到舊 -1，取最新快照）
         {"$sort": {"ingestion_timestamp": -1}},
         # 3. 以 job_id 去重，取最新紀錄 ($first)

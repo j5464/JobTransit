@@ -1,5 +1,6 @@
 from airflow.sdk import task
-from datetime import datetime, timezone
+from datetime import datetime
+import pendulum
 import time
 import random
 import requests
@@ -80,7 +81,7 @@ def each_job_web():
                  if epoch_sec:
                      detail_data["source_response_timestamp"] = datetime.fromtimestamp(
                          epoch_sec,
-                         tz = timezone.utc,
+                         tz = pendulum.timezone("Asia/Taipei")
                          )
                  else:
                      detail_data["source_response_timestamp"] = datetime.now()

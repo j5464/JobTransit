@@ -1,28 +1,34 @@
-from airflow.sdk import task
-from datetime import datetime, timezone
-import time
+from airflow.decorators import task
+from datetime import datetime, time
 import random
 import requests
 from urllib.parse import urlparse
-from tasks.json_to_mongo import get_existing_job_ids,insert_new_job_ids
+import pendulum
+from tasks.json_to_mongo import insert_new_job_ids
+
+# 統一時區設定
+TAIPEI_TZ = pendulum.timezone("Asia/Taipei")
 
 def parse_iso_date(date_str):
-    """將 104 的 'YYYYMMDD' 字串轉為 MongoDB 相容的 UTC datetime 物件 (ISODate)"""
+    """將 104 的 'YYYYMMDD' 字串轉為台灣時區 (Asia/Taipei) 的 datetime 物件"""
     if not date_str:
         return None
     try:
-        # 將 "20260902" 轉為 datetime(2026, 9, 2, 0, 0, tzinfo=timezone.utc)
-        return datetime.strptime(str(date_str), "%Y%m%d").replace(
-            tzinfo=timezone.utc
+        # 1. 直接指定為台灣時區
+        dt = datetime.strptime(str(date_str), "%Y%m%d").replace(
+            tzinfo=TAIPEI_TZ
         )
+        return dt
     except ValueError:
         print(f"日期解析失敗: {date_str}")
         return None
 
 @task
-def get_job_id():
-    # 取得今天的 UTC 日期 (用來做比對)
-    today_date = datetime.now(timezone.utc).date()
+def get_job_id(**context):  # 修正：加上 **context 接收參數
+    # 取得當次排程在台灣時區下的日期（確保 Re-run 時日期依然正確）
+    logical_date = context["logical_date"]
+    today_date = logical_date.in_timezone(TAIPEI_TZ).date()
+
     print(f"=== 今日排程啟動，目標撈取日期: {today_date} ===")
 
     base_url = "https://www.104.com.tw/jobs/search/api/jobs"

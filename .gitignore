@@ -1,4 +1,8 @@
-#封存ETL進度
+#Maggie_ignore
+104-software-engineering-crawler/
+
+#leo_ignore
+mongo_data/
 extract_data_test.py
 
 #省略爬蟲資料上傳

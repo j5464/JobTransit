@@ -1,5 +1,6 @@
 from datetime import datetime, timedelta
-from airflow.sdk import dag
+from airflow.decorators import dag
+import pendulum
 from tasks.scraping_job_id_daily import get_job_id
 from tasks.scraping_job_detail_daily import each_job_web
 
@@ -19,7 +20,7 @@ default_args = {
     default_args=default_args,
     description="An example DAG with Python operators",
     schedule="55 23 * * *",
-    start_date=datetime(2026, 9, 9),
+    start_date=pendulum.datetime(2026, 9, 9, tz="Asia/Taipei"),
     catchup=False,
     tags=["example", "decorator"]  # Optional: Add tags for better filtering in the UI
 )

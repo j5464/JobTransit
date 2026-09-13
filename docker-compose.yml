@@ -7,7 +7,34 @@
 
 version: '3.8'
 
+
+#內部共用網路，讓所有容器能透過「容器名稱」互相連線
+networks:
+  tkr102-net:
+    driver: bridge
+
 services:
+  # 權限初始化服務 (非常重要，解決掛載權限問題)
+  init-permissions:
+    image: alpine:latest
+    container_name: tkr102-init-permissions
+    user: root
+    command: >
+      sh -c "
+      mkdir -p /mnt/mysql /mnt/airflow-logs /mnt/airflow-dags /mnt/airflow-plugins &&
+      chown -R 999:999 /mnt/mysql &&
+      chown -R 50000:0 /mnt/airflow-logs /mnt/airflow-dags /mnt/airflow-plugins &&
+      chmod -R 775 /mnt/airflow-logs /mnt/airflow-dags /mnt/airflow-plugins
+      "
+    volumes:
+      - ./mysql_data:/mnt/mysql
+      - ./airflow/logs:/mnt/airflow-logs
+      - ./airflow/dags:/mnt/airflow-dags
+      - ./airflow/plugins:/mnt/airflow-plugins
+    networks:
+      - tkr102-net
+
+  # mongoDB 服務
   mongodb:
     image: mongo:latest
     container_name: my_mongodb
@@ -22,8 +49,10 @@ services:
     volumes:
       # 將資料庫檔案掛載到本地的 mongo_data 資料夾，這樣容器關閉資料才不會不見
       - ./mongo_data:/data/db
+    networks:
+      - tkr102-net
 
-  # (可選) 視覺化介面，讓組員可以在瀏覽器看資料
+  # mongoDB GUI 服務
   mongo-express:
     image: mongo-express
     container_name: my_mongo_express
@@ -36,3 +65,99 @@ services:
       ME_CONFIG_MONGODB_URL: mongodb://root:secretpassword@mongodb:27017/
     depends_on:
       - mongodb
+    networks:
+      - tkr102-net
+
+  # MySQL 服務
+  mysql:
+    image: mysql:8.4
+    container_name: my_mysql
+    restart: unless-stopped
+    depends_on:
+      init-permissions:
+        condition: service_completed_successfully
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-rootpassword}
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-tkr102_db}
+      TZ: Asia/Taipei
+    ports:
+      - "3307:3306"
+    volumes:
+      - ./mysql_data:/var/lib/mysql
+    networks:
+      - tkr102-net
+
+  # Airflow 初始化服務
+  airflow-init:
+    build:
+      context: ./airflow   # 這裡會去讀取您的 ./airflow/Dockerfile
+    container_name: my_airflow_init
+    depends_on:
+      postgres:
+        condition: service_started
+      init-permissions:
+        condition: service_completed_successfully
+    environment:
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://${POSTGRES_USER:-airflow}:${POSTGRES_PASSWORD:-airflow}@postgres/${POSTGRES_DB:-airflow}
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+      AIRFLOW_ADMIN_USER: ${AIRFLOW_ADMIN_USER:-admin}
+      AIRFLOW_ADMIN_PASSWORD: ${AIRFLOW_ADMIN_PASSWORD:-admin}
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        airflow db migrate && \
+        airflow users create \
+          --username $${AIRFLOW_ADMIN_USER} \
+          --firstname Admin \
+          --lastname User \
+          --role Admin \
+          --email admin@example.com \
+          --password $${AIRFLOW_ADMIN_PASSWORD} || true
+    networks:
+      - tkr102-net
+
+  # Postgres 服務 (Airflow Metadata DB)
+  postgres:
+    image: postgres:16-alpine
+    container_name: my_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-airflow}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-airflow}
+      POSTGRES_DB: ${POSTGRES_DB:-airflow}
+      TZ: Asia/Taipei
+    # Postgres 只供內部 Airflow 連線，不用 expose ports 到本機
+    volumes:
+      - ./postgres_data:/var/lib/postgresql/data
+    networks:
+      - tkr102-net
+
+  # Airflow 主服務
+  airflow:
+    build:
+      context: ./airflow   # 同樣讀取 ./airflow/Dockerfile
+    container_name: my_airflow
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_started
+      airflow-init:
+        condition: service_completed_successfully
+    environment:
+      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://${POSTGRES_USER:-airflow}:${POSTGRES_PASSWORD:-airflow}@postgres/${POSTGRES_DB:-airflow}
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+      TZ: Asia/Taipei
+    ports:
+      - "8080:8080"
+    volumes:
+      # 將您的爬蟲程式掛載進 Airflow
+      - ./airflow/dags:/opt/airflow/dags
+      - ./airflow/logs:/opt/airflow/logs
+      - ./airflow/plugins:/opt/airflow/plugins
+      - ./airflow/tasks:/opt/airflow/tasks  # 如果您的 tasks 不在 dags 裡面，記得掛載！
+    command: standalone
+    networks:
+      - tkr102-net

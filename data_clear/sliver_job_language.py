@@ -67,7 +67,7 @@ def import_language_to_mysql(cleaned_data_list):
         with mysql_conn.cursor() as cursor:
             # 採用 MySQL 原生 ON DUPLICATE KEY UPDATE 語法
             sql = """
-                INSERT INTO job_language (
+                INSERT INTO bridge_job_language (
                     job_id, language_code, language_name,
                     listening_level, speaking_level, reading_level, writing_level
                 ) VALUES (

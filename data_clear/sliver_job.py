@@ -77,7 +77,7 @@ def insert_job_to_mysql(cleaned_data_list):
                     vacation_policy_text, business_trip_text, manage_resp_text,
                     start_working_day_text, need_emp_count_text, hr_behavior_pr,
                     contact_email, welfare_description, analysis_url,
-                    updated_at, source_batch_id
+                    updated_at, source_batch_id, url_status
                 ) VALUES (
                     %(job_id)s, %(cust_no)s, %(job_name)s, %(appear_date)s, %(close_date)s,
                     %(job_description)s, %(salary_raw_text)s, %(salary_min)s, %(salary_max)s,
@@ -88,7 +88,7 @@ def insert_job_to_mysql(cleaned_data_list):
                     %(vacation_policy_text)s, %(business_trip_text)s, %(manage_resp_text)s,
                     %(start_working_day_text)s, %(need_emp_count_text)s, %(hr_behavior_pr)s,
                     %(contact_email)s, %(welfare_description)s, %(analysis_url)s,
-                    %(updated_at)s, %(source_batch_id)s
+                    %(updated_at)s, %(source_batch_id)s, %(url_status)s
                 )
                 AS new
                 ON DUPLICATE KEY UPDATE
@@ -124,7 +124,8 @@ def insert_job_to_mysql(cleaned_data_list):
                     welfare_description = new.welfare_description,
                     analysis_url = new.analysis_url,
                     updated_at = new.updated_at,
-                    source_batch_id = new.source_batch_id;
+                    source_batch_id = new.source_batch_id,
+                    url_status = new.url_status;
             """
             # 執行 SQL 語句 (批次處理 Insert / Update)
             cursor.executemany(sql, cleaned_data_list)
@@ -157,14 +158,14 @@ def sliver_job_mongodb_to_mysql():
         # 篩選條件
         {"$match": {"switch": "on"}},
         # 1. 先用 $match 篩選時間區間（優先縮小資料量，才能走索引效能最好）
-        # {
-        #     "$match": {
-        #         "ingestion_timestamp": {
-        #             "$gte": start_time,  # 昨天 23:55:00
-        #             "$lt": end_time,  # 明天 00:00:00
-        #         }
-        #     }
-        # },
+        {
+            "$match": {
+                "ingestion_timestamp": {
+                    "$gte": start_time,  # 昨天 23:55:00
+                    "$lt": end_time,  # 明天 00:00:00
+                }
+            }
+        },
         # 2. 針對篩選後的資料進行排序（由新到舊 -1，取最新快照）
         {"$sort": {"ingestion_timestamp": -1}},
         # 3. 以 job_id 去重，取最新紀錄 ($first)
@@ -361,6 +362,7 @@ def sliver_job_mongodb_to_mysql():
                 # 7. ETL 與 系統 Metadata
                 "updated_at": "$$NOW",
                 "source_batch_id": "$doc.batch_id",
+                "url_status":"$doc.switch"
             }
         },
     ]
@@ -402,6 +404,7 @@ def sliver_job_mongodb_to_mysql():
     # 32. `analysis_url`
     # 33. `updated_at`
     # 34. `source_batch_id`
+    # 35. `url_status`
     cleaned_data_list = []
     for doc in list:
         cleaned_item = {
@@ -438,7 +441,8 @@ def sliver_job_mongodb_to_mysql():
             "welfare_description": doc.get("welfare_description"),
             "analysis_url": doc.get("analysis_url"),
             "updated_at": datetime.now(),
-            "source_batch_id": doc.get("source_batch_id")
+            "source_batch_id": doc.get("source_batch_id"),
+            "url_status": doc.get("url_status")
         }
 
         cleaned_data_list.append(cleaned_item)

@@ -141,14 +141,14 @@ def sliver_job_skill():
 
     pipeline = [
         {"$match": {"switch": "on"}},
-        # {
-        #     "$match": {
-        #         "ingestion_timestamp": {
-        #             "$gte": start_time,  # 昨天 23:55:00
-        #             "$lt": end_time,  # 明天 00:00:00
-        #         }
-        #     }
-        # },
+        {
+            "$match": {
+                "ingestion_timestamp": {
+                    "$gte": start_time,  # 昨天 23:55:00
+                    "$lt": end_time,  # 明天 00:00:00
+                }
+            }
+        },
         # 2. 針對篩選後的資料進行排序（由新到舊 -1，取最新快照）
         {"$sort": {"ingestion_timestamp": -1}},
         # 1. 展開 condition 陣列

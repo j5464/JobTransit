@@ -185,7 +185,7 @@ def sliver_job_requirement():
                             "_id": 0,
                             "job_id": 1,
                             "requirement_type": "CERTIFICATE",
-                            "requirement_value": "$condition.certificate",
+                            "requirement_value": "$condition.certificate.name",
                         }
                     },
                 ],
@@ -231,14 +231,14 @@ def sliver_job_requirement():
     list_data = collection.aggregate(pipeline)
 
     # 將清理後的資料，依照指定欄位順序寫入 MySQL
-    cleaned_data_list_requirement = [
-        {
+    cleaned_data_list_requirement = []
+    for doc in list_data :
+        cleaned_item = {
             "job_id": doc.get("job_id"),
             "requirement_type": doc.get("requirement_type"),
             "requirement_value": doc.get("requirement_value"),
         }
-        for doc in list_data
-    ]
+        cleaned_data_list_requirement.append(cleaned_item)
 
     # 連線到 MySQL 並將清理後的資料寫入表格
     if cleaned_data_list_requirement:

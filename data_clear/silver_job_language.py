@@ -95,13 +95,13 @@ def import_language_to_mysql(cleaned_data_list):
     finally:
         mysql_conn.close()
 
-def sliver_job_language():
-    collection = conn_to_mongodb("localhost", "tkr102", "job_details")
+def silver_job_language():
+    collection = conn_to_mongodb("job_details")
     if collection is None:
         print("無法連線到 MongoDB，請檢查伺服器狀態。")
         return
 
-    print("開始處理 sliver_job_language")
+    print("開始處理 silver_job_language")
     # 計算「昨天 23:55 ~ 明天 00:00」時間區間
     today = datetime.now().date()
     start_time = datetime.combine(today - timedelta(days=1), time(23, 55, 0))
@@ -193,4 +193,4 @@ def sliver_job_language():
         print("指定時間區間內無符合條件的資料。")
 
 # 執行
-sliver_job_language()
+silver_job_language()

@@ -139,13 +139,13 @@ def insert_job_to_mysql(cleaned_data_list):
     finally:
         mysql_conn.close()
 
-def sliver_job_mongodb_to_mysql():
+def silver_job_mongodb_to_mysql():
     collection = conn_to_mongodb('localhost', 'tkr102', 'job_details')
     if collection is None:
         print("無法連線到 MongoDB，請檢查伺服器狀態。")
         return
 
-    print("開始處理 sliver_job")
+    print("開始處理 silver_job")
     today = datetime.combine(datetime.now().date(), time.min)
 
     # 1. 昨天 (今天 - 1 天) 的 23:55
@@ -450,6 +450,6 @@ def sliver_job_mongodb_to_mysql():
     #連線到 MySQL 並將清理後的資料寫入 job 表格
     insert_job_to_mysql(cleaned_data_list)
 
-sliver_job_mongodb_to_mysql()
+silver_job_mongodb_to_mysql()
 
 

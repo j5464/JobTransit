@@ -65,12 +65,15 @@ services:
         condition: service_completed_successfully
     environment:
       MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-rootpassword}
-      MYSQL_DATABASE: ${MYSQL_DATABASE:-tkr102}
+      #以下變數只能自動建一個db
+      #MYSQL_DATABASE: ${MYSQL_DATABASE:-tkr102}
       TZ: Asia/Taipei
     ports:
       - "3307:3306"
     volumes:
       - ./mysql_data:/var/lib/mysql
+      # 將初始化SQL腳本載入container 內部的MySQL會自動執行這些腳本
+      - ./mysql_init:/docker-entrypoint-initdb.d
     networks:
       - tkr102-net
 

@@ -3,7 +3,7 @@ from datetime import datetime
 
 from airflow.sdk import dag, task
 # 從 tasks 引入剛寫好的建表 Task 邏輯
-from tasks.create_silver_tables import _load_conn_to_mysql, create_silver_tables
+from tasks.create_silver_tables import create_silver_tables
 
 default_args = {
     "owner": "airflow",
@@ -22,17 +22,14 @@ default_args = {
     catchup=False,
     tags=["init", "mysql", "silver"],
 )
+
+@task
 def init_silver_tables_dag():
-
-    @task
-    def run_create_tables():
-        # 呼叫 tasks/ 裡面的邏輯
-        conn_to_mysql = _load_conn_to_mysql()
-        engine = conn_to_mysql(db_name="TESTDB")
-        create_silver_tables(engine)
-        print("Silver tables created successfully!")
-
-    # 執行 Task
-    run_create_tables()
+    t1 = create_silver_tables()
+    t1
+    # conn_to_mysql = conn_to_mysql()
+    # engine = conn_to_mysql(db_name="TESTDB")
+    # create_silver_tables()
+    # print("Silver tables created successfully!")
 
 init_silver_tables_dag()

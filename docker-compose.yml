@@ -1,9 +1,12 @@
-#此為mongo in docker的設定檔 (含gui)
 #啟用： docker-compose up -d
-#先uv sync後到指定虛擬環境(.venv\Scripts\Activate5)
-#在Studio 3T中輸入 mongodb://root:secretpassword@localhost:27018/
+#先uv sync後到指定虛擬環境(應該會自動執行)
+#Studio 3T連線：mongodb://root:password@localhost:27018/
+#取得airflow密碼：(以下兩種)
+#docker exec -it my_airflow cat /opt/airflow/simple_auth_manager_passwords.json.generated
+#docker logs my_airflow | Select-String "Password"
 #關閉：docker-compose down
 #退出虛擬環境：deactivate
+
 
 version: '3.8'
 
@@ -41,30 +44,14 @@ services:
     restart: always
     environment:
       # 設定 root 帳號密碼
-      MONGO_INITDB_ROOT_USERNAME: root
-      MONGO_INITDB_ROOT_PASSWORD: secretpassword
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME:-root}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD:-password}
     ports:
       # 將主機的 27017 埠對應到容器的 27017 埠
       - "27018:27017"
     volumes:
       # 將資料庫檔案掛載到本地的 mongo_data 資料夾，這樣容器關閉資料才不會不見
       - ./mongo_data:/data/db
-    networks:
-      - tkr102-net
-
-  # mongoDB GUI 服務
-  mongo-express:
-    image: mongo-express
-    container_name: my_mongo_express
-    restart: always
-    ports:
-      - "8081:8081"
-    environment:
-      ME_CONFIG_MONGODB_ADMINUSERNAME: root
-      ME_CONFIG_MONGODB_ADMINPASSWORD: secretpassword
-      ME_CONFIG_MONGODB_URL: mongodb://root:secretpassword@mongodb:27017/
-    depends_on:
-      - mongodb
     networks:
       - tkr102-net
 
@@ -78,7 +65,7 @@ services:
         condition: service_completed_successfully
     environment:
       MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-rootpassword}
-      MYSQL_DATABASE: ${MYSQL_DATABASE:-tkr102_db}
+      MYSQL_DATABASE: ${MYSQL_DATABASE:-tkr102}
       TZ: Asia/Taipei
     ports:
       - "3307:3306"
@@ -94,11 +81,11 @@ services:
     container_name: my_airflow_init
     depends_on:
       postgres:
-        condition: service_started
+        condition: service_healthy #讓本服務啟動的條件依賴於postgres啟動完成後，而非啟動開始的瞬間
       init-permissions:
         condition: service_completed_successfully
     environment:
-      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://${POSTGRES_USER:-airflow}:${POSTGRES_PASSWORD:-airflow}@postgres/${POSTGRES_DB:-airflow}
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://${POSTGRES_USER:-airflow}:${POSTGRES_PASSWORD:-airflow}@postgres/${POSTGRES_DB:-airflow}
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
       AIRFLOW_ADMIN_USER: ${AIRFLOW_ADMIN_USER:-admin}
@@ -107,14 +94,8 @@ services:
     command:
       - -c
       - |
-        airflow db migrate && \
-        airflow users create \
-          --username $${AIRFLOW_ADMIN_USER} \
-          --firstname Admin \
-          --lastname User \
-          --role Admin \
-          --email admin@example.com \
-          --password $${AIRFLOW_ADMIN_PASSWORD} || true
+        airflow db migrate 
+      #migrate：自動到postgres資料庫建立airflow需要的資料表     
     networks:
       - tkr102-net
 
@@ -128,16 +109,22 @@ services:
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-airflow}
       POSTGRES_DB: ${POSTGRES_DB:-airflow}
       TZ: Asia/Taipei
-    # Postgres 只供內部 Airflow 連線，不用 expose ports 到本機
+    # Postgres只供內部Airflow連線，不用expose ports到本機
     volumes:
       - ./postgres_data:/var/lib/postgresql/data
     networks:
       - tkr102-net
+    #確保Postgres啟動完成後才讓Airflow連線 (避免airflow初始化在建立帳號密碼時 postgres還沒初始化完成)
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER:-airflow}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
 
   # Airflow 主服務
   airflow:
     build:
-      context: ./airflow   # 同樣讀取 ./airflow/Dockerfile
+      context: ./airflow   #同樣讀取 ./airflow/Dockerfile
     container_name: my_airflow
     restart: unless-stopped
     depends_on:
@@ -146,18 +133,20 @@ services:
       airflow-init:
         condition: service_completed_successfully
     environment:
-      AIRFLOW__CORE__SQL_ALCHEMY_CONN: postgresql+psycopg2://${POSTGRES_USER:-airflow}:${POSTGRES_PASSWORD:-airflow}@postgres/${POSTGRES_DB:-airflow}
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://${POSTGRES_USER:-airflow}:${POSTGRES_PASSWORD:-airflow}@postgres/${POSTGRES_DB:-airflow}
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
       AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
       TZ: Asia/Taipei
+      PYTHONPATH: /opt/airflow #施老師的設定：避免找不到tasks, utils資料夾
+      MONGODB_URI: "mongodb://root:password@mongodb:27017/" #給airflow一個內部(networks)的路徑
     ports:
       - "8080:8080"
     volumes:
-      # 將您的爬蟲程式掛載進 Airflow
       - ./airflow/dags:/opt/airflow/dags
       - ./airflow/logs:/opt/airflow/logs
       - ./airflow/plugins:/opt/airflow/plugins
-      - ./airflow/tasks:/opt/airflow/tasks  # 如果您的 tasks 不在 dags 裡面，記得掛載！
+      - ./airflow/tasks:/opt/airflow/tasks
+      - ./airflow/utils:/opt/airflow/utils
     command: standalone
     networks:
       - tkr102-net

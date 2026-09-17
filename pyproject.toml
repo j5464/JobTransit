@@ -1,5 +1,5 @@
 [project]
-name = "venv"
+name = "tkr102-g1"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -14,6 +14,7 @@ dependencies = [
     "openpyxl>=3.1.5",
     "pandas>=2.3.3",
     "pymongo>=4.16.0",
+    "pymysql>=1.2.0",
     "python-dateutil>=2.9.0.post0",
     "requests>=2.32.5",
     "seaborn>=0.13.2",
@@ -22,12 +23,4 @@ dependencies = [
     "webdriver-manager>=4.0.2",
     "yfinance>=1.0",
 ]
-<<<<<<< Updated upstream
-[project.scripts]
-tkr102-g1 = "tkr102_g1:main"
 
-[build-system]
-requires = ["uv_build>=0.12.5,<0.13.0"]
-build-backend = "uv_build"
-=======
->>>>>>> Stashed changes

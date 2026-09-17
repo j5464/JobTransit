@@ -3,10 +3,13 @@
 
 #leo_ignore
 mongo_data/
+mysql_data/
+postgres_data/
 extract_data_test.py
 
 #省略爬蟲資料上傳
 job_details.json
+gcp-describe
 
 #避免實體資料庫檔案mongo_data上傳
 mongo_data/

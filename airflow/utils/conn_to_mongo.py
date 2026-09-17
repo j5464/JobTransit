@@ -22,7 +22,7 @@ def conn_to_mongodb(collection_name: str):
         print("成功連線到 MongoDB!")
 
         #使用(創建)資料庫
-        db = client['tkr102']
+        db = client[os.getenv("MONGODB_DB_NAME")]
 
         #使用(創建)文檔集
         collection = db[collection_name]

@@ -1,16 +1,20 @@
+import os
+from dotenv import load_dotenv
 from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 from pymysql import connect
 from datetime import datetime, time, timedelta
 
-def conn_to_mongodb(conn_ip:str,db_name: str,collection_name: str):
+def conn_to_mongodb(collection_name: str):
     """
     皆要使用"雙引號"或'單引號'包住字串，參數說明:\n
     *conn_ip*:要連線的ip\n
     *db_name*: 資料庫名稱\n
     *collection_name*: 集合表名稱\n
     """
-    connection = f"mongodb://{conn_ip}:27017/"
+        #載入.env 到環境變數
+    load_dotenv()
+    connection = os.getenv("MONGODB_URI")
     try:
 
         #使用URI連結
@@ -18,7 +22,7 @@ def conn_to_mongodb(conn_ip:str,db_name: str,collection_name: str):
         client.admin.command('ping')
 
         #使用(創建)資料庫
-        db = client[db_name]
+        db = client[os.getenv("MONGODB_DB_NAME")]
 
         #使用(創建)文檔集
         collection = db[collection_name]
@@ -67,7 +71,7 @@ def import_language_to_mysql(cleaned_data_list):
         with mysql_conn.cursor() as cursor:
             # 採用 MySQL 原生 ON DUPLICATE KEY UPDATE 語法
             sql = """
-                INSERT INTO job_language (
+                INSERT INTO bridge_job_language (
                     job_id, language_code, language_name,
                     listening_level, speaking_level, reading_level, writing_level
                 ) VALUES (
@@ -95,13 +99,13 @@ def import_language_to_mysql(cleaned_data_list):
     finally:
         mysql_conn.close()
 
-def sliver_job_language():
-    collection = conn_to_mongodb("localhost", "tkr102", "job_details")
+def silver_job_language():
+    collection = conn_to_mongodb("job_details")
     if collection is None:
         print("無法連線到 MongoDB，請檢查伺服器狀態。")
         return
 
-    print("開始處理 sliver_job_language")
+    print("開始處理 silver_job_language")
     # 計算「昨天 23:55 ~ 明天 00:00」時間區間
     today = datetime.now().date()
     start_time = datetime.combine(today - timedelta(days=1), time(23, 55, 0))
@@ -193,4 +197,4 @@ def sliver_job_language():
         print("指定時間區間內無符合條件的資料。")
 
 # 執行
-sliver_job_language()
+silver_job_language()

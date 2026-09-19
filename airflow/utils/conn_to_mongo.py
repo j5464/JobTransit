@@ -7,11 +7,10 @@ from dotenv import load_dotenv
 from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 
-#載入.env 到環境變數
-load_dotenv()
-
 #建立與 MongoDB 的連線，並回傳指定的 Collection
 def conn_to_mongodb(collection_name: str):
+    #載入.env 到環境變數
+    load_dotenv()
     #抓取環境變數
     connection =  os.getenv("MONGODB_URI")
     try:

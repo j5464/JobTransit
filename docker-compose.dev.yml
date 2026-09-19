@@ -1,3 +1,5 @@
+#執行本地測試compose指令：docker-compose -f docker-compose.dev.yml up -d
+
 #啟用： docker-compose up -d
 #先uv sync後到指定虛擬環境(應該會自動執行)
 #Studio 3T連線：mongodb://root:password@localhost:27018/
@@ -154,5 +156,20 @@ services:
       - ./airflow/tasks:/opt/airflow/tasks
       - ./airflow/utils:/opt/airflow/utils
     command: standalone
+    networks:
+      - tkr102-net
+
+  # flask-web 服務 (針對測試)
+  flask-web:
+    build:
+      context: ./jobtransit_web
+    container_name: my_flask_web
+    restart: unless-stopped
+    depends_on:
+      - mysql
+    ports:
+      - "5000:8080"
+    volumes:
+      - ./jobtransit_web:/app
     networks:
       - tkr102-net

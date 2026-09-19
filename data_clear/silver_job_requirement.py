@@ -1,16 +1,20 @@
+import os
+from dotenv import load_dotenv
 from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 from pymysql import connect
 from datetime import datetime, time, timedelta
 
-def conn_to_mongodb(conn_ip:str,db_name: str,collection_name: str):
+def conn_to_mongodb(collection_name: str):
     """
     皆要使用"雙引號"或'單引號'包住字串，參數說明:\n
     *conn_ip*:要連線的ip\n
     *db_name*: 資料庫名稱\n
     *collection_name*: 集合表名稱\n
     """
-    connection = f"mongodb://{conn_ip}:27017/"
+        #載入.env 到環境變數
+    load_dotenv()
+    connection = os.getenv("MONGODB_URI")
     try:
 
         #使用URI連結
@@ -18,7 +22,7 @@ def conn_to_mongodb(conn_ip:str,db_name: str,collection_name: str):
         client.admin.command('ping')
 
         #使用(創建)資料庫
-        db = client[db_name]
+        db = client[os.getenv("MONGODB_DB_NAME")]
 
         #使用(創建)文檔集
         collection = db[collection_name]
@@ -84,13 +88,13 @@ def import_requirement_to_mysql(cleaned_data_list):
     finally:
         mysql_conn.close()
 
-def sliver_job_requirement():
-    collection = conn_to_mongodb("localhost", "tkr102", "job_details")
+def silver_job_requirement():
+    collection = conn_to_mongodb("job_details")
     if collection is None:
         print("無法連線到 MongoDB，請檢查伺服器狀態。")
         return
 
-    print("開始處理 sliver_job_requirement")
+    print("開始處理 silver_job_requirement")
     # 計算「昨天 23:55 ~ 明天 00:00」時間區間
     today = datetime.now().date()
     start_time = datetime.combine(today - timedelta(days=1), time(23, 55, 0))
@@ -185,7 +189,7 @@ def sliver_job_requirement():
                             "_id": 0,
                             "job_id": 1,
                             "requirement_type": "CERTIFICATE",
-                            "requirement_value": "$condition.certificate",
+                            "requirement_value": "$condition.certificate.name",
                         }
                     },
                 ],
@@ -231,14 +235,14 @@ def sliver_job_requirement():
     list_data = collection.aggregate(pipeline)
 
     # 將清理後的資料，依照指定欄位順序寫入 MySQL
-    cleaned_data_list_requirement = [
-        {
+    cleaned_data_list_requirement = []
+    for doc in list_data :
+        cleaned_item = {
             "job_id": doc.get("job_id"),
             "requirement_type": doc.get("requirement_type"),
             "requirement_value": doc.get("requirement_value"),
         }
-        for doc in list_data
-    ]
+        cleaned_data_list_requirement.append(cleaned_item)
 
     # 連線到 MySQL 並將清理後的資料寫入表格
     if cleaned_data_list_requirement:
@@ -246,4 +250,4 @@ def sliver_job_requirement():
     else:
         print("指定時間區間內無符合條件的資料。")
 
-sliver_job_requirement()
+silver_job_requirement()

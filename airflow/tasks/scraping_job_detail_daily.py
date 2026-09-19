@@ -14,9 +14,17 @@ def get_job_detail(session, job_id):
         "Origin": "https://www.104.com.tw",
         "Accept": "application/json, text/plain, */*",
     }
-    
+
+    #補上proxy設定
+    API_KEY = "02466104a93e03e4b6eaf551c3c8b3bf"
+    proxy_url = f"http://scraperapi:{API_KEY}@proxy-server.scraperapi.com:8001"
+    proxies = {
+        "http": proxy_url,
+        "https": proxy_url
+    }
+
     try:
-        response = session.get(detail_url, headers=headers, timeout=10)
+        response = session.get(detail_url, headers=headers, proxies=proxies, timeout=10)
         if response.status_code == 200:
             # --- 修改點：為確保 source_response_timestamp 的正確 API 時間
             # json_data = response.json()

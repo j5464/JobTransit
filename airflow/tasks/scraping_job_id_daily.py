@@ -1,4 +1,5 @@
 from airflow.decorators import task
+import time
 from datetime import datetime, time
 import random
 import requests
@@ -80,8 +81,16 @@ def get_job_id(**context):  # 修正：加上 **context 接收參數
                 print(f"等待 {sleep_time:.2f} 秒後繼續撈取第 {page} 頁...")
                 time.sleep(sleep_time)
 
+            #補上proxy設定
+            API_KEY = "02466104a93e03e4b6eaf551c3c8b3bf"
+            proxy_url = f"http://scraperapi:{API_KEY}@proxy-server.scraperapi.com:8001"
+            proxies = {
+                "http": proxy_url,
+                "https": proxy_url
+            }
+
             try:
-                response = requests.get(base_url, headers=headers, params=params, timeout=10)
+                response = requests.get(base_url, headers=headers, params=params, proxies=proxies, timeout=10)
                 
                 if response.status_code == 200:
                     json_data = response.json()

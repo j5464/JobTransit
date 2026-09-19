@@ -1,0 +1,7 @@
+# 初始化執行不成功，則改為手動執行
+# 確認資料庫：docker exec -it my_mysql mysql -uroot -p -e "SHOW DATABASES;"
+# (若有問題)進入MySQL：docker exec -it my_mysql mysql -uroot -p
+# 直接手動執行：
+# CREATE DATABASE IF NOT EXISTS silver_db;
+# CREATE DATABASE IF NOT EXISTS gold_db;
+# 完成後離開：Exit

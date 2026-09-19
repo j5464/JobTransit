@@ -1,19 +1,21 @@
-from pendulum import today
+import os
+from dotenv import load_dotenv
 from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
-from urllib.parse import urlparse
 from datetime import datetime, timedelta, time
 from pymysql import connect
 
 #建立與 MongoDB 的連線，並回傳指定的 Collection
-def conn_to_mongodb(conn_ip:str,db_name: str,collection_name: str):
+def conn_to_mongodb(collection_name: str):
     """
     皆要使用"雙引號"或'單引號'包住字串，參數說明:\n
     *conn_ip*:要連線的ip\n
     *db_name*: 資料庫名稱\n
     *collection_name*: 集合表名稱\n
     """
-    connection = f"mongodb://{conn_ip}:27017/"
+        #載入.env 到環境變數
+    load_dotenv()
+    connection = os.getenv("MONGODB_URI")
     try:
 
         #使用URI連結
@@ -21,7 +23,7 @@ def conn_to_mongodb(conn_ip:str,db_name: str,collection_name: str):
         client.admin.command('ping')
 
         #使用(創建)資料庫
-        db = client[db_name]
+        db = client[os.getenv("MONGODB_DB_NAME")]
 
         #使用(創建)文檔集
         collection = db[collection_name]
@@ -53,25 +55,25 @@ def conn_to_mysql(conn_ip:str,db_name: str,user:str,password:str,port:int = 3306
         print(f"連線失敗，請確認 MySQL 伺服器是否有啟動。錯誤訊息: {e}")
         return None
 
-def skill_refer_list(collection):
+def specialty_refer_list(collection):
     # # 連接到 MongoDB 並獲取指定的 collection
     # collection = conn_to_mongodb('localhost', 'test', 'job_details')
     # if collection is None:
     #     print("無法連線到 MongoDB，請檢查伺服器狀態。")
     #     return []
 
-    # 1. 從 MongoDB 取出資料 (使用 MongoDB 的聚合管道來展開 skill 陣列並去重)
+    # 1. 從 MongoDB 取出資料 (使用 MongoDB 的聚合管道來展開 specialty 陣列並去重)
     pipeline_refer_list = [
         {"$project": {"condition": 1}},
-        {"$unwind": "$condition.skill"},
+        {"$unwind": "$condition.specialty"},
         {"$group": {
-                "_id": "$condition.skill.code",
-                "description": {"$first": "$condition.skill.description"}
+                "_id": "$condition.specialty.code",
+                "description": {"$first": "$condition.specialty.description"}
             }
         },
         {
             "$merge": {
-                "into": "skill_refer_list",
+                "into": "specialties_refer_list",
                 "whenMatched": "replace",      # 若主鍵存在則替換更新
                 "whenNotMatched": "insert"      # 若不存在則新增
             }
@@ -80,10 +82,10 @@ def skill_refer_list(collection):
 
     collection.aggregate(pipeline_refer_list)
 
-    print(f"已更新skill參照清單")
+    print(f"已更新specialty參照清單")
 
-# 2. 寫入 MySQL 的函式 (套用 Schema：job_id, skill_code, skill_name)
-def import_job_skill_to_mysql(cleaned_data_list):
+# 2. 寫入 MySQL 的函式 (套用 Schema：job_id, specialty_code, specialty_name)
+def import_job_specialty_to_mysql(cleaned_data_list):
     mysql_conn = conn_to_mysql(
         conn_ip="10.2.19.84",
         db_name="TESTDB",
@@ -97,23 +99,23 @@ def import_job_skill_to_mysql(cleaned_data_list):
 
     try:
         with mysql_conn.cursor() as cursor:
-            # 對齊 MySQL Schema 欄位：job_id, skill_code, skill_name
+            # 對齊 MySQL Schema 欄位：job_id, specialty_code, specialty_name
             sql = """
-                INSERT INTO job_skill (
-                    job_id, skill_code, skill_description
+                INSERT INTO job_specialty (
+                    job_id, specialty_code, specialty_name
                 ) VALUES (
-                    %(job_id)s, %(skill_code)s, %(skill_description)s
+                    %(job_id)s, %(specialty_code)s, %(specialty_name)s
                 )
                 AS new
                 ON DUPLICATE KEY UPDATE
-                    skill_description = new.skill_description;
+                    specialty_name = new.specialty_name;
             """
             # 批次執行 Upsert
             cursor.executemany(sql, cleaned_data_list)
 
         mysql_conn.commit()
         print(
-            f"成功將 {len(cleaned_data_list)} 筆資料批次 Upsert 至 MySQL 的 job_skilly 表格！"
+            f"成功將 {len(cleaned_data_list)} 筆資料批次 Upsert 至 MySQL 的 job_specialty 表格！"
         )
     except Exception as e:
         print(f"寫入 MySQL 時發生錯誤: {e}")
@@ -121,15 +123,15 @@ def import_job_skill_to_mysql(cleaned_data_list):
         mysql_conn.close()
 
 # 3. MongoDB 轉置與主要 ETL 流程
-def sliver_job_skill():
-    collection = conn_to_mongodb("localhost", "tkr102", "job_details")
+def silver_job_specialty():
+    collection = conn_to_mongodb("job_details")
     if collection is None:
         print("無法連線到 MongoDB，請檢查伺服器狀態。")
         return
     
-    print("開始處理 sliver_job_skill")
+    print("開始處理 silver_job_specialty")
 
-    skill_refer_list(collection)
+    specialty_refer_list(collection)
         
     today = datetime.combine(datetime.now().date(), time.min)
 
@@ -141,19 +143,19 @@ def sliver_job_skill():
 
     pipeline = [
         {"$match": {"switch": "on"}},
-        # {
-        #     "$match": {
-        #         "ingestion_timestamp": {
-        #             "$gte": start_time,  # 昨天 23:55:00
-        #             "$lt": end_time,  # 明天 00:00:00
-        #         }
-        #     }
-        # },
+        {
+            "$match": {
+                "ingestion_timestamp": {
+                    "$gte": start_time,  # 昨天 23:55:00
+                    "$lt": end_time,  # 明天 00:00:00
+                }
+            }
+        },
         # 2. 針對篩選後的資料進行排序（由新到舊 -1，取最新快照）
         {"$sort": {"ingestion_timestamp": -1}},
         # 1. 展開 condition 陣列
         {"$unwind": "$condition"},
-        # 2. 解析 job_id，並取出原始 condition.skill
+        # 2. 解析 job_id，並取出原始 condition.specialty
         {
             "$addFields": {
                 "parsed_job_id": {
@@ -172,26 +174,26 @@ def sliver_job_skill():
                         -1,
                     ]
                 },
-                "raw_skills": {
+                "raw_specialties": {
                     "$cond": {
-                        "if": {"$isArray": "$condition.skill"},
-                        "then": "$condition.skill",
-                        "else": ["$condition.skill"],
+                        "if": {"$isArray": "$condition.specialty"},
+                        "then": "$condition.specialty",
+                        "else": ["$condition.specialty"],
                     }
                 },
             }
         },
-        # 3. 關聯 skill_refer_list
+        # 3. 關聯 job_tools
         {
             "$lookup": {
-                "from": "skill_refer_list",
+                "from": "specialties_refer_list",
                 "let": {
                     "other_text": {"$ifNull": ["$condition.other", ""]},
                     "desc_text": {
                         "$ifNull": ["$jobDetail.jobDescription", ""]
                     },
                     "spec_names": {
-                        "$ifNull": ["$raw_skillsraw_skills.description", []]
+                        "$ifNull": ["$raw_specialties.description", []]
                     },
                 },
                 "pipeline": [
@@ -221,8 +223,8 @@ def sliver_job_skill():
                     {
                         "$project": {
                             "_id": 0,
-                            "skill_code": "$_id",
-                            "skill_name": "$description",
+                            "specialty_code": "$_id",
+                            "specialty_name": "$description",
                         }
                     },
                 ],
@@ -236,8 +238,8 @@ def sliver_job_skill():
             "$project": {
                 "_id": 0,
                 "job_id": "$parsed_job_id",
-                "skill_code": "$matched_tools.skill_code",
-                "skill_name": "$matched_tools.skill_name",
+                "specialty_code": "$matched_tools.specialty_code",
+                "specialty_name": "$matched_tools.specialty_name",
             }
         },
         # 6. 利用 $group 去重
@@ -245,8 +247,8 @@ def sliver_job_skill():
             "$group": {
                 "_id": {
                     "job_id": "$job_id",
-                    "skill_code": "$skill_code",
-                    "skill_name": "$skill_name",
+                    "specialty_code": "$specialty_code",
+                    "specialty_name": "$specialty_name",
                 }
             }
         },
@@ -255,8 +257,8 @@ def sliver_job_skill():
             "$project": {
                 "_id": 0,
                 "job_id": "$_id.job_id",
-                "skill_code": "$_id.skill_code",
-                "skill_name": "$_id.skill_name",
+                "specialty_code": "$_id.specialty_code",
+                "specialty_name": "$_id.specialty_name",
             }
         },
     ]
@@ -268,16 +270,16 @@ def sliver_job_skill():
     for doc in cursor_list:
         cleaned_item = {
             "job_id": doc.get("job_id"),
-            "skill_code": doc.get("skill_code"),
-            "skill_description": doc.get("skill_name"),
+            "specialty_code": doc.get("specialty_code"),
+            "specialty_name": doc.get("specialty_name"),
         }
         cleaned_data_list.append(cleaned_item)
 
     # 執行 MySQL Upsert 寫入
     if cleaned_data_list:
-        import_job_skill_to_mysql(cleaned_data_list)
+        import_job_specialty_to_mysql(cleaned_data_list)
     else:
         print("未產出任何清洗資料。")
 
 # 執行流程
-sliver_job_skill()
+silver_job_specialty()

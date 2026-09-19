@@ -20,6 +20,8 @@ def conn_to_mysql(
     # conn_ip: str | None = None,
     # port: int | None = None,
 ):
+  
+    
     #載入.env 到環境變數
     load_dotenv()
     # 若參數未傳入，則從環境變數取得；若環境變數未設定，再使用預設值
@@ -42,6 +44,7 @@ def conn_to_mysql(
             database=db_name,
             connect_timeout=10,  # 10秒連不上自動拋出例外
             read_timeout=30,     # 讀寫超過30秒自動中斷，避免無效卡死
+            write_timeout=30,    # 寫入超過30秒自動中斷，避免無效卡死
             autocommit=False
         )
     except Exception as exc:

@@ -6,6 +6,8 @@ mongo_data/
 mysql_data/
 postgres_data/
 extract_data_test.py
+web-container/
+jobtransit_web/
 
 #省略爬蟲資料上傳
 job_details.json

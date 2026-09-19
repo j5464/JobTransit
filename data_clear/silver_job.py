@@ -1,16 +1,20 @@
+import os
+from dotenv import load_dotenv
 from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 from datetime import datetime, time, timedelta
 from pymysql import connect
 
-def conn_to_mongodb(conn_ip:str,db_name: str,collection_name: str):
+def conn_to_mongodb(collection_name: str):
     """
     皆要使用"雙引號"或'單引號'包住字串，參數說明:\n
     *conn_ip*:要連線的ip\n
     *db_name*: 資料庫名稱\n
     *collection_name*: 集合表名稱\n
     """
-    connection = f"mongodb://{conn_ip}:27017/"
+        #載入.env 到環境變數
+    load_dotenv()
+    connection = os.getenv("MONGODB_URI")
     try:
 
         #使用URI連結
@@ -18,7 +22,7 @@ def conn_to_mongodb(conn_ip:str,db_name: str,collection_name: str):
         client.admin.command('ping')
 
         #使用(創建)資料庫
-        db = client[db_name]
+        db = client[os.getenv("MONGODB_DB_NAME")]
 
         #使用(創建)文檔集
         collection = db[collection_name]
@@ -77,7 +81,7 @@ def insert_job_to_mysql(cleaned_data_list):
                     vacation_policy_text, business_trip_text, manage_resp_text,
                     start_working_day_text, need_emp_count_text, hr_behavior_pr,
                     contact_email, welfare_description, analysis_url,
-                    updated_at, source_batch_id
+                    updated_at, source_batch_id, url_status
                 ) VALUES (
                     %(job_id)s, %(cust_no)s, %(job_name)s, %(appear_date)s, %(close_date)s,
                     %(job_description)s, %(salary_raw_text)s, %(salary_min)s, %(salary_max)s,
@@ -88,7 +92,7 @@ def insert_job_to_mysql(cleaned_data_list):
                     %(vacation_policy_text)s, %(business_trip_text)s, %(manage_resp_text)s,
                     %(start_working_day_text)s, %(need_emp_count_text)s, %(hr_behavior_pr)s,
                     %(contact_email)s, %(welfare_description)s, %(analysis_url)s,
-                    %(updated_at)s, %(source_batch_id)s
+                    %(updated_at)s, %(source_batch_id)s, %(url_status)s
                 )
                 AS new
                 ON DUPLICATE KEY UPDATE
@@ -124,7 +128,8 @@ def insert_job_to_mysql(cleaned_data_list):
                     welfare_description = new.welfare_description,
                     analysis_url = new.analysis_url,
                     updated_at = new.updated_at,
-                    source_batch_id = new.source_batch_id;
+                    source_batch_id = new.source_batch_id,
+                    url_status = new.url_status;
             """
             # 執行 SQL 語句 (批次處理 Insert / Update)
             cursor.executemany(sql, cleaned_data_list)
@@ -138,13 +143,13 @@ def insert_job_to_mysql(cleaned_data_list):
     finally:
         mysql_conn.close()
 
-def sliver_job_mongodb_to_mysql():
-    collection = conn_to_mongodb('localhost', 'tkr102', 'job_details')
+def silver_job_mongodb_to_mysql():
+    collection = conn_to_mongodb('job_details')
     if collection is None:
         print("無法連線到 MongoDB，請檢查伺服器狀態。")
         return
 
-    print("開始處理 sliver_job")
+    print("開始處理 silver_job")
     today = datetime.combine(datetime.now().date(), time.min)
 
     # 1. 昨天 (今天 - 1 天) 的 23:55
@@ -361,6 +366,7 @@ def sliver_job_mongodb_to_mysql():
                 # 7. ETL 與 系統 Metadata
                 "updated_at": "$$NOW",
                 "source_batch_id": "$doc.batch_id",
+                "url_status":"$doc.switch"
             }
         },
     ]
@@ -402,6 +408,7 @@ def sliver_job_mongodb_to_mysql():
     # 32. `analysis_url`
     # 33. `updated_at`
     # 34. `source_batch_id`
+    # 35. `url_status`
     cleaned_data_list = []
     for doc in list:
         cleaned_item = {
@@ -438,7 +445,8 @@ def sliver_job_mongodb_to_mysql():
             "welfare_description": doc.get("welfare_description"),
             "analysis_url": doc.get("analysis_url"),
             "updated_at": datetime.now(),
-            "source_batch_id": doc.get("source_batch_id")
+            "source_batch_id": doc.get("source_batch_id"),
+            "url_status": doc.get("url_status")
         }
 
         cleaned_data_list.append(cleaned_item)
@@ -446,6 +454,6 @@ def sliver_job_mongodb_to_mysql():
     #連線到 MySQL 並將清理後的資料寫入 job 表格
     insert_job_to_mysql(cleaned_data_list)
 
-sliver_job_mongodb_to_mysql()
+silver_job_mongodb_to_mysql()
 
 

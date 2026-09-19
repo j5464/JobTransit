@@ -1,26 +1,27 @@
-from pendulum import today
+import os
+from dotenv import load_dotenv
 from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
-from urllib.parse import urlparse
 from datetime import datetime, timedelta, time
 from pymysql import connect
 
-def conn_to_mongodb(conn_ip:str,db_name: str,collection_name: str):
+def conn_to_mongodb(collection_name: str):
     """
     皆要使用"雙引號"或'單引號'包住字串，參數說明:\n
     *conn_ip*:要連線的ip\n
     *db_name*: 資料庫名稱\n
     *collection_name*: 集合表名稱\n
     """
-    connection = f"mongodb://{conn_ip}:27017/"
+    #載入.env 到環境變數
+    load_dotenv()
+    connection = os.getenv("MONGODB_URI")
     try:
-
         #使用URI連結
         client = MongoClient(connection)
         client.admin.command('ping')
 
         #使用(創建)資料庫
-        db = client[db_name]
+        db = client[os.getenv("MONGODB_DB_NAME")]
 
         #使用(創建)文檔集
         collection = db[collection_name]
@@ -99,13 +100,13 @@ def import_company_to_mysql(cleaned_data_list):
     finally:
         mysql_conn.close()
 
-def sliver_company_mongodb_to_mysql():
-    collection = conn_to_mongodb("localhost", "tkr102", "job_details")
+def silver_company_mongodb_to_mysql():
+    collection = conn_to_mongodb("job_details")
     if collection is None:
         print("無法連線到 MongoDB，請檢查伺服器狀態。")
         return
 
-    print("開始處理 sliver_company")
+    print("開始處理 silver_company")
     today = datetime.combine(datetime.now().date(), time.min)
 
     # 1. 昨天 (今天 - 1 天) 的 23:55
@@ -204,5 +205,5 @@ def sliver_company_mongodb_to_mysql():
     # 連線到 MySQL 並將清理後的資料寫入 company 表格
     import_company_to_mysql(cleaned_data_list_company)
 
-sliver_company_mongodb_to_mysql()
+silver_company_mongodb_to_mysql()
 

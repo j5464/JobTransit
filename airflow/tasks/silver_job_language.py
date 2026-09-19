@@ -36,9 +36,18 @@ def silver_job_language():
     end_time = datetime.combine(today + timedelta(days=1), time(0, 0, 0))
 
     pipeline = [
-        {"$match": {"switch": "on", "ingestion_timestamp": {"$gte": start_time, "$lt": end_time}}},
+        {"$match": {"switch": "on"}},
+        {
+            "$match": {
+                "ingestion_timestamp": {
+                    "$gte": start_time,  # 昨天 23:55:00
+                    "$lt": end_time,  # 明天 00:00:00
+                }
+            }
+        },
         {"$sort": {"ingestion_timestamp": -1}},
         {"$unwind": "$condition.language"},
+        {"$unwind": "$header"},
         {"$project": {
             "job_id": {
                 "$let": {

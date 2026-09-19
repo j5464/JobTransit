@@ -27,7 +27,15 @@ def silver_job_requirement():
     end_time = datetime.combine(today + timedelta(days=1), time(0, 0, 0))
 
     pipeline = [
-        {"$match": {"switch": "on", "ingestion_timestamp": {"$gte": start_time, "$lt": end_time}}},
+        {"$match": {"switch": "on"}},
+        {
+            "$match": {
+                "ingestion_timestamp": {
+                    "$gte": start_time,  # 昨天 23:55:00
+                    "$lt": end_time,  # 明天 00:00:00
+                }
+            }
+        },
         {"$sort": {"ingestion_timestamp": -1}},
         {"$project": {
             "job_id": {
@@ -47,7 +55,7 @@ def silver_job_requirement():
             "driver_license": [{"$unwind": "$condition.driverLicense"}, {"$project": {"_id": 0, "job_id": 1, "requirement_type": "DRIVER_LICENSE", "requirement_value": "$condition.driverLicense"}}],
             "accept_role": [{"$unwind": "$condition.acceptRole.role"}, {"$project": {"_id": 0, "job_id": 1, "requirement_type": "ACCEPT_ROLE", "requirement_value": "$condition.acceptRole.role.description"}}],
             "work_type": [{"$unwind": "$jobDetail.workType"}, {"$project": {"_id": 0, "job_id": 1, "requirement_type": "WORK_TYPE", "requirement_value": "$jobDetail.workType"}}],
-            "certificate": [{"$unwind": "$condition.certificate"}, {"$project": {"_id": 0, "job_id": 1, "requirement_type": "CERTIFICATE", "requirement_value": "$condition.certificate.name"}}],
+            "certificate": [{"$unwind": "$condition.certificate"}, {"$project": {"_id": 0, "job_id": 1, "requirement_type": "CERTIFICATE", "requirement_value": "$condition.certificate.description"}}],
         }},
         {"$project": {"requirements": {"$concatArrays": ["$major", "$driver_license", "$accept_role", "$work_type", "$certificate"]}}},
         {"$unwind": "$requirements"},

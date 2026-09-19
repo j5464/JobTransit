@@ -34,13 +34,13 @@ default_args = {
 )
 @task
 def run_silver_all_etl():
-    t1 = silver_company_mongodb_to_mysql()
-    t2 = silver_job_mongodb_to_mysql()
-    t3 = silver_category_mongodb_to_mysql()
-    t4 = silver_job_skill()
-    t5 = silver_job_specialty()
-    t6 = silver_job_language()
-    t7 = silver_job_requirement()
-    t1 >> t2 >> t3 >> t4 >> t5 >> t6 >> t7
+    silver_company_mongodb_to_mysql()
+    silver_job_mongodb_to_mysql()
+    silver_category_mongodb_to_mysql()
+    silver_job_skill()
+    silver_job_specialty()
+    silver_job_language()
+    silver_job_requirement()
+
 
 run_silver_all_etl()

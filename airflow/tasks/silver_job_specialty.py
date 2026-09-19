@@ -25,6 +25,10 @@ def silver_job_specialty():
         return
 
     print("開始處理 silver_job_specialty")
+    today = datetime.combine(datetime.now().date(), time.min)
+    start_time = (today - timedelta(days=1)).replace(hour=23, minute=55)
+    end_time = today + timedelta(days=1)
+
     pipeline_refer_list = [
         {"$project": {"condition": 1}},
         {"$unwind": "$condition.specialty"},
@@ -35,6 +39,14 @@ def silver_job_specialty():
 
     pipeline = [
         {"$match": {"switch": "on"}},
+        {
+            "$match": {
+                "ingestion_timestamp": {
+                    "$gte": start_time,  # 昨天 23:55:00
+                    "$lt": end_time,  # 明天 00:00:00
+                }
+            }
+        },
         {"$sort": {"ingestion_timestamp": -1}},
         {"$unwind": "$condition"},
         {"$addFields": {

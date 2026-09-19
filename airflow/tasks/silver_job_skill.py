@@ -65,7 +65,7 @@ def silver_job_skill():
                 "let": {
                     "other_text": {"$ifNull": ["$condition.other", ""]},
                     "desc_text": {"$ifNull": ["$jobDetail.jobDescription", ""]},
-                    "spec_names": {"$ifNull": ["$raw_skills.description", []]},
+                    "spec_names": {"$ifNull": ["$raw_skillsraw_skills.description", []]},
                 },
                 "pipeline": [
                     {"$match": {"$expr": {"$or": [
@@ -73,15 +73,15 @@ def silver_job_skill():
                         {"$regexMatch": {"input": "$$other_text", "regex": "$description", "options": "i"}},
                         {"$regexMatch": {"input": "$$desc_text", "regex": "$description", "options": "i"}},
                     ]}}},
-                    {"$project": {"_id": 0, "skill_code": "$_id", "skill_description": "$description"}},
+                    {"$project": {"_id": 0, "skill_code": "$_id", "skill_name": "$description"}},
                 ],
                 "as": "matched_tools",
             }
         },
         {"$unwind": "$matched_tools"},
-        {"$project": {"_id": 0, "job_id": "$parsed_job_id", "skill_code": "$matched_tools.skill_code", "skill_description": "$matched_tools.skill_description"}},
-        {"$group": {"_id": {"job_id": "$job_id", "skill_code": "$skill_code", "skill_description": "$skill_description"}}},
-        {"$project": {"_id": 0, "job_id": "$_id.job_id", "skill_code": "$_id.skill_code", "skill_description": "$_id.skill_description"}},
+        {"$project": {"_id": 0, "job_id": "$parsed_job_id", "skill_code": "$matched_tools.skill_code", "skill_name": "$matched_tools.skill_name"}},
+        {"$group": {"_id": {"job_id": "$job_id", "skill_code": "$skill_code", "skill_name": "$skill_name"}}},
+        {"$project": {"_id": 0, "job_id": "$_id.job_id", "skill_code": "$_id.skill_code", "skill_name": "$_id.skill_name"}},
     ]
 
     cleaned_data_list = []
@@ -89,7 +89,7 @@ def silver_job_skill():
         cleaned_data_list.append({
             "job_id": doc.get("job_id"),
             "skill_code": doc.get("skill_code"),
-            "skill_description": doc.get("skill_description"),
+            "skill_description": doc.get("skill_name"),
         })
 
     if cleaned_data_list:

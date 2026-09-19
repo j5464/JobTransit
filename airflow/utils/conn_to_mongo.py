@@ -1,20 +1,28 @@
 #安裝 pymongo：python -m pip install pymongo (uv add pymongo)
 #升級 pymongo：python -m pip install --upgrade pymongo
+#辨識.env檔：uv add python-dotenv (帳號密碼)
 
+import os
+from dotenv import load_dotenv
 from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 
+#載入.env 到環境變數
+load_dotenv()
+
 #建立與 MongoDB 的連線，並回傳指定的 Collection
 def conn_to_mongodb(collection_name: str):
-    connection = "mongodb://host.docker.internal:27017/"
+    #抓取環境變數
+    connection =  os.getenv("MONGODB_URI")
     try:
 
         #使用URI連結
         client = MongoClient(connection)
         client.admin.command('ping')
+        print("成功連線到 MongoDB!")
 
         #使用(創建)資料庫
-        db = client['tkr102']
+        db = client[os.getenv("MONGODB_DB_NAME")]
 
         #使用(創建)文檔集
         collection = db[collection_name]

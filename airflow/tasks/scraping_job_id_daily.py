@@ -5,6 +5,8 @@ import random
 import requests
 from urllib.parse import urlparse
 import pendulum
+import os
+from dotenv import load_dotenv
 from tasks.json_to_mongo import insert_new_job_ids
 
 # 統一時區設定
@@ -80,21 +82,33 @@ def get_job_id(**context):  # 修正：加上 **context 接收參數
                 sleep_time = random.uniform(3, 5)
                 print(f"等待 {sleep_time:.2f} 秒後繼續撈取第 {page} 頁...")
                 time.sleep(sleep_time)
+                
+            #載入.env 到環境變數
+            load_dotenv()
+            # 將 Cloudflare 給你的網址加上剛才設定的帳號密碼
+            # proxy_url = "https://admitted-alien-stored-tmp.trycloudflare.com"
+            proxy_url = os.getenv("PROXY_URL")
 
-            #補上proxy設定
-            API_KEY = "02466104a93e03e4b6eaf551c3c8b3bf"
-            proxy_url = f"http://scraperapi:{API_KEY}@proxy-server.scraperapi.com:8001"
+            # 或是如果 Cloudflare Tunnel 網址帶有 https，通常寫法如下：
             proxies = {
                 "http": proxy_url,
                 "https": proxy_url
             }
 
             try:
-                response = requests.get(base_url, headers=headers, params=params, proxies=proxies, timeout=10)
-                
+                # 發送請求：將 url, headers, params 以及 proxies 全部帶入
+                response = requests.get(
+                    base_url,
+                    headers=headers,
+                    params=params,
+                    proxies=proxies,
+                    timeout=15  # 設定 Timeout 避免連線卡死
+                )
+                            
                 if response.status_code == 200:
                     json_data = response.json()
                     jobs = json_data.get("data", [])
+                    print("成功透過地端 Proxy 抓取 104 資料！")
 
                     if not jobs:
                         print("已無更多職缺資料，結束撈取。")
@@ -153,7 +167,11 @@ def get_job_id(**context):  # 修正：加上 **context 接收參數
                     page += 1
 
                 else:
-                    print(f"-> 第 {page} 頁請求失敗，HTTP 狀態碼: {response.status_code}")
+                    # print(f"-> 第 {page} 頁請求失敗，HTTP 狀態碼: {response.status_code}")
+                    print(f"-> 第 {page} 頁請求失敗")
+                    print(f"HTTP 狀態碼: {response.status_code}")
+                    print(f"Response: {response.text}")
+                    print(f"Request URL: {response.url}")
                     break
 
             except Exception as e:

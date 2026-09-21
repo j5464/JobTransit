@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block title %}第一頁 - 勾選技能{% endblock %}
+
+{% block content %}
+<form action="/categories" method="POST">
+    <div style="margin-bottom: 24px;">
+        <h2>第一頁：請勾選您具備的專業技能與工具</h2>
+        <p style="color: #64748b; margin-top: 6px;">請選擇您擅長的技能，系統將動態計算出最符合您的職業類別。</p>
+    </div>
+
+    {% for category_name, skills in skill_categories.items() %}
+    <div class="card">
+        <h3 style="font-size: 16px; color: #0f172a; margin-bottom: 12px;">📌 {{ category_name }}</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+            {% for skill in skills %}
+            <label style="display: inline-flex; align-items: center; background: #f1f5f9; padding: 8px 14px; border-radius: 20px; font-size: 14px; cursor: pointer; user-select: none;">
+                <input type="checkbox" name="skills" value="{{ skill }}" style="margin-right: 6px;"> {{ skill }}
+            </label>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+
+    <!-- 懸浮提交按鈕 -->
+    <div style="position: fixed; bottom: 0; left: 0; width: 100%; background: #ffffff; border-top: 1px solid #e2e8f0; padding: 16px 0; text-align: center; box-shadow: 0 -4px 10px rgba(0,0,0,0.05);">
+        <button type="submit" style="background: #2563eb; color: white; border: none; padding: 12px 32px; font-size: 16px; font-weight: 700; border-radius: 8px; cursor: pointer;">
+            送出技能，計算職業符合度 ➔
+        </button>
+    </div>
+</form>
+{% endblock %}

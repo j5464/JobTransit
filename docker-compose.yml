@@ -22,12 +22,14 @@ services:
     image: alpine:latest
     container_name: tkr102-init-permissions
     user: root
+      # 1. 將擁有者動態設為宿主機當前使用者 UID，群組設為 root 群組 (0)
+      # 2. 僅針對目錄遞迴給予群組 (g+rwx) 權限，避免對非執行檔盲目下 chmod +x
     command: >
       sh -c "
       mkdir -p /mnt/mysql /mnt/airflow-logs /mnt/airflow-dags /mnt/airflow-plugins &&
       chown -R 999:999 /mnt/mysql &&
-      chown -R 50000:0 /mnt/airflow-logs /mnt/airflow-dags /mnt/airflow-plugins &&
-      chmod -R 775 /mnt/airflow-logs /mnt/airflow-dags /mnt/airflow-plugins
+      chown -R ${HOST_UID}:0 /mnt/airflow-logs /mnt/airflow-dags /mnt/airflow-plugins &&
+      chmod -R g+rwX /mnt/airflow-logs /mnt/airflow-dags /mnt/airflow-plugins
       "
     volumes:
       - ./mysql_data:/mnt/mysql
@@ -135,6 +137,8 @@ services:
         condition: service_started
       airflow-init:
         condition: service_completed_successfully
+    env_file:
+      - .env
     environment:
       AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://${POSTGRES_USER:-airflow}:${POSTGRES_PASSWORD:-airflow}@postgres/${POSTGRES_DB:-airflow}
       AIRFLOW__CORE__EXECUTOR: LocalExecutor

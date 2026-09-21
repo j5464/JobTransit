@@ -89,7 +89,6 @@ def get_job_id(**context):  # 修正：加上 **context 接收參數
             proxy_url = os.getenv("PROXY_URL")
             urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-            # 或是如果 Cloudflare Tunnel 網址帶有 https，通常寫法如下：
             proxies = {
                 "http": proxy_url,
                 "https": proxy_url

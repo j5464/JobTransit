@@ -1,6 +1,6 @@
 from airflow.decorators import task
 import time
-from datetime import datetime, time
+from datetime import datetime
 import random
 import requests
 from urllib.parse import urlparse

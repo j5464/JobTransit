@@ -7,6 +7,7 @@ from urllib.parse import urlparse
 import pendulum
 import os
 from dotenv import load_dotenv
+import urllib3
 from tasks.json_to_mongo import insert_new_job_ids
 
 # 統一時區設定
@@ -85,9 +86,8 @@ def get_job_id(**context):  # 修正：加上 **context 接收參數
                 
             #載入.env 到環境變數
             load_dotenv()
-            # 將 Cloudflare 給你的網址加上剛才設定的帳號密碼
-            # proxy_url = "https://admitted-alien-stored-tmp.trycloudflare.com"
             proxy_url = os.getenv("PROXY_URL")
+            urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
             # 或是如果 Cloudflare Tunnel 網址帶有 https，通常寫法如下：
             proxies = {
@@ -102,7 +102,8 @@ def get_job_id(**context):  # 修正：加上 **context 接收參數
                     headers=headers,
                     params=params,
                     proxies=proxies,
-                    timeout=15  # 設定 Timeout 避免連線卡死
+                    timeout=15,  # 設定 Timeout 避免連線卡死
+                    verify=False
                 )
                             
                 if response.status_code == 200:

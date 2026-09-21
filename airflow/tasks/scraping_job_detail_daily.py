@@ -4,6 +4,9 @@ import pendulum
 import time
 import random
 import requests
+import os
+from dotenv import load_dotenv
+import urllib3
 from tasks.json_to_mongo import get_pending_jobs,update_job_status_to_complete,insert_job_detail
 
 def get_job_detail(session, job_id):
@@ -15,16 +18,18 @@ def get_job_detail(session, job_id):
         "Accept": "application/json, text/plain, */*",
     }
 
-    #補上proxy設定
-    API_KEY = "02466104a93e03e4b6eaf551c3c8b3bf"
-    proxy_url = f"http://scraperapi:{API_KEY}@proxy-server.scraperapi.com:8001"
+    #載入.env 到環境變數
+    load_dotenv()
+    proxy_url = os.getenv("PROXY_URL")
+    urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
     proxies = {
         "http": proxy_url,
         "https": proxy_url
     }
 
     try:
-        response = session.get(detail_url, headers=headers, proxies=proxies, timeout=10)
+        response = session.get(detail_url, headers=headers, proxies=proxies, timeout=15,verify=False)
         if response.status_code == 200:
             # --- 修改點：為確保 source_response_timestamp 的正確 API 時間
             # json_data = response.json()

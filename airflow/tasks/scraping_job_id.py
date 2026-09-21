@@ -4,6 +4,9 @@ import time
 import random
 import requests
 from urllib.parse import urlparse
+import os
+from dotenv import load_dotenv
+import urllib3
 from tasks.json_to_mongo import get_existing_job_ids,insert_new_job_ids
 
 def parse_iso_date(date_str):
@@ -71,8 +74,26 @@ def get_job_id():
                 # print(f"等待 {sleep_time:.2f} 秒後繼續撈取第 {page} 頁...")
                 time.sleep(sleep_time)
 
+            #載入.env 到環境變數
+            load_dotenv()
+            proxy_url = os.getenv("PROXY_URL")
+            urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+            proxies = {
+                "http": proxy_url,
+                "https": proxy_url
+            }
+
             try:
-                response = requests.get(base_url, headers=headers, params=params, timeout=10)
+                # 發送請求：將 url, headers, params 以及 proxies 全部帶入
+                response = requests.get(
+                    base_url,
+                    headers=headers,
+                    params=params,
+                    proxies=proxies,
+                    timeout=15,  # 設定 Timeout 避免連線卡死
+                    verify=False
+                )
                 
                 if response.status_code == 200:
                     json_data = response.json()

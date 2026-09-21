@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}JobTransit{% endblock %}</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; }
+        body { background-color: #f8fafc; color: #334155; padding-bottom: 80px; }
+        nav { background-color: #0f172a; padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; }
+        .logo { color: #ffffff; font-size: 18px; font-weight: 700; }
+        .nav-links a { color: #94a3b8; text-decoration: none; margin-left: 20px; font-size: 14px; }
+        .container { max-width: 900px; margin: 30px auto; padding: 0 20px; }
+        .card { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.04); }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="logo">📊 JobTransit</div>
+        <div class="nav-links">
+            <a href="/">1. 技能勾選</a>
+            <a href="/categories">2. 職業推薦</a>
+            <a href="/map">3. 區域地圖</a>
+            <a href="/jobs">4. 職缺卡片</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+</body>
+</html>

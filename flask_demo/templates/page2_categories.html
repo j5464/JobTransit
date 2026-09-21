@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+{% block title %}第二頁 - 職業類別推薦{% endblock %}
+
+{% block content %}
+<div>
+    <h2>第二頁：推薦職業類別與技能符合度</h2>
+    <p style="color: #64748b; margin-top: 6px;">動態計算出的 Match 相符百分比排行榜[cite: 1]：</p>
+</div>
+
+<!-- 顯示第一頁帶過來的技能 -->
+<div style="background: #eff6ff; border: 1px solid #bfdbfe; padding: 12px 16px; border-radius: 8px; margin: 20px 0; font-size: 14px;">
+    <b>🎯 您在第一頁勾選的技能 ({{ selected_skills|length }})：</b>
+    {% for sk in selected_skills %}
+    <span style="background: #ffffff; padding: 2px 8px; border-radius: 12px; margin-left: 4px; border: 1px solid #cbd5e1;">{{ sk }}</span>
+    {% endfor %}
+</div>
+
+<!-- 職業推薦卡片列表 -->
+<div style="display: flex; flex-direction: column; gap: 16px;">
+    {% for rec in recommendations %}
+    <div class="card" style="display: flex; justify-content: space-between; align-items: center;">
+        <div style="flex: 1;">
+            <h3 style="font-size: 18px; color: #1e293b;">{{ rec.name }}</h3>
+            <p style="font-size: 13px; color: #64748b; margin-top: 4px;">{{ rec.desc }}</p>
+            
+            <div style="margin-top: 10px; font-size: 13px;">
+                <span style="color: #16a34a; font-weight: 600;">✓ 已具備技能：</span> 
+                {{ rec.matched_skills|join(', ') if rec.matched_skills else '無' }}
+                <br>
+                <span style="color: #dc2626; font-weight: 600;">✕ 建議補強：</span> 
+                {{ rec.missing_skills|join(', ') if rec.missing_skills else '無' }}
+            </div>
+        </div>
+
+        <div style="text-align: right; min-width: 140px; margin-left: 20px;">
+            <div style="font-size: 28px; font-weight: 800; color: #2563eb;">{{ rec.match_score }}%</div>
+            <div style="font-size: 12px; color: #64748b; margin-bottom: 8px;">匹配符合度[cite: 1]</div>
+            <a href="/map?category={{ rec.id }}" style="background: #0f172a; color: white; padding: 6px 12px; border-radius: 6px; text-decoration: none; font-size: 13px; display: inline-block;">
+                選擇此職業 ➔
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

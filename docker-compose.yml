@@ -147,8 +147,9 @@ services:
       PYTHONPATH: /opt/airflow #施老師的設定：避免找不到tasks, utils資料夾
       #給airflow一個內部(networks)的路徑
       MONGODB_URI: "mongodb://root:password@mongodb:27017/" 
-      MYSQL_SILVER_URI: "mysql+pymysql://root:rootpassword@mysql:3306/silver_db"
-      MYSQL_GOLD_URI: "mysql+pymysql://root:rootpassword@mysql:3306/gold_db"
+      # 修改後（自動讀取 .env 中的密碼）：
+      MYSQL_SILVER_URI: "mysql+pymysql://root:${MYSQL_ROOT_PASSWORD}@mysql:3306/silver_db"
+      MYSQL_GOLD_URI: "mysql+pymysql://root:${MYSQL_ROOT_PASSWORD}@mysql:3306/gold_db"
     ports:
       - "8080:8080"
     volumes:

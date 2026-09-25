@@ -29,7 +29,7 @@ def import_company_to_mysql(cleaned_data_list):
     run_mysql_upsert(sql, cleaned_data_list)
 
 
-def silver_company_mongodb_to_mysql():
+def silver_company_mongodb_to_mysql(filter_by_date):
     collection = get_mongodb_collection()
     if collection is None:
         return
@@ -40,15 +40,18 @@ def silver_company_mongodb_to_mysql():
     end_time = today + timedelta(days=1)
 
     pipeline = [
-        {"$match": {"switch": "on"}},
-        {
+        {"$match": {"switch": "on"}},]
+    # 依據版本參數控制是否加入時間過濾區塊
+    if filter_by_date:
+        pipeline.append({
             "$match": {
                 "ingestion_timestamp": {
                     "$gte": start_time,
                     "$lt": end_time,
                 }
             }
-        },
+        })
+    pipeline.extend([
         {"$sort": {"batch_id": -1}},
         {
             "$group": {
@@ -93,7 +96,7 @@ def silver_company_mongodb_to_mysql():
                 "_source_batch_id": 1,
             }
         },
-    ]
+    ])
 
     cleaned_data_list = []
     for doc in collection.aggregate(pipeline):

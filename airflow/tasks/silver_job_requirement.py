@@ -16,7 +16,7 @@ def import_requirement_to_mysql(cleaned_data_list):
     run_mysql_upsert(sql, cleaned_data_list)
 
 
-def silver_job_requirement():
+def silver_job_requirement(filter_by_date: bool = True):
     collection = get_mongodb_collection()
     if collection is None:
         return
@@ -27,15 +27,19 @@ def silver_job_requirement():
     end_time = datetime.combine(today + timedelta(days=1), time(0, 0, 0))
 
     pipeline = [
-        {"$match": {"switch": "on"}},
-        {
+        {"$match": {"switch": "on"}},]
+    # 依據版本參數控制是否加入時間過濾區塊
+    if filter_by_date:
+        pipeline.append({
             "$match": {
                 "ingestion_timestamp": {
                     "$gte": start_time,  # 昨天 23:55:00
                     "$lt": end_time,  # 明天 00:00:00
                 }
             }
-        },
+        })
+    # 串接剩餘的 Pipeline 階段
+    pipeline.extend([
         {"$sort": {"ingestion_timestamp": -1}},
         {"$project": {
             "job_id": {
@@ -62,7 +66,7 @@ def silver_job_requirement():
         {"$replaceRoot": {"newRoot": "$requirements"}},
         {"$group": {"_id": {"job_id": "$job_id", "requirement_type": "$requirement_type", "requirement_value": "$requirement_value"}}},
         {"$project": {"_id": 0, "job_id": "$_id.job_id", "requirement_type": "$_id.requirement_type", "requirement_value": "$_id.requirement_value"}},
-    ]
+    ])
 
     cleaned_data_list = []
     for doc in collection.aggregate(pipeline):

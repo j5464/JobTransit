@@ -29,7 +29,7 @@ def import_company_to_mysql(cleaned_data_list):
     run_mysql_upsert(sql, cleaned_data_list)
 
 
-def silver_company_mongodb_to_mysql(filter_by_date):
+def silver_company_mongodb_to_mysql(filter_by_date: bool = True):
     collection = get_mongodb_collection()
     if collection is None:
         return

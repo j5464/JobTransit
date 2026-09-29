@@ -1,0 +1,437 @@
+{% extends 'base.html' %}
+{% block title %}第二頁 - 職業類別推薦{% endblock %}
+
+{% block content %}
+<style>
+    /* 星級折疊面板樣式 */
+    details.star-details {
+        background: #ffffff;
+        border: 1px solid #e2e8f0;
+        border-radius: 8px;
+        margin-bottom: 16px;
+        overflow: hidden;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        transition: all 0.2s ease;
+    }
+    details.star-details[open] {
+        border-color: #cbd5e1;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+    summary.star-summary {
+        background: #f8fafc;
+        padding: 14px 20px;
+        font-weight: 700;
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        list-style: none; /* 隱藏原生箭頭 */
+        user-select: none;
+    }
+    summary.star-summary::-webkit-details-marker {
+        display: none; /* 隱藏 Safari/Chrome 原生箭頭 */
+    }
+    summary.star-summary:hover {
+        background: #f1f5f9;
+    }
+    /* 自訂展開/收合小箭頭圖示 */
+    .toggle-icon {
+        font-size: 12px;
+        color: #64748b;
+        transition: transform 0.2s ease;
+    }
+    details[open] .toggle-icon {
+        transform: rotate(180deg);
+    }
+
+    /* 技能標籤樣式 */
+    .skill-badge-matched {
+        background-color: #f0fdf4;
+        color: #16a34a;
+        border: 1px solid #bbf7d0;
+        padding: 2px 8px;
+        border-radius: 4px;
+        font-size: 12px;
+        display: inline-block;
+        margin-right: 4px;
+        margin-top: 4px;
+    }
+    .skill-badge-missing {
+        background-color: #fef2f2;
+        color: #dc2626;
+        border: 1px solid #fecaca;
+        padding: 2px 8px;
+        border-radius: 4px;
+        font-size: 12px;
+        display: inline-block;
+        margin-right: 4px;
+        margin-top: 4px;
+    }
+    /* 讓主容器變成 2 欄版面 (左: 職業卡片, 右: 浮動小視窗) */
+    .page-layout {
+        display: flex;
+        gap: 24px;
+        align-items: flex-start;
+        position: relative;
+    }
+
+    /* 左側主內容區 (職業卡片) */
+    .main-content {
+        flex: 1;
+        min-width: 0; /* 避免 flex 欄位暴撐 */
+    }
+
+    /* 1. 浮動小按鈕 (右下角固定) */
+    .floating-toggle-btn {
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        background: #2563eb;
+        color: white;
+        border: none;
+        padding: 12px 20px;
+        border-radius: 30px;
+        font-weight: bold;
+        box-shadow: 0 4px 15px rgba(37, 99, 235, 0.4);
+        cursor: pointer;
+        z-index: 1000;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    /* 2. 右側滑出抽屜 (Drawer) */
+    .floating-sidebar {
+        position: fixed;
+        top: 0;
+        right: -320px; /* 預設藏在螢幕右側外 */
+        width: 300px;
+        height: 100vh;
+        background: #ffffff;
+        box-shadow: -5px 0 25px rgba(0, 0, 0, 0.15);
+        padding: 20px;
+        z-index: 1001;
+        transition: right 0.3s ease; /* 滑動動畫 */
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* 抽屜展開狀態 */
+    .floating-sidebar.active {
+        right: 0;
+    }
+
+    /* 遮罩背景 */
+    .sidebar-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background: rgba(0, 0, 0, 0.3);
+        z-index: 1000;
+        display: none;
+    }
+    .sidebar-overlay.active {
+        display: block;
+    }
+</style>
+
+<!-- 右下角浮動按鈕 -->
+<button class="floating-toggle-btn" onclick="toggleSidebar()">
+    ⚡ 補強清單 <span id="skill-count-badge" style="background: #ef4444; color: white; border-radius: 10px; padding: 2px 8px; font-size: 12px;">0</span>
+</button>
+
+<!-- 背景遮罩 -->
+<div id="sidebar-overlay" class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+<!-- 右側滑出面板 -->
+<div id="floating-sidebar" class="floating-sidebar">
+    <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #e2e8f0; padding-bottom: 12px; margin-bottom: 12px;">
+        <h4 style="margin: 0; font-size: 16px; color: #1e3a8a;">⚡ 技能補強清單</h4>
+        <button onclick="toggleSidebar()" style="border: none; background: none; font-size: 18px; cursor: pointer; color: #64748b;">✕</button>
+    </div>
+
+    <p style="font-size: 12px; color: #64748b; margin-bottom: 10px;">
+        點擊卡片中的 <b style="color: #ef4444;">[ + ]</b> 加入補強技能：
+    </p>
+
+    <div id="temp-skills-container" style="flex: 1; overflow-y: auto; background: #f8fafc; border: 1px dashed #cbd5e1; border-radius: 8px; padding: 8px; margin-bottom: 12px;">
+        <div id="empty-msg" style="color: #94a3b8; font-size: 12px; text-align: center; margin-top: 25px;">
+            尚無新增技能
+        </div>
+    </div>
+
+    <form id="recalculate-form" action="/categoriesA" method="POST">
+        <div id="hidden-inputs-container">
+            {% for sk in selected_skills %}
+                <input type="hidden" name="skills" value="{{ sk }}">
+            {% endfor %}
+        </div>
+        <button type="submit" style="width: 100%; background: #2563eb; color: white; border: none; padding: 12px; font-size: 14px; font-weight: bold; border-radius: 6px; cursor: pointer;">
+            🔄 送出並重新計算
+        </button>
+    </form>
+</div>
+
+<script>
+    // 控制面板開關
+    function toggleSidebar() {
+        document.getElementById('floating-sidebar').classList.toggle('active');
+        document.getElementById('sidebar-overlay').classList.toggle('active');
+    }
+
+    // 當點擊 (+) 新增技能時，自動幫使用者打開抽屜
+    function addTempSkill(skillName) {
+        // ... (原本的 addTempSkill 邏輯保持不變) ...
+        
+        // 自動展開抽屜提示使用者
+        document.getElementById('floating-sidebar').classList.add('active');
+        document.getElementById('sidebar-overlay').classList.add('active');
+    }
+</script>
+
+<div>
+    <h2>第二頁：推薦職業類別與技能符合度</h2>
+    <p style="color: #64748b; margin-top: 6px;">
+        結合您的「技能契合度」與「職場實際需求量」動態計算出的 1~5 顆星推薦排行榜：
+    </p>
+</div>
+
+<!-- 🎯 第一頁勾選技能區塊 (預設收起 + 修正標籤重疊) -->
+<details style="background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 8px; margin: 20px 0; overflow: hidden;">
+    
+    <!-- 折疊按鈕標頭 (預設顯示) -->
+    <summary style="padding: 12px 16px; font-size: 14px; font-weight: bold; color: #1e40af; cursor: pointer; user-select: none; display: flex; justify-content: space-between; align-items: center; list-style: none;">
+        <span>🎯 您在第一頁勾選的技能 ({{ selected_skills|length }})</span>
+        <span style="font-size: 12px; color: #3b82f6; font-weight: normal;">點擊展開 / 收起 ▼</span>
+    </summary>
+
+    <!-- 下拉展開後的標籤內容 -->
+    <div style="padding: 12px 16px; border-top: 1px solid #dbeafe; background: #ffffff; line-height: 2.2;">
+        {% if selected_skills %}
+            {% for sk in selected_skills %}
+                <span style="display: inline-block; background: #f0f9ff; padding: 3px 10px; border-radius: 16px; margin-right: 6px; margin-bottom: 8px; border: 1px solid #bae6fd; color: #0369a1; font-size: 13px; font-weight: 500; vertical-align: middle;">
+                    ✓ {{ sk }}
+                </span>
+            {% endfor %}
+        {% else %}
+            <span style="color: #94a3b8; font-size: 13px;">未勾選任何技能</span>
+        {% endif %}
+    </div>
+
+</details>
+
+<div class="page-layout">
+    <!-- 左側主要內容 -->
+    <div class="main-content">
+
+<!-- 按 5星 到 1星 進行大標題分類與卡片展示 -->
+{% if grouped_results %}
+    {% for stars in [5, 4, 3, 2, 1] %}
+        {% if stars in grouped_results %}
+        
+        <!-- 【訴求 4】：每一個星級區塊為折疊按鍵，預設收起來 (無 open 屬性) -->
+        <details class="star-details">
+            <summary class="star-summary">
+                <div style="display: flex; align-items: center; gap: 10px;">
+                    <!-- 黃色 1~5 顆星圖示 -->
+                    <span style="color: #eab308; font-size: 18px; letter-spacing: 2px;">
+                        {% for i in range(stars) %}★{% endfor %}{% for i in range(5 - stars) %}☆{% endfor %}
+                    </span>
+                    <span style="font-size: 16px; color: #0f172a;">
+                        {% if stars == 5 %}極力推薦 (高契合度 + 熱門市場)
+                        {% elif stars == 4 %}高度推薦
+                        {% elif stars == 3 %}中度推薦
+                        {% elif stars == 2 %}潛力/小眾推薦
+                        {% else %}低度相關
+                        {% endif %}
+                    </span>
+                </div>
+                
+                <div style="display: flex; align-items: center; gap: 12px;">
+                    <span style="font-size: 13px; color: #64748b; font-weight: normal;">
+                        共 {{ grouped_results[stars]|length }} 個適配職務
+                    </span>
+                    <span class="toggle-icon">▼</span>
+                </div>
+            </summary>
+
+            <!-- 展開後的卡片清單列表 (內部按 match_percent 高至低排序) -->
+            <div style="padding: 16px; display: flex; flex-direction: column; gap: 16px; background: #ffffff;">
+                {% for item in grouped_results[stars] %}
+                <div class="card" style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0; padding: 16px; border: 1px solid #f1f5f9; border-radius: 8px; background: #fafafa;">
+                    
+                    <div style="flex: 1; padding-right: 20px;">
+                        <!-- 職業名稱 -->
+                        <h3 style="font-size: 18px; color: #1e293b; margin-bottom: 4px;">{{ item.category_name }}</h3>
+                        
+                        <!-- 【訴求 3】：職業類別簡單敘述 -->
+                        <p style="font-size: 13px; color: #64748b; margin-bottom: 12px; line-height: 1.4;">
+                            {{ item.category_desc if item.category_desc else '暫無職業類別相關說明敘述。' }}
+                        </p>
+                        
+                        <!-- 【訴求 2】：✓ 已具備技能 & ✕ 建議補強 -->
+                        <div style="font-size: 13px; line-height: 1.6;">
+                            <div>
+                                <span style="font-weight: 600; color: #16a34a;">✓ 已具備技能：</span>
+                                {% if item.matched_skills %}
+                                    {% for sk in item.matched_skills %}
+                                        <span class="skill-badge-matched">{{ sk }}</span>
+                                    {% endfor %}
+                                {% else %}
+                                    <span style="color: #94a3b8;">無</span>
+                                {% endif %}
+                            </div>
+                            <!-- 在「建議補強」標籤旁邊加上一個 (+) 點擊按鈕 -->
+                            <div style="margin-top: 8px;">
+                                <span style="font-size: 12px; font-weight: bold; color: #ef4444;">✕ 建議補強：</span>
+                                {% for skill in item.missing_skills %}
+                                    <span class="badge" style="background: #fff1f2; border: 1px solid #fecdd3; color: #e11d48; padding: 2px 8px; border-radius: 4px; font-size: 12px; margin-right: 4px; display: inline-block;">
+                                        {{ skill }}
+                                        <!-- 點擊這顆 + 號，直接呼叫 JS 自動將此技能勾選並提交 -->
+                                        <button type="button" onclick="addTempSkill('{{ skill }}')" style="border: none; background: #fda4af; color: white; border-radius: 50%; width: 16px; height: 16px; line-height: 14px; font-size: 11px; margin-left: 4px; cursor: pointer;" title="將此技能加入並重新計算">+</button>
+                                    </span>
+
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 右側：技能契合度 % 與按鈕 (已移除職缺占比) -->
+                    <div style="text-align: right; min-width: 140px; display: flex; flex-direction: column; justify-content: space-between; align-self: stretch;">
+                        <div>
+                            <div style="font-size: 28px; font-weight: 800; color: #2563eb; line-height: 1;">{{ item.match_percent }}%</div>
+                            <div style="font-size: 12px; color: #64748b; margin-top: 4px;">技能契合度</div>
+                        </div>
+
+                        <!-- 🔴 2. 貼上這段：顯示推薦分值 (觀察完畢後直接刪除以下這塊即可) -->
+                        <div style="margin-top: 6px; padding: 2px 6px; background-color: #fef2f2; border: 1px dashed #fca5a5; border-radius: 4px; font-size: 11px; color: #dc2626; font-weight: bold;">
+                            Score: {{ item.score }}
+                        </div>
+                        <!-- ----------------------------------------------------------- -->
+                                        
+                        <form action="/map" method="GET" style="margin-top: 16px;">
+                            <input type="hidden" name="category" value="{{ item.category_code }}">
+                            <button type="submit" style="background: #0f172a; color: white; padding: 8px 14px; border-radius: 6px; border: none; font-size: 13px; font-weight: 600; cursor: pointer; width: 100%;">
+                                選擇此職業 ➔
+                            </button>
+                        </form>
+                    </div>
+
+                </div>
+                {% endfor %}
+            </div>
+        </details>
+        
+        {% endif %}
+    {% endfor %}
+{% else %}
+    <div class="card" style="text-align: center; padding: 40px; color: #94a3b8;">
+        <h3 style="font-size: 18px; color: #64748b; margin-bottom: 8px;">未找到相關適配職業</h3>
+        <p style="font-size: 14px;">請返回第一頁勾選更多您具備的專業技能！</p>
+        <a href="/" style="display: inline-block; margin-top: 16px; background: #2563eb; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-size: 14px;">← 返回第一頁勾選技能</a>
+    </div>
+{% endif %}
+
+</div> <!-- 結束左側 main-content -->
+
+    <!-- 🔴 2. 這裡加右側浮動小視窗 (Floating Sidebar) -->
+    <div class="floating-sidebar">
+        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-bottom: 12px;">
+            <h4 style="margin: 0; font-size: 15px; color: #1e3a8a;">⚡ 技能補強清單</h4>
+            <span id="skill-count-badge" style="background: #3b82f6; color: white; border-radius: 10px; padding: 2px 8px; font-size: 11px; font-weight: bold;">0</span>
+        </div>
+
+        <p style="font-size: 12px; color: #64748b; margin-bottom: 10px;">
+            點擊左側卡片中的 <b style="color: #ef4444;">[ + ]</b>，即可將技能加入下方：
+        </p>
+
+        <!-- 暫存技能顯示區 -->
+        <div id="temp-skills-container" style="min-height: 80px; max-height: 250px; overflow-y: auto; background: #f8fafc; border: 1px dashed #cbd5e1; border-radius: 8px; padding: 8px; margin-bottom: 12px;">
+            <div id="empty-msg" style="color: #94a3b8; font-size: 12px; text-align: center; margin-top: 25px;">
+                尚無新增技能
+            </div>
+        </div>
+
+        <!-- 送出用表單 -->
+        <form id="recalculate-form" action="/categoriesA" method="POST">
+            <div id="hidden-inputs-container">
+                <!-- 填入原本已勾選的技能 -->
+                {% for sk in selected_skills %}
+                    <input type="hidden" name="skills" value="{{ sk }}">
+                {% endfor %}
+            </div>
+
+            <button type="submit" style="width: 100%; background: #2563eb; color: white; border: none; padding: 10px; font-size: 13px; font-weight: bold; border-radius: 6px; cursor: pointer; box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.3);">
+                🔄 送出並重新計算
+            </button>
+        </form>
+    </div>
+
+</div> <!-- 結束雙欄 page-layout -->
+
+<script>
+    const newlyAddedSkills = new Set();
+
+    function addTempSkill(skillName) {
+        // 檢查是否已在清單中
+        const existingInputs = Array.from(document.querySelectorAll('#hidden-inputs-container input'))
+                                    .map(i => i.value);
+        if (existingInputs.includes(skillName)) {
+            alert(`「${skillName}」已經在您的技能清單中囉！`);
+            return;
+        }
+
+        const emptyMsg = document.getElementById('empty-msg');
+        if (emptyMsg) emptyMsg.style.display = 'none';
+
+        newlyAddedSkills.add(skillName);
+
+        // 新增到右側視窗顯示
+        const container = document.getElementById('temp-skills-container');
+        const badge = document.createElement('span');
+        badge.className = 'temp-skill-badge';
+        badge.id = `badge-${skillName}`;
+        badge.innerHTML = `
+            ${skillName}
+            <span class="remove-btn" onclick="removeTempSkill('${skillName}')" title="移除">✕</span>
+        `;
+        container.appendChild(badge);
+
+        // 新增 hidden input 到表單
+        const hiddenInputsContainer = document.getElementById('hidden-inputs-container');
+        const hiddenInput = document.createElement('input');
+        hiddenInput.type = 'hidden';
+        hiddenInput.name = 'skills';
+        hiddenInput.value = skillName;
+        hiddenInput.id = `input-${skillName}`;
+        hiddenInputsContainer.appendChild(hiddenInput);
+
+        updateSkillCount();
+    }
+
+    function removeTempSkill(skillName) {
+        const badge = document.getElementById(`badge-${skillName}`);
+        if (badge) badge.remove();
+
+        const hiddenInput = document.getElementById(`input-${skillName}`);
+        if (hiddenInput) hiddenInput.remove();
+
+        newlyAddedSkills.delete(skillName);
+
+        if (newlyAddedSkills.size === 0) {
+            const emptyMsg = document.getElementById('empty-msg');
+            if (emptyMsg) emptyMsg.style.display = 'block';
+        }
+
+        updateSkillCount();
+    }
+
+    function updateSkillCount() {
+        const countBadge = document.getElementById('skill-count-badge');
+        countBadge.innerText = newlyAddedSkills.size;
+    }
+</script>
+
+{% endblock %}

@@ -1,0 +1,289 @@
+{% extends 'base.html' %}
+
+{% block title %}第三頁：區域薪資與職缺分佈 (一頁全覽){% endblock %}
+
+{% block content %}
+<style>
+    .page-title-box {
+        margin-bottom: 20px;
+    }
+
+    /* 1. 按鈕換行調整：允許兩行/多行 (flex-wrap)，按鈕本身文字不折行 (nowrap)[cite: 1] */
+    .salary-switcher-container {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 24px;
+        background: #ffffff;
+        padding: 16px 20px;
+        border-radius: 12px;
+        border: 1px solid #e2e8f0;
+    }
+    .switcher-label {
+        font-weight: 700;
+        color: #334155;
+        font-size: 15px;
+        white-space: nowrap;
+    }
+    .btn-group-wrap {
+        display: flex;
+        flex-wrap: wrap; /* 允許分兩行顯示[cite: 1] */
+        gap: 10px;
+    }
+    .btn-salary-type {
+        display: inline-block;
+        padding: 8px 18px;
+        border-radius: 20px;
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: 600;
+        white-space: nowrap; /* 確保單一按鈕文字不會換行[cite: 1] */
+        transition: all 0.2s ease;
+        background: #f1f5f9;
+        color: #475569;
+        border: 1px solid #cbd5e1;
+    }
+    .btn-salary-type:hover {
+        background: #e2e8f0;
+    }
+    .btn-salary-type.active {
+        background: #2563eb;
+        color: #ffffff;
+        border-color: #1d4ed8;
+        box-shadow: 0 2px 6px rgba(37, 99, 235, 0.3);
+    }
+
+    /* 儀表板三欄式結構 */
+    .dashboard-layout {
+        display: flex;
+        gap: 20px;
+        align-items: flex-start;
+    }
+    .column-side {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+        min-width: 320px;
+    }
+    .column-center {
+        flex: 0.6;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        position: sticky;
+        top: 20px;
+    }
+
+    /* 卡片區塊 */
+    .region-card {
+        background: #ffffff;
+        border: 1px solid #e2e8f0;
+        border-radius: 12px;
+        padding: 18px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+    }
+    .card-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 12px;
+        padding-bottom: 8px;
+        border-bottom: 1px solid #f1f5f9;
+    }
+    .card-title {
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .card-count {
+        font-size: 13px;
+        color: #64748b;
+    }
+
+    /* 2. 薪資膠囊圖條 (完全還原附圖特徵)[cite: 3] */
+    .salary-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 13px;
+        margin-bottom: 10px;
+        height: 28px;
+    }
+    .exp-label {
+        width: 65px;
+        color: #475569;
+        font-weight: 600;
+        white-space: nowrap;
+    }
+    .salary-bar-wrapper {
+        flex: 1;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+        padding: 0 8px;
+    }
+    /* Pillar膠囊造型[cite: 3] */
+    .salary-pill {
+        position: relative;
+        flex: 1;
+        height: 18px;
+        background: linear-gradient(90deg, #2c7a7b, #319795);
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 120px;
+        margin: 0 auto;
+    }
+    /* 中間中位數亮點[cite: 3] */
+    .salary-pill-dot {
+        width: 10px;
+        height: 10px;
+        background-color: #e6fffa;
+        border: 2px solid #b2f5ea;
+        border-radius: 50%;
+        box-shadow: 0 0 4px rgba(0,0,0,0.2);
+    }
+    .salary-val {
+        font-weight: 600;
+        color: #1e293b;
+        font-size: 12px;
+        min-width: 45px;
+    }
+    .salary-val.left { text-align: right; }
+    .salary-val.right { text-align: left; }
+    .empty-line {
+        color: #cbd5e1;
+        font-size: 12px;
+        text-align: center;
+        flex: 1;
+    }
+
+    .btn-view-jobs {
+        display: block;
+        text-align: center;
+        margin-top: 12px;
+        color: #ffffff;
+        padding: 8px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-size: 13px;
+        font-weight: 600;
+    }
+</style>
+
+<div class="page-title-box">
+    <h2>第三頁：區域薪資與職缺分佈 (一頁全覽)</h2>
+    <p style="color: #64748b; font-size: 14px;">選擇職業代碼：<b>{{ category_code }}</b></p>
+</div>
+
+<!-- 1. 計薪類型切換選單 (圖示與兩行換行樣式)[cite: 1, 2] -->
+<div class="salary-switcher-container">
+    <span class="switcher-label">💰 計薪類型切換：</span>
+    <div class="btn-group-wrap">
+        {% for stext in available_salary_texts %}
+            <a href="/map?category={{ category_code }}&salary_text={{ stext }}" 
+               class="btn-salary-type {% if current_salary_text == stext %}active{% endif %}">
+                {% if '月薪' in stext %}🈷️
+                {% elif '年薪' in stext %}📅 
+                {% elif '時薪' in stext %}⏱️ 
+                {% elif '面議' in stext %}🤝
+                {% elif '論件' in stext %}📄 
+                {% else %}🏷️ {% endif %}
+                {{ stext }}
+            </a>
+        {% endfor %}
+    </div>
+</div>
+
+<!-- 2. 三欄區域地圖與卡片[cite: 1, 2, 4] -->
+<div class="dashboard-layout">
+
+    <!-- 左欄：中部/西部 (E) + 南部 (S)[cite: 1, 2, 4] -->
+    <div class="column-side">
+        {% for r_code in ['E', 'S'] %}
+            {% set r = regions[r_code] %}
+            <div class="region-card" style="border-left: 5px solid {{ r.color }};">
+                <div class="card-header">
+                    <span class="card-title" style="color: {{ r.color }};">📍 {{ r.name }}</span>
+                    <span class="card-count">職缺數：<b style="color: {{ r.color }};">{{ r.total_count }}</b> 筆</span>
+                </div>
+
+                <!-- 5大年資區間列表 (沒有資料亦保留區間名稱，以空白呈現)[cite: 5] -->
+                {% for exp in exp_ranges %}
+                    {% set exp_info = r.exp_data[exp] %}
+                    <div class="salary-row">
+                        <span class="exp-label">{{ exp }}</span>
+                        <div class="salary-bar-wrapper">
+                            {% if exp_info.min and exp_info.max %}
+                                <span class="salary-val left">{{ exp_info.min }}</span>
+                                <div class="salary-pill" title="中位數: {{ exp_info.mid }}">
+                                    <div class="salary-pill-dot"></div>
+                                </div>
+                                <span class="salary-val right">{{ exp_info.max }}</span>
+                            {% else %}
+                                <div class="empty-line">— 無資料 —</div>
+                            {% endif %}
+                        </div>
+                    </div>
+                {% endfor %}
+
+                <a href="/jobs?region={{ r_code }}&salary_text={{ current_salary_text }}" 
+                   class="btn-view-jobs" style="background-color: {{ r.color }};">
+                   查看{{ r.name }}職缺 ↗
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+
+    <!-- 中間欄：台灣地圖 -->
+    <div class="column-center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Taiwan_location_map.svg" 
+             alt="台灣地圖" 
+             style="max-width: 190px; height: auto; filter: drop-shadow(2px 4px 6px rgba(0,0,0,0.1));">
+        <span style="margin-top: 14px; background: #0f172a; color: white; padding: 6px 16px; border-radius: 20px; font-size: 12px; font-weight: 600;">
+            🇹🇼 全台區域視角
+        </span>
+    </div>
+
+    <!-- 右欄：北部 (N) + 東部 (W) + 離島 (OI) + 海外 (OS)[cite: 1, 2, 4] -->
+    <div class="column-side">
+        {% for r_code in ['N', 'W', 'OI', 'OS'] %}
+            {% set r = regions[r_code] %}
+            <div class="region-card" style="border-left: 5px solid {{ r.color }};">
+                <div class="card-header">
+                    <span class="card-title" style="color: {{ r.color }};">📍 {{ r.name }}</span>
+                    <span class="card-count">職缺數：<b style="color: {{ r.color }};">{{ r.total_count }}</b> 筆</span>
+                </div>
+
+                <!-- 5大年資區間列表[cite: 5] -->
+                {% for exp in exp_ranges %}
+                    {% set exp_info = r.exp_data[exp] %}
+                    <div class="salary-row">
+                        <span class="exp-label">{{ exp }}</span>
+                        <div class="salary-bar-wrapper">
+                            {% if exp_info.min and exp_info.max %}
+                                <span class="salary-val left">{{ exp_info.min }}</span>
+                                <div class="salary-pill" title="中位數: {{ exp_info.mid }}">
+                                    <div class="salary-pill-dot"></div>
+                                </div>
+                                <span class="salary-val right">{{ exp_info.max }}</span>
+                            {% else %}
+                                <div class="empty-line">— 無資料 —</div>
+                            {% endif %}
+                        </div>
+                    </div>
+                {% endfor %}
+
+                <a href="/jobs?region={{ r_code }}&salary_text={{ current_salary_text }}" 
+                   class="btn-view-jobs" style="background-color: {{ r.color }};">
+                   查看{{ r.name }}職缺 ↗
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+
+</div>
+{% endblock %}

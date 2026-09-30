@@ -19,7 +19,7 @@ def import_job_specialty_to_mysql(cleaned_data_list):
     run_mysql_upsert(sql, cleaned_data_list)
 
 
-def silver_job_specialty():
+def silver_job_specialty(filter_by_date: bool = True):
     collection = get_mongodb_collection()
     if collection is None:
         return
@@ -38,15 +38,19 @@ def silver_job_specialty():
     collection.aggregate(pipeline_refer_list)
 
     pipeline = [
-        {"$match": {"switch": "on"}},
-        {
+        {"$match": {"switch": "on"}},]
+    # 依據版本參數控制是否加入時間過濾區塊
+    if filter_by_date:
+        pipeline.append({
             "$match": {
                 "ingestion_timestamp": {
                     "$gte": start_time,  # 昨天 23:55:00
                     "$lt": end_time,  # 明天 00:00:00
                 }
             }
-        },
+        })
+    # 串接剩餘的 Pipeline 階段
+    pipeline.extend([
         {"$sort": {"ingestion_timestamp": -1}},
         {"$unwind": "$condition"},
         {"$addFields": {
@@ -81,7 +85,7 @@ def silver_job_specialty():
         {"$project": {"_id": 0, "job_id": "$parsed_job_id", "specialty_code": "$matched_tools.specialty_code", "specialty_name": "$matched_tools.specialty_name"}},
         {"$group": {"_id": {"job_id": "$job_id", "specialty_code": "$specialty_code", "specialty_name": "$specialty_name"}}},
         {"$project": {"_id": 0, "job_id": "$_id.job_id", "specialty_code": "$_id.specialty_code", "specialty_name": "$_id.specialty_name"}},
-    ]
+    ])
 
     cleaned_data_list = []
     for doc in collection.aggregate(pipeline):

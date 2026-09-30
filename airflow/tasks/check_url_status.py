@@ -4,6 +4,7 @@ import random
 import requests
 import os
 from dotenv import load_dotenv
+import urllib3
 from utils.conn_to_mysql import conn_to_mysql
 
 
@@ -25,9 +26,19 @@ def get_job_detail(session, job_id, max_retries=3):
 
     retry_delay = 300  # 初始等待 10 分鐘 (600 秒)
 
+        #載入.env 到環境變數
+    load_dotenv()
+    proxy_url = os.getenv("PROXY_URL")
+    urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+    proxies = {
+        "http": proxy_url,
+        "https": proxy_url
+    }
+
     for attempt in range(1, max_retries + 1):
         try:
-            response = session.get(detail_url, headers=headers, timeout=10)
+            response = session.get(detail_url, headers=headers, proxies=proxies, timeout=15,verify=False)
 
             if response.status_code == 200:
                 return response.json()
@@ -64,9 +75,10 @@ def query_job_batch(cursor):
     """傳入現有的 cursor 執行查詢作業"""
     sql = """
         SELECT job_id 
-        FROM TESTDB.job 
+        FROM job 
         WHERE url_status = 'on' 
-          AND updated_at <= NOW() - INTERVAL 2 DAY
+            AND appear_date <= NOW() - INTERVAL 7 DAY
+            AND updated_at <= NOW() - INTERVAL 3 DAY 
     """
     cursor.execute(sql)
     results = cursor.fetchall()
@@ -83,7 +95,7 @@ def update_job_status_batch(cursor, job_id, url_status):
     """傳入現有的 cursor 進行狀態更新"""
     try:
         sql = """
-            UPDATE TESTDB.job 
+            UPDATE job 
             SET url_status = %s, updated_at = NOW() 
             WHERE job_id = %s
         """
@@ -109,14 +121,7 @@ def url_check():
     load_dotenv()
     
     # 2. 建立單一 MySQL 連線供全程使用
-    mysql_conn = conn_to_mysql(
-        conn_ip = os.getenv("MYSQL_IP"),
-        db_name = os.getenv("MYSQL_DATABASE"),
-        user = os.getenv("MYSQL_USER"),
-        password = os.getenv("MYSQL_ROOT_PASSWORD"),
-        port = os.getenv("MYSQL_PORT"),
-    )
-
+    mysql_conn = conn_to_mysql()
     if mysql_conn is None:
         print("無法連線到 MySQL，取消執行。")
         return

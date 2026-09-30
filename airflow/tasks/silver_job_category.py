@@ -19,7 +19,7 @@ def import_category_to_mysql(cleaned_data_list):
     run_mysql_upsert(sql, cleaned_data_list)
 
 
-def silver_category_mongodb_to_mysql():
+def silver_category_mongodb_to_mysql(filter_by_date: bool = True):
     collection = get_mongodb_collection()
     if collection is None:
         return
@@ -30,15 +30,19 @@ def silver_category_mongodb_to_mysql():
     end_time = today + timedelta(days=1)
 
     pipeline = [
-        {"$match": {"switch": "on"}},
-        {
+        {"$match": {"switch": "on"}},]
+    # 依據版本參數控制是否加入時間過濾區塊
+    if filter_by_date:
+        pipeline.append({
             "$match": {
                 "ingestion_timestamp": {
                     "$gte": start_time,  # 昨天 23:55:00
                     "$lt": end_time,  # 明天 00:00:00
                 }
             }
-        },
+        })
+    # 串接剩餘的 Pipeline 階段
+    pipeline.extend([
         {"$sort": {"ingestion_timestamp": -1}},
         {
             "$addFields": {
@@ -85,7 +89,7 @@ def silver_category_mongodb_to_mysql():
                 "seq_no": "$_id.seq_no",
             }
         },
-    ]
+    ])
 
     cleaned_data_list = []
     for doc in collection.aggregate(pipeline):

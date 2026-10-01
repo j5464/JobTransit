@@ -98,7 +98,7 @@ def page1_skills():
     return render_template('test_1.html', skill_categories=dict(skill_categories))
 
 
-@app.route('/categoriesA', methods=['GET', 'POST'])
+@app.route('/categories', methods=['GET', 'POST'])
 def step2_recommendations():
     # 1. 取得第一頁傳過來的勾選技能列表 (相容 'skills' 或 'skills[]')
     if request.method == 'POST':
@@ -234,16 +234,115 @@ def step2_recommendations():
     grouped_results = {stars: items for stars, items in grouped_results.items() if len(items) > 0}
 
     return render_template(
-        'test_2_A.html',
+        'page2.html',
         grouped_results=grouped_results,
         selected_skills=selected_skills
     )
 
-# 佔位用的第三頁路由，避免點選「選擇此職業」按鈕時跳出 404 Not Found
-@app.route('/map')
-def step3_map():
-    category = request.args.get('category', '')
-    return f"<h3>已成功選擇職業類別：{category}！這是第三頁區域地圖 (開發中)</h3><a href='/categories'>← 返回第二頁</a>"
+# 六大區域配置[cite: 1, 2, 4]
+REGION_MAP = {
+    'N': {'name': '北部地區', 'color': '#10b981'},
+    'E': {'name': '中部 / 西部', 'color': '#3b82f6'},
+    'S': {'name': '南部地區', 'color': '#ef4444'},
+    'W': {'name': '東部地區', 'color': '#8b5cf6'},
+    'OI': {'name': '離島地區', 'color': '#f59e0b'},
+    'OS': {'name': '海外地區', 'color': '#64748b'}
+}
+
+# 定義 SQL 代碼與前端中文名稱的對照表 (固定順序)
+EXP_MAP = {
+    'not_requir': '不拘',
+    '1to3': '1~3年',
+    '4to6': '4~6年',
+    '7to9': '7~9年',
+    'over10': '10年以上'
+}
+
+
+@app.route('/map', methods=['GET', 'POST'])
+def page3_map():
+    # 支援 GET 或 POST 取得 category_code
+    if request.method == 'POST':
+        category_code = request.form.get('category_code') or request.args.get('category', '2007001022')
+    else:
+        category_code = request.args.get('category', '2007001022')
+
+    conn = conn_to_mysql_gold()
+    available_salary_texts = []
+    
+    try:
+        with conn.cursor(pymysql.cursors.DictCursor) as cursor:
+            # 1. 撈取該類別下存在的 salary_raw_text 作為切換按鈕
+            cursor.execute("""
+                SELECT DISTINCT salary_raw_text, salary_type_code 
+                FROM fact_category_salary_stat 
+                WHERE category_code = %s
+                ORDER BY salary_type_code
+            """, (category_code,))
+            raw_results = cursor.fetchall()
+            available_salary_texts = [r['salary_raw_text'] for r in raw_results]
+
+            if not available_salary_texts:
+                available_salary_texts = ['月薪', '時薪', '年薪', '待遇面議', '論件計酬']
+
+            selected_salary_text = request.args.get('salary_text', available_salary_texts[0])
+
+            # 2. 撈取資料 (區域 x exp_level 聚合數據)
+            sql = """
+                SELECT 
+                    region_group,
+                    exp_level,
+                    SUM(job_count) AS total_jobs,
+                    MIN(salary_min) AS group_min,
+                    MAX(salary_max) AS group_max,
+                    ROUND(AVG(avg_salary_mid), 1) AS group_mid
+                FROM fact_category_salary_stat
+                WHERE category_code = %s 
+                  AND salary_raw_text = %s
+                GROUP BY region_group, exp_level
+            """
+            cursor.execute(sql, (category_code, selected_salary_text))
+            query_data = cursor.fetchall()
+
+            # 3. 初始化數據結構，預設 5 個年資區間皆為空資料
+            regions_data = {}
+            for code, meta in REGION_MAP.items():
+                regions_data[code] = {
+                    'name': meta['name'],
+                    'color': meta['color'],
+                    'total_count': 0,
+                    'exp_data': {
+                        exp_code: {'label': label, 'min': None, 'max': None, 'mid': None, 'count': 0} 
+                        for exp_code, label in EXP_MAP.items()
+                    }
+                }
+
+            # 4. 將查詢結果填入結構中
+            for row in query_data:
+                r_code = row['region_group']
+                exp_code = row['exp_level']
+                
+                if r_code in regions_data:
+                    regions_data[r_code]['total_count'] += (row['total_jobs'] or 0)
+                    if exp_code in regions_data[r_code]['exp_data']:
+                        regions_data[r_code]['exp_data'][exp_code].update({
+                            'min': row['group_min'],
+                            'max': row['group_max'],
+                            'mid': row['group_mid'],
+                            'count': row['total_jobs'] or 0
+                        })
+
+    finally:
+        conn.close()
+
+    return render_template(
+        'page3.html',
+        category_code=category_code,
+        available_salary_texts=available_salary_texts,
+        current_salary_text=selected_salary_text,
+        regions=regions_data,
+        exp_codes=list(EXP_MAP.keys())  # 傳遞 key 列表以維持固定顯示順序
+    )
 
 if __name__ == '__main__':
     conn_to_mysql_gold()

@@ -162,7 +162,7 @@
         </div>
     </div>
 
-    <form id="recalculate-form" action="/categoriesA" method="POST">
+    <form id="recalculate-form" action="/categories" method="POST">
         <div id="hidden-inputs-container">
             {% for sk in selected_skills %}
                 <input type="hidden" name="skills" value="{{ sk }}">
@@ -355,7 +355,7 @@
         </div>
 
         <!-- 送出用表單 -->
-        <form id="recalculate-form" action="/categoriesA" method="POST">
+        <form id="recalculate-form" action="/categories" method="POST">
             <div id="hidden-inputs-container">
                 <!-- 填入原本已勾選的技能 -->
                 {% for sk in selected_skills %}

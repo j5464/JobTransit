@@ -91,6 +91,28 @@ MOCK_JOBS = [
     }
 ]
 
+# 模擬資料庫/金層依照 (category_id, salary_type) 查出來的五大區域數據
+# 在真實 MySQL 中，這會是: SELECT * FROM fact_category_region_stats WHERE salary_type_code = :salary_type
+MOCK_MAP_DATA = {
+        '50': { # 月薪[cite: 1, 2]
+            "北部": {"count": 750, "avg_salary": "NT$ 55,000 - 85,000", "unit": "/ 月"},
+            "中部": {"count": 210, "avg_salary": "NT$ 42,000 - 68,000", "unit": "/ 月"},
+            "南部": {"count": 180, "avg_salary": "NT$ 40,000 - 65,000", "unit": "/ 月"},
+            "東部/西部": {"count": 110, "avg_salary": "NT$ 38,000 - 60,000", "unit": "/ 月"}
+        },
+        '30': { # 時薪[cite: 1, 2]
+            "北部": {"count": 45, "avg_salary": "NT$ 220 - 320", "unit": "/ 小時"},
+            "中部": {"count": 15, "avg_salary": "NT$ 195 - 250", "unit": "/ 小時"},
+            "南部": {"count": 12, "avg_salary": "NT$ 185 - 220", "unit": "/ 小時"},
+            "東部/西部": {"count": 5, "avg_salary": "NT$ 185 - 200", "unit": "/ 小時"}
+        },
+        '10': { # 面議 (面議只顯示職缺數，無平均數值)[cite: 1, 2]
+            "北部": {"count": 120, "avg_salary": "依法規月薪 4 萬以上", "unit": " (面議職缺)"},
+            "中部": {"count": 30, "avg_salary": "依法規月薪 4 萬以上", "unit": " (面議職缺)"},
+            "南部": {"count": 25, "avg_salary": "依法規月薪 4 萬以上", "unit": " (面議職缺)"},
+            "東部/西部": {"count": 10, "avg_salary": "依法規月薪 4 萬以上", "unit": " (面議職缺)"}
+        }
+    }
 
 # --- 路由與控制邏輯 (Routes) ---
 
@@ -143,29 +165,6 @@ def page3_map():
     # 接收薪資類型參數，預設 50 (月薪)
     # Code 參考: 10:面議, 30:時薪, 40:日薪, 50:月薪, 60:年薪[cite: 1, 2]
     salary_type = request.args.get('salary_type', '50')
-
-    # 模擬資料庫/金層依照 (category_id, salary_type) 查出來的五大區域數據
-    # 在真實 MySQL 中，這會是: SELECT * FROM fact_category_region_stats WHERE salary_type_code = :salary_type
-    MOCK_MAP_DATA = {
-        '50': { # 月薪[cite: 1, 2]
-            "北部": {"count": 750, "avg_salary": "NT$ 55,000 - 85,000", "unit": "/ 月"},
-            "中部": {"count": 210, "avg_salary": "NT$ 42,000 - 68,000", "unit": "/ 月"},
-            "南部": {"count": 180, "avg_salary": "NT$ 40,000 - 65,000", "unit": "/ 月"},
-            "東部/西部": {"count": 110, "avg_salary": "NT$ 38,000 - 60,000", "unit": "/ 月"}
-        },
-        '30': { # 時薪[cite: 1, 2]
-            "北部": {"count": 45, "avg_salary": "NT$ 220 - 320", "unit": "/ 小時"},
-            "中部": {"count": 15, "avg_salary": "NT$ 195 - 250", "unit": "/ 小時"},
-            "南部": {"count": 12, "avg_salary": "NT$ 185 - 220", "unit": "/ 小時"},
-            "東部/西部": {"count": 5, "avg_salary": "NT$ 185 - 200", "unit": "/ 小時"}
-        },
-        '10': { # 面議 (面議只顯示職缺數，無平均數值)[cite: 1, 2]
-            "北部": {"count": 120, "avg_salary": "依法規月薪 4 萬以上", "unit": " (面議職缺)"},
-            "中部": {"count": 30, "avg_salary": "依法規月薪 4 萬以上", "unit": " (面議職缺)"},
-            "南部": {"count": 25, "avg_salary": "依法規月薪 4 萬以上", "unit": " (面議職缺)"},
-            "東部/西部": {"count": 10, "avg_salary": "依法規月薪 4 萬以上", "unit": " (面議職缺)"}
-        }
-    }
 
     # 取得對應類型的區域統計資料 (若選到沒有資料的類型則預設抓月薪)
     current_regions = MOCK_MAP_DATA.get(salary_type, MOCK_MAP_DATA['50'])

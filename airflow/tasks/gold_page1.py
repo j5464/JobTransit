@@ -1,38 +1,12 @@
 import os
 from dotenv import load_dotenv
-from pymysql import connect
 import pymysql
 import json
 import re
 from openai import OpenAI
 
-def conn_to_mysql_gold():
-    #載入.env 到環境變數
-    load_dotenv()
-    # 若參數未傳入，則從環境變數取得；若環境變數未設定，再使用預設值
-    db_name = os.getenv("MYSQL_GOLD_DATABASE")
-    user = os.getenv("MYSQL_USER")
-    password = os.getenv("MYSQL_ROOT_PASSWORD")
-    conn_ip = os.getenv("MYSQL_HOST")
-    # port 轉整數防呆
-    raw_port = os.getenv("MYSQL_PORT")
-    port = int(raw_port) if raw_port else 3307
-    try:
-        # 建立 MySQL 連線
-        return connect(
-            host=conn_ip,
-            port=port,
-            user=user,
-            password=password,
-            database=db_name,
-            connect_timeout=10,  # 10秒連不上自動拋出例外
-            read_timeout=30,     # 讀寫超過30秒自動中斷，避免無效卡死
-            write_timeout=30,    # 寫入超過30秒自動中斷，避免無效卡死
-            autocommit=False
-        )
-    except Exception as exc:
-        print(f"連線失敗，請確認 MySQL 伺服器是否有啟動。錯誤訊息: {exc}")
-        return None
+from airflow.sdk import task
+from utils.conn_to_mysql import conn_to_mysql
 
 def query_raw_skill_name(conn):
     """撈出金表中尚未填入 std_skill_name 的原始技能資料"""
@@ -307,11 +281,16 @@ def save_to_mapping_and_gold(processed_data,conn):
         print(f"資料庫更新失敗: {e}")
         conn.rollback()
 
-def run_pipeline():
-    conn = conn_to_mysql_gold()
+@task
+def run_pipeline_page1():
+    #載入.env 到環境變數
+    load_dotenv()
+    db_name = os.getenv("MYSQL_GOLD_DATABASE")
+
+    conn = conn_to_mysql(db_name=db_name)
     try:
+        print(f"第一批次階段寫入")
         first_phase_insert_into(conn)
-        print(f"第一階段已寫入")
         print("\n撈取尚未更新 std_skill_name 的原始資料...")
         loop_count = 1
         while True:
@@ -375,4 +354,4 @@ def run_pipeline():
             print("\n🎉 所有 std_skill_name 處理完成！", flush=True)
 
 if __name__ == "__main__":
-    run_pipeline()
+    run_pipeline_page1()

@@ -1,0 +1,193 @@
+{% extends 'base.html' %}
+{% block title %}P3 - 全台區域與薪資地圖{% endblock %}
+
+{% block content %}
+<style>
+    .header-container { text-align: center; margin-bottom: 20px; }
+    .header-container h2 { color: #333333; margin-bottom: 5px; }
+    .header-container p { color: #666666; font-size: 14px; }
+
+    .salary-switcher { display: flex; justify-content: center; gap: 8px; margin-bottom: 24px; flex-wrap: wrap; }
+    .salary-btn {
+        padding: 8px 16px; border-radius: 20px; text-decoration: none;
+        font-size: 14px; font-weight: 600; background-color: #e2e8f0; color: #475569;
+        transition: all 0.2s ease;
+    }
+    .salary-btn.active {
+        background-color: #2563eb; color: #ffffff;
+        box-shadow: 0 2px 6px rgba(37, 99, 235, 0.3);
+    }
+
+    .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin-bottom: 24px; }
+    .stat-card { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.04); border-left: 4px solid #2563eb; }
+    
+    .stat-card.north { border-left-color: #E8853D; }
+    .stat-card.central { border-left-color: #5B82A6; }
+    .stat-card.south { border-left-color: #6BB3A3; }
+    .stat-card.east { border-left-color: #EE6B6E; }
+    .stat-card.islands { border-left-color: #8B5CF6; }
+    .stat-card.overseas { border-left-color: #475569; }
+
+    .stat-card h4 { color: #1e293b; margin-bottom: 8px; font-size: 15px; }
+    .stat-card p { font-size: 12px; color: #475569; margin-bottom: 4px; }
+
+    .map-dashboard-container {
+        display: flex; gap: 24px; background: #ffffff; padding: 24px; 
+        border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.06); 
+        margin-bottom: 24px; align-items: center; flex-wrap: wrap;
+    }
+
+    .map-wrapper { flex: 1; min-width: 300px; text-align: center; }
+    .info-panel { flex: 1; min-width: 300px; background: #f8fafc; padding: 20px; border-radius: 8px; border: 1px solid #e2e8f0; }
+
+    .region-quick-btns {
+        display: flex; justify-content: center; gap: 6px; margin-top: 15px; flex-wrap: wrap;
+    }
+    .quick-btn {
+        padding: 8px 14px; border-radius: 6px; font-size: 13px; font-weight: 600;
+        cursor: pointer; border: none; color: white; transition: opacity 0.2s;
+    }
+    .quick-btn:hover { opacity: 0.85; }
+    .btn-n { background-color: #E8853D; }
+    .btn-c { background-color: #5B82A6; }
+    .btn-s { background-color: #6BB3A3; }
+    .btn-e { background-color: #EE6B6E; }
+    .btn-i { background-color: #8B5CF6; }
+    .btn-o { background-color: #475569; }
+
+    .action-bar { text-align: center; margin-top: 20px; }
+    .btn-next { display: inline-block; background: #0f172a; color: #ffffff; padding: 12px 28px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+</style>
+
+<div class="header-container">
+    <h2>全台【{{ category_name }}】 - 區域薪資市場儀表板</h2>
+    <p>當前檢視職業類別代碼：<strong>{{ category_name }}</strong></p>
+</div>
+
+<!-- 計薪型態切換 -->
+<div class="salary-switcher">
+    <a href="?category_code={{ category_code }}&salary_type=50" class="salary-btn {{ 'active' if current_salary_type == '50' else '' }}">📅 月薪</a>
+    <a href="?category_code={{ category_code }}&salary_type=60" class="salary-btn {{ 'active' if current_salary_type == '60' else '' }}">💰 年薪</a>
+    <a href="?category_code={{ category_code }}&salary_type=30" class="salary-btn {{ 'active' if current_salary_type == '30' else '' }}">⏱️ 時薪</a>
+    <a href="?category_code={{ category_code }}&salary_type=10" class="salary-btn {{ 'active' if current_salary_type == '10' else '' }}">🤝 待遇面議</a>
+    <a href="?category_code={{ category_code }}&salary_type=20" class="salary-btn {{ 'active' if current_salary_type == '20' else '' }}">🧩 按件計酬</a>
+</div>
+
+<!-- 頂部 6 大區域統計卡片（已移除平均薪資，僅顯示職缺總數） -->
+<div class="stats-grid">
+    <div class="stat-card north">
+        <h4><span style="color: #E8853D;">📍</span> 北部地區</h4>
+        <p>職缺總數：<b style="color: #E8853D;">{{ regions['北部'].count if '北部' in regions else 0 }}</b> 筆</p>
+    </div>
+
+    <div class="stat-card central">
+        <h4><span style="color: #5B82A6;">📍</span> 中部地區</h4>
+        <p>職缺總數：<b style="color: #5B82A6;">{{ regions['中部'].count if '中部' in regions else 0 }}</b> 筆</p>
+    </div>
+
+    <div class="stat-card south">
+        <h4><span style="color: #6BB3A3;">📍</span> 南部地區</h4>
+        <p>職缺總數：<b style="color: #6BB3A3;">{{ regions['南部'].count if '南部' in regions else 0 }}</b> 筆</p>
+    </div>
+
+    <div class="stat-card east">
+        <h4><span style="color: #EE6B6E;">📍</span> 東部地區</h4>
+        <p>職缺總數：<b style="color: #EE6B6E;">{{ regions['東部'].count if '東部' in regions else 0 }}</b> 筆</p>
+    </div>
+
+    <div class="stat-card islands">
+        <h4><span style="color: #8B5CF6;">📍</span> 離島地區</h4>
+        <p>職缺總數：<b style="color: #8B5CF6;">{{ regions['離島'].count if '離島' in regions else 0 }}</b> 筆</p>
+    </div>
+
+    <div class="stat-card overseas">
+        <h4><span style="color: #475569;">📍</span> 海外地區</h4>
+        <p>職缺總數：<b style="color: #475569;">{{ regions['海外'].count if '海外' in regions else 0 }}</b> 筆</p>
+    </div>
+</div>
+
+<div class="map-dashboard-container">
+    <div class="map-wrapper" style="background: #f8fafc; padding: 24px; border-radius: 12px;">
+        <div style="position: relative; display: inline-block;">
+            <img src="{{ url_for('static', filename='Taiwan.png') }}" 
+                 alt="台灣地圖" 
+                 style="max-width: 220px; height: auto; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.12)); border-radius: 4px;">
+        </div>
+
+        <div class="region-quick-btns">
+            <button class="quick-btn btn-n" onclick="selectRegion('北部')">北部</button>
+            <button class="quick-btn btn-c" onclick="selectRegion('中部')">中部</button>
+            <button class="quick-btn btn-s" onclick="selectRegion('南部')">南部</button>
+            <button class="quick-btn btn-e" onclick="selectRegion('東部')">東部</button>
+            <button class="quick-btn btn-i" onclick="selectRegion('離島')">離島</button>
+            <button class="quick-btn btn-o" onclick="selectRegion('海外')">海外</button>
+        </div>
+    </div>
+
+    <div class="info-panel" id="region-info">
+        <h3 id="panel-title" style="color: #0f172a; margin-bottom: 12px;">請點選區域按鈕</h3>
+        <p style="color: #64748b; font-size: 14px; margin-bottom: 16px;">可查看該區域資料庫即時分析指標。</p>
+        <div id="panel-body" style="font-size: 15px; line-height: 1.8;">
+            <div>點擊區域按鈕檢視細節。</div>
+        </div>
+    </div>
+</div>
+
+<script type="application/json" id="region-data">
+    {{ regions | tojson | safe }}
+</script>
+
+<script>
+    const regionData = JSON.parse(document.getElementById('region-data').textContent || '{}');
+    const categoryCode = "{{ category_code }}";
+
+    const regionColors = {
+        '北部': '#E8853D',
+        '中部': '#5B82A6',
+        '南部': '#6BB3A3',
+        '東部': '#EE6B6E',
+        '離島': '#8B5CF6',
+        '海外': '#475569'
+    };
+
+    function selectRegion(name) {
+        const data = regionData[name] || {};
+        const themeColor = regionColors[name] || '#2563eb';
+
+        const count = data.count ?? 0;
+        const expAny = data.exp_any ?? '無資料';
+        const exp1to5 = data.exp_1to5 ?? '無資料';
+        const exp6to10 = data.exp_6to10 ?? '無資料';
+        const exp11plus = data.exp_11plus ?? '無資料';
+
+        document.getElementById('panel-title').innerHTML = `<span style="color:${themeColor};">📍 ${name} 地區</span> 職缺市場摘要`;
+        
+        document.getElementById('panel-body').innerHTML = `
+            <div style="background: #ffffff; padding: 16px; border-radius: 8px; margin-bottom: 14px; border: 1px solid #cbd5e1;">
+                <div style="font-size: 16px; font-weight: bold; margin-bottom: 12px; color: #0f172a;">
+                    目前職缺量：<span style="color:${themeColor}; font-size: 18px;">${count}</span> 筆
+                </div>
+                <hr style="border: 0; border-top: 1px dashed #e2e8f0; margin: 10px 0;">
+                <div style="font-size: 14px; line-height: 2.0; color: #334155;">
+                    <div>🎓 <b>年資不拘薪資區間：</b> <span style="font-weight: 600; color: #0f172a;">${expAny}</span></div>
+                    <div>🌱 <b>1~5年年資薪資區間：</b> <span style="font-weight: 600; color: #0f172a;">${exp1to5}</span></div>
+                    <div>🌿 <b>6~10年年資薪資區間：</b> <span style="font-weight: 600; color: #0f172a;">${exp6to10}</span></div>
+                    <div>🌲 <b>11年以上年資薪資區間：</b> <span style="font-weight: 600; color: #0f172a;">${exp11plus}</span></div>
+                </div>
+            </div>
+            <a href="/page4?region=${encodeURIComponent(name)}&category_code=${categoryCode}"
+               style="display: inline-block; width: 100%; text-align: center; background: #0F172A; color: white; padding: 12px; border-radius: 8px; text-decoration: none; font-weight: bold; margin-top: 6px; box-shadow: 0 2px 6px rgba(15,23,42,0.2);">
+               前往查看 ${name} 區域專屬職缺列表 ➔
+            </a>
+        `;
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        selectRegion('北部');
+    });
+</script>
+
+<div class="action-bar">
+    <a href="/page4?category_code={{ category_code }}" class="btn-next">前往查看「{{ category_name }}」全台職缺列表 ➔</a>
+</div>
+{% endblock %}

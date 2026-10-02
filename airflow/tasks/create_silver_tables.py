@@ -150,6 +150,7 @@ def create_silver_tables():
         return True
     finally:
         mysql_conn.close()
+        print("silver table已順利建立")
 
 
 if __name__ == "__main__":

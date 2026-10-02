@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+{% block title %}第一頁 - 勾選技能{% endblock %}
+
+{% block content %}
+<style>
+    /* 下拉選單動畫與箭頭樣式 */
+    .category-details {
+        background: #ffffff;
+        border: 1px solid #e2e8f0;
+        border-radius: 12px;
+        margin-bottom: 16px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+        overflow: hidden;
+        transition: all 0.3s ease;
+    }
+
+    .category-summary {
+        padding: 16px 20px;
+        font-size: 16px;
+        font-weight: 700;
+        color: #0f172a;
+        cursor: pointer;
+        user-select: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        list-style: none; /* 隱藏原生 Safari/Chrome 的三角形 */
+    }
+
+    .category-summary::-webkit-details-marker {
+        display: none; /* 隱藏 Chrome 原生箭頭 */
+    }
+
+    /* 自訂展開/收合的小箭頭 */
+    .category-summary::after {
+        content: '▼';
+        font-size: 12px;
+        color: #64748b;
+        transition: transform 0.2s ease;
+    }
+
+    /* 展開時箭頭旋轉 180 度 */
+    .category-details[open] .category-summary::after {
+        transform: rotate(180deg);
+    }
+
+    .category-summary:hover {
+        background-color: #f8fafc;
+    }
+
+    .category-content {
+        padding: 0 20px 20px 20px;
+        border-top: 1px solid #f1f5f9;
+        margin-top: 4px;
+        padding-top: 16px;
+    }
+</style>
+
+<form action="/categories" method="POST">
+    <div style="margin-bottom: 24px;">
+        <h2>第一頁：請勾選您具備的專業技能與工具</h2>
+        <p style="color: #64748b; margin-top: 6px;">請點擊分類展開並選擇您擅長的技能，系統將動態計算出最符合您的職業類別。</p>
+    </div>
+
+    {% for category_name, skills in skill_categories.items() %}
+    <!-- 使用 details 標籤，不加 open 屬性即「預設收起來」 -->
+    <details class="category-details">
+        <summary class="category-summary">
+            <span>📌 {{ category_name }} <span style="font-size: 13px; font-weight: normal; color: #64748b; margin-left: 8px;">({{ skills|length }} 項技能)</span></span>
+        </summary>
+        <div class="category-content">
+            <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+                {% for skill in skills %}
+                <label style="display: inline-flex; align-items: center; background: #f1f5f9; padding: 8px 14px; border-radius: 20px; font-size: 14px; cursor: pointer; user-select: none;">
+                    <input type="checkbox" name="skills" value="{{ skill }}" style="margin-right: 6px;"> {{ skill }}
+                </label>
+                {% endfor %}
+            </div>
+        </div>
+    </details>
+    {% endfor %}
+
+    <!-- 懸浮提交按鈕 -->
+    <div style="position: fixed; bottom: 0; left: 0; width: 100%; background: #ffffff; border-top: 1px solid #e2e8f0; padding: 16px 0; text-align: center; box-shadow: 0 -4px 10px rgba(0,0,0,0.05); z-index: 100;">
+        <button type="submit" style="background: #2563eb; color: white; border: none; padding: 12px 32px; font-size: 16px; font-weight: 700; border-radius: 8px; cursor: pointer;">
+            送出技能，計算職業符合度 ➔
+        </button>
+    </div>
+</form>
+{% endblock %}

@@ -4,12 +4,7 @@ import pymysql
 from collections import defaultdict
 import os
 from dotenv import load_dotenv
-
-import os
-import math
-from collections import defaultdict
-from flask import Flask, render_template, request, redirect, url_for, flash
-from dotenv import load_dotenv
+import json
 
 app = Flask(__name__)
 
@@ -95,7 +90,7 @@ def page1_skills():
             "雲端與 DevOps 平台": ["AWS", "GCP", "Docker", "Kubernetes", "Git"]
         }
 
-    return render_template('test_1.html', skill_categories=dict(skill_categories))
+    return render_template('page1.html', skill_categories=dict(skill_categories))
 
 
 @app.route('/categories', methods=['GET', 'POST'])
@@ -342,6 +337,109 @@ def page3_map():
         current_salary_text=selected_salary_text,
         regions=regions_data,
         exp_codes=list(EXP_MAP.keys())  # 傳遞 key 列表以維持固定顯示順序
+    )
+
+
+# 區域代碼 mapping 對照表
+REGION_MAP_PAGE4 = {
+    'ALL': '全部區域',
+    'N': '北部',
+    'E': '中部',
+    'S': '南部',
+    'W': '東部',
+    'OI': '離島/海外',
+    'OS': '其他'
+}
+
+@app.route('/jobs', methods=['GET', 'POST'])
+def page4_jobs():
+    # 1. 同時支援 POST (表單) 或 GET (URL 參數) 接收 category 與 region
+    if request.method == 'POST':
+        category_code = request.form.get('category_code') or request.args.get('category')
+        selected_region = (request.form.get('region') or request.args.get('region', 'ALL')).upper()
+    else:
+        category_code = request.args.get('category')
+        selected_region = request.args.get('region', 'ALL').upper()
+
+    jobs = []
+    conn = conn_to_mysql_gold()
+    
+    if conn:
+        try:
+            with conn.cursor(pymysql.cursors.DictCursor) as cursor:
+                query = """
+                    SELECT 
+                        job_id,
+                        region_group,
+                        salary_type_code,
+                        job_title AS title,
+                        company_name AS company,
+                        industry_name AS industry,
+                        location_text AS location,
+                        salary_text AS salary,
+                        exp_edu_text AS exp,
+                        work_mode,
+                        skills_json,
+                        job_desc_short AS desc_text,
+                        job_url AS url
+                    FROM gold_db.fact_job_search_card
+                    WHERE 1=1
+                """
+                params = []
+
+                # 如果有傳入職業類別代碼，則加入篩選
+                if category_code:
+                    query += " AND category_code = %s"
+                    params.append(category_code)
+                
+                # 如果有選擇特定區域，則加入篩選
+                if selected_region != 'ALL':
+                    query += " AND region_group = %s"
+                    params.append(selected_region)
+                    
+                query += " ORDER BY job_id DESC LIMIT 100;"
+                
+                cursor.execute(query, params)
+                rows = cursor.fetchall()
+                
+                for row in rows:
+                    raw_skills = row['skills_json']
+                    if isinstance(raw_skills, str):
+                        try:
+                            skills = json.loads(raw_skills)
+                        except json.JSONDecodeError:
+                            skills = []
+                    elif isinstance(raw_skills, list):
+                        skills = raw_skills
+                    else:
+                        skills = []
+                    
+                    jobs.append({
+                        'id': row['job_id'],
+                        'title': row['title'],
+                        'company': row['company'],
+                        'industry': row['industry'] or '未提供產業',
+                        'location': row['location'] or '未提供地點',
+                        'salary': row['salary'] or '面議',
+                        'exp': row['exp'] or '不限',
+                        'work_mode': row['work_mode'] or '公司未提供此資訊',
+                        'skills': skills,
+                        'desc': row['desc_text'] or '無詳細說明',
+                        'url': row['url']
+                    })
+        except Exception as e:
+            print(f"Database Query Error: {e}")
+        finally:
+            conn.close()
+
+    current_region_label = REGION_MAP_PAGE4.get(selected_region, '全部區域')
+    
+    return render_template(
+        'page4.html', 
+        jobs=jobs, 
+        category_code=category_code,
+        current_region=selected_region,
+        current_region_label=current_region_label
     )
 
 if __name__ == '__main__':

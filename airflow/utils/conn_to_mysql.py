@@ -14,7 +14,7 @@ load_dotenv()
 # 例如：MYSQL_DB、MYSQL_USER、MYSQL_PASSWORD、MYSQL_HOST、MYSQL_PORT
 
 def conn_to_mysql(
-    # db_name: str | None = None,
+    db_name: str | None = None,
     # user: str | None = None,
     # password: str | None = None,
     # conn_ip: str | None = None,
@@ -25,7 +25,7 @@ def conn_to_mysql(
     #載入.env 到環境變數
     load_dotenv()
     # 若參數未傳入，則從環境變數取得；若環境變數未設定，再使用預設值
-    db_name = os.getenv("MYSQL_DATABASE")
+    db_name = db_name or os.getenv("MYSQL_DATABASE")
     user = os.getenv("MYSQL_USER")
     password = os.getenv("MYSQL_ROOT_PASSWORD")
     conn_ip = os.getenv("MYSQL_HOST")

@@ -184,7 +184,7 @@
     <span class="switcher-label">💰 計薪類型切換：</span>
     <div class="btn-group-wrap">
         {% for stext in available_salary_texts %}
-            <a href="/map?category={{ category_code }}&salary_text={{ stext }}" 
+            <a href="/map?category={{ category_code }}&salary_text={{ stext }}&category_code={{ category_code }}" 
                class="btn-salary-type {% if current_salary_text == stext %}active{% endif %}">
                 {% if '月薪' in stext %}🈷️
                 {% elif '年薪' in stext %}📅 
@@ -230,7 +230,7 @@
                     </div>
                 {% endfor %}
 
-                <a href="/jobs?region={{ r_code }}&salary_text={{ current_salary_text }}" 
+                <a href="/jobs?region={{ r_code }}&salary_text={{ current_salary_text }}&category_code={{ category_code }}" 
                    class="btn-view-jobs" style="background-color: {{ r.color }};">
                    查看{{ r.name }}職缺 ↗
                 </a>
@@ -277,7 +277,7 @@
                     </div>
                 {% endfor %}
 
-                <a href="/jobs?region={{ r_code }}&salary_text={{ current_salary_text }}" 
+                <a href="/jobs?region={{ r_code }}&salary_text={{ current_salary_text }}&category_code={{ category_code }}" 
                    class="btn-view-jobs" style="background-color: {{ r.color }};">
                    查看{{ r.name }}職缺 ↗
                 </a>

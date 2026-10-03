@@ -2,89 +2,147 @@
 {% block title %}第四頁 - 職缺搜尋列表{% endblock %}
 
 {% block content %}
+<style>
+    .region-btn {
+        padding: 6px 12px;
+        text-decoration: none;
+        border-radius: 6px;
+        font-size: 14px;
+        background-color: #e2e8f0;
+        color: #334155;
+        transition: background-color 0.2s, color 0.2s;
+    }
+
+    .region-btn:hover {
+        background-color: #cbd5e1;
+    }
+
+    .region-btn.active {
+        background-color: #2563eb;
+        color: #ffffff;
+    }
+
+    /* 紅框：頁數下拉選單樣式 */
+    .page-select {
+        padding: 6px 12px;
+        border-radius: 6px;
+        border: 1px solid #cbd5e1;
+        background-color: #ffffff;
+        font-weight: 600;
+        color: #334155;
+        cursor: pointer;
+        font-size: 14px;
+        outline: none;
+    }
+    .page-select:hover {
+        border-color: #94a3b8;
+    }
+
+    /* 藍框：職缺卡片獨立滾動容器 */
+    .jobs-scroll-container {
+        max-height: calc(100vh - 220px); /* 固定高度，可依據頂部高度彈性適應 */
+        overflow-y: auto;
+        padding-right: 8px; /* 留出滾動條空間 */
+        padding-bottom: 20px;
+    }
+
+    /* 美化內部滾動條 (Scrollbar) */
+    .jobs-scroll-container::-webkit-scrollbar {
+        width: 8px;
+    }
+    .jobs-scroll-container::-webkit-scrollbar-track {
+        background: #f1f5f9;
+        border-radius: 4px;
+    }
+    .jobs-scroll-container::-webkit-scrollbar-thumb {
+        background: #cbd5e1;
+        border-radius: 4px;
+    }
+    .jobs-scroll-container::-webkit-scrollbar-thumb:hover {
+        background: #94a3b8;
+    }
+</style>
+
 <!-- 頂部標題與區域篩選按鈕列 -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
     <h2>第四頁：職缺列表 (卡片展示)</h2>
-    <div style="display: flex; gap: 6px;">
-        <a href="/jobs?region=ALL" 
-           style="padding: 6px 12px; text-decoration: none; border-radius: 6px; font-size: 14px; 
-                  background: {% if current_region == 'ALL' %}#2563eb{% else %}#e2e8f0{% endif %}; 
-                  color: {% if current_region == 'ALL' %}#ffffff{% else %}#334155{% endif %};">全部區域</a>
-                  
-        <a href="/jobs?region=N" 
-           style="padding: 6px 12px; text-decoration: none; border-radius: 6px; font-size: 14px; 
-                  background: {% if current_region == 'N' %}#2563eb{% else %}#e2e8f0{% endif %}; 
-                  color: {% if current_region == 'N' %}#ffffff{% else %}#334155{% endif %};">北部</a>
-                  
-        <a href="/jobs?region=E" 
-           style="padding: 6px 12px; text-decoration: none; border-radius: 6px; font-size: 14px; 
-                  background: {% if current_region == 'E' %}#2563eb{% else %}#e2e8f0{% endif %}; 
-                  color: {% if current_region == 'E' %}#ffffff{% else %}#334155{% endif %};">中部</a>
-                  
-        <a href="/jobs?region=S" 
-           style="padding: 6px 12px; text-decoration: none; border-radius: 6px; font-size: 14px; 
-                  background: {% if current_region == 'S' %}#2563eb{% else %}#e2e8f0{% endif %}; 
-                  color: {% if current_region == 'S' %}#ffffff{% else %}#334155{% endif %};">南部</a>
-                  
-        <a href="/jobs?region=W" 
-           style="padding: 6px 12px; text-decoration: none; border-radius: 6px; font-size: 14px; 
-                  background: {% if current_region == 'W' %}#2563eb{% else %}#e2e8f0{% endif %}; 
-                  color: {% if current_region == 'W' %}#ffffff{% else %}#334155{% endif %};">東部</a>
+    
+    <div style="display: flex; gap: 10px; align-items: center;">
+        <!-- 【紅框需求】：頁數下拉選單 -->
+        <select class="page-select" onchange="location = this.value;">
+            {% for p in range(1, total_pages + 1) %}
+                <option value="/jobs?{% if category_code %}category={{ category_code }}&{% endif %}{% if salary_type %}salary_type={{ salary_type }}&{% endif %}region={{ current_region }}&page={{ p }}" 
+                        {% if p == current_page %}selected{% endif %}>
+                    第 {{ p }} / {{ total_pages }} 頁
+                </option>
+            {% endfor %}
+        </select>
+
+        <!-- 區域按鈕列 -->
+        <div style="display: flex; gap: 6px;">
+            <a href="/jobs?{% if category_code %}category={{ category_code }}&{% endif %}{% if salary_type %}salary_type={{ salary_type }}&{% endif %}region=ALL&page=1" 
+               class="region-btn {% if current_region == 'ALL' %}active{% endif %}">全部區域</a>
+            
+            <a href="/jobs?{% if category_code %}category={{ category_code }}&{% endif %}{% if salary_type %}salary_type={{ salary_type }}&{% endif %}region=N&page=1" 
+               class="region-btn {% if current_region == 'N' %}active{% endif %}">北部</a>
+            
+            <a href="/jobs?{% if category_code %}category={{ category_code }}&{% endif %}{% if salary_type %}salary_type={{ salary_type }}&{% endif %}region=E&page=1" 
+               class="region-btn {% if current_region == 'E' %}active{% endif %}">中部</a>
+
+            <a href="/jobs?{% if category_code %}category={{ category_code }}&{% endif %}{% if salary_type %}salary_type={{ salary_type }}&{% endif %}region=S&page=1" 
+               class="region-btn {% if current_region == 'S' %}active{% endif %}">南部</a>
+
+            <a href="/jobs?{% if category_code %}category={{ category_code }}&{% endif %}{% if salary_type %}salary_type={{ salary_type }}&{% endif %}region=W&page=1" 
+               class="region-btn {% if current_region == 'W' %}active{% endif %}">東部</a>
+        </div>
     </div>
 </div>
 
-<p style="margin-bottom: 20px; color: #64748b;">
-    目前篩選區域：<b>{{ current_region_label }}</b> ｜ 找到 <b>{{ jobs|length }}</b> 筆職缺
+<p style="margin-bottom: 16px; color: #64748b;">
+    目前篩選區域：<b>{{ current_region_label }}</b> 
+    {% if category_code %}｜ 職業類別：<b>{{ category_name }}</b>{% endif %}
+    {% if salary_type %}｜ 薪資條件：<b>{{ salary_type }}</b>{% endif %}
+    ｜ 找到 <b>{{ total_count }}</b> 筆職缺（第 {{ current_page }} / {{ total_pages }} 頁）
 </p>
 
-<!-- 職缺卡片列表迴圈 -->
-{% for job in jobs %}
-<div class="card" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-    <!-- 區塊一：核心抬頭 -->
-    <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px;">
-        <div>
-            <h3 style="font-size: 18px; color: #1e293b; font-weight: 700; margin: 0;">{{ job.title }}</h3>
-            <div style="font-size: 14px; color: #64748b; margin-top: 4px;">{{ job.company }} ｜ {{ job.industry }}</div>
+<!-- 【藍框需求】：獨立滾動的職缺卡片容器 -->
+<div class="jobs-scroll-container">
+    {% for job in jobs %}
+    <div class="card" style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; margin-bottom: 16px; box-shadow: 0 2px 4px rgba(0,0,0,0.04);">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px;">
+            <div>
+                <h3 style="font-size: 18px; color: #1e293b; margin-bottom: 4px;">{{ job.title }}</h3>
+                <div style="font-size: 14px; color: #64748b;">{{ job.company }} ｜ {{ job.industry }}</div>
+            </div>
+            <a href="{{ job.url }}" target="_blank" style="flex-shrink: 0; background-color: #ea580c; color: white; text-decoration: none; padding: 6px 14px; border-radius: 6px; font-size: 13px; font-weight: 600;">前往 104 投遞 ↗</a>
         </div>
-        <a href="{{ job.url }}" target="_blank" rel="noopener noreferrer" 
-           style="background-color: #ea580c; color: white; text-decoration: none; padding: 6px 14px; border-radius: 6px; font-size: 13px; font-weight: 600;">
-            前往 104 投遞 ↗
-        </a>
-    </div>
 
-    <!-- 區塊二：數據亮點與門檻 (2x2 Grid) -->
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; background-color: #f8fafc; padding: 12px; border-radius: 8px; margin-bottom: 12px; font-size: 14px;">
-        <div>📍 <b>地點：</b> {{ job.location }}</div>
-        <div>💰 <b>薪資：</b> <span style="color: #059669; font-weight: 700;">{{ job.salary }}</span></div>
-        <div>🎓 <b>門檻：</b> {{ job.exp }}</div>
-        <div>💻 <b>模式：</b> {{ job.work_mode }}</div>
-    </div>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; background-color: #f8fafc; padding: 12px; border-radius: 8px; margin-bottom: 12px; font-size: 14px;">
+            <div>📍 <b>地點：</b> {{ job.location }}</div>
+            <div>💰 <b>薪資：</b> <span style="color: #059669; font-weight: 700;">{{ job.salary }}</span></div>
+            <div>🎓 <b>門檻：</b> {{ job.exp }}</div>
+            <div>💻 <b>模式：</b> {{ job.work_mode }}</div>
+        </div>
 
-    <!-- 區塊三：關鍵技能標籤 (skills_json 渲染) -->
-    <div style="margin-bottom: 12px;">
-        <div style="font-size: 13px; font-weight: 700; color: #475569; margin-bottom: 6px;">🛠️ 核心技能：</div>
-        <div style="display: flex; flex-wrap: wrap; gap: 6px;">
-            {% if job.skills and job.skills|length > 0 %}
+        <div style="margin-bottom: 12px;">
+            <div style="font-size: 13px; font-weight: 700; color: #475569; margin-bottom: 6px;">🛠️ 核心技能：</div>
+            <div style="display: flex; flex-wrap: wrap; gap: 6px;">
                 {% for skill in job.skills %}
-                <span style="background-color: #eff6ff; color: #1d4ed8; font-size: 12px; font-weight: 600; padding: 4px 10px; border-radius: 16px;">
-                    {{ skill }}
-                </span>
+                <span style="background-color: #eff6ff; color: #1d4ed8; font-size: 12px; font-weight: 600; padding: 4px 10px; border-radius: 16px;">{{ skill }}</span>
+                {% else %}
+                <span style="font-size: 12px; color: #94a3b8;">未查詢到標註特定技能</span>
                 {% endfor %}
-            {% else %}
-                <span style="font-size: 12px; color: #94a3b8; italic;">未列出特定技能</span>
-            {% endif %}
+            </div>
+        </div>
+
+        <div style="font-size: 13px; color: #64748b; border-top: 1px solid #f1f5f9; padding-top: 8px;">
+            <b>📝 職缺簡述：</b> {{ job.desc }} ... <b style="color: #ea580c;">詳情請前往 104 查看</b>
         </div>
     </div>
-
-    <!-- 區塊四：工作簡述 (job_desc_short 呈現) -->
-    <div style="font-size: 13px; color: #64748b; border-top: 1px solid #f1f5f9; padding-top: 10px;">
-        <b>📝 職缺簡述：</b> {{ job.desc }} ...
+    {% else %}
+    <div class="card" style="text-align: center; padding: 40px; color: #64748b; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px;">
+        <p style="font-size: 16px;">🔍 查無符合條件的職缺資料，請嘗試切換其他區域或類別。</p>
     </div>
+    {% endfor %}
 </div>
-{% else %}
-<div class="card" style="text-align: center; padding: 40px; color: #64748b;">
-    目前區域（{{ current_region_label }}）尚無符合的職缺資料。
-</div>
-{% endfor %}
-
 {% endblock %}

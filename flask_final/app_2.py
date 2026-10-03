@@ -5,6 +5,7 @@ from collections import defaultdict
 import os
 from dotenv import load_dotenv
 import json
+import math
 
 app = Flask(__name__)
 
@@ -353,55 +354,87 @@ REGION_MAP_PAGE4 = {
 
 @app.route('/jobs', methods=['GET', 'POST'])
 def page4_jobs():
-    # 1. 同時支援 POST (表單) 或 GET (URL 參數) 接收 category 與 region
+    # 1. 接收基本參數
     if request.method == 'POST':
-        category_code = request.form.get('category_code') or request.args.get('category')
+        category_code = request.form.get('category_code') or request.form.get('category') or request.args.get('category') or request.args.get('category_code')
         selected_region = (request.form.get('region') or request.args.get('region', 'ALL')).upper()
+        salary_type = request.form.get('salary_type') or request.args.get('salary_type') or request.args.get('salary_text')
+        page = int(request.form.get('page', 1))
     else:
-        category_code = request.args.get('category')
+        category_code = request.args.get('category') or request.args.get('category_code')
         selected_region = request.args.get('region', 'ALL').upper()
+        salary_type = request.args.get('salary_type') or request.args.get('salary_text')
+        page = request.args.get('page', 1, type=int)
+
+    per_page = 20  # 每頁顯示 20 筆
+    offset = (page - 1) * per_page
 
     jobs = []
+    category_name = None
+    total_count = 0
+    total_pages = 1
     conn = conn_to_mysql_gold()
     
     if conn:
         try:
             with conn.cursor(pymysql.cursors.DictCursor) as cursor:
-                query = """
-                    SELECT 
-                        job_id,
-                        region_group,
-                        salary_type_code,
-                        job_title AS title,
-                        company_name AS company,
-                        industry_name AS industry,
-                        location_text AS location,
-                        salary_text AS salary,
-                        exp_edu_text AS exp,
-                        work_mode,
-                        skills_json,
-                        job_desc_short AS desc_text,
-                        job_url AS url
-                    FROM gold_db.fact_job_search_card
-                    WHERE 1=1
-                """
-                params = []
-
-                # 如果有傳入職業類別代碼，則加入篩選
+                # A. 撈取職業名稱
                 if category_code:
-                    query += " AND category_code = %s"
+                    cursor.execute("""
+                        SELECT category_name 
+                        FROM gold_db.bridge_job_category 
+                        WHERE category_code = %s 
+                        LIMIT 1;
+                    """, (category_code,))
+                    cat_row = cursor.fetchone()
+                    if cat_row and cat_row.get('category_name'):
+                        category_name = cat_row['category_name']
+
+                # B. 動態組裝 WHERE 條件
+                where_clauses = []
+                params = []
+                join_clause = ""
+
+                if category_code:
+                    join_clause = " INNER JOIN gold_db.bridge_job_category b ON f.job_id = b.job_id"
+                    where_clauses.append("b.category_code = %s")
                     params.append(category_code)
-                
-                # 如果有選擇特定區域，則加入篩選
+
                 if selected_region != 'ALL':
-                    query += " AND region_group = %s"
+                    where_clauses.append("f.region_group = %s")
                     params.append(selected_region)
-                    
-                query += " ORDER BY job_id DESC LIMIT 100;"
-                
-                cursor.execute(query, params)
+
+                if salary_type:
+                    where_clauses.append("(f.salary_type_code = %s OR f.salary_text LIKE %s)")
+                    params.append(salary_type)
+                    params.append(f"%{salary_type}%")
+
+                where_sql = (" WHERE " + " AND ".join(where_clauses)) if where_clauses else ""
+
+                # C. 先算符合條件的【總筆數】
+                count_query = f"SELECT COUNT(DISTINCT f.job_id) AS total FROM gold_db.fact_job_search_card f {join_clause} {where_sql}"
+                cursor.execute(count_query, params)
+                total_count = cursor.fetchone()['total'] or 0
+                total_pages = max(1, math.ceil(total_count / per_page))
+
+                # D. 分頁查詢職缺列表 (LIMIT & OFFSET)
+                query = f"""
+                    SELECT DISTINCT
+                        f.job_id, f.region_group, f.salary_type_code, f.job_title AS title,
+                        f.company_name AS company, f.industry_name AS industry,
+                        f.location_text AS location, f.salary_text AS salary,
+                        f.exp_edu_text AS exp, f.work_mode, f.skills_json,
+                        f.job_desc_short AS desc_text, f.job_url AS url
+                    FROM gold_db.fact_job_search_card f
+                    {join_clause}
+                    {where_sql}
+                    ORDER BY f.job_id DESC
+                    LIMIT %s OFFSET %s;
+                """
+                query_params = params + [per_page, offset]
+                cursor.execute(query, query_params)
                 rows = cursor.fetchall()
-                
+
                 for row in rows:
                     raw_skills = row['skills_json']
                     if isinstance(raw_skills, str):
@@ -413,7 +446,7 @@ def page4_jobs():
                         skills = raw_skills
                     else:
                         skills = []
-                    
+
                     jobs.append({
                         'id': row['job_id'],
                         'title': row['title'],
@@ -433,13 +466,18 @@ def page4_jobs():
             conn.close()
 
     current_region_label = REGION_MAP_PAGE4.get(selected_region, '全部區域')
-    
+
     return render_template(
-        'page4.html', 
-        jobs=jobs, 
+        'page4.html',
+        jobs=jobs,
         category_code=category_code,
+        category_name=category_name,
         current_region=selected_region,
-        current_region_label=current_region_label
+        current_region_label=current_region_label,
+        salary_type=salary_type,
+        current_page=page,
+        total_pages=total_pages,
+        total_count=total_count
     )
 
 if __name__ == '__main__':

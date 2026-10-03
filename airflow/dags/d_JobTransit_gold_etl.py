@@ -4,10 +4,10 @@ from datetime import datetime, timedelta
 import pendulum
 
 from airflow.sdk import dag
-from airflow.sdk import task
 
 from tasks.gold_page1 import run_pipeline_page1
 from tasks.gold_page2 import run_pipeline_page2
+from tasks.gold_page4 import run_pipeline_page4
 
 
 default_args = {
@@ -31,8 +31,10 @@ default_args = {
 def run_silver_all_etl():
     t1 = run_pipeline_page1()
     t2 = run_pipeline_page2()
+    # t3 = run_pipeline_page3()
+    t4 = run_pipeline_page4()
 
-    t1 >> t2
+    t1 >> t2 >> t4
 
 
 run_silver_all_etl()

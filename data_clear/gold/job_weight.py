@@ -5,6 +5,7 @@ import pymysql
 import json
 import re
 from openai import OpenAI
+
 def conn_to_mysql_gold():
     #載入.env 到環境變數
     load_dotenv()
@@ -106,10 +107,16 @@ def job_weight_first_phase_insert(conn):
                 COUNT(DISTINCT c.job_id) AS job_count,
                 COUNT(DISTINCT c.job_id) / t.total_distinct_count AS category_job_ratio
             FROM silver_db.job_category c
+            JOIN silver_db.job j 
+                ON c.job_id = j.job_id
             CROSS JOIN (
-                SELECT COUNT(DISTINCT job_id) AS total_distinct_count 
-                FROM silver_db.job_category
+                SELECT COUNT(DISTINCT j_sub.job_id) AS total_distinct_count 
+                FROM silver_db.job_category c_sub
+                JOIN silver_db.job j_sub 
+                    ON c_sub.job_id = j_sub.job_id
+                WHERE j_sub.url_status = 'on'
             ) t
+            WHERE j.url_status = 'on'
             GROUP BY c.category_code, c.category_description, t.total_distinct_count
             ) AS new_data
             ON DUPLICATE KEY UPDATE

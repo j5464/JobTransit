@@ -18,6 +18,7 @@ def create_gold_tables():
             source_type VARCHAR(20) NOT NULL COMMENT '來源類型 (tool / specialty)',
             PRIMARY KEY (skill_code)
         ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='第一頁專用：渲染 Checkbox 技能選單，已將同義詞與異體字收攏統一呈現';
+
         """,
 
         # 2. 第一頁：AI 中間對照維度表 (ref_skill_synonym_map)
@@ -32,6 +33,7 @@ def create_gold_tables():
             INDEX idx_std_skill_name (std_skill_name),
             INDEX idx_skill_category (skill_category)
         ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='同義詞/異體字歸一化對照表：記錄原始技能名稱對應至 UI Checkbox 標準選項與大分類的關係';
+
         """,
 
         # 3. 第二頁之一：職業類別與技能匹配加權事實表 (fact_category_skill_weight)
@@ -56,6 +58,43 @@ def create_gold_tables():
             category_desc VARCHAR(255) DEFAULT NULL COMMENT '職業類別簡短描述',
             PRIMARY KEY (category_code)
         ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='第二頁專用：計算整體職缺占比與市占比';
+        """,
+
+        # 6. 第四頁之一：職缺搜尋卡片事實表 (單表反正規化，提供零 JOIN 極速查詢)
+        """
+        CREATE TABLE IF NOT EXISTS gold_db.fact_job_search_card (
+            job_id VARCHAR(50) NOT NULL COMMENT '104 職缺原始 ID (PK)',
+            region_group VARCHAR(20) NOT NULL COMMENT '五大區域代碼 (N/E/S/W/OI/OS)',
+            salary_type_code VARCHAR(20) NOT NULL COMMENT '薪資類型代碼 (供多重篩選使用)',
+            
+            -- 反正規化預先拼接之顯示欄位
+            job_title VARCHAR(150) NOT NULL COMMENT '職缺名稱',
+            company_name VARCHAR(150) NOT NULL COMMENT '公司名稱',
+            industry_name VARCHAR(100) DEFAULT NULL COMMENT '產業別',
+            location_text VARCHAR(100) DEFAULT NULL COMMENT '工作地點 (例: 台北市 信義區)',
+            salary_text VARCHAR(100) DEFAULT NULL COMMENT '格式化薪資文字 (例: 月薪 50,000 ~ 70,000 元)',
+            exp_edu_text VARCHAR(100) DEFAULT NULL COMMENT '門檻標籤 (例: 經歷 1-3年 ｜ 大學以上)',
+            work_mode VARCHAR(255) DEFAULT NULL COMMENT '工作模式 (例: 可部分遠距)',
+            
+            -- 陣列與摘要欄位
+            skills_json TEXT DEFAULT NULL COMMENT "技能標籤陣列 (JSON: ['Python', 'SQL'])",
+            job_desc_short VARCHAR(255) DEFAULT NULL COMMENT '工作簡述 (ETL 已完成 80 字截斷)',
+            job_url VARCHAR(500) NOT NULL COMMENT '104 直達 URL',
+            
+            PRIMARY KEY (job_id)
+        ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='第四頁職缺卡片搜尋金表';
+        """,
+
+        # 7. 第四頁之二：職缺與職業類別多對多關聯表 (Bridge Table)
+        """
+        CREATE TABLE IF NOT EXISTS gold_db.bridge_job_category (
+        job_id varchar(50) NOT NULL COMMENT "104 職缺原始 ID",
+        category_code varchar(50) NOT NULL COMMENT "職業類別代碼",
+        category_name varchar(50) NOT NULL COMMENT "職業類別名稱",
+        PRIMARY KEY (job_id,category_code),
+        INDEX idx_page4_category_code (category_code)
+        )
+        ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='第四頁專用：解決一職缺屬於多職業類別 (一職多類) 的篩選關聯';
         """,
     ]
     

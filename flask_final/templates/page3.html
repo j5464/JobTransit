@@ -83,36 +83,36 @@
     <a href="?category={{ category_code }}&category_name={{ category_name }}&salary_type=20" class="salary-btn {{ 'active' if current_salary_type == '20' else '' }}">🧩 按件計酬</a>
 </div>
 
-<!-- 頂部 6 大區域統計卡片 -->
+<!-- 頂部 6 大區域統計卡片 (使用英文 Key 取值) -->
 <div class="stats-grid">
     <div class="stat-card north">
         <h4><span style="color: #E8853D;">📍</span> 北部地區</h4>
-        <p>職缺總數：<b style="color: #E8853D;">{{ regions['北部'].count if '北部' in regions else 0 }}</b> 筆</p>
+        <p>職缺總數：<b style="color: #E8853D;">{{ regions['N'].count if 'N' in regions else 0 }}</b> 筆</p>
     </div>
 
     <div class="stat-card central">
         <h4><span style="color: #5B82A6;">📍</span> 中部地區</h4>
-        <p>職缺總數：<b style="color: #5B82A6;">{{ regions['中部'].count if '中部' in regions else 0 }}</b> 筆</p>
+        <p>職缺總數：<b style="color: #5B82A6;">{{ regions['E'].count if 'E' in regions else 0 }}</b> 筆</p>
     </div>
 
     <div class="stat-card south">
         <h4><span style="color: #6BB3A3;">📍</span> 南部地區</h4>
-        <p>職缺總數：<b style="color: #6BB3A3;">{{ regions['南部'].count if '南部' in regions else 0 }}</b> 筆</p>
+        <p>職缺總數：<b style="color: #6BB3A3;">{{ regions['S'].count if 'S' in regions else 0 }}</b> 筆</p>
     </div>
 
     <div class="stat-card east">
         <h4><span style="color: #EE6B6E;">📍</span> 東部地區</h4>
-        <p>職缺總數：<b style="color: #EE6B6E;">{{ regions['東部'].count if '東部' in regions else 0 }}</b> 筆</p>
+        <p>職缺總數：<b style="color: #EE6B6E;">{{ regions['W'].count if 'W' in regions else 0 }}</b> 筆</p>
     </div>
 
     <div class="stat-card islands">
         <h4><span style="color: #8B5CF6;">📍</span> 離島地區</h4>
-        <p>職缺總數：<b style="color: #8B5CF6;">{{ regions['離島'].count if '離島' in regions else 0 }}</b> 筆</p>
+        <p>職缺總數：<b style="color: #8B5CF6;">{{ regions['OI'].count if 'OI' in regions else 0 }}</b> 筆</p>
     </div>
 
     <div class="stat-card overseas">
         <h4><span style="color: #475569;">📍</span> 海外地區</h4>
-        <p>職缺總數：<b style="color: #475569;">{{ regions['海外'].count if '海外' in regions else 0 }}</b> 筆</p>
+        <p>職缺總數：<b style="color: #475569;">{{ regions['OS'].count if 'OS' in regions else 0 }}</b> 筆</p>
     </div>
 </div>
 
@@ -124,13 +124,14 @@
                  style="max-width: 220px; height: auto; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.12)); border-radius: 4px;">
         </div>
 
+        <!-- 傳送英文代號到 selectRegion -->
         <div class="region-quick-btns">
-            <button class="quick-btn btn-n" onclick="selectRegion('北部')">北部</button>
-            <button class="quick-btn btn-c" onclick="selectRegion('中部')">中部</button>
-            <button class="quick-btn btn-s" onclick="selectRegion('南部')">南部</button>
-            <button class="quick-btn btn-e" onclick="selectRegion('東部')">東部</button>
-            <button class="quick-btn btn-i" onclick="selectRegion('離島')">離島</button>
-            <button class="quick-btn btn-o" onclick="selectRegion('海外')">海外</button>
+            <button class="quick-btn btn-n" onclick="selectRegion('N')">北部</button>
+            <button class="quick-btn btn-c" onclick="selectRegion('E')">中部</button>
+            <button class="quick-btn btn-s" onclick="selectRegion('S')">南部</button>
+            <button class="quick-btn btn-e" onclick="selectRegion('W')">東部</button>
+            <button class="quick-btn btn-i" onclick="selectRegion('OI')">離島</button>
+            <button class="quick-btn btn-o" onclick="selectRegion('OS')">海外</button>
         </div>
     </div>
 
@@ -151,18 +152,29 @@
     const regionData = JSON.parse(document.getElementById('region-data').textContent || '{}');
     const categoryCode = "{{ category_code }}";
 
-    const regionColors = {
-        '北部': '#E8853D',
-        '中部': '#5B82A6',
-        '南部': '#6BB3A3',
-        '東部': '#EE6B6E',
-        '離島': '#8B5CF6',
-        '海外': '#475569'
+    // 英文代號對應前端中文名稱
+    const regionNames = {
+        'N': '北部',
+        'E': '中部',
+        'S': '南部',
+        'W': '東部',
+        'OI': '離島',
+        'OS': '海外'
     };
 
-    function selectRegion(name) {
-        const data = regionData[name] || {};
-        const themeColor = regionColors[name] || '#2563eb';
+    const regionColors = {
+        'N': '#E8853D',
+        'E': '#5B82A6',
+        'S': '#6BB3A3',
+        'W': '#EE6B6E',
+        'OI': '#8B5CF6',
+        'OS': '#475569'
+    };
+
+    function selectRegion(code) {
+        const data = regionData[code] || {};
+        const displayName = regionNames[code] || code;
+        const themeColor = regionColors[code] || '#2563eb';
 
         const count = data.count ?? 0;
         const expAny = data.exp_any ?? '尚無數據';
@@ -171,7 +183,7 @@
         const exp7to9 = data.exp_7to9 ?? '尚無數據';
         const exp10plus = data.exp_10plus ?? '尚無數據';
 
-        document.getElementById('panel-title').innerHTML = `<span style="color:${themeColor};">📍 ${name} 地區</span> 職缺市場摘要`;
+        document.getElementById('panel-title').innerHTML = `<span style="color:${themeColor};">📍 ${displayName} 地區</span> 職缺市場摘要`;
         
         document.getElementById('panel-body').innerHTML = `
             <div style="background: #ffffff; padding: 16px; border-radius: 8px; margin-bottom: 14px; border: 1px solid #cbd5e1;">
@@ -188,15 +200,16 @@
                 </div>
             </div>
 
-            <a href="/jobs?region={{ region_group }}&category=${categoryCode}&salary_type={{ current_salary_type }}"
+            <!-- region 參數傳送英文代碼 code -->
+            <a href="/jobs?region=${code}&category=${categoryCode}&salary_type={{ current_salary_type }}"
                style="display: inline-block; width: 100%; text-align: center; background: #0F172A; color: white; padding: 12px; border-radius: 8px; text-decoration: none; font-weight: bold; margin-top: 6px; box-shadow: 0 2px 6px rgba(15,23,42,0.2);">
-               前往查看 ${name} 區域專屬職缺列表 ➔
+               前往查看 ${displayName} 區域專屬職缺列表 ➔
             </a>
         `;
     }
 
     document.addEventListener('DOMContentLoaded', () => {
-        selectRegion('北部');
+        selectRegion('N');
     });
 </script>
 

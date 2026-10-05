@@ -251,52 +251,42 @@ SALARY_UNIT_MAP = {
 
 def match_region_key(raw_text):
     if not raw_text:
-        return "北部"
+        return "N"
     
     raw_text = str(raw_text).strip().upper()
     
-    # 1. 對應資料庫中的英文區域代碼 (N, E, S, W, OI, OS)
-    code_map = {
-        'N': '北部',
-        'E': '中部',
-        'S': '南部',
-        'W': '東部',
-        'OI': '離島',
-        'OS': '海外'
-    }
-    if raw_text in code_map:
-        return code_map[raw_text]
+    # 1. 若已經是標準英文區域代碼 (N, E, S, W, OI, OS)
+    valid_codes = {'N', 'E', 'S', 'W', 'OI', 'OS'}
+    if raw_text in valid_codes:
+        return raw_text
         
-    # 2. 備用文字比對 (防止部分欄位存中文)
+    # 2. 中文轉英文代碼備用比對
     if any(k in raw_text for k in ["離島", "澎湖", "金門", "馬祖", "連江", "綠島"]):
-        return "離島"
+        return "OI"
     elif "北" in raw_text:
-        return "北部"
+        return "N"
     elif "中" in raw_text:
-        return "中部"
+        return "E"
     elif "南" in raw_text:
-        return "南部"
+        return "S"
     elif "東" in raw_text:
-        return "東部"
+        return "W"
     elif any(k in raw_text for k in ["海外", "國外"]):
-        return "海外"
+        return "OS"
         
-    return "北部"
+    return "N"
 
 # ==========================================
 # P3 專屬 Route：全台區域與薪資地圖 
 # ==========================================
 @app.route("/map", methods=["GET", "POST"])
-# @app.route("/page3", methods=["GET", "POST"])
 def page3():
     """
     載入指定職業類別在全台 6 大區域的職缺數量與不同年資之薪資統計
     """
     category_code = request.form.get("category_code") or request.args.get("category") or request.args.get("category_code")
     category_name_req = request.form.get("category_name") or request.args.get("category_name")
-    # 🔴 新增：讀取前端傳入的 region_group 參數 (預設給 'N' 表示北部，或可為 'ALL')
-    region_group = request.form.get("region_group") or request.args.get("region_group") or request.args.get("region")
-    
+
     # 確保 salary_type 預設為 '50' (月薪)
     salary_type = str(request.args.get("salary_type", "50")).strip()
     if not salary_type or salary_type == 'None':
@@ -309,7 +299,7 @@ def page3():
 
     unit_text = SALARY_UNIT_MAP.get(salary_type, "")
 
-    # 初始化 6 大區域字典
+    # 以英文區域代碼 (N, E, S, W, OI, OS) 初始化 6 大區域字典
     regions = {r: {
         "count": 0,
         "unit": unit_text,
@@ -318,7 +308,7 @@ def page3():
         "exp_4to6": "尚無資料",
         "exp_7to9": "尚無資料",
         "exp_10plus": "尚無資料"
-    } for r in ["北部", "中部", "南部", "東部", "離島", "海外"]}
+    } for r in ["N", "E", "S", "W", "OI", "OS"]}
 
     category_name = category_name_req if category_name_req else category_code
 
@@ -364,10 +354,9 @@ def page3():
                 for j in job_rows:
                     r_key = match_region_key(j.get("region_group"))
                     if r_key not in exp_stats:
-                        r_key = "北部"
+                        r_key = "N"
 
                     cnt = j.get("job_count") or 0
-                    
                     region_max_counts[r_key] += cnt
 
                     exp_level = str(j.get("exp_level", "不拘"))
@@ -410,7 +399,6 @@ def page3():
         "page3.html", 
         category_code=category_code, 
         category_name=category_name,
-        region_group = region_group,
         current_salary_type=salary_type, 
         regions=regions
     )

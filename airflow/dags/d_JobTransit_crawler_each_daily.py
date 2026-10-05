@@ -13,6 +13,11 @@ from tasks.silver_job_skill import silver_job_skill
 from tasks.silver_job import silver_job_mongodb_to_mysql
 from tasks.silver_job_category import silver_category_mongodb_to_mysql
 
+from tasks.gold_page1 import run_pipeline_page1
+from tasks.gold_page2 import run_pipeline_page2
+from tasks.gold_page4 import run_pipeline_page4
+from tasks.gold_page3 import run_pipeline_page3
+
 from tasks.check_url_status import url_check
 
 # Default arguments for the DAG
@@ -48,14 +53,22 @@ def JobTransit_crawler():
         silver_job_language()
         silver_job_requirement()
 
+    @task
+    def run_gold_all_etl():
+        run_pipeline_page1()
+        run_pipeline_page2()
+        run_pipeline_page4()
+        run_pipeline_page3()
+
     # 3. 呼叫外部/內部的 task 生成 TaskInstance
     t1 = get_job_id()
     t2 = each_job_web()
     t3 = run_silver_all_etl()
-    t4 = url_check()
+    t4 = run_gold_all_etl()
+    t5 = url_check()
 
     # 4. 設定相依性 (Dependency)
-    t1 >> t2 >> t3 >> t4
+    t1 >> t2 >> t3 >> t4 >> t5
 
 
 

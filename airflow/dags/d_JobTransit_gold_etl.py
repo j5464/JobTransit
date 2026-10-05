@@ -29,7 +29,7 @@ default_args = {
     tags=["jobtransit", "silver", "etl"],
 )
 
-def run_silver_all_etl():
+def run_gold_all_etl():
     t1 = run_pipeline_page1()
     t2 = run_pipeline_page2()
     t3 = run_pipeline_page4()
@@ -38,4 +38,4 @@ def run_silver_all_etl():
     t1 >> t2 >> t3 >> t4
 
 
-run_silver_all_etl()
+run_gold_all_etl()

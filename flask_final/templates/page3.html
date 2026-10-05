@@ -83,6 +83,7 @@
         border-radius: 12px;
         padding: 18px;
         box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+        border-left: 5px solid var(--r-color, #2563eb);
     }
     .card-header {
         display: flex;
@@ -95,13 +96,17 @@
     .card-title {
         font-size: 16px;
         font-weight: 700;
+        color: var(--r-color, #2563eb);
     }
     .card-count {
         font-size: 13px;
         color: #64748b;
     }
+    .card-count b {
+        color: var(--r-color, #2563eb);
+    }
 
-    /* 2. 薪資膠囊圖條 (完全還原附圖特徵)[cite: 3] */
+    /* 2. 薪資膠囊圖條[cite: 3] */
     .salary-row {
         display: flex;
         align-items: center;
@@ -171,6 +176,7 @@
         text-decoration: none;
         font-size: 13px;
         font-weight: 600;
+        background-color: var(--r-color, #2563eb);
     }
 </style>
 
@@ -179,20 +185,20 @@
     <p style="color: #64748b; font-size: 14px;">選擇職業代碼：<b>{{ category_code }}</b></p>
 </div>
 
-<!-- 1. 計薪類型切換選單 (圖示與兩行換行樣式)[cite: 1, 2] -->
+<!-- 1. 計薪類型切換選單[cite: 1, 2] -->
 <div class="salary-switcher-container">
     <span class="switcher-label">💰 計薪類型切換：</span>
     <div class="btn-group-wrap">
-        {% for stext in available_salary_texts %}
-            <a href="/map?category={{ category_code }}&salary_text={{ stext }}" 
-               class="btn-salary-type {% if current_salary_text == stext %}active{% endif %}">
-                {% if '月薪' in stext %}🈷️
-                {% elif '年薪' in stext %}📅 
-                {% elif '時薪' in stext %}⏱️ 
-                {% elif '面議' in stext %}🤝
-                {% elif '論件' in stext %}📄 
-                {% else %}🏷️ {% endif %}
-                {{ stext }}
+        {% for stype in available_salary_types %}
+            <a href="/map?category={{ category_code }}&amp;salary_code={{ stype.code }}" 
+               class="btn-salary-type {% if current_salary_code == stype.code %}active{% endif %}">
+                {% if '月薪' in stype.text %}🈷️
+                {% elif '年薪' in stype.text %}📅 
+                {% elif '時薪' in stype.text %}⏱️ 
+                {% elif '面議' in stype.text %}🤝
+                {% elif '論件' in stype.text %}📄 
+                {% else %}🏷️️ {% endif %}
+                {{ stype.text }}
             </a>
         {% endfor %}
     </div>
@@ -203,19 +209,20 @@
 
     <!-- 左欄：中部/西部 (E) + 南部 (S)[cite: 1, 2, 4] -->
     <div class="column-side">
-        {% for r_code in ['E', 'S'] %}
+        {% set left_regions = ['E', 'S'] %}
+        {% for r_code in left_regions %}
             {% set r = regions[r_code] %}
-            <div class="region-card" style="border-left: 5px solid {{ r.color }};">
+            <div class="region-card" style="--r-color: {{ r.color }};">
                 <div class="card-header">
-                    <span class="card-title" style="color: {{ r.color }};">📍 {{ r.name }}</span>
-                    <span class="card-count">職缺數：<b style="color: {{ r.color }};">{{ r.total_count }}</b> 筆</span>
+                    <span class="card-title">📍 {{ r.name }}</span>
+                    <span class="card-count">職缺數：<b>{{ r.total_count }}</b> 筆</span>
                 </div>
 
-                <!-- 5大年資區間列表 (沒有資料亦保留區間名稱，以空白呈現)[cite: 5] -->
-                {% for exp in exp_ranges %}
-                    {% set exp_info = r.exp_data[exp] %}
+                <!-- 5大年資區間列表[cite: 5, 8] -->
+                {% for exp_code in exp_codes %}
+                    {% set exp_info = r.exp_data[exp_code] %}
                     <div class="salary-row">
-                        <span class="exp-label">{{ exp }}</span>
+                        <span class="exp-label">{{ exp_info.label }}</span>
                         <div class="salary-bar-wrapper">
                             {% if exp_info.min and exp_info.max %}
                                 <span class="salary-val left">{{ exp_info.min }}</span>
@@ -230,8 +237,8 @@
                     </div>
                 {% endfor %}
 
-                <a href="/jobs?region={{ r_code }}&salary_text={{ current_salary_text }}" 
-                   class="btn-view-jobs" style="background-color: {{ r.color }};">
+                <a href="/jobs?region={{ r_code }}&amp;salary_type={{ current_salary_code }}&amp;category_code={{ category_code }}" 
+                   class="btn-view-jobs">
                    查看{{ r.name }}職缺 ↗
                 </a>
             </div>
@@ -250,19 +257,20 @@
 
     <!-- 右欄：北部 (N) + 東部 (W) + 離島 (OI) + 海外 (OS)[cite: 1, 2, 4] -->
     <div class="column-side">
-        {% for r_code in ['N', 'W', 'OI', 'OS'] %}
+        {% set right_regions = ['N', 'W', 'OI', 'OS'] %}
+        {% for r_code in right_regions %}
             {% set r = regions[r_code] %}
-            <div class="region-card" style="border-left: 5px solid {{ r.color }};">
+            <div class="region-card" style="--r-color: {{ r.color }};">
                 <div class="card-header">
-                    <span class="card-title" style="color: {{ r.color }};">📍 {{ r.name }}</span>
-                    <span class="card-count">職缺數：<b style="color: {{ r.color }};">{{ r.total_count }}</b> 筆</span>
+                    <span class="card-title">📍 {{ r.name }}</span>
+                    <span class="card-count">職缺數：<b>{{ r.total_count }}</b> 筆</span>
                 </div>
 
-                <!-- 5大年資區間列表[cite: 5] -->
-                {% for exp in exp_ranges %}
-                    {% set exp_info = r.exp_data[exp] %}
+                <!-- 5大年資區間列表[cite: 5, 8] -->
+                {% for exp_code in exp_codes %}
+                    {% set exp_info = r.exp_data[exp_code] %}
                     <div class="salary-row">
-                        <span class="exp-label">{{ exp }}</span>
+                        <span class="exp-label">{{ exp_info.label }}</span>
                         <div class="salary-bar-wrapper">
                             {% if exp_info.min and exp_info.max %}
                                 <span class="salary-val left">{{ exp_info.min }}</span>
@@ -277,8 +285,8 @@
                     </div>
                 {% endfor %}
 
-                <a href="/jobs?region={{ r_code }}&salary_text={{ current_salary_text }}" 
-                   class="btn-view-jobs" style="background-color: {{ r.color }};">
+                <a href="/jobs?region={{ r_code }}&amp;salary_type={{ current_salary_code }}&amp;category_code={{ category_code }}"
+                   class="btn-view-jobs">
                    查看{{ r.name }}職缺 ↗
                 </a>
             </div>

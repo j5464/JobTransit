@@ -135,6 +135,14 @@
     .sidebar-overlay.active {
         display: block;
     }
+    .temp-skill-badge {
+        padding: 4px 10px;
+        border-radius: 20px;
+        border: 1px solid black;
+        background: #f1f5f9;
+        display:flex;
+        justify-content: space-between;
+    }
 </style>
 
 <!-- 右下角浮動按鈕 -->
@@ -156,7 +164,7 @@
         點擊卡片中的 <b style="color: #ef4444;">[ + ]</b> 加入補強技能：
     </p>
 
-    <div id="temp-skills-container" style="flex: 1; overflow-y: auto; background: #f8fafc; border: 1px dashed #cbd5e1; border-radius: 8px; padding: 8px; margin-bottom: 12px;">
+    <div id="temp-skills-container" style="flex: 1; row-gap: 6px; display: flex; flex-direction: column; overflow-y: auto; background: #f8fafc; border: 1px dashed #cbd5e1; border-radius: 8px; padding: 8px; margin-bottom: 12px;">
         <div id="empty-msg" style="color: #94a3b8; font-size: 12px; text-align: center; margin-top: 25px;">
             尚無新增技能
         </div>

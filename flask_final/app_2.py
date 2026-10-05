@@ -235,137 +235,184 @@ def step2_recommendations():
         selected_skills=selected_skills
     )
 
-# 六大區域配置[cite: 1, 2, 4]
-REGION_MAP = {
-    'N': {'name': '北部地區', 'color': '#10b981'},
-    'E': {'name': '中部 / 西部', 'color': '#3b82f6'},
-    'S': {'name': '南部地區', 'color': '#ef4444'},
-    'W': {'name': '東部地區', 'color': '#8b5cf6'},
-    'OI': {'name': '離島地區', 'color': '#f59e0b'},
-    'OS': {'name': '海外地區', 'color': '#64748b'}
+# ==========================================
+# P3 專用：對照表與區域英文代碼轉換函式
+# ==========================================
+SALARY_UNIT_MAP = {
+    "ALL": "",
+    "10": "待遇面議",
+    "20": "元/件",
+    "30": "元/時",
+    "40": "元/日",
+    "50": "元/月",
+    "60": "元/年",
+    "70": "元/週"
 }
 
-# 定義 SQL 代碼與前端中文名稱的對照表 (固定順序)
-EXP_MAP = {
-    'not_requir': '不拘',
-    '1to3': '1~3年',
-    '4to6': '4~6年',
-    '7to9': '7~9年',
-    'over10': '10年以上'
-}
-
-
-@app.route('/map', methods=['GET', 'POST'])
-def page3_map():
-    # 支援 GET 或 POST 取得 category_code[cite: 7]
-    if request.method == 'POST':
-        category_code = request.form.get('category_code') or request.args.get('category', '2007001022')
-    else:
-        category_code = request.args.get('category', '2007001022')
-
-    conn = conn_to_mysql_gold()
-    available_salary_types = []
+def match_region_key(raw_text):
+    if not raw_text:
+        return "北部"
     
+    raw_text = str(raw_text).strip().upper()
+    
+    # 1. 對應資料庫中的英文區域代碼 (N, E, S, W, OI, OS)
+    code_map = {
+        'N': '北部',
+        'E': '中部',
+        'S': '南部',
+        'W': '東部',
+        'OI': '離島',
+        'OS': '海外'
+    }
+    if raw_text in code_map:
+        return code_map[raw_text]
+        
+    # 2. 備用文字比對 (防止部分欄位存中文)
+    if any(k in raw_text for k in ["離島", "澎湖", "金門", "馬祖", "連江", "綠島"]):
+        return "離島"
+    elif "北" in raw_text:
+        return "北部"
+    elif "中" in raw_text:
+        return "中部"
+    elif "南" in raw_text:
+        return "南部"
+    elif "東" in raw_text:
+        return "東部"
+    elif any(k in raw_text for k in ["海外", "國外"]):
+        return "海外"
+        
+    return "北部"
+
+# ==========================================
+# P3 專屬 Route：全台區域與薪資地圖 
+# ==========================================
+@app.route("/map", methods=["GET", "POST"])
+# @app.route("/page3", methods=["GET", "POST"])
+def page3():
+    """
+    載入指定職業類別在全台 6 大區域的職缺數量與不同年資之薪資統計
+    """
+    category_code = request.form.get("category_code") or request.args.get("category") or request.args.get("category_code")
+    category_name_req = request.form.get("category_name") or request.args.get("category_name")
+    # 🔴 新增：讀取前端傳入的 region_group 參數 (預設給 'N' 表示北部，或可為 'ALL')
+    region_group = request.form.get("region_group") or request.args.get("region_group") or request.args.get("region")
+    
+    # 確保 salary_type 預設為 '50' (月薪)
+    salary_type = str(request.args.get("salary_type", "50")).strip()
+    if not salary_type or salary_type == 'None':
+        salary_type = "50"
+
+    if not category_code or not category_code.strip():
+        category_code = "2010002005"
+    else:
+        category_code = str(category_code).strip()
+
+    unit_text = SALARY_UNIT_MAP.get(salary_type, "")
+
+    # 初始化 6 大區域字典
+    regions = {r: {
+        "count": 0,
+        "unit": unit_text,
+        "exp_any": "尚無資料",
+        "exp_1to3": "尚無資料",
+        "exp_4to6": "尚無資料",
+        "exp_7to9": "尚無資料",
+        "exp_10plus": "尚無資料"
+    } for r in ["北部", "中部", "南部", "東部", "離島", "海外"]}
+
+    category_name = category_name_req if category_name_req else category_code
+
     try:
-        with conn.cursor(pymysql.cursors.DictCursor) as cursor:
-            # 1. 撈取該類別下存在的 salary_raw_text 與 salary_type_code 作為切換選項[cite: 7]
-            cursor.execute("""
-                SELECT DISTINCT salary_raw_text, salary_type_code 
-                FROM fact_category_salary_stat 
-                WHERE category_code = %s
-                ORDER BY salary_type_code
-            """, (category_code,))
-            raw_results = cursor.fetchall()
-            
-            # 將 results 轉成包含 code 與 text 的字典清單[cite: 7]
-            if raw_results:
-                available_salary_types = [
-                    {'code': r['salary_type_code'], 'text': r['salary_raw_text']} 
-                    for r in raw_results
-                ]
-            else:
-                # 備用選項
-                available_salary_types = [
-                    {'code': '1', 'text': '月薪'},
-                    {'code': '2', 'text': '年薪'},
-                    {'code': '3', 'text': '時薪'}
-                ]
+        conn = conn_to_mysql_gold()
+        if conn:
+            with conn.cursor(pymysql.cursors.DictCursor) as cursor:
+                cat_code_str = str(category_code).strip()
 
-            # 接收 URL 中的 salary_code (若無則預設取第一個)[cite: 7]
-            selected_salary_code = request.args.get('salary_code') or request.args.get('salary_type')
-            
-            # 如果沒有傳 salary_code，嘗試比對 salary_text，否則使用預設第一個[cite: 7]
-            current_salary_info = None
-            if selected_salary_code:
-                current_salary_info = next((item for item in available_salary_types if str(item['code']) == str(selected_salary_code)), None)
-            
-            if not current_salary_info:
-                selected_salary_text = request.args.get('salary_text')
-                if selected_salary_text:
-                    current_salary_info = next((item for item in available_salary_types if item['text'] == selected_salary_text), None)
+                # 1. 補全職業中文名稱
+                if not category_name_req or category_name_req == category_code:
+                    sql_cat = """
+                        SELECT category_name FROM fact_job_ratio 
+                        WHERE category_code = %s AND category_name IS NOT NULL AND category_name != ''
+                        LIMIT 1;
+                    """
+                    cursor.execute(sql_cat, (cat_code_str,))
+                    cat_row = cursor.fetchone()
+                    if cat_row and cat_row.get("category_name"):
+                        category_name = cat_row.get("category_name")
 
-            if not current_salary_info:
-                current_salary_info = available_salary_types[0]
+                # 2. 精準查詢統計表
+                sql_stat = """
+                    SELECT 
+                        region_group,
+                        exp_level,
+                        job_count,
+                        avg_salary_mid,
+                        median_salary,
+                        avg_salary_min,
+                        avg_salary_max
+                    FROM fact_category_salary_stat
+                    WHERE category_code = %s 
+                      AND (CAST(salary_type_code AS CHAR) = %s OR salary_type_code = %s);
+                """
+                cursor.execute(sql_stat, (cat_code_str, salary_type, int(salary_type) if salary_type.isdigit() else 50))
+                job_rows = cursor.fetchall()
 
-            selected_salary_code = current_salary_info['code']
-            selected_salary_text = current_salary_info['text']
+                # 3. 區域資料解析
+                exp_stats = {r: {"exp_any": [], "exp_1to3": [], "exp_4to6": [], "exp_7to9": [], "exp_10plus": []} for r in regions.keys()}
+                region_max_counts = defaultdict(int)
 
-            # 2. 撈取資料 (改用語法比對 salary_type_code 或 salary_raw_text)[cite: 7]
-            sql = """
-                SELECT 
-                    region_group,
-                    exp_level,
-                    SUM(job_count) AS total_jobs,
-                    MIN(salary_min) AS group_min,
-                    MAX(salary_max) AS group_max,
-                    ROUND(AVG(avg_salary_mid), 1) AS group_mid
-                FROM fact_category_salary_stat
-                WHERE category_code = %s 
-                  AND (salary_type_code = %s OR salary_raw_text = %s)
-                GROUP BY region_group, exp_level
-            """
-            cursor.execute(sql, (category_code, selected_salary_code, selected_salary_text))
-            query_data = cursor.fetchall()
+                for j in job_rows:
+                    r_key = match_region_key(j.get("region_group"))
+                    if r_key not in exp_stats:
+                        r_key = "北部"
 
-            # 3. 初始化數據結構，預設 5 個年資區間皆為空資料[cite: 7]
-            regions_data = {}
-            for code, meta in REGION_MAP.items():
-                regions_data[code] = {
-                    'name': meta['name'],
-                    'color': meta['color'],
-                    'total_count': 0,
-                    'exp_data': {
-                        exp_code: {'label': label, 'min': None, 'max': None, 'mid': None, 'count': 0} 
-                        for exp_code, label in EXP_MAP.items()
-                    }
-                }
+                    cnt = j.get("job_count") or 0
+                    
+                    region_max_counts[r_key] += cnt
 
-            # 4. 將查詢結果填入結構中[cite: 7]
-            for row in query_data:
-                r_code = row['region_group']
-                exp_code = row['exp_level']
-                
-                if r_code in regions_data:
-                    regions_data[r_code]['total_count'] += (row['total_jobs'] or 0)
-                    if exp_code in regions_data[r_code]['exp_data']:
-                        regions_data[r_code]['exp_data'][exp_code].update({
-                            'min': row['group_min'],
-                            'max': row['group_max'],
-                            'mid': row['group_mid'],
-                            'count': row['total_jobs'] or 0
-                        })
+                    exp_level = str(j.get("exp_level", "不拘"))
+                    min_sal = j.get("avg_salary_min")
+                    max_sal = j.get("avg_salary_max")
+                    mid_sal = j.get("avg_salary_mid") or j.get("median_salary")
 
-    finally:
-        conn.close()
+                    if min_sal and max_sal and float(min_sal) > 0:
+                        sal_display = f"({int(float(min_sal)):,} ~ {int(float(max_sal)):,} 元)"
+                    elif mid_sal and float(mid_sal) > 0:
+                        sal_display = f"(均價約 {int(float(mid_sal)):,} 元)"
+                    else:
+                        sal_display = "(待遇面議)"
+
+                    if "10年" in exp_level:
+                        group = "exp_10plus"
+                    elif "7~9" in exp_level or "7-9" in exp_level:
+                        group = "exp_7to9"
+                    elif "4~6" in exp_level or "4-6" in exp_level:
+                        group = "exp_4to6"
+                    elif "1~3" in exp_level or "1-3" in exp_level:
+                        group = "exp_1to3"
+                    else:
+                        group = "exp_any"
+
+                    exp_stats[r_key][group].append(f"共 {cnt} 筆 {sal_display}")
+
+                # 4. 填回區域總數與細項
+                for r_key in regions.keys():
+                    regions[r_key]["count"] = region_max_counts[r_key]
+                    for g_key, info_list in exp_stats[r_key].items():
+                        if info_list:
+                            regions[r_key][g_key] = " / ".join(info_list)
+
+            conn.close()
+    except Exception as e:
+        print(f"MySQL P3 讀取失敗: {e}")
 
     return render_template(
-        'page3.html',
-        category_code=category_code,
-        available_salary_types=available_salary_types,
-        current_salary_code=selected_salary_code,
-        current_salary_text=selected_salary_text,
-        regions=regions_data,
-        exp_codes=list(EXP_MAP.keys())
+        "page3.html", 
+        category_code=category_code, 
+        category_name=category_name,
+        region_group = region_group,
+        current_salary_type=salary_type, 
+        regions=regions
     )
 
 # 區域代碼 mapping 對照表
@@ -379,37 +426,37 @@ REGION_MAP_PAGE4 = {
     'OS': '其他'
 }
 
-def load_salary_type_map():
-    salary_map = {}
-    conn = conn_to_mysql_gold()
-    if conn:
-        try:
-            with conn.cursor(pymysql.cursors.DictCursor) as cursor:
-                sql = """
-                    SELECT salary_type_code, salary_raw_text 
-                    FROM gold_db.fact_category_salary_stat
-                    GROUP BY salary_type_code, salary_raw_text
-                """
-                cursor.execute(sql)
-                rows = cursor.fetchall()
-                for row in rows:
-                    if row['salary_type_code']:
-                        # 轉為字串確保 key 類型一致 (例如 '60': '年薪(已除12月)')
-                        salary_map[str(row['salary_type_code'])] = row['salary_raw_text']
-        except Exception as e:
-            print(f"載入 SALARY_TYPE_MAP 失敗: {e}")
-        finally:
-            conn.close()
+# def load_salary_type_map():
+#     salary_map = {}
+#     conn = conn_to_mysql_gold()
+#     if conn:
+#         try:
+#             with conn.cursor(pymysql.cursors.DictCursor) as cursor:
+#                 sql = """
+#                     SELECT salary_type_code, salary_raw_text 
+#                     FROM gold_db.fact_category_salary_stat
+#                     GROUP BY salary_type_code, salary_raw_text
+#                 """
+#                 cursor.execute(sql)
+#                 rows = cursor.fetchall()
+#                 for row in rows:
+#                     if row['salary_type_code']:
+#                         # 轉為字串確保 key 類型一致 (例如 '60': '年薪(已除12月)')
+#                         salary_map[str(row['salary_type_code'])] = row['salary_raw_text']
+#         except Exception as e:
+#             print(f"載入 SALARY_TYPE_MAP 失敗: {e}")
+#         finally:
+#             conn.close()
     
-    # 若資料庫無資料或連線失敗，提供預設備用對照
-    if not salary_map:
-        salary_map = {
-            '10': '待遇面議', '20': '論件計酬', '30': '時薪',
-            '40': '日薪', '50': '月薪', '60': '年薪(已除12月)', '70': '部分工時'
-        }
-    return salary_map
+#     # 若資料庫無資料或連線失敗，提供預設備用對照
+#     if not salary_map:
+#         salary_map = {
+#             '10': '待遇面議', '20': '論件計酬', '30': '時薪',
+#             '40': '日薪', '50': '月薪', '60': '年薪(已除12月)', '70': '部分工時'
+#         }
+#     return salary_map
 
-SALARY_TYPE_MAP = load_salary_type_map()
+# SALARY_TYPE_MAP = load_salary_type_map()
 
 @app.route('/jobs', methods=['GET', 'POST'])
 def page4_jobs():
@@ -426,7 +473,7 @@ def page4_jobs():
         page = request.args.get('page', 1, type=int)
 
     # 將代碼轉為中文標籤 (若找不到對照表則維持原值，確保相容性)[cite: 8, 10]
-    salary_type_label = SALARY_TYPE_MAP.get(str(salary_type_code), salary_type_code)
+    # salary_type_label = SALARY_TYPE_MAP.get(str(salary_type_code), salary_type_code)
 
     per_page = 20  # 每頁顯示 20 筆[cite: 8]
     offset = (page - 1) * per_page
@@ -538,7 +585,7 @@ def page4_jobs():
         current_region=selected_region,
         current_region_label=current_region_label,
         salary_type=salary_type_code, # 供按鈕 URL 傳參繼續使用 code
-        salary_type_label=salary_type_label, # 供前端文字顯示
+        # salary_type_label=salary_type_label, # 供前端文字顯示
         current_page=page,
         total_pages=total_pages,
         total_count=total_count

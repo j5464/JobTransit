@@ -28,63 +28,63 @@ def init_gold_database():
 
     try:
         with gold_conn.cursor() as cursor:
-            # 建立 0. ref_skill_synonym_map
-            cursor.execute("""
-                CREATE TABLE IF NOT EXISTS ref_skill_synonym_map (
-                    raw_skill_name VARCHAR(100) NOT NULL PRIMARY KEY,
-                    std_skill_name VARCHAR(100) NULL,
-                    skill_category VARCHAR(50) NULL,
-                    create_time DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
-                    update_time DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
-                ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-            """)
+            # # 建立 0. ref_skill_synonym_map
+            # cursor.execute("""
+            #     CREATE TABLE IF NOT EXISTS ref_skill_synonym_map (
+            #         raw_skill_name VARCHAR(100) NOT NULL PRIMARY KEY,
+            #         std_skill_name VARCHAR(100) NULL,
+            #         skill_category VARCHAR(50) NULL,
+            #         create_time DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+            #         update_time DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+            #     ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+            # """)
 
-            # 建立 1. dim_skill_option
-            cursor.execute("""
-                CREATE TABLE IF NOT EXISTS dim_skill_option (
-                    skill_code VARCHAR(50) PRIMARY KEY,
-                    raw_skill_name VARCHAR(100) NULL,
-                    std_skill_name VARCHAR(100) NULL,
-                    skill_category VARCHAR(50) NULL,
-                    source_type VARCHAR(20) NULL,
-                    is_core_skill BOOLEAN DEFAULT FALSE,
-                    create_time DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
-                    update_time DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
-                ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-            """)
+            # # 建立 1. dim_skill_option
+            # cursor.execute("""
+            #     CREATE TABLE IF NOT EXISTS dim_skill_option (
+            #         skill_code VARCHAR(50) PRIMARY KEY,
+            #         raw_skill_name VARCHAR(100) NULL,
+            #         std_skill_name VARCHAR(100) NULL,
+            #         skill_category VARCHAR(50) NULL,
+            #         source_type VARCHAR(20) NULL,
+            #         is_core_skill BOOLEAN DEFAULT FALSE,
+            #         create_time DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+            #         update_time DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+            #     ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+            # """)
 
-            # 檢查並補齊 dim_skill_option.is_core_skill 欄位
-            cursor.execute("""
-                SELECT COUNT(*) FROM information_schema.COLUMNS 
-                WHERE TABLE_SCHEMA = %s AND TABLE_NAME = 'dim_skill_option' AND COLUMN_NAME = 'is_core_skill';
-            """, (gold_db,))
-            if cursor.fetchone()[0] == 0:
-                cursor.execute("ALTER TABLE dim_skill_option ADD COLUMN is_core_skill BOOLEAN DEFAULT FALSE AFTER source_type;")
+            # # 檢查並補齊 dim_skill_option.is_core_skill 欄位
+            # cursor.execute("""
+            #     SELECT COUNT(*) FROM information_schema.COLUMNS 
+            #     WHERE TABLE_SCHEMA = %s AND TABLE_NAME = 'dim_skill_option' AND COLUMN_NAME = 'is_core_skill';
+            # """, (gold_db,))
+            # if cursor.fetchone()[0] == 0:
+            #     cursor.execute("ALTER TABLE dim_skill_option ADD COLUMN is_core_skill BOOLEAN DEFAULT FALSE AFTER source_type;")
 
-            # 建立 2. fact_category_skill_weight
-            cursor.execute("""
-                CREATE TABLE IF NOT EXISTS fact_category_skill_weight (
-                    category_code VARCHAR(50) NOT NULL,
-                    category_name VARCHAR(100) NOT NULL,
-                    skill_code VARCHAR(50) NOT NULL,
-                    std_skill_name VARCHAR(100) NOT NULL,
-                    raw_skill_name VARCHAR(100) NULL,
-                    weight DECIMAL(7,4) NOT NULL,
-                    PRIMARY KEY (category_code, skill_code)
-                ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-            """)
+            # # 建立 2. fact_category_skill_weight
+            # cursor.execute("""
+            #     CREATE TABLE IF NOT EXISTS fact_category_skill_weight (
+            #         category_code VARCHAR(50) NOT NULL,
+            #         category_name VARCHAR(100) NOT NULL,
+            #         skill_code VARCHAR(50) NOT NULL,
+            #         std_skill_name VARCHAR(100) NOT NULL,
+            #         raw_skill_name VARCHAR(100) NULL,
+            #         weight DECIMAL(7,4) NOT NULL,
+            #         PRIMARY KEY (category_code, skill_code)
+            #     ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+            # """)
 
-            # 建立 3. fact_job_ratio
-            cursor.execute("""
-                CREATE TABLE IF NOT EXISTS fact_job_ratio (
-                    category_code VARCHAR(50) PRIMARY KEY,
-                    category_name VARCHAR(100) NOT NULL,
-                    job_count INT NOT NULL,
-                    category_job_ratio DECIMAL(7,4) NOT NULL
-                ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-            """)
+            # # 建立 3. fact_job_ratio
+            # cursor.execute("""
+            #     CREATE TABLE IF NOT EXISTS fact_job_ratio (
+            #         category_code VARCHAR(50) PRIMARY KEY,
+            #         category_name VARCHAR(100) NOT NULL,
+            #         job_count INT NOT NULL,
+            #         category_job_ratio DECIMAL(7,4) NOT NULL
+            #     ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+            # """)
 
-            # 建立 4. fact_category_salary_stat (含 category_name 與 median_salary)
+            # 建立 4. fact_category_salary_stat (整合所有欄位與 UNIQUE KEY 複合索引)
             cursor.execute("""
                 CREATE TABLE IF NOT EXISTS fact_category_salary_stat (
                     stat_id INT AUTO_INCREMENT PRIMARY KEY,
@@ -92,55 +92,41 @@ def init_gold_database():
                     category_name VARCHAR(100) NULL,
                     salary_type_code VARCHAR(20) NOT NULL,
                     region_group VARCHAR(20) NOT NULL,
+                    exp_level VARCHAR(50) NOT NULL DEFAULT '不限',
                     job_count INT NOT NULL,
                     avg_salary_min DECIMAL(10,2) NULL,
                     avg_salary_max DECIMAL(10,2) NULL,
                     avg_salary_mid DECIMAL(10,2) NULL,
-                    median_salary DECIMAL(10,2) NULL
+                    median_salary DECIMAL(10,2) NULL,
+                    UNIQUE KEY uk_stat_dim (category_code, salary_type_code, region_group, exp_level)
                 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
             """)
 
-            # 檢查並補齊 fact_category_salary_stat.category_name 欄位
-            cursor.execute("""
-                SELECT COUNT(*) FROM information_schema.COLUMNS 
-                WHERE TABLE_SCHEMA = %s AND TABLE_NAME = 'fact_category_salary_stat' AND COLUMN_NAME = 'category_name';
-            """, (gold_db,))
-            if cursor.fetchone()[0] == 0:
-                cursor.execute("ALTER TABLE fact_category_salary_stat ADD COLUMN category_name VARCHAR(100) NULL AFTER category_code;")
+        #     # 建立 5. fact_job_cards
+        #     cursor.execute("""
+        #         CREATE TABLE IF NOT EXISTS fact_job_cards (
+        #             job_id VARCHAR(50) NOT NULL,
+        #             bridge_job_category VARCHAR(150) NOT NULL,
+        #             category_code VARCHAR(50) NOT NULL,
+        #             salary_type_code VARCHAR(20) NOT NULL,
+        #             region_group VARCHAR(20) NOT NULL,
+        #             job_title VARCHAR(150) NOT NULL,
+        #             exp_level VARCHAR(50) NOT NULL,
+        #             company_name VARCHAR(150) NOT NULL,
+        #             industry_name VARCHAR(100) NULL,
+        #             location_text VARCHAR(100) NULL,
+        #             salary_text VARCHAR(100) NULL,
+        #             exp_edu_text VARCHAR(100) NULL,
+        #             work_mode VARCHAR(50) NULL,
+        #             skills_json JSON NULL,
+        #             job_desc_short VARCHAR(255) NULL,
+        #             job_url VARCHAR(500) NOT NULL,
+        #             create_time DATETIME NOT NULL,
+        #             PRIMARY KEY (bridge_job_category)
+        #         ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+        #     """)
 
-            # 檢查並補齊 fact_category_salary_stat.median_salary 欄位
-            cursor.execute("""
-                SELECT COUNT(*) FROM information_schema.COLUMNS 
-                WHERE TABLE_SCHEMA = %s AND TABLE_NAME = 'fact_category_salary_stat' AND COLUMN_NAME = 'median_salary';
-            """, (gold_db,))
-            if cursor.fetchone()[0] == 0:
-                cursor.execute("ALTER TABLE fact_category_salary_stat ADD COLUMN median_salary DECIMAL(10,2) NULL AFTER avg_salary_mid;")
-
-            # 建立 5. fact_job_cards
-            cursor.execute("""
-                CREATE TABLE IF NOT EXISTS fact_job_cards (
-                    job_id VARCHAR(50) NOT NULL,
-                    bridge_job_category VARCHAR(150) NOT NULL,
-                    category_code VARCHAR(50) NOT NULL,
-                    salary_type_code VARCHAR(20) NOT NULL,
-                    region_group VARCHAR(20) NOT NULL,
-                    job_title VARCHAR(150) NOT NULL,
-                    exp_level VARCHAR(50) NOT NULL,
-                    company_name VARCHAR(150) NOT NULL,
-                    industry_name VARCHAR(100) NULL,
-                    location_text VARCHAR(100) NULL,
-                    salary_text VARCHAR(100) NULL,
-                    exp_edu_text VARCHAR(100) NULL,
-                    work_mode VARCHAR(50) NULL,
-                    skills_json JSON NULL,
-                    job_desc_short VARCHAR(255) NULL,
-                    job_url VARCHAR(500) NOT NULL,
-                    create_time DATETIME NOT NULL,
-                    PRIMARY KEY (bridge_job_category)
-                ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-            """)
-
-        print("六張金表與 Mapping 對照表已全數建置/檢查更新完成！")
+        # print("六張金表與 Mapping 對照表已全數建置/檢查更新完成！")
     finally:
         gold_conn.close()
 

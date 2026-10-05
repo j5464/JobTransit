@@ -474,7 +474,7 @@ def page4_jobs():
                 where_sql = (" WHERE " + " AND ".join(where_clauses)) if where_clauses else ""
 
                 # C. 先算符合條件的【總筆數】
-                count_query = f"SELECT COUNT(DISTINCT f.job_id) AS total FROM gold_db.fact_job_search_card f {join_clause} {where_sql}"
+                count_query = f"SELECT COUNT(DISTINCT f.job_id) AS total FROM gold_db.fact_job_cards f {join_clause} {where_sql}"
                 cursor.execute(count_query, params)
                 total_count = cursor.fetchone()['total'] or 0
                 total_pages = max(1, math.ceil(total_count / per_page))
@@ -487,7 +487,7 @@ def page4_jobs():
                         f.location_text AS location, f.salary_text AS salary,
                         f.exp_edu_text AS exp, f.work_mode, f.skills_json,
                         f.job_desc_short AS desc_text, f.job_url AS url
-                    FROM gold_db.fact_job_search_card f
+                    FROM gold_db.fact_job_cards f
                     {join_clause}
                     {where_sql}
                     ORDER BY f.job_id DESC

@@ -79,7 +79,7 @@ def create_gold_tables():
 
         # 6. 第四頁之一：職缺搜尋卡片事實表 (單表反正規化，提供零 JOIN 極速查詢)
         """
-        CREATE TABLE IF NOT EXISTS gold_db.fact_job_search_card (
+        CREATE TABLE IF NOT EXISTS gold_db.fact_job_cards (
             job_id VARCHAR(50) NOT NULL COMMENT '104 職缺原始 ID (PK)',
             region_group VARCHAR(20) NOT NULL COMMENT '五大區域代碼 (N/E/S/W/OI/OS)',
             salary_type_code VARCHAR(20) NOT NULL COMMENT '薪資類型代碼 (供多重篩選使用)',

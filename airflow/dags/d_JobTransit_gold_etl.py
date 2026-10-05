@@ -8,6 +8,7 @@ from airflow.sdk import dag
 from tasks.gold_page1 import run_pipeline_page1
 from tasks.gold_page2 import run_pipeline_page2
 from tasks.gold_page4 import run_pipeline_page4
+from tasks.gold_page3 import run_pipeline_page3
 
 
 default_args = {
@@ -31,10 +32,10 @@ default_args = {
 def run_silver_all_etl():
     t1 = run_pipeline_page1()
     t2 = run_pipeline_page2()
-    # t3 = run_pipeline_page3()
-    t4 = run_pipeline_page4()
+    t3 = run_pipeline_page4()
+    t4 = run_pipeline_page3()
 
-    t1 >> t2 >> t4
+    t1 >> t2 >> t3 >> t4
 
 
 run_silver_all_etl()

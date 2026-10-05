@@ -60,6 +60,23 @@ def create_gold_tables():
         ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='第二頁專用：計算整體職缺占比與市占比';
         """,
 
+        # 5. 第三頁：薪資統計事實表 (fact_category_salary_stat)
+        """
+        CREATE TABLE IF NOT EXISTS gold_db.fact_category_salary_stat (
+            stat_id INT AUTO_INCREMENT PRIMARY KEY,
+            category_code VARCHAR(50) NOT NULL,
+            category_name VARCHAR(100) NULL,
+            salary_type_code VARCHAR(20) NOT NULL,
+            region_group VARCHAR(20) NOT NULL,
+            exp_level VARCHAR(50) NOT NULL DEFAULT '不限',
+            job_count INT NOT NULL,
+            avg_salary_min DECIMAL(10,2) NULL,
+            avg_salary_max DECIMAL(10,2) NULL,
+            avg_salary_mid DECIMAL(10,2) NULL,
+            median_salary DECIMAL(10,2) NULL,
+            UNIQUE KEY uk_stat_dim (category_code, salary_type_code, region_group, exp_level)
+        ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;"""
+
         # 6. 第四頁之一：職缺搜尋卡片事實表 (單表反正規化，提供零 JOIN 極速查詢)
         """
         CREATE TABLE IF NOT EXISTS gold_db.fact_job_search_card (

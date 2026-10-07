@@ -1,0 +1,5 @@
+Flask==3.0.3
+PyMySQL==1.1.0
+#更新gunicorn版本
+gunicorn==21.2.0
+python-dotenv==1.0.1

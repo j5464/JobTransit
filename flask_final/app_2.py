@@ -17,9 +17,11 @@ def conn_to_mysql_gold():
     db_name = os.getenv("MYSQL_GOLD_DATABASE")
     user = os.getenv("MYSQL_USER")
     password = os.getenv("MYSQL_ROOT_PASSWORD")
-    conn_ip = "127.0.0.1" or os.getenv("MYSQL_HOST")
+    #conn_ip = "127.0.0.1" or os.getenv("MYSQL_HOST")
+    conn_ip = os.environ["MYSQL_HOST"]
     raw_port = os.getenv("MYSQL_PORT")
-    port = int(raw_port) if raw_port else 3307
+    #port = int(raw_port) if raw_port else 3307
+    port = int(os.getenv("MYSQL_PORT", "3307"))
     print(f"Connecting to: host={conn_ip}, port={port}, user={user}, db={db_name}")
     try:
         return connect(
@@ -544,6 +546,13 @@ def page4_jobs():
         total_count=total_count
     )
 
-if __name__ == '__main__':
-    conn_to_mysql_gold()
-    app.run(debug=True, port=5000)
+# if __name__ == '__main__':
+#     conn_to_mysql_gold()
+#     app.run(debug=True, port=5000)
+
+if __name__ == "__main__":
+    app.run(
+        host="127.0.0.1",
+        port=int(os.getenv("PORT", "5000")),
+        debug=os.getenv("FLASK_DEBUG", "0") == "1",
+    )

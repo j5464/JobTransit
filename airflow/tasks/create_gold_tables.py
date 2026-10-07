@@ -75,7 +75,8 @@ def create_gold_tables():
             avg_salary_mid DECIMAL(10,2) NULL,
             median_salary DECIMAL(10,2) NULL,
             UNIQUE KEY uk_stat_dim (category_code, salary_type_code, region_group, exp_level)
-        ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;"""
+        ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='第三頁帶入職業、薪資類型與區域，直接拉取預先聚合之薪資統計數據';
+        """,
 
         # 6. 第四頁之一：職缺搜尋卡片事實表 (單表反正規化，提供零 JOIN 極速查詢)
         """

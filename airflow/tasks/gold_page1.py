@@ -281,6 +281,54 @@ def save_to_mapping_and_gold(processed_data,conn):
         print(f"資料庫更新失敗: {e}")
         conn.rollback()
 
+def join_option_table(conn):
+    """第一頁金表join對照表，將 std_skill_name 與 skill_category 寫入 dim_skill_option"""
+    try:
+        with conn.cursor() as cursor:
+            sql_join = """
+                INSERT INTO gold_db.dim_skill_option (
+                skill_code,
+                raw_skill_name,
+                std_skill_name,
+                skill_category,
+                source_type
+                )
+                SELECT * FROM
+                (
+                SELECT
+                rs.skill_code,
+                rs.raw_skill_name,
+                m.std_skill_name,
+                m.skill_category,
+                rs.source_type
+                FROM gold_db.dim_skill_option rs
+                -- 3. 透過 raw_skill_name 關聯對照表以帶出標準名稱與分類
+                LEFT JOIN gold_db.ref_skill_synonym_map m
+                ON rs.raw_skill_name = m.raw_skill_name)
+                AS new_data
+                ON DUPLICATE KEY UPDATE
+                raw_skill_name = new_data.raw_skill_name,
+                std_skill_name = new_data.std_skill_name,
+                skill_category = new_data.skill_category,
+                source_type = new_data.source_type;
+            """
+
+            # 執行 SQL 指令
+            print("正在join gold_db.dim_skill_option...")
+            cursor.execute(sql_join)
+            
+        # 提交事務 (Transaction Commit)
+        conn.commit()
+        print("join option table 寫入成功！")
+        return True
+
+    except Exception as e:
+        # 發生例外時回滾，確保資料一致性
+        if conn:
+            conn.rollback()
+        print(f"執行 join option table 時發生錯誤: {e}")
+        raise e
+    
 @task
 def run_pipeline_page1():
     #載入.env 到環境變數
@@ -346,6 +394,8 @@ def run_pipeline_page1():
                                 flush=True,
                             )
             loop_count += 1
+
+        join_option_table(conn)
 
     finally:
         # 💡 在所有 Task 執行完成後，於主流程統一關閉連線

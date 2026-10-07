@@ -9,12 +9,12 @@ def insert_into_page4(conn):
     try:
         with conn.cursor() as cursor:
             sql_truncate = [
-                "TRUNCATE TABLE gold_db.fact_job_search_card;",
+                "TRUNCATE TABLE gold_db.fact_job_cards;",
                 "TRUNCATE TABLE gold_db.bridge_job_category;"
             ]
 
             sql_insert_card = """
-            INSERT INTO gold_db.fact_job_search_card (
+            INSERT INTO gold_db.fact_job_cards (
                 job_id,
                 region_group,
                 salary_type_code,
@@ -90,10 +90,11 @@ def insert_into_page4(conn):
             sql_insert_category = """
             INSERT INTO gold_db.bridge_job_category (
                 job_id,
-                category_code
+                category_code,
+                category_name
             )
-            SELECT j.job_id, ca.category_code FROM
-                (SELECT job_id, category_code FROM silver_db.job_category) ca
+            SELECT j.job_id, ca.category_code, ca.category_description FROM
+                (SELECT job_id, category_code,category_description FROM silver_db.job_category) ca
             join
                 (SELECT job_id, url_status FROM silver_db.job
                 where url_status = 'on') j
@@ -105,7 +106,7 @@ def insert_into_page4(conn):
                 cursor.execute(sql)
             print("開始第四頁寫入最新資料...")
             cursor.execute(sql_insert_card)
-            print(f"fact_job_search_card 寫入完成！")
+            print(f"fact_job_cards 寫入完成！")
             cursor.execute(sql_insert_category)
             print(f"bridge_job_category 寫入完成！")
             

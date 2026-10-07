@@ -43,7 +43,7 @@ def conn_to_mysql(
             password=password,
             database=db_name,
             connect_timeout=10,  # 10秒連不上自動拋出例外
-            read_timeout=30,     # 讀寫超過30秒自動中斷，避免無效卡死
+            read_timeout=300,     # 讀寫超過30秒自動中斷，避免無效卡死
             write_timeout=30,    # 寫入超過30秒自動中斷，避免無效卡死
             autocommit=False
         )

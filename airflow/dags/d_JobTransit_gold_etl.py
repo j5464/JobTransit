@@ -20,13 +20,13 @@ default_args = {
 
 
 @dag(
-    dag_id="d_JobTransit_silver_etl",
+    dag_id="d_JobTransit_gold_etl",
     default_args=default_args,
-    description="清洗 MongoDB job_details 並寫入 MySQL Silver 表",
+    description="清洗 MongoDB job_details 並寫入 MySQL Gold 表",
     schedule=None,  # <--- 設定為 None，表示無定時排程，僅支援手動觸發 (Manual Trigger)
     start_date=pendulum.datetime(2026, 9, 9, tz="Asia/Taipei"),
     catchup=False,
-    tags=["jobtransit", "silver", "etl"],
+    tags=["jobtransit", "gold", "etl"],
 )
 
 def run_gold_all_etl():

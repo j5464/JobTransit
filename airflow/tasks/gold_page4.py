@@ -90,10 +90,11 @@ def insert_into_page4(conn):
             sql_insert_category = """
             INSERT INTO gold_db.bridge_job_category (
                 job_id,
-                category_code
+                category_code,
+                category_name
             )
-            SELECT j.job_id, ca.category_code FROM
-                (SELECT job_id, category_code FROM silver_db.job_category) ca
+            SELECT j.job_id, ca.category_code, ca.category_description FROM
+                (SELECT job_id, category_code,category_description FROM silver_db.job_category) ca
             join
                 (SELECT job_id, url_status FROM silver_db.job
                 where url_status = 'on') j

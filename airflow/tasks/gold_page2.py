@@ -84,6 +84,7 @@ def job_weight_first_phase_insert(conn):
                 SELECT COUNT(DISTINCT job_id) AS total_distinct_count 
                 FROM silver_db.job_category
             ) t
+            WHERE c.category_code like '2007%'  -- 只計算職業類別代碼以 '2007' 開頭的資料
             GROUP BY c.category_code, c.category_description, t.total_distinct_count
             ) AS new_data
             ON DUPLICATE KEY UPDATE

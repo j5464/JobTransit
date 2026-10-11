@@ -1,4 +1,6 @@
+#本compose為本地測試網頁開發用途
 #執行本地測試compose指令：docker-compose -f docker-compose.dev.yml up -d
+#若有微調 可執行重啟指令：docker-compose -f docker-compose.dev.yml up -d --build
 
 #啟用： docker-compose up -d
 #先uv sync後到指定虛擬環境(應該會自動執行)

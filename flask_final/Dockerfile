@@ -11,11 +11,12 @@ RUN pip install --no-cache-dir -r requirements.txt
 # 4. 指定放入映像檔的檔案
 COPY app_2.py ./
 COPY templates/ ./templates/
+COPY static/ ./static/
 
 # 5. Flask 開發預設跑在 5000 port 但考量未來cloud run的正式版的一致性，調整成 8080 port
 EXPOSE 8080
 
-# 6. 正式容器以 Gunicorn 啟動；Cloud Run 會透過 PORT 指定連接埠；將存取及錯誤日誌送到平台可收集的位置；impoert app_2.py中的app
+# 6. 正式容器以 Gunicorn 啟動；Cloud Run 會透過 PORT 指定連接埠；將存取及錯誤日誌送到平台可收集的位置；import app_2.py中的app
 CMD ["sh", "-c", "exec gunicorn --bind 0.0.0.0:${PORT:-8080} --access-logfile - --error-logfile - app_2:app"]
 
 # 建置時輸入

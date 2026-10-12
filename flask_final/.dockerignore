@@ -1,0 +1,26 @@
+# 本地帳密與環境設定
+.env
+.env.*
+**/.env
+**/.env.*
+
+# 本地 Python 環境
+.venv/
+venv/
+
+# Python 快取
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# 開發工具與版本控制
+.git/
+.vscode/
+.idea/
+
+# 非網站執行必要的檔案
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+secrets/

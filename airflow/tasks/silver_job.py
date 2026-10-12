@@ -15,14 +15,14 @@ def import_job_part1_to_mysql(cleaned_data_list_p1):
             job_type_code, work_exp_requirement, edu_requirement, postal_code, address_region,
             address_area, address_detail, landmark, longitude, latitude,
             remote_work_status, need_emp_count_text, hr_behavior_pr, contact_email,
-            analysis_url, updated_at, source_batch_id, url_status
+            analysis_url, updated_at, source_batch_id
         ) VALUES (
             %(job_id)s, %(cust_no)s, %(job_name)s, %(appear_date)s, %(close_date)s,
             %(salary_raw_text)s, %(salary_min)s, %(salary_max)s, %(salary_type_code)s, %(is_salary_negotiable)s,
             %(job_type_code)s, %(work_exp_requirement)s, %(edu_requirement)s, %(postal_code)s, %(address_region)s,
             %(address_area)s, %(address_detail)s, %(landmark)s, %(longitude)s, %(latitude)s,
             %(remote_work_status)s, %(need_emp_count_text)s, %(hr_behavior_pr)s, %(contact_email)s,
-            %(analysis_url)s, %(updated_at)s, %(source_batch_id)s, %(url_status)s
+            %(analysis_url)s, %(updated_at)s, %(source_batch_id)s
         )
         ON DUPLICATE KEY UPDATE
             cust_no = VALUES(cust_no),
@@ -50,8 +50,7 @@ def import_job_part1_to_mysql(cleaned_data_list_p1):
             contact_email = VALUES(contact_email),
             analysis_url = VALUES(analysis_url),
             updated_at = VALUES(updated_at),
-            source_batch_id = VALUES(source_batch_id),
-            url_status = VALUES(url_status);
+            source_batch_id = VALUES(source_batch_id);
     """
     run_mysql_upsert(sql, cleaned_data_list_p1)
 
@@ -307,7 +306,6 @@ def silver_job_mongodb_to_mysql(filter_by_date: bool = True):
             "analysis_url": doc.get("analysis_url"),
             "updated_at": doc.get("updated_at"),
             "source_batch_id": doc.get("source_batch_id"),
-            "url_status": doc.get("url_status"),
         })
 
         # 拆分 2: 巨量長文字與補充欄位

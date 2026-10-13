@@ -290,9 +290,9 @@ def page3():
     category_name_req = request.form.get("category_name") or request.args.get("category_name")
 
     # 確保 salary_type 預設為 '50' (月薪)
-    salary_type = str(request.args.get("salary_type", "50")).strip()
+    salary_type = str(request.args.get("salary_type", "60")).strip()
     if not salary_type or salary_type == 'None':
-        salary_type = "50"
+        salary_type = "60"
 
     if not category_code or not category_code.strip():
         category_code = "2010002005"
